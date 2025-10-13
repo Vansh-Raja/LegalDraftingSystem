@@ -1,6 +1,7 @@
 pdfminer.six
 python-dotenv
 openai
+langchain-openai
 tqdm
 ollama
 langchain_community
@@ -9,3 +10,4 @@ langchain-core
 langchain-postgres
 langchain-ollama
 psycopg2
+streamlit

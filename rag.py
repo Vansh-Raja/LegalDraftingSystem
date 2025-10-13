@@ -1,7 +1,7 @@
 from pathlib import Path
 import json
 import os
-from typing import List
+from typing import List, Optional, Tuple, Dict, Any
 
 from dotenv import load_dotenv
 from langchain_community.document_loaders import TextLoader
@@ -11,6 +11,8 @@ from langchain_postgres.vectorstores import PGVector
 from langchain_ollama import OllamaEmbeddings
 from langchain_ollama import ChatOllama
 from langchain.chains import RetrievalQA
+from langchain_openai import ChatOpenAI
+from pydantic import BaseModel
 
 
 # Default collection name for PGVector
@@ -204,7 +206,7 @@ def get_vectorstore(
     )
 
 
-def build_retriever(vectorstore: PGVector, statute_filters: list[str] | None = None, court_name: str | None = "Supreme Court", k: int = 6):
+def build_retriever(vectorstore: PGVector, statute_filters: list[str] | None = None, court_name: str | None = "Supreme Court of India", k: int = 6):
     """Create a retriever with metadata filters (JSONB)."""
     filter_dict: dict = {}
     if statute_filters:
@@ -255,4 +257,287 @@ def maybe_full_case(
         return p if p.exists() else None
     return None
 
+
+# ---------------------- Filtering LLM: Planner & Assembler ----------------------
+
+class ChunkRef(BaseModel):
+    file_stem: str
+    chunk_index: int
+
+
+class ReasonFullDoc(BaseModel):
+    file_stem: str
+    reason: str
+
+
+class ReasonChunk(BaseModel):
+    file_stem: str
+    chunk_index: int
+    reason: str
+
+
+class FiltrationPlan(BaseModel):
+    selected_full_docs: List[str] = []
+    selected_chunks: List[ChunkRef] = []
+    drop_chunks: List[ChunkRef] = []
+    context_budget_tokens: int = 6000
+    reasoning_full_docs: List[ReasonFullDoc] = []
+    reasoning_chunks: List[ReasonChunk] = []
+    overall_reasoning: Optional[str] = None
+    notes: Optional[str] = None
+
+
+def _build_chunk_previews(docs: List[Document], max_chars: int = 800) -> List[dict]:
+    previews = []
+    for d in docs:
+        m = d.metadata or {}
+        previews.append({
+            "file_stem": m.get("file_stem"),
+            "chunk_index": m.get("chunk_index", -1),
+            "court_name": m.get("court_name"),
+            "case_number": m.get("case_number"),
+            "date_of_judgment": m.get("date_of_judgment"),
+            "legal_provisions_cited": m.get("legal_provisions_cited", []),
+            "preview": (d.page_content or "").strip().replace("\n", " ")[:max_chars],
+        })
+    return previews
+
+
+def filtration_retriever(user_q: str, docs: List[Document]) -> FiltrationPlan:
+    """Use GPT-5-Nano as filtration retriever to select full docs and chunks. Ollama is not used here."""
+    if not docs:
+        return FiltrationPlan(selected_full_docs=[], selected_chunks=[], drop_chunks=[], context_budget_tokens=6000)
+
+    load_dotenv()
+    api_key = os.getenv("OPENAI_KEY")
+    if not api_key:
+        # No OpenAI key; return empty plan to trigger fallback upstream
+        return FiltrationPlan(selected_full_docs=[], selected_chunks=[], drop_chunks=[], context_budget_tokens=6000)
+
+    previews = _build_chunk_previews(docs)
+    system_msg = (
+        "You are a legal expert filtration retriever. You will receive a user question and previews of chunks "
+        "retrieved by a RAG system from a legal judgments database. Your job is to: (1) select only the most relevant chunks, "
+        "(2) request full-document retrieval for specific cases if the question likely requires full-case context (e.g., a full summary is requested, or previews don't contain the key answer but clearly belong to the target case), and (3) propose a context budget.\n\n"
+        "Strict rules:\n"
+        "- Prefer chunks/cases whose previews contain exact or near-exact mentions from the question (party names, case number, court, date).\n"
+        "- If the question clearly names a specific case, prioritize that case.\n"
+        "- You may request ANY number of full documents, but be mindful and include only those truly necessary.\n"
+        "- Remove irrelevant chunks to keep the context concise.\n"
+        "- Output STRICT JSON matching the schema only (no prose).\n"
+        "- You MUST include concise reasoning for each selected_full_docs item and each selected_chunks item (short phrase per item), and set overall_reasoning with a 1-2 sentence summary. Do not leave reasoning arrays empty.\n"
+        "- Suggest an appropriate context_budget_tokens (e.g., 6000-20000) considering model limits.\n"
+        "- Do NOT use external knowledge beyond the provided previews."
+    )
+    user_payload = {
+        "question": user_q,
+        "chunks": previews,
+        "schema": {
+            "selected_full_docs": ["<file_stem>"],
+            "selected_chunks": [{"file_stem": "<file_stem>", "chunk_index": 0}],
+            "drop_chunks": [{"file_stem": "<file_stem>", "chunk_index": 0}],
+            "context_budget_tokens": 6000,
+            "reasoning_full_docs": [{"file_stem": "<file_stem>", "reason": "why this case is needed"}],
+            "reasoning_chunks": [{"file_stem": "<file_stem>", "chunk_index": 0, "reason": "why this chunk"}],
+            "overall_reasoning": "optional global rationale",
+            "notes": "optional short note"
+        }
+    }
+
+    try:
+        llm = ChatOpenAI(model="gpt-5-nano-2025-08-07", temperature=0)
+        structured = llm.with_structured_output(FiltrationPlan)
+        plan: FiltrationPlan = structured.invoke([
+            ("system", system_msg),
+            ("user", json.dumps(user_payload)),
+        ])
+        # Ensure reasoning arrays are populated
+        if not plan.reasoning_full_docs and plan.selected_full_docs:
+            plan.reasoning_full_docs = [ReasonFullDoc(file_stem=fs, reason="matches query / necessary context") for fs in plan.selected_full_docs]
+        if not plan.reasoning_chunks and plan.selected_chunks:
+            plan.reasoning_chunks = [ReasonChunk(file_stem=c.file_stem, chunk_index=c.chunk_index, reason="directly relevant to question") for c in plan.selected_chunks]
+        if not plan.overall_reasoning:
+            plan.overall_reasoning = "Selected items optimize relevance to the question while controlling context size."
+        return plan
+    except Exception:
+        # Default safe heuristic: dominant case + top 2 chunks
+        from collections import Counter
+        stems = [d.metadata.get("file_stem") for d in docs if d.metadata.get("file_stem")]
+        sel_full: List[str] = []
+        sel_chunks: List[ChunkRef] = []
+        if stems:
+            dominant, _ = Counter(stems).most_common(1)[0]
+            sel_full = [dominant]
+        for d in docs[:2]:
+            fs = d.metadata.get("file_stem")
+            ci = d.metadata.get("chunk_index", 0)
+            if fs is not None:
+                sel_chunks.append(ChunkRef(file_stem=fs, chunk_index=ci))
+        return FiltrationPlan(selected_full_docs=sel_full, selected_chunks=sel_chunks, drop_chunks=[], context_budget_tokens=6000)
+
+
+def _token_estimate_from_chars(chars: int) -> int:
+    return max(1, chars // 4)
+
+
+def _windows_around_terms(text: str, query: str, budget_tokens: int) -> Tuple[str, List[Tuple[int, int]]]:
+    budget_chars = budget_tokens * 4
+    raw_lc = text.lower()
+    qtokens = [t for t in (query.lower().replace(" v. ", " vs "))
+               .split() if t.isalpha() and len(t) > 2]
+    positions = []
+    for t in set(qtokens):
+        start = 0
+        hits = 0
+        while True:
+            pos = raw_lc.find(t, start)
+            if pos == -1 or hits >= 5:
+                break
+            positions.append(pos)
+            start = pos + max(1, len(t))
+            hits += 1
+    positions = sorted(set(positions))
+    if not positions:
+        # Head + tail fallback
+        head = text[: budget_chars // 2]
+        tail = text[- budget_chars // 2 :]
+        used = head + "\n\n...\n\n" + tail
+        return used, [(0, len(head)), (len(text) - len(tail), len(text))]
+
+    win_half = max(2000, budget_chars // 8)
+    windows: List[Tuple[int, int]] = []
+    for p in positions:
+        s = max(0, p - win_half)
+        e = min(len(text), p + win_half)
+        windows.append((s, e))
+
+    # Merge windows
+    merged: List[Tuple[int, int]] = []
+    for s, e in sorted(windows):
+        if not merged or s > merged[-1][1] + 50:
+            merged.append([s, e])
+        else:
+            merged[-1][1] = max(merged[-1][1], e)
+
+    parts = []
+    total = 0
+    spans: List[Tuple[int, int]] = []
+    for s, e in merged:
+        seg_len = e - s
+        if total + seg_len > budget_chars:
+            if budget_chars - total <= 0:
+                break
+            e = s + (budget_chars - total)
+            seg_len = e - s
+        parts.append(text[s:e])
+        spans.append((s, e))
+        total += seg_len
+        if total >= budget_chars:
+            break
+    used = "\n\n...\n\n".join(parts)
+    return used, spans
+
+
+def assemble_context_from_plan(
+    plan: FiltrationPlan,
+    user_q: str,
+    vectorstore: PGVector,
+    txt_dir: str = "processed_data/txt_data",
+    budget_tokens: Optional[int] = None,
+    initial_docs: Optional[List[Document]] = None,
+) -> Tuple[str, List[Document], Dict[str, Any]]:
+    """Assemble a budgeted context string from the plan; return context, source docs, and debug info."""
+    budget = plan.context_budget_tokens if (budget_tokens is None) else budget_tokens
+    used_docs: List[Document] = []
+    assembled_parts: List[str] = []
+    spans_debug: List[Tuple[int, int, str]] = []  # (start, end, file)
+
+    # 1) Full documents windows
+    for fs in plan.selected_full_docs:
+        fp = Path(txt_dir) / f"{fs}.txt"
+        if not fp.exists():
+            continue
+        raw = fp.read_text(encoding="utf-8")
+        segment, spans = _windows_around_terms(raw, user_q, budget)
+        assembled_parts.append(segment)
+        for s, e in spans:
+            spans_debug.append((s, e, f"{fs}.txt"))
+
+    # 2) Selected chunks: pull from initial_docs when available, else query vectorstore by file_stem and filter by chunk_index
+    selected_map = {(c.file_stem, c.chunk_index) for c in plan.selected_chunks}
+    selected_chunks_text: List[str] = []
+    if selected_map:
+        # try to include from initial_docs to preserve exact chunks without extra calls
+        if initial_docs:
+            for d in initial_docs:
+                fs = (d.metadata or {}).get("file_stem")
+                ci = (d.metadata or {}).get("chunk_index")
+                if fs is not None and ci is not None and (fs, ci) in selected_map:
+                    selected_chunks_text.append(d.page_content or "")
+        # if still missing, try pulling via similarity search filtered by file_stem, then filter by chunk_index
+        remaining = selected_map.copy()
+        if initial_docs:
+            for d in initial_docs:
+                fs = (d.metadata or {}).get("file_stem")
+                ci = (d.metadata or {}).get("chunk_index")
+                if fs is not None and ci is not None and (fs, ci) in remaining:
+                    remaining.discard((fs, ci))
+        for (fs, ci) in list(remaining):
+            try:
+                # fetch a reasonably large set from that file and filter locally
+                batch = vectorstore.similarity_search(user_q, k=50, filter={"file_stem": fs})
+                for bd in batch:
+                    if (bd.metadata or {}).get("chunk_index") == ci:
+                        selected_chunks_text.append(bd.page_content or "")
+                        break
+            except Exception:
+                continue
+    # add selected chunks respecting remaining budget
+    if selected_chunks_text:
+        budget_chars = budget * 4
+        current_chars = sum(len(p) for p in assembled_parts)
+        for txt in selected_chunks_text:
+            if current_chars + len(txt) + 2 > budget_chars:
+                break
+            assembled_parts.append(txt)
+            current_chars += len(txt) + 2
+
+    context = "\n\n---\n\n".join(assembled_parts) if assembled_parts else ""
+    est_tokens = _token_estimate_from_chars(len(context))
+    debug: Dict[str, Any] = {
+        "spans": spans_debug,
+        "est_tokens": est_tokens,
+        "selected_full_docs": plan.selected_full_docs,
+        "selected_chunks_count": len(plan.selected_chunks),
+    }
+    return context, used_docs, debug
+
+
+# ---------------------- Named-case guard helpers ----------------------
+
+def _named_case_candidates(user_q: str, docs: List[Document]) -> List[str]:
+    q = user_q.lower().replace(" v. ", " vs ")
+    toks = [t for t in q.split() if t.isalpha() and len(t) > 2]
+    if not toks:
+        return []
+    scored: Dict[str, int] = {}
+    for d in docs:
+        fs = (d.metadata or {}).get("file_stem")
+        if not fs:
+            continue
+        txt = ((d.page_content or "") + " " + json.dumps(d.metadata or {})).lower()
+        hits = sum(1 for t in set(toks) if t in txt)
+        if hits:
+            scored[fs] = max(scored.get(fs, 0), hits)
+    return [fs for fs, _ in sorted(scored.items(), key=lambda x: -x[1])]
+
+
+def apply_named_case_guard(plan: FiltrationPlan, user_q: str, docs: List[Document]) -> FiltrationPlan:
+    must = _named_case_candidates(user_q, docs)
+    if not must:
+        return plan
+    top = must[0]
+    if top not in plan.selected_full_docs:
+        plan.selected_full_docs = [top] + plan.selected_full_docs
+    return plan
 
