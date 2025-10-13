@@ -19,7 +19,7 @@ from pydantic import BaseModel
 COLLECTION_NAME = "langchain"
 
 
-def load_case_docs(txt_dir: str = "processed_data/txt_data", meta_dir: str = "processed_data/metadata") -> List[Document]:
+def load_case_docs(txt_dir: str = "processed_data/txt_data", meta_dir: str = "processed_data/metadata", only_with_metadata: bool = False) -> List[Document]:
     docs: List[Document] = []
     txt_path = Path(txt_dir)
     meta_path = Path(meta_dir)
@@ -30,6 +30,8 @@ def load_case_docs(txt_dir: str = "processed_data/txt_data", meta_dir: str = "pr
         loaded = loader.load()
         meta = {}
         meta_file = meta_path / f"{txt.stem}.json"
+        if only_with_metadata and not meta_file.exists():
+            continue
         if meta_file.exists():
             try:
                 meta = json.loads(meta_file.read_text(encoding="utf-8"))
@@ -94,8 +96,9 @@ def load_and_chunk_cases(
     meta_dir: str = "processed_data/metadata",
     chunk_size: int = 2000,
     chunk_overlap: int = 400,
+    only_with_metadata: bool = False,
 ) -> List[Document]:
-    base_docs = load_case_docs(txt_dir=txt_dir, meta_dir=meta_dir)
+    base_docs = load_case_docs(txt_dir=txt_dir, meta_dir=meta_dir, only_with_metadata=only_with_metadata)
     return chunk_documents(base_docs, chunk_size=chunk_size, chunk_overlap=chunk_overlap)
 
 
@@ -303,8 +306,11 @@ def _build_chunk_previews(docs: List[Document], max_chars: int = 800) -> List[di
     return previews
 
 
-def filtration_retriever(user_q: str, docs: List[Document]) -> FiltrationPlan:
-    """Use GPT-5-Nano as filtration retriever to select full docs and chunks. Ollama is not used here."""
+def filtration_retriever(user_q: str, docs: List[Document], mode: str = "chunk", case_metadatas: Optional[List[dict]] = None) -> FiltrationPlan:
+    """Use GPT-5-Nano as filtration retriever to select full docs and chunks.
+    mode: "chunk" uses chunk previews (+ optional case metadata); "metadata" uses only case metadata.
+    Ollama is not used here.
+    """
     if not docs:
         return FiltrationPlan(selected_full_docs=[], selected_chunks=[], drop_chunks=[], context_budget_tokens=6000)
 
@@ -314,10 +320,10 @@ def filtration_retriever(user_q: str, docs: List[Document]) -> FiltrationPlan:
         # No OpenAI key; return empty plan to trigger fallback upstream
         return FiltrationPlan(selected_full_docs=[], selected_chunks=[], drop_chunks=[], context_budget_tokens=6000)
 
-    previews = _build_chunk_previews(docs)
+    previews = _build_chunk_previews(docs) if mode == "chunk" else []
     system_msg = (
         "You are a legal expert filtration retriever. You will receive a user question and previews of chunks "
-        "retrieved by a RAG system from a legal judgments database. Your job is to: (1) select only the most relevant chunks, "
+        "retrieved by a RAG system from a legal judgments database (and sometimes case-level metadata). Your job is to: (1) select only the most relevant chunks, "
         "(2) request full-document retrieval for specific cases if the question likely requires full-case context (e.g., a full summary is requested, or previews don't contain the key answer but clearly belong to the target case), and (3) propose a context budget.\n\n"
         "Strict rules:\n"
         "- Prefer chunks/cases whose previews contain exact or near-exact mentions from the question (party names, case number, court, date).\n"
@@ -327,11 +333,14 @@ def filtration_retriever(user_q: str, docs: List[Document]) -> FiltrationPlan:
         "- Output STRICT JSON matching the schema only (no prose).\n"
         "- You MUST include concise reasoning for each selected_full_docs item and each selected_chunks item (short phrase per item), and set overall_reasoning with a 1-2 sentence summary. Do not leave reasoning arrays empty.\n"
         "- Suggest an appropriate context_budget_tokens (e.g., 6000-20000) considering model limits.\n"
-        "- Do NOT use external knowledge beyond the provided previews."
+        "- Do NOT use external knowledge beyond the provided previews or metadata."
+        "- When case-level metadata is provided, use it to disambiguate parties/court/sections and prefer exact matches."
     )
     user_payload = {
         "question": user_q,
+        "mode": mode,
         "chunks": previews,
+        "cases": (case_metadatas or []),
         "schema": {
             "selected_full_docs": ["<file_stem>"],
             "selected_chunks": [{"file_stem": "<file_stem>", "chunk_index": 0}],
@@ -452,16 +461,26 @@ def assemble_context_from_plan(
     assembled_parts: List[str] = []
     spans_debug: List[Tuple[int, int, str]] = []  # (start, end, file)
 
-    # 1) Full documents windows
+    # 1) Full documents windows (include whole doc if it fits budget)
     for fs in plan.selected_full_docs:
         fp = Path(txt_dir) / f"{fs}.txt"
         if not fp.exists():
             continue
         raw = fp.read_text(encoding="utf-8")
-        segment, spans = _windows_around_terms(raw, user_q, budget)
-        assembled_parts.append(segment)
-        for s, e in spans:
-            spans_debug.append((s, e, f"{fs}.txt"))
+        header = f"[file: {fs}.txt]\n"
+        budget_chars = budget * 4
+        current_chars = sum(len(p) for p in assembled_parts)
+        remaining = max(0, budget_chars - current_chars)
+        if len(header) + len(raw) <= remaining:
+            assembled_parts.append(header + raw)
+            # record span as whole file
+            spans_debug.append((0, len(raw), f"{fs}.txt"))
+        else:
+            segment, spans = _windows_around_terms(raw, user_q, max(1, remaining // 4))
+            if segment:
+                assembled_parts.append(header + segment)
+                for s, e in spans:
+                    spans_debug.append((s, e, f"{fs}.txt"))
 
     # 2) Selected chunks: pull from initial_docs when available, else query vectorstore by file_stem and filter by chunk_index
     selected_map = {(c.file_stem, c.chunk_index) for c in plan.selected_chunks}
@@ -499,6 +518,7 @@ def assemble_context_from_plan(
         for txt in selected_chunks_text:
             if current_chars + len(txt) + 2 > budget_chars:
                 break
+            # best effort: try to infer file name from chunk header if present upstream, else omit
             assembled_parts.append(txt)
             current_chars += len(txt) + 2
 

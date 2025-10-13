@@ -56,6 +56,50 @@ def _truncate_text(text: str, max_chars: int = 12000) -> str:
     return cleaned
 
 
+def _is_empty_metadata(data: dict) -> bool:
+    """Return True if data matches the empty fallback schema."""
+    try:
+        return (
+            data.get("case_number", "") == ""
+            and isinstance(data.get("parties", {}), dict)
+            and data.get("parties", {}).get("petitioner", "") == ""
+            and data.get("parties", {}).get("respondent", "") == ""
+            and data.get("court_name", "") == ""
+            and data.get("date_of_judgment", "") == ""
+            and data.get("summary", "") == ""
+            and isinstance(data.get("legal_provisions_cited", []), list)
+            and len(data.get("legal_provisions_cited", [])) == 0
+            and data.get("final_judgment", "") == ""
+        )
+    except Exception:
+        return False
+
+
+def _extract_text_from_responses(resp) -> str:
+    """Best-effort extraction of text from Responses API reply."""
+    # openai>=1.40 exposes output_text convenience
+    try:
+        txt = getattr(resp, "output_text", None)
+        if isinstance(txt, str) and txt:
+            return txt
+    except Exception:
+        pass
+    # Fall back to walking the structure
+    try:
+        outputs = getattr(resp, "output", None) or []
+        for out in outputs:
+            content = getattr(out, "content", None) or []
+            for c in content:
+                if getattr(c, "type", None) == "output_text":
+                    return getattr(c, "text", "")
+                # some SDKs use {type: "text"}
+                if getattr(c, "type", None) == "text":
+                    return getattr(c, "text", "")
+    except Exception:
+        pass
+    return ""
+
+
 def extract_metadata_with_openrouter(text: str) -> dict:
     """Use OpenRouter via OpenAI client to extract structured metadata and return a dict."""
     load_dotenv()
@@ -117,6 +161,69 @@ def extract_metadata_with_openrouter(text: str) -> dict:
         return _ensure_json_dict("")
 
 
+def extract_metadata_with_openai_nano(text: str) -> dict:
+    """Use OpenAI gpt-5-nano-2025-08-07 to extract structured metadata and return a dict."""
+    load_dotenv()
+    api_key = os.getenv("OPENAI_KEY")
+    client = OpenAI(api_key=api_key)
+    system_msg = (
+        "You are a legal document metadata extractor. Respond with strictly valid JSON ONLY (no prose). "
+        "Schema with exact keys: {\"case_number\": string, \"parties\": {\"petitioner\": string, \"respondent\": string}, "
+        "\"court_name\": string, \"date_of_judgment\": string, \"summary\": string, \"legal_provisions_cited\": [string], \"final_judgment\": string}. "
+        "Summary style: concise, keyword-dense, factual; prioritize issues, standards, reasoning, and disposition; minimize adjectives. "
+        "If any field is unknown, use empty strings or an empty array."
+    )
+    example_json = (
+        "{"
+        "\"case_number\": \"\", \"parties\": {\"petitioner\": \"\", \"respondent\": \"\"}, "
+        "\"court_name\": \"\", \"date_of_judgment\": \"\", \"summary\": \"\", \"legal_provisions_cited\": [], \"final_judgment\": \"\""
+        "}"
+    )
+    processed_text = _truncate_text(text)
+    user_msg = (
+        "Extract the metadata for the following judgment. Return JSON only, matching the schema.\n\n"
+        "Example JSON (follow format, adapt content):\n" + example_json + "\n\n"
+        "Text (truncated if long):\n" + processed_text + "\n\nJSON:"
+    )
+    try:
+        # Prefer Responses API for gpt-5-nano
+        resp = client.responses.create(
+            model="gpt-5-nano-2025-08-07",
+            input=[
+                {"role": "system", "content": [{"type": "input_text", "text": system_msg}]},
+                {"role": "user", "content": [{"type": "input_text", "text": user_msg}]},
+            ],
+            # Structured JSON output for Responses API
+            text={"format": {"type": "json_object"}},
+            max_output_tokens=700,
+        )
+        content = _extract_text_from_responses(resp)
+        if not content:
+            # Fallback to Chat Completions without unsupported params
+            resp_cc = client.chat.completions.create(
+                model="gpt-5-nano-2025-08-07",
+                messages=[
+                    {"role": "system", "content": system_msg + " Return strictly valid JSON only."},
+                    {"role": "user", "content": user_msg},
+                ],
+            )
+            content = (resp_cc.choices[0].message.content or "")
+
+        # Debug: show raw model output (truncated) for diagnostics
+        try:
+            preview = content[:800]
+            print(f"[DEBUG][OpenAI Nano] Raw reply preview (len={len(content)}):\n{preview}")
+        except Exception:
+            pass
+        parsed = _ensure_json_dict(content)
+        if _is_empty_metadata(parsed):
+            print("[DEBUG][OpenAI Nano] Parsed empty metadata. See raw preview above.")
+        return parsed
+    except Exception as e:
+        logging.error(f"Error during OpenAI Nano call: {e}")
+        raise
+
+
 def save_metadata_for_all_texts(txt_dir: str = "processed_data/txt_data", output_dir: str = "processed_data/metadata", backend: str = "openrouter", ollama_model: str | None = None) -> None:
     """Process numeric .txt files in order and write corresponding .json files. Skips existing JSON files."""
     os.makedirs(output_dir, exist_ok=True)
@@ -144,15 +251,33 @@ def save_metadata_for_all_texts(txt_dir: str = "processed_data/txt_data", output
             try:
                 if backend == "ollama":
                     metadata = extract_metadata_with_ollama(text, model=ollama_model or "qwen3:latest")
+                elif backend == "openai_nano":
+                    metadata = extract_metadata_with_openai_nano(text)
                 else:
                     metadata = extract_metadata_with_openrouter(text)
             except RuntimeError as stop_exc:
                 if str(stop_exc) == "OPENROUTER_RATE_LIMIT":
-                    print()
+                    print("the openrouter limit exceed try after sometime.")
                     break
-                raise
-            with open(json_output_path, "w", encoding="utf-8") as jf:
-                json.dump(metadata, jf, indent=2, ensure_ascii=False)
+                # Any other runtime error: stop the loop
+                print(f"Metadata extraction error: {stop_exc}. Stopping.")
+                break
+            except Exception as e:
+                print(f"Metadata extraction error: {e}. Stopping.")
+                break
+
+            # Validate non-empty structured output
+            if not isinstance(metadata, dict) or _is_empty_metadata(metadata):
+                print(f"Received empty/invalid metadata for {name}. Stopping without writing JSON.")
+                break
+
+            try:
+                with open(json_output_path, "w", encoding="utf-8") as jf:
+                    json.dump(metadata, jf, indent=2, ensure_ascii=False)
+            except Exception as e:
+                print(f"Failed to write metadata for {name}: {e}. Stopping.")
+                break
+
             pbar.update(1)
 
 
