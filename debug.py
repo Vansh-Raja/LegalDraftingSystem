@@ -12,6 +12,8 @@ def menu():
     print("Debug Utilities:")
     print("  1) Clear PGVector collection (dangerous - deletes all embeddings)")
     print("  2) Count documents in collection")
+    print("  3) Count distinct cases (by file_stem)")
+    print("  4) List case file stems (compact ranges)")
     print("  q) Quit")
     print()
 
@@ -73,6 +75,82 @@ def count_documents():
         print(f"Error counting documents: {e}")
 
 
+def _get_distinct_file_stems():
+    """Return a set of distinct file_stem values stored in cmetadata for the collection."""
+    try:
+        rows = _exec_sql(
+            "SELECT DISTINCT e.cmetadata->>'file_stem' AS stem "
+            "FROM langchain_pg_embedding e JOIN langchain_pg_collection c ON e.collection_id = c.uuid "
+            "WHERE c.name=%s AND e.cmetadata ? 'file_stem'",
+            (COLLECTION_NAME,),
+        )
+        stems = set()
+        if rows:
+            for (stem,) in rows:
+                if stem is not None and stem != "":
+                    stems.add(stem)
+        return stems
+    except Exception as e:
+        print(f"Error fetching stems: {e}")
+        return set()
+
+
+def count_distinct_cases():
+    """Count unique cases (distinct file_stem) in the collection."""
+    stems = _get_distinct_file_stems()
+    print(f"Collection '{COLLECTION_NAME}' distinct cases: {len(stems)}")
+
+
+def _compact_ranges(nums: list[int]) -> str:
+    """Return a compact range string like '1-5, 7, 10-12' for a sorted list of ints."""
+    if not nums:
+        return ""
+    ranges = []
+    start = prev = nums[0]
+    for n in nums[1:]:
+        if n == prev + 1:
+            prev = n
+            continue
+        # close range
+        if start == prev:
+            ranges.append(str(start))
+        else:
+            ranges.append(f"{start}-{prev}")
+        start = prev = n
+    # final range
+    if start == prev:
+        ranges.append(str(start))
+    else:
+        ranges.append(f"{start}-{prev}")
+    return ", ".join(ranges)
+
+
+def list_case_file_stems():
+    """List case file stems; show numeric stems as compact ranges; non-numeric separately."""
+    stems = _get_distinct_file_stems()
+    if not stems:
+        print("No stems found.")
+        return
+    numeric = []
+    other = []
+    for s in stems:
+        if s.isdigit():
+            try:
+                numeric.append(int(s))
+            except Exception:
+                other.append(s)
+        else:
+            other.append(s)
+    numeric.sort()
+    other_sorted = sorted(other)
+    compact = _compact_ranges(numeric)
+    print(f"Distinct cases total: {len(stems)}")
+    if numeric:
+        print(f"Numeric stems ({len(numeric)}): {compact}")
+    if other_sorted:
+        print(f"Non-numeric stems ({len(other_sorted)}): {', '.join(other_sorted)}")
+
+
 if __name__ == "__main__":
     print("Legal Drafting System - Database Debug Utilities")
     print("=" * 50)
@@ -88,11 +166,15 @@ if __name__ == "__main__":
                 print("Operation cancelled.")
         elif c == "2":
             count_documents()
+        elif c == "3":
+            count_distinct_cases()
+        elif c == "4":
+            list_case_file_stems()
         elif c == "q":
             print("Goodbye!")
             break
         else:
-            print("Invalid choice. Please select 1, 2, or q.")
+            print("Invalid choice. Please select 1, 2, 3, 4, or q.")
         print()
 
 

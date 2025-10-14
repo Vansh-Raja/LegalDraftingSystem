@@ -69,10 +69,16 @@ def _detect_signals(text: str) -> dict:
     # Check if query starts with generic question patterns
     generic_like = t.startswith(_GENERIC_PREFIXES)
     
+    # Additional light-weight specificity checks
+    token_count = len([w for w in re.split(r"\s+", t) if w])
+    has_digit = any(ch.isdigit() for ch in t)
+    
     return {
         "has_case_marker": has_case_marker,
         "has_statute_marker": has_statute_marker,
         "generic": generic_like,
+        "token_count": token_count,
+        "has_digit": has_digit,
     }
 
 
@@ -88,8 +94,18 @@ def _heuristic_plan(user_q: str) -> "QueryPlan":
     """
     sig = _detect_signals(user_q)
     
-    # If query is generic and has no specific case/statute markers, treat as general law
-    if sig["generic"] and not sig["has_case_marker"] and not sig["has_statute_marker"]:
+    # Only the very broadest queries should be routed to general_law:
+    # - starts with a generic prefix
+    # - AND has no case/statute markers
+    # - AND is short and non-specific (few tokens, no digits)
+    if (
+        sig["generic"]
+        and not sig["has_case_marker"]
+        and not sig["has_statute_marker"]
+        and sig.get("token_count", 0) <= 8
+        and not sig.get("has_digit", False)
+    ):
+        # Broad/general → suggest larger K
         return QueryPlan(
             type="general_law",
             rewrite=user_q,
@@ -97,12 +113,13 @@ def _heuristic_plan(user_q: str) -> "QueryPlan":
             bridging_strategy="none",
             target_stems=[],
             statutes=[],
-            retrieval_k=None,
-            reason="Heuristic: generic GK without case/statute markers",
+            retrieval_k=16,
+            reason="Heuristic: generic GK without case/statute markers (broader K)",
         )
     
     # Default to new query type
-    return QueryPlan(type="new", rewrite=user_q, keep_context=False, bridging_strategy="none")
+    # Otherwise prefer retrieval path (new/followup) even if somewhat generic
+    return QueryPlan(type="new", rewrite=user_q, keep_context=False, bridging_strategy="none", retrieval_k=6)
 
 
 def process_query(
@@ -140,12 +157,20 @@ def process_query(
     system_msg = (
         "You are a query-processor for a legal RAG assistant. Return STRICT JSON with fields: "
         "{type, rewrite, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, reason}.\n"
-        "Rules: type is one of followup | new | general_law. If followup, decide keep_context (true if the current context already contains the case/material needed). "
+        "Rules: type is one of followup | new | general_law.\n"
+        "ROUTING: Only route to general_law if the question is extremely broad and non-specific (short, no case/statute markers).\n"
+        "If there is ANY specificity (numbers, dates, party names, sections, court names, or concrete scenario), choose new or followup for retrieval.\n"
+        "If followup, decide keep_context (true if the current context already contains the case/material needed). "
         "If the user appears to ask for similar cases or statutes beyond current context, set bridging_strategy=statute_refill or adjacent; if they want the same case full, set same_case_full. "
         "Always produce a helpful standalone rewrite for retrieval; expand acronyms and include entities (parties, court, date, case numbers) if known.\n\n"
+        "TOP-K SELECTION: When appropriate, set retrieval_k as follows (use judgment; integers only):\n"
+        "- General/very broad questions (no specific case/statute): retrieval_k ~ 12-20\n"
+        "- Typical topic queries: retrieval_k ~ 8-12\n"
+        "- Case-specific or tightly-focused follow-ups: retrieval_k ~ 4-6\n"
+        "If uncertain, pick 8.\n\n"
         "GENERAL-LAW CLASSIFICATION GUIDELINE: If the question is high-level (e.g., 'What laws apply to murder cases?', 'What is res judicata?', 'How is bail decided?'), and it does not reference a specific case name, number, court, date, or document already in context, classify it as general_law. In that case, keep_context=false and bridging_strategy='none'.\n\n"
         "EXAMPLES (label -> JSON):\n"
-        "Q: 'What laws are used in a murder case?' -> {\"type\": \"general_law\", \"rewrite\": \"What statutes and charges typically apply to homicide/murder cases in India (IPC sections)?\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"IPC s.302\", \"IPC s.304\"], \"retrieval_k\": null, \"reason\": \"General law query without specific case\"}\n"
+        "Q: 'What laws are used in a murder case?' -> {\"type\": \"general_law\", \"rewrite\": \"What statutes and charges typically apply to homicide/murder cases in India (IPC sections)?\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"IPC s.302\", \"IPC s.304\"], \"retrieval_k\": 16, \"reason\": \"General law query without specific case\"}\n"
         "Q: 'In John Kennedy vs State of Tamil Nadu, what was the final order?' -> {\"type\": \"new\", \"rewrite\": \"Final order in A. John Kennedy vs State of Tamil Nadu, 2025 INSC 443 (Supreme Court of India)\", \"keep_context\": false, \"bridging_strategy\": \"same_case_full\", \"target_stems\": [\"1\"], \"statutes\": [], \"retrieval_k\": 6, \"reason\": \"Specific case named\"}\n"
         "Q: 'Also list similar cases where IPC 302 was applied' (after a case turn) -> {\"type\": \"followup\", \"rewrite\": \"Supreme Court decisions applying IPC Section 302 similar to <last case>\", \"keep_context\": true, \"bridging_strategy\": \"statute_refill\", \"target_stems\": [], \"statutes\": [\"IPC s.302\"], \"retrieval_k\": 8, \"reason\": \"Follow-up requesting similar cases by statute\"}"
     )

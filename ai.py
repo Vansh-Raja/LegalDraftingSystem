@@ -197,18 +197,21 @@ def extract_metadata_with_openrouter(text: str) -> dict:
     try:
         # Call OpenRouter API
         resp = client.chat.completions.create(
-            model="qwen/qwen3-235b-a22b:free",
+            model="qwen/qwen3-235b-a22b",
             messages=[
                 {"role": "system", "content": system_msg},
                 {"role": "user", "content": user_msg},
             ],
-            max_tokens=700,
+            max_tokens=1000,
             top_p=1.0,
             response_format={"type": "json_object"},
             extra_headers={
                 "HTTP-Referer": "local-dev",
                 "X-Title": "LegalDraftingSystem",
             },
+            extra_body={
+                "provider": {"only": ["deepinfra/fp8"]} 
+            }
         )
         content = resp.choices[0].message.content or ""
         return _ensure_json_dict(content)

@@ -33,7 +33,7 @@ def _init_models():
     Creates sidebar UI controls for user configuration.
     
     Returns:
-        tuple: (llm, model_name, filtration_mode, k_val, court_name, statutes)
+        tuple: (llm, model_name, filtration_mode, k_val, court_name, statutes, query_sort_mode)
     """
     load_dotenv()  # Load environment variables from .env file
     
@@ -48,7 +48,12 @@ def _init_models():
         )
         
         # Configure retrieval parameters
-        k_val = st.slider("Top-K chunks", min_value=3, max_value=12, value=6, step=1, key="k_chunks")
+        auto_topk = st.toggle("Auto Top-K (LLM)", value=True, key="auto_topk", help="Let the Query Processor set retrieval K based on question type")
+        if not auto_topk:
+            k_val = st.slider("Top-K chunks", min_value=3, max_value=20, value=6, step=1, key="k_chunks")
+        else:
+            # Keep a placeholder for UI state when auto mode is on
+            k_val = st.session_state.get("k_chunks", 6)
         court_choice = st.selectbox(
             "Court filter",
             ["Supreme Court of India", "All courts (no filter)"] ,
@@ -56,6 +61,13 @@ def _init_models():
             key="court_filter",
         )
         statutes_text = st.text_input("Statute filters (comma-separated)", value="", key="statute_filters_text")
+        query_sort_mode = st.selectbox(
+            "Query sorting mode",
+            ["Manual (no general law)", "Auto (allow general law)"],
+            index=0,
+            key="query_sort_mode",
+            help="Manual: force retrieval (new/followup). Auto: allow general-law routing for very broad queries.",
+        )
 
     # Create sidebar controls for chat model selection
     with st.sidebar.expander("Chat LLM", expanded=True):
@@ -105,7 +117,7 @@ def _init_models():
     statutes = [s.strip() for s in statutes_text.split(",") if s.strip()] or None
     court_name = None if court_choice.startswith("All") else "Supreme Court of India"
     
-    return llm, model, filtration_mode, k_val, court_name, statutes
+    return llm, model, filtration_mode, k_val, court_name, statutes, query_sort_mode
 
 
 def _ensure_session_state():
@@ -174,7 +186,7 @@ def main():
     
     # Initialize session state and models
     _ensure_session_state()
-    llm, model_name, filtration_mode, k_val, court_name, statutes = _init_models()
+    llm, model_name, filtration_mode, k_val, court_name, statutes, query_sort_mode = _init_models()
 
     # Connect to vector database and build retriever
     vs = get_vectorstore()
@@ -214,6 +226,38 @@ def main():
             )
             _append_debug(f"[DEBUG][QP] plan: {qp.model_dump_json(indent=2)}")
 
+            # If query sorting mode is Manual (no general law), override to retrieval
+            if query_sort_mode.startswith("Manual") and getattr(qp, "type", "") == "general_law":
+                qp.type = "new"
+                # keep rewrite; force retrieval_k to moderate if missing
+                if not getattr(qp, "retrieval_k", None):
+                    qp.retrieval_k = 6
+                _append_debug("[DEBUG][QP] Manual mode: general_law overridden to new (retrieval)")
+
+            # Decide effective Top-K (retrieval depth)
+            auto_topk_enabled = bool(st.session_state.get("auto_topk", True))
+            if auto_topk_enabled and getattr(qp, "retrieval_k", None):
+                try:
+                    effective_k = int(qp.retrieval_k)
+                except Exception:
+                    effective_k = 16 if getattr(qp, "type", "") == "general_law" else 6
+                # Clamp to a reasonable range
+                effective_k = max(3, min(20, effective_k))
+                k_source = "qp.retrieval_k"
+            elif auto_topk_enabled:
+                # Fallback heuristic if planner did not set K
+                effective_k = 16 if getattr(qp, "type", "") == "general_law" else 6
+                k_source = "auto_heuristic"
+            else:
+                # Manual slider
+                try:
+                    effective_k = int(k_val)
+                except Exception:
+                    effective_k = 6
+                effective_k = max(3, min(20, effective_k))
+                k_source = "manual_slider"
+            _append_debug(f"[DEBUG][TopK] effective_k={effective_k} source={k_source}")
+
             # Initialize variables for context assembly
             context = ""
             docs = []
@@ -244,7 +288,7 @@ def main():
                             vs,
                             statute_filters=qp.statutes,
                             court_name=court_name,
-                            k=k_val,
+                            k=effective_k,
                         )
                         refill_docs = retriever_refill.invoke(retr_q)
                         if refill_docs:
@@ -303,13 +347,13 @@ def main():
                     vs,
                     statute_filters=qp.statutes or None,
                     court_name=court_name,
-                    k=k_val,
+                    k=effective_k,
                 )
                 docs = retriever2.invoke(retr_q)
                 
                 # Fallback: if no results, relax court filter
                 if not docs:
-                    retriever_relaxed = build_retriever(vs, court_name=None, k=k_val)
+                    retriever_relaxed = build_retriever(vs, court_name=None, k=effective_k)
                     docs = retriever_relaxed.invoke(retr_q)
                 
                 # Debug: Show what was retrieved
