@@ -1,16 +1,5 @@
 Improvements backlog
 
-- Idempotent ingestion
-  - Generate deterministic chunk IDs (file_stem + chunk_index + content hash) and pass `ids=` to PGVector to avoid duplicates on re-runs.
-  - Optional DB pre-check: fetch existing IDs for the collection and only add missing ones.
-  - Optional manifest per source file (hash + chunk count) to skip unchanged files and reindex changed ones.
-
-- Retrieval quality
-  - Add full-case fallback: when top-K chunks are dominated by one `file_stem`, load the entire case (or all its chunks) and re-answer.
-  - Add query rewriting/standalone question generation for follow-ups to improve recall.
-  - Expose tunables (k, fetch_k, filters) per query; start strict (court filter) then relax iteratively.
-  - Consider hybrid retrieval (BM25 + vector) or metadata-boosting fields for proper names.
-
 - Prompting and answers
   - Use RAG-focused system prompt (case-focused vs statute-focused synthesis) with self-check and source listing.
   - Include short quotes (≤ 2 sentences) with citations (case name + chunk metadata).

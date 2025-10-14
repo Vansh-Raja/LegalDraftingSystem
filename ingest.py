@@ -1,9 +1,23 @@
+"""
+Data ingestion module for the Legal Drafting System.
+Processes text files and metadata, then ingests them into the PGVector database.
+"""
+
 from rag import load_and_chunk_cases, ingest_chunks_to_pgvector_batched, get_vectorstore
 from pathlib import Path
 import json
 
 
 def _list_stems_with_metadata(meta_dir: str) -> set[str]:
+    """
+    Get set of file stems that have corresponding metadata JSON files.
+    
+    Args:
+        meta_dir (str): Directory containing metadata JSON files
+        
+    Returns:
+        set[str]: Set of file stems (without extension)
+    """
     stems: set[str] = set()
     for p in Path(meta_dir).glob("*.json"):
         stems.add(p.stem)
@@ -11,13 +25,29 @@ def _list_stems_with_metadata(meta_dir: str) -> set[str]:
 
 
 def run_ingest(batch_size: int = 128) -> None:
-    # Only ingest items that have metadata JSON
+    """
+    Ingest processed legal documents into the PGVector database.
+    
+    This function:
+    1. Only processes documents that have metadata JSON files
+    2. Loads and chunks the text files
+    3. Checks for existing embeddings to avoid duplicates
+    4. Ingests new chunks in batches for efficiency
+    
+    Args:
+        batch_size (int): Number of chunks to process in each batch
+    """
+    # Step 1: Find all documents that have metadata
     stems = _list_stems_with_metadata("processed_data/metadata")
     if not stems:
         print("No metadata JSONs found; nothing to ingest.")
+        print("Run 'python process.py' first to extract metadata.")
         return
 
-    # Load and chunk only those with metadata
+    print(f"Found {len(stems)} documents with metadata.")
+
+    # Step 2: Load and chunk only documents with metadata
+    print("Loading and chunking documents...")
     chunks = load_and_chunk_cases(
         txt_dir="processed_data/txt_data",
         meta_dir="processed_data/metadata",
@@ -29,11 +59,14 @@ def run_ingest(batch_size: int = 128) -> None:
         print("No chunks to ingest after filtering for metadata.")
         return
 
-    # Idempotence: skip chunks whose (file_stem, chunk_index) already exist in vector store
+    print(f"Created {len(chunks)} chunks from {len(stems)} documents.")
+
+    # Step 3: Check for existing embeddings to avoid duplicates
+    print("Checking for existing embeddings...")
     vs = get_vectorstore()
     existing = set()
     try:
-        # Pull a sample per file_stem via filter and collect chunk_index
+        # Query existing embeddings by file stem
         for fs in sorted(stems):
             docs = vs.similarity_search("seed", k=1000, filter={"file_stem": fs})
             for d in docs:
@@ -41,8 +74,9 @@ def run_ingest(batch_size: int = 128) -> None:
                 if ci is not None:
                     existing.add((fs, ci))
     except Exception:
-        pass
+        print("Warning: Could not check existing embeddings. Proceeding with full ingestion.")
 
+    # Step 4: Filter out chunks that already exist
     new_chunks = []
     for d in chunks:
         fs = (d.metadata or {}).get("file_stem")
@@ -53,14 +87,19 @@ def run_ingest(batch_size: int = 128) -> None:
             new_chunks.append(d)
 
     if not new_chunks:
-        print("All chunks already ingested; nothing new.")
+        print("All chunks already ingested; nothing new to add.")
         return
 
+    print(f"Found {len(new_chunks)} new chunks to ingest.")
+
+    # Step 5: Ingest new chunks in batches
+    print(f"Ingesting {len(new_chunks)} chunks in batches of {batch_size}...")
     vs2 = ingest_chunks_to_pgvector_batched(new_chunks, batch_size=batch_size)
     if vs2 is None:
         print("No non-empty chunks to ingest.")
     else:
-        print(f"Ingestion complete. Added {len(new_chunks)} chunks.")
+        print(f"Ingestion complete! Added {len(new_chunks)} chunks to the vector database.")
+        print("You can now run the chat applications.")
 
 
 if __name__ == "__main__":

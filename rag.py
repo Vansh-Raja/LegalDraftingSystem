@@ -1,3 +1,9 @@
+"""
+RAG utilities: loading cases, chunking, embeddings, retrieval, filtration, and
+context assembly. This module contains the building blocks that both the CLI
+and Streamlit app use for Retrieval-Augmented Generation over legal judgments.
+"""
+
 from pathlib import Path
 import json
 import os
@@ -16,10 +22,24 @@ from pydantic import BaseModel
 
 
 # Default collection name for PGVector
-COLLECTION_NAME = "langchain"
+COLLECTION_NAME = "langchain"  # Default PGVector collection name
 
 
 def load_case_docs(txt_dir: str = "processed_data/txt_data", meta_dir: str = "processed_data/metadata", only_with_metadata: bool = False) -> List[Document]:
+    """
+    Load full-text case files and merge available JSON metadata per file.
+
+    - Each text file N.txt will try to load N.json metadata and attach it.
+    - Adds a `file_stem` to every `Document.metadata` for downstream grouping.
+
+    Args:
+        txt_dir: Directory containing case text files.
+        meta_dir: Directory containing case metadata JSON files.
+        only_with_metadata: If True, skip cases missing JSON metadata.
+
+    Returns:
+        List of LangChain `Document` with merged metadata.
+    """
     docs: List[Document] = []
     txt_path = Path(txt_dir)
     meta_path = Path(meta_dir)
@@ -50,6 +70,23 @@ def chunk_documents(
     chunk_overlap: int = 400,
     add_chunk_index: bool = True,
 ) -> List[Document]:
+    """
+    Split documents into overlapping chunks and lightly enrich content for recall.
+
+    - Uses a recursive splitter with newline/space boundaries.
+    - Optionally assigns a running `chunk_index` across all chunks.
+    - Prepends compact metadata hints (case number, parties, court, date, statutes)
+      to each chunk's text to help retrieval.
+
+    Args:
+        documents: Base documents to split.
+        chunk_size: Target characters per chunk.
+        chunk_overlap: Overlap between adjacent chunks.
+        add_chunk_index: Whether to tag chunks with an index.
+
+    Returns:
+        List of chunked `Document` objects.
+    """
     if not documents:
         return []
     splitter = RecursiveCharacterTextSplitter(
@@ -98,11 +135,18 @@ def load_and_chunk_cases(
     chunk_overlap: int = 400,
     only_with_metadata: bool = False,
 ) -> List[Document]:
+    """
+    Convenience helper: load cases then split into chunks with given params.
+    """
     base_docs = load_case_docs(txt_dir=txt_dir, meta_dir=meta_dir, only_with_metadata=only_with_metadata)
     return chunk_documents(base_docs, chunk_size=chunk_size, chunk_overlap=chunk_overlap)
 
 
 def _get_pg_connection_string() -> str:
+    """
+    Build a Postgres connection string from environment variables with fallbacks.
+    Prefers DB_* variables, then common single-URL envs, then a local default.
+    """
     load_dotenv()
     # Prefer explicit DB_* variables; else fall back to common single-URL envs, then default
     db_name = os.getenv("DB_NAME")
@@ -127,6 +171,12 @@ def ingest_chunks_to_pgvector(
     use_jsonb: bool = True,
     create_extension: bool = False,
 ) -> PGVector:
+    """
+    Ingest a list of chunk documents into PGVector in one call.
+
+    Filters out empty chunks; embeds with an Ollama embeddings model; creates or
+    uses the given collection.
+    """
     if not chunks:
         raise ValueError("No chunks provided for ingestion")
     conn = connection_string or _get_pg_connection_string()
@@ -152,7 +202,11 @@ def ingest_chunks_to_pgvector_batched(
     create_extension: bool = False,
     batch_size: int = 128,
 ):
-    """Ingest in batches with a single initial PGVector.from_documents and subsequent add_documents calls."""
+    """
+    Ingest in batches: first call creates the collection, subsequent calls add.
+
+    Useful for very large corpora to keep memory usage bounded.
+    """
     from tqdm import tqdm  # local import to avoid hard dep when unused
 
     if not chunks:
@@ -197,7 +251,11 @@ def get_vectorstore(
     use_jsonb: bool = True,
     collection_name: str | None = None,
 ) -> PGVector:
-    """Return a PGVector handle (use when an index already exists)."""
+    """
+    Return a PGVector handle bound to an embeddings model.
+
+    Use when an index/collection already exists, or to add/query documents.
+    """
     conn = connection_string or _get_pg_connection_string()
     embeddings = OllamaEmbeddings(model=embedding_model)
     # When collection_name is None, default internal collection is used
@@ -210,7 +268,9 @@ def get_vectorstore(
 
 
 def build_retriever(vectorstore: PGVector, statute_filters: list[str] | None = None, court_name: str | None = "Supreme Court of India", k: int = 6):
-    """Create a retriever with metadata filters (JSONB)."""
+    """
+    Create a retriever with optional JSONB metadata filters and top-K control.
+    """
     filter_dict: dict = {}
     if statute_filters:
         filter_dict["legal_provisions_cited"] = {"$in": statute_filters}
@@ -226,6 +286,9 @@ def build_qa_chain(
     temperature: float = 0.0,
     return_sources: bool = True,
 ):
+    """
+    Build a simple RetrievalQA chain around an Ollama chat model and retriever.
+    """
     llm = ChatOllama(model=llm_model, temperature=temperature)
     return RetrievalQA.from_chain_type(
         llm=llm,
@@ -236,6 +299,7 @@ def build_qa_chain(
 
 
 def ask(question: str, qa_chain) -> str:
+    """Helper to execute a retrieval QA chain with a question."""
     return qa_chain.run(question)
 
 
@@ -244,7 +308,10 @@ def maybe_full_case(
     txt_dir: str = "processed_data/txt_data",
     threshold: int = 4,
 ):
-    """Return full-text Path for most frequent case if frequency exceeds threshold; else None."""
+    """
+    If many retrieved chunks belong to the same case, suggest loading that full
+    case. Returns a Path to the full file if it exists, else None.
+    """
     if not chosen_docs:
         return None
     freq: dict[str, int] = {}
@@ -264,22 +331,29 @@ def maybe_full_case(
 # ---------------------- Filtering LLM: Planner & Assembler ----------------------
 
 class ChunkRef(BaseModel):
+    """Reference to a specific chunk in a case file (by stem and chunk index)."""
     file_stem: str
     chunk_index: int
 
 
 class ReasonFullDoc(BaseModel):
+    """Why a full document should be included in the assembled context."""
     file_stem: str
     reason: str
 
 
 class ReasonChunk(BaseModel):
+    """Why a particular chunk is relevant to the user question."""
     file_stem: str
     chunk_index: int
     reason: str
 
 
 class FiltrationPlan(BaseModel):
+    """
+    Output schema from filtration LLM: what full docs and chunks to include,
+    estimated budget, and per-item reasoning (optional but preferred).
+    """
     selected_full_docs: List[str] = []
     selected_chunks: List[ChunkRef] = []
     drop_chunks: List[ChunkRef] = []
@@ -291,6 +365,7 @@ class FiltrationPlan(BaseModel):
 
 
 def _build_chunk_previews(docs: List[Document], max_chars: int = 800) -> List[dict]:
+    """Summarize docs into compact previews for the filtration LLM."""
     previews = []
     for d in docs:
         m = d.metadata or {}
@@ -307,9 +382,12 @@ def _build_chunk_previews(docs: List[Document], max_chars: int = 800) -> List[di
 
 
 def filtration_retriever(user_q: str, docs: List[Document], mode: str = "chunk", case_metadatas: Optional[List[dict]] = None) -> FiltrationPlan:
-    """Use GPT-5-Nano as filtration retriever to select full docs and chunks.
-    mode: "chunk" uses chunk previews (+ optional case metadata); "metadata" uses only case metadata.
-    Ollama is not used here.
+    """
+    Select most relevant documents/chunks using an LLM planning step.
+
+    mode:
+      - "chunk": pass chunk previews (and optionally case metadata) to the LLM
+      - "metadata": pass only case metadata, no chunk previews
     """
     if not docs:
         return FiltrationPlan(selected_full_docs=[], selected_chunks=[], drop_chunks=[], context_budget_tokens=6000)
@@ -386,10 +464,15 @@ def filtration_retriever(user_q: str, docs: List[Document], mode: str = "chunk",
 
 
 def _token_estimate_from_chars(chars: int) -> int:
+    """Very rough token estimate: ~4 chars per token."""
     return max(1, chars // 4)
 
 
 def _windows_around_terms(text: str, query: str, budget_tokens: int) -> Tuple[str, List[Tuple[int, int]]]:
+    """
+    Extract multiple windows around occurrences of query terms, within budget.
+    Falls back to head+tail if no term hits are found.
+    """
     budget_chars = budget_tokens * 4
     raw_lc = text.lower()
     qtokens = [t for t in (query.lower().replace(" v. ", " vs "))
@@ -455,7 +538,14 @@ def assemble_context_from_plan(
     budget_tokens: Optional[int] = None,
     initial_docs: Optional[List[Document]] = None,
 ) -> Tuple[str, List[Document], Dict[str, Any]]:
-    """Assemble a budgeted context string from the plan; return context, source docs, and debug info."""
+    """
+    Assemble a context string within the suggested budget using the plan.
+
+    Strategy:
+      1) Include full docs (whole or windowed) in priority order
+      2) Add specific selected chunks if budget remains
+      3) Return context, source docs (unused placeholder), and debug spans
+    """
     budget = plan.context_budget_tokens if (budget_tokens is None) else budget_tokens
     used_docs: List[Document] = []
     assembled_parts: List[str] = []
@@ -536,6 +626,10 @@ def assemble_context_from_plan(
 # ---------------------- Named-case guard helpers ----------------------
 
 def _named_case_candidates(user_q: str, docs: List[Document]) -> List[str]:
+    """
+    Heuristic scoring of which case stems best match user query tokens.
+    Returns stems ordered by descending match score.
+    """
     q = user_q.lower().replace(" v. ", " vs ")
     toks = [t for t in q.split() if t.isalpha() and len(t) > 2]
     if not toks:
@@ -553,6 +647,10 @@ def _named_case_candidates(user_q: str, docs: List[Document]) -> List[str]:
 
 
 def apply_named_case_guard(plan: FiltrationPlan, user_q: str, docs: List[Document]) -> FiltrationPlan:
+    """
+    Ensure that if the user mentions a case, that case gets prioritized by
+    inserting it at the front of `selected_full_docs` when missing.
+    """
     must = _named_case_candidates(user_q, docs)
     if not must:
         return plan

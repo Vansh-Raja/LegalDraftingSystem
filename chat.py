@@ -1,3 +1,15 @@
+"""
+CLI chat interface (deprecated in favor of the Streamlit app `app.py`).
+
+This module retains a console-based experience mainly for testing or headless
+environments. Most users should run the Streamlit UI for a better workflow:
+
+    streamlit run app.py
+
+The logic mirrors the retrieval/filtration/context assembly pipeline used in
+the app, but without the rich UI and session management provided by Streamlit.
+"""
+
 from typing import List
 from pathlib import Path
 import os
@@ -21,6 +33,11 @@ from rag import (
 
 
 def chat_with_memory() -> None:
+    """
+    Start an interactive CLI chat session with simple in-memory history.
+
+    Note: This is considered near-deprecated. Prefer the Streamlit app.
+    """
     # In-memory chat histories (per session)
     store: dict[str, InMemoryChatMessageHistory] = {}
     session_id = "default"
@@ -33,7 +50,7 @@ def chat_with_memory() -> None:
         return hist
 
     load_dotenv()
-    # Runtime model selection
+    # Runtime model selection (simple prompt; Streamlit offers a nicer UI)
     print("Select model: [1] Ollama qwen3:latest (default), [2] OpenAI gpt-5-nano-2025-08-07 > ", end="")
     _choice = input().strip()
     if _choice == "2" or _choice.lower() == "openai":
@@ -47,6 +64,7 @@ def chat_with_memory() -> None:
         llm = ChatOllama(model="qwen3:latest", temperature=0, streaming=True, num_ctx=40000)
     vs = get_vectorstore()
 
+    # Prompt template: system instructions + history + user question
     prompt = ChatPromptTemplate.from_messages([
         (
             "system",
@@ -86,10 +104,15 @@ def chat_with_memory() -> None:
     )
 
     def make_chain(statutes: List[str] | None = None):
+        """
+        Create a callable that performs retrieval, filtration, and answering
+        for a single question, optionally constrained by statute filters.
+        """
         # Try strict court filter first; if no hits, fallback without court filter
         retriever = build_retriever(vs, statute_filters=statutes, court_name="Supreme Court of India", k=6)
 
         def invoke_with_context(user_q: str):
+            """Retrieve docs, build a context, and stream an answer."""
             docs = retriever.invoke(user_q)
             if not docs:
                 # Fallback: relax court filter
@@ -132,7 +155,7 @@ def chat_with_memory() -> None:
                 preview = (context[:800] + "...") if len(context) > 800 else context
                 print(f"[DEBUG][Context Preview] {preview}")
 
-            # Full-case fallback gate
+            # Full-case fallback gate: if context is empty, window the dominant case
             from collections import Counter
             stems = [d.metadata.get("file_stem") for d in docs if d.metadata.get("file_stem")]
             # context may be already set by planner; only fallback if empty
@@ -235,8 +258,7 @@ def chat_with_memory() -> None:
                 context = "\n\n".join(d.page_content for d in docs)
                 est_tokens = int(len(context) / 4)
                 print(f"[DEBUG] Context length: {len(context)} chars, chunks: {len(docs)}, est_tokens~{est_tokens}")
-            # Feed question + context to the LLM with self-verification in the system prompt
-            # Stream the response
+            # Stream the response using the chain with message history
             stream = chain_with_history.stream(
                 {"question": user_q, "context": context},
                 config={"configurable": {"session_id": session_id}},
@@ -253,7 +275,7 @@ def chat_with_memory() -> None:
 
         return invoke_with_context
 
-    print("Legal Drafting Chatbot with memory is live. Type exit to quit.")
+    print("[Deprecated] CLI Legal Drafting Chatbot with memory is live. Type exit to quit.")
     while True:
         user_q = input("\nYou: ").strip()
         if user_q.lower() in ("exit", "quit"):
