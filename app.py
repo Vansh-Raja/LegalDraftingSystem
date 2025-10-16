@@ -5,6 +5,7 @@ Provides a web interface for legal document Q&A using RAG (Retrieval-Augmented G
 
 import os
 import json
+import re
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
@@ -512,6 +513,74 @@ class PipelineTracker:
             self.status_box = None
 
 
+def _select_followup_case(
+    plan: QueryPlan,
+    user_q: str,
+    stems: List[str],
+    docs: List,
+) -> Tuple[Optional[str], int]:
+    """Pick which cached case to surface fully for follow-up queries."""
+    if not stems:
+        return None, 0
+
+    # Planner-provided hints (target_stems) take priority
+    target_stems = getattr(plan, "target_stems", None) or []
+    for cand in target_stems:
+        if cand in stems:
+            return cand, 100  # treat planner hint as highest confidence
+
+    # Build a metadata map from cached docs for light matching
+    meta_by_stem: Dict[str, dict] = {}
+    for d in docs or []:
+        meta = getattr(d, "metadata", {}) or {}
+        fs = meta.get("file_stem")
+        if fs and fs not in meta_by_stem:
+            meta_by_stem[fs] = meta
+
+    haystack_tokens_source = " ".join(
+        part
+        for part in [getattr(plan, "rewrite", "") or "", user_q or ""]
+        if part
+    ).lower()
+    tokens = [tok for tok in re.split(r"\W+", haystack_tokens_source) if tok and len(tok) > 2]
+    if not tokens:
+        return stems[0], 0
+
+    best_stem = None
+    best_score = -1
+    for stem in stems:
+        meta = meta_by_stem.get(stem)
+        if not meta:
+            meta_path = Path("processed_data/metadata") / f"{stem}.json"
+            if meta_path.exists():
+                try:
+                    meta = json.loads(meta_path.read_text(encoding="utf-8"))
+                except Exception:
+                    meta = {}
+            else:
+                meta = {}
+        parts = [
+            meta.get("case_number") or "",
+            meta.get("title") or "",
+            meta.get("summary") or "",
+            meta.get("final_judgment") or "",
+        ]
+        parties = meta.get("parties") or {}
+        if isinstance(parties, dict):
+            parts.extend(parties.values())
+        haystack = " ".join(part for part in parts if part).lower()
+        if not haystack:
+            score = 0
+        else:
+            score = sum(1 for tok in tokens if tok in haystack)
+        if score > best_score:
+            best_score = score
+            best_stem = stem
+
+    final_stem = best_stem or stems[0]
+    return final_stem, best_score
+
+
 def main():
     """
     Main Streamlit application function.
@@ -743,14 +812,17 @@ def main():
                 # Strategy: Load full text of the dominant case from previous query
                 if getattr(qp, "bridging_strategy", "") == "same_case_full" and stems:
                     try:
-                        dominant = stems[0]  # Most frequent case from last query
+                        dominant, score = _select_followup_case(qp, user_q, stems, docs)
+                        if not dominant:
+                            raise ValueError("Unable to resolve dominant case for same_case_full")
                         full_path = Path("processed_data/txt_data") / f"{dominant}.txt"
                         if full_path.exists():
                             raw = full_path.read_text(encoding="utf-8")
                             header = f"[file: {dominant}.txt]\n"
                             context = header + raw
                             strategy = "same_case_full"
-                            _append_debug(f"[DEBUG][Bridge] same_case_full loaded {dominant}.txt")
+                            retrieval_notes.append(f"same_case_full {dominant}")
+                            _append_debug(f"[DEBUG][Bridge] same_case_full loaded {dominant}.txt (score={score})")
                             _debug_section(
                                 "Context After Same Case Full",
                                 {
@@ -760,6 +832,8 @@ def main():
                                 },
                                 note="Entire dominant case inserted as context for follow-up answer.",
                             )
+                        else:
+                            _append_debug(f"[DEBUG][Bridge] same_case_full missing file: {full_path}")
                     except Exception as se:
                         _append_debug(f"[DEBUG][Bridge] same_case_full error: {se}")
                 reuse_detail = "; ".join(retrieval_notes) if retrieval_notes else "Reused previous context"
