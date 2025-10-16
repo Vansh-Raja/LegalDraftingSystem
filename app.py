@@ -22,7 +22,30 @@ from rag import (
     filtration_retriever,
     assemble_context_from_plan,
     apply_named_case_guard,
+    summary_search_pg,
+    fuse_cases_by_rrf,
+    fetch_top_chunks_for_cases,
+    interleave_docs_by_case,
+    enforce_case_diversity,
 )
+MODEL_CONTEXT_WINDOWS = {
+    "gpt-5-nano-2025-08-07": 400000,
+    "openai/gpt-oss-120b": 131072,
+    "openai/gpt-oss-20b": 131072,
+    "qwen/qwen3-235b-a22b": 40960,
+    "qwen/qwen3-14b": 40960,
+    "qwen3:latest": 32768,
+}
+
+# Reserve some headroom for the model's completion tokens so we don't exceed total context
+RESERVED_COMPLETION_TOKENS = {
+    "gpt-5-nano-2025-08-07": 20000,
+    "openai/gpt-oss-120b": 8192,
+    "openai/gpt-oss-20b": 8192,
+    "qwen/qwen3-235b-a22b": 16000,
+    "qwen/qwen3-14b": 16000,
+    "qwen3:latest": 16000,
+}
 from st_debug import debug as sdebug
 from orchestrator import process_query, QueryPlan
 
@@ -48,25 +71,50 @@ def _init_models():
         )
         
         # Configure retrieval parameters
-        auto_topk = st.toggle("Auto Top-K (LLM)", value=True, key="auto_topk", help="Let the Query Processor set retrieval K based on question type")
+        auto_topk = st.toggle("Auto Top-K (LLM)", value=True, key="auto_topk", help="Let the Query Processor set retrieval K based on query type")
         if not auto_topk:
             k_val = st.slider("Top-K chunks", min_value=3, max_value=20, value=6, step=1, key="k_chunks")
         else:
             # Keep a placeholder for UI state when auto mode is on
             k_val = st.session_state.get("k_chunks", 6)
-        court_choice = st.selectbox(
-            "Court filter",
-            ["Supreme Court of India", "All courts (no filter)"] ,
-            index=0,
-            key="court_filter",
-        )
-        statutes_text = st.text_input("Statute filters (comma-separated)", value="", key="statute_filters_text")
+        
         query_sort_mode = st.selectbox(
             "Query sorting mode",
             ["Manual (no general law)", "Auto (allow general law)"],
             index=0,
             key="query_sort_mode",
             help="Manual: force retrieval (new/followup). Auto: allow general-law routing for very broad queries.",
+        )
+        # Diversity controls
+        # Auto Min Full Docs (LLM-driven)
+        auto_min_docs = st.toggle(
+            "Auto Min Full Docs (LLM)",
+            value=True,
+            key="auto_min_docs",
+            help="Let the Query Processor suggest min full cases based on query breadth",
+        )
+        if not auto_min_docs:
+            min_full_cases = st.slider(
+                "Min full cases for overview",
+                min_value=1,
+                max_value=8,
+                value=st.session_state.get("min_full_cases", 3),
+                step=1,
+                key="min_full_cases",
+                help="Minimum distinct cases to include as full docs for broad queries",
+            )
+        else:
+            # Preserve prior value for when user switches off auto later
+            _ = st.session_state.get("min_full_cases", 3)
+            min_full_cases = _
+        max_chunks_per_case = st.slider(
+            "Max chunks per case",
+            min_value=1,
+            max_value=6,
+            value=2,
+            step=1,
+            key="max_chunks_per_case",
+            help="Upper bound on chunk selections per case to avoid over-concentration",
         )
 
     # Create sidebar controls for chat model selection
@@ -76,8 +124,8 @@ def _init_models():
             "qwen3:latest",                     # Ollama local
             # OpenRouter models (via OpenAI-compatible API)
             "openai/gpt-oss-120b",
-            "openai/gpt-oss-20b:free",
-            "qwen/qwen3-235b-a22b:free",
+            "openai/gpt-oss-20b",
+            "qwen/qwen3-235b-a22b",
             "qwen/qwen3-14b",
         ]
         model = st.selectbox("Model", models, index=0, key="chat_model_select")
@@ -85,22 +133,26 @@ def _init_models():
     # Initialize the chat language model based on user selection
     openrouter_models = {
         "openai/gpt-oss-120b",
-        "openai/gpt-oss-20b:free",
-        "qwen/qwen3-235b-a22b:free",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3-235b-a22b",
         "qwen/qwen3-14b",
     }
+    provider_name = "openai"
     if model == "gpt-5-nano-2025-08-07":
         api_key = os.getenv("OPENAI_KEY")
         if not api_key:
             st.sidebar.warning("OPENAI_KEY not set; falling back to qwen3:latest")
             llm = ChatOllama(model="qwen3:latest", temperature=0, streaming=True, num_ctx=40000)
+            provider_name = "ollama"
         else:
             llm = ChatOpenAI(model="gpt-5-nano-2025-08-07", temperature=0, streaming=True, api_key=api_key)
+            provider_name = "openai"
     elif model in openrouter_models:
         or_key = os.getenv("OPENROUTER_API_KEY")
         if not or_key:
             st.sidebar.warning("OPENROUTER_API_KEY not set; falling back to qwen3:latest")
             llm = ChatOllama(model="qwen3:latest", temperature=0, streaming=True, num_ctx=40000)
+            provider_name = "ollama"
         else:
             # Use OpenRouter via OpenAI-compatible LangChain client
             llm = ChatOpenAI(
@@ -110,14 +162,17 @@ def _init_models():
                 api_key=or_key,
                 base_url="https://openrouter.ai/api/v1",
             )
+            provider_name = "openrouter"
     else:
         llm = ChatOllama(model="qwen3:latest", temperature=0, streaming=True, num_ctx=40000)
+        provider_name = "ollama"
     
     # Parse statute filters from comma-separated text
-    statutes = [s.strip() for s in statutes_text.split(",") if s.strip()] or None
-    court_name = None if court_choice.startswith("All") else "Supreme Court of India"
+    # Sidebar filters removed; planner handles filtering via rewrite
+    statutes = None
+    court_name = "Supreme Court of India"
     
-    return llm, model, filtration_mode, k_val, court_name, statutes, query_sort_mode
+    return llm, model, filtration_mode, k_val, court_name, statutes, query_sort_mode, min_full_cases, max_chunks_per_case, auto_min_docs, provider_name
 
 
 def _ensure_session_state():
@@ -156,9 +211,20 @@ def _reset_chat_state():
     This resets the conversation history and debug logs.
     """
     st.session_state.messages = []
+    # Reset both history stores used in the app
     st.session_state.history = InMemoryChatMessageHistory()
+    st.session_state.chat_history = InMemoryChatMessageHistory()
+    # Clear any cached context and planner-related artifacts
+    st.session_state.last_context = ""
+    st.session_state.last_docs = []
+    st.session_state.last_stems = []
+    st.session_state.last_filters = {}
+    st.session_state.last_question_rewrite = ""
+    st.session_state.rolling_summary = ""
+    # Clear debug
     st.session_state.debug_logs = []
     st.session_state["debug_string"] = ""
+    # Intentionally do not log a reset section in the user-visible log
 
 
 def _append_debug(msg: str):
@@ -174,6 +240,135 @@ def _append_debug(msg: str):
     except Exception:
         pass  # Ignore debug window errors
 
+def _debug_section(title: str, payload, note: str | None = None) -> None:
+    try:
+        if isinstance(payload, (dict, list)):
+            body = __import__("json").dumps(payload, indent=2)
+        else:
+            body = str(payload)
+    except Exception:
+        body = str(payload)
+    sep = "=" * 28
+    if note:
+        header = f"\n\n{sep}\n{title}\n{sep}\nNote: {note}\n"
+    else:
+        header = f"\n\n{sep}\n{title}\n{sep}\n"
+    _append_debug(f"{header}{body}\n{'-'*28}")
+
+
+def _fmt_qp(plan: dict) -> str:
+    try:
+        lines = []
+        if plan is None:
+            return "(no plan)"
+        t = plan.get("type")
+        if t:
+            lines.append(f"type: {t}")
+        rw = plan.get("rewrite")
+        if rw:
+            lines.append(f"rewritten prompt: {rw}")
+        kc = plan.get("keep_context")
+        if kc is not None:
+            lines.append(f"keep_context: {bool(kc)}")
+        bs = plan.get("bridging_strategy")
+        if bs:
+            lines.append(f"bridge: {bs}")
+        sts = plan.get("statutes") or []
+        if sts:
+            lines.append("statutes: " + ", ".join(sts))
+        rk = plan.get("retrieval_k")
+        if rk is not None:
+            lines.append(f"retrieval_k: {rk}")
+        rs = plan.get("reason")
+        if rs:
+            lines.append(f"reason: {rs}")
+        return "\n".join(lines)
+    except Exception:
+        return str(plan)
+
+
+def _fmt_topk(info: dict) -> str:
+    if not isinstance(info, dict):
+        return str(info)
+    ek = info.get("effective_k")
+    src = info.get("source")
+    return f"effective_k: {ek}\nsource: {src}"
+
+
+def _fmt_summary_fts(rows: list) -> str:
+    try:
+        if not rows:
+            return "(none)"
+        out = []
+        for i, r in enumerate(rows, 1):
+            # rows may be tuples (fs, rk) or dicts
+            if isinstance(r, dict):
+                fs = r.get("file_stem")
+                rk = r.get("rank")
+            else:
+                fs, rk = r
+            out.append(f"{i}. {fs} (rank={rk:.4f})")
+        return "\n".join(out)
+    except Exception:
+        return str(rows)
+
+
+def _fmt_fused_cases(cases: list[str]) -> str:
+    if not cases:
+        return "(none)"
+    return "\n".join(f"{i}. {fs}" for i, fs in enumerate(cases, 1))
+
+
+def _fmt_retrieved_previews(items: list[dict]) -> str:
+    try:
+        if not items:
+            return "(none)"
+        return "\n".join(
+            f"{i}. {it.get('file_stem')}: {it.get('preview')}"
+            for i, it in enumerate(items, 1)
+        )
+    except Exception:
+        return str(items)
+
+
+def _fmt_filtration_plan(plan: dict) -> str:
+    try:
+        if not plan:
+            return "(none)"
+        full = plan.get("selected_full_docs") or []
+        chunks = plan.get("selected_chunks") or []
+        lines = [
+            "full docs: " + (", ".join(full) if full else "(none)"),
+            f"selected chunks: {len(chunks)}",
+        ]
+        if chunks:
+            sample = chunks[:4]
+            sample_txt = ", ".join(f"{c.get('file_stem')}[{c.get('chunk_index')}]" for c in sample)
+            lines.append(f"sample chunks: {sample_txt}")
+        # budget from plan is ignored intentionally
+        return "\n".join(lines)
+    except Exception:
+        return str(plan)
+
+
+def _fmt_assembler(dbg: dict) -> str:
+    try:
+        if not dbg:
+            return "(none)"
+        est = dbg.get("est_tokens")
+        spans = dbg.get("spans") or []
+        lines = [
+            f"estimated tokens: {est}",
+            f"spans: {len(spans)}",
+        ]
+        if spans:
+            sample = spans[:3]
+            sample_txt = ", ".join(f"{s[2]}[{s[0]}–{s[1]}]" if len(s) >= 3 else str(s) for s in sample)
+            lines.append(f"sample spans: {sample_txt}")
+        return "\n".join(lines)
+    except Exception:
+        return str(dbg)
+
 
 def main():
     """
@@ -186,7 +381,7 @@ def main():
     
     # Initialize session state and models
     _ensure_session_state()
-    llm, model_name, filtration_mode, k_val, court_name, statutes, query_sort_mode = _init_models()
+    llm, model_name, filtration_mode, k_val, court_name, statutes, query_sort_mode, min_full_cases, max_chunks_per_case, auto_min_docs, provider_name = _init_models()
 
     # Connect to vector database and build retriever
     vs = get_vectorstore()
@@ -223,16 +418,28 @@ def main():
                 last_filters=st.session_state.last_filters,
                 last_context_snippet=(st.session_state.last_context or "")[:4000],
                 summary=st.session_state.rolling_summary or None,
+                manual_mode=query_sort_mode.startswith("Manual"),
             )
-            _append_debug(f"[DEBUG][QP] plan: {qp.model_dump_json(indent=2)}")
+            if query_sort_mode.startswith("Manual"):
+                _append_debug("[DEBUG][QP] Using manual-only prompt (no general_law)")
+            _debug_section("Query Plan", _fmt_qp(qp.model_dump()), note="Planner's classification and rewrite; drives how we retrieve and filter.")
 
             # If query sorting mode is Manual (no general law), override to retrieval
             if query_sort_mode.startswith("Manual") and getattr(qp, "type", "") == "general_law":
                 qp.type = "new"
-                # keep rewrite; force retrieval_k to moderate if missing
+                # Force a crisp retrieval rewrite (short, keywords/statutes/issues)
+                try:
+                    base = (qp.rewrite or user_q)
+                    # Simple heuristic rewrite: strip long prose, keep key terms
+                    import re as _re
+                    tokens = [t for t in _re.split(r"\W+", base) if t]
+                    # keep up to 20 tokens
+                    qp.rewrite = " ".join(tokens[:20])
+                except Exception:
+                    pass
                 if not getattr(qp, "retrieval_k", None):
-                    qp.retrieval_k = 6
-                _append_debug("[DEBUG][QP] Manual mode: general_law overridden to new (retrieval)")
+                    qp.retrieval_k = 8
+                _append_debug("[DEBUG][QP] Manual mode: forced 'new' and retrieval-oriented rewrite")
 
             # Decide effective Top-K (retrieval depth)
             auto_topk_enabled = bool(st.session_state.get("auto_topk", True))
@@ -256,7 +463,19 @@ def main():
                     effective_k = 6
                 effective_k = max(3, min(20, effective_k))
                 k_source = "manual_slider"
-            _append_debug(f"[DEBUG][TopK] effective_k={effective_k} source={k_source}")
+            _debug_section("Top-K Selection", _fmt_topk({"effective_k": effective_k, "source": k_source}), note="How many items to retrieve; affects breadth vs. depth.")
+            # Decide Min Full Docs (either from planner or UI)
+            if auto_min_docs and getattr(qp, "min_full_docs", None):
+                effective_min_docs = max(2, int(qp.min_full_docs))
+                min_docs_source = "qp.min_full_docs"
+            elif auto_min_docs:
+                # Heuristic fallback: 3 for broad (general_law in auto mode) else 2
+                effective_min_docs = 3 if getattr(qp, "type", "") == "general_law" else 2
+                min_docs_source = "auto_heuristic"
+            else:
+                effective_min_docs = max(2, int(min_full_cases))
+                min_docs_source = "manual_slider"
+            _debug_section("Min Full Docs", {"min_full_docs": effective_min_docs, "source": min_docs_source}, note="Minimum number of full cases to include; tuned to query breadth.")
 
             # Initialize variables for context assembly
             context = ""
@@ -342,49 +561,135 @@ def main():
                 # Step 2b: Fresh Retrieval - New query requires document search
                 retr_q = qp.rewrite or user_q
                 
-                # Build retriever with query plan filters
+                # Build retriever with query plan filters (vector path)
                 retriever2 = build_retriever(
                     vs,
                     statute_filters=qp.statutes or None,
                     court_name=court_name,
                     k=effective_k,
                 )
-                docs = retriever2.invoke(retr_q)
+                docs_vector = retriever2.invoke(retr_q)
+                
+                # Summary path (Postgres FTS over case summaries)
+                try:
+                    # Optional: derive year filter from rewrite simple heuristic
+                    year_filter = None
+                    try:
+                        import re as _re
+                        m = _re.search(r"\b(19|20)\d{2}\b", retr_q)
+                        if m:
+                            year_filter = int(m.group(0))
+                    except Exception:
+                        year_filter = None
+                    sum_ranked = summary_search_pg(
+                        retr_q,
+                        court_name=court_name,
+                        statutes=qp.statutes or None,
+                        year=year_filter,
+                        limit=max(50, effective_k * 8),
+                    )
+                except Exception as se:
+                    _append_debug(f"[DEBUG][SummaryFTS] error: {se}")
+                    sum_ranked = []
+                # Debug: show top summary cases
+                if sum_ranked:
+                    _debug_section("Summary FTS - Top Cases", _fmt_summary_fts([{"file_stem": fs, "rank": rk} for fs, rk in sum_ranked[:10]]), note="Keyword-based matches over case summaries; seeds diverse case selection.")
+                
+                # If vector returns nothing, try relaxed court filter for vectors
+                docs = docs_vector
                 
                 # Fallback: if no results, relax court filter
                 if not docs:
                     retriever_relaxed = build_retriever(vs, court_name=None, k=effective_k)
                     docs = retriever_relaxed.invoke(retr_q)
+                    if not sum_ranked and court_name is not None:
+                        try:
+                            sum_ranked = summary_search_pg(
+                                retr_q,
+                                court_name=None,
+                                statutes=qp.statutes or None,
+                                year=None,
+                                limit=max(50, effective_k * 8),
+                            )
+                        except Exception:
+                            sum_ranked = []
+                
+                # Fuse case-level results from summary path and vector path
+                try:
+                    fused_cases = fuse_cases_by_rrf(sum_ranked, docs, k=60, top_n=max(20, effective_k * 3)) if (sum_ranked or docs) else []
+                except Exception as fe:
+                    _append_debug(f"[DEBUG][Fusion] error: {fe}")
+                    fused_cases = []
+                if fused_cases:
+                    _debug_section("Fused Cases (RRF)", _fmt_fused_cases(fused_cases), note="Combined ranking from summaries and chunks; final case list before chunk fetch.")
+                
+                # If fusion produced cases, fetch top chunks per case to replace docs
+                if fused_cases:
+                    try:
+                        docs = fetch_top_chunks_for_cases(vs, retr_q, fused_cases, per_case_k=max(2, min(6, effective_k)))
+                        # Interleave to increase diversity in what we show and pass forward
+                        docs = interleave_docs_by_case(docs, per_case_limit=2, max_total=effective_k)
+                    except Exception as ge:
+                        _append_debug(f"[DEBUG][FetchChunks] error: {ge}")
+                        # keep original docs
                 
                 # Debug: Show what was retrieved
-                _append_debug("[DEBUG] Retrieved docs:")
-                for i, d in enumerate(docs[:6], 1):
-                    fs = d.metadata.get("file_stem")
-                    preview = (d.page_content or "").strip().replace("\n", " ")[:160]
-                    _append_debug(f"  {i}. file_stem={fs} ... {preview}")
+                _debug_section("Retrieved Previews", _fmt_retrieved_previews([
+                    {
+                        "file_stem": (d.metadata or {}).get("file_stem"),
+                        "preview": (d.page_content or "").strip().replace("\n", " ")[:200],
+                    }
+                    for d in docs[:12]
+                ]), note="First few chunks shown per case; this is what the filtration LLM sees.")
 
-                # Extract case file stems and load metadata
-                stems = sorted({(d.metadata or {}).get("file_stem") for d in docs if (d.metadata or {}).get("file_stem")})
+                # Extract case file stems and load metadata (prefer fused order if available)
+                if 'fused_cases' in locals() and fused_cases:
+                    stems = [fs for fs in fused_cases if fs]
+                else:
+                    stems = sorted({(d.metadata or {}).get("file_stem") for d in docs if (d.metadata or {}).get("file_stem")})
                 case_metas = []
-                for fs in stems:
+                for rank_idx, fs in enumerate(stems, 1):
                     try:
                         if not fs:
                             continue
                         mp = Path("processed_data/metadata") / f"{fs}.json"
                         if mp.exists():
-                            case_metas.append({"file_stem": fs, "metadata": __import__("json").loads(mp.read_text(encoding="utf-8"))})
+                            m = __import__("json").loads(mp.read_text(encoding="utf-8"))
+                            case_metas.append({"file_stem": fs, "rank": rank_idx, "metadata": m})
                     except Exception:
                         pass
+                _append_debug(f"[DEBUG][Cases] loaded metadata for {len(case_metas)} cases (ranked)")
 
                 # Step 3: Filtration - Use LLM to select most relevant chunks and cases
                 mode_key = "chunk" if filtration_mode == "chunk context filtration" else "metadata"
-                plan = filtration_retriever(retr_q, docs, mode=mode_key, case_metadatas=case_metas)
+                plan = filtration_retriever(
+                    retr_q,
+                    docs,
+                    mode=mode_key,
+                    case_metadatas=case_metas,
+                    desired_min_full_docs=effective_min_docs,
+                    desired_max_chunks_per_case=max_chunks_per_case,
+                )
                 
                 # Step 4: Named Case Guard - Ensure named cases are included
                 plan = apply_named_case_guard(plan, retr_q, docs)
+                # Step 4b: Diversity Guard - Enforce minimum full cases and cap chunks per case
+                try:
+                    plan = enforce_case_diversity(
+                        plan,
+                        fused_cases=fused_cases if 'fused_cases' in locals() else None,
+                        desired_min_full_docs=effective_min_docs,
+                        desired_max_chunks_per_case=max_chunks_per_case,
+                    )
+                    _append_debug(f"[DEBUG][Guard] after diversity: full_docs={len(plan.selected_full_docs)} chunks={len(plan.selected_chunks)}")
+                except Exception as ge2:
+                    _append_debug(f"[DEBUG][Guard] error: {ge2}")
                 
                 # Step 5: Context Assembly - Build final context from plan
-                budget_override = 400000 if model_name == "gpt-5-nano-2025-08-07" else plan.context_budget_tokens
+                # Effective budget: use model context window minus reserved completion headroom
+                ctx_limit = MODEL_CONTEXT_WINDOWS.get(model_name, 32768)
+                headroom = RESERVED_COMPLETION_TOKENS.get(model_name, 8000)
+                budget_override = max(4000, ctx_limit - headroom)
                 context, _, dbg = assemble_context_from_plan(
                     plan,
                     retr_q,
@@ -396,7 +701,7 @@ def main():
                 # Debug: Log filtration plan details
                 try:
                     import json as _json
-                    _append_debug(f"[DEBUG][Filtration] plan JSON: {_json.dumps(plan.model_dump(), indent=2)}")
+                    _debug_section("Filtration Plan", _fmt_filtration_plan(plan.model_dump()), note="LLM's selection of full cases and chunks.")
                 except Exception:
                     _append_debug(f"[DEBUG][Filtration] plan: full_docs={plan.selected_full_docs}, sel_chunks={len(plan.selected_chunks)}, budget={plan.context_budget_tokens}")
                 
@@ -416,7 +721,18 @@ def main():
                         except Exception:
                             pass
                 
-                _append_debug(f"[DEBUG][Filtration] assembler: est_tokens~{dbg.get('est_tokens')}, spans={dbg.get('spans')[:5]}")
+                # Report context vs model limits
+                try:
+                    ctx_tokens = dbg.get("est_tokens", 0)
+                except Exception:
+                    ctx_tokens = 0
+                limit_tokens = MODEL_CONTEXT_WINDOWS.get(model_name, 32768)
+                fit_note = "within limit" if ctx_tokens <= limit_tokens else "exceeds limit"
+                _debug_section(
+                    "Assembler",
+                    _fmt_assembler(dbg) + f"\ncontext tokens: {ctx_tokens} / limit: {limit_tokens} ({fit_note})\nEffective budget tokens (messages): {budget_override}\nReserved for completion: {headroom}",
+                    note="How the final context was built from selected items; includes token estimate and model limit check.",
+                )
                 
                 # Fallback: if filtration produced no context, use all retrieved chunks
                 if not context:
@@ -456,6 +772,7 @@ def main():
                     nonlocal answer
                     # Add user message to chat history
                     st.session_state.chat_history.add_user_message(user_q)
+                    # Ensure OpenRouter models also get the same prompt (already built above)
                     result = llm.stream(prompt)
                     for chunk in result:
                         # Extract content from chunk (may be AIMessage)
@@ -471,7 +788,19 @@ def main():
                         if isinstance(final_text, str) and not answer:
                             answer = final_text
             except Exception as e:
-                answer = f"[Error] {e}"
+                # Try to extract provider error details if present
+                err_str = str(e)
+                prov = provider_name
+                # Common fields that sometimes appear on OpenRouter-like errors
+                detail = None
+                try:
+                    # If error is JSON-ish
+                    import json as _json
+                    detail = _json.dumps(getattr(e, "__dict__", {}), indent=2)
+                except Exception:
+                    detail = None
+                answer = f"[Error] Provider returned error\nprovider={prov}\nmessage={err_str}\n{('details=' + detail) if detail else ''}"
+                _debug_section("Provider Error", {"provider": prov, "error": err_str, "details": detail}, note="Captured at stream failure; check provider dashboard if needed.")
 
             # Step 7: Update Session State - Store results for next query
             st.session_state.messages.append({"role": "assistant", "content": answer})
@@ -497,13 +826,24 @@ def main():
 
     # Debug Tab - Show detailed logs
     with debug_tab:
-        dcols = st.columns([1, 5])
-        with dcols[0]:
-            if st.button("Clear logs"):
-                st.session_state.debug_logs = []
-                st.session_state["debug_string"] = ""
+        if st.button("Clear logs", use_container_width=True):
+            st.session_state.debug_logs = []
+            st.session_state["debug_string"] = ""
+        
         logs_text = "\n".join(st.session_state.debug_logs) if st.session_state.get("debug_logs") else ""
-        st.text_area("Debug logs", value=logs_text, height=320, label_visibility="collapsed")
+        filt = st.text_input("Filter log (case-insensitive)", value="", help="Show only lines containing this text")
+        if filt:
+            try:
+                lines = logs_text.splitlines()
+                match = filt.lower()
+                lines = [ln for ln in lines if match in ln.lower()]
+                view_text = "\n".join(lines)
+            except Exception:
+                view_text = logs_text
+        else:
+            view_text = logs_text
+        st.text_area("Debug log", value=view_text or "(log empty)", height=700, label_visibility="collapsed")
+        st.download_button("Download log", data=logs_text, file_name="debug.log", mime="text/plain", use_container_width=True)
 
 
 if __name__ == "__main__":

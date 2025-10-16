@@ -10,6 +10,8 @@ import os
 from typing import List, Optional, Tuple, Dict, Any
 
 from dotenv import load_dotenv
+import psycopg
+from psycopg.rows import dict_row
 from langchain_community.document_loaders import TextLoader
 from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -163,6 +165,272 @@ def _get_pg_connection_string() -> str:
         or "postgresql://localhost:5432/legaldraftingsystemdb"
     )
 
+
+def ensure_case_summaries_schema(connection_string: str | None = None) -> None:
+    """
+    Ensure the Postgres FTS-backed case_summaries table and indexes exist.
+    Schema stores one row per case (file_stem) with a generated tsvector.
+    """
+    conn = connection_string or _get_pg_connection_string()
+    with psycopg.connect(conn) as cx:
+        with cx.cursor() as cur:
+            cur.execute(
+                """
+                CREATE TABLE IF NOT EXISTS case_summaries (
+                    file_stem TEXT PRIMARY KEY,
+                    title TEXT,
+                    summary TEXT,
+                    final_judgment TEXT,
+                    court_name TEXT,
+                    year INT,
+                    statutes TEXT[],
+                    ts tsvector
+                );
+                """
+            )
+            cur.execute(
+                """
+                CREATE INDEX IF NOT EXISTS case_summaries_ts_idx
+                ON case_summaries USING GIN (ts);
+                """
+            )
+            cur.execute(
+                """
+                CREATE INDEX IF NOT EXISTS case_summaries_filters_idx
+                ON case_summaries (court_name, year);
+                """
+            )
+        cx.commit()
+
+
+def _derive_title_from_parties(meta: dict) -> str:
+    parties = (meta or {}).get("parties") or {}
+    pet = parties.get("petitioner") or parties.get("appellant") or ""
+    resp = parties.get("respondent") or parties.get("respondents") or ""
+    if pet or resp:
+        return f"{pet} vs {resp}".strip()
+    return (meta or {}).get("case_number") or ""
+
+
+def _derive_year(meta: dict) -> Optional[int]:
+    date_str = (meta or {}).get("date_of_judgment") or ""
+    if isinstance(date_str, str) and len(date_str) >= 4 and date_str[:4].isdigit():
+        try:
+            return int(date_str[:4])
+        except Exception:
+            return None
+    return None
+
+
+def upsert_all_case_summaries_from_metadata(meta_dir: str = "processed_data/metadata", connection_string: str | None = None) -> int:
+    """
+    Read metadata JSONs and upsert one summary row per case into case_summaries.
+    Returns the number of rows upserted.
+    """
+    ensure_case_summaries_schema(connection_string)
+    conn = connection_string or _get_pg_connection_string()
+    count = 0
+    with psycopg.connect(conn) as cx:
+        with cx.cursor() as cur:
+            for p in sorted(Path(meta_dir).glob("*.json"), key=lambda q: int(q.stem) if q.stem.isdigit() else q.stem):
+                try:
+                    meta = json.loads(p.read_text(encoding="utf-8"))
+                except Exception:
+                    meta = {}
+                file_stem = p.stem
+                title = _derive_title_from_parties(meta)
+                summary = (meta or {}).get("summary") or ""
+                final_judgment = (meta or {}).get("final_judgment") or ""
+                court_name = (meta or {}).get("court_name") or None
+                year = _derive_year(meta)
+                statutes_list = (meta or {}).get("legal_provisions_cited") or []
+                if statutes_list and not isinstance(statutes_list, list):
+                    statutes_list = [str(statutes_list)]
+                try:
+                    cur.execute(
+                        """
+                        INSERT INTO case_summaries
+                            (file_stem, title, summary, final_judgment, court_name, year, statutes, ts)
+                        VALUES (%s, %s, %s, %s, %s, %s, %s,
+                            to_tsvector('english',
+                                coalesce(%s,'') || ' ' || coalesce(%s,'') || ' ' || coalesce(%s,'') || ' ' ||
+                                array_to_string(coalesce(%s, ARRAY[]::text[]), ' ')
+                            )
+                        )
+                        ON CONFLICT (file_stem) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            summary = EXCLUDED.summary,
+                            final_judgment = EXCLUDED.final_judgment,
+                            court_name = EXCLUDED.court_name,
+                            year = EXCLUDED.year,
+                            statutes = EXCLUDED.statutes,
+                            ts = EXCLUDED.ts
+                        """,
+                        (
+                            file_stem, title, summary, final_judgment, court_name, year, statutes_list,
+                            title, summary, final_judgment, statutes_list,
+                        ),
+                    )
+                    count += 1
+                except Exception:
+                    # Skip problematic rows but continue overall
+                    continue
+        cx.commit()
+    return count
+
+
+def summary_search_pg(
+    user_q: str,
+    court_name: Optional[str] = None,
+    statutes: Optional[List[str]] = None,
+    year: Optional[int] = None,
+    limit: int = 50,
+    connection_string: str | None = None,
+) -> List[Tuple[str, float]]:
+    """
+    Run Postgres FTS over case summaries/titles/final results and return
+    (file_stem, rank) pairs ordered by rank desc.
+    Applies optional filters for court_name, year, and statutes.
+    """
+    ensure_case_summaries_schema(connection_string)
+    conn = connection_string or _get_pg_connection_string()
+    where_clauses = ["ts @@ websearch_to_tsquery('english', %s)"]
+    # First param will be used by ts_rank (SELECT), second by WHERE ts @@ ...
+    params: List[Any] = [user_q, user_q]
+    if court_name:
+        where_clauses.append("court_name = %s")
+        params.append(court_name)
+    if isinstance(year, int):
+        where_clauses.append("year = %s")
+        params.append(year)
+    if statutes:
+        # overlap with any of the provided statutes; cast to text[] for safety
+        where_clauses.append("statutes && %s::text[]")
+        params.append(statutes)
+    sql = (
+        "SELECT file_stem, ts_rank(ts, websearch_to_tsquery('english', %s)) AS rank "
+        "FROM case_summaries "
+        f"WHERE {' AND '.join(where_clauses)} "
+        "ORDER BY rank DESC "
+        "LIMIT %s"
+    )
+    params2 = params + [limit]
+    results: List[Tuple[str, float]] = []
+    with psycopg.connect(conn, row_factory=dict_row) as cx:
+        with cx.cursor() as cur:
+            cur.execute(sql, params2)
+            for row in cur.fetchall():
+                fs = row.get("file_stem")
+                rk = float(row.get("rank") or 0.0)
+                if fs:
+                    results.append((fs, rk))
+    return results
+
+
+def fuse_cases_by_rrf(
+    summary_ranked: List[Tuple[str, float]],
+    chunk_docs: List[Document],
+    k: int = 60,
+    top_n: int = 30,
+) -> List[str]:
+    """
+    Reciprocal Rank Fusion at case-level.
+    - summary_ranked: list of (file_stem, rank_score_desc)
+    - chunk_docs: vector results at chunk level; we collapse to best rank per file_stem
+    Returns a list of fused file_stem ordered by descending RRF score.
+    """
+    # Build rank positions (1-based) for summaries
+    s_rankpos: Dict[str, int] = {}
+    for idx, (fs, _rk) in enumerate(summary_ranked):
+        if fs not in s_rankpos:
+            s_rankpos[fs] = idx + 1
+    # Build rank positions (1-based) for chunks collapsed to cases
+    c_rankpos: Dict[str, int] = {}
+    seen: Dict[str, int] = {}
+    for idx, d in enumerate(chunk_docs):
+        fs = (d.metadata or {}).get("file_stem")
+        if not fs:
+            continue
+        pos = idx + 1
+        prev = seen.get(fs)
+        if prev is None or pos < prev:
+            seen[fs] = pos
+    c_rankpos = seen
+    # Union of cases
+    all_cases = set(s_rankpos) | set(c_rankpos)
+    scored: List[Tuple[str, float]] = []
+    for fs in all_cases:
+        s_pos = s_rankpos.get(fs)
+        c_pos = c_rankpos.get(fs)
+        score = 0.0
+        if s_pos is not None:
+            score += 1.0 / (k + s_pos)
+        if c_pos is not None:
+            score += 1.0 / (k + c_pos)
+        scored.append((fs, score))
+    scored.sort(key=lambda x: x[1], reverse=True)
+    return [fs for fs, _ in scored[:top_n]]
+
+
+def fetch_top_chunks_for_cases(
+    vectorstore: PGVector,
+    user_q: str,
+    file_stems: List[str],
+    per_case_k: int = 6,
+) -> List[Document]:
+    """
+    For each case in file_stems order, fetch up to per_case_k chunks via the
+    vectorstore constrained by file_stem.
+    """
+    docs: List[Document] = []
+    for fs in file_stems:
+        try:
+            batch = vectorstore.similarity_search(user_q, k=per_case_k, filter={"file_stem": fs})
+            docs.extend(batch)
+        except Exception:
+            continue
+    return docs
+
+
+def interleave_docs_by_case(
+    docs: List[Document],
+    per_case_limit: int = 2,
+    max_total: Optional[int] = None,
+) -> List[Document]:
+    """
+    Round-robin interleave documents across cases (by file_stem) to improve
+    diversity shown to downstream steps and debugging. Limits per-case and total.
+    """
+    if not docs:
+        return []
+    by_case: Dict[str, List[Document]] = {}
+    for d in docs:
+        fs = (d.metadata or {}).get("file_stem")
+        if not fs:
+            fs = "__unknown__"
+        lst = by_case.get(fs)
+        if lst is None:
+            lst = []
+            by_case[fs] = lst
+        if per_case_limit <= 0 or len(lst) < per_case_limit:
+            lst.append(d)
+    # Round-robin emit
+    queues = list(by_case.values())
+    out: List[Document] = []
+    idx = 0
+    while queues:
+        i = idx % len(queues)
+        bucket = queues[i]
+        if bucket:
+            out.append(bucket.pop(0))
+            if max_total is not None and len(out) >= max_total:
+                break
+        if not bucket:
+            queues.pop(i)
+            # do not increment idx here to not skip next bucket
+        else:
+            idx += 1
+    return out
 
 def ingest_chunks_to_pgvector(
     chunks: List[Document],
@@ -357,7 +625,8 @@ class FiltrationPlan(BaseModel):
     selected_full_docs: List[str] = []
     selected_chunks: List[ChunkRef] = []
     drop_chunks: List[ChunkRef] = []
-    context_budget_tokens: int = 6000
+    # Unused; assembler uses model context window. Kept for backward compatibility.
+    context_budget_tokens: int = 0
     reasoning_full_docs: List[ReasonFullDoc] = []
     reasoning_chunks: List[ReasonChunk] = []
     overall_reasoning: Optional[str] = None
@@ -381,7 +650,14 @@ def _build_chunk_previews(docs: List[Document], max_chars: int = 800) -> List[di
     return previews
 
 
-def filtration_retriever(user_q: str, docs: List[Document], mode: str = "chunk", case_metadatas: Optional[List[dict]] = None) -> FiltrationPlan:
+def filtration_retriever(
+    user_q: str,
+    docs: List[Document],
+    mode: str = "chunk",
+    case_metadatas: Optional[List[dict]] = None,
+    desired_min_full_docs: int = 3,
+    desired_max_chunks_per_case: int = 2,
+) -> FiltrationPlan:
     """
     Select most relevant documents/chunks using an LLM planning step.
 
@@ -402,7 +678,7 @@ def filtration_retriever(user_q: str, docs: List[Document], mode: str = "chunk",
     system_msg = (
         "You are a legal expert filtration retriever. You will receive a user question and previews of chunks "
         "retrieved by a RAG system from a legal judgments database (and sometimes case-level metadata). Your job is to: (1) select only the most relevant chunks, "
-        "(2) request full-document retrieval for specific cases if the question likely requires full-case context (e.g., a full summary is requested, or previews don't contain the key answer but clearly belong to the target case), and (3) propose a context budget.\n\n"
+        "(2) request full-document retrieval for specific cases if the question likely requires full-case context (e.g., a full summary is requested, or previews don't contain the key answer but clearly belong to the target case).\n\n"
         "Strict rules:\n"
         "- Prefer chunks/cases whose previews contain exact or near-exact mentions from the question (party names, case number, court, date).\n"
         "- If the question clearly names a specific case, prioritize that case.\n"
@@ -410,20 +686,26 @@ def filtration_retriever(user_q: str, docs: List[Document], mode: str = "chunk",
         "- Remove irrelevant chunks to keep the context concise.\n"
         "- Output STRICT JSON matching the schema only (no prose).\n"
         "- You MUST include concise reasoning for each selected_full_docs item and each selected_chunks item (short phrase per item), and set overall_reasoning with a 1-2 sentence summary. Do not leave reasoning arrays empty.\n"
-        "- Suggest an appropriate context_budget_tokens (e.g., 6000-20000) considering model limits.\n"
         "- Do NOT use external knowledge beyond the provided previews or metadata."
-        "- When case-level metadata is provided, use it to disambiguate parties/court/sections and prefer exact matches."
+        "- When case-level metadata is provided, use it to disambiguate parties/court/sections and prefer exact matches.\n\n"
+        "Diversity & coverage directives (very important):\n"
+        "- For broad or general overview questions, prefer selecting a *diverse set of cases* (3–6 distinct file_stem) spanning different facets (years/courts/outcomes/statutes) rather than focusing on a single case.\n"
+        "- Avoid selecting many chunks from only one case unless the question *explicitly* requests a deep dive into that single case.\n"
+        "- Always include at least 3 distinct cases when the question is general and not tied to a specific named case.\n"
     )
     user_payload = {
         "question": user_q,
         "mode": mode,
         "chunks": previews,
         "cases": (case_metadatas or []),
+        "preferences": {
+            "desired_min_full_docs": max(1, int(desired_min_full_docs or 1)),
+            "desired_max_chunks_per_case": max(1, int(desired_max_chunks_per_case or 1)),
+        },
         "schema": {
             "selected_full_docs": ["<file_stem>"],
             "selected_chunks": [{"file_stem": "<file_stem>", "chunk_index": 0}],
             "drop_chunks": [{"file_stem": "<file_stem>", "chunk_index": 0}],
-            "context_budget_tokens": 6000,
             "reasoning_full_docs": [{"file_stem": "<file_stem>", "reason": "why this case is needed"}],
             "reasoning_chunks": [{"file_stem": "<file_stem>", "chunk_index": 0, "reason": "why this chunk"}],
             "overall_reasoning": "optional global rationale",
@@ -460,7 +742,41 @@ def filtration_retriever(user_q: str, docs: List[Document], mode: str = "chunk",
             ci = d.metadata.get("chunk_index", 0)
             if fs is not None:
                 sel_chunks.append(ChunkRef(file_stem=fs, chunk_index=ci))
-        return FiltrationPlan(selected_full_docs=sel_full, selected_chunks=sel_chunks, drop_chunks=[], context_budget_tokens=6000)
+        return FiltrationPlan(selected_full_docs=sel_full, selected_chunks=sel_chunks, drop_chunks=[], context_budget_tokens=0)
+
+
+def enforce_case_diversity(
+    plan: FiltrationPlan,
+    fused_cases: Optional[List[str]] = None,
+    desired_min_full_docs: int = 3,
+    desired_max_chunks_per_case: int = 2,
+) -> FiltrationPlan:
+    """
+    Deterministic guard: ensure a minimum number of distinct full docs and cap
+    chunks per case to avoid domination by a single case.
+    """
+    # Top-up full docs
+    need = max(0, int(desired_min_full_docs or 0) - len(plan.selected_full_docs))
+    if need > 0 and fused_cases:
+        existing = set(plan.selected_full_docs)
+        for fs in fused_cases:
+            if fs not in existing:
+                plan.selected_full_docs.append(fs)
+                existing.add(fs)
+                need -= 1
+                if need <= 0:
+                    break
+    # Cap chunks per case
+    if plan.selected_chunks:
+        capped: List[ReasonChunk] = []
+        per_case_count: Dict[str, int] = {}
+        for c in plan.selected_chunks:
+            cnt = per_case_count.get(c.file_stem, 0)
+            if cnt < max(1, int(desired_max_chunks_per_case or 1)):
+                capped.append(c)
+                per_case_count[c.file_stem] = cnt + 1
+        plan.selected_chunks = capped
+    return plan
 
 
 def _token_estimate_from_chars(chars: int) -> int:

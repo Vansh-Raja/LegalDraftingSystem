@@ -3,7 +3,7 @@ Data ingestion module for the Legal Drafting System.
 Processes text files and metadata, then ingests them into the PGVector database.
 """
 
-from rag import load_and_chunk_cases, ingest_chunks_to_pgvector_batched, get_vectorstore
+from rag import load_and_chunk_cases, ingest_chunks_to_pgvector_batched, get_vectorstore, upsert_all_case_summaries_from_metadata
 from pathlib import Path
 import json
 
@@ -45,6 +45,12 @@ def run_ingest(batch_size: int = 128) -> None:
         return
 
     print(f"Found {len(stems)} documents with metadata.")
+    # Ensure summary index is up to date
+    try:
+        up_cnt = upsert_all_case_summaries_from_metadata("processed_data/metadata")
+        print(f"Upserted {up_cnt} case summaries into Postgres FTS index.")
+    except Exception as e:
+        print(f"Warning: could not upsert case summaries ({e}). Continuing with vector ingestion.")
 
     # Step 2: Load and chunk only documents with metadata
     print("Loading and chunking documents...")

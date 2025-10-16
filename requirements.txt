@@ -9,5 +9,5 @@ langchain-text-splitters
 langchain-core
 langchain-postgres
 langchain-ollama
-psycopg2
+psycopg[binary]
 streamlit

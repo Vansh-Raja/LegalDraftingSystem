@@ -33,6 +33,7 @@ class QueryPlan(BaseModel):
     target_stems: List[str] = []
     statutes: List[str] = []
     retrieval_k: Optional[int] = None
+    min_full_docs: Optional[int] = None
     reason: Optional[str] = None
 
 
@@ -129,6 +130,7 @@ def process_query(
     last_filters: Optional[dict] = None,
     last_context_snippet: Optional[str] = None,
     summary: Optional[str] = None,
+    manual_mode: bool = False,
 ) -> QueryPlan:
     """
     Classify and create execution plan for user query using LLM.
@@ -153,17 +155,22 @@ def process_query(
     api_key = os.getenv("OPENAI_KEY")
     client = OpenAI(api_key=api_key)
 
-    # System prompt for query classification and planning
-    system_msg = (
+    # System prompts
+    system_msg_auto = (
         "You are a query-processor for a legal RAG assistant. Return STRICT JSON with fields: "
-        "{type, rewrite, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, reason}.\n"
+        "{type, rewrite, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, min_full_docs, reason}.\n"
         "Rules: type is one of followup | new | general_law.\n"
         "ROUTING: Only route to general_law if the question is extremely broad and non-specific (short, no case/statute markers).\n"
         "If there is ANY specificity (numbers, dates, party names, sections, court names, or concrete scenario), choose new or followup for retrieval.\n"
         "If followup, decide keep_context (true if the current context already contains the case/material needed). "
         "If the user appears to ask for similar cases or statutes beyond current context, set bridging_strategy=statute_refill or adjacent; if they want the same case full, set same_case_full. "
-        "Always produce a helpful standalone rewrite for retrieval; expand acronyms and include entities (parties, court, date, case numbers) if known.\n\n"
+        "Always produce a helpful standalone rewrite for retrieval; expand acronyms and include entities (parties, court, date, case numbers) if known. "
+        "Keep the rewrite concise and keyword-rich (≤ 20 tokens).\n\n"
         "TOP-K SELECTION: When appropriate, set retrieval_k as follows (use judgment; integers only):\n"
+        "MIN FULL DOCS: Suggest min_full_docs (integer) ~ proportional to retrieval_k and breadth of query.\n"
+        "- Broad/overview queries: min_full_docs ~ 3-6 (at least 2).\n"
+        "- Case-specific queries: min_full_docs ~ 2-3.\n"
+        "Never return less than 2.\n\n"
         "- General/very broad questions (no specific case/statute): retrieval_k ~ 12-20\n"
         "- Typical topic queries: retrieval_k ~ 8-12\n"
         "- Case-specific or tightly-focused follow-ups: retrieval_k ~ 4-6\n"
@@ -174,6 +181,29 @@ def process_query(
         "Q: 'In John Kennedy vs State of Tamil Nadu, what was the final order?' -> {\"type\": \"new\", \"rewrite\": \"Final order in A. John Kennedy vs State of Tamil Nadu, 2025 INSC 443 (Supreme Court of India)\", \"keep_context\": false, \"bridging_strategy\": \"same_case_full\", \"target_stems\": [\"1\"], \"statutes\": [], \"retrieval_k\": 6, \"reason\": \"Specific case named\"}\n"
         "Q: 'Also list similar cases where IPC 302 was applied' (after a case turn) -> {\"type\": \"followup\", \"rewrite\": \"Supreme Court decisions applying IPC Section 302 similar to <last case>\", \"keep_context\": true, \"bridging_strategy\": \"statute_refill\", \"target_stems\": [], \"statutes\": [\"IPC s.302\"], \"retrieval_k\": 8, \"reason\": \"Follow-up requesting similar cases by statute\"}"
     )
+    system_msg_manual = (
+        "You are a query-processor for a legal RAG assistant. Return STRICT JSON with fields: "
+        "{type, rewrite, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, min_full_docs, reason}.\n"
+        "Rules: type is one of followup | new.\n"
+        "ROUTING: Do NOT route to general_law. If there is ANY specificity (numbers, dates, party names, sections, court names, or concrete scenario), choose new or followup for retrieval.\n"
+        "If followup, decide keep_context (true if the current context already contains the case/material needed). "
+        "If the user appears to ask for similar cases or statutes beyond current context, set bridging_strategy=statute_refill or adjacent; if they want the same case full, set same_case_full. "
+        "Always produce a helpful standalone rewrite for retrieval; expand acronyms and include entities (parties, court, date, case numbers) if known. "
+        "Keep the rewrite concise and keyword-rich (≤ 20 tokens).\n\n"
+        "TOP-K SELECTION: When appropriate, set retrieval_k as follows (use judgment; integers only):\n"
+        "MIN FULL DOCS: Suggest min_full_docs (integer) ~ proportional to retrieval_k and breadth of query.\n"
+        "- Broad/overview queries: min_full_docs ~ 3-6 (at least 2).\n"
+        "- Case-specific queries: min_full_docs ~ 2-3.\n"
+        "Never return less than 2.\n\n"
+        "- General/very broad questions (no specific case/statute): retrieval_k ~ 12-20\n"
+        "- Typical topic queries: retrieval_k ~ 8-12\n"
+        "- Case-specific or tightly-focused follow-ups: retrieval_k ~ 4-6\n"
+        "If uncertain, pick 8.\n\n"
+        "EXAMPLES (label -> JSON):\n"
+        "Q: 'In John Kennedy vs State of Tamil Nadu, what was the final order?' -> {\"type\": \"new\", \"rewrite\": \"Final order in A. John Kennedy vs State of Tamil Nadu, 2025 INSC 443 (Supreme Court of India)\", \"keep_context\": false, \"bridging_strategy\": \"same_case_full\", \"target_stems\": [\"1\"], \"statutes\": [], \"retrieval_k\": 6, \"reason\": \"Specific case named\"}\n"
+        "Q: 'Also list similar cases where IPC 302 was applied' (after a case turn) -> {\"type\": \"followup\", \"rewrite\": \"Supreme Court decisions applying IPC Section 302 similar to <last case>\", \"keep_context\": true, \"bridging_strategy\": \"statute_refill\", \"target_stems\": [], \"statutes\": [\"IPC s.302\"], \"retrieval_k\": 8, \"reason\": \"Follow-up requesting similar cases by statute\"}"
+    )
+    system_msg = system_msg_manual if manual_mode else system_msg_auto
 
     # Prepare payload with context information
     payload = {
@@ -191,6 +221,7 @@ def process_query(
             "target_stems": ["7", "21"],
             "statutes": ["IPC s.302"],
             "retrieval_k": 12,
+            "min_full_docs": 3,
             "reason": "short explanation",
         },
     }
