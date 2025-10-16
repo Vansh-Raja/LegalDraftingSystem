@@ -2,6 +2,9 @@
 judgements/
 processed_data/
 
+#AI-tools
+AGENTS.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

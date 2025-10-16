@@ -32,6 +32,7 @@ MODEL_CONTEXT_WINDOWS = {
     "gpt-5-nano-2025-08-07": 400000,
     "openai/gpt-oss-120b": 131072,
     "openai/gpt-oss-20b": 131072,
+    "meta-llama/llama-4-scout": 327700,
     "qwen/qwen3-235b-a22b": 40960,
     "qwen/qwen3-14b": 40960,
     "qwen3:latest": 32768,
@@ -42,6 +43,7 @@ RESERVED_COMPLETION_TOKENS = {
     "gpt-5-nano-2025-08-07": 20000,
     "openai/gpt-oss-120b": 8192,
     "openai/gpt-oss-20b": 8192,
+    "meta-llama/llama-4-scout": 20000,
     "qwen/qwen3-235b-a22b": 16000,
     "qwen/qwen3-14b": 16000,
     "qwen3:latest": 16000,
@@ -125,6 +127,7 @@ def _init_models():
             # OpenRouter models (via OpenAI-compatible API)
             "openai/gpt-oss-120b",
             "openai/gpt-oss-20b",
+            "meta-llama/llama-4-scout",
             "qwen/qwen3-235b-a22b",
             "qwen/qwen3-14b",
         ]
@@ -134,6 +137,7 @@ def _init_models():
     openrouter_models = {
         "openai/gpt-oss-120b",
         "openai/gpt-oss-20b",
+        "meta-llama/llama-4-scout",
         "qwen/qwen3-235b-a22b",
         "qwen/qwen3-14b",
     }
@@ -155,13 +159,18 @@ def _init_models():
             provider_name = "ollama"
         else:
             # Use OpenRouter via OpenAI-compatible LangChain client
-            llm = ChatOpenAI(
-                model=model,
-                temperature=0,
-                streaming=True,
-                api_key=or_key,
-                base_url="https://openrouter.ai/api/v1",
-            )
+            chat_kwargs = {
+                "model": model,
+                "temperature": 0,
+                "streaming": True,
+                "api_key": or_key,
+                "base_url": "https://openrouter.ai/api/v1",
+            }
+            if model == "meta-llama/llama-4-scout":
+                chat_kwargs["model_kwargs"] = {
+                    "extra_body": {"provider": {"only": ["deepinfra/fp8"]}}
+                }
+            llm = ChatOpenAI(**chat_kwargs)
             provider_name = "openrouter"
     else:
         llm = ChatOllama(model="qwen3:latest", temperature=0, streaming=True, num_ctx=40000)
@@ -848,5 +857,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
