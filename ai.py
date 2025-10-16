@@ -296,13 +296,13 @@ def extract_metadata_with_openai_nano(text: str) -> dict:
         # Debug: show raw model output for diagnostics
         try:
             preview = content[:800]
-            print(f"[DEBUG][OpenAI Nano] Raw reply preview (len={len(content)}):\n{preview}")
+            _log_debug(f"[DEBUG][OpenAI Nano] Raw reply preview (len={len(content)}):\n{preview}")
         except Exception:
             pass
         
         parsed = _ensure_json_dict(content)
         if _is_empty_metadata(parsed):
-            print("[DEBUG][OpenAI Nano] Parsed empty metadata. See raw preview above.")
+            _log_debug("[DEBUG][OpenAI Nano] Parsed empty metadata. See raw preview above.")
         return parsed
     except Exception as e:
         logging.error(f"Error during OpenAI Nano call: {e}")
@@ -424,5 +424,4 @@ def extract_metadata_with_ollama(text: str, model: str = "qwen3:latest") -> dict
     response = ollama.chat(model=model, messages=messages, options={"temperature": 0})
     content = (response.get("message") or {}).get("content") or ""
     return _ensure_json_dict(content)
-
 

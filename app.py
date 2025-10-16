@@ -6,9 +6,10 @@ Provides a web interface for legal document Q&A using RAG (Retrieval-Augmented G
 import os
 import json
 from pathlib import Path
-from typing import List, Optional
+from typing import Dict, List, Optional, Tuple
 
 import streamlit as st
+from time_utils import now_ist_stamp
 from dotenv import load_dotenv
 
 from langchain_core.chat_history import InMemoryChatMessageHistory
@@ -181,7 +182,7 @@ def _init_models():
     # Sidebar filters removed; planner handles filtering via rewrite
     statutes = None
     court_name = "Supreme Court of India"
-    
+
     return llm, model, filtration_mode, k_val, court_name, statutes, query_sort_mode, min_full_cases, max_chunks_per_case, auto_min_docs, provider_name
 
 
@@ -244,9 +245,10 @@ def _append_debug(msg: str):
     Args:
         msg (str): Debug message to add
     """
-    st.session_state.debug_logs.append(msg)
+    ts_msg = f"{now_ist_stamp()} {msg}"
+    st.session_state.debug_logs.append(ts_msg)
     try:
-        sdebug(msg)  # Also add to Streamlit debug window
+        sdebug(ts_msg)  # Also add to Streamlit debug window
     except Exception:
         pass  # Ignore debug window errors
 
@@ -432,6 +434,84 @@ def _load_case_metadata_for_stems(stems: List[str], qp_breadth: str) -> List[dic
     return metas
 
 
+_PIPELINE_STAGES: List[Tuple[str, str]] = [
+    ("planner", "Rewriting query"),
+    ("retrieval", "Retrieving information"),
+    ("filtration", "Filtering relevant documents"),
+    ("assembly", "Assembling context"),
+    ("answer", "Generating answer"),
+]
+
+import streamlit as st
+
+class PipelineTracker:
+    """
+    Lightweight helper to surface pipeline progress in the Streamlit UI.
+    """
+
+    def __init__(self, stages: Optional[List[Tuple[str, str]]] = None):
+        self.stages = stages or _PIPELINE_STAGES
+        self.stage_labels: Dict[str, str] = {key: label for key, label in self.stages}
+        self.stage_index: Dict[str, int] = {key: idx for idx, (key, _label) in enumerate(self.stages)}
+        self.failed = False
+        self.current_stage: Optional[str] = None
+        self.total_stages = max(1, len(self.stages))
+
+        # Visual elements
+        self.status_box = st.status("Starting pipeline…", state="running", expanded=True)
+        with self.status_box:
+            self.progress_bar = st.progress(0)
+
+    def _progress_for_stage(self, key: str) -> None:
+        idx = self.stage_index.get(key)
+        if idx is None:
+            return
+        percent = int(round(((idx + 1) / self.total_stages) * 100))
+        if self.progress_bar is not None:
+            self.progress_bar.progress(percent)
+
+    def stage_running(self, key: str, message: Optional[str] = None) -> None:
+        if key not in self.stage_labels:
+            return
+        self.current_stage = key
+        label = message or self.stage_labels[key]
+        self.status_box.update(label=label, state="running", expanded=True)
+
+    def stage_complete(self, key: str, detail: Optional[str] = None) -> None:
+        if key not in self.stage_labels:
+            return
+        completion_label = detail or f"{self.stage_labels[key]} complete"
+        self._progress_for_stage(key)
+        self.status_box.update(label=completion_label, state="running", expanded=True)
+
+    def stage_skip(self, key: str, detail: Optional[str] = None) -> None:
+        if key not in self.stage_labels:
+            return
+        skip_label = detail or f"Skipped {self.stage_labels[key]}"
+        self._progress_for_stage(key)
+        self.status_box.update(label=skip_label, state="running", expanded=True)
+
+    def stage_error(self, key: str, detail: str) -> None:
+        if key not in self.stage_labels:
+            return
+        err_label = f"Error during {self.stage_labels[key]}"
+        self._progress_for_stage(key)
+        self.failed = True
+        self.status_box.update(label=f"{err_label}: {detail}", state="error", expanded=True)
+
+    def finish(self, detail: Optional[str] = None) -> None:
+        final_label = detail or ("Pipeline finished with issues" if self.failed else "Pipeline complete")
+        final_state = "error" if self.failed else "complete"
+        if self.progress_bar is not None:
+            self.progress_bar.empty()
+            self.progress_bar = None
+        self.status_box.update(label=final_label, state=final_state, expanded=False)
+        if not self.failed:
+            st.toast("Answer Generated", icon="✅", duration="short")
+            self.status_box.empty()
+            self.status_box = None
+
+
 def main():
     """
     Main Streamlit application function.
@@ -472,6 +552,9 @@ def main():
                 with st.chat_message("user"):
                     st.markdown(user_q)
 
+            tracker = PipelineTracker()
+            tracker.stage_running("planner", "Rewriting query…")
+
             # Step 1: Query Processing - Classify and plan the query
             qp: QueryPlan = process_query(
                 user_q,
@@ -504,6 +587,7 @@ def main():
                 _append_debug("[DEBUG][QP] Manual mode: forced 'new' and retrieval-oriented rewrite")
 
             qp_breadth = getattr(qp, "breadth", "unknown")
+            tracker.stage_complete("planner", f"type={getattr(qp, 'type', 'unknown')} breadth={qp_breadth}")
 
             # Decide effective Top-K (retrieval depth)
             auto_topk_enabled = bool(st.session_state.get("auto_topk", True))
@@ -557,10 +641,15 @@ def main():
             strategy = ""
 
             # Step 2: Context Strategy - Choose how to handle the query
+            tracker.stage_running("retrieval", "Retrieving information…")
+            retrieval_notes: List[str] = []
             if qp.type == "general_law":
                 # General legal knowledge - no document retrieval needed
                 strategy = "general_law"
                 # context remains empty
+                tracker.stage_skip("retrieval", "General-law routing (no retrieval).")
+                tracker.stage_skip("filtration", "General-law routing (skipped).")
+                tracker.stage_skip("assembly", "General-law routing (skipped).")
             elif qp.type == "followup" and qp.keep_context and st.session_state.last_context:
                 # Reuse context from previous query
                 strategy = "reuse_last_context"
@@ -568,6 +657,17 @@ def main():
                 docs = st.session_state.last_docs or []
                 stems = st.session_state.last_stems or []
                 dbg = {"est_tokens": len(context)//4, "spans": []}
+                reused_details = {
+                    "chars": len(context),
+                    "est_tokens": len(context) // 4,
+                    "cases_cached": stems,
+                    "filters_cached": st.session_state.last_filters,
+                }
+                _debug_section(
+                    "Context Reuse (followup)",
+                    reused_details,
+                    note="Leveraged previous answer context; no new retrieval yet.",
+                )
                 # Step 2a: Bridging Strategies - Enhance context based on query plan
                 
                 # Strategy: Add more documents by statute filters
@@ -583,6 +683,7 @@ def main():
                         )
                         refill_docs = retriever_refill.invoke(retr_q)
                         if refill_docs:
+                            retrieval_notes.append(f"Statute refill {len(refill_docs)} chunk(s)")
                             # Get case metadata for filtration
                             stems_refill = sorted({(d.metadata or {}).get("file_stem") for d in refill_docs if (d.metadata or {}).get("file_stem")})
                             case_metas_refill = _load_case_metadata_for_stems(stems_refill, qp_breadth)
@@ -626,6 +727,16 @@ def main():
                                 context = (context + "\n\n---\n\n" + context_refill) if context else context_refill
                                 _append_debug("[DEBUG][Bridge] statute_refill merged additional context")
                                 strategy = "reuse_last_context+statute_refill"
+                                merged_info = {
+                                    "chars": len(context),
+                                    "est_tokens": len(context) // 4,
+                                    "merge_components": ["previous_context", "statute_refill"],
+                                }
+                                _debug_section(
+                                    "Context After Statute Refill",
+                                    merged_info,
+                                    note="Cached context plus refill additions passed to assembler/answer.",
+                                )
                     except Exception as be:
                         _append_debug(f"[DEBUG][Bridge] statute_refill error: {be}")
                 
@@ -640,8 +751,21 @@ def main():
                             context = header + raw
                             strategy = "same_case_full"
                             _append_debug(f"[DEBUG][Bridge] same_case_full loaded {dominant}.txt")
+                            _debug_section(
+                                "Context After Same Case Full",
+                                {
+                                    "file_loaded": dominant,
+                                    "chars": len(context),
+                                    "est_tokens": len(context) // 4,
+                                },
+                                note="Entire dominant case inserted as context for follow-up answer.",
+                            )
                     except Exception as se:
                         _append_debug(f"[DEBUG][Bridge] same_case_full error: {se}")
+                reuse_detail = "; ".join(retrieval_notes) if retrieval_notes else "Reused previous context"
+                tracker.stage_complete("retrieval", reuse_detail)
+                tracker.stage_skip("filtration", "Context reused from previous turn.")
+                tracker.stage_skip("assembly", "Context reused from previous turn.")
             else:
                 # Step 2b: Fresh Retrieval - New query requires document search
                 retr_q = qp.rewrite or user_q
@@ -734,6 +858,9 @@ def main():
                     stems = sorted({(d.metadata or {}).get("file_stem") for d in docs if (d.metadata or {}).get("file_stem")})
                 case_metas = _load_case_metadata_for_stems(stems, qp_breadth)
                 _append_debug(f"[DEBUG][Cases] loaded metadata for {len(case_metas)} cases (ranked, breadth={qp_breadth})")
+                retrieval_detail = f"{len(docs)} chunk(s) across {len(stems)} case(s)"
+                tracker.stage_complete("retrieval", retrieval_detail)
+                tracker.stage_running("filtration", "Filtering relevant documents…")
 
                 query_context_payload = {
                     "breadth": qp_breadth,
@@ -772,6 +899,11 @@ def main():
                     _append_debug(f"[DEBUG][Guard] after diversity: full_docs={len(plan.selected_full_docs)} chunks={len(plan.selected_chunks)}")
                 except Exception as ge2:
                     _append_debug(f"[DEBUG][Guard] error: {ge2}")
+                tracker.stage_complete(
+                    "filtration",
+                    f"{len(plan.selected_full_docs)} full doc(s); {len(plan.selected_chunks)} chunk(s)",
+                )
+                tracker.stage_running("assembly", "Assembling context…")
                 
                 # Step 5: Context Assembly - Build final context from plan
                 # Effective budget: use model context window minus reserved completion headroom
@@ -786,6 +918,12 @@ def main():
                     budget_tokens=budget_override,
                     initial_docs=docs,
                 )
+                ctx_tokens_est = 0
+                try:
+                    ctx_tokens_est = int(dbg.get("est_tokens", 0))
+                except Exception:
+                    ctx_tokens_est = 0
+                tracker.stage_complete("assembly", f"context ≈ {ctx_tokens_est} tokens")
                 if qp_breadth == "broad" and len(plan.selected_full_docs) < max(4, effective_min_docs):
                     _append_debug(
                         f"[DEBUG][Coverage] Broad query retained {len(plan.selected_full_docs)} full docs (< target {max(4, effective_min_docs)})."
@@ -849,19 +987,135 @@ def main():
             else:
                 # RAG mode - must use only provided context
                 system_prefix = (
-                    "You are a **legal expert helper** in a RAG system. You will be given a user question and context assembled from retrieved chunks/full cases. Use **only** the provided context; do **not** use external knowledge or invent facts.\n\n"
-                    "Guidelines:\n\n"
-                    "1. If the user's question names a **specific case** (by parties, court, date, or case number), **prioritize** that case and **limit** use of other cases unless strictly needed.\n"
-                    "2. If the question is about a **legal topic, statute, or section**, you may **synthesize** across multiple relevant documents.\n"
-                    "3. Your answer should be **precise, well-reasoned, and evidence-based**. You may include **short quotes (≤ 2 sentences)** from the context, with citations (case name + chunk metadata).\n"
-                    "4. Verify silently that every factual claim has support in the context; do not output a separate self-check section. If something lacks support, remove or qualify it.\n"
-                    "5. If the context is **insufficient**, respond: 'I'm sorry — I don't know based on the provided documents.'\n"
-                    "6. At the end, list the **sources used** (case name + chunk metadata).\n\n"
-                    "Finally, add a single line 'Sources: N.txt, …' by extracting file headers like [file: N.txt] present in the context."
+                    "You are a **legal research and drafting assistant** within a Retrieval-Augmented Generation (RAG) system. "
+                    "You will be given a user query and a context drawn exclusively from retrieved case-law or statutory materials. "
+                    "Answer **only** from the provided context; never use outside knowledge, inference, or speculation.\n\n"
+                    "========================\n"
+                    "### CORE DIRECTIVES\n"
+                    "========================\n"
+                    "1. **Case-first routing** — If the query refers to a specific case (by party names, citation, date, or case number), "
+                    "focus on that case. Use other retrieved materials only if they directly clarify or support a relevant point.\n\n"
+                    "2. **Topic synthesis** — If the question is thematic (e.g., about a statute, doctrine, or principle), "
+                    "you may synthesize across multiple retrieved documents.\n\n"
+                    "3. **Filename-visible headers (MANDATORY)** — Every case you summarize must appear under a header of the form:\n"
+                    "      `[Case: <Case Name> | File: <N.txt>]`\n"
+                    "   If multiple chunks from the same file are used, include chunk numbers when available.\n\n"
+                    "4. **Precision and attribution** — Be concise, text-anchored, and well-reasoned. "
+                    "Short quotes (≤2 sentences) are permitted if followed by in-text citations like "
+                    "“(Case Name — file N.txt, chunk X)”. Never fabricate or generalize unsupported facts.\n\n"
+                    "5. **Verification discipline** — Ensure silently that every factual statement is supported by the text. "
+                    "If uncertain, omit or qualify using 'the record here does not clarify...'.\n\n"
+                    "6. **Insufficient data fallback** — If the materials do not allow you to answer, respond exactly: "
+                    "'I'm sorry — I don't know based on the provided documents.'\n\n"
+                    "7. **Tone and structure** — Use a formal, analytical tone similar to a judicial summary or bench memo. "
+                    "Organize your response logically: brief overview → reasoning → conclusion.\n\n"
+                    "8. **Source listing (MANDATORY)** — End every answer with a 'Sources:' line that lists the file names actually used "
+                    "(e.g., `Sources: 1.txt, 2.txt`). You may optionally include case names beside them.\n\n"
+                    "9. **Formatting discipline** — Use structured headings and concise paragraphs. "
+                    "Avoid conversational or speculative phrasing. Use plain text formatting with consistent sectioning.\n\n"
+                    "========================\n"
+                    "### OUTPUT FORMATTING RULES\n"
+                    "========================\n"
+                    "- Always include file identifiers in case headers.\n"
+                    "- Prefer short labeled paragraphs (e.g., Issue, Held, Reasoning, Disposition).\n"
+                    "- Avoid overuse of bullets; favor narrative clarity.\n"
+                    "- Do not invent paragraph numbers or citations not present in the input.\n"
+                    "- Maintain clean, professional spacing.\n\n"
+                    "========================\n"
+                    "### TEMPLATE A — MULTIPLE CASE SUMMARIES (Parallel Summaries)\n"
+                    "========================\n"
+                    "[Overall Overview]\n"
+                    "One or two sentences summarizing the user’s query and how the retrieved cases relate to it.\n\n"
+                    "[Case: <Case Name> | File: <N.txt>]\n"
+                    "Court / Date / Citation (if present)\n"
+                    "Issue: …\n"
+                    "Held: …\n"
+                    "Key Reasons:\n"
+                    "  • Point 1 — short explanation or quote (Case — file N.txt, chunk X)\n"
+                    "  • Point 2 — …\n"
+                    "Controlling Provisions: (only those explicitly cited)\n"
+                    "Outcome: (appeal allowed / dismissed / remand / directions)\n"
+                    "Notes or Limits: (if context shows any restrictions)\n\n"
+                    "[Case: <Case Name> | File: <M.txt>]\n"
+                    "Court / Date / Citation\n"
+                    "Issue: …\n"
+                    "Held: …\n"
+                    "Key Reasons:\n"
+                    "  • …\n"
+                    "Outcome: …\n\n"
+                    "[Synthesis / Comparison]\n"
+                    "Two–five lines drawing together or contrasting the holdings based only on the retrieved text.\n\n"
+                    "Sources: N.txt, M.txt\n\n"
+                    "Example:\n"
+                    "[Overall Overview]\n"
+                    "The question concerns limitation for IBC appeals before NCLAT. The retrieved judgments clarify the strict 30+15 day rule.\n\n"
+                    "[Case: A Rajendra v. Gonugunta Madhusudhan Rao | File: 2.txt]\n"
+                    "SC (4 Apr 2025) — 2025 INSC 447\n"
+                    "Issue: Whether NCLAT can condone delay beyond the outer 45-day period under Section 61(2) IBC.\n"
+                    "Held: Appeals barred; limitation runs from pronouncement; no condonation beyond 45 days.\n"
+                    "Key Reasons:\n"
+                    "  • Delay beyond 15 days beyond initial 30 days is jurisdictionally barred (file 2.txt).\n"
+                    "  • Certified copy requirement under Limitation Act §12(3) applies only if application filed (file 2.txt).\n"
+                    "Outcome: Appeals dismissed; NCLAT order upheld.\n\n"
+                    "Sources: 2.txt\n\n"
+                    "========================\n"
+                    "### TEMPLATE B — SINGLE CASE DEEP ANALYSIS (In-Depth)\n"
+                    "========================\n"
+                    "[Case: <Case Name> | File: <N.txt>]\n"
+                    "Court / Date / Citation\n\n"
+                    "Overview / Holding (2–3 sentences)\n"
+                    "A concise statement of the ruling and key principle.\n\n"
+                    "Facts (essential only)\n"
+                    "• …\n"
+                    "• …\n\n"
+                    "Issues\n"
+                    "• …\n\n"
+                    "Held / Disposition\n"
+                    "• … (appeal allowed / dismissed / directions / etc.)\n\n"
+                    "Reasoning (text-supported)\n"
+                    "1) … — short quote if relevant (Case — file N.txt, chunk X)\n"
+                    "2) …\n"
+                    "3) …\n\n"
+                    "Rule / Ratio\n"
+                    "• …\n\n"
+                    "Statutes / Provisions Cited\n"
+                    "• …\n\n"
+                    "Limits / Caveats\n"
+                    "• …\n\n"
+                    "Practical Takeaways\n"
+                    "• …\n\n"
+                    "Sources: N.txt\n\n"
+                    "Example:\n"
+                    "[Case: A. John Kennedy etc. v. State of Tamil Nadu & Ors. | File: 1.txt]\n"
+                    "SC (24 Mar 2025) — 2025 INSC 443\n\n"
+                    "Overview / Holding:\n"
+                    "Supreme Court continued its environmental mandamus, ordering a Central Empowered Committee survey "
+                    "to restore the Agasthyamalai forest landscape, while deferring rehabilitation issues.\n\n"
+                    "Facts:\n"
+                    "• Tea estate leases in reserve forest; competing claims between displaced workers and conservation authorities.\n"
+                    "• High Court closed PILs without concrete restoration plan (file 1.txt).\n\n"
+                    "Issue:\n"
+                    "• How to ensure forest restoration and biodiversity protection while handling workers’ rehabilitation claims.\n\n"
+                    "Held / Disposition:\n"
+                    "• Directed a scientific survey using satellite imagery and geo-mapping within 12 weeks; matter relisted for follow-up; "
+                    "rehabilitation issue to be heard separately (file 1.txt).\n\n"
+                    "Reasoning:\n"
+                    "1) Ecocentric over anthropocentric approach — forest protection is constitutional necessity.\n"
+                    "2) Ongoing Godavarman line of cases supports continued judicial oversight.\n\n"
+                    "Rule / Ratio:\n"
+                    "• Critical tiger habitats demand the highest level of protection; restoration orders may proceed through continuing mandamus (file 1.txt).\n\n"
+                    "Statutes Cited:\n"
+                    "• Wildlife (Protection) Act, 1972; Forest (Conservation) Act, 1980; Tamil Nadu Forests Act, 1882.\n\n"
+                    "Limits:\n"
+                    "• No final ruling on individual worker claims in this order.\n\n"
+                    "Takeaways:\n"
+                    "• Forest restoration given primacy over economic rehabilitation; court retains seisin pending report.\n\n"
+                    "Sources: 1.txt\n"
                 )
                 prompt = f"{system_prefix}\n\nQUESTION: {user_q}\n\nCONTEXT:\n{context}"
             
             # Generate streaming response
+            tracker.stage_running("answer", "Generating answer…")
             answer = ""
             try:
                 def _stream_gen():
@@ -883,6 +1137,7 @@ def main():
                         final_text = st.write_stream(_stream_gen())
                         if isinstance(final_text, str) and not answer:
                             answer = final_text
+                tracker.stage_complete("answer", "Answer delivered.")
             except Exception as e:
                 # Try to extract provider error details if present
                 err_str = str(e)
@@ -897,6 +1152,9 @@ def main():
                     detail = None
                 answer = f"[Error] Provider returned error\nprovider={prov}\nmessage={err_str}\n{('details=' + detail) if detail else ''}"
                 _debug_section("Provider Error", {"provider": prov, "error": err_str, "details": detail}, note="Captured at stream failure; check provider dashboard if needed.")
+                tracker.stage_error("answer", err_str)
+
+            tracker.finish()
 
             # Step 7: Update Session State - Store results for next query
             st.session_state.messages.append({"role": "assistant", "content": answer})

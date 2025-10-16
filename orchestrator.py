@@ -10,6 +10,11 @@ from typing import List, Optional
 from pydantic import BaseModel
 from dotenv import load_dotenv
 from openai import OpenAI
+from time_utils import now_ist_stamp
+
+
+def _log_debug(msg: str) -> None:
+    print(f"{now_ist_stamp()} {msg}")
 
 
 class QueryPlan(BaseModel):
@@ -318,19 +323,19 @@ def process_query(
         # Handle different SDK response formats
         try:
             if isinstance(parsed_plan, QueryPlan):
-                print("[DEBUG][QP][parse_api] returned QueryPlan instance")
+                _log_debug("[DEBUG][QP][parse_api] returned QueryPlan instance")
                 return _postprocess_plan(parsed_plan, user_q)
             # Try common attributes for parsed output
             maybe = getattr(parsed_plan, "output_parsed", None) or getattr(parsed_plan, "parsed", None)
             if isinstance(maybe, QueryPlan):
-                print("[DEBUG][QP][parse_api] returned output_parsed QueryPlan")
+                _log_debug("[DEBUG][QP][parse_api] returned output_parsed QueryPlan")
                 return _postprocess_plan(maybe, user_q)
         except Exception as ix:
-            print(f"[DEBUG][QP][parse_api_introspection_error] {ix}")
+            _log_debug(f"[DEBUG][QP][parse_api_introspection_error] {ix}")
         
         # Debug: log unexpected response format
         try:
-            print(f"[DEBUG][QP][parse_api_unexpected_type] {type(parsed_plan)}")
+            _log_debug(f"[DEBUG][QP][parse_api_unexpected_type] {type(parsed_plan)}")
             for attr in ("output", "output_text", "output_parsed", "response", "status_code", "model_dump_json"):
                 val = getattr(parsed_plan, attr, None)
                 if callable(val):
@@ -342,14 +347,14 @@ def process_query(
                     head = str(val)
                     if isinstance(head, str):
                         head = head[:400]
-                    print(f"[DEBUG][QP][parse_api_unexpected_attr] {attr}={head}")
+                    _log_debug(f"[DEBUG][QP][parse_api_unexpected_attr] {attr}={head}")
         except Exception as dx:
-            print(f"[DEBUG][QP][parse_api_dump_error] {dx}")
-        print("[DEBUG][QP][parse_api] unexpected return; skipping JSON mode fallback per request")
+            _log_debug(f"[DEBUG][QP][parse_api_dump_error] {dx}")
+        _log_debug("[DEBUG][QP][parse_api] unexpected return; skipping JSON mode fallback per request")
     except Exception as e:
-        print(f"[DEBUG][QP][parse_api_error] {e}")
+        _log_debug(f"[DEBUG][QP][parse_api_error] {e}")
 
     # Fallback to heuristic planning if LLM fails
     plan = _heuristic_plan(user_q)
-    print(f"[DEBUG][QP][heuristic_fallback] type={plan.type} rewrite={plan.rewrite}")
+    _log_debug(f"[DEBUG][QP][heuristic_fallback] type={plan.type} rewrite={plan.rewrite}")
     return plan

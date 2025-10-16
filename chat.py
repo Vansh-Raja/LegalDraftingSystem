@@ -30,6 +30,13 @@ from rag import (
     assemble_context_from_plan,
     apply_named_case_guard,
 )
+from time_utils import now_ist_stamp
+
+
+
+def _dbg(*parts) -> None:
+    msg = " ".join(str(p) for p in parts)
+    print(f"{now_ist_stamp()} {msg}")
 
 
 def chat_with_memory() -> None:
@@ -120,62 +127,64 @@ def chat_with_memory() -> None:
                 retriever_relaxed = build_retriever(vs, statute_filters=statutes, court_name=None, k=6)
                 docs = retriever_relaxed.invoke(user_q)
             # Debug: show retrieval diagnostics
-            print("\n[DEBUG] Retrieved docs:")
+            print()
+            _dbg("[DEBUG] Retrieved docs:")
             for i, d in enumerate(docs[:6], 1):
                 fs = d.metadata.get("file_stem")
                 preview = (d.page_content or "").strip().replace("\n", " ")[:160]
-                print(f"  {i}. file_stem={fs} ... {preview}")
+                _dbg(f"  {i}. file_stem={fs} ... {preview}")
             # Filtration retriever and context assembly
             plan = filtration_retriever(user_q, docs)
             plan = apply_named_case_guard(plan, user_q, docs)
             context, _, dbg = assemble_context_from_plan(plan, user_q, vs, txt_dir="processed_data/txt_data", budget_tokens=plan.context_budget_tokens, initial_docs=docs)
             try:
                 import json as _json
-                print(f"[DEBUG][Filtration] plan JSON: {_json.dumps(plan.model_dump(), indent=2)}")
+                _dbg(f"[DEBUG][Filtration] plan JSON: {_json.dumps(plan.model_dump(), indent=2)}")
             except Exception:
-                print(f"[DEBUG][Filtration] plan: selected_full_docs={plan.selected_full_docs}, selected_chunks={len(plan.selected_chunks)}, budget={plan.context_budget_tokens}")
+                _dbg(f"[DEBUG][Filtration] plan: selected_full_docs={plan.selected_full_docs}, selected_chunks={len(plan.selected_chunks)}, budget={plan.context_budget_tokens}")
             # print reasoning if present
             if getattr(plan, "overall_reasoning", None):
-                print(f"[DEBUG][Filtration] overall_reasoning: {plan.overall_reasoning}")
+                _dbg(f"[DEBUG][Filtration] overall_reasoning: {plan.overall_reasoning}")
             if getattr(plan, "reasoning_full_docs", None):
                 for rd in plan.reasoning_full_docs:
                     try:
-                        print(f"[DEBUG][Filtration] full_doc_reason: file_stem={rd.file_stem} reason={rd.reason}")
+                        _dbg(f"[DEBUG][Filtration] full_doc_reason: file_stem={rd.file_stem} reason={rd.reason}")
                     except Exception:
                         pass
             if getattr(plan, "reasoning_chunks", None):
                 for rc in plan.reasoning_chunks:
                     try:
-                        print(f"[DEBUG][Filtration] chunk_reason: file_stem={rc.file_stem} idx={rc.chunk_index} reason={rc.reason}")
+                        _dbg(f"[DEBUG][Filtration] chunk_reason: file_stem={rc.file_stem} idx={rc.chunk_index} reason={rc.reason}")
                     except Exception:
                         pass
-            print(f"[DEBUG][Filtration] assembler: est_tokens~{dbg.get('est_tokens')}, spans={dbg.get('spans')[:5]}")
+            _dbg(f"[DEBUG][Filtration] assembler: est_tokens~{dbg.get('est_tokens')}, spans={dbg.get('spans')[:5]}")
             included_dbg = dbg.get("included_full_docs") or []
             if included_dbg:
-                print("[DEBUG][Filtration] assembler_full_docs:")
+                _dbg("[DEBUG][Filtration] assembler_full_docs:")
                 for info in included_dbg:
                     file_name = info.get("file")
                     mode = info.get("mode")
                     included_flag = info.get("included")
                     chars_used = info.get("chars_used")
                     avail = info.get("available_chars")
-                    print(f"  - {file_name}: mode={mode}, included={included_flag}, chars_used={chars_used}, available_chars={avail}")
+                    _dbg(f"  - {file_name}: mode={mode}, included={included_flag}, chars_used={chars_used}, available_chars={avail}")
             metadata_dbg = dbg.get("metadata_cases") or []
             if metadata_dbg:
-                print("[DEBUG][Filtration] metadata_cases:")
+                _dbg("[DEBUG][Filtration] metadata_cases:")
                 for case_info in metadata_dbg:
-                    print(
+                    entry = (
                         f"  - {case_info.get('file_stem')}: "
                         f"case_number={case_info.get('case_number')}, "
                         f"court={case_info.get('court_name')}, "
                         f"date={case_info.get('date_of_judgment')}, "
                         f"has_summary={case_info.get('has_summary')}"
                     )
+                    _dbg(entry)
             if not context:
-                print("[DEBUG][Filtration] Empty context; using dominant-case fallback.")
+                _dbg("[DEBUG][Filtration] Empty context; using dominant-case fallback.")
             else:
                 preview = (context[:800] + "...") if len(context) > 800 else context
-                print(f"[DEBUG][Context Preview] {preview}")
+                _dbg(f"[DEBUG][Context Preview] {preview}")
 
             # Full-case fallback gate: if context is empty, window the dominant case
             from collections import Counter
@@ -199,15 +208,15 @@ def chat_with_memory() -> None:
                             best_fs = d.metadata.get("file_stem")
                     if best_fs and best_hits > 0:
                         dominant = best_fs
-                        print(f"[DEBUG] Dominant by title-match: file_stem={dominant}, hits={best_hits}")
+                        _dbg(f"[DEBUG] Dominant by title-match: file_stem={dominant}, hits={best_hits}")
                 except Exception as e:
-                    print(f"[DEBUG] Title-match selection error: {e}")
+                    _dbg(f"[DEBUG] Title-match selection error: {e}")
 
                 if dominant is None:
                     cnt_map = Counter(stems)
                     dominant, cnt = cnt_map.most_common(1)[0]
                     ratio = cnt / max(1, len(docs))
-                    print(f"[DEBUG] Dominant by majority: file_stem={dominant}, ratio={ratio:.2f}")
+                    _dbg(f"[DEBUG] Dominant by majority: file_stem={dominant}, ratio={ratio:.2f}")
                 else:
                     ratio = 1.0  # force full-case when explicit title match
 
@@ -268,18 +277,18 @@ def chat_with_memory() -> None:
                                 used = "\n\n...\n\n".join(parts)
                             context = used
                             est_tokens = int(len(context) / 4)
-                            print(f"[DEBUG] Full-case RAW file: {full_path.name}, length={len(raw_text)}, used_chars={len(context)}, est_tokens~{est_tokens}")
-                            print(f"[DEBUG] Context windows: {selected_spans[:5]}{' (truncated)' if len(selected_spans) > 5 else ''}")
+                            _dbg(f"[DEBUG] Full-case RAW file: {full_path.name}, length={len(raw_text)}, used_chars={len(context)}, est_tokens~{est_tokens}")
+                            _dbg(f"[DEBUG] Context windows: {selected_spans[:5]}{' (truncated)' if len(selected_spans) > 5 else ''}")
                         else:
-                            print(f"[DEBUG] Full-case RAW file missing: {full_path}")
+                            _dbg(f"[DEBUG] Full-case RAW file missing: {full_path}")
                             context = None
                     except Exception as e:
-                        print(f"[DEBUG] Full-case RAW read error: {e}")
+                        _dbg(f"[DEBUG] Full-case RAW read error: {e}")
                         context = None
             if not context:
                 context = "\n\n".join(d.page_content for d in docs)
                 est_tokens = int(len(context) / 4)
-                print(f"[DEBUG] Context length: {len(context)} chars, chunks: {len(docs)}, est_tokens~{est_tokens}")
+                _dbg(f"[DEBUG] Context length: {len(context)} chars, chunks: {len(docs)}, est_tokens~{est_tokens}")
             # Stream the response using the chain with message history
             stream = chain_with_history.stream(
                 {"question": user_q, "context": context},
@@ -292,7 +301,7 @@ def chat_with_memory() -> None:
                     answer_parts.append(chunk)
             print()
             answer = "".join(answer_parts)
-            print("[DEBUG] Answer length:", len(answer) if isinstance(answer, str) else "n/a")
+            _dbg("[DEBUG] Answer length:", len(answer) if isinstance(answer, str) else "n/a")
             return answer, docs
 
         return invoke_with_context
@@ -316,7 +325,7 @@ def chat_with_memory() -> None:
 
         full = maybe_full_case(docs)
         if full:
-            print("[Hint] Many chunks from one case — full judgment available:", full)
+            _dbg("[Hint] Many chunks from one case — full judgment available:", full)
 
 
 if __name__ == "__main__":
