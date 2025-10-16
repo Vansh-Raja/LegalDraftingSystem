@@ -70,6 +70,7 @@ def chat_with_memory() -> None:
             "system",
             (
                 "You are a **legal expert helper** in a RAG system. You will be given a user question and context assembled from retrieved chunks/full cases. Use **only** the provided context; do **not** use external knowledge or invent facts. After you generate your answer, **self-verify**: recheck that the user's question is most accurately matched by the selected context; if not, qualify your answer or state that information is insufficient.\n\n"
+                "The context always begins with a `Case Metadata Overview`. Read that section first, confirm which cases are in scope, and use it as an anchor before examining the detailed excerpts that follow.\n\n"
                 "Guidelines:\n\n"
                 "1. If the user’s question names a **specific case** (by parties, court, date, or case number), **prioritize** that case and **limit** use of other cases unless strictly needed.\n"
                 "2. If the question is about a **legal topic, statute, or section**, you may **synthesize** across multiple relevant documents.\n"
@@ -149,6 +150,27 @@ def chat_with_memory() -> None:
                     except Exception:
                         pass
             print(f"[DEBUG][Filtration] assembler: est_tokens~{dbg.get('est_tokens')}, spans={dbg.get('spans')[:5]}")
+            included_dbg = dbg.get("included_full_docs") or []
+            if included_dbg:
+                print("[DEBUG][Filtration] assembler_full_docs:")
+                for info in included_dbg:
+                    file_name = info.get("file")
+                    mode = info.get("mode")
+                    included_flag = info.get("included")
+                    chars_used = info.get("chars_used")
+                    avail = info.get("available_chars")
+                    print(f"  - {file_name}: mode={mode}, included={included_flag}, chars_used={chars_used}, available_chars={avail}")
+            metadata_dbg = dbg.get("metadata_cases") or []
+            if metadata_dbg:
+                print("[DEBUG][Filtration] metadata_cases:")
+                for case_info in metadata_dbg:
+                    print(
+                        f"  - {case_info.get('file_stem')}: "
+                        f"case_number={case_info.get('case_number')}, "
+                        f"court={case_info.get('court_name')}, "
+                        f"date={case_info.get('date_of_judgment')}, "
+                        f"has_summary={case_info.get('has_summary')}"
+                    )
             if not context:
                 print("[DEBUG][Filtration] Empty context; using dominant-case fallback.")
             else:
@@ -299,5 +321,3 @@ def chat_with_memory() -> None:
 
 if __name__ == "__main__":
     chat_with_memory()
-
-

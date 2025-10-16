@@ -35,6 +35,7 @@ class QueryPlan(BaseModel):
     retrieval_k: Optional[int] = None
     min_full_docs: Optional[int] = None
     reason: Optional[str] = None
+    breadth: str = "unknown"  # specific | narrow | broad | unknown
 
 
 # Common prefixes that indicate general legal knowledge questions
@@ -80,7 +81,79 @@ def _detect_signals(text: str) -> dict:
         "generic": generic_like,
         "token_count": token_count,
         "has_digit": has_digit,
+        "raw": t,
     }
+
+
+_BROAD_KEYWORDS = (
+    "cases",
+    "judgments",
+    "summaries",
+    "summary",
+    "overview",
+    "trend",
+    "trends",
+    "statistics",
+    "analysis",
+    "compare",
+    "comparison",
+    "list",
+    "catalog",
+    "catalogue",
+    "recent",
+    "latest",
+    "across",
+    "multiple",
+    "various",
+    "collection",
+    "survey",
+    "digest",
+    "roundup",
+)
+
+
+def _classify_breadth(user_q: str, sig: dict, plan: Optional["QueryPlan"] = None) -> str:
+    """
+    Classify query breadth (specific, narrow, broad) using heuristics and plan hints.
+    """
+    if plan and getattr(plan, "breadth", None) and plan.breadth not in {"", "unknown"}:
+        return plan.breadth
+    if plan and plan.type == "general_law":
+        return "broad"
+    if plan and plan.target_stems:
+        return "specific"
+
+    text_lower = sig.get("raw") or (user_q or "").lower()
+
+    if sig.get("has_case_marker"):
+        return "specific"
+    if " vs " in text_lower or " v. " in text_lower:
+        return "specific"
+
+    broad_keyword_hit = any(word in text_lower for word in _BROAD_KEYWORDS)
+
+    if sig.get("has_statute_marker") and not broad_keyword_hit:
+        return "narrow"
+    if broad_keyword_hit:
+        return "broad"
+    if any(year in text_lower for year in ("2022", "2023", "2024", "2025", "2026")) and "case" in text_lower and " vs " not in text_lower:
+        return "broad"
+    if sig.get("token_count", 0) >= 20 and not sig.get("has_statute_marker"):
+        return "broad"
+    return "narrow"
+
+
+def _postprocess_plan(plan: "QueryPlan", user_q: str, sig: Optional[dict] = None) -> "QueryPlan":
+    if plan is None:
+        return plan
+    signals = sig or _detect_signals(user_q)
+    breadth = _classify_breadth(user_q, signals, plan)
+    min_docs = plan.min_full_docs
+    if plan.type == "general_law":
+        min_docs = 0
+    elif min_docs is None:
+        min_docs = 3 if breadth == "broad" else 2
+    return plan.copy(update={"breadth": breadth, "min_full_docs": min_docs})
 
 
 def _heuristic_plan(user_q: str) -> "QueryPlan":
@@ -107,7 +180,7 @@ def _heuristic_plan(user_q: str) -> "QueryPlan":
         and not sig.get("has_digit", False)
     ):
         # Broad/general → suggest larger K
-        return QueryPlan(
+        plan = QueryPlan(
             type="general_law",
             rewrite=user_q,
             keep_context=False,
@@ -117,10 +190,12 @@ def _heuristic_plan(user_q: str) -> "QueryPlan":
             retrieval_k=16,
             reason="Heuristic: generic GK without case/statute markers (broader K)",
         )
+        return _postprocess_plan(plan, user_q, sig)
     
     # Default to new query type
     # Otherwise prefer retrieval path (new/followup) even if somewhat generic
-    return QueryPlan(type="new", rewrite=user_q, keep_context=False, bridging_strategy="none", retrieval_k=6)
+    plan = QueryPlan(type="new", rewrite=user_q, keep_context=False, bridging_strategy="none", retrieval_k=6)
+    return _postprocess_plan(plan, user_q, sig)
 
 
 def process_query(
@@ -158,7 +233,7 @@ def process_query(
     # System prompts
     system_msg_auto = (
         "You are a query-processor for a legal RAG assistant. Return STRICT JSON with fields: "
-        "{type, rewrite, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, min_full_docs, reason}.\n"
+        "{type, rewrite, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, min_full_docs, breadth, reason}.\n"
         "Rules: type is one of followup | new | general_law.\n"
         "ROUTING: Only route to general_law if the question is extremely broad and non-specific (short, no case/statute markers).\n"
         "If there is ANY specificity (numbers, dates, party names, sections, court names, or concrete scenario), choose new or followup for retrieval.\n"
@@ -171,19 +246,20 @@ def process_query(
         "- Broad/overview queries: min_full_docs ~ 3-6 (at least 2).\n"
         "- Case-specific queries: min_full_docs ~ 2-3.\n"
         "Never return less than 2.\n\n"
+        "BREADTH: Set breadth to \"broad\" (survey/overview across many cases), \"narrow\" (focused topic/statute requiring a handful of cases), or \"specific\" (single case or highly targeted follow-up).\n\n"
         "- General/very broad questions (no specific case/statute): retrieval_k ~ 12-20\n"
         "- Typical topic queries: retrieval_k ~ 8-12\n"
         "- Case-specific or tightly-focused follow-ups: retrieval_k ~ 4-6\n"
         "If uncertain, pick 8.\n\n"
         "GENERAL-LAW CLASSIFICATION GUIDELINE: If the question is high-level (e.g., 'What laws apply to murder cases?', 'What is res judicata?', 'How is bail decided?'), and it does not reference a specific case name, number, court, date, or document already in context, classify it as general_law. In that case, keep_context=false and bridging_strategy='none'.\n\n"
         "EXAMPLES (label -> JSON):\n"
-        "Q: 'What laws are used in a murder case?' -> {\"type\": \"general_law\", \"rewrite\": \"What statutes and charges typically apply to homicide/murder cases in India (IPC sections)?\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"IPC s.302\", \"IPC s.304\"], \"retrieval_k\": 16, \"reason\": \"General law query without specific case\"}\n"
-        "Q: 'In John Kennedy vs State of Tamil Nadu, what was the final order?' -> {\"type\": \"new\", \"rewrite\": \"Final order in A. John Kennedy vs State of Tamil Nadu, 2025 INSC 443 (Supreme Court of India)\", \"keep_context\": false, \"bridging_strategy\": \"same_case_full\", \"target_stems\": [\"1\"], \"statutes\": [], \"retrieval_k\": 6, \"reason\": \"Specific case named\"}\n"
-        "Q: 'Also list similar cases where IPC 302 was applied' (after a case turn) -> {\"type\": \"followup\", \"rewrite\": \"Supreme Court decisions applying IPC Section 302 similar to <last case>\", \"keep_context\": true, \"bridging_strategy\": \"statute_refill\", \"target_stems\": [], \"statutes\": [\"IPC s.302\"], \"retrieval_k\": 8, \"reason\": \"Follow-up requesting similar cases by statute\"}"
+        "Q: 'What laws are used in a murder case?' -> {\"type\": \"general_law\", \"rewrite\": \"What statutes and charges typically apply to homicide/murder cases in India (IPC sections)?\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"IPC s.302\", \"IPC s.304\"], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"General law query without specific case\"}\n"
+        "Q: 'In John Kennedy vs State of Tamil Nadu, what was the final order?' -> {\"type\": \"new\", \"rewrite\": \"Final order in A. John Kennedy vs State of Tamil Nadu, 2025 INSC 443 (Supreme Court of India)\", \"keep_context\": false, \"bridging_strategy\": \"same_case_full\", \"target_stems\": [\"1\"], \"statutes\": [], \"retrieval_k\": 6, \"min_full_docs\": 2, \"breadth\": \"specific\", \"reason\": \"Specific case named\"}\n"
+        "Q: 'Also list similar cases where IPC 302 was applied' (after a case turn) -> {\"type\": \"followup\", \"rewrite\": \"Supreme Court decisions applying IPC Section 302 similar to <last case>\", \"keep_context\": true, \"bridging_strategy\": \"statute_refill\", \"target_stems\": [], \"statutes\": [\"IPC s.302\"], \"retrieval_k\": 8, \"min_full_docs\": 3, \"breadth\": \"narrow\", \"reason\": \"Follow-up requesting similar cases by statute\"}"
     )
     system_msg_manual = (
         "You are a query-processor for a legal RAG assistant. Return STRICT JSON with fields: "
-        "{type, rewrite, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, min_full_docs, reason}.\n"
+        "{type, rewrite, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, min_full_docs, breadth, reason}.\n"
         "Rules: type is one of followup | new.\n"
         "ROUTING: Do NOT route to general_law. If there is ANY specificity (numbers, dates, party names, sections, court names, or concrete scenario), choose new or followup for retrieval.\n"
         "If followup, decide keep_context (true if the current context already contains the case/material needed). "
@@ -195,13 +271,14 @@ def process_query(
         "- Broad/overview queries: min_full_docs ~ 3-6 (at least 2).\n"
         "- Case-specific queries: min_full_docs ~ 2-3.\n"
         "Never return less than 2.\n\n"
+        "BREADTH: Set breadth to \"broad\", \"narrow\", or \"specific\" as defined above.\n\n"
         "- General/very broad questions (no specific case/statute): retrieval_k ~ 12-20\n"
         "- Typical topic queries: retrieval_k ~ 8-12\n"
         "- Case-specific or tightly-focused follow-ups: retrieval_k ~ 4-6\n"
         "If uncertain, pick 8.\n\n"
         "EXAMPLES (label -> JSON):\n"
-        "Q: 'In John Kennedy vs State of Tamil Nadu, what was the final order?' -> {\"type\": \"new\", \"rewrite\": \"Final order in A. John Kennedy vs State of Tamil Nadu, 2025 INSC 443 (Supreme Court of India)\", \"keep_context\": false, \"bridging_strategy\": \"same_case_full\", \"target_stems\": [\"1\"], \"statutes\": [], \"retrieval_k\": 6, \"reason\": \"Specific case named\"}\n"
-        "Q: 'Also list similar cases where IPC 302 was applied' (after a case turn) -> {\"type\": \"followup\", \"rewrite\": \"Supreme Court decisions applying IPC Section 302 similar to <last case>\", \"keep_context\": true, \"bridging_strategy\": \"statute_refill\", \"target_stems\": [], \"statutes\": [\"IPC s.302\"], \"retrieval_k\": 8, \"reason\": \"Follow-up requesting similar cases by statute\"}"
+        "Q: 'In John Kennedy vs State of Tamil Nadu, what was the final order?' -> {\"type\": \"new\", \"rewrite\": \"Final order in A. John Kennedy vs State of Tamil Nadu, 2025 INSC 443 (Supreme Court of India)\", \"keep_context\": false, \"bridging_strategy\": \"same_case_full\", \"target_stems\": [\"1\"], \"statutes\": [], \"retrieval_k\": 6, \"min_full_docs\": 2, \"breadth\": \"specific\", \"reason\": \"Specific case named\"}\n"
+        "Q: 'Also list similar cases where IPC 302 was applied' (after a case turn) -> {\"type\": \"followup\", \"rewrite\": \"Supreme Court decisions applying IPC Section 302 similar to <last case>\", \"keep_context\": true, \"bridging_strategy\": \"statute_refill\", \"target_stems\": [], \"statutes\": [\"IPC s.302\"], \"retrieval_k\": 8, \"min_full_docs\": 3, \"breadth\": \"narrow\", \"reason\": \"Follow-up requesting similar cases by statute\"}"
     )
     system_msg = system_msg_manual if manual_mode else system_msg_auto
 
@@ -222,6 +299,7 @@ def process_query(
             "statutes": ["IPC s.302"],
             "retrieval_k": 12,
             "min_full_docs": 3,
+            "breadth": "specific|narrow|broad",
             "reason": "short explanation",
         },
     }
@@ -241,12 +319,12 @@ def process_query(
         try:
             if isinstance(parsed_plan, QueryPlan):
                 print("[DEBUG][QP][parse_api] returned QueryPlan instance")
-                return parsed_plan
+                return _postprocess_plan(parsed_plan, user_q)
             # Try common attributes for parsed output
             maybe = getattr(parsed_plan, "output_parsed", None) or getattr(parsed_plan, "parsed", None)
             if isinstance(maybe, QueryPlan):
                 print("[DEBUG][QP][parse_api] returned output_parsed QueryPlan")
-                return maybe
+                return _postprocess_plan(maybe, user_q)
         except Exception as ix:
             print(f"[DEBUG][QP][parse_api_introspection_error] {ix}")
         
@@ -275,5 +353,3 @@ def process_query(
     plan = _heuristic_plan(user_q)
     print(f"[DEBUG][QP][heuristic_fallback] type={plan.type} rewrite={plan.rewrite}")
     return plan
-
-

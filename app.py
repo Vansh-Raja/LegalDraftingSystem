@@ -4,8 +4,9 @@ Provides a web interface for legal document Q&A using RAG (Retrieval-Augmented G
 """
 
 import os
+import json
 from pathlib import Path
-from typing import List
+from typing import List, Optional
 
 import streamlit as st
 from dotenv import load_dotenv
@@ -379,6 +380,58 @@ def _fmt_assembler(dbg: dict) -> str:
         return str(dbg)
 
 
+def _trim_text(value: Optional[str], limit: int) -> str:
+    """
+    Trim long metadata fields so filtration prompts stay concise.
+    """
+    if not value:
+        return ""
+    txt = str(value).strip()
+    if len(txt) <= limit:
+        return txt
+    return txt[:limit].rstrip() + "…"
+
+
+def _load_case_metadata_for_stems(stems: List[str], qp_breadth: str) -> List[dict]:
+    """
+    Load case-level metadata JSONs and flatten key fields for the filtration LLM.
+    """
+    metas: List[dict] = []
+    for rank_idx, fs in enumerate(stems, 1):
+        if not fs:
+            continue
+        mp = Path("processed_data/metadata") / f"{fs}.json"
+        if not mp.exists():
+            continue
+        try:
+            data = json.loads(mp.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        statutes_raw = data.get("legal_provisions_cited") or data.get("statutes") or []
+        if isinstance(statutes_raw, str):
+            statutes_list = [statutes_raw]
+        elif isinstance(statutes_raw, list):
+            statutes_list = [str(s) for s in statutes_raw][:12]
+        else:
+            statutes_list = []
+        metas.append({
+            "file_stem": fs,
+            "rank": rank_idx,
+            "case_number": data.get("case_number"),
+            "date_of_judgment": data.get("date_of_judgment"),
+            "court_name": data.get("court_name"),
+            "summary": _trim_text(data.get("summary"), 700),
+            "final_judgment": _trim_text(data.get("final_judgment"), 400),
+            "statutes": statutes_list,
+            "parties": data.get("parties"),
+            "year": data.get("year"),
+            "title": data.get("title"),
+            "breadth_hint": qp_breadth,
+            "metadata": data,
+        })
+    return metas
+
+
 def main():
     """
     Main Streamlit application function.
@@ -450,6 +503,8 @@ def main():
                     qp.retrieval_k = 8
                 _append_debug("[DEBUG][QP] Manual mode: forced 'new' and retrieval-oriented rewrite")
 
+            qp_breadth = getattr(qp, "breadth", "unknown")
+
             # Decide effective Top-K (retrieval depth)
             auto_topk_enabled = bool(st.session_state.get("auto_topk", True))
             if auto_topk_enabled and getattr(qp, "retrieval_k", None):
@@ -474,12 +529,20 @@ def main():
                 k_source = "manual_slider"
             _debug_section("Top-K Selection", _fmt_topk({"effective_k": effective_k, "source": k_source}), note="How many items to retrieve; affects breadth vs. depth.")
             # Decide Min Full Docs (either from planner or UI)
-            if auto_min_docs and getattr(qp, "min_full_docs", None):
+            if getattr(qp, "type", "") == "general_law":
+                effective_min_docs = 0
+                min_docs_source = "not_applicable"
+            elif auto_min_docs and getattr(qp, "min_full_docs", None):
                 effective_min_docs = max(2, int(qp.min_full_docs))
                 min_docs_source = "qp.min_full_docs"
             elif auto_min_docs:
-                # Heuristic fallback: 3 for broad (general_law in auto mode) else 2
-                effective_min_docs = 3 if getattr(qp, "type", "") == "general_law" else 2
+                # Heuristic fallback informed by planner breadth
+                if qp_breadth == "broad":
+                    effective_min_docs = 5
+                elif qp_breadth == "narrow":
+                    effective_min_docs = 3
+                else:
+                    effective_min_docs = 2
                 min_docs_source = "auto_heuristic"
             else:
                 effective_min_docs = max(2, int(min_full_cases))
@@ -522,20 +585,33 @@ def main():
                         if refill_docs:
                             # Get case metadata for filtration
                             stems_refill = sorted({(d.metadata or {}).get("file_stem") for d in refill_docs if (d.metadata or {}).get("file_stem")})
-                            case_metas_refill = []
-                            for fs in stems_refill:
-                                try:
-                                    if not fs:
-                                        continue
-                                    mp = Path("processed_data/metadata") / f"{fs}.json"
-                                    if mp.exists():
-                                        case_metas_refill.append({"file_stem": fs, "metadata": __import__("json").loads(mp.read_text(encoding="utf-8"))})
-                                except Exception:
-                                    pass
-                            
+                            case_metas_refill = _load_case_metadata_for_stems(stems_refill, qp_breadth)
+                            query_ctx_refill = {
+                                "breadth": qp_breadth,
+                                "fused_case_count": len(stems_refill),
+                                "retrieval_k": effective_k,
+                                "desired_min_full_docs": effective_min_docs,
+                                "planner_min_full_docs": int(getattr(qp, "min_full_docs", effective_min_docs) or effective_min_docs),
+                            }
                             # Apply filtration to new documents
                             mode_key2 = "chunk" if filtration_mode == "chunk context filtration" else "metadata"
-                            plan_refill = filtration_retriever(retr_q, refill_docs, mode=mode_key2, case_metadatas=case_metas_refill)
+                            plan_refill = filtration_retriever(
+                                retr_q,
+                                refill_docs,
+                                mode=mode_key2,
+                                case_metadatas=case_metas_refill,
+                                desired_min_full_docs=effective_min_docs,
+                                desired_max_chunks_per_case=max_chunks_per_case,
+                                query_context=query_ctx_refill,
+                            )
+                            plan_refill = enforce_case_diversity(
+                                plan_refill,
+                                fused_cases=stems_refill,
+                                desired_min_full_docs=effective_min_docs,
+                                desired_max_chunks_per_case=max_chunks_per_case,
+                                breadth=qp_breadth,
+                                allow_expansion=bool(getattr(plan_refill, "request_more_cases", False) and qp_breadth == "broad"),
+                            )
                             budget_override = 400000 if model_name == "gpt-5-nano-2025-08-07" else plan_refill.context_budget_tokens
                             context_refill, _, dbg_refill = assemble_context_from_plan(
                                 plan_refill,
@@ -656,18 +732,18 @@ def main():
                     stems = [fs for fs in fused_cases if fs]
                 else:
                     stems = sorted({(d.metadata or {}).get("file_stem") for d in docs if (d.metadata or {}).get("file_stem")})
-                case_metas = []
-                for rank_idx, fs in enumerate(stems, 1):
-                    try:
-                        if not fs:
-                            continue
-                        mp = Path("processed_data/metadata") / f"{fs}.json"
-                        if mp.exists():
-                            m = __import__("json").loads(mp.read_text(encoding="utf-8"))
-                            case_metas.append({"file_stem": fs, "rank": rank_idx, "metadata": m})
-                    except Exception:
-                        pass
-                _append_debug(f"[DEBUG][Cases] loaded metadata for {len(case_metas)} cases (ranked)")
+                case_metas = _load_case_metadata_for_stems(stems, qp_breadth)
+                _append_debug(f"[DEBUG][Cases] loaded metadata for {len(case_metas)} cases (ranked, breadth={qp_breadth})")
+
+                query_context_payload = {
+                    "breadth": qp_breadth,
+                    "fused_case_count": len(stems),
+                    "retrieval_k": effective_k,
+                    "desired_min_full_docs": effective_min_docs,
+                    "planner_min_full_docs": int(getattr(qp, "min_full_docs", effective_min_docs) or effective_min_docs),
+                }
+                if 'fused_cases' in locals() and fused_cases:
+                    query_context_payload["fused_ranked_cases"] = fused_cases[:20]
 
                 # Step 3: Filtration - Use LLM to select most relevant chunks and cases
                 mode_key = "chunk" if filtration_mode == "chunk context filtration" else "metadata"
@@ -678,6 +754,7 @@ def main():
                     case_metadatas=case_metas,
                     desired_min_full_docs=effective_min_docs,
                     desired_max_chunks_per_case=max_chunks_per_case,
+                    query_context=query_context_payload,
                 )
                 
                 # Step 4: Named Case Guard - Ensure named cases are included
@@ -689,6 +766,8 @@ def main():
                         fused_cases=fused_cases if 'fused_cases' in locals() else None,
                         desired_min_full_docs=effective_min_docs,
                         desired_max_chunks_per_case=max_chunks_per_case,
+                        breadth=qp_breadth,
+                        allow_expansion=bool(getattr(plan, "request_more_cases", False) and qp_breadth == "broad"),
                     )
                     _append_debug(f"[DEBUG][Guard] after diversity: full_docs={len(plan.selected_full_docs)} chunks={len(plan.selected_chunks)}")
                 except Exception as ge2:
@@ -707,6 +786,10 @@ def main():
                     budget_tokens=budget_override,
                     initial_docs=docs,
                 )
+                if qp_breadth == "broad" and len(plan.selected_full_docs) < max(4, effective_min_docs):
+                    _append_debug(
+                        f"[DEBUG][Coverage] Broad query retained {len(plan.selected_full_docs)} full docs (< target {max(4, effective_min_docs)})."
+                    )
                 # Debug: Log filtration plan details
                 try:
                     import json as _json
@@ -729,6 +812,10 @@ def main():
                             _append_debug(f"[DEBUG][Filtration] chunk_reason: file_stem={rc.file_stem} idx={rc.chunk_index} reason={rc.reason}")
                         except Exception:
                             pass
+                if getattr(plan, "request_more_cases", False):
+                    _append_debug(f"[DEBUG][Filtration] request_more_cases=True reason={getattr(plan, 'expansion_reason', '') or 'not provided'}")
+                if getattr(plan, "notes", None):
+                    _append_debug(f"[DEBUG][Filtration] notes: {plan.notes}")
                 
                 # Report context vs model limits
                 try:
@@ -857,4 +944,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

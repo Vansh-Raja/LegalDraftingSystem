@@ -631,6 +631,8 @@ class FiltrationPlan(BaseModel):
     reasoning_chunks: List[ReasonChunk] = []
     overall_reasoning: Optional[str] = None
     notes: Optional[str] = None
+    request_more_cases: bool = False
+    expansion_reason: Optional[str] = None
 
 
 def _build_chunk_previews(docs: List[Document], max_chars: int = 800) -> List[dict]:
@@ -657,6 +659,7 @@ def filtration_retriever(
     case_metadatas: Optional[List[dict]] = None,
     desired_min_full_docs: int = 3,
     desired_max_chunks_per_case: int = 2,
+    query_context: Optional[dict] = None,
 ) -> FiltrationPlan:
     """
     Select most relevant documents/chunks using an LLM planning step.
@@ -664,6 +667,8 @@ def filtration_retriever(
     mode:
       - "chunk": pass chunk previews (and optionally case metadata) to the LLM
       - "metadata": pass only case metadata, no chunk previews
+    query_context:
+      - Optional dict with planner hints (breadth, fused counts, etc.)
     """
     if not docs:
         return FiltrationPlan(selected_full_docs=[], selected_chunks=[], drop_chunks=[], context_budget_tokens=6000)
@@ -676,28 +681,40 @@ def filtration_retriever(
 
     previews = _build_chunk_previews(docs) if mode == "chunk" else []
     system_msg = (
-        "You are a legal expert filtration retriever. You will receive a user question and previews of chunks "
-        "retrieved by a RAG system from a legal judgments database (and sometimes case-level metadata). Your job is to: (1) select only the most relevant chunks, "
-        "(2) request full-document retrieval for specific cases if the question likely requires full-case context (e.g., a full summary is requested, or previews don't contain the key answer but clearly belong to the target case).\n\n"
+        "You are a legal expert filtration retriever. You will receive a user question, chunk previews, and case-level metadata from a legal RAG pipeline. "
+        "Your job is to (1) select the most relevant chunks, (2) request full-document retrieval for cases that must be loaded in full, and (3) signal when additional fused cases should be fetched.\n\n"
+        "Context hints:\n"
+        "- `query_context` contains planner guidance (breadth classification, fused-case count, retrieval_k).\n"
+        "- Each entry in `cases` includes the fused rank, metadata summary, final judgment, statutes, parties, and court. Read summaries before discarding a case.\n\n"
         "Strict rules:\n"
-        "- Prefer chunks/cases whose previews contain exact or near-exact mentions from the question (party names, case number, court, date).\n"
-        "- If the question clearly names a specific case, prioritize that case.\n"
-        "- You may request ANY number of full documents, but be mindful and include only those truly necessary.\n"
-        "- Remove irrelevant chunks to keep the context concise.\n"
-        "- Output STRICT JSON matching the schema only (no prose).\n"
-        "- You MUST include concise reasoning for each selected_full_docs item and each selected_chunks item (short phrase per item), and set overall_reasoning with a 1-2 sentence summary. Do not leave reasoning arrays empty.\n"
-        "- Do NOT use external knowledge beyond the provided previews or metadata."
-        "- When case-level metadata is provided, use it to disambiguate parties/court/sections and prefer exact matches.\n\n"
-        "Diversity & coverage directives (very important):\n"
-        "- For broad or general overview questions, prefer selecting a *diverse set of cases* (3–6 distinct file_stem) spanning different facets (years/courts/outcomes/statutes) rather than focusing on a single case.\n"
-        "- Avoid selecting many chunks from only one case unless the question *explicitly* requests a deep dive into that single case.\n"
-        "- Always include at least 3 distinct cases when the question is general and not tied to a specific named case.\n"
+        "- Prefer cases whose previews or metadata contain specific mentions from the question (parties, case numbers, courts, statutes, time frames).\n"
+        "- If the user names a specific case, ensure that case is selected (full doc if necessary) and keep focus tight.\n"
+        "- You may request ANY number of full documents, but include only those needed to answer thoroughly.\n"
+        "- Remove irrelevant chunks; select concise spans that best support the answer.\n"
+        "- Output STRICT JSON matching the provided schema (no prose outside JSON fields).\n"
+        "- Provide reasoning for every selected_full_docs and selected_chunks entry, and set overall_reasoning with a 1–2 sentence summary.\n"
+        "- When metadata summaries or final judgments indicate relevance, use them as justification to retain the case even if the preview snippet looks weak.\n"
+        "- Set `request_more_cases` to true only when the fused list still has clearly relevant cases that should be fetched; include a short `expansion_reason`. Otherwise leave it false.\n"
+        "- Do NOT use knowledge beyond the provided previews, metadata, and hints.\n\n"
+        "Breadth-aware coverage directives:\n"
+        "- If `query_context.breadth` is \"broad\", assemble a diverse set of cases (aim ≥ desired_min_full_docs, often 5–8) covering the requested time span/statutes. Consider mid-ranked fused cases that add new angles.\n"
+        "- If breadth is \"narrow\", choose the strongest 2–4 cases covering the requested statute/topic; you may expand if summaries show distinct fact patterns needed for comparison.\n"
+        "- If breadth is \"specific\", focus on the named case (plus closely related ones only if they are essential for contrast or procedural history).\n"
+        "- Use fused ranks and metadata summaries to justify selections; avoid dropping higher-ranked cases without a clear reason.\n"
+        "- Balance chunk picks across selected cases; favor overview/headnote chunks before deep procedural detail unless the query demands it."
     )
+    effective_qc = dict(query_context or {})
+    if "breadth" not in effective_qc:
+        effective_qc["breadth"] = "unknown"
+    effective_qc.setdefault("fused_case_count", len(case_metadatas or []))
+    effective_qc.setdefault("retrieval_k", len(docs))
+
     user_payload = {
         "question": user_q,
         "mode": mode,
         "chunks": previews,
         "cases": (case_metadatas or []),
+        "query_context": effective_qc,
         "preferences": {
             "desired_min_full_docs": max(1, int(desired_min_full_docs or 1)),
             "desired_max_chunks_per_case": max(1, int(desired_max_chunks_per_case or 1)),
@@ -709,7 +726,9 @@ def filtration_retriever(
             "reasoning_full_docs": [{"file_stem": "<file_stem>", "reason": "why this case is needed"}],
             "reasoning_chunks": [{"file_stem": "<file_stem>", "chunk_index": 0, "reason": "why this chunk"}],
             "overall_reasoning": "optional global rationale",
-            "notes": "optional short note"
+            "notes": "optional short note",
+            "request_more_cases": False,
+            "expansion_reason": "optional short reason when requesting more cases"
         }
     }
 
@@ -742,7 +761,13 @@ def filtration_retriever(
             ci = d.metadata.get("chunk_index", 0)
             if fs is not None:
                 sel_chunks.append(ChunkRef(file_stem=fs, chunk_index=ci))
-        return FiltrationPlan(selected_full_docs=sel_full, selected_chunks=sel_chunks, drop_chunks=[], context_budget_tokens=0)
+        return FiltrationPlan(
+            selected_full_docs=sel_full,
+            selected_chunks=sel_chunks,
+            drop_chunks=[],
+            context_budget_tokens=0,
+            request_more_cases=False,
+        )
 
 
 def enforce_case_diversity(
@@ -750,22 +775,66 @@ def enforce_case_diversity(
     fused_cases: Optional[List[str]] = None,
     desired_min_full_docs: int = 3,
     desired_max_chunks_per_case: int = 2,
+    breadth: str = "unknown",
+    allow_expansion: bool = False,
 ) -> FiltrationPlan:
     """
     Deterministic guard: ensure a minimum number of distinct full docs and cap
     chunks per case to avoid domination by a single case.
     """
-    # Top-up full docs
-    need = max(0, int(desired_min_full_docs or 0) - len(plan.selected_full_docs))
-    if need > 0 and fused_cases:
-        existing = set(plan.selected_full_docs)
-        for fs in fused_cases:
-            if fs not in existing:
-                plan.selected_full_docs.append(fs)
-                existing.add(fs)
-                need -= 1
-                if need <= 0:
-                    break
+    fused_list = [fs for fs in (fused_cases or []) if fs]
+    breadth_norm = (breadth or "unknown").lower()
+    target_min = max(1, int(desired_min_full_docs or 1))
+    if breadth_norm == "broad" and fused_list:
+        broad_floor = max(5, int(len(fused_list) * 0.6))
+        target_min = max(target_min, min(len(fused_list), min(broad_floor, 12)))
+    elif breadth_norm == "narrow":
+        target_min = max(target_min, 3)
+    elif breadth_norm == "specific":
+        target_min = max(1, min(target_min, 3))
+
+    expansion_requested = allow_expansion or bool(getattr(plan, "request_more_cases", False))
+
+    existing: Dict[str, bool] = {}
+
+    def _top_up(limit: int) -> None:
+        if not fused_list:
+            return
+        for fs in fused_list:
+            if fs in existing:
+                continue
+            plan.selected_full_docs.append(fs)
+            existing[fs] = True
+            if len(plan.selected_full_docs) >= limit:
+                break
+
+    for fs in plan.selected_full_docs:
+        if fs:
+            existing[fs] = True
+
+    if len(plan.selected_full_docs) < target_min:
+        _top_up(target_min)
+
+    if expansion_requested and breadth_norm == "broad":
+        expanded_limit = min(len(fused_list), min(max(target_min, len(plan.selected_full_docs)) + 2, 12))
+        if len(plan.selected_full_docs) < expanded_limit:
+            _top_up(expanded_limit)
+            extra = len(plan.selected_full_docs) - target_min
+            if extra > 0:
+                note_msg = plan.expansion_reason or "LLM requested broader coverage"
+                addition = f"Expanded by {extra} case(s) due to request_more_cases ({note_msg})."
+                plan.notes = f"{plan.notes}; {addition}" if plan.notes else addition
+
+    # Deduplicate while preserving order
+    if plan.selected_full_docs:
+        seen_order = set()
+        deduped = []
+        for fs in plan.selected_full_docs:
+            if fs and fs not in seen_order:
+                deduped.append(fs)
+                seen_order.add(fs)
+        plan.selected_full_docs = deduped
+
     # Cap chunks per case
     if plan.selected_chunks:
         capped: List[ReasonChunk] = []
@@ -866,27 +935,42 @@ def assemble_context_from_plan(
     used_docs: List[Document] = []
     assembled_parts: List[str] = []
     spans_debug: List[Tuple[int, int, str]] = []  # (start, end, file)
+    included_full_docs: List[Dict[str, Any]] = []
 
     # 1) Full documents windows (include whole doc if it fits budget)
     for fs in plan.selected_full_docs:
         fp = Path(txt_dir) / f"{fs}.txt"
         if not fp.exists():
+            included_full_docs.append({
+                "file": f"{fs}.txt",
+                "included": False,
+                "mode": "missing_text_file",
+                "chars_used": 0,
+                "available_chars": 0,
+            })
             continue
         raw = fp.read_text(encoding="utf-8")
         header = f"[file: {fs}.txt]\n"
         budget_chars = budget * 4
         current_chars = sum(len(p) for p in assembled_parts)
         remaining = max(0, budget_chars - current_chars)
+        doc_info: Dict[str, Any] = {"file": f"{fs}.txt", "available_chars": len(raw)}
         if len(header) + len(raw) <= remaining:
             assembled_parts.append(header + raw)
             # record span as whole file
             spans_debug.append((0, len(raw), f"{fs}.txt"))
+            doc_info.update({"included": True, "mode": "full", "chars_used": len(raw)})
         else:
             segment, spans = _windows_around_terms(raw, user_q, max(1, remaining // 4))
             if segment:
                 assembled_parts.append(header + segment)
                 for s, e in spans:
                     spans_debug.append((s, e, f"{fs}.txt"))
+                doc_info.update({"included": True, "mode": "window", "chars_used": len(segment)})
+            else:
+                doc_info.update({"included": False, "mode": "skipped_no_budget", "chars_used": 0})
+        if doc_info.get("included") or doc_info.get("mode") == "skipped_no_budget":
+            included_full_docs.append(doc_info)
 
     # 2) Selected chunks: pull from initial_docs when available, else query vectorstore by file_stem and filter by chunk_index
     selected_map = {(c.file_stem, c.chunk_index) for c in plan.selected_chunks}
@@ -928,13 +1012,77 @@ def assemble_context_from_plan(
             assembled_parts.append(txt)
             current_chars += len(txt) + 2
 
-    context = "\n\n---\n\n".join(assembled_parts) if assembled_parts else ""
+    # Build metadata overview (unique stems from full docs first, then chunk sources)
+    metadata_stems: List[str] = []
+    for fs in plan.selected_full_docs:
+        if fs not in metadata_stems:
+            metadata_stems.append(fs)
+    for fs, _ci in selected_map:
+        if fs not in metadata_stems:
+            metadata_stems.append(fs)
+
+    metadata_section_lines: List[str] = []
+    metadata_debug: List[Dict[str, Any]] = []
+    if metadata_stems:
+        meta_dir = Path(txt_dir).parent / "metadata"
+        for idx, fs in enumerate(metadata_stems, start=1):
+            meta_path = meta_dir / f"{fs}.json"
+            meta_payload: Dict[str, Any] = {}
+            if meta_path.exists():
+                try:
+                    meta_payload = json.loads(meta_path.read_text(encoding="utf-8"))
+                except Exception:
+                    meta_payload = {}
+            parties = meta_payload.get("parties") or {}
+            petitioner = parties.get("petitioner") or ""
+            respondent = parties.get("respondent") or ""
+            case_number = meta_payload.get("case_number") or "Unknown case number"
+            court_name = meta_payload.get("court_name") or "Unknown court"
+            date_of_judgment = meta_payload.get("date_of_judgment") or "Unknown date"
+            summary = meta_payload.get("summary") or ""
+            if summary and len(summary) > 400:
+                summary = summary[:397] + "..."
+            parties_label = ""
+            if petitioner or respondent:
+                parties_label = f"{petitioner} vs {respondent}".strip()
+            line_parts = [
+                f"{idx}. file_stem={fs}",
+                f"case={case_number}",
+                f"court={court_name}",
+                f"date={date_of_judgment}",
+            ]
+            if parties_label:
+                line_parts.append(f"parties={parties_label}")
+            if summary:
+                line_parts.append(f"summary={summary}")
+            metadata_section_lines.append(" | ".join(line_parts))
+            metadata_debug.append({
+                "file_stem": fs,
+                "case_number": case_number,
+                "court_name": court_name,
+                "date_of_judgment": date_of_judgment,
+                "has_summary": bool(meta_payload.get("summary")),
+            })
+
+    metadata_section = ""
+    if metadata_section_lines:
+        metadata_section = "Case Metadata Overview (read this first):\n" + "\n".join(metadata_section_lines)
+
+    body_section = "\n\n---\n\n".join(assembled_parts) if assembled_parts else ""
+    context_parts: List[str] = []
+    if metadata_section:
+        context_parts.append(metadata_section)
+    if body_section:
+        context_parts.append("Detailed Context Excerpts:\n" + body_section)
+    context = "\n\n====\n\n".join(context_parts) if context_parts else ""
     est_tokens = _token_estimate_from_chars(len(context))
     debug: Dict[str, Any] = {
         "spans": spans_debug,
         "est_tokens": est_tokens,
         "selected_full_docs": plan.selected_full_docs,
         "selected_chunks_count": len(plan.selected_chunks),
+        "included_full_docs": included_full_docs,
+        "metadata_cases": metadata_debug,
     }
     return context, used_docs, debug
 
@@ -974,4 +1122,3 @@ def apply_named_case_guard(plan: FiltrationPlan, user_q: str, docs: List[Documen
     if top not in plan.selected_full_docs:
         plan.selected_full_docs = [top] + plan.selected_full_docs
     return plan
-
