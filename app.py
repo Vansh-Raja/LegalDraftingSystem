@@ -280,6 +280,9 @@ def _fmt_qp(plan: dict) -> str:
         rw = plan.get("rewrite")
         if rw:
             lines.append(f"rewritten prompt: {rw}")
+        cp = plan.get("case_probe")
+        if cp:
+            lines.append(f"case_probe: {cp}")
         kc = plan.get("keep_context")
         if kc is not None:
             lines.append(f"keep_context: {bool(kc)}")
@@ -364,6 +367,244 @@ def _fmt_filtration_plan(plan: dict) -> str:
         return str(plan)
 
 
+def _collect_stream_text(llm, prompt: str) -> str:
+    """Run a streaming LLM call and capture the combined text."""
+    text_chunks: List[str] = []
+    for chunk in llm.stream(prompt):
+        content = getattr(chunk, "content", None)
+        if content:
+            text_chunks.append(content)
+    return "".join(text_chunks)
+
+
+def _case_sources_from_plan(plan) -> List[str]:
+    """Extract unique file stems referenced by a filtration plan."""
+    if not plan:
+        return []
+    sources: List[str] = []
+    full_docs = getattr(plan, "selected_full_docs", None) or []
+    for stem in full_docs:
+        if stem and stem not in sources:
+            sources.append(stem)
+    chunks = getattr(plan, "selected_chunks", None) or []
+    for ch in chunks:
+        if hasattr(ch, "file_stem"):
+            stem = getattr(ch, "file_stem")
+        elif isinstance(ch, dict):
+            stem = ch.get("file_stem")
+        else:
+            stem = None
+        if stem and stem not in sources:
+            sources.append(stem)
+    return sources
+
+
+def _execute_case_probe(
+    probe_query: str,
+    user_q: str,
+    vs,
+    court_name: str,
+    statutes: Optional[List[str]],
+    model_name: str,
+    filtration_mode: str,
+    max_chunks_per_case: int,
+) -> dict:
+    """Run a lightweight retrieval pipeline to surface precedents for general-law answers."""
+    result = {
+        "context": "",
+        "docs": [],
+        "stems": [],
+        "plan": None,
+        "detail": "No precedents retrieved",
+        "dbg": {},
+        "fallback_used": False,
+    }
+
+    if not probe_query:
+        return result
+
+    probe_k = 8
+    probe_min_docs = 2
+
+    def _run_probe(statute_filters=None):
+        docs_local = []
+        sum_ranked_local = []
+        try:
+            retriever_local = build_retriever(
+                vs,
+                statute_filters=statute_filters,
+                court_name=court_name,
+                k=probe_k,
+            )
+            docs_local = retriever_local.invoke(probe_query) or []
+            _append_debug(
+                f"[DEBUG][CaseProbe] vector hits={len(docs_local)} (statute_filters={'None' if statute_filters is None else statute_filters})"
+            )
+        except Exception as exc_inner:
+            _append_debug(f"[DEBUG][CaseProbe][retriever_error] {exc_inner}")
+            docs_local = []
+        try:
+            year_filter_local = None
+            try:
+                match_local = re.search(r"\b(19|20)\d{2}\b", probe_query)
+                if match_local:
+                    year_filter_local = int(match_local.group(0))
+            except Exception:
+                year_filter_local = None
+            sum_ranked_local = summary_search_pg(
+                probe_query,
+                court_name=court_name,
+                statutes=statute_filters,
+                year=year_filter_local,
+                limit=max(40, probe_k * 6),
+            )
+            _append_debug(
+                f"[DEBUG][CaseProbe] summary hits={len(sum_ranked_local) if sum_ranked_local else 0} (statute_filters={'None' if statute_filters is None else statute_filters})"
+            )
+        except Exception as exc_inner2:
+            _append_debug(f"[DEBUG][CaseProbe][summary_error] {exc_inner2}")
+            sum_ranked_local = []
+        return docs_local, sum_ranked_local
+
+    primary_filters = statutes or None
+    docs, sum_ranked = _run_probe(primary_filters)
+    fallback_used = False
+    if not docs and not sum_ranked and primary_filters is not None:
+        _append_debug("[DEBUG][CaseProbe] No hits with statute filters; retrying without filters.")
+        docs, sum_ranked = _run_probe(None)
+        fallback_used = True
+
+    try:
+        fused_cases = fuse_cases_by_rrf(sum_ranked, docs, k=40, top_n=max(12, probe_k * 2)) if (sum_ranked or docs) else []
+    except Exception as exc:
+        _append_debug(f"[DEBUG][CaseProbe][fuse_error] {exc}")
+        fused_cases = []
+    if fused_cases:
+        _debug_section("Case Probe - Fused Cases", _fmt_fused_cases(fused_cases[:10]), note="Ranked precedents chosen for advisory add-on.")
+    else:
+        if not docs:
+            detail_note = "No precedents retrieved"
+            if fallback_used:
+                detail_note += " (after filter fallback)"
+            result["detail"] = detail_note
+            result["fallback_used"] = fallback_used
+            return result
+
+    if fused_cases:
+        try:
+            docs = fetch_top_chunks_for_cases(vs, probe_query, fused_cases, per_case_k=2)
+            docs = interleave_docs_by_case(docs, per_case_limit=2, max_total=probe_k)
+        except Exception as exc:
+            _append_debug(f"[DEBUG][CaseProbe][fetch_error] {exc}")
+
+    if not docs:
+        detail_note = "No precedents retrieved"
+        if fallback_used:
+            detail_note += " (after filter fallback)"
+        result["detail"] = detail_note
+        result["fallback_used"] = fallback_used
+        return result
+
+    stems = [fs for fs in fused_cases if fs] if fused_cases else sorted({(d.metadata or {}).get("file_stem") for d in docs if (d.metadata or {}).get("file_stem")})
+    case_metas = _load_case_metadata_for_stems(stems, "narrow")
+    _append_debug(f"[DEBUG][CaseProbe] loaded metadata for {len(case_metas)} cases")
+
+    query_context_payload = {
+        "breadth": "narrow",
+        "fused_case_count": len(stems),
+        "retrieval_k": probe_k,
+        "desired_min_full_docs": probe_min_docs,
+        "planner_min_full_docs": probe_min_docs,
+    }
+    if fused_cases:
+        query_context_payload["fused_ranked_cases"] = fused_cases[:12]
+
+    mode_key = "chunk" if filtration_mode == "chunk context filtration" else "metadata"
+    try:
+        plan = filtration_retriever(
+            probe_query,
+            docs,
+            mode=mode_key,
+            case_metadatas=case_metas,
+            desired_min_full_docs=probe_min_docs,
+            desired_max_chunks_per_case=min(max_chunks_per_case, 2),
+            query_context=query_context_payload,
+        )
+    except Exception as exc:
+        _append_debug(f"[DEBUG][CaseProbe][filtration_error] {exc}")
+        result["fallback_used"] = fallback_used
+        return result
+
+    try:
+        plan = apply_named_case_guard(plan, probe_query, docs)
+        plan = enforce_case_diversity(
+            plan,
+            fused_cases=fused_cases,
+            desired_min_full_docs=probe_min_docs,
+            desired_max_chunks_per_case=min(max_chunks_per_case, 2),
+            breadth="narrow",
+            allow_expansion=False,
+        )
+        _append_debug(f"[DEBUG][CaseProbe][Guard] full_docs={len(plan.selected_full_docs)} chunks={len(plan.selected_chunks)}")
+    except Exception as exc:
+        _append_debug(f"[DEBUG][CaseProbe][guard_error] {exc}")
+
+    ctx_limit = MODEL_CONTEXT_WINDOWS.get(model_name, 32768)
+    headroom = RESERVED_COMPLETION_TOKENS.get(model_name, 8000)
+    budget_override = max(4000, min(20000, ctx_limit - headroom))
+
+    try:
+        context, _, dbg = assemble_context_from_plan(
+            plan,
+            probe_query,
+            vs,
+            txt_dir="processed_data/txt_data",
+            budget_tokens=budget_override,
+            initial_docs=docs,
+        )
+    except Exception as exc:
+        _append_debug(f"[DEBUG][CaseProbe][assembly_error] {exc}")
+        context, dbg = "", {}
+
+    if context:
+        result.update(
+            {
+                "context": context,
+                "docs": docs,
+                "stems": stems,
+                "plan": plan,
+                "detail": f"{len(plan.selected_full_docs)} case(s); {len(plan.selected_chunks)} chunk(s){' (fallback on filters)' if fallback_used else ''}",
+                "dbg": dbg,
+            }
+        )
+
+        try:
+            _debug_section(
+                "Case Probe - Filtration Plan",
+                _fmt_filtration_plan(plan.model_dump()),
+                note="LLM-selected precedent snippets for advisory reinforcement.",
+            )
+        except Exception:
+            pass
+        if isinstance(dbg, dict):
+            est_tokens = int(dbg.get("est_tokens", 0) or 0)
+        else:
+            est_tokens = int(getattr(dbg, "est_tokens", 0) or 0)
+        _debug_section(
+            "Case Probe - Assembler",
+            {"est_tokens": est_tokens, "detail": result["detail"]},
+            note="Token footprint for precedent context passed to the case insight LLM.",
+        )
+    else:
+        detail_note = "No precedents retrieved"
+        if fallback_used:
+            detail_note += " (after filter fallback)"
+        result["detail"] = detail_note
+
+    result["fallback_used"] = fallback_used
+    return result
+
+
 def _fmt_assembler(dbg: dict) -> str:
     try:
         if not dbg:
@@ -440,6 +681,7 @@ _PIPELINE_STAGES: List[Tuple[str, str]] = [
     ("retrieval", "Retrieving information"),
     ("filtration", "Filtering relevant documents"),
     ("assembly", "Assembling context"),
+    ("case_probe", "Reviewing case precedents"),
     ("answer", "Generating answer"),
 ]
 
@@ -713,6 +955,12 @@ def main():
                 stems = []
                 dbg = {"est_tokens": 0, "spans": []}
                 strategy = ""
+                case_probe_context = ""
+                case_probe_plan = None
+                case_probe_sources: List[str] = []
+                case_probe_stage_handled = False
+                case_probe_query = (getattr(qp, "case_probe", "") or "").strip()
+                case_probe_detail = ""
 
                 # Step 2: Context Strategy - Choose how to handle the query
                 tracker.stage_running("retrieval", "Retrieving information…")
@@ -724,6 +972,40 @@ def main():
                     tracker.stage_skip("retrieval", "General-law routing (no retrieval).")
                     tracker.stage_skip("filtration", "General-law routing (skipped).")
                     tracker.stage_skip("assembly", "General-law routing (skipped).")
+                    if case_probe_query:
+                        tracker.stage_running("case_probe", "Reviewing precedents…")
+                        try:
+                            probe_result = _execute_case_probe(
+                                case_probe_query,
+                                user_q,
+                                vs,
+                                court_name,
+                                getattr(qp, "statutes", None),
+                                model_name,
+                                filtration_mode,
+                                max_chunks_per_case,
+                            )
+                        except Exception as probe_exc:
+                            _append_debug(f"[DEBUG][CaseProbe][fatal_error] {probe_exc}")
+                            probe_result = {"context": "", "detail": str(probe_exc), "docs": [], "stems": [], "plan": None, "dbg": {}}
+                        case_probe_stage_handled = True
+                        case_probe_detail = probe_result.get("detail", "")
+                        if probe_result.get("context"):
+                            tracker.stage_complete("case_probe", case_probe_detail or "Precedents prepared")
+                            case_probe_context = probe_result["context"]
+                            case_probe_plan = probe_result.get("plan")
+                            case_probe_sources = _case_sources_from_plan(case_probe_plan) or probe_result.get("stems", [])
+                            case_probe_sources = [s for s in case_probe_sources if s]
+                            context = case_probe_context
+                            docs = probe_result.get("docs", [])
+                            stems = probe_result.get("stems", [])
+                            dbg = probe_result.get("dbg", {"est_tokens": 0}) or {"est_tokens": 0}
+                            strategy = "general_law+case_probe"
+                        else:
+                            tracker.stage_skip("case_probe", case_probe_detail or "No precedents retrieved")
+                    else:
+                        tracker.stage_skip("case_probe", "No case probe requested.")
+                        case_probe_stage_handled = True
                 elif qp.type == "followup" and qp.keep_context and st.session_state.last_context:
                     # Reuse context from previous query
                     strategy = "reuse_last_context"
@@ -1053,6 +1335,9 @@ def main():
                         _append_debug(f"[DEBUG] Filtration empty; fallback context length: {len(context)}")
                     strategy = "fresh_retrieval"
 
+                if not case_probe_stage_handled:
+                    tracker.stage_skip("case_probe", "Not required (retrieval pipeline).")
+
                 # Step 6: Answer Generation - Generate response using LLM
                 if 'qp' in locals() and getattr(qp, 'type', '') == 'general_law':
                     # General legal knowledge - no document constraints
@@ -1193,45 +1478,107 @@ def main():
                     )
                     prompt = f"{system_prefix}\n\nQUESTION: {user_q}\n\nCONTEXT:\n{context}"
             
-                # Generate streaming response
+                # Generate response (branch for general-law vs RAG)
                 tracker.stage_running("answer", "Generating answer…")
                 answer = ""
-                try:
-                    def _stream_gen():
-                        nonlocal answer
-                        # Add user message to chat history
-                        st.session_state.chat_history.add_user_message(user_q)
-                        # Ensure OpenRouter models also get the same prompt (already built above)
-                        result = llm.stream(prompt)
-                        for chunk in result:
-                            # Extract content from chunk (may be AIMessage)
-                            content = getattr(chunk, "content", None)
-                            if content:
-                                answer += content
-                                yield content
-                
-                    # Display streaming response
-                    with messages_container:
-                        with st.chat_message("assistant", avatar="⚖️"):
-                            final_text = st.write_stream(_stream_gen())
-                            if isinstance(final_text, str) and not answer:
-                                answer = final_text
-                    tracker.stage_complete("answer", "Answer delivered.")
-                except Exception as e:
-                    # Try to extract provider error details if present
-                    err_str = str(e)
-                    prov = provider_name
-                    # Common fields that sometimes appear on OpenRouter-like errors
-                    detail = None
+                if getattr(qp, "type", "") == "general_law":
                     try:
-                        # If error is JSON-ish
-                        import json as _json
-                        detail = _json.dumps(getattr(e, "__dict__", {}), indent=2)
+                        st.session_state.chat_history.add_user_message(user_q)
                     except Exception:
+                        pass
+
+                    try:
+                        general_text = _collect_stream_text(llm, prompt) or ""
+                    except Exception as e:
+                        err_str = str(e)
+                        prov = provider_name
                         detail = None
-                    answer = f"[Error] Provider returned error\nprovider={prov}\nmessage={err_str}\n{('details=' + detail) if detail else ''}"
-                    _debug_section("Provider Error", {"provider": prov, "error": err_str, "details": detail}, note="Captured at stream failure; check provider dashboard if needed.")
-                    tracker.stage_error("answer", err_str)
+                        try:
+                            import json as _json
+                            detail = _json.dumps(getattr(e, "__dict__", {}), indent=2)
+                        except Exception:
+                            detail = None
+                        answer = f"[Error] Provider returned error\nprovider={prov}\nmessage={err_str}\n{('details=' + detail) if detail else ''}"
+                        _debug_section("Provider Error", {"provider": prov, "error": err_str, "details": detail}, note="Captured at advisory LLM failure; check provider diagnostics.")
+                        tracker.stage_error("answer", err_str)
+                        with messages_container:
+                            with st.chat_message("assistant", avatar="⚖️"):
+                                st.markdown(answer)
+                    else:
+                        general_text = general_text.strip()
+                        case_text = ""
+                        if case_probe_context:
+                            case_system_prefix = (
+                                "You are an Indian legal research assistant augmenting an advisory reply. "
+                                "Use ONLY the provided case-law context to highlight precedents relevant to the user's situation. "
+                                "Write a section titled 'Relevant Precedents' with concise takeaways (2-3 sentences or bullets) for up to three cases. "
+                                "Cite statutes mentioned in the context when helpful. End with a line of the form 'Sources: <file ids>'."
+                            )
+                            case_prompt = (
+                                f"{case_system_prefix}\n\nUSER QUESTION: {user_q}\n\nRETRIEVAL QUERY: {case_probe_query}\n\nCONTEXT:\n{case_probe_context}"
+                            )
+                            try:
+                                case_text = _collect_stream_text(llm, case_prompt).strip()
+                            except Exception as ce:
+                                _append_debug(f"[DEBUG][CaseProbe][summary_error] {ce}")
+                                case_text = ""
+                            if case_text:
+                                if case_probe_sources and "Sources:" not in case_text:
+                                    case_text = case_text.rstrip() + f"\n\nSources: {', '.join(case_probe_sources)}"
+                            elif case_probe_sources:
+                                bullets = "\n".join(f"- Refer to {stem}.txt" for stem in case_probe_sources[:3])
+                                case_text = f"Relevant Precedents\n{bullets}\n\nSources: {', '.join(case_probe_sources)}"
+                        if not case_text and case_probe_stage_handled and case_probe_detail:
+                            cleaned_detail = case_probe_detail.strip()
+                            if cleaned_detail.endswith("."):
+                                cleaned_detail = cleaned_detail[:-1]
+                            case_text = f"Relevant Precedents\n- {cleaned_detail}.\n"
+
+                        parts = [part for part in [general_text, case_text] if part]
+                        final_answer = "\n\n---\n\n".join(parts).strip()
+                        answer = final_answer or general_text or case_text
+                        if not answer:
+                            answer = "I'm sorry — I couldn't generate an answer right now."
+
+                        def _final_stream():
+                            yield answer
+
+                        with messages_container:
+                            with st.chat_message("assistant", avatar="⚖️"):
+                                final_text = st.write_stream(_final_stream())
+                                if isinstance(final_text, str) and not answer:
+                                    answer = final_text
+                        tracker.stage_complete("answer", "Answer delivered.")
+                else:
+                    try:
+                        def _stream_gen():
+                            nonlocal answer
+                            st.session_state.chat_history.add_user_message(user_q)
+                            result = llm.stream(prompt)
+                            for chunk in result:
+                                content = getattr(chunk, "content", None)
+                                if content:
+                                    answer += content
+                                    yield content
+
+                        with messages_container:
+                            with st.chat_message("assistant", avatar="⚖️"):
+                                final_text = st.write_stream(_stream_gen())
+                                if isinstance(final_text, str) and not answer:
+                                    answer = final_text
+                        tracker.stage_complete("answer", "Answer delivered.")
+                    except Exception as e:
+                        err_str = str(e)
+                        prov = provider_name
+                        detail = None
+                        try:
+                            import json as _json
+                            detail = _json.dumps(getattr(e, "__dict__", {}), indent=2)
+                        except Exception:
+                            detail = None
+                        answer = f"[Error] Provider returned error\nprovider={prov}\nmessage={err_str}\n{('details=' + detail) if detail else ''}"
+                        _debug_section("Provider Error", {"provider": prov, "error": err_str, "details": detail}, note="Captured at stream failure; check provider dashboard if needed.")
+                        tracker.stage_error("answer", err_str)
 
             finally:
                 tracker.finish()
@@ -1254,7 +1601,7 @@ def main():
             st.session_state.last_context = context
             st.session_state.last_docs = docs
             st.session_state.last_stems = stems
-            st.session_state.last_filters = {"court_name": court_name, "statutes": statutes}
+            st.session_state.last_filters = {"court_name": court_name, "statutes": getattr(qp, "statutes", None) or statutes}
             st.session_state.last_question_rewrite = getattr(qp, "rewrite", None) or user_q
             _append_debug(f"[DEBUG][Router] strategy={strategy}")
 

@@ -30,6 +30,7 @@ class QueryPlan(BaseModel):
         statutes (List[str]): Statute filters to apply
         retrieval_k (Optional[int]): Number of documents to retrieve
         reason (Optional[str]): Explanation of the plan
+        case_probe (Optional[str]): Secondary retrieval query for general-law advisory augmentation
     """
     type: str  # "followup" | "new" | "general_law"
     rewrite: str
@@ -39,6 +40,7 @@ class QueryPlan(BaseModel):
     statutes: List[str] = []
     retrieval_k: Optional[int] = None
     min_full_docs: Optional[int] = None
+    case_probe: Optional[str] = None
     reason: Optional[str] = None
     breadth: str = "unknown"  # specific | narrow | broad | unknown
 
@@ -194,6 +196,7 @@ def _heuristic_plan(user_q: str) -> "QueryPlan":
             statutes=[],
             retrieval_k=None,
             min_full_docs=0,
+            case_probe=user_q,
             reason="Heuristic: generic GK without case/statute markers (no retrieval needed)",
         )
         return _postprocess_plan(plan, user_q, sig)
@@ -239,7 +242,7 @@ def process_query(
     # System prompts
     system_msg_auto = (
         "You are a query-processor for a legal RAG assistant. Return STRICT JSON with fields: "
-        "{type, rewrite, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, min_full_docs, breadth, reason}.\n"
+        "{type, rewrite, case_probe, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, min_full_docs, breadth, reason}.\n"
         "Rules: type is one of followup | new | general_law.\n"
         "ROUTING: Use general_law when the user is asking for concepts, rights, procedures, or personal/hypothetical guidance without pointing to a specific docketed case or prior answer.\n"
         "CASE RETRIEVAL RULE: Any request to list, find, summarise, compare, or check for cases/judgments—even if phrased broadly or without citations—must be routed to new (or followup if it clearly references earlier results).\n"
@@ -249,7 +252,9 @@ def process_query(
         "Always produce a helpful standalone rewrite for retrieval; expand acronyms and include entities (parties, court, date, case numbers) if known. "
         "Keep the rewrite concise and keyword-rich (≤ 20 tokens). "
         "For general_law queries, lightly tidy the user's phrasing but preserve their perspective and scenario (do NOT invent new facts or over-narrow the question). "
-        "For new or followup queries, continue to produce tight, keyword-rich rewrites with explicit parties, courts, dates, or statutes when available.\n\n"
+        "For new or followup queries, continue to produce tight, keyword-rich rewrites with explicit parties, courts, dates, or statutes when available. "
+        "When type=general_law, ALSO populate case_probe with a focused retrieval query for precedent search (include statute numbers, offence names, timeframes, geography if available). "
+        "Set case_probe to an empty string for new or followup plans.\n\n"
         "TOP-K SELECTION: When appropriate, set retrieval_k as follows (use judgment; integers only):\n"
         "MIN FULL DOCS: Suggest min_full_docs (integer) ~ proportional to retrieval_k and breadth of query.\n"
         "- Broad/overview queries: min_full_docs ~ 3-6 (at least 2).\n"
@@ -266,16 +271,16 @@ def process_query(
         "However, if the user asks to list, summarise, compare, or check for cases/judgments (even without naming them) by topic, statute, timeframe, geography, or parties (e.g., 'any rental cases from 2025'), classify it as new because retrieval of case documents is required. "
         "In that case, keep_context=false and bridging_strategy='none'.\n\n"
         "EXPANDED EXAMPLES (label -> JSON):\n"
-        "Q: 'What is anticipatory bail and how can I apply for it?' -> {\"type\": \"general_law\", \"rewrite\": \"Anticipatory bail meaning and application steps in India\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"CrPC s.438\"], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Refined legal concept inquiry; no case reference\"}\n"
-        "Q: 'Can someone get bail if charged under Section 302 of the IPC?' -> {\"type\": \"general_law\", \"rewrite\": \"Bail eligibility when accused under IPC Section 302\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"IPC s.302\"], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Statutory question about criminal law\"}\n"
-        "Q: 'I was just detained by the police — what should I do right now?' -> {\"type\": \"general_law\", \"rewrite\": \"Immediate legal steps when detained by police in India\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Personal yet general procedural advice\"}\n"
-        "Q: 'If my neighbour keeps harassing me online, what actions can I take?' -> {\"type\": \"general_law\", \"rewrite\": \"Legal remedies for ongoing online harassment by a neighbour\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Seeks remedies without case references\"}\n"
-        "Q: 'How can a company appeal against an order of the NCLT?' -> {\"type\": \"general_law\", \"rewrite\": \"Procedure for company appeals against NCLT orders\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"IBC s.61\"], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"General corporate procedure question\"}\n"
-        "Q: 'What's the difference between a cognizable and a non-cognizable offence?' -> {\"type\": \"general_law\", \"rewrite\": \"Difference between cognizable and non-cognizable offences in India\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 12, \"min_full_docs\": 3, \"breadth\": \"broad\", \"reason\": \"Basic conceptual query\"}\n"
-        "Q: 'Do I need a lawyer to register an FIR or can I go alone?' -> {\"type\": \"general_law\", \"rewrite\": \"Whether a lawyer is needed to file an FIR in India\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 12, \"min_full_docs\": 3, \"breadth\": \"broad\", \"reason\": \"Everyday rights question\"}\n"
-        "Q: 'What is the punishment for bribery under Indian law?' -> {\"type\": \"general_law\", \"rewrite\": \"Punishment for bribery offences under Indian law\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"PC Act\"], \"retrieval_k\": 12, \"min_full_docs\": 3, \"breadth\": \"broad\", \"reason\": \"Topic-based legal query\"}\n"
-        "Q: 'My company is shutting down — how do I make sure employees get paid legally?' -> {\"type\": \"general_law\", \"rewrite\": \"Legal compliance for employee payouts during company shutdown\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Procedural compliance question\"}\n"
-        "Q: 'If I accidentally sign a contract under pressure, is it still valid?' -> {\"type\": \"general_law\", \"rewrite\": \"Validity of contracts signed under pressure in India\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 12, \"min_full_docs\": 3, \"breadth\": \"broad\", \"reason\": \"Hypothetical contract law scenario\"}\n"
+        "Q: 'What is anticipatory bail and how can I apply for it?' -> {\"type\": \"general_law\", \"rewrite\": \"Anticipatory bail meaning and application steps in India\", \"case_probe\": \"Supreme Court anticipatory bail jurisprudence CrPC 438 arrest\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"CrPC s.438\"], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Refined legal concept inquiry; no case reference\"}\n"
+        "Q: 'Can someone get bail if charged under Section 302 of the IPC?' -> {\"type\": \"general_law\", \"rewrite\": \"Bail eligibility when accused under IPC Section 302\", \"case_probe\": \"Supreme Court murder IPC 302 bail precedents\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"IPC s.302\"], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Statutory question about criminal law\"}\n"
+        "Q: 'I was just detained by the police — what should I do right now?' -> {\"type\": \"general_law\", \"rewrite\": \"Immediate legal steps when detained by police in India\", \"case_probe\": \"Supreme Court rights of arrested person CrPC 41 50 guidance\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Personal yet general procedural advice\"}\n"
+        "Q: 'If my neighbour keeps harassing me online, what actions can I take?' -> {\"type\": \"general_law\", \"rewrite\": \"Legal remedies for ongoing online harassment by a neighbour\", \"case_probe\": \"Supreme Court cyber harassment remedies IT Act 2000 IPC 354D\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Seeks remedies without case references\"}\n"
+        "Q: 'How can a company appeal against an order of the NCLT?' -> {\"type\": \"general_law\", \"rewrite\": \"Procedure for company appeals against NCLT orders\", \"case_probe\": \"Supreme Court NCLT appeal procedure IBC section 61 limitation\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"IBC s.61\"], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"General corporate procedure question\"}\n"
+        "Q: 'What's the difference between a cognizable and a non-cognizable offence?' -> {\"type\": \"general_law\", \"rewrite\": \"Difference between cognizable and non-cognizable offences in India\", \"case_probe\": \"Supreme Court cognizable non cognizable offence distinction precedents\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 12, \"min_full_docs\": 3, \"breadth\": \"broad\", \"reason\": \"Basic conceptual query\"}\n"
+        "Q: 'Do I need a lawyer to register an FIR or can I go alone?' -> {\"type\": \"general_law\", \"rewrite\": \"Whether a lawyer is needed to file an FIR in India\", \"case_probe\": \"Supreme Court FIR registration rights without lawyer guidance\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 12, \"min_full_docs\": 3, \"breadth\": \"broad\", \"reason\": \"Everyday rights question\"}\n"
+        "Q: 'What is the punishment for bribery under Indian law?' -> {\"type\": \"general_law\", \"rewrite\": \"Punishment for bribery offences under Indian law\", \"case_probe\": \"Supreme Court Prevention of Corruption Act sentencing 2025\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [\"PC Act\"], \"retrieval_k\": 12, \"min_full_docs\": 3, \"breadth\": \"broad\", \"reason\": \"Topic-based legal query\"}\n"
+        "Q: 'My company is shutting down — how do I make sure employees get paid legally?' -> {\"type\": \"general_law\", \"rewrite\": \"Legal compliance for employee payouts during company shutdown\", \"case_probe\": \"Supreme Court retrenchment severance compliance labour law 2025\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Procedural compliance question\"}\n"
+        "Q: 'If I accidentally sign a contract under pressure, is it still valid?' -> {\"type\": \"general_law\", \"rewrite\": \"Validity of contracts signed under pressure in India\", \"case_probe\": \"Supreme Court undue influence coercion contract validity precedents\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 12, \"min_full_docs\": 3, \"breadth\": \"broad\", \"reason\": \"Hypothetical contract law scenario\"}\n"
         "Q: 'Summarize the Supreme Court judgment in Abdul Nassar vs State of Kerala (2025).' -> {\"type\": \"new\", \"rewrite\": \"Supreme Court judgment summary for Abdul Nassar vs State of Kerala decided 2025\", \"keep_context\": false, \"bridging_strategy\": \"same_case_full\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 6, \"min_full_docs\": 2, \"breadth\": \"specific\", \"reason\": \"Explicit single-case summary\"}\n"
         "Q: 'Summarize all Supreme Court cases of bribery in 2025.' -> {\"type\": \"new\", \"rewrite\": \"Supreme Court bribery judgments from calendar year 2025\", \"keep_context\": false, \"bridging_strategy\": \"adjacent\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Broad list-style retrieval\"}\n"
         "Q: 'Summarize all cases that happened against the State of Maharashtra in March 2025.' -> {\"type\": \"new\", \"rewrite\": \"Cases against State of Maharashtra decided March 2025\", \"keep_context\": false, \"bridging_strategy\": \"adjacent\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 16, \"min_full_docs\": 4, \"breadth\": \"broad\", \"reason\": \"Time and party constrained search\"}\n"
@@ -300,13 +305,14 @@ def process_query(
     )
     system_msg_manual = (
         "You are a query-processor for a legal RAG assistant. Return STRICT JSON with fields: "
-        "{type, rewrite, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, min_full_docs, breadth, reason}.\n"
+        "{type, rewrite, case_probe, keep_context, bridging_strategy, target_stems, statutes, retrieval_k, min_full_docs, breadth, reason}.\n"
         "Rules: type is one of followup | new.\n"
         "ROUTING: Do NOT route to general_law. If there is ANY specificity (numbers, dates, party names, sections, court names, or concrete scenario), choose new or followup for retrieval.\n"
         "If followup, decide keep_context (true if the current context already contains the case/material needed). "
         "If the user appears to ask for similar cases or statutes beyond current context, set bridging_strategy=statute_refill or adjacent; if they want the same case full, set same_case_full. "
         "Always produce a helpful standalone rewrite for retrieval; expand acronyms and include entities (parties, court, date, case numbers) if known. "
-        "Keep the rewrite concise and keyword-rich (≤ 20 tokens).\n\n"
+        "Keep the rewrite concise and keyword-rich (≤ 20 tokens). "
+        "Always set case_probe to an empty string in manual mode.\n\n"
         "TOP-K SELECTION: When appropriate, set retrieval_k as follows (use judgment; integers only):\n"
         "MIN FULL DOCS: Suggest min_full_docs (integer) ~ proportional to retrieval_k and breadth of query.\n"
         "- Broad/overview queries: min_full_docs ~ 3-6 (at least 2).\n"
@@ -336,6 +342,7 @@ def process_query(
         "schema": {
             "type": "followup|new|general_law",
             "rewrite": "string",
+            "case_probe": "string|null",
             "keep_context": True,
             "bridging_strategy": "none|adjacent|statute_refill|same_case_full",
             "target_stems": ["7", "21"],
