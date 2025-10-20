@@ -3,6 +3,10 @@ Database debug utilities for the Legal Drafting System.
 Provides command-line tools to manage and inspect the PGVector database.
 """
 
+from collections import defaultdict
+import json
+from pathlib import Path
+
 from rag import COLLECTION_NAME, _get_pg_connection_string
 import psycopg2
 
@@ -14,6 +18,7 @@ def menu():
     print("  2) Count documents in collection")
     print("  3) Count distinct cases (by file_stem)")
     print("  4) List case file stems (compact ranges)")
+    print("  5) Check duplicate metadata (files + database)")
     print("  q) Quit")
     print()
 
@@ -151,6 +156,86 @@ def list_case_file_stems():
         print(f"Non-numeric stems ({len(other_sorted)}): {', '.join(other_sorted)}")
 
 
+def _scan_local_metadata(root: Path) -> dict[str, list[str]]:
+    """
+    Return mapping from case_number to stems for metadata JSON files under root.
+    """
+    duplicates: dict[str, list[str]] = defaultdict(list)
+    all_items: dict[str, list[str]] = defaultdict(list)
+    for json_path in root.glob("*.json"):
+        stem = json_path.stem
+        try:
+            payload = json.loads(json_path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        case_number = (payload.get("case_number") or "").strip()
+        if case_number:
+            all_items[case_number].append(stem)
+    for case, stems in all_items.items():
+        unique_stems = sorted(set(stems))
+        if len(unique_stems) > 1:
+            duplicates[case] = unique_stems
+    return duplicates
+
+
+def _scan_db_duplicates() -> dict[str, list[str]]:
+    """
+    Return mapping of duplicated case_number entries stored in PGVector.
+    """
+    duplicates: dict[str, list[str]] = {}
+    try:
+        rows = _exec_sql(
+            "SELECT e.cmetadata->>'case_number' AS case_number, array_agg(DISTINCT e.cmetadata->>'file_stem') "
+            "FROM langchain_pg_embedding e JOIN langchain_pg_collection c ON e.collection_id = c.uuid "
+            "WHERE c.name=%s AND e.cmetadata ? 'case_number' "
+            "GROUP BY case_number HAVING COUNT(DISTINCT e.cmetadata->>'file_stem') > 1",
+            (COLLECTION_NAME,),
+        )
+    except Exception as exc:
+        print(f"Error scanning database duplicates: {exc}")
+        return duplicates
+
+    if rows:
+        for case_number, stems in rows:
+            key = (case_number or "").strip()
+            if key:
+                ordered = sorted({stem for stem in (stems or []) if stem})
+                if ordered:
+                    duplicates[key] = ordered
+    return duplicates
+
+
+def check_duplicate_metadata():
+    """
+    Check for duplicate case_number metadata locally and in the PGVector collection.
+    """
+    metadata_dir = Path("processed_data/metadata")
+    if not metadata_dir.exists():
+        print("No local metadata directory found at processed_data/metadata.")
+    else:
+        local_dupes = _scan_local_metadata(metadata_dir)
+        if not local_dupes:
+            print("Local metadata files: no duplicate case_number entries detected.")
+        else:
+            print(f"Local metadata files: {len(local_dupes)} duplicated case_number entries detected.")
+            for case, stems in sorted(local_dupes.items()):
+                snippet = ", ".join(stems[:10])
+                print(f"  - {case}: stems {snippet}")
+                if len(stems) > 10:
+                    print(f"    (and {len(stems) - 10} more)")
+
+    db_dupes = _scan_db_duplicates()
+    if not db_dupes:
+        print("Database metadata: no duplicate case_number entries detected.")
+    else:
+        print(f"Database metadata: {len(db_dupes)} duplicated case_number entries detected.")
+        for case, stems in sorted(db_dupes.items()):
+            snippet = ", ".join(stems[:10])
+            print(f"  - {case}: stems {snippet}")
+            if len(stems) > 10:
+                print(f"    (and {len(stems) - 10} more)")
+
+
 if __name__ == "__main__":
     print("Legal Drafting System - Database Debug Utilities")
     print("=" * 50)
@@ -170,11 +255,11 @@ if __name__ == "__main__":
             count_distinct_cases()
         elif c == "4":
             list_case_file_stems()
+        elif c == "5":
+            check_duplicate_metadata()
         elif c == "q":
             print("Goodbye!")
             break
         else:
-            print("Invalid choice. Please select 1, 2, 3, 4, or q.")
+            print("Invalid choice. Please select 1, 2, 3, 4, 5, or q.")
         print()
-
-

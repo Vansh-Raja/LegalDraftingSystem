@@ -192,6 +192,7 @@ def _ensure_session_state():
     Initialize all required session state variables for the Streamlit app.
     These variables persist across user interactions within a session.
     """
+    _ensure_user_profile()
     # Chat history and message storage
     if "history" not in st.session_state:
         st.session_state.history = InMemoryChatMessageHistory()
@@ -226,6 +227,7 @@ def _reset_chat_state():
     # Reset both history stores used in the app
     st.session_state.history = InMemoryChatMessageHistory()
     st.session_state.chat_history = InMemoryChatMessageHistory()
+    st.session_state.user_profile = {}
     # Clear any cached context and planner-related artifacts
     st.session_state.last_context = ""
     st.session_state.last_docs = []
@@ -267,6 +269,115 @@ def _debug_section(title: str, payload, note: str | None = None) -> None:
     else:
         header = f"\n\n{sep}\n{title}\n{sep}\n"
     _append_debug(f"{header}{body}\n{'-'*28}")
+
+
+_NAME_CAPTURE = re.compile(
+    r"\b(?:my name is|i am|i['`]?m|this is)\s+([A-Za-z][A-Za-z\s'.-]{0,40})",
+    re.IGNORECASE,
+)
+_NAME_QUERY = re.compile(r"\bwhat(?:'s| is)\s+my\s+name\b", re.IGNORECASE)
+
+
+def _normalise_name(raw: str) -> str:
+    cleaned = (raw or "").strip(" .,!?:;\"'")
+    if not cleaned:
+        return ""
+    parts = cleaned.split()
+    return " ".join(part.capitalize() for part in parts)
+
+
+def _ensure_user_profile():
+    if "user_profile" not in st.session_state:
+        st.session_state.user_profile = {}
+
+
+def _update_user_profile(text: str) -> None:
+    if not text:
+        return
+    match = _NAME_CAPTURE.search(text)
+    if not match:
+        return
+    candidate = _normalise_name(match.group(1))
+    if not candidate:
+        return
+    _ensure_user_profile()
+    st.session_state.user_profile["preferred_name"] = candidate
+
+
+def _get_known_user_name() -> Optional[str]:
+    _ensure_user_profile()
+    name = st.session_state.user_profile.get("preferred_name")
+    if name:
+        return name
+    for message in reversed(st.session_state.messages):
+        if message.get("role") != "user":
+            continue
+        text = message.get("content") or ""
+        match = _NAME_CAPTURE.search(text)
+        if match:
+            candidate = _normalise_name(match.group(1))
+            if candidate:
+                st.session_state.user_profile["preferred_name"] = candidate
+                return candidate
+    return None
+
+
+def _persona_prompt_note() -> str:
+    name = _get_known_user_name()
+    if not name:
+        return ""
+    return f"The user introduced themselves as {name}; address them by name when greeting or acknowledging them."
+
+
+def _maybe_answer_personal_memory_question(user_q: str) -> Optional[str]:
+    if not user_q:
+        return None
+    lower = user_q.strip()
+    if not lower:
+        return None
+    if _NAME_QUERY.search(lower):
+        name = _get_known_user_name()
+        if name:
+            return f"You mentioned earlier that your name is {name}."
+        return "I don't think you've told me your name yet."
+    return None
+
+
+def _handle_general_chat(user_input: str, llm) -> str:
+    text = (user_input or "").strip()
+    lower = text.lower()
+    known_name = _get_known_user_name()
+
+    if not text:
+        return "Hi there! Let me know when you have a legal question."
+
+    if _NAME_QUERY.search(lower):
+        if known_name:
+            return f"You mentioned earlier that your name is {known_name}. I'm ready whenever you want to discuss a legal question."
+        return "I don't think you've shared your name yet. Tell me your legal question and I'll do my best to help."
+
+    chat_system = (
+        "You are a friendly assistant for the Legal Drafting System. "
+        "When the user is not asking for legal help, reply briefly (no more than three sentences), "
+        "stay positive, and encourage them to share any legal question if appropriate. "
+        "You may answer general knowledge queries directly without mentioning legal content. "
+        "If the user steers back toward legal matters, gently invite them to provide more details so we can help."
+    )
+
+    context_notes = []
+    if known_name:
+        context_notes.append(f"The user previously introduced themselves as {known_name}.")
+    notes_block = ""
+    if context_notes:
+        notes_block = "Context notes:\n" + "\n".join(f"- {note}" for note in context_notes) + "\n\n"
+
+    prompt = f"{chat_system}\n\n{notes_block}User message: {user_input}\nAssistant:"
+    try:
+        reply = (_collect_stream_text(llm, prompt) or "").strip()
+    except Exception as exc:
+        _append_debug(f"[DEBUG][GeneralChat][error] {exc}")
+        reply = "I'm glad we're chatting. If you have a legal question, feel free to share it with me."
+    return reply or "I'm glad we're chatting. If you have a legal question, feel free to share it with me."
 
 
 def _fmt_qp(plan: dict) -> str:
@@ -863,6 +974,24 @@ def main():
                 with st.chat_message("user"):
                     st.markdown(user_q)
 
+            _update_user_profile(user_q)
+            personal_memory_reply = _maybe_answer_personal_memory_question(user_q)
+            if personal_memory_reply is not None:
+                try:
+                    st.session_state.chat_history.add_user_message(user_q)
+                except Exception:
+                    pass
+                with messages_container:
+                    with st.chat_message("assistant", avatar="⚖️"):
+                        st.markdown(personal_memory_reply)
+                st.session_state.messages.append({"role": "assistant", "content": personal_memory_reply})
+                try:
+                    st.session_state.chat_history.add_ai_message(personal_memory_reply)
+                except Exception:
+                    pass
+                _append_debug("[DEBUG][Persona] answered from stored user profile")
+                st.stop()
+
             tracker = PipelineTracker()
             try:
                 tracker.stage_running("planner", "Rewriting query…")
@@ -901,10 +1030,18 @@ def main():
                 qp_breadth = getattr(qp, "breadth", "unknown")
                 tracker.stage_complete("planner", f"type={getattr(qp, 'type', 'unknown')} breadth={qp_breadth}")
 
-                # Decide effective Top-K (retrieval depth) - skip entirely for general-law routing
-                if getattr(qp, "type", "") == "general_law":
+                general_chat_mode = getattr(qp, "type", "") == "general_chat"
+                general_law_mode = getattr(qp, "type", "") == "general_law"
+                case_probe_query = (getattr(qp, "case_probe", "") or "").strip()
+                general_law_retrieval = general_law_mode and bool(case_probe_query)
+
+                # Decide effective Top-K (retrieval depth)
+                if general_chat_mode:
                     effective_k = 0
-                    k_source = "not_applicable"
+                    k_source = "general_chat"
+                elif general_law_mode and not general_law_retrieval:
+                    effective_k = 0
+                    k_source = "general_law_no_case_probe"
                 else:
                     auto_topk_enabled = bool(st.session_state.get("auto_topk", True))
                     if auto_topk_enabled and getattr(qp, "retrieval_k", None):
@@ -929,9 +1066,12 @@ def main():
                         k_source = "manual_slider"
                 _debug_section("Top-K Selection", _fmt_topk({"effective_k": effective_k, "source": k_source}), note="How many items to retrieve; affects breadth vs. depth.")
                 # Decide Min Full Docs (either from planner or UI)
-                if getattr(qp, "type", "") == "general_law":
+                if general_chat_mode:
                     effective_min_docs = 0
-                    min_docs_source = "not_applicable"
+                    min_docs_source = "general_chat"
+                elif general_law_mode and not general_law_retrieval:
+                    effective_min_docs = 0
+                    min_docs_source = "general_law_no_case_probe"
                 elif auto_min_docs and getattr(qp, "min_full_docs", None):
                     effective_min_docs = max(2, int(qp.min_full_docs))
                     min_docs_source = "qp.min_full_docs"
@@ -959,53 +1099,26 @@ def main():
                 case_probe_plan = None
                 case_probe_sources: List[str] = []
                 case_probe_stage_handled = False
-                case_probe_query = (getattr(qp, "case_probe", "") or "").strip()
                 case_probe_detail = ""
 
                 # Step 2: Context Strategy - Choose how to handle the query
                 tracker.stage_running("retrieval", "Retrieving information…")
                 retrieval_notes: List[str] = []
-                if qp.type == "general_law":
-                    # General legal knowledge - no document retrieval needed
+                if general_chat_mode:
+                    strategy = "general_chat"
+                    tracker.stage_skip("retrieval", "General chat (no retrieval).")
+                    tracker.stage_skip("filtration", "General chat (skipped).")
+                    tracker.stage_skip("assembly", "General chat (skipped).")
+                    tracker.stage_skip("case_probe", "General chat (no precedents).")
+                    case_probe_stage_handled = True
+                elif general_law_mode and not general_law_retrieval:
+                    # General legal knowledge without precedent retrieval fallback
                     strategy = "general_law"
-                    # context remains empty
                     tracker.stage_skip("retrieval", "General-law routing (no retrieval).")
                     tracker.stage_skip("filtration", "General-law routing (skipped).")
                     tracker.stage_skip("assembly", "General-law routing (skipped).")
-                    if case_probe_query:
-                        tracker.stage_running("case_probe", "Reviewing precedents…")
-                        try:
-                            probe_result = _execute_case_probe(
-                                case_probe_query,
-                                user_q,
-                                vs,
-                                court_name,
-                                getattr(qp, "statutes", None),
-                                model_name,
-                                filtration_mode,
-                                max_chunks_per_case,
-                            )
-                        except Exception as probe_exc:
-                            _append_debug(f"[DEBUG][CaseProbe][fatal_error] {probe_exc}")
-                            probe_result = {"context": "", "detail": str(probe_exc), "docs": [], "stems": [], "plan": None, "dbg": {}}
-                        case_probe_stage_handled = True
-                        case_probe_detail = probe_result.get("detail", "")
-                        if probe_result.get("context"):
-                            tracker.stage_complete("case_probe", case_probe_detail or "Precedents prepared")
-                            case_probe_context = probe_result["context"]
-                            case_probe_plan = probe_result.get("plan")
-                            case_probe_sources = _case_sources_from_plan(case_probe_plan) or probe_result.get("stems", [])
-                            case_probe_sources = [s for s in case_probe_sources if s]
-                            context = case_probe_context
-                            docs = probe_result.get("docs", [])
-                            stems = probe_result.get("stems", [])
-                            dbg = probe_result.get("dbg", {"est_tokens": 0}) or {"est_tokens": 0}
-                            strategy = "general_law+case_probe"
-                        else:
-                            tracker.stage_skip("case_probe", case_probe_detail or "No precedents retrieved")
-                    else:
-                        tracker.stage_skip("case_probe", "No case probe requested.")
-                        case_probe_stage_handled = True
+                    tracker.stage_skip("case_probe", "No case-probe rewrite provided; advisory only.")
+                    case_probe_stage_handled = True
                 elif qp.type == "followup" and qp.keep_context and st.session_state.last_context:
                     # Reuse context from previous query
                     strategy = "reuse_last_context"
@@ -1128,9 +1241,14 @@ def main():
                     tracker.stage_skip("filtration", "Context reused from previous turn.")
                     tracker.stage_skip("assembly", "Context reused from previous turn.")
                 else:
-                    # Step 2b: Fresh Retrieval - New query requires document search
-                    retr_q = qp.rewrite or user_q
-                
+                    # Step 2b: Fresh Retrieval - applies to new queries and general-law precedent lookup
+                    retr_q = case_probe_query if general_law_retrieval else (qp.rewrite or user_q)
+                    if general_law_retrieval:
+                        _append_debug(f"[DEBUG][GeneralLaw] case-probe retrieval query: {retr_q}")
+                        tracker.stage_running("case_probe", "Retrieving precedents…")
+                    else:
+                        _append_debug(f"[DEBUG][Retrieval] using rewrite query: {retr_q}")
+
                     # Build retriever with query plan filters (vector path)
                     retriever2 = build_retriever(
                         vs,
@@ -1220,6 +1338,8 @@ def main():
                     case_metas = _load_case_metadata_for_stems(stems, qp_breadth)
                     _append_debug(f"[DEBUG][Cases] loaded metadata for {len(case_metas)} cases (ranked, breadth={qp_breadth})")
                     retrieval_detail = f"{len(docs)} chunk(s) across {len(stems)} case(s)"
+                    if general_law_retrieval:
+                        retrieval_detail += " (general-law precedents)"
                     tracker.stage_complete("retrieval", retrieval_detail)
                     tracker.stage_running("filtration", "Filtering relevant documents…")
 
@@ -1333,7 +1453,25 @@ def main():
                     if not context:
                         context = "\n\n".join(d.page_content for d in docs)
                         _append_debug(f"[DEBUG] Filtration empty; fallback context length: {len(context)}")
-                    strategy = "fresh_retrieval"
+                    if general_law_retrieval:
+                        strategy = "general_law+rag"
+                        case_probe_context = context
+                        case_probe_plan = plan
+                        case_probe_sources = _case_sources_from_plan(plan) if plan else []
+                        case_probe_sources = [s for s in case_probe_sources if s]
+                        case_probe_detail = (
+                            f"{len(plan.selected_full_docs)} full doc(s); {len(plan.selected_chunks)} chunk(s)"
+                            if plan
+                            else f"{len(stems)} case(s) retrieved"
+                        )
+                        tracker.stage_complete("case_probe", case_probe_detail or "Precedents prepared")
+                        case_probe_stage_handled = True
+                    else:
+                        strategy = "fresh_retrieval"
+
+                if general_law_retrieval and not case_probe_stage_handled:
+                    tracker.stage_skip("case_probe", case_probe_detail or "No precedents retrieved.")
+                    case_probe_stage_handled = True
 
                 if not case_probe_stage_handled:
                     tracker.stage_skip("case_probe", "Not required (retrieval pipeline).")
@@ -1342,11 +1480,16 @@ def main():
                 if 'qp' in locals() and getattr(qp, 'type', '') == 'general_law':
                     # General legal knowledge - no document constraints
                     system_prefix = (
-                        "You are a **legal expert**. Answer general legal questions clearly and concisely. "
-                        "Default to Indian law if jurisdiction is not specified. Provide statute names/sections when relevant (e.g., IPC s.302, CrPC s.482), "
-                        "and note jurisdictional variations if applicable. Avoid case-specific claims unless cases are explicitly provided. "
-                        "Do NOT invent case citations. If the question requires specific documents, ask for them."
+                        "You are the primary advisory voice for an Indian legal assistant. "
+                        "Deliver empathetic, actionable guidance grounded in Indian law unless the user specifies another jurisdiction. "
+                        "Structure your reply under the heading 'General Guidance'. "
+                        "Explain key rights, immediate steps, procedural options, and statutory hooks (e.g., IPC, CrPC, PC Act) relevant to the scenario. "
+                        "Keep the focus on universal principles—do not cite specific cases or rely on any precedent context, because a separate module will append case-based insights. "
+                        "Flag uncertainties, urge the user to consult a qualified lawyer, and avoid definitive promises about outcomes."
                     )
+                    persona_note = _persona_prompt_note()
+                    if persona_note:
+                        system_prefix += f" {persona_note}"
                     prompt = f"{system_prefix}\n\nQUESTION: {user_q}"
                 else:
                     # RAG mode - must use only provided context
@@ -1481,7 +1624,17 @@ def main():
                 # Generate response (branch for general-law vs RAG)
                 tracker.stage_running("answer", "Generating answer…")
                 answer = ""
-                if getattr(qp, "type", "") == "general_law":
+                if general_chat_mode:
+                    try:
+                        st.session_state.chat_history.add_user_message(user_q)
+                    except Exception:
+                        pass
+                    answer = _handle_general_chat(user_q, llm)
+                    with messages_container:
+                        with st.chat_message("assistant", avatar="⚖️"):
+                            st.markdown(answer)
+                    tracker.stage_complete("answer", "General chat response.")
+                elif general_law_mode:
                     try:
                         st.session_state.chat_history.add_user_message(user_q)
                     except Exception:
@@ -1510,7 +1663,7 @@ def main():
                         if case_probe_context:
                             case_system_prefix = (
                                 "You are an Indian legal research assistant augmenting an advisory reply. "
-                                "Use ONLY the provided case-law context to highlight precedents relevant to the user's situation. "
+                                "Use ONLY the provided case-law context to highlight precedents that complement the general guidance already shared with the user. "
                                 "Write a section titled 'Relevant Precedents' with concise takeaways (2-3 sentences or bullets) for up to three cases. "
                                 "Cite statutes mentioned in the context when helpful. End with a line of the form 'Sources: <file ids>'."
                             )
@@ -1598,11 +1751,12 @@ def main():
                 _append_debug(f"[Hint] Many chunks from one case — full judgment available: {full}")
 
             # Update session state for next query (enables follow-up questions)
-            st.session_state.last_context = context
-            st.session_state.last_docs = docs
-            st.session_state.last_stems = stems
-            st.session_state.last_filters = {"court_name": court_name, "statutes": getattr(qp, "statutes", None) or statutes}
-            st.session_state.last_question_rewrite = getattr(qp, "rewrite", None) or user_q
+            if not general_chat_mode:
+                st.session_state.last_context = context
+                st.session_state.last_docs = docs
+                st.session_state.last_stems = stems
+                st.session_state.last_filters = {"court_name": court_name, "statutes": getattr(qp, "statutes", None) or statutes}
+                st.session_state.last_question_rewrite = getattr(qp, "rewrite", None) or user_q
             _append_debug(f"[DEBUG][Router] strategy={strategy}")
 
     # Debug Tab - Show detailed logs

@@ -23,6 +23,32 @@ def extract_text_from_pdf(pdf_path: str) -> str:
     # Extract all text from the PDF using pdfminer
     return extract_text(pdf_path) or ""
 
+
+def _clean_text(content: str) -> str:
+    """
+    Normalise whitespace and drop common boilerplate artefacts from extracted text.
+    """
+    text = content.replace("\r\n", "\n").replace("\r", "\n")
+    cleaned_lines = []
+    previous_blank = False
+    for raw_line in text.split("\n"):
+        line = raw_line.strip()
+        if not line:
+            if previous_blank:
+                continue
+            previous_blank = True
+            cleaned_lines.append("")
+            continue
+
+        # Skip common scraped footer noise
+        if line.lower().startswith("indian kanoon -"):
+            continue
+
+        cleaned_lines.append(line)
+        previous_blank = False
+
+    return "\n".join(cleaned_lines).strip()
+
 def save_all_judgements_to_text(judgements_dir: str = "judgements", output_dir: str = "processed_data/txt_data") -> None:
     """
     Convert all PDF files to text and save as sequentially numbered files (1.txt, 2.txt, etc.).
@@ -65,7 +91,13 @@ def save_all_judgements_to_text(judgements_dir: str = "judgements", output_dir: 
 
     # Helper function to collect all PDF files recursively
     def collect_pdfs(root: Path) -> list[Path]:
-        return [p for p in root.rglob("*") if p.is_file() and p.suffix.lower() == ".pdf"]
+        return [
+            p
+            for p in root.rglob("*")
+            if p.is_file()
+            and p.suffix.lower() == ".pdf"
+            and not p.name.startswith("._")
+        ]
 
     # Find PDF files in the specified directory
     root_path = Path(judgements_dir)
@@ -107,8 +139,20 @@ def save_all_judgements_to_text(judgements_dir: str = "judgements", output_dir: 
                 target_txt = output_path / f"{current_max}.txt"
 
             # Extract text and save to file
-            content = extract_text_from_pdf(str(pdf))
-            target_txt.write_text(content, encoding="utf-8")
+            try:
+                raw_content = extract_text_from_pdf(str(pdf))
+            except Exception as exc:
+                pbar.write(f"[WARN] Failed to extract '{pdf}': {exc}")
+                current_max -= 1
+                continue
+
+            cleaned = _clean_text(raw_content)
+            if not cleaned:
+                pbar.write(f"[WARN] No text extracted from '{pdf}'. Skipping.")
+                current_max -= 1
+                continue
+
+            target_txt.write_text(cleaned, encoding="utf-8")
 
             # Update manifest
             if _json:
