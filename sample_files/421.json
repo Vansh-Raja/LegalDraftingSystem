@@ -1,0 +1,27 @@
+{
+  "case_number": "2024 INSC 223; CRIMINAL APPEAL NO(S). /2024 (ARISING OUT OF SLP (CRL.) NO(S). 5463-5464/2023, 6786/2023, 5532/2023, 8385-8387/2023)",
+  "parties": {
+    "petitioner": "Apoorva Arora & Anr.",
+    "respondent": "State (Govt. Of Nct Of Delhi) & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-03-19",
+  "summary": "Obscenity standard for digital content under IT Act; community test applying Aveek Sarkar; language/vulgarity in web-series 'College Romance' not obscene; prurience/depravity threshold unmet; online content context matters; warnings/disclaimers relevant; IT Rules 2021 classification considered; no violation of Sections 67/67A; prosecution quashed; High Court order set aside.",
+  "legal_provisions_cited": [
+    "Information Technology Act, 2000 s.67",
+    "Information Technology Act, 2000 s.67A",
+    "Code of Criminal Procedure, 1973 s.482",
+    "Code of Criminal Procedure, 1973 s.156(3)",
+    "Code of Criminal Procedure, 1973 s.200",
+    "Code of Criminal Procedure, 1973 s.154(3)",
+    "Indian Penal Code s.292",
+    "Indian Penal Code s.294",
+    "Indian Penal Code s.509",
+    "Indecent Representation of Women (Prohibition) Act, 1986 s.2(c)",
+    "Indecent Representation of Women (Prohibition) Act, 1986 s.3",
+    "Aveek Sarkar v. State of West Bengal (2014) 4 SCC 257",
+    "Sharat Babu Digumarti v. Government (NCT of Delhi) (2017) 2 SCC 18",
+    "Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021"
+  ],
+  "final_judgment": "Appeal allowed; High Court judgment set aside; FIR quashed."
+}

@@ -7,13 +7,14 @@ import os
 import json
 import re
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Sequence, Tuple, Union
 
 import streamlit as st
 from time_utils import now_ist_stamp
 from dotenv import load_dotenv
 
 from langchain_core.chat_history import InMemoryChatMessageHistory
+from langchain_core.messages import BaseMessage, HumanMessage, SystemMessage
 from langchain_ollama import ChatOllama
 from langchain_openai import ChatOpenAI
 
@@ -202,6 +203,16 @@ def _ensure_session_state():
         st.session_state.messages = []
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = InMemoryChatMessageHistory()
+    if "draft_petition" not in st.session_state:
+        st.session_state.draft_petition = {
+            "file_name": None,
+            "uploaded_at": None,
+            "file_size": 0,
+            "mime_type": None,
+            "raw_bytes": None,
+        }
+    if "draft_uploader_index" not in st.session_state:
+        st.session_state.draft_uploader_index = 0
     
     # Context and document state from previous queries
     if "last_context" not in st.session_state:
@@ -478,10 +489,13 @@ def _fmt_filtration_plan(plan: dict) -> str:
         return str(plan)
 
 
-def _collect_stream_text(llm, prompt: str) -> str:
+def _collect_stream_text(llm, prompt: Union[str, Sequence[BaseMessage]]) -> str:
     """Run a streaming LLM call and capture the combined text."""
     text_chunks: List[str] = []
-    for chunk in llm.stream(prompt):
+    stream_input = prompt
+    if isinstance(prompt, (list, tuple)):
+        stream_input = prompt
+    for chunk in llm.stream(stream_input):
         content = getattr(chunk, "content", None)
         if content:
             text_chunks.append(content)
@@ -951,8 +965,8 @@ def main():
     vs = get_vectorstore()
 
 
-    # Create tabbed interface: Chat and Debug
-    chat_tab, debug_tab = st.tabs(["Chat", "Debug"])
+    # Create tabbed interface: Chat, Draft, and Debug
+    chat_tab, draft_tab, debug_tab = st.tabs(["Chat", "Draft", "Debug"])
 
     with chat_tab:
         # Clear chat button
@@ -1025,7 +1039,7 @@ def main():
                         pass
                     if not getattr(qp, "retrieval_k", None):
                         qp.retrieval_k = 8
-                    _append_debug("[DEBUG][QP] Manual mode: forced 'new' and retrieval-oriented rewrite")
+                _append_debug("[DEBUG][QP] Manual mode: forced 'new' and retrieval-oriented rewrite")
 
                 qp_breadth = getattr(qp, "breadth", "unknown")
                 tracker.stage_complete("planner", f"type={getattr(qp, 'type', 'unknown')} breadth={qp_breadth}")
@@ -1490,7 +1504,10 @@ def main():
                     persona_note = _persona_prompt_note()
                     if persona_note:
                         system_prefix += f" {persona_note}"
-                    prompt = f"{system_prefix}\n\nQUESTION: {user_q}"
+                    general_law_messages: List[BaseMessage] = [
+                        SystemMessage(content=system_prefix),
+                        HumanMessage(content=f"QUESTION: {user_q}"),
+                    ]
                 else:
                     # RAG mode - must use only provided context
                     system_prefix = (
@@ -1641,7 +1658,8 @@ def main():
                         pass
 
                     try:
-                        general_text = _collect_stream_text(llm, prompt) or ""
+                        prompt_input = general_law_messages if 'general_law_messages' in locals() else f"QUESTION: {user_q}"
+                        general_text = _collect_stream_text(llm, prompt_input) or ""
                     except Exception as e:
                         err_str = str(e)
                         prov = provider_name
@@ -1758,6 +1776,56 @@ def main():
                 st.session_state.last_filters = {"court_name": court_name, "statutes": getattr(qp, "statutes", None) or statutes}
                 st.session_state.last_question_rewrite = getattr(qp, "rewrite", None) or user_q
             _append_debug(f"[DEBUG][Router] strategy={strategy}")
+
+    with draft_tab:
+        st.subheader("Draft a response")
+        st.markdown(
+            "Upload a petition, writ, or notice to kick off the drafting workflow. "
+            "We will parse the upload and assemble a tailored response using the RAG stack in the next iteration."
+        )
+
+        uploader_key = f"draft_petition_file_{st.session_state.draft_uploader_index}"
+        uploaded_petition = st.file_uploader(
+            "Upload petition (PDF, DOCX, or plain text)",
+            type=["pdf", "docx", "txt"],
+            key=uploader_key,
+            help="Only one file at a time. Larger files may take a moment to process.",
+        )
+
+        if uploaded_petition is not None:
+            raw_bytes = uploaded_petition.getvalue()
+            st.session_state.draft_petition = {
+                "file_name": uploaded_petition.name,
+                "uploaded_at": now_ist_stamp(),
+                "file_size": len(raw_bytes),
+                "mime_type": uploaded_petition.type,
+                "raw_bytes": raw_bytes,
+            }
+
+        current_petition = st.session_state.get("draft_petition", {})
+        if current_petition.get("file_name"):
+            st.success(
+                f"Loaded {current_petition['file_name']} "
+                f"({current_petition['file_size']} bytes, uploaded at {current_petition['uploaded_at']})."
+            )
+            st.info("Drafting workflow coming soon — parsing and response generation will be added in the next iteration.")
+
+            if st.button("Remove uploaded petition", key="clear_draft_petition", type="secondary"):
+                st.session_state.draft_petition = {
+                    "file_name": None,
+                    "uploaded_at": None,
+                    "file_size": 0,
+                    "mime_type": None,
+                    "raw_bytes": None,
+                }
+                try:
+                    st.session_state.pop(uploader_key, None)
+                except Exception:
+                    pass
+                st.session_state.draft_uploader_index += 1
+                st.rerun()
+        else:
+            st.caption("No petition uploaded yet.")
 
     # Debug Tab - Show detailed logs
     with debug_tab:

@@ -1,0 +1,13 @@
+This tool helps lawyers and researchers turn batches of Indian legal judgments into a searchable knowledge base that powers both web and CLI assistants; PDFs are processed into structured text, embedded into a vector store, and queried live to answer legal questions with grounded context.
+Project Snapshot
+- LegalDraftingSystem_VG runs a retrieval-augmented assistant focused on Indian legal judgments, delivering answers through a Streamlit UI (app.py) backed by shared retrieval utilities.
+- Offline prep converts PDFs into cleaned text with stable numbering (functions.py) and then queries LLM backends (OpenAI, OpenRouter, or local Ollama) for structured metadata (ai.py), guarding against template bleed, rate limits, and empty outputs.
+- Processed text and metadata live under processed_data/, while ingest.py chunks the content, stores embeddings in PostgreSQL+PGVector, and maintains a full-text searchable case_summaries table for fast case-level fusion.
+- The query orchestrator (orchestrator.py) inspects each prompt, classifies it (new, follow-up, general-law, or chat), rewrites it for retrieval, and sets retrieval sizes, statute filters, and bridging strategies between turns.
+- Core RAG utilities (rag.py) load cases with metadata, split them, embed via Ollama, perform hybrid retrieval, run an LLM-driven filtration step with diversity guards, and assemble the final context with optional full-case fallbacks.
+- Supporting pieces include debug tooling (debug.py, st_debug.py), time utilities, backlog notes, and requirements that pin LangChain, Streamlit, OpenAI, PG drivers, and associated libraries.
+Query Flow and LLM Roles
+- Planner LLM (OpenAI gpt-5-nano) decides whether a prompt is a new query, follow-up, general-law request, or pure chat, and sets retrieval depth, statute filters, and bridging strategies; general-law routes spawn a secondary advisory answer while still issuing a precedent search via a case_probe query.
+- Retrieval pulls fused candidates from PGVector and the Postgres full-text summaries before an OpenAI filtration model scores chunks, requests full-case loads, and enforces breadth diversity; a named-case guard keeps target judgments even if rankings shift.
+- The answering model (Streamlit-controlled, switchable between OpenAI, OpenRouter, or local Ollama) consumes the assembled context, streams grounded responses, and includes self-check instructions so any unsupported claims are flagged.
+- Follow-up questions reuse prior stems and context when the planner signals keep_context, while statute_refill and adjacent bridging modes deliberately refresh related cases; general-law flows skip heavy retrieval unless the planner’s probe returns compelling matches.

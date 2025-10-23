@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No(s). 8414 of 2017",
+  "parties": {
+    "petitioner": "Airports Authority Of India",
+    "respondent": "Pradip Kumar Banerjee"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-02-04",
+  "summary": "The appeal challenged the Calcutta High Court's decision to set aside the dismissal of respondent Pradip Kumar Banerjee from service, reinstating him. The High Court had overturned a disciplinary dismissal that followed a departmental enquiry initiated after Banerjee's criminal acquittal was based on benefit of doubt. The appellant contended that departmental enquiries require only preponderance of probabilities, not proof beyond reasonable doubt, and that the High Court erred by re-appreciating evidence in intra-court appeal. The Supreme Court examined standards of proof in administrative disciplinary proceedings, the finality of enquiry reports, and the scope of judicial review in writ appeals, particularly regarding the High Court's interference with factual findings.",
+  "legal_provisions_cited": [
+    "Prevention of Corruption Act, 1988, Sections 7, 13(1)(d), 13(2)",
+    "Indian Penal Code, 1860, Section 34",
+    "Airport Authority of India Employees (CDA) Regulations, 2003"
+  ],
+  "final_judgment": "Appeal allowed; impugned judgment of High Court set aside, and order upholding dismissal of respondent from service restored."
+}
