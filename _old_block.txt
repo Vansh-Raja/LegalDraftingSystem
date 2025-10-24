@@ -1,0 +1,351 @@
+def run_retrieval_for_queries_full(
+    queries: List[Dict[str, Any]],
+    domain_tags: List[str],
+    budget_tokens: int,
+    per_case_k: int = 2,
+    top_cases: int = 20,
+    court_name: Optional[str] = "Supreme Court of India",
+) -> Tuple[Dict[str, Any], Dict[str, Dict[Any, str]], List[str], str]:
+    """Run retrieval for each structured query pack and return metadata for downstream selection."""
+    vs = get_vectorstore()
+    debug_lines: List[str] = []
+
+    selection_payload: Dict[str, Any] = {
+        "budget_tokens": int(budget_tokens),
+        "domain_tags": domain_tags,
+        "target_budget_tokens": int(math.floor(budget_tokens * 0.8)),
+        "queries": [],
+        "cases": [],
+    }
+    cases_map: Dict[str, Dict[str, Any]] = {}
+    full_doc_texts: Dict[str, str] = {}
+    chunk_texts: Dict[Tuple[str, int], str] = {}
+    digest_parts: List[str] = []
+
+    for idx, pack in enumerate(queries, start=1):
+        if not isinstance(pack, dict):
+            continue
+        intent = str(pack.get("intent", "")).strip().lower()
+        base_query = str(pack.get("broad", "")).strip()
+        if not base_query:
+            debug_lines.append(f"[DRAFT][Q{idx}] skipped empty query for intent={intent}")
+            continue
+
+        qp = process_query(
+            base_query,
+            last_question_rewrite=None,
+            last_stems=None,
+            last_filters=None,
+            last_context_snippet=None,
+            summary=None,
+            manual_mode=True,
+        )
+        retr_q = (getattr(qp, "rewrite", None) or base_query).strip()
+        debug_lines.append(
+            f"[DRAFT][Q{idx}] intent={intent or 'unknown'} planner rewrite='{retr_q}' type={getattr(qp, 'type', 'unknown')}"
+        )
+
+        retrieval_k = getattr(qp, "retrieval_k", None)
+        try:
+            effective_k = max(3, min(20, int(retrieval_k))) if retrieval_k else 8
+        except Exception:
+            effective_k = 8
+        min_full_docs = getattr(qp, "min_full_docs", None)
+        try:
+            desired_min_full_docs = max(2, int(min_full_docs)) if min_full_docs else 3
+        except Exception:
+            desired_min_full_docs = 3
+        breadth = getattr(qp, "breadth", "narrow") or "narrow"
+        statute_filters = getattr(qp, "statutes", None) or None
+
+        def _attempt(query_text: str, label: str, court: Optional[str], statutes_filter: Optional[List[str]]):
+            attempt_entry: Dict[str, Any] = {"label": label, "query": query_text}
+            try:
+                sr = summary_search_pg(
+                    query_text,
+                    court_name=court,
+                    statutes=statutes_filter,
+                    year=None,
+                    limit=max(50, effective_k * 8),
+                )
+            except Exception:
+                sr = []
+            attempt_entry["summary_hits"] = len(sr)
+            retr = build_retriever(
+                vs,
+                statute_filters=statutes_filter,
+                court_name=court,
+                k=effective_k,
+            )
+            try:
+                dv = retr.invoke(query_text)
+            except Exception:
+                dv = []
+            attempt_entry["vector_chunks"] = len(dv)
+            return attempt_entry, sr, dv
+
+        attempt_history: List[Dict[str, Any]] = []
+        final_court = court_name
+        final_statutes = statute_filters
+        attempt_entry, sum_ranked, docs_vector = _attempt(retr_q, "primary", final_court, final_statutes)
+        attempt_history.append(attempt_entry)
+
+        if not sum_ranked and not docs_vector:
+            for alt in pack.get("alternates", []) or []:
+                alt_q = str(alt or "").strip()
+                if not alt_q:
+                    continue
+                alt_entry, alt_sum, alt_docs = _attempt(alt_q, "alternate", final_court, final_statutes)
+                attempt_history.append(alt_entry)
+                if alt_sum or alt_docs:
+                    retr_q = alt_q
+                    sum_ranked = alt_sum
+                    docs_vector = alt_docs
+                    final_court = court_name
+                    final_statutes = statute_filters
+                    break
+
+        if not sum_ranked and not docs_vector:
+            fallback_tokens = [
+                str(t).strip()
+                for t in ((pack.get("must_include") or []) + (pack.get("keywords") or []) + (pack.get("should_include") or []) + list(domain_tags))
+                if isinstance(t, str) and str(t).strip()
+            ]
+            fallback_tokens = list(dict.fromkeys(fallback_tokens))[:6]
+            fallback_query = ""
+            if fallback_tokens:
+                wrapped = [token if " " not in token else f'"{token}"' for token in fallback_tokens]
+                fallback_query = wrapped[0] if len(wrapped) == 1 else "(" + " OR ".join(wrapped) + ")"
+            if fallback_query:
+                fb_entry, fb_sum, fb_docs = _attempt(fallback_query, "fallback-tight", final_court, final_statutes)
+                attempt_history.append(fb_entry)
+                if fb_sum or fb_docs:
+                    retr_q = fallback_query
+                    sum_ranked = fb_sum
+                    docs_vector = fb_docs
+                    final_court = court_name
+                    final_statutes = statute_filters
+                else:
+                    fbw_entry, fbw_sum, fbw_docs = _attempt(fallback_query, "fallback-wide", None, None)
+                    attempt_history.append(fbw_entry)
+                    if fbw_sum or fbw_docs:
+                        retr_q = fallback_query
+                        sum_ranked = fbw_sum
+                        docs_vector = fbw_docs
+                        final_court = None
+                        final_statutes = None
+
+        debug_lines.append(f"[DRAFT][Q{idx}] summary hits={len(sum_ranked)}")
+        debug_lines.append(f"[DRAFT][Q{idx}] vector chunks={len(docs_vector)}")
+
+        query_entry = {
+            "intent": intent,
+            "original_query": base_query,
+            "planner_rewrite": retr_q,
+            "planner_type": getattr(qp, "type", "unknown"),
+            "retrieval_k": effective_k,
+            "min_full_docs": desired_min_full_docs,
+            "breadth": breadth,
+            "statute_filters": statute_filters,
+            "alternates": pack.get("alternates", []),
+            "must_include": pack.get("must_include", []),
+            "should_include": pack.get("should_include", []),
+            "exclude": pack.get("exclude", []),
+            "keywords": pack.get("keywords", []),
+            "attempt_history": attempt_history,
+        }
+        query_entry["attempt_history"] = attempt_history[:4]
+
+        if not sum_ranked and not docs_vector:
+            debug_lines.append(f"[DRAFT][Q{idx}] no retrieval results even after fallbacks")
+            selection_payload["queries"].append(query_entry)
+            continue
+
+        selection_payload["queries"].append({**query_entry, "used_query": retr_q, "used_filters": {"court_name": final_court, "statute_filters": final_statutes}})
+
+        try:
+            fused = fuse_cases_by_rrf(sum_ranked, docs_vector, k=60, top_n=max(20, effective_k * 3))
+        except Exception:
+            fused = [fs for fs, _rk in sum_ranked[:max(10, effective_k)]]
+        stems = [fs for fs in fused if fs]
+
+        chunk_doc_map: Dict[Tuple[str, int], Document] = {}
+        for doc in docs_vector:
+            fs = (doc.metadata or {}).get("file_stem")
+            ci = (doc.metadata or {}).get("chunk_index")
+            if fs is None or ci is None:
+                continue
+            chunk_doc_map[(fs, int(ci))] = doc
+
+        if stems:
+            try:
+                docs = fetch_top_chunks_for_cases(vs, retr_q, stems, per_case_k=per_case_k)
+                docs = interleave_docs_by_case(docs, per_case_limit=per_case_k, max_total=None)
+                for doc in docs:
+                    fs = (doc.metadata or {}).get("file_stem")
+                    ci = (doc.metadata or {}).get("chunk_index")
+                    if fs is None or ci is None:
+                        continue
+                    chunk_doc_map.setdefault((fs, int(ci)), doc)
+            except Exception:
+                docs = docs_vector
+        else:
+            docs = docs_vector
+
+        case_metas = _load_case_metadata_for_stems(stems, breadth=breadth)
+
+        query_ctx = {
+            "breadth": breadth,
+            "fused_case_count": len(stems),
+            "retrieval_k": effective_k,
+            "planner_min_full_docs": desired_min_full_docs,
+        }
+
+        plan = filtration_retriever(
+            retr_q,
+            docs,
+            mode="chunk",
+            case_metadatas=case_metas,
+            desired_min_full_docs=desired_min_full_docs,
+            desired_max_chunks_per_case=2,
+            query_context=query_ctx,
+            purpose="draft",
+        )
+        plan = enforce_case_diversity(
+            plan,
+            fused_cases=stems,
+            desired_min_full_docs=desired_min_full_docs,
+            desired_max_chunks_per_case=2,
+            breadth=breadth,
+            allow_expansion=bool(getattr(plan, "request_more_cases", False) and breadth == "broad"),
+        )
+        debug_lines.append(f"[DRAFT][Q{idx}] plan full_docs={len(plan.selected_full_docs)} chunks={len(plan.selected_chunks)}")
+
+        for meta in case_metas:
+            fs = meta.get("file_stem")
+            if not fs:
+                continue
+            entry = cases_map.setdefault(
+                fs,
+                {
+                    "file_stem": fs,
+                    "case_number": meta.get("case_number"),
+                    "title": meta.get("title"),
+                    "court": meta.get("court_name"),
+                    "date": meta.get("date_of_judgment"),
+                    "statutes": meta.get("statutes", []),
+                    "summary": (meta.get("summary") or "")[:700],
+                    "query_intents": set(),
+                    "full_doc_options": [],
+                    "chunk_options": [],
+                },
+            )
+            entry["query_intents"].add(intent)
+
+        for fs in getattr(plan, "selected_full_docs", []):
+            if not fs:
+                continue
+            entry = cases_map.get(fs)
+            if not entry:
+                continue
+            if fs not in full_doc_texts:
+                txt_path = Path("processed_data/txt_data") / f"{fs}.txt"
+                if txt_path.exists():
+                    try:
+                        full_doc_texts[fs] = txt_path.read_text(encoding="utf-8")
+                    except Exception:
+                        full_doc_texts[fs] = ""
+                else:
+                    full_doc_texts[fs] = ""
+            text_blob = full_doc_texts.get(fs, "")
+            token_est = max(1, len(text_blob) // 4) if text_blob else 0
+            reason = next(
+                (
+                    getattr(reason, "reason", None)
+                    for reason in getattr(plan, "reasoning_full_docs", [])
+                    if getattr(reason, "file_stem", None) == fs
+                ),
+                None,
+            )
+            cases_map[fs]["full_doc_options"].append(
+                {
+                    "intent": intent,
+                    "estimated_tokens": token_est,
+                    "planner_reason": reason,
+                }
+            )
+
+        for chunk_ref in getattr(plan, "selected_chunks", []):
+            fs = getattr(chunk_ref, "file_stem", None)
+            ci = getattr(chunk_ref, "chunk_index", None)
+            if fs is None or ci is None:
+                continue
+            entry = cases_map.get(fs)
+            if not entry:
+                continue
+            doc = chunk_doc_map.get((fs, int(ci)))
+            text_blob = (doc.page_content or "") if doc else ""
+            chunk_texts.setdefault((fs, int(ci)), text_blob)
+            token_est = max(1, len(text_blob) // 4) if text_blob else 0
+            reason = next(
+                (
+                    getattr(reason, "reason", None)
+                    for reason in getattr(plan, "reasoning_chunks", [])
+                    if getattr(reason, "file_stem", None) == fs and getattr(reason, "chunk_index", None) == ci
+                ),
+                None,
+            )
+            entry["chunk_options"].append(
+                {
+                    "intent": intent,
+                    "chunk_index": int(ci),
+                    "estimated_tokens": token_est,
+                    "planner_reason": reason,
+                }
+            )
+
+        for meta in case_metas:
+            fs = meta.get("file_stem")
+            if not fs or any(fs in line for line in digest_parts):
+                continue
+            title = meta.get("title") or meta.get("case_number") or f"File {fs}.txt"
+            court = meta.get("court_name") or ""
+            date = meta.get("date_of_judgment") or ""
+            summary = (meta.get("summary") or "").strip()
+            if summary:
+                summary = summary[:700]
+            line = f"{title} ({court} {date}) – file {fs}.txt"
+            if summary:
+                line += f": {summary}"
+            digest_parts.append(line)
+
+    trimmed_cases: List[Dict[str, Any]] = []
+    max_cases = 18
+    for entry in sorted(
+        cases_map.values(),
+        key=lambda e: (e.get("rank") if e.get("rank") is not None else 10**9),
+    ):
+        entry["query_intents"] = sorted(set(entry["query_intents"]))
+        full_opts = entry.get("full_doc_options", [])[:1]
+        chunk_opts = entry.get("chunk_options", [])[:2]
+        trimmed_cases.append(
+            {
+                "file_stem": entry["file_stem"],
+                "rank": entry.get("rank"),
+                "summary": entry.get("summary"),
+                "statutes": entry.get("statutes", []),
+                "query_intents": entry["query_intents"],
+                "full_doc_options": full_opts,
+                "chunk_options": chunk_opts,
+            }
+        )
+        if len(trimmed_cases) >= max_cases:
+            break
+    selection_payload["cases"] = trimmed_cases
+
+    research_digest = "\n".join(digest_parts)
+    text_store = {"full_docs": full_doc_texts, "chunks": chunk_texts}
+
+    return selection_payload, text_store, debug_lines, research_digest
+
+

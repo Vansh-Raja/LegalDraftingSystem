@@ -660,6 +660,7 @@ def filtration_retriever(
     desired_min_full_docs: int = 3,
     desired_max_chunks_per_case: int = 2,
     query_context: Optional[dict] = None,
+    purpose: str = "chat",
 ) -> FiltrationPlan:
     """
     Select most relevant documents/chunks using an LLM planning step.
@@ -680,29 +681,49 @@ def filtration_retriever(
         return FiltrationPlan(selected_full_docs=[], selected_chunks=[], drop_chunks=[], context_budget_tokens=6000)
 
     previews = _build_chunk_previews(docs) if mode == "chunk" else []
-    system_msg = (
-        "You are a legal expert filtration retriever. You will receive a user question, chunk previews, and case-level metadata from a legal RAG pipeline. "
-        "Your job is to (1) select the most relevant chunks, (2) request full-document retrieval for cases that must be loaded in full, and (3) signal when additional fused cases should be fetched.\n\n"
-        "Context hints:\n"
-        "- `query_context` contains planner guidance (breadth classification, fused-case count, retrieval_k).\n"
-        "- Each entry in `cases` includes the fused rank, metadata summary, final judgment, statutes, parties, and court. Read summaries before discarding a case.\n\n"
-        "Strict rules:\n"
-        "- Prefer cases whose previews or metadata contain specific mentions from the question (parties, case numbers, courts, statutes, time frames).\n"
-        "- If the user names a specific case, ensure that case is selected (full doc if necessary) and keep focus tight.\n"
-        "- You may request ANY number of full documents, but include only those needed to answer thoroughly.\n"
-        "- Remove irrelevant chunks; select concise spans that best support the answer.\n"
-        "- Output STRICT JSON matching the provided schema (no prose outside JSON fields).\n"
-        "- Provide reasoning for every selected_full_docs and selected_chunks entry, and set overall_reasoning with a 1–2 sentence summary.\n"
-        "- When metadata summaries or final judgments indicate relevance, use them as justification to retain the case even if the preview snippet looks weak.\n"
-        "- Set `request_more_cases` to true only when the fused list still has clearly relevant cases that should be fetched; include a short `expansion_reason`. Otherwise leave it false.\n"
-        "- Do NOT use knowledge beyond the provided previews, metadata, and hints.\n\n"
-        "Breadth-aware coverage directives:\n"
-        "- If `query_context.breadth` is \"broad\", assemble a diverse set of cases (aim ≥ desired_min_full_docs, often 5–8) covering the requested time span/statutes. Consider mid-ranked fused cases that add new angles.\n"
-        "- If breadth is \"narrow\", choose the strongest 2–4 cases covering the requested statute/topic; you may expand if summaries show distinct fact patterns needed for comparison.\n"
-        "- If breadth is \"specific\", focus on the named case (plus closely related ones only if they are essential for contrast or procedural history).\n"
-        "- Use fused ranks and metadata summaries to justify selections; avoid dropping higher-ranked cases without a clear reason.\n"
-        "- Balance chunk picks across selected cases; favor overview/headnote chunks before deep procedural detail unless the query demands it."
-    )
+    if purpose == "draft":
+        system_msg = (
+            "You are a legal expert filtration retriever for drafting responses to Indian petitions (writs, bail, quash, injunctions). "
+            "You receive a drafting query, chunk previews, and case-level metadata. Your tasks: (1) select chunks most useful for a REPLY DRAFT, "
+            "(2) request full documents only when necessary, and (3) indicate if more fused cases should be fetched.\n\n"
+            "Priorities for reply drafting:\n"
+            "- Prefer Supreme Court authorities; supplement with persuasive High Court when necessary.\n"
+            "- Elevate maintainability/threshold points: alternate remedy, delay/laches, suppression/clean hands, jurisdiction.\n"
+            "- For relief-specific matters (bail/anticipatory bail, quash under S.482 CrPC, temporary injunction), select standards and leading cases.\n"
+            "- Keep selections tight and argument-ready; avoid procedural minutiae unless directly helpful.\n\n"
+            "Strict rules:\n"
+            "- Match explicit mentions from the query (parties, citations, statutes, time frames).\n"
+            "- Output STRICT JSON matching the provided schema only.\n"
+            "- Provide reasoning for each selected item and a one-line overall summary.\n"
+            "- Set `request_more_cases` true only if obviously relevant fused cases remain.\n\n"
+            "Breadth handling:\n"
+            "- narrow/specific: choose the strongest 2–4 cases (Supreme Court first).\n"
+            "- broad: ensure diversity across issues/statutes and include threshold authorities.\n"
+        )
+    else:
+        system_msg = (
+            "You are a legal expert filtration retriever. You will receive a user question, chunk previews, and case-level metadata from a legal RAG pipeline. "
+            "Your job is to (1) select the most relevant chunks, (2) request full-document retrieval for cases that must be loaded in full, and (3) signal when additional fused cases should be fetched.\n\n"
+            "Context hints:\n"
+            "- `query_context` contains planner guidance (breadth classification, fused-case count, retrieval_k).\n"
+            "- Each entry in `cases` includes the fused rank, metadata summary, final judgment, statutes, parties, and court. Read summaries before discarding a case.\n\n"
+            "Strict rules:\n"
+            "- Prefer cases whose previews or metadata contain specific mentions from the question (parties, case numbers, courts, statutes, time frames).\n"
+            "- If the user names a specific case, ensure that case is selected (full doc if necessary) and keep focus tight.\n"
+            "- You may request ANY number of full documents, but include only those needed to answer thoroughly.\n"
+            "- Remove irrelevant chunks; select concise spans that best support the answer.\n"
+            "- Output STRICT JSON matching the provided schema (no prose outside JSON fields).\n"
+            "- Provide reasoning for every selected_full_docs and selected_chunks entry, and set overall_reasoning with a 1–2 sentence summary.\n"
+            "- When metadata summaries or final judgments indicate relevance, use them as justification to retain the case even if the preview snippet looks weak.\n"
+            "- Set `request_more_cases` to true only when the fused list still has clearly relevant cases that should be fetched; include a short `expansion_reason`. Otherwise leave it false.\n"
+            "- Do NOT use knowledge beyond the provided previews, metadata, and hints.\n\n"
+            "Breadth-aware coverage directives:\n"
+            "- If `query_context.breadth` is \"broad\", assemble a diverse set of cases (aim ≥ desired_min_full_docs, often 5–8) covering the requested time span/statutes. Consider mid-ranked fused cases that add new angles.\n"
+            "- If breadth is \"narrow\", choose the strongest 2–4 cases covering the requested statute/topic; you may expand if summaries show distinct fact patterns needed for comparison.\n"
+            "- If breadth is \"specific\", focus on the named case (plus closely related ones only if they are essential for contrast or procedural history).\n"
+            "- Use fused ranks and metadata summaries to justify selections; avoid dropping higher-ranked cases without a clear reason.\n"
+            "- Balance chunk picks across selected cases; favor overview/headnote chunks before deep procedural detail unless the query demands it."
+        )
     effective_qc = dict(query_context or {})
     if "breadth" not in effective_qc:
         effective_qc["breadth"] = "unknown"

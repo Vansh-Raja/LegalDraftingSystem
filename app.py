@@ -32,6 +32,14 @@ from rag import (
     interleave_docs_by_case,
     enforce_case_diversity,
 )
+from drafting import extract_text_from_upload as draft_extract_text
+from drafting import llm_profile as draft_llm_profile
+from drafting import run_retrieval_for_queries_full as draft_run_retrieval
+from drafting import select_draft_context as draft_select_context
+from drafting import assemble_selected_context as draft_assemble_context
+from drafting import write_draft as draft_write
+from drafting import write_draft_llm as draft_write_llm
+from drafting import drafting_context_budget_tokens
 MODEL_CONTEXT_WINDOWS = {
     "gpt-5-nano-2025-08-07": 400000,
     "openai/gpt-oss-120b": 131072,
@@ -1804,12 +1812,6 @@ def main():
 
         current_petition = st.session_state.get("draft_petition", {})
         if current_petition.get("file_name"):
-            st.success(
-                f"Loaded {current_petition['file_name']} "
-                f"({current_petition['file_size']} bytes, uploaded at {current_petition['uploaded_at']})."
-            )
-            st.info("Drafting workflow coming soon — parsing and response generation will be added in the next iteration.")
-
             if st.button("Remove uploaded petition", key="clear_draft_petition", type="secondary"):
                 st.session_state.draft_petition = {
                     "file_name": None,
@@ -1824,6 +1826,174 @@ def main():
                     pass
                 st.session_state.draft_uploader_index += 1
                 st.rerun()
+
+            st.markdown("---")
+            st.subheader("Draft Generation")
+            draft_ctx = st.text_area(
+                "Additional context (optional)",
+                value=st.session_state.get("draft_user_context", ""),
+                help="e.g., urgency, target outcome, procedural posture",
+            )
+            st.session_state["draft_user_context"] = draft_ctx
+
+            col1, col2 = st.columns([1,1])
+            with col1:
+                run_btn = st.button("Generate draft", type="primary", use_container_width=True)
+            with col2:
+                reset_btn = st.button("Reset draft output", use_container_width=True)
+
+            if reset_btn:
+                for k in [
+                    "draft_profile",
+                    "draft_queries",
+                    "draft_context_text",
+                    "draft_case_stems",
+                    "draft_research_digest",
+                    "draft_selection_payload",
+                    "draft_text_store",
+                    "draft_selection_result",
+                    "draft_petition_text",
+                    "draft_output_text",
+                ]:
+                    st.session_state.pop(k, None)
+                st.session_state.debug_logs = []
+                st.session_state["debug_string"] = ""
+
+            if run_btn:
+                with st.spinner("Analysing petition…"):
+                    # 1) Text extraction
+                    p = st.session_state.draft_petition
+                    try:
+                        text = draft_extract_text(p.get("file_name") or "", p.get("mime_type"), p.get("raw_bytes") or b"")
+                    except Exception as exc:
+                        msg = f"Text extraction failed: {exc}"
+                        _append_debug(f"[DRAFT][error] {msg}")
+                        st.error("Could not extract text from the uploaded file. Check logs for details.")
+                        st.stop()
+                    _append_debug("[DRAFT] extracted petition text")
+                    st.session_state["draft_petition_text"] = text
+                    # 2) Profiling (LLM-powered)
+                    profile = draft_llm_profile(text, draft_ctx)
+                    _append_debug(f"[DRAFT] profile document_type={profile.document_type} issues={profile.key_issues} statutes={profile.statutes} domain_tags={profile.domain_tags}")
+                    st.session_state["draft_profile"] = profile.__dict__
+                    st.session_state["draft_queries"] = profile.recommended_queries
+                    _append_debug(f"[DRAFT] generated queries: {profile.recommended_queries}")
+
+                with st.spinner("Searching cases (3 queries)…"):
+                    budget_tokens = drafting_context_budget_tokens()
+                    try:
+                        selection_payload, text_store, retrieval_debug, research_digest = draft_run_retrieval(
+                            profile.recommended_queries,
+                            profile.domain_tags,
+                            budget_tokens=budget_tokens,
+                            per_case_k=2,
+                            top_cases=20,
+                            court_name="Supreme Court of India",
+                        )
+                    except Exception as e:
+                        st.error(f"Retrieval failed: {e}")
+                        st.stop()
+                    st.session_state["draft_selection_payload"] = selection_payload
+                    st.session_state["draft_text_store"] = text_store
+                    st.session_state["draft_research_digest"] = research_digest
+                    target_budget = selection_payload.get("target_budget_tokens", budget_tokens)
+                    _append_debug(f"[DRAFT] retrieval target_budget={target_budget} cases={len(selection_payload.get('cases', []))}")
+                    if research_digest:
+                        digest_lines = research_digest.count("\n") + 1
+                        _append_debug(f"[DRAFT] research digest entries={digest_lines}")
+                    for dbg_line in retrieval_debug:
+                        _append_debug(dbg_line)
+
+                with st.spinner("Selecting context…"):
+                    selection_result, selection_debug = draft_select_context(
+                        st.session_state["draft_selection_payload"],
+                        [],
+                    )
+                    if not selection_result:
+                        st.error("Context selection failed; draft generation aborted. Please review query packs or rerun.")
+                        for line in selection_debug:
+                            _append_debug(line)
+                        st.stop()
+                    st.session_state["draft_selection_result"] = selection_result
+                    for line in selection_debug:
+                        _append_debug(line)
+
+                with st.spinner("Assembling draft…"):
+                    merged_context, case_stems, assembly_debug = draft_assemble_context(
+                        st.session_state["draft_selection_result"],
+                        st.session_state["draft_text_store"],
+                        st.session_state["draft_selection_payload"].get("target_budget_tokens")
+                        or budget_tokens,
+                    )
+                    st.session_state["draft_context_text"] = merged_context
+                    st.session_state["draft_case_stems"] = case_stems
+                    for line in assembly_debug:
+                        _append_debug(line)
+
+                with st.spinner("Generating draft…"):
+                    draft_text, draft_debug = draft_write_llm(
+                        profile,
+                        draft_ctx,
+                        merged_context,
+                        case_stems,
+                        st.session_state.get("draft_research_digest", ""),
+                        st.session_state.get("draft_petition_text", ""),
+                    )
+                    st.session_state["draft_output_text"] = draft_text
+                    for line in draft_debug:
+                        _append_debug(line)
+
+            # Show results if present
+            if st.session_state.get("draft_profile"):
+                with st.expander("Petition profile", expanded=False):
+                    try:
+                        import json as _json
+                        st.code(_json.dumps(st.session_state["draft_profile"], indent=2, ensure_ascii=False), language="json")
+                    except Exception:
+                        st.write(st.session_state["draft_profile"]) 
+            if st.session_state.get("draft_queries"):
+                with st.expander("Generated queries", expanded=False):
+                    if st.session_state.get("draft_profile", {}).get("domain_tags"):
+                        st.markdown(
+                            f"**Domain tags:** {', '.join(st.session_state['draft_profile'].get('domain_tags', []))}"
+                        )
+                    for pack in st.session_state["draft_queries"]:
+                        if not isinstance(pack, dict):
+                            st.markdown(f"- {pack}")
+                            continue
+                        intent = pack.get("intent", "")
+                        broad = pack.get("broad", "")
+                        st.markdown(f"**{intent or 'query'}** — `{broad}`")
+                        alt = pack.get("alternates") or []
+                        if alt:
+                            st.markdown("&nbsp;&nbsp;Alt queries:")
+                            for alt_q in alt:
+                                st.markdown(f"&nbsp;&nbsp;- `{alt_q}`")
+            if st.session_state.get("draft_output_text"):
+                st.markdown("---")
+                st.subheader("Draft (preview)")
+                st.text_area("", value=st.session_state["draft_output_text"], height=420, label_visibility="collapsed")
+                st.download_button(
+                    "Download draft (txt)",
+                    data=st.session_state["draft_output_text"],
+                    file_name="draft_response.txt",
+                    mime="text/plain",
+                    use_container_width=True,
+                )
+            if st.session_state.get("draft_selection_result"):
+                with st.expander("Selected context", expanded=False):
+                    try:
+                        import json as _json
+                        st.code(
+                            _json.dumps(
+                                st.session_state["draft_selection_result"],
+                                indent=2,
+                                ensure_ascii=False,
+                            ),
+                            language="json",
+                        )
+                    except Exception:
+                        st.write(st.session_state["draft_selection_result"])
         else:
             st.caption("No petition uploaded yet.")
 
