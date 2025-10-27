@@ -26,6 +26,17 @@ _TEMPLATE_RESPONDENT = "Pradip Kumar Banerjee"
 _TEMPLATE_SUMMARY_SNIPPET = "Disciplinary enquiry vs criminal acquittal"
 _TEMPLATE_TRUSTED_STEMS = {"7"}
 
+_OPENROUTER_MODEL_REGISTRY = {
+    "qwen/qwen3-235b-a22b": {"provider": {"only": ["deepinfra/fp8"]}},
+    "qwen/qwen3-235b-a22b:free": None,
+    "qwen/qwen3-235b-a22b-2507": None,
+}
+_OPENROUTER_MODEL_ROTATION = [
+    "qwen/qwen3-235b-a22b",
+    "qwen/qwen3-235b-a22b:free",
+]
+_openrouter_model_cursor = 0
+
 
 def _ensure_json_dict(text: str) -> dict:
     """
@@ -208,12 +219,13 @@ def _metadata_preview(metadata: dict) -> str:
     return "; ".join(parts)
 
 
-def extract_metadata_with_openrouter(text: str) -> dict:
+def extract_metadata_with_openrouter(text: str, model_override: str | None = None) -> dict:
     """
     Extract metadata using OpenRouter API (free tier available).
     
     Args:
         text (str): Legal judgment text to extract metadata from
+        model_override (str | None): Explicit OpenRouter model name to use; when provided disables rotation
         
     Returns:
         dict: Extracted metadata dictionary
@@ -258,36 +270,76 @@ def extract_metadata_with_openrouter(text: str) -> dict:
         "Example JSON (format only—replace placeholders with real values):\n" + example_json + "\n\n"
         "Text (truncated if long):\n" + processed_text + "\n\nJSON:"
     )
-    
-    try:
-        # Call OpenRouter API
-        resp = client.chat.completions.create(
-            model="qwen/qwen3-235b-a22b:",
-            messages=[
-                {"role": "system", "content": system_msg},
-                {"role": "user", "content": user_msg},
-            ],
-            max_tokens=5000,
-            top_p=1.0,
-            response_format={"type": "json_object"},
-            extra_headers={
-                "HTTP-Referer": "local-dev",
-                "X-Title": "LegalDraftingSystem",
-            },
-            extra_body={
-                "provider": {"only": ["deepinfra/fp8"]} 
-            }
-        )
-        content = resp.choices[0].message.content or ""
-        return _ensure_json_dict(content)
-    except Exception as e:
-        # Handle rate limits and other errors
-        msg = str(e)
-        if "429" in msg or "Rate limit" in msg:
-            print(f"OpenRouter API rate-limit response: {msg}")
-            raise RuntimeError("OPENROUTER_RATE_LIMIT")
-        logging.error(f"Error during OpenRouter call: {e}")
+    global _openrouter_model_cursor
+
+    rotation_len = len(_OPENROUTER_MODEL_ROTATION)
+    if model_override:
+        candidate_names = [model_override]
+    elif rotation_len:
+        start_idx = _openrouter_model_cursor % rotation_len
+        candidate_names = _OPENROUTER_MODEL_ROTATION[start_idx:] + _OPENROUTER_MODEL_ROTATION[:start_idx]
+    else:
+        candidate_names = []
+
+    if not candidate_names:
+        logging.error("No OpenRouter models configured for metadata extraction.")
         return _ensure_json_dict("")
+
+    last_exception: Exception | None = None
+    rate_limit_hit = False
+
+    for attempt_pos, model_name in enumerate(candidate_names, start=1):
+        extra_body = _OPENROUTER_MODEL_REGISTRY.get(model_name)
+        attempt_note = f"(attempt {attempt_pos}/{len(candidate_names)})"
+        print(f"Using OpenRouter model {model_name} {attempt_note}")
+        try:
+            request_kwargs = dict(
+                model=model_name,
+                messages=[
+                    {"role": "system", "content": system_msg},
+                    {"role": "user", "content": user_msg},
+                ],
+                max_tokens=5000,
+                top_p=1.0,
+                response_format={"type": "json_object"},
+                extra_headers={
+                    "HTTP-Referer": "local-dev",
+                    "X-Title": "LegalDraftingSystem",
+                },
+            )
+            if extra_body:
+                request_kwargs["extra_body"] = extra_body
+
+            resp = client.chat.completions.create(**request_kwargs)
+            content = resp.choices[0].message.content or ""
+            if not model_override and rotation_len:
+                try:
+                    base_idx = _OPENROUTER_MODEL_ROTATION.index(model_name)
+                except ValueError:
+                    base_idx = _openrouter_model_cursor
+                _openrouter_model_cursor = (base_idx + 1) % rotation_len
+                print(f"OpenRouter model {model_name} succeeded; next default index is {_openrouter_model_cursor}")
+            else:
+                print(f"OpenRouter model {model_name} succeeded.")
+            return _ensure_json_dict(content)
+        except Exception as e:
+            msg = str(e)
+            last_exception = e
+            msg_lower = msg.lower()
+            if "429" in msg or "rate limit" in msg_lower or "temporarily rate-limited" in msg_lower:
+                print(f"OpenRouter rate limit for {model_name}: {msg}. Trying alternate model...")
+                rate_limit_hit = True
+                continue
+            logging.error(f"OpenRouter error for {model_name}: {e}")
+            continue
+
+    if rate_limit_hit:
+        raise RuntimeError("OPENROUTER_RATE_LIMIT")
+
+    if last_exception is not None:
+        logging.error(f"OpenRouter metadata extraction failed after trying all models: {last_exception}")
+
+    return _ensure_json_dict("")
 
 
 def extract_metadata_with_openai_nano(text: str) -> dict:
@@ -442,6 +494,7 @@ def save_metadata_for_all_texts(
     output_dir: str = "processed_data/metadata",
     backend: str = "openrouter",
     ollama_model: str | None = None,
+    openrouter_model: str | None = None,
     throttle_seconds: float = 0.75,
     max_rate_limit_retries: int = 5,
     rate_limit_backoff: float = 60.0,
@@ -454,6 +507,7 @@ def save_metadata_for_all_texts(
         output_dir (str): Directory to save .json metadata files
         backend (str): LLM backend to use ("openrouter", "openai_nano", "ollama")
         ollama_model (str, optional): Ollama model name if using Ollama backend
+        openrouter_model (str, optional): Preferred OpenRouter model name; if provided, disables rotation fallback
         throttle_seconds (float): Delay between OpenRouter calls to avoid rate limits
         max_rate_limit_retries (int): Maximum retries when OpenRouter responds with rate limit
         rate_limit_backoff (float): Base seconds to wait between rate-limit retries (multiplied by attempt count)
@@ -476,25 +530,35 @@ def save_metadata_for_all_texts(
     if not txt_files:
         # Silent return if no files found
         return
-    
+
+    entries: list[tuple[str, str, str]] = []
+    for name in txt_files:
+        txt_path = os.path.join(txt_dir, name)
+        base = os.path.splitext(name)[0]
+        json_output_path = os.path.join(output_dir, base + ".json")
+        entries.append((name, txt_path, json_output_path))
+
+    pending_entries = [item for item in entries if not os.path.exists(item[2])]
+    already_processed = len(entries) - len(pending_entries)
+
+    if already_processed:
+        print(f"{already_processed} metadata file(s) already processed; skipping them.")
+
+    if not pending_entries:
+        print("All available metadata files already exist. Nothing new to extract.")
+        _report_duplicate_case_numbers(output_dir)
+        return
+
     # Process files with progress bar
     sleep_between_calls = throttle_seconds if backend == "openrouter" else 0.0
 
-    total_files = len(txt_files)
+    total_files = len(pending_entries)
     processed_files = 0
 
     with tqdm(total=total_files, desc="Extracting metadata", unit="file") as pbar:
-        for name in txt_files:
-            txt_path = os.path.join(txt_dir, name)
+        for name, txt_path, json_output_path in pending_entries:
             base = os.path.splitext(name)[0]
-            json_output_path = os.path.join(output_dir, base + ".json")
-            
-            # Skip if metadata already exists
-            if os.path.exists(json_output_path):
-                pbar.update(1)
-                processed_files += 1
-                continue
-            
+
             # Read text file
             with open(txt_path, "r", encoding="utf-8") as f:
                 text = f.read()
@@ -509,7 +573,7 @@ def save_metadata_for_all_texts(
                     elif backend == "openai_nano":
                         candidate = extract_metadata_with_openai_nano(text)
                     else:
-                        candidate = extract_metadata_with_openrouter(text)
+                        candidate = extract_metadata_with_openrouter(text, model_override=openrouter_model)
                 except RuntimeError as stop_exc:
                     if str(stop_exc) == "OPENROUTER_RATE_LIMIT" and backend == "openrouter":
                         retries += 1

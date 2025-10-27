@@ -160,9 +160,6 @@ OLLAMA_HOST=http://localhost:11434
    ```bash
    # Web interface
    streamlit run app.py
-   
-   # CLI interface
-   python chat.py
    ```
 
 ## 🎯 Key Features
@@ -236,21 +233,3 @@ python debug.py
 - Configurable batch sizes for memory management
 - Efficient vector similarity search with PGVector
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Add comprehensive comments to new code
-4. Test with sample legal documents
-5. Submit a pull request
-
-## 📄 License
-
-[Add your license information here]
-
-## 🙏 Acknowledgments
-
-- LangChain team for the RAG framework
-- OpenAI for advanced language models
-- Ollama for local model hosting
-- PGVector for PostgreSQL vector extensions

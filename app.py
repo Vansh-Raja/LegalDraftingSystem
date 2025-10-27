@@ -53,7 +53,15 @@ RESERVED_COMPLETION_TOKENS = {
     "qwen3:latest": 16000,
 }
 from st_debug import debug as sdebug
-from orchestrator import process_query, QueryPlan
+from orchestrator import (
+    process_query,
+    QueryPlan,
+    process_petition_plan,
+    PetitionPlan,
+    generate_petition_context,
+)
+from petition_rag import petition_filtration_retriever, assemble_draft_reply
+from functions import extract_text_from_upload
 
 
 def _init_models():
@@ -213,6 +221,18 @@ def _ensure_session_state():
         }
     if "draft_uploader_index" not in st.session_state:
         st.session_state.draft_uploader_index = 0
+    if "draft_petition_processed_text" not in st.session_state:
+        st.session_state.draft_petition_processed_text = ""
+    if "draft_user_context" not in st.session_state:
+        st.session_state.draft_user_context = ""
+    if "draft_plan" not in st.session_state:
+        st.session_state.draft_plan = None
+    if "draft_fighting_points" not in st.session_state:
+        st.session_state.draft_fighting_points = []
+    if "draft_context" not in st.session_state:
+        st.session_state.draft_context = ""
+    if "draft_reply_text" not in st.session_state:
+        st.session_state.draft_reply_text = ""
     
     # Context and document state from previous queries
     if "last_context" not in st.session_state:
@@ -265,6 +285,25 @@ def _append_debug(msg: str):
         sdebug(ts_msg)  # Also add to Streamlit debug window
     except Exception:
         pass  # Ignore debug window errors
+
+
+def _draft_preview(stage: str, detail: str) -> None:
+    """
+    Emit a single-line draft pipeline preview to the terminal with timestamp.
+    """
+    try:
+        clean = " ".join(str(detail).split())
+    except Exception:
+        clean = str(detail)
+    try:
+        stamp = now_ist_stamp()
+    except Exception:
+        stamp = ""
+    try:
+        print(f"{stamp} [DRAFT][{(stage or 'stage').upper()}] {clean}", flush=True)
+    except Exception:
+        pass
+
 
 def _debug_section(title: str, payload, note: str | None = None) -> None:
     try:
@@ -1780,8 +1819,7 @@ def main():
     with draft_tab:
         st.subheader("Draft a response")
         st.markdown(
-            "Upload a petition, writ, or notice to kick off the drafting workflow. "
-            "We will parse the upload and assemble a tailored response using the RAG stack in the next iteration."
+            "Upload a petition, writ, or notice. We'll parse it, retrieve relevant precedents, and draft a rebuttal."
         )
 
         uploader_key = f"draft_petition_file_{st.session_state.draft_uploader_index}"
@@ -1801,6 +1839,13 @@ def main():
                 "mime_type": uploaded_petition.type,
                 "raw_bytes": raw_bytes,
             }
+            # Parse the upload into cleaned text and store in session
+            try:
+                parsed_text = extract_text_from_upload(uploaded_petition.name, uploaded_petition.type, raw_bytes)
+            except Exception as px:
+                parsed_text = ""
+                _append_debug(f"[DEBUG][Draft][parse_error] {px}")
+            st.session_state.draft_petition_processed_text = parsed_text or ""
 
         current_petition = st.session_state.get("draft_petition", {})
         if current_petition.get("file_name"):
@@ -1808,7 +1853,247 @@ def main():
                 f"Loaded {current_petition['file_name']} "
                 f"({current_petition['file_size']} bytes, uploaded at {current_petition['uploaded_at']})."
             )
-            st.info("Drafting workflow coming soon — parsing and response generation will be added in the next iteration.")
+            # Show a short preview of parsed text
+            preview = (st.session_state.draft_petition_processed_text or "")[:800]
+            if not preview and (current_petition.get("mime_type") or "").lower().find("pdf") != -1:
+                st.warning("PDF uploads may require a saved file for parsing; try DOCX/TXT for now.")
+            with st.expander("Parsed petition preview"):
+                st.text_area("Preview", value=preview or "(empty)", height=200)
+
+            # Additional context and drafting options
+            st.session_state.draft_user_context = st.text_area(
+                "Additional instructions/context (optional)",
+                value=st.session_state.draft_user_context or "",
+                height=120,
+                help="E.g., focus on sanction invalidity under PC Act and trap procedure flaws."
+            )
+            # Removed tone/length/quotes controls per new requirements
+
+            run_col, auto_col = st.columns([3, 1], gap="small")
+            with run_col:
+                run_btn = st.button("Run Drafting Pipeline", type="primary", use_container_width=True)
+            with auto_col:
+                auto_ctx_btn = st.button("Autogenerate Context", type="secondary", use_container_width=True)
+
+            if auto_ctx_btn:
+                petition_body = st.session_state.draft_petition_processed_text or ""
+                if not petition_body.strip():
+                    st.warning("Upload a petition before generating context.")
+                else:
+                    with st.spinner("Generating petition context…"):
+                        try:
+                            ctx_text = generate_petition_context(petition_body)
+                        except Exception as gen_exc:
+                            _append_debug(f"[DEBUG][Draft][auto_ctx_error] {gen_exc}")
+                            _draft_preview("auto_ctx_error", str(gen_exc))
+                            st.toast("Context generation failed. Check debug logs.", icon="⚠️")
+                        else:
+                            st.session_state.draft_user_context = ctx_text
+                            _append_debug(f"[DEBUG][Draft][auto_ctx] {ctx_text}")
+                            _draft_preview("auto_ctx", f"chars={len(ctx_text)}")
+                            st.toast("Context autogenerated.", icon="🧠")
+                            st.rerun()
+
+            if run_btn:
+                tracker = PipelineTracker()
+                _draft_preview(
+                    "start",
+                    f"Triggered for {current_petition.get('file_name') or 'petition'} via {provider_name} "
+                    f"(context_hint={'yes' if st.session_state.draft_user_context else 'no'})",
+                )
+                try:
+                    # Stage 1: Petition planner
+                    tracker.stage_running("planner", "Planning petition retrieval…")
+                    plan: PetitionPlan = process_petition_plan(
+                        st.session_state.draft_petition_processed_text or "",
+                        st.session_state.draft_user_context or None,
+                    )
+                    st.session_state.draft_plan = plan
+                    st.session_state.draft_fighting_points = list(getattr(plan, "fighting_points", []) or [])
+                    _debug_section("Petition Plan", plan.model_dump(), note="Planner's retrieval query and fighting points.")
+                    # Effective K and min docs from plan
+                    try:
+                        effective_k = max(3, min(20, int(getattr(plan, "retrieval_k", 10) or 10)))
+                    except Exception:
+                        effective_k = 10
+                    try:
+                        effective_min_docs = max(2, int(getattr(plan, "min_full_docs", 3) or 3))
+                    except Exception:
+                        effective_min_docs = 3
+                    tracker.stage_complete("planner", f"retrieval_k={effective_k} min_full_docs={effective_min_docs}")
+                    retr_q = getattr(plan, "retrieval_query", "") or ""
+                    planner_preview = (
+                        f"K={effective_k} min_docs={effective_min_docs} "
+                        f"query={repr((retr_q or '').strip()[:120])}"
+                    )
+                    _draft_preview("planner", planner_preview)
+
+                    # Stage 2: Retrieval (no court/date filters)
+                    tracker.stage_running("retrieval", "Retrieving candidate cases…")
+                    _append_debug(f"[DEBUG][Draft][Retrieval] query: {retr_q}")
+                    try:
+                        retriever2 = get_vectorstore().as_retriever(search_kwargs={"k": effective_k, "filter": {}})
+                        docs = retriever2.invoke(retr_q)
+                    except Exception as re1:
+                        _append_debug(f"[DEBUG][Draft][retriever_error] {re1}")
+                        docs = []
+                    try:
+                        sum_ranked = summary_search_pg(
+                            retr_q,
+                            court_name=None,
+                            statutes=None,
+                            year=None,
+                            limit=max(50, effective_k * 8),
+                        )
+                    except Exception as se:
+                        _append_debug(f"[DEBUG][Draft][summary_error] {se}")
+                        sum_ranked = []
+                    if sum_ranked:
+                        _debug_section("Summary FTS - Top Cases (Draft)", _fmt_summary_fts([{"file_stem": fs, "rank": rk} for fs, rk in sum_ranked[:10]]))
+                    # Fuse
+                    fused_cases: List[str] = []
+                    try:
+                        fused_cases = fuse_cases_by_rrf(sum_ranked, docs, k=60, top_n=max(20, effective_k * 3)) if (sum_ranked or docs) else []
+                    except Exception as fe:
+                        _append_debug(f"[DEBUG][Draft][fusion_error] {fe}")
+                        fused_cases = []
+                    if fused_cases:
+                        _debug_section("Fused Cases (Draft)", _fmt_fused_cases(fused_cases))
+                    if fused_cases:
+                        try:
+                            docs = fetch_top_chunks_for_cases(vs, retr_q, fused_cases, per_case_k=max(2, min(6, effective_k)))
+                            docs = interleave_docs_by_case(docs, per_case_limit=2, max_total=effective_k)
+                        except Exception as ge:
+                            _append_debug(f"[DEBUG][Draft][fetch_chunks_error] {ge}")
+                    stems = [fs for fs in fused_cases if fs] if fused_cases else sorted({(d.metadata or {}).get("file_stem") for d in docs if (d.metadata or {}).get("file_stem")})
+                    case_metas = _load_case_metadata_for_stems(stems, "narrow")
+                    _append_debug(f"[DEBUG][Draft][Cases] loaded metadata for {len(case_metas)} cases")
+                    tracker.stage_complete("retrieval", f"{len(docs)} chunk(s) across {len(stems)} case(s)")
+                    retrieval_preview = (
+                        f"docs={len(docs)} stems={len(stems)} fused={len(fused_cases)} "
+                        f"query={repr((retr_q or '').strip()[:80])}"
+                    )
+                    _draft_preview("retrieval", retrieval_preview)
+
+                    # Stage 3: Petition-specific filtration
+                    tracker.stage_running("filtration", "Filtering for rebuttal relevance…")
+                    mode_key = "chunk" if filtration_mode == "chunk context filtration" else "metadata"
+                    query_context_payload = {
+                        "breadth": "narrow",
+                        "fused_case_count": len(stems),
+                        "retrieval_k": effective_k,
+                        "desired_min_full_docs": effective_min_docs,
+                        "planner_min_full_docs": effective_min_docs,
+                    }
+                    try:
+                        plan_fil = petition_filtration_retriever(
+                            st.session_state.draft_petition_processed_text or "",
+                            st.session_state.draft_fighting_points or [],
+                            retr_q,
+                            docs,
+                            mode=mode_key,
+                            case_metadatas=case_metas,
+                            desired_min_full_docs=effective_min_docs,
+                            desired_max_chunks_per_case=max_chunks_per_case,
+                            query_context=query_context_payload,
+                        )
+                    except Exception as pferr:
+                        _append_debug(f"[DEBUG][Draft][petition_filtration_error] {pferr}")
+                        # fallback: use generic filtration
+                        plan_fil = filtration_retriever(
+                            retr_q,
+                            docs,
+                            mode=mode_key,
+                            case_metadatas=case_metas,
+                            desired_min_full_docs=effective_min_docs,
+                            desired_max_chunks_per_case=max_chunks_per_case,
+                            query_context=query_context_payload,
+                        )
+                    plan_fil = apply_named_case_guard(plan_fil, retr_q, docs)
+                    try:
+                        plan_fil = enforce_case_diversity(
+                            plan_fil,
+                            fused_cases=fused_cases if 'fused_cases' in locals() else None,
+                            desired_min_full_docs=effective_min_docs,
+                            desired_max_chunks_per_case=max_chunks_per_case,
+                            breadth="narrow",
+                            allow_expansion=bool(getattr(plan_fil, "request_more_cases", False)),
+                        )
+                    except Exception as ge2:
+                        _append_debug(f"[DEBUG][Draft][Guard] error: {ge2}")
+                    tracker.stage_complete("filtration", f"{len(plan_fil.selected_full_docs)} full doc(s); {len(plan_fil.selected_chunks)} chunk(s)")
+                    try:
+                        _debug_section("Petition Filtration Plan", _fmt_filtration_plan(plan_fil.model_dump()))
+                    except Exception:
+                        pass
+                    filt_reason = getattr(plan_fil, "overall_reasoning", "") or ""
+                    filtration_preview = (
+                        f"full={len(plan_fil.selected_full_docs)} chunk={len(plan_fil.selected_chunks)} "
+                        f"request_more={bool(getattr(plan_fil, 'request_more_cases', False))}"
+                    )
+                    if filt_reason:
+                        filtration_preview += f" reason={repr(filt_reason.strip()[:100])}"
+                    _draft_preview("filtration", filtration_preview)
+
+                    # Stage 4: Assembly
+                    tracker.stage_running("assembly", "Assembling petition context…")
+                    ctx_limit = MODEL_CONTEXT_WINDOWS.get(model_name, 32768)
+                    headroom = RESERVED_COMPLETION_TOKENS.get(model_name, 8000)
+                    budget_override = max(4000, ctx_limit - headroom)
+                    draft_context, _, dbg = assemble_context_from_plan(
+                        plan_fil,
+                        retr_q,
+                        vs,
+                        txt_dir="processed_data/txt_data",
+                        budget_tokens=budget_override,
+                        initial_docs=docs,
+                    )
+                    st.session_state.draft_context = draft_context or ""
+                    tracker.stage_complete("assembly", f"context ≈ {int(dbg.get('est_tokens', 0) or 0)} tokens")
+                    if isinstance(dbg, dict):
+                        est_tokens = int(dbg.get("est_tokens", 0) or 0)
+                    else:
+                        est_tokens = int(getattr(dbg, "est_tokens", 0) or 0)
+                    asm_preview = (
+                        f"tokens≈{est_tokens} context_chars={len(st.session_state.draft_context or '')}"
+                    )
+                    _draft_preview("assembly", asm_preview)
+
+                    # Stage 5: Drafting assembler
+                    tracker.stage_running("answer", "Drafting rebuttal…")
+                    try:
+                        # Use the already-configured chat llm instance (handles provider/api keys)
+                        draft_text = assemble_draft_reply(
+                            st.session_state.draft_petition_processed_text or "",
+                            st.session_state.draft_fighting_points or [],
+                            st.session_state.draft_context or "",
+                            llm,
+                        )
+                    except Exception as derr:
+                        _append_debug(f"[DEBUG][Draft][assembler_error] {derr}")
+                        draft_text = "(Drafting failed. Try a different model or shorten the petition/context.)"
+                    st.session_state.draft_reply_text = draft_text or ""
+                    tracker.stage_complete("answer", "Draft generated.")
+                    draft_preview = (
+                        f"chars={len(st.session_state.draft_reply_text or '')} "
+                        f"provider={provider_name}"
+                    )
+                    _draft_preview("answer", draft_preview)
+                finally:
+                    tracker.finish()
+
+            if st.session_state.draft_reply_text:
+                st.divider()
+                st.subheader("Drafted Response")
+                st.text_area("Draft", value=st.session_state.draft_reply_text, height=600)
+                # Offer download
+                st.download_button(
+                    "Download draft (.txt)",
+                    data=st.session_state.draft_reply_text,
+                    file_name="draft_reply.txt",
+                    mime="text/plain",
+                    use_container_width=True,
+                )
 
             if st.button("Remove uploaded petition", key="clear_draft_petition", type="secondary"):
                 st.session_state.draft_petition = {
@@ -1818,6 +2103,12 @@ def main():
                     "mime_type": None,
                     "raw_bytes": None,
                 }
+                st.session_state.draft_petition_processed_text = ""
+                st.session_state.draft_user_context = ""
+                st.session_state.draft_plan = None
+                st.session_state.draft_fighting_points = []
+                st.session_state.draft_context = ""
+                st.session_state.draft_reply_text = ""
                 try:
                     st.session_state.pop(uploader_key, None)
                 except Exception:

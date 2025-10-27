@@ -448,3 +448,210 @@ def process_query(
     plan = _heuristic_plan(user_q)
     _log_debug(f"[DEBUG][QP][heuristic_fallback] type={plan.type} rewrite={plan.rewrite}")
     return plan
+
+
+class PetitionPlan(BaseModel):
+    """
+    Petition-specific planning output.
+    """
+    retrieval_query: str
+    statutes: List[str] = []
+    retrieval_k: int = 10
+    min_full_docs: int = 3
+    fighting_points: List[str] = []
+    issues: List[str] = []
+    posture: str = ""
+    reason: str | None = None
+
+
+def _heuristic_petition_plan(petition_text: str, user_context: Optional[str] = None) -> PetitionPlan:
+    """
+    Fallback heuristic when LLM plan fails: extract rough statutes/keywords and set K/min docs.
+    """
+    import re as _re
+    txt = (petition_text or "")[:8000].lower()
+    # crude statute extraction
+    statutes: List[str] = []
+    for m in _re.findall(r"\b(?:ipc|crpc|pc\s*act|evidence\s+act|prevention\s+of\s+corruption)\b\s*[^,;.\n]*", txt):
+        s = m.strip()
+        if s and s not in statutes:
+            statutes.append(s)
+        if len(statutes) >= 6:
+            break
+    # derive topic keywords
+    kws: List[str] = []
+    if "sanction" in txt:
+        kws.append("sanction validity")
+    if "trap" in txt or "phenolphthalein" in txt:
+        kws.append("trap procedure flaws")
+    if "bribe" in txt or "illegal gratification" in txt:
+        kws.append("bribery pc act")
+    if not kws:
+        kws.append("procedural defects")
+    if user_context:
+        u = user_context.lower()
+        if "sanction" in u and "sanction validity" not in kws:
+            kws.append("sanction validity")
+        if "trap" in u and "trap procedure flaws" not in kws:
+            kws.append("trap procedure flaws")
+    rq = " ".join(kws[:3])
+    fps: List[str] = []
+    if "sanction" in txt or (user_context or "").lower().find("sanction") != -1:
+        fps.append("Prosecution sanction invalid or non-application of mind under PC Act s.19")
+    if "trap" in txt:
+        fps.append("Trap procedure tainted; independent corroboration lacking")
+    if "demand" in txt and "bribe" in txt:
+        fps.append("Demand of illegal gratification not proved beyond reasonable doubt")
+    if not fps:
+        fps.append("Petition lacks foundational facts and procedural compliance")
+    return PetitionPlan(
+        retrieval_query=rq,
+        statutes=statutes[:6],
+        retrieval_k=12,
+        min_full_docs=4,
+        fighting_points=fps[:8],
+        issues=["procedural"],
+        posture="respondent rebuttal",
+        reason="Heuristic extraction from petition text",
+    )
+
+
+def process_petition_plan(petition_text: str, user_context: Optional[str] = None) -> PetitionPlan:
+    """
+    Build a petition-aware retrieval plan (separate from chat planner).
+    Returns `PetitionPlan` via OpenAI structured output; falls back to heuristics on failure.
+    """
+    load_dotenv()
+    api_key = os.getenv("OPENAI_KEY")
+    client = OpenAI(api_key=api_key)
+
+    system_msg = (
+        "You are a petition-planner for a legal drafting assistant. Return STRICT JSON only with keys: "
+        "{retrieval_query, statutes, retrieval_k, min_full_docs, fighting_points, issues, posture, reason}.\n"
+        "Rules:\n"
+        "- Do NOT paraphrase petition facts.\n"
+        "- retrieval_query: ≤ 20 tokens, keyword-dense (statutes/topics/time hints if present).\n"
+        "- statutes: array of strings (e.g., 'PC Act s.19', 'Evidence Act').\n"
+        "- fighting_points: 4–8 short, defense-oriented bullets tailored to rebut the petition.\n"
+        "- issues: short labels (e.g., 'sanction', 'trap', 'procedure').\n"
+        "- posture: short phrase (e.g., 'respondent rebuttal').\n"
+        "- retrieval_k and min_full_docs: integers; choose based on complexity (typ. 8–12 and 3–5).\n"
+        "- Do not include court or date filters (the system corpus is limited)."
+    )
+
+    pet = (petition_text or "")[:12000]
+    ctx = (user_context or "")[:2000]
+    payload = {
+        "petition": pet,
+        "user_context": ctx,
+        "schema": {
+            "retrieval_query": "string",
+            "statutes": ["PC Act s.19"],
+            "retrieval_k": 12,
+            "min_full_docs": 4,
+            "fighting_points": ["bullet"],
+            "issues": ["label"],
+            "posture": "respondent rebuttal",
+            "reason": "short explanation",
+        },
+    }
+
+    try:
+        parsed = client.responses.parse(
+            model="gpt-5-nano-2025-08-07",
+            input=[
+                {"role": "system", "content": [{"type": "input_text", "text": system_msg}]},
+                {"role": "user", "content": [{"type": "input_text", "text": json.dumps(payload)}]},
+            ],
+            text_format=PetitionPlan,
+        )
+        if isinstance(parsed, PetitionPlan):
+            return parsed
+        maybe = getattr(parsed, "output_parsed", None) or getattr(parsed, "parsed", None)
+        if isinstance(maybe, PetitionPlan):
+            return maybe
+    except Exception as e:
+        _log_debug(f"[DEBUG][PetitionPlan][parse_api_error] {e}")
+    return _heuristic_petition_plan(petition_text, user_context)
+
+
+def _extract_text_from_response(resp) -> str:
+    """Best-effort extraction of text from OpenAI Responses API output."""
+    try:
+        txt = getattr(resp, "output_text", None)
+        if isinstance(txt, str) and txt.strip():
+            return txt.strip()
+    except Exception:
+        pass
+    try:
+        outputs = getattr(resp, "output", None) or []
+        for out in outputs:
+            content = getattr(out, "content", None) or []
+            for item in content:
+                if getattr(item, "type", None) in {"output_text", "text"}:
+                    text_val = getattr(item, "text", "")
+                    if text_val:
+                        return str(text_val).strip()
+    except Exception:
+        pass
+    return ""
+
+
+def generate_petition_context(petition_text: str) -> str:
+    """Use OpenAI nano planner to synthesize a petition context summary."""
+    text = (petition_text or "").strip()
+    if not text:
+        raise ValueError("petition_text is empty")
+
+    load_dotenv()
+    api_key = os.getenv("OPENAI_KEY")
+    if not api_key:
+        raise RuntimeError("OPENAI_KEY not set")
+
+    client = OpenAI(api_key=api_key)
+    system_msg = (
+        "You prepare docket-ready context briefs for petitions before the Supreme Court of India.\n"
+        "OUTPUT FORMAT: Return EXACTLY two sentences, no bullets, no extra lines. "
+        "Sentence 1 MUST start with 'Context:' and be a single concise synopsis. "
+        "Sentence 2 MUST start with 'Action Needed:' and specify the immediate drafting objective.\n"
+        "\n"
+        "SCOPE & SOURCING: Derive EVERYTHING ONLY from the petition text you receive. "
+        "Do NOT infer or import outside facts. If a key item is missing or unclear, insert a short placeholder like [unknown date] or [unclear posture].\n"
+        "\n"
+        "WHAT TO CAPTURE IN THE CONTEXT SENTENCE (in order of priority, but keep it one sentence): "
+        "1) Procedural posture & forum (choose ONE based on petition: Art. 32 writ OR Art. 136 SLP/appeal; if unclear, write [unclear posture]). "
+        "2) Parties & roles (petitioner vs respondent(s)) and the dispute subject (e.g., PC Act sanction validity; maintenance quantum under §125 CrPC; social security under CSS 2020). "
+        "3) The last operative order/date if present (e.g., HC reduction on [date]) and the specific relief sought here (quash, enhancement, notification, etc.). "
+        "4) Any concrete figures/dates explicitly mentioned (amounts, sections, case numbers) — ONLY if present.\n"
+        "\n"
+        "WHAT TO PUT IN 'ACTION NEEDED': Name the drafting task that follows from the posture and prayer (e.g., draft rebuttal to enhancement; prepare SLP grounds; oppose stay; file written submissions). "
+        "Be specific but brief (e.g., 'Draft respondent’s written submissions defending HC reduction with proportionality authorities').\n"
+        "\n"
+        "STYLE RULES: "
+        "• Stay strictly factual; no legal conclusions beyond what the petition states. "
+        "• Never mix Art. 32 and Art. 136—pick one from the petition; if ambiguous, mark [unclear posture]. "
+        "• Keep the Context sentence ~18–32 words; the Action Needed sentence ~8–18 words. "
+        "• Use compact legal references (e.g., '§125 CrPC', 'DV Act §20', 'PC Act §19') only if in the petition. "
+        "• No extra sentences, headings, or emojis.\n"
+        "\n"
+        "EXAMPLES (for style only): "
+        "Context: Former spouse seeks enhanced maintenance after HC reduced interim amount; petitioner cites higher expenses and child’s needs. Action Needed: Draft respondent’s submissions defending HC reduction with §125 CrPC proportionality authorities.\n"
+        "Context: Senior public servant challenges PC Act prosecution alleging invalid sanction and defective trap; HC upheld cognizance on [date]. Action Needed: Prepare rebuttal opposing quash, addressing §19 PC Act and investigation procedure.\n"
+        "Context: Gig workers allege exclusion from CSS 2020 schemes; petition seeks directions to notify framework. Action Needed: Draft Union response proposing status report and consultative timeline, resisting mandamus to notify.\n"
+    )
+
+    try:
+        resp = client.responses.create(
+            model="gpt-5-nano-2025-08-07",
+            input=[
+                {"role": "system", "content": [{"type": "input_text", "text": system_msg}]},
+                {"role": "user", "content": [{"type": "input_text", "text": text}]},
+            ],
+        )
+    except Exception as exc:
+        raise RuntimeError(f"Failed to generate context: {exc}") from exc
+
+    output = _extract_text_from_response(resp)
+    if not output:
+        raise RuntimeError("Received empty context from OpenAI")
+    return output.strip()

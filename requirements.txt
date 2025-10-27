@@ -11,3 +11,4 @@ langchain-postgres
 langchain-ollama
 psycopg[binary]
 streamlit
+python-docx

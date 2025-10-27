@@ -4,6 +4,11 @@ Converts PDF files to text format for further processing by the RAG system.
 """
 
 import os
+from io import BytesIO
+try:
+    import docx  # python-docx
+except Exception:
+    docx = None
 from pdfminer.high_level import extract_text
 from pathlib import Path
 from tqdm import tqdm
@@ -48,6 +53,89 @@ def _clean_text(content: str) -> str:
         previous_blank = False
 
     return "\n".join(cleaned_lines).strip()
+
+
+def _extract_text_from_docx_bytes(raw_bytes: bytes) -> str:
+    """
+    Extract text content from a DOCX file provided as raw bytes.
+    Returns empty string if python-docx is unavailable or parsing fails.
+    """
+    if not raw_bytes:
+        return ""
+    if docx is None:
+        return ""
+    try:
+        bio = BytesIO(raw_bytes)
+        doc = docx.Document(bio)
+        parts = []
+        for p in doc.paragraphs:
+            txt = (p.text or "").rstrip()
+            if txt:
+                parts.append(txt)
+            else:
+                parts.append("")
+        return "\n".join(parts)
+    except Exception:
+        return ""
+
+
+def _extract_text_from_txt_bytes(raw_bytes: bytes) -> str:
+    """
+    Decode text from raw bytes with utf-8 fallback; return empty string on failure.
+    """
+    if not raw_bytes:
+        return ""
+    try:
+        return raw_bytes.decode("utf-8", errors="strict")
+    except Exception:
+        try:
+            return raw_bytes.decode("utf-8", errors="replace")
+        except Exception:
+            try:
+                return raw_bytes.decode("latin-1", errors="replace")
+            except Exception:
+                return ""
+
+
+def extract_text_from_upload(file_name: str | None, mime_type: str | None, raw_bytes: bytes | None) -> str:
+    """
+    Route an uploaded file (PDF/DOCX/TXT) to the appropriate text extractor.
+    Returns cleaned plain text, or empty string when extraction fails.
+    """
+    if not raw_bytes:
+        return ""
+    name = (file_name or "").lower()
+    mt = (mime_type or "").lower()
+
+    # Try by mime-type first
+    if "pdf" in mt:
+        try:
+            # pdfminer expects a path; for bytes, write to a temporary file is required.
+            # Avoid disk IO in this helper; fall back to extension routing below.
+            pass
+        except Exception:
+            pass
+    if "word" in mt or "docx" in mt:
+        txt = _extract_text_from_docx_bytes(raw_bytes)
+        return _clean_text(txt) if txt else ""
+    if mt.startswith("text/") or "plain" in mt:
+        txt = _extract_text_from_txt_bytes(raw_bytes)
+        return _clean_text(txt) if txt else ""
+
+    # Route by extension
+    if name.endswith(".docx"):
+        txt = _extract_text_from_docx_bytes(raw_bytes)
+        return _clean_text(txt) if txt else ""
+    if name.endswith(".txt"):
+        txt = _extract_text_from_txt_bytes(raw_bytes)
+        return _clean_text(txt) if txt else ""
+    if name.endswith(".pdf"):
+        # For PDFs from uploads, simple in-memory parsing isn't available with pdfminer.six.
+        # Caller should save to disk if PDF support for uploads is required; return empty for now.
+        return ""
+    # Unknown type: attempt text decode
+    txt = _extract_text_from_txt_bytes(raw_bytes)
+    return _clean_text(txt) if txt else ""
 
 def save_all_judgements_to_text(judgements_dir: str = "judgements", output_dir: str = "processed_data/txt_data") -> None:
     """

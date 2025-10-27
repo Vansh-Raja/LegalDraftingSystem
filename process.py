@@ -82,12 +82,17 @@ def run_pdf_to_text_and_metadata_interactive() -> None:
     print("  [1] OpenAI Nano (default) - Recommended, requires OPENAI_KEY")
     print("  [2] OpenRouter - Free tier available, requires OPENROUTER_API_KEY")
     print("  [3] Ollama qwen3:latest - Local, free, requires Ollama installation")
-    print("Enter choice [1-3]: ", end="")
+    print("  [4] OpenRouter qwen/qwen3-235b-a22b-2507 - Stable tier, requires OPENROUTER_API_KEY")
+    print("Enter choice [1-4]: ", end="")
     
     choice = input().strip()
     if choice == "3":
         print("Using Ollama qwen3:latest...")
         save_metadata_for_all_texts(backend="ollama", ollama_model="qwen3:latest")
+    elif choice == "4":
+        model_name = "qwen/qwen3-235b-a22b-2507"
+        print(f"Using OpenRouter ({model_name})...")
+        save_metadata_for_all_texts(backend="openrouter", openrouter_model=model_name)
     elif choice == "2":
         print("Using OpenRouter...")
         save_metadata_for_all_texts(backend="openrouter")
