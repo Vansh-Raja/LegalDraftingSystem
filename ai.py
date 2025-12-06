@@ -14,6 +14,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from tqdm import tqdm
 import ollama
+from time_utils import now_ist_stamp
 
 # Configure logging to suppress verbose SDK debug messages
 logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -36,6 +37,14 @@ _OPENROUTER_MODEL_ROTATION = [
     "qwen/qwen3-235b-a22b:free",
 ]
 _openrouter_model_cursor = 0
+
+
+def _log_debug(msg: str) -> None:
+    """Lightweight debug logger for metadata pipeline diagnostics."""
+    try:
+        print(f"{now_ist_stamp()} {msg}")
+    except Exception:
+        logging.debug(msg)
 
 
 def _ensure_json_dict(text: str) -> dict:

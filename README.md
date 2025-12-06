@@ -1,8 +1,16 @@
 # Legal Drafting System
 
-A sophisticated RAG (Retrieval-Augmented Generation) system for legal document analysis and Q&A. This system processes legal judgments, extracts structured metadata, and provides intelligent question-answering capabilities through both web and CLI interfaces.
+A retrieval-augmented generation (RAG) assistant for Indian legal judgments. It converts PDFs to cleaned text and LLM metadata, stores embeddings in PGVector, and serves answers and petition drafts via Streamlit (plus a CLI fallback).
 
 ## 🏗️ Architecture Overview
+
+```
+Sources (judgements/) → PDF→Text (functions.py, manifest) → LLM Metadata (ai.py)
+                     → Chunks + Embeddings (rag.py) → PGVector + Postgres FTS summaries
+
+User Query → Planner (orchestrator.py) → Retrieval (vector + FTS) → LLM Filtration
+          → Context Assembler (full-doc guard) → Chat/Draft (app.py / archive/chat.py)
+```
 
 The system follows a modular architecture with clear separation of concerns:
 
@@ -36,200 +44,104 @@ The system follows a modular architecture with clear separation of concerns:
 
 ## 🔄 System Flow
 
-### Offline Processing Pipeline
-```
-PDF Files → Text Extraction → Metadata Extraction → Chunking → Embedding → Vector Database
-```
-
-1. **PDF to Text**: `functions.py` processes PDFs in `judgements/` directory
-2. **Metadata Extraction**: `ai.py` uses LLMs to extract structured metadata
-3. **Chunking**: Text is split into 2000-character chunks with 400-character overlap
-4. **Embedding**: Chunks are embedded using Ollama's `nomic-embed-text:latest`
-5. **Storage**: Embeddings stored in PostgreSQL with PGVector extension
-
-### Online Query Processing
-```
-User Query → Query Classification → Retrieval → Filtration → Context Assembly → Answer Generation
-```
-
-1. **Query Classification**: Determines if query is general law, new, or follow-up
-2. **Retrieval**: Searches vector database with optional filters (court, statutes)
-3. **Filtration**: LLM selects most relevant chunks and full documents
-4. **Context Assembly**: Builds focused context within token budget
-5. **Answer Generation**: Streams response using selected LLM
+**Offline pipeline:** PDF → text (`functions.py`, manifest-stable IDs) → LLM metadata (`ai.py`) → chunking (2000/400) → embeddings (`rag.py` using Ollama `nomic-embed-text`) → PGVector + Postgres FTS summaries.  
+**Online path:** Query → planner (`orchestrator.py`) → retrieval (vector + FTS with filters) → LLM filtration → context assembly (full-doc guard) → streamed answer/draft (`app.py`).
 
 ## 🛠️ Technology Stack
 
-### Core Technologies
-- **Python 3.8+**: Main programming language
-- **PostgreSQL + PGVector**: Vector database for embeddings
-- **LangChain**: RAG framework and document processing
-- **Streamlit**: Web interface framework
-
-### AI/ML Components
-- **Embeddings**: Ollama `nomic-embed-text:latest` (local)
-- **Chat Models**: 
-  - OpenAI `gpt-5-nano-2025-08-07` (preferred)
-  - Ollama `qwen3:latest` (fallback)
-- **Filtration**: OpenAI `gpt-5-nano-2025-08-07` for intelligent document selection
-
-### External Services
-- **OpenAI API**: For chat and filtration models
-- **OpenRouter API**: Alternative LLM provider (free tier available)
-- **Ollama**: Local LLM hosting (completely free)
+- Python 3.8+, LangChain, Streamlit  
+- PostgreSQL + PGVector; Postgres FTS for summaries  
+- Models: Ollama (`nomic-embed-text`, `qwen3`), OpenAI `gpt-5-nano-2025-08-07`, OpenRouter variants  
+- Utilities: pdfminer, python-docx, tqdm, dotenv
 
 ## 📁 Project Structure
 
 ```
 LegalDraftingSystem_VG/
-├── app.py                 # Main Streamlit web interface
-├── ai.py                  # Metadata extraction with multiple LLM backends
-├── rag.py                 # RAG operations, vector store, filtration
-├── functions.py           # PDF processing and text extraction
-├── orchestrator.py        # Query planning and classification
-├── ingest.py              # Data ingestion into vector database
-├── chat.py                # CLI chat interface
-├── process.py             # Interactive processing pipeline
-├── debug.py               # Database debug utilities
-├── st_debug.py            # Streamlit debug utilities
-├── main.py                # Entry point documentation
-├── requirements.txt       # Python dependencies
-├── judgements/            # Input PDF files directory
-└── processed_data/        # Processed text and metadata
-    ├── txt_data/          # Extracted text files (1.txt, 2.txt, ...)
-    └── metadata/          # JSON metadata files (1.json, 2.json, ...)
+├── app.py          # Streamlit web (chat + drafting + debug)
+├── ai.py           # LLM metadata extraction
+├── rag.py          # Chunking, embeddings, retrieval, filtration
+├── functions.py    # PDF/text processing, manifest
+├── orchestrator.py # Query planner/classifier
+├── ingest.py       # Vector + FTS ingestion
+├── process.py      # Interactive PDF→text→metadata
+├── petition_rag.py # Petition-specific filtration/drafting
+├── archive/chat.py # CLI fallback
+├── debug.py        # DB debug utilities
+├── st_debug.py     # Streamlit debug panel
+├── judgements/     # Input PDFs
+└── processed_data/
+    ├── txt_data/   # Cleaned text (manifest-stable numbering)
+    └── metadata/   # LLM metadata JSONs
 ```
 
 ## 🚀 Quick Start
 
-### Prerequisites
-1. **PostgreSQL** with PGVector extension
-2. **Python 3.8+** with pip
-3. **Ollama** (optional, for local models)
-4. **API Keys** (OpenAI and/or OpenRouter)
+**Prerequisites:** PostgreSQL with PGVector; Python 3.8+; OpenAI/OpenRouter key or Ollama (optional/local).  
 
-### Installation
+**Install**
 ```bash
-# Clone the repository
-git clone <repository-url>
-cd LegalDraftingSystem_VG
-
-# Install dependencies
 pip install -r requirements.txt
-
-# Set up environment variables
 cp .env.example .env
-# Edit .env with your API keys and database connection
 ```
 
-### Environment Variables
+**Environment variables (.env)**
 ```bash
-# Database connection
-PGVECTOR_CONNECTION=postgresql://user:password@localhost:5432/dbname
-# OR individual components
+# Database (pick one style)
+PGVECTOR_CONNECTION=postgresql://user:password@localhost:5432/legaldraftingsystemdb
+# or granular
 DB_NAME=legaldraftingsystemdb
 DB_USER=your_user
 DB_PASSWORD=your_password
 DB_HOST=localhost
 DB_PORT=5432
 
-# API Keys (at least one required)
-OPENAI_KEY=your_openai_key
-OPENROUTER_API_KEY=your_openrouter_key
+# LLM providers (at least one)
+OPENAI_KEY=...
+OPENROUTER_API_KEY=...
 
-# Optional
+# Optional local models
 OLLAMA_HOST=http://localhost:11434
 ```
 
-### Usage
-
-1. **Process Documents**:
-   ```bash
-   python process.py
-   ```
-   - Converts PDFs to text
-   - Extracts metadata using selected LLM backend
-
-2. **Ingest Data**:
-   ```bash
-   python ingest.py
-   ```
-   - Creates embeddings and stores in vector database
-
-3. **Start Chat Interface**:
-   ```bash
-   # Web interface
-   streamlit run app.py
-   ```
-
-## 🎯 Key Features
-
-### Intelligent Query Processing
-- **Query Classification**: Automatically determines query type and strategy
-- **Context Bridging**: Maintains conversation context across queries
-- **Statute Filtering**: Focuses on specific legal provisions
-- **Named Case Detection**: Prioritizes mentioned cases
-
-### Advanced RAG Pipeline
-- **Multi-stage Filtration**: LLM-powered document selection
-- **Context Budgeting**: Manages token limits intelligently
-- **Full Document Loading**: Loads complete cases when needed
-- **Fallback Strategies**: Graceful degradation when components fail
-
-### Flexible LLM Support
-- **Multiple Backends**: OpenAI, OpenRouter, Ollama
-- **Model Selection**: Choose between different models at runtime
-- **Cost Optimization**: Use local models to reduce API costs
-- **Fallback Chains**: Automatic fallback when APIs are unavailable
-
-### User Experience
-- **Real-time Streaming**: Answers stream as they're generated
-- **Debug Visibility**: Detailed logging and debug information
-- **Session Management**: Maintains conversation history
-- **Multiple Interfaces**: Web and CLI options
-
-## 🔧 Configuration Options
-
-### Retrieval Settings
-- **Top-K Chunks**: Number of initial chunks to retrieve (3-12)
-- **Court Filtering**: Filter by specific courts or all courts
-- **Statute Filtering**: Focus on specific legal provisions
-- **Filtration Mode**: Chunk-based or metadata-based selection
-
-### Model Selection
-- **Chat Models**: OpenAI gpt-5-nano or Ollama qwen3
-- **Embedding Model**: Ollama nomic-embed-text (configurable)
-- **Filtration Model**: OpenAI gpt-5-nano (for document selection)
-
-## 🐛 Debugging and Maintenance
-
-### Debug Tools
+**Run (full pipeline)**
 ```bash
-# Database utilities
-python debug.py
+# 1) Process PDFs -> text + metadata (interactive backend choice)
+python process.py
 
-# Check vector database status
-# Clear embeddings (dangerous)
-# Count documents
+# 2) Ingest chunks into PGVector + FTS summaries
+python ingest.py
+
+# 3) Launch UI (chat + petition drafting + debug)
+streamlit run app.py
+
+# Optional: CLI fallback
+python archive/chat.py
 ```
 
-### Common Issues
-1. **No embeddings found**: Run `python ingest.py` after processing
-2. **API rate limits**: Switch to Ollama or wait for limits to reset
-3. **Database connection**: Check PostgreSQL and PGVector installation
-4. **Empty responses**: Check debug logs in Streamlit interface
+## 🎯 Highlights
+- Query planner: new/follow-up/general-law/chat with auto top-K/min-doc sizing.
+- Hybrid retrieval: PGVector + Postgres FTS; RRF fusion, diversity caps.
+- LLM filtration & context assembly with full-document fallback when needed.
+- Petition drafting mode with isolated prompts and fighting-point guidance.
+- Multiple LLM backends (OpenAI/OpenRouter/Ollama) with fallbacks and cost control.
+- Debug tooling: Streamlit debug pane, DB utilities, duplicate checks.
 
-## 📊 Performance Considerations
+## ⭐ Key Features
+- Intelligent query classification and context bridging.
+- Statute filtering and named-case prioritization.
+- Multi-stage filtration and context budgeting.
+- Full-document loading when many chunks cluster on one case.
+- Real-time streaming responses with session history.
 
-### Optimization Tips
-- Use local Ollama models to reduce API costs
-- Adjust chunk size based on document characteristics
-- Monitor token usage in debug logs
-- Use statute filtering to narrow search scope
+## 🧭 Operational Notes
+- Rate limits: falls back to Ollama if OpenAI/OpenRouter are missing/limited.
+- Ingestion is idempotent; manifest keeps numbering stable for `txt_data`/`metadata`.
+- Debug utilities: `debug.py` (PGVector ops, duplicates), `st_debug.py` (in-app debug).
 
-### Scalability
-- Batch processing for large document sets
-- Idempotent ingestion (skips existing embeddings)
-- Configurable batch sizes for memory management
-- Efficient vector similarity search with PGVector
+## 🐛 Debugging Issues
+- No embeddings found: run `python ingest.py` after processing.
+- API rate limits: switch to Ollama or wait/reset.
+- Database connection errors: verify PostgreSQL + PGVector and env vars.
+- Empty responses: check Streamlit debug logs.
 

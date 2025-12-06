@@ -23,6 +23,10 @@ from langchain_openai import ChatOpenAI
 from pydantic import BaseModel
 
 
+# Load environment variables (e.g., OLLAMA_HOST, DB_* values) once at import time
+load_dotenv()
+
+
 # Default collection name for PGVector
 COLLECTION_NAME = "langchain"  # Default PGVector collection name
 
