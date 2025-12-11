@@ -132,10 +132,10 @@ def _init_models():
         )
 
     # Create sidebar controls for chat model selection
+    # NOTE: Ollama/local models disabled for demo (not viable on hosted VM)
     with st.sidebar.expander("Chat LLM", expanded=True):
         models = [
             "gpt-5-nano-2025-08-07",            # OpenAI (Responses API via LangChain)
-            "qwen3:latest",                     # Ollama local
             # OpenRouter models (via OpenAI-compatible API)
             "openai/gpt-oss-120b",
             "openai/gpt-oss-20b",
@@ -144,6 +144,7 @@ def _init_models():
             "qwen/qwen3-14b",
         ]
         model = st.selectbox("Model", models, index=0, key="chat_model_select")
+        st.caption("ℹ️ Ollama/local models supported but disabled for this demo.")
     
     # Initialize the chat language model based on user selection
     openrouter_models = {
@@ -157,36 +158,32 @@ def _init_models():
     if model == "gpt-5-nano-2025-08-07":
         api_key = os.getenv("OPENAI_KEY")
         if not api_key:
-            st.sidebar.warning("OPENAI_KEY not set; falling back to qwen3:latest")
-            llm = ChatOllama(model="qwen3:latest", temperature=0, streaming=True, num_ctx=40000)
-            provider_name = "ollama"
-        else:
-            llm = ChatOpenAI(model="gpt-5-nano-2025-08-07", temperature=0, streaming=True, api_key=api_key)
-            provider_name = "openai"
+            st.sidebar.error("OPENAI_KEY not set. Please configure your API key.")
+            st.stop()
+        llm = ChatOpenAI(model="gpt-5-nano-2025-08-07", temperature=0, streaming=True, api_key=api_key)
+        provider_name = "openai"
     elif model in openrouter_models:
         or_key = os.getenv("OPENROUTER_API_KEY")
         if not or_key:
-            st.sidebar.warning("OPENROUTER_API_KEY not set; falling back to qwen3:latest")
-            llm = ChatOllama(model="qwen3:latest", temperature=0, streaming=True, num_ctx=40000)
-            provider_name = "ollama"
-        else:
-            # Use OpenRouter via OpenAI-compatible LangChain client
-            chat_kwargs = {
-                "model": model,
-                "temperature": 0,
-                "streaming": True,
-                "api_key": or_key,
-                "base_url": "https://openrouter.ai/api/v1",
+            st.sidebar.error("OPENROUTER_API_KEY not set. Please configure your API key.")
+            st.stop()
+        # Use OpenRouter via OpenAI-compatible LangChain client
+        chat_kwargs = {
+            "model": model,
+            "temperature": 0,
+            "streaming": True,
+            "api_key": or_key,
+            "base_url": "https://openrouter.ai/api/v1",
+        }
+        if model == "meta-llama/llama-4-scout":
+            chat_kwargs["model_kwargs"] = {
+                "extra_body": {"provider": {"only": ["deepinfra/fp8"]}}
             }
-            if model == "meta-llama/llama-4-scout":
-                chat_kwargs["model_kwargs"] = {
-                    "extra_body": {"provider": {"only": ["deepinfra/fp8"]}}
-                }
-            llm = ChatOpenAI(**chat_kwargs)
-            provider_name = "openrouter"
+        llm = ChatOpenAI(**chat_kwargs)
+        provider_name = "openrouter"
     else:
-        llm = ChatOllama(model="qwen3:latest", temperature=0, streaming=True, num_ctx=40000)
-        provider_name = "ollama"
+        st.sidebar.error("Invalid model selection.")
+        st.stop()
     
     # Parse statute filters from comma-separated text
     # Sidebar filters removed; planner handles filtering via rewrite
@@ -995,6 +992,14 @@ def main():
     # Configure Streamlit page
     st.set_page_config(page_title="Legal RAG Chat", page_icon="⚖️", layout="wide")
     st.title("⚖️ Legal Drafting Chatbot")
+    
+    # Demo notice banner
+    st.info(
+        "**Demo Mode:** This instance includes only 2025 Supreme Court judgments. "
+        "Multi-year corpora are supported but not included here. "
+        "Ollama/local models are supported but disabled for this deployment.",
+        icon="ℹ️",
+    )
     
     # Initialize session state and models
     _ensure_session_state()

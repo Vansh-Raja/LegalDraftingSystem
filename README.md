@@ -145,3 +145,24 @@ python archive/chat.py
 - Database connection errors: verify PostgreSQL + PGVector and env vars.
 - Empty responses: check Streamlit debug logs.
 
+## 🎮 Demo Branch
+
+A `demo` branch is available with the following differences for hosted deployment:
+
+- **Ollama disabled**: Local models removed from the UI; requires OpenAI or OpenRouter API keys.
+- **OpenAI embeddings**: Set `DEMO_MODE=1` to use OpenAI embeddings instead of Ollama.
+- **2025 corpus only**: Multi-year support exists but only 2025 Supreme Court judgments are included to keep the repository size manageable.
+- **Git LFS**: Large PDF files stored via Git LFS for easy cloning.
+
+**Setup for demo branch:**
+```bash
+git checkout demo
+git lfs pull              # Download PDFs via LFS
+pip install -r requirements.txt
+# Set OPENAI_KEY and optionally OPENROUTER_API_KEY in .env
+# Set DEMO_MODE=1 in .env for OpenAI embeddings
+python process.py         # Process PDFs
+python ingest.py          # Ingest to PGVector
+streamlit run app.py      # Launch UI
+```
+

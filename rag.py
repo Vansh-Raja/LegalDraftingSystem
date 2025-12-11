@@ -19,7 +19,7 @@ from langchain_postgres.vectorstores import PGVector
 from langchain_ollama import OllamaEmbeddings
 from langchain_ollama import ChatOllama
 from langchain.chains import RetrievalQA
-from langchain_openai import ChatOpenAI
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from pydantic import BaseModel
 
 
@@ -29,6 +29,21 @@ load_dotenv()
 
 # Default collection name for PGVector
 COLLECTION_NAME = "langchain"  # Default PGVector collection name
+
+# Demo mode: use OpenAI embeddings instead of Ollama (set DEMO_MODE=1)
+_DEMO_MODE = os.getenv("DEMO_MODE", "0") == "1"
+
+
+def _get_embeddings(model: str = "nomic-embed-text:latest"):
+    """
+    Return embeddings instance. Uses OpenAI embeddings in demo mode, Ollama otherwise.
+    """
+    if _DEMO_MODE:
+        api_key = os.getenv("OPENAI_KEY") or os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            raise RuntimeError("OPENAI_KEY required for embeddings in demo mode")
+        return OpenAIEmbeddings(model="text-embedding-3-small", api_key=api_key)
+    return OllamaEmbeddings(model=model)
 
 
 def load_case_docs(txt_dir: str = "processed_data/txt_data", meta_dir: str = "processed_data/metadata", only_with_metadata: bool = False) -> List[Document]:
@@ -454,7 +469,7 @@ def ingest_chunks_to_pgvector(
     conn = connection_string or _get_pg_connection_string()
     # Filter out empty/whitespace-only chunks to avoid embedding errors
     non_empty_chunks = [d for d in chunks if (d.page_content or "").strip()]
-    embeddings = OllamaEmbeddings(model=embedding_model)
+    embeddings = _get_embeddings(embedding_model)
     vectorstore = PGVector.from_documents(
         non_empty_chunks,
         embedding=embeddings,
@@ -486,7 +501,7 @@ def ingest_chunks_to_pgvector_batched(
     conn = connection_string or _get_pg_connection_string()
     # Filter out empty/whitespace-only chunks
     non_empty = [d for d in chunks if (d.page_content or "").strip()]
-    embeddings = OllamaEmbeddings(model=embedding_model)
+    embeddings = _get_embeddings(embedding_model)
 
     def _batches(items: List[Document]):
         for i in range(0, len(items), batch_size):
@@ -529,7 +544,7 @@ def get_vectorstore(
     Use when an index/collection already exists, or to add/query documents.
     """
     conn = connection_string or _get_pg_connection_string()
-    embeddings = OllamaEmbeddings(model=embedding_model)
+    embeddings = _get_embeddings(embedding_model)
     # When collection_name is None, default internal collection is used
     return PGVector(
         connection=conn,
