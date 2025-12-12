@@ -25,7 +25,7 @@ def _list_stems_with_metadata(meta_dir: str) -> set[str]:
     return stems
 
 
-def run_ingest(batch_size: int = 128) -> None:
+def run_ingest(batch_size: int = 32) -> None:
     """
     Ingest processed legal documents into the PGVector database.
     
@@ -82,19 +82,24 @@ def run_ingest(batch_size: int = 128) -> None:
     print(f"Created {len(chunks)} chunks from {len(stems)} documents.")
 
     # Step 3: Check for existing embeddings to avoid duplicates
-    print("Checking for existing embeddings...")
-    vs = get_vectorstore(embedding_model=embedding_model, embedding_provider=embedding_provider)
+    skip_existing = os.getenv("SKIP_EXISTING_CHECK", "1") == "1"
     existing = set()
-    try:
-        # Query existing embeddings by file stem
-        for fs in sorted(stems):
-            docs = vs.similarity_search("seed", k=1000, filter={"file_stem": fs})
-            for d in docs:
-                ci = (d.metadata or {}).get("chunk_index")
-                if ci is not None:
-                    existing.add((fs, ci))
-    except Exception:
-        print("Warning: Could not check existing embeddings. Proceeding with full ingestion.")
+    if skip_existing:
+        print("Skipping existing-embedding check (SKIP_EXISTING_CHECK=1).")
+    else:
+        print("Checking for existing embeddings (this can take time)...")
+        vs = get_vectorstore(embedding_model=embedding_model, embedding_provider=embedding_provider)
+        try:
+            for idx, fs in enumerate(sorted(stems), 1):
+                docs = vs.similarity_search("seed", k=50, filter={"file_stem": fs})
+                for d in docs:
+                    ci = (d.metadata or {}).get("chunk_index")
+                    if ci is not None:
+                        existing.add((fs, ci))
+                if idx % 100 == 0:
+                    print(f"  checked {idx}/{len(stems)} stems...")
+        except Exception:
+            print("Warning: Could not check existing embeddings. Proceeding with full ingestion.")
 
     # Step 4: Filter out chunks that already exist
     new_chunks = []
@@ -114,6 +119,21 @@ def run_ingest(batch_size: int = 128) -> None:
 
     # Step 5: Ingest new chunks in batches
     print(f"Ingesting {len(new_chunks)} chunks in batches of {batch_size}...")
+    if batch_size > 32 and embedding_provider == "ollama":
+        print("Tip: If you see EOF errors with Ollama, reduce batch_size (e.g., to 5 or 8).")
+    # Warm-up embedding to show base_url/dimensions for diagnostics
+    try:
+        from models import get_embeddings
+        emb = get_embeddings(embedding_model, provider=embedding_provider)
+        sample_vec = emb.embed_query("ping")
+        base_url = getattr(emb, "base_url", None)
+        client = getattr(emb, "_client", None)
+        if client and hasattr(client, "base_url"):
+            base_url = getattr(client, "base_url")
+        print(f"[Embeddings] provider={embedding_provider} model={embedding_model} base_url={base_url} dim={len(sample_vec)}")
+    except Exception as e:
+        print(f"[Embeddings] warm-up failed: {e}")
+
     vs2 = ingest_chunks_to_pgvector_batched(
         new_chunks,
         batch_size=batch_size,

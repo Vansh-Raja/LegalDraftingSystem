@@ -1,0 +1,17 @@
+services:
+  pgvector:
+    image: ankane/pgvector:latest
+    container_name: pgvector
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: LegalDraftingSystemDB
+    ports:
+      # Use PGVECTOR_PORT env to avoid host conflicts; defaults to 5433 here.
+      - "${PGVECTOR_PORT:-5433}:5432"
+    volumes:
+      - pgvector_data:/var/lib/postgresql/data
+
+volumes:
+  pgvector_data:
+

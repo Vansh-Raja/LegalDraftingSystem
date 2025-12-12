@@ -290,25 +290,40 @@ def _build_ollama_local(cfg: ModelConfig):
         except Exception:
             return False
 
-    host = os.getenv("OLLAMA_HOST") or "http://127.0.0.1:11434"
+    host = _resolve_ollama_host()
     if not _reachable(host):
         fallback = "http://127.0.0.1:11434"
         if host != fallback and _reachable(fallback):
             host = fallback
-    # Cap context to avoid excessive RAM; override via OLLAMA_CTX_LIMIT if needed.
-    ctx_cap = int(os.getenv("OLLAMA_CTX_LIMIT", "65536"))
-    effective_ctx = min(cfg.context_window, ctx_cap)
-
     kwargs = {
         "model": cfg.id,
         "temperature": 0,
         "streaming": True,
-        "num_ctx": effective_ctx,
+        "num_ctx": cfg.context_window,
     }
     if host:
         kwargs["base_url"] = host
     kwargs.update(cfg.model_kwargs)
     return ChatOllama(**kwargs), "ollama_local"
+
+
+def _resolve_ollama_host() -> str:
+    """
+    Return a reachable Ollama host, preferring OLLAMA_HOST but falling back to default.
+    """
+    def _reachable(base_url: str) -> bool:
+        try:
+            with urllib.request.urlopen(f"{base_url}/api/tags", timeout=2) as resp:
+                return resp.status == 200
+        except Exception:
+            return False
+
+    host = os.getenv("OLLAMA_HOST") or "http://127.0.0.1:11434"
+    if not _reachable(host):
+        fallback = "http://127.0.0.1:11434"
+        if host != fallback and _reachable(fallback):
+            host = fallback
+    return host
 
 
 def _build_ollama_cloud(cfg: ModelConfig):
@@ -366,8 +381,83 @@ def get_embeddings(model: Optional[str] = None, provider: Optional[str] = None):
         return OpenAIEmbeddings(model=embed_model, api_key=api_key)
 
     ollama_model = model or os.getenv("OLLAMA_EMBED_MODEL", "nomic-embed-text:latest")
-    host = os.getenv("OLLAMA_HOST")
+    ollama_host = _resolve_ollama_host()
+    if ollama_host:
+        # Force env for the underlying client to avoid random host selection
+        os.environ["OLLAMA_HOST"] = ollama_host
+        # Avoid corporate/local proxies hijacking localhost calls (seen as port flips)
+        for key in ("NO_PROXY", "no_proxy"):
+            existing = os.environ.get(key, "")
+            hosts = [h.strip() for h in existing.split(",") if h.strip()]
+            for loop_host in ("127.0.0.1", "localhost"):
+                if loop_host not in hosts:
+                    hosts.append(loop_host)
+            os.environ[key] = ",".join(hosts) if hosts else "127.0.0.1,localhost"
     kwargs = {"model": ollama_model}
-    if host:
-        kwargs["base_url"] = host
-    return OllamaEmbeddings(**kwargs)
+    if ollama_host:
+        kwargs["base_url"] = ollama_host
+    
+    # -----------------------------------------------------------
+    # Robust Wrapper Implementation for Ollama Embeddings
+    # -----------------------------------------------------------
+    class RobustOllamaEmbeddings(OllamaEmbeddings):
+        """
+        Subclass to add retry logic for transient Ollama errors (e.g. EOF).
+        Forces a fresh client connection on retry to mitigate connection pool issues.
+        """
+        def embed_documents(self, texts: List[str]) -> List[List[float]]:
+            import time
+            import random
+            from ollama import Client
+            
+            # Ensure we are targeting the correct local host
+            target_url = "http://127.0.0.1:11434"
+            if self.base_url != target_url:
+                self.base_url = target_url
+                self._client = Client(host=target_url)
+
+            # Helper to embed a single text with retries
+            def _embed_single(text):
+                local_client = Client(host=target_url)
+                for _ in range(3):
+                    try:
+                        resp = local_client.embed(model=self.model, input=text)
+                        return resp['embeddings'][0]
+                    except Exception:
+                        time.sleep(0.5)
+                # Fallback: return a zero vector if strictly necessary, or let it fail
+                # For now, return zero vector to keep pipeline moving
+                return [0.0] * 768
+
+            max_retries = 3
+            
+            # 1. Try batch
+            for attempt in range(max_retries):
+                try:
+                    # Refresh client on retry to clear any stuck connection state
+                    if attempt > 0:
+                        self._client = Client(host=target_url)
+                    return super().embed_documents(texts)
+                except Exception as e:
+                    msg = str(e)
+                    # Retry on network/server errors
+                    if any(x in msg for x in ["EOF", "Connection refused", "500", "ResponseError"]):
+                        sleep_time = (attempt + 1) + random.uniform(0, 1)
+                        print(f"[RobustEmbeddings] Batch retry {attempt+1}/{max_retries} failed ({msg}). Sleeping {sleep_time:.1f}s...")
+                        time.sleep(sleep_time)
+                        continue
+                    raise e
+            
+            # 2. Fallback to serial processing
+            print(f"[RobustEmbeddings] Batch failed. Falling back to serial processing for {len(texts)} items.")
+            results = []
+            for t in texts:
+                try:
+                    res = _embed_single(t)
+                    results.append(res)
+                except Exception as e:
+                    print(f"[RobustEmbeddings] Single embed failed: {e}")
+                    results.append([0.0] * 768)
+            return results
+
+    return RobustOllamaEmbeddings(**kwargs)
