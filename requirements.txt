@@ -12,5 +12,6 @@ langchain-core==0.3.79
 langchain-postgres==0.0.15
 langchain-ollama==0.3.10
 psycopg[binary]
+psycopg2-binary
 streamlit==1.50.0
 python-docx==1.2.0

@@ -1,49 +1,23 @@
-# PGVector Setup Guide (Legal Drafting System) — Docker-first
+# PGVector Setup Guide (Legal Drafting System) — Existing DB
 
-The app expects PostgreSQL with the `vector` extension reachable via `DB_*` or `PGVECTOR_CONNECTION` (see `rag.py` `_get_pg_connection_string`). Below uses Docker for a clean, reproducible setup.
+The app expects PostgreSQL with the `vector` extension reachable via `DB_*` or `PGVECTOR_CONNECTION` (see `rag.py` `_get_pg_connection_string`). This guide assumes you already have a running Postgres instance (no compose instructions here).
 
-## 1) docker-compose (recommended)
-
-Create `docker-compose.yml`:
-```yaml
-version: "3.9"
-services:
-  pgvector:
-    image: ankane/pgvector:latest
-    container_name: pgvector
-    environment:
-      POSTGRES_USER: lds_user
-      POSTGRES_PASSWORD: your_password
-      POSTGRES_DB: lds_db
-    ports:
-      - "5432:5432"
-    volumes:
-      - pgvector_data:/var/lib/postgresql/data
-volumes:
-  pgvector_data:
+## 1) Enable extension (one-time, DB in Docker)
+Run inside the Postgres container (adjust service name if different):
+```bash
+docker compose exec pgvector psql -U postgres -d LegalDraftingSystemDB -c "CREATE EXTENSION IF NOT EXISTS vector;"
 ```
 
-Bring it up:
+## 2) App connection env (.env)
+Based on your current env:
 ```bash
-docker compose up -d
-```
-
-## 2) Enable extension (one-time)
-The image includes pgvector. Create the extension inside the DB:
-```bash
-docker compose exec pgvector psql -U lds_user -d lds_db -c "CREATE EXTENSION IF NOT EXISTS vector;"
-```
-
-## 3) App connection env (.env)
-Use either the granular vars or single URL:
-```bash
-DB_NAME=lds_db
-DB_USER=lds_user
-DB_PASSWORD=your_password
-DB_HOST=127.0.0.1
-DB_PORT=5432
+DB_NAME=LegalDraftingSystemDB
+DB_USER=postgres
+DB_PASSWORD=password
+DB_HOST=localhost
+DB_PORT=5433
 # or
-PGVECTOR_CONNECTION=postgresql://lds_user:your_password@127.0.0.1:5432/lds_db
+PGVECTOR_CONNECTION=postgresql://postgres:password@localhost:5433/LegalDraftingSystemDB
 ```
 `python-dotenv` loads this for all modules.
 
