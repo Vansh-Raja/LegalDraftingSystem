@@ -5,6 +5,7 @@ This keeps provider configs, system prompts, and embeddings selection in one pla
 
 from dataclasses import dataclass, field
 import os
+import urllib.request
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
 from dotenv import load_dotenv
@@ -188,22 +189,14 @@ MODEL_REGISTRY: Dict[str, ModelConfig] = {
         context_window=32_000,
         default_system_prompt="rag",
     ),
-    # Groq (OpenAI-compatible endpoint)
-    "llama3-70b-8192": ModelConfig(
-        id="llama3-70b-8192",
-        provider="groq",
-        label="Groq Llama3 70B (8k)",
-        context_window=8_192,
-        default_system_prompt="rag",
-    ),
-    "mixtral-8x7b-32768": ModelConfig(
-        id="mixtral-8x7b-32768",
-        provider="groq",
-        label="Groq Mixtral 8x7B (32k)",
-        context_window=32_768,
-        default_system_prompt="rag",
-    ),
     # Ollama local
+    "qwen3:4b": ModelConfig(
+        id="qwen3:4b",
+        provider="ollama_local",
+        label="Ollama Local Qwen3 4B",
+        context_window=256_000,
+        default_system_prompt="rag",
+    ),
     "qwen3:latest": ModelConfig(
         id="qwen3:latest",
         provider="ollama_local",
@@ -211,59 +204,34 @@ MODEL_REGISTRY: Dict[str, ModelConfig] = {
         context_window=40_000,
         default_system_prompt="rag",
     ),
-    # Ollama Cloud (large contexts) - names based on /api/tags
-    "glm-4.6": ModelConfig(
-        id="glm-4.6",
-        provider="ollama_cloud",
-        label="glm-4.6",
-        context_window=128_000,
-        default_system_prompt="rag",
-    ),
-    "gpt-oss:120b": ModelConfig(
-        id="gpt-oss:120b",
-        provider="ollama_cloud",
-        label="gpt-oss:120b",
-        context_window=128_000,
-        default_system_prompt="rag",
-    ),
-    "gpt-oss:20b": ModelConfig(
-        id="gpt-oss:20b",
-        provider="ollama_cloud",
-        label="gpt-oss:20b",
-        context_window=128_000,
-        default_system_prompt="rag",
-    ),
-    "gemini-3-pro-preview": ModelConfig(
-        id="gemini-3-pro-preview",
-        provider="ollama_cloud",
-        label="gemini-3-pro-preview",
-        context_window=128_000,
-        default_system_prompt="rag",
-    ),
-    "deepseek-v3.1:671b": ModelConfig(
-        id="deepseek-v3.1:671b",
-        provider="ollama_cloud",
-        label="deepseek-v3.1:671b",
-        context_window=128_000,
-        default_system_prompt="rag",
-    ),
-    "qwen3-coder:480b": ModelConfig(
-        id="qwen3-coder:480b",
-        provider="ollama_cloud",
-        label="qwen3-coder:480b",
-        context_window=128_000,
-        default_system_prompt="rag",
-    ),
 }
 
 DEFAULT_MODEL_ID = "gpt-5-nano-2025-08-07"
 
 
+def _provider_available(provider: str) -> bool:
+    """
+    Gate model visibility by required API keys/env.
+    """
+    if provider == "openai":
+        return bool(os.getenv("OPENAI_KEY") or os.getenv("OPENAI_API_KEY"))
+    if provider == "openrouter":
+        return bool(os.getenv("OPENROUTER_API_KEY"))
+    if provider == "groq":
+        return bool(os.getenv("GROQ_API_KEY"))
+    if provider == "ollama_local":
+        return True
+    return False
+
+
 def list_chat_models() -> List[ModelConfig]:
-    # Preserve a stable, readable ordering (OpenAI → OpenRouter → Groq → Ollama)
-    provider_order = ["openai", "openrouter", "groq", "ollama_cloud", "ollama_local"]
+    # Preserve a stable, readable ordering (OpenAI → OpenRouter → Groq → Ollama local)
+    provider_order = ["openai", "openrouter", "groq", "ollama_local"]
+    available = [
+        cfg for cfg in MODEL_REGISTRY.values() if _provider_available(cfg.provider)
+    ]
     return sorted(
-        MODEL_REGISTRY.values(),
+        available,
         key=lambda cfg: (provider_order.index(cfg.provider) if cfg.provider in provider_order else 99, cfg.label),
     )
 
@@ -315,12 +283,27 @@ def _build_groq(cfg: ModelConfig):
 
 
 def _build_ollama_local(cfg: ModelConfig):
-    host = os.getenv("OLLAMA_HOST")
+    def _reachable(base_url: str) -> bool:
+        try:
+            with urllib.request.urlopen(f"{base_url}/api/tags", timeout=2) as resp:
+                return resp.status == 200
+        except Exception:
+            return False
+
+    host = os.getenv("OLLAMA_HOST") or "http://127.0.0.1:11434"
+    if not _reachable(host):
+        fallback = "http://127.0.0.1:11434"
+        if host != fallback and _reachable(fallback):
+            host = fallback
+    # Cap context to avoid excessive RAM; override via OLLAMA_CTX_LIMIT if needed.
+    ctx_cap = int(os.getenv("OLLAMA_CTX_LIMIT", "65536"))
+    effective_ctx = min(cfg.context_window, ctx_cap)
+
     kwargs = {
         "model": cfg.id,
         "temperature": 0,
         "streaming": True,
-        "num_ctx": cfg.context_window,
+        "num_ctx": effective_ctx,
     }
     if host:
         kwargs["base_url"] = host
