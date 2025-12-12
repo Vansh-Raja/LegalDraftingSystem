@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 1842 of 2021",
+  "parties": {
+    "petitioner": "ECGC Limited",
+    "respondent": "Mokul Shriram EPC JV"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-15",
+  "summary": "The appeal challenged an NCDRC order directing ECGC Limited to pay Rs. 265.01 crores with interest, arising from rejection of an insurance claim for a construction project in Iraq. The key issue was whether the appeal was governed by the Consumer Protection Act, 1986 or the 2019 Act. The appellant argued that the right to appeal accrued under the 1986 Act, which had a less stringent deposit condition (50% or Rs. 50,000, whichever less), and that this substantive right persisted post-repeal under Section 6 of the General Clauses Act, 1897. The Court considered whether the 2019 Act's repeal affected accrued rights and referred to precedent affirming that a right of appeal is a substantive right that continues unless expressly extinguished. The reasoning emphasized that the 1986 Act would govern the appeal as the right accrued prior to repeal.",
+  "legal_provisions_cited": [
+    "Consumer Protection Act, 1986, Section 23",
+    "Consumer Protection Act, 2019, Section 67",
+    "Consumer Protection Act, 2019, Section 107",
+    "General Clauses Act, 1897, Section 6"
+  ],
+  "final_judgment": "The appeal was allowed to be heard on merits under the Consumer Protection Act, 1986, with the Court recognizing the accrued right of appeal under the earlier law."
+}

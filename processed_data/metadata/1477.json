@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal No. 770 of 2022",
+  "parties": {
+    "petitioner": "Satish Kumar Jatav",
+    "respondent": "State of U.P. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-17",
+  "summary": "The appellant challenged the Allahabad High Court's non-reasoned order quashing criminal proceedings under Sections 307, 504, 506 IPC and Section 3(10)(15) of the SC/ST (Prevention of Atrocities) Act. The Supreme Court found the High Court's order cryptic and lacking independent application of mind, especially after the Magistrate had summoned accused based on recorded evidence under Sections 200 & 202 Cr.P.C. and injury reports. The Supreme Court emphasized that quashing proceedings on vague grounds like 'no useful purpose' is impermissible when a prima facie case exists.",
+  "legal_provisions_cited": [
+    "Section 482 Cr.P.C.",
+    "Section 307 IPC",
+    "Section 504 IPC",
+    "Section 506 IPC",
+    "Section 3(10)(15) of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act"
+  ],
+  "final_judgment": "The appeal is allowed. The impugned judgment of the High Court is quashed and set aside. The summoning order passed by the Magistrate is restored."
+}

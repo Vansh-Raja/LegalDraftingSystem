@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 1497/2023",
+  "parties": {
+    "petitioner": "Shah Newaz Khan & Ors.",
+    "respondent": "State of Nagaland & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-02-28",
+  "summary": "The issue was whether a common High Court can transfer a case from a civil court in one state to another civil court in a different state under Section 24 of the CPC when both courts are subordinate to it. The Supreme Court held that Section 25 of the CPC exclusively empowers only the Supreme Court to direct inter-state transfers between civil courts in different states, even where a common High Court exists. A harmonious reading of Sections 24 and 25 showed that Section 24 applies only intra-state or within a High Court's jurisdiction where states do not factor in, while Section 25 governs inter-state transfers regardless of a shared High Court. The Court dismissed the appeal and affirmed that transfer petitions for inter-state civil court transfers must be filed before the Supreme Court.",
+  "legal_provisions_cited": [
+    "Section 24, Code of Civil Procedure",
+    "Section 25, Code of Civil Procedure",
+    "Article 214, Constitution of India",
+    "Article 231, Constitution of India",
+    "Durgesh Sharma vs. Jayshree, (2008) 9 SCC 648",
+    "Megha Jain vs. Kartik Jain, (2019) 6 GLR 379"
+  ],
+  "final_judgment": "Appeal dismissed; the power to transfer a proceeding from a Civil Court in one State to a Civil Court in another State lies exclusively with the Supreme Court under Section 25 of the CPC, and not with a common High Court under Section 24."
+}

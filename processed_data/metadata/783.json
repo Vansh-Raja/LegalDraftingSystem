@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 10192/2024 (Arising out of SLP (C) No. 28968/2018)",
+  "parties": {
+    "petitioner": "Vaibhav Jain",
+    "respondent": "Hindustan Motors Pvt. Ltd"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-09-03",
+  "summary": "The appeal challenged the Chhattisgarh High Court's 2017 judgment enhancing compensation to claimants (heirs of deceased Pranay Kumar Goswami) and upholding joint liability of the dealer (Vaibhav Jain) and manufacturer (Hindustan Motors) for compensation due to a fatal accident during a test drive. The key issue was whether the dealer could be deemed the 'owner' under Section 2(30) of the Motor Vehicles Act, 1988, and held jointly liable despite the manufacturer's ownership and employee involvement. The appellant argued the dealer was not the owner as defined, and liability could not be fastened without transfer of ownership via lease, hire-purchase, or hypothecation. The respondent manufacturer contended the vehicle had been sold to the dealer, making the dealer the owner, and relied on the dealership agreement to absolve itself. The Court considered statutory ownership, possessory interest, and the effect of contractual clauses on liability.",
+  "legal_provisions_cited": [
+    "Section 2(30), Motor Vehicles Act, 1988",
+    "Section 166, Motor Vehicles Act, 1988",
+    "Section 168(1), Motor Vehicles Act, 1988",
+    "Order 41 Rule 33, Civil Procedure Code, 1908",
+    "Rajasthan State Road Transport Corporation vs. Kailash Nath Kothari & Ors. (1997) 7 SCC 481",
+    "M/s. Tata Motors Limited vs. Antonio Paulo Vaz and Anr. (2021) 18 SCC 545",
+    "Bihar Supply Syndicate vs. Asiatic Navigation & Ors. (1993) 2 SCC 639",
+    "Sri Chandre Prabhuji Jain Temple & Ors. vs. Harikrishna & Anr. (1973) 2 SCC 665"
+  ],
+  "final_judgment": "The appeal was allowed, and the appellant-dealer (Vaibhav Jain) was absolved of joint and several liability. The liability for compensation was restricted solely to the manufacturer (Hindustan Motors Pvt. Ltd.) as the registered owner of the vehicle at the time of the accident. The impugned judgment of the High Court upholding the dealer's liability was set aside."
+}

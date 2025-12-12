@@ -1,0 +1,423 @@
+Hewlett Packard India Sales ... vs Commissioner Of Customs (I) Nhava Sheva on 17 January, 2023
+
+Hewlett Packard India Sales ... vs Commissioner Of Customs (I)
+Nhava Sheva on 17 January, 2023
+
+Author: Surya Kant
+
+Bench: Vikram Nath, Surya Kant
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO 5373 OF 2019
+
+Hewlett Packard India Sales Pvt. Ltd.                                 … Appellant
+
+(Now HP India Sales Pvt. Ltd.)
+
+VERSUS
+… Respondent
+Commissioner of Customs (Import), Nhava Sheva
+
+WITH
+CIVIL APPEAL NO 6715 OF 2019
+
+Lenevo (India) Pvt. Ltd.                                              … Appellant
+
+VERSUS
+Commissioner of Customs (Import), Nhava Sheva                      … Respondent
+
+JUDGMENT
+
+Surya Kant, J.
+
+1. The question that arises for our consideration pertains to correct classification of Automatic Data
+Processing Machines (hereinafter, Page | 1 ‘ADP’) which are popularly known as ‘All−in−One
+Integrated Desktop Computer’ (hereinafter, ‘Concerned Goods’) under the First Schedule to the
+
+1
+
+Hewlett Packard India Sales ... vs Commissioner Of Customs (I) Nhava Sheva on 17 January, 2023
+
+Central Excise Tariff Act, 1985 (hereinafter, ‘First Schedule’). FACTS
+
+2. The Appellants imported certain units of the Concerned Goods and classified them under ‘Tariff
+Item 8471 50 00’ as per the prevalent self−assessment procedure. During subsequent examination
+by the Custom Authorities, the Concerned Goods were classified under ‘Tariff Item 8471 30 10’,
+which was later confirmed by the Assistant Commissioner of Customs and Commissioner of
+Customs (Appeal). These findings were further affirmed by the Customs, Excise and Service Tax
+Appellate Tribunal (hereinafter, ‘CESTAT’), West Zonal Bench, Mumbai vide the impugned
+judgments dated 19.12.2018 and 24.06.2019.
+
+3. While the rate of duty is same under both the Tariff Items, the method of computing them is
+different. Goods under ‘Tariff Item 8471 30 10’ attract the application of Section 4A of Central
+Excise Act, 1944, which valued the excisable goods on the basis of percentage of retail sale price. In
+contrast, a classification under ‘Tariff Item 8471 50 00’ invites valuation based on price mechanism
+under Section 4 of Central Excise Act, 1944 which would have effectively reduced the overall liability
+to pay the requisite duty. This difference in liability is Page | 2 the precise reason behind the present
+dispute regarding classification under the correct Tariff Item which calls for adjudication.
+
+4. Before delving into the reasoning of the revenue authorities and CESTAT, which is more or less
+identical, it would be appropriate to reproduce the following relevant parts of the First Schedule :−
+Heading/Sub− Description of goods2 Heading/Tariff Item1 (2) 8471 Automatic data processing
+machines and units thereof; magnetic or optical readers, machines for transcribing data on to data
+media in coded form and machines for processing such data, not elsewhere specified or included
+8471 30 − Portable digital automatic data processing machines, weighing not more than 10 kg,
+consisting of at least a central processing unit, a 1 Additional Notes to The Customs Tariff Act 1975,
+sch 1 states that − 1(a) “Heading”, in respect of goods, means a description in list of tariff provisions
+accompanied by a four−digit number and includes all sub−headings of tariff items the first four−
+digits of which correspond to that number.
+
+(b)“Sub−heading” ”, in respect of goods, means a description in list of tariff provisions accompanied
+by a six−digit number and includes all tariff items the first six−digits of which correspond to that
+number.
+
+(c)“Tariff Item” means a description in list of tariff provisions accompanied by a six− digit number
+means a description of goods in the list of tariff provisions accompanying either eight−digit number
+and the rate of the duty of excise or eight− digit number with blank in the column of the rate of duty.
+2 General Explanatory Notes to The Customs Tariff Act 1975, sch 1 states that −
+
+1. Where in column (2) of this Schedule, the description of an article or group of articles under a
+heading is preceded by “−”, the said article or group of articles shall be taken to be a sub
+classification of the article or group of articles covered by the said heading. Where, however, the
+description of an article or group of articles is preceded by “−−”, the said article or group of articles
+shall be taken to be a sub− classification of the immediately preceding description of the article or
+group of articles which has “−”. Where the description of an article or group of articles is preceded
+
+2
+
+Hewlett Packard India Sales ... vs Commissioner Of Customs (I) Nhava Sheva on 17 January, 2023
+
+by “−−−” or “−−−−”, the said article or group of articles shall be taken to be a sub−classification of
+the immediately preceding description of the article or group of articles which has “−” or “−−”.
+
+Page | 3
+(cid:12)                              keyboard and a display
+8471 30 10            −−− Personal computer
+8471 30 90            −−− Other
+− Other automatic data processing
+machines
+8471 41             −− Comprising in the same housing at
+least a central processing unit and an
+input and output unit whether or not
+combined
+8471 41 10            −−− Micro computer
+8471 41 20            −−− Large or main frame computer
+8471 41 90            −−− Other
+8471 49 00            −− Other, presented in the form of
+systems
+8471 50 00            − Processing units other than those
+of subheading 8471 41 or 8471 49,
+whether or not containing in the
+same housing one or two of the
+following types of unit: storage
+units, input units, output units
+(Emphasis Applied)
+
+5. Since, the reasoning confirming the classification under ‘Tariff Item 8471 30 10’ by the
+adjudicating authorities including CESTAT is identical, hence, it would be sufficient to discuss the
+key findings of the impugned decisions in brevity. These observations are :−
+
+a) The Concerned Goods weighed less than 10 kilogram and were easily carried from one place to
+another. In this respect the CESTAT relied on dictionary meaning of the word ‘portable’ to hold that
+the goods were rightly classified under ‘Tariff Item 8471 30 10”;
+
+b) The absence of in−built power source does not render the Concerned Goods as non−portable;
+
+Page | 4
+
+c) The dimensions of the Concerned Goods as well as the fact that it was not foldable did not impact
+the element of portability;
+
+d) The Concerned goods had a display unit, a touch screen which could function as a keyboard and
+thus it fulfilled the description mentioned under ‘Tariff Item 8471 30 10’.
+
+B. CONTENTIONS
+
+3
+
+Hewlett Packard India Sales ... vs Commissioner Of Customs (I) Nhava Sheva on 17 January, 2023
+
+6. We have heard learned counsel for the parties and perused the documents produced on record. It
+must be noted that both sides have not disputed the findings of the adjudicating authorities except
+in respect of the aspect of portability of Concerned Goods. Hence, the only limited question that falls
+for consideration before us in these proceedings is whether the Concerned Goods are ‘portable’ or
+not under ‘Tariff Item 8471 30 10’.
+
+7. Mr. V Lakshmikumaran, learned counsel for the Appellants, has made four key contentions.
+Firstly, that ‘Tariff Item 8471 30 10’ pertains to class of ADPs which are popularly known as laptops
+or notebooks. He has highlighted that the classification under ‘Tariff Item 8471 30 10’ involves an
+element of ‘functionality’ which is not applicable in the present case as Concerned Goods are not
+capable of functioning without an external source of power. Secondly, he contended that Concerned
+Goods have been wrongly held to be ‘portable’ by the CESTAT on the sole aspect that their weight
+was less than 10 kilograms. He argued that mere weight cannot be the sole Page | 5 consideration for
+deciding whether any good is ‘portable’ or not, and it is necessary to consider additional aspects
+such as functionality and ease of transportability which is suitable for a mobile lifestyle of the user.
+Thirdly, he urged that the CESTAT erroneously relied on the general definition of ‘portable’ given in
+dictionaries and instead the same should have been defined in relation to the class of goods, i.e.
+ADPs. In this respect, he pointed out that the relevant ‘Sub−Heading 8471 30’ which entails the
+condition of being ‘portable’ in the description of goods was preceded by a single ‘−’ and
+consequently all the goods under the said sub−heading should be taken as a sub classification of the
+goods covered by the ‘Heading 8471’. Finally, to buttress the aforementioned arguments, he
+highlighted that the Concerned Goods are not considered as ‘portable’ by the European
+Commission’s classification and are also not covered by the ‘Tariff Item 8471 30 10’ as per the World
+Customs Organization’s Harmonized System Explanatory Notes (hereinafter, ‘HSN’). We must also
+bring to the fore and appreciate the efforts of learned counsel for the Appellants who physically
+demonstrated by setting up one of the sample units of the Concerned Goods to showcase the aspects
+of portability involved in present matter.
+
+8. On the contrary, Mr. Arjit Prasad, learned senior counsel for the Respondent while supporting the
+observations in the impugned decisions, put forth two counter arguments. Firstly, that since the
+Page | 6 word ‘portable’ is nowhere defined in the statute, it should be interpreted on the principle
+of general parlance. In other words, he submitted that the dictionary meaning of the word ‘portable’
+is sufficient to resolve the dispute regarding its interpretation. Secondly, he maintained that the
+legislature’s intention was crystal clear in qualifying the term ‘portable’ by providing the condition
+in the description that any ADP less than 10Kgs would automatically become portable. In
+furtherance of this argument, he relied on the Constitution Bench decision of this Court in
+Mathuram Agrawal v State of MP3 to urge that the intention of the legislature has to be discerned
+from the plain and unambiguous meaning of the language used in a taxation statute and any other
+interpretation is impermissible.
+
+9. We now examine these contentions of both parties. ANALYSIS
+
+10. Before we ponder over the question whether the Concerned Goods are ‘portable’ or not, it would
+be appropriate to highlight their key characteristics which are as follows :−
+
+4
+
+Hewlett Packard India Sales ... vs Commissioner Of Customs (I) Nhava Sheva on 17 January, 2023
+
+a) The central processing unit is embedded within the display unit;
+
+b) The display unit is generally a touch screen which can be used as an input unit also, such as in the
+capacity of a keyboard or a mouse;
+
+3 Mathuram Agrawal v State of MP (1999) 8 SCC 667, para 12.
+
+Page | 7
+
+c) The units generally come along with in−built speakers as well as ports for further connectivity
+including a port for establishing links with internet network;
+
+d) The diagonal length of the display is at the minimum of 18.5 inches. It may be clarified that
+presently certain models of the Concerned Goods even exceed this aspect by having the display’s
+diagonal length as wide as 25 inches while still being weighed under 10 kilograms;4
+
+e) It needs a constant source of external power source to function;
+
+f) It is non−foldable and cannot be carried around in the usual laptop bags because of its
+dimensions;
+
+g) The Concerned Goods for efficient functioning need to remain in a vertical state and to be
+tethered to a stand which is provided along with it or requires support of something else such as a
+wall. It must be noted that the user guides brought on record in respect of one of the models of the
+Concerned Goods indicate that any other method of usage including horizontal use was harmful and
+could cause damage to the Concerned Goods.
+
+11. The first aspect which we will address is with respect to the issue of constant source of power and
+whether the same is a necessary characteristic to treat goods as ‘portable’. In this respect, the
+Appellants argued that ‘Tariff Item 8471 30 10’ is only applicable 4 It must be noted that in respect
+of current market trends, generally the largest display for laptops/notebooks is around 17 inches.
+
+Page | 8 to laptops/notebooks and that the applicable sub−heading HSN indicated this. The relevant
+part of the same reads as follows – “Subheading 8471.30 This subheading covers portable automatic
+data processing machines weighing not more than 10 kg. These machines, which are equipped with
+a flat screen, may be capable of operating without an external source of electric power and often
+have a modem or other means for establishing a link with a network.” (Emphasis Applied)
+
+12. While it appears well settled that the HSN is to be normally taken as a safe guide for classifying
+goods under the First Schedule because it is based on an internationally recognized ‘harmonized
+nomenclature’5, a bare reading of the explanatory note applicable to the sub−heading clearly lays
+out the fact that there is no mandatory condition for being operable without any external source of
+power. We are thus unable to agree with the Appellants that only ADPs with a built−in power source
+is necessarily required to be classified under ‘Tariff Item 8471 30 10’. In other words, no element of
+
+5
+
+Hewlett Packard India Sales ... vs Commissioner Of Customs (I) Nhava Sheva on 17 January, 2023
+
+‘functionality’ is contemplated for the purpose of classifying the Concerned Goods as ‘portable’.
+
+13. The second aspect deals with the question as to whether mere factum of weighing less than 10
+kilograms would be sufficient to classify the Concerned Goods as ‘portable’ or not. In this respect, it
+may be seen that the CESTAT vide its impugned order(s) has relied on 5 Collector of Central Excise,
+Shillong v Wood Craft Products Limited (1995) 3 SCC 454.
+
+Page | 9 the dictionary meaning which defined ‘portable’ as − “that can be easily carried and not
+permanently fixed in a place”. It then went on to conclude that the dimensions of the Concerned
+Goods were not a concern as long as it could be easily lifted and moved. As noted above, a similar
+argument has been raised by learned senior counsel for the Respondent before us also.
+
+14. At the outset, we must note that the adjudicating authorities while coming to their respective
+conclusions, especially the Commissioner of Customs (Appeal) have extensively referred to online
+sources such as Wikipedia to support their conclusion. While we expressly acknowledge the utility of
+these platforms which provide free access to knowledge across the globe, but we must also sound a
+note of caution against using such sources for legal dispute resolution. We say so for the reason that
+these sources, despite being a treasure trove of knowledge, are based on a crowd−sourced and user−
+generated editing model that is not completely dependable in terms of academic veracity and can
+promote misleading information as has been noted by this court on previous occasions also.6 The
+courts and adjudicating authorities should rather make an endeavor to persuade the counsels to
+place reliance on more reliable and authentic sources.
+
+15. Moving forward, we must now address the issue at hand, namely, the interpretation of the word
+‘portable’ and more so when the 6 Commissioner of Customs, Bangalore v Acer India (P) Ltd.
+(2008) 1 SCC 382, para 17.
+
+Page | 10 reasoning of the CESTAT solely hinges on the aspect of weight. Such an approach is
+apparently erroneous because despite the fact that the ‘portable’ was not defined under the statute,
+it was incorporated in ‘Sub−Heading 8471 30’ and was preceded by a single ‘−’, which meant that
+classification of goods under the same would be taken as a sub− classification of the ‘Heading 8471’.
+
+16. In other words, ‘portable’ should have been defined in reference to the ADPs instead of relying
+on dictionary meaning which contains all kinds of hues of associated meanings as held by this Court
+in CCE v Krishna Carbon Paper Co.7. The cited decision also explains the correct approach to be
+taken in case when a word is to be defined in context of any entry under the First Schedule. It thus
+holds that :– “10. The trade meaning is one which is prevalent in that particular trade where the
+goods is known or traded. If special type of goods is subject−matter of a fiscal entry then that entry
+must be understood in the context of that particular trade, bearing in mind that particular word.
+Where, however, there is no evidence either way then the definition given and the meaning
+following (sic flowing) from particular statute at particular time would be the decisive test.”8
+(Emphasis Applied)
+
+6
+
+Hewlett Packard India Sales ... vs Commissioner Of Customs (I) Nhava Sheva on 17 January, 2023
+
+17. In our considered opinion, the word ‘portable’ should have been interpreted in the context of
+ADPs. In this regard, relevant technical and commercial literature has been perused by us. On a
+minute 7 CCE v Krishna Carbon Paper Co. (1989) 1 SCC 150, para 6. 8 ibid, para 10.
+
+Page | 11 analysis thereof, we deem it appropriate to extract the following relevant material:− The
+Institute of Electrical and Electronics Engineers defines ‘portable computer’ as − “A personal
+computer that is designed and configured to permit transportation as a piece of handheld luggage”9
+The Dictionary of Computer and Internet Terms defines it as − “able to be carried around. A
+portable computer is larger than a laptop computer, but is still easily movable”10 The Oxford
+Dictionary of Computer Science defines ‘portable’ in respect of computers as − “A computer that can
+be simply carried from one place to another by one person. They cannot necessarily be used in
+transit. Examples include laptop computers.”11 The Microsoft Computer Dictionary also provides a
+definition along with an illustrative chart depicting various types of ‘portable computers’ – “Any
+computer designed to be moved easily. Portable computers can be characterized by size and
+weight.”12 Type Approximate Power Comments weight source 9 The Institute of Electrical and
+Electronics Engineers, IEEE Standard Computer Dictionary (1990) 155.
+
+10 Douglas A. Downing and others, Dictionary of Computer and Internet Terms (10th edn, Barron’s
+Educational Series 2009) 374.
+
+11 Andrew Butterfield and Gerard Ekembe Ngondi (eds), Oxford Dictionary of Computer Science
+(7th edn, OUP 2016).
+
+12 Alex Blanton (ed), Microsoft Computer Dictionary (5th edn, 2002) 412−413.
+
+Page | 12
+(cid:12) Transportable 15–30 lb.         House          Sometimes called
+current        luggable; usually
+has floppy and
+hard         drives;
+standard        CRT
+screen.
+Laptop           8–15 lb.       House          Can be held on
+current     or the lap; usually
+batteries      has    a   floppy
+drive; uses flat
+LCD or plasma
+screen.
+Ultralight       2–8 lb.        Batteries or Easy to carry in a
+transformer briefcase;
+pack        sometimes         uses
+RAM   drive   or
+EPROM instead of
+floppy     or hard
+drive;       thinner
+models are known
+
+7
+
+Hewlett Packard India Sales ... vs Commissioner Of Customs (I) Nhava Sheva on 17 January, 2023
+
+as      notebook
+computers.
+Handheld         Less than 2 Batteries or Also       called
+lb.         transformer palmtop or palm−
+pack           sized; can be held
+in one hand.
+
+18. On a conjoint reading of the relevant material and inputs, it is explicitly clear that weight cannot
+be the sole factor to determine the factum of portability. Instead, the essential ingredients to
+logically establish whether an ADP is ‘portable’ are twofold. The first ingredient is their ability to be
+carried around easily which includes all aspects Page | 13 such as weight and their dimensions. We
+must hasten to add that in appropriate cases, this assessment would also take into consideration the
+necessary accessories which are required for safe and efficient usage such as mounted stands or any
+power adapters. The second ingredient is that the ADP must be suitable for daily transit of a
+consumer and would include aspects such as durability to withstand frequent commute and damage
+protection. An example of the same would be the availability of protection cases which allows users
+to carry the ADPs in hand or possibility of carrying the same in normal briefcases or shoulder bags.
+
+19. On applying these core ingredients to the characteristics of Concerned Goods, there is no room
+to doubt that they are not ‘portable’. Firstly, the dimensions of the Concerned Goods make it
+illogical and unviable for daily transit. While it is true that classification of the goods must not be
+usually made on the advertisement material of the manufacturer, the user guides produced before
+us showcase that placing the product in other than the specified orientation could lead to damage to
+the Concerned Goods. The user guides also emphatically highlight that the Concerned Goods were
+meant to be used at a fixed place and contained specifications that made them ideal for being
+mounted on a wall.
+
+20. Secondly, the inability of the consumer to carry these goods around in the absence of any
+protective case or any covering bags, Page | 14 which makes the Concerned Goods vulnerable to
+damage during transit. As noted in the literature relied upon before us, the weight was not the sole
+consideration for being considered as ‘portable’. For example, there used to be computers which are
+now no longer in common use which were popularly known as ‘luggable’. They used to weigh more
+than 10 kilograms. These old predecessors of laptops were designed at the relevant time to be
+portable and used to fold up neatly in one box with a handle. Despite their weight and the size
+comparable to small suitcase, they could still be transported, albeit without a wagon.
+
+21. Furthermore, we must also use this opportunity to highlight the impact of technological
+advancement on law. It’s a matter of fact that at the time when the relevant entries of the First
+Schedule came into effect, weight was definitely an important criterion for deciding whether any
+ADPs was ‘portable’. Scientific progress has greatly reduced the weight associated with high
+performance in the context of ADPs. It is not surprising that the advent of LED technology, faster
+microchips, etc. has made it possible for mobile phones to have performance specifications which
+merely a decade ago was possible only on high end laptops. We must therefore be cognizant of such
+an impact on the consumer’s understanding of any good or trade.
+
+8
+
+Hewlett Packard India Sales ... vs Commissioner Of Customs (I) Nhava Sheva on 17 January, 2023
+
+Page | 15
+
+22. Keeping in view the applicable understanding of the element of ‘portable’ as understood in
+common parlance used in the trade of ADPs, we must hold that the Concerned Goods are not
+portable for the reasons that− Firstly, the diagonal dimension of the Concerned Goods being
+minimum of the length of 18.5 inches and the same needs to be transported along with the power
+cable as well as the applicable stand in most cases if it is to be mounted and; secondly there being no
+protective case designed by the markets for daily transport for these Concerned Goods. Such
+requirements make the Concerned Goods unable to be carried around easily during daily transit.
+We, thus, hold that the Concerned Goods are not ‘portable’.
+
+23. It goes without saying that since the customs authorities wanted to classify the goods differently,
+the burden of proof to showcase the same was on them, which they failed to discharge. 13 Hence
+under the prevalent self−assessment procedure, the classification submitted by the Appellants must
+be accepted.
+
+CONCLUSION
+
+24. In light of the abovementioned discussion, we allow the appeals and set aside the impugned
+orders which classified the Concerned Goods under ‘Tariff Item 8471 30 10’. It is directed that
+valuation of the Concerned Goods for levy of the duty be determined under the 13 Dabur India Ltd. v
+CCE, Jamshedpur (2005) 4 SCC 9.
+
+Page | 16 initially declared ‘Tariff Item 8471 50 00’. All necessary consequences shall follow.
+
+25. The appeals are disposed of along with any pending applications in the above terms.
+
+………..………………… J.
+
+(SURYA KANT) ………………………….. J.
+
+(VIKRAM NATH) NEW DELHI DATED:17.01.2023 Page | 17
+
+9

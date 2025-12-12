@@ -1,0 +1,20 @@
+{
+  "case_number": "CIVIL APPEAL NO. 2816 OF 游戏副本022 (ARISING OUT OF SLP (CIVIL) NO. 2455 OF 2022)",
+  "parties": {
+    "petitioner": "Shankarlal Nadani",
+    "respondent": "Sohanlal Jain"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-12",
+  "summary": "The appeals involve the question of whether a civil court could pass a decree for possession after the Rajasthan Rent Control Act, 2001 became applicable to the area. The appellant-tenant contended that once the Act extended to the area from 11.5.2015, only the Rent Tribunal had jurisdiction under Section 18, barring civil courts. The High Court dismissed the revision, relying on the fact that a contrary Division Bench judgment was stayed. This Court held that the jurisprudence on similar rent control laws (e.g., U.P. Rent Act) indicates that once a rent control statute becomes applicable, civil courts lose jurisdiction to pass eviction decrees, and such decrees, if passed, are unenforceable. The non-obstante clause in Section 18 of the Rajasthan Act supports exclusive Rent Tribunal jurisdiction. However, the Court distinguished pending suits and recognized that the Act does not explicitly bar enforcement of pre-act decrees. Ultimately, the decree passed by the civil court after the Act's applicability was found to be impermissible.",
+  "legal_provisions_cited": [
+    "Section 106 of the Transfer of Property Act, 1882",
+    "Section 1(2) of the Rajasthan Rent Control Act, 2001",
+    "Section 18 of the Rajasthan Rent Control Act, 2001",
+    "Section 32 of the Rajasthan Rent Control Act, 2001",
+    "Om Prakash Gupta v. DIG Vijendrapal Gupta",
+    "Vineet Kumar v. Mangal Sain Wadhera",
+    "K. Ramnarayan Khandelwal v. Shri Pukhraj Banthiya"
+  ],
+  "final_judgment": "Appeal allowed; civil court decree for possession set aside, as enforcement is barred after the Rajasthan Rent Control Act, 2001 became applicable; matter remanded for proceedings before the Rent Tribunal."
+}

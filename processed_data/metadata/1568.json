@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 197 of 2022 (Arising out of SLP(C) No. 18338/2021)",
+  "parties": {
+    "petitioner": "Union of India",
+    "respondent": "Alapan Bandyopadhyay"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-06",
+  "summary": "The central issue was whether the Calcutta High Court had jurisdiction to review an order transferring an Original Application from the Kolkata Bench to the Principal Bench of the Central Administrative Tribunal under Section 25 of the Administrative Tribunals Act, 1985. The Supreme Court examined whether the cause of action for filing the original application determines jurisdiction for challenging a transfer order. It emphasized that jurisdiction for challenging a transfer order lies with the High Court within whose territorial jurisdiction the transferee Bench (here, Principal Bench at New Delhi) is located. The Court noted the distinction between cause of action for the original application and for the transfer order, and held that the Calcutta High Court lacked jurisdiction to entertain the challenge.",
+  "legal_provisions_cited": [
+    "Section 25, Administrative Tribunals Act, 1985",
+    "Rule 6, Central Administrative Tribunal (Procedure) Rules, 1987",
+    "Section 19, Administrative Tribunals Act, 1985",
+    "Article 226/227 of the Constitution of India",
+    "L. Chandra Kumar vs. Union of India, (1997) 3 SCC 261",
+    "Union of India vs. A. Shainamol, IAS and Anr., (2021) SCC Online SC 962"
+  ],
+  "final_judgment": "The appeal was allowed, and the judgment of the Calcutta High Court was set aside on the ground of lack of jurisdiction to review the transfer order passed by the Chairman of the Central Administrative Tribunal at New Delhi."
+}

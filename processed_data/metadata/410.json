@@ -1,0 +1,22 @@
+{
+  "case_number": "2024 INSC 438; CRIMINAL APPEAL NO(S). 513, 2437, 13404, 16310 OF 2023",
+  "parties": {
+    "petitioner": "Ajwar",
+    "respondent": "Waseem, Nazim, Aslam, Abubakar and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-05-17",
+  "summary": "Criminal appeals against High Court bail grants to accused in multiple cases; charges include murder, attempt to murder, rioting under IPC s.302, 307, 147, 148, 34; bail orders upheld in HC despite cancellation of co-accused's bail; trial evidence includes eyewitness accounts; bail rescinded on parity grounds; orders set aside for inconsistent reasoning.",
+  "legal_provisions_cited": [
+    "Indian Penal Code, 1860 s.302",
+    "Indian Penal Code, 1860 s.307",
+    "Indian Penal Code, 1860 s.147",
+    "Indian Penal Code, 1860 s.148",
+    "Indian Penal Code, 1860 s.149",
+    "Indian Penal Code, 1860 s.352",
+    "Indian Penal Code, 1860 s.504",
+    "Indian Penal Code, 1860 s.34",
+    "Code of Criminal Procedure, 1973 s.439"
+  ],
+  "final_judgment": "Appeals allowed; High Court bail orders quashed; accused remand maintained pending trial."
+}

@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal Nos. 5755-5756 of 2011",
+  "parties": {
+    "petitioner": "Moreshar Yadaorao Mahajan",
+    "respondent": "Vyankatesh Sitaram Bhedi (D) Thr. Lrs. and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-27",
+  "summary": "The appeals challenged the Bombay High Court's partial allowance of a second appeal in a suit for specific performance of a property sale agreement. The trial and appellate courts had upheld the plaintiff's suit, finding the defendant bound to execute the sale deed. The High Court, however, denied specific performance due to non-joinder of necessary parties—defendant's wife and sons—finding the property to be joint family property. The plaintiff contended that concurrent findings established the property as the defendant's exclusive asset and that the transaction satisfied legal necessity, making joinder unnecessary. The respondents argued that as the suit property was jointly owned, non-joinder invalidated the decree. The Supreme Court examined pleadings, noting the plaintiff’s admission in the plaint that the defendant was part of a joint Hindu family and that the property was jointly held, supporting the necessity of joinder. The trial court incorrectly held the defendant to be the absolute owner, while the appellate court, though correcting this, erroneously concluded that joinder was unnecessary. The Supreme Court emphasized that in the absence of necessary parties, no effective decree can be passed, citing principles from Kasturi and Mumbai International Airport cases.",
+  "legal_provisions_cited": [
+    "Kasturi v. Iyyamperumal and Others (2005) 6 SCC 733",
+    "Mumbai International Airport Private Limited v. Regency Convention Centre and Hotels Private Limited and Others (2010) 7 SCC 417",
+    "Poonam v. State of Uttar Pradesh and Others (2016) 2 SCC 779"
+  ],
+  "final_judgment": "The appeals were dismissed, affirming the High Court’s decision that the suit was not maintainable due to non-joinder of necessary parties (defendant's wife and sons), and that no effective decree could be passed in their absence."
+}

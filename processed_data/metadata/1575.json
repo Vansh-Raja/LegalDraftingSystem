@@ -1,0 +1,22 @@
+{
+  "case_number": "Civil Appeal No. 1390 of 2022",
+  "parties": {
+    "petitioner": "Union of India & Anr.",
+    "respondent": "M/s Mohit Minerals Pvt. Ltd. Through Director"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-19",
+  "summary": "The case concerns the constitutionality of two GST notifications levying Integrated Goods and Services Tax (IGST) on ocean freight in CIF imports. The key issues include whether IGST on ocean freight results in double taxation with customs duty, whether the import of goods via CIF constitutes an inter-state supply under the IGST Act, and whether the notifications amount to excessive delegation. The court examined the statutory framework of IGST, the role of the GST Council, and the nature of reverse charge mechanism. It held that the levy of IGST on ocean freight for CIF imports does not violate constitutional provisions or result in double taxation, as IGST and customs duty are levied on different aspects of the transaction—service and goods, respectively. The notifications were upheld as intra vires and valid.",
+  "legal_provisions_cited": [
+    "Section 5(1), IGST Act",
+    "Section 5(3), IGST Act",
+    "Section 5(4), IGST Act",
+    "Section 11, IGST Act",
+    "Section 13(9), IGST Act",
+    "Section 2(26), Customs Act 1962",
+    "Customs Tariff Act 1975",
+    "Notification No. 8/2017-Integrated Tax (Rate)",
+    "Notification No. 10/2017-Integrated Tax"
+  ],
+  "final_judgment": "Appeal allowed in part; impugned notifications upheld as constitutional and intra vires; levy of IGST on ocean freight in CIF imports valid and not liable to be struck down."
+}

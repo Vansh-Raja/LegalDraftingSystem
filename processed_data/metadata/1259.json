@@ -1,0 +1,22 @@
+{
+  "case_number": "Criminal Appeal No. 861 of 2022 (arising out of S.L.P (Crl.) No. 9655 of 2021)",
+  "parties": {
+    "petitioner": "Deepak Yadav",
+    "respondent": "State of U.P. & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-20",
+  "summary": "Appeal challenging the Allahabad High Court's grant of bail to Respondent No. 2 (Harjeet Yadav) in a murder case under Sections 302 and 34 IPC. The High Court granted bail primarily on grounds of parity, citing the release of a co-accused. The appellant contended bail was granted without hearing the prosecution, that the accused had criminal antecedents, and that the deceased identified him before death. The Supreme Court upheld bail, noting the High Court considered factors such as nature of evidence, absence of direct role attribution, and parity with co-accused released on bail, referencing principles from Dataram Singh and Prahlad Singh Bhati.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 34 IPC",
+    "Section 439 CrPC",
+    "Article 21 of the Constitution of India",
+    "Dataram Singh Vs. State of U.P. & Anr",
+    "Prahlad Singh Bhati Vs. NCT of Delhi And Another",
+    "Ramesh Bhavan Rathod Vs. Vishanbhai Hirabhai Makwana(Koli) & Another",
+    "Kalyan Chandra Sarkar Vs. Rajesh Ranjan @ Pappu Yadav and Another",
+    "Babu Singh & Ors. Vs. State of U.P."
+  ],
+  "final_judgment": "Appeal dismissed. Bail granted by the High Court upheld."
+}

@@ -1,0 +1,23 @@
+{
+  "case_number": "Criminal Appeal No.172 of 2023",
+  "parties": {
+    "petitioner": "Ajay Kumar Radheyshyam Goenka",
+    "respondent": "Tourism Finance Corporation of India Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-15",
+  "summary": "The case involved a dispute over the continuation of proceedings under Section 138 of the Negotiable Instruments Act, 1881, following initiation of insolvency proceedings under the Insolvency and Bankruptcy Code, 2016. The appellant, promoter and managing director of Rainbow Papers Ltd., challenged the continuation of criminal proceedings after the company entered insolvency. The respondent, Tourism Finance Corporation, had granted a term loan of Rs. 30 crores, and a post-dated cheque issued for repayment was dishonored due to 'account closed'. Proceedings under Section 138 were initiated, and despite insolvency proceedings classifying the respondent as an unsecured creditor, the appellant sought to quash the criminal case, arguing that resolution or liquidation under IBC extinguished the basis for prosecution. The Supreme Court held that Section 138 proceedings are penal in nature, not civil or compensatory recovery actions, and thus not stayed under Section 14 of the IBC. The court emphasized that criminal liability under the NI Act is distinct from financial debt resolution and can proceed independently, especially against directors who are signatories to cheques. The challenge to the High Court's dismissal of the revision petition was rejected.",
+  "legal_provisions_cited": [
+    "Section 138, Negotiable Instruments Act, 1881",
+    "Section 141, Negotiable Instruments Act, 1881",
+    "Section 142, Negotiable Instruments Act, 1881",
+    "Section 14, Insolvency and Bankruptcy Code, 2016",
+    "Section 3(30), Insolvency and Bankruptcy Code, 2016",
+    "Section 3(31), Insolvency and Bankruptcy Code, 2016",
+    "Section 31, Insolvency and Bankruptcy Code, 2016",
+    "Section 53, Insolvency and Bankruptcy Code, 2016",
+    "Section 38 to 41, Insolvency and Bankruptcy Code, 2016",
+    "Shah Brothers Ispat Pvt. Ltd. Vs P. Mohan Raj & Ors, Company Appeal (AT) Insolvency No.306 of 2018"
+  ],
+  "final_judgment": "Appeal dismissed. The criminal proceedings under Section 138 of the Negotiable Instruments Act, 1881, against the appellant are held to be maintainable and not barred by the pendency of insolvency proceedings under the Insolvency and Bankruptcy Code, 2016."
+}

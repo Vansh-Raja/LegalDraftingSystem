@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 266 of 2022",
+  "parties": {
+    "petitioner": "Haryana Tourism Limited",
+    "respondent": "M/s Kandhari Beverages Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-11",
+  "summary": "The appellant challenged the High Court's decision to set aside an arbitral award and the lower court's order upholding it. The Supreme Court found that the High Court erroneously entered into the merits of the dispute under Section 37 of the Arbitration and Conciliation Act, 1996, exceeding its limited appellate jurisdiction. It held that awards can only be set aside on grounds such as being against public policy, patent illegality, or contrary to fundamental policy of Indian law—none of which applied. The objection to the arbitrator's jurisdiction was previously dismissed and could not be re-agitated. The appeal succeeded.",
+  "legal_provisions_cited": [
+    "Section 34",
+    "Section 37",
+    "Section 16",
+    "Arbitration and Conciliation Act, 1996"
+  ],
+  "final_judgment": "The appeal is allowed. The impugned judgment of the High Court is quashed and set aside. The arbitral award and the order of the Additional District Judge under Section 34 are restored."
+}

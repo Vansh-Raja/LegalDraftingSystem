@@ -1,0 +1,27 @@
+{
+  "case_number": "Criminal Appeal Nos. 1864-1865 of 2010",
+  "parties": {
+    "petitioner": "Gireesan Nair & Ors.",
+    "respondent": "State of Kerala"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-11-11",
+  "summary": "Appeals challenged the Kerala High Court's affirmation of convictions under IPC Sections 143, 147, 148, and Section 3(2)(e) of the Prevention of Damages to Public Property Act, read with Section 149 IPC, for a 2000 protest-turned-violence causing damage to 81 KSRTC buses and the death of a bus conductor, Rajesh. Central issues included the validity of Test Identification Parades (TIPs), allegations of police manipulation (pre-TIP exposure, photography, video-graphing, witness coordination during remand), and sufficiency of evidence for conspiracy and murder. The prosecution relied on witness testimony, including PW-68 for conspiracy, who was later disbelieved by the High Court. The Sessions Court convicted several accused, but the High Court acquitted Accused Nos. 1-2 and 25-33 of conspiracy due to lack of reliable evidence. The Supreme Court examined TIP procedures and evidentiary reliability.",
+  "legal_provisions_cited": [
+    "Section 143 IPC",
+    "Section 147 IPC",
+    "Section 148 IPC",
+    "Section 149 IPC",
+    "Section 302 IPC",
+    "Section 307 IPC",
+    "Section 120B IPC",
+    "Section 324 IPC",
+    "Section 427 IPC",
+    "Section 506 IPC",
+    "Section 109 IPC",
+    "Section 111 IPC",
+    "Section 3(2)(e) Prevention of Damages to Public Property Act, 1984",
+    "Section 3 and 5 Explosive Substances Act, 1908"
+  ],
+  "final_judgment": "The Supreme Court set aside the High Court's acquittal of Accused Nos. 1-2 and 25-33, restoring their conviction under Section 120B IPC r/w Section 3(2)(e) of the PDPP Act, Sections 109 and 111 IPC, after finding the Test Identification Parades valid and the evidence sufficient to support the conspiracy charge. The appeals were partly allowed, and the conviction and sentence of four years' rigorous imprisonment were upheld."
+}

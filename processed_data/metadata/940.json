@@ -1,0 +1,21 @@
+{
+  "case_number": "CIVIL APPEAL NO. 3704 OF 2012",
+  "parties": {
+    "petitioner": "K.L. Swamy",
+    "respondent": "The Commissioner of Income Tax & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-13",
+  "summary": "The case involved the levy of interest under Section 158BFA(1) and surcharge under Section 113 of the Income Tax Act in the context of a block assessment initiated under Section 158BD. The appellant contested the imposition of interest, arguing that no notice under Section 158BC was issued prior to the 2002 amendment, making Section 158BFA(1) inapplicable. The ITAT ruled in favor of the assessee, but the High Court reversed, holding that the procedural requirements under Chapter XIV-B were inherent in Section 158BD even before the amendment. The Supreme Court considered whether Section 158BFA(1) applies absent a Section 158BC notice and whether the amendment had retrospective effect. Reliance was placed on precedents emphasizing that jurisdictional requirements like issuance of notice cannot be bypassed and that amendments are presumed prospective. Issue of surcharge was upheld per Suresh N. Gupta precedent.",
+  "legal_provisions_cited": [
+    "Section 158BFA(1) of the Income Tax Act",
+    "Section 158BD of the Income Tax Act",
+    "Section 140A of the Income Tax Act",
+    "Section 113 of the Income Tax Act",
+    "Mathuram Agrawal Vs. State of Madhya Pradesh, (1999) 8 SCC 667",
+    "Commissioner of Income Tax (Central)-I, New Delhi Vs. Vatika Township Private Limited, 2015 (1) SCC 1",
+    "Assistant Commissioner of Income Tax and Anr. Vs. Hotel Blue Moon, (2010) 3 SCC 259",
+    "Commissioner of Income Tax vs. Suresh N. Gupta – (2008) 297 ITR 322 (SC)"
+  ],
+  "final_judgment": "The appeals were allowed, and the impugned judgment of the High Court was set aside. The decision of the ITAT in favor of the assessee was restored, holding that interest under Section 158BFA(1) cannot be levied when no notice under Section 158BC was issued prior to the amendment by Finance Act, 2002. The requirement of a notice under Section 158BC is a jurisdictional prerequisite, and the amendment was prospective. The levy of interest was therefore invalid. The question regarding surcharge under Section 113 was answered in favor of the revenue."
+}

@@ -1,0 +1,25 @@
+{
+  "case_number": "Civil Appeal No. 5428 of 2012",
+  "parties": {
+    "petitioner": "Central Industrial Security Force",
+    "respondent": "Hc(Gd) Om Prakash"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-04",
+  "summary": "The appeal challenged the Delhi High Court's decision to set aside the premature retirement of Head Constable Om Prakash under Rule 56(j) of the Fundamental Rules and Rule 48(1)(b) of CCS (Pension) Rules, 1972. The High Court had held that penalties prior to promotion in 2000 and uncommunicated ACRs could not be considered. The Supreme Court held that adverse entries, even if uncommunicated or predating promotion, are relevant when assessing retention in service. Reliance was placed on settled precedent that compulsory retirement is not punitive, requires no speaking order, and is subject only to judicial review for mala fides, arbitrariness, or perversity. The High Court was found to have erred in disregarding the entire service record, including post-promotion penalties and uncommunicated ACRs.",
+  "legal_provisions_cited": [
+    "Rule 56(j) of the Fundamental Rules",
+    "Rule 48(1)(b) of CCS (Pension) Rules, 1972",
+    "Baikuntha Nath Das and Another v. Chief District Medical Officer, Baripada and Another (1992) 2 SCC 299",
+    "Union of India v. M. E. Reddy and Another (1980) 2 SCC 15",
+    "Posts and Telegraphs Board and Others v. C.S.N. Murthy (1992) 2 SCC 317",
+    "Union of India and Others v. Dulal Dutt (1993) 2 SCC 179",
+    "Secretary to the Government and Another v. Nityananda Pati (1993) Supp 2 SCC 391",
+    "Union of India v. V.P. Seth and Another (1994) SCC (L&S) 1052",
+    "State of Punjab v. Gurdas Singh (1998) 4 SCC 92",
+    "State of U.P. and Others v. Raj Kishore Goel (2001) 10 SCC 183",
+    "Rajasthan State Road Transport Corporation and Others v. Babu Lal Jangir (2013) 10 SCC 551",
+    "Pyare Mohan Lal v. State of Jharkhand and Others (2010) 10 SCC 693"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, set aside the High Court's order, and restored the order of premature retirement of the respondent."
+}

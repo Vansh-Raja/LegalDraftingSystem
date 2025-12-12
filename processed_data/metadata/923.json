@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 8460/2022 (@SLP(C) No.32002 of 2018)",
+  "parties": {
+    "petitioner": "Indian Railway Construction Company Limited",
+    "respondent": "M/s National Buildings Construction Corporation Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-17",
+  "summary": "Dispute arises from termination of construction contract and enforcement of security deposits and interest on advances. Arbitral Tribunal upheld termination under Clause 17.4 and awarded interest at 18% on special advance and hypothecation advances. High Court (Single Judge) set aside the award on grounds that termination under Clause 60.1 was unjustified and no contractual basis for 18% interest; Division Bench partly reversed, allowing interest on special advance. Supreme Court examines whether arbitration award can be upheld on alternate grounds (Clause 17.4) despite flawed invocation of Clause 60.1, and whether arbitrator had power to award interest in absence of express clause. Issue centers on finality of findings and scope of judicial review under Section 34 and 37 of Arbitration Act.",
+  "legal_provisions_cited": [
+    "Section 34, Arbitration and Conciliation Act, 1996",
+    "Section 37, Arbitration and Conciliation Act, 1996",
+    "Article 136 of the Constitution of India",
+    "Raveechee and Company vs. Union of India, (2018) 7 SCC 664"
+  ],
+  "final_judgment": "Appeal allowed in part; Arbitral award on interest on special advance at 18% upheld, but termination justification under Clause 17.4 not sustained; rest of High Court's decision affirmed."
+}

@@ -1,0 +1,18 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 301 OF 2022 (Arising out of SLP (Crl. No.) 5122 of 2019)",
+  "parties": {
+    "petitioner": "Amritlal",
+    "respondent": "Shantilal Soni & ORS."
+  },
+  "court_name": "SUPREME COURT OF INDIA",
+  "date_of_judgment": "2022-02-28",
+  "summary": "High Court quashed criminal proceedings for offences under Sections 406/34/120B IPC due to limitation bar based on cognizance date. Supreme Court reversed, holding limitation under Section 468 CrPC starts from complaint filing date (10.07.2012), not cognizance date (04.12.2012). Relied on Constitution Bench decision in Sarah Mathew (2014) confirming relevant date as date of prosecution institution. Rejected arguments for reconsideration of precedent.",
+  "legal_provisions_cited": [
+    "Section 468 CrPC",
+    "Section 482 CrPC",
+    "Section 406 IPC",
+    "Section 34 IPC",
+    "Section 120B IPC"
+  ],
+  "final_judgment": "Appeal allowed; High Court's order quashing proceedings set aside; trial court directed to proceed expeditiously with coercive measures for future delays."
+}

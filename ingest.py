@@ -3,6 +3,7 @@ Data ingestion module for the Legal Drafting System.
 Processes text files and metadata, then ingests them into the PGVector database.
 """
 
+import os
 from rag import load_and_chunk_cases, ingest_chunks_to_pgvector_batched, get_vectorstore, upsert_all_case_summaries_from_metadata
 from pathlib import Path
 import json
@@ -37,6 +38,19 @@ def run_ingest(batch_size: int = 128) -> None:
     Args:
         batch_size (int): Number of chunks to process in each batch
     """
+    # Prompt for embedding provider/model
+    print("Select embedding backend:")
+    print("  [1] OpenAI (text-embedding-3-small)")
+    print("  [2] Ollama local (nomic-embed-text:latest) [default]")
+    choice = input("Enter choice [1-2, default 2]: ").strip()
+    if choice == "1":
+        embedding_provider = "openai"
+        embedding_model = os.getenv("OPENAI_EMBED_MODEL", "text-embedding-3-small")
+    else:
+        embedding_provider = "ollama"
+        embedding_model = os.getenv("OLLAMA_EMBED_MODEL", "nomic-embed-text:latest")
+    print(f"Using embeddings: provider={embedding_provider}, model={embedding_model}")
+
     # Step 1: Find all documents that have metadata
     stems = _list_stems_with_metadata("processed_data/metadata")
     if not stems:
@@ -69,7 +83,7 @@ def run_ingest(batch_size: int = 128) -> None:
 
     # Step 3: Check for existing embeddings to avoid duplicates
     print("Checking for existing embeddings...")
-    vs = get_vectorstore()
+    vs = get_vectorstore(embedding_model=embedding_model, embedding_provider=embedding_provider)
     existing = set()
     try:
         # Query existing embeddings by file stem
@@ -100,7 +114,12 @@ def run_ingest(batch_size: int = 128) -> None:
 
     # Step 5: Ingest new chunks in batches
     print(f"Ingesting {len(new_chunks)} chunks in batches of {batch_size}...")
-    vs2 = ingest_chunks_to_pgvector_batched(new_chunks, batch_size=batch_size)
+    vs2 = ingest_chunks_to_pgvector_batched(
+        new_chunks,
+        batch_size=batch_size,
+        embedding_model=embedding_model,
+        embedding_provider=embedding_provider,
+    )
     if vs2 is None:
         print("No non-empty chunks to ingest.")
     else:

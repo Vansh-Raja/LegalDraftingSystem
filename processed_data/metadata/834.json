@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal Nos. of 2023 (@ SLP(C) Nos. 32592-32593 of 2015) with TC (C) No. 25 of 2018 and TC (C) No. 24 of 2018",
+  "parties": {
+    "petitioner": "Baharul Islam & Ors.",
+    "respondent": "The Indian Medical Association and Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-24",
+  "summary": "The case involved a challenge to the constitutional validity of the Assam Rural Health Regulatory Authority Act, 2004, which established a diploma course for rural healthcare practitioners. The Gauhati High Court struck down the Act on grounds of repugnancy with the Indian Medical Council Act, 1956, particularly Section 10A, holding that the State lacked legislative competence to introduce a new medical course without Central permission. The Supreme Court considered issues of legislative competence under Entries 66 (List I) and 25 (List III) of the Seventh Schedule, and whether the diploma course conferred a 'recognised medical qualification'. The appellants, diploma students admitted during litigation, argued that the Act did not conflict with the Central Act as the diploma was not a recognised medical qualification under Section 2(h) of the IMC Act. The Court examined the doctrine of repugnancy under Article 254 and the scope of State power in health regulation, especially in rural areas.",
+  "legal_provisions_cited": [
+    "Article 246, Constitution of India",
+    "Article 254, Constitution of India",
+    "Entry 66, List I, Seventh Schedule",
+    "Entry 25, List III, Seventh Schedule",
+    "Section 10A, Indian Medical Council Act, 1956",
+    "Section 2(h), Indian Medical Council Act, 1956",
+    "Dr. Mukhtiar Chand vs. State of Punjab, (1998) 7 SCC 579"
+  ],
+  "final_judgment": "Leave granted; matters heard together and disposed of in a common judgment, with the Court examining the constitutional validity and legislative competence concerning the Assam Act and related enactments."
+}

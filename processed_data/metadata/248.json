@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 7964 of 2019, Civil Appeal No. 7965 of 2019, Civil Appeal No. 7966 of 2019",
+  "parties": {
+    "petitioner": "Ramayana Ispat Pvt. Ltd. and Anr.",
+    "respondent": "State of Rajasthan & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-04-01",
+  "summary": "The appeals challenge the Rajasthan Electricity Regulatory Commission (Terms and Conditions for Open Access) Regulations, 2016, which impose restrictions on open access for captive power plants and large consumers. Key issues include whether RERC has jurisdiction to regulate inter-state open access (an exclusive CERC domain), whether penalties on drawal deviations unreasonably restrict statutory open access rights under Section 42 of the Electricity Act, 2003, and whether regulations like 24-hour advance scheduling and contracted demand reduction are arbitrary or ultra vires. The High Court upheld the regulations for grid stability and non-discrimination; appellants argue they undermine open access, discourage captive generation, and exceed RERC’s jurisdiction.",
+  "legal_provisions_cited": [
+    "Section 42, Electricity Act, 2003",
+    "Section 181, Electricity Act, 2003",
+    "Rajasthan Electricity Regulatory Commission (Terms and Conditions for Open Access) Regulations, 2016",
+    "Rajasthan Electricity Regulatory Commission (Terms and Conditions for Open Access) Regulations, 2004"
+  ],
+  "final_judgment": "Pending determination by the Supreme Court on whether the impugned regulations are ultra vires, discriminatory, or beyond RERC's jurisdiction, particularly concerning inter-state open access and restrictions on captive power plants."
+}

@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 11826 of 2018",
+  "parties": {
+    "petitioner": "Haryana Power Purchase Centre",
+    "respondent": "Sasan Power Ltd & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-06",
+  "summary": "The appeals were filed under Section 125 of the Electricity Act, 2003, challenging the Appellate Tribunal for Electricity's order, which had allowed an appeal by Sasan Power Ltd against a Central Electricity Regulatory Commission decision. The case involved interpretation of bidding guidelines issued under Section 63 of the Act for long-term power procurement, particularly amendments to guidelines 4.7 and 5.17 relating to change in law and dispute resolution. Key issues included whether disputes over tariff adjustments due to changes in law fall under regulatory jurisdiction or arbitration, and the validity of the Commission’s exercise of power under Section 79(b). The Court examined the RFP and guidelines to determine the intent behind dispute resolution mechanisms and held on the primacy of regulatory adjudication for tariff-related disputes arising from changes in law.",
+  "legal_provisions_cited": [
+    "Section 125, Electricity Act, 2003",
+    "Section 111, Electricity Act, 2003",
+    "Section 79(b), Electricity Act, 2003",
+    "Section 63, Electricity Act, 2003",
+    "Indian Arbitration and Conciliation Act, 1996",
+    "Guidelines for procurement of electricity by distribution licensees (2005 and amended 2006)"
+  ],
+  "final_judgment": "The appeals were disposed of, upholding the jurisdiction of the Appropriate Commission to decide disputes relating to change in law affecting tariff, while other disputes remain subject to arbitration."
+}

@@ -1,0 +1,18 @@
+{
+  "case_number": "Arbitration Petition (Civil) No. 12 of 2019",
+  "parties": {
+    "petitioner": "Intercontinental Hotels Group (India) Pvt. Ltd. & Anr.",
+    "respondent": "Waterline Hotels Pvt. Ltd"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-25",
+  "summary": "The petitioners sought appointment of a sole arbitrator under Section 11(6) r/w 11(12)(a) of the Arbitration & Conciliation Act, 1996, pursuant to a dispute arising from a Hotel Management Agreement (HMA). The respondent allegedly defaulted on payment of fees and unilaterally terminated the HMA. The petitioners invoked arbitration under Clause 18.2 of the HMA, which provided for SIAC rules and arbitration in Bengaluru. The respondent challenged the validity of the arbitration notice, claiming the HMA was unstamped and unenforceable. Relying on Garware Wall Ropes, the respondent argued that an unstamped agreement cannot support arbitration. The petitioners subsequently paid the requisite stamp duty and penalty under the Karnataka Stamp Act, 1957, to cure the defect. The Court considered whether the defect in stamping had been cured and whether the arbitration clause was enforceable.",
+  "legal_provisions_cited": [
+    "Section 11(6) r/w 11(12)(a), Arbitration & Conciliation Act, 1996",
+    "Rule 32.9, SIAC Rules",
+    "Section 2(6), Indian Stamp Act, 1899",
+    "Karnataka Stamp Act, 1957, Article 5(j) and Section 34",
+    "Garware Wall Ropes Ltd. v. Coastal Marine Constructions and Engineering Ltd., (2019) 9 SCC 209"
+  ],
+  "final_judgment": "The Court held that the petitioners had cured the defect of non-stamping by paying the applicable stamp duty and penalty; therefore, the arbitration agreement could be acted upon. The petition was allowed, and the Court proceeded to appoint a sole arbitrator as sought under Section 11 of the Arbitration Act."
+}

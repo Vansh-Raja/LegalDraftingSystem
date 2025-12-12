@@ -1,0 +1,30 @@
+{
+  "case_number": "Civil Appeal No. 1217 of 2022",
+  "parties": {
+    "petitioner": "Mahindra and Mahindra Financial Services Ltd.",
+    "respondent": "State of U.P. and Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-22",
+  "summary": "The case involved a dispute over the liability of a financier-in-possession of a transport vehicle to pay tax under the U.P. Motor Vehicles Taxation Act, 1997. The appellant, a financier, argued that tax liability arises only upon use of the vehicle, which it could not operate without registration and permit. The High Court held the financier liable as an 'owner' under the Act. The Supreme Court examined whether possession alone triggers tax liability under Sections 4(2-A), 9, 12, and 20 of the 1997 Act, and relevant provisions of the Motor Vehicles Act, 1988. It considered whether use is a precondition for tax and whether a financier can claim refund if no use occurs. Reliance was placed on State of Maharashtra v. Sundaram Finance and Jagir Singh v. State of Bihar.",
+  "legal_provisions_cited": [
+    "U.P. Motor Vehicles Taxation Act, 1997, Section 2(g)",
+    "U.P. Motor Vehicles Taxation Act, 1997, Section 2(h)",
+    "U.P. Motor Vehicles Taxation Act, 1997, Section 4",
+    "U.P. Motor Vehicles Taxation Act, 1997, Section 4(2-A)",
+    "U.P. Motor Vehicles Taxation Act, 1997, Section 6",
+    "U.P. Motor Vehicles Taxation Act, 1997, Section 9",
+    "U.P. Motor Vehicles Taxation Act, 1997, Section 12",
+    "U.P. Motor Vehicles Taxation Act, 1997, Section 13",
+    "U.P. Motor Vehicles Taxation Act, 1997, Section 14",
+    "U.P. Motor Vehicles Taxation Act, 1997, Section 20",
+    "Motor Vehicles Act, 1988, Section 39",
+    "Motor Vehicles Act, 1988, Section 50",
+    "Motor Vehicles Act, 1988, Section 51",
+    "Motor Vehicles Act, 1988, Section 2(30)",
+    "State of Maharashtra and Ors. v. Sundaram Finance and Ors., (1999) 9 SCC 1",
+    "Jagir Singh and Ors. v. State of Bihar and Ors., (1976) 2 SCC 942",
+    "Abdul Samad Abdul Hamid Shaikh v. State of Gujarat, Special Civil Application No.5788 of 2012"
+  ],
+  "final_judgment": "The appeal was allowed. The Supreme Court held that a financier-in-possession of a transport vehicle is not liable to pay tax under the U.P. Motor Vehicles Taxation Act, 1997 unless the vehicle is actually put to use, as tax liability is contingent upon use. The impugned judgment of the Allahabad High Court was set aside."
+}

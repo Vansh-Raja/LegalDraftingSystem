@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 4956 of 2022",
+  "parties": {
+    "petitioner": "The State of Maharashtra and Others",
+    "respondent": "Greatship (India) Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-20",
+  "summary": "The appeal challenged the Bombay High Court's decision to entertain a writ petition under Article 226 and quash an assessment order passed under the MVAT Act and CST Act, despite the availability of statutory appellate remedies. The Supreme Court held that the High Court should not have entertained the writ petition bypassing statutory appeals, especially when disputed factual issues (such as date of order) existed. It emphasized that Article 226 cannot be used to circumvent statutory mechanisms unless exceptional circumstances exist, which were absent here.",
+  "legal_provisions_cited": [
+    "Article 226 of the Constitution of India",
+    "Titaghur Paper Mills Co. Ltd. v. State of Orissa (1983) 2 SCC 433",
+    "Punjab National Bank v. O.C. Krishnan (2001) 6 SCC 569",
+    "United Bank of India v. Satyawati Tondon and others (2010) 8 SCC 110",
+    "M/s Filterco & Another v. Commissioner of Sales Tax, Madhya Pradesh and Another, (1986) 2 SCC 103",
+    "Assistant Commissioner (CT) LTU & Another v. Amara Raja Batteries Limited, (2009) 8 SCC 209",
+    "Whirlpool Corporation v. Registrar of Trademarks, Mumbai, (1998) 8 SCC 1"
+  ],
+  "final_judgment": "Appeal allowed. The impugned judgment of the Bombay High Court setting aside the assessment order is set aside. The respondent is directed to file an appeal before the first appellate authority within eight weeks, if so advised."
+}

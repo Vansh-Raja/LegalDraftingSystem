@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 5933 of 2021",
+  "parties": {
+    "petitioner": "Bhadar Ram (D) Thr. Lrs.",
+    "respondent": "Jassa Ram & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-05",
+  "summary": "The dispute concerns the validity of a 1972 sale deed of Scheduled Caste allotted land in Rajasthan, allegedly executed fraudulently by a non-SC individual in favor of Bhadar Ram, an SC resident of Punjab. The trial court and Revenue Appellate Tribunal invalidated the sale for violating Section 13, Rajasthan Colonization Act, 1954, and Section 42, Rajasthan Tenancy Act, 1955. The Board of Revenue later allowed compounding. The High Court Division Bench set aside the Single Judge’s order upholding compounding, ruling Bhadar Ram could not claim SC benefits in Rajasthan as a Punjab resident. The appeal challenged this, arguing his ancestral roots in Rajasthan and lawful purchase. Respondent contended that inter-state SC status is not transferable per precedent. The Supreme Court examined whether a person can claim SC status in their home state after residing elsewhere and application of compounding under Section 13A.",
+  "legal_provisions_cited": [
+    "Section 13, Rajasthan Colonization Act, 1954",
+    "Section 13A, Rajasthan Colonization Act, 1954",
+    "Section 42, Rajasthan Tenancy Act, 1955",
+    "Section 20(1), Representation of People Act, 1950",
+    "Action Committee on Issue of Caste Certificate to Scheduled Castes and Scheduled Tribes in the State of Maharashtra and Another Vs. Union of India and Another, (1994) 5 SCC 244",
+    "Ranjana Kumari Vs. State of Uttarakhand & Ors.",
+    "Marri Chandra Shekar Rao Vs. Dean, Geth G.S. Medical College and Others, (1990) 3 SCC 130",
+    "Bir Singh Vs. Delhi Jal Board, (2018) 10 SCC 312"
+  ],
+  "final_judgment": "Appeal dismissed"
+}

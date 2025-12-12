@@ -1,0 +1,723 @@
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January,
+2023
+
+Bench: Pamidighantam Sri Narasimha, A.S. Bopanna
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL No. 2030 of 2019
+
+IFB AGRO INDUSTRIES LIMITED                                    ....APPELLANT(S)
+
+VERSUS
+
+SICGIL INDIA LIMITED AND OTHERS                              ....RESPONDENT(S)
+
+JUDGMENT
+
+PAMIDIGHANTAM SRI NARASIMHA, J.
+
+1. The short question for our consideration in this appeal relates to the scope of the rectificatory
+jurisdiction of the National Company Law Tribunal under Section 59 of the Companies Act, 20131.
+In this context, we are called upon to determine the appropriate forum for adjudication and
+determination of violations of the Securities and Exchange Board of India (Substantial Acquisition
+of Shares and Takeover) Regulations, 19972, and Securities and Exchange Board of India
+(Prohibition of Insider 1 hereinafter referred to as the ‘2013 Act’.
+
+2 hereinafter referred to as the ‘SEBI (SAST) Regulations’ Trading) Regulations, 19923, framed
+under the Securities and Exchange Board of India Act, 19924. We have answered both the questions.
+On the first issue, following the decision of this Court in Ammonia Supplies Corporation (P) Ltd. v.
+Modern Plastic Containers Pvt. Ltd. & Ors.5, we have held that the rectificatory jurisdiction under
+Section 59 of the 2013 Act is summary in nature and not intended to be exercised where there are
+contested facts and disputed questions. On the second issue, we have held that transactions falling
+within the jurisdiction of Regulatory bodies created under a statute must necessarily be subjected to
+their ex- ante scrutiny, enquiry and adjudication. We have, therefore, rejected the contention that
+the National Company Law Tribunal under Section 59 exercises a parallel jurisdiction with
+Securities and Exchange Board of India6 for addressing violations of the Regulations framed under
+the SEBI Act.
+
+1
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+2. This is an appeal against the judgment of the National Company Law Appellate Tribunal7
+(hereinafter referred to as ‘Appellate Tribunal’) whereby the Appellate Tribunal set aside the 3
+hereinafter referred to as the ‘SEBI (PIT) Regulations’ 4 hereinafter referred to as ‘the SEBI Act’.
+
+5 (1998) 7 SCC 105 6 hereinafter referred to as ‘the SEBI’ or ‘the Board’. 7 Companies Appeal (AT)
+240 of 2017 of the National Company Law Appellate Tribunal dated 06.12.2018 judgment of the
+National Company Law Tribunal (hereinafter referred to as the ‘Tribunal’), allowing the company
+petition filed by the Appellant under Section 111A of the Companies Act, 19568, (which is Section 59
+of the 2013 Act), for rectification of Members Register. The Tribunal while allowing the petition,
+directed the Appellant to buy-back its shares which were held by the Respondents. In appeal, the
+Appellate Tribunal set aside this direction on the ground that the Tribunal exceeded its jurisdiction.
+It is this order of the Appellate Tribunal which is impugned before us.
+
+Relevant Facts:
+
+3. The Appellant herein is a listed company engaged in the manufacture and sale of
+rectified spirit, country liquor, marine products, carbon dioxide gas etc. Respondent
+No. 1 is also a listed company which is engaged in the business of producing carbon
+dioxide gas and dry ice. Respondent No. 2 is the managing director of Respondent
+No. 1, Respondent No. 3 is the wife of Respondent No. 2, and Respondent Nos. 4-6
+are close relatives of Respondent Nos. 2-3.
+
+8 hereinafter referred to as the ‘1956 Act’.
+
+4. It is the contention of the Appellant that sometime in August 2003, Respondent No. 2 came up
+with a proposal for a business tie-up between the Appellant and Respondent No. 1. The Appellant is
+said to have rejected the proposal. It is alleged by the Appellant that after this rejection, the
+Respondents started acquiring shares of the Appellant from the open market with a view to
+eliminate competition and strengthen its own dominant position in the relevant market. As of
+18.01.2004, the Respondents collectively held just under 5% of the Appellant’s total paid-up share
+capital.
+
+5. On 19.01.2004, Respondent No. 1 acquired 600 equity shares of the Appellant and this resulted in
+the aggregate shareholding of the Respondents crossing 5% of the total paid-up share capital of the
+Appellant, thereby triggering Regulation 7(1)9 of the SEBI (SAST) Regulations. Regulation 7(1)
+mandates that when an acquirer, either by himself or with any person acting in concert 9 Regulation
+7(1) – Any acquirer, who acquires shares or voting rights which (taken together with shares or
+voting rights, if any, held by him) would entitle him to more than five per cent or ten per cent or
+fourteen per cent or fifty four per cent or seventy four per cent shares or voting rights in a company,
+in any manner whatsoever, shall disclose at every stage the aggregate of his shareholding or voting
+rights in that company to the company and to the stock exchanges where shares of the target
+company are listed. Regulation 2(b) ― acquirer means any person who, directly or indirectly,
+acquires or agrees to acquire shares or voting rights in the target company, or acquires or agrees to
+acquire control over the target company, either by himself or with any person acting in concert with
+
+2
+
+the acquirer.
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+with the acquirer, acquires 5% or more of the total paid-up share capital of a company, then a
+disclosure has to be made to the acquiree company and the stock exchange. In compliance with this
+Regulation, the Respondents are said to have sent an intimation to the Appellant on the very next
+day i.e., on 20.01.2004. This intimation was received by the Appellant on 22.01.2004. The Appellant
+contends that the disclosure under Regulation 7(1) was not in the prescribed format.
+
+6. Four months later, on 27.05.2004, Respondent No. 1 acquired additional shares of the Appellant,
+as a result whereof, its individual shareholding exceeded 5% of the total paid-up share capital of the
+Appellant. This individual crossing of 5% by Respondent No. 1 triggered the SEBI (PIT) Regulations.
+Regulation 1310 thereof provides that if any person acquires more than 5% shares of a company,
+then it shall make a disclosure to the acquiree Company. Respondent No. 1 admits to having failed
+to make this disclosure within the prescribed time. It is the stand of Respondent No. 1 that the
+failure to issue a notice was not an 10 Regulation 13 – (1) Any person who holds more than 5%
+shares or voting rights in any listed company shall disclose to the company in Form A, the number
+of shares or voting rights held by such person, on becoming such holder, within 2 working days of:
+(a) the receipt of intimation of allotment of shares; or (b) the acquisition of shares or voting rights,
+as the case may be.
+
+intentional mistake. The Appellant claims that it got to know about the said acquisition on
+04.06.2004 when it carried out an internal investigation into the total number of shares held by the
+Respondents in the Appellant company.
+
+Company Petition under Section 111A of the 1956 Act:
+
+7. It is in the above referred factual background that on 19.07.2004, the Appellant
+filed a petition before the Company Law Board11 under Section 111A of the 1956 Act
+praying for rectification of its register by deleting the name of the Respondents as the
+owner of shares which are over and above the 5% threshold.
+
+As of the date of filing of the Section 111A petition, the Respondents collectively held around 8.22%
+of the Appellant’s paid-up share capital.
+
+8. Upon receiving notice of the aforesaid petition, Respondent No. 1, on 16.08.2004, issued an
+intimation to the Appellant as mandated under Regulation 13 of the SEBI (PIT) Regulations. Two
+days later, on 18.08.2004, Respondent No. 1 allegedly sold a few shares of the Appellant and
+brought down its individual shareholding to 4.91%. This fact is contested, as the Appellant claims
+that Respondent No. 1 never reduced its shareholding. On 11 hereinafter referred to as ‘the CLB’.
+
+24.08.2004, Respondent No. 1 also wrote to the SEBI that its individual shareholding in the
+Appellant had crossed 5% on 27.05.2004 and that there was a delay in disclosing this to the
+Appellant. SEBI was informed that the individual shareholding of Respondent No. 1 in the Appellant
+now stands below 5%. It has been submitted before us that SEBI has not taken any regulatory
+
+3
+
+action.
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+9. During the pendency of the petition under Section 111A, the 2013 Act came into force, and the
+matter stood transferred to the Tribunal. The Tribunal framed just one question - Whether the
+acquisition of shares by the Respondents without complying with the statutory provisions of
+disclosure norms under SEBI Regulations is valid?
+
+Judgment of the Tribunal:
+
+10. By its judgment dated 05.07.2017, the Tribunal held that the intimation dated 16.08.2004 is in
+violation of the SEBI (PIT) Regulations since the said declaration had to be filed within four working
+days of the receipt of intimation of allotment of shares or the acquisition of shares or voting rights,
+as the case may be. The Tribunal also held that the term ‘person’ in the SEBI (PIT) Regulations can
+be construed to include all other Respondents, besides Respondent No. 1, as persons acting in
+concert. The reason for this was that the exercise of control in the management of the Appellant
+would be done jointly by all the Respondents. Further, the Tribunal also held that there has been a
+violation of the SEBI (SAST) Regulations as the Respondents did not make the disclosure in the
+proper format.
+
+11. In so far as the exercise of power under Section 111A of the 1956 Act is concerned, the Tribunal
+held that in case of violation of SEBI regulations, Section 111A empowers a company to apply for
+rectification, and in such cases, the Tribunal is entitled to pass an order to undo the mischief. The
+Tribunal opined that the regulatory jurisdiction of SEBI would not bar the Tribunal from exercising
+its power under Section 111A of the 1956 Act. However, the Tribunal held that the powers exercised
+by the CLB and SEBI fall in different and distinct jurisdictional fields and therefore, the present
+order will not preclude SEBI from deciding any violation of its regulations. Allowing the company
+petition, the Tribunal held that the acquisition of shares in excess of 5% was in violation of the SEBI
+(PIT) Regulations and the SEBI (SAST) Regulations. The final order passed by the Tribunal is as
+follows:
+
+“The present Company Petition is allowed. The Respondents having furnished the
+declaration at a later point of time are hereby barred from exercising their rights as to
+the shares acquired by them in the Petitioner Company in excess of 5% the company
+is hereby authorised to buy back the shares that the Respondents hold in excess of 5%
+of the shareholding in the Company at the rate which was prevailing on the date of
+presentation of the Petition or market value, whichever is higher. The Respondents
+are directed to hand over the share certificates and share transfer forms within 30
+days of the order to the Company and in response to that the Petitioner will be liable
+to pay the buyback price which shall be the value of shares which was prevailing on
+the date of presentation of the petition or market value whichever is higher.
+
+It is clear that the power exercised by the Company Law Board and the powers
+exercised by the SEBI fall in different and distinct jurisdictional fields. Therefore, the
+present order shall not preclude the jurisdiction of SEBI as an adjudicating authority
+
+4
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+for deciding on the violation of SEBI Regulations as have been laid down in the
+present petition.” Judgment of the Appellate Tribunal:
+
+12. The Respondents herein carried the matter to the Appellate Tribunal in appeal. The limited
+question before the Appellate Tribunal was whether the Tribunal was empowered to pass an order of
+buyback while entertaining a petition under Section 111A of the 1956 Act. The Appellate Tribunal, by
+its order dated 06.12.2018, allowed the appeal and set aside the order of the Tribunal.
+Unfortunately, there is neither analysis nor any reasoning in the order of the Appellate Tribunal. In
+the normal course, we would have set aside the judgment of the Appellate Tribunal and remanded
+the matter for reconsideration. However, as a period of four years has already lapsed since the
+passing of the impugned order, we considered it appropriate to dispose of the present appeal finally.
+It is in this context that the matter was heard in detail. We will now refer to the submissions made
+by the learned counsel appearing on behalf of the parties. Submissions of the Parties:
+
+13. Mr. P. Chidambaram, learned Senior Advocate on behalf of the Appellant,
+contended that – (i) no timely intimation in the prescribed format was given by the
+Respondents when Regulation 7(1) of the SEBI (SAST) Regulations got triggered; (ii)
+Respondent Nos. 1 – 6, as “connected persons” (as per 2(c) of the SEBI (PIT)
+Regulations) were “acting in concert” (as per 2(e) of the SEBI (SAST) Regulations)
+thereby violating Regulations 13 and 14 of the SEBI (PIT) Regulations. He
+emphasized that the Respondents have admitted to the non-disclosure, and (iii) as
+Securities and Exchange Board of India Act, 199212, must be read in addition to, and
+not in derogation of the Companies Act. The Appellant is entitled to approach the
+Tribunal under Section 111A of the 1956 Act for rectification of the register. In
+support of these submissions, reliance was placed on the decisions of this Court in 12
+hereinafter referred to as ‘the SEBI Act’.
+
+Mannalal Khetan & Ors. v. Kedar Nath Khetan & Ors.13, Chairman, SEBI v. Shriram Mutual Fund &
+Another14.
+
+14. Mr. Shyam Divan, learned Senior Advocate appearing for the Respondents, contended that – (i)
+filing of a petition under Section 111A is an abuse of process; (ii) there is no violation of the SEBI
+(SAST) Regulations as the Respondents had given a timely intimation in the prescribed format; (iii)
+the Section 111A Petition did not allege any violation of the SEBI (SAST) Regulations, and no
+attempt was made to make any amendment to the same; (iv) the SEBI (PIT) Regulations are not
+applicable to Respondent Nos. 2-6 as their individual shareholding never crossed 5%. It was only
+Respondent No. 1 whose shareholding crossed 5%, which it inadvertently failed to disclose; (v) the
+SEBI (PIT) Regulations are not applicable to Respondent Nos. 2-6 as there is no concept of ‘persons
+acting in concert’ under the said Regulations; (vi) under section 111A (3), the Tribunal has no power
+to annul the transfer or to direct the buy-back of the shares.
+
+15. Having heard both sides, we formulate the following questions for our consideration.
+
+5
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+13 (1977) 2 SCC 424 14 (2006) 5 SCC 361 What is the scope and ambit of Section 111A of the 1956
+Act, as amended by Section 59 of the 2013 Act, to rectify the register of members? Which is the
+appropriate forum for adjudication and determination of violations and consequent actions under
+the SEBI (SAST) Regulations 1997 and the SEBI (PIT) Regulations 1992? Re: Interpretation and
+scope of Section 111A of the 1956 Act as replaced by Section 59 of the 2013 Act:
+
+16. The reliefs claimed by the Appellant in its Company Petition under Section 111A of
+the 1956 Act is as under: -
+
+“(a) Declaration that the acquisition of shares of and in the company by the
+Respondent Nos.1 to 6 are illegal, null and void and of no effect;
+
+(b) Necessary directions be given for rectifying the records by deleting the names of
+the Respondents as owners of all shares of and in the company acquired by the
+Respondents;
+
+(c) Permanent injunction restraining the Respondents whether by themselves or
+their servants or agents or assigns or otherwise howsoever from exercising any rights
+or receiving any benefit in respect of the shares held by the Respondents in the
+company in any manner whatsoever;
+
+(d) …….
+
+(e) …….”
+
+17. The declaration to hold the acquisition of shares by the Respondents as null and
+void in a petition under Section 111A has to be examined in the context of the scope
+and ambit of the rectificatory jurisdiction of the Tribunal and, in particular, the
+specific wordings of the said provision.
+
+18. The rectificatory powers of a Board/Company Court under Section 38 of the
+Companies Act, 1913, then under Section 155 of the 1956 Act, followed by Section
+111A introduced by the 1996 Amendment to the 1956 Act, and finally, Section 59 of
+the 2013 Act, demonstrate that its essential ingredients have remained the same. It is
+a summary power to carry out corrections or rectifications in the register of
+members. The rectification must relate to and be confined to the facts that are
+evident and need no serious enquiry. The following is a comparative table indicating
+the legislative changes. For the purpose of the present proceeding, we can confine the
+examination between the 1956 Act with its 1996 amendment and the 2013 Act.
+
+Companies Act, 1956 Companies Act, 1956 Companies Act, 2013 (Section 155). (Section 111A)
+(Section 59)
+
+155. Power of court to 111A. Rectification of Section 59:
+
+6
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+rectify Register of register on transfer. Rectification of register Members (1) In this
+section, unless of members (1) If— the context otherwise 59. (1) If the name of any
+
+(a) the name of any requires, "company" person is, without person— means a
+company other sufficient cause, entered than a company referred to in the register of
+
+(i) is without in sub- section (14) of members of a company, sufficient cause, section
+111 of this Act. or after having been entered in the entered in the register, is, Register
+of without sufficient cause, Members of a (2) Subject to the omitted therefrom, or if a
+company, or provisions of this section, default is made, or
+
+(ii) after having the shares or debentures unnecessary delay takes been entered in the
+and any interest therein of place in entering in the Register, is, a company shall be
+freely register, the fact of any without sufficient transferable: person having become
+or cause, omitted [Provided that if a ceased to be a member, therefrom; or company
+without the person aggrieved, or
+
+(b) default is made, or sufficient cause refuses to any member of the unnecessary
+delay takes register transfer of shares company, or the place, in entering on the
+within two months from company may appeal in Register the fact of any the date on
+which the such form as may be person having become, instrument of transfer or
+prescribed, to the or ceased to be, a the intimation of transfer, Tribunal, or to a
+member:” as the case may be, is competent court outside the person aggrieved, or
+delivered to the company, India, specified by the any member of the the transferee
+may appeal Central Government by company, or the to the [Tribunal] and it
+notification, in respect of company, may apply to shall direct such company foreign
+members or the court for to register the transfer of debenture holders rectification of
+the share]. residing outside India, Register. for rectification of the (3) The [Tribunal]
+may, on register.
+
+an application made by a depository, company, (2) The Tribunal may, participant or investor or
+after hearing the parties the Securities and to the appeal under sub-
+
+Exchange Board of India, section (1) by order, if the transfer of shares or either dismiss the appeal
+debentures is in or direct that the transfer contravention of any of the or transmission shall be
+provisions of the Securities registered by the and Exchange Board of company within a period India
+Act, 1992 (15 of of ten days of the receipt 1992) or regulations made of the order or direct thereunder
+or the Sick rectification of the Industrial Companies records of the depository (Special Provisions)
+Act, or the register and in the 1985 (1 of 1986 ) or any latter case, direct the other law for the time
+company to pay being in force, within two damages, if any, months from the date of sustained by the
+party transfer of any shares or aggrieved.
+
+debentures held by a depository or from the date (3) The provisions of this on which the instrument
+of section shall not restrict transfer or intimation of the right of a holder of the transmission was
+
+7
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+securities, to transfer delivered to the company, such securities and any as the case may be, after
+person acquiring such such inquiry as it thinks fit, securities shall be direct any depository or
+entitled to voting rights company to rectify its unless the voting rights register or records.] have been
+suspended by an order of the Tribunal.
+
+(4) The [Tribunal] while
+acting under sub-section         (4) Where the transfer of
+(3), may at its discretion       securities       is     in
+make such interim order as       contravention of any of
+to suspend the voting            the provisions of the
+rights before making or          Securities       Contracts
+completing such enquiry.         (Regulation) Act, 1956,
+(42 of 1956), the
+(5) The provisions of this       Securities and Exchange
+section shall not restrict       Board of India Act, 1992
+the right of a holder of         (15 of 1992) or this Act
+shares or debentures, to         or any other law for the
+transfer such shares or          time being in force, the
+debentures and any person        Tribunal may, on an
+acquiring such shares or         application made by the
+debentures shall be entitled     depository,      company,
+to voting rights unless the      depository participant,
+voting rights have been          the holder of the
+suspended by an order of         securities      or     the
+the [Tribunal].                  Securities and Exchange
+Board,      direct    any
+(6) Notwithstanding              company or a depository
+anything contained in this       to    set     right    the
+section,    any     further      contravention and rectify
+transfer,    during      the     its register or records
+pendency        of       the     concerned.
+application    with      the
+[Tribunal], of shares or         (5) [***]
+
+debentures shall entitle the 1. Omitted by the transferee to voting rights Companies unless the
+voting rights in (Amendment) Act, 2020, respect of such transferee w.e.f. 21.12.2020[S.O. have been
+suspended. 4646(E) dated 21.12.2020], the sub-
+
+(7) The provisions of sub- section:
+
+sections (5), (7), (9), (10) and (12) of section 111 "(5) If any default is shall, so far as
+may be, made in complying with apply to the proceedings the order of the Tribunal
+before the [Tribunal] under under this section, the this section as they apply
+company shall be to the proceedings under punishable with fine this section.] which
+shall not be less than one lakh rupees but which may extend to five lakh rupees and
+every officer of the company who is in default shall be punishable with imprisonment
+for a term which may extend to one year or with fine which shall not be less than one
+lakh rupees but which may extend to three lakh rupees, or with both."
+
+8
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+19. The scope and ambit of Section 155 of the 1956 Act, as it then existed, fell for
+consideration in a decision of this Court in Ammonia Supplies (supra). The
+application for rectification in Ammonia’s case was filed under Section 155, and it
+was submitted that the scope for rectification under Section 155 is enlarged in
+comparison with the position as it were under Section 38 of the 1913 Act. Rejecting
+the argument, this Court in Ammonia held that the jurisdiction exercised by the court
+for rectification of the register of members is essentially limited. The comparative
+analysis in Ammonia assumes importance as a similar submission is made before us
+by Mr. Chidambaram that the scope and jurisdiction of the Tribunal under Section 59
+of the 2013 Act is wide when compared with Section 111A of the 1956 Act as amended
+in 1996. The relevant portion of the judgment in Ammonia is as under: -
+
+“26. …. There could be no doubt any question raised within the peripheral field of
+rectification, it is the court under Section 155 alone which would have exclusive
+jurisdiction. However, the question raised does not rest here. In case any claim is
+based on some seriously disputed civil rights or title, denial of any transaction or any
+other basic facts which may be the foundation to claim a right to be a member and if
+the court feels such claim does not constitute to be a rectification but instead seeking
+adjudication of basic pillar some such facts falling outside the rectification, its
+discretion to send a party to seek his relief before the civil court first for the
+adjudication of such facts, it cannot be said such right of the court to have been taken
+away merely on account of the deletion of the aforesaid proviso. Otherwise under the
+garb of rectification one may lay claim of many such contentious issues for
+adjudication not falling under it. Thus in other words, the court under it has
+discretion to find whether the dispute raised is really for rectification or is of such a
+nature that unless decided first it would not come within the purview of rectification.
+The word “rectification” itself connotes some error which has crept in requiring
+correction. Error would only mean everything as required under the law has been
+done yet by some mistake the name is either omitted or wrongly recorded in the
+Register of the company.
+
+27. In other words, in order to qualify for rectification, every procedure as prescribed
+under the Companies Act before recording the name in the register of the company
+has to be stated to have been complied with by the applicant…. The Court has to
+examine on the facts of each case whether an application is for rectification or
+something else. So field or peripheral jurisdiction of the court under it would be what
+comes under rectification, not projected claims under the garb of rectification. So far
+exercising of power for rectification within its field there could be no doubt the Court
+as referred under Section 155 read with Section 2 (11) and Section 10, it is the
+Company Court alone has exclusive jurisdiction…But this does not mean by
+interpreting such “court having exclusive jurisdiction to include within it what is not
+covered under it, merely because it is clocked under the nomenclature rectification
+does not mean the court cannot see the substance after removing the cloak.
+
+9
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+28. Question for scrutiny before us is the peripheral field within which the Court
+could exercise its jurisdiction for rectification. As aforesaid, the very word
+“rectification” connotes something what ought to have been done but by error not
+done and what ought not to have been done was done requiring correction.
+Rectification in other words is the failure on the part of the company to comply with
+the directions under the Act.
+
+…
+
+31. Sub-section (1)(a) of Section 155 refers to a case where the name of any person is
+without sufficient cause entered or omitted in the Register of Members of a company.
+The word “sufficient cause” is to be tested in relation to the Act and the Rules.
+Without sufficient cause entered or omitted to be entered means done or omitted to
+do in contradiction of the Act and the Rules or what ought to have been done under
+the Act and the Rules but not done. Reading of this sub-clause spells out the
+limitation under which the court has to exercise its jurisdiction. It cannot be doubted
+that in spite of exclusiveness to decide all matters pertaining to the rectification it has
+to act within the said four corners and adjudication of such matters cannot be
+doubted to be summary in nature. So, whenever a question is raised the court has to
+adjudicate on the facts and circumstances of each case. If it truly is rectification, all
+matters raised in that connection should be decided by the court under Section 155
+and if it finds adjudication of any matter not falling under it, it may direct a party to
+get his right adjudicated by a civil court.….”
+
+20. It is evident from the above that while interpreting Section 155, this Court has
+held that the power of CLB is narrow and can only consider questions of rectification.
+If a petition seeks an adjudication under the garb of rectification, then the CLB would
+not have jurisdiction, and it would be duty-bound to re-direct the parties to approach
+the relevant forum. The Court also held that the words ‘sufficient cause’ cannot be
+interpreted in a manner which would enlarge the scope of the provision.
+
+21. The decision in Ammonia was followed by this Court even after the deletion of
+Section 155 and insertion of Section 111A.
+
+This Court, in Standard Chartered Bank v. Andhra Bank Financial Services Ltd. & Ors.15 and Jai
+Mahal Hotels (P) Ltd. v. Devraj Singh & Ors.16, held that even though Section 111(7) of the 1956
+Act17 seemingly enlarges the power of the CLB, the power of rectification continues to remain
+summary in nature and if any seriously disputed questions arise, the Company Court should
+relegate the 15 (2006) 6 SCC 94 16 (2016) 1 SCC 423 17 Section 111(7) - On any application under
+this section, the Tribunal - (a) may decide any question relating to the title of any person who is a
+party to the application to have his name entered in, or omitted from, the register; (b) generally,
+may decide any question which it is necessary or expedient to decide in connection with the
+application for rectification.
+
+10
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+parties to a forum which is more appropriate for investigation and adjudication of such disputed
+questions.
+
+22. In Kesha Appliances (P) Ltd. & Ors. v. Royal Holdings Services Ltd.& Ors.18, the High Court of
+Bombay has held that:
+
+“41. .....The contention of the learned counsel for the plaintiff that there was a
+pre-existing common law right under section 9 of the CPC and that pre-existing
+common law right is not taken away by the provisions of Section 15Y and 20A also
+cannot be accepted. It is because the common law right of rectification which is
+sought to be enforced and exercised by the plaintiff in the present case arises out of
+the right conferred on the basis of Take Over Regulations and once the provisions of
+the Take Over Regulations are invoked then the entire jurisdiction by virtue of the
+provisions of Section 15Y and 20A is exclusively conferred on the SEBI authorities.
+Learned counsel's argument that under Section 15Y the only jurisdiction conferred on
+an adjudicating officer is to penalise the party and not for rectification also cannot be
+accepted because the provisions of Section 15Y are to be read together with Section
+20A of the SEBI Act which inter-alia confers a power on the board to pass any order
+which includes direction as contemplated under Regulation 44 of the Takeover
+Regulations..... …
+
+43. I am of the opinion that on plain and simple reading of section 15Y read with
+section 20A of the Act all the cases arising out of the breach and Take Over
+Regulation must fall within the exclusive domain of SEBI and cannot be complained
+in the court of Law by virtue of express bar contained under section 15Y and section
+20A of the SEBI Act. I am also of the further opinion that there is no doubt that there
+is a common law right in a shareholder to apply for rectification of the share register
+even though it is not his own share in respect of which he is seeking rectification but
+still the said right if it flows from the provisions of Take Over Regulations then
+undoubtedly it would fall within the exclusive Jurisdiction of SEBI and not within the
+Jurisdiction of this court in view of the 18 (2006) 1 Bom CR 545 express bar
+contained under the aforesaid statue. I am of the further opinion that the enactment
+of the amendment of Take Over Regulation of Amending provisions of SEBI
+(Substantial Acquisition of Shares and Take Over) Second Amendment (Regulation
+2002) w.e.f. 9.9.2002 by providing for the remedy under sub clause
+
+(c) and (d) of the Regulation 44 the board has been empowered to give effective relief
+of Rectification of Share Register by declaring cancellation of the Allotment and/or
+by directing the company not to give an effect to the transfer if they are found to be in
+contrary to the Take Over Regulation.”
+
+23. Zandu Pharmaceutical Works Ltd. v. Devkumarvaidya & Ors.19, is another instance where it has
+been held that in a case of violation of the SEBI Regulations, the CLB cannot exercise rectificatory
+jurisdiction unless and until the SEBI, in the very first instance, decides if there has been a violation
+
+11
+
+or not. The CLB held that:
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+“11. Most of the allegations made by the petitioner are yet to be investigated and to be
+crystallised/confirmed as violations of the law. The allegations of violation of
+Takeover Code and Insider Trading is to be decided by the SEBI and similarly the
+allegations of investment beyond the limit under section 372A of the Act and
+acquisition of shares creating thereby a dominant undertaking under section 108A of
+the Act are to be investigated and crystallised/confirmed as violations by the Central
+Government. Unless it is confirmed as a violation of law, the CLB has no power to
+issue orders for rectification of register of members and further this Bench has no
+power to declare these allegations as violations of law.” 19 (2009) 89 CLA 65
+
+24. The principle enunciated in Ammonia’s case relating to the jurisdiction of a Tribunal with
+respect to the rectification of the register is well-recognized and consistently followed. Sub-section
+(3) of Section 59 recognizes the overarching right to hold and transfer securities with the
+concomitant entitlement of voting. This is a precious right, and that is the reason why the
+Parliament found it necessary to caution that the provision of this Section shall not restrict the right
+of a holder of securities, to transfer such securities. This is another feature which is indicative of the
+limited scope and extent of the power of rectification of the register.
+
+25. For the reason stated above, we are of the opinion that the company petition under Section 111A
+of the 1956 Act for a declaration that the acquisition of shares by the Respondents as null and void is
+misconceived. The Tribunal should have directed the Appellant to seek such a declaration before the
+appropriate forum. The Appellate Tribunal is, therefore, justified in allowing the appeal and setting
+aside the order of the Tribunal. Re: appropriate forum for enquiry and adjudication of violations of
+the SEBI Regulations:
+
+26. There is another perspective in which the legality and propriety of the company petition under
+Section 111A for declaring the acquisition of shares as null and void for violation of SEBI Regulations
+could be judged - Which is the appropriate forum for adjudication and determination of violations
+and consequent actions under the SEBI (SAST) Regulations and the SEBI (PIT) Regulations?
+
+27. Public administration is dynamic and ever-evolving. It is now established that governance of
+certain sectors through independent regulatory bodies will be far more effective than being under
+the direct control and supervision of Ministries or Departments of the Government. Regulatory
+control by an independent body composed of domain experts enables a consistent, transparent,
+independent, proportionate, and accountable administration and development of the sector. All this
+is achieved by way of legislative enactments which establish independent regulatory bodies with
+specified powers and functions. They exercise powers and functions, which have a combination of
+legislative, executive, and judicial features.
+
+28. Another feature of these regulators is that they are impressed with a statutory duty to safeguard
+the interest of the consumers and the real stakeholders of the sector. Telecom Regulatory Authority
+of India20, Insurance Regulatory and Development Authority21, Insolvency and Bankruptcy Board
+
+12
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+of India22, Central23 and State24 Electricity Regulatory Commissions and Airport Economic
+Regulatory Authority25, are some of the regulators established under their respective statutes. The
+SEBI26 is one such regulator.
+
+29. SEBI was established in 1988 to protect the interest of investors in securities and to promote the
+development of, and to regulate, the securities market. This Court had the occasion to consider the
+regulatory role of the SEBI in maintaining an orderly and stable securities’ market so as to protect
+the interests of investors27.
+
+30. The statutory provisions contained in Chapters-IV, VI-A, read with Section 30, delineate the
+legislative28, administrative29 and 20 Section 3, The Telecom Regulatory Authority of India Act,
+1997. 21 Section 3, The Insurance Regulatory and Development Authority of India Act, 1999.
+
+22 Section 188, The Insolvency and Bankruptcy Code, 2016. 23 Section 76, The Electricity Act,
+2003.
+
+24 Section 82, The Electricity Act, 2003.
+
+25 Section 3, The Airports Economic Regulatory Authority of India Act, 2008. 26 Section 3,
+Securities and Exchange Board of India Act, 1992. 27 B.S.E Brokers’ Forum, Bombay & Ors. v.
+Securities and Exchange Board of India & Ors., (2001) 3 SCC 482 (Para 17); Sahara India Real
+Estate Corporation Ltd. & Ors. v. SEBI & Anr., (2013) 1 SCC 1 (Para 298); Securities and Exchange
+Board of India v. Kishore R Ajmera, (2016) 6 SCC 368 (Para 25); Securities and Exchange Board of
+India v. Ajay Agarwal, (2010) 3 SCC 765 (Para 33-34); Prakash Gupta v. Securities and Exchange
+Board of India, (2021) SCC OnLine SC 485 (para 102). 28 Section 30, Securities and Exchange
+Board of India Act, 1992. 29 Chapter IV, Securities and Exchange Board of India Act, 1992.
+adjudicatory30 functions of the Board. In its normative or legislative functions, the SEBI can
+formulate regulations encompassing various aspects having a bearing on the securities market. It
+should be noted that the SEBI Act, Rules, Regulations and Circulars made or issued under the
+legislation, are constantly evolving with a concerted aim to enforce order in the securities market
+a n d   p r o m o t e   i t s   h e a l t h y   g r o w t h   w h i l e   p r o t e c t i n g   i n v e s t o r   w e a l t h .   I n   s o   f a r   a s   i t s
+administrative/executive power goes, it has the power to regulate the business of stock exchanges
+and securities market. The Board provides for the registration and regulation of stock brokers, share
+transfer agents, depositories, venture capital funds, collective investment schemes etc. It also has
+the power to prohibit various transactions which interfere with the health of the securities market.
+
+31. In the exercise of its adjudicatory powers under Section 15-I, the SEBI has the power to appoint
+officers for holding an inquiry, give a reasonable opportunity to the person concerned and
+determine if there is any transgression of the rules prescribed. The Board has the power to impose
+penalties for violations and also restitute the parties. The adjudicatory power also includes the 30
+Chapter VI-A, Securities and Exchange Board of India Act, 1992. power to settle administrative and
+civil proceedings under Section 15JB of the SEBI Act.
+
+13
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+32. The regulatory jurisdiction of the Board also includes ex-ante powers to predict a possible
+violation and take preventive measures. The exercise of ex-ante jurisdiction necessitates the calling
+of information as provided in Sections 11(2)(i), 11(2)(ia) and 11(2)(ib) of the SEBI Act. Where the
+Board has a reasonable ground to believe that a transaction in the securities market is going to take
+place in a manner detrimental to the interests of the stakeholders or that any intermediary has
+violated the provisions of the Act, it may investigate into the matter under Section 11(C) of the SEBI
+Act. In other words, being the real-time security market regulator, the Board is entitled to keep a
+watch, predict and even act before a violation occurs. It is in this context, that the SEBI (SAST)
+Regulations and the SEBI (PIT) Regulations, with which we are concerned in this case, are to be
+understood.
+
+33. The SEBI (PIT) Regulation prohibits dealing, communicating etc., on matters relating to insider
+trading. Even if there is a suspicion about the transgression of the prohibition, the Board has the
+power to inquire (Regulation 4A) and come to a prime facie conclusion about the need to investigate
+(Regulation 5). Chapter III of the said Regulations provides for the entire procedure to be followed
+in the inquiry process. This includes – procedural safeguards to be afforded to the insider
+(Regulation 6), submission of the report by the investigating authority (Regulation 8),
+communication of findings to the insider (Regulation 9), and the final orders/directions to be
+passed by the Board (Regulation 11). For an effective exercise of its ex-ante powers, the Board has
+provided the policy on disclosures in Chapter IV of the said Regulations. Under Regulation 13, any
+person holding more than 5% shares or voting rights in a company, shall disclose to the company
+within four working days, the number of shares or the extent of voting rights held by such person.
+Regulation 13 places a continual obligation of disclosure. Regulation 14 provides that any person
+violating the said Regulations shall be liable for action under Sections 11, 11B, 11D, 24 and Chapter
+VI-A of the SEBI Act.
+
+34. The above-referred regulatory regime is all-encompassing. It prescribes the prohibition, which is
+normative. The Regulation also provides for the method of detecting the violation, the methods of
+investigation, the manner of appointment of the investigating authority, the timeline within which
+the report is to be submitted, the opportunity for an insider to respond to the report as well as the
+final decision to be taken by the SEBI, and lastly, the consequential orders and restitutionary
+directions which the Board is entitled to pass. It is also important to note that the SEBI has the
+power under Regulation 11 to pass necessary directions to remedy an act of insider trading in order
+to have a complete and comprehensive control over the securities market.
+
+35. Having considered the comprehensive role of the SEBI in regulating the securities market with
+respect to insider trading, we are of the opinion that the important role of the Regulator cannot be
+circumvented by simply asking for rectification under Section 111A of the 1956 Act. Such an
+approach is impermissible. The scrutiny and examination of a transaction allegedly in violation of
+the SEBI (PIT) Regulations will have to be processed through the regulations and remedies provided
+therein.
+
+36. When Constitutional Courts are called upon to interpret provisions affecting the exercise of
+powers and jurisdictions of these regulatory bodies, it is the duty of such Courts to ensure that
+
+14
+
+Ifb Agro Industries Limited vs Sicgil India Limited on 4 January, 2023
+
+transactions falling within the province of the regulators are necessarily subjected to their scrutiny
+and regulation. This will ensure that the regulatory body, charged with the duty to protect the
+consumers has real time control over the sector, thus, realizing the purpose of their constitution.
+
+37. The position with respect to the SEBI (SAST) Regulations is similar to that of the SEBI (PIT)
+Regulations. Regulation 7 of Chapter III obligates the acquirer of more than 5% shares in a company
+to disclose the same to the company and the stock exchange. This is the prohibition, and
+non-disclosure is punitive. Chapter V deals with investigation and action by the Board, which
+includes the power of the Board to appoint an investigating officer (Regulation 38), the issuance of
+show-cause notice to the acquirer (Regulation 39), the obligation of the investigating authority to
+submit a report at the earliest (Regulation 41), the duty to supply the report to the acquirer and give
+him an opportunity of hearing before passing penal orders (Regulation 42) and lastly, the powers of
+the Board to take action/pass directions under Chapter VI-A and Section 24 of the SEBI Act
+(Regulation 44). It is significant to note that Regulation 45 provides for penalties for
+non-compliance with the said Regulations. The liability will be in terms of the Regulations and the
+SEBI Act. Here again, the SEBI (SAST) Regulation is a comprehensive scheme providing for inquiry,
+investigation, submission of report by the investigating officer, procedural safeguards in favor of the
+acquirer, and finally, the restitutionary order/directions to be passed by the Board. This whole
+procedure cannot be short-circuited by making an application under Section 111A of the 1956 Act on
+the ground that there exists parallel jurisdiction with the SEBI and CLB/Tribunal. The transaction
+complained of must suffer scrutiny by the regulator, and it is only for the regulator to determine a
+violation of the provisions of the SEBI Act and the Regulations.
+
+38. Having considered the matter from a different perspective, we are of the opinion that the
+Appellant is not justified in invoking the jurisdiction of the CLB under Section 111A of the Act for
+violation of SEBI regulations. We are also of the opinion that the Tribunal committed an error in
+entertaining and allowing the company petition filed under Section 111A of the 1956 Act. Though we
+are not in agreement with the reasoning adopted by the Appellate Tribunal in the impugned order,
+we are in agreement with its conclusion that the Tribunal exceeded its jurisdiction and therefore, the
+Appellate Tribunal was correct in setting aside the judgment dated 05.07.2017.
+
+39. For the reasons stated above, Civil Appeal No. 2030 of 2019 arising out of the judgment dated
+06.12.2018 in Company Appeal (AT) No. 240 of 2017 of the National Company Law Appellate
+Tribunal, New Delhi stands dismissed. There shall be no order as to costs.
+
+……………………………….J. [A.S. BOPANNA] ……………………………….J. [PAMIDIGHANTAM SRI
+NARASIMHA] NEW DELHI;
+
+JANUARY 04, 2023
+
+15

@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal No. 1390 of 2023 (@ Special Leave Petition (Crl.) No. 10051 of 2022)",
+  "parties": {
+    "petitioner": "Atulbhai Vithalbhai Bhanderi",
+    "respondent": "State of Gujarat"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-04",
+  "summary": "The appeal challenged the Gujarat High Court's dismissal of bail in a case under the GCTOC Act and IPC. Petitioner argued lack of evidence linking him to organized crime and sought parity with co-accused granted bail. Respondent contended ongoing involvement in organized crime, intimidation of witnesses, and facilitation of extortion. Court emphasized judicial discretion must be guided by law, not arbitrary; considering the alleged role and pattern of criminal conduct, initially refused bail but ultimately allowed appeal based on signed judgment, directing release on bail as per trial court's determination of terms.",
+  "legal_provisions_cited": [
+    "Gujarat Control of Terrorism and Organised Crime Act, 2015",
+    "Indian Penal Code, 1860",
+    "Sections 3(1), 3(2), 3(3), 3(4), 3(5), 4 GCTOC Act",
+    "Sections 384, 385, 386, 387, 506(1), 506(2), 507, 201, 120B IPC",
+    "State of Gujarat v. Sandip Omprakash Gupta, 2022 SCC OnLine SC 1727",
+    "State of Maharashtra v. Shiva alias Shivaji Ramaji Sonawane, (2015) 14 SCC 272",
+    "Gudikanti Narasimhulu v. Public Prosecutor, (1978) 1 SCC 240"
+  ],
+  "final_judgment": "Appeal allowed; appellant entitled to bail as per terms determined by the trial court."
+}

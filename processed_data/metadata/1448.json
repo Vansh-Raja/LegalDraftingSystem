@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 8179 of 2022",
+  "parties": {
+    "petitioner": "Rajwati @ Rajjo & Ors.",
+    "respondent": "United India Insurance Company Ltd. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-09",
+  "summary": "Appeals challenged the High Court's reduction of compensation awarded to dependents of deceased Ghasita Ram, who died in a motor accident. The Tribunal originally awarded ₹19.64 lakhs, based on monthly income of ₹11,225 supported by pay slips and salary certificate. The High Court reduced income to ₹4,836 (minimum wage) due to non-examination of issuer, reducing compensation to ₹8.17 lakhs. Appellants argued that documentary and testimonial evidence sufficed under relaxed evidentiary standards in motor accident claims. The Court emphasized that tribunals need not strictly adhere to procedural or evidentiary rules; preponderance of probability suffices. Reliance placed on Shila Datta, Ramachanrappa, and Nanu Ram to argue for higher compensation and broader appreciation of evidence.",
+  "legal_provisions_cited": [
+    "Section 166 of the Motor Vehicles Act, 1988",
+    "Section 169 of the Motor Vehicles Act, 1988",
+    "United India Insurance Co. Ltd. vs Shila Datta & Ors. (2011) 10 SCC 509",
+    "Ramachanrappa Vs. Manager, Royal Sundaram Alliance Insurance Co. Ltd.",
+    "Magma General Insurance Co. Ltd. vs Nanu Ram & Ors. (2018) 18 SCC 130",
+    "Sunita & Ors. Vs. Rajasthan State Road Transport Corporation & Ors. (2020) 13 SCC 486",
+    "Kusum Lata & Ors. Vs. Satbir & Ors."
+  ],
+  "final_judgment": "The appeal was allowed, restoring the Tribunal’s assessment of income and compensation. The Court held that non-examination of the document issuer does not invalidate salary proof in light of corroborative oral evidence and the beneficial nature of the Motor Vehicles Act. Compensation was recalculated accordingly."
+}

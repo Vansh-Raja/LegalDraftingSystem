@@ -1,0 +1,18 @@
+{
+  "case_number": "CIVIL APPEAL NOS.7027-7028 OF 2009 WITH CIVIL APPEAL NOS.7150-7151 OF 2009",
+  "parties": {
+    "petitioner": "Union Of India & Ors.",
+    "respondent": "Manju Arora & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-03",
+  "summary": "The case involved central government employees claiming benefits under the Assured Career Progression (ACP) Scheme after refusing regular promotions. The Union contended that refusal of promotion disqualified employees from ACP benefits. The Tribunal initially upheld withdrawal of ACP benefits but barred recovery of differential pay. The Delhi High Court held that refusal impacted only second upgradation, entitling employees to first financial upgradation. The Supreme Court examined Conditions 5.1 and 10 of the O.M. dated 9.8.1999, observing that the ACP Scheme was meant for employees suffering genuine stagnation due to lack of promotional avenues. The Court concluded that employees who refused promotion could not be considered stagnating and were not entitled to ACP benefits, overturning the High Court’s interpretation.",
+  "legal_provisions_cited": [
+    "O.M. dated 9.8.1999 (Assured Career Progression Scheme)",
+    "O.M. dated 18.7.2001 (clarificatory order)",
+    "Condition 5.1 of ACP Scheme",
+    "Condition 10 of ACP Scheme",
+    "Fifth Central Pay Commission recommendations"
+  ],
+  "final_judgment": "The appeal was allowed. The judgment of the Delhi High Court was set aside. The respondents were held not entitled to benefits under the ACP Scheme as they had refused regular promotion and thus were not in a state of stagnation. The withdrawal of ACP benefits was upheld."
+}

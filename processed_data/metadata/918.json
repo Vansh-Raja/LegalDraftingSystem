@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 2030 of 2019",
+  "parties": {
+    "petitioner": "IFB Agro Industries Limited",
+    "respondent": "Sicgil India Limited and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-04",
+  "summary": "The appeal concerned the scope of rectificatory jurisdiction under Section 59 of the Companies Act, 2013 (corresponding to Section 111A of the 1956 Act) and the appropriate forum for adjudicating violations of SEBI (SAST) Regulations, 1997 and SEBI (PIT) Regulations, 1992. The Supreme Court held that Section 59 jurisdiction is summary and not meant for disputes involving contested facts. It ruled that regulatory violations under SEBI regulations must be adjudicated by SEBI, not the NCLT, and that NCLT cannot exercise parallel jurisdiction. The appeal challenged the NCLAT's setting aside of an NCLT order directing the petitioner to buy back shares held by respondents in excess of 5% due to disclosure violations. The Court upheld the NCLAT, finding NCLT exceeded its jurisdiction.",
+  "legal_provisions_cited": [
+    "Section 59, Companies Act, 2013",
+    "Section 111A, Companies Act, 1956",
+    "Regulation 7(1), SEBI (SAST) Regulations, 1997",
+    "Regulation 13, SEBI (PIT) Regulations, 1992",
+    "Ammonia Supplies Corporation (P) Ltd. v. Modern Plastic Containers Pvt. Ltd. & Ors., (1998) 7 SCC 105"
+  ],
+  "final_judgment": "Appeal dismissed. The order of the National Company Law Appellate Tribunal setting aside the National Company Law Tribunal's direction for buy-back of shares was upheld. It was held that the Tribunal lacked jurisdiction to adjudicate on SEBI regulatory violations, which fall within SEBI's exclusive domain."
+}

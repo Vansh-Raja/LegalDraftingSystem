@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 3872 of 2022",
+  "parties": {
+    "petitioner": "Canara Bank",
+    "respondent": "G.S. Jayarama"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-19",
+  "summary": "The appeal challenged the Karnataka High Court's decision to set aside an award by the Permanent Lok Adalat, which had ordered the respondent to repay a loan with interest. The main issues were whether conciliation proceedings under Section 22-C of the Legal Services Authorities Act, 1987 are mandatory, and whether Permanent Lok Adalats possess adjudicatory powers. The Supreme Court held that Permanent Lok Adalats have adjudicatory functions and can pass binding awards even if parties fail to participate in conciliation, provided due notice was issued. The Court emphasized that non-participation does not negate the Lok Adalat's authority to decide disputes, and such awards are enforceable as civil court decrees under Section 22-E. The impugned judgment of the High Court was found to be contrary to the statutory scheme.",
+  "legal_provisions_cited": [
+    "Section 22-C, Legal Services Authorities Act, 1987",
+    "Section 22-E, Legal Services Authorities Act, 1987",
+    "Section 19, Legal Services Authorities Act, 1987",
+    "Bar Council of India v. Union of India (2012) 8 SCC 243"
+  ],
+  "final_judgment": "The appeal was allowed. The judgments of the Karnataka High Court setting aside the Permanent Lok Adalat's award were reversed. The award dated 19 November 2014 passed by the Permanent Lok Adalat was reinstated and upheld as valid and enforceable."
+}

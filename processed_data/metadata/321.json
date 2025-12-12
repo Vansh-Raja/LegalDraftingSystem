@@ -1,0 +1,16 @@
+{
+  "case_number": "2025 INSC 318; CRIMINAL APPEAL NO.540 OF 2013",
+  "parties": {
+    "petitioner": "Suresh",
+    "respondent": "State Rep. By Inspector Of Police"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-03-04",
+  "summary": "Conviction under IPC s.302 based on dying declaration; multiple inconsistent statements by deceased (initially accidental, later implicating appellant); first statements to doctor and police indicated kitchen accident; subsequent dying declaration before Judicial Magistrate implicated appellant; explanation for delay—that husband was present—not corroborated; Judicial Magistrate did not inquire into prior statements; no independent evidence of assault or kerosene use; post-mortem showed only burn injuries; prosecution witnesses contradicted each other, some declared hostile; lack of corroboration renders dying declaration unreliable; mechanical reliance by Trial Court and High Court improper.",
+  "legal_provisions_cited": [
+    "Indian Penal Code s.302",
+    "Indian Penal Code s.307",
+    "Uttam v. State of Maharashtra (2022) 8 SCC 576"
+  ],
+  "final_judgment": "Appeal allowed; conviction and sentence set aside; appellant acquitted."
+}

@@ -1,0 +1,16 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 2291 OF 2022 (arising out of SLP (CRIMINAL) NO. 6101 OF 2021)",
+  "parties": {
+    "petitioner": "The State of Gujarat",
+    "respondent": "Sandip Omprakash Gupta"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-15",
+  "summary": "The case concerns whether the Gujarat Control of Terrorism and Organised Crime Act, 2015 (GCTOCA) can be invoked against an accused when no FIR was registered after the Act came into force on 01.12.2019. The respondent was charged under Sections 3(1)(i), (ii), 3(2), and 3(4) of GCTOCA based on prior FIRs, the latest of which was from 2019 with chargesheet filed before the Act's commencement. The High Court granted bail, holding that 'continuing unlawful activity' under Section 2(1)(c) requires an offence after the Act's enforcement. The Supreme Court upheld this, relying on State of Maharashtra v. Shiva alias Shivaji Ramaji Sonawane, affirming that prior charge sheets alone do not satisfy 'continuing unlawful activity' without a post-enactment offence.",
+  "legal_provisions_cited": [
+    "Section 2(1)(c), Gujarat Control of Terrorism and Organised Crime Act, 2015",
+    "Section 3(1)(i), (ii), 3(2), 3(4), Gujarat Control of Terrorism and Organised Crime Act, 2015",
+    "State of Maharashtra v. Shiva alias Shivaji Ramaji Sonawane, (2015) 14 SCC 272"
+  ],
+  "final_judgment": "Appeal dismissed. The order of the High Court granting bail to the respondent is upheld."
+}

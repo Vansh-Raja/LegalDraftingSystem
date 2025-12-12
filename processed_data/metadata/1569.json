@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 3005/2022",
+  "parties": {
+    "petitioner": "Union of India & Ors.",
+    "respondent": "Ashish Agarwal"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-04",
+  "summary": "The appeal challenged the Allahabad High Court's decision quashing reassessment notices issued under section 148 of the Income Tax Act, 1961, after April 1, 2021, on grounds that such notices were invalid due to the amendment introduced by the Finance Act, 2021, which inserted new sections 147–151. The Supreme Court acknowledged the large number of similar writ petitions (over 9,000) and judgments from various High Courts taking the same view. To avoid multiplicity of proceedings, the Court exercised its powers under Article 142 of the Constitution to issue a binding order applicable to all such cases, obviating the need for the Revenue to file numerous appeals.",
+  "legal_provisions_cited": [
+    "section 148, Income Tax Act, 1961",
+    "Finance Act, 2021",
+    "Article 142, Constitution of India"
+  ],
+  "final_judgment": "The Supreme Court assumed jurisdiction under Article 142 to issue a unified order governing all similar cases across High Courts, rendering separate appeals by the Revenue unnecessary."
+}

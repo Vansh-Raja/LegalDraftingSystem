@@ -1,0 +1,21 @@
+{
+  "case_number": "2023 INSC 625; CIVIL APPEAL NOS. 7976 OF 2019",
+  "parties": {
+    "petitioner": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+    "respondent": "Raman Ispat Private Limited & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-07-17",
+  "summary": "Conflict between Electricity Act, 2003 and IBC, 2016; recovery of electricity dues vs. liquidation priority; Sections 173, 174, 42, 45, 56 of Electricity Act and Uttar Pradesh Electricity Supply Code, 2005; electricity dues as 'security interest' under IBC; precedence of special law over general law; NCLAT's release of attached property for liquidation sale; classification of PVVNL as operational creditor; priority of government dues under Section 53(1)(e)(i) IBC; registration of charge under Companies Act, 2013; inter-se priority under TPA, 1882; SARFAESI Act, 2002 and RDDBFI Act, 1993 compared; Board of Trustees, Port of Mumbai v. Indian Oil Corp. distinguished; State Tax Officer v. Rainbow Papers Ltd. considered; attachment for electricity dues held subordinate to IBC liquidation process.",
+  "legal_provisions_cited": [
+    "Insolvency and Bankruptcy Code, 2016 s.3(30), s.3(31), s.3(34), s.52(3), s.53(1)(e)(i), s.238",
+    "Electricity Act, 2003 s.42, s.45, s.56, s.173, s.174",
+    "Companies Act, 2013 s.77",
+    "Transfer of Property Act, 1882 s.48",
+    "SARFAESI Act, 2002 s.26E",
+    "RDDBFI Act, 1993 s.31B",
+    "Board of Trustees, Port of Mumbai v. Indian Oil Corporation",
+    "State Tax Officer v. Rainbow Papers Ltd."
+  ],
+  "final_judgment": "Appeal dismissed; NCLAT order upheld; attached property to be released to liquidator for sale under IBC; electricity dues to be treated as unsecured operational claims under Section 53 of IBC; PVVNL to participate in liquidation distribution as per priority waterfall."
+}

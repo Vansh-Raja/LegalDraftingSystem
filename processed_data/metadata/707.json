@@ -1,0 +1,33 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 906 OF 2023",
+  "parties": {
+    "petitioner": "Selvamani",
+    "respondent": "The State Rep. by The Inspector Of Police"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-05-08",
+  "summary": "Appeal challenges conviction under Section 376(2)(g), 506(1) IPC and Section 4 of Tamil Nadu Prevention of Women Harassment Act, upheld by High Court. Appellant contended prosecution failed due to inconsistency in prosecutrix and witnesses' cross-examination and lack of medical corroboration. Court held that evidence of hostile witnesses cannot be wholly rejected; portions consistent with prosecution case can be relied upon. Prosecutrix's statement under Section 164 CrPC, medical evidence showing injuries and loss of virginity, and testimonies of PW-2, PW-3 and PW-6 supported conviction. Reliance on Rai Sandeep and Khujji principles confirmed standard for evaluating hostile witnesses. Conviction and sentence upheld.",
+  "legal_provisions_cited": [
+    "Section 374 CrPC",
+    "Section 376(2)(g) IPC",
+    "Section 506(1) IPC",
+    "Section 4 Tamil Nadu Prevention of Women Harassment Act",
+    "Section 164 CrPC",
+    "Section 341 IPC",
+    "Section 323 IPC",
+    "Section 506(2) IPC",
+    "Rai Sandeep alias Deepu v. State (NCT of Delhi)",
+    "Khujji @ Surendra Tiwari v. State of Madhya Pradesh",
+    "Bhagwan Singh v. State of Haryana",
+    "Sri Rabindra Kuamr Dey v. State of Orissa",
+    "Syad Akbar v. State of Karnataka",
+    "C. Muniappan and Others v. State of Tamil Nadu",
+    "State of U.P. v. Ramesh Prasad Misra",
+    "Balu Sonba Shinde v. State of Maharashtra",
+    "Gagan Kanojia v. State of Punjab",
+    "Radha Mohan Singh v. State of U.P.",
+    "Sarvesh Narain Shukla v. Daroga Singh",
+    "Subbu Singh v. State"
+  ],
+  "final_judgment": "Appeal dismissed. Conviction and sentence confirmed."
+}

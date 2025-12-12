@@ -1,0 +1,19 @@
+{
+  "case_number": "2023 INSC 924; CRIMINAL APPEAL NO. 1473 OF 2011",
+  "parties": {
+    "petitioner": "Abhishek Sharma",
+    "respondent": "State (Govt Of NCT Of Delhi)"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-10-18",
+  "summary": "Conviction under IPC s. 302 affirmed; multiple dying declarations validated: DD-I (PW16 PCR officer), DD-II (PW18 doctor), DD-III (PW17 SI; FIR basis), DD-IV (victim's mother); consistency, voluntariness, mental fitness established; no requirement for medical attestation per Sher Singh; prosecution witnesses unchallenged; motive from workplace relationship; circumstantial evidence corroborated; High Court affirmation upheld; no merit in challenges regarding burn injury severity or procedural non-compliance with Punjab/Haryana HC rules.",
+  "legal_provisions_cited": [
+    "Indian Penal Code, 1860 s.302",
+    "Indian Penal Code, 1860 s.307",
+    "Code of Criminal Procedure, 1973 s.313",
+    "Kamla v. State of Punjab",
+    "Khushal Rao v. State of Bombay",
+    "Sher Singh v. State of Punjab"
+  ],
+  "final_judgment": "Appeal dismissed; conviction and life sentence under s. 302 IPC upheld."
+}

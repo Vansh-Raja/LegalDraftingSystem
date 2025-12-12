@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 2911 of 2022",
+  "parties": {
+    "petitioner": "M/s Indian Oil Corporation Ltd.",
+    "respondent": "Shri Rajendra D. Harmalkar"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-21",
+  "summary": "The appellant employer challenged the Bombay High Court's decision to reinstate the respondent employee without back wages after his dismissal for submitting a fake SSLC certificate. The High Court found the punishment of dismissal grossly disproportionate, citing the employee's admission of guilt on assurance of leniency, acquittal in criminal court (benefit of doubt), good service record, and absence of minimum qualification requirements for the job. The Supreme Court examined whether the High Court erred in interfering with departmental punishment, focusing on principles of proportionality, employer's loss of trust, and scope of judicial review under Article 226. The appeal contested the relevance of criminal acquittal and the deterrent effect of dismissal for proven fabrication.",
+  "legal_provisions_cited": [
+    "Article 226 of the Constitution of India",
+    "Om Kumar v. Union of India, (2001) 2 SCC 386",
+    "Union of India v. G. Ganayutham, (1997) 7 SCC 463",
+    "Union of India v. Dwarka Prasad Tiwari, (2006) 10 SCC 388",
+    "Union of India v. Diler Singh, (2016) 13 SCC 71"
+  ],
+  "final_judgment": "The Supreme Court set aside the High Court's judgment, reinstated the punishment of dismissal, and held that the employer's loss of trust due to submission of a forged certificate justified dismissal, and the High Court exceeded its jurisdiction in interfering with the departmental punishment."
+}

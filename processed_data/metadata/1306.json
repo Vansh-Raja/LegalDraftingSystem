@@ -1,0 +1,19 @@
+{
+  "case_number": "Criminal Appeal No. __ of 2022 arising out of SLP (Crl.) No. 2864 of 2019",
+  "parties": {
+    "petitioner": "J. Vedhasingh",
+    "respondent": "R.M. Govindan & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-11",
+  "summary": "The appellant challenged the Madras High Court's order quashing criminal proceedings under Sections 120B, 406, 420, and 34 IPC, which were based on the same facts as a pending prosecution under Section 138 of the Negotiable Instruments Act. The appellant argued that distinct mens rea requirements and differing legal ingredients between the offences justified separate proceedings. The respondents contended that continuation of IPC proceedings constituted an abuse of process under Section 300(1) CrPC and double jeopardy. The Supreme Court examined precedents including Sangeetaben Mahendrabhai Patel and G. Sagar Suri, emphasizing that while facts may overlap, the ingredients of offences under the NI Act and IPC differ, particularly with regard to mens rea and procedural requirements. It concluded that simultaneous proceedings are not automatically barred if the offences have distinct elements.",
+  "legal_provisions_cited": [
+    "Section 138, Negotiable Instruments Act, 1881",
+    "Section 300(1), Code of Criminal Procedure, 1973",
+    "Article 20(2), Constitution of India",
+    "Sections 120B, 406, 420, 34, Indian Penal Code",
+    "Section 482 Cr.P.C.",
+    "Section 156(3) Cr.P.C."
+  ],
+  "final_judgment": "The appeal was dismissed."
+}

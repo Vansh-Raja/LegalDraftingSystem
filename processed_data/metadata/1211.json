@@ -1,0 +1,28 @@
+{
+  "case_number": "Criminal Appeal No 1722 of 2022 (Arising out of SLP (Crl) No. 8139 of 2022)",
+  "parties": {
+    "petitioner": "Ajwar",
+    "respondent": "Niyaj Ahmad & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-30",
+  "summary": "The appellant challenged the Allahabad High Court's grant of bail to the first respondent, accused in a serious criminal case involving murder (Sections 302, 307 IPC) and other charges. The High Court granted bail using a standard, formulaic order citing Article 21 and reformative theory without analyzing specifics. The Supreme Court held that such generic reasoning fails to demonstrate due application of mind, particularly in grave cases, and emphasized the need to consider gravity of offence, role of accused, witness tampering, flight risk, and criminal antecedents. Though the Court considered remanding, it proceeded to evaluate arguments on merits due to detailed submissions. The appellant highlighted that two sons were murdered, the first respondent's role emerged during investigation and in witness statements (PW1), and charges have been framed. The Court stressed that open justice and reasoned orders are essential to maintain public confidence.",
+  "legal_provisions_cited": [
+    "Section 147 IPC",
+    "Section 148 IPC",
+    "Section 149 IPC",
+    "Section 302 IPC",
+    "Section 307 IPC",
+    "Section 352 IPC",
+    "Section 504 IPC",
+    "Section 34 IPC",
+    "Section 161 CrPC",
+    "Section 173 CrPC",
+    "Section 482 CrPC",
+    "Article 21 of the Constitution of India",
+    "Dataram Singh v. State of U.P.",
+    "Mahipal v. Rajesh Kumar",
+    "Aminuddin v. State of Uttar Pradesh"
+  ],
+  "final_judgment": "The Supreme Court set aside the bail granted by the Allahabad High Court and remanded the matter for fresh consideration in accordance with law, with proper application of mind to the facts and circumstances of the case."
+}

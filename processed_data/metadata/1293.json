@@ -1,0 +1,23 @@
+{
+  "case_number": "Civil Appeal No(s). 2136 of 2012",
+  "parties": {
+    "petitioner": "Horticulture Experiment Station, Gonikoppal, Coorg",
+    "respondent": "The Regional Provident Fund Organization"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-23",
+  "summary": "The appeals challenged the Karnataka High Court's decision upholding the levy of damages under Section 14B of the Employees Provident Fund & Miscellaneous Provisions Act, 1952 for delayed EPF contributions. The appellant argued that mens rea and justification for non-payment should be considered, while the respondent contended that civil defaults attract damages without requiring culpable intent. The Supreme Court held that mens rea is not a required element for imposing damages under Section 14B, as the provision is designed to enforce civil obligations and ensure timely compliance with social security mandates. It affirmed that once default in contribution payment is established, damages are consequential and must be recovered unless waived under statutory exceptions.",
+  "legal_provisions_cited": [
+    "Employees Provident Fund & Miscellaneous Provisions Act, 1952, Section 14B",
+    "Employees State Insurance Act, 1948, Section 85B",
+    "Sick Industrial Companies (Special Provisions) Act, 1985",
+    "Organo Chemical Industries v. Union of India",
+    "Employees State Insurance Corporation v. HMT Ltd.",
+    "Mcleod Russell India Ltd. v. Regional Provident Fund Commissioner",
+    "Assistant Provident Fund Commissioner v. RSL Textiles India Private Limited",
+    "Chairman, SEBI v. Shriram Mutual Fund",
+    "Union of India v. Dharmendra Textile Processors",
+    "Director of Enforcement v. MCTM Corpn. (P) Ltd."
+  ],
+  "final_judgment": "Appeal dismissed. The levy of damages under Section 14B for default in EPF contributions upheld as constitutional and mandatory, irrespective of mens rea."
+}

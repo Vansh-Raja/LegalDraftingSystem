@@ -1,0 +1,16 @@
+{
+  "case_number": "Criminal Appeal No. 1978 of 2013",
+  "parties": {
+    "petitioner": "Rajaram S/O Sriramulu Naidu (since deceased) through L.Rs.",
+    "respondent": "Maruthachalam (since deceased) through L.Rs."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-18",
+  "summary": "The appeals challenged the Madras High Court's conviction under Section 138 of the Negotiable Instruments Act, 1881, and decrees in civil suits for recovery based on promissory notes. The cheques in question were issued in 1992 as security for chit-fund subscriptions but were encashed in 1999 after the account was closed. The appellant claimed misuse of blank cheques and lack of legally enforceable debt; the respondent argued enforceability of promissory notes and cheques. Key issues included presumption under Section 139 NI Act, burden of proof, and financial capacity to lend. The Court examined whether the accused rebutted the statutory presumption of liability by preponderance of probabilities.",
+  "legal_provisions_cited": [
+    "Section 138 of the Negotiable Instruments Act, 1881",
+    "Section 118(a)",
+    "Section 139"
+  ],
+  "final_judgment": "Appeals allowed; conviction and civil decrees set aside due to failure of respondents to prove legitimate loan transactions and misuse of blank cheques issued as security; appellant entitled to costs."
+}

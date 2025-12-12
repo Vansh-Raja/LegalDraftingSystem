@@ -1,0 +1,2142 @@
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna
+Khaitan on 11 July, 2022
+
+Author: Bela M. Trivedi
+
+Bench: Bela M. Trivedi
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO. 8249 OF 2013
+
+SECURITIES AND EXCHANGE BOARD OF INDIA                                ...     APPELLANT
+
+VERSUS
+
+SUNIL KRISHNA KHAITAN AND OTHERS                                      ... RESPONDENTS
+
+WITH
+
+CIVIL APPEAL NO. 1762 OF 2014
+
+JUDGMENT
+
+SANJIV KHANNA, J.
+
+This common judgment would decide the aforesaid two appeals preferred by the Securities and
+Exchange Board of India1, whereby it has challenged the order of the Securities Appellate Tribunal2
+dated 19th June 2013 in Appeal No. 23 of 2013 titled ‘Sunil Krishna Khaitan and Others v. Securities
+and Exchange Board of India’; and the order dated 31st October 2013 in Appeal No. 2 of 2013 titled
+‘Smt. Madhuri S. Pitti and Others v. Securities and 1 The ‘Board’, for short.
+
+2 The ‘Appellate Tribunal’, for short.
+
+2. Primary questions of law raised in these appeals relates to the interpretation of Regulation 10 of
+the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997;3 the power and
+exercise of the power by the Board under Regulations 44 read with 45 of the Takeover Regulations,
+1997; and the power and jurisdiction of the Appellate Tribunal under Section 15T of the Securities
+and Exchange Board of India Act, 1992.4 A. Background facts:
+
+I) Appeal No. 23 of 2013 (Sunil Krishna Khaitan’s case)
+
+1
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+3. Khaitan Electrical Limited,5 a company incorporated in 1975, listed on BSE
+Limited and National Stock Exchange Limited, is engaged in the business of
+manufacturing and marketing of electrical goods.
+
+4. KEL was founded by late Shri Krishna Khaitan (R12 in the appeal), who had passed
+away on 04th November 2012 and is represented by his legal representatives. The
+promoter group consists of his family member/relative and associate entities, which
+include other respondents in the appeal, namely Sunil Krishna Khaitan, M/s.
+
+3 Hereinafter referred to as ‘Takeover Regulations 1997’. 4 For short, the ‘Act’.
+
+5 For short, ‘KEL’.
+
+Khaitan Lefin Limited and M/s. The Oriental Mercantile Company Limited (R11st, R13rd and R14th
+respectively).
+
+5. In the Extraordinary General Meeting held on 23rd March 2006, the shareholders of KEL had
+approved issuance of 10,00,000 equity share warrants with the face value of Rs. 10/- each at a
+premium of Rs. 50/- each on preferential basis to the respondents. The warrants were to be
+converted into equity shares within a period of eighteen months from the date of allotment.
+
+6. In the Extraordinary General Meeting held on 29th November 2006, the shareholders had
+approved issuance of 10,00,000 warrants with face value of Rs. 10/- each with premium of Rs. 121/-
+each on preferential basis to M/s. Khaitan Lefin Limited (R13),6 an identified member of the
+promoter group, to be converted into equity shares within a period of eighteen months. This
+Extraordinary General Meeting had also approved issuance of 25,00,000 equity shares of face value
+of Rs. 10/- each at a premium of Rs. 125/- each on preferential basis to strategic investors. However,
+in this appeal, we are not concerned with the issue of shares to the strategic investors.
+
+6 For short, ‘KLL’.
+
+7. On 12th March 2007, the respondents acquired 13,00,000 shares in KEL in two tranches i.e.,
+5,00,000 in one transaction and 8,00,000 shares in the other. Upon receipt of the full consideration
+in terms of the warrants, KEL had issued shares to the respondents consequent to which the
+shareholdings of the respondents and the promoter group underwent a change, which are required
+to be noted and are reproduced :
+
+8. The respondents were served with the show-cause notice dated 26th March 2012 issued by the
+Board with respect to violation of Regulations 10 and 11(1) of the Takeover Regulations 1997, calling
+upon them to show cause why suitable directions under Sections 11 and 11B of the Act and
+Regulations 44 and 45 of the Takeover Regulations 1997 read with corresponding provisions of
+Regulations 33 and 35 of the SEBI (Substantial Acquisition of Shares and Takeover) Regulations,
+20117 should not be issued against them. Violation of Regulation 10 was predicated on the ground
+that on 12th March 2007, shareholding of KLL (R13) had individually increased from 10.52% to
+
+2
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+17.16% and thereby it was mandatory for KLL to make a public announcement in accordance with
+the provisions of Regulation 10 read with Regulation 14(1) of the Takeover Regulations 1997 within
+four working days from 12th March 2007. Further, on 12th March 2007, the collective shareholding
+of the promoter group, including the acquirers, had increased from 25.83% to 34.21% and,
+therefore, the acquirers collectively were required to make a public announcement in accordance
+with the provisions of Regulation 11(1) read with Regulations 14(1) of the Takeover Regulations 1997
+within four working days from 12th March 2007.
+
+9. The respondents contested the show-cause notice on various grounds, which we will be
+canvassing subsequently.
+
+10. The Whole Time Member8 of the Board did not agree with the submissions made by the
+respondents and vide his order dated 31st December 2012 held that there was violation of
+Regulations 10 and 7 Hereinafter referred to as the ‘Takeover Regulations 2011’. 8 See Section
+4(1)(d) of the Act:
+
+“The Board shall consist of the following members, namely:
+
+(d) five other members of whom at least three shall be the whole-time members.”
+11(1) of the Takeover Regulations 1997 and, therefore, the respondents shall make a
+combined public announcement to acquire shares of the target company,9 namely
+KEL, in terms of Regulations 10 and 11(1) of the Takeover Regulations 1997 within
+forty-five days of the order. Further the respondent, along with the consideration
+amount, shall pay interest @ 10% per annum from 16th June 2007 till the date of
+payment to the shareholders who were holding shares in KEL on the date of
+violation, and whose shares shall be accepted in the open offer, albeit after
+adjustment of dividend, if any, paid. The effect of the aforesaid direction in the order
+dated 31st December 2012 would be examined by us subsequently.
+
+11. The respondents preferred an appeal before the Appellate Tribunal, which by the impugned
+order has been partly allowed. The Appellate Tribunal has held that Regulation 10 was not violated,
+but Regulation 11(1) was violated albeit the direction with regard to issue of public announcement
+and open offer was not sustainable at a belated stage. There was a delay of about 5 years in issuing
+show-cause notice relating to acquisition/incidents which pertain to the year 2006-07, and as the
+impugned order came to be passed 9 Regulation 2(1)(o): “target company” means a listed company
+whose shares or voting rights or control is directly or indirectly acquired or is being acquired. only
+on 31st December 2012, the directions of the Whole Time Member for issue of public announcement
+and open offer were set aside. However, monetary penalty of Rs. 25,000,00/- has been imposed.
+
+II) Appeal No. 2 of 2013 (Madhuri S. Pitti’s case)
+
+12. Pitti Laminations Ltd.10 was incorporated in the year 1983 under the Companies Act, 1956 and
+its six promoters, namely, Mr. Sharad B. Pitti, Ms. Madhuri Pitti (R21), Mr. Akshay S. Pitti (R23),
+Pitti Electrical Equipment Pvt. Ltd (R22), Mrs. Shanti B. Pitti and Mr. Sharad B. Pitti have been
+
+3
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+controlling the affairs of PLL since its inception.
+
+13. On 22nd June 2005, PLL allotted 3,90,000 shares and 4,10,000 warrants convertible into equity
+shares to R23. On 26th April 2006, R23 converted some warrants into equity shares which
+increased his individual shareholding in PLL from 11.87% to 16.25%.
+
+14. On 11th April 2007, R23 converted the remaining warrants into equity shares of PLL, which
+again increased his individual shareholding in PLL from 14.88% to 15.77%.
+
+15. At the Annual General Meeting of PLL on 11th August 2011, a preferential allotment of
+40,50,000 equity shares to R21 and R22 10 Hereinafter referred to as “PLL”.
+
+was authorised by the shareholders of PLL. This resulted in increase in the total shareholding of the
+three respondents (R21, R22 and R23) with that of Mr. Sharad Pitti from 41.70% to 59.21%.
+
+16. Accordingly, a public announcement was made on 09th September 2011 and simultaneously, a
+Draft Letter of Offer was filed before the Board for its approval on 19th September 2011.
+
+17. On a query by the Board, R23 on 28th November 2011, wrote a letter denying his failures to
+make public announcement at the time of acquisition of shares by him on 22nd June 2005, and
+26th April 2006. Subsequently, on 19th March 2012 a hearing was afforded to him in this regard.
+Thereafter, R23 had submitted replies on three occasions on the respect of his purported failure to
+make public announcement at the time of acquisition of the shares in 2005 and 2006.
+
+18. After a lapse of more than one year, the Board through Assistant General Manager, Corporate
+Finance Department, Division of Corporate Restructuring issued the letter dated 17th December
+2012, mandating the Merchant Banker of the respondents to inter alia revise the schedule of the
+offer by taking into account the acquisitions made by R23 on 26th April, 2006 and 11th April, 2007
+and thereby, revise the offer price to the shareholders.
+
+19. The respondents challenged the letter before the Appellate Tribunal, which vide impugned order
+dated 31st October 2013 allowed the appeal and permitted the respondents to continue with their
+offer excluding the Board’s directions relating to the acquisitions by R23 in the years 2006 and
+2007. The impugned order observes that the Board by such letters could not issue directions to
+listed companies, by terming it as a mere advice without giving any choice in the matter. Further,
+placing reliance on the impugned order herein in Sunil Khaitan v. SEBI, Appeal No. 23 of 2013
+decided on 19th June 2013, the Appellate Tribunal observed that to determine whether or not the
+limit under Regulation 10 has been crossed, shareholdings of all members of the group of persons
+acting in concert would have to be reckoned as a whole.11 B. Contentions of the appellant/Board:
+
+20. On 12th March 2007, individual shareholding of KLL (R13) in KEL had increased from 10.52%
+to 17.16%, whereas shareholding of the promoter group had collectively increased from 25.83% to 11
+In Appeal No. 2 of 2013 (Madhuri S. Pitti’s case), there is no specific order under Regulation 44 by
+the Whole Time Member, albeit, as noticed above, directions were issued by the Board to amend the
+
+4
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+draft letter of offer submitted by PLL for the Board’s approval on 19th September 2011, vide the
+Board’s letter dated 17th December 2012. The Appellate Tribunal has adversely commented on the
+Board’s conduct in issuing the said direction by directing amendment of the draft letter of offer.
+During the course of arguments, the Board has not specifically challenged the observations and the
+adverse finding of the Appellate Tribunal that such directions could not have been issued by the
+Board vide letter dated 17th December 2012. We will not make any comments or give findings in this
+regard. 34.21%. Thus, there was a violation of both Regulation 10 and Regulation 11(1) of the
+Takeover Regulations 1997.
+
+21. On 26th April 2006, shareholding of R23 in PLL had increased from 11.87% to 16.25%. Again, on
+11th April 2007, shareholding of R23 had increased from 14.88% to 15.77%. However, no public
+announcement for open offer was made by R23 or by the acquirer group within the period of four
+days from the respective dates.
+
+22. The objective of the Takeover Regulations 1997 is to bring to the knowledge of the shareholders
+of the company any change in substantial ownership of the company and to provide an exit
+opportunity through an open offer in case of such substantial change.
+
+23. Regulations 10 and 11(1) have to be read accordingly and in line with the objective of the
+Takeover Regulations 1997.
+
+24. Regulations 10, 11 and 12 operate in three distinct fields in which the acquirer of shares or voting
+rights of the company is required to make a public announcement and make an open offer to acquire
+shares of existing shareholders. These Regulations may overlap in some cases as in the present case,
+but are not mutually exclusive, as has been held by this Court in Swedish Match AB and Another v.
+Securities & Exchange Board of India and Another.12
+
+25. Impugned judgment and reasoning given by the Appellate Tribunal is contrary to the objective of
+Regulation 10, which is to ensure that an exit option is provided to the existing shareholders once
+any person, whether individually, and or along with any another person acting in concert with each
+other, acquires shares that cross the 15% threshold. Such acquirer or group, as the case may be,
+would be able to exercise sufficient degree of control over the management of the company, which
+may not be in the interest of the company and, therefore, exit option should be given to the existing
+shareholders.
+
+26. In contrast, the objective of Regulation 11 is to provide an opportunity to the shareholders to exit
+in case an acquirer of shares, having 15% or more but less than 55% of the shares or voting rights,
+either individually or with persons acting in concert, increases their shareholding or voting rights
+over 5% at any given point in a financial year. As such acquisition enables the individual or the
+person acting in concert with others to yield greater influence over management of the company,
+and Regulations 11(1) of the 12 (2004) 11 SCC 641.
+
+Takeover Regulations 1997 provides for an exit option to the existing shareholders.
+
+5
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+27. Regulation 3(3) of the Takeover Regulations 2011 makes explicit what was already implicit in the
+Takeover Regulations 1997, that in a case an individual within the group crosses the stipulated
+minimum shareholding threshold, such an individual shall make a public offer even when there is
+no change in aggregate shareholdings of the group, that is, persons acting in concert. Reference is
+made to the report of the Takeover Regulation Advisory Committee headed by Mr. C. Achuthan,
+which exhibits that Regulation 3(3) is to clarify the requirement that was already existing in the
+Takeover Regulations 1997.
+
+28. There is no estoppel against a statute and, therefore, the respondents in appeals herein cannot
+take any advantage and plead that the Board is deviating from its earlier stance. Reference is made
+to Sanjiv Coke Manufacturing Company v. M/s. Bharat Coking Coal Limited and Another.13 In fact,
+the interpretation given by the Board in these appeals has been accepted by the Appellate Tribunal
+in certain cases.
+
+13 (1983) 1 SCC 147
+
+29. The Board has been conferred with powers under the Act in terms of Section 11 thereof to issue
+appropriate direction for protection of interest of the shareholders; under Section 15-H read with
+Section 15-I to impose monetary penalty on the defaulter; and under Section 24 to criminally
+prosecute the defaulter for contravention of the provisions of the Act or regulations thereunder.
+These are separate powers vested with the Board with distinct objectives, which can sometimes be
+overlapping but are not identical, as has been held by this Court in Prakash Gupta v. Securities &
+Exchange Board of India.14 The Board being an expert body is entitled to exercise the aforesaid
+powers to subserve the interest of the investors as well as to promote orderly and healthy growth of
+the securities market.
+
+30. The Appellate Tribunal should not have interfered with the directions to make an open offer,
+which are in line with the objective of Sections 11 and 11-B of the Act read with Regulation 44 of the
+Takeover Regulations 1997. The order passed by the Whole Time Member directing making of
+public announcement for open offer along with paying interest to the shareholders of the target
+company, was made with the larger objective of protecting interests 14 2021 SCC OnLine SC 485.
+
+of the shareholders who have a right and expectation to be provided with the opportunity to exit the
+company in case the shareholding/voting rights of a person and/or persons acting in concert crosses
+the stipulated threshold at any point of time.
+
+31. Scope of power of the Appellate Tribunal enumerated in Section 15-T does not extend to
+substituting directions issued under Sections 11 and 11B of the Act with monetary penalty under
+Section 15-H of the Act. The scope of power of the Appellate Tribunal is wide but cannot be
+exercised in a manner which is inconsistent with the scheme of the Act. Further, the directions
+issued for public announcement and open offer are in line with the objectives of the Act which states
+that as soon as the contravention of the statutory obligation is established, penalties must follow.
+This is a distinct objective envisaged in Sections 11 and 11B of the Act read with Regulation 44 of the
+Takeover Regulations 1997, as has been held in several decisions of this Court in Zile Singh v. State
+
+6
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+of Haryana and Others,15 Chairman, SEBI v. Shriram Mutual Funds and Another16 and Securities
+and Exchange Board of India v. Saikala Associates Limited.17 15 (2004) 8 SCC 1 16 (2006) 5 SCC
+361 17 (2009) 7 SCC 432
+
+32. The Appellate Tribunal does not exercise jurisdiction under Article 226 of the Constitution of
+India and is a creation of the statute and, therefore, cannot pass any order inconsistent with the
+scheme of the Act. Thus, imposition of monetary penalty for violation of Regulation 11(1) of the
+Takeover Regulations 1997, as directed by the Appellate Tribunal, is contrary to law and would also
+result in weakening of investor confidence in securities market as defaulters would be able to escape
+the obligation.
+
+33. Lastly, the delay in issue of show-cause notice itself would not exonerate the defaulters under the
+Act and the relevant Regulations, as has been held in Adjudicating Officer, Securities and Exchange
+Board of India v. Bhavesh Pabari.18
+
+34. For brevity, we are not reproducing the submissions made by the respondents as they would be
+noticed subsequently and are inferable from our reasoning, which upholds the orders by the
+Appellate Tribunal on the interpretation of Regulation 10 of the Takeover Regulations 1997.
+Secondly, we have upheld the order of the Appellate Tribunal setting aside the directions of public
+announcement with open offer given by the Whole Time Member under Regulation 44 for violation
+of Regulation 11(1) of the 18 (2019) 5 SCC 90 Takeover Regulation,1997 in the case of Sunil Kumar
+Khaitan in Appeal No. 8249 of 2013. However on the aspect of the power of Appellate Tribunal
+under Section 15T of the Act, we have expressed our reservation and disagreed with the Appellate
+Tribunal for the reasons set out below.
+
+C. Relevant Provisions:
+
+35. We begin by reproducing the relevant provisions of the Takeover Regulations 1997 which are as
+under:
+
+“2. Definitions.
+
+2. (1) In these Regulations, unless the context otherwise requires:
+
+xx xx xx
+
+(b) “acquirer” means any person who, directly or indirectly, acquires or agrees to
+acquire shares or voting rights in the target company, or acquires or agrees to acquire
+control over the target company, either by himself or with any person acting in
+concert with the acquirer;
+
+xx xx xx
+
+7
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+(e) “person acting in concert” comprises— (1) persons who, for a common objective
+or purpose of substantial acquisition of shares or voting rights or gaining control over
+the target company, pursuant to an agreement or understanding (formal or
+informal), directly or indirectly co-operate by acquiring or agreeing to acquire shares
+or voting rights in the target company or control over the target company.
+
+(2) Without prejudice to the generality of this definition, the following persons will be deemed to be
+persons acting in concert with other persons in the same category, unless the contrary is established:
+
+(i) a company, its holding company, or subsidiary or such company or company
+under the same management either individually or together with each other;
+
+(ii) a company with any of its directors, or any person entrusted with the
+management of the funds of the company;
+
+(iii) directors of companies referred to in sub-clause
+
+(i) of clause (2) and their associates;
+
+(iv)mutual fund with sponsor or trustee or asset management company;
+
+(v) foreign institutional investors with sub-
+
+account(s);
+
+(vi) merchant bankers with their client(s) as acquirer;
+
+(vii) portfolio managers with their client(s) as acquirer;
+
+(viii) venture capital funds with sponsors;
+
+(ix) banks with financial advisers, stock brokers of the acquirer, or any company which is a holding
+company, subsidiary or relative of the acquirer :
+
+Provided that sub-clause (ix) shall not apply to a bank whose sole relationship with
+the acquirer or with any company, which is a holding company or a subsidiary of the
+acquirer or with a relative of the acquirer, is by way of providing normal commercial
+banking services or such activities in connection with the offer such as confirming
+availability of funds, handling acceptances and other registration work;
+
+(x) any investment company with any person who has an interest as director, fund
+manager, trustee, or as a shareholder having not less than 2 per cent of the paid-up
+capital of that company or with any other investment company in which such person
+or his associate holds not less than 2 per cent of the paid-up capital of the latter
+
+8
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+company.
+
+Note : For the purposes of this clause ―associate(cid:134) means,— (a) any relative of that person within the
+meaning of section 6 of the Companies Act, 1956 (1 of 1956); and (b) family trusts and Hindu
+undivided families;
+
+xx               xx               xx
+
+6. Transitional provision.
+
+(1) Any person, who holds more than five per cent shares or voting rights in any company, shall
+within two months of notification of these regulations disclose his aggregate shareholding in that
+company, to the company.
+
+(2) Every company whose shares are held by the persons referred to in subregulation (1) shall,
+within three months from the date of notification of these regulations, disclose to all the stock
+exchanges on which the shares of the company are listed, the aggregate number of shares held by
+each person.
+
+(3) A promoter or any person having control over a company shall within two months of notification
+of these regulations disclose the number and percentage of shares or voting rights held by him and
+by person(s) acting in concert with him in that company, to the company.
+
+(4) Every company, whose shares are listed on a stock exchange shall within three months of
+notification of these regulations, disclose to all the stock exchanges on which the shares of the
+company are listed, the names and addresses of promoters and/or person(s) having control over the
+company, and the number and percentage of shares or voting rights held by each such person.
+
+7. Acquisition of 5 per cent and more shares or voting rights of a company.
+
+(1) Any acquirer, who acquires shares or voting rights which (taken together with shares or voting
+rights, if any, held by him) would entitle him to more than five per cent or ten per cent or fourteen
+per cent 2 [or fifty four per cent or seventy four per cent] shares or voting rights in a company, in
+any manner whatsoever, shall disclose at every stage the aggregate of his shareholding or voting
+rights in that company to the company and to the stock exchanges where shares of the target
+company are listed.
+
+(1A) Any acquirer who has acquired shares or voting rights of a company under sub-regulation (1) of
+regulation 11, 1 [or under second proviso to sub-
+
+regulation (2) of regulation 11] shall disclose purchase or sale aggregating two per cent or more of
+the share capital of the target company to the target company, and the stock exchanges where shares
+of the target company are listed within two days of such purchase or sale along with the aggregate
+shareholding after such acquisition or sale.
+
+9
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+Explanation.—For the purposes of sub-regulations (1) and (1A), the term ‗acquirer‘ shall include a
+pledgee, other than a bank or a financial institution and such pledgee shall make disclosure to the
+target company and the stock exchange within two days of creation of pledge.
+
+(2) The disclosures mentioned in sub-regulations (1) and (1A) shall be made within two days of —
+(a) the receipt of intimation of allotment of shares; or (b) the acquisition of shares or voting rights,
+as the case may be.
+
+(2A) The stock exchange shall immediately display the information received from the acquirer under
+sub- regulations (1) and (1A) on the trading screen, the notice board and also on its website.
+
+(3) Every company, whose shares are acquired in a manner referred to in subregulations (1) and
+(1A), shall disclose to all the stock exchanges on which the shares of the said company are listed the
+aggregate number of shares held by each of such persons referred above within seven days of receipt
+of information under sub- regulations (1) and (1A).
+
+8. Continual disclosures.
+
+(1) Every person, including a person mentioned in regulation 6 who holds more than fifteen per cent
+shares or voting rights in any company, shall, within 21 days from the financial year ending March
+31, make yearly disclosures to the company, in respect of his holdings as on 31st March.
+
+(2) A promoter or every person having control over a company shall, within 21 days from the
+financial year ending March 31, as well as the record date of the company for the purposes of
+declaration of dividend, disclose the number and percentage of shares or voting rights held by him
+and by persons acting in concert with him, in that company to the company.
+
+(3) Every company whose shares are listed on a stock exchange, shall within 30 days from the
+financial year ending March 31, as well as the record date of the company for the purposes of
+declaration of dividend, make yearly disclosures to all the stock exchanges on which the shares of
+the company are listed, the changes, if any, in respect of the holdings of the persons referred to
+under subregulation (1) and also holdings of promoters or person(s) having control over the
+company as on 31st March.
+
+(4) Every company whose shares are listed on a stock exchange shall maintain a register in the
+specified format to record the information received under subregulation (3) of regulation 6,
+sub-regulation (1) of regulation 7 and subregulation (2) of regulation 8.
+
+xx xx xx
+
+10. Acquisition of fifteen per cent or more of the shares or voting rights of any company.
+
+No acquirer shall acquire shares or voting rights which (taken together with shares or voting rights,
+if any, held by him or by persons acting in concert with him), entitle such acquirer to exercise fifteen
+
+10
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+per cent or more of the voting rights in a company, unless such acquirer makes a public
+announcement to acquire shares of such company in accordance with the regulations.
+
+11. Consolidation of holdings.
+
+(1) No acquirer who, together with persons acting in concert with him, has acquired, in accordance
+with the provisions of law, 15 per cent or more but less than fifty five per cent (55%) of the shares or
+voting rights in a company, shall acquire, either by himself or through or with persons acting in
+concert with him, additional shares or voting rights entitling him to exercise more than 5% of the
+voting rights, with post acquisition shareholding or voting rights not exceeding fifty five per cent., in
+any financial year ending on 31st March unless such acquirer makes a public announcement to
+acquire shares in accordance with the regulations.
+
+(2) No acquirer, who together with persons acting in concert with him holds, fifty-five per cent
+(55%) or more but less than seventy-five per cent (75%) of the shares or voting rights in a target
+company, shall acquire either by himself or through or with persons acting in concert with him any
+additional shares entitling him to exercise voting rights or voting rights therein, unless he makes a
+public announcement to acquire shares in accordance with these Regulations:
+
+Provided that in a case where the target company had obtained listing of its shares by
+making an offer of at least ten per cent (10%) of issue size to the public in terms of
+clause (b) of sub-rule (2) of rule 19 of the Securities Contracts (Regulation) Rules,
+1957, or in terms of any relaxation granted from strict enforcement of the said rule,
+this sub-regulation shall apply as if for the words and figures seventy-five per cent
+(75%), the words and figures ninety per cent (90%) were substituted.
+
+Provided further that such acquirer may, notwithstanding the acquisition made
+under regulation 10 or sub-regulation (1) of regulation 11, without making a public
+announcement under these Regulations, acquire, either by himself or through or with
+persons acting in concert with him, additional shares or voting rights entitling him
+upto five per cent. (5%) voting rights in the target company subject to the following:
+
+(i) the acquisition is made through open market purchase in normal segment on the
+stock exchange but not through bulk deal /block deal/ negotiated deal/ preferential
+allotment; or the increase in the shareholding or voting rights of the acquirer is
+pursuant to a buyback of shares by the target company;
+
+(ii) the post-acquisition shareholding of the acquirer together with persons acting in
+concert with him shall not increase beyond seventy five percent.
+
+(75%).
+
+(2A) Where an acquirer who (together with persons acting in concert with him) holds fifty-five per
+cent (55%) or more but less than seventy-five per cent (75%) of the shares or voting rights in a target
+
+11
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+company, is desirous of consolidating his holding while ensuring that the public shareholding in the
+target company does not fall below the minimum level permitted by the Listing Agreement, he may
+do so by making a public announcement in accordance with these regulations:
+
+Provided that in a case where the target company had obtained listing of its shares by
+making an offer of at least ten per cent (10%) of issue size to the public in terms of
+clause (b) of sub-rule (2) of rule 19 of the Securities Contracts (Regulation) Rules,
+1957, or in terms of any relaxation granted from strict enforcement of the said rule,
+this sub-regulation shall apply as if for the words and figures seventy-five per cent
+(75%), the words and figures ninety per cent (90%) were substituted.
+
+(3) Notwithstanding anything contained in regulations 10, 11 and 12, in case of
+disinvestment of a Public Sector Undertaking, an acquirer who together with persons
+acting in concert with him, has made a public announcement, shall not be required to
+make another public announcement at the subsequent stage of further acquisition of
+shares or voting rights or control of the Public Sector Undertaking provided:— (i)
+both the acquirer and the seller are the same at all the stages of acquisition, and (ii)
+disclosures regarding all the stages of acquisition, if any, are made in the letter of
+offer issued in terms of regulation 18 and in the first public announcement.
+
+Explanation. — For the purposes of regulation 10 and regulation 11, acquisition shall mean and
+include — (a) direct acquisition in a listed company to which the regulations apply; (b) indirect
+acquisition by virtue of acquisition of companies, whether listed or unlisted, whether in India or
+abroad.
+
+12. Acquisition of control over a company.
+
+Irrespective of whether or not there has been any acquisition of shares or voting rights in a
+company, no acquirer shall acquire control over the target company, unless such person makes a
+public announcement to acquire shares and acquires such shares in accordance with the regulations:
+
+Provided that nothing contained herein shall apply to any change in control which
+takes place in pursuance to a special resolution passed by the shareholders in a
+general meeting:
+
+Provided further that for passing of the special resolution facility of voting through
+postal ballot as specified under the Companies (Passing of the Resolutions by Postal
+Ballot) Rules, 2001 shall also be provided.
+
+Explanation — For the purposes of this regulation, acquisition shall include direct or
+indirect acquisition of control of target company by virtue of acquisition of
+companies, whether listed or unlisted and whether in India or abroad.” D.
+Interpretation of Regulation 10 of the Takeover Regulations, 1997:
+
+12
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+36. Regulation 6, a transitional provision, states that any person who holds more
+than 5% shares or voting rights in a company shall, within two months of the
+notification of the Takeover Regulations 1997, disclose the aggregate shareholding to
+the company.19 Every company is required to, within three months of the
+notification of the Takeover Regulations 1997, disclose, to all stock exchanges in
+which the shares of the company are listed, the aggregate number of shares held by
+such person.20 A promoter or person having control over the company is required to,
+within two months, disclose the number and percentage of voting rights held by him
+and the persons acting in concert with him to the company.21 In turn, the company
+is, within three months, required to disclose to all stock exchanges in which the
+shares of the company are listed, the names and addresses of the promoters or the
+persons having 19 Regulation 6(1) of the Takeover Regulations, 1997. 20 Ibid
+Regulation 6(2).
+
+21 Ibid Regulation 6(3).
+
+control of the company, the number and percentage of shares or voting rights held by each such
+person.22
+
+37. Regulation 7 states that any acquirer who acquires shares or voting rights, taken together with
+the shares or voting rights already held by him, which would entitle him to more than 5% or 10% or
+14% or 54% or 74% shares or voting rights of the company in any manner whatsoever, disclose at
+every stage, aggregate of his shareholding or voting rights to the company and to the stock
+exchanges where the shares are listed.23 Sub-regulation 1A to Regulation 7 states that any acquirer
+who has acquired shares or voting rights of the company, under sub-regulation 1 to Regulation 11 or
+under second proviso to sub-regulation 2 to Regulation 11, shall disclose the purchase or sale
+aggregating 2% or more of the share capital of the target company to the target company, and to the
+stock exchanges where the shares of the target company are listed within two days of such purchase
+or sale along with aggregate of shareholding after such acquisition or sale. The explanation to
+Regulation 7(1) and (1A) states that the term ‘acquirer’ for sub-regulation (1) and (1A) shall include a
+pledgee, other than a bank or financial institution. Such pledgee shall make a disclosure to the target
+company and 22 Ibid Regulation 6(4).
+
+23 Ibid Regulation 7(1).
+
+the stock exchange within two days of creation of the pledge. Sub-
+
+regulation (2A) to Regulation 7 states that the stock exchange shall immediately display the
+information received from the acquirer under sub-regulation (1) and (1A) on the trading screen, the
+notice board and also on its website. Sub-regulation (3) requires every company whose shares are
+acquired in the manner referred to in sub-regulation (1) and (1A) to disclose to all stock exchanges,
+on which the shares of the said company are listed, the aggregate number of shares held by such
+persons referred above, within seven days of receipt of information under sub-regulation (1) and
+(1A) of Regulation 7 of the Takeover Regulations 1997.
+
+13
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+38. Regulation 6 exposits transparency and openness which is required in the form of disclosure to
+be made by the shareholders, promoters or a person having control over the company, as well as the
+company in which they hold the shares. The information is not only given to the stock exchanges
+where the shares of the company are listed but are also put in the public domain so as to inform the
+shareholders and others. Similar transparency and openness is mandated by Regulation 7 which
+uses the expression ‘acquirer’, and applies when the ‘acquirer’ acquires shares or voting rights of the
+specified percentage in the company. Regulation 6 consciously uses the terms ‘person’, ‘promoter’,
+or ‘a person having control over the company’, and does not use the term ‘acquirer’, as the term
+‘acquirer’ has been given, as noticed below, a specific legal meaning by the Takeover Regulations
+1997. Regulation 7, on the other hand, expressly uses the term ‘acquirer’.
+
+39. When we turn to Regulation 8 which deals with ‘continuous disclosures’, the regulation uses the
+term ‘person’, ‘promoter’, and ‘every person having control over the company’, which are the terms
+used in Regulation 6. Regulation 8 stipulates every person, which includes the person mentioned in
+Regulation 6, who hold more than 15% shares of voting rights as on 31st March shall make a
+disclosure to the company within 21 days from the end of the financial year. There is a similar
+stipulation in sub-regulation (2) to regulation 8 which requires a promoter or every person having
+control over a company to make a disclosure within 21 days from the end of the financial year, as
+well as the record date of the company for declaration of dividend, to make a disclosure of the
+number and percentage of shares or voting rights held by him and by persons acting in concert with
+him in that company to the company. The expression ‘person acting in concert’ has been defined in
+clause (e) to Section 2(1) of the Regulation, which clause has been examined and interpreted by us
+subsequently, also finds reference in the expression ‘acquirer’ defined by clause (b) in Regulation 2
+to the Takeover Regulations 1997. Every company whose shares are listed in the stock exchange is
+mandated by Regulation 8(3) to make a disclosure to all stock exchanges where their shares are
+listed, within 30 days of the end of the financial year as well as the record date for the purpose of
+declaration of dividend as to the holdings of the persons covered by sub-regulations (1) and (2) of
+Regulation 8. Regulation 8(4) states that every company, whose shares are listed, shall maintain a
+register in the specified format to record the information received under sub-regulation (3) to
+Regulation 6, sub-regulation (1) to Regulation 7 and sub- regulation (2) to Regulation 8.
+
+40. The expression ‘acquirer’, as defined in the Takeover Regulations 1997, is broad, wide and is
+given an expansive definition. An ‘acquirer’ is a person who directly or indirectly acquires or agrees
+to acquire shares or control over the target company by himself or with any person acting in concert
+with him. The phrase ‘directly or indirectly’ as well as the expressions ‘acquired shares or voting
+rights’ and ‘with any person acting in concert with the acquirer’ underlines the extensive and
+widespread ambit of the term ‘acquirer’. The term ‘acquirer’ is not restricted to the person or
+individual shareholder as it encompasses any other person acting in concert with the ‘acquirer’.
+
+41. The expression ‘person acting in concert’ as defined in clause (e) to Section 2(1) is again broad
+and expansive. The expression ‘person acting in concert’ as per sub-clause (1) to Clause (e) includes
+a person, who for a common object or for purpose of substantial acquisition of shares, voting rights,
+gaining control over the company, pursuant to an agreement or understanding formal or informal,
+directly or indirectly, cooperate by acquiring or agreeing to acquire shares or voting rights in a target
+
+14
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+company or to take control over a target company. Sub-clause 2 to clause (e) to Section 2(1)
+incorporates legal fiction as it states that the persons enumerated in clauses (i) to (x) shall be
+deemed to be persons acting in concert with other persons in the same category. The note to
+sub-clause
+
+(e) to Clause 2(1) explains the expression ‘associate’ as a relative of the person within the meaning of
+Section 6 of the Companies Act, 1956, family trust and Hindu Undivided Families. However, the
+presumption raised vide sub-clause (2) to Regulation 2(1)(e) is qualified and subject to - ‘unless the
+contrary is established’. Therefore, if the contrary is established, the presumption raised vide clauses
+(i) to (x) may not apply in enterity or only apply in part limited to specific shareholder(s) or the
+persons mentioned in clauses (i) to (x) who in concert acquire shares or voting rights of a target
+company. The factual matrix is determinative as clause (e) vide sub-clause (1) to Regulation 2(1) of
+the Takeover Regulations 1997 lays down a derivative or spin-off rule of interpretation, and even
+when the presumption under sub-clause (2) arises, the adjudicator will not apply the presumption
+when the fact to the contrary are established. The presumption is to be looked as “the bats of law,
+flitting in the sunlight but disappearing in the sunshine of fact”.24
+
+42. The object of the aforesaid wide definitions is to ensure that no one is able to dribble past and
+defeat the Takeover Regulations 1997 by resorting to camouflage and subterfuge.
+
+43. Interpreting Regulation 10 the Appellate Tribunal in the case of Madhuri S. Pitti, by referring to
+their earlier decision in the case of Sunil Krishna Khaitan, has opined:
+
+“21. The first ingredient of the regulation in question is “acquirer”, the second is
+“shares or voting rights, if any, held by him or by persons acting in concert with him”;
+and the third is “entitle such acquire to exercise fifteen percent or more of the voting
+rights in a company”. The definitions of “acquirer” and “persons acting in concert” as
+given in the Code of Conduct, 1997 are reproduced below for the sake of
+convenience”:
+
+“2(b) "acquirer" means any person who, directly or indirectly, acquires or agrees to
+acquire shares or voting rights in the target company, or acquires or agrees to acquire
+control over the target company, 24Words from the Full Bench decision of the
+Andhra Pradesh High Court in G. Vasu v. Syed Yaseen Sifuddin Quadri, AIR 1987 AP
+139.
+
+either by himself or with any person acting in concert with the acquirer;
+
+2(e) "person acting in concert" comprises, -
+
+(1) persons who, for a common objective or purpose of substantial acquisition of
+shares or voting rights or gaining control over the target company, pursuant to an
+agreement or understanding (formal or informal), directly or indirectly cooperate by
+acquiring or agreeing to acquire shares or voting rights in the target company or
+
+15
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+control over the target company.
+
+(2) Without prejudice to the generality of this definition, the following persons will be
+deemed to be persons acting in concert with other persons in the same category,
+unless the contrary is established:……”
+
+22. A simple reading of the definition of the word “acquirer” makes it clear that an
+acquirer may act alone or as part of a group of persons acting in concert. On the other
+hand, the definition of “persons acting in concert” reveals that people who cooperate
+with each other in order to acquire substantial voting rights in a particular company
+would be considered persons acting in concert. At this point, we find it necessary to
+quote paragraph 31 from Sunil Khaitan vs SEBI (Appeal No. 23 of 2013 decided on
+19.06. 2013) mentioned herein below:
+
+“31. In this connection, it may also be pertinently noted that the SAST Regulations,
+1997 allow certain persons/ entities to act in concert for the purpose of acquisition.
+Even the definition of “persons acting in concert” as provided in Regulation 2 (e)(1)
+clearly provides that this expression includes persons who agree to cooperate with
+each other to acquire shares/voting rights in a target company or control over the
+target company pursuant to a formal or informal understanding between them,
+directly or indirectly. Thus, the definition is wide enough and gives ample scope to
+persons to act in concert as one unit for the purpose of acquisition of shares/voting
+rights.
+
+Further, Regulation 2(e)(2) also enumerates various persons who could act in concert
+and they, inter alia, include a company, its holding company, a subsidiary, directors,
+mutual fund with sponsor or trustee, foreign institutional investors, merchant
+bankers, so on and so forth. In this context, if we look at the new SAST Regulations,
+2011, we note that Regulation 3(3) specifically provides that acquisition of shares by
+any person within the meaning of sub-regulations 3(1) and 3(2) would be attracting
+the obligation to make an open offer for acquiring shares of the target company
+irrespective of its aggregate shareholding with persons acting in concert if the
+shareholding of such individual person exceeds the threshold limit prescribed by
+regulation
+
+10. It is pertinent to note that such a specific and unambiguous provision making an
+individual liable to make a public offer in case the individual shareholding increases
+during the course of the acquisition even while acting in concert with other persons is
+conspicuously missing in the SAST Regulations, 1997. KLL was, therefore, not
+required to make a public offer and the finding in the Impugned Order qua appellant
+no. 3, i.e., KLL is hereby set aside. At any rate, since the amendment of the Takeover
+Code and the inclusion of regulation 3(3) in the SAST Regulations, 2011 the
+discussion regarding the applicability of regulation 10 of the SAST Regulations, 1997
+has been rendered academic. Having said that, in the facts and circumstances of the
+
+16
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+present case, KLL cannot be called upon to make an open offer by applying regulation
+3(3) of the new Takeover Code retrospectively.”
+
+23. Therefore, it is evident that the framers of the Takeover Regulation, 1997
+intended to bring out a clear distinction between individual acquiring of shares on
+one hand and shares acquired by persons acting in concert on the other. The
+benchmark of 15% would, thus, apply to an individual when the individual is
+acquiring shares/voting rights on his behalf alone.
+
+Similarly, when we attempt to determine whether or not the said limit has been crossed,
+shareholdings of all members of the group of persons acting in concert would have to be reckoned as
+a whole. Any other interpretation which would serve to dilute the distinction between an individual
+acquirer and a group of “persons acting in concert” as an acquirer. It would, indeed, make the
+concept of “persons acting in concert” nugatory, which could never have been the intention of the
+law makers. We, therefore, find Appellant No. 3 free of any blame with respect to provisions of
+regulation 10 of the SAST Regulations, 1997 regarding his acquisitions in the years 2006 and 2007.”
+(Emphasis Added)
+
+44. We agree with the interpretation. Regulation 10 states that no ‘acquirer’ shall acquire voting
+rights, which taken together with the shares or voting rights held by him or by a ‘person acting in
+concert’ would entitle the ‘acquirer’ to exercise 15% or more of the voting rights in the company,
+unless such ‘acquirer’ makes public announcement to acquire shares in accordance with the
+regulations. The word ‘acquirer’ used in Regulation 10 takes its meaning from the definition clause
+(b) to Regulation 2(1), which refers to the shareholder as an individual and also ‘person acting in
+concert’ with the him, which expression has been very widely defined vide clause (e) to Regulation
+2(1) of the Takeover Regulations 1997. The Appellate Tribunal has, therefore, rightly held that the
+word ‘acquirer’, which is a term of art,25 should not be restricted to shares or voting rights of the
+individual shareholder as the term as defined includes the ‘person acting in concert’ with the 25Lord
+Nicholls has defined the phrase ‘term of art’ in a legal sense as a term with one specific and precise
+meaning for the purposes of the enactment- see Brooks Vs. Brooks (1995) 3 All ER 257. shareholder.
+The shareholding/voting rights of the ‘acquirer’, that is the individual shareholder together with the
+‘person acting in concert’ decides whether the ‘acquirer’ is required to make a public
+offer/announcement in terms of Regulation 10, which applies when the voting rights of the
+‘acquirer’ before acquisition were less than 15 %, but on fresh acquisition exceed 15% of the voting
+rights in the company. Regulation 10 does not apply when the collective voting rights of the
+individual shareholder and the ‘person acting in concert’, taken together is 15% or more on the date
+when fresh shares or voting rights are acquired. The bracketed portion of Regulation 10, namely
+“taken together with shares or voting rights, if any, held by him or by persons acting in concert with
+him” affirms and endorses this interpretation.
+
+45. When a word/term has been defined in a statute in a particular manner then the interpreter can
+assume the word/term must be understood in the stipulated sense. The principle applies with
+greater vigour when the definition of the word/term is given a legal and substantive meaning,
+different from the common meaning, as then the writer demands that the reader should understand
+
+17
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+the term/word in the sense defined. When the content and meaning given is technical, the
+interpreter is entitled to infer that the intention of the draftsmen is to deviate and depart from the
+ordinary, literal or customary meaning. Therefore, when a statutory enactment consciously defines a
+word or expression by enlarging or restricting the ordinary meaning, in the absence of clear
+indication to the contrary, the term as defined shall cover what is proposed, authorised, done or
+referred to in the enactment.26 This principle can be also discarded when the definition read and
+applied would not agree with the subject and context thereby making the provision unworkable or
+otiose.
+
+46. In the context of Regulation 10, we do not think that the draftsmen had committed a mistake or
+had forgotten the definition clauses while wording Regulation 10, wherein they have consciously
+used the expression ‘acquirer’, after having defined the same, instead of the word a ‘person’, which
+word has been used in Regulations 6 and 8 of the Takeover Regulations 1997. To accept the
+interpretation given by the Board, we would have to stretch the language of Regulation 10 and not
+read it as it reads, by assuming that the intent is to apply Regulation 10 in two situations (i) when
+the acquirer as a single entity, without taking into consideration the shareholding or voting rights of
+the person(s) acting in concert; as well as (ii) when the single entity together with the person(s)
+acting 26 Lord Lowry, Wyre Forest District Council v. The Secretary of State for Environment, 1990
+2 AC 357. in concert, acquire voting rights, and in either case to cross the stipulation of 15% of the
+voting rights. But this would require us to ignore or rewrite the word ‘acquirer’ which as defined
+includes the ‘person(s) acting in concert’. It defeats the object and purpose behind the ‘term of art’
+definition. Regulation 10 applies to the ‘acquirer’ acquiring voting rights, with reference to the
+existing holding as a person and in concert with other persons, because the acquisition is to be
+“taken together with shares or voting rights held by the acquirer himself or by person acting in
+concert with him”. The combined holding of the person and the ‘person acting in concert’
+determines application of Regulation 10. If an ‘acquirer’ already holds more than 15 % shares or
+voting rights in concert with other persons, such holding is not be fragmented to calculate the shares
+or voting rights of the ‘acquirer’ in his personal capacity under Regulation 10.
+
+47. The language and the wording of Regulation 10 clearly differs from the language and wording of
+Regulation 11(1) of the Takeover Regulations 1997. In Regulation 11(1), an acquirer, either himself or
+through or with any person acting in concert with him, has 15% or more but less than 55%
+shares/voting rights, is required to make a public announcement in accordance with the Regulation
+when he, either by himself or through or with persons acting in concert with him, acquire additional
+shares or voting rights entitling him to exercise more than 5% of the voting shares in addition to
+already acquired shares/voting rights.
+
+48. Thus Regulation 10 does not apply when the ‘acquirer’ already holds more than 15% shares or
+voting rights in the target company. The ‘acquirer’, for the purpose of the said Regulation, not only
+means the individual person but also the ‘person acting in concert’ with the individual person. In
+such cases, Regulation 11(1) may apply when the ‘acquirer’ who hold between 15% to 55% of shares
+or voting rights, post the acquisition of the additional shares or voting rights is entitled to exercise
+more than 5% of the voting rights.
+
+18
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+49. The contention of the Board that the interpretation by the Appellate Tribunal defeats the object
+and purpose of the Takeover Regulations 1997 is a feeble and evanescent argument. The
+interpretation, does not render Regulation 10 ineffective to deal with cases where an individual,
+parts ways with the ‘person(s) acting in concert’ to acquire shares beyond the threshold of 15% with
+the intend to gain control or stake in the target company. The argument overlooks the wording of
+Regulations 2(1)(b) and (e). A ‘person acting in concert’ as defined in clause (e) to Regulation 2(1) is
+a fluctuating and not a fixed body of persons. When there are divisions and differences between or
+amongst the ‘person acting in concert’, or even otherwise, an acquirer acts at his own behest or in
+concert with a different persons or group, Regulation 10 may catch up. Definitions of the terms,
+‘acquirer’ and ‘person acting in concert’ are situation and fact specific. The legal fiction vide sub-
+clause 2 to Section 2(1)(e), specifically stipulates - unless contrary is established. Yes, there could be
+situations when the ‘person(s) acting in concert’ holding more than 15% voting rights post the said
+acquisition may part ways, but Regulation 10 is not attracted and applicable to such situations. To
+argue that public shareholders can predict such events and therefore the Board’s interpretation is
+more acceptable is imaginative but an uncompelling and a weak argument. Risk taking is essential
+to an an active market, and in fact the secruties market thrives on legitimate changes in
+management, flexibility and willingness to accept change, which may not predicitable. Good
+regulation, it is said, should promote and allow for the effective management of risk and not striffle
+risk taking. Regulator should ensure that capital and other prudential requirements are sufficient to
+address appropriate risk taking, and check excessive risk taking.27 Therefore, the apprehension of
+the 27 See Objectives and Principles of Securties Regulation- Objectives of Securities Regulation
+4.2.3 International Organisation of Securities Commissions,- May,2003. Board, which is more in the
+nature of skepticism and qualm, is misconceived and should be rejected.
+
+50. There is ample material, and it is accepted by the Board that they had read the expression
+‘acquirer’ in Regulation 10 to mean and include the shareholder along with ‘person acting in
+concert’. Meaning thereby, there would not be any violation of Regulation 10 if the ‘acquirer’, which
+would include the ‘person acting in concert’, acquires new shares or voting rights when he
+individually or along with the ‘person in concert’, already hold more than 15% shares in the target
+company. This interpretation was accepted and even communicated by the Board to third parties.
+Adjudicating Officer(s) have accepted this interpretation and dropped penalty proceedings, which
+orders have attained finality and accepted by the Board. Relevant portions of some
+communications/orders passed are reproduced below:
+
+1. Letter dated 22nd “3.0 Without necessarily agreeing with your February 2006 to
+analysis, our views on the proposed transactions Nagreeka Exports Ltd. as mentioned
+in para 2.0 above are as under – (CFD/DCR/AK/IG/609 …………… 50/2006) (iii)
+Regulation 10 of the Takeover Regulations applies in case of acquisition of shares or
+voting rights which taken together with shares rights, if any, held by the acquirer or
+by persons acting in concert with him, entitle such acquirer to exercise 15°/o or more
+of the voting target company. Where the shareholding of the promoters is already
+more than 15°/o, this regulation will not be triggered by acq (sic.) additional shares
+by such promoters. In your case, the promoters' shareholding in the company is
+stated to be 41.95°/o. Therefore, if a of conversion of warrants into equity shares by
+
+19
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+promoters of the company, regulation 10 as it exists today prevails, it will not app
+(sic.) acquisition of additional equity shares.”
+
+2. Letter dated 03rd “4. Without necessarily agreeing with your December 2004
+analysis, the following is stated in response to written to Kanishk your clarifications;
+
+Steel          Industries
+Limited                    a) Since the promoters of Kanishk Steel
+
+(CFD/DCR/AK/IG/200 Industries Limited and persons acting in concert
+
+4) are already holding 69.55% shares regulation 10 of SEBI (Substantial Acquisition o
+(sic.) and Takeover) Regulations, 1997, (said Regulations) shall not be applicable.
+After the preferential allotment of 80,00,000 shares, the shareholding of the
+promoters and a (sic.) (who will also be Persons Acting in Concerts) shall increase to
+74.02%, of the post paid capital of the said company, an increase of 4.47% which is
+less than the creep (sic.) specified under regulation 11(1) of the said Regulations.
+Hence, regulation 11(1) of the said Regulations shall also not be applicable.”
+
+3. Adjudication Order “12. Further, upon careful examination of the No.
+DSR/AO-19/2008 definition of acquirer as provided under SAST, it in the case of
+Jamnalal is evident that acquisition of shares by the Sons Private Ltd. acquirer means
+acquisition by the acquirer along wherein the with other persons acting in concert. In
+the instant adjudicating authority case, as the acquirer admittedly belongs to the had
+dropped promoter group, therefore, for determining the proceedings for triggering of
+violation of Regulation provisions of SAST, the acquisition made by the 10 inter alia
+recording whole promoter group should be taken into as under: consideration. I also
+note that the promoter group's total holding increased only by 4.45% (i.e from
+40.56% to 45.01%) subsequent to the rights issue. This increase in the promoter
+group's holding is within the creeping acquisition limit (i.e 5%) as specified under
+Regulation 11(1) of SAST. Therefore, the question of claiming exemption by the
+acquirer from the applicability of Regulation 11(1) of SAST does not arise.
+Consequently, the question of filing of report by the acquirer, in the facts and·
+circumstances of this case, does not arise. Thus, the allegation that the acquirer had
+filed the report with a delay of 900 days is untenable and the allegation against the
+acquirer does not stand established.”
+
+4. In the case of Himmat S. Sonewal (HUF) the adjudicating officer vide order dated
+4.2.2002 had held that the said acquirer was not guilty of violating Regulation 10 as
+the acquirer with the person acting in concert were already holding more than the
+prescribed percentage of shares/voting rights in the target company.
+
+51. Thus, the Board as well as the Adjudicating Officer have treated the expression ‘acquirer’, for the
+purpose of Regulation 10, to include a ‘person acting in concert’ and the combined shareholding
+were taken into consideration for deciding whether there was a breach of Regulation 10. Where the
+
+20
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+‘acquirer’, including the ‘person acting in concert’, already had shares or voting rights in excess of
+the prescribed limit, they were not held guilty of violating Regulation 1028.
+
+52. It is important for the regulator to be consistent and predictable.
+
+Further regulations must be clear as ambiguous regulations cause confusion and uncertainty.
+Regularity and predictability, along with certainty, are hallmarks of good regulation and
+governance. These principles underpin the ‘rule of law’, check arbitrariness and are read as the
+intent of the legislation, which the Courts, if need be, will enforce as a principle of interpretation.
+The Board is entrusted to preform legislative, executive, investigative and adjudicatory functions. A
+regulator when it executes statutory functions interprets the enactment and gives meaning and, in
+that sense, lays 28 Under sub-section (3) to Section 15-I, the Board has the power to call for and
+examine records of any proceedings if it considers the order passed by the adjudicating officer is
+erroneous to the extent it is not in the interests of the securities market and after causing or making
+an inquiry pass an order enhancing the quantum of penalty if the circumstances of the case so
+justify. The second proviso states that an order under sub-section (3) can be passed by the Board
+after expiry of period of three months from the date of the order passed by the adjudicating officer
+or disposal of the appeal under Section 15-T, whichever is earlier.
+
+down what is believes is the rule. As a legislator who constructs and states at the first instance what
+is the rule, the Board tacitly promises and prophecies the interpretation that appeals to them. Any
+good regulatory system must promote and adhere to principle of certainty and consistency,
+providing assurance to the individual as to the consequence of transactions forming part of his daily
+affairs.29 Lord Diplock has aptly said “unless men know what the rule of conduct is they cannot
+regulate their actions to confirm to it.” Otherwise the regulator “fails in its primary function as a
+rule” maker.30 This does not mean that the regulator/authorities cannot deviate from the past
+practice, albeit any such deviation or change must be predicated on greater public interest or harm.
+This is the mandate of Article 14 of the Constitution of India which requires fairness in action by the
+State, and non-arbitrariness in essence and substance. Therefore to examine the question of
+inconsistency, the analysis is to ascertain the need and functional value of the change, as consistency
+is a matter of operational effectiveness. Sometimes changes are desiable and necessary. Referring to
+29 Union of India v. Raghubir Singh, (1989) 2 SCC 754. Also see, The Nature of the Judicial Process,
+Benjamin N. Cardozo, page 33: “I am not to mar the symmetry of the legal structure by the
+introduction of inconsistencies and irrelevancies and artificial exceptions unless for some sufficient
+reason, which will commonly be some consideration of history or custom or policy or justice.
+Lacking such a reason, I must be logical just as I must be impartial, and upon like grounds. It will
+not do to decide the same question one way between one set of litigants and the opposite way
+between another.” 30 Franics Bennion, Bennion on Statutory Interpretation, Fifth Edition (Indian
+reprint), Section 266 at page 801.
+
+these aspects, in some cases, the Indian courts have applied the doctrine of substantive legitimate
+expectation31 observing that the change in policy should not be irrational or perverse or one which
+no reasonable person could have made. In other words, principles of Wednesbury’s reasonableness
+would apply. Such a principle stems, but is somewhat different from the foundational idea of
+
+21
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+procedural legitimate expectation, which applies where a particular mode is prescribed for doing an
+act and there is no impediment in adopting the procedure, the deviation to act in similar manner
+without any reasonable principle, can be labelled as arbitrary.32
+
+53. In Punjab Communications Ltd. v. Union of India and Others,33 it is observed that for a
+legitimate expectation to arise, the decisions of the administrative authority must affect the person
+by depriving him of some benefit or advantage which he had in the past been permitted by the
+decision-maker to enjoy, and which he can legitimately expect to be permitted to continue to do
+until he has been communicated some rational grounds for withdrawing it and 31 See, Council of
+Civil Service Unions v. Minister for the Civil Service, 1985 AC 374, wherein it was observed in that
+case that for a legitimate expectation to arise, the decisions of the administrative authority must
+affect the person by depriving him of some benefit or advantage which either (i) he had in the past
+been permitted by the decision-maker to enjoy and which he can legitimately expect to be permitted
+to continue to do until there has been communicated to him some rational grounds for withdrawing
+it on which he has been given an opportunity to comment; or (ii) he has received assurance from the
+decision-maker that they will not be withdrawn without giving him first an opportunity of advancing
+reasons for contending that they should not be withdrawn. 32 Bannari Amman Sugars Ltd. v.
+Comercial Tax Officers and Others, (2005) 1 SCC 625. 33 (1999) 4 SCC 727 he has been given an
+opportunity to comment. It also means that the assurance given by the decision maker will not be
+withdrawn, without giving him an opportunity of advancing reasons to contend that they should not
+be withdrawn. Reference can also be made to a recent decision of this Court in State of Jharkhand
+and Others v. Brahmputra Metallics Ltd., Ranchi and Another 34 wherein reference was made to
+earlier judgment in National Buildings Construction Corporation v. S. Raghunathan and Others 35
+to reiterate that claims based on legitimate expectations have been held to acquire reliance on the
+representations and resulting detriment to the complainant in the same way as claims based on
+promissory estoppel.
+
+54. In the context of the present case, it is to be noted that the Board is the draftsman of the
+legislation having enacted the Takeover Regulations 1997 and hence, their interpretation and
+understanding of the Regulations is of importance and relevance. In the context of the present case,
+the Board, nearly five years after the transactions, had issued the show-cause notice and then passed
+an order taking a view on interpretation of Regulation 10, which was contrary to the view expressed
+by it in several 34 (2020) SCC Online SC 968 35 (1998) 7 SCC 66 communications as also orders
+passed by the adjudicating authority.Past is passe and not present, and by giving ‘retroactive’
+operation without good reason and ground36, the direction violates fundamental notions of
+predictability and legal stability.37
+
+55. We also feel that the principle of doubtful penalisation would be applicable in the present case.
+Way back in 1955, this Court in Tolaram Relumal and Another v. State of Bombay38 had held that it
+is a well settled rule of construction of penal statutes that if two views and reasonable constructions
+can be put on a provision, the court must lean in favour of construction which exempts the subject
+from penalty rather than one which imposes penalty.39 In Bipinchandra Parshottamdas Patel
+(Vakil) v. State of Gujarat and Others,40 a three Judges’ Bench of this Court had referred to this
+principle and quoted the following passage from Mohammad 36 See our findings below.
+
+22
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+37 Methew P. Harrington: Foreward: The Dual Dichotomy of Retroactive Lawmaking. 38 (1955) 1
+SCR 158 39 Ibid, para 8: “The question that needs our determination in such a situation is whether
+Section 18(1) makes punishable receipt of money at a moment of time when the lease had not come
+into existence, and when there was a possibility that the contemplated lease might never come into
+existence. It may be here observed that the provisions of Section 18(1) are penal in nature and it is a
+well-settled rule of construction of penal statutes that if two possible and reasonable constructions
+can be put upon a penal provision, the court must lean towards that construction which exempts the
+subject from penalty rather than the one which imposes penalty. It is not competent to the court to
+stretch the meaning of an expression used by the legislature in order to carry out the intention of the
+legislature. As pointed out by Lord Macmillan in London and North Eastern Railway Co. v.
+Berriman [1946 AC 278, 295] “where penalties for infringement are imposed it is not legitimate to
+stretch the language of a rule, however, beneficient its intention, beyond the fair and ordinary
+meaning of its language”. 40 (2003) 4 SCC 642 Ali Khan and Others v. Commissioner of Wealth
+Tax, New Delhi,41 which reads:
+
+“6. It is a cardinal principle of construction that the words of a statute are first
+understood in their natural, ordinary or popular sense and phrases and sentences are
+construed according to their grammatical meaning unless that leads to some
+absurdity or unless there is something in the context or in the object of the statute to
+suggest the contrary. It has been often held that the intention of the legislature is
+primarily to be gathered from the language used, which means that attention should
+be paid to what has been said as also to what has not been said. As a consequence a
+construction which requires for its support addition or substitution of words or which
+results in rejection of words as meaningless has to be avoided. Obviously the
+aforesaid rule of construction is subject to exceptions. Just as it is not permissible to
+add words or to fill in a gap or lacuna, similarly it is of universal application that
+effort should be made to give meaning to each and every word used by the
+legislature.” Reference was thereafter made to Francis Bennion’s Statutory
+Interpretation which observes that the principle of doubtful penalisation, often
+limited to criminal statutes, in fact, extends to any form of detriment. The jurist has
+opined that it is a principle of legal policy that a person should not be penalised
+except under clear law. We, when considering in relation to the facts of the instant
+case, wherein the opposing constructions of the enactment is possible, should
+presume that the legislature intended to observe this principle. The courts, therefore,
+try to avoid adopting a
+
+41 (1997) 3 SCC 511 construction which penalises a person where the legislature’s intention to do so
+is doubtful.
+
+56. We would quote Section 278 from the Bennion on Statutory Interpretation, 5th Edition, Indian
+Reprint, which reads as under:
+
+“Section 278. Statutory interference with economic interests One aspect of the
+principle against doubtful penalisation is that by the exercise of state power the
+
+23
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+property or other economic interests of a person should not be taken away, impaired
+or endangered, except under clear authority of law.” In the comments in Section 278
+of the treatise, it is stated that the presumption against imposition of statutory
+detriment to a person’s property or other economic interest has been recognised and
+explained in Entick v. Carrington42 by Brat C.J. in the following words:
+
+“The great end for which men entered into society was to secure their property. That
+right is preserved sacred and incommunicable in all instances where it has not been
+abridged by some public law for the good of the whole.”
+
+57. The principle of doubtful penalisation has limited value when interpreting beneficial or remedial
+statutes where the adjudicator may adopt a liberal and a purposive interpretation.43 The principle
+42(1765) 19 State Tr 1029 at 1060.
+
+43Franics Bennion, Bennion on Statutory Interpretation, Fifth Edition (Indian reprint), Section 271
+at page 827.
+
+can be ignored when other interpretative factors, like interest of public law and good of the society,
+weigh heavily to tilt the scales against application of the principle.44 The law of interpretation and
+court decisions applying the law of interpretation recognise pluralism in interpretation.45 Legal
+meaning of the enactment/ provision in question often involves applications of divergent principles,
+rules, cannons and presumptions, which are resolved by weighing and balancing the conflicting
+interpretative criteria and factors.46 Clearly, a straitjacket approach should not be adopted without
+reference to the context, the subject matter and the object of the provision. Only then the court can
+interpret and give meaning which the legislature wanted to achieve and convey.
+
+58. We have already, while referring to the principle of legitimate expectation, referred to the
+exceptions when the court may not apply the said principle.
+
+44 See Her Majesty The Queen ex rel. Linda Merk v. International Association of Bridge, Structural,
+Ornamental and Reinforcing Iron Workers, Local 771, 2005 SCC 70; R. v. Hasslewander, [1993] 2
+S.C.R. 398; R. v. Goulis (1981), 125 D.L.R. (3d) 137; Sullivan, Ruth. Sullivan and Driedger on the
+Construction of Statutes, 4th ed. Markham, Ont.: Butterworths, 2002 at page 387: “The rule [of
+strict construction] is difficult to reconcile with federal and provincial Interpretation Acts which
+provide that all legislation is to be deemed remedial and given a liberal and purposive
+interpretation. In the clearest possible language, this statutory directive requires doubts and
+ambiguities in penal legislation to be resolved in a manner that promotes the purpose of the
+legislation, regardless of the impact on accused persons.”; Côté, Pierre(cid:142)André. The Interpretation of
+Legislation in Canada, 3rd ed. Scarborough, Ont.:
+
+Carswell, 2000 at page 477; Graham, Randal N. Statutory Interpretation: Theory and
+Practice. Toronto: Emond Montgomery, 2001. at pp. 210-15.
+
+45 Franics Bennion, Bennion on Statutory Interpretation, Fifth Edition (Indian reprint). 46 Ibid.
+
+24
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+59. The Board has drawn our attention to the decision of this Court in Swedish Match (supra)
+wherein Mr. Justice S.B. Sinha, who is also the author of the judgment in Bipinchandra (supra), had
+not applied the principle of doubtful penalisation with reference to Regulation 11 of the Takeover
+Regulations 1997. The Hon’ble Judge in Swedish Match (supra) has explained that in the said case
+there was a clear violation and failure on the part of the persons statutorily obliged to comply with
+the imperative statutory provisions. With reference to this decision, the Board had referred to one
+line in paragraph 7747 which refers to Regulation 10 and states that the same would apply as no
+public announcement was made in its compliance. It is to be noted that Regulation 10 was not
+invoked by the Board in Swedish Match (supra) and its violation was not alleged. In the subject
+appeal before this Court in Swedish 47 “77. With a view to advert to the question, the admitted facts
+may be noticed: Swedish Match Singapore agreed to acquire majority shareholding in Haravon and
+Seed subsequent to 17-12-1997 wherefor the public offer was made. SMS comprising Haravon and
+Seed had 28.28% and 10.33% whereas the Jatia Group comprising AVP and Plash had 5% and 15%
+respectively whereas public/others had 41.39% shares. In concert with each other the two groups
+acquired shares from public. On or about 25-8-1999 by acquiring preferential shares the Swedish
+Match Group obtained 52.11% and the Jatia Group obtained 24.11% as a result whereof in Wimco
+the shares held by public/others came down to 23.78%. Both the Swedish Group and the Jatia
+Group were exercising joint control. By reason of the Jatia Group opting out of the joint control by
+transfer of shares in favour of Swedish Match Singapore, a subsidiary of Swedish Match AB (a part
+of the Swedish Match Group) obtained 74% of shares whereas Haravon — 46.18%, Seed — 5.93%
+and SMS — 21.89%. Thus, the extent of shares of the Jatia Group came down to 2.22%. The Jatia
+Group sold its shares to the public as a result whereof shares of the public became 23.78%. SMS is a
+subsidiary of the Singapore Match Group. Swedish Match is the holding company being the owner
+of 100% shares of SMS. It stands categorically admitted by the appellants herein that acquisition of
+shares from the Jatia Group in favour of SMS was done by the Swedish company as a group and not
+as an individual company. Factually, therefore, it is not correct to contend, although in its notice
+dated 28-1-2002, SEBI had given indication thereof, that SMS had acquired 21.89% shares of its
+own. Even if SMS had done so, Regulation 10 would apply as no public announcement was made
+therefor.” Match (supra), reliance was placed on Regulation 12 to get over the mandate of
+Regulation 11, which contention was rejected. One stray sentence in paragraph 77 that Regulation 10
+would apply should not be read as ratio decidendi of the said decision and as a finding on the
+interpretation of Regulation 10.48 Decision dated 25th July 2012 of the Appellate Tribunal in
+Hanumesh Realtors Private Limited v. Securities and Exchange Board of India49 is per incuriam as
+it has referred to the decision in Swedish Match (supra), which decision relates to and interprets
+Regulation 11(1). In the present reasoning, we are not dealing and interpreting Regulation 11(1) but
+Regulation 10 of the Takeover Regulations,1997.
+
+60. Contention of the Board that there is no estoppel against law is well known, but the said
+principle is not applicable for several reasons. First, the interpretation accepted by the Appellate
+Tribunal is not only plausible but more acceptable than the interpretation propounded by the Board.
+Secondly, the Board, which has the 48 See Natural Resources Allocation, In re, Special Reference
+No. 1 of 2012, (2012) 10 SCC 1:
+
+25
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+“70. Each case entails a different set of facts and a decision is a precedent on its own
+facts; not everything said by a Judge while giving a judgment can be ascribed
+precedential value. The essence of a decision that binds the parties to the case is the
+principle upon which the case is decided and for this reason, it is important to
+analyse a decision and cull out from it the ratio decidendi……..
+
+73. It is also important to read a judgment as a whole keeping in mind that it is not an
+abstract academic discourse with universal applicability, but heavily grounded in the
+facts and circumstances of the case.
+
+Every part of a judgment is intricately linked to others constituting a larger whole and thus, must be
+read keeping the logical thread intact……….” 49 Before Securities Appellate Tribunal, Mumbai,
+Appeal No. 66 of 2012, Date of Decision: 25.07.2012. power to enact the Regulations, interpret and
+apply them, adjudicate and also pass a penalty order in case of violation for good and substantial
+reasons had interpreted regulations in the same manner in earlier instances as interpreted by the
+Appellate Tribunal. Thirdly, the adjudication orders in the present case were passed well after the
+Takeover Regulations 1997 were repealed with the enactment and enforcement of the Takeover
+Regulations 2011. In the present case, therefore, we are dealing with a legacy issue. Regulation 10 of
+the Takeover Regulations 1997, as interpreted and applied by the Board for over ten years, is sought
+to be overturned by the Board, thereby, creating penal consequences. This should not be permitted
+and is hardly acceptable when we apply the principle of good governance and regulation.
+
+61. The argument of the Board that Takeover Regulations 2011 are retrospective is to be only noted
+and rejected. The impugned order passed by the Appellate Tribunal in the case of Madhur S Pitti
+(Appeal No. 2 of 2013) specifically records that the Board had conceded that Takeover Regulations
+2011 do not have any retrospective application.50 The contention that Takeover 50 “27. We agree
+with the Respondent to the extent that the SEBI Act is certainly a social welfare legislation. But this
+does not take away from the undeniable fact that Regulations 3(3) of the SAST Regulations, 2011
+introduced the provision stating that even in case of an individual’s shareholding Regulations 2011
+are clarificatory and, therefore, retrospective is ex facie fallacious and untenable. Regulation 3(3) of
+Takeover Regulations 2011 specifically postulate as under:
+
+“3. Substantial acquisition of shares or voting rights.
+
+xx xx Xx (3) For the purposes of sub-regulation (1) and sub-
+
+regulation (2), acquisition of shares by any person, such that the individual shareholding of such
+person acquiring shares exceeds the stipulated thresholds, shall also be attracting the obligation to
+make an open offer for acquiring shares of the target company irrespective of whether there is a
+change in the aggregate shareholding with persons acting in concert.”
+
+62. In the aforesaid background, on the enforcement of Takeover Regulations 2011, it is clear that
+Regulation 10 will apply on an acquirer who crosses the threshold of 15%, which under the Takeover
+Regulations 2011, has been increased to 25%. Further, Regulation 10 would apply both when an
+
+26
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+individual acquirer or an acquirer in concert with others acquires shares or voting rights beyond the
+threshold level and such an acquirer would have to comply with the applicable regulation. Takeover
+Regulations 1997 and Takeover Regulations 2011, therefore, postulate different crossing the
+stipulated threshold, which is now 25%, the need to make a public offer shall arise. The Respondent
+has in all fairness has agreed that the new Takeover Code of 2011 does not apply retrospectively.”
+We may observe that SEBI Act is not a social welfare legislation but an eco-legal legislation and,
+therefore, must be interpreted pragmatically taking into account the commercial practices, interest
+of the investors/shareholders and also without ignoring the difficulties of the persons in control of
+the company. Competing interests, rights and obligations have to be balanced. preconditions and
+thresholds. Reliance placed upon the Takeover Regulatory Advisory Committee Report would show
+that there was a rethought and re-examination of Regulation 10 pursuant to which Regulation 3(3)
+was enacted and made a part of the regulatory mechanism under the Takeover Regulations 2011.
+
+63. It is a general rule of law of interpretation that unless explicitly mentioned, a law cannot be
+presumed to be retrospective. In Commissioner of Income Tax, (Central) -I, New Delhi v. Vatika
+Township Private Ltd.,51 a constitution bench decision, this court observed that:
+
+“31. Of the various rules guiding how a legislation has to be interpreted, one
+established rule is that unless a contrary intention appears, a legislation is presumed
+not to be intended to have a retrospective operation. The idea behind the rule is that a
+current law should govern current activities. Law passed today cannot apply to the
+events of the past. If we do something today, we do it keeping in view the law of today
+and in force and not tomorrow’s backward adjustment of it……
+
+32. The obvious basis of the principle against retrospectivity is the principle of
+'fairness’, which must be the basis of every legal rule as was observed in the decision
+reported in L’Office Cherifien des Phosphates v. Yamashita-Shinnihon Steamship Co.
+Ltd. Thus, legislations which modified accrued rights or which impose obligations or
+impose new duties or attach a new disability have to be treated as prospective unless
+the legislative intent is clearly to give the enactment a retrospective effect; unless the
+legislation is for purpose of supplying an obvious omission in a former legislation or
+to explain a former legislation….” 51 (2015) 1 SCC 1.
+
+Further, in the absence of express statutory authorisation, delegated legislation in the form of rules
+or regulations, cannot operate retrospectively.52 Certainly, Regulation 3(3) in the Takeover
+Regulations 2011 clarified and possibly removed the shortcoming of the 1997 Regulations. However,
+the language of Regulation 3(3) as reproduced above is apparently not of clarificatory or declaratory
+nature.53 E. Regulation 11 and the penalty under Regulations 44 and 45 of the Takeover Regulations
+1997:54
+
+64. The impugned order in Appeal No. 23 of 2013 (Sunil Krishna Khaitan case) dismisses the appeal
+preferred by the respondents and thereby affirms the order holding the respondents guilty of
+violation of Regulation 11(1) of the Takeover Regulations 1997. The respondents have not filed
+appeals or cross objections challenging the said finding of the Appellate Tribunal. Hence, we are not
+
+27
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+required to and would not comment on the findings recorded by the Appellate Tribunal on violation
+of Regulation 11(1) of the Takeover 52 Assitant Excise Commr, Kottayam and Others. v. Esthappan
+Cherian and Another, (2021) 10 SCC
+
+210. Also see, Income Tax Officer, Alleppey v M.C. Ponnose and Others, 1970 SCR (1) 678; Hukum
+Chand Etc. v Union of India and Others, (1973) 1 SCR 896; Regional Transport Officer,Chittoor and
+Others v. Associated Transport Madras (P) Ltd. and Others, (1980) 4 SCC 597; Federation of Indian
+Mineral Industries and Others v Union of India and Another, (2017) 16 SCC 186 and Union of India
+and Others v G.S. Chatha Rice Millsand Another, (2021) 2 SCC 209. 53 See L.R. Brothers Indo Flora
+Ltd. v. Commissioner of Central Excise, 2020 SCC OnLine SC 705, Commissioner of Income Tax
+(Central)-I, New DelhiI v. Vatika Township (P) Ltd., (2015) 1 SCC 1 and Union of India and Another
+v. Indusind Bank Ltd. and Another, (2016) 9 SCC 720. 54 In Civil Appeal No. 1762 of 2014 (Madhuri
+S. Pitti’s case), as per the findings recorded by the Appellate Tribunal, violation of Regulation 11(1)
+was not alleged and made the basis of the letter dated 17th December 2012.
+
+Regulations 1997. We proceed on the basis that the respondents are guilty and have failed to make
+public announcement within stipulated timeline as per the Takeover Regulations 1997.
+
+65. As noticed above, the contention of the Board is that the Appellate Tribunal should not have
+modified the direction given by the Whole Time Member obligating public announcement with the
+monetary penalty of Rs. 25,00,000/-.
+
+66. Regulations 44 and 45 of the Takeover Regulations 1997 read thus:
+
+“44. Directions by the Board.
+
+Without prejudice to its right to initiate action under Chapter VIA and section 24 of
+the Act, the Board may, in the interest of securities market or for protection of
+interest of investors, issue such directions as it deems fit including:
+
+(a) directing appointment of a merchant banker for the purpose of causing
+disinvestment of shares acquired in breach of regulation 10, 11 or 12 either through
+public auction or market mechanism, in its entirety or in small lots or through offer
+for sale;
+
+(b) directing transfer of any proceeds or securities to the Investors Protection Fund of
+a recognised stock exchange;
+
+(c) directing the target company or depository to cancel the shares where an
+acquisition of shares pursuant to an allotment is in breach of regulation 10, 11 or 12;
+
+(d) directing the target company or the depository not to give effect to transfer or
+further freeze the transfer of any such shares and not to permit the acquirer or any
+nominee or any proxy of the acquirer to exercise any voting or other rights attached
+
+28
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+to such shares acquired in violation of regulation 10, 11 or 12;
+
+(e) debarring any person concerned from accessing the capital market or dealing in
+securities for such period as may be determined by the Board;
+
+(f) directing the person concerned to make public offer to the shareholders of the
+target company to acquire such number of shares at such offer price as determined by
+the Board;
+
+(g) directing disinvestment of such shares as are in excess of the percentage of the
+shareholding or voting rights specified for disclosure requirement under regulation 6,
+7 or 8;
+
+(h) directing the person concerned not to dispose of assets of the target company
+contrary to the undertaking given in the letter of offer;
+
+(i) directing the person concerned, who has failed to make a public offer or delayed
+the making of a public offer in terms of these regulations, to pay to the shareholders,
+whose shares have been accepted in the public offer made after the delay, the
+consideration amount along with interest at the rate not less than the applicable rate
+of interest payable by banks on fixed deposits.
+
+45. Penalties for non-compliance.
+
+(1) Any person violating any provisions of the regulations shall be liable for action in terms of the
+regulations and the Act.
+
+(2) If the acquirer or any person acting in concert with him, fails to carry out the obligations under
+the regulations, the entire or a part of the sum in the escrow account shall be liable to be forfeited
+and the acquirer or such a person shall also be liable for action in terms of the regulations and the
+Act.
+
+(3) The board of directors of the target company failing to carry out the obligations under the
+regulations shall be liable for action in terms of the regulations and the Act.
+
+(4) The Board may, for failure to carry out the requirements of the regulations by an intermediary,
+initiate action for suspension or cancellation of registration of an intermediary holding a certificate
+of registration under section 12 of the Act: Provided that no such certificate of registration shall be
+suspended or cancelled unless the procedure specified in the regulations applicable to such
+intermediary is complied with.
+
+(5) For any mis-statement to the shareholders or for concealment of material information required
+to be disclosed to the shareholders, the acquirers or the directors where the acquirer is a body
+corporate, the directors of the target company, the merchant banker to the public offer and the
+
+29
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+merchant banker engaged by the target company for independent advice would be liable for action
+in terms of the regulations and the Act. (6) The penalties referred to in sub-regulations (1) to (5)
+may include:—
+
+(a) criminal prosecution under section 24 of the Act;
+
+(b) monetary penalties under section 15H of the Act;
+
+(c) directions under the provisions of section 11B of the Act;
+
+(d) directions under section 11(4) of the Act;
+
+(e) cease and desist order in proceedings under section 11D of the Act;
+
+(f) adjudication proceedings under section 15HB of the Act.”
+
+67. It may be also relevant to reproduce here Sections 15-H and 15-I, which form part of
+Chapter-VIA, of the Act, which read thus:55 “15H. Penalty for non-disclosure of acquisition of
+shares and take-overs -
+
+If any person, who is required under this Act or any rules or regulations made thereunder, fails to,-
+
+(i) disclose the aggregate of his shareholding in the body corporate before he acquires any shares of
+that body corporate; or
+
+(ii) make a public announcement to acquire shares at a minimum price;
+
+(iii) make a public offer by sending letter of offer to the shareholders of the concerned company; or
+
+(iv) make payment of consideration to the shareholders who sold their shares pursuant to letter of
+offer, he shall be liable to a penalty twenty-five crore rupees or three times the amount of profits
+made out of such failure, whichever is higher.
+
+15I. Power to adjudicate -
+
+(1) For the purpose of adjudging under sections 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15HA and
+15HB, the Board shall appoint any of its officers not below the rank of a Division Chief to be an
+adjudicating officer for holding an inquiry in the prescribed manner after giving any person
+concerned a reasonable opportunity of being heard for the purpose of imposing any penalty. (2)
+While holding an inquiry, the adjudicating officer shall have power to summon and enforce the
+attendance of any person acquainted with the facts and circumstances of the case to give evidence or
+to produce any document which in the opinion of the 55 As they existed during the relevant time
+period for this case. adjudicating officer, may be useful for or relevant to the subject matter of the
+inquiry and if, on such inquiry, he is satisfied that the person has failed to comply with the
+
+30
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+provisions of any of the sections specified in sub- section (1), he may impose such penalty as he
+thinks fit in accordance with the provisions of any of those sections.”
+
+68. Regulation 44 states that the Board, without prejudice to their rights to initiate action under
+Chapter VI-A56 and Section 2457 of the Act, may in the interest of the securities market or for
+protection of the interests of the investors, issue such directions as it may deem fit. Thereafter, it
+specifies certain directions in clauses (a) to (i), using the word ‘including’, which implies that the
+directions issued by the Board can include the directions given in clauses (a) to (i), albeit the Board
+may issue directions even beyond what is stated in clauses (a) to (i). Thus, the Board’s power to give
+directions is wide. This is also clear from the relevant provisions of the Act, namely, Section 11 and
+11B and Sections 11(2)(h), which read:
+
+“11. Functions of Board. – (1) Subject to the provisions of this Act, it shall be the duty
+of the Board to protect the interest of investors in securities and to promote the
+development of, and to regulate the securities market, by such measures as it thinks
+fit.
+
+xx xx Xx 11-B. Power to issue directions. – Save as otherwise provided in section 11, if
+after making or causing to be 56 Chapter VI-A: “Penalties and Adjudication” (Section
+15A to 15JA) 57 Section 24: “Offences” made an enquiry, the Board is satisfied that it
+is necessary –
+
+(i) in the interest of investors, or orderly development of securities market; or
+
+(ii) to prevent the affairs of any intermediary or other persons referred to in section
+12 being conducted in a manner detrimental to the interest of investors of securities
+market; or
+
+(iii) to secure the proper management of any such intermediary or person, it may
+issue such directions –
+
+(a) to any person or class of persons referred to in section 12, or associated with the
+securities market;
+
+or
+
+(b) to any company in respect of matter specified in section 11-A, As may be appropriate in the
+interests of investors in securities and the securities market.
+
+xx xx Xx 11(2) Without prejudice to the generality of the foregoing provisions, the measures referred
+to therein may provide for:
+
+(h) Regulating substantial acquisition of shares and take-
+
+31
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+over of companies;”
+
+69. The use of the word ‘may’ in Regulation 44 and the wording of Sections 11(1), 11B and 11(2)(h)
+reflect that the Board has been conferred a discretion, which in turn also means and should be
+interpreted as imposing a duty, an aspect which we will elucidate in the subsequent paragraphs. Use
+of the word ‘may’ over the years is normally construed as permissive and not imperative. The words
+‘may’ or ‘shall’ by their very etymological foundation denote discretion and mandatory nature of an
+act respectively. This Court has, therefore, held that the courts should not readily interpret the word
+‘may’ as ‘shall’ unless such interpretation is necessary to avoid absurdity, inconvenient
+consequences or as mandated by the intent of the legislature which is gathered from the other parts
+of the statute.58
+
+70. Use of the word ‘may’ and not ‘shall’ in Regulation 44 is significant.
+
+It is not mandatory that in case of every violation and breach of Regulations 10, 11 and 12, direction
+under Regulation 44 shall be issued. The interpretation gets fortified in view of the words and object
+of the Regulation 44 which empowers the Board to issue directions as it deems fit. Section 11(1),
+while broadly defining the functions of the Board, states that it is the duty of the Board to protect
+interest of investors in securities and to promote the development of, and regulate the securities
+market by such measures as it thinks fit. Section 11B, which deals with the power of the Board to
+give directions, states that the Board, after making or causing an inquiry, may issue directions if it is
+satisfied that it is necessary in the interest of the investors, or orderly development of 58 See Official
+Liquidator v. Dharti Dhan (P) Ltd., (1977) 2 SCC 166; Dinesh Chandra Pandey v. High Court of
+Madhya Pradesh and Another, (2010) 11 SCC 500; Mohan Singh and Others v. International Airport
+Authority of India and Others, (1997) 9 SCC 132. Also see, Rajender Mohan Rana and Others v.
+Prem Prakash Chaudhary and Others, 2011 SCC OnLine Del 3684. the securities market; to prevent
+the affairs of any intermediary or other persons referred to in Section 12 from conducting affairs in a
+manner detrimental to the interest of the investors or to secure proper management of such
+intermediary or persons. Section 11(2)(h) provides that the Board is entitled to take measures for
+regulating substantial acquisition of shares and takeover of companies. Regulation 44 states that the
+Board while issuing directions, has to keep in mind the interest of the securities market and its role
+as a protector of interest of investors. We will read the word ‘or’ between the expression ‘in the
+interest of securities market or protection of investors’ as ‘and’. The Board, therefore, when it
+decides to exercise its power under Regulation 44 and issues directions under the said Regulation
+has to keep the two facets in mind, namely, (i) interest of the securities market; and (ii) protection of
+interest of the investors. The exercise of discretion of the Board, in fact, would not be restricted to
+the two facets mentioned above as the power and functions of the Board are far broader as they
+include promotion, development and regulation of securities market as a whole and regulating
+substantial acquisition of shares and takeover of companies.
+
+71. Discretion is an effective and an important tool which the legislature confers and vests with the
+executive for effective and good governance, administration, and in the present case – regulation, of
+the securities market which has complex commercial and economic facets. Therefore, the law
+provides an option to the Board and the authorities to adopt one or the other alternatives. However,
+
+32
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+this does not mean that the Board or the authorities enjoy unfettered and unchecked discretionary
+jurisdiction to act according to private or personal opinion in a vague and fanciful manner.59
+Discretion, when of wide amplitude, and when it can have civil and penal consequences, must be
+exercised in a legal and regular manner.60 Exercise of discretion is always governed by rules, which
+means that the exercise of discretion should be fair and reasonable as the legislature while
+conferring discretion never intends that the authorities would not act whimsically, arbitrarily, but
+on the precept that they shall act only when it appears to be necessary in public interest.61 Legal
+exercise of discretion is one, where the authority examines and ascertains the facts, is aware of the
+law, and then decides objectively and rationally what serves the interest better. This is true even
+when the statutes are silent and only the power is conferred to act in one way or the other.
+Reasonableness as a 59 Sharpe v. Wakefield, [1891 AC 173]. Also see, Sant Raj and Another v. O.P.
+Singla and Another, (1985) 2 SCC 349 at para 4 and S.G. Jaisinghani v. Union of India and Others,
+AIR 1967 SC 1427. 60 Clariant International Ltd. and Another v. Securities and Exchange Board of
+India, (2004) 8 SCC 524 at para 26.
+
+61 Banglore Medical Trust v. B.S. Muddappa and Others, (1991) 4 SCC 54 at para 46 and 48.
+standard is tested by reference to the community standards at the time of exercise of discretion. This
+means that discretion should be exercised within the limit to which an honest man competent to
+discharge his office ought to confine himself.62 It will be also true to state that the greater the harm
+or penal consequences, greater is the duty and obligation of the public authority to ensure that
+discretion is used as an effective tool in regulation or administration but does not cause confusion,
+chaos and instability.
+
+72. In the context of Regulations 44 and 45, it implies that the Board has the power to make a choice
+between different courses of action or inaction. This choice is not unfettered but is always held
+subject to implied limitations inherent in every statute, limitations set by the common law and the
+constitutional mandate of rule of law. The underlying rationale of giving discretion is to ensure that
+the Board exercises the discretion in consonance with legitimate values of public law, which include
+need to maintain legal certainty and consistency which are at the heart of the principle of rule of
+law.63 These have to be balanced with other equally legitimate public law 62 Sharpe v. Wakefield,
+[1891 AC 173]: “according to the rules of reason and justice, not according to private
+opinion;…according to law and not humor. It is to be, not arbitrary, vague and fanciful, but legal and
+regular. And it must be exercised within the limit, to which an honest man competent to the
+discharge of his office ought to confine himself.” 63 De Smith’s Judicial Review, 7th Edition, Sweet
+and Maxwell (South Asian Edition) at Heading 9-005 on page 515.
+
+value, which is the object and purpose of the enactment. The need for the said flexibility is given and
+is necessary to meet unusual and practical situations and to do justice in a particular case.64 The
+remedial order passed by the Board as the regulator must also meet the said parameters in addition
+to meeting the requirements of the enactment.
+
+73. Clearly, therefore, Regulation 44 differs from Section 15-H, which is somewhat a strict liability
+provision that applies if a person fails to comply with the clauses (i) to (iv). It may be, however,
+noted that Section 15-H prescribes the lower as well as the higher monetary penalty limits. These
+
+33
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+stipulations have undergone modifications and changes from time to time. As per the amendments
+made by Act No. 59 of 2002, with retrospective effect from 29th October 2002, the penalty which
+can be imposed is not to be less than Rs. 10,00,000/- but may extend up to Rs. 25,00,00,000/- or
+three times the amount of profits made out of such failure, whichever is higher. The phase ‘profits
+made out of such failure’ in Section 15-H indicates that while imposing quantum of penalty the
+authority should consider the profit made by the acquirer on account of failure 64C. Hilson,
+‘Judicial Review, Policies and the Fettering of Discretion” [2002] P.L. 111; D. Galligan, ‘The Nature
+and Functions of Policy Within Discretionary Power’ [1976] P.L. 332. to comply with the
+requirements mentioned in clauses (i) to (iv) of Section 15-H.
+
+74. Reference in this regard is also to be made to Section 15-I, which has been quoted above. It states
+that the person concerned has to be given a reasonable opportunity of being heard for the purpose of
+imposing any penalty. The adjudicating officer has the power to summon and enforce attendance of
+any person acquainted with the facts and circumstances of the case to give evidence or produce
+documents which, in the opinion of the adjudicating officer, would be useful or relevant to the
+subject matter of enquiry. Lastly, the adjudicating authority should be satisfied that the person has
+failed to comply with the provisions of the section specified in sub-section (1).65
+
+75. In this context, reliance placed by the Board on the judgments which relate to and arise from the
+orders passed by the adjudicating officer under Chapter VI-A of the Act are of no relevance, as
+Regulation 44 is a discretionary power and not mandatory in nature. Not only this, the directions
+under Regulation 44 are required to be 65 Sub-section (3) empowers the Board to call for and
+examine records of any proceedings under this Section and if it considers the order passed by the
+adjudicating authority is erroneous to the extent it is not in the interest of the securities market, it
+may, after making or causing an inquiry to be made, pass an order enhancing the quantum of
+penalty. The order under sub-section (3) can be passed within a period of three months from the
+date of order passed by the adjudicating authority or disposal of the appeal under Section 15-T,
+whichever is earlier. issued considering relevant factors, including, interest of the securities market
+and protection of the investors in mind. Regulation 44 is not a strict liablity provision.
+
+76. The above position in law gets fortified from Regulation 45 which stipulates that any person
+violating a provision of the regulations shall be liable in terms of the Regulation, that is, the
+Takeover Regulations 1997 and the Act. Sub-regulation (6) to Regulation 45, with reference to the
+penalties, states that it would include monetary penalties under Section 15-H of the Act. It may also
+include directions under the provisions of Section 11B and 11(4) of the Act. Further, there is power to
+issue cease and desist order in proceedings under Section 11D of the Act. Criminal prosecution
+under Section 24 of the Act can also be initiated. Lastly, adjudicating proceedings under Section
+15-H of the Act can be held. Therefore, the authorities have a right to take recourse to multiple
+proceedings which have been loosely classified and referred to as ‘penalties’ in Regulation 45(6).
+Nowhere, however, Regulation 45 stipulates that in case of violation of Regulations 10, 11 or 12 of
+the Takeover Regulations 1997, the Board must initiate action and issue directions in terms of
+Regulation 44. The Board, in appropriate case, may take action under Regulation 44 and issue
+directions, but when it issues such directions, it must keep in mind the interest of securities market
+and to the protect the interests of the investors. Existence and conferment of power, and reasonable
+
+34
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+and legilimate exercise of the power in accordance with law are two different facets.
+
+77. We will now reproduce the order passed by the Whole Time Member recording the reasons for
+issuing directions:
+
+“31. In my view, the facts and circumstance of the case, do not suggest any reason to
+deviate from the normal rule of requirement of making public announcement in
+accordance with the Takeover Regulations, 1997 as the same would be in the interest
+of the public shareholders of the Target Company.
+
+32. In this case, since requisite public announcement has not been made by the
+noticees, KLL has contravened regulation 10 and the promoter group has
+contravened regulation 11(1) as discussed above. I note that the Takeover
+Regulations, 1997 have been repealed by the Takeover Regulations, 2011. In terms of
+regulation 35(2)(b) of the Takeover Regulations, 2011, the obligation or liability
+acquired, accrued or incurred under the repealed regulations, shall remain unaffected
+as if the repealed regulations has never been repealed. In the present case, the
+noticees triggered the obligation under regulation 10 and 11(1) of the Takeover
+Regulations, 1997 on March 12, 2007 and in terms of regulation 14(1) thereof they
+were obligated to make requisite public announcement within 4 days from March 12,
+2007. Thus, the noticees had incurred this obligation prior to repeal of Takeover
+Regulations, 1997 and the obligation has to be completed under Takeover
+Regulations, 1997.
+
+33. Since obligation under regulations 10 and 11 both have overlapped in this case, as
+observed by Hon'ble Supreme Court in 'Swedish Mach' case, the noticees shall make
+a combined public announcement under regulations 10 and 11 read with regulation
+14(1) of the Takeover Regulations, 1997.
+
+34. Had the noticees made the public announcement in accordance with the Takeover
+Regulations, 1997 regulations and complied all related activities within the timelines
+specified under the Takeover Regulations, 1997, all formalities with respect to their
+public announcement and the open offer would 7 have been completed on June 15,
+2007. Since the noticees have failed to make the public announcement within the
+stipulated time and the public announcement in compliance with this order would be
+after delay, the noticees shall pay interest on consideration amount as provided
+under the Takeover Regulations, 1997 to the shareholders who tender their shares in
+the open offer and who are eligible for interest as per law.
+
+35. I, therefore, in exercise of powers conferred upon me under sections 19, 11 and
+11B of the SEBI Act, 1992 and regulations 44 and 45 of the SEBI (Substantial
+Acquisition of Shares and Takeovers) Regulations, 1997 read with regulation 32(1)(h)
+of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011,
+hereby issue the following directions:
+
+35
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+(a) The noticees, Mr. Sunil Krishan Khaitan, Mr. Krishan Khaitan, Khaitan Lefin
+Limited and The Orientale Mercantile Company Limited shall make a combined
+public announcement to acquire shares of the Target Company, Khaitan Electricals
+Limited, in terms of regulations 10 and 11(1) of the SEBI (Substantial Acquisition of
+Shares and Takeovers) Regulations, 1997, within a period of 45 days from the date of
+this Order.
+
+(b) The noticees shall, along with consideration amount, pay interest at the rate of
+10% per annum, from June 16, 2007 to the date of payment of consideration, to the
+shareholders who were holding shares in the target company on the date of violation
+and whose shares have been accepted in the open offer, after adjustment of dividend,
+if any, paid.”
+
+78. The Appellate Tribunal, on the other hand, has given the following reasons why the aforesaid
+directions were unacceptable and should be set aside:
+
+“35. In the instant case too, as a matter of undisputed fact, the promoter group has
+been in control of the Company since its very establishment in the year 1975. The
+Appellants seem to have been aware of the implication of the limit of creeping
+acquisition of 5% and, hence, did not breach regulation 11 by letting some warrants
+lapse and not converting them into shares. In fact, the Tribunal notes that during the
+relevant period there were about 7 acquisitions but at no point of time did the
+Appellants violate the provisions of any law but for the two conversions on March 12,
+2007. We also note from the records that the Appellants have invariably acted in a
+bonafide manner by keeping the concerned stock exchanges and the Respondent
+informed regarding the true happenings with respect to the acquisitions of shares
+and the corresponding changes in the shareholding pattern. In this connection, the
+Tribunal has perused various corporate announcements made by the Company to the
+stock exchanges informing them about the allotment of equity shares as well as
+shareholding pattern as of March 2006, June 2006, September 2006 and December
+2006. Letters dated April 10, 2006, October 13, 2006 and April 11, 2007 etc. are on
+record and have been perused by the Tribunal.
+
+36. Similarly, it is noted that the two conversions of warrants on March 12, 2007,
+which were different transactions, in as much as the shares in the first tranche
+pertaining to 5 lac shares allotted to the promoter group were allotted pursuant to
+conversion of warrants at the rate of Rs.60 per share, and the shares in the second
+transaction consisting of 8 lac warrants were converted at the rate of Rs.131 per
+share.
+
+Although, the two spells were different, they were executed on the same date and the creeping
+acquisition limit of 5% was clearly crossed in respect of the acquisition by the promoter group.
+Therefore, technically there is violation of Regulation 11(1) of the Takeover Code of 1997. For this
+violation, we are of the opinion that a suitable monetary penalty, must be imposed instead of calling
+
+36
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+upon the Appellants to make a combined public announcement to acquire shares of the Company at
+this belated stage. The requirement of making a public announcement would be totally superfluous
+in the facts and circumstances of the case and would not beget any good. The objective of the
+preferential allotment of shares in question was only to address the working capital requirements of
+the Company for its smooth day to day functioning.
+
+Therefore, a stable, low-cost funding-source, such as preferential allotment, was undertaken in the
+larger interests of the Company and, in effect, its shareholders. In this connection, it is pertinent to
+note that the allotment of preferential shares in question was made after seeking approval of the
+shareholders of the Company in two duly convened EGM’s held on March 23, 2006 and November
+29, 2006.
+
+37. Lastly, the acquisitions/ incidents pertain to the year 2006-2007. The show cause notice was
+issued by the Respondent on March 26, 2012. After holding proceedings against the Appellants, the
+Impugned Order came to be passed only on December 31, 2012.
+
+We note that there is an inordinate delay of about 5 years even in issuing the show cause notice and
+no explanation has been offered for the same. The Respondent was kept duly informed by the
+Appellants of all the transactions/acquisitions in the year 2006- 2007 along with information to
+other concerned authorities like various stock exchanges but no action was taken for the alleged
+violation for years together. Also, the point to be borne in mind while modifying the penalty
+imposed upon the Appellants is that the securities market is a volatile and pulsating structure
+wherein events unfold at a staggeringly fast pace. We feel that to compel the Appellants to make a
+combined public announcement to acquire shares today would be iniquitous and would lead to more
+harm than good for a mere technical fault, which in our opinion is remissible. Indeed, this Tribunal
+has taken a view consistently that in such cases of technical violation a monetary penalty could be
+imposed to serve the ends of justice keeping in view the factuality of a given situation.”
+
+79. We entirely agree with the reasoning given by the Appellate Tribunal for setting aside the
+directions given in the penultimate paragraph of the orders passed by the Whole Time Member. As
+noticed above, the violation alleged in Appeal No. 23 of 2013 in the case of Sunil Krishna Khaitan
+relates to the years 2006-2007. The order issuing the directions was passed on 31st December 2012,
+nearly eight years after the alleged violation. The direction given is that the shareholders should be
+given an option to sell the shares held by them on 16th June 2007 by directing the respondents to
+make a public announcement to acquire the shares. Direction has also been given to pay interest @
+10% per annum from 16th June 2007 till shares have been accepted in the open offer. The dividend
+paid, if any, would be adjusted. We are not stating that this direction can never be issued, but the
+exercise of discretion to issue the said directions has to be predicated and based upon good grounds
+and reasons. The directions of this nature are not automatic and are to be issued only when they are
+warranted and justified. The incongruities and absurdities of the directions issued have been
+highlighted and noticed in the order passed by the Appellate Tribunal.
+
+80. The direction given by the Board vide letter dated 17th December 2012 in the case of Madhuri S.
+Pitti in the form of direction to modify the draft letter of offer submitted to the Board for approval
+
+37
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+on 19th September 2011 pursuant to the public announcement made by PLL on 9th September 2011,
+it must be stated, is rather odd and defies objectivity and logic. The Appellate Tribunal is right in
+noticing that there was lack of clarity on the part of the Board as to the provision under which the
+power has been exercised, as the Board’s power under Regulation 18 of the Takeover Regulations
+1997 is to specify changes, if any, in the letter of offer, without there being any obligation on the part
+of the Board to do so, and thereupon the merchant banker and the ‘acquirer’ are required to carry
+out such changes before the letter of offer is despatched to the shareholders. As per sub-regulation
+(2), the letter of offer is to be despatched to the shareholder not earlier than 21 days from the date of
+submission of the letter of offer to the Board in terms of sub- regulation (1). In this case, directions
+of the Board for amendment of the letter of offer was issued after a lapse of more than one year as
+the draft letter of offer was submitted on 19th September 2011 and the directions were issued vide
+letter dated 17th December 2012. Further, these directions were for the reason that the acquirer had
+failed to comply with Regulation 10 of the Takeover Regulations 1997 in the remote past, that is, in
+the year 2006 and 2007. Clearly, this is whimsical and arbitrary exercise of discretion by the Board
+which would have led to chaos and confusion.
+
+81. This Court in the judgment authored by one of us (Sanjiv Khanna, J.) in Bhavesh Pabari (supra)
+had examined the question of delay and laches in initiating proceedings under Chapter VI-A of the
+Act and the principle of law that when no limitation period is prescribed proceedings should be
+initiated within a reasonable time and what would be reasonable time would depend upon facts and
+circumstances of each case. In this regard, it was held as under:
+
+“35. The appellants have also contended that in the absence of any prescribed
+limitation period, SEBI should have issued show-cause notice within a reasonable
+time and there being a delay of about 8 years in issuance of show-cause notice in
+2014, the proceedings should have been dropped. This contention was not raised
+before the adjudicating officer in the written submissions or the reply furnished. It is
+not clear whether this contention was argued before the Appellate Tribunal. There
+are judgments which hold that when the period of limitation is not prescribed, such
+power must be exercised within a reasonable time. What would be reasonable time,
+would depend upon the facts and circumstances of the case, nature of the
+default/statute, prejudice caused, whether the third-party rights had been created,
+etc. The show- cause notice in the present case had specifically referred to the
+respective dates of default and the date of compliance, which was made between
+30-8-2011 to 29- 11-2011 (delay was between 927 days to 1897 days). Only upon
+compliance being made that the defaults had come to notice. In the aforesaid
+background, and so noticing the quantum of fine/penalty imposed, we do not find
+good ground and reason to interfere.”
+
+82. The directions given in the aforesaid quotation should not be understood as empowering the
+authorities/Board to initiate action at any time. In the absence of any period of time and limitation
+prescribed by the enactment, every authority is to exercise power within a reasonable period. What
+would be the reasonable period would depend upon facts of each case, such as whether the violation
+was hidden and camouflaged and thereby the Board or the authorities did not have any knowledge.
+
+38
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+Though, no hard and fast rules can be laid down in this regard as determination of the question will
+depend on the facts of each case, the nature of the statute, the rights and liabilities thereunder and
+other consequences, including prejudice caused and whether third party rights have been created
+are relevant factors. Whenever a question with regard to inordinate delay in issuance of a
+show-cause notice is made, it is open to the noticee to contend that the show-cause notice is bad on
+the ground of delay and it is the duty of the authority/officer to consider the question objectively,
+fairly and in a rational manner. There is public interest involved in not taking up and spending time
+on stale matters and, therefore, exercise of power, even when no time is specified, should be done
+within reasonable time.66 This prevents miscarriage of justice, misuse and abuse of the power as
+well as ensures that the violation of the provisions are checked and penalised without delay, thereby
+effectuating the purpose behind the enactment.
+
+83. We have already referred to Regulations 6, 7 and 8 of Takeover Regulations 1997 which requires
+the acquirer/shareholders to make disclosures to the company as well as to the stock exchange
+where the shares are listed. Violation of Regulations 6, 7 and 8 is not alleged. While it is true that the
+said disclosures and public notice of the disclosures cannot be treated as disclosure to the Board or
+authorities under the Act, the Board and the authorities, as a good regulator, cannot also claim
+complete ignorance. Significantly, in the present case, the investors of the target company have not
+raised any objection. The impugned order passed by the Whole Time Member does not refer to any
+market manipulation or fluctuation in share price, which was detrimental to the interests of the
+investors. It is not the case of the Board that any windfall gains or profits have been made by the
+respondents on account of violation of Regulation 11(1) of Takeover Regulations 66See State of
+Gujarat v. Patil Raghav Natha and Others, (1969) 2 SCC 187 at para 11; Mansaram v. S.P. Pathak and
+Others, (1984) 1 SCC 125 at para 12; Government of India v. Citedal Fine Pharmaceuticals, Madras
+and Others, (1989) 3 SCC 483 at para 6; State of Orissaand Others v. Brundaban Sharma and
+Another, 1995 Supp (3) SCC 249 at para 16; State of Punjab and Others v. Bhatinda District Coop.
+Milk Producers Union Ltd., (2007) 11 SCC 363. 1997. The order passed by the Whole Time Member,
+in fact, does not take into account the impact of the order on the securities market in case the
+investors/shareholders in the target company as on 16th June 2007 are given an option to sell their
+shares on or after 31st December 2012, possibity of distruption on the functioning market place,
+detrimental impact on the market place/investor confidence, qualitative impact of the retroactive
+directions on the law’s santity predicated on predicibilty and legal stability, as well as undermining
+of the people’s faith and trust on the Board as the protector of law. The directions, therefore, cannot
+be sustained.
+
+84. There is, as noticed and held below, some merit in the contention of the Board that the Appellate
+Tribunal could not have imposed penalty under Section 15-H when proceedings under the said
+Section had not been invoked by the Board and there is no order passed by the adjudicating
+authority imposing penalty under Section 15-H of the Act. However, the effect of the argument
+raised by the Board would be that the order passed by the Whole Time Member under Regulation 44
+giving directions would be quashed and set aside. The respondents would have, therefore, escaped
+without having to pay any penalty for violation of Regulation 11(1) of the Takeover Regulations 1997.
+It is in this factual background we have to decide the present appeals. As noticed above, the
+respondents have not filed appeals or cross objections challenging the penalty imposed by the
+
+39
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+Appellate Tribunal for violation of Regulation 11(1) of the Takeover Regulations 1997. F. Power of
+the Appellate Tribunal under section 15T of the Act:
+
+85. The last aspect of the present appeals relates to the power of the Appellate Tribunal.67 Sections
+15-T of the Act read as under:68 “15T. Appeal to the Securities Appellate Tribunal. (1) Save as
+provided in subsection (2), any person aggrieved,-
+
+(a) by an order of the Board made, on and after the commencement of the Securities Laws (Second
+Amendment) Act, 1999, under this Act, or the rules or regulations made thereunder; or
+
+(b) by an order made by an adjudicating officer under this Act, may prefer an appeal to a Securities
+Appellate Tribunal having jurisdiction in the matter.
+
+(2) No appeal shall lie to the Securities Appellate Tribunal from an order made –
+
+(a) by the Board on and after the commencement of the Securities Laws (Second Amendment) Act,
+1999;
+
+(b) by an adjudicating officer, with the consent of the parties.
+
+(3) Every appeal under sub-section (1) shall be filed within a period of forty-five days from the date
+on which a copy of the order made by the Board or the adjudicating officer, as the case may be, is
+received by 67 In reference to impugned judgment in Appeal No. 23 of 2012. 68 As it existed
+pre-2014 and 2017 amendment.
+
+him and it shall be in such form and be accompanied by such fee as may be prescribed:
+
+Provided that the Securities Appellate Tribunal may entertain an appeal after the
+expiry of the said period of forty-five days if it is satisfied that there was sufficient
+cause for not filing it within that period.
+
+(4) On receipt of an appeal under sub-section (1), the Securities Appellate Tribunal
+may, after giving the parties to the appeal, an opportunity of being heard, pass such
+orders thereon as it thinks fit, confirming, modifying or setting aside the order
+appealed against.
+
+(5) The Securities Appellate Tribunal shall send a copy of every order made by it to
+the Board, the parties to the appeal and to the concerned Adjudicating Officer.
+
+(6) The appeal filed before the Securities Appellate Tribunal under sub-section (1)
+shall be dealt with by it as expeditiously as possible and endeavour shall be made by
+it to dispose of the appeal finally within six months from the date of receipt of the
+appeal.”
+
+40
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+86. The Board has contended that the Appellate Tribunal, in the exercise of power
+under Section 15-T and while considering appeals against proceedings under Section
+11 and 11B of the Act and Regulation 44 of the Takeover Regulation, 1997, could not
+have converted the directions of the Board with monetary penalty under Section
+15-H. Thus, the impugned order could not have substituted the direction of the Board
+against respondents to: (a) make a public offer in terms of Regulation 11; and (b) pay
+consideration amount along with interest at the rate of 10% per annum from June 16,
+2007 to the date of payment of consideration to the shareholders, with the direction
+to pay a monetary penalty of Rs. 25,00,000 for the breach of Regulation 11(1) of
+Takeover Regulation 1997. We have briefly referred to the reasoning in the earlier
+paragraphs, and commented on the same. We have also reproduced the reasoning
+given by the Appellate Tribunal to substitute the direction of the Whole Time
+Member with that of the penalty.
+
+87. The appeal before the Appellate Tribunal under Section 15T, is the first appeal
+against the decision of the Board or the adjudicating officer. First appeal is a
+continuation or is co-terminus with the proceedings of the original adjudicating
+authority.69 The first appeal is a valuable right of the party aggrieved, and all
+questions of fact and law decided by the Board or the adjudicating authority,
+including exercise of discretion whether within the law, are open for full
+consideration and examination.70 The Appellate Tribunal, in the
+
+69 See, Commissioner of Income Tax, U.P., Lucknow v. Kanpur Coal Syndicate, Kanpur, AIR 1965
+SC 325; Jute Corpn. of India Ltd. v. Commissioner of Income Tax and Another, 1991 Supp (2) SCC
+744; Commissioner of Income Tax, M.P., Bhopal v. Nirbheram Daluram, (1997) 10 SCC 373;
+National Thermal Power Co. Ltd. v. Commissioner of Income Tax, (1997) 7 SCC 489. 70 Clariant
+International Ltd. and Another v. Securities & Exchange Board of India, (2004) 8 SCC 524:
+
+“74. The jurisdiction of the Appellate Tribunal under the Act is not in any way
+fettered by the statute and, thus, it exercises all the jurisdiction as that of the Board.
+It can exercise its discretionary jurisdiction in the same manner as the Board.
+
+……………..
+
+77. The Board exercises its legislative power by making regulations, executive power
+by administering the regulations framed by it and taking action against any entity
+violating these regulations and judicial power by adjudicating disputes in the
+implementation thereof. The only check upon exercise of such wide-ranging powers
+is that it must comply with the Constitution and the Act. In that view of the matter.
+where an expert Tribunal has been constituted, the scrutiny at its end must be held to
+be absence of any limit, has plenary powers in disposing of an appeal.71 It can do
+what the Board/authorities can do and also direct them to do what they have failed to
+do. The position as to the power of the Appellate Tribunal has been appropriately
+summarised in Swedish Match (supra), wherein it has been held:
+
+41
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+“84. It may be true that the Board in its impugned order dated 4-6-2002 proceeded
+on a wrong premise that having regard to the proviso appended to Regulation 12,
+Regulation 12 would be attracted. But SAT, in our opinion, rightly construed the
+provisions of Regulations 11 and 12 in arriving at a finding that Regulation 11 would
+be attracted and Regulation 12 would not be. The Tribunal was entitled to take a
+different view of the matter from that of the Board with a view to sustain the ultimate
+result in the appeal in exercise of its appellate power.
+
+Such a power in the appellate court/tribunal is akin to or analogous to the principles contained in
+Order 41 Rule 33 of the Code of Civil Procedure. Even otherwise, before us the judgment of the
+Tribunal is in question, this Court is required to consider the correctness or otherwise of the
+Tribunal. In any event, the reasoning of the Tribunal shall prevail over the Board.” (Emphasis
+Supplied) of wide import. The Tribunal. another expert body, must, thus, be allowed to exercise its
+own jurisdiction conferred on it by the statute without any limitation."
+
+(Emphasis Supplied) 71 Securities and Exchange Board of India v. Opee Stock-Link Ltd. and
+Another, (2016) 14 SCC 134:
+
+“15. Upon perusal of the impugned order passed by SAT, we do not find any specific
+conclusion arrived at by SAT to the effect that the findings recorded by the
+WholeTime Member as well as the Adjudicating Officer of SEBI were incorrect. The
+appeals before SAT were in the nature of first appeal and therefore, it was open to
+SAT to reappreciate the evidence after looking at the facts of the case but upon
+perusal of the impugned order, we do not find any such finding to the effect that the
+findings arrived at by the Whole-Time Member as well as the Adjudicating Officer of
+SEBI were incorrect or perverse for a particular reason.” (Emphasis Supplied)
+
+88. In the context of the present appeal, it is to be noted that in the case of Sunil
+Krishna Khaitan, an order in the form of directions under Regulation 44 of the
+Takeover Regulations 1997 was issued. It was this order which was made subject
+matter of challenge before the Appellate Tribunal.Thus we do not accept the
+contention of the Board that the Appellate Tribunal while exercising appellate power
+could not have set aside and quashed the directions given in the appeal.
+
+89. At the sametime, in Sunil Krishna Khaitan’s case proceedings under Section 15-H
+for levy of penalty were not initiated and no order of penalty under 15-H was passed
+by the adjudicating authority. The Appellate Tribunal, therefore, was not hearing an
+appeal against imposition of penalty under Section 15-H of the Act.
+
+Further, an order under Section 15-H of the Act is passed by an adjudicating authority which, while
+imposing penalty, is required to take into consideration the factors mentioned in Section 15-J.72 72
+15J.Factors to be taken into account by the adjudicating officer.- While adjudging quantum of
+penalty under section 15-I, the adjudicating officer shall have due regard to the following factors,
+namely:
+
+42
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+(a) the amount of disproportionate gain or unfair advantage, wherever quantifiable,
+made as a result of the default;
+
+(b) the amount of loss caused to an investor or group of investors as a result of the
+default;
+
+(c) the repetitive nature of the default
+
+90. We have also referred to Regulation 45 which in sub-regulation (6) refers to
+different types of penalties which can be imposed on a person violating any of the
+provisions of the Regulations. The Appellate Tribunal does not have the power for the
+first time to initiate and thereupon, impose penalty for non-compliance of the
+provisions of the Regulations under Chapter VI-A of the Act while deciding an appeal
+against directions issued under Regulation 44 of the Takeover Regulations, 1997.
+That power is vested with the authority specified in the Act or the Regulations. The
+Appellate Tribunal is an appellate forum and not the authority empowered to initiate
+penalty proceedings under Section 15-H or suo moto issue directions under Section
+11, 11B or 11(4)(d) of the Act. It can uphold or set aside the direction issued, or modify
+and substitute the direction issued under Regulation 44 of the Takeover Regulations
+1997 read with Sections 11, 11B and 11(4)(d) of the Act. Similarly, Appellate Tribunal
+can uphold, set aside, modify and even substitute the order of penalty under Chapter
+VI-A of the Act. The power to initiate and levy penalty in terms of Section 15-I73 is
+vested
+
+73 15-I. Power to adjudicate:
+
+(1) For the purpose of adjudging under sections 15A, 15B, 15C, 15D, 15E, 15F,
+15G,15H, 15HA and 15HB, the Board shall appoint any officer not below the rank of a
+Division Chief to be an adjudicating officer for holding an inquiry in the prescribed
+manner after giving any person concerned a reasonable opportunity of being heard
+for the purpose of imposing any penalty.
+
+(2) While holding an inquiry the adjudicating officer shall have power to summon
+and enforce the attendance of any person acquainted with the facts and
+circumstances of the case to give evidence or with an officer to be appointed by the
+Board, not below the rank of Divisional Commissioner, to act as an adjudicating
+officer. The adjudicating officer is required to hold an inquiry in the prescribed
+manner after giving the person a reasonable opportunity of being heard for the
+purpose of imposing any penalty. Powers are vested with the adjudicating officer to
+summon and enforce attendance of any person acquainted with the facts and
+circumstances of the case to give evidence or to produce any document.
+
+91. Thus, the Appellate Tribunal in Appeal No. 23 of 2013 in the case of Sunil Krishna Khaitan, could
+not have substituted the penalty imposed by the Board under Regulation 44 with that of penalty
+
+43
+
+Securities And Exchange Board Of India vs Shri Sunil Krishna Khaitan on 11 July, 2022
+
+under Section 15-H. An appropriate view, in our opinion, would be that when the Appellate Tribunal
+holds that the order passed by the Whole Time member on violation of Regulations 10, 11 and 12 is
+sustainable, but the directions given in the order under Regulation to produce any document which
+in the opinion of the adjudicating officer, may be useful for or relevant to the subject-matter of the
+inquiry and if, on such inquiry, he is satisfied that the person has failed to comply with the
+provisions of any of the sections specified in subsection (1), he may impose such penalty as he thinks
+fit in accordance with the provisions of any of those sections. (3) The Board may call for and
+examine the record of any proceedings under this section and if it considers that the order passed by
+the adjudicating officer is erroneous to the extent it is not in the interests of the securities market, it
+may, after making or causing to be made such inquiry as it deems necessary, pass an order
+enhancing the quantum of penalty, if the circumstances of the case so justify:
+
+Provided that no such order shall be passed unless the person concerned has been
+given an opportunity of being heard in the matter:
+
+Provided further that nothing contained in this sub-section shall be applicable after
+an expiry of a period of three months from the date of the order passed by the
+adjudicating officer or disposal of the appeal under section 15T, whichever is earlier.
+
+44 are not sustainable, it should leave it open to the Board to initiate proceedings and
+pass an order under Chapter VI-A of the Act.
+
+92. However, as held above, in the absence of any cross-appeal or cross-objection by the respondent
+in Appeal No. 23 of 2013 (Sunil Krishna Khaitan’s case), we are not interfering with the order
+imposing penalty of Rs.25,00,000/- for the violation of Regulation 11(1) of the Takeover Regulations
+1997. The said direction has attained finality. At the same time, we are inclined to direct that the
+Board would give quietus to the matter and should not initiate proceedings under Chapter VI-A of
+the Act.
+
+93. For the aforesaid reasons and grounds, the Civil Appeals preferred by the Board are dismissed
+with the clarification as to the power of the Appellate Tribunal under Section 15-T of Chapter VI-A of
+the Act, which is confined to examination of correctness and legality of the order under challenge.
+
+94. There will be no order as to costs.
+
+......................................J. (SANJIV KHANNA) ......................................J. (BELA M. TRIVEDI) NEW
+DELHI;
+
+JULY 11, 2022.
+
+44

@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No(s). 8470 of 2022 (Arising out of Special Leave Petition (C) No(s). 30038 of 2019)",
+  "parties": {
+    "petitioner": "Varimadugu Obi Reddy",
+    "respondent": "B. Sreenivasulu & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-11-16",
+  "summary": "Challenge to High Court's decision setting aside an e-auction sale under SARFAESI Act, 2002. Appellant, an auction purchaser, contended that a typographical error in property description (Door No.12-3-393 vs 12-3-39) did not cause ambiguity or vitiate the auction, and that delay in depositing 75% of bid amount by 5 days (due to Tribunal's interim order) was not a fatal breach of Rule 9(4) of Security Interest (Enforcement) Rules, 2002. High Court had annulled proceedings due to these two alleged infirmities. Supreme Court examined whether such procedural deviations warranted nullification of the entire auction process.",
+  "legal_provisions_cited": [
+    "SARFAESI Act, 2002, Section 13(2)",
+    "SARFAESI Act, 2002, Section 13(4)",
+    "Security Interest (Enforcement) Rules, 2002, Rule 8(5)",
+    "Security Interest (Enforcement) Rules, 2002, Rule 8(6)",
+    "Security Interest (Enforcement) Rules, 2002, Rule 9(4)",
+    "Article 226 of the Constitution of India"
+  ],
+  "final_judgment": "Leave granted; impugned judgment of the High Court set aside, and the e-auction sale upheld as valid."
+}

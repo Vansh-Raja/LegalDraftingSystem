@@ -1,0 +1,17 @@
+{
+  "case_number": "Miscellaneous Application No. 414 of 2023 in Civil Appeal No. 11857/2016",
+  "parties": {
+    "petitioner": "Govt. of NCT of Delhi through its Secretary, Land and Building Department & Another",
+    "respondent": "M/S. K.L. Rathi Steels Limited and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-05-17",
+  "summary": "The case arose from a split verdict in a review petition concerning the maintainability of review petitions filed by the Delhi Development Authority and the Government of NCT of Delhi against orders dismissing their civil appeals challenging the lapse of land acquisition proceedings under Section 24(2) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013. The central issue was whether review petitions are maintainable under the Explanation to Order XLVII Rule 1 of the Code of Civil Procedure when the original judgment was rendered by a co-ordinate bench. The larger bench examined the jurisprudence on review, the binding nature of decisions, and the per incuriam doctrine, particularly in light of conflicting interpretations of Section 24(2) of the 2013 Act in earlier judgments such as Pune Municipal Corporation v. Harakchand Misirimal Solanki and Indore Development Authority v. Shailendra. The bench analyzed the scope of review jurisdiction and the conditions under which a decision may be deemed per incuriam.",
+  "legal_provisions_cited": [
+    "Section 24(2), Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+    "Section 31, Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+    "Order XLVII Rule 1, Code of Civil Procedure (with Explanation)",
+    "Article 141, Constitution of India"
+  ],
+  "final_judgment": "The review petitions were held maintainable; the split verdict was resolved in favor of the view that review petitions are maintainable under the Explanation to Order XLVII Rule 1 CPC even when the original decision was by a coordinate bench, provided the issue involves a substantial question of law or conflict in legal interpretation."
+}

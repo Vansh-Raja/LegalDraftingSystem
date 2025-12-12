@@ -1,0 +1,20 @@
+{
+  "case_number": "CIVIL APPEAL NO. 9444 OF 2016",
+  "parties": {
+    "petitioner": "Abid-Ul-Islam",
+    "respondent": "Inder Sain Dua"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-07",
+  "summary": "The appeal challenged the Delhi High Court's exercise of revisional jurisdiction under the proviso to Section 25B(8) of the Delhi Rent Control Act, 1958, allowing the tenant's application for leave to defend. The Supreme Court examined whether triable issues existed on the landlord's title, bona fide need, and alternative accommodation. It held that the High Court overstepped its limited revisional role by not deferring to the Rent Controller's findings on title and bona fides. The appellant's title was upheld based on inheritance and award; proceedings under the Enemy Property Act were found without jurisdiction. The High Court erred in focusing on vague denial of alternative accommodation without addressing the Controller's reasoning.",
+  "legal_provisions_cited": [
+    "Section 14(1)(e), Delhi Rent Control Act, 1958",
+    "Section 25B(8), Delhi Rent Control Act, 1958",
+    "Enemy Property Act, 1968",
+    "Anil Bajaj and Anr. v. Vinod Ahuja (2014) 15 SCC 610",
+    "Balwant Singh alias Bant Singh and Anr. v. Sudarshan Kumar and Anr. (2021) SCC OnLine SC 114",
+    "M.M. Quasim v. Manohar Lal Sharma and Ors. (1981) 3 SCC 36",
+    "Inderjeet Kaur v. Nirpal Singh (2001) 1 SCC 706"
+  ],
+  "final_judgment": "The appeal is allowed. The judgment of the Delhi High Court is set aside. The order of the Rent Controller dismissing the application for leave to defend is restored."
+}

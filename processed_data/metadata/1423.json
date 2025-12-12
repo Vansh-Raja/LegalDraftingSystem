@@ -1,0 +1,19 @@
+{
+  "case_number": "Criminal Appeal Nos. 1097-1098 of 2018",
+  "parties": {
+    "petitioner": "Pappu",
+    "respondent": "The State of Uttar Pradesh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-09",
+  "summary": "The appellant, Pappu, was convicted for the rape and murder of a seven-year-old girl, based on circumstantial evidence including the victim being last seen with him, recovery of the body at his instance, and medical/forensic consistency with the charges. The trial court awarded the death sentence, which was confirmed by the Allahabad High Court, citing the 'rarest of rare' doctrine due to the heinous nature of the crime. The appellant challenged both conviction and sentencing, arguing FIR ante-dating, lack of conclusive evidence, and absence of consideration of mitigating factors such as socio-economic background and lack of criminal antecedents. The Supreme Court upheld the conviction, finding the prosecution’s case proved beyond reasonable doubt, and maintained the death sentence, emphasizing the brutality of the offence and its impact on societal conscience.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 376 IPC",
+    "Section 201 IPC",
+    "Section 5/6 POCSO Act, 2012",
+    "Section 366 CrPC",
+    "Code of Criminal Procedure, 1973"
+  ],
+  "final_judgment": "Appeal dismissed; conviction and death sentence confirmed."
+}

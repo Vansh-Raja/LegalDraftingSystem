@@ -1,0 +1,16 @@
+{
+  "case_number": "2024 INSC 593; CIVIL APPEAL NO. 7702 OF 2019",
+  "parties": {
+    "petitioner": "Dlf Ltd. (Formerly Known As Dlf Universal Ltd) And Anr.",
+    "respondent": "Koncar Generators And Motors Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-08-08",
+  "summary": "Enforcement of foreign currency arbitral award; two issues: (1) correct date for foreign exchange rate determination in conversion to INR, (2) conversion date when partial deposit made during objections; twin principles established: (a) date of enforceability (finality post-objections dismissal) governs conversion under Forasol principle for non-deposited amount, (b) date of court deposit applicable for amount deposited pending objections per Renusagar; award dated 12.05.2004 became final after High Court dismissal of revision on 01.07.2014; Rs.8 crore deposit occurred on 22.10.2010 per consent order dated 15.10.2010; High Court upheld 01.07.2014 as conversion date ignoring partial deposit timing; Supreme Court corrected approach by applying different conversion dates for deposited and non-deposited portions.",
+  "legal_provisions_cited": [
+    "Arbitration and Conciliation Act, 1996 s.34",
+    "Arbitration and Conciliation Act, 1996 s.48",
+    "Arbitration and Conciliation Act, 1996 s.49"
+  ],
+  "final_judgment": "Appeal allowed; High Court judgment reversed; conversion rate for Rs.8 crore deposit fixed at rate on date of deposit (22.10.2010), balance amount at rate on award finality date (01.07.2014)."
+}

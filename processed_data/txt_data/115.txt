@@ -1,0 +1,2524 @@
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+2025 INSC 330                                                       REPORTABLE
+
+                                IN THE SUPREME COURT OF INDIA
+                              CRIMINAL APPELLATE JURISDICTION
+
+                                CRIMINAL APPEAL NO. 1184 OF 2025
+                            (ARISING OUT OF SLP (Crl.) NO. 6320 OF 2024)
+
+             JAMIN & ANR.                                          ... APPELLANTS
+
+                                              VERSUS
+
+             STATE OF UTTAR PRADESH & ANR.                        ... RESPONDENTS
+
+                                          JUDGMENT
+
+J. B. PARDIWALA, J. :
+
+For the convenience of exposition, this judgment is divided into the following parts: -
+
+INDEX A. FACTUAL MATRIX .................................................................................. 3
+B. SUBMISSIONS ON BEHALF OF THE APPELLANTS ..................... 11 C.
+SUBMISSIONS ON BEHALF OF THE RESPONDENT .................... 20 D. ISSUES
+FOR DETERMINATION ......................................................... 25 E. ANALYSIS
+................................................................................................. 26
+
+(i) Legislative history, ingredients and scope of Section 319 of the CrPC
+................................................................................................... 26
+
+(ii) Stage at which power under Section 319 of the CrPC can be exercised . 39
+
+(iii) Meaning of the expression “could be tried together with the accused”
+.................................................................................................. 54
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+1
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+(iv) Peculiar facts of the present case not fully covered by the guidelines issued by this
+C o u r t   i n   i t s   d e c i s i o n s   i n   S u k h p a l   S i n g h   K h a i r a   a n d   H a r d e e p   S i n g h
+....................................................................................... 59
+
+(v) Whether the High Court was right in exercising its revision jurisdiction to set
+aside the order of the Trial Court rejecting the second application preferred by the
+respondent no. 2 under section 319 of the CrPC? ....... 61
+
+(vi) The order passed by the High Court in exercise of its revision jurisdiction would
+relate back to and replace the order passed by the Trial Court rejecting the
+application under Section 319 of the CrPC ........................ 65
+
+(vii) Right of the proposed accused to be heard at the stage of summoning under
+Section 319 of CrPC ......................................................................... 87 F.
+CONCLUSION ......................................................................................... 93
+
+1. Leave granted.
+
+2. This appeal arises from the judgment and order passed by the High Court of
+Judicature at Allahabad, Lucknow Bench dated 01.04.2024 in Criminal Application
+No. 2399 of 2024 filed by the appellants herein under Section 482 of the Code of
+Criminal Procedure, 1973 (the “CrPC”) by which the High Court rejected the
+application and thereby affirmed the order passed by the Sessions Court summoning
+the appellants herein as accused under Section 319 of the CrPC in the Session Trial
+No. 582 of 2009.
+
+A. FACTUAL MATRIX
+
+3. On 14.04.2009, the respondent no. 2 herein lodged a First Information Report (“FIR”) No.
+99/2009 in the Police Station Bilgram, Hardoi, Uttar Pradesh for the offence punishable under
+Sections 147, 148, 149 and 302 of the Indian Penal Code, 1860 (hereinafter referred to as the “IPC”)
+respectively against five persons namely Irshad, Irfan, Abdul, Jamin and Akil in connection with the
+murder of his brother. The FIR alleged that the appellants herein namely, Jamin and Akil exhorted
+the other co-accused to kill the deceased and as a result of such instigation, the said co-accused fired
+at the deceased using their pistols resulting into his death.
+
+4. On conclusion of the investigation, the police filed chargesheet no. 07/2009 dated 14.07.2009
+against two accused persons, namely Irshad and Irfan for the alleged offence. The police by way of
+Parcha No. CD 16 dated 14.07.2009 informed the court concerned that the investigation qua the
+remaining accused persons, namely Abdul, Jamin and Akil was ongoing. The chargesheet contained
+a list of 18 witnesses which the State proposed to examine in support of the charges.
+
+5. On 27.10.2009, the Trial Court framed charge for the offence under Sections 147, 148, 149 and
+302 of the IPC respectively against the accused persons who were named in the chargesheet who in
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+2
+
+turn pleaded not guilty and claimed to be tried.
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+6. While the trial against the chargesheeted accused persons namely Irshad and Irfan was in
+progress, the respondent no. 2 filed an application under Section 319 of the CrPC praying to
+summon the other three persons named in the FIR to face the trial along with the chargesheeted
+accused persons.
+
+7. On 29.01.2010, the Trial Court rejected the aforesaid application on the ground that a person
+could be summoned by the trial court in exercise of its powers under Section 319 of the CrPC
+provided that there is cogent and reliable evidence indicating towards the complicity of such person
+in the commission of an offence for which he could be tried together with the accused persons
+already put to trial. The Trial Court noted that PW-1 and PW-2 respectively had yet not been
+cross-examined and it was not clear whether the I.O. intended to file chargesheet against the
+persons sought to be summoned, therefore it declined the prayer to summon under Section 319 of
+the CrPC. The relevant extracts from the said order are reproduced hereinbelow:
+
+“Hence, from the aforesaid principles it is cleared that till date, cross examination of
+Pw-1 & Pw-2 has not been done and it is also not cleared that the chargesheet against
+the application by the accused u/s 319 CrPC is being filed or not Investigation have
+been completed or not and if final report have been filed then is it pending in Add
+District Court or till now investigation is going on? Whenever it would not be cleared
+and until and unless such evidence has not been filed by prosecution that such
+evidence against proposed accused is enough to punished the them until then
+summoned to accused is not justifiable. Hence, application not accepted and is
+deserved to be dismissed/rejected.”
+
+8. A revision petition bearing no. 203 of 2010 was filed by the respondent no.
+
+2 before the High Court against the order of the Trial Court dated 29.01.2010 referred to above. The
+High Court vide order dated 14.05.2010 directed the Trial Court to reconsider the prayer of the
+respondent no. 2 for summoning the proposed accused persons under Section 319 of the CrPC after
+the cross- examination of PW-1 and PW-2 respectively was over. In the meantime, the evidence of
+PW-1 and PW-2 was recorded on 01.12.2009, 02.04.2010 and 15.05.2010 respectively. The relevant
+extracts from the said order are reproduced hereinbelow:
+
+“It appears that the revisionist is the complainant and his petition under section 319
+CrPC for summoning additional accused has been rejected by the court concerned on
+the ground that cross-examination of PW-
+
+1 and 2 had not taken place.
+
+The learned trial court is expected to consider the revisionist’s prayer after the cross-examination is
+over. With the aforesaid observation, the revision is finally disposed of.”
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+3
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+9. Thereafter, on 10.06.2010, the respondent no. 2 filed a second application under Section 319 of
+the CrPC before the Trial Court with a prayer to summon the three persons named in the FIR as
+accused in addition to the accused persons named in the chargesheet. The Additional District &
+Sessions Judge, Hardoi vide order dated 19.07.2010 rejected the said application on the ground that
+the evidence recorded in the course of the trial did not warrant the summoning of the said three
+persons as accused. The Trial Court noted that that while exercising jurisdiction under Section 319
+of the CrPC, it is necessary to see whether there is sufficient and cogent evidence to take cognizance
+and if not, then the persons sought to be summoned as accused cannot be asked to face the trial. The
+Court observed that the complainant had no idea as regards the identity of the proposed accused
+persons, namely, Abdul, Jamin and Akil and no explanation was forthcoming as to how their names
+came to be included in the FIR.
+
+10. In such circumstances referred to above, the respondent no. 2 preferred revision petition bearing
+no. 400/2010 before the High Court seeking to challenge the order dated 19.07.2010.
+
+11. During the pendency of the revision petition, the Additional District & Sessions Judge, Hardoi
+vide the judgment and order dated 19.10.2011, held Irshad and Irfan guilty of the offence of murder
+and sentenced them to life imprisonment and fine. The trial accordingly stood concluded.
+
+12. Long after the conclusion of the trial, the High Court, though aware of conclusion of the trial of
+the co-accused, set aside the order of the Trial Court dated 19.07.2010, vide order dated 14.09.2021
+passed in criminal revision petition no. 400/2010, while observing as under:
+
+a. First, merely on the basis of a statement made by a prosecution witness that not a
+single person in the village was known to him, the Trial Court could not have
+concluded that the proposed accused were not present at the scene of the crime; and
+b. Secondly, no final report was submitted by the police against the proposed
+accused, exonerating them from the alleged crime. The High Court held that a person
+not named in the FIR or if named in the FIR but not chargesheeted, could be
+summoned under Section 319 of the CrPC if the court was prima facie satisfied that
+such person had also committed the offence and he could be tried along with the
+other accused for the alleged offence on the basis of the evidence recorded in the
+course of inquiry into or trial of an offence. In light of the aforesaid observations, the
+High Court allowed the revision petition and directed the Trial Court to reconsider
+the application under Section 319 of the CrPC submitted by the complainant (the
+respondent no. 2 herein) within three months from the date of its order.
+
+The relevant observations made by the High Court are reproduced hereinbelow:
+
+“8 The proposed accused are named in the FIR. The plaintiff has been examined as
+PW-1, he has confirmed the statements in his FIR. Just because he said that he did
+not know anyone by name in that village, it cannot be assumed that he did not know
+the proposed accused. In the cross-examination he was not specifically asked to
+identify the proposed accused, in such a situation it cannot be justified to conclude
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+4
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+that he did not know the proposed accused. It is noteworthy here that the original
+trial has been completed and the accused have been found guilty. Annexure-1,
+submitted along with the supplementary affidavit dated 24.11.2020 submitted by the
+reviewer, is reflected in the copy of the decision. […] In the light of the legal
+principles propounded by the Honorable Supreme Court and the above analysis, it is
+clear that the impugned order passed by the trial court is erroneous, because on the
+basis of mere statement of PW that he did not know any person in the village by
+name before the incident. Considering that he did not even know the proposed
+accused and the investigation against the proposed accused seems to be prevalent,
+neither the final report was given against them nor the rejection of the chargesheet
+application cannot be called legal and justified, as a result deserves to be set aside.
+
+9 This revision is accepted. The impugned order dated 19.07.2010 passed by the trial
+court is set aside. The trial court is ordered to again consider the application
+submitted by the plaintiff under Section 319 CrPC in the light of all the evidence and
+well-established legal principles and pass an order as per law within three months of
+receiving the copy of the order.”
+
+13. On the strength of the order passed by the High Court referred to above, the respondent no. 2
+filed another application dated 22.09.2021 under Section 319 of the CrPC before the Additional
+District and Session Judge and prayed to summon the proposed accused in the trial. The Additional
+District and Sessions Judge vide order dated 21.02.2024 allowed the said application on the ground
+that the oral evidence of the witnesses recorded by the Trial Court clearly revealed the involvement
+of the proposed accused, viz., Abdul, Jamin and Akil along with the accused who stood convicted.
+Since one of the proposed accused namely, Abdul had passed away, the court summoned Jamin and
+Akil to face the trial.
+
+14. The appellants being dissatisfied with the summoning order, challenged the same by filing an
+application under Section 482 of the CrPC and prayed that the order be quashed and set aside. The
+challenge to the summoning order was essentially on the ground that the appellants had been
+summoned in a trial which stood concluded on 19.10.2011 that is, almost 13 years before the
+summoning order was passed.
+
+15. The High Court vide the impugned order dated 01.04.2024, rejected the aforesaid application of
+the appellants filed under Section 482 of the CrPC and thereby affirmed the summoning order
+passed by the Additional District and Sessions Judge. The High Court held that Section 319(4) of the
+CrPC provides that where the court proceeds against any person under sub-section (1) of Section
+319, the proceedings in respect of such person is supposed to commence afresh and the witnesses
+are to be re-heard with respect to the proposed accused so summoned. The conclusion of trial
+against the other accused persons would not cause any prejudice to the appellants as they would be
+afforded an opportunity to defend themselves in a fresh trial. In view of the aforesaid, the High
+Court found no illegality in the order summoning the appellants herein under Section 319 of the
+CrPC. The relevant observations made by the High Court are reproduced hereinbelow:
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+5
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+“27.(cid:132) (cid:132)ln the present case, the witnesses PW-1 and PW-2 have stated about that the
+previously tried accused had shot at the victim at the exhortation of the applicant.
+The trial stands concluded by the judgment and order dated 19.10.2011 wherein it
+was held that the accused persons Irshad and Irfan created an unlawful assembly
+with the other accused persons and they killed the deceased Arif by shooting at him
+with a firearm. In case the aforesaid evidence remains unrebutted, the same would
+lead to conviction of the applicant.
+
+28.(cid:132) (cid:132)Therefore, there is no illegality in the order summoning the applicant under
+Section 319 CrPC.
+
+29.(cid:132) (cid:132)Section 482 CrPC saves the inherent powers of the High Court to make such
+orders as may be necessary to secure the ends of justice. Non-summoning of accused
+persons against whom there was ample evidence warranting their trial, would defeat
+the ends of justice.
+
+The order rejecting the application under Section 319 CrPC was set aside by this Court in exercise of
+its revisional jurisdiction and it is only thereafter, that the trial Court has summoned the applicants
+under Section 319 CrPC. Any interference with the order summoning the applicants to face trial
+would in fact defeat the ends of justice, which would be contrary to the object for which the inherent
+powers of this Court are meant to be exercised.
+
+30.(cid:132) (cid:132)In view of the foregoing discussion, the application filed under Section 482 CrPC lacks merit
+and the same is hereby dismissed.” B. SUBMISSIONS ON BEHALF OF THE APPELLANTS
+
+16. Mr. Siddharth Aggarwal, the learned Senior Counsel appearing for the appellants addressed
+himself on the following questions:
+
+(i) Whether the Trial Court could have entertained an application filed under Section
+319 of the CrPC almost twelve years after the conclusion of the main trial and in the
+absence of any proceedings pending before it?
+
+(ii) Whether the application under Section 319 of the CrPC dated 22.09.2021 could
+have been filed by the respondent no. 2 on the strength of the order of the High Court
+dated 14.09.2021?
+
+(iii) Whether the order dated 14.09.2021 could have been passed by the High Court without issuing
+notice to the appellants?
+
+(iv) What is the effect of the conclusion of the trial on the revision petition pending before the High
+Court, more particularly when the proceedings of trial were not stayed by the High Court?
+
+(v) Whether there was sufficient material on record to summon the appellants under Section 319 of
+the CrPC?
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+6
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+17. As regards the question whether the Trial Court could have entertained the application filed
+under Section 319 of the CrPC after the conclusion of the trial, the learned counsel made the
+following submissions:
+
+a) The conditions for the exercise of power by the Trial Court under Section 319(1) of
+the CrPC are:
+
+(i) that there must be any inquiry into, or trial of, an offence;
+
+(ii) that in course of that inquiry or trial, it must appear from the evidence that any
+person, who is not the accused, has committed any offence for which he could be
+tried together with the accused.
+
+If the aforesaid conditions are satisfied, the person sought to be summoned can be asked to appear
+“in the course of any inquiry into, or trial of, an offence”. In other words, the summoning order
+should be passed at a stage anterior to the date of pronouncement of the judgment, in the trial.
+
+b) However, in the present matter, the application under Section 319 of the CrPC, which was allowed
+vide order dated 21.02.2024, was made 13 years after the judgment & order of conviction of the
+chargesheeted accused persons. Therefore, the Additional Sessions Judge, Hardoi could not have
+exercised its powers under Section 319 of the CrPC as he became functus officio with the passing of
+the order of conviction and sentence.
+
+c) The High Court failed to take into consideration the law laid down by a Constitution Bench of this
+Court in Singh Khaira v. State of Punjab reported in (2023) 1 SCC 289 wherein it was held that the
+summoning order under Section 319 of the CrPC had to be necessarily passed before the order of
+sentence is passed where a finding of conviction was returned. Accordingly, the appellants could not
+have been summoned by the Trial Court in 2024, long after the conclusion of the proceedings of
+Sessions Trial No. 582 of 2009 resulting into conviction and sentence of life imprisonment being
+passed against the original accused, namely Irshad and Irfan. Therefore, the order dated 21.02.2024
+passed by the Additional District and Sessions Judge, Hardoi was not merely a procedural lapse but
+rather a violation of the substantive rights of the appellants.
+
+d) The respondent no. 2 also failed to inform the Trial Court about the pendency of the Revision
+Petition no. 400/2010 before the High Court and the High Court was also not informed about the
+conclusion of trial qua the chargesheeted accused persons.
+
+e) The decision of this Court in Shashikant Singh v. Tarkeshwar Singh & Anr. reported in (2002) 5
+SCC 738 is distinguishable from the present case as having been passed in a very different set of
+facts and thus would not come to the aid of the respondents. The facts in Shashikant Singh (supra)
+were that a revision petition was preferred against the order of the Trial Court allowing the
+application under Section 319 of the CrPC and summoning the proposed accused. Thereafter, the
+trial came to be concluded during the pendency of the revision petition. In Shashikant Singh
+(supra), the application under Section 319 was allowed at a time when the Trial Court still had the
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+7
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+jurisdiction and therefore, the matter was remanded by this Court to the High Court for fresh
+consideration on merits. However, contrary to the facts in Shashikant Singh (supra), in the present
+matter, the Revision Petition no. 400 of 2010 was preferred by the respondent no. 2 against the
+order of the Trial Court rejecting the application under Section 319 on merits. Thus, while in
+Shashikant Singh (supra) the summoning order was issued during the pendency of the trial, in the
+present case the summoning order came to be issued long after the conclusion of the trial and is,
+thus, bad in law as the Trial Court became functus officio with the conclusion of the trial and could
+not have passed the summoning order.
+
+f) Further, this Court in Hardeep Singh v. State of Punjab reported in (2014) 3 SCC 92 has held that
+the powers under Section 319 of the CrPC should be exercised sparingly. The evidence on record
+warranting exercise of this power must be such that if it goes unrebutted then it would lead to a
+conviction. In the present case, the appellants were named in the FIR and were subjected to
+investigation and yet were not arrayed as accused in the chargesheet dated 14.07.2009.
+
+g) The record of the Trial Court indicates that the investigation qua the appellants was closed for
+want of sufficient material against them and therefore the investigating officer decided not to file
+chargesheet against the appellants.
+
+h) The oral evidence of PW-1 and PW-2, respectively, before the Trial Court also failed to inspire any
+confidence for the purpose of summoning the appellants as the testimony of PW-1 was not
+believable. It was pointed out that PW-1 himself had deposed that he did not know anyone from the
+village to which the appellants belonged and the testimony of PW-2 by itself could not have been
+relied upon as the respondent no. 2 did not name himself as an eye-witness in his complaint or in
+his statement recorded under Section 161 of the CrPC or in his substantive evidence before the court.
+
+18. As regards the question whether the High Court could have passed the order dated 14.09.2021
+without issuing notice and granting an opportunity of being heard to the appellants, the counsel
+made the following submissions:
+
+a) Upon rejection of the application under Section 319 of the CrPC dated 10.06.2010
+by the Trial Court, the respondent no. 2 preferred Revision Petition no. 400 of 2010
+before the High Court. However, contrary to the settled position of law, the
+appellants were not joined as parties to the said revision petition.
+
+b) Further, the said revision petition remained pending for 11 years before the High Court and in the
+interregnum, the appellants were not heard at any stage. Therefore, the order directing the Trial
+Court to reconsider the application under Section 319 came to be passed on 14.09.2021 without
+affording the appellants any opportunity to be heard.
+
+c) The order dated 14.09.2021 could be said to be contrary to the law laid down by this Court in
+Manharbhai Muljibhai Kakadia v. Shaileshbhai Mohanbhai Patel reported in (2012) 10 SCC 517 and
+Subhash Sahebrao Deshmukh v. Satish Atmaraman Talekar & Ors. reported in (2020) 6 SCC 625
+wherein the right to be heard has been recognised and it was held that an opportunity of hearing is
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+8
+
+to be mandatorily granted to a proposed accused in revisional proceedings.
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+19. As regards the question pertaining to the legal effect of the conclusion of trial on the revision
+proceedings pending before the High Court, more particularly when the High Court had not stayed
+the proceedings of the trial, the counsel submitted the following:
+
+a) Upon conclusion of trial, as a natural corollary, any interim proceedings arising
+therefrom would come to an end as the Trial Court becomes functus officio unless a
+specific stay on such trial proceeding has been granted by a higher court.
+
+b) In the present matter, the Trial Court became functus officio on 19.10.2011 i.e., the
+date on which it pronounced the judgment of conviction and sentence against the
+original accused persons namely, Irshad and Irfan, and was thereafter shorn of the
+jurisdiction to entertain a subsequent application under Section 319 of the CrPC as
+no proceedings were pending before it. As such, no order for summoning the
+appellants could have been passed by the Trial Court, especially because the High
+Court in its revisional jurisdiction had not passed any order for staying the trial
+proceedings or restraining the Trial Court from pronouncing the final judgment
+against the other accused persons during the pendency of the revision petition
+
+c) The principle that the Trial Court cannot exercise its powers under Section 319 of
+the CrPC after conclusion of the trial has been duly recognized by this Court in its
+decision in Sukhpal Singh Khaira (supra).
+
+20. As regards the question whether there was sufficient material on record to
+summon the appellants to face trial, the counsel submitted as follows:
+
+a) No chargesheet had been filed against the appellants nor was any evidence
+adduced to point towards the involvement of the appellants in the alleged offence.
+
+b) The application under Section 319 of the CrPC was not preferred by the
+prosecution but by the complainant.
+
+c) The Case Diary No. 19 dated 05.09.2009 also recorded that action against Abdul,
+Jamin and Akil was not required as their presence at the spot of the crime had not
+been confirmed.
+
+d) The second application under Section 319 of the CrPC dated 10.06.2010 was
+rejected by the Trial Court inter alia on the ground that upon examination of PW-1, it
+became evident that the complainant did not know the appellants herein and no
+explanation had been offered as to how the complainant mentioned their names in
+the FIR. Further, it was observed that investigation against the proposed accused
+persons was ongoing and no final report against them had been submitted by the
+police.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+9
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+e) After due consideration of all the materials and evidence collected during investigation, the
+prosecution arrived at a decision that no case was made out against the appellants herein and
+accordingly decided not to file a supplementary chargesheet against them. Similarly, after
+considering the oral evidence on record, the Trial Court recorded a finding that no prima facie case
+was made out against the appellants and accordingly rejected the application filed under Section 319
+of the CrPC.
+
+f) Even after the filing of the criminal revision petition before the High Court against the rejection of
+the application under Section 319, no stay on the trial proceedings was granted by the High Court
+and the respondent no. 2 also did not seek an early hearing of the revision petition despite being
+aware of the fact that the trial was about to conclude.
+
+g) The impugned order of the High Court also noted that the counsel for the complainant did not
+apprise the Trial Court of the pendency of the revision petition.
+
+C. SUBMISSIONS ON BEHALF OF THE RESPONDENT
+
+21. Mr. Shaurya Sahay, the learned counsel appearing for the State of Uttar Pradesh, addressed
+himself primarily on the following two aspects:
+
+(i) The issue of summoning of proposed accused under Section 319 of the CrPC after
+conclusion of trial is well settled in law and in light of the said settled position the
+summoning order issued in the present case cannot be said to be erroneous in law.
+
+(ii) The impact and purport of Section 319(4) to the extent it contemplates re-hearing
+of the witnesses and fresh commencement of trial had been correctly considered by
+the High Court while passing the impugned order.
+
+22. As regards the first proposition, the counsel submitted as follows:
+
+a) This Court in its decision in Sukhpal Singh Khaira (supra), inter alia, laid down the
+following guidelines to be followed by a court while deciding an application under
+Section 319 of the CrPC:
+
+i. If the competent court finds cogent evidence or if an application is made under
+Section 319 of the CrPC showing involvement of any other person in the commission
+of the offence based on evidence recorded at any stage in the trial before passing of
+the order on acquittal or sentence, the court shall stop the proceedings of the trial at
+that stage and proceed to decide the application filed under Section 319 of the CrPC
+first before proceeding further with the trial.
+
+ii. If the court decides to summon an accused under Section 319 of the CrPC, such
+summoning order shall be passed before proceeding further with the trial in the main
+case and depending upon the stage at which the order is passed, the court shall apply
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+10
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+its mind to the fact as to whether such summoned accused is to be tried along with
+the other accused or separately.
+
+iii. If the power under Section 319 of the CrPC is not invoked or exercised in the main
+trial till its conclusion and if there is a split-
+
+up case, such power can be invoked or exercised only if there is evidence to that
+effect, pointing to the involvement of the additional accused to be summoned in the
+split-up (bifurcated trial).
+
+b) In the present matter, the High Court in its impugned order has recorded that as
+per Section 319(4), the trial against the accused sought to be summoned has to be
+commenced afresh and the witnesses have to be re-heard. Therefore, the conclusion
+of the trial against the original accused persons would not cause any prejudice to the
+appellants.
+
+c) The aforesaid finding of the High Court falls squarely within the ambit of
+paragraphs 41.3 and 41.6 of Sukhpal Singh Khaira (supra). The relevant guidelines
+laid down in Sukhpal Singh Khaira (supra) and relied upon by the counsel are
+reproduced below:
+
+“41.3. If the decision of the court is to exercise the power under Section 319 CrPC and
+summon the accused, such summoning order shall be passed before proceeding
+further with the trial in the main case. ……….
+
+41.6. If the decision is that the summoned accused can be tried separately, on such
+order being made, there will be no impediment for the Court to continue and
+conclude the trial against the accused who were being proceeded with.”
+
+d) The impugned order also finds sustenance from the decision of this Court in
+Sarojben Ashwinkumar Shah v. State of Gujarat reported in (2011) 13 SCC 316
+wherein while laying down the principles applicable to Section 319 of the CrPC, it was
+held that regard must be had to the constraints imposed by sub-Section (4) of Section
+319 that the proceedings in respect of newly added persons shall be commenced
+afresh from the beginning of the trial.
+
+e) The decision of this Court in Devendra Kumar Pal v. State of Uttar Pradesh & Anr. reported in
+2024 SCC OnLine SC 2487 has referred to the Constitution Bench judgment in Sukhpal Singh
+Khaira (supra) and held that if a summoning order is passed after the passing of order of acquittal in
+the case of acquittal or after the passing of order on sentence in the case of conviction, the same may
+not be sustainable.
+
+23. As regards the impact and purport of Section 319(4) with respect to re-
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+11
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+hearing of the witnesses and fresh commencement of trial, the counsel made the following
+submissions:
+
+a) The High Court in the impugned order has observed that the revisional power of
+the High Court under Sections 397 and 401 of the CrPC respectively is plenary and
+there are no limitations to reverse an order rejecting the Section 319 application in
+order to ensure that actual perpetrators of the crime are rightly brought before the
+court to face trial.
+
+b) The High Court has further recorded in the impugned order that merely because
+the trial against the original accused persons stood concluded during the pendency of
+the revision, the power of revision cannot be limited, more particularly when the
+Trial Court had recorded that the murder was committed by the original accused due
+to the exhortation of the persons sought to be summoned under Section 319 of the
+CrPC.
+
+c) The principles governing the exercise of jurisdiction under Section 319 were laid
+down by this Court in Hardeep Singh (supra) wherein it was observed that it is the
+duty of the court to do justice by punishing the real culprit.
+
+d) As regards the satisfaction of the court before it proceeds to exercise its power
+under Section 319 of the CrPC, the Constitution Bench in Hardeep Singh (supra) has
+held as follows:
+
+“105. Power under Section 319 CrPC is a discretionary and an extraordinary power. It
+is to be exercised sparingly and only in those cases where the circumstances of the
+case so warrant. It is not to be exercised because the Magistrate or the Sessions Judge
+is of the opinion that some other person may also be guilty of committing that
+offence. Only where strong and cogent evidence occurs against a person from the
+evidence led before the court that such power should be exercised and not in a casual
+and cavalier manner.
+
+106. Thus, we hold that though only a prima facie case is to be established from the
+evidence led before the court, not necessarily tested on the anvil of cross-
+
+examination, it requires much stronger evidence than mere probability of his complicity. The test
+that has to be applied is one which is more than prima facie case as exercised at the time of framing
+of charge, but short of satisfaction to an extent that the evidence, if goes unrebutted, would lead to
+conviction. In the absence of such satisfaction, the court should refrain from exercising power under
+Section 319 CrPC. In Section 319 CrPC the purpose of providing if “it appears from the evidence that
+any person not being the accused has committed any offence” is clear from the words “for which
+such person could be tried together with the accused”. The words used are not “for which such
+person could be convicted”. There is, therefore, no scope for the court acting under Section 319 CrPC
+to form any opinion as to the guilt of the accused.”
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+12
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+e) In the present case, both the Trial Court and High Court concurrently held that the summoning of
+the appellants was warranted in view of the evidence that had come on record during the course of
+the trial. The appellants were accused of having exhorted the original accused persons and therefore
+prima facie could be said to have abetted the commission of the offence of murder.
+
+24. In such circumstances referred to above, the counsel appearing for the respondent State
+submitted that the Trial Court was justified in summoning the appellants as accused in exercise of
+its powers under Section 319 CrPC. D. ISSUES FOR DETERMINATION
+
+25. Having heard the learned counsel appearing for the parties and having gone through the
+materials on record, the following questions fall for our consideration:
+
+(i) Whether the High Court was right in exercising its revisional jurisdiction for the
+purpose of setting aside the order of the Trial Court rejecting the second application
+preferred by the respondent no. 2 under section 319 of the CrPC?
+
+(ii) Whether the order dated 21.02.2024 passed by the Trial Court to give effect to the
+order passed by the High Court directing it to reconsider the application under
+Section 319 of CrPC would relate back and replace its earlier order dated 19.07.2010
+rejecting the Section 319 application?
+
+(iii) Whether the Trial Court could have entertained an application filed under
+Section 319 of the CrPC after the conclusion of the trial, more particularly when no
+stay on trial had been granted by the High Court?
+
+(iv) Whether the High Court should have given an opportunity of hearing to the
+proposed accused before deciding the revision petition filed against the rejection of
+application under Section 319 of the CrPC by the Trial Court? If yes, whether the
+order dated 14.09.2021 passed by the High Court in exercise of its revisional
+jurisdiction was passed without issuing notice to the appellants and providing them
+an opportunity of hearing?
+
+E. ANALYSIS
+
+(i) Legislative history, ingredients and scope of Section 319 of the CrPC
+
+26. Section 319 of the CrPC empowers the court to proceed against other persons appearing to be
+guilty of offence. The section is reproduced below:
+
+“319. Power to proceed against other persons appearing to be guilty of offence.
+
+(1) Where, in the course of any inquiry into, or trial of, an offence, it appears from the
+evidence that any person not being the accused has committed any offence for which
+such person could be tried together with the accused, the Court may proceed against
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+13
+
+such person for the offence which he appears to have committed.
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+(2) Where such person is not attending the Court, he may be arrested or summoned,
+as the circumstances of the case may require, for the purpose aforesaid.
+
+(3) Any person attending the Court, although not under arrest or upon a summons,
+may be detained by such Court for the purpose of the inquiry into, or trial of, the
+offence which he appears to have committed.
+
+(4) Where the Court proceeds against any person under sub-section (1), then
+
+(a) the proceedings in respect of such person shall be commenced afresh, and the
+witnesses re-heard;
+
+(b) subject to the provisions of clause (a), the case may proceed as if such person had
+been an accused person when the Court took cognizance of the offence upon which
+the inquiry or trial was commenced.”
+
+27. Before the enactment of CrPC in 1973, Section 351 of the Code of Criminal Procedure, 1898
+(hereinafter referred to as “the Code, 1898”) was the provision corresponding to Section 319 of the
+CrPC. Section 351 of the Code, 1898 is reproduced hereinbelow:
+
+“351. Detention of offenders attending court.
+
+(1) Any person attending a Criminal Court, although not under arrest or upon a
+summons, may be detained by such Court for the purpose of inquiry into or trial of
+any offence of which such Court can take cognizance and which, from the evidence,
+may appear to have been committed, and may be proceeded against as though he had
+been arrested or summoned.
+
+(2) When the detention takes place in the course of an inquiry under Chapter XVIII
+or after a trial has been begun the proceedings in respect of such person shall be
+commenced afresh, and the witnesses re-heard.”
+
+28. A perusal of Section 351 of the Code, 1898 indicates that under the old provision the court was
+empowered to proceed only against a person who was attending the Court and who also appeared to
+have committed the offence from the evidence adduced before the Court, of which such Court can
+take cognizance, by detaining such a person for the purpose of enquiry or trial. Sub-section (2)
+provided that in respect of such person, the proceedings shall have to be commenced afresh and the
+witnesses re-heard.
+
+29. The expression “any offence of which such Court can take cognizance and which, from the
+evidence, may appear to have been committed” used in Section 351 clearly indicates two aspects,
+namely:
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+14
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+a. First, that it must appear from the evidence that a person who is attending the
+Court has committed an offence; and b. Secondly, that the offence is such that the
+Court can take cognizance.
+
+30. Therefore, what becomes clear from the aforesaid is that there was a lacuna in Section 351 of the
+Code, 1898 as it did not cover two important situations:
+
+a. First, the situation where the person who appears to have committed an offence
+during the course of the enquiry into or trial was not attending the Court; and b.
+Secondly, the manner in which the cognizance will be taken as against that person.
+
+31. In order to make Section 351 comprehensive, the Law Commission, realizing the above two grey
+areas, in its 41st report, recommended for suitable amendment of the said provision. The relevant
+recommendation of the Law Commission is reproduced hereinbelow:
+
+“24.80. It happens sometimes, though not very often, that a Magistrate hearing a
+case against certain accused finds from the evidence that some person, other than the
+accused before him, is also concerned in that very offence or in a connected offence.
+It is only proper that a Magistrate should have the power to call and join him in the
+proceedings. Section 351 provides for such a situation, but only if that person
+happens to be attending the Court. He can then be detained and proceeded against.
+There is no express provision in Section 351 for summoning such a person if he is not
+present in Court. Such a provision would make Section 351 fairly comprehensive, and
+we think it proper to expressly provide for that situation.
+
+24.81. Section 351 assumes that the Magistrate proceeding under it has the power of
+taking cognizance of the new case. It does not, however, say in what manner
+cognizance is taken by the Magistrate.
+
+The modes of taking cognizance are mentioned in Section 190, and are apparently exhaustive. The
+question is, whether against the newly added accused, cognizance will be supposed to have been
+taken on the Magistrate's own information under Section 190(1)(c), or only in the manner in which
+cognizance was first taken of the offence against the accused. The question is important, because the
+methods of inquiry and trial in the two cases differ. About the true position under the existing law,
+there has been difference of opinion, and we think it should be made clear. It seems to us that the
+main purpose of this particular provision is, that the whole case against all known suspects should
+be proceeded with expeditiously and convenience requires, that cognizance against the newly added
+accused should be taken in the same manner as against the other accused We, therefore, propose to
+recast Section 351 making it comprehensive and providing that there will be no difference in the
+mode of taking cognizance of a new person is added as an accused during the proceedings.”
+(Emphasis supplied)
+
+32. The aforesaid indicates that the Law Commission made two recommendations:
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+15
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+a. First, to add an accused who is not before the Court but connected with that
+offence; and b. Secondly, the mode of taking cognizance as against the newly added
+accused shall be the same as against the other accused.
+
+33. Pursuant to the above recommendation, Section 319 was enacted in CrPC with suitable
+modifications. A perusal of Section 319 of CrPC makes it manifest that any person, not being the
+accused before the court, who also appears to have committed an offence from the evidence adduced
+before the court during the course of any enquiry into or trial of an offence for which cognizance has
+already been taken, regardless of whether such person is attending the court or not, can be
+summoned. If he is added as an accused pursuant to the said decision of the court, the mode of
+taking cognizance in respect of such person would the same as in the case of the already arraigned
+accused. In other words, he is deemed to have been an accused when the Court originally took
+cognizance of the offence earlier. For this purpose, a legal fiction is created in Clause (b) of
+sub-section (4) of Section 319 of CrPC.
+
+34. Section 319 has been included in the statute book with the object of ensuring effective
+administration of justice. The legislature enacted Section 319 to eliminate any situation wherein the
+courts would feel helpless in proceeding against any person who appears to be guilty of committing
+an offence, more particularly, in cases where the investigating agency or prosecution files
+chargesheet only against a few persons in relation to an offence and leaves out a few others either
+intentionally or unintentionally. The said section empowers the courts to proceed with persons who
+are not the accused before it, upon satisfaction of the conditions prescribed in the provision.
+
+35. The scope of power under Section 319 CrPC was explained by this Court in Municipal Corpn. of
+Delhi v. Ram Kishan Rohtagi reported in (1983) 1 SCC 1 wherein it was held that cognizance against
+a proposed accused can be taken under Section 319 even if the proceedings against him have been
+quashed earlier. The relevant observations are reproduced as under:
+
+“19. In these circumstances, therefore, if the prosecution can at any stage produce
+evidence which satisfies the court that the other accused or those who have not been
+arrayed as accused against whom proceedings have been quashed have also
+committed the offence the Court can take cognizance against them and try them
+along with the other accused. But, we would hasten to add that this is really an
+extraordinary power which is conferred on the court and should be used very
+sparingly and only if compelling reasons exist for taking cognizance against the other
+person against whom action has not been taken. More than this we would not like to
+say anything further at this stage. We leave the entire matter to the discretion of the
+court concerned so that it may act according to law. We would, however, make it
+plain that the mere fact that the proceedings have been quashed against Respondents
+2 to 5 will not prevent the court from exercising its discretion if it is fully satisfied
+that a case for taking cognizance against them has been made out on the additional
+evidence led before it.” (Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+16
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+36. Further, this Court, in Kishun Singh v. State of Bihar reported in (1993) 2 SCC 16, observed that
+even a person who has been discharged earlier would fall within the sweep of Section 319 of the
+CrPC subject to other requirements for applicability of the provision being satisfied. The relevant
+observations are reproduced hereinbelow:
+
+“11. On a plain reading of sub-section (1) of Section 319 there can be no doubt that it
+must appear from the evidence tendered in the course of any inquiry or trial that any
+person not being the accused has committed any offence for which he could be tried
+together with the accused. This power, it seems clear to us, can be exercised only if it
+so appears from the evidence at the trial and not otherwise. Therefore, this
+sub-section contemplates existence of some evidence appearing in the course of trial
+wherefrom the court can prima facie conclude that the person not arraigned before it
+is also involved in the commission of the crime for which he can be tried with those
+already named by the police. Even a person who has earlier been discharged would
+fall within the sweep of the power conferred by Section 319 of the Code.” (Emphasis
+supplied)
+
+37. A perusal of the aforesaid decisions of this Court indicates that the intention behind giving a
+wide interpretation to Section 319 is to ensure that the perpetrator of a crime does not get away
+unpunished. The legislature incorporated the provision with the purpose of empowering the courts
+to find out the real culprits without getting hindered by procedural impediments so that the guilty
+does not go unpunished.
+
+38. While discussing the spirit underlying Section 319 of the CrPC, this Court in Hardeep Singh
+(supra) observed that the provision is based on the doctrine judex damnatur cum nocens absolvitur
+which means that “the Judge is condemned when guilty is acquitted”. The Court further observed
+that this doctrine must be used as a beacon light while explaining the ambit and the spirit
+underlying the enactment of Section 319 CrPC. The relevant portions from the said decision
+discussing the spirit of the provision and the approach which the courts must adopt while
+interpreting the provision are reproduced hereinbelow:
+
+“8. The constitutional mandate under Articles 20 and 21 of the Constitution of India
+provides a protective umbrella for the smooth administration of justice making
+adequate provisions to ensure a fair and efficacious trial so that the accused does not
+get prejudiced after the law has been put into motion to try him for the offence but at
+the same time also gives equal protection to victims and to society at large to ensure
+that the guilty does not get away from the clutches of law. For the empowerment of
+the courts to ensure that the criminal administration of justice works properly, the
+law was appropriately codified and modified by the legislature under CrPC indicating
+as to how the courts should proceed in order to ultimately find out the truth so that
+an innocent does not get punished but at the same time, the guilty are brought to
+book under the law. It is these ideals as enshrined under the Constitution and our
+laws that have led to several decisions, whereby innovating methods and progressive
+tools have been forged to find out the real truth and to ensure that the guilty does not
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+17
+
+go unpunished.
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+9. The presumption of innocence is the general law of the land as every man is
+presumed to be innocent unless proven to be guilty. Alternatively, certain statutory
+presumptions in relation to certain class of offences have been raised against the
+accused whereby the presumption of guilt prevails till the accused discharges his
+burden upon an onus being cast upon him under the law to prove himself to be
+innocent. These competing theories have been kept in mind by the legislature. The
+entire effort, therefore, is not to allow the real perpetrator of an offence to get away
+unpunished. This is also a part of fair trial and in our opinion, in order to achieve this
+very end that the legislature thought of incorporating provisions of Section 319 CrPC.
+It is with the said object in mind that a constructive and purposive interpretation
+should be adopted that advances the cause of justice and does not dilute the intention
+of the statute conferring powers on the court to carry out the abovementioned
+avowed object and purpose to try the person to the satisfaction of the court as an
+accomplice in the commission of the offence that is the subject-matter of trial.
+
+--xxx--
+
+12. Section 319 CrPC springs out of the doctrine judex damnatur cum nocens absolvitur (Judge is
+condemned when guilty is acquitted) and this doctrine must be used as a beacon light while
+explaining the ambit and the spirit underlying the enactment of Section 319 CrPC.
+
+13. It is the duty of the court to do justice by punishing the real culprit. Where the investigating
+agency for any reason does not array one of the real culprits as an accused, the court is not
+powerless in calling the said accused to face trial. The question remains under what circumstances
+and at what stage should the court exercise its power as contemplated in Section 319 CrPC?”
+(Emphasis supplied)
+
+39. A bare perusal of sub-section (1) of Section 319 brings out three essential requirements that
+must be fulfilled for invoking the powers thereunder:
+
+a. First, there must be an ongoing inquiry or trial in respect of the original accused
+person(s); and b. Secondly, in the course of such proceedings, evidence must have
+come on record to show that any person other than the original accused has
+committed any offence; and c. Thirdly, the person sought to be summoned could be
+tried together with the original accused for such offence.
+
+40. This Court in Raj Kishore Prasad v. State of Bihar reported in (1996) 4 SCC 495 held that Section
+319 deals only with a situation in which the complicity of the persons sought to be arrayed as
+accused comes to light from the evidence taken and recorded in the course of an inquiry or trial.
+
+This Court in its decision in Suman v. State of Rajasthan reported in (2010) 1 SCC 250 held that a
+case can be proceeded with under Section 319 if, based upon the evidence brought on record in the
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+18
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+course of any inquiry into, or trial of an offence, the court is prima facie satisfied that such person
+has committed any offence for which he can be tried with other accused.
+
+41. The standard of such prima facie satisfaction to be formed from the evidence produced during
+the course of trial or inquiry has been explained by this court in Hardeep Singh (supra). The relevant
+observations from the said decision are reproduced below:
+
+“105. Power under Section 319 CrPC is a discretionary and an extraordinary power. It
+is to be exercised sparingly and only in those cases where the circumstances of the
+case so warrant. It is not to be exercised because the Magistrate or the Sessions Judge
+is of the opinion that some other person may also be guilty of committing that
+offence. Only where strong and cogent evidence occurs against a person from the
+evidence led before the court that such power should be exercised and not in a casual
+and cavalier manner.
+
+106. Thus, we hold that though only a prima facie case is to be established from the
+evidence led before the court, not necessarily tested on the anvil of cross-
+
+examination, it requires much stronger evidence than mere probability of his complicity. The test
+that has to be applied is one which is more than prima facie case as exercised at the time of framing
+of charge, but short of satisfaction to an extent that the evidence, if goes unrebutted, would lead to
+conviction. In the absence of such satisfaction, the court should refrain from exercising power under
+Section 319 CrPC. In Section 319 CrPC the purpose of providing if “it appears from the evidence that
+any person not being the accused has committed any offence” is clear from the words “for which
+such person could be tried together with the accused”. The words used are not “for which such
+person could be convicted”. There is, therefore, no scope for the court acting under Section 319 CrPC
+to form any opinion as to the guilt of the accused.” (Emphasis supplied)
+
+42. As regards the requirement of evidence and the standard for testing such evidence, Hardeep
+Singh (supra) indicates as follows:
+
+a. First, it is not necessary for the evidence tendered to be tested by way of
+cross-examination for establishing the involvement of an additional accused; and b.
+Secondly, the threshold for establishing the involvement of an additional accused is
+more than that of a prima facie case as exercised at the time of framing of charge, but
+less than such a satisfaction that the evidence, if goes unrebutted, would lead to
+conviction.
+
+43. Further, the exercise of powers under Section 319 is not inhibited with respect to who can be
+summoned as an accused. This Court in Hardeep Singh (supra) has clarified in express terms that
+Section 319 CrPC can be exercised against a person not subjected to investigation, or a person
+placed in Column 2 of the chargesheet and against whom cognizance had not been taken, or even a
+person who has been discharged. However, as regards a person who has been discharged, no
+proceedings can be commenced against him directly under Section 319 CrPC without taking
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+19
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+recourse to provisions of Section 300(5) read with Section 398 CrPC. Such a person can be
+proceeded against under Section 319 only if during or after an inquiry under Section 300(5) read
+with Section 398, there appears to be evidence against such person which may indicate that they
+committed any offence for which they could be tried together with the accused.
+
+44. Therefore, a summoning order issued under Section 319 of the CrPC cannot be quashed only on
+the ground that even though the proposed accused were named in the FIR or complaint, the police
+did not include their names in the chargesheet. In other words, if the evidence tendered in the
+course of any inquiry or trial shows that any person not being the accused has committed any
+offence for which he could be tried together with the accused, he can be summoned to face trial even
+though he may not have been chargesheeted by the investigating agency or may have been
+discharged at an earlier stage.
+
+45. Sub-section (4) of Section 319 mandates that a fresh trial or a de novo trial is to be conducted in
+respect of the persons summoned under sub-section (1) so as to ensure that such persons are not
+deprived of the opportunity to present their case and examine the witnesses properly. The
+requirement of a de novo trial in sub-section (4)(a) is quite different from the notion of a split- up or
+separate trial as provided under Section 317 of the CrPC. The provision of a de novo trial is to
+safeguard the right of fair trial to be provided to the new persons summoned under Section 319(1).
+
+46. However, while the provision of de novo or fresh trial under Section 319(4) is mandatory, the
+said sub-section is applicable only in cases where the court proceeds against any person under
+sub-section (1). Thus, a de novo trial can be commenced in respect of the proposed accused only if
+the power under sub-section (1) has been validly exercised by the court. In other words, sub- section
+(4) is subject to sub-section (1) and thus also to the expression “could be tried together with the
+accused” mentioned in sub-section (1).
+
+(ii) Stage at which power under Section 319 of the CrPC can be exercised
+
+47. The principal contention of the appellants is that the Trial Court could not have allowed the
+application under Section 319 of the CrPC after the conclusion of the trial of the original accused. In
+other words, the appellants have contended that once the stage of trial was over by virtue of
+pronouncement of judgment of conviction and sentence, it was not open anymore to the Trial Court
+to issue summons against the appellants.
+
+48. To better appreciate and address the aforesaid contention of the appellants, it is important to
+understand the stage at which the power under Section 319 of the CrPC can be exercised. A bare
+perusal of the sub-section (1) of Section 319 of the CrPC indicates that the power thereunder can be
+exercised “in the course of an inquiry into, or trial of, an offence”.
+
+49. A Constitution Bench of this Court in Hardeep Singh (supra) was called upon to resolve, inter
+alia, the issue of the stage at which an order under Section 319 could be passed. This Court
+considered the meaning and scope of the words “course”, “inquiry” and “trial” appearing in
+sub-section (1) in detail and inter alia made the following observations:
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+20
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+a. The stage of committal can neither be said to fall under the meaning of the
+expression “inquiry” or “trial” and thus the powers under Section 319 cannot be
+exercised at the stage of committal of proceedings.
+
+b. The stage of trial commences upon the framing of charges. c. Inquiry does not include the stage of
+investigation by the investigating authorities and refers to the stage which commences upon the case
+being brought to the notice of the court upon filing of the chargesheet. d. The power under Section
+319(1) CrPC can be exercised at any time after the charge-sheet is filed and before the
+pronouncement of judgment, except during the stage of Sections 207/208 CrPC, committal, etc.
+which is only a pre-trial stage, intended to put the process into motion. e. The application of the
+provisions of Section 319 CrPC, at the stage of inquiry remains limited to adding a person as an
+accused, whose name has been mentioned in Column 2 of the charge-sheet or any other person who
+might be an accomplice.
+
+f. The word “course” appearing in sub-section (1) signifies that the power under Section 319 can be
+exercised when either the inquiry, or trial, has been commenced and is going on.
+
+50. The relevant observations made by this Court in Hardeep Singh (supra) in the context of the
+stage at which the powers under Section 319 can be exercised by the courts are reproduced
+hereinbelow:
+
+“38. In view of the above, the law can be summarised to the effect that as “trial”
+means determination of issues adjudging the guilt or the innocence of a person, the
+person has to be aware of what is the case against him and it is only at the stage of
+framing of the charges that the court informs him of the same, the “trial” commences
+only on charges being framed. Thus, we do not approve the view taken by the courts
+that in a criminal case, trial commences on cognizance being taken.
+
+39. Section 2(g) CrPC and the case laws referred to above, therefore, clearly envisage
+inquiry before the actual commencement of the trial, and is an act conducted under
+CrPC by the Magistrate or the court.
+
+The word “inquiry” is, therefore, not any inquiry relating to the investigation of the case by the
+investigating agency but is an inquiry after the case is brought to the notice of the court on the filing
+of the charge-sheet. The court can thereafter proceed to make inquiries and it is for this reason that
+an inquiry has been given to mean something other than the actual trial.
+
+40. Even the word “course” occurring in Section 319 CrPC, clearly indicates that the power can be
+exercised only during the period when the inquiry has been commenced and is going on or the trial
+which has commenced and is going on. It covers the entire wide range of the process of the pre-trial
+and the trial stage. The word “course” therefore, allows the court to invoke this power to proceed
+against any person from the initial stage of inquiry up to the stage of the conclusion of the trial. The
+court does not become functus officio even if cognizance is taken so far as it is looking into the
+material qua any other person who is not an accused. […]
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+21
+
+--xxx--
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+42. To say that powers under Section 319 CrPC can be exercised only during trial would be reducing
+the impact of the word “inquiry” by the court. It is a settled principle of law that an interpretation
+which leads to the conclusion that a word used by the legislature is redundant, should be avoided as
+the presumption is that the legislature has deliberately and consciously used the words for carrying
+out the purpose of the Act. The legal maxim a verbis legis non est recedendum which means, “from
+the words of law, there must be no departure” has to be kept in mind.
+
+--xxx--
+
+47. Since after the filing of the charge-sheet, the court reaches the stage of inquiry and as soon as the
+court frames the charges, the trial commences, and therefore, the power under Section 319(1) CrPC
+can be exercised at any time after the charge-sheet is filed and before the pronouncement of
+judgment, except during the stage of Sections 207/208 CrPC, committal, etc. which is only a
+pre-trial stage, intended to put the process into motion. […]
+
+--xxx--
+
+53. It is thus aptly clear that until and unless the case reaches the stage of inquiry or trial by the
+court, the power under Section 319 CrPC cannot be exercised. In fact, this proposition does not seem
+to have been disturbed by the Constitution Bench in Dharam Pal (CB) [Dharam Pal v. State of
+Haryana, (2014) 3 SCC 306 : AIR 2013 SC 3018]. […]
+
+54. In our opinion, the stage of inquiry does not contemplate any evidence in its strict legal sense,
+nor could the legislature have contemplated this inasmuch as the stage for evidence has not yet
+arrived. The only material that the court has before it is the material collected by the prosecution
+and the court at this stage prima facie can apply its mind to find out as to whether a person, who can
+be an accused, has been erroneously omitted from being arraigned or has been deliberately excluded
+by the prosecuting agencies. This is all the more necessary in order to ensure that the investigating
+and the prosecuting agencies have acted fairly in bringing before the court those persons who
+deserve to be tried and to prevent any person from being deliberately shielded when they ought to
+have been tried. This is necessary to usher faith in the judicial system whereby the court should be
+empowered to exercise such powers even at the stage of inquiry and it is for this reason that the
+legislature has consciously used separate terms, namely, inquiry or trial in Section 319 CrPC.
+
+55. Accordingly, we hold that the court can exercise the power under Section 319 CrPC only after the
+trial proceeds and commences with the recording of the evidence and also in exceptional
+circumstances as explained hereinabove.
+
+--xxx--
+
+57. Thus, the application of the provisions of Section 319 CrPC, at the stage of inquiry is to be
+understood in its correct perspective. The power under Section 319 CrPC can be exercised only on
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+22
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+the basis of the evidence adduced before the court during a trial. So far as its application during the
+course of inquiry is concerned, it remains limited as referred to hereinabove, adding a person as an
+accused, whose name has been mentioned in Column 2 of the charge-
+
+sheet or any other person who might be an accomplice.” (Emphasis supplied)
+
+51. In Sukhpal Singh Khaira (supra), a Constitution Bench of this Court was called upon to
+authoritatively consider the stage at which a trial could be said to have been concluded for the
+purposes of Section 319 of the CrPC. The Court, inter alia, framed the following two questions:
+
+a. Whether the trial court has the power under Section 319 CrPC for summoning
+additional accused when the trial with respect to other co-
+
+accused has ended and the judgment of conviction rendered on the same date before
+pronouncing the summoning order?
+
+b. Whether the trial court has the power under Section 319 CrPC for summoning
+additional accused when the trial in respect of certain other absconding accused
+(whose presence is subsequently secured) is ongoing/pending, having been
+bifurcated from the main trial?
+
+52. Answering the first question, the Court observed that where there is a judgment of conviction the
+power under Section 319 CrPC is to be invoked and exercised before the pronouncement of the order
+of sentence. In the case of acquittal, the power should be exercised before the order of acquittal is
+pronounced. As regards cases where the summoning order and order of conviction/acquittal are
+passed on the same day, the Court held that it will have to be examined on the facts and
+circumstances of each case and if such summoning order is found to have been passed either after
+the order of acquittal or imposing sentence in the case of conviction, the same would not be
+sustainable.
+
+53. With the regard to the second question, the Court observed that the trial court has the power to
+summon additional accused during the proceeding of split- up trial (i.e., trial of the accused which
+had been separated or bifurcated from the main trial), subject to the evidence recorded in the
+split-up (bifurcated) trial pointing to the involvement of the accused sought to be summoned. The
+Court clarified that the evidence recorded in the main concluded trial cannot be the basis of the
+summoning order if such power has not been exercised in the main trial till its conclusion.
+
+54. The Court also approved its earlier decision in Shashikant Singh (supra) wherein it was held that
+the expression “could be tried together with the accused” used in Section 319 does not mandate that
+the proposed accused has to be jointly tried with the original accused. It was held by this Court that
+at the time of deciding to proceed against the proposed accused under Section 319, the court is also
+required to apply its mind and take a decision as to whether the proceedings shall continue jointly
+with the original accused or separately for the proposed accused.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+23
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+55. The relevant portions from the reasoning assigned by the Court in arriving at the aforesaid
+conclusions are reproduced hereinbelow:
+
+“23. […] Therefore, it would be open for the court to summon such a person so that
+he could be tried together with the accused and such power is exclusively of the court.
+Obviously, when such power is to summon the additional accused and try such a
+person with the already charged accused against whom the trial is proceeding, it will
+have to be exercised before the conclusion of trial. The connotation “conclusion of
+trial” in the present case cannot be reckoned as the stage till the evidence is recorded,
+but, is to be understood as the stage before pronouncement of the judgment as
+already held in Hardeep Singh [Hardeep Singh v. State of Punjab, (2014) 3 SCC 92 :
+(2014) 2 SCC (Cri) 86] since on judgment being pronounced the trial comes to a
+conclusion since until such time the accused is being tried by the court.
+
+--xxx--
+
+27. From a perusal of the provisions extracted above, it is seen that if the Sessions
+Court while analysing the evidence recorded finds that there is no evidence to hold
+the accused for having committed the offence, the Judge is required to record an
+order of acquittal. In that case, there is nothing further to be done by the learned
+Judge and therefore the trial concludes at that stage. In such cases where it arises
+under Section 232 CrPC and an order of acquittal is recorded and when there are
+more than one accused or the sole accused, have/has been acquitted, in such cases,
+that being the end of the trial by drawing the curtain, the power of the court to
+summon an accused based on the evidence as contemplated under Section 319 CrPC
+will have to be invoked and exercised before pronouncement of judgment of
+acquittal. There shall be application of mind also, as to whether separate trial or joint
+trial is to be held while trying him afresh. After such order it will be open to
+pronounce the judgment of acquittal of the accused who was tried earlier.
+
+--xxx--
+
+29. The above aspects would indicate that even after the pronouncement of the
+judgment of conviction, the trial is not complete since the learned Sessions Judge is
+required to apply her/his mind to the evidence which is available on record to
+determine the gravity of the charge for which the accused is found guilty; the role of
+the particular accused when there is more than one accused involved in an offence
+and in that light, to award an appropriate sentence. Therefore, it cannot be said that
+the trial is complete on the pronouncement of the judgment of conviction alone,
+though it may be so in the case of acquittal as contemplated under Section 232 CrPC,
+since in that case there is nothing further to be done by the learned Judge except to
+record an order of acquittal which results in conclusion of trial.
+
+--xxx--
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+24
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+32. Therefore, from a perusal of the provisions and decisions of this Court, it is clear
+that the conclusion of the trial in a criminal prosecution if it ends in conviction, a
+judgment is considered to be complete in all respects only when the sentence is
+imposed on the convict, if the convict is not given the benefit of Section 360 CrPC.
+Similarly, in a case where there are more than one accused and if one or more among
+them are acquitted and the others are convicted, the trial would stand concluded as
+against the accused who are acquitted and the trial will have to be concluded against
+the convicted accused with the imposition of sentence.
+
+When considered in the context of Section 319 CrPC, there would be no dichotomy as argued, since
+what becomes relevant here is only the decision to summon a new accused based on the evidence
+available on record which would not prejudice the existing accused since in any event they are
+convicted.
+
+--xxx--
+
+34. Though Section 319 CrPC provides that such person summoned as per sub-section (1) thereto
+could be jointly tried together with the other accused, keeping in view the power available to the
+court under Section 223 CrPC to hold a joint trial, it would also be open to the learned Sessions
+Judge at the point of considering the application under Section 319 CrPC and deciding to summon
+the additional accused, to also take a decision as to whether a joint trial is to be held after
+summoning such accused by deferring the judgment being passed against the tried accused. If a
+conclusion is reached that the fresh trial to be conducted against the newly added accused could be
+separately tried, in such event it would be open for the learned Sessions Judge to order so and
+proceed to pass the judgment and conclude the trial insofar as the accused against whom it had
+originally proceeded and thereafter proceed in the case of the newly added accused. However, what
+is important is that the decision to summon an additional accused either suo motu by the court or
+on an application under Section 319 CrPC shall in all eventuality be considered and disposed of
+before the judgment of conviction and sentence is pronounced, as otherwise, the trial would get
+concluded and the court will get divested of the power under Section 319 CrPC. Since a power is
+available to the court to decide as to whether a joint trial is required to be held or not, this Court was
+justified in holding the phrase, “could be tried together with the accused” as contained in Section
+319(1)CrPC, to be directory as held in Shashikant Singh [Shashikant Singh v. Tarkeshwar Singh,
+(2002) 5 SCC 738 : 2002 SCC (Cri) 1203] which in our opinion is the correct view.
+
+35. One other aspect which is necessary to be clarified is that if the trial against the absconding
+accused is split up (bifurcated) and is pending, that by itself will not provide validity to an
+application filed under Section 319CrPC or the order of court to summon an additional accused in
+the earlier main trial if such summoning order is made in the earlier concluded trial against the
+other accused. This is so, since such power is to be exercised by the court based on the evidence
+recorded in that case pointing to the involvement of the accused who is sought to be summoned. If
+in the split up (bifurcated) case, on securing the presence of the absconding accused the trial is
+commenced and if in the evidence recorded therein it points to the involvement of any other person
+as contemplated in Section 319CrPC, such power to summon the accused can certainly be invoked in
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+25
+
+the split up (bifurcated) case before conclusion of the trial therein.” (Emphasis supplied)
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+56. Further, this Court in Sukhpal Singh Khaira (supra) also laid down certain guidelines for the
+exercise of power by the courts under Section 319 of the CrPC. These guidelines are reproduced
+below:
+
+“41.(III) What are the guidelines that the competent court must follow while
+exercising power under Section 319CrPC?
+
+41.1. If the competent court finds evidence or if application under Section 319 CrPC is
+filed regarding involvement of any other person in committing the offence based on
+evidence recorded at any stage in the trial before passing of the order on acquittal or
+sentence, it shall pause the trial at that stage.
+
+41.2. The court shall thereupon first decide the need or otherwise to summon the
+additional accused and pass orders thereon.
+
+41.3. If the decision of the court is to exercise the power under Section 319 CrPC and
+summon the accused, such summoning order shall be passed before proceeding
+further with the trial in the main case.
+
+41.4. If the summoning order of additional accused is passed, depending on the stage
+at which it is passed, the court shall also apply its mind to the fact as to whether such
+summoned accused is to be tried along with the other accused or separately.
+
+41.5. If the decision is for joint trial, the fresh trial shall be commenced only after
+securing the presence of the summoned accused.
+
+41.6. If the decision is that the summoned accused can be tried separately, on such
+order being made, there will be no impediment for the court to continue and
+conclude the trial against the accused who were being proceeded with.
+
+41.7. If the proceeding paused as in para 41.1 above, is in a case where the accused
+who were tried are to be acquitted, and the decision is that the summoned accused
+can be tried afresh separately, there will be no impediment to pass the judgment of
+acquittal in the main case.
+
+41.8. If the power is not invoked or exercised in the main trial till its conclusion and if
+there is a split-up (bifurcated) case, the power under Section 319 CrPC can be
+invoked or exercised only if there is evidence to that effect, pointing to the
+involvement of the additional accused to be summoned in the split-up (bifurcated)
+trial.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+26
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+41.9. If, after arguments are heard and the case is reserved for judgment the occasion
+arises for the Court to invoke and exercise the power under Section 319 CrPC, the
+appropriate course for the court is to set it down for re-hearing.
+
+41.10. On setting it down for re-hearing, the above laid down procedure to decide
+about summoning; holding of joint trial or otherwise shall be decided and proceeded
+with accordingly.
+
+41.11. Even in such a case, at that stage, if the decision is to summon additional
+accused and hold a joint trial the trial shall be conducted afresh and de novo
+proceedings be held.
+
+41.12. If, in that circumstance, the decision is to hold a separate trial in case of the
+summoned accused as indicated earlier:
+
+(a) The main case may be decided by pronouncing the conviction and sentence and
+then proceed afresh against summoned accused.
+
+(b) In the case of acquittal the order shall be passed to that effect in the main case
+and then proceed afresh against summoned accused.” (Emphasis supplied)
+
+57. The guidelines laid down by this Court contemplate several situations as to how the trial of the
+accused summoned under Section 319 should take place. Paragraph nos. 41.1 to 41.4 lay down the
+chronology of steps to be taken while deciding an application under Section 319 that is:
+
+a. First, the court has to decide the need for summoning an accused under Section
+319;
+
+b. Secondly, if the court reaches the conclusion that a person is required to be arrayed
+as an accused under Section 319, then the summoning order in respect thereof must
+be passed before the conclusion of the trial of the original accused;
+
+c. Thirdly, depending on the stage of the trial at which the summoning order under
+Section 319 is passed, the court also has to decide whether the newly arrayed accused
+will be jointly or separately tried with the original accused.
+
+58. Paragraph 41.8 of the guidelines clarifies that the power under Section 319 can be invoked only
+during the pendency of trial of the original accused person(s). To illustrate, say in a case with
+accused ‘A’ and accused ‘B’ the trial was split-up by the court in respect of accused ‘B’ because he
+was found to be absconding, then the main trial in respect of the accused ‘A’ can continue separately
+without any hindrance or delay. In a situation where the main trial in respect of accused ‘A’ has
+already concluded and only the split- up trial in respect of accused ‘B’ remains pending, the power
+under Section 319 can be invoked even in such split-up proceedings provided that it appears from
+the evidence recorded in such split-up trial proceedings that a person not being the accused has
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+27
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+committed any offence which could be tried together with accused ‘B’ whose culpability is being
+adjudicated in the split-up trial. It is apposite to mention here that if the evidence recorded during
+the course of the main trial in respect of accused ‘A’ indicates towards the complicity of an
+additional accused person, but the same has already concluded, then, by using such evidence, the
+power under Section 319 cannot be invoked during the split-up trial in respect of accused ‘B’. For a
+person to be summoned under Section 319 in the split-up trial, the condition precedent is that the
+evidence taken in the split-up trial by itself should indicate towards the involvement of the proposed
+accused in the offence.
+
+59. Further, it is clear from Paragraph nos. 41.5, 41.6, 41.7, 41.9, 41.10, 41.11 and 41.12, respectively,
+that a de novo or a fresh trial is mandatory upon summoning of an accused person under Section
+319. If upon such summoning, the court decides to conduct a joint trial of the proposed accused with
+the original accused, then the trial will be conducted afresh for the newly arrayed accused. On the
+other hand, if the decision of the court is to conduct a separate trial for the newly arrayed accused,
+then the main trial in respect of the original accused can be concluded without any impediment and
+the fresh trial of the new accused persons can be conducted separately.
+
+60. Therefore, conducting a fresh trial in respect of the proposed accused after the conclusion of the
+main trial is not permissible unless an order separating the trial of the original accused with that of
+the proposed accused is passed by the court before the original trial stands concluded. This stage is
+reached after the summoning order has been made during the pendency of the trial in respect of the
+original accused. From the above exposition of law, it is clear that passing of a summoning order
+before the conclusion of trial is a requirement that flows from sub-section (1) of Section 319. This
+requirement is in no way qualified by the provision of a fresh trial under sub- section (4) and thus,
+cannot be the basis to allow a summoning order to be passed after the conclusion of trial in the
+absence of a decision by the court to proceed against the proposed accused under sub-section (1) of
+Section 319 of the CrPC during the pendency of the trial.
+
+(iii) Meaning of the expression “could be tried together with the accused”
+
+61. In our considered view, the expression “could be tried together with the accused” lays down a
+necessary requirement that the persons sought to be arrayed as accused under Section 319 should be
+capable of being jointly tried with the original accused irrespective of whether they are actually tried
+together or not. This Court in its decision in R. Dineshkumar @ Deena v. State represented by
+Inspector of Police & Ors. reported in (2015) 7 SCC 497 observed that the expression “could be tried
+together” as appearing in Section 319 of the CrPC is to be construed in the context of Section 223 of
+the CrPC which provides for circumstances under which different persons may be tried together.
+The relevant observations are reproduced below:
+
+“8. […] The section authorises the court making any inquiry into or conducting the
+trial of an offence to “proceed” against any person (other than the accused facing
+trial) subject to two conditions (i) that from the “evidence” it appears to the court that
+such a person “has committed any offence”, and (ii) that such a person “could be tried
+together with the accused”.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+28
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+9. We shall first consider the question as to when could a person appearing to have
+committed an offence “be tried together with the accused” already facing trial?
+
+10. Section 223 CrPC provides for the joint trial of different accused in certain
+circumstances. It enumerates different contingencies in which different persons may
+be charged and tried together. As rightly noticed by the High Court, the only clause if
+at all relevant for the purpose of the present case is Section 223(d) which stipulates
+that persons accused of different offences committed in the course of the same
+transaction could be charged and tried together.” (Emphasis supplied)
+
+62. Section 223 of the CrPC provides for certain situations and contingencies in
+which different persons may be charged and tried together. This Court in R.
+Dineshkumar (supra) had the occasion to consider the meaning of the expression
+“same transaction” and held that joint trial of persons accused of different offences
+committed in the course of same transaction is permissible under Section 319 where
+the offences are not wholly unconnected.
+
+63. What is discernible from the principles expounded in R. Dineshkumar (supra) is
+that for offences committed in the same transaction, the court should ideally arraign
+all the concerned persons as accused at the same time.
+
+Even if a person is not arraigned as an accused, he could be arraigned as an accused under Section
+319 provided, inter alia, he “could be tried together” with the originally chargesheeted accused.
+Therefore, what follows is that a person must be arraigned as an accused under Section 319 when
+the persons originally chargesheeted are still accused persons and their culpability is yet to be
+decided.
+
+64. The power under Section 319 can only be exercised in a situation where the Trial Court is seized
+of the offence committed in the “same transaction”. When the trial is concluded, such court becomes
+functus officio and the power to summon persons under Section 319 for the offences alleged to have
+been committed in the same transaction no longer vests with the said court as the new persons
+sought to be summoned cannot be tried together with the original accused.
+
+65. While it is mandatory for the court to arrive at an objective satisfaction, on the basis of the
+evidence adduced in the course of inquiry or trial, that the proposed accused appears to have
+committed an offence, the court is also duty bound in law to ascertain whether the proposed accused
+could be tried with the original accused for the commission of the offence which he appears to have
+committed. Undoubtedly, it is open for the court to take a decision as to whether it wishes to try the
+proposed accused jointly with the original accused or proceed against him in a separate trial,
+however, the stage for exercise of such a discretion can only arise if the aforesaid two obligatory
+conditions are satisfied. By implication, both the aforesaid conditions can only be satisfied if the
+court proceeds against the proposed accused before the conclusion of the trial as with the conclusion
+of trial the possibility of fulfilment of the twin conditions of “in the course of trial” and “could be
+tried together” ceases to exist.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+29
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+66. We may clarify with a view to obviate any confusion that the requirement placed by the
+expression “could be tried together with the accused” for exercise of power under sub-section (1) of
+Section 319 is mandatory in the sense that a joint trial of the original accused and proposed accused
+must be possible. However, whether a joint trial, or a separate trial, is held is left to the discretion of
+the Trial Court. As a result, passing of the summoning order before the conclusion of trial is
+mandatory. It cannot be said for a moment that passing of the summoning order before the
+conclusion of trial is directory merely because sub-section (4) provides for conduct of a fresh trial in
+respect of the additional accused.
+
+67. This Court in its decisions in Shashikant Singh (supra) and Sukhpal Singh Khaira (supra) has
+clarified that the expression “could be” tried together with the accused is only directory i.e., an
+expression of possibility and should not be construed to mean “must be”. The dictum laid in the
+aforesaid cases is that conclusion of the trial qua the original accused would not act as an
+impediment for the court to proceed with the trial of the proposed accused who were summoned
+under Section 319 of the CrPC before the conclusion of the original trial. In other words, if a
+summoning order under Section 319 of the CrPC is passed against the proposed accused during the
+pendency of the trial in respect of the original accused, then even if such trial concludes before the
+court is able to proceed with the proposed accused, that would not prevent the court from
+proceeding in a separate trial against the proposed accused.
+
+68. Thus, what has been emphasised by this Court in the aforesaid decisions is that if the Trial
+Court, after applying its mind as regards the fulfilment of the twin conditions under sub-section (1)
+of Section 319, decides to summon the proposed accused for facing trial, then the mere fact that the
+main trial stands concluded during the pendency of a revision petition against the summoning order
+before the High Court, would not incapacitate the Trial Court from proceeding with the summoned
+proposed accused in a separate trial even after conclusion of the main trial. In other words, the
+summoning order would not become ineffective and inoperative so as to nullify the opinion earlier
+formed by the court on the basis of evidence before it that the newly added person appears to have
+committed the offence if the trial against the additional accused does not commence before the
+conclusion of the main trial in respect of the original accused. The expression “could be tried
+together with the accused” does not fetter the power of the Trial Court under Section 319 to conduct
+trial of the proposed accused persons even after the conclusion of the main trial provided the
+summoning order is passed before such conclusion. It is in this context that this Court stated that
+the said expression is to be construed as directory and not mandatory.
+
+(iv) Peculiar facts of the present case not fully covered by the guidelines issued by this Court in its
+decisions in Sukhpal Singh Khaira and Hardeep Singh
+
+69. The dictum that flows from the aforesaid discussion is that the power under Section 319 of the
+CrPC must be exercised by the court against the proposed accused before the conclusion of the trial
+in respect of the original accused. However, the factual matrix of the case at hand is one of its kind
+and requires us to take a step forward into a territory which this Court has not had the occasion to
+tread in any of its earlier decisions including those in Sukhpal Singh Khaira (supra), Hardeep Singh
+(supra) and Shashikant Singh (supra) all of which have been discussed in detail by us.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+30
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+70. The facts in the present case compared to those in Shashikant Singh (supra) are distinguishable
+to the extent that the summoning order in the latter case was passed before the conclusion of trial
+and the same was overturned by the High Court in exercise of its revisional powers on the sole
+ground that the trial in respect of the original accused had concluded during the pendency of the
+revision. However, this Court gave a purposive interpretation to Section 319 and set aside the order
+of the High Court and remanded the matter back for a fresh consideration. The decision in
+Shashikant Singh (supra) was later approved by the Constitution Bench in Sukhpal Singh Khaira
+(supra) as the summoning order in Shashikant Singh (supra) was passed by the Trial Court before
+the conclusion of the trial.
+
+71. In Sukhpal Singh Khaira (supra), the question to be decided was limited to the extent whether
+the summoning order could have been passed by the Trial Court after the passing of the order of
+conviction and sentence.
+
+72. The peculiarity of the present case lies in the fact that although the application under Section 319
+of the CrPC was rejected before the conclusion of the trial, the same came to be allowed after the
+conclusion of the trial, and the case was remanded by the High Court for a fresh consideration due
+to a patent illegality in the order of rejection passed by the Trial Court.
+
+73. The facts in detail are that the Trial Court had rejected the second application filed under Section
+319 by the respondent no. 2 whilst the trial was pending. The respondent no. 2 preferred a revision
+before the High Court against the rejection of his application. This rejection order came to be set
+aside by the High Court subsequent to the conclusion of the trial by the Sessions Court. The High
+Court directed the Trial Court to consider the application afresh and in compliance with the same,
+the respondent no. 2, though not required as per the High Court’s order, moved a third application
+under Section 319 of the CrPC almost 10 years after the conclusion of trial. The 3rd application
+under Section 319 of the CrPC came to be allowed by the Sessions Court and challenge to the same
+by the appellants under Section 482 of the CrPC came to be rejected vide the impugned order passed
+by the High Court.
+
+74. The fundamental difference between the case at hand and Shashikant Singh (supra) is that
+although the application under Section 319 was considered by the Trial Court before the conclusion
+of the trial, yet the summoning order could not be passed before the conclusion of trial as the trial
+stood concluded during the pendency of the revision petition before the High Court. Thus, what falls
+for our consideration is the legal effect of the order of the High Court setting aside the rejection of
+the second application by the Trial Court long after the conclusion of the trial. More particularly,
+what needs to be determined is the interplay between power of courts under Section 319 vis- à-vis
+the revisional power of the High Court under Sections 397 to 401 of the CrPC.
+
+(v) Whether the High Court was right in exercising its revisional jurisdiction for the purpose of
+setting aside the order of the Trial Court rejecting the second application preferred by the
+respondent no. 2 under section 319 of the CrPC?
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+31
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+75. We are in seisin of the fact that the order dated 14.09.2021 passed by the High Court in Revision
+Petition No. 400/2010, before it was acted upon, was not challenged by the appellants before any
+forum and thus could be said to have attained finality. What is impugned before us is the order
+passed by the High Court rejecting the Section 482 petition filed against the order of the Trial Court
+allowing the application under Section 319 of the CrPC and summoning the appellants as accused to
+face trial. However, to have a comprehensive overview of the matter and considering the peculiar
+circumstances in which the order in Revision Petition 400/2010 came to be passed, we deem it
+appropriate to examine whether the High Court was right in exercising its revisional jurisdiction to
+set aside the order of the Trial Court rejecting the application under Section 319 and directing it to
+consider the same afresh.
+
+76. Explaining the scope of revisional jurisdiction under Section 397 of the CrPC, this Court in Amit
+Kapoor v. Ramesh Chander reported in (2012) 9 SCC 460 made the following observations:
+
+“12. Section 397 of the Code vests the court with the power to call for and examine the
+records of an inferior court for the purposes of satisfying itself as to the legality and
+regularity of any proceedings or order made in a case. The object of this provision is
+to set right a patent defect or an error of jurisdiction or law. There has to be a
+well-founded error and it may not be appropriate for the court to scrutinise the
+orders, which upon the face of it bears a token of careful consideration and appear to
+be in accordance with law. If one looks into the various judgments of this Court, it
+emerges that the revisional jurisdiction can be invoked where the decisions under
+challenge are grossly erroneous, there is no compliance with the provisions of law,
+the finding recorded is based on no evidence, material evidence is ignored or judicial
+discretion is exercised arbitrarily or perversely. These are not exhaustive classes, but
+are merely indicative. Each case would have to be determined on its own merits.
+
+13. Another well-accepted norm is that the revisional jurisdiction of the higher court
+is a very limited one and cannot be exercised in a routine manner. One of the inbuilt
+restrictions is that it should not be against an interim or interlocutory order. The
+Court has to keep in mind that the exercise of revisional jurisdiction itself should not
+lead to injustice ex facie. Where the Court is dealing with the question as to whether
+the charge has been framed properly and in accordance with law in a given case, it
+may be reluctant to interfere in exercise of its revisional jurisdiction unless the case
+substantially falls within the categories aforestated.
+
+Even framing of charge is a much advanced stage in the proceedings under the CrPC.
+
+18. It may also be noticed that the revisional jurisdiction exercised by the High Court is in a way
+final and no inter court remedy is available in such cases. Of course, it may be subject to jurisdiction
+of this Court under Article 136 of the Constitution of India. Normally, a revisional jurisdiction
+should be exercised on a question of law. However, when factual appreciation is involved, then it
+must find place in the class of cases resulting in a perverse finding. Basically, the power is required
+to be exercised so that justice is done and there is no abuse of power by the court.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+32
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+Merely an apprehension or suspicion of the same would not be a sufficient ground for interference
+in such cases.
+
+--xxx--
+
+20. The jurisdiction of the court under Section 397 can be exercised so as to examine the
+correctness, legality or propriety of an order passed by the trial court or the inferior court, as the
+case may be. Though the section does not specifically use the expression “prevent abuse of process
+of any court or otherwise to secure the ends of justice”, the jurisdiction under Section 397 is a very
+limited one. The legality, propriety or correctness of an order passed by a court is the very
+foundation of exercise of jurisdiction under Section 397 but ultimately it also requires justice to be
+done. The jurisdiction could be exercised where there is palpable error, non-compliance with the
+provisions of law, the decision is completely erroneous or where the judicial discretion is exercised
+arbitrarily. […]” (Emphasis supplied)
+
+77. A perusal of the aforesaid decision indicates that the scope of revisional jurisdiction is limited
+and is to set right a patent illegality or defect of law in the order of a subordinate court. The power of
+revision is not as extensive as that under Section 482 of the CrPC and should not be exercised
+lightly.
+
+78. The High Court passed the order dated 14.09.2021 setting aside the order of the Trial Court on
+two grounds:
+
+a. First, the mere fact that chargesheet had not been filed against the proposed
+accused despite there being a FIR against them cannot be a ground for not
+proceeding against them under Section 319 of the CrPC.
+
+b. Secondly, the Trial Court wrongly assumed that as the first informant/ respondent
+no. 2 didn’t know the proposed accused persons by name and hence their presence at
+the time of the commission of the offence was not established.
+
+79. The High Court observed that the settled position of law was that the filing or non-filing of a
+chargesheet would not have any effect on the power of the court to proceed against the proposed
+accused under Section 319 of the CrPC. Thus, we are of the view that the High Court was right in
+exercising its revisional jurisdiction as the order was passed to set aside the order of a subordinate
+court which was based on a misapplication of the settled position of law and thus could be said to
+have been suffering from a patent illegality.
+
+80. In such circumstances, the High Court set aside the order of the Trial Court and directed it to
+reconsider the application under Section 319 within a period of three months. The question that now
+arises is whether any meaningful effect can be given to the order of the High Court for a fresh
+consideration of the application under Section 319 of the CrPC after the conclusion of the main trial.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+33
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+(vi) Whether the order passed by the High Court in exercise of its revisional jurisdiction would relate
+back to the order passed by the Trial Court rejecting the application under Section 319 of the CrPC
+
+81. This Court in Hardeep Singh (supra) observed that Section 319 casts a duty upon the courts to
+give full effect to the words used by the legislature to ensure that no person who deserves to be tried
+is able to go scot-free. The relevant paragraphs are reproduced below:
+
+“18. The legislature cannot be presumed to have imagined all the circumstances and,
+therefore, it is the duty of the court to give full effect to the words used by the
+legislature so as to encompass any situation which the court may have to tackle while
+proceeding to try an offence and not allow a person who deserves to be tried to go
+scot-free by being not arraigned in the trial in spite of the possibility of his complicity
+which can be gathered from the documents presented by the prosecution.
+
+19. The court is the sole repository of justice and a duty is cast upon it to uphold the
+rule of law and, therefore, it will be inappropriate to deny the existence of such
+powers with the courts in our criminal justice system where it is not uncommon that
+the real accused, at times, get away by manipulating the investigating and/or the
+prosecuting agency. The desire to avoid trial is so strong that an accused makes
+efforts at times to get himself absolved even at the stage of investigation or inquiry
+even though he may be connected with the commission of the offence.”
+
+82. In Shashikant Singh (supra), this Court emphasised on the duty of the courts to give a
+meaningful or rather a purposeful interpretation to Section 319 so as to fulfil its avowed objective of
+ensuring that no person who is guilty of an offence goes unpunished. The Court observed thus:
+
+“8. When a statute is passed for the purpose of enabling something to be done, and
+prescribes the way in which it is to be done, it may be either an absolute enactment or
+a directory enactment. The difference being that an absolute enactment must be
+obeyed or fulfilled exactly, but it is sufficient if a directory enactment be obeyed or
+fulfilled substantially. No universal rule can be laid down as to whether mandatory
+enactments shall be considered directory only or obligatory with an implied
+nullification for disobedience. It is the duty of courts of justice to try to get at the real
+intention of the legislature by carefully attending to the whole scope of the statute to
+be construed. (Craies on Statute Law, 7th Edn., pp.
+
+260-62.)
+
+9. The intention of the provision here is that where in the course of any enquiry into,
+or trial of, an offence, it appears to the court from the evidence that any person not
+being the accused has committed any offence, the court may proceed against him for
+the offence which he appears to have committed. At that stage, the court would
+consider that such a person could be tried together with the accused who is already
+before the court facing the trial. The safeguard provided in respect of such person is
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+34
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+that, the proceedings right from the beginning have mandatorily to be commenced
+afresh and the witnesses reheard. In short, there has to be a de novo trial against him.
+The provision of de novo trial is mandatory. It vitally affects the rights of a person so
+brought before the court. It would not be sufficient to only tender the witnesses for
+the cross-examination of such a person. They have to be examined afresh. Fresh
+examination-in-chief and not only their presentation for the purpose of the
+cross-examination of the newly added accused is the mandate of Section 319(4). The
+words “could be tried together with the accused” in Section 319(1), appear to be only
+directory. “Could be” cannot under these circumstances be held to be “must be”. The
+provision cannot be interpreted to mean that since the trial in respect of a person
+who was before the court has concluded with the result that the newly added person
+cannot be tried together with the accused who was before the court when order under
+Section 319(1) was passed, the order would become ineffective and inoperative,
+nullifying the opinion earlier formed by the court on the basis of the evidence before
+it that the newly added person appears to have committed the offence resulting in an
+order for his being brought before the court.”
+
+83. A strict application of the dictum as laid in Sukhpal Singh Khaira (supra) as
+regards the stage of passing of summoning order under Section 319 of the CrPC to the
+peculiar facts in the present case may be antithetical to the very object of Section 319
+and would render the order of the High Court nugatory and incapable of being given
+effect to despite having been passed to rectify a patent mistake committed by the
+Trial Court. In our considered view, the aforesaid would lead to a serious miscarriage
+of justice. Such a result is also contrary to the principle enshrined in the legal maxim
+nullum tempus aut locus occurrit regi which means that “crime never dies”.
+
+84. The facts of the case on hand are peculiar and require us to go one step ahead of
+our present understanding of Section 319. We are of the view that the answer to
+present conundrum lies in determining the legal effect of the order passed by the
+High Court in exercise of its revisional jurisdiction and whether it operates from the
+date on which it came to be passed or would it relate back to the date of the order of
+the Trial Court against which it was passed.
+
+85. This Court in Maru Ram v. Union of India, reported in (1981) 1 SCC 107 held that:
+
+“56. We are mindful of one anomaly and must provide for its elimination. If the Trial
+Court acquits and the higher Court convicts and it so happens that the acquittal is
+before Section 433-A came into force and the conviction after it, could it be that the
+convicted person would be denied the benefit of prospectivity and consequential
+non-application of Section 433-A merely because he had the bad luck to be initially
+acquitted? We think not. When a person is convicted in appeal, it follows that the
+appellate Court has exercised its power in the place of the original court and the guilt,
+conviction and sentence must be substituted for and shall have retroactive effect from
+the date of judgment of the Trial Court. The appellate conviction must relate back to
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+35
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+the date of the Trial Court's verdict and substitute it. In this view, even if the
+appellate Court reverses an earlier acquittal rendered before Section 433-A came into
+force but allows the appeal and convicts the accused, after Section 433-A came into
+force, such persons will also be entitled to the benefit of the remission system
+prevailing prior to Section 433-A on the basis we have explained. An appeal is a
+continuation of an appellate judgment as a replacement of the original judgment.
+[Freedom Behind Bars — Criminology and Consciousness, Series I, 1979, Maharshi
+European Research University Press Publication, p. 73]” (Emphasis supplied)
+
+86. The judgment in Maru Ram (supra) is relevant to the extent that the order of the
+appellate court relates back to the order of the Trial Court on the premise that an
+appeal is a continuation of trial and an appellate judgment is a replacement of the
+original judgment.
+
+87. Once the High Court i.e., a superior court deems fit to interfere with an order of a
+subordinate court, then any rectifications made to the order passed by the
+subordinate court by such superior court in exercise of revisional powers under
+Section 401 read with Section 397 of the CrPC must be treated on the same footing as
+rectifications made by an appellate court and relate back to the original order.
+
+88. This Court in Shankar Ramchandra Abhyankar v. Krishnaji Dattatreya Bapat
+reported in (1969) 2 SCC 74 observed thus:
+
+“6. Now when the aid of the High Court is invoked on the revisional side it is done
+because it is a superior court and it can interfere for the purpose of rectifying the
+error of the court below. Section 115 of the Code of Civil Procedure circumscribes the
+limits of that jurisdiction but the jurisdiction which is being exercised is a part of the
+general appellate jurisdiction of the High Court as a superior court. It is only one of
+the modes of exercising power conferred by the statute; basically and fundamentally
+it is the appellate jurisdiction of the High Court which is being invoked and exercised
+in a wider and larger sense. We do not, therefore, consider that the principle of
+merger of orders of inferior courts in those of superior Courts would be affected or
+would become inapplicable by making a distinction between a petition for revision
+and an appeal.
+
+7. It may be useful to refer to certain other decisions which by analogy can be of some
+assistance in deciding the point before us. In U.J.S. Chopra v. State of Bombay [1955
+SCC OnLine SC 57 : AIR 1955 SC 633], the principle of merger was considered with
+reference to Section 439 of the Criminal Procedure Code which confers revisional
+jurisdiction on the High Court. In the majority judgment it was held, inter alia, that a
+judgment pronounced by the High Court in the exercise of its appellate or revisional
+jurisdiction after issue of a notice and a full hearing, in the presence of both the
+parties would replace the judgment of the lower court thus constituting the judgment
+of the High Court—the only final judgment to be executed in accordance with law by
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+36
+
+the Court below. […] ” (Emphasis supplied)
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+89. The reasoning assigned by this Court in Krishnaji Dattatreya Bapat (supra) and
+U.J.S. Chopra v. State of Bombay reported in 1955 SCC OnLine SC 57 when read with
+the reasoning in Maru Ram (supra) would indicate that the order of the High Court in
+exercise of its revisional jurisdiction relates back to and replaces the order of the Trial
+Court. It is of no consequence that the exercise of revisional jurisdiction is
+discretionary as opposed to appellate jurisdiction. It is settled law that an appellate
+court exercises its power in the place of the original court and the order passed by
+such court shall have retroactive effect from the date of judgment of the Trial Court.
+Similarly, once the High Court, being the superior court, decides to interfere with the
+order of the Trial Court and passes an order in exercise of its revisional jurisdiction
+with the purpose of rectifying any errors in the same, such order will replace the
+order of the Trial Court.
+
+90. What can be discerned from the aforesaid is that if the High Court passes an
+order in exercise of its revisional jurisdiction either setting aside or modifying the
+order of the Trial Court for the purpose of Section 319, the same would relate back to
+the original order passed by the Trial Court and substitute it to the extent of
+modification.
+
+91. Besides above, the normal rule is that in any litigation the rights and obligations
+of the parties are adjudicated upon as they obtain at the commencement of the lis.
+But this is subject to an exception. Wherever subsequent events of facts or law which
+have a material bearing on the entitlement of the parties to the relief or on aspects
+which bear on the moulding of the relief occur, the court is not precluded from taking
+a ‘cautious cognizance of the subsequent changes of fact and law to mould the relief
+(See: Ramesh Kumar v. Kesho Ram reported in 1992 Supp (2) SCC
+
+623). Justice Krishna Iyer in Pasupuleti Venkateswarlu v. Motor and General
+Traders, reported in (1975) 1 SCC 770 has observed thus:
+
+“4. … It is basic to our processual jurisprudence that the right to relief must be judged
+to exist as on the date a suitor institutes the legal proceeding. Equally clear is the
+principle that procedure is the handmaid and not the mistress of the judicial process.
+If a fact, arising after the lis has come to court and has a fundamental impact on the
+right to or the manner of moulding it, is brought diligently to the notice of the
+tribunal, it cannot blink at it or be blind to events which stultify or render inept the
+decretal remedy. Equity justifies bending the rules of procedure, where no specific
+provision or fair play is violated, with a view to promote substantial justice - subject,
+of course, to the absence of other disentitling factors or just circumstances. Nor can
+we contemplate any limitation on this power to take note of updated facts to confine
+it to the trial court. If the litigation pends, the power exists, absent other special
+circumstances repelling resort to that course in law or justice. Rulings in this point
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+37
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+are legion, even as situations for applications of this equitable rule are myriad.”
+Though the aforesaid observations are in the context of civil proceedings, the legal
+principle enshrined therein is based on a well-known latin maxim “actus curaie
+neminen gravabit” – “an act of court shall prejudice no man”, which is of universal
+application. As a sequitur, no man should suffer because of the fault of the court or
+delay in the procedure.
+
+92. In the present case, the High Court, in exercise of its revisional jurisdiction, set
+aside the order of the Trial Court rejecting the second application under Section 319
+of the CrPC and directed the Trial Court to reconsider the application under Section
+319. At the stage of issuing the aforesaid direction, the High Court was conscious that
+the trial had concluded, yet to do substantial justice, it deemed it necessary to issue
+such a direction. In doing so, the High Court’s order, which relates back to the date of
+the Trial Court’s order, did not mandate the Trial Court to do something which was
+barred by law because, as already noticed above, holding a joint trial is directory.
+Therefore, in complying with the said direction of the High Court, the Trial Court
+committed no act which was prohibited by law.
+
+93. There is not an iota of doubt that if the Trial Court would have proceeded against
+the appellants under Section 319 of the CrPC in the absence of the order passed by
+the High Court in the revision petition, the same would have been illegal for having
+being done after the conclusion of the trial of the original accused in light of the clear
+guidelines laid down in Sukhpal Singh Khaira (supra). However, by virtue of relating
+back of the order passed by the High Court in the revision petition, the summoning
+order passed by the Trial Court in compliance with the order of the High Court would
+also relate back to the initial order rejecting the second application under Section
+319, and for this reason could be said to have been passed before the conclusion of
+the trial.
+
+94. This Court in Sukhpal Singh Khaira (supra) had no occasion to consider a factual
+situation like the one at hand, and thus the guidelines laid down by the Constitution
+Bench did not prescribe anything as regards the application of Section 319 of the
+CrPC in the context of revisional jurisdiction of the High Court. In such
+circumstances, the spirit underlying Section 319 requires us to adopt an approach
+which furthers and fulfils the object of the provision rather than rendering it
+nugatory.
+
+95. If the order of the High Court passed in its revisional jurisdiction is not related
+back, the consequence would be that although from the evidence, it appears that
+there are some other persons who might be involved in the offence, yet those persons
+will go scot-free solely because the Trial Court erred in not exercising its powers
+under Section 319 which it ought to have.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+38
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+Relating back the High Court’s revisional order to the date of the Trial Court’s order strikes a
+balance between the interests of the newly summoned persons and the general public/victims
+without causing prejudice to either.
+
+96. While we have clarified the position of the effect of an order passed in exercise of revisional
+jurisdiction on an order passed under Section 319, we deem it equally necessary to address the
+mechanism for exercise of powers under Section 319 in cases where the trial is over but the
+revisional order relates back to the date of the rejection of an application under the said section by
+the Trial Court. It is axiomatic that in such a case there is no occasion for a joint trial to be
+conducted with the original accused persons. Therefore, when the order of the High Court passed in
+revision after the conclusion of trial relates back to the order of the Trial Court passed before the
+conclusion of trial, it must be taken to mean that the new accused would be proceeded against in a
+separate trial. Such a situation shall be governed by the guidelines provided in Sukhpal Singh Khaira
+(supra), more particularly, by the guideline in para 41.6 thereof which states that “if the decision is
+that the summoned accused can be tried separately, on such order being made, there will be no
+impediment for the court to continue and conclude the trial against the accused who were being
+proceeded with.” We clarify with a view to obviate any confusion that there is no requirement for a
+decision by the Trial Court on the question of separation of trial in cases like the present one since
+the trial has already concluded in respect of the original accused and the only manner in which the
+order of the High Court can be given effect to is by proceeding in a separate trial qua the new
+accused persons.
+
+97. We deem it appropriate to refer to the decision of this Court in Uday Mohanlal Acharya v. State
+of Maharashtra reported in (2001) 5 SCC 453. In the said case, the appellant before this Court was
+an accused in relation to certain offences for which he was remanded to judicial custody. Upon
+expiry of sixty days, the accused-appellant moved an application for the grant of default bail as no
+chargesheet was filed by the investigating agency. However, the application came to be rejected by
+the Magistrate who took the view that provisions of Section 167(2) would not be applicable to the
+offence committed under the Maharashtra Protection of Interest of Depositors (in Financial
+Establishments) Act, 1999 (“MPID Act”). The appellant filed a revision before the High Court
+against the order passed by the Magistrate. During the pendency of the revision, chargesheet was
+filed by the investigating authorities. In such circumstances, although the High Court set aside the
+order of the Magistrate on the ground that Section 167(2) of the CrPC would apply to offences under
+the MPID Act yet it held that the accused-appellant was not entitled to be released on bail as
+chargesheet had come to be filed during the pendency of the revision thereby rendering the right
+accrued in favour of the appellant unenforceable. The matter travelled to this Court, wherein G.B.
+Pattanaik, J. speaking for himself and U.C. Banerjee, J. took the view that a purposive interpretation
+had to be given to the proviso to sub-section (2) of Section 167 of the CrPC and the object of the
+proviso to curb the mischief of indefinite and prolonged investigation had to be kept in mind while
+interpreting the provision. The relevant paragraphs from the said decision are reproduced
+hereinbelow:
+
+“10. In Bipin Shantilal Panchal (Dr) v. State of Gujarat [(1996) 1 SCC 718 : 1996 SCC
+(Cri) 200] , a three-Judge Bench decision, this Court referred to the proviso to
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+39
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+sub-section (2) of Section 167 of the Code of Criminal Procedure and held that though
+the aforesaid provisions would apply to an accused under the NDPS Act, but since the
+charge-sheet had already been filed and the accused is in custody on the basis of
+orders of remand passed under other provisions of the Code the so-called
+indefeasible right of the accused must be held to have been extinguished, as was held
+by the Constitution Bench in Sanjay Dutt [(1994) 5 SCC 410 :
+
+1994 SCC (Cri) 1433] . The Court observed thus: (SCC p. 720, para 4) “Therefore, if
+an accused person fails to exercise his right to be released on bail for the failure of the
+prosecution to file the charge-sheet within the maximum time allowed by law, he
+cannot contend that he had an indefeasible right to exercise it at any time
+notwithstanding the fact that in the meantime the charge-sheet is filed. But on the
+other hand if he exercises the right within the time allowed by law and is released on
+bail under such circumstances, he cannot be rearrested on the mere filing of the
+charge-sheet, as pointed out in Aslam Babalal Desai v. State of Maharashtra [(1992) 4
+SCC 272 : 1992 SCC (Cri) 870].”
+
+--xxx--
+
+13. […] In such a case, therefore, even if the application for consideration of an order
+of being released on bail is posted before the court after some length of time, or even
+if the Magistrate refuses the application erroneously and the accused moves the
+higher forum for getting a formal order of being released on bail in enforcement of
+his indefeasible right, then filing of challan at that stage will not take away the right
+of the accused. […] With the aforesaid interpretation of the expression “availed of” if
+the charge-sheet is filed subsequent to the availing of the indefeasible right by the
+accused then that right would not stand frustrated or extinguished, necessarily
+therefore, if an accused entitled to be released on bail by application of the proviso to
+sub-
+
+section (2) of Section 167, makes the application before the Magistrate, but the Magistrate
+erroneously refuses the same and rejects the application and then the accused moves the higher
+forum and while the matter remains pending before the higher forum for consideration a
+charge-sheet is filed, the so-called indefeasible right of the accused would not stand extinguished
+thereby, and on the other hand, the accused has to be released on bail. Such an accused, who thus is
+entitled to be released on bail in enforcement of his indefeasible right will, however, have to be
+produced before the Magistrate on a charge-sheet being filed in accordance with Section 209 and
+the Magistrate must deal with him in the matter of remand to custody subject to the provisions of
+the Code relating to bail and subject to the provisions of cancellation of bail, already granted in
+accordance with the law laid down by this Court in the case of Mohd. Iqbal v. State of Maharashtra
+[(1996) 1 SCC 722 : 1996 SCC (Cri) 202].” (Emphasis supplied)
+
+98. We are conscious of the fact that unlike Section 167(2), where an indefeasible right accrues in
+favour of the accused upon the expiry of the period of sixty/ninety days, Section 319 is a
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+40
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+discretionary provision and no right can be said to accrue in the applicant upon making of the
+application under Section 319. However, as held by this Court in a number of its decisions, Section
+319 casts a duty on the court to ensure that any person who appears to have committed the crime
+must be brought before the court and tried along with other accused. In the present case, the
+application under Section 319 was made by the respondent no. 2 during the pendency of the trial. As
+per the guidelines laid down in Sukhpal Singh Khaira (supra), if an application under Section 319 is
+made before a trial court, the court must stop the trial and proceed to determine the application first
+before proceeding further with the trial. In the present case, the Trial Court considered the
+application under Section 319 of the CrPC and after rejecting the same proceeded with the trial and
+concluded the same. The High Court, in exercise of its revisional jurisdiction, held that the rejection
+of the application under Section 319 by the Trial Court suffered from a patent illegality and thus
+directed the Trial Court to reconsider the application. In such circumstances, more particularly,
+keeping in mind the avowed objective of Section 319 of the CrPC, it cannot be held that the order
+passed by the High Court in revision cannot be given effect to merely because the trial came to be
+concluded before an order could be passed by the High Court. The present, unlike the facts in
+Sukhpal Singh Khaira (supra), is not a case wherein the application under Section 319 came to be
+filed or decided by the Trial Court after the conclusion of the trial. Instead, the case at hand is one
+wherein the application under Section 319 though decided at the correct stage, came to be decided
+wrongly owing to a patent illegality committed by the Trial Court. In such circumstances, an
+approach which gives full effect to the legislative intention behind Section 319 of the CrPC must be
+adopted.
+
+99. Having discussed the position of law on the exercise of power under Section 319 of the CrPC, we
+shall now proceed to apply them to the facts of the present case. The sequence of applications under
+Section 319 of the CrPC and the consequential High Court proceedings arising therefrom are
+tabulated below:
+
+      APPLICATION        COURT       DATE OF               REMARKS
+        UNDER                          THE
+      SECTION 319                     ORDER
+
+Trial Court 29.01.2010 The first application was rejected.
+
+Grounds:
+
+• Investigation against the proposed accused was ongoing and remained pending.
+
+                                                  • The cross-examination of
+      First                                          PW-1 & PW-2 was
+      Application                                    incomplete.
+
+                        High        14.05.2010 The revision application
+                        Court                  against the order dated
+                                               29.01.2010 was allowed.
+
+                                                 Direction:
+                                                  • To the Trial Court to
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+41
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+                                                     consider application
+                                                     under Section 319 after
+
+(cid:12)                                                     the cross-examination of
+                                                     PW-1 & PW-2.
+
+Trial Court 19.07.2010 The second application was rejected on merits.
+
+Trial was concluded on 19.10.2011 – Original accused were convicted and, inter alia,
+sentenced to life imprisonment.
+
+                       High        14.09.2021 The revision application
+                       Court                     against the order dated
+                                                 19.07.2010 was allowed on
+                                                 merits.
+      Second
+                                                Direction:
+      Application
+                                                 • To the Trial Court to
+      dated
+                                                    reconsider the application
+      10.06.2010
+                                                    under Section 319 within
+                                                    three months from the
+                                                    date of the order.
+
+                                                 Note:
+                                                 • It was noted by the High
+                                                    Court that the trial in
+                                                    respect of the original
+                                                    accused had already
+                                                    concluded.
+
+Trial Court 21.02.2024 The third application was allowed on merits.
+
+      Third
+      Application                               Direction:
+      dated
+                                                 • To summon the appellants
+      22.09.2021
+                                                    herein as accused.
+      (the
+                                                 Note:
+      complainant
+                                                 • It was recorded that the
+      renewed the
+                                                    Trial Court had been
+      prayer under
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+42
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+                                                    authorized by the order
+      Section 319)
+                                                    dated 14.09.2021 of the
+                                                    High Court to allow the
+
+(cid:12)                                                        application under Section
+
+                       High         01.04.2024 The application preferred by
+                       Court                   the appellants herein under
+Section 482 of the CrPC was
+
+                                               dismissed and the order dated
+                                               21.02.2024 was upheld.
+
+                                                  Note:
+                                                   • It was recorded that as per
+                                                      Section 319(4), the trial
+                                                      against the summoned
+                                                      accused has to be
+                                                      commenced afresh and
+                                                      the witnesses re-heard.
+                                                      Therefore, the conclusion
+                                                      of trial in respect of the
+                                                      accused summoned
+                                                      originally would not
+                                                      cause any prejudice to the
+                                                      appellants herein.
+
+100. What is clear from the above is that as the Trial Court rejected the application
+under Section 319, no summoning order could be passed before the conclusion of
+trial. However, the High Court in exercise of its revisional jurisdiction set aside the
+said order and directed the Trial Court to reconsider the application under Section
+319.
+
+101. We have discussed in the preceding parts of this judgment that the revisional
+jurisdiction of the High Court cannot be rendered nugatory solely because the trial
+was not stayed by the High Court and stood concluded before the High Court could
+pass the order in exercise of its revisional jurisdiction.
+
+Therefore, unlike cases where an application under Section 319 is being decided in the first instance
+by the Trial Court, the conclusion of trial will not have a bearing on the adjudication of an
+application under Section 319 in terms of the directions of the High Court passed by way of a
+revisional order.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+43
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+102. As discussed hereinabove, an order passed by the High Court in exercise of its revisional
+jurisdiction would relate back to the order of the Trial Court. In the present case, the Trial Court in
+its discretion rejected the second application filed under Section 319 before the conclusion of trial
+vide order dated 19.07.2010. The High Court, more than ten years after the conclusion of trial, set
+aside the said order and directed the Trial Court to reconsider the application under Section 319
+afresh. In our considered view, such order passed by the High Court on the second application
+under Section 319 travels back to 19.07.2010 i.e., the date when the Trial Court rejected the said
+application. The effect of the order of the High Court relating back to the original order of the Trial
+Court is that the Trial Court cannot be considered functus officio as regards considering the
+application under Section 319 after the conclusion of the trial. We say so because the Trial Court, in
+considering the application under Section 319 after the conclusion of the trial, is merely giving effect
+to a revisionary order directing it to freshly consider the application which it had originally rejected.
+
+103. Ordinarily, an application under the Section 319 cannot be moved after the conclusion of trial
+as a necessary corollary of the dictum laid down in Sukhpal Singh Khaira (supra). However, the
+peculiar facts and circumstances presented by the case on hand indicate that an application under
+Section 319 dated 10.06.2010 was directed to be considered afresh by the High Court vide order
+dated 14.09.2021 and, therefore, the third application dated 22.09.2021 was not even required,
+though moved by the respondent no. 2 in pursuance of the order of the High Court order dated
+14.09.2021 allowing the revision petition. Accordingly, the summoning order, in exercise of the
+powers under Section 319, came to be passed by the Trial Court on 21.02.2024.
+
+104. The summoning order dated 21.02.2024 was passed by the Trial Court in pursuance of the
+direction issued by the High Court vide its revisional order dated 14.09.2021. Therefore, it has to
+been seen as an extension of the revisional order passed by the High Court. The combined effect of
+the revisional order passed by the High Court and the summoning order passed by the Trial Court
+on 21.02.2024 is that the order of the Trial Court dated 19.07.2010 rejecting the second Section 319
+application is replaced and substituted by the summoning order dated 21.02.2024. Thus, although
+the summoning order in the present case came to be passed on 21.02.2024, that is, after the
+conclusion of the trial, yet it would be deemed to have been passed on 19.07.2010 by virtue of the
+law expounded by this Court in Maru Ram (supra) and Krishnaji Dattatreya Bapat (supra). Thus, as
+the summoning order can be deemed to have been passed before the conclusion of the trial, there is
+no impediment for the Trial Court to proceed with the appellants in the manner envisaged under
+Section 319 of the CrPC. As the summoning order passed in compliance with the order passed by
+High Court in revision takes effect from the date of the original order, this ensures that there is
+compliance with the dictum laid in Sukhpal Singh Khaira (supra) that the summoning order has to
+be necessarily passed before the conclusion of the trial.
+
+105. We are also of the view that the relating back of the order of the High Court is not going to
+cause any prejudice to the appellants. Considering that the original trial has already concluded,
+there will have to be a separate trial so far as the appellants are concerned. Section 319(4)(a) takes
+care of the rights of the newly summoned persons by providing that “the proceedings in respect of
+such person shall be commenced afresh, and the witnesses re- heard”.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+44
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+106. In view of the aforesaid, we have arrived at the conclusion that the order passed in revision by
+the High Court cannot be rendered ineffective merely on procedural grounds especially when it
+involves substantive rights of the parties and seeks to cure a patent illegality. However, it is apposite
+to clarify in the same breath that although the law allows for travelling back of the revisional order
+of the High Court, yet it is far from ideal to do so after the passage of a substantial period of time, in
+this case, ten years after the conclusion of trial. The correct approach to be adopted in cases like this
+is that the High Court should direct the Trial Court to stay its proceedings till the revision
+proceedings in respect of Section 319 are disposed of. At the same time, the High Court must also
+expedite the revision proceedings so as to ensure that unreasonable delay is not caused in the
+conclusion of trial.
+
+107. The High Court in its impugned order has rightly observed that the summoning order dated
+21.02.2024 was passed in compliance with the order passed by the High Court in exercise of its
+revisional jurisdiction. It further correctly observed that the order passed by the High Court in
+exercise of its revisional jurisdiction was in furtherance of the object of Section 319 of the CrPC
+which is to ensure that the actual perpetrators of a crime are arraigned as accused to face trial. The
+High Court was also right in observing that the conclusion of the trial qua the original accused
+would not prejudice the appellants in any manner and their interest would be safeguarded by sub-
+section (4) of Section 319 of the CrPC. The High Court also noted that the summoning order, though
+having been passed after the conclusion of the trial, cannot be said to be vitiated in the peculiar facts
+and circumstances of the case. For all the reasons that we have assigned in the preceding parts of
+this judgment, we do not see any reason to interfere with the impugned order passed by the High
+Court.
+
+(vii) Right of the proposed accused to be heard at the stage of summoning under Section 319 of CrPC
+
+108. Before we part with the matter, we deem it necessary to address the submissions of the
+appellants as regards the violation of their right to be heard before the passing of the order in
+Revision Petition 400/2010 by the High Court.
+
+109. As regards the right of the proposed accused to be heard before an application under Section
+319 is allowed by the court, we are in respectful agreement with a recent pronouncement of this
+Court in Yashodhan Singh v. State of U.P. reported in (2023) 9 SCC 108 wherein it has been held
+that Section 319 does not contemplate that a summoned person must be given an opportunity of
+being heard before being added as an accused to face the trial. The relevant observations from the
+said decision are reproduced hereinbelow:
+
+“23. From the aforesaid observations of the Constitution Bench of this Court in
+Hardeep Singh [Hardeep Singh v. State of Punjab, (2014) 3 SCC 92 : (2014) 2 SCC
+(Cri) 86] , it is noted that an inquiry is contemplated as against a person who has
+been discharged prior to the commencement of the trial in terms of Section 227 CrPC
+as extracted above but on an inquiry, if it appears that there is evidence against such
+a discharged person, then power under Section 319 CrPC can be exercised against
+such a discharged person. This clearly would mean that when a person who is not
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+45
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+discharged but is to be summoned as per Section 319 CrPC on the basis of satisfaction
+derived by the court on the evidence on record, no inquiry or hearing is
+contemplated. This would clearly indicate that principle of natural justice and an
+opportunity of hearing a person summoned under 319 CrPC are not at all
+contemplated. Such a right of inquiry would accrue only to a person who is already
+discharged in the very same proceeding prior to the commencement of the trial. This
+is different from holding that a person who has been summoned as per Section 319
+CrPC has a right of being heard in accordance with the principles of natural justice
+before being added as an accused to be tried along with other accused.
+
+--xxx--
+
+35. This Court in the subsequent paragraphs of Jogendra Yadav [Jogendra Yadav v.
+State of Bihar, (2015) 9 SCC 244 : (2015) 3 SCC (Cri) 756] has also not stated that if a
+person is to be summoned under Section 319 CrPC to be added as an accused, then
+an opportunity must be given to such a person and only after hearing him, he could
+be added as an accused in the trial. We do not find that the ratio of Jogendra Yadav
+[Jogendra Yadav v. State of Bihar, (2015) 9 SCC 244 : (2015) 3 SCC (Cri) 756] turns
+on the said aspect.
+
+36. However, it is contented by the learned Senior Counsel Shri Nagamuthu that what has been
+observed in para 9 of Jogendra Yadav [Jogendra Yadav v. State of Bihar, (2015) 9 SCC 244 : (2015) 3
+SCC (Cri) 756] will make it a necessary mandate or a rule that a person who is to be summoned
+under Section 319 CrPC to be added as an accused will necessarily be heard before being so added.
+Para 9 cannot be considered to be the ratio of Jogendra Yadav [Jogendra Yadav v. State of Bihar,
+(2015) 9 SCC 244 : (2015) 3 SCC (Cri) 756] . Further, the context in which the observations are made
+in the paragraph must relate to the facts of the said case where an opportunity was in fact provided
+to the persons summoned therein.
+
+37. Similarly, in Ram Janam Yadav [Ram Janam Yadav v. State of U.P., (2023) 9 SCC 130] , on facts,
+it was noticed that the person summoned was, in fact, provided an opportunity of hearing.
+
+38. Merely because in certain proceedings the persons summoned had been provided an
+opportunity of being heard cannot be the same thing as stating that it is a mandatory requirement or
+a precondition that at the time of summoning a person under Section 319 CrPC, he should be given
+an opportunity of being heard. That is not the mandate of law inasmuch as Section 319 clearly uses
+the expression “to proceed” which means to proceed with the trial and not to jeopardise the trial at
+the instance of the person(s) summoned by conducting a mini trial or a trial within a trial thereby
+derailing the main trial of the case and particularly against the accused who are already facing trial
+and who may be in custody.
+
+39. A person who is summoned in exercise of the power under Section 319 CrPC cannot hijack the
+trial so to say and deviate from its focus and take it to a tangent in order to bolster his own case in a
+bid to escape trial. All that is contemplated when a person is summoned to appear is to ascertain
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+46
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+that he is the very person who was summoned and if any summoned person fails to appear on the
+given date. On the appearance of the summoned person, no procedure of an inquiry or opportunity
+of being heard is envisaged before been added as an accused to the list of accused already facing trial
+unless such a summoned person had already been discharged, in which event, an inquiry is
+contemplated as discussed above.
+
+40. Thus, the contention that a summoned person must be given an opportunity of being heard
+before being added as an accused to face the trial is clearly not contemplated under Section 319
+CrPC. It is also observed by this Court in Hardeep Singh [Hardeep Singh v. State of Punjab, (2014) 3
+SCC 92 : (2014) 2 SCC (Cri) 86] that such a summoned person can assail a summoning order before
+a superior Court and will also have the right of cross-examining the witnesses as well as can let in his
+defence evidence, if any.” (Emphasis supplied)
+
+110. However, in the facts of the present case, the application under Section 319 was rejected by the
+Trial Court but the revision against such rejection was entertained by the High Court without
+allegedly putting the proposed accused to notice. Upon a careful perusal of the decision in
+Yashodhan Singh (supra), we are of the view that the right of hearing is not available to the
+proposed accused only in the first instance, that is only at the stage when the application is being
+heard for the first time.
+
+111. However, after the rejection of an application under Section 319, a right enures in favour of the
+proposed accused. Thereafter, if in exercise of revisional jurisdiction, the High Court is to pass an
+order which is prejudicial to the benefit which has enured in favour of the proposed accused, then
+the High Court is required to provide an opportunity of hearing to the proposed accused. This is also
+the mandate as contained in sub-section (2) of Section 401 of the CrPC. The said provision is
+reproduced hereinbelow:
+
+“401. High Court’s powers of revision.
+
+(1) In the case of any proceeding the record of which has been called for by itself or
+which otherwise comes to its knowledge, the High Court may, in its discretion,
+exercise any of the powers conferred on a Court of Appeal by sections 386, 389, 390
+and 391 or on a Court of Session by section 307, and, when the Judges composing the
+Court of Revision are equally divided in opinion, the case shall be disposed of in the
+manner provided by section 392.
+
+(2) No order under this section shall be made to the prejudice of the accused or other
+person unless he has had an opportunity of being heard either personally or by
+pleader in his own defence.
+
+(3) Nothing in this section shall be deemed to authorise a High Court to convert a
+finding of acquittal into one conviction.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+47
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+(4) Where under this Code an appeal lies and no appeal is brought, no proceeding by
+way of revision shall be entertained at the instance of the party who could have
+appealed.
+
+(5) Where under this Code an appeal lies but an application for revision has been
+made to the High Court by any person and the High Court is satisfied that such
+application was made under the erroneous belief that no appeal lies thereto and that
+it is necessary in the interests of Justice so to do, the High Court may treat the
+application for revision as a petition of appeal and deal with the same accordingly.”
+(Emphasis supplied)
+
+112. The aforesaid principle was also recognised by this Court in Manharbhai
+Muljibhai Kakadia (supra). The relevant portion of the said decision is reproduced
+below:
+
+“48. In a case where the complaint has been dismissed by the Magistrate under
+Section 203 of the Code either at the stage of Section 200 itself or on completion of
+inquiry by the Magistrate under Section 202 or on receipt of the report from the
+police or from any person to whom the direction was issued by the Magistrate to
+investigate into the allegations in the complaint, the effect of such dismissal is
+termination of complaint proceedings. On a plain reading of sub-section (2) of
+Section 401, it cannot be said that the person against whom the allegations of having
+committed the offence have been made in the complaint and the complaint has been
+dismissed by the Magistrate under Section 203, has no right to be heard because no
+process has been issued. The dismissal of complaint by the Magistrate under Section
+203—although it is at preliminary stage— nevertheless results in termination of
+proceedings in a complaint against the persons who are alleged to have committed
+the crime. Once a challenge is laid to such order at the instance of the complainant in
+a revision petition before the High Court or the Sessions Judge, by virtue of Section
+401(2) of the Code, the suspects get the right of hearing before the Revisional Court
+although such order was passed without their participation. The right given to
+“accused” or “the other person” under Section 401(2) of being heard before the
+Revisional Court to defend an order which operates in his favour should not be
+confused with the proceedings before a Magistrate under Sections 200, 202, 203 and
+204. In the revision petition before the High Court or the Sessions Judge at the
+instance of the complainant challenging the order of dismissal of complaint, one of
+the things that could happen is reversal of the order of the Magistrate and revival of
+the complaint. It is in this view of the matter that the accused or other person cannot
+be deprived of hearing on the face of the express provision contained in Section
+401(2) of the Code. The stage is not important whether it is pre-process stage or post
+process stage.” (Emphasis supplied)
+
+113. In view of the principles explained in Manharbhai Muljibhai Kakadia (supra), the
+right of hearing is available to the proposed accused at the stage of revision as the
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+48
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+High Court by setting aside the order rejecting the application under Section 319 may
+revive the proceedings against the proposed accused under Section 319. Providing the
+proposed accused with a mandatory right of hearing allows him to defend himself
+against a prejudicial order that may be passed in the course of the hearing of the
+revision petition.
+
+114. However, a perusal of the order dated 14.09.2021 passed in Revision Petition No.
+400/2010 clearly indicates that the appellants were respondent nos. 2 and 4,
+respectively, before the High Court. Hence, we do not find any merit in the
+submission of the appellants that the order rejecting the 2nd application under
+Section 319 of the CrPC was set aside by the High Court without providing any
+opportunity of hearing to them.
+
+F. CONCLUSION
+
+115. We summarise our findings on the issues framed for consideration as follows:
+
+a. The High Court in exercise of its revisional jurisdiction was justified in setting
+aside the order passed by the Trial Court rejecting the second application preferred
+by respondent no. 2 under Section 319 of the CrPC as the same was found to have
+been passed contrary to the settled position of law, suffering from a patent illegality,
+thus, leading to serious miscarriage of justice.
+
+b. Once a superior court deems fit to interfere with an order passed by a subordinate
+court, then any rectifications to such order passed in exercise of revisional powers
+under Section 401 read with Section 397 of the CrPC must be treated on the same
+footing as rectifications made by an appellate court and as a result would relate back
+to the time the original order was passed.
+
+c. By virtue of relating back of the order passed by the High Court in a revision
+petition, the summoning order passed by the Trial Court in compliance with the
+order of the High Court would also relate back to the initial order rejecting the second
+application under Section 319, and therefore could be said to have been passed before
+the conclusion of the trial.
+
+d. Unlike cases where an application under Section 319 is being decided in the first
+instance by the Trial Court, the conclusion of trial will have no bearing on the
+adjudication of an application under Section 319 in terms of the directions of the
+High Court passed in exercise of revisional jurisdiction.
+
+e. The legal effect of the order passed by the High Court relating back to the original
+order of the Trial Court is that the Trial Court would not be rendered functus officio
+for the purpose of considering the application under Section 319 after the conclusion
+of the trial. We say so because the Trial Court, in considering the application under
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+49
+
+Jamin vs State Of Uttar Pradesh on 6 March, 2025
+
+Section 319 after the conclusion of the trial, merely gave effect to a revisional order
+directing it to consider the application afresh which it had originally rejected.
+
+f. The summoning order dated 21.02.2024 was passed by the Trial Court in
+pursuance of the directions issued by the High Court vide the revisional order dated
+14.09.2021. Therefore, the same should be construed as an extension of the revisional
+order passed by the High Court. The combined effect of the revisional order passed
+by the High Court and the summoning order passed by the Trial Court dated
+21.02.2024 would be that the order of the Trial Court dated 19.07.2010 rejecting the
+second Section 319 application stood replaced and substituted by the summoning
+order dated 21.02.2024.
+
+Thus, although the summoning order in the present case came to be passed on 21.02.2024, that is,
+after the conclusion of the trial, yet, it would be deemed to have been passed on 19.07.2010 by virtue
+of the law expounded by this Court in Maru Ram (supra) and Krishnaji Dattatreya Bapat (supra).
+
+g. Section 319 does not contemplate that a summoned person must be given an opportunity of being
+heard before being added as an accused to face the trial. A right of hearing would accrue only to a
+person who is already discharged in the very same proceeding prior to the commencement of the
+trial. This is different from holding that a person who has been summoned as per Section 319 CrPC
+has a right of being heard in accordance with the principles of natural justice before being added as
+an accused to be tried along with the other accused. However, after the rejection of an application
+under Section 319, a right enures in favour of the proposed accused. Thereafter, if in exercise of
+revisional jurisdiction, the High Court is to pass an order which is prejudicial to the benefit which
+had already enured in favour of the proposed accused, then the High Court is obligated in law to
+provide an opportunity of hearing to the proposed accused. This is also the mandate as contained in
+sub-section (2) of Section 401 of the CrPC.
+
+116. For all the foregoing reasons, the appeal fails and is hereby dismissed.
+
+117. The Trial Court is directed to take necessary steps in furtherance of the summoning order dated
+21.02.2024 to ensure that the appellants are produced before the court to face the trial.
+
+118. Pending application(s), if any, shall stand disposed of.
+
+.……………………………J. (J.B. Pardiwala) ………………………………J. (Manoj Misra) New Delhi.
+
+6th March, 2025.
+
+Indian Kanoon - http://indiankanoon.org/doc/175484450/
+
+50
+
+

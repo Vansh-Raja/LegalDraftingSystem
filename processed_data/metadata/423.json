@@ -1,0 +1,21 @@
+{
+  "case_number": "2024 INSC 687; Criminal Appeal No. 3816 / 2024 (Arising out of Special Leave Petition (Crl.) No. 11023 / 2024) and Criminal Appeal No. 3817 / 2024 (Arising out of Special Leave Petition (Crl.) No. 10991 / 2024)",
+  "parties": {
+    "petitioner": "Arvind Kejriwal",
+    "respondent": "Central Bureau of Investigation"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-09-13",
+  "summary": "Arrest legality under CrPC s.41(1) vs s.41(2); misapplication of non-cognizable offense provisions to cognizable case; bail denial due to complexity of evidence and pendency of chargesheet; triple test for bail (flight risk, tampering, criminal background) satisfied as per ED matter precedent; trial delay concerns due to voluminous records (224 witnesses, lakhs of pages); High Court error in redirecting bail application to Trial Court despite concurrent jurisdiction.",
+  "legal_provisions_cited": [
+    "CrPC s.41(1)",
+    "CrPC s.41(2)",
+    "CrPC s.41A",
+    "CrPC s.439",
+    "PC Act s.7",
+    "IPC s.120B",
+    "IPC s.477A",
+    "Arnesh Kumar v. State of Bihar"
+  ],
+  "final_judgment": "Appeals allowed; High Court judgment set aside; bail granted to appellant."
+}

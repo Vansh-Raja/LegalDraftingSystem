@@ -1,0 +1,1067 @@
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on
+16 October, 2024
+
+Author: Abhay S. Oka
+
+Bench: Pankaj Mithal, Abhay S Oka
+
+2024 INSC 781
+
+                                                                         REPORTABLE
+
+                                              IN THE SUPREME COURT OF INDIA
+                                               CIVIL APPELLATE JURISDICTION
+
+                                         CIVIL APPEAL NOS. 3291−3294 OF 2009
+
+                            Bank of Rajasthan Ltd.                        … Appellant
+
+                                                       versus
+
+                            Commissioner of Income Tax                  … Respondent
+
+                                                        with
+
+                                      Civil Appeal Nos.11200−11201 of 2024
+                                (Arising out of S.L.P. (C) Nos. 1445−1446 of 2021)
+
+                                          Civil Appeal No.11202 of 2024
+                                   (Arising out of S.L.P. (C) No. 4843 of 2020)
+
+                                          Civil Appeal No.11203 of 2024
+                                   (Arising out of S.L.P. (C) No. 7055 of 2021)
+
+                                          Civil Appeal No.11204 of 2024
+                                   (Arising out of S.L.P. (C) No. 7404 of 2021)
+
+                                          Civil Appeal No.11205 of 2024
+                                   (Arising out of S.L.P. (C) No. 15281 of 2021)
+
+                                          Civil Appeal No.11196 of 2024
+   Signature Not Verified          (Arising out of S.L.P. (C) No. 1686 of 2021)
+   Digitally signed by
+   Anita Malhotra
+   Date: 2024.10.16
+   16:58:06 IST
+   Reason:
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+1
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+                                          Civil Appeal No.11197 of 2024
+                                   (Arising out of S.L.P. (C) No. 1687 of 2021)
+           Civil Appeal No.3291−3294 of 2009, etc.                                      Page 1 of 45
+(cid:12)                               Civil Appeal No.11198 of 2024
+                        (Arising out of S.L.P. (C) No. 8968 of 2018)
+
+                              Civil Appeal No.11199 of 2024
+                       (Arising out of S.L.P. (C) No. 24841 of 2019)
+
+                                                    and
+
+                              Civil Appeal No. 4755 of 2023
+                       (Arising out of S.L.P. (C) No. 16299 of 2023)
+
+                                           JUDGMENT
+
+ABHAY S. OKA, J.
+
+1. Leave granted in the Special Leave Petitions.
+
+FACTUAL ASPECTS
+
+2. The main issue in this group of appeals is about the treatment to be given to broken period
+interest. The question is whether a deduction of the broken period interest can be claimed. We must
+provide a brief background of how the issue arises.
+
+3. A Scheduled Bank is governed by the provisions of the Banking Regulation Act, 1949 (for short,
+“the 1949 Act”). The 1949 Act, read with the guidelines of the Reserve Bank of India (for short,
+‘RBI’), requires Banks to purchase government securities to maintain the Statutory Liquidity Ratio
+(for short, ‘SLR’). The guidelines dated 16 th October 2000 issued by the RBI categorise the
+government securities into the following three categories: (a) Held to Maturity (HTM);
+
+(b) Available for Sale (AFS); and (c) Held for Trading (HFT).
+
+4. The interest on the securities is paid by the Government or the authorities issuing securities on
+specific fixed dates called coupon dates, say after an interval of six months. When a Bank purchases
+a security on a date which falls between the dates on which the interest is payable on the security,
+the purchaser Bank, in addition to the price of the security, has to pay an amount equivalent to the
+interest accrued for the period from the last interest payment till the date of purchase. This interest
+is termed as the interest for the broken period. When the interest becomes due after the purchase of
+the security by the Bank, interest for the entire period is paid to the purchaser Bank, including the
+broken period interest. Therefore, in effect, the purchaser of securities gets interest from a date
+anterior to the date of acquisition till the date on which interest is first due after the date of
+purchase.
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+2
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+5. Under the Income Tax Act, 1961 (for short, ‘the IT Act’), Section 18, which was repealed by the
+Finance Act, 1988, dealt with tax leviable on the interest on securities. Section 19 provided for the
+deduction of (i) expenses in realising the interest and (ii) the interest payable on the money
+borrowed for investment. Section 20 dealt with the deduction of (i) expenses in realising the interest
+and (ii) the interest payable on money borrowed for investment in the case of a Banking company.
+Section 21 provided that the interest payable outside India was not admissible for deduction.
+Sections 18 to 21 were repealed by the Finance Act, 1988, effective from 1 st April 1989. We are
+dealing with cases involving the period post the deletion of the four Sections.
+
+6. In Civil Appeal Nos.3291−3294 of 2009, which is the lead case, the appellant−assessee is a
+Scheduled Bank. The appellant was engaged in the purchase and sale of government securities. The
+securities were treated as stock− in−trade in the hands of the appellant. The amount received by the
+appellant on the sale of the securities was considered for computing its business income. The
+appellant consistently followed the method of setting off and netting the amount of interest paid by
+it on the purchase of securities (i.e., interest for the broken period) against the interest recovered by
+it on the sale of securities and offering the net interest income to tax. The result is that if the entire
+purchase price of the security, including the interest for the broken period is allowed as a deduction,
+then the entire sale price of the security is taken into consideration for computing the appellant’s
+income. According to the appellant's case, the assessing officer allowed this settled practice while
+passing regular assessment orders for the assessment years 1990−91 to 1992−93. However, the
+Commissioner of Income Tax (for short, ‘CIT’) exercised jurisdiction under Section 263 of the IT Act
+and interfered with the assessment orders. The CIT held that the appellant was not entitled to the
+deduction of the interest paid by it for the broken period. The Commissioner relied upon a decision
+of this Court in the case of Vijaya Bank Ltd. v. Additional Commissioner of Income Tax, Bangalore1.
+This Court held that under the head “interest on securities”, the interest for a broken period was not
+an allowable deduction. Being aggrieved by the orders of the CIT, the appellant preferred an appeal
+before the Income Tax Appellate Tribunal (for short, ‘Appellate Tribunal’). The Tribunal allowed the
+appeal by holding that the decision of this Court in the case of Vijaya Bank Ltd.1 was rendered after
+considering Sections 18 to 21 of the IT Act, which have been repealed. Therefore, the Tribunal held
+that as the appellant was holding the securities as stock−in−trade, the entire amount paid by the
+appellant for the purchase of such securities, which included interest for the broken period, was
+deductible. The respondent Department preferred an appeal before the High Court against the
+decision of the Appellate Tribunal. By the impugned judgment, the High Court interfered and,
+relying upon the decision of this Court in the case of Vijaya Bank Ltd.1, allowed the appeal. This
+order was impugned in Civil Appeal Nos. 3291−3294 of 2009.
+
+7. All other appeals that are the subject matter of this group are preferred by the Revenue. These are
+the cases where the deduction of interest for the broken period was allowed.
+
+1 (1991) Supp (2) SCC 147
+
+8. The learned counsel appearing for the appellant in Civil Appeal Nos. 3291−3294 of 2009 and
+learned counsel representing the respondents/Banks in other appeals have made extensive
+submissions. The submissions made by the learned counsel appearing for the assessees can be
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+3
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+summarised as follows:
+
+a. Reliance was placed on a decision of the Bombay High Court in the case of
+American Express International Banking Corporation v. Commissioner of Income
+Tax & Anr.2 Learned counsel pointed out that in the said decision, the Bombay High
+Court distinguished the decision in the case of Vijaya Bank Ltd.1 by holding that in
+the case of Vijaya Bank Ltd.1, the claim for deduction of interest on broken period
+was made under Sections 19 and 20 of the IT Act. This was done on the footing that
+the Department had brought to tax the interest accrued on the securities up to the
+date of purchase as “interest on securities” under Section 18. It was held that the
+decision in the case of Vijaya Bank Ltd.1 will not apply to the cases post−repeal of
+Sections 18 to 21 of the IT Act. In the said case, the amount of interest was brought
+into tax under Section 28.
+
+b. The learned counsel appearing for the assessees pointed out that the view taken by the Bombay
+High Court in 2 (2002) 258 ITR 601 (Bombay) : 2002 SCC OnLine Bom 944 the case of American
+Express International Banking Corporation2 has been approved by the order dated 12 th August
+2008 of this Court in the case of Commissioner of Income Tax, Bombay v. Citi Bank NA3. The
+learned counsel pointed out that this Court affirmed the decision of the Bombay High Court in the
+case of Citi Bank NA3, which in turn relied upon its earlier decision in the case of American Express
+International Banking Corporation2.
+
+c. Our attention was also invited to a decision by this Court in the case of Commissioner of Income
+Tax, Andhra Pradesh, Hyderabad v. The Cocanada Radhaswami Bank Ltd., Kakinada4. Inviting our
+attention to the said decision, it is pointed out that this Court accepted that the securities held by
+Banking companies are held as stock−in−trade. He pointed out that this Court, in the case of United
+Commercial Bank Ltd.; Calcutta v. Commissioner of Income Tax, West Bengal5, held that
+government securities are held as stock−in−trade by Banking companies. He submitted that the
+assessee pays interest for the broken period to which he is not entitled as after the purchase, when
+the interest becomes due, the assessee gets income for the 4 (1965) 57 ITR 306 : 1965 SCC OnLine
+SC 186 5 (1957) 32 ITR 688 : 1957 SCC OnLine SC 74 entire period even covering the interest
+payable before the date on which the assessee makes the acquisition. It is submitted that there
+cannot be any dispute that such securities held by Banking companies constitute stock−in−trade. He
+submitted that in the case of Commissioner of Income Tax, Jalandhar v. Nawanshahar Central
+Cooperative Bank Ltd.6, it was held that investments are a part of the Banking business, particularly
+when statutorily mandated. It was submitted that Banking companies buy government securities to
+comply with SLR requirements.
+
+d. It is well−settled that in the Banking business, securities purchased by Banks, per se, constitute
+stock−in−trade of the Bank as normal and ordinary Banking business is to deal in money credit. The
+money is parked in readily marketable securities so that it is available to meet the demand of
+depositors. This argument is supported by a decision of this Court in the case of Bihar State Co−
+operative Bank Ltd. v. Commissioner of Income Tax7.
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+4
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+e. It was contended that when the interest income of securities is uniformly assessed under the head
+“profits and gains from business or profession”, the decision of this Court in the case of Citi Bank
+NA3 will squarely 6 (2007) 289 ITR 6 : (2007) 15 SCC 611 7 (1960) 39 ITR 114 : 1960 SCC OnLine
+SC 193 apply. It was submitted that in the case of many Banks, for several assessment years, the
+assessment officer allowed the deduction of interest for the broken period. Reliance was placed on a
+decision of this Court in the case of M/s. Radhasoami Satsang, Saomi Bagh, Agra v. Commissioner
+of Income Tax8.
+
+f. It was submitted that IndusInd Bank Ltd. is following a practice that interest accrued on a security
+but not due on the date of purchase of security is debited to the profit and loss account as
+expenditure and is claimed as such in return of income. The balance amount remaining after
+reducing the broken period interest is capitalised to the balance sheet covering the acquisition cost
+of such securities. It is submitted that the department has accepted the said methodology for several
+years. It was submitted that the exercise undertaken by Revenue in disallowing broken period
+interest on the footing that it is a capital expenditure is revenue neutral. It was pointed out that if
+the deduction of broken period interest as a capital expense is disallowed, it will have to be added to
+the acquisition cost of the securities, which will then be deducted from the sale proceeds when such
+securities are sold in the subsequent years. It was submitted that, consequently, the related interest
+received would have to be excluded from the income and truncated from the purchase cost, 8 (1992)
+193 ITR 321 : (1992) 1 SCC 659 or alternatively, both the broken interest period and interest
+received thereof will be netted and added/subtracted from the cost of acquisition. Therefore, the
+exercise done by the Department is academic. It was submitted that the decision of this Court in the
+case of Vijaya Bank Ltd.1 is per incuriam as it was rendered in ignorance of the decisions of this
+Court in the case of Cocanada Radhaswami Bank Ltd4. Reliance was also placed on the Central
+Board of Direct Taxes (for short, “the CBDT”) Circular No. 665 of 1993.
+
+g. It was also pointed out that though Banks are required to maintain SLR by investing amounts in
+specified securities, as long as Banks maintain a specified percentage of reserve, they are permitted
+to buy and sell such securities, irrespective of their categorisation. There is no embargo on the Bank
+to hold security in SLR up to the maturity date of the security. It was submitted that Banks always
+treat interest income from all securities as profit or loss, irrespective of the categorisation of
+investments. The interest on securities held by Banks is always taxed under the head “income from
+business or profession”. This contention is raised by HDFC Bank. It was submitted that in
+accordance with the well−settled and accepted method of accounting, the amount of broken period
+of interest which is debited in the profit and loss account of the Bank is claimed as a deduction while
+computing the income from business under the head “income from business and profession” as the
+entire interest income is offered to tax under the said head.
+
+h. Reliance was placed on the RBI Circular dated 1st July 2009, which permits the debit of broken
+period interest to the profit and loss account. Reliance was also placed on a Circular dated 2nd
+November 2015 issued by the CBDT. The Circular provides that the investments made by a Banking
+company are a part of the business of the Bank. Therefore, income from such investments is
+attributable to the business of Banking falling under the head “profit and gain of business and
+profession”.
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+5
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+i. It was submitted that assuming that as per the mandate of the 1949 Act, the securities are treated
+as investments in the books of accounts, it cannot be held that even for the purposes of the IT Act,
+securities would continue to be investments and not stock−in−trade. It was submitted that this
+Court has repeatedly held that the entries in the books of accounts are not relevant for determining
+the taxability under the provisions of the IT Act. Reliance is placed on the RBI Circular dated 1st
+July 2009, which provides that broken period interest is not to be capitalised as part of the cost and
+is required to be debited to the profit and loss account.
+
+j. It is submitted that as required by the Banking Regulation Act, all three categories of securities are
+treated in the same manner, and there is no distinction between the securities which are HTM and
+the other two categories of securities. It was submitted that Banks can always shift the securities
+falling in the category of HTM to the other two categories.
+
+k. It was further urged on behalf of the assessee that the plea based on distinguishing the nature of
+the treatment of SLR securities viz−a−viz non−SLR securities has been raised for the first time by
+the Revenue before this Court.
+
+l. Considering the fact that securities are held as stock−in− trade, interest paid on them constitutes
+an expense which is liable to be claimed as a deduction.
+
+9. The submission of learned ASG is that the broken period interest on security held to maturity
+constitutes an investment and, therefore, should be treated as capital expenditure. It was submitted
+that since HTM securities are held up to maturity for maintaining the SLR ratio and as the same are
+treated as investment in the books of accounts of Banks, the same should be treated as investment
+and not stock−in−trade. Another submission of ASG is that Circular No. 18 of 2015 applies only to
+non−SLR securities. Another submission of learned ASG is that the decision of Vijaya Bank Ltd.1
+would squarely apply as while omitting Sections 18 to 21, corresponding amendments have been
+made in Sections 28, 56(2)(d) and 57(3) of the IT Act, and the securities are now taxable under the
+head of “Income from other Sources”. Therefore, the principles laid down in the case of Vijaya Bank
+Ltd.1 will squarely apply. He argued that the increase in capital by the acquisition of securities
+results in the expansion of the Bank's capital base, which helps in profit making. Therefore, the
+expenditure in the nature of broken period interest was capital expenditure. Learned ASG, thus,
+submitted that the assessees in these cases will not be entitled to a deduction of broken period
+interest.
+
+CONSIDERATION OF LEGAL POSITION
+
+10. We deal with the legal position at the outset. As noted, Sections 18 to 21 were deleted from 1st
+April 1989. In this group of appeals, we are not concerned with cases before the financial year 1988−
+89. Section 14 of the IT Act reads thus:
+
+“14. Heads of income.— Save as otherwise provided by this Act, all income shall, for
+the purposes of charge of income−tax and computation of total income, be classified
+under the following heads of income:— A.—Salaries.
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+6
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+B. * * * * * C.—Income from house property.
+
+                             D.—Profits and gains of business              or
+                             profession.
+                             E.—Capital gains.
+                             F.—Income from other sources.”
+
+Clause B was of “interest on securities”. It was deleted with effect from 1st April 1989
+along with Sections 18 to 21, which dealt with interest on securities. Head ‘D’ is of
+income from “profits and gains of business or profession” covered by Section 28 of
+the IT Act. Profits and gains from any business or profession that the assessee carried
+out at any time during the previous year are chargeable to income tax. Under Section
+36(1)(iii), the assessee is entitled to a deduction of the amount of interest paid in
+respect of capital borrowed for the purposes of the business or profession. Section 37
+provides that any expenditure which is not covered by Sections 30 to 36 and not
+being in the nature of capital expenditure, laid out or expended wholly and
+exclusively for the purposes of the business or profession shall be allowed for
+computing the income chargeable under the head “profits and gains of business or
+profession”. Section 56 of the IT Act provides that income of every kind which is not
+to be excluded from the total income under the IT Act shall be chargeable to income
+tax under the head “income from other sources” if it is not chargeable to income tax
+under any of the five heads provided in Section 14. Therefore, interest on investments
+may be covered by Section 56. Section 57 provides for the deduction of expenditure
+not being in the nature of capital expenditure expended wholly and exclusively for the
+purposes of making or earning such income. In the case of interest on securities, any
+reasonable sum paid for the purposes of realising interest is also entitled to deduction
+under Section 57 of the IT Act.
+
+DECISIONS STARTING FROM THE CASE OF VIJAYA BANK LTD.1
+
+11. The first decision which needs consideration is in the case of Vijaya Bank Ltd1. Regarding the
+facts of the said case, it must be noted that the income of the Bank was not assessed under Section
+28 of the IT Act but under Section 18 under the Head “interest on securities”. In the context of the
+applicability of Section 18 of the IT Act, the Bank claimed that the broken period's interest was
+deductible under Sections 19 and 20. In light of these facts, this Court held that the outlay on the
+purchase of income−bearing assets was a capital outlay. Therefore, no part of the capital outlay can
+be set off as expenditure against income from the asset in question.
+
+12. A Division Bench of the Bombay High Court, in the case of American Express International
+Banking Corporation2, dealt with the decision in the case of Vijaya Bank Ltd1. We are extensively
+referring to the decision of the Bombay High Court in the case of American Express International
+Banking Corporation2 for the reason that this Court in Citi Bank NA3 has expressly approved the
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+7
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+view of the Bombay High Court in the said decision. We may note that the Bombay High Court dealt
+with assessment years 1974−75 to 1977−78. This was a case where the assessee made adjustments
+for broken period interest. The assessing officer had disallowed the deduction for the payment made
+by the assessee for broken period interest. The assessing officer followed the decision in the case of
+Vijaya Bank Ltd1. The Bombay High Court distinguished the decision in the case of Vijaya Bank
+Ltd.1 and held thus:
+
+“18. The assessee−Bank, like several other Banks, were consistently following the
+practice of valuing the securities/interest held by it at the end of each year and offer
+for taxation, the appreciation in their value by way of profit/interest earned due to
+efflux of time. The Bank also claimed deduction for broken period interest payments.
+However, the department did not accept the assessee's method in the assessment
+year in question in view of the judgment of the Karnataka High Court in the case of
+(Commissioner of Income−tax, Mysore v. Vijaya Bank)5, reported in 1976 Tax Law
+Reporter page
+
+524. This judgment has been subsequently upheld by the Supreme Court in 187 I.T.R.
+page 541. In view of the judgment of the Karnataka High Court, the department took
+the view that broken period interest payment cannot be allowed as a deduction
+because it came within the ambit of interest on securities under section 18 of the
+Income−tax Act.
+
+It is the contention of the department that the assessee−Bank received interest on Dated
+Government Securities from R.B.I. on half− yearly basis. That, the assessee Bank also traded in such
+securities. That the assessee Bank bought Dated Government Securities during the intervening
+period between two due dates. That, on purchase of the dated Government Security, the assessee
+became the holder of the security and accordingly, the assessee received half−yearly interest on the
+due dates from R.B.I. on purchase. Therefore, according to the department, the income which the
+assessee−Bank received came under section 18 of the Income−tax Act interest on securities. Under
+the circumstances, it was not open to the assessee Bank to claim deduction for broken period
+interest payment made to the selling/transferor Bank. That, it was not open to the assessee to claim
+deduction as revenue expenditure for broken period interest payment as no such deduction was
+permissible under sections 19 and 20 of the Income−tax Act. That, it was not a sum expended by the
+assessee for realizing interest under section 19 and, therefore, the assessee was not entitled to claim
+deduction for broken period interest payment as a revenue expenditure under section 28 of the
+Income−tax Act. In this connection, the department followed the judgment of the Karnataka High
+Court in Vijaya Bank's case. Therefore, the point which we are required to consider in this case is:
+
+Whether the judgment of the Karnataka High Court in Vijaya Bank's case was
+applicable to the facts of the present case.
+
+19. Before going further we may mention at the very outset that the security in this
+case was of the face value of Rs. 5, lakhs. It was bought for a lesser amount of Rs.
+4,92,000.00. The difference was of Rs. 8,000.00. The assessee has revalued the
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+8
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+security. The assessee offered the notional profit for taxation, as explained herein
+above, on accrual basis in the appropriate assessment year during which the assessee
+held the security. This difference could have been treated by the department as
+interest on securities under section
+
+18. However, in the instant case, the department has assessed the said difference
+under, section 28 under the head “Business” and not under the head “interest on
+securities”. Having treated the difference under the head “Business”, the A.O.
+disallowed the broken period interest payment, which gave rise to the dispute. It was
+open to the department to assess the above difference under the head “interest on
+securities” under section 18.
+
+However, they chose to assess the interest under the head “business” and, while doing so, the
+department taxed broken period interest received, but disallowed broken period interest payment. It
+is in this light that one has to read the judgment of the Karnataka High Court and the Supreme
+Court in Vijaya Bank's case. In that case, the facts were as follows. During the Assessment Year
+under consideration, Vijaya Bank entered into an agreement with Jayalakshmi Bank Limited,
+whereby Vijaya Bank took over the liabilities of Jayalakshmi Bank. They also took over assets
+belonging to Jayalakshmi Bank. These assets consisted of two items viz. Rs. 58,568.00 and Rs.
+11,630.00. The said amount of Rs. 58,568.00 represented interest, which accrued on securities
+taken over by Vijaya Bank from Jayalakshmi Bank and Rs. 11,630.00 was the interest which accrued
+upto the date of purchase of securities by the assessee−Bank from the open market. These too
+amounts were brought to tax by the A.O. under section 18 of the Income−tax Act. The assessee Bank
+claimed that these amounts were deductible under sections 19 and 20. This was on the footing that
+the department had brought to tax, the aforestated two amounts as interest on securities under
+section 18. It is in the light of these facts that one has; to read the judgment in Vijaya Bank's case. In
+the light of the above facts, it was held that outlay on purchase of income bearing asset was in the
+nature of capital outlay and no part of the capital outlay can be set off as expenditure against income
+accruing from the asset in question. In our case, the amount which the assessee received has been
+brought to tax under the head “business” under section 28.
+
+The amount is not brought to tax under section 18 of the Income−tax Act. After bringing the amount
+to tax under the head “business”, the department taxed the broken period interest received on sale,
+but at the same time, disallowed broken period interest payment at the time of purchase and this led
+to the dispute. Having assessed the amount received by the assessee under section 28, the only
+limited dispute was whether the impugned adjustments in the method of accounting adopted by the
+assessee Bank should be discarded. Therefore, the judgment in Vijaya Bank's case has no application
+to the facts of the present case. If the department had brought to tax, the amounts received by the
+assessee Bank under section 18, then Vijaya Bank's case was applicable. But,in the present case, the
+department brought to tax such amounts under section 28 right from the inception. Therefore, the
+Tribunal was right in coming to the conclusion that the judgment in Vijaya Bank's case did not apply
+to the facts of the present case. However, before us, it was argued on behalf of the revenue that in
+view of the judgment in Vijaya Bank's case, even if the securities were treated as part of the trading
+assets, the income therefrom had to be assessed under section 18 of the Act and not under section
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+9
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+28 of the Act as income from securities can only come within section 18 and not under section 28.
+We do not find any merit in this argument. Firstly, as stated above, Vijaya Bank's case has no
+application to the facts of this case. Secondly, in the present case, the Tribunal has found that the
+securities were held as trading assets. Thirdly, it has been held by the Supreme Court in the
+subsequent decision reported in 57 I.T.R. Page 306, in the case of C.I.T. Andhra Pradesh v.
+Cocanada Radhaswami Bank Limited, that income from securities can also come under section 28
+as income from business. This judgment is very important. It analyzes the judgment of the Supreme
+Court in UCO Bank's case reported in 53 I.T.R. page 250, which has been followed by the Supreme
+Court in Vijaya Bank's case. It is true that once an income falls under section 18, it cannot come
+under section 28. However, as laid down by the Supreme Court in Cocanada Radhaswami Bank's
+case (supra), income from securities treated as trading assets can come under section 28. In the
+present case, the department has treated income from securities under section 28. Lastly, the facts
+in the case of UCO Bank reported in 53 I.T.R. page 250, also support our view in the present case. In
+UCO Bank's case, the assessee Bank claimed a set off under section 24(2) of the Income−tax Act,
+1922 (section 71(1) of the present Act) against its income from interest on securities under section 8
+of the 1922 Act (similar to section 28 of the present Act). It was held that UCO Bank was not entitled
+to such a set off as the income from interest on securities came under section 8 of the 1922 Act.
+
+Therefore, even in UCO Bank's case, the department had assessed income from interest on securities
+right from the inception under section 8 of the 1922 Act and, therefore, the set−off was not allowed
+under, section 24(2) of the Act. Therefore, UCO Bank's case has also no application to the facts of
+the present case in which the assessee's income from interest on securities is assessed under section
+28 right from inception, in fact, in UCO Bank's case, the matter was remitted back as it was
+contended on behalf of UCO Bank that the securities in question were a part of trading assets held
+by the assessee in the course of its business and the income by way of interest on such securities was
+assessable under section 10 of the Income−tax Act, 1922 (similar to section 28 of the present Act). It
+is for this reason that in the subsequent judgment of the Supreme Court in the case of Radhaswami
+Bank Limited (supra), that the Supreme Court has observed, after reading UCO Bank's case, that
+where securities were part of trading assets, income by way of interest on such securities could come
+under section 10 of the Income tax Act 1922.
+
+20. In the light of what we have discussed hereinabove, we find that the assessee's method of
+accounting does not result in loss of tax/revenue for the department. That, there was no need to
+interfere with the method of accounting adopted by the assessee−Bank. That, the judgment in the
+case of Vijaya Bank had no application to the facts of the case. That, having assessed the income
+under section 28, the department ought to have taxed interest for broken period interest received
+and the department ought to have allowed deduction for broken period interest paid.” (emphasis
+added)
+
+13. In the case of Citi Bank NA3, the question before this Court was whether interest paid for the
+broken period should not be considered part of the purchase price and whether it should be allowed
+as revenue expenditure in the year of purchase of securities. In this decision, this Court quoted the
+above paragraphs from the decision of the Bombay High Court in the case of American Express
+International Banking Corporation2. This Court expressly approved the conclusions recorded by the
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+10
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+Bombay High Court. This Court held thus:
+
+“The facts in the present case are similar to the facts in American Express (supra).
+Agreeing with this view and accepting the distinction pointed out by the Bombay
+High Court, this Court dismissed the two special leave petitions filed by the revenue,
+one of which was dismissed by a three Judge Bench.
+
+After going through the facts which are similar to the facts in American Express
+(supra), since the tax effect is neutral, the method of computation adopted by the
+assessee and accepted by the revenue cannot be interfered with. We agree with the
+view expressed by the Bombay High Court in American Express (supra) that on the
+facts of the present case, the judgment in Vijaya Bank Ltd. (supra) would have no
+application.” Thus, this Court approved the view taken by the Bombay High Court
+that the interest paid for the broken period should not be considered as part of the
+purchase price, but it should be allowed as revenue expenditure in the year of
+purchase of securities. This Court has reiterated the view taken by the Bombay High
+Court in the case of American Express International Banking Corporation2.
+
+WHETHER SECURITIES ARE HELD AS STOCK−IN−TRADE
+
+14. In the case of Cocanada Radhaswami Bank Ltd.4, the Bank had shown interest on securities held
+by it as a source of income. The Bank claimed loss against other banking activities and set off the
+interest on securities against the higher amount shown as loss in other banking activities. The
+department allowed the loss to be set off against the income under the head “business” and
+disallowed it under the income under the head “interest on securities”. The Appellate Tribunal
+confirmed the view. This Court, in paragraphs nos. 3 to 7, held thus:
+
+“3. Learned counsel for the Revenue argued that the income from business and
+securities fell under different heads, namely, Section 10 and Section 8 of the Act
+respectively, that they were mutually exclusive and, therefore, the losses under the
+head “business” could not be carried forward from the preceding year to the
+succeeding year and set off under Section 22(4) of the Act against the income from
+securities held by the assessee.
+
+4. Learned counsel for the assessee, on the other hand, contended that though for the
+purpose of computation of income, the income from securities and the income from
+business were calculated separately, in a case where the securities were part of the
+trading assets of the business, the income therefrom was part of the income of the
+business and, therefore, the losses incurred under the head “business” could be set
+off during the succeeding years against the total income of the business i.e. income
+from the business including the income from the securities.
+
+5. The relevant section of the Act which deals with the matter of set off of losses in
+computing the aggregate income is Section 24. The relevant part of it, before the
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+11
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+Finance Act, 1955, read:
+
+“(1) Where any assessee sustains a loss of profits or gains in any year under any of the
+heads mentioned in Section 6, he shall be entitled to have the amount of the loss set
+off against his income, profits or gains under any other head in that year:
+
+*** (2) Where any assessee sustains a loss of profits or gains in any year, being a
+previous year not earlier than the previous year for the year ending on the 31st day of
+March, 1940, in any business, profession or vocation, and the loss cannot be wholly
+set off under sub−section (1), so much of the loss as is not so set off or the whole loss
+where the assessee had no other head of income shall be carried forward to the
+following year and set off against the profits and gains, if any, of the assessee from
+the same business, profession or vocation, for that year; and if it cannot be wholly set
+off, the amount of loss not so set off shall be carried forward to the following year….”
+While sub−section (1) of Section 24 provides for setting off of the loss in a particular
+year under one of the heads mentioned in Section 6 against the profit under a
+different head in the same year, sub−section (2) provides for the carrying forward of
+the loss of one year and setting off of the same against the profit or gains of the
+assessee from the same business in the subsequent year or years The crucial words,
+therefore, are “profits and gains of the assessee from the same business” i.e. the
+business in regard to which he sustained loss in the previous year. The question,
+therefore, is whether the securities formed part of the trading assets of the business
+and the income therefrom was income from the business. The answer to this question
+depends upon the scope of Section 6 of the Act. Section 6 of the Act classified taxable
+income under the following several heads : (i) salaries; (ii) interest on securities; (iii)
+income from property; (iv) profits and gains of business, profession or vocation; (v)
+income from other sources; and (vi) capital gains. The scheme of the Act is that
+income tax is one tax. Section 6 only classifies the taxable income under different
+heads for the purpose of computation of the net income of the assessee. Though for
+the purpose of computation of the income, interest on securities is separately
+classified, income by way of interest from securities does not cease to be part of the
+income from business if the securities are part of the trading assets.
+
+Whether a particular income is part of the income from a business falls to be decided not on the
+basis of the provisions of Section 6 but on commercial principles. To put it in other words, did the
+securities in the present case which yielded the income form part of the trading assets of the
+assessee? The Tribunal and the High Court found that they were the assessee's trading assets and
+the income therefrom was, therefore, the income of the business. If it was the income of the
+business, Section 24(2) of the Act was immediately attracted. If the income from the securities was
+the income from its business, the loss could, in terms of that section, be set off against that income.
+
+6. A comparative study of sub−sections (1) and (2) of Section 24 yields the same result. While in
+sub−section (1) the expression “head” is used, in sub−section (2) the said expression is
+conspicuously omitted. This designed distinction brings out the intention of the legislature. The Act
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+12
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+provides for the setting off of loss against profits in four ways. To illustrate, take the head “profits
+and gains of business, profession or vocation”. An assessee may have two businesses. In ascertaining
+the income in each of the two businesses, he is entitled to deduct the losses incurred in respect of
+each of the said businesses. So calculated, if he has loss in one business and profit in the other both
+falling under the same head, he can set off the loss in one against the profit in the other in arriving at
+the income under that head. Even so, he may still sustain loss under the same head. He can then set
+off the loss under the head “business” against profits under another head, say “income from
+investments”, even if investments are not part of the trading assets of the business. Notwithstanding
+this process he may still incur loss in his business. Section 24(2) says that in that event he can carry
+forward the loss to the subsequent year or years and set off the said loss against the profit in the
+business. Be it noted that clause (2) of Section 24, in contradistinction to clause (1) thereof, is
+concerned only with the business and not with its heads under Section 6 of the Act. Section 24,
+therefore, is enacted to give further relief to an assessee carrying on a business and incurring loss in
+the business though the income therefrom falls under different heads under Section 6 of the Act.
+
+7. Some of the decisions cited at the Bar may conveniently be referred to at this stage. The Judicial
+Committee in Punjab Cooperative Bank Ltd. v. CIT [(1940) 8 ITR 635, 645] has clearly brought out
+the business connection between the securities of a Bank and its business, thus:
+
+“In the ordinary case of a Bank, the business consists in its essence of dealing with
+money and credit.
+
+Numerous depositors place their money with the Bank often receiving a small rate of
+interest on it. A number of borrowers receive loans of a large part of these deposited
+funds at somewhat higher rates of interest. But the Banker has always to keep enough
+cash or easily realisable securities to meet any probable demand by the depositors….”
+In the present case the Tribunal held, on the evidence, and that was accepted by the
+High Court, that the assessee was investing its amounts in easily realisable securities
+and, therefore, the said securities were part of the trading assets of the assessee's
+Banking business. The decision of this Court in United Commercial Bank Ltd. v. CIT
+[(1958) SCR 79] does not lay down any different proposition. It held, after an
+exhaustive review of the authorities, that under the scheme of the Income Tax Act,
+1922, the head of income, profits and gains enumerated in the different clauses of
+Section 6 were mutually exclusive, each specific head covering items of income
+arising from a particular source. On that reasoning this Court held that even though
+the securities were part of the trading assets of the company doing business, the
+income therefrom had to be assessed under Section 8 of the Act. This decision does
+not say that the income from securities is not income from the business. Nor does the
+decision of this Court in East India Housing and Land Development Trust Ltd. v. CIT
+[(1961) 42 ITR 49] support the contention of the Revenue. There, a company, which
+was incorporated with the objects of buying and developing landed properties and
+promoting and developing markets, purchased 10 bighas of land in the town of
+Calcutta and set up a market therein. The question was whether the income realised
+from the tenants of the shops and stalls was liable to be taxed as “business income”
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+13
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+under Section 10 of the Income Tax Act or as income from property under Section 9
+thereof. This Court held that the said income fell under the specific head mentioned
+in Section 9 of the Act. This case also does not lay down that the income from the
+shops is not the income in the business. In CIT v. Express Newspapers Ltd [(1964) 53
+ITR 250, 260] this Court held that both Section 26(2) and the proviso thereto dealt
+only with profits and gains of a business, profession, or vocation and they did not
+provide for the assessment of income under any other head e.g. capital gains. The
+reason for that conclusion is stated thus:
+
+“It (the deeming clause in Section 12−B) only introduces a limited fiction, namely,
+that capital gains accrued will be deemed to be income of the previous year in which
+the sale was effected. The fiction does not make them the profits or gains of the
+business. It is well settled that a legal fiction is limited to the purpose for which it is
+created and should not be extended beyond its legitimate field … The profits and
+gains of business and capital gains are two distinct concepts in the Income Tax Act :
+the former arises from the activity which is called business and the latter accrues
+because capital assets are disposed of at a value higher than what they cost the
+assessee. They are placed under different heads; they are derived from different
+sources; and the income is computed under different methods. The fact that the
+capital gains are connected with the capital assets of the business cannot make them
+the profit of the business. They are only deemed to be income of the previous year
+and not the profits or gains arising from the business during that year.” It will be seen
+that the reason for the conclusion was that capital gains were not income from the
+business. Though some observations divorced from content may appear to be wide,
+the said decision was mainly based upon the character of the capital gains and not
+upon their non− inclusion under the heading “business”. The limited scope of the
+earlier decision was explained by this Court in CIT v. Chugandas & Co. [(1965) 55 ITR
+17, 24] . Therein this Court held that interest from securities formed part of the
+assessee's business income for the purpose of exemption under Section 25(3). Shah,
+J., speaking for the Court, observed:
+
+“The heads described in Section 6 and further elaborated for the purpose of
+computation of income in Sections 7 to 10 and 12, 12−A, 12−AA and 12−B are
+intended merely to indicate the classes of income : the heads do not exhaustively
+delimit sources from which income arises. This is made clear in the judgment of this
+Court in the United Commercial Bank Ltd. case [(1958) SCR 79] , that business
+income is broken up under different heads only for the purposes of computation of
+the total income : by that break up the income does not cease to be income of the
+business, the different heads of income being only the classification prescribed by the
+Indian Income Tax Act for computation of income.”” (emphasis added) The same
+principles apply to the cases in hand.
+
+15. In the case of Bihar State Co−operative Bank Ltd.7, in paragraph 2 (SCC report),
+this Court set out the questions involved which read thus:
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+14
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+“2. In its return the appellant showed these various sums as “other sources”, but
+nothing turns on the manner in which the appellant chose to show this income in its
+return. The Income Tax Officer, however, assessed the interest for these three years
+under Section 12 of the Income Tax Act, as income from “other sources”. The
+appellant took an appeal to the Appellate Assistant Commissioner where it was
+contended that as the business of the appellant Bank consisted of lending money and
+the deposits had been made not for the purpose of investment but for that business
+and thereby fulfilling the purpose for which the cooperative Bank was constituted,
+these various sums of interest were not subject to income tax because of the
+notification issued by the Central Government under Section 60 of the Income Tax
+Act. The relevant portion of that notification, CBR Notification 35 dated 20−10−1934,
+and No. 33 dated 18−8−1945, was:
+
+“The following classes of income shall be exempt from the tax payable under the said
+Act, but shall be taken into account in determining the total income of an assessee for
+the purpose of the said Act:
+
+*** (2) The profits of any cooperative society other than the Sanikatta Salt Owners'
+Society in the Bombay Presidency for the time being registered under the Cooperative
+Societies Act, 1912 (Act 2 of 1912), the Bombay Cooperative Societies Act, 1925
+(Bombay Act 7 of 1925), or the Madras Cooperative Societies Act, 1932 (Madras Act 6
+of 1932), or the dividends or other payments received by the members of any such
+society out of such profits.
+
+Explanation : For this purpose the profits of a cooperative society shall not be deemed to include any
+income, profits or gains from:
+
+(1) Investments in (a) securities of the nature referred to in Section 8 of the Indian
+Income Tax Act; or (b) property of the nature referred to in Section 9 of that Act;
+
+(2) dividends, or (3) the ‘other sources’ referred to in Section 12 of the Indian Income
+Tax Act.” The Appellate Assistant Commissioner, however, repelled the contention of
+the appellant. He held that the business of the appellant consisted of ‘lending money,
+and selling agricultural and other products to its constituents’ which could be
+planned ahead and required no provision for extraordinary claims He remarked that
+it appeared from the balance sheets that in the Accounting Year 1945 the Bank
+invested Rs 13,50,000 as fixed deposits, which, in the following year was raised to Rs
+15,00,000 and it was only in the Accounting Year 1947 that the fixed deposits, “were
+realised on maturity with interest”. He was also of the opinion that the length of the
+period during which this money “was kept locked in this way” showed clearly that
+“not the exigencies of pressing necessities, but the motives of investment of surplus
+fund had actuated the deposits”. He therefore held that the fixed deposits with
+Imperial Bank were held as an investment quite apart from the business of the
+appellant and the interest from these deposits was not exempt from income tax.
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+15
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+He further held that the exemption as to the profit of a cooperative society extended to its sphere of
+cooperative activities and therefore interest from investments was no part of the appellant's
+business profits exempt from taxation. Against this order an appeal was taken to the Income Tax
+Appellate Tribunal and it was there contended that the Bank did not make the deposits as
+investments, but in order that cash might be available to the appellant “continuously” for the
+carrying on of the purposes of its business, and that the deposits were intimately connected with the
+business of the appellant and therefore the interest should have been held to be profits arising from
+the business activities of the Bank, and that the finding that the short−term deposits in Imperial
+Bank were separate from the appellant's Banking business was erroneous. The Income Tax
+Appellate Tribunal, by its order dated 11−4− 1955, held:
+
+“(1) That the interest was an income rightly to be included under the head of ‘other
+sources’.
+
+*** (2) The profits of a cooperative society indicates the profit derived from the
+business which can be truly called the business of the cooperative society.
+
+Investments by the society either in securities or in shares or in Bank fixed deposits are made out of
+surplus funds.
+
+The interest or dividend derived from such investment cannot be regarded as part of the profits of
+the business (sic) qua such Bank and therefore, it is not exempt from income tax (vide Hoshiarpur
+Central Cooperative Bank v. CIT [24 ITR 346, 3501], 24 I.T.R. 346, 350).” Against this order a case
+was stated at the instance of the appellant under Section 66(1) of the Act, and the following two
+questions of law were referred for the opinion of the High Court:
+
+(1) Whether, in the facts and circumstances of this case, the receipt of interest on
+fixed deposits was an income under the head of “other sources”: and (2) Whether in
+the facts and circumstances of this case, the receipt of interest from the fixed deposits
+was an income not exempt from dated 20−10−1934 and No. 33 dated 18−8−1945.” In
+paragraphs 9 and 10, this Court proceeded to hold thus:
+
+“9. In the instant case the cooperative society (the appellant) is a Bank. One of its
+objects is to carry on the general business of Banking. Like other Banks money is its
+stock−in−trade or circulating capital and its normal business is to deal in money and
+credit. It cannot be said that the business of such a Bank consists only in receiving
+deposits and lending money to its members or such other societies as are mentioned
+in the objects and that when it lays out its moneys so that they may be readily
+available to meet the demand of its depositors if and when they arise, it is not a
+legitimate mode of carrying on of its Banking business. The Privy Council in Punjab
+Cooperative Bank Ltd. v. CIT Lahore [24 ITR 346, 350] where the profits arose from
+the sale of government securities pointed out at p. 645 that in the ordinary cases the
+business of a Bank essentially consists of dealing with money and credit. Depositors
+put their money in the Bank at a small rate of interest and in order to meet their
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+16
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+demands if and when they arise the Bank has always to keep sufficient cash or easily
+realisable securities. That is a normal step in the carrying on of the Banking business.
+In other words that is an act done in what is truly the carrying on or carrying out of a
+business. It may be added that another mode of conducting business of a Bank is to
+place its funds in deposit with other Banks and that also is to meet demands which
+may be made on it. It was however argued that in the instant case the moneys had
+been deposited with Imperial Bank on long term deposits inasmuch as they were
+deposited for one year and were renewed from time to time also for a year; but as is
+shown by the accounts these deposits fell due at short intervals and would have been
+available to the appellant had any need arisen.
+
+10. Stress was laid on the use of the word “surplus” both by the Tribunal as well as by
+the High Court and it was also contended before us that in the bye−laws under the
+heading “business of the Bank” it was provided that the Bank could “invest surplus
+funds when not required for the business of the Bank in one or more ways specified
+in Section 19 of the Bihar Act (Clause 4 III(i) of the bye−Laws). Whether funds
+invested as provided in Section 19 of the Bihar Act would be surplus or not does not
+arise for decision in this case, but it has not been shown that the moneys which were
+in deposit with other Banks were “surplus” within that bye−law so as to take it out of
+Banking business. As we have pointed out above, it is a normal mode of carrying on
+Banking business to invest moneys in a manner that they are readily available and
+that is just as much a part of the mode of conducting a Bank's business as receiving
+deposits or lending moneys or discounting hundies or issuing demand drafts.
+
+That is how the circulating capital is employed and that is the normal course of business of a Bank.
+The moneys laid out in the form of deposits as in the instant case would not cease to be a part of the
+circulating capital of the appellant nor would they cease to form part of its Banking business. The
+returns flowing from them would form part of its profits from its business. In a commercial sense
+the directors of the Company owe it to the Bank to make investments which earn them interest
+instead of letting moneys lie idle. It cannot be said that the funds of the Bank which were not lent to
+borrowers but were laid out in the form of deposits in another Bank to add to the profit instead of
+lying idle necessarily ceased to be a part of the stock−in−trade of the Bank, or that the interest
+arising therefrom did not form part of its business profits. Under the bye−laws one of the objects of
+the appellant Bank is to carry on the general business of Banking and therefore subject to the
+Cooperative Societies Act, it has to carry on its business in the manner that ordinary Banks do. It
+may be added that the various heads under Section 6 of the Income Tax Act and the provisions of
+that Act applicable to these various heads are mutually exclusive. Section 12 is a residuary section
+and does not come into operation until the preceding heads are excluded. CIT v. Basant Rai Takht
+Singh [(1933) ITR 197, 201].” (emphasis added)
+
+16. The decision of the Privy Council in the case of Punjab Co−operative Bank v. Commissioner of
+Income Tax9 is also very relevant. It was held thus:
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+17
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+“The principle to be applied in such a case is now well settled. It was admirably stated
+in a Scottish case, Californian Copper Syndicate v. Harris [(1904) 6 F. 894 : 5 Tax
+Cas.
+
+159.] and the statement has been more than once approved both in the House of
+Lords and in the Judicial Committee: See for example Commissioner of Taxes v.
+Melbourne Trust Ltd. [1914 A.C. 1001 at p. 1010.]. Some 9 (1940) SCC Online PC 46
+dicta which appear to support the view that it is necessary to prove that the taxpayer
+has carried on a separate or severable business of buying and selling investments
+with a view to profit in order to establish that profits made on the sale of investments
+are taxable, for example, the dicta in the case of Commissioners of Inland Revenue v.
+Scottish Automobile and General Insurance Co. [(1913−16) 6 Tax Cas. 381, at pp.
+
+388, 389.] , cannot now be relied on. It is well established, to cite the exact words used in
+Californian Copper Syndicate v. Harris [(1904) 6 F. 894 : 5 Tax Cas. 159.].
+
+“that enhanced values obtained from realization or conversion of securities may be so assessable
+where what is done is not merely a realization or change of investment, but an act done in what is
+truly the carrying on, or carrying out, of a business”.
+
+In the ordinary case of a Bank, the business consists in its essence of dealing with money and credit.
+Numerous depositors place their money with the Bank often receiving a small rate of interest on it.
+A number of borrowers receive loans of a large part of these deposited funds at somewhat higher
+rates of interest. But the Banker has always to keep enough cash or easily realisable securities to
+meet any probable demand by the depositors. No doubt there will generally be loans to persons of
+undoubted solvency which can quickly be called in, but it may be very undesirable to use this second
+line of defence. If as in the present case some of the securities of the Bank are realised in order to
+meet withdrawals by depositors, it seems to their Lordships to be quite clear that this is a normal
+step in carrying on the Banking business, or, in other words, that it is an act done in “what is truly
+the carrying on” of the Banking business. This, it appears to their Lordships, is the more appropriate
+and satisfactory ground for dealing with the question arising in the present case.” (emphasis added)
+
+17. Therefore, the Privy Council and this Court have consistently held that the securities that Banks
+acquire as a part of the banking business are held as stock−in−trade and not as an investment.
+
+OUR CONCLUSIONS
+
+18. Initially, CBDT issued Circular No. 599 of 1991 and observed that the securities held by Banks
+must be recorded as their stock−in−trade. The circular was withdrawn in view of the decision of this
+Court in the case of Vijaya Bank Ltd1. In the year 1998, RBI issued a circular dated 21 st April 1998,
+stating that the Bank should not capitalise broken period interest paid to the seller as a part of cost
+but treat it as an item of expenditure under the profit and loss account. A similar circular was issued
+on 21st April 2001, stating that the Bank should not capitalise the broken period interest paid to the
+seller as a cost but treated it as an item of expenditure under the profit and loss account. In 2007,
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+18
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+the CBDT issued Circular No. 4 of 2007, observing that a taxpayer can have two portfolios. The first
+can be an investment portfolio comprising securities, which are to be treated as capital assets, and
+the other can be a trading portfolio comprising stock−in−trade, which are to be treated as trading
+assets.
+
+19. As stated earlier, Banks are required to purchase Government securities to maintain the SLR. As
+per RBI’s guideline dated 16th October 2000, there are three categories of securities: HTM, AFS and
+HFT. As far as AFS and HFT are concerned, there is no difficulty. When these two categories of
+securities are purchased, obviously, the same are not investments but are always held by Banks as
+stock−in−trade. Therefore, the interest accrued on the said two categories of securities will have to
+be treated as income from the business of the Bank. Thus, after the deduction of broken period
+interest is allowed, the entire interest earned or accrued during the particular year is put to tax.
+Thus, what is taxed is the real income earned on the securities. By selling the securities, Banks will
+earn profits. Even that will be the income considered under Section 28 after deducting the purchase
+price. Therefore, in these two categories of securities, the benefit of deduction of interest for the
+broken period will be available to Banks.
+
+20. If deduction on account of broken period interest is not allowed, the broken period interest as
+capital expense will have to be added to the acquisition cost of the securities, which will then be
+deducted from the sale proceeds when such securities are sold in the subsequent years. Therefore,
+the profit earned from the sale would be reduced by the amount of broken period interest.
+Therefore, the exercise sought to be done by the Department is academic.
+
+21. The securities of the HTM category are usually held for a long term till their maturity. Therefore,
+such securities usually are valued at cost price or face value. In many cases, Banks hold the same as
+investments. Whether the Bank has held HMT security as investment or stock−in−trade will depend
+on the facts of each case. HTM Securities can be said to be held as an investment (i) if the securities
+are actually held till maturity and are not transferred before and (ii) if they are purchased at their
+cost price or face value.
+
+22. At this stage, we may refer to a decision of this Court in the case of Commissioner of Income Tax
+(Central), Calcutta v. Associated Industrial Development Company (P) Ltd., Calcutta10. In the said
+decision, this Court held that whether a particular holding of shares is by way of investments or
+forms part of the stock−in−trade is a matter which is within the knowledge of the assessee.
+Therefore, on facts, if it is found that HMT Security is held as an investment, the benefit of broken
+period interest will not be available. The position will be otherwise if it is held as a trading asset.
+
+10 (1972) 4 SCC 447
+
+23. Now, we turn to the factual aspects. As far as Civil Appeal No. 3291−94 of 2009 is concerned, the
+Tribunal, in a detailed judgment, recorded the following conclusions:
+
+a. Interest income on securities right from assessment year 1989−90 is being treated
+as interest on securities and is taxed under Section 28 of the IT Act;
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+19
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+b. Since the beginning, securities are treated as stock−in− trade which has been
+upheld by the Department right from the assessment year 1982−83 onwards;
+
+c. Securities were held by the respondent Bank as stock− in−trade.
+
+The findings of the Tribunal have been upset by the High Court. The impugned
+judgment proceeds on the footing that the decision in the case of Vijaya Bank Ltd.1
+case would still apply. Thus, as far as Civil Appeal Nos. 3291−3294 of 2009 are
+concerned, as a finding of fact, it was found that the appellant Bank was treating the
+securities as stock−in−trade. The said view was upset by the High Court only on the
+ground of the decision of this Court in the case of Vijaya Bank Ltd1. As the securities
+were held as stock−in−trade, the income thereof was chargeable under Section 28 of
+the IT Act. Even the assessing officer observed that considering the repeal of Sections
+18 to 21, the interest on securities would be charged as per Section 28 as the
+securities were held in the normal course of his business. The assessing officer
+observed that the appellant−Bank, in its books of accounts and annual report, offered
+taxation on the basis of actual interest received and not on a due basis.
+
+24. Therefore, in the facts of the case, as the securities were treated as stock−in−trade, the interest
+on the broken period cannot be considered as capital expenditure and will have to be treated as
+revenue expenditure, which can be allowed as a deduction. The impugned judgment is based on the
+decision in the case of Vijaya Bank Ltd.1 It also refers to the decision of the Bombay High Court in
+the case of American Express International Banking Corporation 2 and holds that the same was not
+correct. As noted earlier, the view taken in the American Express International Banking
+Corporation2 case has been expressly upheld by this Court in the case of Citi Bank NA3. Therefore,
+the impugned judgment cannot be sustained, and the view taken by the Tribunal will have to be
+restored.
+
+25. Now, we come to other appeals which are part of this group. In Civil Appeal @Special Leave
+Petition (C) Nos.1445− 1446 of 2021, the assessing officer held that the respondent Bank was liable
+to pay the broken period of interest as part of the price paid for the securities. Hence, a deduction on
+the said amount was disallowed. The assessee could not succeed before the CIT (Appeals). Before
+the Appellate Tribunal, reliance was placed on the decision of this Court in the case of Vijaya Bank
+Ltd1. The Tribunal observed that the assessing officer had treated the interest income earned by the
+respondent Bank on securities as income from other sources. The Tribunal observed that the
+investments in securities are in stock−in−trade, and this fact has been accepted in the past by the
+Income Tax department. It was held that the securities in the category of HTM were also held as
+stock−in−trade, and income/loss arising out of such securities, including HTM securities, has been
+treated as business income/loss. The Appellate Tribunal held that the interest for the broken period
+would be admissible as a deduction, and the High Court confirmed the same. We may note here that
+the Tribunal followed the decision of the Bombay High Court in the case of HDFC Bank Ltd. v.
+CIT11. We find no error in the view taken in this case.
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+20
+
+The Bank Of Rajasthan Ltd vs Commissioner Of Income Tax on 16 October, 2024
+
+26. In Civil Appeal @ Special Leave Petition (C) No.4843 of 2020, the High Court held in favour of
+the respondent−Bank by allowing a deduction for broken period interest relying upon the decision
+in the case of HDFC Bank Ltd11. In this case, the assessing officer did not accept the claim of the
+Bank that the securities held were in the nature of stock−in− trade. However, the CIT (Appeals) and
+the Appellate Tribunal accepted the respondent Bank’s case. In this case, before the Appellate
+Tribunal, the department conceded in favour of the assessee.
+
+11 (2014) 366 ITR 505
+
+27. In Civil Appeal @ Special Leave Petition (C) No. 7055 of 2021, neither the assessment officer nor
+the CIT allowed a deduction on account of the broken period interest. However, the Tribunal
+allowed the same. Before the High Court, Revenue argued that the increase in capital results in the
+expansion of the Bank's capital base, which helps in profit making. Therefore, the expenditure in the
+nature of broken period interest was capital expenditure. However, The High Court rightly rejected
+the contention of the department that the outlay on the purchase of securities was capital outlay.
+
+28. In Civil Appeal @ Special Leave Petition (C) No.7404 of 2021, the CIT, the High Court took a
+similar view. The same is the case with Civil Appeals @ Special Leave Petition (C) Nos.15281 and
+1686 of 2021.
+
+29. In Civil Appeal @ Special Leave Petition (C) No.1687 of 2021 and Civil Appeal @ Special Leave
+Petition (C) No.8968 of 2018, the High Court allowed interest deduction on broken period. In Civil
+Appeal @ Special Leave Petition (C) No.24841 of 2019, though the assessment officer held that the
+broken period interest has to be capitalised, the Appellate Tribunal upset the said view. In Civil
+Appeal No.4755 of 2023, deduction for broken period interest has been allowed.
+
+30. Hence, in Civil Appeal No.3291−3294 of 2009, the judgment of the High Court cannot be
+sustained, and the decisions of the Tribunal dated 29th May 2003 and 15th July 2004 will have to
+be restored. All other appeals preferred by the Revenue will have to be dismissed subject to
+clarification regarding securities of the HTM category.
+
+31. Accordingly, we pass the following order:
+
+a. Civil Appeal Nos.3291 to 3294 of 2009 are hereby allowed by setting aside the
+impugned judgment and the judgments dated 29th May 2003 and 15th July 2004 of
+the Appellate Tribunal are restored.
+
+b. All other Civil Appeals are dismissed.
+
+c. There will be no order as to costs.
+
+………………………….J. (Abhay S Oka) ………………………….J. (Pankaj Mithal) New Delhi;
+
+October 16, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/63951797/
+
+21
+
+

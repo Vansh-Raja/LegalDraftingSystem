@@ -1,0 +1,21 @@
+{
+  "case_number": "Criminal Appeal No. 288 of 2022 (Arising out of SLP (Crl.) No. 6893 of 2021)",
+  "parties": {
+    "petitioner": "Krishnamurthy @ Gunodu and Others",
+    "respondent": "State of Karnataka"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-16",
+  "summary": "The appeal challenged the Karnataka High Court's affirmation of convictions under IPC Sections 302/34 and other sections. The Supreme Court upheld Krishnamurthy's conviction for murder based on eyewitness testimony and medical evidence showing fatal injuries to the neck and chest sufficient to cause death under Section 300 IPC, third limb. The Court rejected reliance on inconsistent testimonies of PW-6 and PW-7 but accepted depositions of PW-1 and PW-4 implicating Krishnamurthy in brutal assault. Convictions of Gopala and Thimmappa under Section 302 were set aside due to lack of participation in the actual assault; their roles were limited to holding the deceased, with no injuries linked to them. The principle of personal culpability and common intention under Section 34 IPC was examined, requiring prior or spontaneous common design, which was not established for Gopala and Thimmappa.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 34 IPC",
+    "Section 447 IPC",
+    "Section 504 IPC",
+    "Section 506 IPC",
+    "Section 341 IPC",
+    "Section 300 IPC",
+    "Suresh and Another v. State of Uttar Pradesh, (2001) 3 SCC 673"
+  ],
+  "final_judgment": "Conviction of Krishnamurthy under Section 302/34 IPC upheld; convictions of Gopala and Thimmappa under Section 302 set aside; their convictions under lesser offences upheld."
+}

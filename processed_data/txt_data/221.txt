@@ -1,0 +1,3003 @@
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+P i r a m a l   C a p i t a l   A n d   H o u s i n g   F i n a n c e   . . .   v s   6 3   M o o n s
+Technologies Limited) on 1 April, 2025
+
+Author: Bela M. Trivedi
+
+Bench: Bela M. Trivedi
+
+2025 INSC 421
+
+                                                                     REPORTABLE
+
+                                       IN THE SUPREME COURT OF INDIA
+                                        CIVIL APPELLATE JURISDICTION
+
+                                     CIVIL APPEAL NOS. 1632-1634 OF 2022
+
+                            PIRAMAL CAPITAL AND HOUSING
+                            FINANCE LIMITED (FORMERLY KNOWN
+                            AS DEWAN HOUSING FINANCE CORPORATION
+                            LIMITED)
+                                                        ….APPELLANT (S)
+
+                                                      VERSUS
+
+                            63 MOONS TECHNOLOGIES LIMITED
+                            & OTHERS
+                                                      .…RESPONDENT (S)
+
+                                                            WITH
+                                               C.A. Nos. 1707-1712 of 2022
+                                                            WITH
+                                                 DIARY No. 6037 of 2022
+                                                            WITH
+                                               C.A. Nos. 2989-2991 of 2022
+                                                            WITH
+                                                  C.A. No. 2402 of 2022
+   Signature Not Verified
+
+   Digitally signed by
+   NITIN TALREJA
+                                                            WITH
+   Date: 2025.04.01
+   17:48:11 IST
+   Reason:
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+1
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+                            Civil Appeal Nos. 1632-1634 of 2022           Page 1 of 145
+(cid:12)                   C.A. Nos. 2413-2415 of 2022
+                                WITH
+                      C.A. No. 2567 of 2022
+                                WITH
+                   C.A. Nos. 2987-2988 of 2022
+                                WITH
+                   C.A. Nos. 8123-8125 of 2022
+                                WITH
+                   C.A. Nos. 3694-3695 of 2022
+                                WITH
+                      C.A. No. 6286 of 2022
+                                WITH
+                      C.A. No. 2396 of 2022
+
+Civil Appeal Nos. 1632-1634 of 2022           Page 2 of 145
+(cid:12)                                    INDEX
+      GLOSSARY ..............................................................................4
+
+   I. THE DETAILS AND CATEGORIES OF THE APPEALS ..........5
+  II. FACTUAL BACKGROUND ....................................................13
+ III. SUBMISSIONS BY THE LEARNED ADVOCATES FOR THE
+         PARTIES .............................................................................23
+
+ IV. RELEVANT PROVISIONS OF THE IBC AND OTHER ACTS 47
+ V. SCOPE OF JUDICIAL REVIEW ............................................64
+ VI. ANALYSIS IN THE FIRST CATEGORY OF APPEALS ..........83
+         (i) Questions .....................................................................87
+
+         (ii) Avoidance Applications ...............................................89
+
+         (iii)Mandatory Requirements of Section 30(2) of the IBC
+             and Regulation 38 of Regulations, 2016 ....................95
+
+         (iv)Maximization of the value of the assets of the
+             Corporate Debtor .........................................................98
+
+         (v) Whether the NCLAT should have entertained the
+             appeals filed by the 63 Moons under Section 61 of the
+             Code and tinkered with the Resolution Plan approved
+             by the CoC and the NCLT? ........................................101
+
+VII. ANALYSIS IN THE SECOND CATEGORY OF APPEALS ...122
+       (i) Whether the Resolution Plan violated the Provisions Of
+            RBI Act or NHB Act? ....................................................126
+
+VIII. ANALYSIS IN THE THIRD CATEGORY OF APPEALS .......133
+ IX. CONCLUSION ......................................................................143
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+2
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+ Civil Appeal Nos. 1632-1634 of 2022                                       Page 3 of 145
+(cid:12)GLOSSARY
+
+1.    BR Act – The Banking Regulation Act, 1949
+2.    CD – Corporate Debtor
+3.    CIRP – Corporate Insolvency Resolution Process
+4.    CoC – Committee of Creditors
+5.    DHFL – Dewan Housing Finance Corporation
+      Limited
+6.    EOI – Expression of Interest
+7.    FD Holders – Fixed Deposit Holders
+8.    FSP – Financial Service Provider
+9.    FSP Rules – Financial Service Provider Rules, 2019
+10.   GT – M/s. Grant Thornton
+11.   HFC – Housing Finance Companies
+12.   IBC – The Insolvency and Bankruptcy Code,
+      2016
+13.   NBFC – Non-Banking Financial Companies
+14.   NCD Holders – Non-Convertible Debenture Holders
+15.   NCLAT – National Company Law Appellate Tribunal
+16.   NCLT/ Adjudicating Authority – National Company
+      Law Tribunal
+17.   NHB Act – The National Housing Bank Act, 1987
+18.   Piramal Capital – Piramal Capital and Housing
+      Finance Limited
+19.   PRAs – Prospective Resolution Applicants
+20.   RA – Resolution Applicant
+21.   RBI Act – The Reserve Bank of India Act, 1934
+22.   Regulations, 2016 – The Insolvency and
+      Bankruptcy Board of India (Insolvency Resolution
+      Process for Corporate Persons), Regulations,
+      2016
+23.   RFRP – Request for Resolution Plan Proposal
+24.   RP – Resolution Plan
+25.   SRA – Successful Resolution Applicant
+
+Civil Appeal Nos. 1632-1634 of 2022       Page 4 of 145
+(cid:12)                        JUDGMENT
+
+BELA M. TRIVEDI, J.
+
+1. In the captioned Appeals, the contextual facts encompass the issues involved and permit
+analogous adjudication. Hence, they are disposed of by this common judgment and order.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+3
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+(I) THE DETAILS AND CATEGORIES OF THE APPEALS: -
+
+i. Civil Appeal Nos. 1632-1634 of 2022 have been filed by the Appellant Piramal
+Capital and Housing Limited (Piramal Capital), Successful Resolution Applicant
+(SRA) challenging the common judgment and order dated 27.01.2022 passed by the
+National Company Law Appellate Tribunal, New Delhi, (NCLAT) in Company Appeal
+(AT) (Insolvency) [hereinafter referred to as Company Appeal] Nos. 454-455 and 750
+of 2021, only to the extent that it modified the Resolution Plan (RP) by holding that
+the RP that permitted the SRA to appropriate recoveries, if any, from Avoidance
+applications filed under Section 66 of the Insolvency and Bankruptcy Code (IBC)
+ought to be set aside and the Resolution Plan be sent back to the Committee of
+Creditors (CoC) for reconsideration on that aspect.
+
+ii. Civil Appeal Nos. 2989-2991 of 2022 have been filed by the Appellant Union Bank
+of India challenging the said common judgment and order dated 27.01.2022 passed
+by the NCLAT in Company Appeal Nos. 454-455 and 750 of 2021. iii. Civil Appeal
+Nos. 3694-3695 of 2022 have been filed by the Appellant 63 Moons and Technologies
+Limited, challenging the said common judgment and order dated 27.01.2022 passed
+by the NCLAT in Company Appeal No. 454 of 2021 and 455 of 2021, only to the
+extent of the sentence/observation in the impugned order that “The Resolution Plan
+be sent back to the CoC for reconsideration on this aspect.” iv. Civil Appeal Nos.
+2413-2415 of 2022 have been filed by the Appellants Vinay Kumar Mittal and Others,
+claiming to be the Fixed Deposit Holders (FDH) of the Corporate Debtor (CD) –
+Dewan Housing Finance Corporation Limited (DHFL), challenging the common
+judgment and order dated 27.01.2022 passed by the NCLAT in Company Appeal Nos.
+506-507 and 516 of 2022, whereby the NCLAT has held that Section 238 of IBC
+overrides the Reserve Bank of India Act, 1934 (RBI Act), and the National Housing
+Bank Act, 1987 (NHB Act), and that Adjudicating Authority/NCLT had not
+committed any error in approving the RP that proposed extinguishing Claims of the
+Fixed Deposits, without discharging their payments in full to the FDHs.
+
+v. Civil Appeal arising out of Diary No. 6037 of 2022 has been filed by the Appellants Raghu K.S.
+and Others (claiming to be the Fixed Depositors/Investors in the schemes floated by DHFL),
+challenging the judgment and order dated 07.02.2022 passed by the NCLAT in Company Appeal
+No. 538 of 2021, whereby the NCLAT disposed of the Appeal by holding that the issues raised in the
+said Appeal were the same as raised in Company Appeal Nos. 506, 507 and 516 of 2022 decided on
+27.01.2022.
+
+vi. Civil Appeal No. 2402 of 2022 has been filed by the Appellant Uttar Pradesh State Power
+Corporation Contributory Provident Fund Trust challenging the judgment and order dated
+27.01.2022 passed by the NCLAT in Company Appeal No. 760 of 2021, whereby the NCLAT has
+dismissed the Appeal of the Appellant and confirmed the order dated 07.06.2021 passed by the
+NCLT in M.A. No. 416/2020 in C.P.(IB) No. 4258/MB/2019 in C.P. No. 4258/2019, rejecting the
+prayer of the Appellant seeking repayment of the entire amounts of matured fixed deposits.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+4
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+vii. Civil Appeal Nos. 8123-8125 of 2022 have been filed by the Appellants Senbagha Vivek A and
+Another (who were not the Party before the NCLAT), challenging the impugned common judgment
+and order dated 27.01.2022 passed by the NCLAT in Company Appeal Nos. 506, 507 and 516 of
+2022.
+
+viii. Civil Appeal No. 6286 of 2022 has been filed by the Appellant THDC India Limited Employee
+Provident Fund challenging the impugned judgment and order dated 04.02.2022 passed by the
+NCLAT in Company Appeal No. 90 of 2022, whereby it has been held by the NCLAT inter alia that
+the commercial wisdom of the CoC while approving the RP, which has also received the approval of
+the Adjudicating Authority as well as the Appellate Tribunal, cannot be allowed to be questioned in
+the Appeal.
+
+ix. Civil Appeal No. 2396 of 2022 has been filed by the Appellant Uttar Pradesh State Power Sector
+Employees Trust challenging the impugned judgment and order dated 27.01.2022 passed by the
+NCLAT in Company Appeal No. 759 of 2021. x. Civil Appeal Nos. 1707-1712 of 2022 have been filed
+by the Appellant Kapil Wadhawan (KW), an erstwhile Promoter and Director of DHFL challenging
+the impugned judgment and order dated 14.02.2022 passed by the NCLAT, in Company Appeal No.
+539 of 2021, dismissing the KW’s challenge to the RP of Piramal Capital approved by the NCLT vide
+Order dated 07.06.2021 in I.A. No. 449 of 2021 in CP (IB) No. 4258/2019. The said Appeal was
+dismissed by the NCLAT on the ground that it had become infructuous in view of the judgment and
+order dated 27.01.2022 in Company Appeal Nos. 454, 455 and 750 of 2021. The Appellant - KW has
+also challenged the order dated 27.01.2022 passed by the NCLAT in Company Appeal No. 647 of
+2021, wherein the NCLAT has held inter alia that the Appellants being an erstwhile Directors who
+had vacated their offices on the supersession of the Board of Directors by the RBI under Section
+45-IE (4)(a) of the RBI Act, cannot claim their entitlement to participate in the CoC of the CD, and
+that a superseded Director from the Board of Directors cannot interfere in the Company’s affairs,
+per contra a suspended Director always remains on the erstwhile Board of the Company and assist
+the IRP/ RP as per requirement. The Appellant - KW has also challenged the judgment and order
+dated 27.01.2022 passed by the NCLAT in Company Appeal Nos.370, 376-377 and 393 of 2021,
+whereby the NCLAT has set aside the order dated 19.05.2021 passed by the NCLT, which had
+directed the CoC to consider and vote on 2nd Settlement Proposal of KW.
+
+xi. Civil Appeal No. 2567 of 2022 has been filed by the Appellant Dheeraj Wadhawan (DW)
+challenging the impugned judgment and order dated 27.01.2022 passed by the NCLAT in Company
+Appeal No. 785 of 2020, whereby the NCLAT has held that the Appellant – DW was not entitled to
+participate in the CoC of DHFL.
+
+xii. Civil Appeal Nos. 2987-2988 of 2022 have been filed by the Appellant Piramal Capital
+challenging the impugned common judgment and order dated 27.01.2022 passed by the NCLAT in
+Company Appeal No. 785 of 2020 and 647 of 2021, to the extent NCLAT has held that the RP does
+not remain confidential after its approval by the Adjudicating Authority and that a certified copy of
+such RP could be obtained by all and sundry as per Rules.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+5
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+2. As per the Order passed by this Court on 26.09.2024, all these Appeals were heard, after
+categorizing them into the following three categories: -
+
+      Sr.                 Name of the matter                   Party/
+      No.                                                       CoC
+
+I. APPEALS RE AVOIDANCE APPLICATIONS- Impugned Order dated 27.01.2022 passed by the
+Hon’ble NCLAT in Company Appeal (AT) (Ins) No. 454-455 and 750 of 2021 in relation to treatment
+of recoveries from the Avoidance applications provided under the approved Resolution Plan by
+Piramal Capital & Housing Finance Limited in the insolvency of Dewan Housing Finance
+Corporation Limited
+
+1. Piramal Capital & Housing Finance Limited Civil (Formerly known as Dewan Housing Finance
+Appeal Corporation Limited) v 63 Moons Technologies Nos.1632-
+
+Limited and Ors. 1634 of
+
+2. Union Bank of India v 63 Moons Technologies Civil Limited and Ors Appeal Nos.2989– 2991 of
+
+3. 63 Moons Technologies Limited v Piramal Civil Capital and Housing Finance Corporation Appeal
+Limited (Formerly known as Dewan Housing Nos.3694- Finance Corporation Limited) & Ors 3695
+of II. APPEALS BY FD HOLDERS / NCD HOLDERS- -(a)Impugned Order dated 27.01.2022 passed
+by the Hon’ble NCLAT in Company Appeal (AT) (INS) No. 506, Company Appeal (AT)(INS) No.
+507, and Company Appeal (AT) (INS) No.516 of2022; (b) Impugned common order dated
+27.01.2022 passed by Hon’ble NCLAT in Company Appeal (AT) (INS) No. 759 of 2021 and Company
+Appeal (AT) (INS) No. 760of 2021; (c) Impugned Order dated 07.02.2022 passed by Hon’ble
+NCLAT in Company Appeal (AT) (Ins) No. 538 of2021; (d) Impugned Order and Judgment dated
+04.02.2022 in Company Appeal (AT) (Ins) No. 90 of 2021 challenging the payment made to the FD
+Holders/NCD Holders under the approved Resolution Plan by Piramal Capital & Housing Finance
+Limited.
+
+1. Raghu KS and Ors. v Piramal Capital and Diary No. Housing Finance Limited & Ors 6037 of
+
+2. Vinay Kumar Mittal & Ors. V. Dewan Housing Civil Finance Corporation Ltd. &Ors Appeal
+Nos.2413- 2415 of
+
+3. Uttar Pradesh State Power Sector Employees Civil Trust v Dewan Housing Finance Corporation
+Appeal Limited & Anr. No.2396 of 2022 & Civil Appeal No.2402 of
+
+4. U.P. State Power Corporation Contributory Provident Fund Trust v. Dewan Housing Finance “
+Corporation Limited and Anr.
+
+5. Senbagha Vivek A. & Anr v Dewan Housing Diary Finance Corporation Ltd. & Anr. No.11104 of
+2022/ Civil Appeal Nos.8123-
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+6
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+8125 of
+
+6. THDC India Limited Employee Fund v The Civil Administrator, Dewan Housing Finance Appeal
+Corporation Ltd. No.6286 of III. APPEALS BY EX PROMOTERS- (a) Impugned Order
+dated14.02.2022 passed in Company Appeal (AT) (Ins) No. 539of 2021 approving the Resolution
+Plan; (b) Impugned Order dated 27.01.2022 passed in Company Appeal (AT)(Ins) No. 785 of 2020
+and 647 of 2021 holding that the Appellant does not have the right to attend CoC meetings or get a
+copy of the Resolution Plan approved by the CoC; (c) Impugned Order dated 27.01.2022 passed in
+Company Appeal (AT) (Ins) No. 370 of 2021, 376-377of 2021, 393 of 2021 which set aside the order
+directing CoC to consider and vote on the second settlement proposal submitted by Appellant
+
+1. Kapil Wadhawan v R. Subramaniakumar and Civil Ors. Appeal Nos.1707-
+
+1712 of
+
+2. Piramal Capital and Housing Finance Limited Civil (Formerly known as Dewan Housing Finance
+Appeal Corporation Limited) v Dheeraj Wadhawan and Nos.2987-
+
+              Anr.                                             2988       of
+
+       3.     Dheeraj Wadhawan v The Administrator             Civil
+                                                               Appeal
+                                                               No.2567 of
+
+(II)   FACTUAL BACKGROUND
+
+3. In these long-drawn proceedings, the Factual matrix may be summarized as under: -
+
+i. The DHFL was a housing finance company and a non-banking financial company
+regulated under the provisions of NHB Act and RBI Act, engaged in the business of
+providing housing finance services to retail customers, including under the Pradhan
+Mantri Awas Yojana (under the credit linked subsidy scheme) as well as certain
+project loans, mortgage finance and construction loans etc. The DHFL had, for
+conducting its business availed financial assistance through a range of instruments
+including inter alia rupee loans, external commercial borrowings, non-convertible
+debentures, perpetual debentures, subordinate debt, public deposits etc. from banks,
+financial institutions, other lenders like insurance companies, mutual funds,
+provident funds, pension funds and individuals. The DHFL was accused of
+committing India’s one of the biggest financial scams, worth thousands of crores of
+rupees, involving accusation of loan frauds, money laundering, creating web of fake
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+7
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+borrowers and shell companies etc. ii. The RBI in exercise of its powers conferred
+under Section 45-IE (1) of RBI Act, superseded the Board of Directors of DHFL, on
+being satisfied that DHFL had conducted its affairs detrimental to the interest of its
+depositors and creditors, and appointed one Shri R. Subramaniakumar, Ex-MD and
+CEO of the Indian Overseas Bank, vide communication dated 20.11.2019.
+
+iii. The RBI then on 29.11.2019 filed a Company Petition under Section 227 read with Section 239
+(2) (zk) of IBC before the NCLT, for initiating CIRP proceedings.
+
+iv. The Adjudicating Authority – NCLT on 03.12.2019 directed commencement of CIRP of the CD –
+DHFL and confirmed the appointment of Mr. R. Subramaniakumar as the Administrator to perform
+all functions of the Resolution Professional under the IBC. On 05.12.2019, the Administrator, by
+issuing a public announcement, called upon the creditors of the CD to submit their claims with
+proof on or before 17.12.2019.
+
+v. The Administrator received the claims worth Rs.82,247 Crores. The Administrator, after collating
+all claims received against the CD and determining of financial position of the CD, constituted CoC
+on 24.12.2019. The Administrator, on 28.01.2020 issued an invitation for submissions of Expression
+of Interests (EOI) and Form ‘G’ for submission of RPs for the CD in accordance with the IBC and the
+relevant Rules and Regulations made thereunder. Accordingly, the Administrator received 24 EOIs
+from the PRAs.
+
+vi. The Administrator had appointed M/s. Grant Thornton (GT) as Transaction Auditors for
+unearthing the transactions under Section 43 to 51 and 66 of IBC.
+
+vii. The GT after conducting the transaction audit, submitted a report to the Administrator,
+containing particulars of preferential, undervalued, fraudulent, and extortionate transactions
+entered into by DHFL, which could be set aside/ avoided under the said provisions of IBC. The
+Administrator, based on the said report of GT, filed eight Applications before the NCLT regarding
+the Preferential, Undervalued, and Extortionate transactions, and the Applications with regard to
+the Fraudulent and Wrongful trading. The said Applications are pending for adjudication by the
+NCLT. The total amount involved in the Avoidance Applications pending before the NCLT is about
+Rs.45,050/- Crores.
+
+viii. On 02.03.2020, the Administrator issued a Request for Resolution Plan Proposal (RFRP) for
+DHFL in accordance with Regulation 36B of CIRP Regulations, 2016. The said RFRP was revised by
+the Administrator, and the revised RFRP was issued on 17.03.2020.
+
+ix. However, thereafter considering the complexities involved with respect to the transactions
+forming part of Section 66 application, the CoC in its Seventh meeting on 10.09.2020 decided that
+the RFRP may be suitably modified to incorporate the language which was in the mutual interest of
+the CoC members and the RA, by incorporating that the PRAs may ascribe a value to the
+transactions to all the transactions that are being filed under Section 66 and also propose the
+manner of dealing with any recoveries therefrom.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+8
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+x. On 16.09.2020, pursuant to the discussion with the CoC, the Administrator issued a revised and
+final version of the RFRP titled "Invitation for Submissions of Resolution Plan for Dewan Housing
+Finance Corporation Limited" ("RFRP dated 16 September 2020") in accordance with Regulation
+36B of the CIRP Regulations. xi. On 16.10.2022, following the issuance of the RFRP dated 16
+September 2020, the Piramal Capital submitted the RP dated 16.09.2020 for the consideration of
+the Administrator/CoC. The Piramal Capital was initially keen on only taking over the retail assets
+of the CD and accordingly, submitted its RP dated 16.09.2020 for Group A assets under Option II
+(i.e., retail assets of the CD). Under this RP, the Piramal Capital offered an amount of approx. INR
+15,000 Crores (plus an amount of 10% for FDH).
+
+xii. On 09.11.2020, based on further discussions and upon requests from the Administrator/ CoC to
+all PRAs, the Piramal Capital revised its RP and submitted modified RP on 09.11.2020 (offering an
+amount of INR 23,700 Crores) and on 17.11.2020 (offering an amount of INR 27,500 Crores),
+respectively under Option II for Group A (retail assets) of the CD.
+
+xiii. On 22.12.2020, upon the request of the CoC, the Piramal Capital submitted a revised and final
+RP offering a total consideration of INR 37,250 Crores comprising cash and non-cash
+considerations. Additionally, it also submitted a RP under Option II for Group A (retail assets) of the
+CD, it offered an aggregate amount of INR 27,200 Crores.
+
+xiv. On 31.12.2020, the erstwhile Director Kapil Wadhawan filed I.A. No. 2431 of 2020 under
+Section 60(5) of the Code praying for a direction for RBI to place before CoC the 2nd Settlement
+proposal for consideration.
+
+xv. On 15.01.2021, all compliant resolution plans (including the SRA’s RP) were put to vote during
+the voting window. The 63 Moons voted in favour of the RP within its class of debenture holders and
+the RP was approved by a majority of 98.94% votes of the debenture holders. On the basis of the
+same, the Authorised representative of the class of debenture holders (M/s. Catalyst Trusteeship
+Limited) voted in favor of the RP before the CoC. Resultantly, the RP of Piramal was approved by an
+overwhelming majority of the CoC with 93.65 % votes.
+
+xvi. On 24.02.2021, following the approval of the RP by the CoC, the Administrator filed an I.A. No.
+449 of 2021 ("Plan Approval Application") before the NCLT seeking approval of the RP under
+Section 31 of the Code.
+
+xvii. On 05.03.2021 – The 63 Moons filed an I.A. No. 623 of 2021 in the Plan Approval Application
+before the NCLT inter alia challenging the provisions of the RP which provided that the Section 66
+Recoveries will go to the benefit of the SRA. xviii. On 13.05.2021, the Plan Approval Application and
+I.A. No. 623 of 2021 were reserved for orders. xix. The NCLT vide its Order dated 19.05.2021
+allowed the I.A. No. 2431 of 2020 filed by the erstwhile Director and directed the Administrator to
+place the 2nd Settlement Proposal before the CoC for consideration and voting within 10 days. xx.
+On 23.05.2021, the Administrator, CoC and Piramal filed Appeals under Section 61 of the Code,
+being Company Appeal Nos. 370 of 2021, 376-77 before the NCLAT challenging the order dated
+19.05.2021.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+9
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+xxi. On 25.05.2021, the NCLAT while issuing notice stayed the NCLT order dated 19th May, 2021.
+Further, the NCLAT vide the order directed the NCLT to decide the I.A. No. 449 of 2021 (for
+approval of the RP).
+
+xxii. On 06.06.2021, Mr. Kapil Wadhawan filed an I.A. No.1229 of 2021 before the NCLT for
+consideration of his objections to the RP.
+
+xxiii. On 07.06.2021, the NCLT passed an order granting its approval to the Plan Approval
+Application thereby approving the RP. The NCLT vide a separate order, dismissed the I.A. No. 623
+of 2021 filed by the 63 Moons. The NCLT refused to interfere with the RP inter alia on the ground
+that the CoC comprising of 77 financial creditors decided in its commercial wisdom to give away the
+Section 66 Recoveries to the SRA after a hard bargain in exchange of a lump sum resolution amount
+of INR 37,250 Crores.
+
+xxiv. On 14.06.2021 & 24.06.2021, the 63 Moons filed two separate Company Appeals, being No.
+454 and 455 of 2021 before the NCLAT challenging the orders passed by the NCLT in the Plan
+Approval Application and I.A. No. 623 of 2021 on almost identical grounds. These Appeals were
+tagged and heard together. Additionally, vide I.A. No. 1173 and 1170 of 2021 filed in the Company
+Appeal No. 455 and 454 of 2021 respectively, the 63 Moons sought an interim stay on execution of
+the approved RP.
+
+xxv. On 15.07.2021, erstwhile Promoter KW preferred Company Appeal No. 539 of 2021 before the
+NCLAT seeking a prayer to set aside the RP. xxvi. On 23.07.2021, the NCLAT dismissed the 63
+Moons' interim application for a stay on execution of the approved RP. Following this, the 63 Moons
+approached this Court vide Civil Appeal Nos. 4672- 4673 of 2021.
+
+xxvii. On 03.09.2021 - Roopjyot & Ors. filed a Company Appeal No. 750 of 2021 before the NCLAT
+challenging the Plan Approval Order raising grounds similar to those which were raised by the 63
+Moons. This Appeal was also tagged with the Company Appeal No. 455 and 454 of 2021 filed by the
+63 Moons. Pertinently, this was first time that any challenge was raised by Roopjyot & Ors. against
+the RP.
+
+xxviii. On 06.09.2021, this Court declined to entertain the Civil Appeal Nos. 4672-4673 of 2021 and
+disposed of the same with a direction to the NCLAT to decide the pending Appeals expeditiously.
+
+xxix. On 30.09.2021, the SRA implemented the RP and discharged payment to the creditors. As per
+the RP, the SRA - Piramal merged into the CD by way of a scheme of arrangement. Resultantly, the
+SRA - Piramal ceased to exist with effect from 30.09.2021, and the CD under the name "DHFL"
+remained as the continuing legal entity. xxx. On 27.01.2022, the NCLAT passed the common
+impugned judgment in the Appeals and directed as follows:
+
+"The term in the RP that permits the SRA to appropriate recoveries, if any, from
+avoidance applications filed under Section 66 of the Code ought to be set aside. The
+RP be sent back to the CoC for reconsideration on this aspect."
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+10
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+xxxi. On 14.02.2022, the NCLAT dismissed the Company Appeal No. 539 of 2021 filed by the
+erstwhile Promoter KW, recording that the RP is under consideration before the CoC and therefore
+the Appeal had become infructuous.
+
+Hence, the present set of Appeals have been filed.
+
+(III) SUBMISSIONS BY THE LEARNED ADVOCATES FOR THE PARTIES
+
+4. Multidimensional submissions were made at length by all concerned learned Advocates, the crux
+of which may be narrated below.
+
+(I) Learned Senior Advocates, Mr. Abhishek Manu Singhvi and Mr. Balbir Singh appearing for the
+SRA - Piramal Capital made elaborate submissions in all the three categories of Appeals. In the First
+category of Appeals with regard to the impugned order dated 27.01.2022 passed by the NCLAT in
+Company Appeal Nos.454-455 and 750 of 2021 in relation to treatment of recoveries from
+Avoidance applications provided under the approved RP, they made the following submissions: -
+
+i. A small group of creditors like the 63 Moons whose cumulative share in the CoC
+was less than 0.3%, could not have preferred the Appeals before the NCLAT. The
+respective classes of creditors who voted overwhelmingly in favour of the RP included
+the said creditors, who were NCD Holders, and therefore they were estopped from
+challenging the RP.
+
+ii. The decision on the recoveries arising out of Avoidance transactions falls within
+the commercial wisdom of the CoC and could not have been interfered with by the
+NCLAT.
+
+iii. The NCLAT in the impugned judgment has entered into the domain of the CoC, in
+as much as it has isolated a singular part of a composite and inter-
+
+connected RP, and has adjudicated upon the commercial soundness of the CoC’s
+decision to take a higher upfront payment in exchange of giving up the uncertain
+recoveries of Section 66 applications.
+
+iv. The reliance placed on the decision in Tata Steel BSL Limited vs. Venus Recruiter
+Private Limited and Others (LPA No.37 of 2021) passed by the single bench of the
+Delhi High Court was erroneous.
+
+v. The impugned judgment of NCLAT is premised on a misinterpretation of
+provisions of the IBC and allied Regulations, in as much as Section 67 does not relate
+to treatment of proceeds from Avoidance applications, instead it deals with a
+situation where a respondent party in an Avoidance application also happens to be a
+creditor of the CD. vi. The NCLAT has erroneously placed reliance on Regulation 37A
+of IBBI (Liquidation Process) Regulations, 2016 to arrive at a conclusion that the
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+11
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+proceeds from the Avoidance applications cannot be shared with the SRA during
+resolution. In fact, the Regulation 37(a) of the CIRP Regulations specifically
+mentions that the resolution plan shall include measures for the transfer of all or part
+of the assets of the CD.
+
+vii. The NCLAT has incorrectly relied on the foreign jurisprudence and extraneous
+considerations in impugned judgment.
+
+viii. The notional value of INR 1 to Section 66 Applications was legally sound, for the
+reason that the notional valuation of Section 66 Applications was done in response to
+the provisions of RFRP issued by the Administrator.
+
+ix. In the alternative, the NCLAT had failed to appreciate that value of INR 1 was only
+notional and the true value ascribed to the Section 66 Applications was embedded in
+the total resolution amount of INR 37,250 Crores proposed under the RP.
+
+x. The impugned judgment amounts to a unilateral modification of RP contrary to the
+will of the SRA and commercial wisdom exercised by the CoC. xi. The impugned
+judgment has far-reaching, and undesirable consequences contrary to the intent of
+the Legislature.
+
+(II) In the Second category of Appeals filed by the FD Holders/ NCD Holders
+challenging the impugned order dated 27.01.2022 passed by the NCLAT, Mr.
+Abhishek Manu Singhvi and Mr. Balbir Singh appearing for the SRA-Piramal Capital
+made the following submissions: -
+
+i. The Appellants, that is the FD Holders/ NCD Holders, have no locus standi to
+challenge the Resolution Plan by filing the Civil Appeals. ii. Section 21 (6A) (b) of IBC
+read with Regulation 16 (A) of the CIRP Regulations, 2016 provides for a mechanism
+for appointment of an Authorized Representative who could look after the myriad
+interest of large number of financial creditors in the CoC. In the instant case FD
+Holders and NCD Holders were represented by the respective representatives, who
+had demonstrated their objections to the RP before the CoC, and therefore individual
+member of such group cannot be allowed to raise independent challenge in relation
+to the CIRP and/ or the RP separately by filing the Appeals.
+
+iii. Section 36 (A) of the NHB Act and Section 45 (QA) of the RBI Act do not mandate full repayment
+of deposits. Therefore, the distribution mechanism in the RP could not be said to be illegal or
+contrary to the provisions of the RBI Act and NHB Act. iv. The RP is also compliant with Rule 5
+(d)(i) of FSP Rules.
+
+v. This Court has repeatedly held that the manner of distribution of proceeds falls within the CoC’s
+commercial wisdom and such commercial wisdom is given paramount status and that the scope of
+judicial review by the NCLT and NCLAT is very limited. (K. Sashidhar vs. Indian Overseas Bank and
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+12
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+Others,1 and Maharashtra Seamless Limited vs. Padmanabhan Venkatesh and Others.2) vi. The
+NHB Act and the IBC are special statutes and the statute enacted later in point of time must prevail.
+
+vii. The FD Holders are estopped from contending that they were not the financial creditors. As per
+the settled legal position the relationship between a depositor and a Bank is not equivalent to one
+between a beneficiary and a trustee.
+
+1 (2019) 12 SCC 150 2 (2020) 11 SCC 467 (III) So far as Third category of Appeals filed by the ex-
+
+promoters challenging the impugned order dated 14.02.2022 approving the RP, the order dated
+27.01.2022 holding that the ex-promoters did not have the right to attend the CoC meetings or get a
+copy of Resolution Plan approved by the CoC, the Learned Senior Advocates Mr. Singhvi and Mr.
+Balbir Singh, defending the said impugned order, made the following submissions: -
+
+i. KW’s settlement proposals do not warrant any consideration in these Appeals since
+they were not accepted by the requisite majority of 89% of CoC. Moreover, an
+Application under Section 12(A) of IBC for withdrawal of CIRP petition pursuant to a
+settlement proposal had to be tabled by the RBI, which had refused to do so.
+
+ii. Commercial wisdom of CoC is paramount and ascription of notional value INR 1 is
+acceptable. iii. Decisions taken by an overwhelming majority of CoC basing value of
+CD as determined by the registered valuers, after negotiations with SRA, is not
+subject to judicial scrutiny. Resolution Plans cannot be scrutinized from an equitable
+perception.
+
+iv. The Piramal Capital’s RP is binding inter se Piramal Capital and CoC, and no
+modifications are permitted after the approval of the plan by the CoC. v. Independent
+recourses such as assignments, settlements, and institution of recovery proceedings
+in respect of loans, impugned in Avoidance applications are valid because it is
+Piramal Capital’s responsibility to ensure a holistic revival of DHFL and resolution of
+its distressed assets.
+
+vi. Pendency of Avoidance applications does not bar the CIRP proceedings.
+
+vii. Suspension and Supersession of Board of Directors have distinct legal effects
+since suspension occurs only due to inability to pay debts while supersession occurs
+due to fraud and mismanagement.
+
+viii. The Insolvency proceedings of DHFL were conducted in a clear, transparent and
+time bound manner to preserve and maximize value of the assets for CoC.
+
+ix. The Piramal Capital’s RP was accepted by overwhelming majority votes of 93.65%
+in the CoC, and RBI also has given its NOC for change of control/ ownership/
+management basis to the said Resolution Plan on 16.02.2021.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+13
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+5. The learned Senior Advocates Mr. Tushar Mehta and Mr. Navin Pahwa appearing
+for the CoC made the following common submissions in all the Appeals:
+
+i. The CoC comprised of (a) 26 banks and 12 financial institutions voting 40.60% in
+the CoC (b) NCD Holders (secured and unsecured) 63 Moons class and Roopjyot
+class voting 53.22% in the CoC
+
+(c) FD Holders voting 6.18% in the CoC.
+
+ii. Section 32 readwith Section 61(3) contain limited ground to challenge the RP and does not
+provide any ground to challenge the RP on any of its commercial terms.
+
+iii. Section 45-IE (1) of the RBI Act empowers the RBI to supersede the Board of Directors of the
+company in the public interest or to prevent the affairs of NBFC being conducted in a manner
+detrimental to the interest of the depositors or the creditors or for securing proper management of
+such company. The RBI having been satisfied superseded the Board of DHFL on 20.11.2019 which
+was never challenged by the ex-promoters of DHFL.
+
+iv. RBI had filed the Company Petition No. 4258 of 2019 under Section 227 read with Section
+239(2)(zk) of the IBC read with Rules 5, 6 of the FSP Rules before the NCLT for initiating CIRP of
+DHFL, and the said petition was admitted by the NCLAT vide the order dated 03.12.2019, which
+was also never challenged by the ex-promoters of DHFL.
+
+v. Section 45-IE (4)(a) of the RBI Act states that upon supersession of Board of Directors, the
+chairman, managing director and other directors shall, from the date of the supersession, vacate
+their offices. Hence, once the directors vacate their office, they are not a stakeholder of the CD any
+more and have no locus either to sit in the CoC meetings, demand RP or even challenge the same.
+
+vi. Section 29A(c) of IBC explicitly disqualifies the promoters of the CD from being a RA, subject to
+certain conditions, and the Board of DHFL having been superseded, the promoters did not have any
+right or locus to challenge the RP approved by CoC.
+
+vii. The DHFL had used different enterprise resource planning software application for maintaining
+fictitious books, loans and verification of financial statement. It was found that the underwriting
+procedures for loan sanctioning and disbursal were not followed. It was further found that out of
+sampled 50 entities, 34 entities had invested a portion of amount received from DHFL into the
+promoter company.
+
+viii. As per the GT’s report dated 24.09.2020 on Slum Rehabilitation Authority transaction, it was
+found that the loans aggregating crores of rupees against the master developers and 14 assignee
+developers for construction of two SRA projects, were used for investments into the companies
+linked to the promoters of DHFL.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+14
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+ix. The Avoidance and Fraudulent transactions as contemplated in IBC were identified by the GT,
+wherein it was found that the DHFL had made inter-corporate deposits into three entities, which
+were used for buying the NCDs of Wadhawan Global Corporation, though the said three entities did
+not have any income from the business operations.
+
+x. The consortium of lenders had appointed KPMG, a Forensic Auditor, to carry out a special review
+of DHFL who had prepared the Special Review Audit Report highlighting large number of
+fraudulent transactions and falsification of books of accounts. Such fraudulent transactions and acts
+have resulted into number of criminal cases registered against ex-promoters Mr. Kapil Wadhawan
+and Dheeraj Wadhawan by CBI.
+
+xi. When the ex-promoters of DHFL were found responsible for the fraudulent transactions, which
+were the subject matter of Section 66 applications, they could not have contended that the subject
+matter of these applications should be valued at a higher value in the RP, and not INR 1 value for
+such Avoidance transactions.
+
+xii. The CoC in its commercial wisdom had decided to transfer the speculative part of the assets i.e.,
+Section 66 Fraudulent Trading to the PRAs, thereby eliminating any risk from the said transactions
+and resulting in an increase in the upfront value of recovery. In any case, the benefit of
+avoiding/setting aside any transaction under Section 43, 45, 47, 49 and 50 shall enure to the benefit
+of DHFL’s creditors only.
+
+xiii. The bid process was transparent, competitive and aimed at maximizing the value of assets of the
+CD.
+
+xiv. The conduct of ex-promoters has been marred by impropriety in as much as several criminal
+cases relating to cheating, fraud and siphoning of funds have been instituted against them which are
+pending in the courts of law.
+
+6. The learned Advocate Mr. Santosh Kumar Paul appearing for the Respondent - 63 Moons
+Technologies Limited, the secured NCD Holders has made the following submissions: -
+
+i. Originally it was envisaged by the Piramal Capital that any recoveries from the
+transactions avoided/ set aside under Section 43 to 51 and 66 of the IBC would enure
+to the benefit of DHFL’s creditors and that the PRAs will not receive any benefit
+therefrom. Afterwards, the RFRP was amended on 16.09.2020 to the effect that the
+recoveries from Section 43, 45, 47, 49 and 50 (and not Section 66) shall enure to the
+benefit of the creditors, and with respect to the recoveries from Section 66, the RAs
+must propose the manner of continuing and dealing with the legal action initiated
+and propose the manner of treatment of any proceeds arising therefrom. Ultimately,
+the Piramal Capital was declared as SRA, and it was decided that all recoveries from
+Avoidance applications filed by the Administrator would benefit the Piramal Capital.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+15
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+The Respondent No. 1 - 63 Moons had objected, such clause being illegal. The NCLAT having
+considered the said objection decided the said issue in favour of the Respondent - 63 Moons. ii. As
+per the settled legal position, the recoveries from Avoidance transactions ought to enure to the
+benefit of DHFL’s creditors only.
+
+iii. As per the judgment of Delhi High Court, in case of Venus Recruiters Private Limited vs. Union
+of India and Others,3 the Avoidance applications are meant to give benefit to the creditors of the CD
+and not to the CD in its new avatar after the approval of the RP. The said judgment of Delhi High
+Court was not disturbed upon Appeal before the Division 3 2020 SCC OnLine Del 1479 Bench of the
+High Court, and the SLP against the said decision is pending before this Court. iv. A mandatory
+statutory duty has been cast upon the Tribunal in terms of Section 31 read with Section 30(2) of the
+IBC to ensure that a RP which is placed before it for approval has complied with the relevant
+provisions of law.
+
+v. The Respondent - 63 Moons had voted owing to express liberty granted by the NCLT, without
+prejudice to the respondent’s rights and contentions, hence the plea of estoppel was not available to
+the Appellant - Piramal. As per the position of law settled by this Court in M.K. Rajagopalan vs. Dr.
+Periasamy Palani Gounder and Another,4 the commercial wisdom of CoC means a considered
+decision taken by CoC with reference to the commercial interest and interest of revival of CD and
+maximization of value of its assets.
+
+7. The Learned Senior Advocate Mr. Dhruv Mehta appearing for the Appellants - the FD Holders of
+CD, who have challenged the impugned order dated 4 2024 (1) SCC 42 07.02.2022 passed by the
+NCLAT in Company Appeal No. 538 of 2021 made the following submissions: -
+
+i. The NCLAT had erred in passing the impugned order, not appreciating that in
+terms of Section 30(2)(e) read with Sections 31(3)(i) of the Code, the RP ought to
+have been struck down as being in contravention of the provisions of the NHB Act
+and RBI Act, which provide for security of deposits made by the FD Holders.
+
+ii. An unjustified resort to Section 238 of the Code has the effect of rendering the
+provisions contained in Section 30(2)(e) of the Code nugatory. iii. Section 36(A) of
+NHB Act makes it clear that the deposits have to be repaid strictly in accordance with
+the terms of such deposits. Section 36 of NHB Act provides that the provisions
+thereof shall have the effect notwithstanding anything inconsistent contained in any
+other law for the time being in force.
+
+iv. Unlike a regular CD, a FSP stands on a different footing and should entail greater
+scrutiny in examining its compliance with the applicable laws for the time being in
+force. The commercial wisdom of CoC cannot stretch to cover regulatory aspects
+specifically provided for under the NHB Act read with its directions.
+
+8. The Learned Senior Advocate Mr. Maninder Singh appearing for the Appellant Uttar Pradesh
+State Power Sector Employees Trust in C.A. No. 2396 of 2022 made the following submissions: -
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+16
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+i. The monies invested by the FD Holders were held in Trust by DHFL.
+
+ii. Rule 10 of the FSP Rules provides that Rule 5(b)(Moratorium) of the FSP Rules
+and Section 14 of the Code do not apply to any third-party assets or properties in
+custody or possession of the FSP, including any funds, securities and other assets
+required to be held in Trust for the benefit of third parties. The Explanation to
+Section 18 of the Code also provides that assets owned by third-party in possession of
+the CD, held under Trust or under contractual arrangements including bailment,
+could not be assets for the purpose of Section 18. In this regard, reliance has been
+placed on the observations made in Embassy Property Developments Private Limited
+vs. State of Karnataka and Others.5 5 (2020) 13 SCC 308 iii. As held by the various
+High Courts, the monies deposited by the FD Holders are not in the nature of a loan
+but in fact a deposit to be held in Trust by the Company till the time of maturity.
+Therefore, the monies deposited by the FD Holders were not the monies of DHFL but
+in fact were the monies deposited in Trust, thereby making DHFL liable to repay such
+deposits in full.
+
+iv. The NCLT and NCLAT had failed to consider that the repayment obligations of DHFL, which was
+a deposit receiving Housing Finance Institution, engaged in the business of providing Financial
+Services in terms of the license granted by NHB and RBI. Hence, the FD Holders ought to have been
+paid as per the terms of their deposits, in full, in view of the statutory obligation of DHFL. v. In
+absence of any contradictions between the Code and the NHB Act, the overriding effect contained in
+Section 238 of the Code does not apply.
+
+vi. Public Depositors are neither secured creditors nor unsecured creditors but constitute a third
+class of creditors who stand on a higher footing than secured/unsecured creditors with a statutory
+right to the repayment. Hence, the claim of the public deposit holders ought not to be equated with
+that of any other creditor of DHFL and ought to be repaid in full as statutorily mandated.
+
+9. The learned Senior Advocate Mr. Nakul Diwan appearing for the Respondent Nos. 4 to 7 in C.A.
+Nos. 1632-1634 of 2022 and C.A. Nos. 2989-2991 of 2022 has made following submissions,
+supporting the judgment and order dated 27.01.2022 passed by the NCLAT:
+
+i. Although the SRA - Piramal Capital has enhanced its offer in the RP, such
+enhancement was not against consideration of the recoveries to be made from the
+Avoidance transactions. Even otherwise the value ascribed by the SRA to the
+Avoidance applications was merely valued at a nominal price of INR 1 and such
+enhancement cannot be said to be in consideration of the recoveries to be made
+under the Avoidance transaction, which were valued at INR 45,000 Crores alone.
+
+ii. The Respondents had abstained from voting in favour of RP, as Clause 2.13.3 was
+an illegal provision contrary to the IBC. On careful appreciation of the provisions of
+IBC, the NCLAT vide its judgment dated 27.01.2022 rightly set aside Clause 2.13.3
+and directed the CoC to reconsider the same.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+17
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+iii. In K. Sashidhar vs. Indian Overseas Bank and Others (supra), and in Committee
+of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta and Others,6 it is
+held that there is a scope of judicial scrutiny in RP if it is not in accordance with
+Section 30(2) read with Section 31(I) of the IBC.
+
+10. The Learned Senior Advocate Mr. Kapil Sibal, appearing for the ex-promoters Kapil Wadhawan
+and Dheeraj Wadhawan made the following submissions:
+
+-
+
+i. Any recoveries from the Avoidance applications ought to be for the benefit of
+creditors, having regard to the object and purpose and legal history of the IBC.
+
+ii. Piramal Capital cannot be permitted to retain recoveries past/future from the
+Avoidance applications, which otherwise should be only for the benefit of the
+creditors.
+
+6 2020 (8) SCC 531 iii. Section 25 of the IBC sets out the duties of the Resolution
+Professional. One of the duties is to preserve and protect the assets of the CD and to
+file Avoidance applications for the benefit of the CD.
+
+iv. The Avoidance applications are filed in respect of Sections 43, 44, 45, 46, 50 and 51, falling
+within Chapter III. The provisions pertaining to the Fraudulent trading or Wrongful trading fall
+under Section 66 contained in Chapter VI. Considering the scheme of the Code, as also the object
+and purpose of the Code, it is clearly demonstrated that the benefit of the Avoidance applications is
+intended for the benefit of the CD, for which the responsibility has been cast upon the Resolution
+Professional.
+
+v. The provision of Piramal’s RP which permits benefits of Avoidance applications under Section 66
+of the Code to be retained by the Piramal Capital is contrary to law. In the alternative, it is submitted
+that as an exception the benefit of Avoidance applications can be assigned to the third parties, (in
+the present case Piramal), however, it was the duty of the Resolution Professional to ensure that the
+assignment was done for proper consideration, and in the instant case, the assignment of Avoidance
+transactions was not shown to be for proper consideration. vi. The fulcrum on which the Resolution
+Process under the Code proceeds is the full and correct knowledge of the affairs of the CD, however,
+in the instant case, the creditors had no knowledge of the value of the securities/properties which
+formed the basis of Avoidance transactions under Section 66 of the Code. Therefore, the CoC could
+not be said to have exercised its commercial wisdom while approving the RP of the Piramal Capital.
+vii. The Administrator also sought to exclude the ex-promotors on a specious plea that they were
+superseded, despite the fact that the ex-promoters through several letters had made efforts to
+inform Administrator and CoC, the significant value of business and assets of DHFL in the interest
+of the creditors.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+18
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+viii. Assuming, without admitting, that CoC had all the relevant information, the CoC had miserably
+failed to demonstrate the rationale behind the recoveries from Avoidance transactions under Section
+66 of the IBC Code being ascribed NIL value and assigning the same to Piramal at Rupee
+
+1. ix. The Piramal Capital’s subsequent conduct demonstrated that there was value locked up in the
+Avoidance transactions and despite such value the benefit of the same was not factored in the bid
+amount.
+
+x. The CoC’s justification for the Piramal’s valuation of Avoidance transactions for Rupee 1 was
+contrary to the records and unjustified. xi. The amount under Section 43 and 45 of the Code are a
+small portion of the total amount impugned in the Avoidance applications. There is no difference in
+the potentiality of recovery from transactions impugned under Section 66 or Section 45 in the
+present case. The nature of trading in respect of Section 66 applications is not fictitious. The actions
+of Piramal in filing Section 7 applications makes it evident that the classification of entire
+transactions as fraudulent by the Administrator was incorrect. xii. The ex-promoters/KW and DW
+were entitled to participate in the CoC, to have access to all records and documents as well as the
+copy of the RP.
+
+xiii. The provisions of the IBC would prevail over the RBI Act in view of the non-obstante clause in
+Section 238 of the Code. Thus, the rights of the Director under the Code remain unaffected by the
+effect of supersession under the RBI Act. xiv. The IBC was made applicable to the Financial Service
+Providers such as the DHFL under the FSP Rules.
+
+xv. There was no modification as provided under Rule 5 of the FSP Rules, which could affect the ex-
+promoter/Director’s right of participation. xvi. Piramal Capital cannot be permitted to unjustly
+enrich itself at the cost of the creditors by retaining the benefit for which it has not paid any value.
+xvii. The objective of the IBC for value maximization has not been taken into consideration under
+the shield of commercial wisdom of CoC.
+
+xviii. Lastly, no fair and transparent procedure, in the nature of auction/ assignment of the
+underlying assets for the part of Avoidance transactions, was undertaken to enable the realization of
+full value of the underlying assets and ensure maximization of value in the interest of the creditors
+of DHFL.
+
+(IV) RELEVANT PROVISIONS OF THE IBC AND OTHER ACTS
+
+11. Before adverting to the rival submissions made by the learned counsels for the parties, let us
+have a glance through the provisions contained in the IBC and other Acts & Rules relevant for the
+purpose of deciding these Appeals.
+
+12. As the long title of IBC suggests, IBC has been enacted to consolidate and amend the laws
+relating to reorganization and insolvency resolution of corporate persons, partnership firms and
+individuals in a time bound manner for maximization of value of assets of such persons, to promote
+entrepreneurship, availability of credit and balance the interest of all the stakeholders including
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+19
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+alteration in the order of priority of payment of Government dues and to establish an Insolvency
+and Bankruptcy Board of India, and for matters connected therewith or incidental thereto. The
+objective behind enacting the IBC is to provide an effective legal framework for timely resolution of
+Insolvency and Bankruptcy, which would support the development of credit markets and encourage
+entrepreneurship. It would also improve Ease of Doing Business, and facilitate more investments
+leading to higher economic growth and development. The provisions of the IBC had come into force
+on different dates as notified by the Central Government by Notification in the Official Gazette from
+time to time.
+
+13. Chapter II pertains to the Corporate Insolvency Resolution Process. Section 7 thereof pertains to
+the Initiation of Corporate Insolvency Resolution Process by Financial Creditor and Section 8
+thereof pertains to the Insolvency Resolution by Operational Creditor. Section 16 provides for
+appointment and tenure of Interim Resolution Professional and Section 18 thereof enumerates the
+duties of the Interim Resolution Professional appointed by the Adjudicating Authority, on the
+commencement of insolvency proceedings. Section 21 empowers the Interim Resolution
+Professional to constitute a Committee of Creditors (CoC), after collation of all claims received
+against the CD and determination of financial position of the CD. The CoC is comprised of all
+Financial Creditors of the CD, subject to the provisions of Section 21.
+
+14. Section 22 pertains to the Appointment of Resolution Professional who is to be appointed by the
+CoC within 7 days of the constitution of the CoC. The duties of Resolution Professional are
+enumerated in Section
+
+25. As per clause (j) of sub-section (2) of Section 25, the Resolution Professional has to file an
+application for avoidance of transactions in accordance with Chapter III, if any. Section 26 states
+that the filing of an Avoidance application under clause (j) of sub- section (2) of Section 25 by the
+Resolution Professional shall not affect the proceedings of CIRP.
+
+15. Section 29 requires the Resolution Professional to prepare an information memorandum
+containing relevant information as may be specified by the Insolvency and Bankruptcy Board of
+India. An eligible RA can submit a RP on the basis of the information memorandum prepared by the
+Resolution Professional, as per Section 30. The Resolution Professional after examining each RP
+received by him and after confirming that the same are in consonance with sub-section (2) of
+Section 30, would present the same to the CoC for its approval. The relevant part of Section 30 is
+quoted below.
+
+“30. Submission of Resolution Plan – (1) ………………..
+
+(2) The resolution professional shall examine each resolution plan received by him to confirm that
+each resolution plan--
+
+(a) provides for the payment of insolvency resolution process costs in a manner specified by the
+Board in priority to the payment of other debts of the corporate debtor;
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+20
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+(b) provides for the payment of debts of operational creditors in such manner as may be specified by
+the Board which shall not be less than--
+
+(i) the amount to be paid to such creditors in the event of a liquidation of the corporate debtor under
+section 53; or
+
+(ii) the amount that would have been paid to such creditors, if the amount to be distributed under
+the resolution plan had been distributed in accordance with the order of priority in sub-section (1) of
+section 53, whichever is higher and provides for the payment of debts of financial creditors, who do
+not vote in favour of the resolution plan, in such manner as may be specified by the Board, which
+shall not be less than the amount to be paid to such creditors in accordance with sub-section (1) of
+section 53 in the event of a liquidation of the corporate debtor.
+
+Explanation 1.--For the removal of doubts, it is hereby clarified that a distribution in accordance
+with the provisions of this clause shall be fair and equitable to such creditors.
+
+Explanation 2.-- For the purposes of this clause, it is hereby declared that on and from the date of
+commencement of the Insolvency and Bankruptcy Code (Amendment) Act, 2019, the provisions of
+this clause shall also apply to the corporate insolvency resolution process of a corporate debtor--
+
+(i) where a resolution plan has not been approved or rejected by the Adjudicating Authority;
+
+(ii) where an appeal has been preferred under section 61 or section 62 or such an appeal is not time
+barred under any provision of law for the time being in force; or
+
+(iii) where a legal proceeding has been initiated in any court against the decision of the Adjudicating
+Authority in respect of a resolution plan;
+
+(c) provides for the management of the affairs of the Corporate debtor after approval of the
+resolution plan;
+
+(d) the implementation and supervision of the resolution plan;
+
+(e) does not contravene any of the provisions of the law for the time being in force;
+
+(f) conforms to such other requirements as may be specified by the Board.
+
+Explanation.-- For the purposes of clause
+
+(e), if any approval of shareholders is required under the Companies Act, 2013 or any other law for
+the time being in force for the implementation of actions under the resolution plan, such approval
+shall be deemed to have been given and it shall not be a contravention of that Act or law];
+(3)……………………….
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+21
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+(4) The committee of creditors may approve a resolution plan by a vote of not less than “sixty- six”
+per cent of voting share of the financial creditors, after considering its feasibility and viability, the
+manner of distribution proposed, which may take into account the order of priority amongst
+creditors as laid down in sub-section (1) of section 53, including the priority and value of the security
+interest of a secured creditor and such other requirements as may be specified by the Board:
+
+Provided …………………..
+
+(5) & (6) ……………………” Sub-section (6) of Section 30 requires the Resolution
+Professional to submit the RP as approved by the CoC to the Adjudicating Authority.
+
+16. Section 31 being important for the purpose of these appeals, the relevant part thereof is
+reproduced hereunder: -
+
+“31. Approval of Resolution Plan – (1) If the Adjudicating Authority is satisfied that
+the resolution plan as approved by the committee of creditors under sub-section (4)
+of section 30 meets the requirements as referred to in sub-section (2) of section 30, it
+shall by order approve the resolution plan which shall be binding on the corporate
+debtor and its employees, members, creditors, including the Central Government,
+any State Government or any local authority to whom a debt in respect of the
+payment of dues arising under any law for the time being in force, such as authorities
+to whom statutory dues are owed, guarantors and other stakeholders involved in the
+resolution plan.
+
+Provided that the Adjudicating Authority shall, before passing an order for approval of resolution
+plan under this sub-section, satisfy that the resolution plan has provisions for its effective
+implementation.
+
+(2) Where the Adjudicating Authority is satisfied that the resolution plan does not confirm to the
+requirements referred to in sub-section (1), it may, by an order, reject the resolution plan. (3) & (4)
+…………………………………..”
+
+17. Section 32 pertains to the Appeal to be filed from an order approving the RP in the manner and
+on the grounds laid down in sub-section (3) of Section 61.
+
+18. The jurisdiction of the Adjudicating Authority (NCLT) for corporate persons is circumscribed in
+sub-section (5) of Section 60, which reads as under:
+
+“60. Adjudicating authority for corporate persons:
+
+(1) to (4)………………….
+
+(5) Notwithstanding anything to the contrary contained in any other law for the time
+being in force, the National Company Law Tribunal shall have jurisdiction to
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+22
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+entertain or dispose of— (a) any application or proceeding by or against the corporate
+debtor or corporate person; (b) any claim made by or against the corporate debtor or
+corporate person, including claims by or against any of its subsidiaries situated in
+India;
+
+and (c) any question of priorities or any question of law or facts, arising out of or in relation to the
+insolvency resolution or liquidation proceedings of the corporate debtor or corporate person under
+this Code.
+
+(6)………………………..”
+
+19. Section 61 provides for the Appeals and Appellate Authority. The relevant part thereof is
+reproduced as under:
+
+“61. Appeals and Appellate Authority. – (1) Notwithstanding anything to the contrary
+contained under the Companies Act 2013 (18 of 2013), any person aggrieved by the
+order of the Adjudicating Authority under this part may prefer an appeal to the
+National Company Law Appellate Tribunal.
+
+(2) …………………………………… (3) An appeal against an order approving a resolution
+plan under section 31 may be filed on the following grounds, namely:
+
+(i) the approved resolution plan is in contravention of the provisions of any law for
+the time being in force;
+
+(ii) there has been material irregularity in exercise of the powers by the resolution
+professional during the corporate insolvency resolution period;
+
+(iii) the debts owed to operational creditors of the corporate debtor have not been
+provided for in the resolution plan in the manner specified by the Board;
+
+(iv) the insolvency resolution process costs have not been provided for repayment in
+priority to all other debts; or
+
+(v) the resolution plan does not comply with any other criteria specified by the Board.
+(4) & (5) …………………………………….”
+
+20. So far as Avoidance applications under Chapter-III are concerned, Section 43 pertains to the
+Application to be filed in respect of the Preferential transactions and the relevant time therefor, and
+Section 44 pertains to the orders that may be passed by the Adjudicating Authority in such
+application filed under Section 43(1). Section 45 pertains to the Application to be filed for the
+avoidance of Undervalued transactions, and Section 46 pertains to the relevant period for avoidable
+transactions. Section 47 pertains to the Application that may be filed by Creditor in cases of
+Undervalued transactions, and the orders to be passed by the Adjudicating Authority in such
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+23
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+Application. Section 48 pertains to the orders that may be passed by the Adjudicating Authority in
+cases of Undervalued transactions contemplated under sub- section (1) of Section 45, and Section 49
+pertains to the orders that may be passed by the Adjudicating Authority on being satisfied that CD
+has entered into an Undervalued transaction as referred to in sub-
+
+section (2) of Section 45. Section 50 pertains to the Application to be filed in respect of Extortionate
+Credit transactions and Section 51 pertains to the orders that may be passed by the Adjudicating
+Authority in the Application made under Section 50(1) of IBC.
+
+21. Section 66 pertaining to the “Fraudulent trading or Wrongful trading” being relevant for the
+purpose of the present Appeals, the same is reproduced hereunder:
+
+-
+
+“66. Fraudulent trading or wrongful trading. –
+
+1) If during the corporate insolvency resolution process or a liquidation process, it is
+found that any business of the corporate debtor has been carried on with intent to
+defraud creditors of the corporate debtor or for any fraudulent purpose, the
+Adjudicating Authority may on the application of the resolution professional pass an
+order that any persons who were knowingly parties to the carrying on of the business
+in such manner shall be liable to make such contributions to the assets of the
+corporate debtor as it may deem fit.
+
+(2) On an application made by a resolution professional during the corporate
+insolvency resolution process, the Adjudicating Authority may by an order direct that
+a director or partner of the corporate debtor, as the case may be, shall be liable to
+make such contribution to the assets of the corporate debtor as it may deem fit, if—
+
+(a) before the insolvency commencement date, such director or partner knew or
+ought to have known that there was no reasonable prospect of avoiding the
+commencement of a corporate insolvency resolution process in respect of such
+corporate debtor; and
+
+(b) such director or partner did not exercise due diligence in minimising the potential
+loss to the creditors of the corporate debtor. (3) Notwithstanding anything contained
+in this section, no application shall be filed by a resolution profession under
+sub-Section (2), in respect of such default against which initiation of corporate
+insolvency resolution process is suspended as per Section 10A.
+
+Explanation. — For the purposes of this section a director or partner of the corporate debtor, as the
+case may be, shall be deemed to have exercised due diligence if such diligence was reasonably
+expected of a person carrying out the same functions as are carried out by such director or partner,
+as the case may be, in relation to the corporate debtor.”
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+24
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+22. Section 67 deals with the proceedings under Section
+
+66. It reads as under: -
+
+“67. Proceedings under Section 66. – (1) Where the Adjudicating Authority has
+passed an order under sub-section (1) or sub-section (2) of section 66, as the case
+may be, it may give such further directions as it may deem appropriate for giving
+effect to the order, and in particular, the Adjudicating Authority may—
+
+(a) provide for the liability of any person under the order to be a charge on any debt
+or obligation due from the corporate debtor to him, or on any mortgage or charge or
+any interest in a mortgage or charge on assets of the corporate debtor held by or
+vested in him, or any person on his behalf, or any person claiming as assignee from
+or through the person liable or any person acting on his behalf; and
+
+(b) from time to time, make such further directions as may be necessary for enforcing
+any charge imposed under this section.
+
+Explanation. —For the purposes of this section, “assignee” includes a person to whom or in whose
+favour, by the directions of the person held liable under clause (a) the debt, obligation, mortgage or
+charge was created, issued or transferred or the interest created, but does not include an assignee
+for valuable consideration given in good faith and without notice of any of the grounds on which the
+directions have been made.
+
+(2) Where the Adjudicating Authority has passed an order under sub-section (1) or sub-section (2)
+of section 66, as the case may be, in relation to a person who is a creditor of the corporate debtor, it
+may, by an order, direct that the whole or any part of any debt owed by the corporate debtor to that
+person and any interest thereon shall rank in the order of priority of payment under section 53 after
+all other debts owed by the corporate debtor.”
+
+23. Section 238 states that the provisions of IBC shall have effect, notwithstanding anything
+inconsistent therewith contained in any other law for the time being in force or any instrument,
+having effect by virtue of any such law.
+
+24. The Insolvency and Bankruptcy Board of India (IBBI), in exercise of the powers conferred under
+Section 240 of IBC, has framed the Regulations called “The Insolvency and Bankruptcy Board of
+India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 (for short,
+Regulations, 2016) laying down a detailed procedure required to be followed for the Insolvency
+Resolution Process for Corporate Persons. Regulation 37 of the said Regulations requires the RP to
+provide for the measures, as may be necessary, for Insolvency Resolution of the CD for
+maximization of value of its assets. Regulation 38 states about the mandatory contents of the RP.
+Regulation 39 states about the procedure to be followed while approving the Plan, also prescribing
+time limit for each stage of the process. The relevant part of Regulation 39 is reproduced as under:
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+25
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+“Regulation 39- Approval of Resolution plan – (1) ………………………………….
+
+(2) The resolution professional shall submit to the committee all resolution plans
+which comply with the requirements of the Code and regulations made thereunder
+along with the details of following transactions, if any, observed, found or determined
+by him: -
+
+(a) preferential transactions under section 43;
+
+(b) undervalued transactions under section 45;
+
+(c) extortionate credit transactions under section 50; and
+
+(d) fraudulent transactions under section 66, and the orders, if any, of the
+adjudicating authority in respect of such transactions. (3) The committee shall-
+
+(a) evaluate the resolution plans received under sub-regulation (2) as per evaluation
+matrix;
+
+(b) record its deliberations on the feasibility and viability of each resolution plan; and
+
+(c) vote on all such resolution plans simultaneously.
+
+(3A) Where only one resolution plan is put to vote, it shall be considered approved if
+it receives requisite votes.
+
+(3B) …………………………….
+
+(4) The resolution professional shall endeavour to submit the resolution plan
+approved by the committee to the Adjudicating Authority at least fifteen days before
+the maximum period for completion of corporate insolvency resolution process under
+section 12, along with a compliance certificate in Form H of the Schedule and the
+evidence of receipt of performance security required under sub- regulation (4A) of
+regulation 36B. (5) to (8) ……………………………….
+
+(9) A creditor, who is aggrieved by non-
+
+implementation of a resolution plan approved under sub-section (1) of section 31, may apply to the
+Adjudicating Authority for directions.”
+
+25. The IBBI has also framed the Regulations called the IBBI (Liquidation Process) Regulations,
+2016. Since, the NCLAT has referred to Regulation 37A thereof, the same is reproduced as under:
+
+“Regulation 37A – Assignment of not readily realizable assets. –
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+26
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+1) A liquidator may assign or transfer a not readily realisable asset through a
+transparent process, in consultation with the stakeholders’ consultation committee in
+accordance with regulation 31A, for a consideration to any person, who is eligible to
+submit a resolution plan for insolvency resolution of the corporate debtor.
+
+Explanation. - For the purposes of this sub- regulation, “not readily realisable asset” means any
+asset included in the liquidation estate which could not be sold through available options and
+includes contingent or disputed assets and assets underlying proceedings for preferential,
+undervalued, extortionate credit and fraudulent transactions referred to in sections 43 to 51 and
+section 66 of the Code.”
+
+26. The Reserve Bank of India Act, 1934 (RBI Act) was enacted to regulate the issue of Bank Notes
+and for keeping reserves with a view to securing monetary stability in India and generally to operate
+the currency and credit system of the country to its advantage. The RBI is also responsible to
+operate the monetary policy framework in India. The relevant part of the provisions contained in
+Section 45-IE of RBI Act, under which the RBI had superseded the Board of Directors of DHFL and
+appointed the Administrator, is reproduced as under: -
+
+“45-IE. Supersession of Board of directors of non-banking financial company (other
+than Government Company). — (1) Where the Bank is satisfied that in the public
+interest or to prevent the affairs of a non-banking financial company being conducted
+in a manner detrimental to the interest of the depositors or creditors, or of the
+non-banking financial company (other than Government Company), or for securing
+the proper management of such company or for financial stability, it is necessary so
+to do, the Bank may, for reasons to be recorded in writing, by order, supersede the
+Board of Directors of such company for a period not exceeding five years as may be
+specified in the order, which may be extended from time to time, so, however, that
+the total period shall not exceed five years.
+
+(2) The Bank may, on supersession of the Board of Directors of the non-banking
+financial company under sub-section (1), appoint a suitable person as the
+Administrator for such period as it may determine.
+
+(3) to (9)……………………..”
+
+27. Section 45 (QA) of RBI Act having been relied upon, the same is reproduced as under:
+
+“45QA. Power of Company Law Board to order repayment of deposit. — (1) Every
+deposit accepted by a non-banking financial company, unless renewed, shall be
+repaid in accordance with the terms and condition of such deposit.
+
+(2) Where a non-banking financial company has failed to repay and deposit or part
+thereof in accordance with the terms and conditions of such deposit, the Company
+Law Board constituted under section 10E of the Companies Act, 1956 (1 of 1956),
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+27
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+may, if it is satisfied, either on its own motion or on an application of the depositor,
+that it is necessary so to do to safeguard the interests of the company, the depositors
+or in the public interest, direct, by order, the non-banking financial company to make
+repayment of such deposit or part thereof forthwith or within such time and subject
+to such conditions as may be specified in the order:
+
+Provided that the Company Law Board may, before making any order under this
+sub-section, give a reasonable opportunity of being heard to the non-banking
+financial company and the other persons interested in the matter.”
+
+28. The NHB Act has been enacted to establish a Bank to be known as the National Housing Bank to
+operate as a principal agency to promote housing finance institutions, both at local and regional
+levels and to provide financial and other support to such institutions and for matters connected
+therewith or incidental thereto. Section 36(A) of NHB Act having been relied upon, the same is also
+reproduced for ready reference:
+
+“36A. Power to order repayment of deposit. — (1) Every deposit accepted by a
+housing finance institution which is a company unless renewed, shall be repaid in
+accordance with the terms and conditions of such deposit.
+
+(2) Where a housing finance institution which is a company has failed to repay any
+deposit or part thereof in accordance with the terms and conditions of such deposit,
+such officer of the National Housing Bank, as may be authorised by the Central
+Government for the purpose of this section (hereinafter referred to as the "authorised
+officer") may, if he is satisfied, either on his own motion or on any application of the
+depositor, that it is necessary so to do to safeguard the interests of the housing
+finance institution, the depositors or in the public interest, direct, by order, such
+housing finance institution to make repayment of such deposit or part thereof
+forthwith or within such time and subject to such conditions as may be specified in
+the order:
+
+Provided that the authorised officer may, before making any order under this
+sub-section, give a reasonable opportunity of being heard to the housing finance
+institution and the other persons interested in the matter.” (V) SCOPE OF JUDICIAL
+REVIEW: -
+
+29. Before adverting to the issues involved in these Appeals, let us examine the scope of judicial
+review by the NCLT under Section 31 and the scope of judicial review by NCLAT under Section 61 of
+IBC.
+
+30. From the bare perusal of the Statement of Objects and Reasons, it is discernible that one of the
+prime objects of IBC is to provide for implementation of the Insolvency Resolution Process in a time
+bound manner for maximization of value of assets in order to balance the interests of the
+stakeholders. The Legislature in order to fill up critical gaps in the corporate insolvency framework,
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+28
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+had made amendments in certain provisions by Act of 26 of 2019, making the RP approved by the
+Adjudicating Authority binding on the Central Government, any State Government or local
+authority to whom a debt is owned in respect of payment of dues arising under any law for the time
+being in force.
+
+31. If one glances through the scheme of the IBC, its purpose is also explicitly spelt out from the
+various provisions of the Act itself. The role and importance of the CoC have been stated in Section
+21, the duties of the Resolution Professional in Section 25, the approval of RP by the Adjudicating
+Authority in Section 31. Certain mandates have been given in Section 31 for the effective
+implementation of the RP, as approved by the CoC. The said requirements are
+
+(i) the RP must be approved by the CoC by a vote of not less than 66% of voting share of the
+financial creditors, as contemplated in sub-section (4) of Section 30. (ii) the RP submitted by the
+Resolution Professional must confirm the requirements of sub- section (2) of Section 30. The
+mandatory contents of the RP have also been stated in Regulation 38 of the Regulations, 2016. Thus,
+having regard to Section 31, it is clear that the Adjudicating Authority i.e. NCLT, if it is satisfied that
+the RP as approved by the CoC under sub-section (4) of Section 30 meets the requirements as
+referred to in sub-section (2) of Section 30, it shall by an order approve the RP, which shall be
+binding on all the stakeholders. The Adjudicating Authority can reject the RP under sub-section (2)
+of Section 31, where it is satisfied that the RP does not confirm to the requirements referred to in
+sub-section (1) thereof.
+
+32. At this juncture, it is also necessary to refer to Section 61 which deals with the grounds on which
+Appeals could be preferred before the Appellate Authority i.e. NCLAT against the order approving
+the RP under Section 31 by the NCLT. As per sub-section (3) of Section 61, an appeal against an
+order of approving the RP under Section 31 could be filed on one of the five grounds mentioned
+therein. One of the grounds on which an Appeal could be filed is, when the approval of RP by the
+NCLT is in contravention of the provisions of any law for the time being in force. Another ground is,
+when there has been material irregularity in exercise of the powers by the Resolution Professional
+during the Corporate Insolvency Resolution period. There are other three grounds with which we
+are not concerned in the present set of Appeals. Suffice it to say that there are specific grounds
+mentioned in the sub-section (3) for preferring of an Appeal before the NCLAT under Section 61 of
+the Code. Thus, the powers to be exercised by the NCLAT under Section 61, have also been
+specifically confined to the grounds mentioned therein.
+
+33. The reasons for circumscribing the powers of NCLT under Section 31 in approving/rejecting the
+RP approved by the CoC and of the NCLAT under Section 61 in entertaining the Appeals arising out
+of the orders passed by the NCLT approving the RP on limited grounds are not far to be culled out.
+The very prominent purpose of the IBC has been spelt out in the long title of the Act itself, which is
+to promote entrepreneurship, availability of credit and balance the interest of all the stakeholders in
+the CIRP proceedings in a time bound manner. This Court in catena of decisions has dealt with the
+dominant purpose and objectives of enacting the IBC, while examining the scope of judicial review
+by the NCLT and the NCLAT over the commercial wisdom exercised by the CoC.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+29
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+34. In Arcelormittal India Private Limited vs. Satish Kumar Gupta and Others,7 this Court had
+elaborately adverted to the legislative history and delineated the broad contours of the provisions of
+the IBC, from which it could be seen that the commercial wisdom of CoC has been given prominent
+status without any judicial intervention, for ensuring the completion of Resolution Process within
+the timelines prescribed by the IBC. It is also required to be noted that there is a mandate of
+completing the Resolution Process within 270 days (outer limit), failing which an initiation of
+Liquidation process has been made inevitable. This Court in the said judgment after discussing the
+scheme of the Act, and also the earlier judgments, emphasized on the prescription of time- limit for
+the completion of Insolvency process. Paragraph 75 of the said judgment being relevant is
+reproduced hereunder: -
+
+“75. In fact, even the literal language of Section 12(1) makes it clear that the provision
+must read as being mandatory. The expression “shall be completed” is used. Further,
+sub-section (3) makes it clear that the duration of 180 days may be extended further
+“but not exceeding 90 days”, making it clear that a maximum of 270 days is laid down
+statutorily. Also, the proviso to 7 (2019) 2 SCC 1 Section 12 makes it clear that the
+extension “shall not be granted more than once.”
+
+35. In K. Sashidhar vs. Indian Overseas Bank and Others (supra), this Court dealt with the
+discretion of the Adjudicating Authority (NCLT) and the jurisdiction of the NCLAT as an Appellate
+Authority and held as under: -
+
+“55. Whereas, the discretion of the adjudicating authority (NCLT) is circumscribed by
+Section 31 limited to scrutiny of the resolution plan “as approved” by the requisite per
+cent of voting share of financial creditors. Even in that enquiry, the grounds on which
+the adjudicating authority can reject the resolution plan is in reference to matters
+specified in Section 30(2), when the resolution plan does not conform to the stated
+requirements. Reverting to Section 30(2), the enquiry to be done is in respect of
+whether the resolution plan provides : (i) the payment of insolvency resolution
+process costs in a specified manner in priority to the repayment of other debts of the
+corporate debtor, (ii) the repayment of the debts of operational creditors in
+prescribed manner, (iii) the management of the affairs of the corporate debtor, (iv)
+the implementation and supervision of the resolution plan, (v) does not contravene
+any of the provisions of the law for the time being in force, (vi) conforms to such
+other requirements as may be specified by the Board. The Board referred to is
+established under Section 188 of the I&B Code. The powers and functions of the
+Board have been delineated in Section 196 of the I&B Code. None of the specified
+functions of the Board, directly or indirectly, pertain to regulating the manner in
+which the financial creditors ought to or ought not to exercise their commercial
+wisdom during the voting on the resolution plan under Section 30(4) of the I&B
+Code. The subjective satisfaction of the financial creditors at the time of voting is
+bound to be a mixed baggage of variety of factors. To wit, the feasibility and viability
+of the proposed resolution plan and including their perceptions about the general
+capability of the resolution applicant to translate the projected plan into a reality. The
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+30
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+resolution applicant may have given projections backed by normative data but still in
+the opinion of the dissenting financial creditors, it would not be free from being
+speculative. These aspects are completely within the domain of the financial creditors
+who are called upon to vote on the resolution plan under Section 30(4) of the I&B
+Code.
+
+56. ...........
+
+57. On a bare reading of the provisions of the I&B Code, it would appear that the
+remedy of appeal under Section 61(1) is against an “order passed by the adjudicating
+authority (NCLT)”, which we will assume may also pertain to recording of the fact
+that the proposed resolution plan has been rejected or not approved by a vote of not
+less than 75% of voting share of the financial creditors.
+
+Indubitably, the remedy of appeal including the width of jurisdiction of the appellate authority and
+the grounds of appeal, is a creature of statute. The provisions investing jurisdiction and authority in
+NCLT or Nclat as noticed earlier, have not made the commercial decision exercised by CoC of not
+approving the resolution plan or rejecting the same, justiciable. This position is reinforced from the
+limited grounds specified for instituting an appeal that too against an order “approving a resolution
+plan” under Section 31. First, that the approved resolution plan is in contravention of the provisions
+of any law for the time being in force. Second, there has been material irregularity in exercise of
+powers “by the resolution professional” during the corporate insolvency resolution period. Third,
+the debts owed to operational creditors have not been provided for in the resolution plan in the
+prescribed manner. Fourth, the insolvency resolution plan costs have not been provided for
+repayment in priority to all other debts. Fifth, the resolution plan does not comply with any other
+criteria specified by the Board. Significantly, the matters or grounds—be it under Section 30(2) or
+under Section 61(3) of the I&B Code—are regarding testing the validity of the “approved” resolution
+plan by CoC; and not for approving the resolution plan which has been disapproved or deemed to
+have been rejected by CoC in exercise of its business decision.
+
+58. Indubitably, the inquiry in such an appeal would be limited to the power exercisable by the
+resolution professional under Section 30(2) of the I&B Code or, at best, by the adjudicating
+authority (NCLT) under Section 31(2) read with Section 31(1) of the I&B Code. No other inquiry
+would be permissible. Further, the jurisdiction bestowed upon the appellate authority (Nclat) is also
+expressly circumscribed. It can examine the challenge only in relation to the grounds specified in
+Section 61(3) of the I&B Code, which is limited to matters “other than” enquiry into the autonomy or
+commercial wisdom of the dissenting financial creditors. Thus, the prescribed authorities
+(NCLT/NCLAT) have been endowed with limited jurisdiction as specified in the I&B Code and not
+to act as a court of equity or exercise plenary powers.”
+
+36. In Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta and Others
+(supra), a Three-Judge Bench discussed in detail the issues pertaining to the role of Resolution
+Professionals, CoCs, and the jurisdiction of NCLT and NCLAT and observed as under: -
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+31
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+“64. Thus, what is left to the majority decision of the Committee of Creditors is the
+“feasibility and viability” of a resolution plan, which obviously takes into account all
+aspects of the plan, including the manner of distribution of funds among the various
+classes of creditors. As an example, take the case of a resolution plan which does not
+provide for payment of electricity dues. It is certainly open to the Committee of
+Creditors to suggest a modification to the prospective resolution applicant to the
+effect that such dues ought to be paid in full, so that the carrying on of the business of
+the corporate debtor does not become impossible for want of a most basic and
+essential element for the carrying on of such business, namely, electricity. This may,
+in turn, be accepted by the resolution applicant with a consequent modification as to
+distribution of funds, payment being provided to a certain type of operational
+creditor, namely, the electricity distribution company, out of upfront payment offered
+by the proposed resolution applicant which may also result in a consequent reduction
+of amounts payable to other financial and operational creditors. What is important is
+that it is the commercial wisdom of this majority of creditors which is to determine,
+through negotiation with the prospective resolution applicant, as to how and in what
+manner the corporate resolution process is to take place.”
+
+37. On the issue of jurisdiction of the Adjudicating Authority i.e. NCLT and the Appellate Tribunal
+i.e. NCLAT, it was held in Essar Steel (supra) as under:-
+
+“Jurisdiction of the Adjudicating Authority and the Appellate Tribunal
+
+65. As has already been seen hereinabove, it is the Adjudicating Authority which first
+admits an application by a financial or operational creditor, or by the corporate
+debtor itself under Sections 7, 9 and 10 of the Code. Once this is done, within the
+parameters fixed by the Code, and as expounded upon by our judgments in
+Innoventive Industries Ltd. v. Icici Bank [Innoventive Industries Ltd. v. Icici Bank,
+(2018) 1 SCC 407 : (2018) 1 SCC (Civ) 356] and Macquarie Bank Ltd. v. Shilpi Cable
+Technologies Ltd. [Macquarie Bank Ltd. v. Shilpi Cable Technologies Ltd., (2018) 2
+SCC 674 : (2018) 2 SCC (Civ) 288] , the Adjudicating Authority then appoints an
+interim resolution professional who takes administrative decisions as to the day to
+day running of the corporate debtor; collation of claims and their admissions; and the
+calling for resolution plans in the manner stated above.
+
+After a resolution plan is approved by the requisite majority of the Committee of Creditors, the
+aforesaid plan must then pass muster of the Adjudicating Authority under Section 31(1) of the Code.
+The Adjudicating Authority's jurisdiction is circumscribed by Section 30(2) of the Code. In this
+context, the decision of this Court in K. Sashidhar [K. Sashidhar v. Indian Overseas Bank, (2019) 12
+SCC 150: (2019) 4 SCC (Civ) 222] is of great relevance.
+
+66. ................
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+32
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+67. …..Thus, it is clear that the limited judicial review available, which can in no circumstance
+trespass upon a business decision of the majority of the Committee of Creditors, has to be within the
+four corners of Section 30(2) of the Code, insofar as the Adjudicating Authority is concerned, and
+Section 32 read with Section 61(3) of the Code, insofar as the Appellate Tribunal is concerned, the
+parameters of such review having been clearly laid down in K. Sashidhar.
+
+68. ……….
+
+69. It will be noticed that the non obstante clause of Section 60(5) speaks of any other law for the
+time being in force, which obviously cannot include the provisions of the Code itself. Secondly,
+Section 60(5)(c) is in the nature of a residuary jurisdiction vested in NCLT so that NCLT may decide
+all questions of law or fact arising out of or in relation to insolvency resolution or liquidation under
+the Code. Such residual jurisdiction does not in any manner impact Section 30(2) of the Code which
+circumscribes the jurisdiction of the Adjudicating Authority when it comes to the confirmation of a
+resolution plan, as has been mandated by Section 31(1) of the Code. A harmonious reading,
+therefore, of Section 31(1) and Section 60(5) of the Code would lead to the result that the residual
+jurisdiction of NCLT under Section 60(5)(c) cannot, in any manner, whittle down Section 31(1) of
+the Code, by the investment of some discretionary or equity jurisdiction in the Adjudicating
+Authority outside Section 30(2) of the Code, when it comes to a resolution plan being adjudicated
+upon by the Adjudicating Authority. This argument also must needs be rejected.”
+
+38. The Court also considered the amendment to Section 30(4) i.e. fourth proviso which was added
+to sub-section (4) which came into force from 23.11.2017, and observed as under: -
+
+“68. Suffice it to observe that the amended provision merely restates as to what the
+financial creditors are expected to bear in mind whilst expressing their choice during
+consideration of the proposal for approval of a resolution plan. No more and no less.
+Indubitably, the legislature has consciously not provided for a ground to challenge
+the justness of the “commercial decision” expressed by the financial creditors—be it
+to approve or reject the resolution plan. The opinion so expressed by voting is
+non-justiciable. Further, in the present cases, there is nothing to indicate as to which
+other requirements specified by the Board at the relevant time have not been fulfilled
+by the dissenting financial creditors. As noted earlier, the Board established under
+Section 188 of the I&B Code can perform powers and functions specified in Section
+196 of the I&B Code. That does not empower the Board to specify requirements for
+exercising commercial decisions by the financial creditors in the matters of approval
+of the resolution plan or liquidation process. Viewed thus, the amendment under
+consideration does not take the matter any further.”
+
+39. Again, a Three-Judge bench in Ghanashyam Mishra and Sons Private Limited
+through the Authorised Signatory vs. Edelweiss Asset Reconstruction Company
+Limited through the Director and Others,8 examined the legislative intent of making
+the RP binding on all the Stakeholders after it gets seal of approval from the
+Adjudicating Authority, and observed as under: -
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+33
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+“64. It could thus be seen, that the legislature has given paramount importance to the
+commercial wisdom of CoC and the scope of judicial review by adjudicating authority
+is limited to the extent provided under Section 31 of the I&B Code and of the
+appellate authority is limited to the extent provided under sub-section (3) of Section
+61 of the I&B Code, is no more res integra.
+
+65. Bare reading of Section 31 of the I&B Code would also make it abundantly clear that once the
+resolution plan is approved by the adjudicating authority, after it is satisfied, that the resolution plan
+as approved by CoC meets the requirements as referred to in sub-section (2) of Section 30, it shall
+be binding on the corporate debtor and its employees, members, creditors, guarantors and other
+stakeholders. Such a provision is necessitated since one of the dominant purposes of the I&B Code is
+revival of the corporate debtor and to make it a running concern.”
+
+40. Recently, this Court in Ebix Singapore Private Limited vs. Committee of Creditors of Educomp
+Solutions Limited and Another,9 reiterating that the Adjudicating Authority is prohibited from
+second-
+
+8 (2021) 9 SCC 657 9 (2022) 2 SCC 401 guessing the commercial wisdom of the parties or directing
+unilateral modification to the RPs, as held in Essar Steel (supra) and K. Sashidhar (supra), further
+held as under-
+
+“157. These are binding precedents. Absent a clear legislative provision, this Court will not, by a
+process of interpretation, confer on the adjudicating authority a power to direct an unwilling CoC to
+renegotiate a submitted resolution plan or agree to its withdrawal, at the behest of the resolution
+applicant. The adjudicating authority can only direct the CoC to re-consider certain elements of the
+resolution plan to ensure compliance under Section 30(2) IBC, before exercising its powers of
+approval or rejection, as the case may be, under Section 31 [Essar Steel (India) Ltd. (CoC) v. Satish
+Kumar Gupta, (2020) 8 SCC 531, para 73 : (2021) 2 SCC (Civ) 443] . In State of A.P. v. P. Laxmi Devi
+[State of A.P. v. P. Laxmi Devi, (2008) 4 SCC 720], while determining the constitutionality of a
+statute, this Court observed that it should be wary of transgressing into the domain of the
+legislature, especially in matters relating to economic and regulatory legislation. This Court
+observed : (P. Laxmi Devi case [State of A.P. v. P. Laxmi Devi, (2008) 4 SCC 720] “80. … As regards
+economic and other regulatory legislation judicial restraint must be observed by the court and
+greater latitude must be given to the legislature while adjudging the constitutionality of the statute
+because the court does not consist of economic or administrative experts. It has no expertise in these
+matters, and in this age of specialisation when policies have to be laid down with great care after
+consulting the specialists in the field, it will be wholly unwise for the court to encroach into the
+domain of the executive or legislative (sic legislature) and try to enforce its own views and
+perceptions.”
+
+158. Judicial restraint must not only be exercised while adjudicating upon the constitutionality of
+the statute relating to economic policy but also in matters of interpretation of economic statutes,
+where the interpretative manoeuvres of the Court have an effect of transgressing into the
+law-making power of the legislature and disturbing the delicate balance of separation of powers
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+34
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+between the legislature and the judiciary. Judicial restraint must be exercised in such cases as a
+matter of prudence, since the court neither has the necessary expertise nor the power to hold
+consultations with stakeholders or experts to decide the direction of economic policy. A court may
+be inept in laying down a detailed procedure for exercise of the power of withdrawal or modification
+by a successful resolution applicant without impacting the other procedural steps and the timelines
+under IBC which are sacrosanct. Thus, judicial restraint must be exercised while intervening in a law
+governing substantive outcomes through procedure, such as IBC. In this case, if resolution
+applicants are permitted to seek modifications after subsequent negotiations or a withdrawal after a
+submission of a resolution plan to the adjudicating authority as a matter of law, it would dictate the
+commercial wisdom and bargaining strategies of all prospective resolution applicants who are
+seeking to participate in the process and the successful resolution applicants who may wish to
+negotiate a better deal, owing to myriad factors that are peculiar to their own case. The broader
+legitimacy of this course of action can be decided by the legislature alone, since any other course of
+action would result in a flurry of litigation which would cause the delay that IBC seeks to disavow.”
+
+41. What is “commercial wisdom” of CoC has been very aptly put by this Court in a latest decision in
+M.K. Rajagopalan vs. Dr. Periasamy Palani Gounder and Another (supra), which is worth
+reproducing: -
+
+“160. As noticed hereinbefore, commercial wisdom of CoC is given such a status of
+primacy that the same is considered rather a matter non- justiciable in any
+adjudicatory process, be it by the adjudicating authority or even by this Court.
+However, the commercial wisdom of CoC means a considered decision taken by CoC
+with reference to the commercial interests and the interest of revival of the corporate
+debtor and maximisation of value of its assets. This wisdom is not a matter of
+rhetoric but is denoting a well- considered decision by the protagonist of CIRP i.e.
+CoC. As observed by this Court in K. Sashidhar [K. Sashidhar v. Indian Overseas
+Bank, (2019) 12 SCC 150 : (2019) 4 SCC (Civ) 222] , the financial creditors forming
+CoC “act on the basis of thorough examination of the proposed resolution plan and
+assessment made by their team of experts. The opinion on the subject-matter
+expressed by them after due deliberations in CoC meetings through voting, as per
+voting shares, is a collective business decision.” This Court also observed in K.
+Sashidhar [K. Sashidhar v. Indian Overseas Bank, (2019) 12 SCC 150 : (2019) 4 SCC
+(Civ) 222] that “[t]here is an intrinsic assumption that financial creditors are fully
+informed about the viability of the corporate debtor and feasibility of the proposed
+resolution plan.”
+
+161. These observations read with the observations in Essar Steel [Essar Steel India
+Ltd. (CoC) v. Satish Kumar Gupta, (2020) 8 SCC 531 : (2021) 2 SCC (Civ) 443] with
+reference to the reasons stated in the Report of Bankruptcy Law Reforms Committee
+of November 2015, make it clear that commercial wisdom of CoC is assigned primacy
+in CIRP for it represents collective business decision, which is arrived at after
+thorough examination of the proposed resolution plan and assessment made with
+involvement of experts by the body of persons who are most vitally interested in
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+35
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+rapid and efficient decision making. It follows as a necessary corollary that to be
+worth its name, the commercial wisdom of CoC would come into existence and
+operation only when all the relevant information is available before it and is duly
+deliberated upon by all its members, who have direct and substantial interest in the
+survival of corporate debtor and in the entire CIRP.
+
+162. In light of the aforesaid position of law and its operation in relation to the
+decision-making process of CoC, it needs hardly any emphasis that each and every
+aspect relating to the resolution plan, and more particularly its financial layout, has
+to be before the CoC before it could be said to have arrived at a considered decision in
+its commercial wisdom.”
+
+42. In view of the above legal position settled by this Court in the fleet of judgments, it is no more
+res integra that the legislature has given paramount importance to the “commercial wisdom” of CoC,
+and that the scope of the judicial review by the Adjudicating Authority (NCLT) is limited to the
+extent provided under Section 31, and that of the Appellate Authority (NCLAT) is limited to the
+extent provided under sub-section (3) of Section 61 of the IBC. After a RP is approved by the
+requisite majority of the CoC, it must pass the muster of Adjudicating Authority under Section 31(1)
+of the IBC. Section 31 also makes it abundantly clear that once the RP is approved by the
+Adjudicating Authority, after it is satisfied that the RP as approved by the CoC meets the
+requirements as referred to in sub-section (2) of Section 30, it shall be binding on the CD and its
+employees, members, creditors, guarantors and stakeholders. The legislature has consciously not
+provided for a ground to challenge the justness of the “commercial decision” taken by the Financial
+Creditors, because one of the dominant purposes of the IBC is revival of the CD and to make it a
+running concern.
+
+43. While considering the feasibility and viability of the Prospective Resolution Plans, the CoC can
+always suggest a modification therein and exercise its commercial wisdom. However, once the RP is
+approved by the requisite majority of CoC, and when such RP is placed before the Adjudicating
+Authority for its approval under Section 31, the Adjudicating Authority has to only see whether such
+RP as approved by the CoC meets the requirements as referred to in Section 30(2). It is only where
+the Adjudicating Authority is satisfied that the RP does not confirm to the requirements of
+sub-section (1) of Section 31, it may by an order reject the RP. It is true that the NCLT has to decide
+all the questions on law or fact arising out of or in relation to the insolvency resolution or liquidation
+under the residuary jurisdiction vested in NCLT under Section 60(5), however as held in Essar Steel
+(supra), such residual jurisdiction does not in any manner impact Section 30(2) of the Code, which
+circumscribes the jurisdiction of the Adjudicating Authority, when it comes to the confirmation of
+RP, as has been mandated by Section 31(1) of the Code.
+
+44. Similarly, the scope of interference by the Appellate Authority i.e., NCLAT under Section 61 in
+the Appeals arising out of the order approving a RP under Section 31, is also very limited and
+restricted to the specific grounds mentioned in sub-section (3) of Section 61. The grounds for filing
+Appeal under Section 61 have to be confined to sub-section (3) thereof.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+36
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+45. Keeping in view the above settled legal position, let us deal with the three categories of Appeals
+separately.
+
+(VI) ANALYSIS IN THE FIRST CATEGORY OF APPEALS: -
+
+46. In the First category of Appeals, the impugned order dated 27.01.2022 passed by the NCLAT, in
+the Company Appeal Nos. 454-455 and 750 of 2021, in relation to the treatment of recoveries from
+the Avoidance applications provided in the RP submitted by the SRA - Piramal Capital, is under
+challenge. As stated earlier, the C.A. Nos.1632-1634 of 2022 have been filed by the SRA - Piramal
+Capital, and C.A. Nos.2989-2991 of 2022 have been filed by the Union of India, challenging the
+impugned judgment to the extent the NCLAT modified the RP and the C.A. Nos. 3694-3695 of 2022
+have been filed by the 63 Moons to the extent the NCLAT sent back the RP to CoC for
+reconsideration. The NCLAT vide the said impugned order has set aside the term in the RP that
+permitted the SRA to appropriate recoveries if any, from Avoidance applications filed upon Section
+66 of the IBC, and sent back the RP to CoC for reconsideration on that aspect.
+
+47. The NCLAT treating the Appeals at the instance of 63 Moons as maintainable under Section
+61(3) of IBC, observed as under:
+
+“9.113 The appellants, aggrieved persons on account of illegalities perpetrated in the
+approved Resolution Plan, have preferred these appeals, requiring adjudication on an
+important question of law. Accordingly, these appeals have duly urged the requisite
+ground for Section 61 (3) of the Code.
+
+9.114 Providing the benefit of the outcome of avoidance applications to the
+Resolution Applicant results in unjust enrichment of Respondent No. 2/RA at the
+expense of all the creditors of the Corporate Debtor. Moreover, the same is vitiated by
+illegalities and material irregularities, and the same could not have been cured on the
+pretext of the commercial wisdom of CoC.”
+
+48. The NCLAT in the impugned judgment, while acknowledging the proposition that the
+commercial wisdom of the CoC is supreme so far as commercial aspects of the RP is concerned, held
+that the said principle is not applicable to the present facts where the issue of illegality has been
+raised. According to the NCLAT, the depositors of DHFL are the rightful beneficiaries, if not owners,
+of the monies that have been siphoned off by the Promoters/Directors of the CD. The NCLAT
+thereafter taking resort to Regulation 37A of IBBI (Liquidation Process) Regulations, 2016,
+observed as under:
+
+“9.109 Regulation 37A of the IBBI (Liquidation Process) Regulations, 2016 (the
+"Liquidation Process Regulations"), which empowers a Liquidator to assign or
+transfer a not readily realizable asset during the liquidation of a Corporate Debtor.
+The conspicuous absence of a similar provision in the CIRP Regulations, which
+permits assignment or transfer of recoveries from avoidance transactions to a
+resolution applicant, supports the case of the Appellant that such recoveries cannot
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+37
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+be transferred to a resolution applicant in the CIRP process, which is qualitatively
+different and distinct from the liquidation process.”
+
+49. Ultimately, the NCLAT concluded in Para 16-19 as under: -
+
+“16. Therefore, before approving the Resolution Plan, the Adjudicating Authority was
+obligated to test the Resolution Plan in terms of Section 30 (2) of the Code. In the
+instant case, the Administrator referred the matter to CoC to decide on the
+applicability of the Venus judgement of Delhi High Court in providing the outcome of
+avoidance transactions to the Successful Resolution Applicant. Adjudicatory power
+could not have been delegated to the CoC. The Adjudicating Authority has not taken
+any decision about the applicability of the Venus judgement on the issue of providing
+the outcome of avoidance transaction to the resolution applicant. The Adjudicating
+Authority has stated that "as far as the claims of avoidance transactions, CoC has
+consciously decided that the money realised through these avoidance transactions
+would accrue to the members of the CoC. At the same time, they have also
+consciously decided after a lot of deliberations negotiations that money realised if any
+under Section 66 of the IBC, i.e. fraud and fraudulent transactions, CoC has ascribed
+the value of lNR one and if any positive money recovery the same would go to the
+Resolution Applicant of the Corporate Debtor." Therefore, it cannot be considered
+the findings of the Adjudicating Authority. The CoC was not empowered to exercise
+such Adjudicatory power and decide. Insolvency Law Committee Report, 2020,
+specifically provides that the key aim of providing certain transactions is to avoid
+unjust enrichment of some parties in the insolvency at the cost of all creditors. The
+underlying policy of such a proceeding is to prevent unjust enrichment of one party at
+the expense of other creditors. Thus, factual factors such as the kind of transactions
+being provided, party funding the action, assignment of claims, and creditors affected
+by transaction or trading may be considered when deciding on the distribution of
+recoveries. Thus, it was recommended that instead of providing anything prescriptive
+in this regard, the decision on the treatment of recoveries might be left to the
+adjudicating authority.
+
+17. Accordingly, the Adjudicating Authority should have decided whether the recoveries vested with
+the corporate debtor should be applied for the benefit of creditors of the corporate debtor, the
+successful resolution applicant or other stakeholders. In arriving at this decision, the Adjudicating
+Authority may take note of the facts and circumstances of the case and other listed factors.
+
+18. The Respondents have also argued that the possibility of recovering monies from avoidance
+transactions is very low. However, the amount of the actual recovery that may be made in the future
+is entirely irrelevant. Since Respondent No. 2 has ascribed a value of lNR 1 to the avoidance
+transactions, Respondent No. 2 has not factored in the avoidance transactions in the Resolution
+Plan amount. Moreover, there is no material on record to suggest that the avoidance transactions
+have been factored in Respondent No. 2 's Resolution Plan. Therefore, the oral contention of the
+Respondents that the avoidance transactions have been factored in the Resolution Plan amount is
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+38
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+unsupported and not borne out from the material on record.
+
+19. Therefore, the present appeals ought to be allowed. The term in the Resolution Plan that permits
+the Successful Resolution Applicant to appropriate recoveries, if any, from avoidance applications
+filed under Section 66 of the Code ought to be set aside. The Resolution Plan be sent back to the CoC
+for reconsideration on this aspect.”
+
+(i) QUESTIONS:
+
+50. Having regard to the submissions made by the learned counsels for the parties,
+and to the findings arrived at by the NCLAT in the impugned order, the main
+question that falls for consideration before this Court is-
+
+“Whether the RP in question approved by the CoC and the NCLT was in contravention of the
+provisions of any law, for the time being in force, requiring the NCLAT to exercise its jurisdiction
+under Section 61 of the IBC?”
+
+51. The ancillary questions to the main question would be-
+
+(i) What are the Applications for Avoidance of transactions required to be filed by the Resolution
+Professional in accordance with Chapter III, and what are the Applications in respect of Fraudulent
+trading or Wrongful trading required to be filed by the Resolution Professional under Section 66 of
+the IBC?
+
+(ii) What are the mandatory requirements as referred in sub-section (2) of Section 30 read with
+Regulation 38 of the Regulations, 2016?
+
+(iii) What is maximization of the value of assets of the Corporate Debtor?
+
+(iv) Whether the NCLAT should have entertained the Appeals of the 63 Moons under Section 61 of
+the Code and interfered with the commercial wisdom exercised by the CoC?
+
+52. In our opinion, the cumulative answers of the ancillary questions would answer the main
+question. Therefore, let us first of all examine as to what are the Applications required to be filed by
+the Resolution Professional, popularly known as the Avoidance Applications?
+
+(ii) AVOIDANCE APPLICATIONS: -
+
+53. One of the duties statutorily cast upon the Resolution Professional in Clause (j) of sub-section
+(2) of Section 25 of the Code is that the Resolution Professional shall file application for Avoidance
+of transactions in accordance with Chapter III, if any. Having regard to the said Chapter III, which
+pertains to “Liquidation Process,” it appears that there are three types of Applications that could be
+filed by the Resolution Professional for avoidance transactions.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+39
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+(i) Application for avoidance of Preferential transactions under Section 43,
+
+(ii) Application for avoidance of Undervalued transactions under Section 45 and
+
+(iii) Application for avoidance of Extortionate Credit transactions under Section 50.
+
+54. Section 26 specifically states that the filing of an Avoidance Application under Clause (j) of sub-
+section (2) of Section 25 by the Resolution Professional shall not affect the proceedings of CIRP.
+Meaning thereby, irrespective of the pendency of the Avoidance Applications filed by the Resolution
+Professional, the CIRP Proceedings could be proceeded further.
+
+55. So far as Section 66 is concerned, the same falls under Chapter VI and it pertains to the
+“Fraudulent trading or Wrongful trading.” Sub-section 1 of Section 66 provides that if during the
+CIRP or a Liquidation process, it is found that any business of the CD has been carried on with
+intent to defraud creditors of the CD or for any fraudulent purpose, the Adjudicating Authority may
+on the application of the Resolution Professional, pass an order that any persons who were
+knowingly parties to the carrying on of the business in such manner, shall be liable to make such
+contributions to the assets of the CD, as it may deem fit. From the bare reading of Section 66(1), it is
+very much discernible that the said provision pertains to the “Fraudulent trading or Wrongful
+trading” in respect of the business of the CD.
+
+56. Thus, there is a clear distinction between the Avoidance Applications that may be filed by the
+Resolution Professional in view of Section 25(2)(j), for avoidance of transactions in accordance with
+Chapter III of the Code, and the Applications that may be filed by the Resolution Professional in
+respect of the Fraudulent trading or Wrongful trading under Section 66, which falls under Chapter
+VI of the Code. The legislature has consciously kept the Applications in respect of Fraudulent
+trading or Wrongful trading falling in Chapter VI, outside the purview of Section 25(2), which
+requires the Resolution Professional to undertake the actions and file applications for the avoidance
+of transactions in accordance with Chapter III. Both, the Avoidance Applications under Chapter III
+and the Applications in respect of Fraudulent trading or Wrongful trading under Chapter VI,
+operate in different situations. The powers of the Adjudicating Authority in respect of the Avoidance
+Applications filed under Chapter III and the powers of the Adjudicating Authority in respect of the
+Applications pertaining to the Fraudulent and Wrongful trading filed under Chapter VI, have also
+been separately circumscribed.
+
+57. In the cases of Preferential transactions as contemplated in Section 43, the Resolution
+Professional may file an Application, when he is of the opinion that the CD, at a relevant time, had
+given a preference in such transactions, and in such manner as laid down in sub-section (2), to any
+persons as referred to in sub-section 4 of Section 43. The Adjudicating Authority may pass any of
+the orders as specified in Clauses (a) to (g) of Section 44, in such Application filed by the Resolution
+Professional under Section 43(1).
+
+58. Similarly, in the cases of Undervalued transactions as contemplated in Section 45, the
+Resolution Professional may file an Avoidance Application if he determines that certain transactions
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+40
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+were made during the relevant period prescribed under Section 46 which were undervalued. In such
+applications, the Resolution Professional may pray to declare such transactions as void and to
+reverse the effect of such transaction in accordance with Chapter III. The Adjudicating Authority
+may pass any of the orders specified in Clauses (a) to (d) of Section 48 in such Application filed
+under Section 45(1). He may also pass orders specified in Clause (i) and (ii) of Section 49, in respect
+of the Undervalued transactions referred to in Section 45(2).
+
+59. In case of Extortionate Credit transactions, as contemplated in Section 50, the Resolution
+Professional may file Avoidance Application, where the CD had been a party to an Extortionate
+Credit transaction involving the receipt of financial or operational debt during the period within two
+years preceding the insolvency commencement date, and where the terms of such transactions
+required exorbitant payments to be made by the CD. In case of such Extortionate Credit
+transactions, the Adjudicating Authority may pass any of the orders specified in Clause (a) to (e) of
+Section 51. It is pertinent to note that in all these types of Avoidance Applications falling under
+Chapter III, the transactions in question, the properties involved and the persons with whom such
+transactions were made, could be ascertained by the Adjudicating Authority and therefore it is
+empowered to pass orders to avoid or set aside such transactions, under Sections 44, 48, 49 and 51,
+as the case may be.
+
+60. However, in cases of “Fraudulent or Wrongful trading” in respect of the business of the CD as
+contemplated in Section 66, the properties and the persons involved may or may not be
+ascertainable and therefore the Adjudicating Authority is not empowered to pass orders to avoid or
+set aside such transactions, but is empowered to pass orders to the effect that any persons, who were
+knowingly parties to the carrying on of business in such manner, shall be liable to make such
+contributions to the assets of the CD, as it may deem fit. The Adjudicating Authority in such
+applications may also direct that the Director of the CD shall be liable to make such contribution to
+the assets of the CD as it may deem fit, as contemplated in Section 66(2). In case of Fraudulent
+trading or Wrongful trading, it would be a matter of inquiry to be made by the Adjudicating
+Authority as to whether the business of CD was carried on with intent to defraud creditors of the CD
+or was carried on for any fraudulent purpose.
+
+61. In view of the above, the Applications filed in respect of “Fraudulent and Wrongful trading”
+carried on by the CD, could not be termed as “Avoidance Applications” used for the Applications
+filed under Sections 43, 45 and 50 to avoid or set aside the Preferential, Undervalued or
+Extortionate transactions, as the case may be. There is clear demarcation of powers of the
+Adjudicating Authority to pass orders in the Avoidance Applications filed by the Resolution
+Professional under Section 43, 45 and 50 falling under Chapter III and the Applications filed by the
+Resolution Professional in respect of the Fraudulent and Wrongful trading of CD, under Section 66
+falling under Chapter VI of the IBC. If the Resolution Professional has filed common applications
+under Sections 43, 45, 50 and also under Section 66, the Adjudicating Authority shall have to
+distinguish the same and decide as to which provision would be attracted to which of the
+Applications, and then shall exercise the powers and pass the orders in terms of the provisions of
+IBC.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+41
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+(iii) Mandatory Requirements of Section 30(2) of the IBC and Regulation 38 of Regulations, 2016
+
+62. After having elaborated upon the Avoidance Applications, let us see what are the mandatory
+requirements, a Resolution Professional is required to confirm on the receipt of the RPs submitted
+by the PRAs. As per sub-section (1) of Section 30, a RA may submit a RP along with an affidavit
+stating that he is eligible under Section 29(A), to the Resolution Professional prepared on the basis
+of the information memorandum. On the receipt of RPs from the eligible RAs, the Resolution
+Professional has to examine each RP to confirm that each RP provides for the payment of Insolvency
+Resolution Process cost in the manner specified by the Board in priority to the payment of other
+debts of the CD, and provides for the payment of debts of operational creditors in such manner as
+may be prescribed by the Board, as required under sub-section (2) of Section 30. The Resolution
+Professional has also to confirm that each RP provides for the management of the affairs of CD after
+the approval of the RP; the implementation and supervision of the RP; and also that the plan does
+not contravene any of the provisions of the law for the time being in force, and such other
+requirements specified by the Board. The other mandatory contents of a RP have been specified in
+Regulation 38 of the Regulations, 2016.
+
+63. The Resolution Professional, in view of sub-section (3) of Section 30 has to present to the CoC
+for its approval such RPs which confirm the conditions referred to in sub-section (2) thereof.
+Sub-Section (4) of Section 30 states that the CoC may approve the RP by a vote of not less than 66%
+of the voting share of the Financial Creditors, after considering its feasibility and viability, the
+manner of distribution proposed, which may take into account the order of priority amongst
+Creditors as laid down in sub- section (1) of Section 53, including the priority and value of the
+security interest of a secured creditor, and such other requirements as may be specified by the
+Board.
+
+64. The Resolution Professional then has to submit the RP as approved by the requisite number of
+votes of CoC to the Adjudicating Authority. In view of sub- section (1) of Section 31, if the
+Adjudicating Authority is satisfied that the RP approved by the CoC under sub-section (4) of Section
+30 meets the requirements as referred to in sub-section (2) of Section 30, it shall by an order
+approve the RP, which shall be binding on the CD and its employees, members, creditors, statutory
+authorities, guarantors and stakeholders involved in the RP. Where the Adjudicating Authority is
+satisfied that the RP does not confirm to the requirements referred to in sub-section (1) of Section
+31, it may, by an order reject the RP.
+
+65. Thus, the entire process right from the submission of RPs by the PRAs till the final
+approval/rejection of the Plan by the Adjudicating Authority has been duly prescribed, which is
+mandatory in nature. If there is any non-compliance of the mandatory requirements stated in
+Section 30(2) of IBC, readwith Regulation 38 of the Regulations, 2016, the Adjudicating Authority is
+empowered to reject the plan as envisaged in sub-section (2) of Section 31. If however, the plan
+approved by the CoC as per Section 30(4), meets with the requirements under Section 30(2), the
+Adjudicating Authority has to approve such plan under Section 31(1), which would be binding to all
+the stakeholders as stated therein.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+42
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+(iv) Maximization of the value of the assets of the Corporate Debtor
+
+66. Much emphasis was laid, during the course of the arguments, for the maximization of the value
+of the assets of the CD. It hardly needs to be emphasized that in CIRP, the role of the CoC is that of a
+protagonist, who takes the key decisions in its commercial wisdom and also takes the consequences
+thereof. It cannot be gainsaid that the decisions of CoC must reflect the fact that it has taken into
+account the maximization of the value of the assets of the CD, and that the interest of all the
+stakeholders has been adequately balanced. However, “What is maximization of the assets” has not
+been defined in the Code though stated in the Preamble. Of course, it has been referred in
+Regulation 37 of the Regulations, 2016, which states that RPs shall provide for the measures as may
+be necessary for insolvency resolution of the CD, for maximization of the value of its assets, which
+may include the measures as provided in Clauses (a) to
+
+(l) thereof. Since the Preamble of IBC envisages “maximization of the value of the assets of the
+Corporate Debtor,” and to promote entrepreneurship, the measures necessary for maximization of
+assets stated in Regulation 37, amongst others, will have to be taken into consideration by the CoC
+while considering the proposed RPs for approval.
+
+67. As observed in K. Sashidhar (supra), the Financial Creditors forming CoC, act on the basis of
+thorough examination of the proposed RPs and the assessment made by their team of experts. The
+entire process has to be carried out in an absolutely transparent manner, and each and every aspect
+relating to the RP, and more particularly its financial layout and the measures proposed for
+maximization of the value of the assets of the CD, has to be placed before the CoC. The CoC, if after
+considering such measures for maximization of the value of the assets of the CD as proposed by the
+RA in the RP submitted by it, and considering the feasibility, viability and such other requirements
+as mandated in the IBC and in the Regulations, 2016, approves the plan with the requisite number
+of votes as required under Section 30(4), after exercising its commercial wisdom, then the scope of
+judicial review by the Adjudicating Authority under Section 31 will be limited only to the extent of
+satisfying itself about the compliance of the requirements of Section 30(2). The judicial review by
+the Appellate Authority under Section 61 in the appeal against the order of Adjudicating Authority
+approving the plan, is further limited to the grounds mentioned in Clauses (i) to (v) specified in sub-
+section (3) of Section 61.
+
+(v) Whether the NCLAT should have entertained the appeals filed by the 63 Moons under Section 61
+of the Code and tinkered with the Resolution Plan approved by the CoC and the NCLT? –
+
+68. Keeping in view, the above discussed legal position, let us examine the facts of the case to decide
+whether the Appellate Authority i.e. NCLAT should have entertained the appeals at the instance of
+63 Moons, and interfered with the RP approved by the CoC and NCLT, by tinkering with the isolated
+clauses of the approved RP which pertained to the treatment of recoveries from the Applications
+under Section 66 of IBC.
+
+69. As stated earlier, based on the Audit Reports of GT, the auditors appointed by the Administrator
+to carry out the Transaction Audit and to unearth the transactions that could be avoided/set aside
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+43
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+under the IBC, the Administrator had filed the Applications before the NCLT regarding the
+Preferential, Undervalued and Extortionate Transactions seeking to avoid/set aside the same under
+Sections 43 to 51 and 66 of IBC. The summary of these Applications referred to by the NCLAT in the
+impugned order is reproduced hereunder: -
+
+I. 1st Application filed on August 30 2020, under Section 60 (5) & 66 of the Code. The
+Application is in respect of the investigation and observations of the transaction
+auditor, filed by the Administrator in respect of disbursements made by DHFL to
+certain entities, referred to as the Bandra Books Entities, under Section 60(5) and
+Section 66 of the Code on August 30, 2020, against Kapil Wadhawan, Dheeraj
+Wadhawan, Township Developers India Ltd, Wadhawan Holdings Private Limited,
+Dheeraj Township Developers Private Limited, Wadhawan Consolidated Holdings
+Pvt. Ltd., Wadhawan Global Hotels & Resorts Pvt. Ltd, Wadhawan Lifestyle Retail
+Pvt. Ltd. and certain other entities. The amount involved therein is Rs. 17,394 crores.
+
+II. 2nd Application was filed on September 27 2020, under Section 60 (5) & 66 of the
+Code.
+
+The Application is about certain irregularities in loan disbursements towards the development of
+SRA projects undertaken by DHFL in the past. The amount involved therein is Rs. 12,705.53 crores.
+
+III. 3rd Application was filed on October 5 2020, under Sections 45, 46, 49, 60(5) and 66 of the
+Code. The Application is in relation to the undervalued and fraudulent nature of certain agreements
+entered into by the Company at the time the Company sold its stake in Pramercia Life Insurance
+Limited to DHFL Investments Limited and certain ICDs given by the DHFL to ICD entities. The
+amount involved therein is Rs. 2, 150.84 crores.
+
+IV. 4th, 5th and 6th Applications filed in December 2020 - The Applications are about:
+
+a. Disbursement to specific entities in the form of loans against property and
+utilisation of the same towards premature redemption of certain NCDs, undertaken
+by DHFL in the past under Sections 43, 45 and 66 of the Code - as Application "A".
+
+b. Diversion of excess funds from the account of DHFL for purchase of NAPHA
+Building under Section 66 of the Code as Application "B". c. Fraudulent and
+undervalued advancement of ICDs by DHFL to certain entities in the past and the
+subsequent creation of a pledge over the non-convertible debentures issued by DHFL
+under Sections 45 and 66 of the Code - as Application "C".
+
+A copy of the letter dated December 13, 2020, issued by Respondent No. I to Stock
+Exchange summarising the said transaction is annexed with Appeal Paper book. The
+amount involved therein is Rs.1,058.32 crores.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+44
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+V. 7th Application filed on February 3 2021, under Sections 45, 60 (5) and 66 of the
+Code - The Application is about disbursement made to certain entities as developer
+loans and loans against property. The amount involved therein is Rs. 4,793.36 crores.
+
+VI. 8th Application was filed on February 20 2021, under Section 45, 60 (5) and 66 of
+the Code. The Application is in relation to irregularities in disbursements of Other
+Large Product Loan (OLPL) by the DHFL in the past. The amount involved therein is
+Rs. 6,182.11 crores.
+
+The details of the Avoidance applications in the tabular chart are mentioned below:
+
+Rs. Crores (Approx) Sr. Avoidance Reference Section Principal Interest Total (in No.
+Application (in +Notional Crores) date Crores) amount
+
+1. 30.08.2020 Bandra 60(5) 14046 3348 17394 Books and 66
+
+2. 27.09.2020 SRA Loans 60(5) 10980 1726 12706 and 66
+
+3. 05.10.2020 DIL 45, 46, 49, 1740 125 1865 Transaction Properties
+
+7. 03.02.2020 DLAP Loans 45, 4793 766 5559 60(5) & 66
+
+8. 20.02.2021 OLPL Loans 45, 60(5) & 5382 800 6182 Total filed Total 38161 6889
+45050 figures in crores
+
+70. As transpiring from the voluminous documents produced on record by the learned counsels for
+the parties, it appears that during the course of meetings of CoC, the PRAs had submitted various
+RPs, amongst which a RP dated 16.10.2020, was submitted by the Piramal Capital bidding for
+Group A assets under Option II offering 15,000 crores plus an amount of 10% for FD Holders. Then,
+a RP dated 09.11.2020 was submitted bidding for Group A assets under Option II offering bid
+amount of Rs.23,700 crores. Another RP dated 17.11.2020 was submitted bidding for Group A assets
+under Option II offering bid amount of Rs.27,500 crores. RP dated 14.12.2020 was submitted
+bidding for the entire assets under Option I offering bid amount of Rs.34,950 crores, and bidding
+for Group A assets under Option II offering bid amount of Rs.27,200 crores. Lastly, Piramal Capital
+presented the RP dated 22.12.2020 bidding for the entire assets under Option I for Rs. 37,250
+crores, or for Group A assets under Option II bidding for Rs.27,200 crores. The treatment of
+Avoidance transactions under the Resolution Plan dated 22.12.2020 was as under: -
+
+“Re: Treatment of avoidance transactions under the Resolution Plan.
+
+(xxxi) As regards avoidance transactions, the Resolution Plan provided as follows, in
+line with the RFRP dated 16 September 2020:
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+45
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+"2.13. Treatment of preferential transactions, undervalued transactions, extortionate
+transactions and fraudulent trading. 2.13.1. The Administrator shall submit, to the
+CoC, details of the transactions avoided or set aside by the NCLT in terms of Section
+43, 45, 47, 49, and 50 of the IBC (Avoidance Transactions), if any, observed, found or
+determined by him and the orders, if any, of the NCLT in respect of such
+transactions. 2.13.2. The Resolution Applicant intends to pursue, on a best-efforts
+basis, the application(s) filed by the Administrator before the NCLT in respect of
+these Avoidance Transactions. Any positive monetary recovery received by the
+Company as a result of orders passed in relation to the Avoidance Transactions shall
+be distributed, net of costs and expenses (including taxes), to the Financial Creditors
+pro rata to the extent the Financial Debt for Financial Creditors, provided that, the
+CoC may in its discretion adopt a different manner of distribution (which may take
+into account the order of priority amongst Financial Creditors as laid down in section
+53(1) of section of the IBC and such decision of the CoC shall be accepted by the
+Resolution Applicant, subject to there being no change in the Total Resolution
+Amount.
+
+2.13.3. The Resolution Applicant ascribes value of INR 1 in respect of any
+transactions that may be avoided/set aside by the NCLT in terms of section 66 of the
+IBC. Accordingly, any positive recovery as a result of reversal of transactions avoided
+or set aside by the NCLT in terms of section 66 of the IBC would accrue to the sole
+benefit of the Resolution Applicant. All the costs and expenses incurred or to be
+incurred towards litigation pertaining to section 66 of the IBC shall be to the account
+of the Resolution Applicant. "
+
+71. The Chart juxtaposing the Provisions of RFRP dated 16.9.2020 and the Provisions of the RP
+dated 22.12.2020 in respect of treatment of avoidance transactions produced at Annexure-A/7 in
+C.A. No.1632-1634 of 2022 may be reproduced as under:-
+
+Provisions of the RFRP dated Provisions of the Resolution Plan 16 September 2020
+3.13.2.[…] 2.13.1. The Administrator shall submit to the CoC, details of the … (w) In
+the event any transactions avoided or set aside by transaction is avoided/set aside the
+NCLT in terms of Section 43, 45, by the Adjudicating Authority in 47, 49 and 50 of
+the IBC (Avoidance terms of Sections Transactions), if any, observed, 43,45,47,49,50
+of the IBC, and found or determined by him and the any amount is received by the
+orders, if any, of the NCLT in respect Administrator or the Resolution of such
+transactions.
+
+Applicant/Corporate Debtor (as the case may be) in accordance 2.13.2. The Resolution Applicant
+with such decision of the intends to pursue, on a best efforts Adjudicating Authority, such basis, the
+application(s) filed by the sums shall be for the benefit of Administrator before the NCLT in the CoC
+and shall be a pass respect of these Avoidance through amount to the Transactions. Any positive
+monetary creditors, subject to clause (x) recovery received by the Company below. as a result of
+orders passed in relation to the Avoidance Transactions shall be distributed, net of costs and
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+46
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+expenses (including taxes), to the Financial Creditors pro rata to the extent the Financial Debt for
+Financial Creditors, provided that, the CoC may in its discretion adopt a different manner of
+distribution (which may take into account the order of priority amongst Financial Creditors as laid
+down in Section 53(1) of the IBC) and such decision of the CoC shall be accepted by the Resolution
+Applicant, subject to there being no change in the Total Resolution Amount.
+
+3.13.2. […] 2.13.3. The Resolution Applicant ascribes value of INR 1 in respect of …(x) In respect of
+any any transactions that may be transactions that may be avoided/set aside by the NCLT in
+avoided/set aside by the terms of Section 66 of the IBC. Adjudicating Authority in terms
+Accordingly, any positive recovery of Section 66 of the IBC, the as a result of reversal of transactions
+Resolution Applicant shall avoided or set aside by the NCLT in ascribe a value under the terms of
+Section 66 of the IBC would Resolution Plan to any accrue to the sole benefit of the recoveries that
+are likely to be Resolution Applicant. All the costs made in respect of such and expenses incurred or
+to be transactions and shall propose incurred towards litigation pertaining the manner of continuing
+and to Section 66 of the IBC shall be to dealing with any legal action the account of the Resolution
+initiated and the proposed Applicant. manner of treatment of any proceeds arising therefrom which
+the CoC may evaluate as per its discretion.
+
+72. As stated hereinabove, the CoC approved the RP submitted by the Piramal Capital under Option
+I for the entire assets of the CD offering aggregate amount of Rs.37,250 crores, by majority with
+93.65% votes.
+
+7 3 .   A s   c a n   b e   s e e n   f r o m   t h e   r e c o r d ,   t h e   1 8 t h   M e e t i n g   o f   C o C   w a s   c o n v e n e d   o n
+24.12.2020-25.12.2020, and all legally Compliant RPs received by the Administrator were presented
+for consideration and were put to vote during the voting window 30.12.2020
+
+- 15.01.2021. The NCD Holder - 63 Moons also voted in favour of the RP within its class of
+Debenture Holders, and the RP was approved by a majority of 98.94% votes of the Debenture
+Holders. The Authorized Representative of the class of Debenture Holders (M/s. Catalyst
+Trusteeship Limited) also voted in favour of the RP before the CoC. As a result thereof, the RP was
+approved by the majority of CoC with 93.65% votes exercising their commercial wisdom. It is also
+very pertinent to note that the said 18th meeting of CoC was attended not only by the Financial
+Creditors and the Administrator/Resolution Professional, but also by the representatives of the
+Financial Creditors, the Advisory Committee of the Administrator, the Legal Counsels of CoC, 29A
+Consultants, Valuers etc.
+
+74. When the Administrator/Resolution Professional filed an application being I.A. No.449 of 2021
+(Plan Approval Application) before the NCLT seeking approval under Section 31 of IBC on
+24.02.2021, the 63 Moons filed an I.A. being No. 623 of 2021 on 05.03.2021, challenging the
+provisions of RP which provided that the Recoveries under Section 66 would go to the benefit of
+SRA. The NCLT vide order dated 07.06.2021 granted its approval to the Plan Approval Application
+filed by the Administrator, and by separate order dismissed the I.A. No. 623 of 2021 filed by the 63
+Moons, holding that the CoC comprising of 77 Financial Creditors had decided in its commercial
+wisdom to give away the Section 66 Recoveries to the SRA after a hard bargain in exchange of a
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+47
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+lumpsum resolution amount of INR 37,250 crores.
+
+75. The NCLAT however entertained the Appeals at the instance of the Appellants – 63 Moons and
+Roopjyot Engineering Private on the ground that the SRA could not have appropriated the
+Recoveries from the Avoidance Applications under Section 66 IBC, and that the NCLT while
+approving the RP had not decided whether the recoveries in respect of the Avoidance transactions
+vested with the CD, should be applied for the benefit of the Creditors of CD, SRA or other
+Stakeholders. In our opinion, such an approach on the part of NCLAT was not only ex facie
+fallacious and erroneous but also in utter disregard of the legal position settled by this Court in
+catena of decisions.
+
+76. It is interesting to note that the Appellants before the NCLAT, i.e. – 63 Moons Technologies
+Limited, Roopjyot Engineering Private Limited, Magico Exports and Consultants Limited,
+Richmond Traders Private Limited and Sunshine Fibre Private Limited, were the NCD Holders,
+belonging to different sub- classes. They were represented in CoC by a Debenture Trustee – M/s.
+Catalyst Trusteeship Private Limited (CTPL). The details of these NCD Holders including their
+Voting Pattern and Payout were submitted in tabular form before the Court by the learned counsel
+appearing for the SRA, which is reproduced as under: -
+
+Creditor Share in Voting Payout Other CoC Pattern Information 63 Moons 0.2%
+Voted in Received No other favour of about 40% justification Belonged Held the Plan.
+of their provided for to the NCDs of admitted voting in class: face As a claims favour
+of the Catalyst value class, without plan Trusteeship INR 200 these any Limited
+Crores. NCD protest or (Secured holders demur.
+
+       Public                   approved
+       Issue – 2)               the plan
+                                by 98.94
+                                %
+                                majority.
+
+       Roopjyot &    Less       Abstained   Received     They did not
+       Ors.          than       from        payments     raise any
+                     .01%       voting.     under the    grievance
+       Belonged                             Resolution   before the
+       to the        Held       As a        Plan         CoC or the
+       class:        NCDs of    class,      without      NCLT and
+       Catalyst      purchase   these       any          challenged
+       Trusteeship   value      NCD         protest or   the
+       Limited       INR 49.4   holders     demur.       Resolution
+       (Secured      Crores.    approved                 Plan for the
+       Public                   the plan                 first time
+       Issue – I)               by 94.67                 only before
+                                %                        the NCLAT.
+                                majority
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+48
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+77. As can be seen from the above table, the said Appellants’ respective classes had
+voted overwhelmingly in favour of the RP of SRA. Neither the 63 Moons nor
+Roopjyot & Ors. had voted against the RP nor any justification was offered by them
+for not voting against the RP. Under the circumstances the said Appellants – NCD
+Holders before the NCLAT were bound by the decision of their classes in approving
+the RP, and were estopped from raising any objection against the RP approved by the
+CoC.
+
+Indubitably, as per sub-section 3A of Section 25A, the Authorized Representative under sub-section
+6A of Section 21 has a right to cast his vote on behalf of all the Financial Creditors he represents, in
+accordance with the decision taken by a vote of more than 50% of voting share of the Financial
+Creditors he represents, who have cast their vote. The vote cast by the Authorized Representative of
+the class of Financial Creditors, is a vote on behalf of each Financial Creditor to the extent of his
+voting share. Once the said process is carried out and the Authorized Representative is handed
+down a particular decision by the requisite majority of voting share, he has to vote accordingly, and
+his vote would bind all the Financial Creditors he represented. The individual Financial Creditor
+would thereafter be estopped from raising objection against the decision taken by the majority of the
+Financial Creditors. As observed in Jaypee Kensington Boulevard Apartments Welfare Association
+& Others vs. NBCC (India) Limited & Others,10 in the larger benefit and for common good, the
+democratic principles of the determinative role of the opinion of majority have been duly
+incorporated in the scheme of the Code, particularly in the provisions relating to voting on RP and
+binding nature of the vote of Authorized Representative, on the entire class of the Financial
+Creditors he represents. If the finality and binding force is not provided to the votes cast by the
+Authorized Representatives of a class of Financial Creditors, a plan of resolution involving large
+number of parties may never fructify. In the instant case, the vote cast by the Authorized
+Representative - M/s. Catalyst Trusteeship on behalf of the class of Financial Creditors he
+represented, was binding on the 63 Moons and other Appellants before the NCLAT, and therefore
+they were estopped from 10 2021 SCC Online SC 253 (Para. 424) raising any objection before the
+NCLT or NCLAT against the RP approved by the requisite majority of CoC.
+
+78. The NCLAT has also erroneously placed reliance on the decision of the Single Bench of the Delhi
+High Court in Venus Recruiter (supra). Apart from the fact that the said judgment of Single Bench
+was set aside by the Division of the said High Court in LPA No. 37 of 2021 (Tata Steel BSL Limited
+vs. Venus Recruiter Private Limited and Others) decided on 13.01.2023, the whole reliance on the
+said decision was thoroughly misconceived and misplaced. In the said case, the question for
+consideration was whether an Avoidance Application under Section 43 of IBC could survive after the
+approval of RP. The question of considering the treatment of the proceeds of the Avoidance
+Applications was not involved as involved in the instant case.
+
+79. The reliance on the Regulation 37A of the Liquidation Regulations by the NCLAT was also
+thoroughly misplaced for holding that the said Regulation empowered a Liquidator to assign or
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+49
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+transfer a non- realisable asset during the liquidation of a CD, however such provision is absent in
+CIRP Regulations, 2016. In our opinion, when Section 26 specifically states that the filing of an
+Avoidance Application under Section 25(2)(j) by the Resolution Professional shall not affect the
+proceedings of CIRP, and when the Regulation 37(a) of the CIRP Regulations 2016 also permits a
+provision to be made in the RP for transfer of all or part of the assets of Corporate Debtor to one or
+more persons, the reference of Regulation 37A of Liquidation Process Regulations in the impugned
+order was absolutely unwarranted and ex-facie fallacious.
+
+80. Similarly, the NCLAT has also misdirected itself by relying on the foreign texts and
+jurisprudence, which could not be made applicable to the insolvency regime of India. Apart from the
+fact that such foreign texts and precedents relied upon by the NCLAT merely indicated that the
+proceeds from the Avoidance Applications may be for the benefit of the creditors in a situation when
+the RP does not deal with its treatment, it is well settled by this Court that the Court should be wary
+of transplanting international doctrines, which might have been evolved as responses to the specific
+needs of the jurisdictional regimes.
+
+81. The submission, with regard to the notional value of INR 1 ascribed to Section 66 Applications
+under the RP, made by the learned counsel appearing for the Respondents in the Appeals filed by
+the Piramal Capital deserves to be considered only for its rejection. As transpiring from the record of
+the case, notional valuation of Section 66 Applications was made in response to the provision of
+RFRP issued by the Administrator. In the valuation reports submitted by the Valuers appointed by
+the Administrator, NIL value was ascribed to the Avoidance Applications filed by the Administrator,
+and accordingly the other compliant RAs had also ascribed NIL value to the said Applications.
+However, according to the SRA, since clause 3.13.2(x) of RFRP required the RAs to ascribe a value to
+Section 66 applications and then propose a manner of treatment of recoveries from such
+applications, the SRA had ascribed INR 1 as a notional valuation of the applications under Section
+
+66.
+
+82. In our opinion, having regard to the Fraudulent trading and Wrongful trading allegedly made by
+the DHFL, any guess work done by the compliant RAs would have been a wild guess due to the
+uncertainties in recovery of the amount involved in such Fraudulent and Wrongful trading. The
+value of INR 1 being notional and the CoC having considered the fact that the potential recoveries
+from the Section 66 Applications was very uncertain had taken conscious decision in accepting the
+said clause in the RP submitted by the SRA. The relevant Clause 2.13.2 of RP provided that any
+positive monetary recovery received by the company (SRA) as a result of the orders passed in
+relation to avoidance transactions shall be distributed, net of costs and expenses (including taxes),
+to the Financial Creditors pro rata to the extent the financial debt for the Financial Creditors
+provided that the CoC may in its discretion adopt a different manner of distribution. Therefore,
+while ascribing a notional value of INR 1 to the Applications under Section 66, the SRA had agreed
+for the distribution of the recoveries that may be made under the Avoidance Applications filed under
+Sections 43, 45, 47, 49 and 50 for the benefit of the CoC.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+50
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+83. During the course of hearing of these Appeals also, the learned Senior Advocate Mr. Abhishek
+Manu Singhvi for the SRA and the learned Senior Advocate Mr. Tushar Mehta appearing for the CoC
+had stated in no uncertain terms that the benefit of avoiding/setting aside of any transaction under
+Sections 43, 45, 47, 49 and 50 shall enure to the benefit of the Creditors of DHFL, whereas any
+recovery under Section 66 would be for the benefit of Piramal Capital. As discussed earlier, the SRA
+had raised its offer to the extent of Rs.37,250 crores, which had factored the potential recoveries
+from Section 66 Applications. Thus, the RP approved by the CoC was an outcome of the commercial
+bargain struck between the SRA and the CoC after several rounds of negotiations and deliberations.
+The said plan approved by the CoC was also further approved by the NCLT under Section 31(1) of
+IBC. In absence of any perversity, that was palpable on the face of the approved RP, and the CoC
+having taken a firm commercial decision with regard to the impugned clause of RP by voting
+overwhelmingly in favour of the RP, the NCLAT ought not to have interfered with the said clause of
+RP approved by the CoC and the NCLT.
+
+84. As per the legislative intent and as per the broad contours of the provisions of IBC, the
+commercial wisdom of CoC has been given the prominent status, with the least judicial intervention,
+for ensuring the completion of Resolution Process within the prescribed timelines. As stated earlier,
+in Essar Steel (supra), this Court after discussing earlier judgments had observed that what is left to
+the majority decision of the CoC is the “feasibility and viability” of a RP, which obviously takes into
+account all aspects of the plan, including the manner of distribution of funds among the various
+classes of Creditors. The legislature has consciously not provided for a ground to challenge the
+justness of the commercial decision expressed by the Financial Creditors – be it to approve or reject
+the RP. Similar view is taken by the Three Judge Bench in Ghanashyam Mishra (supra) to the effect
+that the legislature has given paramount importance to the commercial wisdom of the CoC and the
+scope of judicial review by the Adjudicating Authority is limited to the extent provided under
+Section 31 and by the Appellate Authority limited to the extent provided under sub-section (3) of
+Section 61 of IBC.
+
+85. The NCLAT therefore has clearly transgressed its jurisdiction under Section 61 IBC, by
+interfering with the clause pertaining to the treatment to the recoveries from the Fraudulent and
+Wrongful trading under Section 66.
+
+86. It appears that the Administrator has filed common applications under Sections 43, 45 and 50
+falling under Chapter III and the Applications pertaining to Fraudulent and Wrongful trading under
+Section 66 falling under Chapter VI before the NCLT. The Administrator, as such should have
+mentioned in the Applications the specific provisions under which such Applications were filed,
+however non-mentioning or wrong mentioning of provision of law in the Applications would not
+take away the jurisdiction of the NCLT in deciding the said Applications, as the NCLT being the
+Adjudicating Authority is competent and has jurisdiction to decide all such Applications. It is well
+settled proposition of law laid down by a Three- Judge Bench of this Court in N. Mani v/s Sangeetha
+Theatre,11 that if an authority has a power under the law, merely because while exercising that
+power, the source of power is not specifically referred to or a 11 (2004) 12 SCC 278 reference is made
+to a wrong provision of law, that by itself would not vitiate the exercise of power, so long as the
+power exists and can be traced to a source available in law. We have already elaborately discussed
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+51
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+about the scope and powers of NCLT to pass orders in Avoidance Applications as circumscribed in
+Sections 44, 48, 49 and 51 and the powers of the NCLT to pass orders in the applications filed under
+Section 66. Hence, it is directed, for the sake of clarity, that the NCLT shall decide each of the
+Applications filed by the Administrator and pending before it after considering the relevant
+provisions applicable to such Applications, and shall pass the orders accordingly in terms of the
+provisions contained in Sections 44, 48, 49 and 51 falling under Chapter III and in terms of
+provisions contained in Section 66 falling under Chapter VI, as the case may be.
+
+87. In view of the aforesaid discussion and findings, all the Appeals in this category deserve to be
+allowed by setting aside the impugned order dated 27.01.2022 passed by the NCLAT and restoring
+the order dated 07.06.2021 passed by the NCLT in the Plan Approval Order.
+
+(VII) ANALYSIS IN THE SECOND CATEGORY OF APPEALS
+
+88. The Second category of Appeals cover the Appeals filed by several Fixed Deposit Holders and
+one Non- Convertible Debenture Holder of the CD, challenging the RP dated 22.12.2020. The details
+of the said Appellants and the impugned judgments may be stated as under: -
+
+(1) Raghu KS and Ors. vs. Piramal Capital & Housing Finance Limited & Ors. (Diary
+No.6037 of 2022):
+
+This Civil Appeal has been filed by 41 individual FD Holders challenging the
+judgment dated 07.02.2022 passed by the NCLAT in Company Appeal No. 538 of
+2021. PCHFL is Respondent No.1 in this appeal.
+
+(2) Vinay Kumar Mittal & Ors. vs. Dewan Housing Finance Corporation Ltd. & Ors. (Civil Appeal
+No.2413-2415 of 2022) (“V.K. Mittal”): These appeals have been filed by 14 individual FD Holders
+challenging the common judgment dated 27.01.2022 passed by the NCLAT in Company Appeal
+Nos.506, 507 and 516 of 2021. PCHFL is Respondent No.6 in these Appeals.
+
+(3) Uttar Pradesh State Power Sector Employees Trust vs. Dewan Housing Finance Corporation Ltd.
+& Anr. (Civil Appeal No.2396 of 2022): The Appellant in this Appeal was a FD Holder of the CD and
+has challenged the common judgment dated 27.01.2022 passed by the NCLAT in Company Appeal
+Nos.759, 760 of 2021. PCHFL is Respondent No.1 in this Appeal.
+
+(4) Uttar Pradesh State Power Corporation Contributory Provident Fund Trust vs. Dewan Housing
+Finance Corporation Limited and Anr. (Civil Appeal No.2402 of 2022): The Appellant herein was a
+FD Holder of the CD and has challenged the common judgment dated 27.01.2022 passed by the
+NCLAT in Company Appeal Nos.759, 760 of 2021. PCHFL is Respondent No.1 in this Appeal.
+
+(5) Senbagha Vivek A. & Anr. vs. Dewan Housing Finance Corporation Ltd. & Anr. (Civil Appeal
+No.8123-8125 of 2022): The Appellants herein were two individual FD Holders of the CD and have
+challenged the common judgment dated 27.01.2022 passed by the NCLAT in Company Appeal Nos.
+506, 507 and 516 of 2021. PCHFL is Respondent No.6 in this Appeal.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+52
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+(6) THDC India Limited Employee Fund vs. The Administrator, Dewan Housing Finance
+Corporation Ltd. (Civil Appeal No.6286 of 2022):
+
+Insofar as this Appeal is concerned, the Appellant herein (“THDC”) represents NCD
+Holders of the CD. THDC has challenged the judgment dated 04.02.2022 passed by
+the NCLAT in Company Appeal No.90 of 2022. In the CoC, the appellant’s class voted
+in favour of the RP. THDC did not raise any objection against the RP before the
+NCLT and filed the Appeal directly before the NCLAT against the order dated
+07.06.2021 approving the Resolution Plan (“Plan Approval Order”).
+
+89. Leave granted in the Diary No.6037 of 2022.
+
+90. The facts have already been narrated while dealing with the First Category of
+Appeals, and therefore are not repeated here. Suffice it to state that the CD was
+admitted into CIRP on 03.12.2019. The Piramal Capital had submitted the RP, which
+came to be approved by a majority of 93.65% of the CoC of the CD. The aggregate
+claim of FD Holders as a class was INR 5,375 Crore and their voting share was about
+6.18%. The CoC in its 18th Meeting had passed two Resolutions which were placed
+for voting, one for approval of RP and second for approval of the Distribution
+mechanism for the disbursal of the total resolution amount amongst the creditors.
+The Distribution mechanism was approved by the majority of 86.95% of CoC. Under
+the Distribution mechanism, it was provided as under: -
+
+(i) FD Holders having an admitted claim of upto INR 2 lakhs were to be repaid their
+entire deposit amount; and
+
+(ii) FD Holders having an admitted claim of more than INR 2 lakhs would receive an
+amount equivalent to liquidation value of security created for the benefit of the
+Depositors for the additional aggregate claim above INR 2 lakhs.
+
+91. Some of the FD Holders including the Appellants in this second category of Appeals, challenged
+the said RP before the NCLT on the ground that the RP had failed to provide for full repayment of
+their deposits.
+
+92. The NCLT on 07.06.2021 approved the said RP by passing the Plan Approval Order. The NCLT
+also passed a separate order disposing of the Applications filed by the FD Holders recommending
+that CoC may reconsider the distribution of resolution amount keeping in view the interest of the FD
+Holders and other small investors. In the light of the said order, the CoC in its 20th Meeting put to
+vote a Resolution for maintaining parity between the FD Holders and other Secured Creditors. The
+said Resolution was rejected by approximately 89% of CoC. The aggrieved Appellants – FD Holders
+filed the Appeals before the NCLAT challenging the FD Holders order dated 07.06.2021, on the
+ground that the treatment to the FD Holders violated their rights under the RBI Act and NHB Act to
+receive full payment of their deposits. The NCLAT vide the impugned orders dismissed all the
+Appeals against which the present set of Appeals have been filed.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+53
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+(i) WHETHER THE RESOLUTION PLAN VIOLATED THE PROVISIONS OF RBI ACT OR NHB
+ACT?
+
+93. The bone of contention raised by the learned Counsels for the Appellants – FD Holders in this
+set of Appeals was that the Distribution mechanism contained in the RP was in violation of Section
+36(A) of NHB Act and Section 45(QA) of RBI Act, in as much as the FD Holders were entitled to the
+full payment of their deposits, in view of the said provisions. In this regard, it may be noted that the
+NHB Act has been enacted to establish a Bank to be known as “National Housing Bank” to operate
+as a principal agency to promote housing finance institutions both at local and regional levels and to
+provide financial and other support to such institutions and for the matters connected therewith or
+incidental thereto. As per Section 2(d) of the said NHB Act, “Housing Finance Institution” includes
+every institution, whether incorporated or not, which primarily transacts or has any one of the
+principal objects, the transacting of the business of providing finance for housing, whether directly
+or indirectly. The Chapter V of the said NHB Act incorporates the provisions relating to the
+“Housing Finance Institutions.” Section 28 thereof states that in this Chapter the term ‘deposit’ shall
+have the meaning assigned to it in Section 45-I of the RBI Act. Further Section 36(A) of the NHB Act
+empowers the Officer authorized by the Central Government, to direct the housing finance
+institution, which fails to repay any deposit accepted by it in accordance with the terms and
+conditions of deposit, to make repayment of such deposit or part thereof, if he is satisfied that it is
+necessary to do so to safeguard the interest of the housing finance institution, the depositors or in
+the public interest.
+
+94. The RBI Act has been enacted to regulate the issue of Bank notes and the keeping of reserves
+with a view to securing monetary stability in India and generally to operate the currency and credit
+system of the country to regulate to its advantage. The Chapter III(B) of the RBI Act incorporates
+the “Provisions relating to the Non-Banking Institutions receiving deposits and financial
+institutions.” Section 45-I(bb) defines “Deposit” and Section 45-I(f) defines “Non- Banking
+Financial Company.” Section 45(QA) empowers the Company Law Board (CLB) to direct by order,
+the Non-Banking Financial Company which has failed to repay the deposit accepted by it in
+accordance with the terms and conditions of such deposit, to make repayment of such deposit or
+part thereof, if the CLB is satisfied that it is necessary to do so to safeguard the interest of the
+company, the depositors or in the public interest.
+
+95. It is not disputed that the CD – DHFL being a Housing Finance Institution and Non-Banking
+Financial Company, was governed by the NHB Act and RBI Act, however pertinently, neither
+Section 36(A) of NHB Act nor Section 45 (QA) of RBI Act mandates full payment of the deposits of
+the FD Holders, as sought to be contended by the learned counsels for the Appellants. Both the
+Sections 36(A) of NHB Act and 45(QA) of the RBI Act containing almost similar provisions, require
+the Housing Finance Institution or the Non-Banking Financial Company, as the case may be, to
+repay the deposits accepted by it in accordance with the terms and conditions of such deposit,
+however from the bare reading of the said provisions it clearly transpires that in case of non-
+payment of such deposits, the authorized officer or the CLB as the case may be on being satisfied
+that it is necessary to safeguard the interest of the company, or of the depositors in the public
+interest may direct such institution or the company to make repayment of such deposit or part
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+54
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+thereof. None of the said provisions mandates full payment of deposits or confers any right upon the
+depositors to have full payment of such deposits. There is also nothing on record to suggest that any
+authorized officer under the NHB Act or the CLB under the RBI Act has passed any order to make
+full payment of deposits to the Appellants. Hence, it could not be said, by any stretch of imagination,
+that the RP in question, providing for the Distribution mechanism, was contrary to any of the
+provisions of the RBI Act or of the NHB Act.
+
+96. It is also pertinent to note that the Appellants – FD Holders were represented in the CoC by their
+Authorized Representative - Ms. Charu Desai and the NCD Holders were represented in the CoC by
+their Authorized Representative - M/s. Catalyst Trusteeship Limited, as permitted under Section 21
+(6A) (b) of IBC readwith Regulation 16 (A) of the CIRP Regulations, 2016. Such Authorized
+Representatives are entitled to attend the meetings and vote in the CoC on behalf of the Group of
+Creditors that they represent, in accordance with the prior instructions they would have received
+from their respective groups. It is true that in the instant case, the FD Holders, as a class, had voted
+against the RP and the Distribution mechanism, and were thus classified as the “Dissenting
+Financial Creditors.” However, the said Distribution mechanism was approved by a majority of
+86.95% of CoC. The Appellants – FD Holders therefore had filed applications before the NCLT. The
+NCLT vide the order dated 07.06.2021 approved the RP by passing Plan Approval Order, and by
+separate order disposed of the Applications filed by the FD Holders, recommending the CoC to
+reconsider the Distribution mechanism in the interest of various creditors viz. Public Depositors, FD
+Holders, NCD Holders, Small Investors, EPF Trust etc.
+
+97. As stated earlier, the CoC rejected the said recommendation by approximately 89% of the CoC in
+its 20th Meeting, which decision came to be challenged before the NCLAT. The NCLAT also vide the
+impugned order dismissed the same by holding inter alia that the Administrator was under no
+obligation to ensure full payment of deposits to the FD Holders under the RBI Act or the NHB Act,
+and that the decision about the payments to the creditors fell within the commercial wisdom of CoC
+which was not amenable to judicial review, subject to fair and equitable play. We do not find any
+legal infirmity in the said impugned order passed by the NCLAT. We have already discussed in detail
+about the scope of judicial review by the NCLT under Section 31 and by NCLAT under Section 61 of
+the IBC, and the legal position settled by this Court in catena of decisions. Hence, the same is not
+reiterated herein.
+
+98. We also do not find any substance in the submissions made by the learned counsels for the
+Appellants that the RP violated Rule 5(d)(i) of the Financial Service Providers and Application to
+Adjudicating Authority Rules, 2019 (FSP Rules). In this regard, it may be noted that the said Rule
+5(d)(i) states that “the Resolution Plan shall include a statement explaining how the Resolution
+Applicant satisfies or intends to satisfy the requirements of engaging in the business of the Financial
+Service Provider, as per laws for the time being in force.” The learned Counsel appearing for the SRA
+– Piramal Capital had drawn the attention of the Court to the comprehensive statement included in
+“Part B – Business Plan” of the RP to the effect that the SRA had the expertise and experience in the
+financial sector and the ability to carry out the business of the CD as a Financial Service Provider.
+Such being the compliance of the said Rule 5(d)(i) of FSP Rules, it could not be said that there was
+any violation of any law for the time being in force as contemplated in Section 30(2)(e) of IBC and as
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+55
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+sought to be contended by the learned counsels for the Appellants – FD Holders.
+
+99. In that view of the matter, all the Appeals filed by the Appellants in this Second Category of
+Appeals being devoid of merits deserve to be dismissed.
+
+(VIII) ANALYSIS IN THE THIRD CATEGORY OF APPEALS
+
+100. In this Third category, following Appeals are covered:
+
+-
+
+(1) The Civil Appeal Nos. 1707-1712 of 2022 have been filed by the ex-promoter Kapil
+Wadhawan challenging the impugned judgment and order dated 14.02.2022 in
+Company Appeal No. 539 of 2021 passed by the NCLAT, dismissing the Appellants
+challenge to the RP of Piramal Capital, which was approved by the NCLT vide order
+dated 07.06.2021.
+
+(2) The Appellant Kapil Wadhawan has also challenged the common impugned judgment and order
+dated 27.01.2022 in Company Appeal No. 785 of 2020 and 674 of 2021 passed by the NCLAT
+holding that the Appellant, though was erstwhile Director, Promoter, Shareholder and Guarantor of
+DHFL, had no right to a copy of RP approved by the CoC.
+
+(3) The Appellant Kapil Wadhawan has also challenged the common impugned judgment and order
+dated 27.01.2022 in Company Appeal Nos. 370, 376-377 and 393 of 2021 passed by the NCLAT,
+whereby the NCLAT has set aside the order dated 19.05.2021 passed by the NCLT directing the CoC
+to consider and vote on 2nd Settlement Proposal of KW of the Appellant. (4) The Civil Appeal No.
+2567 of 2022 has been filed by another ex-promoter Dheeraj Wadhawan challenging the common
+impugned judgment and order dated 27.01.2022 in Company Appeal No. 785 of 2020 and 647 of
+2021 passed by the NCLAT, holding that the erstwhile Director, Promoter, Shareholder and
+Guarantor of DHFL was not entitled to participate in the meeting of CoC.
+
+(5) The Civil Appeal Nos. 2987-2988 of 2022 have been filed by the SRA – Piramal Capital
+challenging the impugned judgment and order dated 27.01.2022 in Company Appeal No. 785 of
+2020 and 647 of 2021 passed by the NCLAT, in which it has been held that the erstwhile Directors
+who had vacated the offices were not entitled to share any document, however the copy of RP after
+the approval from Adjudicating Authority cannot be treated as a confidential document, and
+therefore a certified copy may be issued to the erstwhile Directors as per the Rules.
+
+101. The core issue raised by learned Senior Counsel Mr. Kapil Sibal appearing for the erstwhile
+Directors KW and DW was that the Resolution Professional, that is the Administrator in this case,
+and the CoC had not undertaken any efforts for value maximization of DHFL’s assets and
+businesses, which is the underlying object of the IBC. According to him the Appellants –
+Ex-Promoters/ Directors were kept out of the entire CIRP proceedings and were not given any
+opportunity to participate in the said proceedings under the guise that the entire Board of Directors
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+56
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+of DHFL was superseded under the RBI Act, and therefore the Ex-Directors did not have any right,
+which suspended Directors would have under the IBC. Mr. Sibal had strenuously taken the Court to
+the voluminous record and raised all possible issues, with regard to the Clause in question, with
+regard to the treatment to Recoveries under the Applications filed under Section 66 of the Code and
+the permissibility of ascribing INR 1 towards such transactions etc. In short, Mr. Sibal had
+vehemently challenged the commercial wisdom exercised by the CoC while approving the plan.
+
+102. We have already discussed and dealt with, in the earlier part of this judgment, all the said
+issues including the scope of judicial review by the NCLT and NCLAT over the commercial wisdom
+exercised by the CoC, and also examined the legality of the clause in the RP with regard to the
+treatment of Recoveries from the Avoidance Applications. We have also examined in detail the issue
+with regard to the maximization of the value of assets of the CD. Hence, the same are not dealt with
+in this set of Appeals. Suffice it to say that when majority of the creditors in their wisdom, and after
+negotiations with the PRA as to how and in what manner the Corporate Resolution Process should
+be undertaken, had explored the feasibility and viability of the RP, while approving the same, and
+when the said Plan was also approved by the NCLT, the NCLAT ought not to have tinkered with a
+Clause of the said Plan with regard to the treatment of Recoveries from the Applications under
+Section 66 of the IBC.
+
+103. So far as the right of the Ex-Directors/ Promoters to participate in the Meetings of CoC and
+right to get the copy of RP approved by the CoC is concerned, it may be noted that the RBI in
+exercise of its powers conferred under Section 45-IE (1) of RBI Act had superseded the Board of
+Directors of DHFL, on being satisfied that the DHFL had conducted its affairs detrimental to the
+interest of its depositors and creditors. The RBI, therefore, had appointed one Shri R.
+Subramaniakumar – Ex-MD and CEO of the Indian Overseas Bank vide communication dated
+20.11.2019. The RBI thereafter, on 29.11.2019, had filed a Company Petition under Section 227 read
+with Section 239 (2) (zk) of IBC before the NCLT for initiating CIRP proceedings.
+
+104. It may be noted that as per sub-section (4) of Section 45 – (IE) of the RBI Act, on passing of the
+order of supersession of the Board of Directors of a Non- Banking Financial Company (DHFL), the
+Chairman, Managing Director and other Directors have to vacate their offices from the date of
+supersession of the Board of Directors, and then all the powers, functions and duties, which are
+required to be exercised by them under the provisions of RBI Act or any other law for the time being
+in force, have to be exercised and discharged by the Administrator appointed by the RBI, till the
+Board of Directors of such company is reconstituted.
+
+105. Thus, by virtue of the said provision contained in Section 45-IE and by virtue of the order
+passed by the RBI thereunder, the Board of Directors of DHFL had stood superseded and their
+offices also stood vacated on the appointment of the Administrator. Thereafter, on the initiation of
+CIRP and on the appointment of an Interim Resolution Professional by the Adjudicating Authority,
+the management of the affairs of the CD had stood vested in the Interim Resolution Professional
+(the Administrator in this case) and the powers of the Board of Directors of the CD had stood
+suspended in view of Section 17(1)(b) of the IBC.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+57
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+106. It may be noted that this is one of the rare cases where the Board of Directors had first stood
+superseded under the RBI Act, and then the Directors of the CD - DHFL had stood suspended under
+the IBC. As such, in our opinion, the legal effects in both the situations would be different, as the
+“Supersession” of the Board of Directors is very much different from the “Suspension” of the
+Directors. In common parlance also the use of the word “Supersession” has a different connotation
+than that of the word “Suspension.” As per the Black’s Law Dictionary (11th Edition) the word,
+“Supersede” means to annul, make void or repeal; and the word “Suspend” means to interrupt,
+postpone, defer, or to temporarily keep a person from performing a function or occupying an office.
+Thus, the effect of Supersession is permanent in nature, whereas the effect of Suspension is
+temporary in nature.
+
+107. It is true that as per Section 24 of IBC, the Resolution Professional is required to give a notice of
+each of the meetings of the CoC to the members of the suspended Board of Directors, alongwith the
+members of CoC including the Authorized Representatives and the Operational Creditors or their
+representatives. However, as per sub-section 4 of Section 24, though the Directors of suspended
+Board of Directors have a right to attend the meetings of CoC, they do not have any right to vote in
+such meetings. Meaning thereby, such suspended Directors would have a right only to receive the
+notice of meetings of CoC and to attend the same, but would not have the right to vote in the
+meetings.
+
+108. This Court in Vijay Kumar Jain vs. Standard Chartered Bank and Others,12 while recognizing
+the rights of the members of the erstwhile Board of Directors to receive a copy of RPs, that may be
+discussed in the meetings of CoC, has observed as under: -
+
+“21. Under Regulation 24(2)(e), the resolution professional has to take a roll call of
+every participant attending through videoconferencing or other audio and visual
+means, and must state for the record that such person has received the agenda and all
+relevant material for the meeting which would include the resolution plan to be
+discussed at such meeting. Regulation 35 makes it clear that the resolution
+professional shall provide fair value and liquidation value to every member of the
+committee only after receipt of resolution plans in accordance with the Code [see
+Regulation 35(2)]. Also, under Regulation 38(1-A), a resolution plan shall include a
+statement as to how it has dealt with the interest of all stakeholders, and under sub-
+regulation (3)(a), a resolution plan shall demonstrate that it addresses the cause of
+default. This Regulation also, therefore, recognises the vital interest of the erstwhile
+Board of Directors in a resolution plan together 12 (2019) 20 SCC 455 with the cause
+of default. It is here that the erstwhile Directors can represent to the Committee of
+Creditors that the cause of default is not due to the erstwhile management, but due to
+other factors which may be beyond their control, which have led to non-payment of
+the debt. Therefore, a combined reading of the Code as well as the Regulations leads
+to the conclusion that members of the erstwhile Board of Directors, being vitally
+interested in resolution plans that may be discussed at meetings of the Committee of
+Creditors, must be given a copy of such plans as part of “documents” that have to be
+furnished along with the notice of such meetings.”
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+58
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+109. In the instant case, however, it deserves to be noted that the RBI having superseded the Board
+of Directors and appointed the Administrator, the Appellants – Ex-Directors had deemed to have
+vacated their offices. They having been arrested in connection with the criminal proceedings filed
+against them, were in the judicial custody all throughout the CIRP proceedings. The said
+Administrator having initiated the CIRP proceedings, was thereafter continued by the CoC as the
+Resolution Professional to conduct the CIRP under the provisions contained in the IBC. Under the
+circumstances, the Appellants – KW and DW, who were the Directors of DHFL at the relevant time,
+having deemed to have vacated their offices on the supersession of the Board of Directors under the
+RBI Act, could not have claimed any right to attend the meetings of CoC or to participate in the
+CIRP proceedings initiated under the IBC, which right otherwise would have been available to the
+Directors suspended under the IBC. In absence of any specific provision in the IBC or the
+Regulations 2016, they, as the members of the superseded Board of Directors, could not have made
+any claim to have a copy of proposed RPs submitted by the PRAs during the CIRP proceedings.
+Nonetheless, pertinently the RP after having been approved by the NCLT under Section 31 of IBC,
+would become a “Public Document” within the meaning of Section 74 of the Indian Evidence Act,
+and therefore, they would be entitled to get, at the most, a certified copy of the approved RP.
+
+110. In that view of the matter, we do not find any merits in the Appeals filed by the Appellants in
+this Third Category of Appeals.
+
+(IX) CONCLUSION
+
+111. The upshot of the above discussion and findings is as follows: -
+
+(1) The impugned judgment and order dated 27.01.2022 passed by the NCLAT in
+Company Appeal Nos. 454-455 and 750 of 2021 is set aside, and the judgment and
+order dated 07.06.2021 passed by the Adjudicating Authority/ NCLT granting its
+approval to the Plan Approval Application, and thereby approving the Resolution
+Plan, is upheld.
+
+However, it is clarified and directed that the NCLT shall decide the Avoidance Applications filed by
+the Administrator under Section 43, 45, and 50, and shall separately decide the Applications under
+Section 66, and it shall pass the orders in accordance with the powers conferred upon it under
+Section 44, 48, 49, 50, and under Section 66, as the case may be. The recoveries/benefits that may
+follow from such Applications shall be appropriated in favour of the CoC in case of Avoidance
+Applications under Section 43, 45 and 50, and in favour of SRA-Piramal Capital in case of
+Applications under Section 66 of IBC.
+
+(2) The Civil Appeal Nos. 1632-1634 of 2022 filed by the Piramal Capital and Housing Finance
+Limited and the Civil Appeal Nos. 2989-2991 of 2022 filed by the Union Bank of India stand
+allowed.
+
+(3) The Civil Appeal Nos. 3694-3695 of 2022 filed by 63 Moons Technologies Limited stands
+disposed of.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+59
+
+Piramal Capital And Housing Finance ... vs 63 Moons Technologies Limited) on 1 April, 2025
+
+(4) The Appeal arising out of D. No. 6037 of 2022 filed by Raghu K.S. & Others, Civil Appeal Nos.
+2413-2415 of 2022 filed by Vinay Kumar Mittal & Others, Civil Appeal No. 2396 of 2022 filed by
+Uttar Pradesh State Power Sector Employees Trust and Civil Appeal No. 2402 of 2022 filed by Uttar
+Pradesh State Power Corporation Contributory Provident Fund Trust, Civil Appeal Nos. 8123-8125
+of 2022 filed by Senbagha Vivek A & Another and Civil Appeal No. 6286 of 2022 filed by THDC
+India Limited Employee Provident Fund are dismissed.
+
+(5) The Civil Appeal Nos. 1707-1712 of 2022 filed by Kapil Wadhawan, Civil Appeal No. 2567 of 2022
+filed by Dheeraj Wadhawan and Civil Appeal Nos. 2987-2988 of 2022 filed by Piramal Capital and
+Housing Finance Limited are dismissed.
+
+………………………………J. [BELA M. TRIVEDI] ….…………………………..….J. [SATISH CHANDRA
+SHARMA] NEW DELHI;
+
+APRIL 1st, 2025.
+
+Indian Kanoon - http://indiankanoon.org/doc/190999006/
+
+60
+
+

@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 7405 of 2022 [Arising out of SLP (Civil) No. 12397 of 2020] and Civil Appeal No. 7406 of 2022 [Arising out of SLP (Civil) No. 11978 of 2021]",
+  "parties": {
+    "petitioner": "M/S Hero Motocorp Ltd. and Sun Pharma Laboratories Ltd.",
+    "respondent": "Union of India & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-17",
+  "summary": "The appeals challenged the reduction of excise duty exemption from 100% to 58% under the GST regime for industrial units in Himalayan states, originally granted under an Office Memorandum (O.M.) of 2003. Petitioners argued that the Union was estopped from withdrawing full tax exemption as they had invested based on the government's assurance. The Union contended that post-GST, exemptions were replaced by budgetary support as per GST Council recommendations. The Court examined whether the O.M. of 2003 created a binding obligation post-CGST Act, 2017, and whether equitable estoppel applied against the Union in fiscal matters.",
+  "legal_provisions_cited": [
+    "Article 246A of the Constitution of India",
+    "Article 269A of the Constitution of India",
+    "The Constitution (One Hundred and First Amendment) Act, 2016",
+    "Central Goods and Services Tax Act, 2017, Section 174(2)(c)",
+    "Central Excise Act, 1944, Section 5A",
+    "Additional Duties of Excise (Goods of Special Importance) Act, 1957, Section 3(3)",
+    "Additional Duties of Excise (Textiles and Textile Articles) Act, 1978, Section 3(3)"
+  ],
+  "final_judgment": "The appeals were dismissed. The Court held that the Union Government was not estopped from modifying fiscal incentives after the enactment of the CGST Act and implementation of the GST regime. It ruled that the O.M. of 2003 and related notifications could not override subsequent statutory changes. The 58% budgetary reimbursement was upheld as a valid policy decision in line with GST Council's recommendations, and no legal enforceable right to 100% exemption survived post-GST."
+}

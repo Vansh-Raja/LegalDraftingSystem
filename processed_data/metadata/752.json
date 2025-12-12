@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal Nos. 5348-5349 of 2019",
+  "parties": {
+    "petitioner": "The State of Himachal Pradesh and Others",
+    "respondent": "Yogendra Mohan Sengupta and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-01-11",
+  "summary": "The appeals challenged the National Green Tribunal's (NGT) orders dated 16 November 2017 and 14 October 2022, which stayed and invalidated a draft development plan for Shimla Planning Area (SPA), citing ecological and environmental concerns. The Supreme Court examined the legislative scheme of the Himachal Pradesh Town & Country Planning Act, 1977, the powers of the NGT, its jurisdiction to direct legislative bodies, res judicata of prior observations, and the overlapping jurisdiction with the High Court during pendency of a writ petition. The Court also assessed the balance between urban development and environmental protection. Key issues included the legality of NGT’s intervention in legislative functions and the validity of issuing binding directions on land-use policy.",
+  "legal_provisions_cited": [
+    "Himachal Pradesh Town & Country Planning Act, 1977",
+    "Forest (Conservation) Act, 1980",
+    "National Green Tribunal Act",
+    "Administrative Tribunals Act, 1985",
+    "Mantri Techzone Private Limited v. Union of India"
+  ],
+  "final_judgment": "The Supreme Court set aside the NGT's second order dated 14 October 2022 to the extent it interfered with the legislative function of the State, held that the NGT lacked jurisdiction to direct the legislative body on how to exercise its powers, and ruled that the pendency of a writ petition before the High Court barred the NGT from proceeding with parallel proceedings on the same issue. The first NGT order was upheld in part, but the second order was quashed for want of jurisdiction."
+}

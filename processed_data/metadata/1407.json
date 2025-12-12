@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 5233 of 2012",
+  "parties": {
+    "petitioner": "Nedumpilli Finance Company Limited",
+    "respondent": "State of Kerala & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-10",
+  "summary": "The key issue was whether NBFCs regulated under Chapter III-B of the RBI Act, 1934, can also be regulated by state money lending laws like the Kerala Money Lenders Act, 1958, and Gujarat Money Lenders Act, 2011. The court examined the legislative competence under Entries 43 (List I) and 30 (List II) of the Seventh Schedule and held that NBFCs fall under central regulatory authority due to comprehensive parliamentary regulation under the RBI Act. The Kerala and Gujarat High Courts had taken conflicting positions, but the Supreme Court upheld the autonomy of NBFCs from dual regulation, emphasizing repugnancy between state laws and central legislation. Reasoning focused on the doctrine of occupied field and legislative intent.",
+  "legal_provisions_cited": [
+    "Reserve Bank of India Act, 1934, Chapter III-B",
+    "Kerala Money Lenders Act, 1958",
+    "Gujarat Money Lenders Act, 2011",
+    "Seventh Schedule, Entry 43 (Union List)",
+    "Seventh Schedule, Entry 30 (State List)",
+    "Banking Regulation Act, 1949"
+  ],
+  "final_judgment": "The appeals by the NBFCs were allowed; the State enactments (Kerala and Gujarat Money Lenders Acts) were held inapplicable to NBFCs regulated under the RBI Act, affirming exclusive central jurisdiction over such entities."
+}

@@ -1,0 +1,22 @@
+{
+  "case_number": "Criminal Appeal No. 1999 of 2022 (arising out of SLP (Crl.) No. 1697 of 2020)",
+  "parties": {
+    "petitioner": "Pawan Kumar Goel",
+    "respondent": "State of U.P. & Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-11-17",
+  "summary": "The appeal challenged the Allahabad High Court's quashing of criminal proceedings under Section 138 of the Negotiable Instruments Act, 1881, against a director of a company for dishonor of a cheque. The High Court quashed the summoning order and revision order on grounds that the company was not arraigned as an accused and there were no averments that the director was in charge of and responsible for the company’s conduct, as required under Section 141 NI Act. The Supreme Court examined whether a director can be prosecuted without the company being named as an accused and whether necessary averments under Section 141 are mandatory. It emphasized strict compliance with Section 141 and upheld quashing due to lack of essential averments and non-joinder of the company.",
+  "legal_provisions_cited": [
+    "Section 138, Negotiable Instruments Act, 1881",
+    "Section 141, Negotiable Instruments Act, 1881",
+    "Section 200, Code of Criminal Procedure",
+    "Aneeta Hada v. Godfather Travels & Tours Pvt. Ltd.",
+    "S.M.S. Pharmaceuticals Ltd. v. Neeta Bhalla",
+    "N. Harihara Krishnan v. J. Thomas",
+    "Bilakchand Gyanchand Co. v. A. Chinnaswami",
+    "Rajneesh Aggarwal v. Amit J. Bhalla",
+    "Himanshu v. B. Shivamurthy"
+  ],
+  "final_judgment": "Appeal dismissed; High Court's quashing of proceedings upheld due to non-compliance with mandatory requirements under Section 141 of the NI Act."
+}

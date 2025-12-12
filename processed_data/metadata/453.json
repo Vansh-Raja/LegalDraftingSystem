@@ -1,0 +1,20 @@
+{
+  "case_number": "CIVIL APPEAL NO. 5026 OF 2023",
+  "parties": {
+    "petitioner": "Bhikchand S/O Dhondiram Mutha (Deceased) THROUGH LRS.",
+    "respondent": "Shamabai Dhanraj Gugale (Deceased) THROUGH LRS."
+  },
+  "court_name": "IN THE SUPREME COURT OF INDIA",
+  "date_of_judgment": "2024-05-14",
+  "summary": "The case concerns restitution under Section 144 of the Code of Civil Procedure, 1908, following the variation of a decree. The original decree for recovery of loan with interest was partly reversed on appeal, reducing the interest and costs. However, execution had already occurred in 1985, with decree-holder purchasing the judgment debtor's property at auction. The appellant, after the appellate decree, sought restitution, depositing the reduced amount. Lower courts rejected restitution, citing non-deposit during original execution. The Supreme Court examined whether restitution is mandatory upon decree modification, the status of decree-holder as auction purchaser, and whether subsequent purchasers could claim bona fide status. Key issues included applicability of Section 144 CPC post-variation, equity in favour of decree-holder purchasers, and rights of subsequent buyers with knowledge of litigation. The Court emphasized wide scope of restitution, distinguished bona fide purchasers, and noted that decree-holders cannot claim equitable protection when purchasing at execution sale.",
+  "legal_provisions_cited": [
+    "Section 144 of the Code of Civil Procedure, 1908",
+    "Order XXI Rule 54 CPC",
+    "Binayak Swain vs. Ramesh Chandra Panigrahi & Anr",
+    "Chinnamal & Ors. Vs. Arumugham & Anr",
+    "Padanathil Rugmini Ama Vs. P.K. Abdulla",
+    "South Eastern Coalfields Ltd. Vs. State of M.P. & Ors.",
+    "Gurjoginder Singh vs. Jaswant Kaur & Anr."
+  ],
+  "final_judgment": "The appeal was allowed, and restitution was directed under Section 144 CPC, setting aside the execution sale and requiring return of the properties or their value, given the variation of the decree and the decree-holder’s lack of bona fide purchaser status."
+}

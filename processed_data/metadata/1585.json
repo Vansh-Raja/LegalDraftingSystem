@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal Nos. 1811-1812 of 2022",
+  "parties": {
+    "petitioner": "Vallal RCK",
+    "respondent": "M/s Siva Industries and Holdings Limited and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-06-03",
+  "summary": "The appeal challenged the NCLAT's dismissal of the appellant's appeals against NCLT orders rejecting withdrawal of a Section 7 application under IBC despite a settlement plan approved by 94.23% of the Committee of Creditors (CoC). The key issue was whether adjudicating or appellate authorities can review the commercial wisdom of the CoC. The Supreme Court emphasized that under Section 12A of the IBC, withdrawal is permissible if approved by 90% of CoC, reflecting legislative intent to honor creditor consensus. The Court held that courts should not interfere with commercial decisions of the CoC, provided statutory thresholds are met.",
+  "legal_provisions_cited": [
+    "Insolvency and Bankruptcy Code, 2016, Section 12A",
+    "Insolvency and Bankruptcy Code, 2016, Section 33(1)(a)",
+    "Insolvency and Bankruptcy Code, 2016, Section 60(5)",
+    "Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016, Regulation 30A",
+    "Uttara Foods and Feeds Private Limited v. Mona Pharmacem"
+  ],
+  "final_judgment": "Appeals allowed. The orders of the NCLT and NCLAT rejecting withdrawal of the CIRP and approving liquidation were set aside. The Settlement Plan approved by 94.23% of the CoC was upheld, and the withdrawal of the CIRP application was permitted under Section 12A of the IBC."
+}

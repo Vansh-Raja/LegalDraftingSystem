@@ -1,0 +1,19 @@
+{
+  "case_number": "SPECIAL LEAVE PETITION (CIVIL) NO. 32554 OF 2018 WITH SPECIAL LEAVE PETITION (CIVIL) NO. 9096 OF 2019",
+  "parties": {
+    "petitioner": "Allahabad Bank & Ors.",
+    "respondent": "Avtar Bhushan Bhartiya"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-22",
+  "summary": "Dispute over reinstatement with 50% back wages and full consequential benefits for a bank officer dismissed in 1989 following departmental enquiry. High Court quashed dismissal order due to non-supply of enquiry report contrary to Regulations, directing reinstatement with partial back wages. Bank challenged quantum of wages limitation; employee contested 50% reduction. Court examined fault attribution: Bank failed to provide enquiry report with penalty order despite statutory requirement under Allahabad Bank Officer Employees (Discipline and Appeal) Regulations 1976 Regulation 9. Disciplinary authority independently analyzed evidence after acknowledging deficient reasoning in enquiry report. Appellate authority wrongly justified by post-return despite undelivered notice. Clarified legal position post-Union of India v. Tulsiram Patel and Managing Director, ECIL v. B. Karunakar regarding mandatory supply of enquiry report. Determined Bank solely responsible for procedural lapse causing decades-long litigation.",
+  "legal_provisions_cited": [
+    "Allahabad Bank Officer Employees (Discipline and Appeal) Regulations 1976 Regulation 9",
+    "Allahabad Bank Officer Employees (Discipline and Appeal) Regulations 1976 Regulation 17",
+    "Allahabad Bank Officer Employees (Conduct) Regulations Regulation 3(1)",
+    "Allahabad Bank Officer Employees (Conduct) Regulations Regulation 24",
+    "Union of India and Another vs. Tulsiram Patel",
+    "Managing Director, ECIL, Hyderabad vs. B. Karunakar"
+  ],
+  "final_judgment": "Upheld High Court's direction for reinstatement with 50% back wages and full consequential benefits including post-retirement entitlements due to Bank's procedural lapses in disciplinary proceedings; dismissed both SLPs challenging wage quantum."
+}

@@ -1,0 +1,22 @@
+{
+  "case_number": "Criminal Appeal Nos. 90-93 of 2022",
+  "parties": {
+    "petitioner": "Joseph Stephen and others",
+    "respondent": "Santhanasamy and others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-25",
+  "summary": "The appellants, originally acquitted by the first appellate court, challenged the Madras High Court's decision to set aside the acquittal and convict them while exercising revisional jurisdiction under Section 401 Cr.P.C. The key issues were whether a High Court can convert an acquittal into a conviction during revision, whether a revision application is maintainable when a victim has a statutory right of appeal under Section 372 Cr.P.C., and whether the High Court must pass a judicial order to treat a revision as an appeal under Section 401(5) Cr.P.C. The Supreme Court observed that the High Court cannot convert an acquittal into a conviction in revision; reliance was placed on precedents like K. Chinnaswamy Reddy and Ram Briksh Singh. It was also noted that post-amendment, victims have a statutory right to appeal against acquittal under Section 372 Cr.P.C., making revision generally impermissible. The Court declined to decide the merits and proposed remanding the matter to the High Court for reconsideration as an appeal, if permissible.",
+  "legal_provisions_cited": [
+    "Section 401 Cr.P.C.",
+    "Section 372 Cr.P.C.",
+    "Section 397 r/w 401 Cr.P.C.",
+    "Section 439(4) Cr.P.C. (old)",
+    "K. Chinnaswamy Reddy v. State of Andhra Pradesh, AIR 1962 SC 1788",
+    "Sheetal Prasad v. Sri Kant, (2010) 2 SCC 190",
+    "Ganesha v. Sharanappa, (2014) 1 SCC 87",
+    "Ram Briksh Singh v. Ambika Yadav, (2004) 7 SCC 665",
+    "Mallikarjun Kodagali v. State of Karnataka, (2019) 2 SCC 752"
+  ],
+  "final_judgment": "The matter is remanded to the High Court to reconsider the revision applications in light of the statutory right of appeal under Section 372 Cr.P.C. and the limitations of revisional jurisdiction, with the option to treat them as appeals if a judicial order is passed under Section 401(5) Cr.P.C."
+}

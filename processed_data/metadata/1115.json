@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal Nos. 8969, 8970, 8972, 8973, 8974 of 2022",
+  "parties": {
+    "petitioner": "M/s Sidha Neelkanth Paper Industries Private Limited & Another",
+    "respondent": "Prudent ARC Limited & Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-05",
+  "summary": "Interpretation of Section 18 of SARFAESI Act regarding pre-deposit requirement in appeals before DRAT. Issue: whether realization of 50% of debt via auction sale obviates need for borrower to pre-deposit. High Court held pre-deposit mandatory but allowed adjustment of 50% of remaining debt. DRAT had waived pre-deposit citing realized amount exceeding 50% of total debt. Supreme Court examined applicability of second proviso to Section 18, relevance of interest component, and adjustment of realized amounts. Clarified 'amount of debt due' based on original notice under Section 13(2).",
+  "legal_provisions_cited": [
+    "Section 18, SARFAESI Act, 2002",
+    "Section 13(2), SARFAESI Act, 2002",
+    "Section 13(3A), SARFAESI Act, 2002",
+    "Section 13(4), SARFAESI Act, 2002",
+    "Section 17, SARFAESI Act, 2002",
+    "Security Interest (Enforcement) Rules, 2002, Rule 8(6)"
+  ],
+  "final_judgment": "Appeals disposed of together; interpretation of Section 18 clarified—pre-deposit under second proviso not waivable but realizations from auction may be adjusted against pre-deposit obligation; amount of debt due to be computed based on principal debt in Section 13(2) notice, excluding future interest; DRAT may reduce pre-deposit to 25% with recorded reasons."
+}

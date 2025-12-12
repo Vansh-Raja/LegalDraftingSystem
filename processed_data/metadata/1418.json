@@ -1,0 +1,23 @@
+{
+  "case_number": "Criminal Appeal No. 1514 of 2022",
+  "parties": {
+    "petitioner": "P. Dharamaraj",
+    "respondent": "Shanmugam & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-08",
+  "summary": "The case involves a public interest challenge to the Madras High Court's quashing of a criminal complaint in a cash-for-job scam involving public officials. The FIR alleged offences under IPC Sections 405, 420, and 506(1) against Senthil Balaji, his brother Ashok Kumar, his PA Shanmugam, and Rajkumar. After the victims and accused filed compromise affidavits and a joint memo in 2021, the High Court quashed the case, citing settlement and Parbatbhai Aahir guidelines. P. Dharamaraj, an aggrieved applicant who lost out due to the scam, filed an SLP arguing that non-compoundable offences involving corruption and abuse of power cannot be quashed solely on compromise. An NGO, Anti Corruption Movement, also challenged the quashing and the refusal to recall the order. The Supreme Court considered whether quashing is permissible in cases involving public corruption despite private settlement.",
+  "legal_provisions_cited": [
+    "Section 482 Cr.P.C.",
+    "Section 173(2)(i) Cr.P.C.",
+    "Section 405 IPC",
+    "Section 420 IPC",
+    "Section 506(1) IPC",
+    "Section 406 IPC",
+    "Section 409 IPC",
+    "Section 34 IPC",
+    "Parbatbhai Aahir @ Parbatbhai Bhimsinhbhai Karmur vs. State of Gujarat (2017) 9 SCC 641",
+    "The State of Madhya Pradesh vs. Dhruv Gurjar and Another (2019) 2 MLJ Crl 10"
+  ],
+  "final_judgment": "Leave granted; matter remanded for further hearing with observation that quashing of criminal proceedings in cases involving public corruption and abuse of power requires careful scrutiny even if private parties have compromised."
+}

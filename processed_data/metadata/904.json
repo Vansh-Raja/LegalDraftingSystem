@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 11857 of 2016",
+  "parties": {
+    "petitioner": "Govt. of NCT of Delhi Through the Secretary, Land and Building Department & Another",
+    "respondent": "M/s. K.L. Rathi Steels Limited and others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-17",
+  "summary": "The central issue involved whether the delay in filing review/recall applications under Article 137 of the Constitution r/w Section 47 of the CPC should be condoned, where the original appeals were dismissed relying on Pune Municipal Corporation v. Harakchand Misirimal Solanki, a decision later overruled by a Constitution Bench in Indore Development Authority v. Manohar Lal. The petitioner contended that the legal basis for the earlier dismissal no longer stands, and subsequent jurisprudence allows review when a binding precedent is overruled. The Court considered that the Constitution Bench in Indore Development Authority specifically overruled Pune Municipal Corporation and all decisions following it, rendering prior dismissals based on incorrect law amenable to review. Reliance was placed on principles of retrospective application of law and exceptions to res judicata in light of changed legal position. The Court held that the delay in filing the applications is condoned.",
+  "legal_provisions_cited": [
+    "Article 137 of the Constitution of India",
+    "Section 47 of the Civil Procedure Code",
+    "Section 24(2) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013"
+  ],
+  "final_judgment": "Delay in filing the review/recall applications is condoned; applications allowed to proceed on merits."
+}

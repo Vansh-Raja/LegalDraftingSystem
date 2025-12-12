@@ -1,0 +1,20 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 2328 OF 2022",
+  "parties": {
+    "petitioner": "Deepak Gaba and Others",
+    "respondent": "State of Uttar Pradesh and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-02",
+  "summary": "Private complaint alleging forged billing; summons issued against unnamed managerial employees under s.406 IPC; issue: summoning without identifying specific accused; High Court dismissal of s.482 CrPC petition; standard: summons requires prima facie material against named individuals; absence of specific roles/identities in complaint vitiates proceedings; summons quashed due to non-identification of accused persons.",
+  "legal_provisions_cited": [
+    "Indian Penal Code, s.406",
+    "Indian Penal Code, s.405",
+    "Indian Penal Code, s.420",
+    "Indian Penal Code, s.471",
+    "Indian Penal Code, s.120B",
+    "Code of Criminal Procedure, 1973 s.482",
+    "Negotiable Instruments Act, 1881 s.138"
+  ],
+  "final_judgment": "Appeal allowed; summoning order and High Court judgment quashed; proceedings against unnamed managerial employees set aside."
+}

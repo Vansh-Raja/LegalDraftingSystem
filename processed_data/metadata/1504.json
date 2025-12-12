@@ -1,0 +1,17 @@
+{
+  "case_number": "CA 5305/2022",
+  "parties": {
+    "petitioner": "State Bank of India and Another",
+    "respondent": "Ajay Kumar Sood"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-16",
+  "summary": "The appeal challenged the High Court's affirmation of a Central Government Industrial Tribunal (CGIT) order modifying the penalty of dismissal of a bank employee to compulsory retirement. The CGIT found one charge of gross misconduct proven but deemed dismissal disproportionate. The High Court upheld this decision, directing computation of benefits under Section 10(9) and 10(10) of the Industrial Disputes Act 1947. The Supreme Court observed that the High Court's judgment was incomprehensible in language, undermining accessibility and clarity in judicial communication. Despite the flawed reasoning, the factual basis from the CGIT award showed that a serious misconduct was established, but penalty modification was justified. The Court upheld the modified penalty.",
+  "legal_provisions_cited": [
+    "Industrial Disputes Act 1947, Section 10(9)",
+    "Industrial Disputes Act 1947, Section 10(10)",
+    "Article 136 of the Constitution of India",
+    "Article 226 of the Constitution of India"
+  ],
+  "final_judgment": "Appeal dismissed; penalty of dismissal quashed and substituted with compulsory retirement as per CGIT and affirmed by High Court."
+}

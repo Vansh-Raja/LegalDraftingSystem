@@ -1,0 +1,16 @@
+{
+  "Let me carefully extract all the metadata from the given judgment following the schema provided. I need to ensure I only include what's explicitly stated in the document and format it correctly as JSON. No extra text or prose, just pure valid JSON with the specified keys. I'll go through each required field systematically.}": "Looking at the document structure, I can see it's titled 'Rohit Bishnoi vs The State Of Rajasthan on 24 July, 2023'. At the beginning, it has '2023 INSC 642                        CRIMINAL APPELLATE JURISDICTION' followed by 'CRIMINAL APPEAL NO. 2078 OF 2023 (@ SLP (CRL. NO. 8935 OF 2023) (@DIARY NO(S).40947 OF 2022)' - so I'll use the criminal appeal number structure like in the example, combining these elements.",
+  "parties": {
+    "petitioner": "Rohit Bishnoi",
+    "respondent": "The State Of Rajasthan & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-07-24",
+  "summary": "Bail appeals challenging High Court's grant of bail in murder case under IPC 302/34 and Arms Act; seriousness of offences vs. bail entitlement when prima facie innocence established; High Court failed to consider overwhelming prosecution evidence and grave nature of crime; bail granted cryptically without proper reasoning; standard: must consider gravity of allegations and strength of evidence; witnesses identified accused in CCTV and photographs; weapons recovered; bail applications wrongly allowed.",
+  "legal_provisions_cited": [
+    "IPC 302 read with 34",
+    "Arms Act 1959 sections 3, 25, 27",
+    "CrPC 1973 section 439"
+  ],
+  "final_judgment": "Appeals allowed; High Court judgments set aside; bail granted to accused cancelled."
+}

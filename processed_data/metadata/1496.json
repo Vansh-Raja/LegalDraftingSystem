@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 1984 of 2022",
+  "parties": {
+    "petitioner": "Shyam Sel And Power Limited and Another",
+    "respondent": "Shyam Steel Industries Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-14",
+  "summary": "The appeal challenged the Division Bench of the Calcutta High Court's judgment modifying a Single Judge's ad-interim order that granted time to the appellants to file an affidavit-in-opposition and directed maintenance of weekly sales accounts, but did not grant an injunction. The Supreme Court examined whether the intra-court appeal to the Division Bench was maintainable under Clause 15 of the Letters Patent, as the Single Judge's order was interlocutory. The Court emphasized that it would not decide on the merits to avoid prejudice, focusing instead on the jurisdictional question of whether the order was appealable. Reliance was placed on Shah Babulal Khimji and Monsanto Technology LLC to assess the tenability of the appeal and the correctness of the Division Bench's interference.",
+  "legal_provisions_cited": [
+    "Order XXXIX Rules 1 and 2, Code of Civil Procedure, 1908",
+    "Clause 15 of the Letters Patent of the High Court",
+    "Shah Babulal Khimji v. Jayaben D. Kania and Another (1981) 4 SCC 8",
+    "Wander Ltd. and Another v. Antox India P. Ltd. 1990 Supp SCC 727",
+    "Monsanto Technology LLC v. Nuziveedu Seeds Limited (2019) 3 SCC 381",
+    "Renaissance Hotel Holdings Inc. v. B. Vijaya Sai and Others 2022 SCC OnLine SC 61"
+  ],
+  "final_judgment": "The appeal was decided on the question of maintainability of the intra-court appeal against an interlocutory order; the Court refrained from deciding the merits to avoid prejudice to either party."
+}

@@ -1,0 +1,15 @@
+{
+  "case_number": "2025 INSC 369",
+  "parties": {
+    "petitioner": "Naganna (Dead) By Lrs. / Smt Devamma & Ors.",
+    "respondent": "Siddaramegowda (Since Deceased) By Lrs. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-03-19",
+  "summary": "The appeal challenged the Karnataka High Court's reversal of a trial court's decree granting permanent injunction, cancellation of a sale deed dated 03.03.1993, and recovery of possession. The trial and first appellate courts found the sale deed void and upheld the plaintiff's possession based on oral partition and a palli pattu (15.09.1995). The High Court, citing lack of title deeds and insufficient proof of ownership via revenue records, set aside the decree. The Supreme Court examined whether the absence of title deeds barred relief in a suit for injunction and whether concurrent findings could be overturned in second appeal. It emphasized that for injunction, lawful possession matters more than title, and that courts should not re-appreciate evidence in second appeals under Section 100 CPC. The High Court was found to have exceeded jurisdiction by delving into factual findings.",
+  "legal_provisions_cited": [
+    "Section 100 of Civil Procedure Code, 1908",
+    "Union of India and Ors. vs. Vasavi Cooperative Housing Society Limited and Ors., 2014 (2) SCC 269"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, set aside the High Court's judgment, and restored the decrees of the Trial Court and First Appellate Court, granting permanent injunction, cancellation of the sale deed, and delivery of possession to the appellants."
+}

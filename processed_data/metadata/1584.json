@@ -1,0 +1,26 @@
+{
+  "case_number": "Criminal Appeal No.485 of 2012",
+  "parties": {
+    "petitioner": "Uttam",
+    "respondent": "The State of Maharashtra"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-06-02",
+  "summary": "The appeal challenged the conviction of Uttam under Section 302 IPC for murdering his wife by pouring kerosene and setting her on fire. The High Court upheld the conviction relying on oral dying declarations made to the deceased's father (PW-2) and marriage mediator (PW-12), alongside chemical analysis confirming kerosene on clothes, despite discarding two written dying declarations due to procedural flaws. The appellant argued inconsistency between written and oral declarations and unreliability of oral declarations made to relatives. The respondent contended consistency in the core version of the incident and reliability supported by medical fitness certificates and forensic evidence. The Court examined the evidentiary value of dying declarations under Section 32 of the Evidence Act, recognizing that while written declarations were rejected, oral declarations could be relied upon if consistent and trustworthy.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 32 Indian Evidence Act, 1872",
+    "Section 161 CrPC",
+    "Section 60 Evidence Act",
+    "Nallapati Sivaiah v. Sub-Divisional Officer, Guntur",
+    "Arvind Singh v. State of Bihar",
+    "Arun Bhandudas Pawar v. State of Maharashtra",
+    "Poonam Bai v. State of Chhattisgarh",
+    "State of Uttar Pradesh v. Veerpal",
+    "Rizan and Another v. State of Chhattisgarh",
+    "Bhagwan Tukaram Dange v. State of Maharashtra",
+    "Trimukh Maroti Kirkan v. State of Maharashtra",
+    "Kundula Bala Subrahmanyam and Another v. State of Andhra Pradesh"
+  ],
+  "final_judgment": "The appeal was dismissed. The Supreme Court upheld the conviction and sentence, affirming that the oral dying declarations made to PW-2 and PW-12 were reliable and consistent with the core facts, and when corroborated by chemical evidence, were sufficient to sustain the conviction."
+}

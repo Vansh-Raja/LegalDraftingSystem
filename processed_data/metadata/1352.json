@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 6774 of 2022",
+  "parties": {
+    "petitioner": "M/s. Emaar India Ltd.",
+    "respondent": "Tarun Aggarwal Projects LLP & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-30",
+  "summary": "The dispute arose from a Collaboration Agreement and Addendum Agreement between the parties regarding development of a residential colony. The respondent sought appointment of arbitrators under Section 11(5) & (6) of the Arbitration and Conciliation Act, 1996, citing Clause 37. The appellant contended that the dispute fell under Clause 36, which provides for specific enforcement through court for disputes under Clauses 3, 6, and 9, rendering such disputes non-arbitrable. The High Court appointed arbitrators, observing that Clause 36 does not bar arbitration. The Supreme Court examined whether the High Court erred in not conducting a preliminary inquiry into arbitrability. Relying on Vidya Drolia and Indian Oil Corporation Ltd. v. NCC Limited, the Court held that a limited judicial review under Section 11 is permissible to determine if the dispute is demonstrably non-arbitrable. Upon plain reading of Clauses 36 and 37, disputes under Clauses 3, 6, and 9 are non-arbitrable and must be resolved by court. The High Court failed to conduct this inquiry and thus erred in appointing arbitrators.",
+  "legal_provisions_cited": [
+    "Section 11(5) & (6) of the Arbitration and Conciliation Act, 1996",
+    "Clause 36 and Clause 37 of the Addendum Agreement dated 19.04.2011",
+    "Uttarakhand Purv Sainik Kalyan Nigam Limited Vs. Northern Coal Field Limited; (2020) 2 SCC 455",
+    "Vidya Drolia and Ors. Vs. Durga Trading Corporation; (2021) 2 SCC 1",
+    "Indian Oil Corporation Limited Vs. NCC Limited; 2022 SCC OnLine SC 896",
+    "Oriental Insurance Co Ltd. Vs. Narbheram Power and Steel (P) Ltd.; (2018) 6 SCC 534",
+    "Rajasthan State Industrial Development and Investment Corporation Vs. Diamond and Gem Development Corporation Ltd.; (2013) 5 SCC 470"
+  ],
+  "final_judgment": "The appeal is allowed. The impugned judgment and order of the Delhi High Court appointing arbitrators is set aside. The dispute, being governed by Clause 36 insofar as it pertains to Clauses 3, 6, and 9, is not arbitrable. Parties may approach the appropriate civil court for specific enforcement as provided under Clause 36."
+}

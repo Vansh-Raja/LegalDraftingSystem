@@ -1,0 +1,19 @@
+{
+  "case_number": "2024 INSC 548; CIVIL APPEAL NO. 4565 OF 2021",
+  "parties": {
+    "petitioner": "BRS Ventures Investments Ltd.",
+    "respondent": "SREI Infrastructure Finance Ltd. & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-07-23",
+  "summary": "Subrogation rights post-resolution plan approval; Section 140 Contract Act applicability; admission of Section 7 IBC application against subsidiary despite partial payment by guarantor in parent company's CIRP; distinction between holding company and subsidiary assets under IBC; information memorandum exclusion of subsidiary assets; resolution plan terms extinguishing guarantees; liability continuation on principal borrower for balance dues.",
+  "legal_provisions_cited": [
+    "Insolvency and Bankruptcy Code, 2016 s.7",
+    "Insolvency and Bankruptcy Code, 2016 s.36(4)",
+    "Insolvency and Bankruptcy Code, 2016 s.18",
+    "Indian Contract Act, 1872 s.140",
+    "Indian Contract Act, 1872 s.63",
+    "Indian Contract Act, 1872 s.41"
+  ],
+  "final_judgment": "Appeal dismissed; NCLAT judgment affirming admission of IBC Section 7 application against corporate debtor upheld; subrogation claim rejected; financial creditor entitled to pursue balance dues from principal borrower."
+}

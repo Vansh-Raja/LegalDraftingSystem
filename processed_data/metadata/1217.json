@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 009014 of 2022 (arising out of Special Leave Petition (Civil) No. 18808 of 2019)",
+  "parties": {
+    "petitioner": "Smt. Anjali & Ors.",
+    "respondent": "Lokendra Rathod & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-06",
+  "summary": "The appeal challenged the compensation awarded to the heirs of Rajesh (deceased) in a motor accident case. The Motor Accident Claims Tribunal (MACT) initially estimated the deceased's income at Rs. 4,000/month and awarded Rs. 6,24,000/-; the Madhya Pradesh High Court increased it to Rs. 5,000/month and awarded Rs. 11,41,000/-. The Supreme Court found error in both courts: (1) the deceased’s ITR for FY 2009-10 showing income of Rs. 9,855/month was disregarded, and reliance on ITR was mandated by Malarvizhi; (2) personal expense deduction should be 1/5th (not 1/4th) as there were 7 dependents, per Sarla Verma and Pranay Sethi; (3) the High Court correctly allowed 40% for future prospects (applicable to self-employed below 40), but (4) the conventional compensation (Rs. 70,000/-) and funeral expenses (Rs. 10,000/-) were awarded without applying mandated periodic increases. The case was remanded for recalculation of 'just and fair' compensation under Section 168 of the MV Act, 1988, incorporating ITR, proper deductions, future prospects, and updated conventional heads.",
+  "legal_provisions_cited": [
+    "Section 166, Motor Vehicles Act, 1988",
+    "Section 168, Motor Vehicles Act, 1988",
+    "Laxmi Devi & Ors. Vs. Mohammad Tabbar & Anr. (2008) 12 SCC 165",
+    "Malarvizhi & Ors. Vs. United India Insurance Co. Ltd. & Ors. (2020) 4 SCC 228",
+    "Sarla Verma & Ors. Vs. Delhi Transport Corporation & Anr. (2009) 6 SCC 121",
+    "National Insurance Co. Ltd. Vs. Pranay Sethi & Ors. (2017) 16 SCC 680"
+  ],
+  "final_judgment": "The appeal is allowed. The matter is remanded to the Motor Accident Claims Tribunal for recomputation of compensation in accordance with the principles laid down in this judgment, including consideration of the deceased's ITR, correct personal expense deduction (1/5th), future prospects (40%), and updated conventional heads with applicable increments. Interim relief in terms of interest stands."
+}

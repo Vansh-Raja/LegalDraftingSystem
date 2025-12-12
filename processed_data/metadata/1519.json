@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal No. 242 of 2022",
+  "parties": {
+    "petitioner": "Subramanya",
+    "respondent": "State of Karnataka"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-13",
+  "summary": "The appeal challenged the Karnataka High Court's conviction of Subramanya for murder under Section 302 IPC, arising from the death of Kamalamma. The prosecution alleged conspiracy between Subramanya and Gowri (the deceased's stepdaughter) due to illicit relationship and opposition from the victim. The murder, reportedly committed with a club, was followed by theft of ornaments and mobile, and burial of the body with assistance from co-accused Seetharam Bhat. Discovery statements under Section 27 of the Indian Evidence Act led to recovery of ornaments, weapon (club), and clothes. The trial court acquitted all accused on all charges, finding insufficient evidence on motive, common intention, and conspiracy. The High Court reversed the acquittal and convicted Subramanya. The Supreme Court examined reliability of extra-judicial confession, evidence under Section 27, and panch witness testimonies, ultimately assessing whether the prosecution proved guilt beyond reasonable doubt.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 120-B IPC",
+    "Section 379 IPC",
+    "Section 201 IPC",
+    "Section 34 IPC",
+    "Section 27 Indian Evidence Act, 1872",
+    "Section 209 Cr.P.C."
+  ],
+  "final_judgment": "The appeal was allowed, setting aside the conviction and sentence imposed by the High Court, and restoring the order of acquittal passed by the trial court."
+}

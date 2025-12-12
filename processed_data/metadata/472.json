@@ -1,0 +1,25 @@
+{
+  "case_number": "Criminal Appeal No. ___ of 2024 (Arising out of SLP (Crl.) No. 3033 of 2024)",
+  "parties": {
+    "petitioner": "Child in Conflict with Law Through His Mother",
+    "respondent": "The State of Karnataka and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-05-07",
+  "summary": "The appeal challenges the High Court's order setting aside the Juvenile Justice Board's decision to try the Child in Conflict with Law (CCL) as a juvenile. The key issues were: (1) whether the Board's 05.04.2022 order directing trial by the Children’s Court was valid, given a dissenting member did not sign and later a contrary order was passed on 12.04.2022; (2) whether the application under Section 19 of the JJ Act, 2015, filed after proceedings began, was maintainable; (3) whether the High Court correctly exercised revisional jurisdiction under Cr.P.C. to overturn the Board's 10.04.2023 order dismissing the transfer application. The appellant argued the 05.04.2022 order was not final, the 12.04.2022 order commenced proceedings, and no appeal was filed within the statutory period under Section 101. The Court examined the composition and procedure of the Board, finality of orders, and timeliness of preliminary assessment under Section 15 of the JJ Act, 2015.",
+  "legal_provisions_cited": [
+    "Section 15, Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 17, Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 18(3), Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 19, Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 14, Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 101, Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 397 and 399, Code of Criminal Procedure, 1973",
+    "Rule 10A, Juvenile Justice (Care and Protection of Children) Model Rules, 2016",
+    "Protection of Children from Sexual Offences Act, 2012, Sections 4, 5, 6, 7, 8",
+    "Indian Penal Code, Sections 376(i), 342",
+    "Balaji Baliram Mupade v. State of Maharashtra and Others",
+    "Barun Chandra Thakur v. Master Bholu & Anr."
+  ],
+  "final_judgment": "Leave granted; matter remanded to the Juvenile Justice Board for fresh decision in accordance with law, ensuring compliance with statutory timelines and procedural requirements under the JJ Act, 2015."
+}

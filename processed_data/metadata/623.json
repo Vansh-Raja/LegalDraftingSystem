@@ -1,0 +1,22 @@
+{
+  "case_number": "Criminal Appeal No. 2668 of 2024",
+  "parties": {
+    "petitioner": "National Investigation Agency New Delhi",
+    "respondent": "Owais Amin @ Cherry & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-05-17",
+  "summary": "Challenge to High Court's partial confirmation of Special Judge's judgment in NIA case; issue centered on procedural compliance for taking cognizance under Sections 196-A CrPC, 1989 for conspiracy (Section 120-B RPC) and cognizance under Sections 306, 411 RPC and Section 39 UAPA; Supreme Court upheld High Court's finding that no authorization under Section 196-A CrPC, 1989 was present for Section 120-B charge; affirmed that complaint under Section 4(1)(e) CrPC, 1989 requires no prescribed form; remitted charges under Sections 306, 411 RPC and Section 39 UAPA for fresh consideration, though deemed academic as Special Judge had already taken cognizance; final determination limited to interpretation and applicability of Section 196-A CrPC, 1989 versus CrPC, 1973.",
+  "legal_provisions_cited": [
+    "Section 196 CrPC, 1989",
+    "Section 196-A CrPC, 1989",
+    "Section 4(1)(e) CrPC, 1989",
+    "Section 120-B RPC, 1989",
+    "Section 306 RPC, 1989",
+    "Section 411 RPC, 1989",
+    "Section 39 UAPA, 1967",
+    "Section 195 CrPC, 1989",
+    "Section 196A CrPC, 1898"
+  ],
+  "final_judgment": "Appeal allowed in part; upheld High Court's finding on non-compliance with Section 196-A CrPC, 1989 for charge under Section 120-B RPC; declined to interfere with charges under Sections 306, 411 RPC and Section 39 UAPA as trial was advanced and cognizance already taken; matter concerning Section 196-A CrPC, 1989 clarified."
+}

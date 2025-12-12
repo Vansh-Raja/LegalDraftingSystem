@@ -1,0 +1,23 @@
+{
+  "case_number": "CIVIL APPEAL NO. 4639 OF 2022 [ARISING OUT OF SLP (C) NO.30216 OF 2018]",
+  "parties": {
+    "petitioner": "M/S. Ramnath Exports Pvt. Ltd.",
+    "respondent": "Vinita Mehta & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-05",
+  "summary": "The appeal challenged the High Court's dismissal of a first appeal on the ground of res-judicata due to the filing of a single appeal against two separate decrees from consolidated suits. The appellant contended that the suits were consolidated and disposed of by a common judgment, justifying a single appeal, and that the High Court failed to decide an application (CLMA No.4365 of 2008) seeking permission for a joint appeal. The respondents argued that separate appeals were mandatory under Section 96 of CPC, and since no appeal was filed against one decree within the limitation period, it attained finality. The Supreme Court examined Section 96 CPC and precedents, noting procedural irregularities in the High Court's non-adjudication of the CLMA, leading to prejudice.",
+  "legal_provisions_cited": [
+    "Section 96 of CPC",
+    "Section 8 of Suits Valuation Act, 1887",
+    "Zaharia Vs. Dibia & Ors., ALR (1910) Allahabad 51",
+    "Narhari & Ors. Vs. Shanker & Ors., AIR 1953 SC 419",
+    "Mt. Lachhmi Vs. Mt. Bhulli, AIR 1927 Lahore 289",
+    "Lonankutty Vs. Thomman & Anr., (1976) 3 SCC 528",
+    "Sri Gangai Vinayagar Temple & Anr. Vs. Meenakshi Ammal & Ors., (2015) 3 SCC 624",
+    "State of Andhra Pradesh & Ors. Vs. B. Ranga Reddy (thru LR’s) & Ors., (2020) 15 SCC 681",
+    "V. Natarajan Vs. SKS Ispat & Power Ltd. & Ors., Civil Appeal No.3327 of 2020",
+    "B. Santoshamma & Anr. Vs. D. Sarla & Anr., 2020 SCC OnLine SC 756"
+  ],
+  "final_judgment": "The Supreme Court set aside the impugned order of the High Court and remanded the matter for fresh adjudication after deciding the pending CLMA application, holding that the failure to decide the application seeking permission for a joint appeal caused serious procedural prejudice to the appellant."
+}

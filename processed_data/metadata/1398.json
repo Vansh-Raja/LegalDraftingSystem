@@ -1,0 +1,14 @@
+{
+  "case_number": "Civil Appeal No.1538 of 2022",
+  "parties": {
+    "petitioner": "Municipal Council Gondia",
+    "respondent": "Divi Works & Suppliers, HUF & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-28",
+  "summary": "The Municipal Council Gondia cancelled a work order for supply of school furnishings due to financial constraints during the COVID-19 pandemic. The High Court had directed specific performance of the contract, holding the supplier entitled to supply and receive payment. The Supreme Court found no evidence that customized goods were actually manufactured as claimed, and held that disputed factual issues precluded issuance of mandamus for specific performance. It also ruled that relief of specific performance was not maintainable in a writ petition under Article 226, and that the cancellation was justified due to pandemic-related constraints and lack of urgency.",
+  "legal_provisions_cited": [
+    "Article 226 of the Constitution of India"
+  ],
+  "final_judgment": "Appeal allowed; impugned judgment of the High Court quashed and set aside; writ petition dismissed; respondents may pursue civil remedies for damages if any."
+}

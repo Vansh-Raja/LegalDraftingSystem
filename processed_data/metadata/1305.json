@@ -1,0 +1,21 @@
+{
+  "case_number": "Criminal Appeal No. 738 of 2022 (arising out of SLP (Crl.) No. 8305 of 2021)",
+  "parties": {
+    "petitioner": "J. Sekar @ Sekar Reddy",
+    "respondent": "Directorate of Enforcement"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-05",
+  "summary": "The appellant challenged the PMLA proceedings contending that the underlying scheduled offence was closed due to lack of evidence, and thus money laundering charges under Sections 3 & 4 of PMLA could not sustain. The High Court had dismissed the quashing petition under Section 482 Cr.P.C., holding that money laundering is independent of the scheduled offence and that demonetized currency seizure indicated suspicious financial activity. The Supreme Court considered whether PMLA proceedings can continue when the scheduled offence investigation is closed. It noted that while the CBI's main case (RC MA1 2016 A0040) ended in a closure report accepted by court, and two other FIRs were quashed by the High Court, the ED relied on recovery of Rs. 33+ crore in new Rs. 2000 notes post-demonetization. The Adjudicating Authority had rejected provisional attachment, citing lack of evidence linking old notes' conversion via bank officials. The Supreme Court emphasized that despite independent nature of PMLA proceedings, absence of scheduled offence evidence weakens the foundation of money laundering charge. Reliance placed on Radheshyam Kejriwal and Ashoo Surendranath Tewari. However, since appeal against Adjudicating Authority’s order was pending before Appellate Tribunal, quashing at trial stage not warranted.",
+  "legal_provisions_cited": [
+    "Section 3 & 4, Prevention of Money Laundering Act, 2002",
+    "Section 44(1), PMLA",
+    "Section 5(1), PMLA",
+    "Section 8(1), PMLA",
+    "Section 173(2), Cr.P.C.",
+    "Section 482, Cr.P.C.",
+    "Radheshyam Kejriwal v. State of West Bengal, (2011) 3 SCC 581",
+    "Ashoo Surendranath Tewari v. Deputy Superintendent of Police, EOW, CBI, (2020) 9 SCC 636"
+  ],
+  "final_judgment": "Leave granted; appeal allowed in part. The Supreme Court set aside the impugned order of the Madras High Court to the extent it dismissed the quashing petition based solely on the possibility of independent PMLA proceedings. Remanded the matter to High Court to reconsider the maintainability of PMLA charges in light of closure of scheduled offence cases and observations of Adjudicating Authority, keeping in mind the limited scope of Section 482 Cr.P.C."
+}

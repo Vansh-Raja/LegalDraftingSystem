@@ -1,0 +1,295 @@
+State Bank Of India vs Assistant Commissioner Of Income Tax on 4 November, 2022
+
+State Bank Of India vs Assistant Commissioner Of Income Tax
+on 4 November, 2022
+
+Author: Sudhanshu Dhulia
+
+Bench: Sudhanshu Dhulia, Uday Umesh Lalit
+
+1
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 8181 OF 2022
+(ARISING OUT OF SLP (C) No. 9876 of 2020)
+
+STATE BANK OF INDIA                                      …APPELLANT
+
+Versus
+
+ASSISTANT COMMISSIONER
+OF INCOME TAX                                            ....RESPONDENT
+
+ORDER
+
+Sudhanshu Dhulia, J.
+
+1. Leave granted. The appellant (State Bank of India) has challenged the judgement dated
+13.01.2020 passed by a Division Bench of the Delhi High Court in ITA No. 05/2020 which has
+dismissed the appeal filed by the appellant and upheld the order passed by the Income Tax
+Appellate Tribunal (ITAT) dated 09.07.2019, holding the appellant as an assessee in default for the
+Assessment Year (AY) 2013- 14, for not deducting TDS of its employees.
+
+2. The question which has fallen for our consideration is whether the appellant was in default for not
+deducting tax at source while releasing payments to its employees as Leave Travel Concession (LTC)
+
+3. LTC is a payment made to an employee which is exempted as ‘income’ and hence under normal
+circumstances, there should be no question of TDS on this payment. All the same, LTC has to be
+availed by an employee within certain limitations, prescribed by the law. Firstly, the travel must be
+done from one designated place in India to another designated place within India. In other words,
+LTC is not for a foreign travel. Secondly, LTC is given for the shortest route between these two
+places. Admittedly, the employees of SBI in the present case, had done their travel not just within
+
+1
+
+State Bank Of India vs Assistant Commissioner Of Income Tax on 4 November, 2022
+
+India but their journey involved a foreign leg as well. It was also not the shortest route,
+consequently, according to the Revenue this was not a travel from a designated place within India to
+another designated place in India and thus it was in violation of the statutory provisions and hence
+the payment made to its employees by the Bank could not be exempted, and the Bank ought to have
+deducted Tax at source, while making this payment. To give an example of one of the employees of
+the appellant who availed LTC taking a circuitous route of Delhi- Madurai- Columbo- Kuala
+Lampur- Singapore- Columbo- Delhi and his claim was fully reimbursed by the appellant and no tax
+was deducted under Section 192(1) for the same.
+
+4. The appellant on the other hand through its counsel senior advocate Shri K.V. Vishwanathan,
+would argue that though the travel made by its employees under LTC did involve a foreign leg and
+admittedly a circuitous route as opposed to the shortest route was taken, yet two things go in the
+favour of the employees. Firstly, the employees of the appellant did travel from one designated place
+in India to another place within India (though in their travel itinerary a foreign country was also
+involved), and secondly the payments which were actually made to these employees was for the
+shortest route of their travel between two designated places within India. In other words, no
+payment was made for foreign travel though a foreign leg was a part of the itinerary undertaken by
+these employees.
+
+5. The above reasons given by the appellant-bank however, has not found favour either with the
+Assistant Commissioner of Income Tax or with the Commissioner of Income Tax (Appeals) or even
+the High Court. After examining the matter our considered opinion is that the view taken by the
+Delhi High Court and the Tribunal and even by the revenue in its initiation of proceedings cannot be
+faulted. The appellant whom we shall refer to as the ‘assessee-employer’ ought to have deducted tax
+at source.
+
+6. Let us first go through some of the relevant provisions of the Income Tax Act, 1961 (for short ‘the
+Act’) and the Income Tax Rules, 1962 framed therein. Let us first take Section 192(1) of the Act
+which casts a statutory duty on the employer to deduct Tax at source from the salary of its employee
+“192(1) Any person responsible for paying any income chargeable under the head “Salaries” shall, at
+the time of payment, deduct income-tax on the amount payable at the average rate of income-tax
+computed on the basis of the rates in force for the financial year in which the payment is made, on
+the estimated income of the assessee under this head for that financial year.” The consequences of
+failure to deduct tax at source when it is due, is given in Section 201, which reads as follows:-
+
+“Consequences of failure to deduct or pay.
+
+201. (1) Where any person, including the principal officer of a company,—
+
+(a) who is required to deduct any sum in accordance with the provisions of this Act;
+or
+
+(b) referred to in sub-section (1A) of section 192, being an employer, does not deduct,
+or does not pay, or after so deducting fails to pay, the whole or any part of the tax, as
+
+2
+
+State Bank Of India vs Assistant Commissioner Of Income Tax on 4 November, 2022
+
+required by or under this Act, then, such person, shall, without prejudice to any other
+consequences which he may incur, be deemed to be an assessee in default in respect
+of such tax:
+
+Provided that any person, including the principal officer of a company, who fails to
+deduct the whole or any part of the tax in accordance with the provisions of this
+Chapter on the sum paid to a payee or on the sum credited to the account of a payee
+shall not be deemed to be an assessee in default in respect of such tax if such payee-
+
+(i) has furnished his return of income under section 139;
+
+(ii) has taken into account such sum for computing income in such return of income;
+and
+
+(iii) has paid the tax due on the income declared by him in such return of income, and
+the person furnishes a certificate to this effect from an accountant in such form as
+may be prescribed Provided further that no penalty shall be charged under section
+221 from such person, unless the Assessing Officer is satisfied that such person,
+without good and sufficient reasons, has failed to deduct and pay such tax.
+
+Section 10(5) which exempts payments received as LTC with which we are presently concerned. It
+reads as under :-
+
+“10. In computing the total income of a previous year of any person, any income
+falling within any of the following clauses shall not be included — XXX XXX XXX (5)
+in the case of an individual, the value of any travel concession or assistance received
+by, or due to him,—
+
+(a) from his employer for himself and his family, in connection with his proceeding
+on leave to any place in India ;
+
+(b) from his employer or former employer for himself and his family, in connection
+with his proceeding to any place in India after retirement from service or after the
+termination of his service, subject to such conditions as may be prescribed including
+conditions as to number of journeys and the amount which shall be exempt per head
+having regard to the travel concession or assistance granted to the employees of the
+Central Government :
+
+Provided that the amount exempt under this clause shall in no case exceed the
+amount of expenses actually incurred for the purpose of such travel:
+
+[Explanation 1].—For the purposes of this clause, "family", in relation to an
+individual, means—
+
+3
+
+State Bank Of India vs Assistant Commissioner Of Income Tax on 4 November, 2022
+
+(i) the spouse and children of the individual ; and
+
+(ii) the parents, brothers and sisters of the individual or any of them, wholly or
+mainly dependent on the individual.” The above provision has to be read along with
+Rule 2B of Income Tax Rules. Rule 2B reads as under :-
+
+“[Conditions for the purpose of section 10(5) .
+
+2B. (1) The amount exempted under clause (5) of section 10 in respect of the value of
+travel concession or assistance received by or due to the individual from his employer
+or former employer for himself and his family, in connection with his proceeding,—
+
+(a) on leave to any place in India;
+
+(b) to any place in India after retirement from service or after the termination of his
+service, shall be the amount actually incurred on the performance of such travel
+subject to the following conditions, namely :— [(i) where the journey is performed on
+or after the 1st day of October, 1997, by air, an amount not exceeding the air economy
+fare of the national carrier by the shortest route to the place of destination;
+
+(ii) where places of origin of journey and destination are connected by rail and the
+journey is performed on or after the 1st day of October, 1997, by any mode of
+transport other than by air, an amount not exceeding the air-
+
+conditioned first class rail fare by the shortest route to the place of destination;
+
+and
+
+(iii) where the places of origin of journey and destination or part thereof are not connected by rail
+and the journey is performed on or after the 1st day of October, 1997, between such places, the
+amount eligible for exemption shall be :— (A) where a recognised public transport system exists, an
+amount not exceeding the 1st class or deluxe class fare, as the case may be, on such transport by the
+shortest route to the place of destination; and (B) where no recognised public transport system
+exists, an amount equivalent to the air-conditioned first class rail fare, for the distance of the
+journey by the shortest route, as if the journey had been performed by rail.]”
+
+7. The appellant before us is a Public Sector Bank, namely, State Bank of India (SBI). The Revenue
+has held the appellant to be an “assessee in default”, for not deducting the tax at source of its
+employees.
+
+8. These proceedings started with a Spot Verification under Section 133A when it was discerned by
+the Revenue that some of the employees of the assessee- employer had claimed LTC even for their
+travel to places outside India. These employees, even though, raised a claim of their travel expenses
+between two points within India but between the two points they had also travelled to a foreign
+
+4
+
+State Bank Of India vs Assistant Commissioner Of Income Tax on 4 November, 2022
+
+country as well, thus taking a circuitous route for their destination which involved a foreign place.
+The matter was hence examined by the Assessing Officer who was of the opinion that the amount of
+money received by an employee as LTC is exempted under Section 10(5) of the Act, however, this
+exemption cannot be claimed by an employee for travel outside India which has been done in this
+case and therefore the assessee- employer defaulted in not deducting tax at source from this amount
+claimed by its employees as LTC. There were two violations of the LTC Rules, pointed out by the
+Assessing Officer:
+
+A. The employee did not travel only to a domestic destination but to a foreign country
+as well and B. The employees had admittedly not taken the shortest possible route
+between the two destinations thus the Applicant was held to be an assessee in default
+by the Assessing Officer.
+
+The travel undertaken by the employees as LTC was hence in violation of Section
+10(5) of the Act read with Rule 2B of the Income Tax Rules, 1962, both of which have
+been reproduced above. The order of the Assessing Officer was challenged before CIT
+(A), which was dismissed and so was their appeal before the Income Tax Appellate
+Tribunal.
+
+9. The Delhi High Court vide its order dated 13.01.2020 dismissed the appeal holding that there was
+no substantial question of law in the Appeal. It was held that the amount received by the employees
+of the assessee employer towards their LTC claims is not liable for the exemption as these employees
+had visited foreign countries which is not permissible under the law.
+
+10. The provisions of law discussed above prescribe that the air fare between the two points, within
+India will be given and the LTC which will be given will be of the shortest route between these two
+places, which have to be within India. A conjoint reading of the provisions discussed herein with the
+facts of this case cannot sustain the argument of the appellant that the travel of its employees was
+within India and no payments were made for any foreign leg involved.
+
+11. We do not want to get into the role of the travel agencies and the present dynamics of air fare, but
+it is difficult for us to accept that a person will avail foreign tour without paying any price for it. We
+leave it at that.
+
+12. It can be seen from the records that many of the employees of the appellants had undertaken
+travel to Port Blair via Malaysia, Singapore or Port Blair via Bangkok, Malaysia or Rameswaram via
+Mauritius or Madurai via Dubai, Thailand and Port Blair via Europe etc. It is very difficult to
+appreciate as to how the appellant who is the assessee-employer could have failed to take into
+account this aspect. This was the elephant in the room.
+
+13. The contention of the Appellant that there is no specific bar under Section 10(5) for a foreign
+travel and therefore a foreign journey can be availed as long as the starting and destination points
+remain within India is also without merits. LTC is for travel within India, from one place in India to
+another place in India. There should be no ambiguity on this.
+
+5
+
+State Bank Of India vs Assistant Commissioner Of Income Tax on 4 November, 2022
+
+14. The second argument urged by the appellant that payments made to these employees was of the
+shortest route of their actual travel cannot be accepted either. It has already been clarified above,
+that in view of the provisions of the Act, the moment employees undertake travel with a foreign leg,
+it is not a travel within India and hence not covered under the provisions of Section 10(5) of the Act.
+
+15. A foreign travel also frustrates the basic purpose of LTC. The basic objective of the LTC scheme
+was to familiarise a civil servant or a Government employee to gain some perspective of Indian
+culture by traveling in this vast country. It is for this reason that the 6th Pay Commission rejected
+the demand of paying cash compensation in lieu of LTC and also rejected the demand of foreign
+travel. In para 4.3.4 of the 6th Pay Commission Report dated March, 2008 this is what was said :-
+
+“4.3.4. The demand for allowing travel abroad at least once in the entire career under
+the scheme is not in consonance with the basic objective of the scheme. The
+Government employee cannot gain any perspective of the Indian culture by traveling
+abroad. Besides, the attendant cost in foreign travel would also make the expenditure
+under this scheme much higher. The Commission is, therefore, not inclined to
+concede the demand to allow foreign travel under LTC.” This is also an objection of
+the Revenue which has been raised in its counter affidavit filed by respondent no.
+1-Assistant Commission of Income Tax wherein the Revenue has asserted that the
+provision for LTC was introduced to motivate employees and encourage its
+employees towards tourism in India and it is for this reason that reimbursement of
+LTC was exempted. There was no intention of legislature to allow the employees to
+travel abroad in the garb of LTC available by virtue of Section 10(5) of the Act.
+
+Therefore, the Revenue has a valid objection (apart from other objections which are
+clearly violative of the Statute), that the intention and purpose of the scheme is also
+violated in the garb of tour within India, foreign travel is being availed.
+
+16. The aforementioned order passed by the CIT(A) has rightly held that the obligation of deducting
+tax is distinct from payment of tax. The appellant cannot claim ignorance about the travel plans of
+its employees as during settlement of LTC Bills the complete facts are available before the assessee
+about the details of their employees’ travels. Therefore, it cannot be a case of bonafide mistake, as all
+the relevant facts were before the Assessee employer and he was therefore fully in a position to
+calculate the ‘estimated income’ of its employees. The contention of Shri K.V. Vishwanathan,
+learned senior advocate that there may be a bonafide mistake by the assessee-employer in
+calculating the ‘estimated income’ cannot be accepted since all the relevant documents and material
+were before the assessee- employer at the relevant time and the assessee employer therefore ought
+to have applied his mind and deducted tax at source as it was his statutory duty, under Section
+192(1) of the Act.
+
+17. In conclusion we do not find any reason to interfere with the order passed by the Delhi High
+Court. The appeal is dismissed.
+
+…………………………CJI.
+
+6
+
+State Bank Of India vs Assistant Commissioner Of Income Tax on 4 November, 2022
+
+(UDAY UMESH LALIT) .……………………………J. (S. RAVINDRA BHAT) .……………………………J.
+(SUDHANSHU DHULIA) New Delhi November 4, 2022
+
+7

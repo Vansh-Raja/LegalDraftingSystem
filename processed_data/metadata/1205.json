@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal No. 869 of 2022",
+  "parties": {
+    "petitioner": "Abhishek",
+    "respondent": "State of Maharashtra & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-20",
+  "summary": "The appellant challenged the Bombay High Court's rejection of his petition against the sanction order dated 05.11.2020 issued under Section 23(2) of MCOCA, permitting prosecution for offences under IPC, Arms Act, and MCOCA in connection with Crime No. 251 of 2020. The sanction was based on findings that the accused formed an organized crime syndicate involved in continuing unlawful activity for pecuniary benefit, with prior criminal records and failure of preventive measures. Confessional statements under Section 18 of MCOCA and witness statements supported the finding. The Supreme Court considered whether the sanction was justified and legally sound under MCOCA.",
+  "legal_provisions_cited": [
+    "Section 23(2), Maharashtra Control of Organised Crime Act, 1999",
+    "Section 3(1)(ii), 3(2), 3(4), MCOCA",
+    "Section 2(d), 2(e), MCOCA",
+    "Section 82, Code of Criminal Procedure, 1973",
+    "Section 20(3), MCOCA",
+    "Indian Penal Code, 1860",
+    "Arms Act, 1959"
+  ],
+  "final_judgment": "Leave granted; matter remanded for appropriate consideration of the sanction order in accordance with law."
+}

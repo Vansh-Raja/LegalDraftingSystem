@@ -1,0 +1,27 @@
+{
+  "case_number": "Miscellaneous Application No 1852 of 2019 in Criminal Appeal No 1101 of 2019",
+  "parties": {
+    "petitioner": "Smruti Tukaram Badade",
+    "respondent": "State of Maharashtra & Anr"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-11",
+  "summary": "The case addressed the need for creating a safe and barrier-free environment for recording evidence from vulnerable witnesses in criminal trials. The Court emphasized the importance of implementing infrastructure and procedural safeguards, expanding the definition of 'vulnerable witness' to include victims of sexual assault (regardless of age or gender), persons with mental illness or disabilities, threatened witnesses, and others as deemed appropriate. It issued directions under Article 142 of the Constitution to ensure all High Courts establish Vulnerable Witness Deposition Centres (VWDCs), adopt training programs, and coordinate with legal services authorities. The judgment builds upon prior rulings in Sakshi v Union of India and State of Maharashtra v Bandu @ Daulat, reinforcing constitutional dignity under Article 21.",
+  "legal_provisions_cited": [
+    "Article 142, Constitution of India",
+    "Article 21, Constitution of India",
+    "Section 327 CrPC",
+    "Section 273 CrPC",
+    "Section 354 IPC",
+    "Section 377 IPC",
+    "Section 118, Indian Evidence Act 1872",
+    "Section 2(s), Mental Healthcare Act 2017",
+    "Section 2(d), Protection of Children from Sexual Offences Act 2012",
+    "Witness Protection Scheme 2018",
+    "Sakshi v Union of India (2004) 5 SCC 518",
+    "State of Punjab v Gurmit Singh (1996) 2 SCC 384",
+    "State of Maharashtra v Bandu @ Daulat (2018) 11 SCC 163",
+    "Mahender Chawla v Union of India (2019) 14 SCC 615"
+  ],
+  "final_judgment": "Directions issued for the establishment of Vulnerable Witness Deposition Centres across all districts, adoption of uniform schemes by High Courts, creation of a national training committee, and mandatory funding and compliance reporting."
+}

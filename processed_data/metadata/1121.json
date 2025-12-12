@@ -1,0 +1,20 @@
+{
+  "case_number": "CIVIL APPEAL NO(S).1706 OF 2023; WITH CIVIL APPEAL NO(S).8323 OF 2022; CIVIL APPEAL NO(S).8132 OF 2022",
+  "parties": {
+    "petitioner": "SREI Multiple Asset Investment Trust",
+    "respondent": "Deccan Chronicle Marketeers & Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-17",
+  "summary": "Resolution Plan validity over trademark rights ownership; CoC approval 81.39% binding; NCLT order declaring corporate debtor own trademarks upheld; NCLAT error in treating trademark declaration as Plan modification; jurisdiction under Sections 60(5)/238 IBC affirmed; Embassy Property precedent distinguished; Resolution Plan interpretation vs alteration analysis; exclusive right to use vs ownership determination.",
+  "legal_provisions_cited": [
+    "Insolvency and Bankruptcy Code, 2016 s.30(2)",
+    "Insolvency and Bankruptcy Code, 2016 s.30(4)",
+    "Insolvency and Bankruptcy Code, 2016 s.60(5)",
+    "Insolvency and Bankruptcy Code, 2016 s.238",
+    "Trademarks Act, 1999 s.134",
+    "IBBI (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 Reg.39",
+    "Embassy Property Developments Pvt Ltd v. State of Karnataka (2020) 13 SCC 308"
+  ],
+  "final_judgment": "Appeal allowed; NCLAT judgment set aside; NCLT ownership declaration upheld; Resolution Plan implementation directed."
+}

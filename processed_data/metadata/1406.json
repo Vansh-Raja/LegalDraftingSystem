@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 4671 of 2022",
+  "parties": {
+    "petitioner": "National Highways Authority of India",
+    "respondent": "P. Nagaraju @ Cheluvaiah & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-11",
+  "summary": "The case involves the determination of compensation for land acquisition under the National Highways Act for the Bengaluru-Mysore Highway (NH-275). The NHAI challenged awards by Arbitrators that enhanced compensation from Rs.2,026/- and Rs.17,200/- per sq. mtr to Rs.15,400/- and Rs.25,800/- per sq. mtr, respectively, based on revised guideline values from notifications dated 28.03.2016 and 05.12.2018. NHAI argued the Arbitrator erred by relying on post-notification values and applying rates from nearby layouts (Zunadu, City Greens) instead of village-specific rates. The High Court and lower courts upheld the awards, noting conversion of land to residential/industrial use and proximity to developed layouts. The Supreme Court examined whether the use of updated guideline values violated Section 26 of the RFCTLARR Act, 2013 and principles of natural justice, and if the awards were legally sustainable under Section 34 of the Arbitration and Conciliation Act, 1996.",
+  "legal_provisions_cited": [
+    "Section 3G(7), National Highways Act",
+    "Section 26, Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+    "Section 28, RFCTLARR Act, 2013",
+    "Section 34, Arbitration and Conciliation Act, 1996",
+    "Section 37, Arbitration and Conciliation Act, 1996"
+  ],
+  "final_judgment": "Appeal dismissed; the impugned awards enhancing land compensation were upheld as legally valid, with the court finding no violation of law or public policy, and affirming the arbitrator's reliance on applicable guideline values and land use conversion."
+}

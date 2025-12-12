@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 6938 of 2022",
+  "parties": {
+    "petitioner": "The State of Maharashtra and Anr.",
+    "respondent": "Ms. Madhuri Maruti Vidhate (Smt. Madhuri Santosh Koli)"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-30",
+  "summary": "The appeal challenged the Bombay High Court's dismissal of a writ petition, which confirmed a Tribunal order directing compassionate appointment of the respondent, a married daughter of a deceased government employee. The father died in service; the mother was appointed on compassionate grounds but died in 2006. The elder sister's application was rejected in 2011 for being a married daughter. The respondent applied in 2013, seven years after the mother's death, which was rejected, leading to an OA before the Tribunal. The Tribunal allowed the OA, and the High Court upheld it. The Supreme Court examined whether the respondent was entitled to compassionate appointment, emphasizing that such appointments are exceptions to merit-based hiring under Articles 14 and 16, intended solely to prevent destitution post-death in harness. Citing precedent, the Court held the purpose is humanitarian relief during sudden crisis, not entitlement or inheritance of post. Given the long delay and lack of demonstrated immediate financial crisis at the time of application, granting appointment would defeat the object of compassionate employment.",
+  "legal_provisions_cited": [
+    "Article 14 of the Constitution of India",
+    "Article 16 of the Constitution of India",
+    "Director of Treasuries in Karnataka and Anr. Vs. V. Somyashree, 2021 SCC Online SC 704",
+    "N.C. Santhosh Vs. State of Karnataka, (2020) 7 SCC 617",
+    "State of Himachal Pradesh and Anr. Vs. Shashi Kumar, (2019) 3 SCC 653",
+    "Govind Prakash Verma Vs. LIC, (2005) 10 SCC 289",
+    "Umesh Kumar Nagpal v. State of Haryana, (1994) 4 SCC 138",
+    "Mumtaz Yunus Mulani v. State of Maharashtra, (2008) 11 SCC 384"
+  ],
+  "final_judgment": "The appeal was allowed, setting aside the orders of the Tribunal and the High Court, holding that the respondent is not entitled to compassionate appointment as the delay and circumstances negate the humanitarian objective of such appointments."
+}

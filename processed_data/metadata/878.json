@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 944 of 2023 (@ SLP (C) No. 18982 of 2022) and Civil Appeal No. 947 of 2023 (@ SLP (C) No. 3167 of 2023)",
+  "parties": {
+    "petitioner": "Delhi Development Authority; Government of NCT of Delhi",
+    "respondent": "MGS (India) Private Limited & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-02-17",
+  "summary": "The case involved a challenge to the Delhi High Court's declaration that land acquisition had lapsed under Section 24(2) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013. The appellant argued that the writ petitioner, being a subsequent purchaser after acquisition proceedings began, lacked locus standi to challenge the acquisition. The Supreme Court held that a subsequent purchaser has no locus to challenge acquisition lapsing, relying on precedents such as Shiv Kumar v. Union of India and Delhi Development Authority v. Godfrey Phillips (I) Ltd., and found the High Court's reliance on Manav Dharam Trust (held per incuriam) incorrect. The impugned judgment was quashed.",
+  "legal_provisions_cited": [
+    "Section 24(2), Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+    "Shiv Kumar & Anr. v. Union of India & Ors., (2019) 10 SCC 229",
+    "Delhi Development Authority v. Godfrey Phillips (I) Ltd. & Ors., Civil Appeal No. 3073 of 2022",
+    "Government (NCT of Delhi) v. Manav Dharam Trust and Anr., (2017) 6 SCC 751"
+  ],
+  "final_judgment": "Appeals allowed; impugned judgment quashed and set aside; no deemed lapse of acquisition; no order as to costs."
+}

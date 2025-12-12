@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal Nos. 9252-9253 of 2022",
+  "parties": {
+    "petitioner": "Kerala State Electricity Board & Ors.",
+    "respondent": "Thomas Joseph Alias Thomas M. J. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-16",
+  "summary": "The case involves the interpretation of 'unauthorised use of electricity' under Explanation (b) to Section 126(6) of the Electricity Act, 2003, specifically whether overdrawal of electricity beyond sanctioned/connected load constitutes such use. The High Court held that assessment for unauthorised use must be at twice the tariff applicable for the higher category where electricity was actually used, not the consumer's original category. The Supreme Court confirmed that overdrawal without change in tariff category and where consumption is metered and paid, attracts only twice the fixed charges, not energy charges, unless system upgrades are needed. The judgment clarifies the scope of punitive assessment under Section 126(6), emphasizing purposive interpretation to prevent misuse while protecting compliant consumers.",
+  "legal_provisions_cited": [
+    "Section 126(6) of the Electricity Act, 2003",
+    "Regulations 82 and 106 of the Electricity Rules",
+    "Seetharam Rice Mill v. [Unspecified]",
+    "M/s. Classic Color Lab v. Assistant Engineer and others (2014 (3) KLT 57)"
+  ],
+  "final_judgment": "Appeal allowed in part; the judgment of the Kerala High Court modified to hold that overdrawal of load without tariff change and with metered, paid consumption entails liability only to twice the fixed charges, not energy charges, unless distribution system upgrades are required."
+}

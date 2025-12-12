@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal No. 1562 of 2022 arising out of SLP (Crl) No. 9601 of 2016",
+  "parties": {
+    "petitioner": "Kanchan Kumar",
+    "respondent": "The State of Bihar"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-14",
+  "summary": "The appellant sought discharge under Section 227 Cr.P.C. in a prosecution under the Prevention of Corruption Act, 1988, alleging disproportionate assets during his tenure with BSFC. The Trial and High Courts dismissed the discharge application, asserting a prima facie case existed. The Supreme Court examined whether grave suspicion was established, considering sifting of evidence at the discharge stage, errors in income-expense calculations, and improper valuation of seized articles. It emphasized that courts must evaluate material and infirmities without conducting a roving inquiry.",
+  "legal_provisions_cited": [
+    "Section 227 Cr.P.C.",
+    "Section 13(1)(d) and 13(2) of the Prevention of Corruption Act, 1988",
+    "Union of India v. Prafulla Kumar Samal (1979) 3 SCC 4",
+    "Ghulam Hassan Beigh v. Mohammad Maqbool Magrey (2022) SCC OnLine SC 913",
+    "Sajjan Kumar v. Central Bureau of Investigation"
+  ],
+  "final_judgment": "The appeal was allowed, and the matter was remanded to the Trial Court for fresh consideration of the discharge application in accordance with law and principles laid down in Prafulla Kumar Samal and Sajjan Kumar."
+}

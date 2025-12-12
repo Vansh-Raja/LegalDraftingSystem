@@ -1,0 +1,16 @@
+{
+  "case_number": "Criminal Appeal No. 1331 of 2011",
+  "parties": {
+    "petitioner": "Pillu @ Prahlad",
+    "respondent": "State of Madhya Pradesh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-07",
+  "summary": "Challenge to conviction under Section 302/34 IPC and life sentence confirmed by High Court. Appellant contended that key prosecution witnesses were unreliable and that the offence should be culpable homicide not amounting to murder under Exception 4 to Section 300 IPC. Court upheld concurrent findings, found witness testimony credible and noted nature of injuries (multiple incised and stab wounds on vital parts) indicated intention to kill, ruling out Exception 4. No interference warranted.",
+  "legal_provisions_cited": [
+    "Section 302/34 IPC",
+    "Exception 4 to Section 300 IPC",
+    "Pulicherla Nagaraju Alias Nagaraja Reddy v. State of A.P. (2006) 11 SCC 444"
+  ],
+  "final_judgment": "Appeals dismissed"
+}

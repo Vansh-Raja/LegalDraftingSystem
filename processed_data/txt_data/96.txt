@@ -1,0 +1,400 @@
+Harshit Harish Jain vs The State Of Maharashtra on 24 January, 2025
+
+Harshit Harish Jain vs The State Of Maharashtra on 24 January,
+2025
+
+Author: Vikram Nath
+
+Bench: Sanjay Karol, Vikram Nath
+
+2025 INSC 104
+                                                                     REPORTABLE
+                                      IN THE SUPREME COURT OF INDIA
+                                       CIVIL APPELLATE JURISDICTION
+
+                                      CIVIL APPEAL NO.              OF 2025
+                                  (Arising out of SLP (C) No.21778 of 2024)
+
+                            HARSHIT HARISH JAIN & ANR.              …APPELLANTS
+
+                                                          VERSUS
+
+                            THE STATE OF MAHARASHTRA
+                            & ORS.                 …RESPONDENTS
+
+                                                    JUDGMENT
+
+VIKRAM NATH, J.
+
+1. Leave granted.
+
+2. The present appeal assails the final judgment and order dated 18.04.2024, rendered by the High
+Court of Judicature at Bombay in Writ Petition (C) No. 2018 of 2024, whereby the writ petition
+preferred by the Appellants stood dismissed. The gravamen of the dispute concerns the rejection of
+the Appellants’ claim for refund of stamp duty under the provisions of the Maharashtra Stamp Act,
+1958 (hereinafter “the Act”).
+
+3. The brief facts leading to the present appeal are as follows:
+
+3.1. The Appellants entered into an Agreement to Sell dated 30.08.2014 with a real
+estate developer, M/s. Krona Realties Pvt. Ltd.
+
+(hereinafter, “the Developer”), for the purchase of a residential flat (Flat No. 5102) in the “Lodha
+Venezia” project at Mumbai. The total consideration agreed was (cid:132)5.46 crores, against which an
+advance payment of (cid:132)1.08 crores was made to the Developer.
+
+3.2. Pursuant to the execution of the Agreement to Sell, the Appellants paid stamp duty of
+(cid:132)27,34,500, as mandated under the Act. The said Agreement was registered on 18.09.2014, upon
+payment of an additional registration charge of (cid:132)30,000.
+
+Indian Kanoon - http://indiankanoon.org/doc/152941779/
+
+1
+
+Harshit Harish Jain vs The State Of Maharashtra on 24 January, 2025
+
+3.3. Sometime thereafter, on 05.11.2014, the Developer informed the Appellants of unavoidable
+delays tied to issues involving adjacent slums, thereby making it impossible to hand over possession
+of the flat by 31.03.2017, the date earlier envisaged. The Developer offered three options to the
+Appellants: (i) transfer the booking to another project, (ii) opt for cancellation with a refund along
+with interest at 12% per annum, or
+
+(iii) continue with the present booking but with a revised possession timeline.
+
+3.4. Constrained by the uncertainty over timely possession, the Appellants chose to cancel the
+booking. Consequently, a Deed of Cancellation was executed on 17.03.2015. However, the said
+Cancellation Deed came to be registered only on 28.04.2015 before the Sub-Registrar of Assurances,
+Mumbai City. Subsequently, on 23.05.2016, a Deed of Rectification was also executed, clarifying the
+refund details and other particulars of the cancellation.
+
+3.5. Meanwhile, by an amendment dated 24.04.2015 to Section 48(1) of the Act, the time limit for
+seeking a refund of stamp duty on a registered cancellation deed was curtailed from two years to six
+months (counted from the date of registration of such deed). On 06.08.2016, the Appellants filed an
+application for refund of the stamp duty amounting to (cid:132)27,34,500, contending that they were
+governed by the earlier (pre- amendment) statutory regime, since their Cancellation Deed was
+executed before 24.04.2015.
+
+3.6. The refund application was initially allowed by the Chief Controlling Revenue Authority,
+Maharashtra State, Pune (CCRA), vide its Order dated 08.01.2018. Soon thereafter, however, the
+same authority, by a subsequent Order dated 03.03.2018, recalled its earlier decision and rejected
+the refund request as time- barred, citing the amended limitation period.
+
+3.7. Aggrieved by the 03.03.2018 order recalling the earlier sanction of refund, the Appellants first
+attempted to challenge it before the Chief Controlling Revenue Authority (CCRA) by way of an
+appeal under Section 53 of the Act. The CCRA dismissed the appeal on 16.04.2019, prompting the
+Appellants to file Writ Petition No. 8276 of 2019 before the High Court of Judicature at Bombay. In
+its judgment dated 04.10.2022, the High Court set aside the orders dated 03.03.2018 and
+16.04.2019, noting that the Appellants had not been accorded proper opportunity of hearing. The
+matter was remanded to the CCRA for fresh consideration, particularly on the question of whether
+the original (unamended) or the amended provision under Section 48(1) of the Act would apply to
+the cancellation. Pursuant to that remand, the CCRA passed a fresh order on 16.12.2022, again
+rejecting the refund claim on the ground that the amended six-month limitation governed the
+Appellants’ case.
+
+3.8. Aggrieved by the CCRA’s stance, the Appellants filed Writ Petition (C) No. 2018 of 2024 before
+the High Court of Judicature at Bombay, urging, inter alia, that (i) the right to seek refund accrued
+on the date of execution (17.03.2015), thus invoking the unamended two-year window, and (ii) the
+CCRA had no statutory power of review to recall its initial order granting refund.
+
+Indian Kanoon - http://indiankanoon.org/doc/152941779/
+
+2
+
+Harshit Harish Jain vs The State Of Maharashtra on 24 January, 2025
+
+3.9. By the impugned judgment dated 18.04.2024, the High Court dismissed the writ petition,
+holding, in essence, that the date of registration (28.04.2015) triggered the Appellants’ claim, which
+fell under the amended provision stipulating a six-month limitation. The High Court further opined
+that, in the specific facts, the CCRA’s recall could not be struck down solely on the ground of no
+express power of review.
+
+4. Aggrieved with the dismissal of their writ petition, the Appellants have now approached this
+Court by way of the present appeal.
+
+5. Having heard the learned counsel for the Appellants and the Respondents, the primary issue for
+consideration before us is whether the amended six-month limitation, introduced by the 24.04.2015
+amendment to Section 48(1) of the Act governs the Appellants’ claim for stamp duty refund,
+particularly when the Cancellation Deed was executed prior to the amendment but registered
+thereafter.
+
+6. Section 48(1) of the Act reads as follows:
+
+“48. The application for relief under section 47 shall be made within the following
+period, that is to say,— (1) in the cases mentioned in clause (c)(5), within [six
+months] of the date of the instruments:
+
+Provided that where an Agreement to sale immovable property, on which stamp duty
+is paid under Article 25 of the Schedule I, is presented for registration under the
+provisions of the Registration Act, 1908 and if the seller refuses to deliver possession
+of the immovable property which is the subject matter of such agreement the
+application may be made within two years of the date of the Instrument [or where
+such agreement is cancelled by a registered cancellation deed on the grounds of,
+dispute regarding the premises concerned, inadequate finance, financial dispute in
+terms of agreed consideration, or afterwards found to be illegal construction or
+suppression of any other material fact, the application may be made within two years
+from the date of such registered cancellation deed.]” Through the amendment on
+24.04.2015, the two-year period was curtailed to six months from the date of
+registration of the cancellation deed, thus altering the time frame under which a
+party could claim a refund.
+
+7. The Appellants assert that, although the Cancellation Deed was registered on 28.04.2015, it was
+executed on 17.03.2015 — prior to the amendment dated 24.04.2015, which curtailed the time limit
+for seeking a refund from two years to six months. They rely upon Section 47 of the Registration Act,
+1908, emphasizing that “a registered document shall operate from the time from which it would
+have commenced to operate if no registration thereof had been required or made.” In other words,
+the operative date for their right to seek refund would be 17.03.2015, placing them under the
+un-amended regime.
+
+Indian Kanoon - http://indiankanoon.org/doc/152941779/
+
+3
+
+Harshit Harish Jain vs The State Of Maharashtra on 24 January, 2025
+
+8. In our view, this contention carries substantial weight. The High Court laid undue emphasis on
+the registration date without fully appreciating that the Appellants’ accrued right to claim a refund
+arose the moment the Cancellation Deed was validly executed. The legislative scheme governing the
+earlier proviso to Section 48(1) of the Act, contemplated a broader two-year window. Constricting
+that window retroactively, merely because registration happened post-amendment, unduly defeats a
+vested cause of action.
+
+9. Moreover, in M.P. Steel Corporation v. Commissioner of Central Excise1 , this Court has held that
+amendment to provision as to limitation is inapplicable to accrued cause of action where the
+amendment has reduced the period earlier provided. The relevant paras of this judgement have
+been extracted hereunder:
+
+“53. Shri A.K. Sanghi, learned Senior Counsel appearing on behalf of the Revenue,
+has strongly contended before us that the present appeal must attract the limitation
+period as on the date of its filing. That being so, it is clear that the present appeal
+having been filed before Cestat only on 23-5-2003, it is Section 128 post amendment
+that would apply and therefore the maximum period available to the (2015)7 SCC 58
+appellant would be 60 plus 30 days. Even if time taken in the abortive proceedings is
+to be excluded, the appeal filed will be out of time being beyond the aforesaid period.
+
+54. It is settled law that periods of limitation are procedural in nature and would ordinarily be
+applied retrospectively. This, however, is subject to a rider. In New India Insurance Co. Ltd. v.
+Shanti Misra [(1975) 2 SCC 840 : (1976) 2 SCR 266] , this Court held : (SCC p. 844, para
+
+5)
+
+5. “On the plain language of Sections 110-A and 110-F there should be no difficulty in taking the view
+that the change in law was merely a change of forum i.e. a change of adjectival or procedural law and
+not of substantive law. It is a well-established proposition that such a change of law operates
+retrospectively and the person has to go to the new forum even if his cause of action or right of
+action accrued prior to the change of forum. He will have a vested right of action but not a vested
+right of forum. If by express words the new forum is made available only to causes of action arising
+after the creation of the forum, then the retrospective operation of the law is taken away. Otherwise,
+the general rule is to make it retrospective.”
+
+55. In answering a question which arose under Section 110-A of the Motor Vehicles Act, this Court
+held : (Shanti Misra case [(1975) 2 SCC 840 : (1976) 2 SCR 266] , SCC p. 846, para 7)
+
+7. “… ‘(1) Time for the purpose of filing the application under Section 110-A did not start running
+before the constitution of the tribunal. Time had started running for the filing of the suit but before
+it had expired the forum was changed. And for the purpose of the changed forum, time could not be
+deemed to have started running before a remedy of going to the new forum is made available.
+
+Indian Kanoon - http://indiankanoon.org/doc/152941779/
+
+4
+
+Harshit Harish Jain vs The State Of Maharashtra on 24 January, 2025
+
+(2) Even though by and large the law of limitation has been held to be a procedural law, there are
+exceptions to this principle. Generally the law of limitation which is in vogue on the date of the
+commencement of the action governs it. But there are certain exceptions to this principle. The new
+law of limitation providing a longer period cannot revive a dead remedy. Nor can it suddenly
+extinguish a vested right of action by providing for a shorter period of limitation.’”
+
+56. This statement of the law was referred to with approval in Vinod Gurudas Raikar v. National
+Insurance Co. Ltd. [(1991) 4 SCC 333] as follows : (SCC p. 337, para 7).
+
+7. “It is true that the appellant earlier could file an application even more than six months after the
+expiry of the period of limitation, but can this be treated to be a right which the appellant had
+acquired. The answer is in the negative. The claim to compensation which the appellant was entitled
+to, by reason of the accident was certainly enforceable as a right. So far the period of limitation for
+commencing a legal proceeding is concerned, it is adjectival in nature, and has to be governed by the
+new Act—subject to two conditions. If under the repealing Act the remedy suddenly stands barred as
+a result of a shorter period of limitation, the same cannot be held to govern the case, otherwise the
+result will be to deprive the suitor of an accrued right. The second exception is where the new
+enactment leaves the claimant with such a short period for commencing the legal proceeding so as
+to make it unpractical for him to avail of the remedy. This principle has been followed by this Court
+in many cases and by way of illustration we would like to mention New India Insurance Co. Ltd. v.
+Shanti Misra [(1975) 2 SCC 840 : (1976) 2 SCR 266] . The husband of the respondent in that case
+died in an accident in 1966. A period of two years was available to the respondent for instituting a
+suit for recovery of damages. In March 1967 the Claims Tribunal under Section 110 of the Motor
+Vehicles Act, 1939 was constituted, barring the jurisdiction of the civil court and prescribed 60 days
+as the period of limitation. The respondent filed the application in July 1967. It was held that not
+having filed a suit before March 1967 the only remedy of the respondent was by way of an
+application before the Tribunal. So far the period of limitation was concerned, it was observed that a
+new law of limitation providing for a shorter period cannot certainly extinguish a vested right of
+action. In view of the change of the law it was held that the application could be filed within a
+reasonable time after the constitution of the Tribunal; and, that the time of about four months taken
+by the respondent in approaching the Tribunal after its constitution, could be held to be either
+reasonable time or the delay of about two months could be condoned under the proviso to Section
+110-A(3).” Both these judgments were referred to and followed in Union of India v. Harnam Singh
+[(1993) 2 SCC 162 : 1993 SCC (L&S) 375 :
+
+(1993) 24 ATC 92] , see para 12.
+
+57. The aforesaid principle is also contained in Section 30(a) of the Limitation Act, 1963:
+
+30. “Provision for suits, etc., for which the prescribed period is shorter than the
+period prescribed by the Indian Limitation Act, 1908.—Notwithstanding anything
+contained in this Act—
+
+Indian Kanoon - http://indiankanoon.org/doc/152941779/
+
+5
+
+Harshit Harish Jain vs The State Of Maharashtra on 24 January, 2025
+
+(a) any suit for which the period of limitation is shorter than the period of limitation
+prescribed by the Indian Limitation Act, 1908, may be instituted within a period of
+seven years next after the commencement of this Act or within the period prescribed
+for such suit by the Indian Limitation Act, 1908, whichever period expires earlier:”
+
+58. The reason for the said principle is not far to seek. Though periods of limitation, being
+procedural law, are to be applied retrospectively, yet if a shorter period of limitation is provided by a
+later amendment to a statute, such period would render the vested right of action contained in the
+statute nugatory as such right of action would now become time- barred under the amended
+provision.”
+
+10. Even if one were to hold that the Appellants’ claim is examined under the amended six-month
+period, we are of the considered opinion that a mere technical delay should not, by itself, extinguish
+an otherwise valid claim. The scheme of stamp duty refund provisions is designed to ensure fairness
+when the underlying transaction is rescinded for bona fide reasons. The Appellants were compelled
+to cancel the purchase due to the developer’s inability to deliver timely possession, and were in no
+way remiss or at fault.
+
+11. Denying a legitimate refund solely on technical grounds of limitation, especially when the timing
+of registration fell close to the legislative amendment, fails to strike the equitable balance ordinarily
+expected in fiscal or quasi-judicial determinations. A measure of discretion or consideration for
+good faith conduct is not alien to statutory processes that safeguard citizens from unjust enrichment
+by the State. It has been laid down by this Court in Bano Saiyed Parwaz v. Chief Controlling Revenue
+Authority & Inspector General of Registration & Controller of Stamps2 that the limitation provision
+in stamp law (to seek refund of stamp duty) should not be enforced so as to oust the remedy when
+the applicant is otherwise not blameworthy. The relevant paras of the same have been reproduced
+hereunder:
+
+“14. In Committee-GFIL v. Libra Buildtech Private Limited3, wherein the issue of
+refund of stamp duty under the same Act was in question, this Court has observed
+and held inter alia as under:
+
+“29. This case reminds us of the observations made by M.C. Chagla, C.J. in Firm
+Kaluram Sitaram v. Dominion of India [1953 SCC OnLine Bom 39: AIR 1954 Bom
+50]. The learned Chief Justice in his distinctive style of writing observed as under in
+para 19: (Firm Kaluram case, SCC OnLine Bom) 2024 SCC OnLine SC 979 “19. … we
+have often had occasion to say that when the State deals with a citizen it should not
+ordinarily rely on technicalities, and if the State is satisfied that the case of the citizen
+is a just one, even though legal defences may be open to it, it must act, as has been
+said by eminent Judges, as an honest person.” We are in respectful agreement with
+the aforementioned observations, as in our considered opinion these observations
+apply fully to the case in hand against the State because except the plea of limitation,
+the State has no case to defend their action.
+
+Indian Kanoon - http://indiankanoon.org/doc/152941779/
+
+6
+
+Harshit Harish Jain vs The State Of Maharashtra on 24 January, 2025
+
+Xxxxxxxxx
+
+32. In our considered opinion, even if we find that applications for claiming refund of
+stamp duty amount were rightly dismissed by the SDM on the ground of limitation
+prescribed under Section 50 of the Act yet keeping in view the settled principle of law
+that the expiry of period of limitation prescribed under any law may bar the remedy
+but not the right, the applicants are still held entitled to claim the refund of stamp
+duty amount on the basis of the grounds mentioned above. In other words,
+notwithstanding dismissal of the applications on the ground of limitation, we are of
+the view that the applicants are entitled to claim the refund of stamp duty amount
+from the State in the light of the grounds mentioned above.”
+
+15. The legal position is thus settled in Libra Buildtech (supra) that when the State
+deals with a citizen it should not ordinarily rely on technicalities, even though such
+defences may be open to it.
+
+16. We draw weight from the aforesaid judgment and are of the opinion that the case
+of the appellant is fit for refund of stamp duty in so far as it is settled law that the
+period of expiry of limitation prescribed under any law may bar the remedy but not
+the right and the appellant is held entitled to claim the refund of stamp duty amount
+on the basis of the fact that the appellant has been pursuing her case as per remedies
+available to her in law and she should not be denied the said refund merely on
+technicalities as the case of the appellant is a just one wherein she had in bonafide
+paid the stamp duty for registration but fraud was played on her by the Vendor which
+led to the cancellation of the conveyance deed.”
+
+12. We also find merit in the Appellants’ submission that the CCRA, having once granted a refund by
+its order dated 08.01.2018, lacked any express statutory power to review or recall that decision. A
+quasi- judicial authority can only exercise such powers as the statute confers. There is no provision
+in the Act enabling the CCRA to sit in review of its own orders. In the absence of any enabling
+clause, the subsequent orders dated 03.03.2018, 16.04.2019, and ultimately 16.12.2022, reversing
+the earlier sanction of the refund, cannot be sustained solely because the Appellants participated in
+the proceedings.
+
+13. We are unable to concur with the High Court’s reasoning that the Appellants “submitted
+themselves” to the authority’s review process or somehow acquiesced in the second decision.
+Jurisdiction cannot be created by consent or waiver. The law does not permit a statutory functionary
+to assume powers not conferred upon it, regardless of how the parties engage in subsequent
+litigation. Hence, we see clear infirmity in the High Court’s endorsement of the CCRA’s review-like
+exercise.
+
+14. In light of the above, the findings recorded by the High Court in the impugned judgment warrant
+interference. The High Court’s focus on the date of registration as determinative of the applicable
+legal regime under Section 48(1) of the Act overlooks the accrued right crystallizing at the time of
+
+Indian Kanoon - http://indiankanoon.org/doc/152941779/
+
+7
+
+Harshit Harish Jain vs The State Of Maharashtra on 24 January, 2025
+
+execution of the Cancellation Deed. Further, its refusal to disturb the recall of the earlier refund
+order, despite acknowledging the absence of statutory review power, is difficult to sustain.
+Participation in an erroneous procedure cannot, in our considered view, confer review jurisdiction
+upon the CCRA where none exists in law.
+
+15. For the reasons discussed, we conclude that the Appellants are entitled to the benefit of the un-
+amended proviso of Section 48(1) of the Act. Their refund application, therefore, cannot be repelled
+as time-barred merely because the deed’s registration was post-amendment. Equally, the
+subsequent orders recalling the already sanctioned refund stand vitiated, given the CCRA’s lack of
+statutory mandate to review its own final orders.
+
+16. In view of the foregoing, we hold that the Appellants’ claim for refund falls under the un-
+amended proviso to Section 48(1) of the Maharashtra Stamp Act, 1958. Consequently, the impugned
+judgment dated 18.04.2024 of the High Court of Judicature at Bombay, in W.P. No. 2018 of 2024, is
+hereby set aside and the writ petition stands allowed.
+
+17. The subsequent orders of the Chief Controlling Revenue Authority (CCRA) recalling the earlier
+sanction of refund, including the Order dated 16.12.2022, are accordingly quashed. The Order dated
+08.01.2018, which allowed the Appellants’ refund, shall stand restored.
+
+18. The appellant had applied for refund of the stamp duty on 6th August, 2016. The same had been
+allowed by the CCRA vide order dated 08.01.2018. Instead of refunding the amount, the CCRA, by a
+subsequent order dated 03.03.2018 illegally recalled its earlier decision of 08.01.2018 and rejected
+the request for refund. We have already held above that the subsequent order dated 03.03.2018 was
+vitiated in law and secondly that the appellant was entitled to refund. In such circumstances, we find
+that the amount of Rs.27,34,500/- had been wrongly retained by the State from 08.01.2018 for
+almost seven years. As such, we are of the view that the appellant would be entitled to simple
+interest @ 6 per cent per annum on the above amount from the date of the first order of CCRA dated
+08.01.2018 till the date it is paid.
+
+19. The Respondents are directed to process and disburse the refund of stamp duty, already paid by
+the Appellants along with accrued interest as directed above within a period of four weeks from
+today, in accordance with law. Any further delay will entail further interest component @ 12% p.a.
+
+20. The appeal stands allowed.
+
+21. There shall be no order as to costs.
+
+21. Pending applications, if any, shall stand disposed of.
+
+…………………………………………J. (VIKRAM NATH) …………………………………………J. (SANJAY KAROL)
+…………………………………………J. (SANDEEP MEHTA) NEW DELHI JANUARY 24, 2025
+
+Indian Kanoon - http://indiankanoon.org/doc/152941779/
+
+8
+
+

@@ -1,0 +1,24 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 1290 OF 2010",
+  "parties": {
+    "petitioner": "Makhan Singh",
+    "respondent": "The State of Haryana"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-16",
+  "summary": "The appeal challenged the conviction under Section 304-B IPC, where the appellant's wife died after consuming poison. Two dying declarations existed: the first exonerated the appellant, stating accidental consumption; the second, recorded by a Magistrate, implicated the appellant and his parents in dowry-related abuse and forced poisoning. The appellant claimed conflict in declarations and benefit of doubt; the State argued the second declaration was voluntary and reliable. The Court examined voluntariness, mental fitness, and circumstances under which declarations were recorded, noting the first was made in presence of the husband and without coercion, while the second lacked medical corroboration of fitness. Relied on precedents affirming that a dying declaration must be voluntary and reliable to standalone as basis for conviction.",
+  "legal_provisions_cited": [
+    "Section 304-B IPC",
+    "Section 164 Cr.P.C.",
+    "Harjit Kaur v. State of Punjab",
+    "Sayarabano v. State of Maharashtra",
+    "Sher Singh v. State of Punjab",
+    "Munnawar v. State of U.P.",
+    "Lakhan v. State of M.P.",
+    "Shudhakar v. State of M.P.",
+    "Raju Devade v. State of Maharashtra",
+    "Kashmira Devi v. State of Uttarakhand",
+    "State of U.P. v. Veerpal"
+  ],
+  "final_judgment": "The appeal is allowed. The conviction and sentence under Section 304-B IPC are set aside. The appellant is acquitted and released if not required in any other case."
+}

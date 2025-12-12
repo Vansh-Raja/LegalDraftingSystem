@@ -1,0 +1,21 @@
+{
+  "case_number": "Criminal Appeal No.950/2022 (arising out of SLP(Crl.) No.10123 of 2018) & Criminal Appeal No.951/2022 (arising out of SLP(Crl.) No.6347 of 2022 @ Diary No.25451 of 2019)",
+  "parties": {
+    "petitioner": "Barun Chandra Thakur & CBI",
+    "respondent": "Master Bholu"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-13",
+  "summary": "The appeals challenge the Punjab and Haryana High Court's order remanding the matter to the Juvenile Justice Board for fresh preliminary assessment under section 15 of the Juvenile Justice (Care and Protection of Children) Act, 2015. The High Court had set aside the Board's and Children's Court's findings that the juvenile (Master Bholu), aged 16 years 5 months at the time of the offense, should be tried as an adult for a heinous offense (murder of a minor student). The Supreme Court examined the statutory framework, the necessity of preliminary assessment of maturity, mental capacity, and physical fitness, and the delay in disposal. The Court emphasized child rights, principles of natural justice, and the importance of psychological evaluation in determining whether a juvenile should be tried as an adult.",
+  "legal_provisions_cited": [
+    "Section 15, Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 74, Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 101, Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 102, Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 10, Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 13, Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Section 18(3), Juvenile Justice (Care and Protection of Children) Act, 2015",
+    "Juvenile Justice (Care and Protection of Children) Act, 2000"
+  ],
+  "final_judgment": "The Supreme Court upheld the High Court's order, setting aside the earlier findings and remanding the matter to the Juvenile Justice Board for fresh preliminary assessment of the juvenile's mental and physical capacity to understand the consequences of the offense, with a direction to obtain the opinion of a government psychologist, within six weeks."
+}

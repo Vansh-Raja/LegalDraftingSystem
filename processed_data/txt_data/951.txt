@@ -1,0 +1,549 @@
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+Author: Pamidighantam Sri Narasimha
+
+Bench: Pamidighantam Sri Narasimha, Dhananjaya Y Chandrachud
+
+2023INSC741                                                                                        REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CIVIL ORIGINAL JURISDICTION
+
+WRIT PETITION (CIVIL) No. 990 of 2021
+
+KISHAN CHAND JAIN                                                              ....PETITIONER(S)
+
+VERSUS
+
+UNION OF INDIA & ORS.                                                         ...RESPONDENT(S)
+
+JUDGMENT
+
+PAMIDIGHANTAM SRI NARASIMHA, J.
+
+1. This Writ Petition under Article 32 of the Constitution of India filed by way of a public interest
+litigation seeking multiple reliefs, running into three pages, the gist of which is only for a direction
+to implement the mandate of Section 4 of the Right to Information Act, 2005.1 As the prayer is only
+for implementing the various obligations enlisted under Section 4, it is necessary to reproduce the
+Section for ready reference:
+
+“4. Obligations of public authorities-
+
+(I) Every public authority shall—
+
+(a) maintain all its records duly catalogued and indexed in a manner and the form
+which facilitates the right to information under this Act and ensure that all records
+that are appropriate to be computerised are, within a reasonable time and subject to
+availability of resources, computerised and connected through a 17:18:29 IST
+Reason:
+
+Hereinafter referred to as ‘Act’ network all over the country on different systems so
+that access to such records is facilitated;
+
+1
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+(b) publish within one hundred and twenty days from the enactment of this Act,—
+
+(i) the particulars of its organisation, functions and duties;
+
+(ii) the powers and duties of its officers and employees;
+
+(iii) the procedure followed in the decision making process, including channels of
+supervision and accountability;
+
+(iv) the norms set by it for the discharge of its functions;
+
+(v) the rules, regulations, instructions, manuals and records, held by it or under its
+control or used by its employees for discharging its functions;
+
+(vi) a statement of the categories of documents that are held by it or under its control;
+
+(vii) the particulars of any arrangement that exists for consultation with, or
+representation by, the members of the public in relation to the formulation of its
+policy or implementation thereof
+
+(viii) a statement of the boards, councils, committees and other bodies consisting of
+two or more persons constituted as its part or for the purpose of its advice, and as to
+whether meetings of those boards, councils, committees and other bodies are open to
+the public, or the minutes of such meetings are accessible for public;
+
+(ix) a directory of its officers and employees;
+
+(x) the monthly remuneration received by each of its officers and employees,
+including the system of compensation as provided in its regulations;
+
+(xi) the budget allocated to each of its agency, indicating the particulars of all plans,
+proposed expenditures and reports on disbursements made;
+
+(xii) the manner of execution of subsidy programmes, including the amounts
+allocated and the details of beneficiaries of such programmes;
+
+(xiii) particulars of recipients of concessions, permits or authorisations granted by it;
+
+(xiv) details in respect of the information, available to or held by it, reduced in an
+electronic form;
+
+(xv) the particulars of facilities available to citizens for obtaining information,
+including the working hours of a library or reading room, if maintained for public
+use;
+
+2
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+(xvi) the names, designations and other particulars of the Public Information
+Officers;
+
+(xvii) such other information as may be prescribed; and thereafter update these
+publications every year;
+
+(c) publish all relevant facts while formulating important policies or announcing the
+decisions which affect public;
+
+(d) provide reasons for its administrative or quasi-judicial decisions to affected
+persons.
+
+(2) It shall be a constant endeavour of every public authority to take steps in
+accordance with the requirements of clause (b) of sub-section (1) to provide as much
+information suo motu to the public at regular intervals through various means of
+communications, including internet, so that the public have minimum resort to the
+use of this Act to obtain information. (3) For the purposes of sub-section (1), every
+information shall be disseminated widely and in such form and manner which is
+easily accessible to the public.
+
+(4) All materials shall be disseminated taking into consideration the cost
+effectiveness, local language and the most effective method of communication in that
+local area and the information should be easily accessible, to the extent possible in
+electronic format with the Central Public Information Officer or State Public
+Information Officer, as the case may be, available free or at such cost of the medium
+or the print cost price as may be prescribed.
+
+Explanation.—For the purposes of sub-sections (3) and (4), "disseminated" means making known or
+communicated the information to the public through notice boards, newspapers, public
+announcements, media broadcasts, the internet or any other means, including inspection of offices
+of any public authority.”
+
+2. The statutory obligations of public authorities under Section 4(1) relate to: (a) maintenance of all
+public records, duly catalogued and indexed for easy accessibility of the information; (b) publishing
+particulars of the organisational structure, functions and duties of officers, procedures that are
+followed for decision-making, salary structure, budget allocation, publication of facts relating to
+policies and announcements which includes providing reasons for quasi- judicial decisions.
+Sub-section (2) mandates the public authority to take steps for providing information under clause
+(b) of sub-section (1) suo motu and further to disseminate the said information for easy accessibility
+to the public. The scope and ambit of Section 4 has already been considered by this Court in a
+number of decisions.2
+
+3. We may note the observation of this Court in just one of the cases, namely Institute of Chartered
+Accountants of India v. Shaunak H. Satya and others (2011) 8 SCC 781:
+
+3
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+“23. The information to which the RTI Act applies falls into two categories, namely,
+(i) information which promotes transparency and accountability in the working of
+every public authority, disclosure of which helps in containing or discouraging
+corruption, enumerated in clauses (b) and (c) of Section 4(1) of the RTI Act; and (ii)
+other information held by public authorities not falling under Sections 4(1)(b) and (c)
+of the RTI Act. In regard to information falling under the first category, the public
+authorities owe a duty to disseminate the information widely suo motu to the public
+so as to make it easily accessible to the public. In regard to information enumerated
+or required to be enumerated under Sections 4(1)(b) and (c) of the RTI Act,
+necessarily and naturally, the competent authorities under the RTI Act will have to
+act in a proactive manner so as to ensure accountability and ensure that the fight
+against corruption goes on relentlessly. But in regard to other information which do
+not fall under Sections 4(1)(b) and (c) of the Act, there is a need to proceed with
+circumspection as it is necessary to find out whether they are exempted from
+disclosure.
+
+24. One of the objects of democracy is to bring about transparency of information to
+contain corruption and bring about accountability. But achieving this object does not
+mean that other equally important public interests including efficient functioning of
+the governments and public authorities, optimum use of limited fiscal resources,
+preservation of confidentiality of sensitive information, etc. are to be ignored or
+sacrificed. The object of the RTI Act is to harmonise the conflicting public interests,
+that is, ensuring transparency to bring in accountability and containing corruption on
+the one hand, and at the same time ensure that the revelation of information, in
+actual practice, does not harm or adversely affect other public interests which include
+efficient 2 Central Board of Secondary Education and another v. Aditya
+Bandopadhyay and others (2011) 8 SCC 497, Institute of Chartered Accountants of
+India v. Shaunak H. Satya and others (2011) 8 SCC 781, Verhoeven, Marie
+-Emmanuelle v. Union of India and others. (2016) 6 SCC 456 and Central Public
+Information Officer, Supreme Court of India v. Subhash Chandra Agarwal (2020) 5
+SCC 481 functioning of the governments, optimum use of limited fiscal resources and
+preservation of confidentiality of sensitive information, on the other hand. While
+Sections 3 and 4 seek to achieve the first objective, Sections 8, 9, 10 and 11 seek to
+achieve the second objective.”
+
+4. Having noted the scope and ambit of the obligations imposed on public authorities under Section
+4, as elucidated by this Court, we may now refer to the prayer made by the petitioner in the Writ
+Petition. The writ petitioner seeks a direction:
+
+(a) to ensure that public authorities comply with the mandatory suo motu disclosures
+under Section 4 on a proactive basis;
+
+(b) to ensure that website disclosures of public authorities are complete, easily
+accessible as required by Clause No. 2.2 of the O.M. dated 07.11.2019;
+
+4
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+(c) to ensure compliance of proactive disclosure package audited by third party under
+Section 4 of the Act read with Clause 4.4 of O.M. dated 07.11.2019;
+
+(d) to appoint senior officer as nodal officer for being accountable for compliances
+with respect to proactive disclosure guidelines as per Clause 5.1 of the O.M. dated
+07.11.2019;
+
+(e) direct Central Information Commission/State Information Commissions to
+examine third party audit reports as per Clause 4.5 of the O.M. dated 07.11.2019;
+
+(f) to ensure that details of disclosure guidelines are reflected in the Annual Report as
+per Clause 6.1 of the O.M. dated 07.11.2019;
+
+and
+
+(g) to send ‘Action Taken Report’ to the concerned Information Commission as per Clause 4.3 of
+O.M. dated 07.11.2019.
+
+5. In other words, the prayers in the Writ Petition are for implementation of Section 4 of the Act,
+coupled with the instructions for its execution as provided in the O.M. dated 07.11.2019.
+
+6. Union of India has filed a ‘Note on Submissions’ explaining the steps that have been taken for
+implementation of the statutory mandate of Section 4. We will refer to some of these before giving
+necessary directions.
+
+7. In order to implement the provisions of the Act, the Department of Personnel and Training
+constituted a Task Force on 06.05.2011 to improve quality and quantity of disclosure contemplated
+under Section 4. Pursuant to the report submitted by the Task Force, the Department issued certain
+Guidelines through its O.M. dated 15.04.2013. These guidelines relate to various issues including
+suo motu proactive disclosures under Section 4 and also to put in place a mechanism for compliance
+and monitoring.
+
+8. As per the Guidelines each Public Authority must undertake the following steps:
+
+“(a) Comply with the guidelines and send an action taken report to the CIC; (b) Get
+the proactive disclosure package [Section 4(1)(b) of the RTI, Act] audited by a third
+party audit every year. This should be communicated to the CIC annually through
+publication on their own websites. This requirement to publish the needful
+information on the website of each public authority would fully take care of the
+grievances of the petitioner; (c) The CIC should examine the third-party audit reports
+for each Ministry/Public Authority and offer advice/ recommendations to the
+concerned Ministry/Public Authority; (d) The CIC should carry out sample audits for
+a few of the Ministries/Public Authorities each year with regard to adequacy of the
+items included as well as compliance of the Ministry/Public Authority with these
+
+5
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+guidelines; (e) An officer, not below the rank of a Joint Secretary, should be
+appointed as the Nodal officer in the Central Ministry/Public Authority to ensure
+c o m p l i a n c e   w i t h   t h e   p r o a c t i v e   d i s c l o s u r e   g u i d e l i n e s ,   a n d   ( f )   E v e r y
+Ministry/Department to include a chapter on RTI Act in its Annual Report submitted
+to the Parliament, mandatorily containing the details about compliance with
+proactive disclosure guidelines.”
+
+9. It is relevant to refer to Clause 4 of O.M. dated 15.04.2013 which deals with the compliance
+mechanism:
+
+“4.0 Compliance with Provisions of suo motu (proactive) disclosures under the RTI
+Act.
+
+4.1 Each Ministry/Public Authority shall ensure that these guidelines are fully
+operationalized within a period of 6 months from the date of their issue.
+
+4.2 Proactive disclosure as per these guidelines would require collating a large
+quantum of information and digitizing it. For this purpose, Ministries/Public
+Authorities may engage consultants or outsource such work to expeditiously comply
+with these guidelines. For this purpose, the plan/non-plan funds of that department
+may be utilized. 4.3 The Action Taken Report on the compliance of these guidelines
+should be sent, along with the URL link, to the DoPT and Central Information
+Commission soon after the expiry of the initial period of 6 months.
+
+4.4 Each Ministry/Public Authority should get its proactive disclosure package
+audited by third party every year. The audit should cover compliance with the
+proactive disclosure guidelines as well as adequacy of the items included in the
+package. The audit should examine whether there are any other types of information
+which could be proactively disclosed. Such audit should be done annually and should
+be communicated to the Central Information Commission annually through
+publication on their own websites. All Public Authorities should proactively disclose
+the names of the third party auditors on their website. For carrying out third party
+audit through outside consultants also, Ministries/Public Authorities should utilize
+their plan/non-plan funds.
+
+4.5 The Central Information Commission should examine the third-party audit
+reports for each Ministry/Public Authority and offer advice/recommendations to the
+concerned Ministries/Public Authorities.
+
+4.6 Central Information Commission should carry out sample audit of few of the
+Ministries/Public Authorities each year with regard to adequacy of items included as
+well as compliance of the Ministry/Public Authority with these guidelines.
+
+6
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+4.7 Compliance with the proactive disclosure guidelines, its audit by third party and
+its communication to the Central Information Commission should be included as
+RFD target.”
+
+10. The ‘Note on Submissions’ discloses that the Department continued to follow the mandate of
+Section 4 and sought compliance of the Guidelines by issuing further O.M.’s such as O.M. issued on
+10.12.2013, 22.09.2014 and 09.07.2015.
+
+11. Proceeding further, in its endeavour to make information more accessible, the Department
+constituted two more Committees which made recommendations for effective implementation of
+Section 4. The first Committee headed by Shri A. N. Tiwari, CIC (Retd) made recommendations with
+respect to (a) making online access to information more user-friendly and (b) setting up of grievance
+redressal mechanism, amongst others. These recommendations were accepted by the Department
+vide O.M. dated 29.06.2015.
+
+12. The second committee headed by Dr. Devesh Chaturvedi, former Joint Secretary also made
+certain recommendations and some of them were accepted through O.M. dated 30.06.2016. Some of
+the recommendations that were accepted relate to (a) setting up of Consultative Committees by
+public authority for systematic and regular interaction with its officials and to advise public
+authorities on information which can be uploaded suo motu, (b) setting up of Information and
+Facilitation Centres to educate citizens about information available, (c) providing searchable and
+retrievable database of information on the website of the public authorities; and importantly (d) to
+undertake transparency audits by training institutes under the Ministry/Department/Public
+Authority.
+
+13. The Note also indicated that by O.M. dated 15.10.2019, the Department relaxed the audit criteria
+by allowing the public authorities to give the transparency audits conducted by any Government
+T r a i n i n g   I n s t i t u t e s ,   i . e . ,   i n   c a s e s   w h e r e   t h e r e   i s   n o   i n s t i t u t e   e x i s t i n g   i n   t h e
+Ministry/Department/Public Authority.
+
+14. As many Central Authorities faced difficulties on account of, (a) substantial difference in the
+audit cost charged by different auditing training institutes, (b) shortage of manpower/adequately
+trained manpower, and (c) pre-engagement of the training institute with its scheduled training
+activities, a further relaxation through O.M. dated 20.09.2022 was given as per which the task of
+transparency audits was permitted to be given to any Government Training Institute by the
+Ministry/Department/Public Authority under the Central or State Governments.
+
+15. It is clarified that if a Training Institute is in itself a public authority, then it may give its audits
+conducted by Government Training Institute (O.M. 07.09.2021). The Note also states that the
+department issued O.M. dated 14.09.2022 directing all Ministries/Departments/Public Authorities
+to (a) nominate Training Institute for third party audit; (b) furnish other requisite details to the CIC
+as per the Exhaustive Guidelines issued vide OM dated 07.11.2019; (c) adhere to the timelines set by
+the CIC for conducting transparency audits; and (d) observe the earlier guidelines issued vide OMs
+dated 13.04.2013 and 07.11.2019.
+
+7
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+16. On 07.11.2019, the Department of Personnel and Training issued an O.M. reiterating the
+15.04.2013 Guidelines. Clause 4.4 was revised in the following terms:
+
+“4.4 Each Ministry/Public Authority should get its proactive disclosure package
+audited by third party every year. The audit should cover compliance with the
+proactive disclosure guidelines as well as adequacy of the items included in the
+package. The audit should examine whether there are any other types of information
+which could be proactively disclosed. Such audit should be done annually and should
+be communicated to the Central Information Commission annually through
+publication on their own websites. Further the task of undertaking transparency
+a u d i t s   m a y   b e   g i v e n   t o   t h e   r e s p e c t i v e   T r a i n i n g   I n s t i t u t e s   u n d e r   e a c h
+Ministry/Department/Public Authority and across the States and Union Territories.
+“ H o w e v e r   i n   c a s e s   w h e r e   n o   t r a i n i n g   i n s t i t u t e   e x i s t s   u n d e r   t h e
+Ministries/Departments/Public Authorities the tasks of undertaking transparency
+audits may be given to any Government Training Institute.” All Public Authorities
+should proactively disclose the names of the third party auditors on their website. For
+carrying out third party audit through outside consultants also. Ministries/Public
+Authorities should utilize their plan/non-plan funds.”
+
+17. It is important to extract the ‘present status’ of compliances as indicated in the Note filed on
+behalf of Union of India. Para 17 to 20 of the affidavit is as follows:
+
+“17. Every public authority registered with the CIC is required to submit four
+quarterly returns for assessment of its performance in respect of the implementation
+of the RTI Act.
+
+18. Out of total 2278 Public Authorities, 2173 of them i.e., 95% public authorities have submitted
+their all four quarterly returns to the Commission in the reporting year i.e., 2021-22 (Annual Report
+2021-22 of the CIC).
+
+19. The suo motu disclosure under Section 4 of the Act by the public authorities and undertaking the
+transparency audit of the disclosure are two different provisions. Whereas the former is a
+mandatory provisions stipulated in the RTI Act, the latter was introduced vide OM date 15.04.2013
+and is directory.
+
+20. Thus, it is respectfully submitted that those public authorities which have not obtained an audit
+of their proactive disclosure packages by a third party cannot be construed to be in violation of
+Section 4 of the RTI Act.”
+
+18. On the other hand, the written submission filed on behalf of the petitioner disclosed that only
+33% of the public authorities have got transparency audits conducted in the last four years. It is
+stated that the poor implementation of third- party audit is adversely commented upon even by the
+Department in its O.M. dated 14.09.2022. It is further averred that apart from the poor
+implementation of third-party audit, 33% of public authorities which had their transparency audits
+
+8
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+conducted performed badly, clearly evidences that quality and quantity of proactive disclosure were
+not in accordance with Section 4 of the Act.
+
+19. From the information made available to us, one thing is evident. The system needs the
+concerned authority’s complete attention, followed by strict and continuous monitoring. It is in this
+context that the functioning and duties of the Central and State Information Commissions assume
+utmost importance.
+
+20. It is necessary to take note of the statutorily incorporated ‘monitoring and reporting’ mechanism
+in section 25 of the Act. This is an important feature of ‘accountability’ of statutory authorities.
+
+“25. Monitoring and reporting.
+
+(1) The Central Information Commission or State Information Commission, as the case may be,
+shall, as soon as practicable after the end of each year, prepare a report on the implementation of
+the provisions of this Act during that year and forward a copy thereof to the appropriate
+Government. (2) Each Ministry or Department shall, in relation to the public authorities within their
+jurisdiction, collect and provide such information to the Central Information Commission or State
+Information Commission, as the case may be. as is required to prepare the report under this section
+and comply with the requirements concerning the furnishing of that information and keeping of
+records for the purposes of this section. (3) Each report shall state in respect of the year to which the
+report relates,— (a) the number of requests made to each public authority; (b) the number of
+decisions where applicants were not entitled to access to the documents pursuant to the requests,
+the provisions of this Act under which these decisions were made and the number of times such
+provisions were invoked; (c) the number of appeals referred to the Central Information Commission
+or State Information Commission, as the case may be, for review, the nature of the appeals and the
+outcome of the appeals; (d) particulars of any disciplinary action taken against any officer in respect
+of the administration of this Act; (e) the amount of charges collected by each public authority under
+this Act; (J) any facts which indicate an effort by the public authorities to administer and implement
+the spirit and intention of this Act; (g) recommendations for reform, including recommendations in
+respect of the particular public authorities, for the development, improvement, modernisation,
+reform or amendment to this Act or other legislation or common law or any other matter relevant
+for operationalising the right to access information. (4) The Central Government or the State
+Government, as the case may be, may, as soon as practicable after the end of each year, cause a copy
+of the report of the Central Information Commission or the State Information Commission, as the
+case may be, referred to in sub- section (1) to be laid before each House of Parliament or, as the case
+may be, before each House of the State Legislature, where there are two Houses, and where there is
+one House of the State Legislature before that House. (5) If it appears to the Central Information
+Commission or State Information Commission, as the case may be, that the practice of a public
+authority in relation to the exercise of its functions under this Act does not conform with the
+provisions or spirit of this Act, it may give to the authority a recommendation specifying the steps
+which ought in its opinion to be taken for promoting such conformity.”
+
+9
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+21. Section 25 gloriously integrates ‘the right to information’ of a citizen with the collective
+responsibility of the Government to the Legislature under Article 75(3) or 164(2) of the Constitution.
+At the beginning of the chain is the citizen exercising her right to information. The Public Authority
+obligated to provide the information is accountable to the Department. The Department, shall, in
+relation to the public authorities within their jurisdiction, collect and provide such information to
+the CIC or SIC (see Section 25(2)). The CIC or SIC shall then prepare a ‘Report’ on the
+implementation of the provisions of the Act during the year and forward a copy to the appropriate
+Government (see Section 25(1)). The ‘Report’ prepared by the CIC or SIC is mandated to comprise
+all details specified in Clauses (a) to (g) of Section 25(3). The Central or the State Government shall
+cause a copy of the Report of the CIC/SIC be laid before Parliament/Legislative Assembly (Section
+25(4)). It is then for the House, representing the will of the people, to ensure that the confidence
+reposed by it in the Council of Ministers (Government) is affirmed. Thus, the circle of representative
+democracy connects supremacy of the Parliament with the right of the citizen by ensuring that the
+State performs its obligations. This is the primary principle of accountability.
+
+22. Power and accountability go hand in hand. While declaring that all citizens shall have the ‘right
+to information’ under Section 3 of the Act, the co-relative ‘duty’ in the form of obligation of public
+authorities is recognized in Section 4. The core of the right created under Section 3 in reality rests on
+the duty to perform statutory obligations. Public accountability is a crucial feature that governs the
+relationship between ‘duty bearers’ and ‘right holders’. Recognizing the importance of accountability
+as a measure of administrative law, this Court in Vijay Rajmohan v. CBI,3 held as follows:
+
+“34. Accountability in itself is an essential principle of administrative law. Judicial
+review of administrative action will be effective and meaningful by ensuring
+accountability of the officer or authority in charge.
+
+35. The principle of accountability is considered as a cornerstone of the human rights
+framework. It is a crucial feature that must govern the relationship between “duty
+bearers” in authority and “right holders” affected by their actions. Accountability of
+institutions is also one of the development goals adopted by the United Nations in
+2015 and is also recognized as one of the six principles of the Citizens Charter
+Movement.
+
+36. Accountability has three essential constituent dimensions :
+
+(i) responsibility, (ii) answerability, and (iii) enforceability.
+
+Responsibility requires the identification of duties and performance obligations of individuals in
+authority and with 3 (2023) 1 SCC 329 authorities. Answerability requires reasoned
+decision-making so that those affected by their decisions, including the public, are aware of the
+same. Enforceability requires appropriate corrective and remedial action against lack of
+responsibility and accountability to be taken. Accountability has a corrective function, making it
+possible to address individual or collective grievances. It enables action against officials or
+institutions for dereliction of duty. It also has a preventive function that helps to identify the
+
+10
+
+procedure or policy which has become non-functional and to improve upon it.”
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+23. In Government (NCT of Delhi) v. Union of India4 referring to the direct relationship between
+principles of collective responsibility and Government accountability, this Court held:-
+
+“325. There is a direct relationship between the principle of collective responsibility
+and Government accountability. This relationship is conceptualised in The Oxford
+Companion to Politics in India:
+
+Accountability can be defined in terms of outcomes rather than processes of
+Government….. It also includes the criterion of responsiveness to changes in
+circumstances that alter citizen needs and abilities… In other words, accountability
+refers to the extent to which actual policies and their implementation coincide with a
+normative ideal in terms of what they ought to be… In this broad sense,
+accountability amounts to evaluating the nature of governance itself, in
+outcome-oriented terms.”
+
+24. Apart from the obligation of monitoring and reporting, the Central and State Information
+Commissioners are also given the power to recommend steps which the public authority ought to
+take in implementing the Act. Sub-Section (5) of Section 25 is in the following terms:
+
+“(5) If it appears to the Central Information Commission or State Information
+Commission, as the case may be, that the practice of a public authority in relation to
+the exercise of its functions under this Act does not conform with the provisions or
+spirit of this Act, it may give to the authority a recommendation specifying 4 (2018) 8
+SCC 501 the steps which ought in its opinion to be taken for promoting such
+conformity.”
+
+25. Having examined the Right to Information established by the statute under Section 3 in the
+context of the obligations of public authorities under Section 4, we are of the opinion that the
+purpose and object of the statute will be accomplished only if the principle of accountability governs
+the relationship between ‘right holders’ and ‘duty bearers’. The Central and State Information
+Commissions have a prominent place, having a statutory recognition under Chapters III and IV of
+the Act and their powers and functions all enumerated in detail in Section 18 of the Act. We have
+also noted the special power of ‘Monitoring and Reporting’ conferred on the Central and State
+Information Commissioners which must be exercised keeping in mind the purpose and object of the
+Act, i.e., ‘to promote transparency and accountability in working of every public authority’.
+
+26. For the reasons stated above, we direct that the Central Information Commission and the State
+Information Commissions shall continuously monitor the implementation of the mandate of Section
+4 of the Act as also prescribed by the Department of Personnel and Training in its Guidelines and
+Memorandums issued from time to time. The directions will also include instructions under O.M.
+dated 07.11.2019 issued by the Department. For this purpose, the Commissioners will also be
+entitled to issue recommendations under sub- Section (5) of Section 25 to public authorities for
+
+11
+
+taking necessary steps for complying with the provisions of the Act.
+
+Kishan Chand Jain vs Union Of India on 17 August, 2023
+
+27. The Writ Petition (C) No. 990 of 2021 is disposed of with the direction to the Central
+Information Commission and the State Information Commissions to ensure proper implementation
+of the mandate of Section 4 of the Act, by following the directions as indicated above.
+
+28. There shall be no order on costs.
+
+……..……………………………….CJI.
+
+[Dr Dhananjaya Y Chandrachud] ……………….………………………….J. [Pamidighantam Sri Narasimha]
+……………….………………………….J. [J.B. Pardiwala] New Delhi;
+
+August 17, 2023
+
+12

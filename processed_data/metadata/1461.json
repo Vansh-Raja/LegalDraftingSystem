@@ -1,0 +1,15 @@
+{
+  "case_number": "Criminal Appeal No. 749 of 2022",
+  "parties": {
+    "petitioner": "Rekha Jain",
+    "respondent": "The State of Karnataka & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-10",
+  "summary": "The appeal challenged the High Court's refusal to quash FIR proceedings against Rekha Jain under Section 420 IPC. The Supreme Court held that there were no allegations of dishonest inducement by Rekha Jain, a necessary element for offence under Section 420 IPC. While her husband was alleged to have induced the complainant, she was only found in possession of the jewellery. The Court ruled that mere possession does not constitute cheating under Section 420. Thus, the proceedings against her under Section 420 IPC were quashed.",
+  "legal_provisions_cited": [
+    "Section 420 IPC",
+    "Section 482 Cr.PC"
+  ],
+  "final_judgment": "The criminal proceedings against Rekha Jain under Section 420 IPC are quashed. Appeal allowed in part."
+}

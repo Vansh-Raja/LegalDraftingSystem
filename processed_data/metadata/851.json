@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal No. 451 of 2011 and Criminal Appeal No. 1185 of 2011",
+  "parties": {
+    "petitioner": "Bothilal",
+    "respondent": "The Intelligence Officer, Narcotics Control Bureau"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-26",
+  "summary": "Appeals challenged conviction and sentence under the NDPS Act for possession and trafficking of 5.067 kg heroin. Key issues: admissibility of confessional statements under Section 67 of NDPS Act; validity of seizure and sample drawing by NCB officers; non-examination of independent witnesses; role and status of investigating officer under Section 50. Court held NCB officers are 'police officers' under Evidence Act, rendering confessions inadmissible under Section 25; failure to comply with Section 52A(2) in drawing samples invalidated prosecution evidence; absence of independent witnesses and lack of corroboration required acquittal.",
+  "legal_provisions_cited": [
+    "Section 8(c) read with Sections 21(c), 27A, 28, 29, 30 of NDPS Act",
+    "Section 50, 52, 52A, 53, 53A, 67 of NDPS Act",
+    "Section 25 of Indian Evidence Act, 1872",
+    "Tofan Singh v. State of Tamil Nadu, (2021) 4 SCC 1",
+    "Union of India v. Mohanlal & Anr., (2016) 3 SCC 379"
+  ],
+  "final_judgment": "Convictions set aside, appellants acquitted."
+}

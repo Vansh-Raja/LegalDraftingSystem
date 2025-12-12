@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 1491 of 2023 (Arising out of SLP(Civil) No. 22557 of 2019)",
+  "parties": {
+    "petitioner": "Sirajudheen",
+    "respondent": "Zeenath & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-02-27",
+  "summary": "Landmark property dispute involving alleged fraud in sale deed execution; key issue: co-ownership vs partnership property characterization; plaintiff claimed signing sale deed as security document but Trial Court dismissed suit for failure to prove fraud; High Court affirmed partition decrees but ordered de novo trial for fraudulent sale claim due to incomplete evidence; standard: Section 103 Evidence Act burden applies; no reexamination of Sub Registrar by plaintiff; partnership properties determined as co-owned assets after analyzing partnership deed terms; unregistered partnership suit for injunction held barred under Section 69(1) Partnership Act; appeal challenged cancellation of 2006 sale deed concerning cinema theatre property.",
+  "legal_provisions_cited": [
+    "Indian Evidence Act, 1872 s.103",
+    "Indian Partnership Act, 1932 s.69(1)"
+  ],
+  "final_judgment": "Leave granted; appeal allowed in part; High Court's direction for de novo trial upheld but partition decrees affirmed; fraud claim remanded for fresh consideration while maintaining co-ownership characterization of property."
+}

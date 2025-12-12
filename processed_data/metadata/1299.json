@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 341 of 2022 (@ SLP (C) No. 13161/2019)",
+  "parties": {
+    "petitioner": "Indian Oil Corporation Limited",
+    "respondent": "NCC Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-20",
+  "summary": "The appeal arises from the Delhi High Court's appointment of an arbitrator under Section 11(6) of the Arbitration and Conciliation Act, 1996, in disputes between Indian Oil Corporation Limited (IOCL) and NCC Limited over construction contracts for the Paradip Refinery Project. The core issue centered on whether claims by the contractor (NCC) were maintainable in arbitration, given contractual clauses requiring timely notification of claims (Clause 6.6.1.0) and inclusion in the Final Bill (Clauses 6.6.3.0 and 6.6.3.1). IOCL argued that NCC waived its claims by failing to include them in the Final Bill, relying on Clauses 6.6.4.0 and 6.7.1.0, which deem non-included claims waived and final payments as full and final settlement. The Supreme Court examined the interplay between the arbitration clause (Clause 9.0.1.0) and the discharge clauses, determining whether the right to arbitration survives acceptance of final payment. The Court upheld the High Court’s referral to arbitration, holding that as long as claims were 'notified' per contract and included in the Final Bill, the arbitration clause remains enforceable, and acceptance of payment with reservation of rights does not automatically extinguish the claim or bar arbitration.",
+  "legal_provisions_cited": [
+    "Section 11(6) of the Arbitration and Conciliation Act, 1996",
+    "Clause 6.6.1.0, 6.6.3.0, 6.6.3.1, 6.6.4.0, 6.7.1.0, 6.7.2.0, 9.0.1.0 of the Agreement"
+  ],
+  "final_judgment": "Appeal dismissed; referral to arbitration sustained."
+}

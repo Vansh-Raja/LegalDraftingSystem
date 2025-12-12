@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal Nos. 11400-11401/2018",
+  "parties": {
+    "petitioner": "Commissioner of Customs, Central Excise & Service Tax",
+    "respondent": "M/S Suzlon Energy Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-10",
+  "summary": "The key issue was whether 'Engineering Design & Drawings' imported by Suzlon Energy Ltd. for manufacturing Wind Turbine Generators were taxable as 'Design Services' under Section 65(35b) and Section 65(105)(zzzzd) of the Finance Act, 1994, or treated as goods exempt from service tax. The CESTAT held that the designs were 'goods' and not 'services', relying on the principle that the same transaction cannot be taxed both as goods and services. The Revenue appealed. The Supreme Court examined the nature of the transaction using the 'dominant nature test' and the intention of the parties, referencing BSNL v. Union of India. It emphasized that mere transfer of intellectual property in tangible form does not automatically constitute a sale of goods; the substance of the contract determines taxability. The issue centered on whether the import was for ready-made designs (goods) or tailor-made design services.",
+  "legal_provisions_cited": [
+    "Section 65(35b), Finance Act, 1994",
+    "Section 65(105)(zzzzd), Finance Act, 1994",
+    "Article 366(29A), Constitution of India",
+    "BSNL v. Union of India, (2006) 3 SCC 1"
+  ],
+  "final_judgment": "Appeal allowed in part; matter remanded to CESTAT for reconsideration in light of the principles laid down regarding the characterization of services vs. goods based on the dominant nature of the contract and parties' intent."
+}

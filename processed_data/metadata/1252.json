@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 2833 of 2016",
+  "parties": {
+    "petitioner": "Checkmate Services P. Ltd.",
+    "respondent": "Commissioner of Income Tax-I"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-12",
+  "summary": "The case involved the interpretation of Section 36(1)(va) and Section 43B of the Income Tax Act, 1961, concerning the entitlement of assessees to deduct amounts contributed towards employees' statutory funds (EPF and ESI) when deposited after the due date. The Assessing Officers disallowed deductions, treating belated payments as income under Section 2(24)(x), and denied deductions under Section 36(1)(va). The issue arose due to conflicting High Court opinions. The Supreme Court examined whether Section 43B applied to employee contributions and clarified that Explanation 2 to Section 36(1)(va) and Explanation 5 to Section 43B (inserted in 2021) made it clear that Section 43B does not apply to employee contributions, allowing deductions if deposited by the due date under respective labour laws. The Court resolved the legal conflict and allowed the appeals in favour of the assessees.",
+  "legal_provisions_cited": [
+    "Section 2(24)(x) of the Income Tax Act, 1961",
+    "Section 36(1)(va) of the Income Tax Act, 1961",
+    "Section 43B of the Income Tax Act, 1961",
+    "The Employees’ Provident Funds and Miscellaneous Provisions Act, 1952",
+    "The Employees’ State Insurance Act, 1948",
+    "Berger Paints India Ltd. v Commissioner of Income Tax, Kolkata-IV & Anr."
+  ],
+  "final_judgment": "Appeal allowed. The provisions of Section 43B do not apply to employee contributions; deductions under Section 36(1)(va) are allowable if contributions are credited by the due date under the relevant labour statutes. The matter was remanded to the lower authorities for determination in accordance with law."
+}

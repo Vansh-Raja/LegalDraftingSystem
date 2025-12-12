@@ -1,0 +1,961 @@
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12
+July, 2022
+
+Author: Indira Banerjee
+
+Bench: J.K. Maheshwari, Indira Banerjee
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO. 4633 OF 2021
+
+VIDARBHA INDUSTRIES POWER LIMITED                        ….. Appellant
+
+versus
+
+AXIS BANK LIMITED                                       ….. Respondent
+
+JUDGMENT
+
+Indira Banerjee, J.
+
+This appeal under Section 62 of the Insolvency and Bankruptcy Code 2016, hereinafter referred to
+as the ‘IBC’, is against a judgment and order dated 2nd March 2021 passed by the National
+Company Law Appellate Tribunal (NCLAT), New Delhi in Company Appeal (AT) (Insolvency)
+No.117 of 2021 whereby the learned Tribunal refused to stay the proceedings initiated by the
+Respondent, Axis Bank Limited against the Appellant for initiation of the Corporate Insolvency
+Resolution Process (CIRP) under Section 7 of the IBC.
+
+2. The Appellant is a Generating Company within the meaning of Section 2(28) of the Electricity
+Act, 2003 and has set up a 600 MW Coal-fired Thermal Power Plant comprising of two units each of
+300 MW capacity, within the Butibori Industrial Area in the Nagpur District in Maharashtra.
+
+3. Under the Electricity Act, 2003, and the Rules and Regulations framed thereunder, the business
+of Electricity Generating Companies is regulated and controlled by the State Electricity Regulatory
+Commission constituted under the said Act. Under Sections 61 to 63 of the Electricity Act, the State
+Electricity Regulatory Commission determines the tariff chargeable by Electricity Generating
+
+1
+
+Companies.
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+4. Through an international competitive bidding process conducted by the Maharashtra Industrial
+Development Corporation (MIDC), the Appellant was awarded the contract for implementation of a
+Group Power Project (GPP). The GPP was later converted into an Independent Power Project (IPP).
+
+5. The Appellant was later permitted to expand the capacity of its power plant by adding a second
+unit of 300 MW as an IPP. By an order dated 20th February 2013, the Maharashtra Electricity
+Regulatory Commission, hereinafter referred to as “MERC”, approved a Power Procurement
+Agreement between the Appellant and Reliance Industries Limited (RIL) subject to No Objection
+Certificate (NOC) of MIDC. MIDC granted its NOC to the Power Project Agreement.
+
+6. On 21st June 2013, the Cabinet Committee on Economic Affairs (CCEA) amended the New Coal
+Distribution Policy 2007, pursuant to which the Ministry of Coal (MOC) issued an order on 17 th
+July 2013 directing Coal India Limited (CIL) to sign Fuel Supply Agreements (FSA) with Power
+Projects with an aggregate capacity of 78,000 MW.
+
+7. On 17th July 2013, the Ministry of Power issued a list of Power Projects with an aggregate capacity
+of 78,000 MW that were eligible to execute FSAs with CIL. The Appellant was not included in the
+list.
+
+8. On 19th July 2013, the MERC granted approval to RIL to procure power from the Appellant’s
+Unit 1. Accordingly, a consolidated Power Purchase Agreement was executed on 14 th August 2013
+between the Appellant and RIL under which the Appellant agreed to supply and RIL agreed to
+purchase, power generated from both units of the Appellant’s Power Plant.
+
+9. On 21st February 2014, the Standing Linkage Committee held a meeting wherein the Appellant’s
+application for conversion of Unit 1 from GPP to IPP for the purpose of executing FSA was
+approved.
+
+10. On 1st April 2014, the Appellant commenced supply of power to RIL pursuant to the Power
+Purchase Agreement approved by MERC. By an order dated 9th March 2015, in Case No.115 of
+2014, MERC approved the Final Tariff of the power plant of the Appellant for the Financial Years
+2014-2015 and 2015-2016.
+
+11. In January 2016, the Appellant filed an application being Case No.91 of 2015 before the MERC
+for the purpose of truing up the Aggregate Revenue Requirement and for determination of tariff in
+terms of MERC (Multi Year Tariff) Regulation 2011, in view of, inter alia, the increase in fuel costs,
+consequential to the rise in the cost of procuring coal for the purpose of running the power plant.
+
+12. By an order dated 20th June 2016, the MERC disposed of Case No.91 of 2015 disallowing a
+substantial portion of the actual fuel costs as claimed by the Appellant for the Financial Years
+2014-2015 and 2015-2016 and also capped the tariff for the Financial Years 2016-2017 to
+2019-2020.
+
+2
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+13. Being aggrieved, the Appellant filed an appeal being Appeal No.192 of 2016 before the Appellate
+Tribunal for Electricity (APTEL), challenging disallowance of the actual fuel cost for the Financial
+Years 2014-2015 and 2015-2016.
+
+14. By an order dated 3rd November 2016, the APTEL allowed the appeal and directed MERC to
+allow the Appellant the actual cost of coal purchased for Unit-1, capped to the fuel cost for Unit 2 in
+terms of the FSA that had been executed, till such time as a FSA was executed in respect of Unit 1.
+The Appellant claims that a sum of Rs.1,730 Crores is due to the Appellant in terms of the said order
+of APTEL.
+
+15. On or about 8th December 2016, the Appellant filed an application before the MERC for
+implementation of the directions contained in the order dated 3rd November 2016 of APTEL. MERC
+however filed Civil Appeal No.372 of 2017 in this Court, challenging the order of APTEL. The Appeal
+is pending.
+
+16. In view of the pending appeal of MERC in this Court, the Appellant is unable to implement the
+directions of APTEL. The Appellant is, for the time being, short of funds. According to the Appellant,
+implementation of the orders of the APTEL would enable the Appellant to clear all its outstanding
+liabilities.
+
+17. Sections 6 and 7 of the IBC provide:
+
+“6. Persons who may initiate corporate insolvency resolution process.— Where any
+corporate debtor commits a default, a financial creditor, an operational creditor or
+the corporate debtor itself may initiate corporate insolvency resolution process in
+respect of such corporate debtor in the manner as provided under this Chapter.
+
+7. Initiation of corporate insolvency resolution process by financial creditor.—(1) A
+financial creditor either by itself or jointly with other financial creditors, or any other
+person on behalf of the financial creditor, as may be notified by the Central
+Government, may file an application for initiating corporate insolvency resolution
+process against a corporate debtor before the Adjudicating Authority when a default
+has occurred:
+
+Provided that for the financial creditors, referred to in clauses (a) and
+
+(b) of sub-section (6-A) of Section 21, an application for initiating corporate
+insolvency resolution process against the corporate debtor shall be filed jointly by not
+less than one hundred of such creditors in the same class or not less than ten per
+cent. of the total number of such creditors in the same class, whichever is less:
+
+Provided further that for financial creditors who are allottees under a real estate
+project, an application for initiating corporate insolvency resolution process against
+the corporate debtor shall be filed jointly by not less than one hundred of such
+
+3
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+allottees under the same real estate project or not less than ten per cent. of the total
+number of such allottees under the same real estate project, whichever is less:
+
+Provided also that where an application for initiating the corporate insolvency
+resolution process against a corporate debtor has been filed by a financial creditor
+referred to in the first and second provisos and has not been admitted by the
+Adjudicating Authority before the commencement of the Insolvency and Bankruptcy
+Code (Amendment) Act, 2020, such application shall be modified to comply with the
+requirements of the first or second proviso within thirty days of the commencement
+of the said Act, failing which the application shall be deemed to be withdrawn before
+its admission.
+
+Explanation.—For the purposes of this sub-section, a default includes a default in
+respect of a financial debt owed not only to the applicant financial creditor but to any
+other financial creditor of the corporate debtor.
+
+(2) The financial creditor shall make an application under sub-section (1) in such
+form and manner and accompanied with such fee as may be prescribed.
+
+(3) The financial creditor shall, along with the application furnish—
+
+(a) record of the default recorded with the information utility or such other record or
+evidence of default as may be specified;
+
+(b) the name of the resolution professional proposed to act as an interim resolution
+professional; and
+
+(c) any other information as may be specified by the Board.
+
+(4) The Adjudicating Authority shall, within fourteen days of the receipt of the
+application under sub-section (2), ascertain the existence of a default from the
+records of an information utility or on the basis of other evidence furnished by the
+financial creditor under sub-section (3):
+
+Provided that if the Adjudicating Authority has not ascertained the existence of
+default and passed an order under sub-section (5) within such time, it shall record its
+reasons in writing for the same. (5) Where the Adjudicating Authority is satisfied
+that—
+
+(a) a default has occurred and the application under sub-section (2) is complete, and
+there is no disciplinary proceedings pending against the proposed resolution
+professional, it may, by order, admit such application; or
+
+4
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+(b) default has not occurred or the application under sub-section (2) is incomplete or
+any disciplinary proceeding is pending against the proposed resolution professional,
+it may, by order, reject such application:
+
+Provided that the Adjudicating Authority shall, before rejecting the application under
+clause (b) of sub-section (5), give a notice to the applicant to rectify the defect in his
+application within seven days of receipt of such notice from the Adjudicating
+Authority. (6) The corporate insolvency resolution process shall commence from the
+date of admission of the application under sub-section (5). (7) The Adjudicating
+Authority shall communicate—
+
+(a) the order under clause (a) of sub-section (5) to the financial creditor and the
+corporate debtor;
+
+(b) the order under clause (b) of sub-section (5) to the financial creditor, within seven
+days of admission or rejection of such application, as the case may be.”
+
+18. On or about 15th January 2020, the Respondent, Axis Bank Limited, as Financial Creditor of the
+Appellant, filed an application under Section 7 (2) of the IBC being C.P. (IB) No.264 of 2020 before
+the National Company Law Tribunal (NCLT), Mumbai for initiation of CIRP against the Appellant.
+
+19. The Appellant filed a Miscellaneous Application being M.A. No.570 of 2020 in C.P. (IB) No.264
+of 2020, sometime in February 2020, seeking stay of proceedings under Section 7 of the IBC in the
+NCLT, as long as Civil Appeal No.372 of 2017 was pending in this Court.
+
+20. By an order dated 29th January 2021, the Adjudicating Authority (NCLT) dismissed the
+application being M.A. No.570 of 2020 filed by the Appellant in C.P. No.264 of 2020 and refused to
+stay the CIRP initiated against the Appellant.
+
+21. The Adjudicating Authority held:-
+
+“19. The Code is a special legislation. The chief object of which is to decide the
+Petition in a time bound manner and take adequate steps to see that the Corporate
+Debtor remains a going concern even during the process of CIRP.
+
+20. The Hon’ble Apex Court in Swiss Ribbons v. Union of Indian:
+
+(2019) 4 SCC 17 have set the tone for the proceeding before the Adjudicating
+Authority in order to make all endeavour to dispose of the matter in a time bound
+manner.
+
+The observation of the Hon’ble Court may profitably be quoted as under:
+
+5
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+“As is discernible, the Preamble gives an insight into what is sought to be achieved by
+the Code. The Code is first and foremost, a Code for reorganization and insolvency
+resolution of corporate debtors. Unless such reorganization is effected in a
+time-bound manner, the value of the assets of such persons will deplete.
+
+xxx xxx xxx Timely resolution of a corporate debtor who is in the red, by an effective
+legal framework, would go a long way to support the development of credit markets.
+
+xxx xxx xxx The timelines within which the resolution process is to take place again
+protects the corporate debtor’s assets from further dilution, and also protects all its
+creditors and workers by seeing that the resolution process goes through as fast as
+possible so that another management can, through its entrepreneurial skills,
+resuscitate the corporate debtor to achieve all these ends.”
+
+21. The observation would indicate that no other extraneous matter should come in
+the way of expeditiously deciding a Petition either under Section 7 or under Section 9
+of the Code. The inability of the Corporate Debtor in servicing the debts or the reason
+for committing a default is alien to the scheme of the Code. The averments made in
+the instant Application would indicate that various factors apparently hindered the
+Corporate Debtor from carrying on its business. There were disputes between the
+Corporate Debtor and the recipient of the energy as well as the change in supply
+chain management of the recipient of the energy may also have contributed to the
+lack of confidence between the entities. Be that as it may, the dispute of the Corporate
+Debtor with the Regulator or the recipient would be extraneous to the matters
+involved in the Company Petition. The decision in the matters pending before the
+Hon’ble Apex Court and other authorities would hardly have any bearing and impact
+on the issues involved in the present Company Petition under Section 7 of the Code.
+
+22. This Authority is required only to see whether there has been a debt and the
+Corporate Debtor defaulted in making the repayments.
+
+These two aspects when satisfied would trigger Corporate Insolvency. Therefore, the decision of the
+Authorities as well as of the Hon’ble Apex Court would not affect the proceedings before this
+Authority one way or the other. Therefore, we are of the considered opinion that this Authority need
+not stay its hands from considering the Company Petition as prayed for. As it is, there has been a
+considerable delay in disposal of the Company Petition. It will accordingly be appropriate that the
+Company Petition is disposed of as expeditiously as possible. Hence ordered.
+
+ORDER The Application be and the same is rejected on contest. There would however be no order as
+to costs.”
+
+22. The Appellant filed an appeal before the NCLAT, against the aforesaid order dated 29th January
+2021. The said appeal has been dismissed by the judgment and order dated 2 nd March 2021
+impugned in this Appeal.
+
+6
+
+23. By the judgment and order impugned, the NCLAT held:
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+“On consideration of the issues raised in this Appeal we are of the considered opinion
+that the Appellant has no justification in stalling the process and seeking stay of
+CIRP, which in essence has manifested in blocking the passing of order of admission
+of Application of Respondent under Section 7 of I&B Code. There is no merit in
+Appeal as we find no legal infirmity in the impugned order. The Adjudicating
+Authority is conscious of the mandate of law and the course it has to take as per I&B
+provisions, which practically stands stalled. This is impermissible. The flow of legal
+process cannot be permitted to be thwarted on considerations which are anterior to
+the mandate of Section 7(4) & (5) of I&B Code. The Appeal being devoid of merit is
+dismissed. However, we do not propose to impose any costs.”
+
+24. Mr. Jaideep Gupta, Senior Advocate appearing on behalf of the Appellant submitted that the
+Appellant had applied for stay of the proceedings before NCLT, Mumbai in extraordinary
+circumstances, where the Appellant had not been able to pay the dues of the Respondent, only
+because an appeal filed by MERC, being Appeal No.372 of 2017, against an order dated 3 rd
+November 2016 passed by APTEL in favour of the Appellant, was pending in this Court. Since the
+aforesaid appeal is pending in this Court, the Appellant is unable to realize a sum of Rs.1,730 Crores,
+which is due and payable to the Appellant, in terms of the order of APTEL.
+
+25. Mr. Gupta submitted that considering the special nature of the business of the Appellant of
+production of electricity, tariff whereof is regulated by MERC and APTEL, the application under
+Section 7 of the IBC should not have been admitted against the Appellant.
+
+26. Mr. Gupta, referred to Section 7(5)(a) of the IBC which provides that where the Adjudicating
+Authority is satisfied that a default has occurred, and the application under sub-Section (2) is
+complete, and there is no disciplinary proceeding pending against the proposed Resolution
+Professional, it may by order, admit such application.
+
+27. Mr. Gupta submitted that a bare perusal of the aforesaid provision shows that the word used in
+Section 7(5)(a) of the IBC is ‘may’, which must be interpreted to say that it is not mandatory for the
+NCLT to admit an application in each and every case, where there is existence of a debt.
+
+28. Mr. Gupta argued that discretion conferred by Section 7(5) (a) of the IBC enables NCLT to reject
+an application, even if there is existence of debt, for any reason that the NCLT may deem fit, for
+meeting the ends of justice and to achieve the overall objective of the IBC, which is revival of the
+company and value maximization. Mr. Gupta argued that if legislature had intended that an
+application must be admitted upon existence of a debt, then the terminology used in Section 7(5)(a)
+of IBC would have been ‘shall’ and not ‘may’.
+
+29. Mr. Gupta has also relied on Rule 11 of the National Company Law Tribunal Rules, 2016,
+hereinafter referred to as the “Rules”, set out hereinbelow:
+
+7
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+“11. Inherent Powers- Nothing in these rules shall be deemed to limit or otherwise
+affect the inherent powers of the Tribunal to make such orders as may be necessary
+for meeting the ends of justice or to prevent abuse of the process of the Tribunal”
+
+30. Mr. Gupta submitted that a conjoint reading of Section 7(5)(a) of the IBC with Rule 11 of the
+Rules makes it abundantly clear that NCLT, on examining the existence of debt and its default, by a
+Corporate Debtor, has the discretion to admit or not admit an application for initiation of CIRP. It
+cannot be said that NCLT has no power, except to examine whether a debt exists or not and
+accordingly accept or reject the application under Section 7 of the IBC.
+
+31. To demonstrate that power under Section 7(5)(a) of the IBC to admit a CIRP application is
+discretionary and not mandatory, an analogy of that Section has been drawn to Section 10(4) of the
+IBC, which has been held by this Court to be discretionary and not mandatory, in Surendra Trading
+Company v. Juggilal Kamlapat Jute Mills Company Limited and Ors.1, where this Court held:
+
+“24. Further, we are of the view that the judgments cited by NCLAT and the principle
+contained therein applied while deciding that period of fourteen days within which
+the adjudicating authority has to pass the order is not mandatory but directory in
+nature would equally apply while interpreting the proviso to sub-section (5) of
+Section 7, Section 9 or sub-section (4) of Section 10 as well. After all, the applicant
+does not 1 (2017) 16 SCC 143 gain anything by not removing the objections inasmuch
+as till the objections are removed, such an application would not be entertained.
+
+Therefore, it is in the interest of the applicant to remove the defects as early as possible.”
+
+32. Mr. Gupta argued, and in our view rightly, that the object of the IBC is to first try and revive the
+company and not to spell its death knell. This objective cannot be lost sight of, when exercising
+powers under Section 7 of the IBC or interpreting the said Section. Mr. Gupta argued that, where
+there are favourable orders in favour of the Corporate Debtor, implementation of which would
+enable the Corporate Debtor to liquidate its debt, the NCLT is not denuded of the power to defer the
+hearing of the petition under Section 7 of the IBC.
+
+33. Mr. Gupta argued that the Appellant is in its current situation for no fault of its own, but due to
+the statutory authorities as noted by APTEL in Appeal No.192 of 2016. MERC has prevented the
+Appellant from availing the benefit of favourable orders passed by APTEL.
+
+34. Mr. Dhruv Mehta, Senior Advocate appearing on behalf of the Respondent Financial Creditor,
+has strenuously opposed this appeal, emphasizing on the fact that the Appellant Corporate Debtor
+had admittedly defaulted in payment of its dues to the Respondent Financial Creditor. He submitted
+that the Appellant being in admitted default, the Adjudicating Authority (NCLT) rightly declined
+stay of proceedings initiated by the Respondent Financial Creditor under Section 7(5) of the IBC.
+
+35. In support of his aforesaid submission, Mr. Mehta cited Swiss Ribbons Private Limited and Anr.
+v. Union of India and Ors. 2. The relevant portion of the judgment relied upon by Mr. Mehta in this
+
+8
+
+context is set out hereinbelow:-
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+“64. The trigger for a financial creditor's application is non-payment of dues when
+they arise under loan agreements. It is for this reason that Section 433(e) of the
+Companies Act, 1956 has been repealed by the Code and a change in approach has
+been brought about. Legislative policy now is to move away from the concept of
+“inability to pay debts” to “determination of default”. The said shift enables the
+financial creditor to prove, based upon solid documentary evidence, that there was an
+obligation to pay the debt and that the debtor has failed in such obligation.”
+
+36. Mr. Mehta argued that Section 7(5)(a) of the IBC cast a mandatory obligation on the
+Adjudicating Authority to admit an application of the Financial Creditor, under Section 7(2), once it
+was found that a Corporate Debtor had committed default in repayment of its dues to the Financial
+Creditor. This is what the Adjudicating Authority (NCLT) has done.
+
+37. Mr. Mehta argued that the application under Section 7 of the IBC was filed by the Respondent
+Financial Creditor before the NCLT, Mumbai on 15th January 2020. The debt due from the
+Appellant to the Respondent Financial Creditor was approximately Rs.553 Crores. The total debt
+owed by the Appellant to the consortium of lenders of which the Respondent Financial Creditor is
+the lead bank was approximately Rs.2727 Crores.
+
+2 (2019) 4 SCC 17 (Para 64)
+
+38. Mr. Mehta argued that the Appellant Corporate Debtor has, on one pretext or the other,
+attempted to delay the insolvency proceedings, notwithstanding the concurrent findings of NCLT
+and NCLAT that occurrence of default is not disputed. Mr. Mehta submits that since the application
+under Section 7 of the IBC had been filed in the NCLT, it has been listed on innumerable occasions,
+without any effective hearing.
+
+39. Mr. Mehta submitted that the application for stay filed by the Appellant was heard on 14th July
+2020 and later re-heard on 29th January 2021, on which date the application was rejected. Even
+after the order dated 29th January 2021, rejecting the Appellant’s application for stay, proceedings
+under Section 7 of the IBC have not progressed at all.
+
+40. Mr. Mehta emphatically argued that the object of the IBC was to set up an effective legal
+framework for resolution of insolvency and bankruptcy in a time bound manner, to encourage
+entrepreneurship and facilitate investment for higher economic growth and development.
+
+41. Referring to sub-section (4) of Section 7 of the IBC, Mr. Mehta argued that the Adjudicating
+Authority (NCLT) is mandatorily required to ascertain existence of the default from the records of
+an information utility or on the basis of other evidence furnished by the Financial Creditor under
+sub-section (3) of Section 7, within 14 days of receipt of an application under sub-section (2) of
+Section 7 of the IBC. If the Adjudicating Authority does not ascertain the existence of default, it is
+bound to record its reasons in writing for not doing so.
+
+9
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+42. Mr. Mehta argued that in this case, there was no dispute that the Appellant had defaulted in
+payment of its dues to the Respondent Financial Creditor. The Adjudicating Authority was obliged
+to admit the application under Section 7 of the IBC in terms of Section 7(5)(a) of the IBC. There are
+no grounds to interfere with the concurrent findings of the NCLT and the NCLAT.
+
+43. Mr. Mehta also relied on the judgment of this Court in Innoventive Industries Ltd. v. ICICI Bank
+and Another 3 to argue that the object of the IBC was to provide a framework for expeditious and
+time bound insolvency resolution. Section 7(5)(a) of the IBC had, therefore, necessarily to be
+construed as mandatory in the light of the objects of the IBC.
+
+44. The IBC has been enacted for reasonably expeditious, time bound insolvency resolution of, inter
+alia, corporate bodies as observed by this Court in Swiss Ribbons (supra). As observed by this Court
+in Swiss Ribbons (supra) timely resolution of a Corporate Debtor, who is in the red, by an effective
+legal framework and process, would go a long way to support the development of the 3 (2018) 1 SCC
+407 credit market.
+
+45. As per the Statement of Objects and Reasons of the IBC, and its preamble, the objective of the
+IBC is to consolidate and amend the laws relating to reorganization and insolvency resolution of
+corporate persons, partnership firms and individuals, in a time bound manner, inter alia, for
+maximization of the value of the assets of such persons, promoting entrepreneurship and
+availability of credit, balancing the interest of all the stakeholders and matters connected therewith
+or incidental thereto.
+
+46. Prior to enactment of the IBC, there was no single law in India that dealt with insolvency and
+bankruptcy. Provisions relating to insolvency and bankruptcy for companies could be found in the
+Sick Industrial Companies (Special Provisions) Act, 1985, the Recovery of Debts Due to Banks and
+Financial Institutions Act, 1993, the Securitisation and Reconstruction of Financial Assets and
+Enforcement of Security Interest Act, 2002, and the Companies Act, 2013. These statutes provided
+for creation of multiple fora such as Board of Industrial and Financial Reconstruction (BIFR), Debts
+Recovery Tribunal (DRT) and National Company Law Tribunal (NCLT) and their respective
+Appellate Tribunals. Liquidation of companies was handled by the High Courts.
+
+47. The framework that had existed for insolvency and bankruptcy was inadequate, ineffective and
+resulted in undue delay. After a lot of deliberation and discussion and pursuant to reports of various
+committees including, in particular, the Bankruptcy Law Reforms Committee (BLRC), the IBC has
+been enacted to provide an effective legal framework for timely resolution of insolvency and
+bankruptcy.
+
+48. In Innoventive Industries Ltd. v. ICICI Bank (supra), this Court speaking through Nariman J.,
+referred to the Report of the BLRC and observed:
+
+“16. At this stage, it is important to set out the important paragraphs contained in the
+Report of the Bankruptcy Law Reforms Committee of November 2015, as these
+excerpts give us a good insight into why the Code was enacted and the purpose for
+
+10
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+which it was enacted:
+
+“...India is one of the youngest republics in the world, with a high concentration of
+the most dynamic entrepreneurs. Yet these game changers and growth drivers are
+crippled by an environment that takes some of the longest times and highest costs by
+world standards to resolve any problems that arise while repaying dues on debt.
+
+….the recovery rates obtained in India are among the lowest in the world. When
+default takes place, broadly speaking, lenders seem to recover 20% of the value of
+debt, on an NPV basis.
+
+When creditors know that they have weak rights resulting in a low recovery rate, they
+are averse to lend....
+
+The key economic question in the bankruptcy process When a firm (referred to as the
+corporate debtor in the draft law) defaults, the question arises about what is to be
+done. Many possibilities can be envisioned. One possibility is to take the firm into
+liquidation. Another possibility is to negotiate a debt restructuring, where the
+creditors accept a reduction of debt on an NPV basis, and hope that the negotiated
+value exceeds the liquidation value. Another possibility is to sell the firm as a going
+concern and use the proceeds to pay creditors. Many hybrid structures of these broad
+categories can be envisioned...
+
+Speed is of essence Speed is of essence for the working of the bankruptcy code, for
+two reasons. First, while the “calm period” can help keep an organisation afloat,
+without the full clarity of ownership and control, significant decisions cannot be
+made. Without effective leadership, the firm will tend to atrophy and fail. The longer
+the delay, the more likely it is that liquidation will be the only answer. Second, the
+liquidation value tends to go down with time as many assets suffer from a high
+economic rate of depreciation.
+
+From the viewpoint of creditors, a good realisation can generally be obtained if the
+firm is sold as a going concern. Hence, when delays induce liquidation, there is value
+destruction. Further, even in liquidation, the realisation is lower when there are
+delays. Hence, delays cause value destruction. Thus, achieving a high recovery rate is
+primarily about identifying and combating the sources of delay....
+
+The Committee set the following as objectives desired from implementing a new Code
+to resolve insolvency and bankruptcy:
+
+(1) Low time to resolution.
+
+(2) Low loss in recovery.
+
+11
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+(3) Higher levels of debt financing across a wide variety of debt instruments.
+
+The performance of the new Code in implementation will be based on measures of the above
+outcomes.
+
+Principles driving the design The Committee chose the following principles to design the new
+insolvency and bankruptcy resolution framework:
+
+I. The Code will facilitate the assessment of viability of the enterprise at a very early
+stage.
+
+(1) The law must explicitly state that the viability of the enterprise is a matter of
+business, and that matters of business can only be negotiated between creditors and
+debtor. While viability is assessed as a negotiation between creditors and debtor, the
+final decision has to be an agreement among creditors who are the financiers willing
+to bear the loss in the insolvency....
+
+II. The Code will enable symmetry of information between creditors and debtors.
+
+(5) The law must ensure that information that is essential for the insolvency and the bankruptcy
+resolution process is created and available when it is required.
+
+(6) The law must ensure that access to this information is made available to all creditors to the
+enterprise, either directly or through the regulated professional.
+
+(7) The law must enable access to this information to third parties who can participate in the
+resolution process, through the regulated professional. III. The Code will ensure a time-bound
+process to better preserve economic value.
+
+(8) The law must ensure that time value of money is preserved, and that delaying tactics in these
+negotiations will not extend the time set for negotiations at the start.
+
+IV. The Code will ensure a collective process.
+
+(9) The law must ensure that all key stakeholders will participate to collectively assess viability. The
+law must ensure that all creditors who have the capability and the willingness to restructure their
+liabilities must be part of the negotiation process. The liabilities of all creditors who are not part of
+the negotiation process must also be met in any negotiated solution. V. The Code will respect the
+rights of all creditors equally.
+
+(10) The law must be impartial to the type of creditor in counting their weight in the vote on the
+final solution in resolving insolvency. VI. The Code must ensure that, when the negotiations fail to
+establish viability, the outcome of bankruptcy must be binding. (11) The law must order the
+liquidation of an enterprise which has been found unviable. This outcome of the negotiations should
+
+12
+
+be protected against all appeals other than for very exceptional cases....”
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+49. The new Insolvency and Bankruptcy framework has been designed, inter alia, to facilitate the
+assessment of viability of an enterprise at a very early stage, and to ensure a time bound Insolvency
+Resolution Process to preserve the economic value of the enterprise.
+
+50. Section 6 of the IBC provides that where any Corporate Debtor commits a default, a Financial
+Creditor, an Operational Creditor or the Corporate Debtor itself may initiate the CIRP in respect of
+such Corporate Debtor.
+
+51. Under Section 7(1) of the IBC, a Financial Creditor may, either by itself, or jointly with other
+financial creditors, file an application for initiating CIRP against a Corporate Debtor, before the
+Adjudicating Authority (NCLT) when a default has occurred. Default includes a default in respect of
+a financial debt owed not only by the applicant Financial Creditor but to any other Financial
+Creditor of the Corporate Debtor.
+
+52. Under Section 7(2) of the IBC, a financial creditor is required to make an application in the
+prescribed form and manner, along with the prescribed fee. Along with an application, the financial
+creditor is required to furnish record of the defaults recorded with the information utility or such
+other record or evidence of default as may be specified, the name of the Resolution Professional
+proposed to act as an Interim Resolution Professional and any other information as may be specified
+by the Board.
+
+53. From a perusal of the application filed by the Respondent Financial Creditor under Section 7(2)
+of the IBC in the statutory form, a copy whereof is included in the Paper Book, it is apparent that the
+Respondent Financial Creditor filed the application in the NCLT for initiation of CIRP against the
+Appellant in its individual capacity and not as lead bank on behalf of the other creditors. The
+Respondent Financial Creditor claimed that a total amount of Rs.553,27,99,322.78 was due from the
+Appellant Corporate Debtor to the Respondent Financial Creditor, of which Rs.42,83,45,538.32 was
+on account of the interest and further Rs.11,21,68,673.81 towards penal interest. The principal
+outstanding amount was Rs.499,22,85,110.65.
+
+54. When an application is filed under Section 7(2) of the IBC, the Adjudicating Authority (NCLT) is
+required to ascertain the existence of a default from the records of the information utility or any
+other evidence furnished by the financial creditor under sub-section (3) of Section 7 of the IBC,
+within 14 days of the date of receipt of the application,
+
+55. Section 7(5)(a) of the IBC, on which much emphasis has been placed both by Mr. Gupta and Mr.
+Mehta, provides that where the Adjudicating Authority (NCLT) is satisfied that a default has
+occurred and the application under sub-Section (2) of the IBC is complete and there is no
+disciplinary proceeding against the proposed Resolution Professional, it may by order, admit such
+application. If default has not occurred, or the application is incomplete, or any disciplinary
+proceeding is pending against the proposed Resolution Professional, the Adjudicating Authority
+(NCLT) may reject such application in terms of Section 7(5)(a) of the IBC, but after giving the
+
+13
+
+applicant opportunity to rectify the defect.
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+56. Both, the Adjudicating Authority (NCLT) and the Appellate Tribunal (NCLAT) proceeded on the
+premises that an application must necessarily be entertained under Section 7(5)(a) of the IBC, if a
+debt existed and the Corporate Debtor was in default of payment of debt. In other words, the
+Adjudicating Authority (NCLT) found Section 7(5)
+
+(a) of the IBC to be mandatory. The Adjudicating Authority (NCLT) was of the view that Section
+7(5)(a) did not admit any other interpretation, with which the Appellate Tribunal (NCLAT) agreed.
+
+57. The Appellate Tribunal (NCLAT) affirmed the finding of the Adjudicating Authority (NCLT) that
+the Adjudicating Authority was only required to see whether there had been a debt, and the
+Corporate Debtor had defaulted in making the repayments. These two aspects, when satisfied,
+would trigger Corporate Insolvency. Since the Adjudicating Authority (NCLT) did not consider the
+merits of the contention of the Respondent Corporate Debtor, the only question in this appeal is,
+whether Section 7(5)(a) is a mandatory or a discretionary provision. In other words, is the
+expression ‘may’ to be construed as ‘shall’, having regard to the facts and circumstances of the case.
+
+58. Referring to the judgment of this Court in Swiss Ribbons (supra), the Adjudicating Authority
+(NCLT) held that the imperativeness of timely resolution of a Corporate Debtor, who was in the red,
+indicated that no other extraneous matter should come in the way of expeditiously deciding a
+petition under Section 7 or under Section 9 of the IBC.
+
+59. There can be no doubt that a Corporate Debtor who is in the red should be resolved
+expeditiously, following the timelines in the IBC. No extraneous matter should come in the way.
+However, the viability and overall financial health of the Corporate Debtor are not extraneous
+matters.
+
+60. The Adjudicating Authority (NCLT) found the dispute of the Corporate Debtor with the
+Electricity Regulator or the recipient of electricity would be extraneous to the matters involved in
+the petition. Disputes with the Electricity Regulator or the Recipient of Electricity may not be of
+much relevance. The question is whether an award of the APTEL in favour of the Corporate Debtor,
+can completely be disregarded by the Adjudicating Authority (NCLT), when it is claimed that, in
+terms of the Award, a sum of Rs.1,730 crores, that is, an amount far exceeding the claim of the
+Financial Creditor, is realisable by the Corporate Debtor. The answer, in our view, is necessarily in
+the negative.
+
+61. In our view, the Appellate Authority (NCLAT) erred in holding that the Adjudicating Authority
+(NCLT) was only required to see whether there had been a debt and the Corporate Debtor had
+defaulted in making repayment of the debt, and that these two aspects, if satisfied, would trigger the
+CIRP. The existence of a financial debt and default in payment thereof only gave the financial
+creditor the right to apply for initiation of CIRP. The Adjudicating Authority (NCLT) was require to
+apply its mind to relevant factors including the feasibility of initiation of CIRP, against an electricity
+generating company operated under statutory control, the impact of MERC’s appeal, pending in this
+
+14
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+Court, order of APTEL referred to above and the over all financial health and viability of the
+Corporate Debtor under its existing management.
+
+62. As pointed out by Mr. Gupta, Legislature has, in its wisdom, chosen to use the expression “may”
+in Section 7(5)(a) of the IBC. When an Adjudicating Authority (NCLT) is satisfied that a default has
+occurred and the application of a Financial Creditor is complete and there are no disciplinary
+proceedings against proposed resolution professional, it may by order admit the application.
+Legislative intent is construed in accordance with the language used in the statute.
+
+63. The meaning and intention of Section 7(5)(a) of the IBC is to be ascertained from the
+phraseology of the provision in the context of the nature and design of the IBC. This Court would
+have to consider the effect of the provision being construed as directory or discretionary.
+
+64. Ordinarily the word “may” is directory. The expression ‘may admit’ confers discretion to admit.
+In contrast, the use of the word “shall” postulates a mandatory requirement. The use of the word
+“shall” raises a presumption that a provision is imperative. However, it is well settled that the prima
+facie presumption about the provision being imperative may be rebutted by other considerations
+such as the scope of the enactment and the consequences flowing from the construction.
+
+65. It is well settled that the first and foremost principle of interpretation of a statute is the rule of
+literal interpretation, as held by this Court in Lalita Kumari v. Government of Uttar Pradesh and
+Ors.4 If Section 7(5)(a) of the IBC is construed literally the provision must be held to confer a
+discretion on the Adjudicating Authority (NCLT).
+
+66. In Hiralal Rattanlal v. State of Uttar Pradesh 5, this Court held:-
+
+4 (2014) 2 SCC 1 (para 14) 5 (1973) 1 SCC 216 “22. … In construing a statutory
+provision, the first and the foremost rule of construction is the literary construction.
+All that we have to see at the very outset is what does that provision say?
+
+If the provision is unambiguous and if from that provision, the legislative intent is clear, we need not
+call into aid the other rules of construction of statutes. The other rules of construction of statutes are
+called into aid only when the legislative intention is not clear.”
+
+67. In B. Premanand v. Mohan Koikal6, this Court held:-
+
+“9. It may be mentioned in this connection that the first and foremost principle of
+interpretation of a statute in every system of interpretation is the literal rule of
+interpretation. The other rules of interpretation e.g. the mischief rule, purposive
+interpretation, etc. can only be resorted to when the plain words of a statute are
+ambiguous or lead to no intelligible results or if read literally would nullify the very
+object of the statute. Where the words of a statute are absolutely clear and
+unambiguous, recourse cannot be had to the principles of interpretation other than
+the literal rule, vide Swedish Match AB v. SEBI [(2004) 11 SCC 641] .”
+
+15
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+68. In Lalita Kumari v. Government of Uttar Pradesh (supra), this Court construed the use of the
+word “shall” in section 154 (1) of the Code of Criminal Procedure 1973 and held that Section 154(1)
+postulates the mandatory registration of an FIR on receipt of information of a cognizable offence. If,
+however, the information given does not disclose a cognizance offence, a preliminary enquiry may
+be ordered, and if the enquiry discloses the commission of a cognizable offence, the FIR must be
+registered.
+
+69. As argued by Mr. Gupta, had it been the legislative intent that Section 7(5)(a) of the IBC should
+be a mandatory provision, 6 (2011) 4 SCC 266 Legislature would have used the word ‘shall’ and not
+the word ‘may’. There is no ambiguity in Section 7(5)(a) of the IBC. Purposive interpretation can
+only be resorted to when the plain words of a statute are ambiguous or if construed literally, the
+provision would nullify the object of the statute or otherwise lead to an absurd result. In this case,
+there is no cogent reason to depart from the rule of literal construction.
+
+70. Section 8 of the IBC relates to the initiation of CIRP by an Operational Creditor. There are
+noticeable differences between the procedure by which a Financial Creditor may initiate CIRP and
+the procedure by which an Operational Creditor may apply for CIRP.
+
+71. The Operational Creditor is, on occurrence of a default, required to serve on the Corporate
+Debtor, a demand notice of the unpaid Operational Debt, or a copy of an invoice demanding
+payment of the amount involved in the default of the Corporate Debtor. Within ten days of receipt of
+the demand notice or copy of the invoice, the Corporate Debtor may respond by drawing the notice
+of the Operational Creditor to the existence of a dispute, in relation to the claim or to the payment of
+the unpaid operational debt.
+
+72. Section 9 prescribes the mode and manner by which an Operational Creditor can make an
+application for initiation of CIRP. After expiry of ten days from the date of delivery of the notice or
+invoice demanding payment, if the operational creditor does not receive payment from the
+Corporate Debtor or notice of dispute, the Operational Creditor may file an application before the
+Adjudicating Authority (NCLT) for initiation of CIRP.
+
+73. Sub-Section (5) of Section 9 of the IBC reads:-
+
+“9(5) The Adjudicating Authority shall, within fourteen days of the receipt of the
+application under sub-section (2), by an order
+
+(i) admit the application and communicate such decision to the operational creditor
+and the corporate debtor if,--
+
+(a) the application made under sub-section (2) is complete;
+
+(b) there is no payment of the unpaid operational debt;
+
+16
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+(c) the invoice or notice for payment to the corporate debtor has been delivered by
+the operational creditor;
+
+(d) no notice of dispute has been received by the operational creditor or there is no
+record of dispute in the information utility; and
+
+(e) there is no disciplinary proceeding pending against any resolution professional
+proposed under sub-section (4), if any.
+
+ii) reject the application and communicate such decision to the operational creditor
+and the corporate debtor, if--
+
+(a) the application made under sub-section (2) is incomplete;
+
+(b) there has been payment of the unpaid operational debt;
+
+(c) the creditor has not delivered the invoice or notice for payment to the corporate
+debtor;
+
+(d) notice of dispute has been received by the operational creditor or there is a record
+of dispute in the information utility; or
+
+(e) any disciplinary proceeding is pending against any proposed resolution
+professional:
+
+Provided that Adjudicating Authority, shall before rejecting an application under
+sub-clause (a) of clause (ii) give a notice to the applicant to rectify the defect in his
+application within seven days of the date of receipt of such notice from the
+Adjudicating Authority.”
+
+74. Sub-section (5) of Section 9 of the IBC provides that the Adjudicating Authority (NCLT) shall,
+within 14 days of the receipt of an application of an operational creditor under sub-section (2) of
+Section 9, admit the application and communicate the decision to the Operational Creditor and the
+Corporate Debtor, provided, the conditions stipulated in clauses (a) to (e) of Section 9(5)(i) of the
+IBC are satisfied. The Adjudicating Authority (NCLT) must reject the application of the Operational
+Creditor in the circumstances specified in clauses (a) to (e) of Section 9(5)(ii) of the IBC.
+
+75. Significantly, Legislature has in its wisdom used the word ‘may’ in Section 7(5)(a) of the IBC in
+respect of an application for CIRP initiated by a financial creditor against a Corporate Debtor but
+has used the expression ‘shall’ in the otherwise almost identical provision of Section 9(5) of the IBC
+relating to the initiation of CIRP by an Operational Creditor.
+
+76. The fact that Legislature used ‘may’ in Section 7(5)(a) of the IBC but a different word, that is,
+‘shall’ in the otherwise almost identical provision of Section 9(5)(a) shows that ‘may’ and ‘shall’ in
+
+17
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+the two provisions are intended to convey a different meaning. It is apparent that Legislature
+intended Section 9(5)(a) of the IBC to be mandatory and Section 7(5)(a) of the IBC to be
+discretionary. An application of an Operational Creditor for initiation of CIRP under Section 9(2) of
+the IBC is mandatorily required to be admitted if the application is complete in all respects and in
+compliance of the requisites of the IBC and the rules and regulations thereunder, there is no
+payment of the unpaid operational debt, if notices for payment or the invoice has been delivered to
+the Corporate Debtor by the Operational Creditor and no notice of dispute has been received by the
+Operational Creditor. The IBC does not countenance dishonesty or deliberate failure to repay the
+dues of an operational creditor.
+
+77. On the other hand, in the case of an application by a Financial Creditor who might even initiate
+proceedings in a representative capacity on behalf of all financial creditors, the Adjudicating
+Authority might examine the expedience of initiation of CIRP, taking into account all relevant facts
+and circumstances, including the overall financial health and viability of the Corporate Debtor. The
+Adjudicating Authority may in its discretion not admit the application of a Financial Creditor.
+
+78. The Legislature has consciously differentiated between Financial Creditors and Operational
+Creditors, as there is an innate difference between Financial Creditors, in the business of investment
+and financing, and Operational Creditors in the business of supply of goods and services. Financial
+credit is usually secured and of much longer duration. Such credits, which are often long term
+credits, on which the operation of the Corporate Debtor depends, cannot be equated to operational
+debts which are usually unsecured, of a shorter duration and of lesser amount. The financial
+strength and nature of business of a Financial Creditor cannot be compared with that of an
+Operational Creditor, engaged in supply of goods and services. The impact of the non-payment of
+admitted dues could be far more serious on an Operational Creditor than on a financial creditor.
+
+79. As observed above, the financial strength and nature of business of Financial Creditors and
+Operational Creditors being different, as also the tenor and terms of agreements/contracts with
+financial creditors and operational creditors, the provisions in the IBC relating to commencement of
+CIRP at the behest of an Operational Creditor, whose dues are undisputed, are rigid and inflexible.
+If dues are admitted as against the Operational Creditor, the Corporate Debtor must pay the same. If
+it does not, CIRP must be commenced. In the case of a financial debt, there is a little more flexibility.
+The Adjudicating Authority (NCLT) has been conferred the discretion to admit the application of the
+Financial Creditor. If facts and circumstances so warrant, the Adjudicating Authority can keep the
+admission in abeyance or even reject the application. Of course, in case of rejection of an
+application, the Financial Creditor is not denuded of the right to apply afresh for initiation of CIRP,
+if its dues continue to remain unpaid.
+
+80. The IBC, as observed above, is intended to consolidate and amend the laws with a view to
+reorganize Corporate Debtors and resolve insolvency in a time bound manner for maximization of
+the value of the assets of the Corporate Debtor.
+
+81. The title “Insolvency and Bankruptcy Code” makes it amply clear that the statute deals with
+and/or tackles insolvency and bankruptcy. It is certainly not the object of the IBC to penalize solvent
+
+18
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+companies, temporarily defaulting in repayment of its financial debts, by initiation of CIRP. Section
+7(5)(a) of the IBC, therefore, confers discretionary power on the Adjudicating Authority (NCLT) to
+admit an application of a Financial Creditor under Section 7 of the IBC for initiation of CIRP.
+
+82. The Adjudicating Authority (NCLT) failed to appreciate that the question of time bound
+initiation and completion of CIRP could only arise if the companies were bankrupt or insolvent and
+not otherwise. Moreover the timeline starts ticking only from the date of admission of the
+application for initiation of CIRP and not from the date of filing the same.
+
+83. In Swiss Ribbons (supra) this Court considering the vires of the IBC observed as follows:-
+
+“43. A financial creditor may trigger the Code either by itself or jointly with other
+financial creditors or such persons as may be notified by the Central Government
+when a ”default” occurs. The Explanation to Section 7(1) also makes it clear that the
+Code may be triggered by such persons in respect of a default made to any other
+financial creditor of the corporate debtor, making it clear that once triggered, the
+resolution process under the Code is a collective proceeding in rem which seeks, in
+the first instance, to rehabilitate the corporate debtor. Under Section 7(4), the
+adjudicating authority shall, within the prescribed period, ascertain the existence of a
+default on the basis of evidence furnished by the financial creditor; and under Section
+7(5), the adjudicating authority has to be satisfied that a default has occurred, when it
+may, by order, admit the application, or dismiss the application if such default has
+not occurred. On the other hand, under Sections 8 and 9, an operational creditor
+may, on the occurrence of a default, deliver a demand notice which must then be
+replied to within the specified period. What is important is that at this stage, if an
+application is filed before the adjudicating authority for initiating the corporate
+insolvency resolution process, the corporate debtor can prove that the debt is
+disputed. When the debt is so disputed, such application would be rejected.”
+
+84. The judgment of this Court Swiss Ribbons (supra), which was rendered in the context of a
+challenge to the vires of the IBC, does not consider the question of whether Section 7(5)(a) of the
+IBC is mandatory or discretionary. It is well settled that a judgment is a precedent for the question
+of law that is raised and decided. The language used in a judgment cannot be read like a statute. In
+any case, words and phrases in the judgment cannot be construed in a truncated manner out of
+context.
+
+85. Legislature has, in its wisdom made a distinction between the date of filing an application under
+Section 7 of the IBC and, the date of admission of such application for the purpose of computation of
+timelines. CIRP commences on the date of admission of the application for initiation of CIRP and
+not the date of filing thereof. There is no fixed time limit within which an application under Section
+7 of the IBC has to be admitted.
+
+86. Even though Section 7 (5)(a) of the IBC may confer discretionary power on the Adjudicating
+Authority, such discretionary power cannot be exercised arbitrarily or capriciously. If the facts and
+
+19
+
+Vidarbha Industries Power Limited vs Axis Bank Limited on 12 July, 2022
+
+circumstances warrant exercise of discretion in a particular manner, discretion would have to be
+exercised in that manner.
+
+87. Ordinarily, the Adjudicating Authority (NCLT) would have to exercise its discretion to admit an
+application under Section 7 of the IBC of the IBC and initiate CIRP on satisfaction of the existence of
+a financial debt and default on the part of the Corporate Debtor in payment of the debt, unless there
+are good reasons not to admit the petition.
+
+88. The Adjudicating Authority (NCLT) has to consider the grounds made out by the Corporate
+Debtor against admission, on its own merits. For example when admission is opposed on the ground
+of existence of an award or a decree in favour of the Corporate Debtor, and the Awarded/decretal
+amount exceeds the amount of the debt, the Adjudicating Authority would have to exercise its
+discretion under Section 7(5)(a) of the IBC to keep the admission of the application of the Financial
+Creditor in abeyance, unless there is good reason not to do so. The Adjudicating Authority may, for
+example, admit the application of the Financial Creditor, notwithstanding any award or decree, if
+the Award/Decretal amount is incapable of realisation. The example is only illustrative.
+
+89. In this case, the Adjudicating Authority (NCLT) has simply brushed aside the case of the
+Appellant that an amount of Rs.1,730 Crores was realizable by the Appellant in terms of the order
+passed by APTEL in favour of the Appellant, with the cursory observation that disputes if any
+between the Appellant and the recipient of electricity or between the Appellant and the Electricity
+Regulatory Commission were inconsequential.
+
+90. We are clearly of the view that the Adjudicating Authority (NCLT) as also the Appellate Tribunal
+(NCLAT) fell in error in holding that once it was found that a debt existed and a Corporate Debtor
+was in default in payment of the debt there would be no option to the Adjudicating Authority
+(NCLT) but to admit the petition under Section 7 of the IBC.
+
+91. For the reasons discussed above, the appeal is allowed. The impugned order dated 29th January
+2021 passed by the Adjudicating Authority (NCLT) and the impugned order dated 2 nd March 2021
+passed by the Appellate Authority (NCLAT) dismissing the appeal of the Appellant are set aside. The
+NCLT shall re-consider the application of the Appellant for stay of further proceedings on merits in
+accordance with law.
+
+.................................J [ INDIRA BANERJEE ] .................................J [ J.K. MAHESHWARI ] JULY
+12, 2022;
+
+NEW DELHI.
+
+20

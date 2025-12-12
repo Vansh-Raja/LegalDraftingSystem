@@ -1,0 +1,19 @@
+{
+  "case_number": "Criminal Appeal No. 1307 of 2012",
+  "parties": {
+    "petitioner": "State Of Haryana",
+    "respondent": "Mohd. Yunus & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-01-12",
+  "summary": "The case involved the conviction and acquittal of multiple accused in a criminal incident leading to the death of one person and injuries to others on 09.01.1999. Mohd. Yunus was convicted under Section 323 IPC but acquitted of Section 302 IPC by the High Court, which the State challenged. The Supreme Court examined the reliability of eyewitness testimony, delay in FIR, and consistency of evidence. It upheld the High Court's partial acquittal of Mohd. Yunus while confirming the conviction of Mohd. Jamil under Sections 302 and 323 IPC with Section 34 IPC.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 323 IPC",
+    "Section 325 IPC",
+    "Section 34 IPC",
+    "Section 319 Cr.P.C.",
+    "Section 161 Cr.P.C."
+  ],
+  "final_judgment": "Appeal dismissed; conviction of Mohd. Jamil under Sections 302 and 323 read with Section 34 IPC upheld; partial acquittal of Mohd. Yunus under Section 302 IPC affirmed."
+}

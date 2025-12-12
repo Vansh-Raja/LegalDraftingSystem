@@ -1,0 +1,2166 @@
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November,
+2024
+
+Author: Dhananjaya Y. Chandrachud
+
+Bench: Dhananjaya Y. Chandrachud
+
+2024 INSC 851                                                      REPORTABLE
+
+                               IN THE SUPREME COURT OF INDIA
+                               CIVIL APPELLATE JURISDICTION
+                                 CIVIL APPEAL NO. 12233 OF 2024
+                            (ARISING OUT OF SLP (C) NO. 5589 OF 2024)
+
+             M/S HPCL BIO-FUELS LTD.                               …APPELLANT
+
+                                           VERSUS
+
+             M/S SHAHAJI BHANUDAS BHAD                            …RESPONDENT
+
+                                         JUDGMENT
+
+J. B. PARDIWALA, J.:
+
+For the convenience of exposition, this judgment is divided into the following parts:
+
+A. FACTUAL MATRIX............................................................................ 2 I.
+PROCEEDINGS UNDER THE IBC .................................................................... 5 II.
+PROCEEDINGS BEFORE THE HIGH COURT.................................................... 10 B.
+SUBMISSIONS ON BEHALF OF THE APPELLANT ................. 14 C. SUBMISSIONS
+O N   B E H A L F   O F   T H E   R E S P O N D E N T   . . . . . . . . . . . . . .   1 7   D .   I S S U E S   F O R
+DETERMINATION ................................................... 19 E. ANALYSIS
+.......................................................................................... 20 I. ISSUE NO. 1
+................................................................................................ 23 a. Scope and
+applicability of Order 23 Rule 1 of the CPC to proceedings other than suits
+................................................................................... 23 II. ISSUE NO. 2
+................................................................................................ 44 a. Application under
+Section 11(6) of the Act, 1996 is not for the same relief as an application under
+S e c t i o n   9   o f   t h e   I B C   . . . . . . . . . . . . . . . . . . . . . . . . . . .   5 7   I I I .   I S S U E   N O .   3
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+1
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+................................................................................................ 67 F. CONCLUSION
+................................................................................... 78
+
+1. Leave granted.
+
+2. This appeal arises from the final judgment and order dated 31.01.2024 (“impugned
+order”) passed by the High Court of Judicature at Bombay in Commercial Arbitration
+Petition No. 1 of 2023, wherein the High Court allowed the petition filed under
+Section 11(6) of the Arbitration and Conciliation Act, 1996 (for short, “the Act, 1996”)
+at the instance of the M/s Shahaji Bhanudas Bhad (“the respondent”) and appointed
+Justice (Retd.) Dilip Bhosale as the sole arbitrator to adjudicate the disputes and
+differences between HPCL Biofuels Ltd.
+
+(“the appellant”) and the respondent.
+
+A. FACTUAL MATRIX
+
+3. The appellant is a Government company within the meaning of Section 4(35) of the Companies
+Act, 2013 and is engaged inter alia in the business of manufacturing bio-fuels. The appellant is a
+wholly-owned subsidiary of Hindustan Petroleum Corporation Ltd.
+
+4. The respondent is engaged in the business of manufacture, supply and erection of the equipment
+and machinery required for the setting up of sugar factories and allied products in the name of M/s
+S.S. Engineer, as a sole proprietor.
+
+5. Between 27.06.2012 and 30.08.2012, the appellant floated tenders for enhancing the capacity of
+various process stations and Boiling House at Lauriya (West Champaran) and Sugauli (East
+Champaran). The respondent participated in the bidding process and was declared as the successful
+bidder. Subsequently, in accordance with the terms and conditions of the tender, the appellant in
+October and November of 2012 issued purchase orders in favour of the respondent for enhancing
+the capacity of the concerned Boiling House on a turn-key basis. Between 21.11.2012 and
+25.03.2014, the respondent supplied various equipment under the purchase orders and raised
+invoices for the same.
+
+6. While the work was in progress, the appellant expressed its concerns about the slow progress of
+work, quality of materials supplied and non-adherence to timelines by the respondent and attempts
+were made to resolve the same through mutual discussions between the parties.
+
+7. On 13.06.2013, the appellant floated two more tenders for the purpose of completion of certain
+work and supplies at the Sugauli and Lauriya plants respectively. In August 2013, the appellant
+issued purchase orders in favour of the respondent, for completing various works including supplies
+on a lump-sum turnkey basis. The respondent raised invoices between 29.03.2013 & 25.03.2014 for
+the service portion of the turn-key contract. Accordingly, as per the respondent, the total sum
+payable to it under the various purchase orders aggregated to Rs. 38,18,71,026/-.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+2
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+8. Between 18.12.2012 and 07.11.2013, the appellant made an aggregate payment of Rs. 19.02 crore
+to the respondent, with the last payment being made on 07.11.2013. As per the case of the
+respondent, the balance amount of Rs. 18,12,21,452/- remained outstanding. The discussions
+between the parties undertaken between October 2013 and January 2014 did not yield any fruits as
+the issues relating to payment and deficiency in services rendered could not be resolved. In this
+regard, the respondent vide an e-mail dated 02.02.2014 made a request to release the balance
+amount at the earliest, so as to enable it to complete the balance work. The appellant vide an e-mail
+dated 04.02.2014 responded to the said email and reiterated that the performance of the respondent
+was unsatisfactory and it had failed in fulfilling its obligations in accordance with the terms of the
+purchase orders. In such circumstances, the appellant refused to clear the outstanding dues of the
+respondent.
+
+9. On 09.07.2016, the respondent issued a legal notice to the appellant, seeking release of the
+alleged outstanding payment amounting to Rs. 18,12,21,452/- along with interest. The respondent
+also specified in the said notice that in the event of failure of the appellant to settle the outstanding
+amount, the notice shall be construed as the notice for invocation of arbitration in terms of Clause
+14 of the tender. The appellant, however, did not respond to the aforesaid notice.
+
+10. On 16.02.2018, the respondent filed Arbitration Petition (ST) No. 5095 of 2018 before the High
+Court of Judicature at Bombay seeking appointment of an arbitrator in terms of Section 11 of the
+Act, 1996. However, prior to filing the Section 11 application, the respondent also sent a demand
+notice dated 30.08.2017 under Section 8 of the Insolvency & Bankruptcy Code, 2016 (for short “the
+IBC”) to the appellant, claiming the alleged outstanding amount along with interest.
+
+11. On 01.10.2018, upon the request made by the respondent, the Arbitration Petition (ST) No. 5095
+of 2018 was disposed of as withdrawn. The relevant portions of the order dated 01.10.2018 are
+reproduced below: -
+
+“1. Not on board. Upon mentioning, taken on board.
+
+2. The Learned Advocate appearing for the Petitioner on instructions seeks to
+withdraw the above Arbitration Petition. In view thereof, the above Arbitration
+Petition is disposed of as withdrawn.” i. Proceedings under the IBC
+
+12. After withdrawing the Section 11(6) application from the High Court, the respondent, on
+15.10.2018, filed CP(IB) No. 1422/KB/2018 under Section 9 of the IBC before the National Company
+Law Tribunal, Kolkata (“NCLT, Kolkata”) seeking initiation of the corporate insolvency resolution
+process of the appellant. The appellant opposed the application, inter alia, on the ground that there
+were disputes between the parties even prior to the issuance of demand notice under Section 8 of
+IBC. The appellant also relied on the notice invoking the arbitration clause in support of its
+contention.
+
+13. The NCLT, Kolkata vide order dated 12.02.2020, admitted the application of the respondent and
+appointed an Interim Resolution Professional (IRP). On the aspect of existence of disputes between
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+3
+
+the parties, the following observations were made:
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+“17. As regards the pre-existing dispute, we have gone through all the facts stated by
+the Corporate Debtor but having regard to the quantum of claim in respect of
+supplies order, in our considered view, the amount of disputed claim due and payable
+will be more than Rs. One lakh in any case. Hence, such claims do not help the case of
+Corporate Debtor in substantial manner. Having said so, we would further refer to
+the provisional statement attached with the letter of the Corporate Debtor dated June
+25, 2014 copy of which has been placed at Page 1779 of Vol. 10 of the paper book to
+find as to what is the factual position as per the stand of Corporate Debtor on various
+issues. As per this provisional statement, the total purchase order value has been
+shown as Rs. 3818.72 lakhs. There have been several deductions including for
+services provided by Corporate Debtor to the Operational Creditor in the execution of
+the contract, entry tax, TDS, WCD, payment to parties/ payment to Operational
+Creditor by the Corporate Debtor / sub-vendors and sub- contractors/vendors of the
+Operational Creditor. These are normal deductions as per business practice and
+terms of contract. However, it is noteworthy that Liquidated Damage @ 5%
+amounting to Rs. 190.94 lakhs, Performance Bank Guarantee to the tune of 673.6
+lakhs, work claim of Rs. 352.00 lakhs for boiler house extension P.O. finalisation and
+additional work 71 lakh have also been considered. The net effect has been worked
+out by Corporate Debtor as Rs. 500 lakhs receivable from the Operational Creditor. If
+the boiler house extension and additional work are ignored, the amount recoverable
+from the Operational Creditor gets reduced to 63.13 lakhs. Further, if the amount
+retained for Performance Bank Guarantee is taken into consideration, then the
+amount payable to Operational Creditor works out at Rs. 610.23 lakhs (i.e.,
+673-63.13). As noted earlier, L.D. is applicable @ 5% amounting to Rs. 190.94 lakhs
+has already been deducted. Further, amount of Rs. 400.55 lakhs in respect of
+Purchase Orders issued at the risk and cost of the vendor have also been deducted.
+Thus, all recoveries for non- performance / default has been considered and
+therefore, amount of Performance Bank Guarantee minus recovery i.e., 610.23 lakhs
+at least becomes payable by Corporate Debtor to the Operational Creditor. As an
+adjudicating authority in the proceedings, we are not supposed to do this kind of
+working, but to find out the genuineness of the claim of pre-existing dispute, and
+amount of outstanding debt, it was necessary in the facts and circumstances of the
+case, hence, it has been so analysed on the basis of the provisional statement
+prepared and filed by the Corporate Debtor itself. At the cost of repetition, we again
+state that this statement takes into consideration all these disputes raised by the
+Corporate Debtor, hence, the amount payable by the Corporate Debtor remains in
+positive which is more than one lakh ultimately that too when we have considered the
+project as a whole against the claim of Operational Creditor of undisputed dues of
+supply portion only. We have also gone through the emails which have been taken
+into consideration while preparing this provisional statement. Hence, on the basis of
+material on record, it cannot be said that any other dispute remains to be considered.
+Apart from this, the fact which is crucial to note is that the Corporate Debtor has
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+4
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+awarded new work orders to the Operational Creditor subsequently which means that
+all the disputes relating to this contract had been considered / resolved and this fact
+has remained undisputed. Further, Form "C"s have been issued as late as up to
+March 2018. We further make it clear that we have analysed the provisional
+statement with limited objective of admissibility of this application and this analysis
+cannot be considered as expression of opinion on the amount of claim in any manner
+which may be actually due and payable.” (Emphasis supplied)
+
+14. The order of the NCLT, Kolkata was subsequently set aside by the NCLAT, New Delhi vide order
+dated 10.01.2022. The NCLAT, on the aspect of pre- existing disputes between the parties, observed
+thus:
+
+“18. It is clear from Section 8(2)(a) that ‘Existence of a Dispute', (if any, or) record of
+the pendency of the Suit or Arbitration Proceeding filed before the receipt of such
+Notice or invoice in relation to such dispute should be brought to the notice of the
+'Operational Creditor' within 10 days of receipt of the Demand Notice. In this case,
+the Demand Notice under Section 8 of the Code claiming a sum of Rs.13.69 Crores
+was issued on 25.07.2018. On 07.08.2018, the 'Corporate Debtor' responded to the
+Demand Notice referring to various communications, Minutes of the Meeting and
+submitted that there was a 'Pre-
+
+Existing Dispute'. Though we are conscious of the fact that the 'Corporate Debtor' responded to the
+Demand Notice belatedly, the fact remains that the Appellant raised the issue of Existence of a
+Dispute' in their Reply filed before the Adjudicating Authority with all the supporting documents.
+
+19. It is pertinent to note that on 09.07.2016, 'prior to the issuance of the Demand Notice under
+Section 8 of the Code', the 'Operational Creditor' invoked Arbitration pursuant to the 8 project
+orders issued by the 'Corporate Debtor', which itself substantiates the 'Existence of a Dispute'. In the
+'Notice' invoking Arbitration, the 'Operational Creditor' has stated that there is an outstanding of Rs.
+18,12,21,452/- and has further stated that they are ready to settle the disputes through Arbitration.
+A brief perusal of the documents on record evidence that the 'Operational Creditor' admitted that
+the contract was on lumpsum turnkey basis and stated in the Arbitration 'Notice' that the 'Corporate
+Debtor' had raised issues relating to non- adherence of the terms of the contract.
+
+xxx xxx xxx
+
+21. The facts of the present case are being examined in the light of the law laid down by the Hon'ble
+Supreme Court, though the Learned Counsel for the 'Operational Creditor' has strenuously
+contended that the issuance of further work orders and the Notice issued by the Operational
+Creditor invoking Arbitration does not amount to Existence of a Dispute', the nature of
+communication on record with rival contentions clarify the 'Existence of a Dispute' between the
+parties prior to issuance of the Demand Notice. It has been time and again held that it is enough that
+a 'dispute exists' between the parties.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+5
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+22. The communication between the parties as noted in para 10 read together with the Arbitration
+invoked by the 'Operational Creditor', we are of the considered view that there is an Existence of a
+Dispute between the parties which is a genuine dispute and not a spurious, patently feeble legal
+argument or an assertion of fact unsupported by evidence. Therefore, we are of the opinion that the
+ratio laid down by the Hon'ble Apex Court in the aforenoted 'Mobilox Innovations (P) Ltd.' (Supra)
+and 'K. Kishan' (Supra) is squarely applicable to the facts of this case.” (Emphasis supplied)
+
+15. The respondent challenged the aforesaid order of the NCLAT before this Court by filing the Civil
+Appeal No. 4583 of 2022. The appeal ultimately came to be dismissed by a two-Judge Bench vide
+judgment dated 15.07.2022 wherein the order of the NCLAT was upheld. The relevant observations
+made by this Court are reproduced below:
+
+“30. This Court finds that there was a pre-existing dispute with regard to the alleged
+claim of the appellant against HPCL or its subsidiary HBL. The NCLAT rightly
+allowed the appeal filed on behalf of HBL. It is not for this Court to adjudicate the
+disputes between the parties and determine whether, in fact, any amount was due
+from the appellant to the HPCL/HBL or vice-versa. The question is, whether the
+application of the Operational Creditor under Section 9 of the IBC, should have been
+admitted by the Adjudicating Authority. The answer to the aforesaid question has to
+be in the negative. The Adjudicating Authority (NCLT) clearly fell in error in
+admitting the application.
+
+31. The NCLT, exercising powers under Section 7 or Section 9 of IBC, is not a debt
+collection forum. The IBC tackles and/or deals with insolvency and bankruptcy. It is
+not the object of the IBC that CIRP should be initiated to penalize solvent companies
+for non-payment of disputed dues claimed by an operational creditor.
+
+32. There are noticeable differences in the IBC between the procedure of initiation of
+CIRP by a financial creditor and initiation of CIRP by an operational creditor. On a
+reading of Sections 8 and 9 of the IBC, it is patently clear that an Operational
+Creditor can only trigger the CIRP process, when there is an undisputed debt and a
+default in payment thereof. If the claim of an operational creditor is undisputed and
+the operational debt remains unpaid, CIRP must commence, for IBC does not
+countenance dishonesty or deliberate failure to repay the dues of an Operational
+Creditor. However, if the debt is disputed, the application of the Operational Creditor
+for initiation of CIRP must be dismissed.
+
+33. We find no grounds to interfere with the judgment and order of the NCLAT
+impugned in this appeal.
+
+34. The appeal is dismissed.
+
+35. Needles to mention that the appellant may avail such other remedies as may be
+available in accordance with law including arbitration to realise its dues, if any.” ii.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+6
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+Proceedings before the High Court
+
+16. Consequent to the dismissal of the insolvency proceedings, the respondent, on 09.12.2022, filed
+a fresh petition under the Section 11(6) of the Act, 1996 before the High Court of Bombay seeking
+appointment of an arbitrator in terms of clause 14 of the tender. The appellant opposed the petition,
+inter-alia on the ground that the same was barred by limitation and that the claim sought to be
+referred to arbitration was also a deadwood.
+
+17. The High Court vide the impugned order allowed the application of the respondent and
+proceeded to appoint an arbitrator. The High Court took the view that the fresh Section 11 petition
+filed by the respondent, after withdrawal of the first, was not time-barred and neither the claim was
+a deadwood. The relevant observations of the High Court are reproduced below:
+
+“8. As regards the first submission of Mr. Paranjape, that once the Section 11 Petition
+is withdrawn no second Petition shall lie, I do not find any provision in the Act
+imposing such a restrain.
+
+It is not the case, where the appointment of Arbitrator was prayed before the Court
+and the Application was turned down on merits, holding that no arbitrator deserves
+to be appointed in absence on an Arbitration Agreement. The Petitioner chose to
+withdraw the Petition and as it is categorically stated in the Petition that he was
+under advise to do so and pursuant thereto he approached NCLT under the IBC but
+did not succeed in the endeavour as the NCLT did not find such proceedings to be
+maintainable and even the Apex Court upheld the said order by recording that an
+Operational Creditor can only trigger the CIRP process when there is an undisputed
+debt and default in payment thereof, but if the debt is disputed, then the Application
+of the Operational Creditor for initiation of CIRP must be declined.
+
+Be that as it may be, while dismissing the Appeal, being conscious of the position that
+the dues of the Petitioner/Appellant are yet to be realized, liberty was conferred to
+avail such remedies in accordance with law which shall include the remedy of
+arbitration.
+
+With this clear indication, by the Highest Court of the country, I am not persuaded to
+accept the submission of Mr. Paranjape that an Application under Section 11 of the
+Act seeking appointment of an Arbitrator is not maintainable.
+
+9. The Petitioner by his invocation notice had triggered the arbitration and
+accordingly approached the Court seeking appointment of an Arbitrator as the
+Respondent failed to agree to the appointment of Arbitrator within the period
+stipulated under Section 11, but instead of prosecuting the said remedy, he chose to
+adopt the path of initiating the proceedings under the IBC, but unfortunately,
+remained unsuccessful.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+7
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+It is, thus, imperatively clear that the Petitioner was prosecuting the IBC proceedings before the
+NCLT or NCLAT, which was a completely wrong forum for him for redressal of his grievance, he was
+ultimately turned away by the Apex Court on 15.07.2022 by declaring that since the debt which he
+claims is disputed, he cannot initiate the CIRP.
+
+10. Since he was availing a wrong remedy, he was turned down on 15.07.2022, by availing the liberty
+conferred, he has filed the Arbitration Petition.
+
+Worth it to note that initially when he approached the NCLT, Kolkata, under Section 8 and 9 of the
+IBC for institution of CIRP process against the Respondent, his claim was entertained and it is only
+the Respondents, who approached the Appellate Tribunal, the order passed by the NCLT in favour
+of the Applicant came to be reversed. Therefore, it cannot be said that the Petitioner was sitting idle
+and not taking any steps for recovery of his dues, but it is a case where he was availing remedy for
+recovery of his dues before a wrong forum and he is entitled to take benefit of Section 14 of the
+Limitation Act, 1963.
+
+In fact, the NCLT by its order dated 28.02.2020, admitted the Application under Section 8 and 9 of
+the IBC and even declared the said moratorium public announcement and in accordance with
+Section 13 and 14 of the IBC and Moratorium under Section 14 of the IBC was also imposed.
+
+11. Another point raised by Mr. Paranjape in respect of time barred claim being prosecuted by the
+Petitioner must also meet the same fate.
+
+The learned counsel would place reliance upon the decision in case of Bharat Sanchar Nigam
+Limited and Another vs. Nortel Networks India Private Limited (2021) 5 SCC 738, where it is held
+that since there is no provision in the 1996 Act specifying the period of limitation for filing an
+application under Section 11, recourse must be held to the Limitation Act as per Section 43 of the
+1996 Act and since none of the Articles in the schedule to Limitation Act provide time for filing such
+Application, it would be governed by residual provision in Article 137.
+
+A reading of the said decision would also disclose that, it has been held that limitation is normally
+mixed question of fact and law and would lie within the domain of Arbitral Tribunal, but claim is
+hopelessly barred or a deadwood, in that case, the Court exercising the power under Section 11 may
+not deem it expedient to refer an exfacie time barred and dead claim to the Arbitrator. […] xxx xxx
+xxx
+
+13. I do not agree with the learned counsel that the claim of Petitioner is ex facie time-barred as a
+deadwood, as all the while the claim was kept alive, though it was being agitated before a wrong
+forum, but ultimately when the Petition was turned down by the Apex Court, he was granted liberty
+to stake his claim by availing such remedies as may be available to him, in accordance with law,
+including the remedy of Arbitration. Since the remedy of Arbitration cannot be denied to him,
+merely on the ground that he had at earlier point of time, before knocking the doors of NCLT
+withdrew the Petition filed for appointment of Arbitrator, on validly invoking arbitration. Since I do
+not find that the claim is ex facie time-barred for it was being prosecuted though before a wrong
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+8
+
+forum, the objection cannot be sustained.
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+14. In the wake of existence of an arbitration agreement between the parties, the dispute must be
+referred to an Arbitrator, though I leave it open to the Respondent to agitate the point of limitation
+before the Arbitrator.
+
+15. In the wake of the above, Mr. Justice Dilip Bhosale (retired Chief Justice of Allahabad High
+Court) is appointed as Sole Arbitrator to adjudicate the disputes and differences that have arisen
+between the applicant and the respondent in the two applications.
+
+The Arbitrator shall, within a period of 15 days before entering the arbitration reference forward a
+statement of disclosure as contemplated u/s.11(8) r/w Section 12 of the Arbitration and Conciliation
+Act, 1996, to the Prothonotary and Senior Master of this Court to be placed on record. […]”
+
+18. Aggrieved by the aforesaid order appointing an arbitrator for adjudicating the disputes between
+the parties, the appellant has come up before this Court with the present appeal.
+
+B. SUBMISSIONS ON BEHALF OF THE APPELLANT
+
+19. Mr. Tushar Mehta, the learned Solicitor General of India, appearing for the appellant submitted
+that the Section 11(6) petition filed by the respondent before the High Court as well as the claims
+sought to be referred to arbitration were time- barred.
+
+20. He submitted that the cause of action in the present case arose on 04.02.2014, i.e., on the date
+when the claim of the respondent was denied by the appellant. The respondent invoked arbitration
+vide the notice dated 09.07.2016 and filed a Section 11 petition on 16.02.2018 before
+unconditionally withdrawing the same. The period of limitation as per Article 137 of the First
+Schedule to the Limitation Act, 1963 (“the Limitation Act”) for filing a Section 11 petition is three
+years. In the present case, the limitation period for filing an application under Section 11(6) of the
+Act, 1996 came to an end on 07.08.2019. Therefore, the subsequent Section 11 application filed
+before the High Court on 09.12.2022 was clearly time-barred.
+
+21. He further submitted that in addition to the limitation period for filing the Section 11 application
+having expired, the underlying claim sought to be referred to arbitration also became time barred on
+04.02.2017, that is, after the expiry of three years from the date when the cause of action first arose.
+To buttress his submissions on the aspect of limitation, he placed reliance on the decisions of this
+Court in Arif Azim Co. Ltd. v. Aptech Ltd. reported in 2024 SCC OnLine SC 215 and BSNL v. Nortel
+Networks (India) (P) Ltd. reported in (2021) 5 SCC
+
+738.
+
+22. By placing reliance on the decision of this Court in Sarguja Transport Service v. S.T.A.T reported
+in (1987) 1 SCC 5, he argued that although the Code of Civil Procedure, 1908 (for short “CPC”) may
+not apply stricto sensu to the arbitration proceedings, yet the principle underlying Order 23 Rule
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+9
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+1(3) which imposes a bar on the institution of subsequent proceedings against the same defendant
+for the same cause of action where liberty to institute fresh proceedings is not granted by the court,
+can be extended to it in view of the expeditious and time-bound nature of arbitration proceedings.
+
+23. He submitted that the respondent is not entitled to avail the benefit available under Section 14 of
+the Limitation Act, 1963 (for short “the Limitation Act”) as the said provision would not be
+applicable to the present case. He argued that Section 14 of the Limitation Act provides for exclusion
+of time spent in prosecuting proceedings in a non-jurisdictional court, where the earlier and later
+proceedings relate to the same matter in issue or are for seeking the same relief. However, he
+submitted, that the insolvency and arbitral proceedings are distinct proceedings and are not for
+seeking the same relief. The remedy in arbitral proceedings is in personam whereas the remedy in
+insolvency proceedings is in rem. He submitted that the High Court failed to appreciate this
+distinction and erroneously allowed the arbitration petition filed by the respondent by extending to
+it the benefit under Section 14 of the Limitation Act.
+
+24. He further submitted that the IBC was enacted to consolidate and amend the laws relating to the
+reorganisation and insolvency resolution of corporate persons in a time-bound manner for
+maximising the value of assets and balance the interests of all the stakeholders. On the other hand,
+arbitration proceedings are for the purpose of adjudication of disputes. Therefore, the objective,
+relief that may be granted and the procedure governing IBC and arbitration proceedings are widely
+divergent.
+
+25. He argued that the period spent by the respondent pursuing insolvency proceedings instead of
+arbitration does not entitle them to the benefit of Section 14 of the Limitation Act, more particularly
+having unconditionally withdrawn the first Section 11 petition. In this regard reliance was placed by
+him on the decisions of this Court in Yeswant Deorao Deshmukh v. Walchand Ramchand Kothari
+reported in 1950 SCR 852 and Natesan Agencies (Plantations) v. State reported in (2019) 15 SCC 70.
+
+26. In the last, he submitted that this Court while dismissing the appeal filed by the respondent
+against the order of the NCLAT, had only granted conditional liberty to the respondent to pursue
+arbitration, which would be permitted only if it is available in law. However, in the present case,
+since the Section 11 application as well as the claims are time-barred, the remedy of pursuing
+arbitration cannot be available to the respondent in law.
+
+C. SUBMISSIONS ON BEHALF OF THE RESPONDENT
+
+27. Mr. Jay Savla, the learned Senior Counsel appearing on behalf of the respondent submitted that
+the High Court rightly excluded the time taken by the respondent in pursuing the IBC proceedings,
+that is, the period between the date of filing of the Section 9 application before the NCLT and the
+date of the order of this Court concluding the IBC proceedings by disposing of the appeal filed by the
+respondent against the order of the NCLAT, while calculating the limitation period for the purpose
+of filing a fresh application under Section 11(6) of the Act, 1996.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+10
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+28. He submitted that the aforesaid period is liable to be excluded under Section 14 of the
+Limitation Act as the respondent was pursuing the IBC proceedings diligently and in a bonafide
+manner. He relied on the following decisions of this Court to submit that the phrase “other cause of
+like nature” used in Section 14 of the Limitation Act should be given a wide and liberal
+interpretation:
+
+i. Consolidated Engg. Enterprises & Ors. v. Principal Secy. Irrigation Department &
+Ors. reported in (2008) 7 SCC 169 ii. J. Kumaradasan Nair v. Iric Sohan reported in
+2009 (12) SCC 175 iii. Union of India v. West Coast Paper Mills Ltd. reported in 2004
+(3) SCC 458 iv. Maharashtra State Farming Corporation Ltd. v. Belapur Sugar &
+Allied Industries Ltd. reported in 2004 (3) MHLF 414
+
+29. He submitted that the second application under Section 11(6) of the Act, 1996 was maintainable
+as the first application was withdrawn without any adjudication on merits and even before any
+formal notice could be issued by the High Court. By placing reliance on the decision of this Court in
+Sarva Shramik Sanghatana v. State of Maharashtra reported in 2008 1 SCC 494, he argued that the
+withdrawal of an application under Section 11(6) of the Act, 1996 is not the same as withdrawal of a
+suit or a claim, and thus the principles enshrined under Order 23 Rule 1 of the CPC will have no
+application to the present case.
+
+30. It was submitted that Section 32 of the Act, 1996 provides for termination of arbitration
+proceedings and is the only provision that relates to termination of arbitration proceedings upon
+their commencement under Section 21. In the present case, arbitration was invoked by the
+respondent vide notice dated 09.07.2016, and there has been no termination of such arbitration
+proceedings as per Section 32 of the Act, 1996. Hence, in the absence of any express bar on filing of
+more than one 11(6) application under the provisions of the Act, 1996, the second 11(6) application
+filed by the respondent cannot be said to be not maintainable.
+
+D. ISSUES FOR DETERMINATION
+
+31. Having heard the learned counsel appearing for the parties and having gone through the
+materials on record, the following questions fall for our consideration:
+
+i. WHETHER A FRESH APPLICATION UNDER SECTION 11(6) OF THE ACT, 1996
+FILED BY THE RESPONDENT COULD BE SAID TO BE MAINTAINABLE MORE
+PARTICULARLY WHEN NO LIBERTY TO FILE A FRESH APPLICATION WAS
+GRANTED BY THE HIGH COURT AT THE TIME OF WITHDRAWAL OF THE
+FIRST APPLICATION UNDER SECTION 11(6) OF THE ACT, 1996?
+
+ii. WHETHER THE FRESH APPLICATION UNDER SECTION 11(6) OF THE ACT,
+1996 FILED BY THE RESPONDENT ON 09.12.2022 COULD BE SAID TO BE
+TIME-BARRED? IF YES, WHETHER THE RESPONDENT IS ENTITLED TO THE
+BENEFIT OF SECTION 14 OF THE LIMITATION ACT? IN OTHER WORDS,
+WHETHER THE PERIOD SPENT BY THE RESPONDENT IN PURSUING
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+11
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+PROCEEDINGS UNDER THE IBC IS LIABLE TO BE EXCLUDED WHILE
+COMPUTING THE LIMITATION PERIOD FOR FILING THE APPLICATION
+UNDER SECTION 11(6)?
+
+iii. WHETHER THE DELAY CAUSED BY THE RESPONDENT IN FILING THE
+FRESH ARBITRATION APPLICATION UNDER SECTION 11(6) OF THE ACT, 1996
+CAN BE CONDONED UNDER SECTION 5 OF THE LIMITATION ACT?
+
+E. ANALYSIS
+
+32. Clause 14 of the General Terms and Conditions of the tender document contained
+the arbitration clause and is reproduced hereinbelow:
+
+“14. ARBITRATION 14.1 All disputes and differences of whatsoever nature, whether
+existing or which shall at any time arise between the parties hereto touching or
+concerning the agreement, meaning, operation or effect thereof or to the rights and
+liabilities of the parties or arising out of or in relation thereto whether during or after
+completion of the contract or whether before after determination, foreclosure,
+termination or breach of the agreement (other than those in respect of which the
+decision of any person is, by the contract, expressed to be final and binding) shall,
+after written notice by either party to the agreement to the other of them and to the
+Appointing Authority hereinafter mentioned, be referred for adjudication to the Sole
+Arbitrator to be appointed as hereinafter provided.
+
+14.2 The appointing authority shall either himself act as the Sole Arbitrator or
+nominate some officer/retired officer of HBL/Hindustan Petroleum Corporation
+Limited (referred to as owner or HBL) or any other Government Company, or any
+retired officer of the Central Government not below the rank of a Director, to act as
+the Sole Arbitrator to adjudicate the disputes and differences between the parties.
+The contractor/vendor shall not be entitled to raise any objection to the appointment
+of such person as the Sole Arbitrator on the ground that the said person is/was an
+officer and/or shareholder of the owner, another Govt. Company or the Central
+Government or that he/she has to deal or had dealt with the matter to which the
+contract relates or that in the course of his/her duties, he/she has/had expressed
+views on all or any of the matters in dispute or difference. 14.3 In the event of the
+Arbitrator to whom the matter is referred to, does not accept the appointment, or is
+unable or unwilling to act or resigns or vacates his office for any reasons whatsoever,
+the Appointing Authority aforesaid, shall nominate another person as aforesaid, to
+act as the Sole Arbitrator.
+
+14.4 Such another person nominated as the Sole Arbitrator shall be entitled to
+proceed with the arbitration from the stage at which it was left by his predecessor. It
+is expressly agreed between the parties that no person other than the Appointing
+Authority or a person nominated by the Appointing Authority as aforesaid, shall act
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+12
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+as an Arbitrator.
+
+The failure on the part of the Appointing Authority to make an appointment on time shall only give
+rise to a right to a Contractor to get such an appointment made and not to have any other person
+appointed as the Sole Arbitrator.
+
+14.5 The Award of the Sole Arbitrator shall be final and binding on the parties to the Agreement.
+
+14.6 The work under the Contract shall, however, continue during the Arbitration proceedings and
+no payment due or payable to the concerned party shall be withheld (except to the extent disputed)
+on account of initiation, commencement or pendency of such proceedings.
+
+14.7 The Arbitrator may give a composite or separate Award(s) in respect of each dispute or
+difference referred to him and may also make interim award(s) if necessary.
+
+14.8 The fees of the Arbitrator and expenses of arbitration, if any, shall be borne equally by the
+parties unless the Sole Arbitrator otherwise directs in his award with reasons. The lumpsum fees of
+the Arbitrator shall be Rs 60,000/- per case and if the sole Arbitrator completes the arbitration
+including his award within 5 months of accepting his appointment, he shall be paid Rs.10,000/-
+additionally as bonus. Reasonable actual expenses for stenographer, etc. will be reimbursed. Fees
+shall be paid stage wise i.e. 25% on acceptance, 25% on completion of pleadings/ documentation,
+25% on completion of arguments and balance on receipt of award by the parties.
+
+14.9 Subject to the aforesaid, the provisions of the Arbitration and Conciliation Act, 1996 or any
+statutory modification or re-enactment thereof and the rules made thereunder, shall apply to the
+Arbitration proceedings under this Clause.
+
+14.10 The Contract shall be governed by and constructed according to the laws in force in India. The
+parties hereby submit to the exclusive jurisdiction of the Courts situated at Mumbai for all purposes.
+The Arbitration shall be held at Mumbai and conducted in English language.
+
+14.11 The Appointing Authority is the Functional Director of Hindustan Petroleum Corporation
+Limited.”
+
+33. Neither the existence nor the validity of the arbitration agreement has been disputed by the
+appellant. However, the appellant has challenged the allowing of the application for appointment of
+arbitrator by the High Court on two grounds –
+
+(i) the application before the High Court was not maintainable as it was filed for the second time
+having been withdrawn previously without seeking any liberty to file afresh; and (ii) the application
+is time-barred for being beyond the time period of three years prescribed under Article 137 of the
+Limitation Act. We shall address both these contentions in seriatim as they are pivotal to the fate of
+the present appeal.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+13
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+34. Section 11 of the Act, 1996 lays down the procedure for appointment of arbitrators through the
+intervention of the High Court or the Supreme Court, as the case may be. A reading of the said
+provision indicates that there is nothing therein which prevents a party from filing more than one
+application seeking the appointment of arbitrator for adjudicating disputes arising from the same
+contract.
+
+35. However, the appellant has contended that in lieu of the principles contained in Order 23 Rule 1
+of the CPC, the respondent could not have filed a subsequent application under Section 11(6) for
+adjudication of the same disputes, having previously withdrawn unconditionally an application filed
+for the same purpose. To address the contention of the appellant, we need to determine whether the
+principles contained in Order 23 Rule 1 of the CPC will apply to an application under Section 11(6) of
+the Act, 1996.
+
+a. Scope and applicability of Order 23 Rule 1 of the CPC to proceedings other than suits
+
+36. Prior to its amendment by the Code of Civil Procedure (Amendment) Act, 1976, Order 23 Rule 1
+of the CPC provided for two kinds of withdrawal of a suit, namely absolute withdrawal and
+withdrawal with the permission of the court to institute a fresh suit on the same cause of action. The
+first category of withdrawal was governed by sub-rule (1) thereof, as it stood then, which provided
+that at any time after the institution of a suit, the plaintiff may, as against all or any of the
+defendants withdraw his suit or abandon a part of his claim. The second category was governed by
+sub-rule (2) thereof which provided that where the court was satisfied (a) that a suit must fail by
+reason of some formal defect, or (b) that there were sufficient grounds for allowing the plaintiff to
+institute a fresh suit for the subject-matter of a suit or part of a claim, it may, on such terms as it
+thought fit, grant the plaintiff permission to withdraw from such suit or abandon a part of a claim
+with liberty to institute a fresh suit in respect of the subject-matter of such suit or such part of the
+claim. Sub-rule (3) of the former Order 23 Rule 1 of the CPC provided that where the plaintiff
+withdrew from a suit or abandoned a part of a claim without the permission referred to in sub-rule
+(2), he would be liable to such costs as the court may award and would also be precluded from
+instituting any fresh suit in respect of such subject-matter or such part of the claim. The legislature
+felt that the use of the word “withdrawal” in relation to both the aforesaid categories had led to
+confusion and thus amended the rule to avoid such confusion.
+
+37. Order 23 Rule 1 of the CPC as it stands now post the amendment is reproduced hereinbelow:
+
+“Withdrawal of suit or abandonment of part of claim.— (1) At any time after the
+institution of a suit, the plaintiff may as against all or any of the defendants abandon
+his suit or abandon a part of his claim:
+
+Provided that where the plaintiff is a minor or other person to whom the provisions
+contained in rules 1 to 14 of Order XXXII extend, neither the suit nor any part of the
+claim shall be abandoned without the leave of the Court.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+14
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+(2) An application for leave under the proviso to sub-rule (1) shall be accompanied by
+an affidavit of the next friend and also, if the minor or such other person is
+represented by a pleader, by a certificate of the pleader to the effect that the
+abandonment proposed is, in his opinion, for the benefit of the minor or such other
+person.
+
+(3) Where the Court is satisfied,—
+
+(a) that a suit must fail by reason of some formal defect, or
+
+(b) that there are sufficient grounds for allowing the plaintiff to institute a fresh suit
+for the subject matter of suit or part of a claim, It may, on such terms as it thinks fit
+grant the plaintiff permission to withdraw from such suit or such part of the claim
+with liberty to institute a fresh suit in respect of the subject-matter of such suit or
+such part of the claim.
+
+(4) Where the plaintiff—
+
+(a) abandons any suit or part of claim under sub-rule (1), or
+
+(b) withdraws from a suit or part of a claim without the permission referred to in
+sub-rule (3), he shall be liable for such costs as the Court may award and shall be
+precluded from instituting any fresh suit in respect of such subject-matter or such
+part of the claim.
+
+(5) Nothing in this rule shall be deemed to authorise the Court to permit one of
+several plaintiffs to abandon a suit or part of a claim under sub-rule (1), or to
+withdraw, under sub-rule (3), any suit or part of a claim, without the consent of the
+other plaintiff”
+
+38. The key difference between Order 23 Rule 1 as it stood prior to the amendment and as it stands
+now is that while in sub-rule (1) of the former Order 23 Rule 1, the expression “withdraw his suit”
+had been used, whereas in sub-rule (1) of the amended Order 23 Rule 1, the expression “abandon his
+suit” has been used. The new sub-rule (1) is applicable to a case where the court declines to accord
+permission to withdraw from a suit or such part of the claim with liberty to institute a fresh suit in
+respect of the subject-matter of such suit or such part of the claim. In the new sub-rule (3) which
+corresponds to the former sub-rule (2), practically no change is made. Under sub-rule (3), the court
+is empowered to grant, subject to the conditions mentioned therein, permission to withdraw from a
+suit with liberty to institute a fresh suit in respect of the subject-matter of such suit. Sub-rule (4) of
+the amended Order 23 Rule 1 provides that where the plaintiff abandons any suit or part of claim
+under sub-rule (1) or withdraws from a suit or part of a claim without the permission referred to in
+sub-rule (3), he would be liable for such costs as the court may award and would also be precluded
+from instituting any fresh suit in respect of such subject-matter or such part of the claim.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+15
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+39. Order 23 Rule 1, as it now stands post the amendment, makes a distinction between
+“abandonment” of a suit and “withdrawal” from a suit with permission to file a fresh suit and
+provides for – first, abandonment of suit or a part of claim; and secondly, withdrawal from suit or
+part of claim with the leave of the court. Abandonment of suit or a part of claim against all or any of
+the defendants is an absolute and unqualified right of a plaintiff and the court has no power to
+preclude the plaintiff from abandoning the suit or direct him to proceed with it. Sub-rule (1) of
+Order 23 Rule 1 embodies this principle. However, if the plaintiff abandons the suit or part of claim,
+then he is precluded from instituting a fresh suit in respect of such subject-matter or such part of
+claim. Upon abandoning the suit or part of claim, the plaintiff also becomes liable to pay such costs
+as may be imposed by the Court. This is specified under sub-rule (4) of Order 23 Rule 1.
+
+40. However, if the plaintiff desires to withdraw from a suit or part of a claim with liberty to file a
+fresh suit on the same subject matter or part of the claim, then he must obtain the permission of the
+court under sub-rule (3) of Order 23 Rule 1. The failure to obtain such permission would preclude
+the plaintiff from instituting any fresh suit in respect of such subject-matter or such part of the
+claim, and also to any costs that may be imposed by the court.
+
+41. The court granting liberty under sub-rule (3) of Order 23 Rule 1 may do so only upon being
+satisfied of one of the following two conditions– first, that the suit suffers from some formal defect
+and would fail by reason of such defect; and second, that there are sufficient grounds for allowing
+the plaintiff to institute a fresh suit for the same subject-matter or part of the claim. The court may
+grant liberty on such terms as it deems fit. It is also apparent from the text of the provision that the
+liberty under sub-rule (3) can only be granted by the court trying the earlier suit and not by the court
+before which the subsequent suit is instituted.
+
+42. On meaning of the phrase ‘subject-matter’ appearing in Order 23 Rule 1, this Court in Vallabh
+Das v. Madan Lal (Dr) reported in (1970) 1 SCC 761 held thus:
+
+“5. Rule 1 of the Order 23, Code of Civil Procedure empowers the courts to permit a
+plaintiff to withdraw from the suit brought by him with liberty to institute a fresh suit
+in respect of the subject-matter of that suit on such terms as it thinks fit. The term
+imposed on the plaintiff in the previous suit was that before bringing a fresh suit on
+the same cause of action, he must pay the costs of the defendants. Therefore we have
+to see whether that condition governs the institution of the present suit. For deciding
+that question we have to see whether the suit from which this appeal arises is in
+respect of the same subject-matter that was in litigation in the previous suit. The
+expression “subject-matter” is not defined in the Civil Procedure Code. It does not
+mean property. That expression has a reference to a right in the property which the
+plaintiff seeks to enforce. That expression includes the cause of action and the relief
+claimed. Unless the cause of action and the relief claimed in the second suit are the
+same as in the first suit, it cannot be said, that the subject-matter of the second suit is
+the same as that in the previous suit. Now coming to the case before us in the first
+suit Dr Madan Lal was seeking to enforce his right to partition and separate
+possession. In the present suit he seeks to get possession of the suit properties from a
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+16
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+trespasser on the basis of his title. In the first suit the cause of action was the division
+of status between Dr Madan Lal and his adoptive father and the relief claimed was
+the conversion of joint possession into separate possession. In the present suit the
+plaintiff is seeking possession of the suit properties from a trespasser. In the first case
+his cause of action arose on the day he got separated from his family. In the present
+suit the cause of action, namely, the series of transactions which formed the basis of
+his title to the suit properties, arose on the death of his adoptive father and mother. It
+is true that both in the previous suit as well as in the present suit the factum and
+validity of adoption of Dr Madan Lal came up for decision. But that adoption was not
+the cause of action in the first nor is it the cause of action in the present suit. It was
+merely an antecedent event which conferred certain rights on him. Mere identity of
+some of the issues in the two suits do not bring about an identity of the
+subject-matter in the two suits. As observed in Rukhma Bai v. Mahadeo Narayan,
+[ILR 42 Bom 155] the expression “subject-matter” in Order 23 of the Rule 1, Code of
+Civil Procedure means the series of acts or transactions alleged to exist giving rise to
+the relief claimed. In other words “subject-matter” means the bundle of facts which
+have to be proved in order to entile the plaintiff to the relief claimed by him. We
+accept as correct the observations of Wallis, C.J., in Singa Reddi v. Subba Reddi [ILR
+39 Mad 987] that where the cause of action and the relief claimed in the second suit
+are not the same as the cause of action and the relief claimed in the first suit, the
+second suit cannot be considered to have been brought in respect of the same
+subject-matter as the first suit.” (Emphasis supplied)
+
+43. Discussing on the meaning of the phrases ‘formal defect’ and ‘sufficient grounds’, a two-Judge
+Bench of this Court in V. Rajendran v. Annasamy Pandian reported in (2017) 5 SCC 63 observed
+thus:
+
+“9. […] As per Order 23 Rule 1(3) CPC, suit may only be withdrawn with permission
+to bring a fresh suit when the Court is satisfied that the suit must fail for reason of
+some formal defect or that there are other sufficient grounds for allowing the plaintiff
+to institute a fresh suit. The power to allow withdrawal of a suit is discretionary. In
+the application, the plaintiff must make out a case in terms of Order 23 Rules 1(3)(a)
+or (b) CPC and must ask for leave. The Court can allow the application filed under
+Order 23 Rule 1(3) CPC for withdrawal of the suit with liberty to bring a fresh suit
+only if the condition in either of the clauses (a) or (b), that is, existence of a “formal
+defect” or “sufficient grounds”.
+
+The principle under Order 23 Rule 1(3) CPC is founded on public policy to prevent institution of suit
+again and again on the same cause of action.
+
+10. In K.S. Bhoopathy v. Kokila [(2000) 5 SCC 458], it has been held that it is the duty of the Court
+to be satisfied about the existence of “formal defect” or “sufficient grounds” before granting
+permission to withdraw the suit with liberty to file a fresh suit under the same cause of action.
+Though, liberty may lie with the plaintiff in a suit to withdraw the suit at any time after the
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+17
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+institution of suit on establishing the “formal defect” or “sufficient grounds”, such right cannot be
+considered to be so absolute as to permit or encourage abuse of process of court. The fact that the
+plaintiff is entitled to abandon or withdraw the suit or part of the claim by itself, is no licence to the
+plaintiff to claim or to do so to the detriment of legitimate right of the defendant. When an
+application is filed under Order 23 Rule 1(3) CPC, the Court must be satisfied about the “formal
+defect” or “sufficient grounds”. “Formal defect” is a defect of form prescribed by the rules of
+procedure such as, want of notice under Section 80 CPC, improper valuation of the suit, insufficient
+court fee, confusion regarding identification of the suit property, misjoinder of parties, failure to
+disclose a cause of action, etc. “Formal defect” must be given a liberal meaning which connotes
+various kinds of defects not affecting the merits of the plea raised by either of the parties.
+
+11. In terms of Order 23 Rule 1(3)(b) where the court is satisfied that there are sufficient grounds for
+allowing the plaintiff to institute a fresh suit, the Court may permit the plaintiff to withdraw the suit.
+In interpretation of the words “sufficient grounds”, there are two views : one view is that these
+grounds in clause (b) must be “ejusdem generis” with those in clause (a), that is, it must be of the
+same nature as the ground in clause (a), that is, formal defect or at least analogous to them; and the
+other view was that the words “other sufficient grounds” in clause (b) should be read independent of
+the words a “formal defect” and clause (a). Court has been given a wider discretion to allow
+withdrawal from suit in the interest of justice in cases where such a prayer is not covered by clause
+(a). Since in the present case, we are only concerned with “formal defect” envisaged under clause (a)
+of Rule 1 sub-rule (3), we choose not to elaborate any further on the ground contemplated under
+clause (b), that is, “sufficient grounds”.” (Emphasis supplied)
+
+44. The main purpose of permitting the withdrawal of a suit and its re-filing is to ensure that justice
+is not thwarted due to technicalities. Where permission under Order 23 Rule 1 is granted, the
+principle of estoppel does not operate and the principle of res judicate would also not apply.
+However, Order 23 Rule 1 is not intended to enable the plaintiff to get a chance to commence
+litigation afresh in order to avoid the results of his previous suit, or to engage in multiple
+proceedings with the motive of bench-hunting.
+
+45. Order 23 Rule 2 stipulates that any fresh suit instituted on permission granted under Order 23
+Rule 1 shall be governed by the law of limitation in the same manner as if the first suit had not been
+instituted. The object underlying this Rule is to prevent a party from misusing the liberty of filing a
+fresh suit for evading the limitation period governing the said suit. The said rule is reproduced
+hereinbelow:
+
+“2. Limitation law not affected by first suit.—In any fresh suit instituted on
+permission granted under the last preceding rule, the plaintiff shall be bound by the
+law of limitation in the same manner as if the first suit had not been instituted.”
+
+46. Undoubtedly, an application under Section 11(6) of the Act, 1996 is not a suit and hence will not
+be governed stricto-sensu by Order 23 Rule 1 of the CPC. However, in a number of decisions, this
+Court has extended the principle underlying Order 23 Rule 1 to proceedings other than suits on the
+ground of public policy underlying the said rule. The appellant has submitted that in view of the
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+18
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+aforesaid decisions, there is no reason why the principles of Order 23 Rule 1 should not be extended
+to an application for appointment of arbitrator under Section 11(6) of the Act, 1996.
+
+47. A two-Judge Bench of this Court in Sarguja Transport Service v. State Transport Appellate
+Tribunal, M.P., Gwalior and Others reported in (1987) 1 SCC 5 while elaborating upon the principle
+underlying Order 23 Rule 1 of CPC, extended them to writ petitions under Articles 226 and 227.
+Relevant observations from the said decision are as follows:
+
+“7. […] The principle underlying Rule 1 of Order XXIII of the Code is that when a
+plaintiff once institutes a suit in a court and thereby avails of a remedy given to him
+under law, he cannot be permitted to institute a fresh suit in respect of the same
+subject- matter again after abandoning the earlier suit or by withdrawing it without
+the permission of the court to file fresh suit. Invito beneficium non datur — the law
+confers upon a man no rights or benefits which he does not desire. Whoever waives,
+abandons or disclaims a right will loose it. In order to prevent a litigant from abusing
+the process of the court by instituting suits again and again on the same cause of
+action without any good reason the Code insists that he should obtain the permission
+of the court to file a fresh suit after establishing either of the two grounds mentioned
+in sub-rule (3) of Rule 1 of Order XXIII. The principle underlying the above rule is
+founded on public policy, but it is not the same as the rule of res judicata contained in
+Section 11 of the Code which provides that no court shall try any suit or issue in which
+the matter directly or substantially in issue has been directly or substantially in issue
+in a former suit between the same parties, or between parties under whom they or
+any of them claim, litigating under the same title, in a court competent to try such
+subsequent suit or the suit in which such issue has been subsequently raised, and has
+been heard and finally decided by such court. The rule of res judicata applies to a case
+where the suit or an issue has already been heard and finally decided by a court. In
+the case of abandonment or withdrawal of a suit without the permission of the court
+to file a fresh suit, there is no prior adjudication of a suit or an issue is involved, yet
+the Code provides, as stated earlier, that a second suit will not lie in sub- rule (4) of
+Rule 1 of Order XXIII of the Code when the first suit is withdrawn without the
+permission referred to in sub-rule (3) in order to prevent the abuse of the process of
+the court.
+
+8. The question for our consideration is whether it would or would not advance the
+cause of justice if the principle underlying Rule 1 of Order XXIII of the Code is
+adopted in respect of writ petitions filed under Articles 226/227 of the Constitution
+of India also. It is common knowledge that very often after a writ petition is heard for
+some time when the petitioner or his counsel finds that the court is not likely to pass
+an order admitting the petition, request is made by the petitioner or by his counsel to
+permit the petitioner to withdraw from the writ petition without seeking permission
+to institute a fresh writ petition. A court which is unwilling to admit the petition
+would not ordinarily grant liberty to file a fresh petition while it may just agree to
+permit the withdrawal of the petition. It is plain that when once a writ petition filed
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+19
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+in a High Court is withdrawn by the petitioner himself he is precluded from filing an
+appeal against the order passed in the writ petition because he cannot be considered
+as a party aggrieved by the order passed by the High Court.” (Emphasis supplied)
+
+48. The principles enunciated in Sarguja Transport (supra) were extended to Special Leave Petitions
+filed before this Court by a two-Judge Bench of this Court in Upadhyay & Co. v. State of U.P. and
+Others reported in (1999) 1 SCC 81. It was observed by the bench thus:
+
+11. […] It is not a permissible practice to challenge the same order over again after
+withdrawing the special leave petition without obtaining permission of the court for
+withdrawing it with liberty to move for special leave again subsequently.
+
+xxx xxx xxx
+
+13. The aforesaid ban for filing a fresh suit is based on public policy. This Court has made the said
+rule of public policy applicable to jurisdiction under Article 226 of the Constitution (Sarguja
+Transport Service v. STAT [(1987) 1 SCC 5). The reasoning for adopting it in writ jurisdiction is that
+very often it happens, when the petitioner or his counsel finds that the court is not likely to pass an
+order admitting the writ petition after it is heard for some time, that a request is made by the
+petitioner or his counsel to permit him to withdraw it without seeking permission to institute a fresh
+writ petition. A court which is unwilling to admit the petition would not ordinarily grant liberty to
+file a fresh petition while it may just agree to permit withdrawal of the petition. When once a writ
+petition filed in a High Court is withdrawn by the party concerned, he is precluded from filing an
+appeal against the order passed in the writ petition because he cannot be considered as a party
+aggrieved by the order passed by the High Court. If so, he cannot file a fresh petition for the same
+cause once again. […] xxx xxx xxx
+
+15. We have no doubt that the above rule of public policy, for the very same reasoning, should apply
+to special leave petitions filed under Article 136 of the Constitution also. […]” (Emphasis supplied)
+
+49. The respondent has relied upon the decision of this Court in Sarva Shramik Sanghatana (supra)
+to contend that the principles underlying Order 23 Rule 1 of the CPC cannot be applied as a matter
+of fact in every legal proceeding. In the said case, an application seeking permission for closure
+under Section 25-O(1) of the Industrial Disputes Act, 1947 had been filed by the respondent
+Company therein. However, before the application could be decided, the Company received a letter
+from the Deputy Commissioner of Labour, Mumbai inviting it to a meeting for exploring the
+possibility of an amicable settlement. The Company withdrew its application in lieu of the invite and
+Section 25-O(3) which provides that an application made under Section 25-O(1) will be deemed to
+have been allowed if it is not decided within a period of 60 days from the date of filing. However,
+after the attempts for an amicable settlement failed, the Company moved a fresh application under
+Section 25-O(1). The application was opposed by the appellant therein, inter-alia, on the ground that
+since the first application was withdrawn by the Company without obtaining liberty to file a fresh
+application, the same would not be maintainable as per the principles underlying Order 23 Rule 1 of
+the CPC. In this regard, reliance was placed by the appellant therein upon the decision of this Court
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+20
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+in Sarguja Transport (supra). However, this Court distinguished the decision in Sarguja Transport
+(supra) on the ground that the objective in the said decision was to prevent such situations where
+the petitioner withdraws a case to file it before a more convenient Bench or for some other mala fide
+purpose. The relevant observations from the said decision are reproduced hereinbelow:
+
+“19. In the present case, we are satisfied that the application for withdrawal of the
+first petition under Section 25-O(1) was made bona fide because the respondent
+Company had received a letter from the Deputy Labour Commissioner on 5-4-2007
+calling for a meeting of the parties so that an effort could be made for an amicable
+settlement. In fact, the respondent Company could have waited for the expiry of 60
+days from the date of filing of its application under Section 25-O(1), on the expiry of
+which the application would have deemed to have been allowed under Section
+25-O(3). The fact that it did not do so, and instead applied for withdrawal of its
+application under Section 25-O(1), shows its bona fide. The respondent Company was
+trying for an amicable settlement, and this was clearly bona fide, and it was not a case
+of Bench-hunting when it found that an adverse order was likely to be passed against
+it. Hence, Sarguja Transport case [(1987) 1 SCC 5 : 1987 SCC (Cri) 19 : AIR 1987 SC
+88] is clearly distinguishable, and will only apply where the first petition was
+withdrawn in order to do Bench-hunting or for some other mala fide purpose.
+
+20. We agree with the learned counsel for the appellant that although the Code of
+Civil Procedure does not strictly apply to proceedings under Section 25-O(1) of the
+Industrial Disputes Act, or other judicial or quasi-judicial proceedings under any
+other Act, some of the general principles in CPC may be applicable. For instance,
+even if Section 11 CPC does not in terms strictly apply because both the proceedings
+may not be suits, the general principle of res judicata may apply vide Pondicherry
+Khadi & Village Industries Board v. P. Kulothangan [(2004) 1 SCC 68 : 2004 SCC
+(L&S) 32] . However, this does not mean that all provisions in CPC will strictly apply
+to proceedings which are not suits.
+
+22. No doubt, Order 23 Rule 1(4) CPC states that where the plaintiff withdraws a suit
+without permission of the court, he is precluded from instituting any fresh suit in
+respect of the same subject-matter. However, in our opinion, this provision will apply
+only to suits. An application under Section 25-O(1) is not a suit, and hence, the said
+provision will not apply to such an application.” (Emphasis supplied)
+
+50. While we agree with the decision in the aforesaid case to the extent that it declined to apply the
+principles of Order 23 Rule 1 and refused to dismiss a bonafide subsequent application filed after
+the earlier one was withdrawn in good faith to attempt conciliation, we are of the view that it cannot
+be declared as a general rule that merely because a legal proceeding is not a ‘suit’, it would be
+completely exempted from the application of principles underlying Order 23 Rule
+
+1. These principles, being in the nature of public policy, bring efficiency and certainty to the
+administration of justice by any court and should be invoked and enforced unless they are expressly
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+21
+
+prohibited by statute or appear to counter serve the interest of justice, rather than advancing it.
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+51. One important policy consideration which permeates the scheme of Order 23 Rule 1 is the
+legislative intent that legal proceedings in respect of a subject- matter are not stretched for unduly
+long periods by allowing a party to reagitate the same issue over and over again, which also leads to
+uncertainty for the responding parties. Arbitration as a dispute resolution method, too, seeks to
+curtail the time spent by disputing parties in pursuing legal proceedings. This is evident from the
+various provisions of the Act, 1996 which provide a timeline for compliance with various procedural
+requirements under the said Act. An application for appointment of arbitrator under Section 11(6) of
+the Act, 1996 is required to be filed when there is failure on the part of the parties or their
+nominated arbitrators to commence the arbitration proceedings as per the agreed upon procedure.
+This Court, being conscious of the temporally sensitive nature of proceedings under Section 11(6),
+has issued various directions from time to time to ensure that applications for appointment of
+arbitrators are decided in an expeditious manner. Keeping in view the approach of this Court and
+the nature of applications under Section 11(6) of the Act, 1996, we find no reason to not extend the
+principles of Order 23 Rule 1 to such proceedings, when the very same principles have been
+extended to writ proceedings before High Courts under Articles 226 & 227 and SLPs before this
+Court under Article 136.
+
+52. One important aspect that needs to be kept in mind while applying the principles of Order 23
+Rule 1 to applications under Section 11(6) of the Act, 1996 is that it will act as a bar to only those
+applications which are filed subsequent to the withdrawal of a previous Section 11(6) application
+filed on the basis of the same cause of action. The extension of the aforesaid principle cannot be
+construed to mean that it bars invocation of the same arbitration clause on more than one occasion.
+It is possible that certain claims or disputes may arise between the parties after a tribunal has
+already been appointed in furtherance of an application under Section 11(6). In such a scenario, a
+party cannot be precluded from invoking the arbitration clause only on the ground that it had
+previously invoked the same arbitration clause. If the cause of action for invoking subsequent
+arbitration has arisen after the invocation of the first arbitration, then the application for
+appointment of arbitrator cannot be rejected on the ground of multiplicity alone.
+
+53. The principles of Order 23 Rule 1 are extended to proceedings other than suits with a view to
+bring in certainty, expediency and efficiency in legal proceedings. However, at the same time, it
+must also be kept in mind while extending the principles to legal proceedings other than suits that
+the principles are not applied in a rigid or hyper-technical manner. While the nature of the
+proceedings, that is, whether such proceeding is a suit or otherwise, should not be a consideration in
+deciding whether the principles of Order 23 Rule 1 should be extended to such proceedings or not,
+the bonafide conduct of a party in the unique facts of a case must be considered before precluding
+such a party from moving ahead with the proceedings.
+
+54. In the case of Vanna Claire Kaura v. Gauri Anil Indulkar & Ors. reported in (2009) 7 SCC 541 the
+applicant filed a Section 11(6) application before the High Court of Bombay. A dispute was raised
+that the application was not maintainable as the agreements were in the nature of international
+commercial arbitration agreement under the Act, 1996 and the application for appointment would
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+22
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+only lie before the Chief Justice of India. Accordingly, the applicant withdrew the Section 11
+application and filed a Section 11(6) application before this Court. The subsequent application was
+opposed inter alia on the ground that arbitration was invoked by notice dated 14.03.2006 and was
+thereafter abandoned with the withdrawal of the petition from the High Court. Hence, the second
+application without the leave of the High Court would not be maintainable. However, this Court,
+negatived the objections against the application and proceeded to appoint the arbitrator.
+
+55. Coming to the facts of the case at hand, both the applications under Section 11(6) of the Act, 1996
+were filed seeking adjudication of the dispute which arose on 02.02.2014 upon refusal of the
+appellant to pay the dues of the respondent. The first application under Section 11(6) was filed on
+16.02.2018 and was subsequently withdrawn unconditionally on 01.10.2018. After a gap of more
+than four years, the respondent filed a subsequent application under Section 11(6) before the High
+Court on 09.12.2022 which came to be allowed by the impugned order.
+
+56. The High Court was of the view that the respondent chose to withdraw the petition under legal
+advice and thereafter approached NCLT under the IBC but did not succeed in its endeavor. Further,
+the High Court observed that while dismissing the appeal, this Court vide Order dated 15.07.2022
+granted liberty to the respondent to avail such remedies in accordance with law, which shall include
+the remedy of arbitration. Accepting the explanation given by the respondent as bonafide and
+relying on the order dated 15.07.2022 of this Court, the High Court held the fresh petition under
+Section 11(6) to be maintainable.
+
+57. A perusal of paragraph 18 of the order dated 10.01.2022 passed by the NCLAT setting aside the
+order of the NCLT reveals that after invoking the arbitration clause by the notice dated 09.07.2016,
+the respondent issued a statutory demand notice to the appellant under Section 8 of the IBC on
+30.08.2017. When no reply was sent by the appellant to the said demand notice, the respondent,
+rather than filing an application under Section 9 of the IBC, filed an application for the appointment
+of arbitrator on 16.02.2018. During the pendency of the application under Section 11(6) of the Act,
+1996 before the High Court, the respondent issued a second statutory demand notice under Section
+8 of the IBC to the appellant on 25.07.2018. The appellant filed a reply to the said demand notice on
+07.08.2018, wherein, inter alia, it took the defence that there was a pre-existing dispute between the
+parties, which was evidenced by the existence of the pending arbitration proceedings. Subsequently,
+the respondent withdrew the arbitration application on 01.10.2018 and thereafter proceeded to file
+an application before the NCLT, Kolkata on 05.10.2018.
+
+58. The chronology of events as discussed above clearly indicates that the respondent did not
+withdraw the first arbitration application because of some defect which would have led to its
+dismissal. It is also clear from the order dated 01.10.2018 of the High Court permitting the
+respondent to withdraw the application that neither any liberty was sought by the respondent nor
+the court had granted any liberty to file a fresh arbitration application. It appears to us that the only
+reason the respondent withdrew the arbitration application was to get his application under Section
+9 of the IBC any how admitted by the NCLT. It is also evident that the existence of a pre-existing
+dispute was brought to the notice of the respondent by the appellant much prior to the withdrawal
+of the arbitration application in reply to the demand notice issued by the respondent under Section
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+23
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+8 of the IBC. Thus, it can be said without any doubt that the respondent took a calculated risk of
+abandoning the arbitration proceedings to maximise the chances of succeeding in the IBC
+proceedings.
+
+59. The respondent was within its right to abandon the arbitration proceedings in favour of IBC
+proceedings. However, having done so, it would no longer be open to it to file a fresh application for
+appointment of arbitrator without having obtained the liberty of the court to file a fresh application
+at the time of the withdrawal. We say so particularly because the withdrawal of the first arbitration
+application was not with a view to cure some formal defect or any other sufficient ground. The
+application was withdrawn with the hope that the application filed by the respondent under Section
+9 of the IBC may succeed, as the pendency of the arbitration application would have proven to be an
+indicator of existence of a pre-existing dispute between the parties, and thus fatal to the IBC
+proceedings.
+
+60. As we are of the view that the principles underlying Order 23 Rule 1 can be extended to
+applications for appointment of arbitrator, the only recourse to the respondent to defend the second
+application as maintainable despite it having been withdrawn earlier without liberty was to show
+bona fides on its part. From the conduct of the respondent, it is evident that it thought fit to initiate
+insolvency proceedings perhaps thinking that the issues existing between the parties may not get
+resolved through arbitration. Further, no document has been placed on record to substantiate the so
+called incorrect legal advice the respondent claims to have received. Therefore, the failure on the
+part of the respondent to withdraw the first Section 11 application without seeking any liberty
+cannot be condoned in the facts of the present case.
+
+61. In light of the aforesaid discussion, we are of the view that in the absence of any liberty sought by
+the respondents from the High Court at the time of withdrawal of the first arbitration application,
+the fresh Section 11 petition arising out of the same cause of action cannot be said to be
+maintainable.
+
+62. Another way of looking at the abandonment of Section 11(6) application is by understanding the
+importance of such an application in view of Sections 21 and 43(2) of the Act, 1996 respectively. By
+virtue of Section 21, the arbitral proceedings commence on the date on which the respondent
+receives the petitioner’s notice invoking arbitration. The said provision is reproduced below:
+
+“21. Commencement of arbitral proceedings.—Unless otherwise agreed by the
+parties, the arbitral proceedings in respect of a particular dispute commence on the
+date on which a request for that dispute to be referred to arbitration is received by the
+respondent.”
+
+63. Section 43(2) of the Act, 1996 provides that for the purposes of limitation, an arbitration shall be
+‘deemed’ to have commenced on the date referred to in Section 21. Section 43(2) is reproduced
+below:
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+24
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+“(2) For the purposes of this section and the Limitation Act, 1963 (36 of 1963), an
+arbitration shall be deemed to have commenced on the date referred to in section 21.”
+
+64. As is clear from the word “deemed” used in Section 43(2), the commencement of arbitration
+proceedings, as contemplated in Section 21, is in the nature of a legal or deeming fiction. It is a
+notional commencement and not a factual or actual commencement of arbitration. However, the
+factual or actual arbitration proceeding commences only once an arbitrator is appointed either by
+the High Court under Section 11 or by consent of parties.
+
+65. Hence, a petition under Section 11(6) of the Act, 1996 is not a proceeding merely seeking the
+appointment of an arbitrator. It is in reality a proceeding for appointing an arbitrator and for
+commencing the actual or real arbitration proceedings.
+
+66. If that is so, the unconditional withdrawal of a Section 11(6) petition amounts to abandoning not
+only the formal prayer for appointing an arbitrator but also the substantive prayer for commencing
+the actual arbitration proceedings. It amounts to abandoning the arbitration itself. It results in
+abandonment of the notional ‘arbitration proceeding’ that had commenced by virtue of Section 21
+and thus amounts to an abandonment of a significant nature. Therefore, it is all the more important
+to import and apply the principles underlying Order 23 Rule 1 of the CPC to abandonment of
+applications under Section 11(6).
+
+67. It was submitted by the appellant that the fresh application filed by the respondent under
+Section 11(6) of the Act, 1996 before the High Court was beyond the period of limitation prescribed
+for filing of such an application and was not maintainable. The appellant also contended that the
+substantive claims raised by the respondent are also ex-facie time-barred and thus the High Court
+ought to have dismissed the fresh arbitration application filed by the respondent on this ground as
+well.
+
+68. The basic premise behind the statutes providing for a limitation period is encapsulated by the
+maxim “Vigilantibus non dormientibus jura subveniunt” which means that the law assists those who
+are vigilant and not those who sleep over their rights. The object behind having a prescribed
+limitation period is to ensure that there is certainty and finality to the litigation and assurance to the
+opposite party that it will not be subject to an indefinite period of liability. Another object achieved
+by a fixed limitation period is that only those claims which are initiated before the deterioration of
+evidence takes place are allowed to be litigated. The law of limitation does not act to extinguish the
+right but only bars the remedy.
+
+69. The limitation period governing applications under Section 11(6) of the Act, 1996 has recently
+been explained by a three-Judge Bench of this Court, to which My Lord, the Chief Justice of India
+and myself were a part, in M/s Arif Azim Co. Ltd. v. M/s Aptech Ltd. reported in 2024 INSC 155.
+The said decision has referred to Article 137 of the Limitation Act, 1963 to hold that the limitation
+period for making an application under Section 11(6) of the Act, 1996 is three years from the date
+when the right to apply accrues.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+25
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+70. On the aspect of when the limitation period for filing an application seeking appointment of
+arbitrator would commence, the aforesaid decision has held that it is only after a valid notice
+invoking arbitration has been issued by one of the parties to the other party and there has been
+either a failure or refusal on part of the other party to make an appointment as per the appointment
+procedure agreed upon between the parties, that the clock would start ticking for the purpose of the
+limitation of three years.
+
+71. In the case at hand, the respondent invoked the arbitration clause vide a notice dated
+09.07.2016. Since there was no response to the said notice by the appellant, the respondent filed an
+application for appointment of arbitrator before the High Court under Section 11(6) of the Act, 1996
+on 16.02.2018. Subsequently, it abandoned the application to pursue proceedings under the IBC.
+
+72. On 15.10.2018, the respondent filed an application under Section 9 of the IBC for initiation of
+Corporate Insolvency Resolution Process against the appellant. The IBC proceedings initiated by the
+respondent under Section 9 were ultimately dismissed by this Court vide order dated 15.07.2022 by
+way of which the order of the NCLAT was upheld and the order of the NCLT was set-aside. This
+Court took the view that the NCLT had committed a grave error of law by admitting the application
+of the respondent even though there was a pre-existing dispute between the parties. Placing reliance
+on the decision of this Court in Mobilox Innovations Private Limited v. Kirusa Software Private
+Limited reported in (2018) 1 SCC 353, this Court held that upon the occurrence of a pre- existing
+dispute regarding the alleged claims of the respondent against the appellant, the Section 9
+application of the respondent as an ‘Operational Creditor’ could not have been entertained.
+
+73. Upon rejection of the Section 9 application by this Court, the respondent filed a fresh application
+under Section 11(6) on 09.12.2022 before the High Court. The High Court allowed the application
+and proceeded to appoint the arbitrator vide the impugned order.
+
+74. An overview of the facts as discussed above indicates that the first application under Section
+11(6) filed on 16.02.2018 was well within the prescribed limitation period of three years for filing
+such applications. However, even assuming that the second application under Section 11(6) is not
+barred by the principles underlying Order 23 Rule 1, the same was required to be filed within a
+period of three years from the expiry of one month from the date of receipt of the notice invoking
+arbitration by the appellant. This period of three years came to an end in August, 2019. The second
+application under Section 11(6) came to be filed by the respondent much later on 12.12.2022 and is
+clearly time- barred.
+
+75. However, to save the second Section 11(6) application from being dismissed on account of being
+time-barred, the respondent has contended that it is entitled to invoke the benefit under Section 14
+of the Limitation Act, 1963 to seek exclusion of the period spent by it in pursuing the proceedings
+under Section 9 of the IBC. The respondent has further submitted that even otherwise, this Court in
+exercise of its discretion available under Section 5 of the Limitation Act may condone the delay in
+filing the second 11(6) application before the High Court, as it was pursuing the insolvency
+proceedings in a bona fide manner and would be left remediless if the appointment of arbitrator by
+the High Court is set aside by this Court.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+26
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+76. Section 14 of the Limitation Act provides for exclusion of time of proceeding bona fide in court
+without jurisdiction and is reproduced below: -
+
+“14. Exclusion of time of proceeding bona fide in court without jurisdiction.— (1) In
+computing the period of limitation for any suit the time during which the plaintiff has
+been prosecuting with due diligence another civil proceeding, whether in a court of
+first instance or of appeal or revision, against the defendant shall be excluded, where
+the proceeding relates to the same matter in issue and is prosecuted in good faith in a
+court which, from defect of jurisdiction or other cause of a like nature, is unable to
+entertain it.
+
+(2) In computing the period of limitation for any application, the time during which
+the applicant has been prosecuting with due diligence another civil proceeding,
+whether in a court of first instance or of appeal or revision, against the same party for
+the same relief shall be excluded, where such proceeding is prosecuted in good faith
+in a court which, from defect of jurisdiction or other cause of a like nature, is unable
+to entertain it.
+
+(3) Notwithstanding anything contained in rule 2 of Order XXIII of the Code of Civil
+Procedure, 1908 (5 of 1908), the provisions of sub-section (1) shall apply in relation
+to a fresh suit instituted on permission granted by the court under rule 1 of that
+Order, where such permission is granted on the ground that the first suit must fail by
+reason of a defect in the jurisdiction of the court or other cause of a like nature.
+
+Explanation.—For the purposes of this section,—
+
+(a) in excluding the time during which a former civil proceeding was pending, the day
+on which that proceeding was instituted and the day on which it ended shall both be
+counted;
+
+(b) a plaintiff or an applicant resisting an appeal shall be deemed to be prosecuting a
+proceeding;
+
+(c) misjoinder of parties or of causes of action shall be deemed to be a cause of a like
+nature with defect of jurisdiction.”
+
+77. There is a body of decisions of this Court taking the view that by virtue of Section 43 of the Act,
+1996, the Limitation Act is applicable to applications for appointment of arbitrator filed under
+Section 11(6) of the said Act. It thus follows that the benefit under Section 14 of the Limitation Act
+can be availed by an applicant subject to the fulfilment of the conditions specified therein. However,
+a bare perusal of the aforesaid provision indicates that sub-sections (1) and (2) respectively of
+Section 14 are materially different from each other. Thus, it is important to ascertain as to which
+provision would be applicable to an application for appointment of arbitrator under Section 11(6) of
+the Act, 1996.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+27
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+78. Under Section 14(1), in computing the period of limitation for any suit, the time during which
+the plaintiff has been prosecuting with due diligence another civil proceeding, whether in a court of
+first instance or of appeal or revision, against the defendant shall be excluded, where the proceeding
+relates to the same matter in issue and is prosecuted in good faith in a court which, from defect of
+jurisdiction or other cause of a like nature, is unable to entertain it. Thus, the following ingredients
+need to be fulfilled for the applicability of Section 14(1):
+
+        i.      The subsequent proceeding must be a suit;
+
+       ii.      Both the earlier and the subsequent proceeding must be civil
+
+                proceedings;
+
+      iii.      Both the earlier and subsequent proceedings must be between the same
+
+                parties;
+
+      iv.       The earlier and subsequent proceeding must have the same matter in
+
+                issue;
+
+       v.       The earlier proceeding must have failed owing to a defect of jurisdiction
+
+of the earlier court or any other cause of a like nature;
+
+vi. The earlier proceedings must have been prosecuted in good faith and with due-diligence; and vii.
+Both the earlier and the subsequent proceedings must be before a court.
+
+79. A three-Judge Bench of this Court in Consolidated Engg. Enterprises v. Irrigation Deptt.
+reported in (2008) 7 SCC 169, dealt with the question as to whether Section 14 of the Limitation Act
+would be applicable to an application submitted under Section 34 of the Act, 1996 for setting aside
+the award made by the arbitrator. The Court enumerated the conditions for the applicability of
+Section 14(1) as follows:
+
+“21. Section 14 of the Limitation Act deals with exclusion of time of proceeding bona
+fide in a court without jurisdiction. On analysis of the said section, it becomes evident
+that the following conditions must be satisfied before Section 14 can be pressed into
+service:
+
+(1) Both the prior and subsequent proceedings are civil proceedings prosecuted by
+the same party;
+
+(2) The prior proceeding had been prosecuted with due diligence and in good faith;
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+28
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+(3) The failure of the prior proceeding was due to defect of jurisdiction or other cause
+of like nature;
+
+(4) The earlier proceeding and the latter proceeding must relate to the same matter in
+issue and;
+
+(5) Both the proceedings are in a court.”
+
+80. Section 2 of the Limitation Act provides certain definitions. Some of them which are pertinent to
+the present discussion are reproduced hereinbelow:
+
+“In this Act, unless the context otherwise requires,--
+
+(a) “applicant” includes—
+
+(i) a petitioner;
+
+(ii) any person from or through whom an applicant derives his right to apply;
+
+(iii) any person whose estate is represented by the applicant as executor,
+administrator or other representative;
+
+xxx xxx xxx
+
+(b) "application” includes a petition;
+
+xxx xxx xxx
+
+(h) “good faith” - nothing shall be deemed to be done in good faith which is not done with due care
+and attention;
+
+xxx xxx xxx
+
+(j) “period of limitation” means the period of limitation prescribed for any suit, appeal or application
+by the Schedule, and "prescribed period" means the period of limitation computed in accordance
+with the provisions of this Act;
+
+xxx xxx xxx
+
+(l) “suit” does not include an appeal or an application;
+
+81. Section 2(l) as reproduced above clearly provides for a distinction between a ‘suit’ and an
+‘application’ under the Limitation Act. Thus, the clear intention of the legislature was that they are
+not to be considered as the same for the purpose of Limitation Act.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+29
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+82. In Section 11(6) of the Act, 1996, the words ‘the appointment shall be made, on an application of
+the party’ are used, thereby signifying that a Section 11 petition is in the nature of an ‘application’
+and cannot be considered to be a ‘suit’ for the purposes of the Limitation Act. Even otherwise,
+‘application’ under the Limitation Act includes a ‘petition’, thereby leaving no room for any doubt
+that a Section 11(6) petition is to be treated as an application.
+
+83. As a petition under Section 11(6) of the Act, 1996 is not a suit, hence it would not be governed by
+sub-section (1) of Section 14 of the Limitation Act. Instead, it would be governed by sub-section (2)
+of Section 14 of the Limitation Act. Some of the conditions required to be fulfilled for seeking the
+benefit of exclusion under Section 14(2) are materially different from those required under Section
+14(1) and are as follows:
+
+i. Both the earlier and the subsequent proceeding must be civil proceedings;
+
+ii. Both the earlier and subsequent proceedings must be between the same parties;
+
+iii. The earlier and subsequent proceeding must be for the same relief;
+
+iv. The earlier proceeding must have failed owing to a defect of jurisdiction of the
+earlier court or any other cause of a like nature;
+
+v. The earlier proceedings must have been prosecuted in good faith and with
+due-diligence; and vi. Both the earlier and the subsequent proceedings are before a
+court.
+
+84. With every other ingredient remaining the same, the key difference between sub-sections (1) and
+(2) of Section 14 respectively is two-fold:
+
+i. First, the benefit of Section 14(1) can be availed of where the subsequent proceeding
+is a suit, whereas the benefit of Section 14(2) can be availed of where the subsequent
+proceeding is an application.
+
+ii. Secondly, Section 14(1) applies if both the earlier and the subsequent proceedings
+have the same matter in issue, whereas Section 14(2) applies when both the earlier
+and the subsequent proceedings are filed for seeking the same relief.
+
+85. Clearly, the scope of the expression “same matter in issue” appearing in Section 14(1) is much
+wider than that of the expression “for the same relief” appearing in Section 14(2) of the Limitation
+Act. This is evident on account of the difference between the nature of a suit vis-à-vis an application.
+In a suit, a party generally seeks relief in the nature of the cause of action which is established on the
+basis of oral and documentary evidence and arguments. Whereas, an application is made under a
+particular provision of a statute and if it appears to the court that such provision of the statute is not
+applicable, then the application as a whole cannot be sustained. Thus, an application is made for a
+specific purpose as provided by the statutory provision under which it is made unlike a suit which is
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+30
+
+instituted based on a cause of action and is for seeking remedies falling in a wider conspectus.
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+86. Sub-section (3) of Section 14 stipulates that where liberty to withdraw any suit is granted under
+sub-rule (3) of Order 23 Rule 1 on the ground of defect of jurisdiction or other cause of a like nature,
+then, the exclusion of limitation period as provided by Section 14(1) will be available to the plaintiff
+to institute any fresh suit on the same subject-matter.
+
+87. The respondent has contended that the expression “other cause of a like nature” used in Section
+14 of the Limitation Act should be given a wide interpretation as Section 14 is meant to advance the
+cause of the justice and not thwart it by procedural impediments. In view of liberal interpretation of
+Section 14, the respondent submitted that the case at hand is one fit for the grant of relief under
+Section 14 of the Limitation Act.
+
+88. This Court in M.P. Housing Board v. Mohanlal & Co. reported in (2016) 14 SCC 199 observed
+thus on the liberal interpretation of Section 14 of the Limitation Act:
+
+“16. From the aforesaid passage, it is clear as noonday that there has to be a liberal
+interpretation to advance the cause of justice. However, it has also been laid down
+that it would be applicable in cases of mistaken remedy or selection of a wrong
+forum. As per the conditions enumerated, the earlier proceeding and the latter
+proceeding must relate to the same matter in issue. It is worthy to mention here that
+the words “matter in issue” are used under Section 11 of the Code of Civil Procedure,
+1908. As has been held in Ramadhar Shrivas v. Bhagwandas [(2005) 13 SCC 1], the
+said expression connotes the matter which is directly and substantially in issue. We
+have only referred to the said authority to highlight that despite liberal interpretation
+placed under Section 14 of the Act, the matter in issue in the earlier proceeding and
+the latter proceeding has to be conferred requisite importance. That apart, the
+prosecution of the prior proceeding should also show due diligence and good faith.
+
+(Emphasis supplied)
+
+89. Undoubtedly, this Court over a period of time has taken a consistent view that the
+expression “other cause of a like nature” appearing in Section 14 should be given a
+wide interpretation. However, while considering the applicability of Section 14 of the
+Limitation Act, one must not lose sight of the fact that the applicability of the
+provision is contingent upon not just the reason for the failure of the earlier
+proceedings, but is also dependent on several other factors as explained in the
+preceding paragraphs. It is only when all the ingredients required for the applicability
+of Section 14 are fulfilled that the benefit would become available. In this context the
+appellant has submitted that as the proceedings undertaken by the respondent before
+the IBC and the proceedings for the appointment of arbitrator before the High Court
+are not for the “same relief”, hence the benefit of Section 14 of the Limitation Act will
+not be available to the respondent. To address this contention of the appellant, it is
+important to understand the purpose of IBC proceedings vis-à-vis proceedings under
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+31
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+Section 11(6) of the Act, 1996.
+
+a. Application under Section 11(6) of the Act, 1996 is not for the same relief as an application under
+Section 9 of the IBC
+
+90. In the introduction to the Treatise on the Insolvency and Bankruptcy Code, 2016 by Dr. Dilip K.
+Sheth, the author has opined that IBC was enacted on the basis of recommendations of various
+committees and suggestions received from various stakeholders to address the infirmities of the
+erstwhile insolvency regime and fulfil the following objectives:
+
+i. To balance the interest of stakeholders and creditors by reviewing and restructuring
+insolvent businesses having potential for a turn-around.
+
+ii. To provide robust mechanism for earlier resolution of insolvency in time-bound
+manner.
+
+91. A reading of the Preamble to the IBC reveals the following avowed objects behind its enactment:
+
+i. To consolidate and amend the laws relating to reorganisation and insolvency
+resolution of corporate persons, partnership firms and individuals in a timebound
+manner for maximization of value of assets of such persons;
+
+ii. To promote entrepreneurship and availability of credit;
+
+iii. To balance the interests of all the stakeholders including alteration in the order of
+priority of payment of Government dues; and iv. To establish the Insolvency and
+Bankruptcy Board of India.
+
+92. One of the cardinal objectives of the IBC is to protect and preserve the life of the corporate
+debtor “as a going concern” by providing for the resolution of its insolvency through restructuring
+and keeping liquidation only as a measure of last resort.
+
+93. One of the essential ingredients of an application filed under Section 9 of the IBC is that there is
+an existence of a default. The term ‘default’ is defined under Section 3(12) of the IBC to mean
+non-payment of debt when whole or any part or instalment of the amount of debt has become due
+and payable and is not paid by the debtor.
+
+94. ‘Debt’ is defined under Section 3(11) of the IBC to mean a liability or obligation in respect of a
+claim which is due from any person and includes a financial debt and operational debt.
+
+95. On the other hand, arbitration is a consent-based private dispute resolution method for the
+expeditious adjudication of disputes. Arbitration is initiated when one or both parties are not able to
+resolve their disputes amicably and seek to have the matter resolved by an independent arbitrator.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+32
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+96. The High Court in the impugned order thought fit to exclude the time- period spent by the
+respondent before the NCLT, Kolkata under the IBC since it was of the view that the respondent was
+availing remedy for recovery of dues before a wrong forum and was thus squarely covered by Section
+14(2) of the Limitation Act. The High Court took the view that since the proceedings for initiating
+corporate insolvency resolution process (“CIRP”) under IBC as well as the proceeding sought to be
+initiated by way of arbitration were ultimately for the recovery of debts, both proceedings could be
+said to be for the same relief, and thus entitled the respondent for the benefit under Section 14(2) of
+the Limitation Act. The relevant observations read as under: -
+
+“10. [...] Worth it to note that initially when he approached the NCLT, Kolkata, under
+Section 8 and 9 of the IBC for institution of CIRP process against the Respondent, his
+claim was entertained and it is only the Respondents, who approached the Appellate
+Tribunal, the order passed by the NCLT in favour of the Applicant came to be
+reversed. Therefore, it cannot be said that the Petitioner was sitting idle and not
+taking any steps for recovery of his dues, but it is a case where he was availing remedy
+for recovery of his dues before a wrong forum and he is entitled to take benefit of
+Section 14 of the Limitation Act, 1963.”
+
+97. We are of the view that the High Court fell in error in holding that an application under Section 9
+of the IBC and an application under Section 11(6) of the Act, 1996 are filed for seeking the same
+relief. While the relief sought in the former is the initiation of the CIRP of the corporate debtor, the
+relief sought in the latter is the appointment of an arbitrator for the adjudication of disputes arising
+out of a contract.
+
+98. The object of initiation of insolvency proceedings under the IBC is to seek rehabilitation of the
+corporate debtor by appointment of a new management, whereas the objective behind the
+appointment of an arbitrator is to resolve the disputes arising between the parties out of a private
+contract. As soon as the CIRP of a corporate debtor is initiated, it becomes a proceeding in rem. On
+the contrary, arbitration being concerned with private disputes is not an in-rem proceeding.
+
+99. In Swiss Ribbons Pvt. Ltd. & Anr. v. Union of India & Ors. reported in (2019) 4 SCC 17 this
+Court, speaking through R.F Nariman J., held that IBC was not a mere recovery legislation for the
+creditors but rather a beneficial legislation intended to revive and rehabilitate the corporate debtor.
+The relevant observations read as under:
+
+“28. It can thus be seen that the primary focus of the legislation is to ensure revival
+and continuation of the corporate debtor by protecting the corporate debtor from its
+own management and from a corporate death by liquidation. The Code is thus a
+beneficial legislation which puts the corporate debtor back on its feet, not being a
+mere recovery legislation for creditors. The interests of the corporate debtor have,
+therefore, been bifurcated and separated from that of its promoters/those who are in
+management. Thus, the resolution process is not adversarial to the corporate debtor
+but, in fact, protective of its interests. The moratorium imposed by Section 14 is in
+the interest of the corporate debtor itself, thereby preserving the assets of the
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+33
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+corporate debtor during the resolution process. The timelines within which the
+resolution process is to take place again protects the corporate debtor's assets from
+further dilution, and also protects all its creditors and workers by seeing that the
+resolution process goes through as fast as possible so that another management can,
+through its entrepreneurial skills, resuscitate the corporate debtor to achieve all these
+ends.” (Emphasis supplied)
+
+100. Similarly, in Pioneer Urban Land & Infrastructure Ltd. & Anr. v. Union of India & Ors. reported
+in (2019) 8 SCC 416, this Court reiterated that IBC is not a debt recovery mechanism. It observed
+that when CIRP is initiated the aspect of recovery of debt is completely outside the control of the
+creditor and there is no guarantee of recovery or refund of the entire amount in default. A creditor
+initiates insolvency under the Code not for the relief of recovery of debt but rather for rehabilitating
+the corporate debtor and for a new management to take over. The relevant observations read as
+under:
+
+“It is also important to remember that the Code is not meant to be a debt recovery
+mechanism (see para 28 of Swiss Ribbons). It is a proceeding in rem which, after
+being triggered, goes completely outside the control of the allottee who triggers it.
+Thus, any allottee/home buyer who prefers an application under Section 7 of the
+Code takes the risk of his flat/apartment not being completed in the near future, in
+the event of there being a breach on the part of the developer. Under the Code, he
+may never get a refund of the entire principal, let alone interest. […]” (Emphasis
+supplied)
+
+101. In yet another decision of this Court in Hindustan Construction Company Ltd. & Anr. v. Union
+of India reported in (2020) 17 SCC 324 it was held that IBC is not meant to be a recovery
+mechanism as it is an economic legislation meant for the resolution of stressed assets. The relevant
+observations read as under: -
+
+“79. Dr Singhvi then argued that under Section 5(9) of the Insolvency Code,
+“financial position” is defined, which is only taken into account after a resolution
+professional is appointed, and is not taken into account when adjudicating “default”
+under Section 3(12) of the Insolvency Code. This does not in any manner lead to the
+position that such provision is manifestly arbitrary. As has been held by our
+judgment in Pioneer Urban Land & Infrastructure Ltd. v. Union of India, IBC is not
+meant to be a recovery mechanism (see para 41 thereof)—the idea of the Insolvency
+Code being a mechanism which is triggered in order that resolution of stressed assets
+then takes place. For this purpose, the definitions of “dispute” under Section 5(6),
+“claim” under Section 3(6), “debt” under Section 3(11), and “default” under Section
+3(12), have all to be read together. Also, IBC, belonging to the realm of economic
+legislation, raises a higher threshold of challenge, leaving Parliament a free play in
+the joints, as has been held in Swiss Ribbons (P) Ltd. v. Union of India [...]”
+(Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+34
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+102. Similarly, in Jaypee Kensington Boulevard Apartments Welfare Assn. v. NBCC (India) Ltd.,
+reported in (2022) 1 SCC 401 this Court held that the focus of IBC was more on ensuring the revival
+and continuation of the corporate debtor rather than mere recovery of the debt owed by the
+corporate debtor to its creditors. The relevant observations read as under: -
+
+“88.2. In the judgment delivered on 25-1-2019 in Swiss Ribbons (P) Ltd. v. Union of
+India82 (hereinafter also referred to as the case of “Swiss Ribbons”), this Court
+traversed through the historical background and scheme of the Code in the wake of
+challenge to the constitutional validity of various provisions therein. One part of such
+challenge had been founded on the ground that the classification between “financial
+creditor” and “operational creditor” was discriminatory and violative of Article 14 of
+the Constitution of India. This ground as also several other grounds pertaining to
+various provisions of the Code were rejected by this Court after elaborate dilation on
+the vast variety of rival contentions. In the course, this Court took note, inter alia, of
+the pre-existing state of law as also the objects and reasons for enactment of the
+Code. While observing that focus of the Code was to ensure revival and continuation
+of the corporate debtor, where liquidation would be the last resort, this Court pointed
+out that on its scheme and framework, the Code was a beneficial legislation to put the
+corporate debtor on its feet, and not a mere recovery legislation for the creditors.”
+(Emphasis supplied)
+
+103. What can be discerned from aforesaid decisions is that insolvency proceedings are
+fundamentally different from proceedings for recovery of debt such as a suit for recovery of money,
+execution of decree or claims for amount due under arbitration, etc. The first distinguishing feature
+that sets apart ordinary recovery proceedings from insolvency proceedings is that under the former
+the primary relief is the recovery of dues whereas under the latter the primary concern is the revival
+and rehabilitation of the corporate debtor. No doubt both proceedings contemplate an aspect of
+recovery of debt, however in insolvency proceedings, the recovery is only a consequence of the
+rehabilitation/resolution of the corporate debtor and not the main relief.
+
+104. The second distinguishing feature is that although both proceedings entail recovery of debt to a
+certain extent, however they are different inasmuch as when it comes to recovery proceedings it is
+the individual creditor’s debt which is sought to be recovered, whereas in insolvency proceedings it
+is the entire debt of the company which is sought to be resolved. The former is only for the benefit of
+the individual creditor who initiates the recovery proceedings whereas the latter is for the benefit of
+all creditors irrespective of who initiates insolvency.
+
+105. The last distinguishing feature is that, a recovery proceeding be it a suit or arbitration is
+initiated by a creditor where an amount is due and is unpaid by a debtor, in other words the
+intention behind initiating a recovery proceeding is simpliciter for the full recovery of amount which
+is unpaid to it. However, in an insolvency proceeding there is no guarantee of recovery of the entire
+debt. A creditor opts for insolvency where an amount of such threshold is unpaid, that the creditor
+has an apprehension that the debtor in its current state and under the existing management in all
+likelihood will be unable to repay that debt in the future i.e., there is no likely prospect of any
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+35
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+recovery, and thus it would be beneficial to take the risk of initiating insolvency which even though
+does not guarantee full recovery, in order for a new management to take over the corporate debtor
+and to recover at least some amount of debt before it is too late. Thus, the underlying intention
+behind initiating insolvency is not with the intention of recovering the amount owed to it, but rather
+with the intention that the corporate debtor is resolved / rehabilitated through a new management
+as soon as possible before it becomes unviable with no prospect of any meaningful recovery of its
+dues in the near future.
+
+106. Thus, by no stretch of imagination can insolvency proceedings be construed as being for the
+same relief as any ordinary recovery proceedings, and therefore no case is made out for exclusion of
+time under Section 14(2) of the Limitation Act, 1963.
+
+107. As the relief sought in an application under Section 11(6) of the Act, 1996 is not the same as the
+relief sought in an application under Section 9 of the IBC, the benefit of Section 14(2) cannot be
+given to the respondent in the present case.
+
+108. In Yeshwant Deorao Deshmukh v. Walchand Ramchand Kothari reported in (1950) 1 SCR 852
+this Court held that the relief sought under insolvency is completely different from the relief sought
+under an execution application for a decree for recovery of money. In the former, the estate of the
+insolvent is apportioned or realised for the benefit of all creditors whereas in the latter the money
+due is sought to be realised only for the benefit of the decree-holder alone. Although both
+proceedings envisage an aspect of recovery of debt, yet in insolvency, the recovery is a mere
+consequence and not the ultimate relief. Thus, insolvency proceedings are not one for recovery of
+debt and cannot be equated with execution proceedings as both proceedings are different in nature
+and for different reliefs and as such no benefit can be given under Section 14(2) of the Limitation
+Act which stipulates the requirement of “same relief”. The relevant observations read as under: -
+
+“5. [...] There could be no exclusion for the time occupied by the insolvency
+proceedings which clearly was not for the purpose of obtaining the same relief. The
+relief sought in insolvency is obviously different from the relief sought in the
+execution of application. In the former, an adjudication of the debtors as insolvency
+is sought as preliminary to the vesting of all his estate and the administration of it by
+the Official Receive or the Official Assignee, as the case may be, for the benefit of all
+the creditors; but in the latter the money due is sought to be realised for the benefit of
+the decree-holder alone, by processes like attachment of property and arrest of
+person. It may that ultimately in the insolvency proceedings the decree-holder may
+be able to realise his debt wholly or in part, but this is a mere consequence or result.
+Not only is the relief of a different nature in the two proceedings but the procedure is
+also widely divergent.” (Emphasis supplied)
+
+109. This Court in Commissioner, Madhya Pradesh Housing Board & Ors. v. Mohanlal and
+Company reported in (2016) 14 SCC 199 considered whether benefit of Section 14 of the Limitation
+Act would be available when a party instead of challenging an arbitral award under Section 34, filed
+a Section 11 application for appointment of arbitrator. This Court while setting aside the
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+36
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+appointment, observed that the proceedings for appointment of an arbitrator are entirely different
+from the proceedings for challenging an award. Therefore, even after adopting a liberal
+interpretation, it would not be appropriate to grant benefit of exclusion of time-period under Section
+14.
+
+110. Even otherwise, the respondent couldn’t be said to have had been prosecuting the IBC
+proceedings in good faith and in a bonafide manner. It was observed by this Court in Consolidated
+Engg. Enterprises (supra) and M.P. Housing Board (supra) that an element of mistake is inherent in
+the relief envisaged under Section 14 of the Limitation Act. However, in the present case, the
+respondent had initially approached the High Court with an application under Section 11(6).
+However, for reasons best known to it, the respondent abandoned the said proceedings for
+appointment of arbitrator and approached the NCLT, Kolkata with an application under Section 9 of
+the IBC. The respondent was fully aware of the objection of a pre-existing dispute raised by the
+appellant in response to its second statutory demand notice issued under Section 8 of the IBC.
+Despite having preferred an application under 11(6) of the Act, 1996 before the jurisdictional court,
+and also being fully aware of the infirmities in the Section 9 application filed under the IBC, the
+respondent took a conscious decision to abandon the right course of proceedings. The conduct of the
+respondent cannot be termed to be a mistake in any manner. Having taken a conscious decision to
+opt for specific remedy under the IBC which is not for the same relief as an application under
+Section 11(6) of the Act, 1996, the respondent cannot be now allowed to take the plea of ignorance or
+mistake and must bear the consequences of its decisions.
+
+111. It was submitted on behalf of the respondent that in the event the benefit under Section 14(2) of
+the Limitation Act is not extended to it, then in such circumstance, this Court may consider to
+condone the delay in filing the second arbitration petition by exercising its discretion under Section
+5 of the Limitation Act. In response to the said submission, the appellant contended that the benefit
+of condonation of delay under Section 5 of the Limitation Act cannot be extended to a petition for
+the appointment of an arbitrator under Section 11(6) of the Act, 1996. The appellant also submitted
+that assuming without conceding that delay can be condoned in exercise of powers under Section 5
+of the Limitation Act, the facts do not warrant exercise of discretionary powers as no application for
+the condonation of delay has been filed by the respondent. It was further contended that the nature
+of relief sought for under Section 5 of the Limitation Act being discretionary in nature, the conduct
+of the respondent disentitles him to grant of such relief.
+
+112. The following three questions fall for our consideration on the basis of the aforesaid
+submissions – i. Whether the benefit of condonation of delay under Section 5 of the Limitation Act
+is available in respect of an application for appointment of arbitrator under Section 11(6) of the Act,
+1996?
+
+ii. Whether it is permissible for the courts to condone delay under Section 5 of the Limitation Act in
+the absence of any application seeking such condonation?
+
+iii. Whether the facts of the present case warrant the exercise of discretion in favour of the
+respondent to condone the delay in filing the second arbitration application?
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+37
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+113. Section 5 of the Limitation Act provides that any appeal or application other than an application
+under the provisions of Order 21 of the CPC may be admitted after the prescribed period of
+limitation if the appellant or the applicant satisfies the court that he had sufficient cause for not
+preferring the appeal or making the application within the prescribed period. The provision is
+extracted hereinbelow:
+
+“5. Extension of prescribed period in certain cases.—Any appeal or any application,
+other than an application under any of the provisions of Order XXI of the Code of
+Civil Procedure, 1908 (5 of 1908), may be admitted after the prescribed period if the
+appellant or the applicant satisfies the court that he had sufficient cause for not
+preferring the appeal or making the application within such period.
+
+Explanation.—The fact that the appellant or the applicant was misled by any order,
+practice or judgment of the High Court in ascertaining or computing the prescribed
+period may be sufficient cause within the meaning of this section.”
+
+114. The use of the expression “may be admitted” in the aforesaid provision indicates that the nature
+of relief that can be granted under Section 5 is discretionary and not mandatory in nature. The
+applicant or the appellant, even upon showing sufficient cause, cannot assert as a matter of right
+that the delay be condoned. Thus, unlike Section 14 of the Limitation Act, where the applicant can
+seek the exclusion of time period as a matter of right upon fulfilment of the mandatory conditions,
+Section 5 of the Limitation Act leaves the ultimate decision of extending the benefit of condonation
+of delay to the court before which the application for such condonation is made.
+
+115. In a recent pronouncement in Pathapati Subba Reddy (Died) by LRs and Others v. The Special
+Deputy Collector (LA) reported in (2024) 4 SCR 241 this Court observed thus:
+
+“12. In view of the above provision, the appeal which is preferred after the expiry of
+the limitation is liable to be dismissed. The use of the word ‘shall’ in the aforesaid
+provision connotes that the dismissal is mandatory subject to the exceptions. Section
+3 of the Act is peremptory and had to be given effect to even though no objection
+regarding limitation is taken by the other side or referred to in the pleadings. In other
+words, it casts an obligation upon the court to dismiss an appeal which is presented
+beyond limitation. This is the general law of limitation. The exceptions are carved out
+under Sections 4 to 24 (inclusive) of the Limitation Act but we are concerned only
+with the exception contained in Section 5 which empowers the courts to admit an
+appeal even if it is preferred after the prescribed period provided the proposed
+appellant gives ‘sufficient cause’ for not preferring the appeal within the period
+prescribed. In other words, the courts are conferred with discretionary powers to
+admit an appeal even after the expiry of the prescribed period provided the proposed
+appellant is able to establish ‘sufficient cause’ for not filing it within time. The said
+power to condone the delay or to admit the appeal preferred after the expiry of time
+is discretionary in nature and may not be exercised even if sufficient cause is shown
+based upon host of other factors such as negligence, failure to exercise due diligence
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+38
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+etc.” (Emphasis supplied)
+
+116. This Court in Ramlal v. Rewa Coalfields Ltd., 1961 SCC OnLine SC 39 observed as follows:
+
+“12. It is, however, necessary to emphasise that even after sufficient cause has been
+shown a party is not entitled to the condonation of delay in question as a matter of
+right. The proof of a sufficient cause is a condition precedent for the exercise of the
+discretionary jurisdiction vested in the court by Section 5. If sufficient cause is not
+proved nothing further has to be done; the application for condoning delay has to be
+dismissed on that ground alone. If sufficient cause is shown then the court has to
+enquire whether in its discretion it should condone the delay. This aspect of the
+matter naturally introduces the consideration of all relevant facts and it is at this
+stage that diligence of the party or its bona fides may fall for consideration; but the
+scope of the enquiry while exercising the discretionary power after sufficient cause is
+shown would naturally be limited only to such facts as the court may regard as
+relevant. It cannot justify an enquiry as to why the party was sitting idle during all the
+time available to it. In this connection we may point out that considerations of bona
+fides or due diligence are always material and relevant when the court is dealing with
+applications made under Section 14 of the Limitation Act. In dealing with such
+applications the court is called upon to consider the effect of the combined provisions
+of Sections 5 and 14. Therefore, in our opinion, considerations which have been
+expressly made material and relevant by the provisions of Section 14 cannot to the
+same extent and in the same manner be invoked in dealing with applications which
+fall to be decided only under Section 5 without reference to Section 14.” (Emphasis
+supplied)
+
+117. As discussed in the foregoing parts of this judgment, the period of limitation to file an
+application under Section 11(6) of the Act, 1996 is governed as provided in Article 137 of the
+Schedule to the Limitation Act, that is, three years. We have observed that the benefit available
+under Section 14 of the Limitation Act will also be available in respect of applications made under
+Section 11(6) of the Act, 1996. Thus, in the absence of any specific statutory exclusion, there is no
+good reason to hold that the benefit under Section 5 of the Limitation Act cannot be availed for the
+purpose of condonation of delay caused in filing a Section 11(6) application.
+
+118. In Deepdharshan Builders Pvt. Ltd. v. Saroj, Widow of Satish Sunderrao Trasikar reported in
+2018 SCC OnLine Bom 4885, the Bombay High Court held that Section 5 of the Limitation Act
+would apply to an application filed under Section 11(6) of the Act, 1996. The relevant observations
+from the said decision are extracted hereinbelow:
+
+“42. In my view, since the proceedings under Section 11(6) of the Arbitration Act are
+required to be filed before the High Court, Article 137 of the Schedule to the
+Limitation Act, 1963 would apply to such application filed under Section 11(6) of the
+Arbitration Act. In my view, since Article 137 of the Schedule to the Limitation Act,
+1963 would apply to the arbitration application under Section 11(6) of the Arbitration
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+39
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+Act, Section 5 of the Limitation Act, 1963 would also apply to the arbitration
+application filed under Section 11(6) of Arbitration Act.”
+
+119. Similarly, the Delhi High Court in Yogesh Kumar Gupta v. Anuradha Rangarajan reported in
+2007 SCC OnLine Del 287 had observed that in view of Section 43 of the Act, 1996, Section 5 of the
+Limitation Act would be applicable to applications filed under Section 11(6) of the Act, 1996.
+Relevant observations from the said decision are extracted hereinbelow:
+
+“30. There is yet another alternative route which leads to some conclusion. Section 21
+of the Act states that unless otherwise agreed by the parties (there is no agreement of
+the parties on this aspect), the arbitral proceedings in respect of a particular dispute
+commence on the date on which a request for that dispute to be referred to
+arbitration is received by the respondent. Consequently, when the petitioner issued
+the notice dated 10.4.2002 raising the dispute regarding rendition of accounts of the
+partnership business, the arbitral proceedings commenced as soon as the
+communication dated 10.4.2002 was received by the respondent. It is not the
+respondent's case that he did not receive the communication dated 10.4.2002 sent by
+the petitioner and since it was sent by registered post (as appears from the postal
+receipt filed on record along with the said communication), it can be safely presumed
+that the communication was received by the respondent within a matter of few days.
+Consequently, the arbitral proceedings stood commenced sometime in middle of
+April, 2002.
+
+The application under Section 11(5) of the Act is an application or a petition in relation to arbitral
+proceedings which have commenced with the issuance of a request for the reference of disputes to
+arbitration (Section 2(b) of the Limitation Act). Since Limitation Act, 1963 specifically applies to
+arbitrations, Section 5 of the Limitation Act would also apply to an application/petition under
+Section 11 (5) of the Limitation Act. Any application (other than under the provisions of Order 21 of
+CPC) may be admitted after the prescribed period, if the applicant satisfies the Court that he had
+sufficient cause for not preferring or making the application within such period. In my view,
+therefore, Section 5 of the Limitation Act would apply to, and be available to the petitioner filing an
+application/petition under Section 11 (5) of the Act.” (Emphasis supplied)
+
+120. The necessary pre-condition for availing the remedy under Section 5 of the Limitation Act is
+that the applicant must satisfy the court that there was a sufficient cause which prevented him from
+instituting the application within the prescribed time period. Although it is a general practice that a
+formal application under Section 5 of the Limitation Act has to be filed by the applicant, yet no such
+requirement can be gathered from a bare reading of the statute. Thus, even in the absence of a
+formal application, a court or tribunal may consider exercising its discretion under Section 5 of the
+Limitation Act subject to the applicant assigning sufficient cause for condoning the delay. A similar
+view was taken by this Court in Sesh Nath Singh v. Baidyabati Sheoraphuli Coop. Bank Ltd. reported
+in (2021) 7 SCC 313 wherein it was observed thus:
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+40
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+“63. Section 5 of the Limitation Act, 1963 does not speak of any application. The
+Section enables the Court to admit an application or appeal if the applicant or the
+appellant, as the case may be, satisfies the Court that he had sufficient cause for not
+making the application and/or preferring the appeal, within the time prescribed.
+Although, it is the general practice to make a formal application under Section 5 of
+the Limitation Act, 1963, in order to enable the Court or Tribunal to weigh the
+sufficiency of the cause for the inability of the appellant/applicant to approach the
+Court/Tribunal within the time prescribed by limitation, there is no bar to exercise by
+the Court/Tribunal of its discretion to condone delay, in the absence of a formal
+application.
+
+64. A plain reading of Section 5 of the Limitation Act makes it amply clear that, it is
+not mandatory to file an application in writing before relief can be granted under the
+said section. Had such an application been mandatory, Section 5 of the Limitation
+Act would have expressly provided so. Section 5 would then have read that the Court
+might condone delay beyond the time prescribed by limitation for filing an
+application or appeal, if on consideration of the application of the appellant or the
+applicant, as the case may be, for condonation of delay, the Court is satisfied that the
+appellant/applicant had sufficient cause for not preferring the appeal or making the
+application within such period.” (Emphasis supplied)
+
+121. The position of law that emerges from the aforesaid discussion is that the benefit under Section
+5 of the Limitation Act is available in respect of the applications filed for appointment of arbitrator
+under Section 11(6) of the Act, 1996. Further, the requirement of filing an application under Section
+5 of the Limitation Act is not a mandatory prerequisite for a court to exercise its discretion under the
+said provision and condone the delay in institution of an application or appeal. Thus, the only
+question that remains to be considered is whether in the facts of the present case, the respondent
+could be said to have made out a case for condonation of delay in instituting the fresh Section 11(6)
+application.
+
+122. As discussed, the respondent took a conscious decision to abandon its first Section 11(6)
+application with a view to pursue proceedings under Section 9 of the IBC. The respondent made
+such choice despite a specific objection raised by the appellant in its reply to the statutory demand
+notice that there were pre- existing disputes between the parties. In view of this, maximisation of the
+chances of getting the application under Section 9 of the IBC admitted by the NCLT seems to have
+been the only reason for the abandonment of the first Section 11(6) application by the respondent.
+In light of such conduct on the part of the respondent, we are of the view that the present case does
+not warrant the exercise of our discretion under Section 5 of the Limitation Act.
+
+123. The primary intent behind Section 5 of the Limitation Act is not to permit litigants to exploit
+procedural loopholes and continue with the legal proceedings in multiple forums. Rather, it aims to
+provide a safeguard for genuinely deserving applicants who might have missed a deadline due to
+unavoidable circumstances. This provision reflects the intent of the legislature to balance the
+principles of justice and fairness, ensuring that procedural delays do not hinder the pursuit of
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+41
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+substantive justice. Section 5 of the Limitation Act embodies the principle that genuine delay should
+not be a bar access to justice, thus allowing flexibility in the interest of equity, while simultaneously
+deterring abuse of this leniency to prolong litigation unnecessarily.
+
+124. The legislative intent of expeditious dispute resolution under the Act, 1996 must also be kept in
+mind by the courts while considering an application for condonation of delay in the filing of an
+application for appointment of arbitrator under Section 11(6). Thus, the court should exercise its
+discretion under Section 5 of the Limitation Act only in exceptional cases where a very strong case is
+made by the applicant for the condonation of delay in filing a Section 11(6) application.
+
+125. Before we part with the matter, we would like to address the submission of the respondent that
+this Court, while dismissing its appeal against the order of the NCLAT, had granted it liberty to avail
+such remedies, including arbitration, as may be available to it in law, to realise its dues from the
+appellant. The relevant paragraph is reproduced hereinbelow:
+
+“35. Needless to mention that the appellant may avail such other remedies as may be
+available in accordance with law including arbitration to realise its dues, if any.”
+
+126. The liberty granted by this Court to the respondent has been prefixed by the words “Needless to
+mention…”. Hence, it is amply clear that the observations were merely clarificatory and not intended
+to confer upon the respondent a special right or privilege to file a proceeding which is not otherwise
+permissible under law. The intention cannot be said to have been to help the respondent come out of
+its action of unconditionally withdrawing the first Arbitration Petition or to deprive the appellant of
+defences available to it under law. Such intention cannot be attributed to this Court, particularly in
+the absence of any discussion on this point.
+
+127. Further, the said paragraph only gives liberty to the respondent to avail such other remedies “as
+may be available” “in accordance with law”. Hence, it cannot be construed as giving the respondent
+the liberty to file a proceeding that is not available or that is not in accordance with law.
+
+128. The reliance placed by the petitioner upon the paragraph 35 referred to above is nothing but a
+completely incorrect reading of the said paragraph. In BSNL v. Telephone Cables Limited reported
+in 2010 5 SCC 213, this Court observed thus:
+
+“41. Instances abound where observations of the court reserving liberty to a litigant to
+further litigate have been misused by litigants to pursue remedies which were wholly
+barred by time or to revive stale claims or create rights or remedies where there were
+none. It is needless to say that courts should take care to ensure that reservation of
+liberty is made only where it is necessary, such reservation should always be subject
+to a remedy being available in law, and subject to remedy being sought in accordance
+with law.” (Emphasis supplied)
+
+129. The liberty to avail remedies available in law does not confer a right to avail such remedies.
+Seen from the perspective of Hohfeld's analysis of jural relations, liberties (or privileges) do not
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+42
+
+Hpcl Bio-Fuels Ltd vs Shahaji Bhanudas Bhad on 7 November, 2024
+
+entail corresponding duties on others. Thus, having the freedom to seek a remedy does not imply an
+enforceable claim to it. This distinction underscores the fine difference between what one is free to
+do and what one is entitled to demand.
+
+130. Hence, we are of the view that paragraph 35 as extracted above does not help the respondent as
+the fresh Section 11 petition could be said to be hit by the principles analogous to Order 23 Rule 1
+and is also barred by limitation for being beyond the prescribed period of 3 years.
+
+F. CONCLUSION
+
+131. In view of the aforesaid discussion, we have reached to the following conclusion:
+
+(i) In the absence of any liberty being granted at the time of withdrawal of the first
+application under Section 11(6) of the Act, 1996, the fresh application filed by the
+respondent under the same provision was not maintainable;
+
+(ii) The fresh application filed by the respondent under Section 11(6) of the Act, 1996
+was time-barred;
+
+(iii) The respondent is not entitled to the benefit of Section 14(2) of the Limitation
+Act; and
+
+(iv) The respondent is also not entitled to the benefit of condonation of delay under
+Section 5 of the Limitation Act.
+
+132. As a result, the appeal filed by the appellant is allowed and the impugned order passed by the
+High Court of Bombay is hereby set aside.
+
+133. Pending application(s), if any, shall stand disposed of.
+
+134. The parties shall bear their own costs.
+
+…...……..….………….……………CJI.
+
+(Dr. Dhananjaya Y. Chandrachud) …….…..….…….…..…………………J. (J.B. Pardiwala) New Delhi;
+
+7th November, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/194066233/
+
+43
+
+

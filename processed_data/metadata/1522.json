@@ -1,0 +1,26 @@
+{
+  "case_number": "Criminal Appeal No. 885 of 2019",
+  "parties": {
+    "petitioner": "Sukhpal Singh Khaira",
+    "respondent": "The State of Punjab"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-05",
+  "summary": "The appellant challenged the trial court's order under Section 319 of CrPC summoning him as an additional accused after judgment of conviction was pronounced in the main trial. The key issues were whether Section 319 CrPC can be invoked post-trial conclusion, whether it applies to bifurcated proceedings against absconding accused, and what guidelines govern its use. The Court examined whether summoning after judgment violates the requirement that Section 319 must be exercised during pendency of trial. Reliance was placed on Hardeep Singh and Shashikant Singh to assert that the power under Section 319 is only exercisable before judgment, as post-judgment the court becomes functus officio. The Amicus emphasized that fresh trial is mandated under Section 319(4) and recorded evidence is inadmissible against newly added accused under Section 273 CrPC. The State argued for broad interpretation to prevent escape of guilty. The Court considered the legislative intent and procedural constraints in determining jurisdictional limits of Section 319.",
+  "legal_provisions_cited": [
+    "Section 319, Criminal Procedure Code, 1973",
+    "Section 311, Criminal Procedure Code, 1973",
+    "Section 273, Criminal Procedure Code, 1973",
+    "Section 353(1), Criminal Procedure Code, 1973",
+    "Section 190, Criminal Procedure Code, 1973",
+    "Section 232, Criminal Procedure Code, 1973",
+    "Section 235, Criminal Procedure Code, 1973",
+    "Narcotic Drugs and Psychotropic Substances Act, 1985, Sections 21, 24, 25, 27, 28, 29, 30",
+    "Arms Act, Section 25-A",
+    "Information Technology Act, 2000, Section 66",
+    "Prevention of Money Laundering Act, 2002",
+    "Shashikant Singh vs. Tarkeshwar Singh (2002) 5 SCC 738",
+    "Hardeep Singh vs. State of Punjab (2014) 3 SCC 92"
+  ],
+  "final_judgment": "The Court held that the power under Section 319 CrPC must be exercised before the conclusion of trial and prior to pronouncement of judgment. Since the trial court summoned the appellant after convicting and sentencing the other accused on the same day, the invocation of Section 319 was invalid. The order summoning the appellant was set aside, and the appeal was allowed."
+}

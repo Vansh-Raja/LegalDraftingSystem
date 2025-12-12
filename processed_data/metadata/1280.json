@@ -1,0 +1,23 @@
+{
+  "case_number": "Criminal Appeal No.78 of 2022",
+  "parties": {
+    "petitioner": "Geeta Devi",
+    "respondent": "State of U.P. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-18",
+  "summary": "The appeal challenged the Allahabad High Court's one-paragraph order dismissing the victim's appeal against the acquittal of accused persons by the Special Court in charges under IPC Sections 354, 504, 506 and SC/ST (Prevention of Atrocities) Act, 1989. The Supreme Court held that the High Court failed to independently re-appreciate the evidence as required in first appeals against acquittal, relying only on general observations without detailed analysis. It emphasized that appellate courts must conduct a thorough re-evaluation of evidence and witness credibility, citing established precedents. The failure to do so rendered the High Court's order inadequate.",
+  "legal_provisions_cited": [
+    "Section 354 IPC",
+    "Section 504 IPC",
+    "Section 506 IPC",
+    "Section 3(1)(x) SC/ST Act",
+    "Section 3(1)(xi) SC/ST Act",
+    "Section 378 Cr.PC",
+    "Umedbhai Jadavbhai Vs. The State of Gujarat (1978) 1 SCC 228",
+    "Guru Dutt Pathak Vs. State of Uttar Pradesh, (2021) 6 SCC 116",
+    "Babu v. State of Kerala (2010) 9 SCC 189",
+    "Chandrappa v. State of Karnataka (2007) 4 SCC 415"
+  ],
+  "final_judgment": "The matter was remanded to the High Court for fresh disposal in accordance with law with proper re-appreciation of the entire evidence."
+}

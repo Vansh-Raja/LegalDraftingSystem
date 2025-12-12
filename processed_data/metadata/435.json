@@ -1,0 +1,21 @@
+{
+  "case_number": "CIVIL APPEAL NO. 8356 OF 2017",
+  "parties": {
+    "petitioner": "Baban Balaji More (Dead) by LRs. & others",
+    "respondent": "Babaji Hari Shelar (Dead) by LRs. & others"
+  },
+  "court_name": "IN THE SUPREME COURT OF INDIA",
+  "date_of_judgment": "2024-03-14",
+  "summary": "The appeal involved interpretation and harmonious construction of three statutes: the Maharashtra Hereditary Offices Act, 1874, the Maharashtra Tenancy and Agricultural Lands Act, 1948, and the Maharashtra Revenue Patels (Abolition of Offices) Act, 1962. The dispute centered on possession of Watan lands previously held by a hereditary Patel. The appellants, legal heirs of the Watandar, obtained possession in 1962 under the 1874 Act, but the Abolition Act of 1963 abolished all such offices and associated rights. Tenants challenged earlier orders under Section 79 of the 1874 Act via revision, ultimately succeeding before a revisional authority in 1982, which held that tenancy subsisted as of 1 January 1963 despite interim possession. The Bombay High Court in 2005 upheld that tenancy rights remained unaffected by interim orders, and the Supreme Court examined whether the Government’s 1963 order setting aside prior decisions was validly passed without hearing the appellants. Key issues included tenancy continuity post-Watan abolition, validity of ex parte government orders, and interplay between statutes protecting tenancy and those governing Watan rights.",
+  "legal_provisions_cited": [
+    "Maharashtra Hereditary Offices Act, 1874, Section 5",
+    "Maharashtra Hereditary Offices Act, 1874, Section 11",
+    "Maharashtra Hereditary Offices Act, 1874, Section 77",
+    "Maharashtra Hereditary Offices Act, 1874, Section 79",
+    "Maharashtra Tenancy and Agricultural Lands Act, 1948",
+    "Maharashtra Revenue Patels (Abolition of Offices) Act, 1962, Section 3",
+    "Maharashtra Revenue Patels (Abolition of Offices) Act, 1962, Section 5",
+    "Constitution of India, Article 227"
+  ],
+  "final_judgment": "The appeal was allowed, setting aside the order dated 03.05.1982 passed by the revisional authority and restoring the earlier rights of the appellants, with the Court holding that the Government's 1963 order was void for non-compliance with principles of natural justice, and that tenancy could not be presumed to continue without a valid legal basis post-abolition of Watan."
+}

@@ -1,0 +1,16 @@
+{
+  "case_number": "SPECIAL LEAVE PETITION (CIVIL) NO. 10499 OF 2022",
+  "parties": {
+    "petitioner": "Ex-Const/Dvr Mukesh Kumar Raigar",
+    "respondent": "Union Of India & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-16",
+  "summary": "The petitioner, a former constable in CISF, challenged his removal from service due to suppression of a pending criminal case at the time of appointment. The High Court had initially reinstated him, but the Division Bench reversed this decision. The Supreme Court considered whether suppression of a criminal case—later compromised—constituted gross misconduct warranting removal. It examined the nature of the offence, the petitioner's age, and reliance on Avtar Singh v. Union of India, which laid down guidelines for handling false or suppressed information in character verification. The Court noted that while suppression is serious, circumstances like trivial nature of the offence and compromise may warrant leniency.",
+  "legal_provisions_cited": [
+    "Rule 36 of CISF Rules 2001",
+    "Rule 54 of CISF Rules 2001",
+    "Avtar Singh Vs. Union of India & Ors (2016) 8 SCC 471"
+  ],
+  "final_judgment": "The petition was disposed of, with liberty to the petitioner to file a representation before the appointing authority in accordance with the principles laid down in Avtar Singh, for fresh consideration of his reinstatement, subject to compliance with applicable rules and guidelines."
+}

@@ -1,0 +1,22 @@
+{
+  "case_number": "Civil Appeal No. 8249 of 2013 and Civil Appeal No. 1762 of 2014",
+  "parties": {
+    "petitioner": "Securities and Exchange Board of India",
+    "respondent": "Shri Sunil Krishna Khaitan and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-11",
+  "summary": "The primary issues involved interpretation of Regulation 10 and 11(1) of SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997; powers of SEBI under Regulations 44 and 45; and jurisdiction of the Securities Appellate Tribunal under Section 15T of SEBI Act, 1992. In Sunil Khaitan's case, SEBI alleged that acquisition of shares by KLL and the promoter group triggered mandatory public announcement obligations, which were violated. The Tribunal partially upheld the appeal, setting aside the public announcement direction due to inordinate delay but imposed a penalty. In Madhuri S. Pitti's case, the Tribunal rejected SEBI’s direction to revise the offer price for past acquisitions, terming the communication as advisory. The Supreme Court examined the scope of Regulation 10 and 11, and the nature of SEBI’s powers, particularly in delayed enforcement scenarios.",
+  "legal_provisions_cited": [
+    "Regulation 10, SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997",
+    "Regulation 11(1), SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997",
+    "Regulation 14(1), SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997",
+    "Regulations 44 and 45, SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997",
+    "Regulations 33 and 35, SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011",
+    "Section 11, Securities and Exchange Board of India Act, 1992",
+    "Section 11B, Securities and Exchange Board of India Act, 1992",
+    "Section 15T, Securities and Exchange Board of India Act, 1992",
+    "Section 4(1)(d), Securities and Exchange Board of India Act, 1992"
+  ],
+  "final_judgment": "The appeals were decided by the Supreme Court, with a common judgment addressing both cases. The Court examined the legal obligations under the Takeover Regulations 1997 and the consequences of delayed enforcement by SEBI. The final disposition reaffirmed the importance of timely regulatory action and clarified the scope of mandatory public announcements under Regulations 10 and 11(1)."
+}

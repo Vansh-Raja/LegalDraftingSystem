@@ -1,0 +1,2274 @@
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta
+on 11 January, 2024
+
+Author: B.R. Gavai
+
+Bench: Aravind Kumar, B.R. Gavai
+
+2024 INSC 30                                                                       REPORTABLE
+
+                                         IN THE SUPREME COURT OF INDIA
+                                          CIVIL APPELLATE JURISDICTION
+                                     CIVIL APPEAL NOS. 5348-5349 OF 2019
+
+                            THE STATE OF HIMACHAL PRADESH
+                            AND OTHERS                                         …APPELLANT(S)
+                                                         VERSUS
+                            YOGENDERA MOHAN SENGUPTA
+                            AND ANOTHER                                       …RESPONDENT(S)
+                                                           WITH
+                                     TRANSFERRED CASE (C) NO. 2 OF 2023
+                                                          INDEX
+                              I     INTRODUCTION                                    Paras 1 to 2
+                              II.   FACTS                                           Paras 3 to 4.1
+                             III.   SUBMISSIONS                                     Paras 5 to 29
+                             IV.    CONSIDERATION                                   Paras 30 to 122
+                                    A.   Legislative Scheme of the TCP Act.         Paras 30 to 44
+
+                                    B.   Nature of functions/powers of the          Paras 45 to 61
+                                         Authorities under Chapter-IV of the TCP
+                                         Act.
+                                    C.   Whether the NGT could have issued          Paras 62 to 70
+                                         directions to the legislative body to
+                                         exercise its legislative functions in a
+                                         particular manner?
+                                    D.   Whether observations in Para 47 of the     Paras 71 to 78
+                                         Mantri Techzone Private Limited (supra)
+                                         would operate as res judicata?
+                                    E.   Development Plan 2041.                     Paras 79 to 90
+
+                                    F.   Whether the NGT was justified in           Paras 91 to 112
+                                         passing the order dated 14th October
+                                         2022 when the High Court was seized of
+   Signature Not Verified                the same issue during the pendency of
+   Digitally signed by
+   Narendra Prasad                       Civil Writ Petition No.5960 of 2022?
+   Date: 2024.01.11
+   13:38:29 IST
+   Reason:
+                                    G.   Balancing the need for Development         Paras 113 to 122
+                                         and Protection of the Environment.
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+1
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+                              V.    CONCLUSION                                      Paras 123 to 128
+
+                                                              1
+(cid:12)                         List of Abbreviations
+
+     1.     NGT                -   National Green Tribunal, Principal
+                                   Bench, New Delhi
+     2.     First order of     -   Order of NGT dated 16th November
+            NGT                    2017
+     3.     Second order of    -   Order of NGT dated 14th October
+            NGT                    2022
+     4.     SPA                -   Shimla Planning Area
+     5.     CWP                -   Civil Writ Petition
+     6.     TCP Act            -   Himachal Pradesh Town & Country
+                                   Planning Act, 1977
+     7.     1978 Rules         -   Himachal Pradesh Town & Country
+                                   Planning Rules, 1978
+     8.     OA                 -   Original Application
+     9.     FC Act             -   Forest (Conservation) Act, 1980
+     10.    NDMA               -   National    Disaster    Management
+                                   Authority
+     11.    HPMC Act           -   Himachal       Pradesh    Municipal
+                                   Corporation Act, 1994
+     12.    BPMC Act           -   Bombay       Provincial   Municipal
+                                   Corporation Act, 1949
+     13.    MRTP Act           -   Maharashtra Regional and Town
+                                   Planning Act, 1966
+     14.    AT Act             -   Administrative Tribunals Act, 1985
+
+                              JUDGMENT
+
+B.R. GAVAI, J.
+
+I. INTRODUCTION Civil Appeal Nos. 5348-5349 OF 2019
+
+1. These appeals challenge the judgment and order dated 16th November 2017 (hereinafter referred
+to as the “first order of NGT”) passed by the National Green Tribunal, Principal Bench, New Delhi
+(hereinafter referred to as the “NGT”) in Original Application (OA) No. 121 of 2014, whereby various
+directions were issued by the NGT, and the order dated 16th July 2018 passed by the NGT in Review
+Application No. 8 of 2018, whereby the review sought of the first order of NGT by the present
+appellants was dismissed.
+
+Transferred Case (C) No. 2 of 2023
+
+2. The draft development plan for 22,450 hectares of Shimla Planning Area (hereinafter referred to
+as “SPA”) which was finalized vide a notification dated 16th April 2022, came to be stayed by the
+NGT, vide an interim order dated 12th May 2022. By the said order, it restrained the appellants
+herein from taking any further steps in pursuance of the draft development plan of the SPA. The
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+2
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+State of Himachal Pradesh and its instrumentalities-appellants herein preferred Civil Writ Petition
+(CWP) No. 5960 of 2022 titled State of Himachal Pradesh and another v. Yogendra Mohan
+Sengupta and Others before the High Court of Himachal Pradesh challenging the said interim order.
+Despite the pendency of the said writ petition, the NGT, vide its final order dated 14th October 2022
+(hereinafter referred to as the “second order of NGT”) in OA No. 297 of 2022, held that the draft
+development plan, being in conflict with the first order of NGT, was illegal and cannot be given
+effect to. Thereafter by an amendment in the said CWP No. 5960 of 2022, the second order of NGT
+also came to be challenged before the High Court of Himachal Pradesh. On 14th November 2022,
+this Court passed an order in Civil Appeal Nos. 5348-5349 of 2019 transferring the said CWP No.
+5960 of 2022 from the High Court of Himachal Pradesh to itself, which came to be re-numbered as
+Transferred Case (C) No. 2 of 2023.
+
+II. FACTS Facts giving rise to filing of Civil Appeal Nos.5348-5349 of 2019:
+
+3. Facts, in brief, giving rise to the filing of Civil Appeal Nos.
+
+5348-5349 of 2019, are as follows:
+
+3.1 The Himachal Pradesh Town & Country Planning Act, 1977 (hereinafter referred
+to as “TCP Act”) was enacted by the State of Himachal Pradesh in the year 1977. Vide
+Government Notification dated 30th November 1977, the SPA came to be constituted.
+The State of Himachal Pradesh, in exercise of powers conferred upon it by Section 87
+of the TCP Act, enacted the Himachal Pradesh Town & Country Planning Rules, 1978
+(hereinafter referred to as “1978 Rules”). The existing land-
+
+use for SPA was notified by a notice dated 29th December 1977 and was adopted by another notice
+dated 14th March 1978. 3.2 The interim development plan for SPA was approved by a notification
+dated 24th March 1979 for the period 1979-2001. Vide notification dated 11th August 2000 issued
+by the Department of Town & Country Planning (Government of Himachal Pradesh), further
+amendments were carried out to the interim development plan for the SPA notified by the aforesaid
+notification dated 24th March 1979. 3.3 By another notification dated 7th December 2000 issued by
+the Department of Town & Country Planning (Government of Himachal Pradesh), in pursuance of
+the notification dated 11th August 2000, a survey of “Green Belt” within existing Core & restricted
+areas of the SPA was carried out and areas were declared as “Green Belt”.
+
+3.4 A writ petition being CWP No. 4595 of 2011 titled Rajeev Varma and Others v. State of Himachal
+Pradesh and Others came to be filed in the year 2011 before the High Court of Himachal Pradesh. A
+direction was sought in the said writ petition to the State of Himachal Pradesh to prepare a
+development plan for the SPA in accordance with the TCP Act within a time-bound schedule.
+
+3.5 Respondent No.1 herein Yogendera Mohan Sengupta filed an OA (No. 121 of 2014) before the
+NGT, wherein he made the following prayers:
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+3
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+(i) “Direct the State Government and the Respondent Nos. 3 and 4 to recognize the
+areas mentioned in notification dated 7.12.2000 as forest and any non-
+
+forest activity should not be allowed without prior permission under Section 2 of the Forest.
+
+(ii) Direct the State Government not to change the land use in any forests/green belt area as stated
+in clause d of notification dated 11.8.2000 to protect the ecology, environment and future of Shimla.
+
+(iii) Pass any other orders as the Hon’ble Tribunal may deem fit and proper in facts and
+circumstances of the case.” 3.6 The appellant-State of Himachal Pradesh (respondent in the said
+OA) filed a reply dated 23rd July 2014 before the NGT, wherein it specifically contended that the use
+of the words “Green Belt” does not include or bring the areas under forests and the “Green Belt”
+includes both forest and non-forest areas and that no permission for construction or any
+non-forestry activity would be allowed on forest land without approval under the Forest
+(Conservation) Act, 1980 (hereinafter referred to as the “FC Act”).
+
+3.7 Despite the assurance given by the State Government, the NGT, suo motu, extended the scope of
+the application and vide an ad-interim order dated 30th May 2014 banned all types of construction
+activities in the Green Belt areas of Shimla covered under the notification dated 7th December
+2000. 3.8 Thereafter, vide order dated 12th October 2015 in the said OA No. 121 of 2014, the NGT
+constituted a Committee comprising of officers from the National Disaster Management Authority
+(NDMA), a senior scientist from Wadia Institute of Himalayan Geology, Dehradun as nominated by
+the Director and other officials of the State and Central Governments for submitting its report on
+various aspects including water supply and the strength of carrying capacity of the hills. 3.9
+Pursuant to the said order dated 12th October 2015 passed by the NGT, the Additional Chief
+Secretary, Department of Town & Country Planning (Government of Himachal Pradesh) issued a
+notification dated 6th November 2015 for the constitution of an Expert Committee. The Expert
+Committee submitted a report to the NGT on 29th August 2016. Along with an affidavit filed by the
+State of Himachal Pradesh, the final report of the Expert Committee came to be submitted to the
+NGT on 20th May 2017.
+
+3.10 Thereafter the first order of NGT came to be passed, whereby it issued various directions to the
+appellants herein and further banned all kinds of construction activities in core/forest/green areas
+in Shimla and further restricted the construction and re-construction activities in the entire SPA.
+3.11 Some of the directions issued vide first order of NGT, inter alia, prohibited new construction of
+any kind, i.e. residential, institutional and commercial, in any part of the core and green/forest area
+and also directed that even in the other areas which fall within the SPA, construction would not be
+permitted beyond 2 storeys + attic floor. It further directed that, in case of unsafe and unfit
+residential structures in the core and green/forest areas, re-construction would only be allowed for
+residential purposes and that too, not beyond 2 storeys and an attic floor.
+
+3.12 In direction No. VIII in the first order of NGT, it directed the State to finalise the development
+plan within three months from the date of the pronouncement of its first order. It also directed the
+said development plan to be notified in accordance with law and directed to take into consideration
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+4
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+the directions and precautions as suggested in the first order of NGT while finalizing the
+development plan.
+
+3.13 The NGT also constituted an Implementation Committee and a Supervisory Committee
+entrusted with the responsibility for carrying out the specific directions given under the first order of
+NGT and to provide NOCs or necessary permissions to the stakeholders, whether State or private
+parties. 3.14 The appellants thereafter filed a Review Application No. 8 of 2018 seeking review of the
+first order of NGT. However, the same was dismissed vide order dated 16th July 2018. Being
+aggrieved thereby, Civil Appeal Nos.5348-5349 of 2019 have been filed before this Court.
+
+Facts giving rise to filing of Transferred Case (C) No.2 of 2023:
+
+4. In pursuance of the directions issued vide first order of NGT and in exercise of the powers
+conferred upon it under the TCP Act and the 1978 Rules framed thereunder, the State of Himachal
+Pradesh published a draft development plan on 8th February 2022. It is to be noted that various
+directions were also issued by the High Court of Himachal Pradesh from time to time in CWP No.
+4595 of 2011 for finalization of the development plan in accordance with the TCP Act. The State of
+Himachal Pradesh also invited objections and suggestions from the general public in relation to the
+draft development plan. In all, 97 objections/suggestions were received by the State of Himachal
+Pradesh within stipulated time-period and the same were heard by the Director in due course. CWP
+Nos. 23 and 37 of 2022 were also filed before the High Court of Himachal Pradesh praying inter alia
+for stay of the draft development plan.
+
+4.1 In the meantime, respondent No.1 herein-Yogendera Mohan Sengupta filed another OA (No. 297
+of 2022) before the NGT in relation to the draft development plan. The NGT, vide interim order
+dated 12th May 2022, stayed the draft development plan and restrained the State of Himachal
+Pradesh from taking any further steps in pursuance of the draft development plan. Being aggrieved
+thereby, the State of Himachal Pradesh filed CWP No. 5960 of 2022 under Article 226/227 of the
+Constitution of India before the High Court of Himachal Pradesh. Despite the pendency of the said
+CWP No. 5960 of 2022, the NGT, vide its second order, held that the draft development plan, being
+in conflict with the first order of NGT, is illegal and cannot be given effect to. The appellants herein
+filed an application in CWP No. 5960 of 2022, before the High Court of Himachal Pradesh, praying
+for amending the writ petition so as to challenge the second order of NGT. Since common issues
+were being considered by this Court in Civil Appeal Nos.5348-5349 of 2019, this Court vide an order
+dated 14th November 2022, directed the transfer of the said CWP No. 5960 of 2022 before itself.
+
+III. SUBMISSIONS
+
+5. We have heard Shri Anup Rattan, learned Advocate General appearing on behalf of the State of
+Himachal Pradesh, Shri Vinay Kuthalia, learned Senior Counsel appearing on behalf of the Shimla
+Municipal Corporation and Shri Sanjay Parikh, learned Senior Counsel appearing on behalf of the
+common respondent No.1 in Civil Appeal Nos.5348-5349 of 2019 and Transferred Case (Civil) No.2
+of 2023.. Submissions on behalf of the Appellants:
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+5
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+6. It is submitted on behalf of the appellants that the State was fully aware of its duties and
+responsibilities as envisaged by the Constitution of India as well as the relevant statutory provisions.
+It is submitted that while finalizing the development plan, the State has adopted a proactive role to
+ensure that a balance is struck between the developmental and environmental issues.
+
+7. It is submitted on behalf of the appellants that the development plan has been finalized in exercise
+of statutory powers vested in the appellants under Sections 13 to 20 of the TCP Act, after
+considering all the recommendations and suggestions of various expert bodies and technical
+committees as well as the directions and recommendations of the NGT.
+
+8. It is submitted on behalf of the appellants that a bare perusal of Chapters 12 and 17 of the
+development plan would go to show that the entire environmental aspects as well as the suggestions
+and directions of the NGT issued vide first order of NGT have been fully and duly considered before
+finalizing the development plan.
+
+9. It is submitted on behalf of the appellants that while taking steps to finalise the development plan,
+the appellants have attempted to balance the developmental requirements for catering to the needs
+of the expanding population, with the safeguards to preserve and protect the environment. It is
+submitted that while finalizing the development plan, the entire procedure as prescribed under the
+Statutes was duly followed.
+
+10. The learned Advocate General as well as Shri Kuthalia submitted that the planning regulations
+divide the areas into different categories. It is submitted that, in order to protect the environment,
+various stringent provisions have been made such as:
+
+(i) “In the core area, only 2 storeys + attic is permitted and parking floor is permitted
+only in those plots which are accessible by motorable road;
+
+(ii) In the non-core area and the Planning Area, only 3 storeys + attic is permitted
+and parking floor is only permitted in plots which are adjacent to motorable roads;
+and
+
+(iii) Rebuilding and reconstruction of old buildings has been permitted strictly on old
+lines. With the efflux of time in many buildings, there are different owners of each
+floor;
+
+(iv) In green belt areas which are lying between constructed areas, only single storey
+construction with attic is permissible. However, no tree will be permitted to be felled
+in any such area and no construction will be permitted in forest area without
+following the mandate of the Forest Conservation Act.”
+
+11. It is further submitted on behalf of the appellants that appropriate setbacks have also been made
+mandatory in order to avoid overcrowding. It is submitted that because of the peculiar climate of
+Shimla, the attic is necessary because the roof is required to be sloping in hilly terrain, to allow for
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+6
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+run- off of rain and snow. It is further submitted that construction will only be permitted after a soil
+investigation report of the area and assessment of structural stability by an expert are made. The
+construction is required to be approved by a qualified architect or engineer.
+
+12. The first and second orders of NGT are also challenged by the appellants on the ground that the
+jurisdiction of NGT is limited to the civil cases where a substantial question relating to environment
+(including enforcement of any legal right relating to environment), is involved and such question
+arises out of the implementation of the enactments specified in Schedule I of the National Green
+Tribunal Act, 2010 (hereinafter referred to as the “NGT Act”). It is submitted that Schedule I of the
+NGT Act does not include town and country planning and as such, the orders passed by the NGT are
+without jurisdiction.
+
+13. It is further submitted on behalf of the appellants that the exercise of power for finalisng the
+development plan is a quasi-legislative power and the NGT could not have issued directions to
+exercise that power in a particular manner. It is submitted that the said would amount to
+encroachment upon the statutory functions of the State which are entrusted to it by virtue of the
+TCP Act.
+
+14. It is also submitted on behalf of the appellants that the NGT could not have suo motu enlarged
+the scope of OA No. 121 of 2014 as it is a body constituted under a statute and it has to exercise its
+jurisdiction within the four corners of the statute.
+
+15. It is submitted on behalf of the appellants that various directions issued by the NGT are contrary
+to the provisions of the TCP Act, Himachal Pradesh Municipal Corporation Act, 1994 (for short,
+“HPMC Act”) and the various Bye-laws, Rules and Notifications framed thereunder and as such, not
+sustainable in law. A reliance in this respect is placed on the following judgments of this Court:
+
+Himachal Pradesh Bus Stand Management and Development Authority (H.P. BSM &
+DA) v. Central Empowered Committee and Others1, State of Madhya Pradesh v.
+Centre for Environment Protection Research and Development and Others2, Director
+General (Road Development) National Highways Authority of India v.
+
+Aam Aadmi Lokmanch and Others3, Tamil Nadu Pollution Control Board v. Sterlite
+Industries (India) Limited and Others4 and Techi Tagi Tara v. Rajendra Singh
+Bhandari and Others5.
+
+16. It is submitted that since the development plan was prepared by the State in exercise of its
+constitutional powers under Article 162 of the Constitution of India and statutory powers under the
+TCP Act and HPMC Act, the NGT could not have issued directions to act in a manner which would
+be contrary to those provisions. Reliance in this respect is placed on the following judgments of this
+Court:
+
+(2021) 4 SCC 309 : 2021 INSC 18 (2020) 9 SCC 781 : 2020 INSC 516 (2021) 11 SCC
+566 : 2020 INSC 452 (2019) 19 SCC 479 : 2019 INSC 220 (2018) 11 SCC 734 : 2017
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+7
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+INSC 986 State of Himachal Pradesh and Others v. Satpal Saini6, Ambesh Kumar
+(Dr.) v. Principal, L.L.R.M. Medical College, Meerut and Others7 and Bishambhar
+Dayal Chandra Mohan and Others v. State of Uttar Pradesh and Others8.
+
+17. The learned Advocate General further submitted that the directions issued by the NGT, rather
+than subserving any public interest are contrary to the public interest inasmuch as vast number of
+citizens are being put to great hardships and inconvenience. It is submitted that on account of the
+directions issued by the NGT, re-construction of the old structures which are in dilapidated
+condition and which is permissible on the existing plinth area, has been brought to a complete halt.
+
+18. The learned Advocate General further submitted that the State is alive to the requirement of
+protecting environment and as such, the Cabinet has taken a decision wherein it prescribed more
+stringent measures.
+
+19. Both the orders of NGT are also challenged on the ground that when the High Court was seized
+of the matter with regard (2017) 11 SCC 42 1986 Supp SCC 543 : 1986 INSC 275 (1982) 1 SCC 39 :
+1981 INSC 189 to the draft development plan, the NGT could not have entertained the proceedings
+and passed the orders therein. Reliance in this respect is placed on the judgment of this Court in the
+case of State of Andhra Pradesh v. Raghu Ramakrishna Raju Kanumuru (Member of Parliament)9.
+Submissions on behalf of the Respondents:
+
+20. Shri Parikh, on the contrary, submitted that the first order of NGT threw light on the serious
+concerns regarding the fragile ecology of State of Himachal Pradesh in general and Shimla in
+particular. The first order of NGT has also tried to address issues with regard to continuous
+instances of landslides and collapsing of buildings, cloud bursts and earthquakes.
+
+21. Shri Parikh further submitted that the first order of NGT is based on the report presented by the
+High Powered Committee appointed by it. The NGT has considered in detail the report of the High
+Powered Committee, various other documents and government records. After consideration of the
+same, directions have been given in order to ensure the (2022) 8 SCC 156 : 2022 INSC 632
+protection of ecology and environment. It is submitted that the development plan is finalized
+keeping in view the directions issued by the NGT with regard to core areas, green areas, sinking
+areas and heritage areas.
+
+22. It is submitted on behalf of the respondents that the NGT has rightly issued the directions to
+re-construct in core area or green/forest area within legally permissible statutory limits of the old
+buildings and in any case not beyond 2 storeys and an attic floor. It is submitted that further
+direction was that if any construction, particularly public utilities like hospitals, schools, offices are
+proposed to be constructed beyond 2 storeys plus an attic floor, then the plan has to be duly
+approved and permission has to be obtained from the concerned authorities.
+
+23. Shri Parikh submitted that the “Green Belt” areas, by notification dated 7th December 2000, are
+covered under the dictionary meaning of ‘forest’ and are thus required to be protected under the
+provisions of the FC Act as per the order of this Court passed in the case of T.N. Godavarman
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+8
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+Thirumulkpad v. Union of India and Others10.
+
+24. Shri Parikh submitted that the challenge to the second order of NGT is also without substance
+inasmuch as the directions issued by the NGT, vide its first order, were binding upon the appellants
+and the draft development plan could not have been notified in contravention of the directions of
+the NGT. A reliance in this respect is placed on the judgment of this Court in the case of Punjab
+Termination of Agreement Act, 2004, In Re, Special Reference No. 1 of 200411. Reliance is also
+placed on the judgment of this court in the case of State of Tamil Nadu v. State of Kerala and
+Another12.
+
+25. Shri Parikh further submitted that this Court in the case of Mantri Techzone Private Limited v.
+Forward Foundation and Others13 has held that the NGT has overriding powers over anything
+inconsistent contained in any other law or in any instrument having effect by virtue of any (1997) 2
+SCC 267 : 1997 INSC 226 (2017) 1 SCC 121 : 2016 INSC 1018 (2014) 12 SCC 696 : 2014 INSC 373
+(2019) 18 SCC 494 : 2019 INSC 315 law. He further submitted that this Court has held that while
+providing for restoration of environment in an area, the NGT can specify buffer zones around
+specific lakes and waterbodies in contradiction with zoning regulations under these statutes or
+Revised Master Plan.
+
+26. Shri Parikh relies on the judgments of this Court in the cases of Pragnesh Shah v. Dr. Arun
+Kumar Sharma and Others14, Supreme Court Monitoring Committee v. Mussoorie Dehradun
+Development Authority and Others15 and Resident’s Welfare Association and Another v. Union
+Territory of Chandigarh and Others16 in support of the proposition that the NGT has jurisdiction to
+issue directions in order to protect the ecologically sensitive areas.
+
+27. It is submitted that the jurisdiction of this Court under Section 22 of the NGT Act is very limited
+and an interference is warranted only when the court finds that there is an error apparent on the
+face of record in the findings of the NGT.
+
+28. It is submitted that if the directions issued by the NGT, which provide for a precautionary
+approach, are not followed (2022) 11 SCC 493 : 2022 INSC 47 (1997) 11 SCC 605 (2023) 8 SCC 643 :
+2023 INSC 22 and the construction activities as provided in the development plan are carried out, it
+will be disastrous for future generations and will result in calamities like frequent landslides due to
+floods and earthquakes, cloudbursts and other natural disasters resulting in loss to the human lives
+and property. It is therefore submitted that the present appeals as well as the transferred case
+arising out of the writ petitions pending before the High Court are liable to be dismissed.
+
+Submissions on behalf of the Interveners/Land Owners:
+
+29. It was argued on behalf of the interveners who were owners of the plots in “Green Belt” areas
+that on account of the restrictions imposed in the “Green Belt” areas, they were deprived of
+enjoyment of their property which would be violative of Article 300A of the Constitution of India. It
+was therefore submitted that a direction be given to the State to pay compensation to such owners
+for not being in a position to utilize their plot of lands. We prima facie find that such an issue could
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+9
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+be beyond the scope of the present proceedings. IV. CONSIDERATION:
+
+A. Legislative Scheme of the TCP Act.
+
+30. It will be apposite to refer to the Preamble of the TCP Act, which reads thus:
+
+“An act to make provision for planning and development and use of land; to make
+better provision for the preparation of development plans and sectoral plans with a
+view to ensuring that town planning schemes are made in a proper manner and their
+execution is made effective to constitute the Town and Country Development
+Authority for proper implementation of town and country development plan, to
+provide for the development and administration of special areas through the Special
+Area Development Authority(cid:133), to make provision for the compulsory acquisition of
+land required for the purpose of the development plans and for purposes connected
+with the matters aforesaid.”
+
+31. It can thus be seen that the TCP Act has been enacted to make provision for planning and
+development and use of land; to make better provision for the preparation of development plans
+and sectoral plans with a view to ensuring that town planning schemes are made in a proper manner
+and their execution is made effective. It also provides for constitution of Town and Country
+Development Authority for proper (cid:133) As amended vide Himachal Pradesh Town and Country
+Planning (Amendment) Act 2015 (Act 14 of 2015).
+
+implementation of town and country development plan. It also provides for development and
+administration of special areas through the Special Area Development Authority.
+
+32. Section 13 of the TCP Act reads thus:
+
+“13. Planning Area.—(1) The State Government may, by notification, constitute
+planning areas for the purposes of this Act and define the limits thereof. (2) The State
+Government may, by notification,-
+
+(a) alter the limits of a planning area so as to include therein or exclude there from
+such area as may be specified in the notification;
+
+(b) amalgamate two or more planning areas so as to constitute one planning area;
+
+(c) divide any planning area into two or more planning areas;
+
+(d) declare that the whole or part of the area constituting the planning area shall
+cease to be planning area or part thereof.”
+
+33. It can thus be seen that under Section 13 of the TCP Act, the State Government is empowered to
+constitute planning areas for the purposes of the Act and define the limits thereof. It is also
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+10
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+empowered to alter the limits of a planning area, amalgamate two or more planning areas and also
+to divide any planning area into two or more planning areas.
+
+34. Section 14 of the TCP Act reads thus:
+
+“14. Director to prepare Development Plans.— Subject to the provisions of this Act
+and the rules made thereunder the Director shall— *(a) prepare an existing land use
+map indicating the natural hazard proneness of the area;
+
+*(b) prepare an interim development plan keeping in view the regulation for land use
+zoning for natural hazard prone area; (cid:133)
+
+(c) prepare a development plan keeping in view the regulation for land use zoning for
+natural hazard prone area;
+
+(d) prepare a sectoral plan;
+
+(e) carry such surveys and inspections and obtain such pertinent reports from
+Government departments, local authorities and public institutions as may be
+necessary for the preparation of the plans;
+
+(f) perform such duties and functions as are supplemental, incidental, and
+consequential to any of the foregoing functions or as may be assigned by the State
+Government for the purpose of carrying out the provisions of this Act.”
+
+35. Clauses (a), (b) and (c) of Section 14 of the TCP Act have been amended vide Himachal Pradesh
+Town and Country (cid:133) As amended vide Himachal Pradesh Town and Country Planning
+(Amendment) Act 2013 (Act No. 41 of 2013).
+
+Planning (Amendment) Act 2013 (Act No. 41 of 2013). It can be seen that these clauses provide a
+special emphasis on the areas indicating the natural hazard.
+
+36. Section 15 of the TCP Act reads thus:
+
+“15. Existing Land use Maps.—(1) The Director shall carry out the survey and prepare
+an existing land use map and forthwith publish the same in such manner as may be
+prescribed together with public notice of the preparation of the map and of the place
+or places where the copies may be inspected, inviting objections and suggestions in
+writing from any person with respect thereto within thirty days from the date of
+publication of such notice. (2) After the expiry of the period specified in the notice
+published under sub-section (1), the Director may, after allowing a reasonable
+opportunity of being heard to all such persons who have filed the objections or
+suggestions, make such modification therein as may be considered desirable. (3) As
+soon as may be after the map is adopted with or without modifications the Director
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+11
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+shall publish a public notice of the adoption of the map and the place or places where
+the copies of the same may be inspected.
+
+(4) A copy of the notice shall also be published in the Official Gazette and it shall be
+conclusive evidence of the fact that the map has been duly prepared and adopted.”
+
+37. Under Section 15 of the TCP Act, the Director is required to carry out the survey and prepare an
+existing land use map and, forthwith publish the same in such manner as may be prescribed
+together with public notice of the preparation of the map. It also provides for inviting objections and
+suggestions in writing from any person with respect thereto within thirty days from the date of
+publication of such notice. Sub-section (2) of Section 15 thereof provides for allowing a reasonable
+opportunity of being heard to all such persons who have filed the objections or suggestions. It also
+enables the Director to make such modification therein as may be considered desirable. Sub-section
+(3) thereof provides that after the map is adopted with or without modifications, the Director shall
+publish a public notice of the adoption of the map. A copy of the notice is required to be published in
+the Official Gazette.
+
+38. Section 15-A of the TCP Act deals with “Freezing of landuse pending preparation of existing
+landuse map under Section 15(1)”. Section 16 of the TCP Act deals with “Freezing of land use on the
+publication of the existing land use map under Section 15”. Section 17(1) of the TCP Act deals with
+“Interim Development Plans”.
+
+39. The provisions of Sections 18, 19 and 20 of the TCP Act are most relevant for considering the
+issues involved in the present matter, which read thus:
+
+“18. Development Plan.—A development plan shall—
+
+(a) indicate broadly the land use proposed in the planning areas;
+
+(b) allocate broadly areas or sector of land for,—
+
+(i) residential, industrial, commercial or agricultural purposes,
+
+(ii) open spaces, parks and gardens, green belts, zoological gardens and play grounds,
+
+(iii) public institutions and offices,
+
+(iv) such special purposes as the Director may deem fit;
+
+(c) lay down the pattern of National and State highways connecting the planning area
+with the rest of the region ring roads, arterial roads, and the major roads within the
+planning area;
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+12
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+(d) provide for the location of airports, railway stations, bus terminal and indicate the
+proposed extension and development of railways;
+
+(e) make proposals for general landscaping and preservation of natural areas;
+
+(f) project the requirement of the planning area of such amenities and utilities as
+water, drainage, electricity and suggest their fulfilment;
+
+(g) propose broad based regulations for sectoral development, by way of guideline,
+within each sector of the location, height, size of buildings and structures, open
+spaces, court-yards and the use to which such buildings and structures and land may
+be put (cid:133)“including regulations for façade control and sloping roof conforming to the
+hill architecture and environs”;
+
+(h) lay down the broad based traffic circulation patterns in a city;
+
+(f) suggest architectural control features, elevation and frontage of buildings and
+structures;
+
+(j) indicate measures for flood control, *“and protection against land slide”,
+prevention of air and water pollution, disposal of garbage and general environmental
+control.
+
+19. Publication of Draft Development Plan.—(1) The Director shall forthwith publish the draft
+development plans prepared under section 18 in such manner as may be prescribed together with a
+notice of the preparation of the draft development plan and the place or places where the copies may
+be inspected, inviting objections and the suggestions in writing from any person with respect
+thereto, within thirty days from the date of publication of such notice. Such notice shall specify in
+regard to the draft development plan the following particulars, namely:—
+
+(i) the existing land use maps;
+
+(ii) a narrative report, supported by maps and charts, explaining the provisions of the draft
+development plan;
+
+(iii) the phasing of implementation of the draft development plan as suggested by the Director;
+
+(iv) the provisions for enforcing the draft development plan and stating the manner (cid:133) As amended
+vide Himachal Pradesh Town and Country Planning (Amendment) Act 2013 (Act No. 41 of 2013).
+
+in which permission to development may be obtained;
+
+(v) an approximate estimate of the cost of land acquisition for public purposes and the cost of works
+involved in the implementation of the plan.
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+13
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+(2) The Director shall, not later than ninety days after the date of expiry of the notice period under
+sub- section (1), consider all the objections and suggestions as may be received within the period
+specified in the notice under sub-section (1) and shall, after giving reasonable opportunity to all
+persons affected thereby of being heard, make such modifications in the draft development plan as
+he may consider necessary, and submit not later than six months after the publication of the draft
+development plan, the plan so modified, to the State Government for approval together with all
+connected documents, plans, maps and charts.
+
+20. Sanction of Development Plan.—(1) As soon as may be after the submission of the development
+plan under Section 19, the State Government may either approve the development plan or may
+approve it with such modifications as it may consider necessary or may return it to the Director to
+modify the same or to prepare a fresh plan in accordance with such directions as it may issue in this
+behalf.
+
+(2) Where the State Government approves the development plan with modifications, the State
+Government shall, by a notice published in the Official Gazette invite objections and suggestions in
+respect of such modifications within a period of not less than thirty days from the date of publication
+of the notice in the Official Gazette.
+
+(3) After considering objections and suggestions and after giving a hearing to the persons desirous
+of being heard the State Government may confirm the modification in the development plan.
+
+(4) The State Government shall publish the development plan as approved, under the foregoing
+provisions in the Official Gazette and shall along with the plan publish a public notice, in such
+manner as may be prescribed, of the approval of the development plan and the place or places where
+the copies of the approved development plan may be inspected.
+
+(5) The development plan shall come into operation from the date of publication thereof in the
+Official Gazette and as from such date shall be binding on all Development Authorities constituted
+under this Act and all local authorities functioning within the planning area.
+
+(6) After the coming into operation of the development plan, the interim development plan shall
+stand modified or altered to the extent the proposals in the development plan are at variance with
+the interim development plan.”
+
+40. It can thus be seen that the development plan is required to consist of various factors. Clause (b)
+of Section 18 of the TCP Act provides that it shall allocate broadly areas or sector of land for various
+purposes including residential, industrial, commercial or agricultural. It shall also provide for open
+spaces, parks and gardens, green belts, zoological gardens and play-grounds. It is also required to
+make proposals for general landscaping and preservation of natural areas. It is required to project
+the requirement of the planning area of such amenities and utilities as water, drainage, electricity
+and suggest their fulfilment. It is also required to propose broad- based regulations for sectoral
+development, by way of guide- lines, within each sector of the location, height, size of buildings and
+structures, open spaces, court-yards and the use to which such buildings and structures and land
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+14
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+may be put including regulations for façade control and sloping roof conforming to the hill
+architecture and environs.
+
+41. It can thus be seen that a special emphasis is placed on regulations for façade control and sloping
+roof conforming to the hill architecture and environs. Clause (j) of Section 18 of the TCP Act, also
+specifically provides to indicate measures for flood control, protection against land slide, prevention
+of air and water pollution, disposal of garbage and general environmental control.
+
+42. Under Section 19(1) of the TCP Act, the Director is required to publish the draft development
+plan prepared under Section 18 in such manner as may be prescribed together with a notice of the
+preparation of the draft development plan and the place or places where the copies may be
+inspected. It provides for inviting objections and suggestions, in writing, from any person with
+respect thereto, within thirty days from the date of publication of such notice. The notice to be
+issued under Section 19 requires that it should specify the existing land use maps, a narrative report
+supported by maps and charts, explaining the provisions of the draft development plan, the phasing
+of implementation of the draft development plan as suggested by the Director, the provisions for
+enforcing the draft development plan and stating the manner in which permission to development
+may be obtained and the approximate estimate of the cost of land acquisition for public purposes
+and the cost of works involved in the implementation of the plan.
+
+43. Under sub-section (2) of Section 19 of the TCP Act, the Director is required to consider all the
+objections and suggestions as may be received within the period specified in the notice under
+sub-section (1) thereof, not later than ninety days after the date of expiry of the notice period. He is
+also required to give reasonable opportunity to all persons affected thereby of being heard and make
+such modifications in the draft development plan as he may consider necessary. He is also required
+to submit, not later than six months after the publication of the draft development plan, the plan so
+modified, to the State Government for approval together with all connected documents, plans, maps
+and charts.
+
+44. Under Section 20 of the TCP Act, after the development plan under Section 19 is submitted to
+the State Government, it may either approve the development plan or it may approve it with such
+modifications as it may consider necessary or may return it to the Director to modify the same or to
+prepare a fresh plan in accordance with such directions as it may issue in this behalf. Under
+sub-section (2) thereof, where the State Government approves the development plan with
+modifications, the State Government shall, by a notice, published in the Official Gazette, invite
+objections and suggestions in respect of such modifications within a period of not less than thirty
+days from the date of publication of the notice in the Official Gazette. Under sub-section (3) thereof,
+after considering objections and suggestions and after giving a hearing to the persons desirous of
+being heard, the State Government may confirm the modification in the development plan.
+Sub-section (4) thereof requires the State Government to publish the development plan as
+approved, under the foregoing provisions in the Official Gazette and shall along with the plan
+publish a public notice, in such manner as may be prescribed, of the approval of the development
+plan and the place or places where the copies of the approved development plan may be inspected.
+Sub-section (5) thereof provides that the development plan shall come into force from the date of
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+15
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+publication thereof in the Official Gazette and as from such date shall be binding on all Development
+Authorities constituted under this Act and all local authorities functioning within the planning area.
+Sub-section (6) thereof provides that after the coming into operation of the development plan, the
+interim development plan shall stand modified or altered to the extent the proposals in the
+development plan are at variance with the interim development plan. B. Nature of functions/powers
+of the Authorities under Chapter-IV of the TCP Act.
+
+45. A perusal of the aforesaid provisions, leaves no manner of doubt, that Chapter-IV of the TCP Act
+is a complete code, providing for preparation of draft development plan, publication of draft
+development plan with a publication of its notice, inviting objections and suggestions, giving
+reasonable opportunity to all persons affected of being heard, making modifications in the draft
+development plan as may be considered necessary by the Director and thereafter submitting it to the
+State Government.
+
+46. Under Section 20 of the TCP Act, the State Government is empowered to either approve the
+development plan or may approve it with such modifications as it may consider necessary or may
+return it to the Director to modify the same or to prepare a fresh plan in accordance with such
+directions as it may issue in this behalf. Sub-section (2) thereof provides that where the State
+Government approves the development plan with modifications, it is again required to be published
+in the Official Gazette to invite objections and suggestions in respect of such modifications. The
+State Government is empowered to confirm the modification in the development plan after
+considering objections and suggestions and after giving a hearing to the persons desirous of being
+heard.
+
+47. It could thus be seen that Chapter-IV of the TCP Act provides for inviting objections and
+suggestions at two stages. Firstly, at the stage of Section 19 where the Director is required to invite
+objections and suggestions to the draft development plan and after giving an opportunity of being
+heard and considering the objections and suggestions, submit the development plan to the State
+Government. Under Section 20 of the TCP Act, a second opportunity of making objections and
+suggestions has been provided. Again, the State Government is required to give an opportunity of
+hearing to such objectors before granting final approval to the development plan.
+
+48. A perusal of the scheme of the TCP Act and particularly Chapter-IV thereof would establish
+beyond doubt that the powers vested with the Director and the State Government are for enacting a
+piece of delegated legislation.
+
+49. The distinction between the legislative function and administrative function is succinctly
+described by this Court in the case of Union of India and Another v. Cynamide India Ltd. and
+Another17, which reads thus:
+
+“7. The third observation we wish to make is, price fixation is more in the nature of a
+legislative activity than any other. It is true that, with the proliferation of delegated
+legislation, there is a tendency for the line between legislation and administration to
+vanish into an illusion. Administrative, quasi-judicial decisions tend to merge in
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+16
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+legislative activity and, conversely, legislative activity tends to fade into and present
+an appearance of an administrative or quasi- judicial activity. Any attempt to draw a
+distinct line between legislative and administrative functions, it (1987) 2 SCC 720 :
+1987 INSC 100 has been said, is “difficult in theory and impossible in practice”.
+Though difficult, it is necessary that the line must sometimes be drawn as different
+legal rights and consequences may ensue. The distinction between the two has
+usually been expressed as “one between the general and the particular”. “A legislative
+act is the creation and promulgation of a general rule of conduct without reference to
+particular cases; an administrative act is the making and issue of a specific direction
+or the application of a general rule to a particular case in accordance with the
+requirements of policy”. “Legislation is the process of formulating a general rule of
+conduct without reference to particular cases and usually operating in future;
+administration is the process of performing particular acts, of issuing particular
+orders or of making decisions which apply general rules to particular cases.” It has
+also been said: “Rule-making is normally directed toward the formulation of
+requirements having a general application to all members of a broadly identifiable
+class” while, “an adjudication, on the other hand, applies to specific individuals or
+situations”. But, this is only a broad distinction, not necessarily always true. …..”
+
+50. Though, this Court, in the celebrated case of Cynamide India Ltd. (supra) observed that any
+attempt to draw a distinct line between legislative and administrative functions is difficult in theory
+and impossible in practice, it attempted to draw a line between the two inasmuch as different legal
+rights and consequences may ensue, in exercise of such functions. It has been held that the
+distinction between the two has usually been expressed as “one between the general and the
+particular”. A legislative act is the creation and promulgation of a general rule of conduct without
+reference to particular cases; whereas an administrative act is the making and issue of a specific
+direction or the application of a general rule to a particular case in accordance with the
+requirements of policy. It has been held that legislation is the process of formulating a general rule
+of conduct without reference to particular cases and usually operating in future. Whereas,
+administration is the process of performing particular acts of issuing particular orders or of making
+decisions which apply general rules to particular cases. It has also been held that rule-making is
+normally directed towards the formulation of requirements having a general application to all
+members of a broadly identifiable class; whereas an adjudication, on the other hand, applies to
+specific individuals or situations.
+
+51. When we apply the aforesaid principles to the facts of the present case, it will be amply clear that
+the preparation of draft development plan under Section 18 of the TCP Act, finalization of the same
+under Section 19 of the TCP Act by the Director and grant of approval by the State under Section 20
+of the TCP Act are all legislative functions. The provisions enable the delegated legislative body to
+formulate the provisions which will have a general application to all members of the broadly
+identifiable classes.
+
+52. In the case of Tulsipur Sugar Co. Ltd. v. The Notified Area Committee, Tulsipur18, again a
+challenge was made to the notification issued under Section 3 of the U.P. Town Areas Act, 1914 on
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+17
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+the ground that before issuance of final notification, the principles of audi alteram partem were not
+followed. While rejecting the said contention and holding the exercise of powers as a piece of
+conditional legislation, this Court observed thus:
+
+“7. …..The power of the State Government to make a declaration under Section 3 of
+the Act is legislative in character because the application of the rest of the provisions
+of the Act to the geographical area which is declared as a town area is dependent
+upon such declaration. Section 3 of the Act is in the nature of a conditional
+legislation. Dealing with the nature of functions of a non-judicial authority, Prof. S.A.
+De Smith in Judicial Review of Administrative Action (3rd Edn.) observes at p. 163:
+
+“However, the analytical classification of a function may be a conclusive factor in
+excluding the operation of the audi alteram partem rule. It is generally assumed that
+in English law the making of a subordinate legislative instrument (1980) 2 SCC 295 :
+1980 INSC 38 need not be preceded by notice or hearing unless the parent Act so
+provides.” ………
+
+9. We are, therefore, of the view that the maxim “audi alteram partem” does not
+become applicable to the case by necessary implication.”
+
+53. It is thus clear that this Court held that a declaration under Section 3 of the U.P. Town Areas Act,
+1914 provided for enabling the application of the rest of the provisions of the Act to the geographical
+area which is declared as a town area. It was thus held that the declaration made under Section 3
+was legislative in character.
+
+54. In the case of Sundarjas Kanyalal Bhatija and Others v. Collector, Thane, Maharashtra and
+Others19, the Government of Maharashtra had issued a draft notification under Section 3(3) of the
+Bombay Provincial Municipal Corporation Act, 1949 (for short, “BPMC Act”). The draft notification
+proposed for formation of “Kalyan Corporation”. Against the said proposal, there were many
+objections and representations received from different sections. In the earlier draft notification, the
+area of Ulhasnagar Municipal Council (1989) 3 SCC 396 : 1989 INSC 202 was proposed to be
+merged in the proposed area of Kalyan Corporation. However, taking into consideration the
+objections, the area of Ulhasnagar Municipal Council was excluded from the area of Kalyan
+Corporation while issuing the final notification. The same was challenged before the High Court by
+filing a writ petition. One of the reasons which weighed with the High Court while allowing the
+petition was that the opportunity of hearing was not given to one of the parties while issuing the
+final notification under Section 3(2) of the BPMC Act. It will be relevant to refer to the following
+observations of this Court while reversing the order of the High Court in the said case:
+
+“28. Equally, the rule issued by the High Court to hear the parties is untenable. The
+Government in the exercise of its powers under Section 3 is not subject to the rules of
+natural justice any more than is legislature itself. The rules of natural justice are not
+applicable to legislative action plenary or subordinate. The procedural requirement of
+hearing is not implied in the exercise of legislative powers unless hearing was
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+18
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+expressly prescribed. The High Court, therefore, was in error in directing the
+Government to hear the parties who are not entitled to be heard under law.”
+
+55. It could thus be seen that this Court clearly held that the issuance of draft notification,
+consideration of objections and publication of final notification are done in exercise of legislative
+powers. The procedural requirement of hearing would not be implied unless the statute so provides
+for.
+
+56. This Court, in the case of Pune Municipal Corporation and Another v. Promoters and Builders
+Association and Another20, had an occasion to consider somewhat similar provisions under the
+Maharashtra Regional and Town Planning Act, 1966 (for short, “MRTP Act”). In the said case, this
+Court was considering the power of the State Government to make any changes of its own in the
+modifications submitted by the Planning Authority under Section 37 of the MRTP Act. This Court
+observed thus:
+
+“5. Making of DCR or amendments thereof are legislative functions. Therefore,
+Section 37 has to be viewed as repository of legislative powers for effecting
+amendments to DCR. That legislative power of amending DCR is delegated to the
+State Government. As we have already pointed out, the true interpretation of Section
+37(2) permits the State Government to make necessary modifications or put
+conditions while granting sanction. In Section 37(2), the legislature has not intended
+to provide for a public hearing before according sanction. The procedure for making
+such amendment is provided in Section 37. Delegated legislation cannot be
+questioned for violating the principles of natural justice in its making except when
+the statute itself provides for that requirement. Where the legislature (2004) 10 SCC
+796 : 2004 INSC 348 has not chosen to provide for any notice or hearing, no one can
+insist upon it and it is not permissible to read natural justice into such legislative
+activity.
+
+Moreover, a provision for “such inquiry as it may consider necessary” by a subordinate legislating
+body is generally an enabling provision to facilitate the subordinate legislating body to obtain
+relevant information from any source and it is not intended to vest any right in anybody. (Union of
+India v. Cynamide India Ltd. [(1987) 2 SCC 720] , SCC paras 5 and 27. See generally H.S.S.K.
+Niyami v. Union of India [(1990) 4 SCC 516] and Canara Bank v. Debasis Das [(2003) 4 SCC 557 :
+2003 SCC (L&S) 507] .) While exercising legislative functions, unless unreasonableness or
+arbitrariness is pointed out, it is not open for the Court to interfere. (See generally ONGC v. Assn. of
+Natural Gas Consuming Industries of Gujarat [1990 Supp SCC 397] .) Therefore, the view adopted
+by the High Court does not appear to be correct.”
+
+57. It could thus be seen that this Court in the case of Pune Municipal Corporation (supra) held that
+making of Development Control Rules (DCR) or amendments thereof are legislative functions.
+
+58. In the said case, the Court also found that since the legislature did not provide for a public
+hearing before according sanction, the delegated legislation could not be questioned for violating the
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+19
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+principles of natural justice in its making except when the statue itself provide for that requirement.
+The Court went on to hold that where the legislature has not chosen to provide for any notice or
+hearing, no one can insist upon it and it is not permissible to read natural justice into such
+legislative activity.
+
+59. Again, in the case of Bangalore Development Authority v. Aircraft Employees’ Cooperative
+Society Limited and Others21, the scheme for finalization of the development plan as provided
+under the Karnataka Town and Country Planning Act, 1961 was considered and the said power was
+held to be in exercise of the legislative powers.
+
+60. Recently, a three-Judges Bench of this Court in the case of Rajeev Suri v. Delhi Development
+Authority and Others22, after considering the earlier judgments, held that the change of use of
+government land which is of general nature would be a function which has a quasi-legislative hue to
+it.
+
+61. It can thus be seen that it is a settled position of law that the exercise of power for the
+preparation, finalization and approval of development plan is a power exercised by the delegatee for
+enacting a subordinate piece of legislation. We (2012) 3 SCC 442 : 2012 INSC 50 (2022) 11 SCC 1:
+2021 INSC 4 therefore have no manner of doubt in holding that the aforesaid provisions as
+contained in the TCP Act provide for exercise of power by a delegatee to enact a piece of subordinate
+legislation.
+
+C. Whether the NGT could have issued directions to the legislative body to exercise its legislative
+functions in a particular manner?
+
+62. A perusal of the first order of NGT would reveal that the NGT, in effect, has issued directions to
+the authority empowered to enact the development plan, to do so in a particular manner. The
+question therefore that will have to be considered is as to whether the NGT could have exercised its
+jurisdiction in such a manner, to issue such directions.
+
+63. In the case of V.K. Naswa v. Home Secretary, Union of India and Others23, the
+petitioner-in-person had approached this Court to issue directions to the Central Government,
+through the Ministry of Law & Justice, to amend the law for taking action against a person for
+showing any kind of disrespect to the national flag or for not observing the terms contained in the
+Flag Code of India, 2002. In the alternative, (2012) 2 SCC 542 : 2012 INSC 10 it was prayed by the
+petitioner-in-person that this Court may be pleased to issue direction(s) in that regard.
+
+64. This Court, in the said case, after surveying various earlier judgments on the issue, observed
+thus:
+
+“6. It is a settled legal proposition that the court can neither legislate nor issue a
+direction to the legislature to enact in a particular manner.
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+20
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+7. In Mallikarjuna Rao v. State of A.P. [(1990) 2 SCC 707 : 1990 SCC (L&S) 387 :
+(1990) 13 ATC 724 : AIR 1990 SC 1251] and V.K. Sood v. Deptt. of Civil Aviation
+[1993 Supp (3) SCC 9 : 1993 SCC (L&S) 907 : (1993) 25 ATC 68 : AIR 1993 SC 2285] ,
+this Court has held that the writ court, in exercise of its power under Article 226, has
+no power even indirectly to require the executive to exercise its law-making power.
+The Court observed that it is neither legal nor proper for the High Court to issue
+directions or advisory sermons to the executive in respect of the sphere which is
+exclusively within the domain of the executive under the Constitution. The power
+under Article 309 of the Constitution to frame rules is the legislative power. This
+power under the Constitution has to be exercised by the President or the Governor of
+a State, as the case may be. The courts cannot usurp the functions assigned to the
+executive under the Constitution and cannot even indirectly require the executive to
+exercise its law-making power in any manner. The courts cannot assume to
+themselves a supervisory role over the rule-making power of the executive under
+Article 309 of the Constitution. While deciding the said case, the Court placed
+reliance on a large number of judgments, particularly Narinder Chand Hem Raj v.
+UT, H.P. [(1971) 2 SCC 747 : AIR 1971 SC 2399] , where it has been held that
+legislative power can be exercised only by the legislature or its delegate and none else.
+
+8. In State of H.P. v. Parent of a Student of Medical College [(1985) 3 SCC 169 : AIR
+1985 SC 910] , this Court deprecated the practice adopted by the courts to issue
+directions to the legislature to enact a legislation to meet a particular situation
+observing :
+
+(SCC p. 174, para 4) “4. … The direction given by the Division Bench was really
+nothing short of an indirect attempt to compel the State Government to initiate
+legislation with a view to curbing the evil of ragging, for otherwise it is difficult to see
+why, after the clear and categorical statement by the Chief Secretary on behalf of the
+State Government that the Government will introduce legislation if found necessary
+and so advised, the Division Bench should have proceeded to again give the same
+direction. Thus the Division Bench was clearly not entitled to do. It is entirely a
+matter for the executive branch of the Government to decide whether or not to
+introduce any particular legislation.”
+
+9. In Asif Hameed v. State of J&K [1989 Supp (2) SCC 364 : AIR 1989 SC 1899] this
+Court while dealing with a case like this at hand observed : (SCC p. 374, para 19) “19.
+… While doing so the court must remain within its self-imposed limits. The court sits
+in judgment on the action of a coordinate branch of the Government.
+
+While exercising power of judicial review of administrative action, the court is not an appellate
+authority. The Constitution does not permit the court to direct or advise the executive in matters of
+policy or to sermonise qua any matter which under the Constitution lies within the sphere of
+legislature or executive.”
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+21
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+10. In Union of India v. Deoki Nandan Aggarwal [1992 Supp (1) SCC 323 : 1992 SCC (L&S) 248 :
+(1992) 19 ATC 219 : AIR 1992 SC 96] , this Court similarly observed : (SCC p. 332, para 14) “14. … It
+is not the duty of the court either to enlarge the scope of the legislation.… The court cannot rewrite,
+recast or reframe the legislation for the very good reason that it has no power to legislate.
+
+The power to legislate has not been conferred on the courts.”
+
+11. Similarly in Ajaib Singh v. Sirhind Coop. Marketing-cum-Processing Service Society Ltd. [(1999)
+6 SCC 82 : 1999 SCC (L&S) 1054 : AIR 1999 SC 1351] , this Court held that the court cannot fix a
+period of limitation, if not fixed by the legislature, as “the courts can admittedly interpret the law
+and do not make laws”. The court cannot interpret the statutory provision in such a manner “which
+would amount to legislation intentionally left over by the legislature”.
+
+12. A similar view has been reiterated by this Court in Union of India v. Assn. for Democratic
+Reforms [(2002) 5 SCC 294 : AIR 2002 SC 2112] observing that the court cannot issue direction to
+the legislature for amending the Act or Rules. It is for Parliament to amend the Act or Rules. In
+District Mining Officer v. TISCO [(2001) 7 SCC 358] , this Court held that function of the court is
+only to expound the law and not to legislate.
+
+13. Similarly, in Supreme Court Employees' Welfare Assn. v. Union of India [(1989) 4 SCC 187 :
+1989 SCC (L&S) 569] , this Court held that the court cannot direct the legislature to enact a
+particular law for the reason that under the constitutional scheme Parliament exercises sovereign
+power to enact law and no outside power or authority can issue a particular piece of legislation. (See
+also State of J&K v. A.R. Zakki [1992 Supp (1) SCC 548 : 1992 SCC (L&S) 427 : (1992) 20 ATC 285 :
+AIR 1992 SC 1546] .)
+
+14. In Union of India v. Prakash P. Hinduja [(2003) 6 SCC 195 : 2003 SCC (Cri) 1314 : AIR 2003 SC
+2612] , this Court held that if the court issues a direction which amounts to legislation and is not
+complied with by the State, it cannot be held that the State has committed the contempt of court for
+the reason that the order passed by the court was without jurisdiction and it has no competence to
+issue a direction amounting to legislation.
+
+15. The issue involved herein was considered by this Court in University of Kerala v. Council of
+Principals of Colleges [(2010) 1 SCC 353 : AIR 2010 SC 2532] . The Court elaborately explained the
+scope of separation of powers of different organs of the State under our Constitution; the validity of
+judicial legislation and if it is at all permissible, its limits; and the validity of judicial activism and
+the need for judicial restraint, etc. The Court observed : (SCC p. 361, para 13) “13. … ‘19. At the
+outset, we would say that it is not possible for this Court to give any directions for amending the Act
+or the statutory rules. It is for Parliament to amend the Act and the rules.’ [Ed. : As observed in
+Union of India v. Assn. for Democratic Reforms, (2002) 5 SCC 294, p.
+
+309, para 19.] ”
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+22
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+16. In State of U.P. v. Jeet S. Bisht [(2007) 6 SCC 586] , this Court held that issuing any such
+direction may amount to amendment of law which falls exclusively within the domain of the
+executive/legislature and the court cannot amend the law.
+
+17. In Delhi Jal Board v. National Campaign for Dignity and Rights of Sewerage and Allied Workers
+[(2011) 8 SCC 568 : (2011) 2 SCC (L&S) 375] , this Court while dealing with the issue made the
+observation that in exceptional circumstances where there is inaction by the executive, for whatever
+reason, the judiciary must step in, in exercise of its constitutional obligations to provide a solution
+till such time the legislature acts to perform its role by enacting proper legislation to cover the field.
+(See also Vishaka v. State of Rajasthan [(1997) 6 SCC 241 : 1997 SCC (Cri) 932 : AIR 1997 SC 3011] ;
+Common Cause v. Union of India [(2008) 5 SCC 511 : AIR 2008 SC 2116] and Destruction of Public
+and Private Properties v. State of A.P. [(2009) 5 SCC 212 : (2009) 2 SCC (Cri) 629 : AIR 2009 SC
+2266] )
+
+18. Thus, it is crystal clear that the court has a very limited role and in exercise of that, it is not open
+to have judicial legislation. Neither the court can legislate, nor has it any competence to issue
+directions to the legislature to enact the law in a particular manner.” [emphasis supplied by us]
+
+65. Constitution of India recognizes the independence and separation of powers amongst the three
+branches of the State viz. the Legislature, the Executive and the Judiciary. Each of the branches are
+co-equal. The Parliament or the Legislature is entrusted with the function of legislation, i.e.,
+enacting the laws. The Executive is entrusted with the function and power to implement those laws
+and discharge their functions in accordance with the provisions made in the Constitution of India
+and the laws so enacted. The Judiciary is entrusted with the function to ensure that the laws enacted
+by the Legislature are within the four corners of the Constitution of India and that the Executive acts
+within the four corners of the Constitution of India and the laws enacted by the Legislature. As to
+what should be the laws and the policy behind the said laws is clearly within the domain of the
+Legislature. It is a different matter for Judiciary to examine as to whether a particular piece of
+legislation stands the scrutiny of law within the limited grounds of judicial review available.
+However, giving a direction or advisory sermons to the Executive in respect of the sphere which is
+exclusively within the domain of the Executive or the Legislature would neither be legal nor proper.
+The Court cannot be permitted to usurp the functions assigned to the Executive, the Legislature or
+the subordinate legislature. The Court cannot also assume a supervisory role over the rule-making
+power of the Executive under Article 309 of the Constitution of India.
+
+66. It is a settled law that the Constitution of India does not permit the courts to direct or advise the
+Executive in the matters of policy or to sermonize qua any matter which under the Constitution lies
+within the sphere of Legislature or Executive. It is also settled that the courts cannot issue directions
+to the Legislature for enacting the laws in a particular manner or for amending the Acts or the Rules.
+It is for the Legislature to do so.
+
+67. A Constitution Bench, in the case of Manoj Narula v. Union of India24, was considering various
+questions. One of the questions that has been considered was whether by taking recourse to the
+doctrine of advancing constitutional culture, could a court read a disqualification to the already
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+23
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+expressed disqualifications either provided under the Constitution or under the Representation of
+People Act, 1951. Answering the question in the negative, the Court observed thus:
+
+“67. The question that is to be posed here is whether taking recourse to this doctrine
+f o r   t h e   p u r p o s e   o f   a d v a n c i n g   c o n s t i t u t i o n a l   c u l t u r e ,   c a n   a   c o u r t   r e a d   a
+disqualification to the already expressed disqualifications provided under the
+Constitution and the 1951 Act. The answer has to be in the inevitable negative, for
+there are express provisions stating the disqualifications and second, it would
+tantamount to crossing the boundaries of judicial review.”
+
+68. This Court, in the case of Satpal Saini (supra), considered whether it was permissible for the
+High Court to call upon the State Government to amend the provisions of Section 118 of the
+Himachal Pradesh Tenancy and Land Reforms Act, 1972. The directions were issued by the High
+Court to the State Government to make amendment within 90 (2014) 9 SCC 1 : 2014 INSC 568 days.
+Allowing the appeal filed by the State Government, this Court held that the High Court, while
+issuing the above directions, acted in a manner contrary to the settled limitations on the power of
+judicial review under Article 226 of the Constitution of India. It held that the directions cannot be
+issued to the legislature to enact a law. The power to enact legislation is a plenary constitutional
+power which is vested in the Parliament and the State Legislatures.
+
+69. It can thus be seen that it is a settled position of law that neither the High Courts while
+exercising powers under Article 226 of the Constitution nor this Court while exercising powers
+under Article 32 of the Constitution can direct the legislature or its delegatee to enact a law or
+subordinate legislation in a particular manner. If the High Courts and this Court, in their
+extra-ordinary powers under Articles 226 and 32 of the Constitution cannot do so, the answer to the
+question as to whether a Tribunal constituted under a statute, having a limited jurisdiction, can do
+so or not, would be obviously ‘No’.
+
+70. In that view of the matter, we find that the first order of NGT is liable to be set aside on the short
+ground that it has transgressed its limitations and attempted to encroach upon the field reserved for
+the delegatee to enact a piece of delegated legislation. We are of the considered view that when the
+TCP Act empowers the State Government and the Director to exercise the powers to enact a piece of
+delegated legislation, the NGT could not have imposed fetters on such powers and directed it to
+exercise its powers in a particular manner. D. Whether observations in Para 47 of the Mantri
+Techzone Private Limited (supra) would operate as res judicata?
+
+71. A reliance in this respect is placed by respondent No.1 on the judgment of this Court in the case
+of Mantri Techzone Private Limited (supra). It will be relevant to refer to the arguments advanced
+by the State Government and the other private parties in the said case, which read thus:
+
+“27. The learned Advocate General, Shri Udaya Holla, appearing for the appellant
+State of Karnataka in CAs Nos. 4923-24 of 2017, has submitted that the State of
+Karnataka is also aggrieved by the order of NGT to the extent of setting aside the
+buffer zone in respect of waterbodies and drains specified in the Revised Master Plan,
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+24
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+2015, and enlargement of the buffer zone in respect of lakes and Rajakaluves. It is
+also aggrieved by the order of NGT directing the authorities to demolish all the
+offending constructions raised/built in the buffer zone, which will result in
+demolition of 95% of the buildings in Bengaluru. It is submitted that the Revised
+Master Plan is statutory in nature and NGT has no power, competence or jurisdiction
+to consider the validity or vires of any statutory provision/regulation.
+
+Therefore, the order of NGT to that extent is liable to be set aside.
+
+28. The learned Senior Counsel appearing for the appellants in other cases, have also
+supported the arguments of the learned Advocate General. It was contended that the
+Revised Master Plan provides for a 30 m buffer zone around the lakes and a buffer
+zone of 50 m, 25 m and 15 m from the primary, secondary and tertiary drains,
+respectively to be measured from the centre of the drain. Vide the impugned
+judgment, NGT has revised these buffer zones and has directed that the buffer zone
+be maintained for 75 m around the lake and 50, 35 and 25 m respectively from the
+primary, secondary and tertiary drain, respectively.
+
+Variation of buffer zone, as directed by NGT is without any legal and scientific basis and has the
+effect of amending the Revised Master Plan, 2015, without there being any challenge to the same or
+any relief sought with respect to the said Revised Master Plan.”
+
+72. It will be relevant to refer to the contention made by the counsel appearing on behalf of the
+applicants in the said case, which reads thus:
+
+“29. On the other hand, Shri Sajan Poovayya, learned Senior Counsel, appearing for
+the applicants, has fairly submitted that the applications were filed only against the
+appellants in CAs Nos. 5016 and 8002-03 of 2016 (Respondents 9 and 10). He has no
+objection to set aside the order insofar as the appellants in other appeals including
+the State of Karnataka are concerned. He has also no objection to set aside the
+general conditions and directions of NGT in para 1 of the order dated 4-5-2016
+[Forward Foundation v. State of Karnataka, 2016 SCC OnLine NGT 1409] except the
+directions issued against Respondents 9 and 10. In view of the above, it is not
+necessary to examine the contentions of the learned Advocate General in Civil
+Appeals Nos. 4923-24 of 2017. It is also not necessary to consider the contentions
+urged in the other civil appeals except the appeals filed by Respondents 9 and 10.”
+
+73. It could thus be seen that this Court has specifically recorded the submissions made by the
+counsel that he has no objection if this Court sets aside the general conditions and directions of NGT
+in para 1 of the order dated 4th May 2016 in the case of Forward Foundation v. State of
+Karnataka25, except the directions issued against Respondents 9 and 10. It could thus be seen that
+this Court, in view of the submissions recorded on behalf of the counsel for the applicants, did not
+find it necessary to consider the contentions urged in the other civil appeals except the appeals filed
+against Respondents 9 and 10. As such, the observations made in para 47 of Mantri Techzone
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+25
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+Private Limited (supra) will have to be construed as restricted to the cases of respondent Nos. 9 and
+10. The position is further clarified from the observations of this Court in the said case in paras
+60-61.
+
+2016 SCC OnLine NGT 1409
+
+74. As to what could be a binding precedent has been succinctly observed by this Court in the case of
+Union of India and Others v. Dhanwanti Devi and Others26, which reads as under:
+
+“9. ……It is not everything said by a Judge while giving judgment that constitutes a
+precedent. The only thing in a Judge's decision binding a party is the principle upon
+which the case is decided and for this reason it is important to analyse a decision and
+isolate from it the ratio decidendi. According to the well-settled theory of precedents,
+every decision contains three basic postulates—(i) findings of material facts, direct
+and inferential. An inferential finding of facts is the inference which the Judge draws
+from the direct, or perceptible facts; (ii) statements of the principles of law applicable
+to the legal problems disclosed by the facts; and (iii) judgment based on the
+combined effect of the above. A decision is only an authority for what it actually
+decides. What is of the essence in a decision is its ratio and not every observation
+found therein nor what logically follows from the various observations made in the
+judgment. Every judgment must be read as applicable to the particular facts proved,
+or assumed to be proved, since the generality of the expressions which may be found
+there is not intended to be exposition of the whole law, but governed and qualified by
+the particular facts of the case in which such expressions are to be found. It would,
+therefore, be not profitable to extract a sentence here and there from the judgment
+and to build upon it because the essence of the decision is its ratio and not every
+observation found therein. The enunciation of the reason or principle on which a
+question before a court has been decided is alone binding as a precedent. The
+concrete decision alone (1996) 6 SCC 44 : 1996 INSC 911 is binding between the
+parties to it, but it is the abstract ratio decidendi, ascertained on a consideration of
+the judgment in relation to the subject-matter of the decision, which alone has the
+force of law and which, when it is clear what it was, is binding. It is only the principle
+laid down in the judgment that is binding law under Article 141 of the Constitution. A
+deliberate judicial decision arrived at after hearing an argument on a question which
+arises in the case or is put in issue may constitute a precedent, no matter for what
+reason, and the precedent by long recognition may mature into rule of stare decisis. It
+is the rule deductible from the application of law to the facts and circumstances of the
+case which constitutes its ratio decidendi.”
+
+75. This Court, in the case of Dhanwanti Devi (supra) in paragraph 9, has held that it is not
+profitable to extract a sentence here and there from the judgment and to build upon it. It has been
+held that the essence of the decision is its ratio and not every observation found therein. It has been
+held that a deliberate judicial decision arrived at after hearing an argument on a question which
+arises in the case or is put in issue would constitute a precedent.
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+26
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+76. Though at a first blush, the observations made in para 47 of the judgment in the case of Mantri
+Techzone Private Limited (supra), would appear to support the case of the respondents, but if the
+entire judgment in the said case is perused, it is not so. It can clearly be seen that the learned
+Advocate General of the State has specifically argued that the Revised Master Plan is statutory in
+nature and the NGT has no power, competence or jurisdiction to consider the validity or vires of any
+statutory provision/regulation. It was therefore argued that the order of the NGT to that extent was
+liable to be set aside. It was similarly argued on behalf of the other appellant that the order of the
+NGT impugned therein which revised buffer zones also had the effect of amending the Revised
+Master Plan 2015. A perusal of para 29 of the Mantri Techzone Private Limited (supra) would
+clearly reveal that the counsel appearing for the applicants before the High Court has fairly
+conceded to the setting aside of those general directions. It could thus be seen that, though the issue
+was raised before the High Court with regard to the power of the NGT to issue such directions, this
+Court did not go into that issue on the basis of the concessions made by the appellants. We are
+therefore of the considered view that the observations found in para 47 of the Mantri Techzone
+Private Limited (supra) could not be construed to be a precedent or a ratio decidendi.
+
+77. We may also gainfully refer to the observations made by this Court in the case of Director
+General (Road Development) National Highways Authority of India (supra). In the said case, one of
+the challenges was the notification issued by the State Government under Section 154 of the MRTP
+Act. The notification dated 14th November 2017 referred to the general directions issued by the NGT
+in its order dated 19th May 2015. Vide the said directions, it was directed that the planning
+authorities while preparing development plan for area in their jurisdiction or amending them in
+respect of undeveloped portion abutting the hills up to 100 feet should be shown as “No
+Development/Open Space Reservation”. It further directed that in the event the 100 feet area
+abutting hills, has already been developed, in that area no permission be granted for additional FSI
+or TDR. The Court observed thus:
+
+“92. In the present case, the State of Maharashtra has not shown any material or file
+containing the reasons behind the directive of 14-11-2017. It is not in dispute that the
+direction was consequential to, and solely based on the directions of the NGT in para
+17(e). As noticed earlier, those directions were not based on any scientific evidence or
+report of any technical expert. Furthermore, even the impugned notification does not
+specify what constitutes “hills”, and how they can be applied in towns and
+communities set in undulating areas and hilly terrain. This is not only vague, but
+makes the directions arbitrary as they can be applied at will by the authorities
+concerned. More importantly, they amount to a blanket change of all regional and
+development plans. While such directions can be issued, if situations so warrant,
+such as in extraordinary or emergent circumstances, the complete absence of any
+reasons why the State issued them, coupled with the lack of any supporting expert
+report or input, renders it an arbitrary exercise. That they are based only on the
+NGT's orders [Aam Aadmi Lokmanch v. State of Maharashtra, 2015 SCC OnLine
+NGT 11] , only underlines the lack of any application of mind on the part of the State,
+while issuing them.
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+27
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+93. For the above reasons, we hold that the impugned judgment [Harshada Coop.
+Housing Society Ltd. v. State of Maharashtra, 2018 SCC OnLine Bom 2576 : (2018) 6
+Bom CR 154] of the Bombay High Court cannot be sustained; it is set aside.
+Consequently, the directions in the notification under Section 154 (dated 14-11-2017)
+are hereby quashed.”
+
+78. A perusal of the aforesaid would clearly reveal that, though the directive issued by
+the State Government under Section 154 of the MRTP Act was issued in accordance
+with the directions issued by the NGT, this Court found such exercise not to be
+permissible in law. This Court held that the complete absence of any reasons as to
+why the State issued such directions, coupled with the lack of any supporting expert
+report or input, renders such a directive to be an arbitrary exercise of power. This
+Court, therefore, disapproved such a directive issued under Section 154 of the MRTP
+Act merely on the basis of the directions issued by the NGT and set aside the same.
+
+E. Development Plan 2041.
+
+79. In any case, we find that the appellants herein, while preparing the draft development plan, have
+taken into consideration the suggestions given by the NGT. Chapter 12.10 of the development plan
+elaborately considers the directions given by the NGT.
+
+80. Insofar as “Green Belt” areas, core areas and non-core areas are concerned, the development
+plan has considered as under:
+
+“12.11.4 Implication of Ld. NGT Order That it is a settled position of law that
+normally a Tribunal will deal with the controversy brought before it. That is to say, it
+will adjudicate upon case put up by any aggrieved party before it. Without conceding
+on the point of limitation, that the Learned Tibunal could have only adjudicated upon
+the case put up before it. The case put up before it in nutshell was that no
+construction should be allowed in forests and green belt area. As already submitted
+green belt areas are those areas in which the land is also owned by the private land
+owners and is occupied by the structures. As per IDP Provisions, only reconstruction
+is permitted in the area and that too on old lines. No new construction or increase in
+constructed area is permissible in these areas. So far as the forest lands are
+concerned, no construction upon that is permissible unless there is a clearance from
+the Central Government as per the provisions of Forest Conservation Act. Further, no
+construction is permissible on the forest land until or unless proposal is cleared by
+the Competent Authority i.e. Central Government, but while disposing of the case,
+the Learned Tribunal has entered the field, which does not belong to it. Whether the
+building should be one storey or three storeys is for the Competent Authority to
+decide. Town Planning does not come under the purview of the NGT. Further the
+state of Himachal Pradesh is not a non-compliant State. It has been taking care of
+environment and has also been taking care of Town Planning.”
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+28
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+81. Insofar as “Green Belt” areas are concerned, it has been found that “Green Belt” areas are those
+areas in which the land is also owned by the private land owners and is occupied by the structures. It
+provides that as per the provision, reconstruction would be permitted in the area and that too on old
+lines. No more new construction or increase in constructed area is permissible in these areas. It
+further provided that insofar as forest lands are concerned, no construction upon them would be
+permitted unless there is a clearance from the Central Government as per the provisions of the FC
+Act.
+
+82. Not only that, as has already been referred to hereinabove, the learned Advocate General has
+placed on record a Cabinet decision which provides that construction would be permitted only in
+those plots in which there are no trees. It is further pointed out that the construction in “Green Belt”
+areas, would be permitted only to the extent of single storey with attic.
+
+83. The development plan has elaborately considered as to how vertical construction will have to be
+preferred over the horizontal construction, inasmuch as the land to be utilized for actual
+construction would be lesser and there would be more open space.
+
+84. The development plan also consists of the Chapters on “Land Use Zoning” and “Development
+Control Regulations”. In “Green Belt” areas, limited construction with one parking floor + one floor
++ habitable attic would be permitted for residential use only. It is further clear that the parking floor
+is permissible only where the plot of land has an access to the motorable road. The maximum
+permissible height shall be 10 metre. The maximum permissible FAR shall be 1.0. The setbacks
+norms as prescribed for R1 use in core area shall be applicable. Reconstruction on old lines shall be
+permissible with same plinth area and number of storeys. Cutting and felling of trees shall be
+prohibited. Change of land use and building use shall be prohibited. So also detailed provision has
+been made for heritage land use as well as core areas and non- core areas.
+
+85. A special provision has been made for Sinking and Sliding Areas which reads thus:
+
+“17.2.2.9. Sinking and Sliding Area i. The development permission shall be granted by
+the Competent Authority in whose jurisdiction the Sinking and Sliding Area falls. ii.
+The Regulations as applicable for Core/Green Area and Non-Core Area shall be
+applicable in Sinking and Sliding Area.
+
+iii. The Soil Investigation Report shall be submitted by the applicant before
+construction/reconstruction of building(s) for the areas falling in sinking and sliding
+zones as defined in Shimla Planning Area, or for any reclaimed piece of land. The Soil
+Investigation Report shall be given by the Geologist in the prescribed form. In case of
+negative observations, the construction shall not be allowed/shall be allowed as per
+conditions imposed by the consultant.” It can thus clearly be seen that unless a Soil
+Investigation Report is provided by the applicant before construction/reconstruction
+of building(s) for the areas falling in Sinking and Sliding Zones as defined in SPA,
+construction would not be allowed or allowed only as per the conditions imposed by
+the consultant. The Soil Investigation Report is required to be given by the Geologist
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+29
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+in the prescribed form.
+
+86. It can thus be seen that while preparing the development plan, due care has been taken to
+ensure that environmental aspects are taken care of.
+
+87. We, however, do not propose to stamp our approval to all the provisions made in the
+development plan. In that regard, if any person feels aggrieved by any of the provisions, they would
+always be at liberty to take recourse to such remedy as is available in law.
+
+88. However, we are of the considered view that the NGT could not have directed the delegatee who
+has been delegated powers under the TCP Act to enact the regulations, to do so in a particular
+manner. As a matter of fact, the NGT has imposed fetters on the exercise of powers by the delegatee,
+who has been delegated such powers by the competent legislature. In any case, it is clear that there
+were sufficient safeguards under the provisions of the TCP Act inasmuch as an aggrieved citizen was
+entitled to raise objections, give suggestions and was also entitled to an opportunity of hearing on
+more than one occasion. The first one at the stage of finalization of the draft development plan by
+the Director, and the second one at the stage of grant of approval and publication of the final
+development plan by the State Government. We are informed that 97 objections were received to the
+draft development plan in the present case. An opportunity of being heard was given to all of them
+before finalization of the draft development plan. We are also informed that out of 97 objectors, all,
+except 5, had requested for more relaxation.
+
+89. The first order of NGT is also sought to be attacked by the appellants on the ground that the
+subject matter of the dispute did not concern any of the enactments listed in Schedule I of the NGT
+Act and therefore, the OA filed under Section 14 of the NGT Act itself was not tenable.
+
+90. Since we find that the first order of NGT is not sustainable on the ground of encroaching upon
+the powers of the delegatee to enact a delegated legislation and also amounts to imposing fetters on
+the exercise of such powers, we do not propose to go into the said issue and we keep the same open
+to be adjudicated upon in appropriate proceedings. Transferred Case (C) No. 2 of 2023.
+
+F. Whether the NGT was justified in passing the order dated 14th October 2022 when the High
+Court was seized of the same issue during the pendency of Civil Writ Petition No.5960 of 2022?
+
+91. Insofar as the second order of NGT is concerned, the same arises out of publication of the draft
+development plan on 8th February 2022. After the draft development plan was published, in all 97
+objections/suggestions were received by the State of Himachal Pradesh within the stipulated time
+period and the same were heard. After considering the objections and suggestions including the
+recommendations made by the NGT in its first order, the development plan was finalized for 22,450
+hectares of SPA upto the year 2041. However in the meantime, CWP Nos. 23 and 37 of 2022 were
+filed before the High Court of Himachal Pradesh praying inter alia for stay of the draft development
+plan.
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+30
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+92. Subsequent to the finalization of the draft development plan, the respondent No.1 herein filed
+another application being OA No. 297 of 2022 before the NGT. The NGT passed an ex parte ad
+interim order dated 12th May 2022 restraining the appellants herein from taking any further steps
+in pursuance of the draft development plan.
+
+93. Being aggrieved thereby, the State of Himachal Pradesh – appellant herein preferred CWP No.
+5960 of 2022 before the High Court of Himachal Pradesh under Article 226/227 of the Constitution
+of India. A prayer was made in the said writ petition to declare the order of the NGT dated 12th May
+2022 to be without jurisdiction. It was also prayed that the Town and Country Planning Department
+and Municipal Corporation be permitted to perform their statutory duties and be authorized to
+grant approvals, sanctions and building permissions in accordance with the development plan. The
+respondents therein have filed their reply to the said writ petition and the appellants filed their
+rejoinder.
+
+94. Despite the pendency of CWP No. 5960 of 2022 as well as other writ petitions relating to the
+same subject matter, the NGT passed its second order holding that the draft development plan,
+being in conflict with its first order, is illegal and therefore cannot be given effect to.
+
+95. Immediately after the said order was passed, the appellants filed an application before the High
+Court of Himachal Pradesh in CWP No. 5960 of 2022 seeking leave to amend the writ petition so as
+to challenge the order of the NGT dated 12th May 2022.
+
+96. This Court, vide order dated 14th November 2022, in Civil Appeal Nos. 5348-5349 of 2019,
+transferred the said CWP No. 5960 of 2022 before itself and directed it to be heard along with Civil
+Appeal Nos. 5348-5349 of 2019. The said writ petition has been renumbered as Transferred Case
+(C) No. 2 of 2023.
+
+97. At the outset, we allow the application seeking leave to amend the writ petition so as to challenge
+the second order of NGT and the impleadment application filed before the High Court of Himachal
+Pradesh.
+
+98. Subsequently, on 3rd May 2023, we passed an order in these proceedings, as under:
+
+“1. We are informed that on account of directions issued by the National Green
+Tribunal (NGT), the final development plan which is presently at the stage of ‘draft
+notification’ could not be published. We are further informed by the learned
+Advocate General for the State of Himachal Pradesh that 97 objections have been
+received to the draft development plan.
+
+2. In light of the facts and circumstances of these cases, we find that it will be
+appropriate, that the State Government decides the objections received to the draft
+development plan and after considering the same issue a final development plan.
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+31
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+3. We, therefore, direct the State of Himachal Pradesh to consider the objections to
+the draft development plan, decide them and publish the final development plan
+within a period of six weeks from today.
+
+4. We further clarify that after the final development plan is published, it would not
+be given effect to for a period of one month from the date of its publication.
+
+5. It is further directed that no construction should be permitted on the basis of the
+draft development plan.
+
+6. Learned counsel appearing for the impleadors submits that certain constructions
+are being carried out without there being a sanctioned plan.
+
+7. If any such construction is carried out without there being a sanctioned plan,
+indisputably, such a construction would be an unauthorized construction.
+
+8. We, therefore, grant liberty to the applicant(s) to take recourse to the remedy
+available under Article 226 of the Constitution of India and bring unauthorized
+constructions to the notice of the High Court.
+
+9. Needless to state that on such petitions being filed, the High Court would decide
+such petitions with due urgency that the issue requires.
+
+10. List these matters on 12.07.2023.”
+
+99. In pursuance of the aforesaid directions, the Town and Country Planning Department,
+Government of Himachal Pradesh had notified the final development plan on 20th June 2023.
+
+100. It could thus be seen that when the second order of NGT was passed, the writ petition
+challenging the interim order dated 12th May 2022 was very much pending before the High Court.
+Not only that, two other writ petitions being CWP Nos. 23 and 37 of 2022, challenging the draft
+development plan, were also pending before the High Court. It is thus clear that the High Court was
+in seisin of the matter related to finalization of the draft development plan.
+
+101. A Constitution Bench of this Court in the case of L. Chandra Kumar v. Union of India and
+Others27 was considering the issue regarding ouster of jurisdiction of this Court and the High
+Courts under Articles 32 and 226 of the Constitution of India as was provided under the
+Administrative Tribunals Act, 1985 (for short, “AT Act”). The AT Act was constituted under the
+enabling provisions of Article 323-A of the Constitution of India. Sub-clause (d) of Clause (2) of
+Article 323-A specifically enables the Parliament to legislate a law for establishment of AT Act and
+also provides for exclusion of jurisdiction of all the Courts except jurisdiction of (1997) 3 SCC 261 :
+1997 INSC 288 this Court under Article 136 with respect to disputes or complaints referred to in
+Clause (1). This Court after scanning the entire law on the question as to whether the powers of this
+Court and High Courts of judicial review as could be found in Articles 32 and 226 respectively
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+32
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+amounts to basic structure or not, observed thus in paragraph nos. 78 & 79:-
+
+“78. The legitimacy of the power of Courts within constitutional democracies to
+review legislative action has been questioned since the time it was first conceived.
+The Constitution of India, being alive to such criticism, has, while conferring such
+power upon the higher judiciary, incorporated important safeguards. An analysis of
+the manner in which the Framers of our Constitution incorporated provisions
+relating to the judiciary would indicate that they were very greatly concerned with
+securing the independence of the judiciary. These attempts were directed at ensuring
+that the judiciary would be capable of effectively discharging its wide powers of
+judicial review. While the Constitution confers the power to strike down laws upon
+the High Courts and the Supreme Court, it also contains elaborate provisions dealing
+with the tenure, salaries, allowances, retirement age of Judges as well as the
+mechanism for selecting Judges to the superior courts. The inclusion of such
+elaborate provisions appears to have been occasioned by the belief that, armed by
+such provisions, the superior courts would be insulated from any executive or
+legislative attempts to interfere with the making of their decisions. The Judges of the
+superior courts have been entrusted with the task of upholding the Constitution and
+to this end, have been conferred the power to interpret it. It is they who have to
+ensure that the balance of power envisaged by the Constitution is maintained and
+that the legislature and the executive do not, in the discharge of their functions,
+transgress constitutional limitations. It is equally their duty to oversee that the
+judicial decisions rendered by those who man the subordinate courts and tribunals
+do not fall foul of strict standards of legal correctness and judicial independence. The
+constitutional safeguards which ensure the independence of the Judges of the
+superior judiciary, are not available to the Judges of the subordinate judiciary or to
+those who man Tribunals created by ordinary legislations. Consequently, Judges of
+the latter category can never be considered full and effective substitutes for the
+superior judiciary in discharging the function of constitutional interpretation. We,
+therefore, hold that the power of judicial review over legislative action vested in the
+High Courts under Articles 226 and in this Court under Article 32 of the Constitution
+is an integral and essential feature of the Constitution, constituting part of its basic
+structure. Ordinarily, therefore, the power of High Courts and the Supreme Court to
+test the constitutional validity of legislations can never be ousted or excluded.
+
+79. We also hold that the power vested in the High Courts to exercise judicial
+superintendence over the decisions of all Courts and Tribunals within their respective
+jurisdictions is also part of the basic structure of the Constitution. This is because a
+situation where the High Courts are divested of all other judicial functions apart from
+that of constitutional interpretation, is equally to be avoided.”
+
+102. It could thus be clearly seen that this Court, even when a provision in the Constitution enabled
+the Parliament to make a law thereby excluding the powers of judicial review except under Article
+136 of the Constitution, held that the power of judicial review vested in the High Courts under
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+33
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+Articles 226 and in this Court under Article 32 of the Constitution, is an integral and essential
+feature of the Constitution, constituting part of its basic structure and, therefore, the power of High
+Courts and this Court to test the constitutional validity of legislations can never be ousted or
+excluded. This Court further goes on to observe that the power vested in the High Courts to exercise
+judicial superintendence over the decisions of all Courts and Tribunals within their respective
+jurisdictions is also part of the basic structure of the Constitution.
+
+103. It will be further relevant to refer to the following observations of this Court in paragraph nos.
+90 to 92 in the said case which read thus: -
+
+“90. We may first address the issue of exclusion of the power of judicial review of the
+High Courts. We have already held that in respect of the power of judicial review, the
+jurisdiction of the High Courts under Article 226/227 cannot wholly be excluded. It
+has been contended before us that the Tribunals should not be allowed to adjudicate
+upon matters where the vires of legislations is questioned, and that they should
+restrict themselves to handling matters where constitutional issues are not raised. We
+cannot bring ourselves to agree to this proposition as that may result in splitting up
+proceedings and may cause avoidable delay. If such a view were to be adopted, it
+would be open for litigants to raise constitutional issues, many of which may be quite
+frivolous, to directly approach the High Courts and thus subvert the jurisdiction of
+the Tribunals. Moreover, even in these special branches of law, some areas do involve
+the consideration of constitutional questions on a regular basis; for instance, in
+service law matters, a large majority of cases involve an interpretation of Articles 14,
+15 and 16 of the Constitution. To hold that the Tribunals have no power to handle
+matters involving constitutional issues would not serve the purpose for which they
+were constituted. On the other hand, to hold that all such decisions will be subject to
+the jurisdiction of the High Courts under Articles 226/227 of the Constitution before
+a Division Bench of the High Court within whose territorial jurisdiction the Tribunal
+concerned falls will serve two purposes.
+
+While saving the power of judicial review of legislative action vested in the High Courts under
+Article 226/227 of the Constitution, it will ensure that frivolous claims are filtered out through the
+process of adjudication in the Tribunal. The High Court will also have the benefit of a reasoned
+decision on merits which will be of use to it in finally deciding the matter.
+
+91. It has also been contended before us that even in dealing with cases which are properly before
+the Tribunals, the manner in which justice is dispensed by them leaves much to be desired.
+Moreover, the remedy provided in the parent statutes, by way of an appeal by special leave under
+Article 136 of the Constitution, is too costly and inaccessible for it to be real and effective.
+Furthermore, the result of providing such a remedy is that the docket of the Supreme Court is
+crowded with decisions of Tribunals that are challenged on relatively trivial grounds and it is forced
+to perform the role of a First Appellate Court. We have already emphasised the necessity for
+ensuring that the High Courts are able to exercise judicial superintendence over the decisions of
+Tribunals under Article 227 of the Constitution. In R.K. Jain's case, after taking note of these facts, it
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+34
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+was suggested that the possibility of an appeal from the Tribunals on questions of law to a Division
+Bench of a High Court within whose territorial jurisdiction the Tribunal falls, be pursued. It appears
+that no follow-up action has been taken pursuant to the suggestion. Such a measure would have
+improved matters considerably. Having regard to both the afore-stated contentions, we hold that all
+decisions of Tribunals, whether created pursuant to Article 323A or Article 323B of the Constitution,
+will be subject to the High Court's writ jurisdiction under Articles 226/227 of the Constitution,
+before a Division Bench of the High Court within whose territorial jurisdiction the particular
+Tribunal falls.
+
+92. We may add here that under the existing system, direct appeals have been provided from the
+decisions of all Tribunals to the Supreme Court under Article 136 of the Constitution. In view of our
+above- mentioned observations, this situation will also stand modified. In the view that we have
+taken, no appeal from the decision of a Tribunal will directly lie before the Supreme Court under
+Article 136 of the Constitution; but instead, the aggrieved party will be entitled to move the High
+Court under Articles 226/227 of the Constitution and from the decision of the Division Bench of the
+High Court the aggrieved party could move this Court under Article 136 of the Constitution.”
+
+104. It would thus reveal that the Constitution Bench of this Court in unequivocal terms has held
+that the Tribunals will have a power to handle matters involving constitutional issues. This Court
+held that if it is held that the Tribunals do not have power to handle matters involving constitutional
+issues, they could not serve the purpose for which they were constituted. It has further been
+observed that on the other hand to hold that all such decisions will be subject to jurisdiction of the
+High Court under Articles 226 and 227 of the Constitution of India and before Division Bench of
+High Court within whose jurisdiction the concerned Tribunal falls will serve two purposes. It held
+that while saving powers of judicial review of legislative action, vested in the High Courts under
+Articles 226 and 227 would ensure that frivolous claims are filtered out through the process of
+adjudication in the Tribunal. The High Court will also have the benefit of a reasoned decision on
+merits which will be of use to it in finally deciding the matter. The Constitution Bench of this Court
+clearly holds that all decisions of Tribunals, whether created pursuant to Article 323A or Article
+323B of the Constitution, will be subject to the High Court's writ jurisdiction under Articles 226/227
+of the Constitution, before a Division Bench of the High Court within whose territorial jurisdiction
+the particular Tribunal falls.
+
+105. The perusal of paragraph 92 of the judgment of the Constitution Bench would further reveal
+that the function of the Tribunals is only supplementary and all such decisions of the Tribunals
+would be subject to scrutiny before the Division Bench of respective High Courts. The Constitution
+Bench holds that all such Tribunals will continue to act as the only Courts of first instance in respect
+of areas of law for which they have been constituted. It has been held that it will not be open for a
+litigant to directly approach the High Courts even in cases where the question of vires of statutory
+legislations (except as mentioned where the legislations which creates the particular legislation) is
+challenged by availing the jurisdiction of the Tribunal concerned.
+
+106. It could thus clearly be seen that it is a settled position of law that the High Courts exercise the
+power of judicial review over all the Tribunals which are situated within its jurisdiction.
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+35
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+107. We may gainfully refer to the observations of this Court in the case of Priya Gupta and Another
+v. Additional Secretary, Ministry of Health and Family Welfare and Others28, wherein this Court
+has succinctly culled down the position as under : -
+
+(2013) 11 SCC 404 : 2012 INSC 601 “12. The government departments are no
+exception to the consequences of wilful disobedience of the orders of the Court.
+Violation of the orders of the Court would be its disobedience and would invite action
+in accordance with law. The orders passed by this Court are the law of the land in
+terms of Article 141 of the Constitution of India. No Court or Tribunal and for that
+matter any other authority can ignore the law stated by this Court. Such obedience
+would also be conducive to their smooth working, otherwise there would be
+confusion in the administration of law and the respect for law would irretrievably
+suffer.
+
+There can be no hesitation in holding that the law declared by the higher court in the State is
+binding on authorities and tribunals under its superintendence and they cannot ignore it. This Court
+also expressed the view that it had become necessary to reiterate that disrespect to the constitutional
+ethos and breach of discipline have a grave impact on the credibility of judicial institution and
+encourages chance litigation. It must be remembered that predictability and certainty are important
+hallmarks of judicial jurisprudence developed in this country, as discipline is sine qua non for
+effective and efficient functioning of the judicial system. If the Courts command others to act in
+accordance with the provisions of the Constitution and to abide by the rule of law, it is not possible
+to countenance violation of the constitutional principle by those who are required to lay down the
+law. (Ref. East India Commercial Co. Ltd. v. Collector of Customs and Officials Liquidator v.
+Dayanand) (SCC p.57, paras 90-91).”
+
+108. It could thus be seen that this Court in unequivocal terms held that no Court or Tribunal and
+for that matter any other authority can ignore the law stated by this Court. It held that such
+obedience would also be conducive to their smooth working, otherwise there would be confusion in
+the administration of law and the respect for law would irretrievably suffer. It has been held that the
+law declared by the higher court in the State is binding on authorities and tribunals under its
+superintendence and they cannot ignore it. This Court expressed a caution that it had become
+necessary to reiterate that disrespect to the constitutional ethos and breach of discipline have a
+grave impact on the credibility of judicial institution and encourages chance litigation. This Court
+further held that predictability and certainty are important hallmarks of judicial jurisprudence
+developed in this country, as discipline is sine qua non for effective and efficient functioning of the
+judicial system.
+
+109. In view of the settled legal position, we are of the view that the continuation of the proceedings
+by the NGT during the pendency of the writ petitions before the High Court was not in conformity
+with the principles of judicial propriety. Needless to state that the High Court of Himachal Pradesh,
+insofar as its territorial jurisdiction is concerned, has supervisory jurisdiction over the NGT. Despite
+pendency of the proceedings before the High Court including the one challenging the interim order
+dated 12th May 2022 passed by NGT, the NGT went ahead with the passing of the second order
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+36
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+impugned herein.
+
+110. It will also be relevant to refer to the observations of this Court in the case of Raghu
+Ramakrishna Raju Kanumuru (Member of Parliament) (supra), which read thus:
+
+“13. We are, therefore, of the considered view that it was not appropriate on the part
+of the learned NGT to have continued with the proceedings before it, specifically,
+when it was pointed out that the High Court was also in seisin of the matter and had
+passed an interim order permitting the construction. The conflicting orders passed by
+the learned NGT and the High Court would lead to an anomalous situation, where the
+authorities would be faced with a difficulty as to which order they are required to
+follow. There can be no manner of doubt that in such a situation, it is the orders
+passed by the constitutional courts, which would be prevailing over the overs passed
+by the statutory tribunals.”
+
+111. It can be seen from the perusal of the orders of the NGT itself that though the NGT was
+informed about the High Court being in seisin of the proceedings, it went on to hold that the
+judgment given by it was binding and therefore, the draft development plan, which in its view, was
+not in conformity with its judgment, was liable to be set aside.
+
+112. In any case, the second order of NGT is passed basically on the basis of the first order of NGT.
+Since we have held the first order of NGT itself to be not tenable in law, the second order of NGT
+which is solely based on the first order of NGT, is liable to be set aside, on the short ground. This,
+apart from the fact that as discussed hereinabove, on the ground of judicial propriety, the NGT
+ought not to have continued with the proceedings after the High Court was in seisin of the matter
+and specifically when it was informed about the same. G. Balancing the need for Development and
+Protection of the Environment.
+
+113. A need for maintaining a balance between the development and protection/preservation of
+environmental ecology has been emphasized by this Court time and again.
+
+114. A three-Judges Bench of this Court in the case of Indian Council for Enviro-Legal Action v.
+Union of India and Others29, has observed thus:
+
+“31. ….. While economic development should not be allowed to take place at the cost
+of ecology or by causing widespread environment destruction and violation; at the
+same time, the necessity to preserve ecology and environment should not hamper
+economic and other developments. Both development (1996) 5 SCC 281 : 1996 INSC
+237 and environment must go hand in hand, in other words, there should not be
+development at the cost of environment and vice versa, but there should be
+development while taking due care and ensuring the protection of environment. This
+is sought to be achieved by issuing notifications like the present, relating to
+developmental activities being carried out in such a way so that unnecessary
+environmental degradation does not take place. In other words, in order to prevent
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+37
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+ecological imbalance and degradation that developmental activity is sought to be
+regulated.”
+
+115. This Court, again in the case of Essar Oil Limited v. Halar Utkarsh Samiti and Others30,
+emphasizing on the need for removal of deadlock between the development on the one hand and the
+environment on the other hand, observed thus:
+
+“27. This, therefore, is the aim, namely, to balance economic and social needs on the
+one hand with environmental considerations on the other. But in a sense all
+development is an environmental threat. Indeed, the very existence of humanity and
+the rapid increase in the population together with consequential demands to sustain
+the population has resulted in the concreting of open lands, cutting down of forests,
+the filling up of lakes and pollution of water resources and the very air which we
+breathe. However, there need not necessarily be a deadlock between development on
+the one hand and the environment on the other. The objective of all laws on
+environment should be to create harmony between the two since neither one can be
+sacrificed at the altar of the other…..” (2004) 2 SCC 392 : 2004 INSC 40
+
+116. Emphasizing the need for sustainable development by balancing between the environmental
+protection and developmental activities, this Court, in the case of N.D. Jayal and Another v. Union
+of India and Others31, observed thus:
+
+“22. Before adverting to other issues, certain aspects pertaining to the preservation of
+ecology and development have to be noticed. In Vellore Citizens' Welfare Forum v.
+Union of India [(1996) 5 SCC 647] and in M.C. Mehta v. Union of India [(2002) 4
+SCC 356] it was observed that the balance between environmental protection and
+developmental activities could only be maintained by strictly following the principle
+of “sustainable development”. This is a development strategy that caters to the needs
+of the present without negotiating the ability of upcoming generations to satisfy their
+needs. The strict observance of sustainable development will put us on a path that
+ensures development while protecting the environment, a path that works for all
+peoples and for all generations. It is a guarantee to the present and a bequeath to the
+future. All environment-related developmental activities should benefit more people
+while maintaining the environmental balance. This could be ensured only by strict
+adherence to sustainable development without which life of the coming generations
+will be in jeopardy.”
+
+117. Again, in the said case, stressing on the right to clean environment to be a right guaranteed
+under Article 21 of the Constitution and also noting that the right to development also (2004) 9 SCC
+362 : 2003 INSC 438 is a component of Article 21 of the Constitution, this Court observed thus:
+
+“24. The right to development cannot be treated as a mere right to economic
+betterment or cannot be limited as a misnomer to simple construction activities. The
+right to development encompasses much more than economic well-being, and
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+38
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+includes within its definition the guarantee of fundamental human rights. The
+“development” is not related only to the growth of GNP. In the classic work,
+Development As Freedom, the Nobel prize winner Amartya Sen pointed out that “the
+issue of development cannot be separated from the conceptual framework of human
+right”. This idea is also part of the UN Declaration on the Right to Development. The
+right to development includes the whole spectrum of civil, cultural, economic,
+political and social process, for the improvement of peoples' well-being and
+realization of their full potential. It is an integral part of human rights. Of course,
+construction of a dam or a mega project is definitely an attempt to achieve the goal of
+wholesome development. Such works could very well be treated as integral
+component for development.”
+
+118. Recently, in the case of Rajeev Suri (supra), emphasizing the need for sustainable development,
+this Court observed thus:
+
+“520. The principle of sustainable development and precautionary principle need to
+be understood in a proper context. The expression “sustainable development”
+incorporates a wide meaning within its fold. It contemplates that development ought
+to be sustainable with the idea of preservation of natural environment for present
+and future generations. It would not be without significance to note that sustainable
+development is indeed a principle of development, it posits controlled development.
+The primary requirement underlying this principle is to ensure that every
+development work is sustainable; and this requirement of sustainability demands
+that the first attempt of every agency enforcing environmental rule of law in the
+country ought to be to alleviate environmental concerns by proper mitigating
+measures. The future generations have an equal stake in the environment and
+development. They are as much entitled to a developed society as they are to an
+environmentally secure society.
+
+521. By the Declaration on the Right to Development, 1986, the United Nations has
+given express recognition to a right to development. Article 1 of the Declaration
+defines this right as:
+
+“1. The right to development is an inalienable human right by virtue of which every
+human person and all peoples are entitled to participate in, contribute to, and enjoy
+economic, social, cultural and political development, in which all human rights and
+fundamental freedoms can be fully realized.”
+
+522. The right to development, thus, is intrinsically connected to the preservance of a
+dignified life. It is not limited to the idea of infrastructural development, rather, it
+entails human development as the basis of all development. The jurisprudence in
+environmental matters must acknowledge that there is immense interdependence
+between the right to development and the right to natural environment.
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+39
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+523. In International Law and Sustainable Development, Arjun Sengupta in the
+chapter “Implementing the Right to Development [International Law and
+Sustainable Development — Principles and Practice (Publisher : Martinus Nijhoff,
+Edn. 2004) p.
+
+354.] ” notes thus:
+
+“… Two rights are interdependent if the level of enjoyment of one is dependent on the
+level of enjoyment of the other…””
+
+119. In the case of Resident’s Welfare Association (supra), this Court, speaking through one of us
+(B.R. Gavai, J.), observed thus:
+
+“151. One another important aspect that needs to be taken into consideration is the
+adverse impact on environment on account of haphazard urbanisation. It will be
+relevant to refer to Clause 20.3 of the CMP-
+
+2031 which we have already reproduced hereinabove. It has been recommended that
+an Effective Environmental Management Plan be devised for the region including
+Chandigarh, which includes environmental strategy, monitoring regulation,
+institutional capacity building and economic incentives. It is observed that the
+proposal needs a legal framework and a monitoring committee to examine the
+regional level proposals/big developments by the constitution of an Inter-State
+High-Powered Regional Environmental Management Board, as per the proposal of
+the Ministry of Environment and Forests, Government of India.
+
+152. The United Nations Environment Programme (“UNEP”) notes in its publication
+titled “Integrating the Environment in Urban Planning and Management — Key
+Principles and Approaches for Cities in the 21st Century” that more than half of the
+world's population is now living in urban areas. It further noted that by the year
+2050, more than half of Africa and Asia's population will live in towns and cities. It
+recognised that City Development Strategies (“CDSs”) have shown how to integrate
+environmental concerns in long-term city visioning exercises. It states that
+environmental mainstreaming can help to incorporate relevant environmental
+concerns into the decisions of institutions, while emerging ideas about the green
+urban economy show how density can generate environmental and social
+opportunities. It states that the strategies need to be underpinned with governance
+structures that facilitate integration of environmental concerns in the planning
+process.
+
+153. The said publication defines EIA to be an analytical process or procedure that
+systematically examines the possible environmental consequences of the
+implementation of a given activity (project). It is aimed to ensure that the
+environmental implications of decisions related to a given activity are taken into
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+40
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+account before the decisions are made.
+
+154. Judicial notice is also taken of the cover story published in the weekly, India
+Today, dated 24-10-
+
+2022, titled as “Bengaluru — How to Ruin India's Best City” by Raj Chengappa with Ajay
+Sukumaran. The said article depicts the sorry state of affairs as to how the City of Bengaluru, once
+considered to be one of India's best cities, a “Garden city” has been ruined on account of haphazard
+urban development. It takes note of as to how on account of one major spell of rain in the September
+of 2022, the city bore the brunt of nature's fury. Various areas of the city were inundated with heavy
+rains. The loss the flood caused to the Outer Ring Road tech corridor alone was estimated to be over
+Rs 225 crores.
+
+155. The article notes that, while on one hand, on account of heavy rains, many of the houses were
+submerged in water, on the other hand, the city faced a huge shortage of drinking water.
+
+156. The article further notes that rapid expansion of the city with no appropriate thought given
+towards transportation and ease of mobility has led to nightmarish traffic jams on its arterial roads.
+It notes that, almost overnight, Bengaluru's municipal jurisdiction grew from 200 sq km to 800 sq
+km. It observes that the only one to benefit was the politician-businessman-builder nexus, which
+has thrived. It further noted that though posh colonies mushroomed in new areas, the infrastructure
+lagged, as roads remained narrow, the drainage poor, and no adequate provision for garbage
+disposal too.
+
+157. The article notes that the primary canals known locally as rajakaluves were once natural
+rain-fed streams across which farmers built small bunds over time, to arrest the flow of water and
+create lakes. It further notes that these interlinked man-made lakes worked as a storm-water drain
+network. However, in order to meet the demand for space for construction and roads, the
+administrators allowed the lakes to be breached regularly. The lakes, which once numbered a
+thousand-odd, are now reduced to a paltry number. Worse, the rajakaluves that channelised the
+storm water had buildings built over them.
+
+158. The warning flagged by the City of Bengaluru needs to be given due attention by the legislature,
+executive and the policy-makers. It is high time that before permitting urban development, EIA of
+such development needs to be done.”
+
+120. Again, while emphasizing the need for balancing the development along with preservation of
+ecology and environment, this Court, speaking through one of us (B.R. Gavai, J.), in the case of State
+of Uttar Pradesh and Others v. Uday Education and Welfare Trust and Others32, while referring to
+the earlier judgments on the issue observed thus:
+
+“100. Though we are allowing the appeals, setting aside the orders of the learned
+NGT, and upholding the action of the State Government in granting licenses, we
+would like to remind the State and its authorities that it is their duty to protect the
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+41
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+environment. The State and its authorities should ensure that necessary steps are
+taken for arresting the problem of declining forest and tree cover. The State and its
+authorities should make meaningful and concerted efforts to ensure that the green
+cover in the State of Uttar Pradesh is not reduced and to ensure that it increases.
+
+101. The conservation of forest plays a vital role in maintaining the ecology. It acts as
+processors of the water cycle and soil and also as providers of livelihoods. As such,
+preservation and sustainable management of forests deserve to be given due
+importance in formulation of policies by the State. In this regard, it will be apposite
+to refer to certain earlier pronouncements of this Court.
+
+(a) In the case of Samatha v. State of A.P. [AIR 1997 SC 3297 : (1997) 8 SCC 191], a
+three-Judge Bench of this Court after referring to the earlier judgment in the case of
+State of H.P. v. Ganesh Wood Products [(1995) 6 SCC 363] observed that, even while
+considering the grant of renewal of mining leases, the provisions of the Forest
+(Conservation) Act, 1980 and the Environment (Protection) Act, 1986 would apply.
+This Court held that the MOEF and all the States have a duty to prevent mining
+operations affecting forests. It further observed that, whether mining operations are
+carried on within 2022 SCC OnLine SC 1469 : 2022 INSC 465 the reserved forest or
+other forest area, it is their duty to ensure that the industry or enterprise does not
+denude the forest to become a menace to human existence nor a source to destroy
+flora and fauna and biodiversity. It has further been held that if it becomes inevitable
+to disturb the existence of forests, there is a concomitant duty upon the State to
+reforest and restore the green cover and to ensure adequate measures to promote,
+protect and improve both man-made and natural environment, flora and fauna as
+well as biodiversity. It further held that there can be no distinction between
+government forests and private forests in the matter of forest wealth of the nation
+and in the matter of environment and ecology.
+
+(b) In the case of Essar Oil Ltd. v. Halar Utkarsh Samiti [(2004) 2 SCC 392], this
+Court discussed the need for a balance between the economic and social needs and
+development on the one hand and environment considerations on the other.
+
+It was observed that laws on environment should be to create harmony between the two since
+neither one can be sacrificed at the altar of the other. In this regard, the observations of this Court in
+the case of Indian Council for Enviro-Legal Action v. Union of India [(1996) 5 SCC 281] were quoted
+as under:
+
+“While economic development should not be allowed to take place at the cost of
+ecology or by causing widespread environment destruction and violation; at the same
+time, the necessity to preserve ecology and environment should not hamper
+economic and other developments. Both development and environment must go
+hand in hand, in other words, there should not be development at the cost of
+environment.”
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+42
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+(c) In the case of Maharashtra Land Development Corporation v. State of
+Maharashtra [(2011) 15 SCC 616] reference was made to Glanrock Estate Private
+Limited v. State of Tamil Nadu [(2010) 10 SCC 96] wherein it was observed as under:
+
+“27. …. Forests in India are an important part of the environment. They constitute [a]
+national asset. In various judgments of this Court delivered by the Forest Bench of
+this Court in T.N. Godavarman Thirumulpad v. Union of India (Writ Petition No. 202
+of 1995), it has been held that ‘intergenerational equity’ is part of Article 21 of the
+Constitution.
+
+28. What is intergenerational equity? The present generation is answerable to the next generation
+by giving to the next generation a good environment.
+
+We are answerable to the next generation and if deforestation takes place rampantly then
+intergenerational equity would stand violated.
+
+29. The doctrine of sustainable development also forms part of Article 21 of the Constitution.
+
+The ‘precautionary principle’ and the ‘polluter pays principle’ flow from the core value in Article 21.
+
+30. The important point to be noted is that in this case we are concerned with vesting of forests in
+the State. When we talk about intergenerational equity and sustainable development, we are
+elevating an ordinary principle of equality to the level of overarching principle.”
+
+(d) Of course, one cannot ignore one of the several dicta of this Court in T.N. Godavarman
+Thirumulkpad v. Union of India [(1997) 2 SCC 267 : AIR 1997 SC 1228] wherein this Court
+enunciated the definition of “forest” in the following words:
+
+“4. The Forest Conservation Act, 1980 was enacted with a view to check further
+deforestation which ultimately results in ecological imbalance;
+
+and therefore, the provisions made therein for the conservation of forests and for
+matters connected therewith, must apply to all forests irrespective of the nature of
+ownership or classification thereof. The word “forest” must be understood according
+to its dictionary meaning. This description covers all statutorily recognised forests,
+whether designated as reserved, protected or otherwise for the purpose of Section
+2(i) of the Forest Conservation Act.
+
+The term “forest land”, occurring in Section 2, will not only include “forest” as
+understood in the dictionary sense, but also any area recorded as forest in the
+Government record irrespective of the ownership. This is how it has to be understood
+for the purpose of Section 2 of the Act.
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+43
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+The provisions enacted in the Forest Conservation Act, 1980 for the conservation of
+forests and the matters connected therewith must apply clearly to all forests so
+understood irrespective of the ownership or classification thereof…”
+
+102. Though we find that for the sustainable development of the State and on account
+of the availability of the timber, sanction of granting licenses can be permitted to
+continue, however, as a responsible State, it needs to ensure that environmental
+concerns are duly attended to. We, therefore, direct the State Government to ensure
+that while granting permission for felling trees of the prohibited species, it should
+strictly ensure that the permission is granted only when the conditions specified in
+the Notification dated 7th January 2020 are satisfied. The State Government shall
+also ensure that when such permissions are granted to the applicants, the applicants
+scrupulously follow the mandate in the said notification of planting 10 trees against 1
+and maintaining them for five years.”
+
+121. It is needless to state that, this Court, in a series of judgments and orders passed
+in the case of T.N. Godavarman Thirumulkpad v. Union of India and Others33 and
+lastly 2023 INSC 430 vide order dated 26th April 2023, passed by a three-Judges
+Bench to which one of us (B.R. Gavai, J.) was a member, has emphasized the need to
+have a balance between the requirement of development and preservation of ecology
+and environment.
+
+122. It is thus clear that while ensuring the developmental activities so as to meet the
+demands of growing population, it is also necessary that the issues with regard to
+environmental and ecological protection are addressed too.
+
+V. CONCLUSION
+
+123. We have gone through the development plan. The development plan has been finalized after
+taking into consideration the reports of various expert committees and the studies undertaken with
+regard to various aspects including environmental and ecological aspects.
+
+124. We, however, clarify that we have not considered the development plan in minute details. Upon
+its prima facie consideration, we have come to a view that there are sufficient safeguards to balance
+the need for development while taking care of and addressing the environmental and ecological
+concerns. We may however not be construed as giving our imprimatur to the said development plan.
+At the same time, it cannot be ignored that the development plan has been finalized after various
+experts from various fields including those concerned with urban planning, environment etc., were
+taken on board. It also cannot be ignored that the development plan has been finalized after
+undergoing the rigorous process including that of inviting objections and suggestions at two stages,
+giving the hearing to such objectors and suggesters and after considering the same. If any of the
+citizen has any grievance that any provision is detrimental to the environment or ecology, it is
+always open to raise a challenge to such an independent provision before the appropriate forum.
+Such a challenge can be considered in accordance with law. But, in our view, the development plan,
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+44
+
+The State Of Himachal Pradesh vs Yogendra Mohan Sengupta on 11 January, 2024
+
+which has been finalized after taking recourse to the statutory provisions and undergoing the rigors
+thereto, cannot be stalled in entirety thereby putting the entire developmental activities to a
+standstill.
+
+125. Insofar as the grievance of the Interveners, who are the plot holders in the ‘Green Belt’ area,
+with regard to payment of compensation is concerned, we find that the said issue would be beyond
+the scope of the present proceedings. We, therefore, without specifying any opinion on such claim,
+relegate the interveners to avail the appropriate remedy available to them in law.
+
+126. In the result, we pass the following order:
+
+(i) The Civil Appeal Nos. 5348-49 of 2019 as well as the Transferred Case (C) No. 2 of
+2023 are allowed;
+
+(ii) The orders of the NGT dated 16th November 2017 in Original Application No. 121
+of 2014, dated 16th July 2018 in Review Application No. 8 of 2018, dated 12th May
+2022 and 14th October 2022 in Original Application No. 297 of 2022 are quashed
+and set aside; and
+
+(iii) The appellant-State of Himachal Pradesh and its instrumentalities are permitted
+to proceed with the implementation of the development plan as published on 20th
+June 2023 subject to what has been observed by us hereinabove.
+
+127. In the facts and circumstances of the present case, there is no order as to costs.
+
+128. Pending application(s), if any, shall stand disposed of in the above terms.
+
+….……..….......................J. [B.R. GAVAI] ……………..….........................J. [ARAVIND KUMAR] NEW
+DELHI;
+
+JANUARY 11, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/157051080/
+
+45
+
+

@@ -1,0 +1,16 @@
+{
+  "case_number": "CIVIL APPEAL Nos. 3504-3505 OF 2010",
+  "parties": {
+    "petitioner": "M/s. Gas Authority of India Limited",
+    "respondent": "M/s. Indian Petrochemicals Corp. Ltd. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-02-08",
+  "summary": "The dispute involves the validity of Clauses 10.01 and 4.04 of a gas supply contract between GAIL and IPCL, which imposed transportation and service charges. IPCL challenged these clauses as unfair, unconscionable, and contrary to government pricing orders, arguing unequal bargaining power and GAIL's monopolistic position. The High Court quashed the clauses and directed refund of charges. GAIL appealed, contesting maintainability of the writ petition due to arbitration clauses and limitation. The Supreme Court examined the contractual nature, public law element, and fairness of the clauses.",
+  "legal_provisions_cited": [
+    "Article 226 of the Constitution of India",
+    "Joshi Technologies International Inc. v. Union of India & Ors.",
+    "Lipton India Ltd. & Ors. v. Union of India & Ors."
+  ],
+  "final_judgment": "Appeal disposed of with directions to determine the matter on merits in arbitration proceedings, upholding the contractual dispute resolution mechanism."
+}

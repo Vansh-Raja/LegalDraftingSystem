@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No.2029 of 2022",
+  "parties": {
+    "petitioner": "Abhay Jain",
+    "respondent": "The High Court of Judicature for Rajasthan and Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-15",
+  "summary": "The appellant, Abhay Jain, a judicial officer appointed in 2013, was discharged during probation in 2016 after granting bail to an accused in a corruption case, despite the Rajasthan High Court having earlier dismissed the same accused's bail application. The High Court initiated departmental inquiry, citing misconduct for not recognizing the prior dismissal and allegedly acting with oblique motives. The Higher Judicial Committee did not recommend confirmation, and the Full Court discharged him. The appellant challenged the discharge order and inquiry proceedings via writ petition, which was dismissed. The Supreme Court examined the case, focusing on procedural fairness, absence of personal hearing during preliminary stages, and proportionality of discharge without concluded inquiry.",
+  "legal_provisions_cited": [
+    "Article 233(1), Constitution of India",
+    "Rajasthan Judicial Services Rules, 2010",
+    "Rule 16, Rajasthan Civil Services (Classification, Control and Appeal) Rules, 1958",
+    "Rajasthan Civil Services (Conduct Rules), 1971",
+    "Section 19, Prevention of Corruption Act, 1988"
+  ],
+  "final_judgment": "The Supreme Court set aside the order of discharge and remanded the matter to the concerned authority for fresh consideration in accordance with law, holding that the discharge during pendency of inquiry without affording full opportunity of hearing was procedurally unjust and violated principles of natural justice."
+}

@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. of 2022 (Arising out of SLP (C) No. 3187 of 2021)",
+  "parties": {
+    "petitioner": "Essar House Private Limited",
+    "respondent": "Arcellor Mittal Nippon Steel India Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-14",
+  "summary": "The appeals challenged the Bombay High Court's dismissal of appeals against interim orders under Section 9 of the Arbitration and Conciliation Act, 1996, directing Essar House and Essar Services to deposit ₹35.5 crores and ₹47.41 crores respectively, or furnish bank guarantees, in favor of Arcellor Mittal Nippon Steel. The dispute arose from security deposits under rental and service agreements with Essar Steel, which were allegedly adjusted against third-party debts. The Supreme Court examined whether such adjustments invalidated the refund obligation post-resolution under IBC. The High Court’s confirmation of deposit orders was under challenge.",
+  "legal_provisions_cited": [
+    "Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Insolvency and Bankruptcy Code, 2016, Section 7",
+    "Committee of Creditors of Essar Steel India v. Satish Kumar Gupta & Ors. (2020) 8 SCC 531"
+  ],
+  "final_judgment": "Leave granted; appeals allowed in part with directions for further proceedings consistent with the judgment."
+}

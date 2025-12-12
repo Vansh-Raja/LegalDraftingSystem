@@ -1,0 +1,19 @@
+{
+  "case_number": "CIVIL APPEAL NOS. 517-518 OF 2017",
+  "parties": {
+    "petitioner": "Union Of India & Anr.",
+    "respondent": "Manpreet Singh Poonam etc."
+  },
+  "court_name": "SUPREME COURT OF INDIA",
+  "date_of_judgment": "2022-03-08",
+  "summary": "The appeals challenged the High Court's decision allowing retired and promoted officers to claim promotion or pay upgradation to Junior Administrative Grade-I (JAG-I). Key issues included whether a voluntary retiree can claim promotion as a right, and whether delay in promotion consideration creates a vested right. The Court held that JAG-I is a promotional post governed by specific rules (2003 Rules), not mere upgradation; promotion requires actual vacancies and adherence to Departmental Promotion Committee (DPC) process. Since vacancies arose only in 2011, retrospective promotion to 2009 was unwarranted. The High Court and CAT erred in treating the post as upgradable without regard to rule-based vacancy conditions.",
+  "legal_provisions_cited": [
+    "Rule 4 of the National Capital Territory of Delhi, Andaman and Nicobar Islands, Lakshadweep, Daman and Diu and Dadra and Nagar Haveli (Civil Service) Rules, 2003",
+    "Rule 7 of the 2003 Rules",
+    "Schedule I and Schedule III of the 2003 Rules",
+    "Indian Administrative Service (Appointment by promotion) Regulations, 1954",
+    "IAS (Regulations of Seniority) Rules, 1987",
+    "Circular No. AB.14017/47/2011-EST (DR) dated 01.08.2012"
+  ],
+  "final_judgment": "Appeals allowed. The orders of the High Court and CAT set aside. The respondents not entitled to claim promotion or pay upgradation with effect from 2009. The appellant not obligated to grant retrospective promotion in absence of actual vacancies and rule compliance."
+}

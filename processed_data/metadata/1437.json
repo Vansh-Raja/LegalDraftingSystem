@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal Nos. 7634-7635 of 2022",
+  "parties": {
+    "petitioner": "Professor (Dr.) Sreejith P.S.",
+    "respondent": "Dr. Rajasree M.S. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-21",
+  "summary": "The case involved a challenge to the appointment of Dr. Rajasree M.S. as Vice Chancellor of APJ Abdul Kalam Technological University, alleging non-compliance with UGC Regulations, 2010. The petitioner argued that the Search Committee was improperly constituted and only one name was recommended, contrary to UGC norms requiring a panel of 3–5. The High Court had dismissed the writ petition and review petition, relying on Kalyanji Mathivanan v. K.V. Jeyaraj, holding State legislation prevails unless UGC Regulations are adopted. The Supreme Court considered whether UGC Regulations override State law and whether the Search Committee was validly constituted. The Court referenced Gambhirdan K. Gadhvi v. State of Gujarat and Anindya Sundar Das v. State of West Bengal, affirming that UGC Regulations prevail over conflicting State laws under the doctrine of repugnancy under Article 254 of the Constitution, as education is in the Concurrent List. The Court held that UGC Regulations, though subordinate legislation, must prevail if State law is inconsistent, and such regulations are binding even without formal adoption. It found the Search Committee's constitution and recommendation process non-compliant with both UGC Regulations and the State Act, rendering the appointment invalid.",
+  "legal_provisions_cited": [
+    "Section 13 of the University Act, 2015",
+    "UGC Regulations, 2010",
+    "UGC Regulations, 2013",
+    "Article 254 of the Constitution of India",
+    "Schedule VII (Concurrent List), Constitution of India",
+    "University Grants Commission Act, 1956, Sections 12, 14, 26(1)(e) & (g)"
+  ],
+  "final_judgment": "The appeals were allowed. The impugned judgments of the High Court were set aside. The appointment of Dr. Rajasree M.S. as Vice Chancellor was declared void ab initio, and a writ of quo warranto was issued."
+}

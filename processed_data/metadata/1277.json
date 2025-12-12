@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal Nos. 859-860 of 2022",
+  "parties": {
+    "petitioner": "Future Coupons Private Limited & Ors.",
+    "respondent": "Amazon.com NV Investment Holdings LLC"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-01",
+  "summary": "The dispute arose from Amazon's enforcement of an Emergency Arbitrator's Award issued by SIAC, prohibiting Future Retail Limited (FRL) and Future Coupons Private Limited (FCPL) from proceeding with the sale of retail assets to the Reliance Group. Amazon had invested in FCPL and alleged breach of SHA clauses that restricted transfer of retail assets to 'Restricted Persons', including Reliance. The Delhi High Court initially declined to enforce the Award, citing conflicting interim orders and balance of convenience. The Supreme Court examined the validity and enforceability of emergency arbitral awards under Section 17(2) of the Arbitration and Conciliation Act, 1996, and the interplay between court-ordered injunctions and arbitral relief. Key issues included the binding nature of Emergency Arbitrator decisions, adherence to natural justice in urgent proceedings, and the enforceability of foreign seated awards in India.",
+  "legal_provisions_cited": [
+    "Section 17(2), Arbitration and Conciliation Act, 1996",
+    "Sections 230-232, Companies Act, 2013",
+    "FEMA and FDI Rules",
+    "Arbitration Rules of the Singapore International Arbitration Center (SIAC)"
+  ],
+  "final_judgment": "The Supreme Court set aside the Delhi High Court's orders and upheld the enforceability of the Emergency Arbitrator's Interim Award under Section 17(2), directing compliance with the Award and reinforcement of injunctions against the appellants from proceeding with the transaction involving retail assets in favor of Reliance Group pending final arbitration."
+}

@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 3490 of 2022",
+  "parties": {
+    "petitioner": "State Bank of India & Anr.",
+    "respondent": "K.S. Vishwanath"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-20",
+  "summary": "The appeal challenged the Karnataka High Court's dismissal of SBI's writ appeal against the acquittal of a delinquent officer, K.S. Vishwanath, who was accused of fraudulently withdrawing ₹10 lakhs using a forged letter. The Enquiry Officer found charges of fraud and non-disclosure of assets partly proven, leading to dismissal from service. The High Court set aside the penalty, citing lack of conclusive evidence and violation of natural justice. The SBI argued that the High Court exceeded judicial review scope by reappreciating evidence. The respondent highlighted his clean record, acquittal in criminal proceedings, and absence of concrete proof linking him to the forgery. The core issue was whether the High Court improperly interfered with departmental enquiry findings.",
+  "legal_provisions_cited": [
+    "Article 226 of the Constitution of India",
+    "Article 227 of the Constitution of India",
+    "State of Karnataka vs. N. Ganga Raj, (2020) 3 SCC 423",
+    "Nand Kishore Prasad vs. State of Bihar & Others, AIR 1978 SC 1277"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, set aside the impugned judgment of the High Court, and restored the penalty of dismissal imposed by the Bank, holding that the High Court had exceeded its jurisdiction by reappreciating evidence and interfering with concurrent findings of fact."
+}

@@ -1,0 +1,27 @@
+{
+  "case_number": "Criminal Appeal No. 2310 of 2022 (Arising out of Special Leave Petition (Criminal) No. 8488 of 2022)",
+  "parties": {
+    "petitioner": "Hashmukhlal D. Vora & Anr.",
+    "respondent": "The State of Tamil Nadu"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-16",
+  "summary": "The appellants, engaged in trading raw material chemicals, challenged the dismissal of their plea to quash a criminal complaint under Section 482 Cr.PC. The complaint alleged violation of Section 18(c) of the Drugs and Cosmetics Act, 1940 read with Rule 65(5)(1)(b) of the Drugs and Cosmetics Rules, 1945, for breaking bulk pyridoxal-5-phosphate and repackaging it for sale. The appellants argued the substance is a food ingredient under the Food Safety and Standards Act, 2006, not a drug, and that Schedule K and Rule 123 exempt such dual-use substances from manufacturing requirements. They also held valid wholesale drug licenses. The Court examined whether the complaint disclosed a cognizable offence, applying established standards from Bhajan Lal, Golconda Linga Swamy, and R.P. Kapur, emphasizing that quashing is justified if no prima facie case exists, or if proceedings are an abuse of process. The Court found the issue to be factual and triable, requiring evidence appreciation, and thus not amenable to quashing under Section 482 Cr.PC.",
+  "legal_provisions_cited": [
+    "Section 482 Cr.P.C.",
+    "Section 18(c) of the Drugs and Cosmetics Act, 1940",
+    "Rule 65(5)(1)(b) of the Drugs and Cosmetics Rules, 1945",
+    "Section 3(b) of the Drugs and Cosmetics Act, 1940",
+    "Section 3(1)(j) of the Food Safety and Standards Act, 2006",
+    "Schedule K of the Drugs and Cosmetics Rules, 1945",
+    "Rule 123 of the Drugs and Cosmetics Rules, 1945",
+    "Section 22 of the Drugs and Cosmetics Act, 1940",
+    "Section 23 of the Drugs and Cosmetics Act, 1940",
+    "Forms 20B and 21B of the Drugs and Cosmetics Rules, 1945",
+    "Article 226 of the Constitution of India",
+    "State Of Haryana & Ors. Vs Bhajan Lal & Ors. (1992 Supp 1 SCC 335)",
+    "State of Andhra Pradesh Vs. Golconda Linga Swamy & Anr. (2004) 6 SCC 522",
+    "R.P. Kapur Vs. State of Punjab (1960) 3 SCR 388"
+  ],
+  "final_judgment": "The appeal was dismissed. The Court upheld the Madras High Court's decision not to quash the criminal complaint, holding that the issue involves factual disputes requiring trial and appreciation of evidence, and does not fall within the narrow ambit of inherent powers under Section 482 Cr.P.C. The proceedings were allowed to continue."
+}

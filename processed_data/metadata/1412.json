@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. ... of 2022 (@ S.L.P. (CIVIL) No.30240 of 2019)",
+  "parties": {
+    "petitioner": "NKGSB Cooperative Bank Limited",
+    "respondent": "Subir Chakravarty & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-25",
+  "summary": "The central issue was whether a District Magistrate (DM) or Chief Metropolitan Magistrate (CMM) can appoint an advocate to take possession of secured assets under Section 14(1A) of the SARFAESI Act, 2002. The Bombay High Court held such appointment illegal, as advocates are not subordinate officers, while the Madras High Court upheld it, treating advocates as officers of the court. Conflicting views from Kerala, Delhi, and Madras High Courts were noted. The Supreme Court examined the phrase 'officer subordinate to him' in Section 14(1A), considering implied powers and statutory interpretation. The Court ultimately resolved the legal question concerning delegation of possession powers to advocates under SARFAESI.",
+  "legal_provisions_cited": [
+    "Section 14(1A), Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002",
+    "Section 13(2), SARFAESI Act, 2002",
+    "Article 226, Constitution of India",
+    "Article 227, Constitution of India",
+    "Sakiri Vasu vs. State of Uttar Pradesh & Ors.",
+    "Muhammed Ashraf & Anr. vs. Union of India & Ors.",
+    "M/s. J. Marks Exim (India) Pvt. Ltd. vs. Punjab National Bank"
+  ],
+  "final_judgment": "Pending"
+}

@@ -1,0 +1,1552 @@
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+T. Takano vs Securities And Exchange Board Of India on 18
+February, 2022
+
+Author: D.Y. Chandrachud
+
+Bench: Sanjiv Khanna, Dhananjaya Y Chandrachud
+
+Reportable
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+Civil Appeal Nos. 487-488 of 2022
+
+T. Takano                                               … Appellant
+
+Versus
+
+Securities and Exchange Board of India & Anr.           … Respondents
+
+J U D G M E N T   D r   D h a n a n j a y a   Y   C h a n d r a c h u d ,   J   A .   F a c t u a l   B a c k g r o u n d
+.......................................................................................... 3 B Submissions of Counsel
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   1 0   C .   A n a l y s i s
+.......................................................................................................... 16 C.1 Regulatory Framework of
+PFUTP Regulations .......................................... 16 C.2 Duty to Disclose Investigative Material
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2 3   C . 3 .   E x c e p t i o n s   t o   t h e   D u t y   t o
+D i s c l o s e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4 3   D .   C o n c l u s i o n
+...................................................................................................... 47 PART A A. Factual Background 1
+By a judgment dated 29 September 2020, a Division Bench of the Bombay High Court dismissed the
+petition instituted by the appellant under Article 226 of the Constitution for challenging a show
+cause notice which was issued by the first respondent1 alleging a violation of the provisions of the
+SEBI (Prohibition of Fraudulent and Unfair Trade Practices) Regulations 20032. A petition seeking
+a review of the judgment of the Division Bench was disposed of by an order dated 22 October 2020.
+The appellant moved a Special Leave Petition against the judgment in the writ petition and the order
+in review. The principal issue is whether an investigation report under Regulation 9 of the PFUTP
+Regulations must be disclosed to the person to whom a notice to show cause is issued.
+
+1
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+2 The appellant was employed as the Managing Director3 and Chief Executive Officer4 in Ricoh
+India Limited5, a public listed company, for the financial years 2012-13, 2013-14 and 2014-15, till 31
+March 2015. In 2016, BSR & Co. were appointed as statutory auditors of the Company. The auditors
+raised a suspicion regarding the veracity of the financial statements of the Company for the quarters
+that ended on June 30, 2015 and September 30, 2015. The Audit Committee of the Company
+appointed Price Water House Coopers Private Limited6 to carry out a forensic audit. PWC
+submitted a preliminary audit report on 20 April 2016. The Company addressed a communication
+to the first “SEBI” or the “Board” “PFUTP Regulations” “MD” “CEO” “Company” “PWC” PART A
+respondent on the same day stating that the financial statements for those quarters did not reflect
+the true affairs of the Company and requested the first respondent to carry out an independent
+investigation on possible violations of the provisions of the PFUTP Regulations. The final report
+submitted by PWC was forwarded by the Company to the first respondent on 29 November 2016. 3
+The first respondent initiated an investigation. During the course of the investigation, summons was
+issued to Manoj Kumar (then MD & CEO for the financial year of 2015-16), Arvind Singhal (then
+Chief Financial Officer) and Anil Saini (then Senior Vice President and Chief Operating Officer). The
+Company in its letter dated 8 June 2016 submitted that it suspected Manoj Kumar, Arvind Singhal
+and Anil Saini for their involvement in misstating the financial affairs. The first respondent in its ex
+parte interim order–cum–show cause notice prima facie found two others, including the appellant,
+responsible for facilitating the misstatements of the financial position. With regard to the role of the
+appellant, it was noted:
+
+“On examination of the Organization Structure of Ricoh for past years, it is noted that
+T. Takano was the MD & CEO of the Company till March 31, 2015. It is also noted
+that the mandate for PwC investigation was restricted to the half-year ended
+September 30, 2015 and not extended to all the years when the misstatements
+occurred. If Manoj Kumar, who was MD & CEO in FY 2015-16 was held responsible
+for the fraud, it is only logical that T. Takano as the previous MD & CEO (during
+whose tenure the fraud actually started) was also responsible for the misstatements.
+It appears that by restricting the investigation period mandated to PwC, the Company
+intended to restrain PwC from examining the transactions of the previous years and
+thereby ring-fence the earlier MD & CEO, T. Takano.” PART A
+
+4 Based on the investigation, it was noted that the financial misstatements commenced from
+2012-13 and the Company suffered a loss due to, inter alia, transfers to third parties, write-offs and a
+sale made to Fourth Dimension Solutions Limited7 without inventory. It was further noted that the
+share price of the Company had gone up due to the misstatements. Hence, it was observed that the
+appellant, along with five others, has prima facie violated the provisions of Section 12A(a), 12(A)(b)
+and 12A(c) of the Securities and Exchange Board of India Act 19928 read with Regulations 3(b),
+3(c), 3(d), 4(1), 4(2)(e), 4(2)(k) and 4(2)(r) of the PFUTP Regulations. Hence, the first respondent
+issued the following directions under Sections 11(1), 11(4) and 11B of the SEBI Act and Regulation 11
+of the PFUTP Regulations:
+
+(i) The appellant and the other five key managerial persons were restrained from
+accessing the securities market or buying, selling or otherwise dealing in the
+
+2
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+securities market ;
+
+(ii) An independent audit firm was appointed for conducting a detailed forensic audit
+of the books of accounts of the company from the financial year 2012-13 ;
+
+(iii) The independent audit firm was called upon to submit a report to the first
+respondent within three months from the date of appointment; and
+
+(iv) A show cause notice for directions under Sections 11, 11(4) and 11 (B) of the SEBI
+Act, including directions for restraining/prohibiting him from accessing the
+securities market and buying, selling or otherwise dealing in securities in any
+manner.
+
+“FDSL” “SEBI Act” PART A 5 By his letters dated 6 June 2018 and 28 June 2018, and at a personal
+hearing on June 11, 2018 the appellant submitted that:
+
+(i) He had no knowledge of the purported transactions and/or the misstatements in
+the books of account;
+
+(ii) The inclusion of his name in the interim order-cum-show cause notice was
+speculative, based on the premise that since the MD and CEO of financial year
+2015-16 has been held prima facie responsible, the appellant who was the MD and
+CEO during the previous year must also be held responsible; and
+
+(iii) The financial team was solely responsible for preparing financial statements.
+These statements were then examined by the statutory auditors of the company. The
+version subsequently prepared was the final version of the financial statement.
+Therefore, he had no knowledge of the intricacies of the financial statements.
+
+6 By an order dated 16 August 20189, the first respondent confirmed the directions issued in the ex
+parte interim order dated 12 February 2018. The order notes that though the facts indicate
+large-scale irregularities in business transactions, the time span of the irregularities and the exact
+role of the noticees are not fully ascertained, and therefore, “it would be premature to give credence
+to the submissions of the individual noticees”. It was also observed that “a clear picture regarding
+the financial affairs of the company and the role of various noticees in the alleged fraud is yet to
+emerge pending such investigation.” The time for submission of the forensic report by the first
+respondent was extended to “Confirmatory order” PART A 30 September 2018. SEBI appointed
+Pipara & Co. LLP on 20 February 2019 to conduct a forensic audit of the books of account of the
+Company. The report of the forensic auditors was submitted on 25 October 2019. 7 The appellant
+challenged the confirmatory order before the Securities Appellate Tribunal10, Mumbai. The appeals
+were allowed and the order against the appellant was quashed on 29 January 2020 on the grounds
+that:
+
+(i) The confirmatory order is based on a suspicion about the role of the appellant;
+
+3
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+(ii) The submissions of the appellant were not dealt with appropriately;
+
+(iii) Since the company is in liquidation, the appellant is not in a position to influence
+decisions; and
+
+(iv) The appellant cannot be prevented from dealing in the securities market when
+the appellant is held to be vicariously liable due to the position he held as MD/CEO.
+
+The tribunal, however, directed that the first respondent is at liberty to issue a fresh show cause
+notice if the evidence against the appellant is made available through the forensic report or through
+the first respondent’s investigation. 8 A fresh show cause notice was issued to the appellant on 19
+March 2020 under the provisions of Sections 11(1), 11(4), 11(4A), 11B(1) and 11B(2) and 15HA of the
+SEBI Act and Section 12A(2) read with Section 23H of the Securities Contracts (Regulation) Act
+195611 based on the forensic audit report and “Tribunal” “SCRA” PART A investigation conducted
+by the first respondent. With regard to the appellant, it was alleged that :
+
+“… Mr. T. Takano, during whose tenure the business transactions with FDSL started
+by virtue of his position as MD & CEO of Ricoh during FY 2012-13 to FY 2014-15, was
+actively involved in committing the fraud and had knowingly restricted the mandate
+given to PwC to six month so as to succeed in hiding his role in the commission of
+fraud of publishing untrue financial statements of Ricoh which resulted in misleading
+the investors about the financial performance of the company and thereby resulted in
+inducement to trades in the scrip. The said acts of the Noticee no. 2 are alleged to be
+in violation of regulations 3 (b), (c), (d), 4(1) and 4(2)(e), (f),
+
+(k) and (r) of SEBI (PFUTP) Regulations, 2003 and clause 49(V) read with 41(Il)(a)
+of the erstwhile Listing Agreement.”
+
+9 The appellant claims that he received the show cause notice by email on 4 August 2020. The
+appellant responded to the show cause notice on 6 August 2020 stating that though he had received
+the forensic audit report submitted by Pipara & Co. LLP, he had not received the report of the
+investigation conducted by SEBI. The appellant sought an opportunity to inspect the following
+records:
+
+“[…] including but not limited to all material on which reliance was placed Pipara &
+Co. LLP for the purpose of preparing the forensic audit report, all material on which
+reliance has been placed while issuing the Show Cause Notice, and on which reliance
+is intended to be placed while making any adjudication on the Show Cause Notice
+(“material”).” 10 By its communication dated 13 August 2020, the first respondent
+stated that the investigation report is an ‘internal document’ which cannot be shared.
+
+The appellant was provided time until 9 August 2020 to inspect the other documents. The first
+respondent enclosed soft copies of the annexures to the forensic report and called upon the
+appellant to submit a reply. The appellant PART A reiterated the demand to inspect the
+
+4
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+investigation report. By an email dated 4 September 2020, the appellant was informed that the
+investigation report of SEBI was not relied on to issue the show cause notice and hence, would not
+be provided.
+
+11 The appellant filed a writ petition before the Bombay High Court challenging the show cause
+notice which was issued on 19 March 2020. In the alternative, inspection of all documents relied on
+to issue the show cause notice was sought. The appellant submitted before the High Court that to
+non-disclosure of all relevant documents relied on to issue the show cause notice violated the
+principles of natural justice.
+
+12 By its judgment dated 29 September 2020, the High Court held that the investigation report
+prepared under Regulation 9 of PFUTP Regulations is solely for internal purposes. In concluding
+that the investigation report need not be furnished while issuing a show cause notice, the High Court
+has relied on the decision of this Court in Natwar Singh v. Director of Enforcement12. In sum and
+substance, the High court has held that the report does not form the basis of the show cause notice
+and therefore need not be disclosed. The review petition challenging the judgment of the Division
+Bench of the High Court was rejected.
+
+(2010) 13 SCC 255
+
+(cid:12)                                                                                   PART B
+
+B.           Submissions of Counsel
+
+13           Mr Ashim Sood, learned Counsel appearing for the appellant made the
+
+following submissions:
+
+(i)       Regulation 10 has two synchronous requirements – (i) consideration of
+
+the investigation report and satisfaction on such consideration that there is a violation of the PFUTP
+Regulations; and (ii) a hearing. The purpose of the investigation report is to adjudicate whether
+there has been a contravention of the Regulations. There is no intermediate stage between the
+consideration of the report and the adjudication of liability. Both stages are synchronous, making
+the investigation report the primary material on which the adjudicator relies upon under the PFUTP
+Regulations;
+
+(ii) The High Court erred in holding that the investigation report is a preliminary report and is to be
+used for “internal administrative discipline”. The investigation report is not a preliminary document
+
+5
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+and is compiled at the end of a thorough and exhaustive investigation. The proviso to Regulation 9,
+provides for an “interim report” making it clear that the investigation report is not a preliminary
+document;
+
+(iii) The investigation report is not a document to be used for internal deliberations, which is a stage
+that is crossed at Regulation 5. The investigation report is to be used for adjudication of liability in
+terms of Regulation 10;
+
+(iv) The High Court erred in observing that the investigation report was not used against the
+appellant and does not form the basis of the show PART B cause notice. The show cause notice
+dated 19 March 2020 contains several references to the investigation carried out by the first
+respondent. These allegations differ from the ones listed in an earlier show cause notice, which was
+issued to the appellant and was set aside by SAT on 29 January 2020 in Appeal No 427 of 2018.
+Further, the duty to disclose is not contingent on whether the respondent relies on a document;
+rather the duty is invoked when a request made for a document is found to be reasonable and
+relevant for the defence to be mounted by the noticee;
+
+(v) Regulation 10 mandates that the entire investigation report be disclosed to the noticee. This
+mandate can only be subject to certain well-recognized exceptions. Such exceptions must be invoked
+with the utmost circumspection by SEBI and for reasons that are recorded in writing;
+
+(vi) The decision of this Court in Natwar Singh (supra) supports the principle that material relied
+upon in a quasi-judicial proceeding must be disclosed to the person to whose prejudice such
+material may be used for taking adverse action;
+
+(vii) In Khudiram Das v. State of West Bengal13, this Court held that once a statute prescribes
+reliance on certain material, such material should be disclosed to the opposite party. This principle
+has been followed in multiple contexts, including proceedings under the Companies Act 1956 and
+Special Courts Act 1979;
+
+(1975) 2 SCC 81 PART B
+
+(viii) If the entire investigation report is not provided, it would be difficult to come up with a metric
+for determining which parts of the report are relevant to the noticee;
+
+(ix) Permitting the respondent to selectively disclose portions of the investigation report carries with
+it the risk of conferring unfettered discretion upon the first respondent. The first respondent will
+attempt to disclose the least possible information in an adversarial proceeding, undermining the
+mandate of Regulation 10;
+
+(x) Without having access to the entirety of the investigation report, the noticee will be incapable of
+effectively challenging the decision of the first respondent. It will result in the adoption of an opaque
+process where SAT or the High Courts would receive the report in sealed covers and make ex parte
+determinations of whether the redactions made by the first respondent are justified, impacting the
+
+6
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+transparency of the judicial process;
+
+(xi) Regulation 9 imposes a qualitative requirement in relation to the investigation. If the
+investigation report is not disclosed, there is no incentive for the investigator to meet that
+qualitative requirement. There would be no way, therefore, to determine whether the investigation
+report was properly compiled and whether the investigation was conducted in a regular manner, in
+accordance with the standards of what a proper investigation entails;
+
+(xii) Redaction of the investigation report can be carried out as an exception for legitimate reasons.
+To reduce arbitrariness, the redactions should PART B be supported by written reasons indicating
+the necessity of the measure. The reasons should have a certain degree of specificity;
+
+(xiii) The exceptional situations in which redactions can be made are known to law and include
+business secrets, personal data and third-party confidential information; and
+
+(xiv) Laws in the United States and European Union also adopt the default position that the noticee
+shall have access to the file subject to certain exceptions relating to business secrets and personal
+data, amongst others.
+
+14 On behalf of the respondents, Mr CU Singh, learned senior counsel, made the following
+submissions:
+
+(i) The appellant has raised the argument that the investigation has been solely
+conducted under the PFUTP Regulations and the failure to disclose the investigation
+report amounts to a violation of Regulations 9 and 10. This is incorrect. The
+proceedings have been initiated under the provisions of the SEBI Act and the SCRA
+as well for a violation of the provisions of the PFUTP Regulations and the Listing
+Agreement.
+
+The SEBI Act and the SCRA are wider in scope than the PFUTP Regulations. Additionally,
+Regulation 11 of PFUTP Regulations specifically provides that the actions or directions may be
+issued without prejudice to the provisions contained in sub-sections (1), (2), (2A) and (3) of Sections
+11 and 11B of the SEBI Act;
+
+(ii) SEBI conducts an investigation under Section 11C of the SEBI Act, where, based on the findings
+arrived at during the investigation, PART B allegations are levelled in the show cause notice.
+Together with the show cause notice all the documents that have been relied upon by the
+investigator are provided to the noticee. In the present, case all the relevant documents have been
+provided to the noticee, including the report of Pipara and Co. which formed the basis of the show
+cause notice. The appellant is not entitled to any other documents;
+
+(iii) The quasi-judicial proceedings that are initiated by SEBI proceed on the basis of the allegations
+that are mentioned in the show cause notice and the documents that are annexed to it. No other
+material, document or investigation is considered for adjudication by the competent authority.
+
+7
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+Orders are passed only after an opportunity to file a reply is given and a personal hearing is provided
+to comply with the principles of natural justice;
+
+(iv) Regulation 9 of PFUTP Regulations requires the Investigating Authority to submit the report,
+after completion of the investigation, to the appointing authority. However, the provision does not
+require the furnishing of the report to the noticee. The report is only in the nature of an
+inter-departmental communication between officers investigating the matter and the authority who
+decides if any enforcement action is to be taken against an entity based on any prima facie grounds.
+It is not a piece of evidence but is rather a culmination of documents that the investigating authority
+relies upon or comes across during the investigation;
+
+PART B
+
+(v) This Court in several similar cases have held that internal investigation reports are not required
+to be shared. (Krishna Chandra Tandon v. Union of India14 and Chandrama Tewari v. Union of
+India15);
+
+(vi) The investigations conducted by SEBI are highly sensitive given the volatile nature of the
+market. Disclosure of such information may adversely affect the market. Further, the investigation
+reports also contain the personal information of other stakeholders. They also include information
+relating to the commercial and business interests of third-parties. Sharing such information with the
+noticee will raise concerns regarding the privacy of third-parties and also affect their competitive
+position in the market;
+
+(vii) Clauses (d), (e) and (h) of sub-Section (1) of Section 8 of the Right to Information Act 200516
+also exempt disclosure of – (i) “information including commercial confidence, trade secrets or
+intellectual property, the disclosure of which would harm the competitive position of a third party”;
+(ii) “information available in fiduciary relationship”; and (iii) “information which would impede the
+process of investigation”; and
+
+(viii) The US Securities and Exchange Commission conducts its investigations on a confidential
+basis to maximize their effectiveness and protect the privacy of those involved. UK Financial
+Conduct Authority also does not share confidential information even when the same is requested
+under the Freedom of Information Act stating that a clear confidentiality restriction encourages free
+flow of information and if AIR 1974 SC 1589 (1988) 1 SCR 1102 “RTI Act” PART C confidential
+information were to be made public, sources would be less willing to give information. Article 54 of
+Directive 2004/39 of the EU Parliament provides a legal framework for securities market and
+mandates that information of such nature ought not to be shared. Thus, the refusal of SEBI to
+furnish the investigation report is in line with established global practices.
+
+C.     Analysis
+
+C.1    Regulatory Framework of PFUTP Regulations
+
+15     The PFUTP Regulations have been notified by SEBI in exercise of powers
+
+8
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+conferred by Section 30 of the SEBI Act. Regulation 2(c) defines the expression ‘fraud’ in the
+following terms:
+
+“2(c) “fraud” includes any act, expression, omission or concealment committed
+whether in a deceitful manner or not by a person or by any other person with his
+connivance or by his agent while dealing in securities in order to induce another
+person or his agent to deal in securities, whether or not there is any wrongful gain or
+avoidance of any loss, and shall also include— (1) a knowing misrepresentation of the
+truth or concealment of material fact in order that another person may act to his
+detriment;
+
+(2) a suggestion as to a fact which is not true by one who does not believe it to be
+true;
+
+(3) an active concealment of a fact by a person having knowledge or belief of the fact;
+
+(4) a promise made without any intention of performing it; (5) a representation made
+in a reckless and careless manner whether it be true or false;
+
+(6) any such act or omission as any other law specifically declares to be fraudulent,
+(7) deceptive behaviour by a person depriving another of informed consent or full
+participation, (8) a false statement made without reasonable ground for believing it
+to be true.
+
+PART C (9) the act of an issuer of securities giving out misinformation that affects the market price
+of the security, resulting in investors being effectively misled even though they did not rely on the
+statement itself or anything derived from it other than the market price. And “fraudulent” shall be
+construed accordingly; Nothing contained in this clause shall apply to any general comments made
+in good faith in regard to—
+
+(a) the economic policy of the government
+
+(b) the economic situation of the country
+
+(c) trends in the securities market;
+
+(d) any other matter of a like nature whether such comments are made in public or in private;” 16
+Chapter II of the Regulations relates to the prohibition of fraudulent and unfair trade practices
+relating to the securities market. This includes Regulation 3 which deals with “Prohibition of certain
+dealings in securities” and Regulation 4 which deals with “Prohibition of manipulative, fraudulent
+and unfair trade practices”. Chapter II pertains to the power of the Board to order an investigation.
+Regulation 5 is extracted below:
+
+9
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+“5. Where the Board, the Chairman, the member or the Executive Director
+(hereinafter referred to as “appointing authority”) has reasonable ground to believe
+that—
+
+(a) the transactions in securities are being dealt with in a manner detrimental to the
+investors or the securities market in violation of these regulations;
+
+(b) any intermediary or any person associated with the securities market has violated
+any of the provisions of the Act or the rules or the regulations, it may, at any time by
+order in writing, direct any officer not below the rank of Division Chief (hereinafter
+referred to as the “Investigating Authority”) specified in the order to investigate the
+affairs of such intermediary or persons associated with the securities market or any
+other person and to report thereon to the Board in the manner provided in section
+11C of the Act.” PART C Regulation 6 enunciates the powers of the investigating
+authority.17 The powers of the investigating authority include:
+
+(i)     Calling for information or records;
+
+(ii)    Undertaking inspection of books, registers and documents or records of
+
+any public company;
+
+(iii) Requiring the disclosure of information, documents or records by any person
+associated with the securities market or by an intermediary;
+
+(iv) Reservation and custody of books, registers, documents and records for a
+stipulated period;
+
+(v)     Examination of and recording the statement of directors, partners,
+
+members or employees; and
+
+(vi)    Examination on oath.
+
+6. Without prejudice to the powers conferred under the Act, the Investigating
+Authority shall have the following powers for the conduct of investigation, namely :
+
+(1) to call for information or records from any person specified in section 11(2)(i) of
+the Act; (2) to undertake inspection of any book, or register, or other document or
+record of any listed public company or a public company (not being intermediaries
+
+10
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+referred to in section 12 of the Act) which intends to get its securities listed on any
+recognized stock exchange where the Investigating Authority has reasonable grounds
+to believe that such company has been conducting in violation of these regulations;
+(3) to require any intermediary or any person associated with securities market in
+any manner to furnish such information to, or produce such books, or registers, or
+other documents, or record before him or any person authorized by him in this behalf
+as he may consider necessary if the furnishing of such information or the production
+of such books, or registers, or other documents, or record is relevant or necessary for
+the purposes of the investigation;
+
+(4) to keep in his custody any books, registers, other documents and record produced
+under this regulation for a maximum period of one month which may be extended
+upto a period of six months by the Board :
+
+Provided that the Investigating Authority may call for any book, register, other
+document or record if the same is needed again :
+
+Provided further that if the person on whose behalf the books, registers, other
+documents and record are produced requires certified copies of the books, registers,
+other documents and record produced before the Investigating Authority, he shall
+give certified copies of such books, registers, other documents and record to such
+person or on whose behalf the books, registers, other documents and record were
+produced; (5) to examine orally and to record the statement of the person concerned
+or any director, partner, member or employee of such person and to take notes of
+such oral examination to be used as an evidence against such person :
+
+Provided that the said notes shall be read over to, or by, and signed by, the person so
+examined; (6) to examine on oath any manager, managing director, officer or other
+employee of any intermediary or any person associated with securities market in any
+manner in relation to the affairs of his business and may administer an oath
+accordingly and for that purpose may require any of those persons to appear before
+him personally.
+
+PART C 17 Under Regulation 718, the investigating authority may exercise certain specified powers
+after obtaining the specific approval of the Chairman or Members of the Board. Regulation 819
+imposes a duty to cooperate upon every person in respect of whom an investigation has been
+ordered under Regulation 7. 18 Regulation 9 upon which the controversy in the present case turns is
+extracted below:
+
+“9. The Investigating Authority shall, on completion of investigation, after taking into
+account all relevant facts, submit a report to the appointing authority:
+
+7. The Investigating Authority may, after obtaining specific approval from the
+Chairman or Member also exercise all or any of the following powers, namely :
+
+11
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+(a) to call for information and record from any bank or any other authority or board
+or corporation established or constituted by or under any Central, State or Provincial
+Act in respect of any transaction in securities which are under investigation;
+
+(b) to make an application to the Judicial Magistrate of the first class having
+jurisdiction for an order for the seizure of any books, registers, other documents and
+record, if in the course of investigation, the Investigating Authority has reasonable
+ground to believe that such books, registers, other documents and record of, or
+relating to, any intermediary or any person associated with securities market in any
+manner may be destroyed, mutilated, altered, falsified or secreted;
+
+(c) to keep in his custody the books, registers, other documents and record seized
+under these regulations for such period not later than the conclusion of the
+investigation as he considers necessary and thereafter to return the same to the
+person, the company or the other body corporate, or, as the case may be, to the
+managing director or the manager or any other person from whose custody or power
+they were seized :
+
+Provided that the Investigating Authority may, before returning such books,
+registers, other documents and record as aforesaid, place identification marks on
+them or any part thereof;
+
+(d) save as otherwise provided in this regulation, every search or seizure made under
+this regulation shall be carried out in accordance with the provisions of the Code of
+Criminal Procedure, 1973 (2 of 1974) relating to searches or seizures made under that
+Code.
+
+8. (1) It shall be the duty of every person in respect of whom an investigation has been ordered
+under regulation 7—
+
+(a) to produce to the Investigating Authority or any person authorized by him such books, accounts
+and other documents and record in his custody or control and to furnish such statements and
+information as the Investigating Authority or the person so authorized by him may reasonably
+require for the purposes of the investigation;
+
+(b) to appear before the Investigating Authority personally when required to do so by him under
+regulation 6 or regulation 7 to answer any question which is put to him by the Investigating
+Authority in pursuance of the powers under the said regulations.
+
+(2) Without prejudice to the provisions of sections 235 to 241 of the Companies Act, 1956 (1 of
+1956), it shall be the duty of every manager, managing director, officer and other employee of the
+company and every intermediary referred to in section 12 of the Act or every person associated with
+the securities market to preserve and to produce to the Investigating Authority or any person
+authorized by him in this behalf, all the books, registers, other documents and record of, or relating
+
+12
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+to, the company or, as the case may be, of or relating to, the intermediary or such person, which are
+in their custody or power. (3) Without prejudice to the generality of the provisions of
+sub-regulations (1) and (2), such person shall—
+
+(a) allow the Investigating Authority to have access to the premises occupied by such person at all
+reasonable times for the purpose of investigation;
+
+(b) extend to the Investigating Authority reasonable facilities for examining any books, accounts and
+other documents in his custody or control (whether kept manually or in computer or in any other
+form) reasonably required for the purposes of the investigation;
+
+(c) provide to such Investigating Authority any such books, accounts and records which, in the
+opinion of the Investigating Authority, are relevant to the investigation or, as the case may be, allow
+him to take out computer outprints thereof.
+
+PART C Provided that the Investigating Authority may submit an interim report pending
+completion of investigations if he considers necessary in the interest of investors and the securities
+market or as directed by the appointing authority.” Regulation 9 envisages that the investigating
+authority must submit a report to the appointing authority upon the completion of its investigation
+in the course of which all relevant facts have to be taken into account. The investigating authority
+may even submit an interim report, if necessary, in the interest of investors and the securities
+market or, if directed by the appointing authority. 19 Regulation 10 deals with the Board’s power of
+enforcement. According to Regulation 10:
+
+“10. The Board may, after consideration of the report referred to in regulation 9, if
+satisfied that there is a violation of these regulations and after giving a reasonable
+opportunity of hearing to the persons concerned, issue such directions or take such
+action as mentioned in regulation 11 and regulation 12 :
+
+Provided that the Board may, in the interest of investors and the securities market,
+pending the receipt of the report of the investigating authority referred to in
+regulation 9, issue directions under regulation 11:
+
+Provided further that the Board may, in the interest of investors and securities
+market, dispense with the opportunity of pre-decisional hearing by recording reasons
+in writing and shall give an opportunity of post- decisional hearing to the persons
+concerned as expeditiously as possible.”
+
+20 The directions or measures which can be adopted by the Board are specified in Regulations 11
+and 12 which read as follows: -
+
+“11. (1) The Board may, without prejudice to the provisions contained in subsections
+(1), (2), (2A) and (3) of section 11 and section 11B of the Act, by an order, for reasons
+to be recorded in writing, in the interests of investors and securities market, issue or
+
+13
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+take any of the following actions or directions, either pending investigation or
+enquiry or on completion of such investigation or enquiry, namely :— PART C
+
+(a) suspend the trading of the security found to be or prima facie found to be involved
+in fraudulent and unfair trade practice in a recognized stock exchange;
+
+(b) restrain persons from accessing the securities market and prohibit any person
+associated with securities market to buy, sell or deal in securities;
+
+(c) suspend any office-bearer of any stock exchange or self-regulatory organization
+from holding such position;
+
+(d) impound and retain the proceeds or securities in respect of any transaction which
+is in violation or prima facie in violation of these regulations;
+
+(e) direct and intermediary or any person associated with the securities market in any
+manner not to dispose of or alienate an asset forming part of a fraudulent and unfair
+transaction;
+
+(f) require the person concerned to call upon any of its officers, other employees or
+representatives to refrain from dealing in securities in any particular manner;
+
+(g) prohibit the person concerned from disposing of any of the securities acquired in
+contravention of these regulations;
+
+(h) direct the person concerned to dispose of any such securities acquired in
+contravention of these regulations, in such manner as the Board may deem fit, for
+restoring the status quo ante.
+
+(2) The Board shall issue a press release in respect of any final order passed under
+sub-regulation (1) in at least two newspapers of which one shall have nationwide
+circulation and shall also put the order on the website of the Board.
+
+12. (1) The Board may, without prejudice to the provisions contained in subsections (1), (2), (2A)
+and (3) of section 11 and section 11B of the Act, by an order, for reasons to be recorded in writing, in
+the interests of investors and securities market take the following action against an intermediary :
+
+(a) issue a warning or censure
+
+(b) suspend the registration of the intermediary; or
+
+(c) cancel of the registration of the intermediary Provided that no final order of
+suspension or cancellation of an intermediary for violation of these regulations shall
+be passed unless the procedure specified in the regulations applicable to such
+
+14
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+intermediary under the Securities and Exchange Board of India (Procedure for PART
+C Holding Enquiry by Enquiry Officer and Imposing Penalty) Regulations, 2002 is
+complied with.” 21 Regulation 10 empowers the Board to either issue a direction or
+take action as is specified in Regulations 11 and 12. Before issuing directions or taking
+action under Regulations 11 and 12, three steps have to be traversed by the Board.
+The first stage is the consideration of the report of the investigating authority which
+has been referred to in Regulation 9. The second is the furnishing of a reasonable
+opportunity of being heard. The third is the satisfaction of the Board that there is a
+violation of the regulations. Regulation 10 indicates in clear terms that the report
+which has been submitted by the investigating authority under Regulation 9 is an
+intrinsic component of the Board’s satisfaction for determining whether there has
+been any violation of the regulations. Regulation 10 contains a mandate for the Board
+to consider the report which is referred to in Regulation 9. The submission which has
+been urged on behalf of SEBI is to the effect that (i) the investigation report is a part
+of the internal administrative deliberations of the Board; (ii) it need not be disclosed;
+and that (iii) only those materials which are relied on have to be disclosed misses a
+crucial part of Regulation 10. The language in which Regulation 10 is couched
+indicates that consideration of the report of the investigating authority which is
+submitted under Regulation 9 is one of the components guiding the Board’s
+satisfaction on the violation of the regulations. The words of Regulation 10 indicate
+that the Board “after consideration of the report referred to in regulation 9, if
+satisfied that there is a violation of these regulations and after giving a reasonable
+opportunity of hearing to the persons concerned”, takes action under Regulations 11
+and 12. As a result of the mandate of Regulation 10, the Board has to consider the
+PART C investigation report as an intrinsic element in arriving at its satisfaction on
+whether there has been a violation of the regulations.
+
+C.2         Duty to Disclose Investigative Material
+
+22          While the respondents have submitted that only materials that have been
+
+relied on by the Board need to be disclosed, the appellant has contended that all
+relevant materials need to be disclosed. While trying to answer this issue, we are
+faced with a multitude of other equally important issues. These issues, all paramount
+in shaping the jurisprudence surrounding the principles of access to justice and
+transparency, range from identifying the purpose and extent of disclosure required,
+to balancing the conflicting claims of access to justice and grounds of public interest
+such as privacy, confidentiality and market interest. An identification of the purpose
+of disclosure would lead us closer identifying the extent of required disclosure. There
+are three key purposes that disclosure of information serves:
+
+(i) Reliability: The possession of information by both the parties can aid the courts in
+determining the truth of the contentions. The role of the court is not restricted to
+interpreting the provisions of law but also determining the veracity and truth of the
+
+15
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+allegations made before it. The court would be able to perform this function
+accurately only if both parties have access to information and possess the opportunity
+to address arguments and counter-arguments related to the information;
+
+(ii) Fair Trial: Since a verdict of the Court has far reaching repercussions on the life
+and liberty of an individual, it is only fair that there is a PART C legitimate
+expectation that the parties are provided all the aid in order for them to effectively
+participate in the proceedings;
+
+(iii) Transparency and accountability: The investigative agencies and the judicial
+institution are held accountable through transparency and not opaqueness of
+proceedings. Opaqueness furthers a culture of prejudice, bias, and impunity –
+principles that are antithetical to transparency. It is of utmost importance that in a
+country grounded in the Rule of Law, the institutions adopt those procedures that
+further the democratic principles of transparency and accountability. The principles
+of fairness and transparency of adjudicatory proceedings are the cornerstones of the
+principle of open justice. This is the reason why an adjudicatory authority is required
+to record its reasons for every judgement or order it passes. However, the duty to be
+transparent in the adjudicatory process does not begin and end at providing a
+reasoned order. Keeping a party bereft of the information that influenced the
+decision of an authority undertaking an adjudicatory function also undermines the
+transparency of the judicial process. It denies the concerned party and the public at
+large the ability to effectively scrutinise the decisions of the authority since it creates
+an information asymmetry.
+
+23 The purpose of disclosure of information is not merely individualistic, that is to prevent errors in
+the verdict but is also towards fulfilling the larger institutional purpose of fair trial and
+transparency. Since the purpose of disclosure of information targets both the outcome (reliability)
+and the process (fair trial and PART C transparency), it would be insufficient if only the material
+relied on is disclosed. Such a rule of disclosure, only holds nexus to the outcome and not the process.
+Therefore, as a default rule, all relevant material must be disclosed. 24 It would be fundamentally
+contrary to the principles of natural justice if the relevant part of the investigation report which
+pertains to the appellant is not disclosed. The appellant has to be given a reasonable opportunity of
+hearing. The requirement of a reasonable opportunity would postulate that such material which has
+been and has to be taken into account under Regulation 10 must be disclosed to the noticee. If the
+report of the investigation authority under Regulation 9 has to be considered by the Board before
+satisfaction is arrived at on a possible violation of the regulations, the principles of natural justice
+require due disclosure of the report.
+
+25 The consequence of the Board arriving at a satisfaction that there has been a violation of the
+regulations is that the Board can take recourse to the actions specified under Regulations 11 and 12.
+Regulation 11 empowers the Board to:
+
+16
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+(i) Suspend the trading of the security found to be involved in a fraudulent and unfair
+trade practice in a recognized stock exchange;
+
+(ii) Restraining persons from accessing the securities market and prohibiting any
+person associated with it from dealing in securities;
+
+(iii) Suspending an office bearer of a recognized stock exchange;
+
+(iv) Impounding and retaining the proceeds or securities;
+
+PART C
+
+(v) Issuing a direction not to dispose of or alienate an asset forming part of a fraudulent and unfair
+transaction;
+
+(vi) Prohibit the disposal of any of the securities acquired in contravention of these regulations; and
+
+(vii) Directing the disposal of any securities in accordance with the mandate of the Board.
+
+Under Regulation 11(2), a press release has to be issued by the Board in respect of a final order
+which is passed under Regulation 11(1). 26 Regulation 12 empowers the Board to suspend or cancel
+the registration of an intermediary among other things. The provisions of Regulations 11 and 12
+indicate that the consequences of the satisfaction which is arrived at by the Board under Regulation
+10, if there is a violation of the Regulations, are grave. 27 The submission of Mr C U Singh, learned
+senior counsel is that only those materials which are relied upon should be disclosed to the first
+respondent. Regulation 10, as we have noted earlier, stipulates that the satisfaction of the Board
+whether there has been a violation of the regulations has to be arrived at:
+
+(i) after considering the report of the investigating authority referred to in Regulation
+9; and
+
+(ii) after giving a reasonable opportunity of hearing to the person concerned.
+
+Once the subordinate legislation mandates that the investigating authority’s report is an essential
+ingredient for the Board to arrive at the satisfaction, it requires due disclosure.
+
+PART C 28 Now in the above context, it would be material to advert to the decision of this court in
+Natwar Singh (supra). The issue before the two-judge Bench of this Court was whether a noticee
+who is served with a show cause notice under Rule 4(1) of the Foreign Exchange Management
+(Adjudication Proceedings and Appeal) Rules 200020, is entitled to demand all the documents in
+the possession of the adjudicating authority including those documents upon which no reliance has
+been placed while issuing a notice to show cause as to why an enquiry should not be initiated against
+him. Rule 4 is in the following terms:
+
+17
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+“4. Holding of inquiry.--
+
+(1) For the purpose of Adjudicating under section 13 of the Act whether any person
+has committed any contravention as specified in that section of the Act, the
+Adjudicating Authority shall, issue a notice to such person requiring him to show
+cause within such period as may be specified in the notice (being not less than ten
+days from the date of service thereof) why an inquiry should not be held against him.
+
+(2) Every notice under sub-rule (1) to any such person shall indicate the nature of
+contravention alleged to have been committed by him. (3) After considering the
+cause, if any, shown by such person, the Adjudicating Authority is of the opinion that
+an inquiry should be held, he shall issue a notice fixing a date for the appearance of
+that person either personally or through his legal practitioner or a chartered
+accountant duly authorised by him.” Rule 4(1) of the FEMA Rules 2000 indicates that
+in the first instance, the adjudicating authority has to issue a notice requiring the
+person to show cause why an enquiry should not be held against him. The stage of the
+notice under Rule 4(1) is not for adjudication but is for the purpose of deciding
+whether an enquiry should be held. If after considering the cause which is shown, the
+adjudicating authority is of the opinion that an enquiry should be held, thereupon
+under Rule 4(3), a notice is issued for the appearance of the person. Sub-Rule “FEMA
+Rules 2000” PART C (4) provides that on the date fixed, the adjudicating authority
+shall explain the contravention alleged to have been committed and under sub-Rule
+(5) an opportunity of producing documents or evidence has to be given. Under
+sub-Rule (8), the adjudicating authority is empowered to impose a penalty if it is
+satisfied, upon considering the evidence produced that there has been a
+contravention.
+
+29 Now in this backdrop, Justice B. Sudarshan Reddy speaking for the two- judge Bench of this
+Court interpreted Rule 4 as follows:
+
+“23. The Rules do not provide and empower the Adjudicating Authority to
+straightaway make any inquiry into allegations of contravention against any person
+against whom a complaint has been received by it. Rule 4 of the Rules mandates that
+for the purpose of adjudication whether any person has committed any
+contravention, the Adjudicating Authority shall issue a notice to such person
+requiring him to show cause as to why an inquiry should not be held against him. It is
+clear from a bare reading of the rule that show cause notice to be so issued is not for
+the purposes of making any adjudication into alleged contravention but only for the
+purpose of deciding whether an inquiry should be held against him or not. Every such
+notice is required to indicate the nature of contravention alleged to have been
+committed by the person concerned. That after taking the cause, if any, shown by
+such person, the Adjudicating Authority is required to form an opinion as to whether
+an inquiry is required to be held into the allegations of contravention. It is only then
+the real and substantial inquiry into allegations of contravention begins.” The above
+
+18
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+extract clearly indicates that the show cause notice under Rule 4(1) is not for the
+purpose of making an adjudication into the alleged contravention but only for
+deciding whether an enquiry must be conducted. The stage when an enquiry is held is
+subsequent to the initial stage contemplated by Rule 4(1).
+
+During the course of the adjudication, the fundamental principle is that material
+which is used against a person must be brought to notice. As this Court observed:
+
+PART C “30. The right to fair hearing is a guaranteed right. Every person before an
+authority exercising the adjudicatory powers has a right to know the evidence to be
+used against him. This principle is firmly established and recognised by this Court in
+Dhakeswari Cotton Mills Ltd. v. CIT [AIR 1955 SC 65 : (1955) 1 SCR 941] . However,
+disclosure not necessarily involves supply of the material. A person may be allowed to
+inspect the file and take notes. Whatever mode is used, the fundamental principle
+remains that nothing should be used against the person which has not been brought
+to his notice. If relevant material is not disclosed to a party, there is prima facie
+unfairness irrespective of whether the material in question arose before, during or
+after the hearing. The law is fairly well settled if prejudicial allegations are to be made
+against a person, he must be given particulars of that before hearing so that he can
+prepare his defence. However, there are various exceptions to this general rule where
+disclosure of evidential material might inflict serious harm on the person directly
+concerned or other persons or where disclosure would be breach of confidence or
+might be injurious to the public interest because it would involve the revelation of
+official secrets, inhibit frankness of comment and the detection of crime, might make
+it impossible to obtain certain clauses of essential information at all in the future (see
+R. v. Secy. of State for Home Deptt., ex p H [1995 QB 43 : (1994) 3 WLR 1110 : (1995)
+1 All ER 479 (CA)] ).
+
+31. The concept of fairness may require the adjudicating authority to furnish copies of
+those documents upon which reliance has been placed by him to issue show-cause
+notice requiring the noticee to explain as to why an inquiry under Section 16 of the
+Act should not be initiated. To this extent, the principles of natural justice and
+concept of fairness are required to be read into Rule 4(1) of the Rules. Fair procedure
+and the principles of natural justice are in-built into the Rules. A noticee is always
+entitled to satisfy the adjudicating authority that those very documents upon which
+reliance has been placed do not make out even a prima facie case requiring any
+further inquiry. In such view of the matter, we hold that all such documents relied on
+by the authority are required to be furnished to the noticee enabling him to show a
+proper cause as to why an inquiry should not be held against him though the Rules do
+not provide for the same. Such a fair reading of the provision would not amount to
+supplanting the procedure laid down and would in no manner frustrate the apparent
+purpose of the statute.” (emphasis supplied) PART C
+
+19
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+30 The decision of this Court distinguishes between the initial stage under Rule 4(1) which is only
+for the purpose of deciding whether an enquiry has to be held and the subsequent stage of
+adjudication into the allegations of contravention. This Court further held:
+
+“34. As noticed, a reasonable opportunity of being heard is to be provided by the
+adjudicating authority in the manner prescribed for the purpose of imposing any
+penalty as provided for in the Act and not at the stage where the adjudicating
+authority is required merely to decide as to whether an inquiry at all be held into the
+matter. Imposing of penalty after the adjudication is fraught with grave and serious
+consequences and therefore, the requirement of providing a reasonable opportunity
+o f   b e i n g   h e a r d   b e f o r e   i m p o s i t i o n   o f   a n y   s u c h   p e n a l t y   i s   t o   b e   m e t .   I n
+contradistinction, the opinion formed by the adjudicating authority whether an
+inquiry should be held into the allegations made in the complaint are not fraught
+with such grave consequences and therefore the minimum requirement of a
+show-cause notice and consideration of cause shown would meet the ends of justice.
+A proper hearing always include, no doubt, a fair opportunity to those who are
+parties in the controversy for correcting or contradicting anything prejudicial to their
+view.”
+
+31 On the facts of that case, the Court held that the enquiry against the noticee was yet to
+commence:
+
+“36. In the present case, the inquiry against the noticee is yet to commence. The
+evidence as may be available upon which the adjudicating authority may place
+reliance, undoubtedly, is required to be furnished to the person proceeded against at
+the second stage of inquiry into allegations of contravention. It is at that stage, the
+adjudicating authority is not only required to give an opportunity to such person to
+produce such documents as evidence as he may consider relevant to the inquiry, but
+also enforce attendance of any person acquainted with the facts of the case to give
+evidence or to produce any document which in its opinion may be useful for or
+relevant to the subject-matter of the inquiry. It is no doubt true that natural justice
+often requires the disclosure of the reports and evidence in the possession of the
+deciding authority and such reports and evidence relevant to the subject-matter of
+the inquiry may have to be furnished unless the scheme of the Act specifically
+prohibits such disclosure.” (emphasis supplied) PART C This Court further noted that
+the documents which the appellant wanted were documents upon which no reliance
+was placed by the authority for setting the law into motion. Consequently, this Court
+concluded that:
+
+“48. On a fair reading of the statute and the Rules suggests that there is no duty of
+disclosure of all the documents in possession of the adjudicating authority before
+forming an opinion that an inquiry is required to be held into the alleged
+contraventions by a noticee. Even the principles of natural justice and concept of
+fairness do not require the statute and the Rules to be so read. Any other
+
+20
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+interpretation may result in defeat of the very object of the Act. Concept of fairness is
+not a one-way street. The principles of natural justice are not intended to operate as
+roadblocks to obstruct statutory inquiries. Duty of adequate disclosure is only an
+additional procedural safeguard in order to ensure the attainment of the fairness and
+it has its own limitations. The extent of its applicability depends upon the statutory
+framework.”
+
+32 The issue in Natwar Singh (supra) was whether the authority was bound to disclose to the noticee
+all the documents in its possession before forming an opinion on whether an enquiry is required to
+be held into the alleged contravention by the noticee. The Court held that at that stage there was no
+requirement of furnishing all such documents to the noticee since the only purpose of the notice
+under Rule 4(1) was for deciding whether an enquiry should be held. Rule 4(1), in other words, was
+not a final adjudication and consequently the requirement of a disclosure of all materials in the
+possession of the authority was not attracted. At that stage, it was sufficient that only documents
+that have been relied on are disclosed.
+
+33 The High Court in the present case has palpably misconstrued the judgment in Natwar Singh
+(supra). The High Court has failed to notice that the issue in that case was whether at the stage when
+the authority decides under Rule 4(1) of the FEMA Rules 2000 whether an enquiry should be held, a
+PART C disclosure of all documents in the possession of the authority to the noticee is warranted.
+This was answered in the negative. This Court distinguished the stage of adjudication as distinct
+from the initial stage under Rule 4(1). At the stage of adjudication, all documents useful or relevant
+to the subject-matter have to be disclosed to the notice, subject to exceptions noticed by the court.
+34 On behalf of the Board, it has been urged that the investigation report is in the nature of an
+inter-departmental communication and need not be disclosed. Reliance was placed on the judgment
+of this Court in Krishna Chandra Tandon (supra) to buttress the submission. However, it is clear
+from the judgment that even if the documents are merely inter-departmental communications,
+there is a duty to disclose such documents if they have been relied upon by the enquiry officer. A
+two-Judge Bench of this observed:
+
+“16. Mr Hardy next contended that the appellant had really no reasonable
+opportunity to defend himself and in this connection he invited our attention to some
+of the points connected with the enquiry with which we have now to deal. It was first
+contended that inspection of relevant records and copies of documents were not
+granted to him. The High Court has dealt with the matter and found that there was
+no substance in the complaint. All that Mr Hardy was able to point out to us was that
+the reports received by the CIT from his departmental subordinates before the
+charge-sheet was served on the appellant had not been made available to the
+appellant. It appears that on complaints being received about his work the CIT had
+asked the Inspecting Assistant Commissioner Shri R.N. Srivastava to make a report.
+He made a report. It is obvious that the appellant was not entitled to a copy of the
+report made by Mr Srivastava or any other officer unless the enquiry officer relied on
+these reports. It is very necessary for an authority which orders an enquiry to be
+satisfied that there are prima facie grounds for holding a disciplinary enquiry and,
+
+21
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+therefore, before he makes up his mind he will either himself investigate or direct his
+subordinates to investigate in the matter and it is only after he receives the result of
+these investigations that he can decide as to whether disciplinary action is called for
+or not. Therefore, these documents of the nature of inter- departmental
+communications between officers preliminary to the holding of enquiry have really
+no PART C importance unless the Enquiry Officer wants to rely on them for his
+conclusions. In that case it would only be right that copies of the same should be
+given to the delinquent. It is not the case here that either the Enquiry Officer or the
+CIT relied on the report of Shri R.N. Srivastava or any other officer for his finding
+against the appellant. Therefore, there is no substance in this submission.” (emphasis
+supplied)
+
+35 However, merely because the investigating authority has denied placing reliance on the report
+would not mean that such material cannot be disclosed to the noticee. The court may look into the
+relevance of the material to the proposed action and its nexus to the stage of adjudication. Simply
+put, this entails evaluating whether the material in all reasonable probability would influence the
+decision of the authority. The above position was laid down by this Court in Khudiram Das v. State
+of West Bengal21. Ruling in the context of preventive detention, a four-judge Bench of this Court
+observed:
+
+“15. Now, the proposition can hardly be disputed that if there is before the District
+Magistrate material against the detenu which is of a highly damaging character and
+having nexus and relevancy with the object of detention, and proximity with the time
+when the subjective satisfaction forming the basis of the detention order was arrived
+at, it would be legitimate for the Court to infer that such material must have
+influenced the District Magistrate in arriving at his subjective satisfaction and in such
+a case the Court would refuse to accept the bald statement of the District Magistrate
+that he did not take such material into account and excluded it from consideration. It
+is elementary that the human mind does not function in compartments. When it
+receives impressions from different sources, it is the totality of the impressions which
+goes into the making of the decision and it is not possible to analyse and dissect the
+impressions and predicate which impressions went into the making of the decision
+and which did not. Nor is it an easy exercise to erase the impression created by
+particular circumstances so as to exclude the influence of such impression in the
+decision making process. Therefore, in a case where the material before the District
+Magistrate is of a character which would in all reasonable probability be likely to
+influence the decision of any reasonable human being, the Court (1975) 2 SCC 81
+PART C would be most reluctant to accept the ipse dixit of the District Magistrate
+that he was not so influenced and a fortiori, if such material is not disclosed to the
+detenu, the order of detention would be vitiated, both on the ground that all the basic
+facts and materials which influenced the subjective satisfaction of the District
+Magistrate were not communicated to the detenu as also on the ground that the
+detenu was denied an opportunity of making an effective representation against the
+order of detention.” (emphasis supplied) The principle that the material that may
+
+22
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+influence the decision of a quasi-judicial authority to award a penalty must be
+disclosed to a delinquent was affirmed by this Court in Union of India and Ors. v.
+Mohd. Ramzan Khan22. In that case, this Court laid down that a delinquent officer is
+entitled to receive the report of the enquiry officer which has been furnished to the
+disciplinary authority. This principle was affirmed by a Constitution Bench of this
+Court in Managing Director, ECIL, Hyderabad v. B. Karunakar23. The rationale
+behind the right to receive the report of the enquiry officer was explained by this
+Court in the following terms:
+
+“26. The reason why the right to receive the report of the enquiry officer is considered
+an essential part of the reasonable opportunity at the first stage and also a principle
+of natural justice is that the findings recorded by the enquiry officer form an
+important material before the disciplinary authority which along with the evidence is
+taken into consideration by it to come to its conclusions. It is difficult to say in
+advance, to what extent the said findings including the punishment, if any,
+recommended in the report would influence the disciplinary authority while drawing
+its conclusions. The findings further might have been recorded without considering
+the relevant evidence on record, or by misconstruing it or unsupported by it. If such a
+finding is to be one of the documents to be considered by the disciplinary authority,
+the principles of natural justice require that the employee should have a fair
+opportunity to meet, explain and controvert it before he is condemned. It is negation
+of the tenets of justice and a denial of fair opportunity to the employee to consider the
+findings (1991) 1 SCC 588 (1993) 4 SCC 727 PART C recorded by a third party like the
+enquiry officer without giving the employee an opportunity to reply to it. Although it
+is true that the disciplinary authority is supposed to arrive at its own findings on the
+basis of the evidence recorded in the inquiry, it is also equally true that the
+disciplinary authority takes into consideration the findings recorded by the enquiry
+officer along with the evidence on record. In the circumstances, the findings of the
+enquiry officer do constitute an important material before the disciplinary authority
+which is likely to influence its conclusions. If the enquiry officer were only to record
+the evidence and forward the same to the disciplinary authority, that would not
+constitute any additional material before the disciplinary authority of which the
+delinquent employee has no knowledge. However, when the enquiry officer goes
+further and records his findings, as stated above, which may or may not be based on
+the evidence on record or are contrary to the same or in ignorance of it, such findings
+are an additional material unknown to the employee but are taken into consideration
+by the disciplinary authority while arriving at its conclusions. Both the dictates of the
+reasonable opportunity as well as the principles of natural justice, therefore, require
+that before the disciplinary authority comes to its own conclusions, the delinquent
+employee should have an opportunity to reply to the enquiry officer's findings. The
+disciplinary authority is then required to consider the evidence, the report of the
+enquiry officer and the representation of the employee against it.” (emphasis
+supplied) For the purpose of determining if prejudice has been caused by a non-
+
+23
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+disclosure, this Court held that the report must be furnished to the aggrieved person and the
+employee must shoulder the burden of proving on facts that his case was prejudiced – either the
+outcome or the punishment – by the non- disclosure:
+
+“30. [v] ] The next question to be answered is what is the effect on the order of
+punishment when the report of the enquiry officer is not furnished to the employee
+and what relief should be granted to him in such cases. The answer to this question
+has to be relative to the punishment awarded. When the employee is dismissed or
+removed from service and the inquiry is set aside because the report is not furnished
+to him, in some cases the non- furnishing of the report may have prejudiced him
+gravely while in other cases it may have made no difference to the ultimate
+punishment awarded to him. Hence to direct reinstatement of the employee with
+back-wages in all PART C cases is to reduce the rules of justice to a mechanical ritual.
+The theory of reasonable opportunity and the principles of natural justice have been
+evolved to uphold the rule of law and to assist the individual to vindicate his just
+rights. They are not incantations to be invoked nor rites to be performed on all and
+sundry occasions. Whether in fact, prejudice has been caused to the employee or not
+on account of the denial to him of the report, has to be considered on the facts and
+circumstances of each case. Where, therefore, even after the furnishing of the report,
+no different consequence would have followed, it would be a perversion of justice to
+permit the employee to resume duty and to get all the consequential benefits. It
+amounts to rewarding the dishonest and the guilty and thus to stretching the concept
+of justice to illogical and exasperating limits. It amounts to an “unnatural expansion
+of natural justice” which in itself is antithetical to justice.
+
+31. Hence, in all cases where the enquiry officer's report is not furnished to the
+delinquent employee in the disciplinary proceedings, the Courts and Tribunals
+should cause the copy of the report to be furnished to the aggrieved employee if he
+has not already secured it before coming to the Court/Tribunal and give the employee
+an opportunity to show how his or her case was prejudiced because of the non-supply
+of the report. If after hearing the parties, the Court/Tribunal comes to the conclusion
+that the non-supply of the report would have made no difference to the ultimate
+findings and the punishment given, the Court/Tribunal should not interfere with the
+order of punishment. The Court/Tribunal should not mechanically set aside the order
+of punishment on the ground that the report was not furnished as is regrettably being
+done at present.
+
+(emphasis supplied) 36 In State Bank of Patiala v. SK Sharma24, this Court noted that if a facet of a
+rule of natural justice is violated on grounds of preserving public interest, the entire proceeding is
+not vitiated unless prejudice has been caused to the delinquent. A distinction was made between the
+complete non-abidance of the principles of natural justice, that is where no information was
+disclosed and arguments of insufficient disclosure. It was held that when the latter argument is
+(1996) 3 SCC 364 PART C made, the Court must determine if the insufficient disclosure caused
+prejudice. This Court observed:
+
+24
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+“28. The decisions cited above make one thing clear, viz., principles of natural justice
+cannot be reduced to any hard and fast formulae. As said in Russell v. Duke of
+Norfolk [(1949) 1 All ER 109 : 65 TLR 225] way back in 1949, these principles cannot
+be put in a strait-jacket. Their applicability depends upon the context and the facts
+and circumstances of each case. (See Mohinder Singh Gill v. Chief Election Commr.
+[(1978) 1 SCC 405 : (1978) 2 SCR 272] ) The objective is to ensure a fair hearing, a fair
+deal, to the person whose rights are going to be affected. (See A.K. Roy v. Union of
+India [(1982) 1 SCC 271 : 1982 SCC (Cri) 152] and Swadeshi Cotton Mills v. Union of
+India [(1981) 1 SCC 664] .) As pointed out by this Court in A.K. Kraipak v. Union of
+India [(1969) 2 SCC 262] , the dividing line between quasi-judicial function and
+administrative function (affecting the rights of a party) has become quite thin and
+almost indistinguishable — a fact also emphasised by House of Lords in Council of
+Civil Service Unions v. Minister for the Civil Service [(1984) 3 All ER 935 : (1984) 3
+WLR 1174 :
+
+1985 AC 374, HL] where the principles of natural justice and a fair hearing were
+treated as synonymous.
+
+Whichever the case, it is from the standpoint of fair hearing — applying the test of
+prejudice, as it may be called — that any and every complaint of violation of the rule
+of audi alteram partem should be examined. Indeed, there may be situations where
+observance of the requirement of prior notice/hearing may defeat the very
+proceeding — which may result in grave prejudice to public interest. It is for this
+reason that the rule of post- decisional hearing as a sufficient compliance with
+natural justice was evolved in some of the cases, e.g., Liberty Oil Mills v. Union of
+India [(1984) 3 SCC 465] . There may also be cases where the public interest or the
+interests of the security of State or other similar considerations may make it
+inadvisable to observe the rule of audi alteram partem altogether [as in the case of
+situations contemplated by clauses (b) and (c) of the proviso to Article 311(2)] or to
+disclose the material on which a particular action is being taken. There may indeed
+be any number of varying situations which it is not possible for anyone to foresee. In
+our respectful opinion, the principles emerging from the decided cases can be stated
+in the following terms in relation to the disciplinary orders and enquiries: a
+distinction ought to be made between violation of the principle of natural justice,
+audi alteram partem, as such and violation of a facet of the said principle. In other
+words, distinction is between “no notice”/“no hearing” and “no adequate hearing” or
+to put it in different words, “no opportunity” and “no adequate opportunity”. To
+illustrate — take a case where the person is dismissed from service without hearing
+him altogether (as PART C in Ridge v. Baldwin [1964 AC 40 : (1963) 2 All ER 66 :
+(1963) 2 WLR 935] ). It would be a case falling under the first category and the order
+of dismissal would be invalid — or void, if one chooses to use that expression (Calvin
+v. Carr [1980 AC 574 : (1979) 2 All ER 440 : (1979) 2 WLR 755, PC] ). But where the
+person is dismissed from service, say, without supplying him a copy of the enquiry
+officer's report (Managing Director, ECIL v. B. Karunakar [(1993) 4 SCC 727 : 1993
+
+25
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+SCC (L&S) 1184 : (1993) 25 ATC 704] ) or without affording him a due opportunity of
+cross-examining a witness (K.L. Tripathi [(1984) 1 SCC 43 : 1984 SCC (L&S) 62] ) it
+would be a case falling in the latter category — violation of a facet of the said rule of
+natural justice — in which case, the validity of the order has to be tested on the
+touchstone of prejudice, i.e., whether, all in all, the person concerned did or did not
+have a fair hearing. It would not be correct — in the light of the above decisions to say
+that for any and every violation of a facet of natural justice or of a rule incorporating
+such facet, the order passed is altogether void and ought to be set aside without
+further enquiry. In our opinion, the approach and test adopted in B. Karunakar
+[(1993) 4 SCC 727 : 1993 SCC (L&S) 1184 : (1993) 25 ATC 704] should govern all
+cases where the complaint is not that there was no hearing (no notice, no opportunity
+and no hearing) but one of not affording a proper hearing (i.e., adequate or a full
+hearing) or of violation of a procedural rule or requirement governing the enquiry;
+
+the complaint should be examined on the touchstone of prejudice as aforesaid.” (emphasis supplied)
+37 In State of Uttar Pradesh v. Ramesh Chandra Mangalik25, it was held that the duty to disclose is
+confined only to material and relevant documents which may have been relied upon in support of
+the charges. In that case, the personal file of other officers was not supplied to the delinquent officer.
+It was noted that such documents have not been relied upon by the enquiry officer. The delinquent
+officer was not able to prove the relevance of the documents that were suppressed. This Court
+observed:
+
+“11. Learned counsel for the appellant has further submitted that particular
+documents, copies of which are said to have not been supplied are not indicated by
+the respondent, much less in the order of the High Court nor has their relevance been
+pointed out. The submission is that the delinquent will also have to show as to in
+what (2002) 3 SCC 443 PART C manner any particular document was relevant in
+connection with the inquiry and what prejudice was caused to him by non-furnishing
+of a copy of the document. In support of this contention, reliance has been placed
+upon a case reported in Chandrama Tewari v. Union of India [1987 Supp SCC 518 :
+1988 SCC (L&S) 226 : (1987) 5 ATC 369] . It has been observed in this case that the
+obligation to supply copies of documents is confined only to material and relevant
+documents which may have been relied upon in support of the charges. It is further
+observed that if a document even though mentioned in the memo of charges, has no
+bearing on the charges or if it is not relied upon or it may not be necessary for cross-
+
+examination of any witness, non-supply of such a document will not cause any prejudice to the
+delinquent. The inquiry would not be vitiated in such circumstances. In State of T.N. v. Thiru K.V.
+Perumal [(1996) 5 SCC 474 : 1996 SCC (L&S) 1280] relied upon by the appellant, it is held that it is
+for the delinquent to show the relevance of a document a copy of which he insists to be supplied to
+him.
+
+Prejudice caused by non-supply of document has also to be seen. In yet another case relied upon by
+the learned counsel for the appellant, reported in State of U.P. v. Harendra Arora [(2001) 6 SCC 392
+
+26
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+: 2001 SCC (L&S) 959] it has been held that a delinquent must show the prejudice caused to him by
+non-supply of a copy of the document where order of punishment is challenged on that ground.”
+(emphasis supplied) 38 In Kothari Filaments v. Commr. Of Customs26, this Court held that the
+Commissioner of Customs in the exercise of its quasi-judicial powers cannot pass an order on the
+basis of material which is only known to the authorities. This Court held:
+
+“14. The statutory authorities under the Act exercise quasi-judicial function. By
+reason of the impugned order, the properties could be confiscated, redemption fine
+and personal fine could be imposed in the event an importer was found guilty of
+violation of the provisions of the Act. In the event a finding as regards violation of the
+provisions of the Act is arrived at, several steps resulting in civil or evil consequences
+may be taken. The principles of natural justice, therefore, were required to be
+complied with.
+
+15. The Act does not prohibit application of the principles of natural justice. The
+Commissioner of Customs either could not have passed the order on the basis of the
+materials which were known only to them, copies whereof (2009) 2 SCC 192 PART C
+were not supplied or inspection thereto had not been given. He, thus, could not have
+adverted to the report of the overseas enquiries. A person charged with
+misdeclaration is entitled to know the ground on the basis whereof he would be
+penalised. He may have an answer to the charges or may not have. But there cannot
+be any doubt whatsoever that in law he is entitled to a proper hearing which would
+include supply of the documents.
+
+Only on knowing the contents of the documents, he could furnish an effective reply….” 39 The
+following principles emerge from the above discussion:
+
+(i) A quasi-judicial authority has a duty to disclose the material that has been relied
+upon at the stage of adjudication; and
+
+(ii) An ipse dixit of the authority that it has not relied on certain material would not
+exempt it of its liability to disclose such material if it is relevant to and has a nexus to
+the action that is taken by the authority.
+
+In all reasonable probability, such material would have influenced the decision reached by the
+authority.
+
+Thus, the actual test is whether the material that is required to be disclosed is relevant for purpose
+of adjudication. If it is, then the principles of natural justice require its due disclosure.
+
+40 The investigation report forms the material considering which, the Board arrives at a satisfaction
+regarding whether there has been a violation of the regulations. If it is satisfied that there has been a
+violation of the regulations, after giving a reasonable opportunity to be heard, the Board is
+empowered to take action according to Regulations 11 and 12. It would not suffice for the first
+
+27
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+respondent to claim as it did before the High Court that it did not rely on the investigation report.
+The ipse dixit of the authority that it was not influenced by certain material would not suffice. If the
+material is relevant to and has a nexus to PART C the stage at which satisfaction is reached by an
+authority, such material would be deemed to be important for the purpose of adjudication. The
+written submissions of the Board clearly state that the findings of the investigation report are
+important for the authority to decide whether there are any prima facie grounds to initiate
+enforcement proceedings under Regulation 10. The relevant extract of the submissions is
+reproduced below:
+
+“It is submitted that Regulation 9 of PFUTP Regulations require the Investigating
+Authority to submit the report after completion of the investigation to the appointing
+authority. However, the provision does not require furnishing of the report to the
+Noticee. Further, the investigation report is merely a culmination of documents
+which the investigating authority relies on/come across while conducting the
+investigation and is not a piece of evidence in itself. It is a report which is necessary
+for an authority, who orders an investigation, to decide as to whether there are
+prima-facie grounds to initiate enforcement proceedings or not. Therefore, before the
+authority makes up his mind, he will either himself investigate or direct his
+subordinates to investigate in the matter. It is only after the authority receives the
+report of the investigation that he can decide as to whether action is called for or not.
+Therefore, the investigation report is in the nature of inter-departmental
+communications between officers investigating the matter and authority who can
+decide any enforcement action against the entity.
+
+…..
+
+The findings recorded in the investigation report against the Noticee are brought out
+in the SCN and the copies of all the documents that are relied upon by SEBI, while
+issuing the SCN are always shared with the concerned. The present case is no
+exception.” (emphasis supplied)
+
+41 The above extracts indicate that the findings of the investigation report are relevant for the Board
+to arrive at the satisfaction on whether the Regulations have been violated. Even if it is assumed that
+the report is an inter-departmental communication, as held in Krishna Chandra Tandon (supra),
+there is a duty to disclose such report if it is relevant for the satisfaction of the enforcement
+authority for the determination of the alleged violation. PART C 42 In Khudiram Das (supra), a
+four-Judge Bench of this Court laid down a two-prong test for the standard of ‘relevancy’; firstly, the
+material must have nexus with the order and secondly, the material might have influenced the
+decision of the authority. A Constitution Bench of this Court in Karunakar (supra) held that the
+non-disclosure of the relevant information is not in itself sufficient to warrant the setting aside of
+the order of punishment. It was held that in order to set aside the order of punishment, the
+aggrieved person must be able prove that prejudice has been caused to him due to non-disclosure.
+To prove prejudice, he must prove that had the material been disclosed to him the outcome or the
+punishment would have been different. The test for the extent of disclosure and the corresponding
+
+28
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+remedy for non-disclosure is dependent on the objective that the disclosure seeks to achieve.
+Therefore, the impact of non-disclosure on the reliability of the verdict must also be determined
+vis-à-vis, the overall fairness of the proceeding. While determining the reliability of the verdict and
+punishment, the court must also look into the possible uses of the undisclosed information for
+purposes ancillary to the outcome, but that which might have impacted the verdict.
+
+43 In Natwar Singh (supra), it was held that material which is relevant to the subject-matter of the
+proceedings must be disclosed, unless the scheme of the statute indicates to the contrary. The
+non-disclosure of such material is prima facie arbitrary. A deviation from this general rule was made
+based on the stage of the proceedings. It was held that it is sufficient to disclose the materials relied
+on if it is for the purpose of issuing a show cause notice for initiating inquiry. However, in the
+present case, since the report of the investigating authority under PART C Regulation 9 enters into
+the calculus of circumstances borne in mind by the Board in arriving at its satisfaction under
+Regulation 10 for taking actions as specified in Regulations 11 and 12, it would be contrary to the
+Regulations to assert that the investigation report is merely an internal document of which a
+disclosure is not warranted. In any event, the language of Regulation 10 makes it clear that the
+Board forms an opinion regarding the violation of Regulations after considering the investigation
+report prepared under Regulation 9. Thus, the investigation report has to be duly disclosed to the
+noticee. However, the right to disclosure is not absolute. It needs to be determined if the
+non-disclosure of the investigative report is protected by any of the exceptions to the rule. C.3.
+Exceptions to the Duty to Disclose 44 The contention of the respondents is that since the
+investigation report under Regulation 9 would also include information on “commercial and
+business interests, documents involving strategic information, investment strategies, rationale for
+investments, commercial information and information regarding the business affairs of the
+entities/persons concerned” affecting the privacy and the competitive position of other entities, it
+should not be disclosed. Buttressing this argument, the respondent referred to clauses (d), (e) and
+(h) of the sub-Section (1) of the RTI Act which states there shall be no duty to disclose information
+affecting the commercial confidence or that which could harm the competitive position of a third
+party or impede the process of investigation, unless there is a larger public interest in the disclosure
+of information. The RTI Act attempts to balance the interests of third party individuals whose
+information may be disclosed and public interest in ensuring transparency and accountability. The
+PART C RTI Act is reflective of the parliamentary intent to facilitate transparency in the
+administration, which is the rationale for the disclosure of information. This is subject to certain
+defined exceptions.
+
+45 We cannot be oblivious to the wide range of sensitive information that the investigation report
+submitted under Regulation 9 may cover, ranging from information on financial transactions and on
+other entities in the securities market, which might affect third-party rights. The report may contain
+market sensitive information which may impinge upon the interest of investors and the stability of
+the securities market. The requirement of compliance with the principles of natural justice cannot
+therefore be read to encompass the right to a roving disclosure on matters unconnected or as
+regards the dealings of third parties. The investigating authority may acquire information of
+sensitive nature bearing upon the orderly functioning of the securities market. The right of the
+noticee to disclosure must be balanced with a need to preserve any other third- party rights that may
+
+29
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+be affected.
+
+46 In Natwar Singh (supra), this Court has observed that there are exceptions to the general rule of
+disclosing evidentiary material. This Court held that such exceptions can be invoked if the disclosure
+of material causes harm to others, is injurious to public health or breaches confidentiality. While
+identifying the purpose of disclosure, we have held that one of the crucial objectives of the right to
+disclosure is securing the transparency of institutions. The claims of third party rights vis-à-vis the
+right to disclosure cannot be pitted as an issue of public interest and fair adjudication. The creation
+of such a binary reduces and limits the purpose that disclosure of information serves. The
+respondent should prima PART C facie establish that the disclosure of the report would affect third
+party rights. The onus then shifts to the appellant to prove that the information is necessary to
+defend his case appropriately.
+
+47 Applying this test to the facts, we find that the appellant is unable to prove that the disclosure of
+the entire report is necessary for him to defend the case. The first respondent made the following
+arguments making a prima facie case that the disclosure of the report would violate third party
+rights:
+
+(i) Investigation reports contain information on the volatile nature of the market;
+
+(ii) The report also contains the personal information of various stakeholders.
+Disclosure will violate the right to privacy of the third party individuals; and
+
+(iii) It includes strategic information.
+
+48 The appellant did not sufficiently discharge his burden by proving that the non-disclosure of the
+above information would affect his ability to defend himself. However, merely because a few
+portions of the enquiry report involve information on third-parties or confidential information on
+the securities market, the respondent does not have a right to withhold the disclosure of the relevant
+portions of the report. The first respondent can only claim non-disclosure of those sections of the
+report which deal with third party personal information and strategic information on the
+functioning of the securities market. PART C 49 Therefore, the Board should determine such parts
+of the investigation report under Regulation 9 which have a bearing on the action which is proposed
+to be taken against the person to whom the notice to show cause is issued and disclose the same. It
+can redact information that impinges on the privacy of third parties. It cannot exercise unfettered
+discretion in redacting information. On the other hand, such parts of the report which are necessary
+for the appellant to defend his case against the action proposed to be taken against him need to be
+disclosed. It is needless to say that the investigating authority is duty-bound to disclose such parts of
+the report to the noticee in good faith. If the investigating authority attempts to circumvent its duty
+by revealing minimal information, to the prejudice of the appellant, it will be in violation of the
+principles of natural justice. The court/appellate forum in an appropriate case will be empowered to
+call for the investigation report and determine if the duty to disclose has been effectively complied
+with.
+
+30
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+50 The notice to show cause issued to the appellant is for violation of the provisions of the SEBI Act,
+SCRA and PFUTP Regulations. The show cause notice has specifically referred to what was revealed
+during the course of the investigation and has invoked the provisions of the PFUTP Regulations in
+the allegations against the appellant. Para 8 (2) of the show cause notice is extracted below:
+
+“(II) It is alleged that Mr. T. Takano, during whose tenure the business transactions
+with FDSL started by virtue of his position as MD & CEO of Ricoh during FY 2012-13
+to FY 2014-15, was actively involved in committing the fraud and had knowingly
+restricted the mandate given to PwC to six month so as to succeed in hiding his role
+in the commission of fraud of publishing untrue financial statement of Ricoh which
+resulted in misleading the PART D investors about the financial performance of the
+company and thereby resulted in inducement of traders in the scrip. The said acts of
+the Noticee no. 2 are alleged to be violation of regulations 3 (b), (c), (d), 4(1) and
+4(2)(e), (f),
+
+(k) and (r) of SEBI (PFUTP) Regulations, 2003 and clause 49 (V) read with 41 (II)(a)
+of the erstwhile Listing Agreement.” Since the show cause notice has specifically
+relied upon the report of the investigation and invokes, inter alia, a violation of the
+PFUTP Regulations by the appellant, the mandate of Regulation 10 must be complied
+with. However, while directing that there should be a disclosure of the investigation
+report to the appellant, it needs to be clarified that this would not permit the
+appellant to demand roving inspection of the investigation report which may contain
+sensitive information as regards unrelated entities and transactions.
+
+D.          Conclusion
+
+51          The conclusions are summarised below:
+
+(i)     The appellant has a right to disclosure of the material relevant to the
+
+proceedings initiated against him. A deviation from the general rule of disclosure of
+relevant information was made in Natwar Singh (supra) based on the stage of the
+proceedings. It is sufficient to disclose the materials relied on if it is for the purpose
+of issuing a show cause notice for deciding whether to initiate an inquiry. However,
+all information that is relevant to the proceedings must be disclosed in adjudication
+proceedings;
+
+(ii) The Board under Regulation 10 considers the investigation report submitted by the Investigating
+Authority under Regulation 9, and if it is PART D satisfied with the allegations, it could issue
+punitive measures under Regulations 11 and 12. Therefore, the investigation report is not merely an
+internal document. In any event, the language of Regulation 10 makes it clear that the Board forms
+an opinion regarding the violation of Regulations after considering the investigation report prepared
+under Regulation 9;
+
+31
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+(iii) The disclosure of material serves a three- fold purpose of decreasing the error in the verdict,
+protecting the fairness of the proceedings, and enhancing the transparency of the investigatory
+bodies and judicial institutions;
+
+(iv) A focus on the institutional impact of suppression of material prioritises the process as opposed
+to the outcome. The direction of the Constitution Bench of this Court in Karunakar (supra) that the
+non-disclosure of relevant information would render the order of punishment void only if the
+aggrieved person is able to prove that prejudice has been caused to him due to non-disclosure is
+founded both on the outcome and the process;
+
+(v) The right to disclosure is not absolute. The disclosure of information may affect other third-party
+interests and the stability and orderly functioning of the securities market. The respondent should
+prima facie establish that the disclosure of the report would affect third-party rights and the stability
+and orderly functioning of the securities market. The onus then shifts to the appellant to prove that
+the information is necessary to defend his case appropriately; and PART D
+
+(vi) Where some portions of the enquiry report involve information on third-
+
+parties or confidential information on the securities market, the respondent cannot for that reason
+assert a privilege against disclosing any part of the report. The respondents can withhold disclosure
+of those sections of the report which deal with third-party personal information and strategic
+information bearing upon the stable and orderly functioning of the securities market.
+
+52 The Board shall be duty-bound to provide copies of such parts of the report which concern the
+specific allegations which have been levelled against the appellant in the notice to show cause.
+However, this does not entitle the appellant to receive sensitive information regarding third parties
+and unrelated transactions that may form part of the investigation report.
+
+53 During the course of the hearing, the Court has been apprised of the fact that though the hearing
+before the designated officer has been held, no orders have been passed in deference to the
+pendency of the present proceedings. Having regard to the conclusion which has been arrived at
+above, we direct that after a due disclosure is made to the appellant in terms as noted above, a
+reasonable opportunity shall be granted to the appellant of being heard with reference to the
+matters of disclosure in compliance with the principles of natural justice before a final decision is
+arrived at.
+
+54 The disclosure in terms of the present judgment shall be communicated to the appellant within
+one month from the date of this judgment and the appellant shall be given a period of one month to
+respond. The officer concerned in charge PART D of the enquiry shall fix a date for personal hearing
+before taking a final decision. The appeals are allowed in the above terms.
+
+55 The judgment of the Division Bench of the High Court of Judicature at Bombay dated 29
+September 2020 is accordingly set aside. In the circumstances of the case, there shall be no order as
+to costs.
+
+32
+
+T. Takano vs Securities And Exchange Board Of India on 18 February, 2022
+
+56 Pending application(s), if any, shall stand disposed of.
+
+… . . … . . … . . . . … . . . . . . . . … … … … … … . … . . . . . . . . J .   [ D r   D h a n a n j a y a   Y   C h a n d r a c h u d ]
+…..…..…....…........……………….…........J. [Sanjiv Khanna] New Delhi;
+
+February 18, 2022
+
+33

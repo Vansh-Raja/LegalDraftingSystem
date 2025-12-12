@@ -1,0 +1,23 @@
+{
+  "case_number": "Civil Appeal No.2606 of 2012",
+  "parties": {
+    "petitioner": "Ex. Ct. Mahadev",
+    "respondent": "The Director General, Border Security Force & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-06-14",
+  "summary": "The appellant, a BSF constable, was convicted by a General Security Force Court for murder under Section 46 of the BSF Act, read with Section 302 IPC, based on firing that caused death of a civilian. The conviction was upheld by the High Court. The appellant claimed private defence, citing hostile border conditions and prior attacks on BSF personnel. The Supreme Court examined the applicability of private defence under Sections 96–106 IPC, emphasizing preponderance of probability standard and reasonable apprehension of death or grievous hurt. Reliance was placed on medical and eyewitness testimony, including PW-10's forensic evidence and conflicting accounts on whether the deceased was kneeling. The Court evaluated whether the right to private defence extended to causing death under Section 100 IPC.",
+  "legal_provisions_cited": [
+    "Section 46, Border Security Force Act, 1968",
+    "Section 302, Indian Penal Code",
+    "Sections 96 to 106, IPC",
+    "Section 99 IPC",
+    "Section 100 IPC",
+    "Section 101 IPC",
+    "Section 102 IPC",
+    "Section 105 IPC",
+    "Rizan and Another v. State of Chhattisgarh, (2003) 2 SCC 661",
+    "State of M.P. v. Ramesh, (2005) 9 SCC 705"
+  ],
+  "final_judgment": "Appeal allowed; conviction set aside; appellant acquitted"
+}

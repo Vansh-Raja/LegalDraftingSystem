@@ -1,0 +1,15 @@
+{
+  "case_number": "Arbitration Petition (Civil) No. 05 of 2022",
+  "parties": {
+    "petitioner": "Oil and Natural Gas Corporation Ltd.",
+    "respondent": "Afcons Gunanusa JV"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-30",
+  "summary": "The case involved disputes over arbitration fees under a Lump Sum Turnkey Contract for construction of an ICP-R Platform. Key issues included interpretation of 'sum in dispute' under the Fourth Schedule of the Arbitration and Conciliation Act, 1996, determination of fee ceilings for arbitrators, and party autonomy in ad hoc arbitrations. The Court examined domestic and international frameworks for arbitrator fees, statutory provisions, and judicial precedents. It emphasized legislative intent over literal interpretation, clarified that fee ceilings apply per arbitrator, and resolved discrepancies between English and Hindi versions of the Fourth Schedule.",
+  "legal_provisions_cited": [
+    "Arbitration and Conciliation Act, 1996",
+    "Fourth Schedule to the Arbitration and Conciliation Act, 1996"
+  ],
+  "final_judgment": "The Court upheld the constitutional validity of the Fourth Schedule, interpreted 'sum in dispute' to include both claim and counter-claim, and held that fee ceilings apply individually to each arbitrator, issuing directions for uniform application of fee standards in arbitral proceedings."
+}

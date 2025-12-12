@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 1243 of 2022",
+  "parties": {
+    "petitioner": "Sk Nausad Rahaman & Ors.",
+    "respondent": "Union of India and Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-10",
+  "summary": "The case involved a challenge to the withdrawal of Inter-Commissionerate Transfers (ICTs) for Inspectors in the Central Excise and Customs department. The appellants contested the CBIC circular dated 20 September 2018, which declared ICTs invalid under the Recruitment Rules 2016 (RR 2016), as these rules lacked the provision for absorption present in the earlier RR 2002. The High Court upheld the circular, ruling that RR 2016 mandates separate cadres for each Cadre Controlling Authority (CCA), making ICTs impermissible. The Supreme Court examined whether executive instructions allowing ICTs could prevail over statutory rules and reaffirmed that rules under Article 309 of the Constitution override conflicting executive directions. It also considered limited exceptions for compassionate transfers on a temporary loan basis.",
+  "legal_provisions_cited": [
+    "Article 309 of the Constitution of India",
+    "Article 73 of the Constitution of India",
+    "Section 4 of the Customs Act, 1962",
+    "Section 4 of the Central Goods and Services Tax Act, 2017",
+    "UOI & Ors. v. Somasundaran Viswanath & Ors. (1990) 1 SCC 166"
+  ],
+  "final_judgment": "The Supreme Court upheld the validity of the CBIC circular dated 20 September 2018, affirming that ICTs are not permissible under RR 2016, and that such transfers made on or after 26 December 2016 are non-est and deemed to be on loan basis until 31 March 2019, after which officers must revert to their parent cadres."
+}

@@ -1,0 +1,15 @@
+{
+  "case_number": "CIVIL APPEAL NOS. 4130-4131 OF 2022",
+  "parties": {
+    "petitioner": "BBR (India) Private Limited",
+    "respondent": "S.P. Singla Constructions Private Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-18",
+  "summary": "The central issue was whether the seat of arbitration shifted from Panchkula, Haryana, to Delhi upon appointment of a new arbitrator. The arbitration clause was silent on the seat. The first arbitrator fixed Panchkula as the venue; after his recusal, the successor conducted proceedings in Delhi and passed the award there. The Court examined whether this altered the juridical seat, noting that the initial venue determination by the first arbitrator, accepted by both parties, established Panchkula as the seat. Conducting proceedings in Delhi did not change the seat absent party agreement or valid legal basis. The jurisdiction under Section 9 and Section 34 applications thus lay with courts in Panchkula, not Delhi.",
+  "legal_provisions_cited": [
+    "Section 9, Arbitration and Conciliation Act, 1996",
+    "Section 34, Arbitration and Conciliation Act, 1996"
+  ],
+  "final_judgment": "The appeals were allowed, setting aside the Delhi High Court's jurisdiction and affirming that the seat of arbitration remained Panchkula, Haryana, with exclusive jurisdiction for challenge proceedings under Section 34."
+}

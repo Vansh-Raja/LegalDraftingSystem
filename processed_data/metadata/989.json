@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal Nos. of 2023 (@SLP (C) Nos. 18339-42/2021)",
+  "parties": {
+    "petitioner": "Magic Eye Developers Pvt. Ltd.",
+    "respondent": "M/s. Green Edge Infrastructure Pvt. Ltd. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-12",
+  "summary": "Pre-referral jurisdiction under Section 11(6) of Arbitration Act; existence vs validity of arbitration agreement; Section 11(6A) requires referral court to conclusively determine existence of arbitration agreement before referral; reference to arbitration improper when existence of agreement disputed; reliance on N.N. Global Mercantile (2023) and NTPC Ltd. (2023); High Court erred in treating arbitrability as sole issue without resolving existence of arbitration clause; SHA-1, SHA-2, MOU-1 and MOU-2 interconnectedness contested.",
+  "legal_provisions_cited": [
+    "Arbitration and Conciliation Act, 1996 s.11(6)",
+    "Arbitration and Conciliation Act, 1996 s.11(6A)",
+    "Arbitration and Conciliation Act, 1996 s.7(1)"
+  ],
+  "final_judgment": "Appeal allowed; High Court order referring disputes to arbitration set aside; remanded for determination on existence of arbitration agreement."
+}

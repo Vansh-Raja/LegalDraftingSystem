@@ -1,0 +1,18 @@
+{
+  "case_number": "WRIT PETITION (CIVIL) NO. 338 OF 2006",
+  "parties": {
+    "petitioner": "Sanjay Gupta & Ors.",
+    "respondent": "State of Uttar Pradesh through its Chief Secretary & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-12",
+  "summary": "The petition arises from a fire tragedy on 10.4.2006 at the India Brand Consumer Show in Meerut, Uttar Pradesh, resulting in 65 deaths and over 161 injuries. The petitioners challenged the initial inquiry report, which was found unsustainable due to procedural lapses, particularly non-compliance with cross-examination rights. The Supreme Court thereafter appointed a new Commission under retired Justice S.B. Sinha. The Commission found the organizers (Respondents 10–12) primarily liable for negligence, suppression of material facts, failure to obtain necessary permissions, and non-compliance with fire safety and electrical regulations. The State authorities were criticized for laxity, but immediate liability under Article 32 was not fixed against private organizers. The Court emphasized the duty of care by event organizers as occupiers of the premises and the need for accountability in public safety. Issue of compensation apportionment was reserved for further consideration.",
+  "legal_provisions_cited": [
+    "Commission of Inquiry Act, 1952",
+    "Electricity Act, 2003, Section 54",
+    "Indian Electricity Rules, 1956, Rule 47A",
+    "U.P. Fire Services Act, 2005",
+    "Article 32 of the Constitution of India"
+  ],
+  "final_judgment": "The previous inquiry report was set aside; a new Commission was appointed whose findings established primary negligence and liability of the event organizers. The State's role in regulatory oversight was noted, but final apportionment of liability and compensation was to be determined based on the new Commission's report. The Court retained jurisdiction to decide further action including compensation."
+}

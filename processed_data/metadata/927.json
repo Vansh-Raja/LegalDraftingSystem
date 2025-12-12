@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal Nos. 2890-2891 of 2023 (Arising out of SLP(C) Nos. 10362-10363 of 2022)",
+  "parties": {
+    "petitioner": "Isolators And Isolators through its Proprietor Mrs. Sandhya Mishra",
+    "respondent": "Madhya Pradesh Madhya Kshetra Vidyut Vitran Co. Ltd. & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-18",
+  "summary": "The appellant, a transformer manufacturing firm, challenged the High Court's order upholding its debarment for three years from 13.02.2020 for alleged supply delays in two tenders (TS-494 and TS-532). The appellant argued that delays were due to late receipt of purchase orders and a natural disaster (storm damage in August 2018) that destroyed raw materials. It claimed repeated requests for rescheduling were ignored and that partial supplies were made. The respondents cancelled balance purchase orders citing non-supply and invoked tender clauses for cancellation and penalties. The High Court partly modified the debarment period but upheld the cancellation. The main issues before the Supreme Court were the reasonableness of the debarment, the fairness of the cancellation of contracts, and whether the appellant was given a fair opportunity to perform. The appeals were allowed, holding that the debarment was disproportionate and that the appellant had demonstrated willingness and partial performance, particularly after the force majeure event.",
+  "legal_provisions_cited": [
+    "Tender Clause 12 (Delivery) of TS-494",
+    "Tender Clause 28 (Cancellation of Rate Contract) of TS-494",
+    "Tender Clause 04 (Delivery of Material) of TS-532",
+    "Tender Clause 17 (Cancellation/Termination) of TS-532"
+  ],
+  "final_judgment": "Appeals allowed."
+}

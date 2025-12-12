@@ -1,0 +1,25 @@
+{
+  "case_number": "Civil Appeal No. 2104 of 2009",
+  "parties": {
+    "petitioner": "Securities and Exchange Board of India",
+    "respondent": "Mega Corporation Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-25",
+  "summary": "The appeal concerned SEBI's order restraining Mega Corp. from accessing the capital market and its directors from dealing in securities for one year due to alleged violations of PFUTP Regulations, including price manipulation and misleading advertisements. The Securities Appellate Tribunal set aside SEBI's order, citing lack of evidence on manipulation, ordinary-course legitimacy of public statements, and violation of natural justice for denying cross-examination. The Supreme Court examined whether the Tribunal's decision involved a question of law, the scope of Section 15Z, validity of ads under Regulations 3 and 4, and whether share manipulation occurred. The core issue was the standard of appellate review over factual findings by the Tribunal.",
+  "legal_provisions_cited": [
+    "Section 15Z, Securities and Exchange Board of India Act, 1992",
+    "Section 11B, SEBI Act",
+    "Section 19, SEBI Act",
+    "SEBI (Prohibition of Fraudulent and Unfair Trade Practices Relating to Securities Market) Regulations, 2003, Regulations 3(a)-(d), 4(1), 4(2)(k), 4(2)(r)",
+    "K.L. Tripathi v. State Bank of India",
+    "Tara Chand Vyas v. Chairman & Disciplinary Authority",
+    "State Bank of India v. Jah Developers",
+    "Securities and Exchange Board of India v. Rakhi Trading Private Limited",
+    "Securities and Exchange Board of India v. Kishore R. Ajmer˓a",
+    "Meenglas Tea Estate v. Workmen",
+    "Bareilly Electricity Supply Co. Ltd v. Workmen",
+    "Swadeshi Cotton Mills v. Union of India"
+  ],
+  "final_judgment": "Appeal dismissed. The Supreme Court held that the Securities Appellate Tribunal's findings, based on re-appreciation of evidence, did not involve any substantial question of law. The Court affirmed that under Section 15Z, its jurisdiction is limited to questions of law, and mere disagreement with factual conclusions does not justify interference. The Tribunal's observation on natural justice regarding cross-examination was upheld as a valid legal ground. Accordingly, SEBI's order was set aside."
+}

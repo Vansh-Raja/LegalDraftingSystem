@@ -1,0 +1,25 @@
+{
+  "case_number": "Criminal Appeal No. 988 of 2017",
+  "parties": {
+    "petitioner": "Sabitri Samantaray",
+    "respondent": "State of Odisha"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-20",
+  "summary": "The appeal challenged the High Court's conviction of the appellants (Sabitri Samantaray and Bidyadhar Praharaj) under Section 304(II) IPC, reducing it from Section 302 IPC due to grave and sudden provocation. The prosecution alleged the couple killed the deceased, who had a relationship with their daughter, by throttling and using acid to destroy his identity. The defense claimed the deceased attacked them and died by suicide. The key issue was whether the prosecution proved its case beyond reasonable doubt through circumstantial evidence and whether reliance on Section 106 of the Evidence Act was justified. The Supreme Court analyzed the evidentiary burden in secret murders, reliance on medical evidence, and credibility of witness testimonies. It upheld the High Court’s modification of conviction to Section 304(II) IPC, finding the appellants guilty based on presence, conduct, and failure to offer a plausible explanation.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 304(II) IPC",
+    "Section 201 IPC",
+    "Section 109 IPC",
+    "Section 34 IPC",
+    "Section 106 of the Indian Evidence Act",
+    "Section 313 CrPC",
+    "Shambu Nath Mehra Vs. State of Ajmer",
+    "Trimukh Maroti Kirkan Vs. State of Maharashtra",
+    "Rajendra Kumar Vs. State of Rajasthan",
+    "Devender Kumar Singla v. Baldev Krishnan Singla",
+    "Mohan Singh v. Prem Singh"
+  ],
+  "final_judgment": "Appeal dismissed; conviction under Section 304(II) IPC upheld with sentence of five years rigorous imprisonment and fine."
+}

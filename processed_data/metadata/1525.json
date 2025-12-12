@@ -1,0 +1,21 @@
+{
+  "case_number": "Writ Petition (Civil) No.1052 of 2021",
+  "parties": {
+    "petitioner": "Sunil Kumar Rai & Ors.",
+    "respondent": "The State of Bihar & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-21",
+  "summary": "The petitioners challenged the Bihar government's 2016 notification granting Scheduled Tribe status to the Lohar community, alleging it was unconstitutional and led to misuse of the SC/ST (Prevention of Atrocities) Act, 1989, resulting in false FIRs and wrongful arrests. The notification relied on a 2006 amendment later repealed by the Repealing and Amendment Act, 2016. The petitioners argued that only Parliament, not the State, can determine Scheduled Tribe status under Article 342, and that the notification violated Articles 14 and 21. The State contested maintainability, citing delay and preferability of High Court remedy. The Court found the challenge to the notification maintainable under Article 32 despite delay, citing public importance and continued harm through misuse of criminal law.",
+  "legal_provisions_cited": [
+    "Article 14",
+    "Article 21",
+    "Article 32",
+    "Article 342",
+    "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+    "Repealing and Amendment Act, 2016",
+    "Assam Sanmilita Mahasangha & Ors. v. Union of India & Ors. (2015) 3 SCC 1",
+    "Olga Tellis v. Bombay Municipal Corpn."
+  ],
+  "final_judgment": "The Court held that the impugned notification was ultra vires and unconstitutional as the State lacked competence to grant Scheduled Tribe status; it quashed the notification and directed cessation of issuance of ST certificates to the Lohar community based on it."
+}

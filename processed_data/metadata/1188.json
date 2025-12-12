@@ -1,0 +1,28 @@
+{
+  "case_number": "Criminal Appeal No(s). 2276 of 2022",
+  "parties": {
+    "petitioner": "Vikas Chaudhary",
+    "respondent": "The State of Delhi"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-21",
+  "summary": "The appeal challenged the imposition of a 30-year fixed-term sentence without remission for kidnapping for ransom and murder. The appellants argued that the trial court lacked jurisdiction to impose such a sentence, relying on Union of India v. Sriharan, and that mitigating factors like age, reformation, and absence of criminal antecedents were ignored. The State contended the crime was cold-blooded and fell in the 'gravest of grave' category, justifying the sentence. The Court examined whether sentencing principles, including assessment of reformation and adherence to appellate procedure under CrPC Section 386, were followed.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 364A IPC",
+    "Section 201 IPC",
+    "Section 120B IPC",
+    "Section 411 IPC",
+    "Section 420 IPC",
+    "Section 468 IPC",
+    "Section 471 IPC",
+    "Section 386(b) CrPC",
+    "Probation of Offenders Act",
+    "Union of India v. Sriharan @ Murugan",
+    "Bachan Singh v. Union of India",
+    "Machhi Singh v. State of Punjab",
+    "Swamy Shraddananda v. State of Karnataka",
+    "Rajendra Prahladrao Wasnik v. State of Maharashtra"
+  ],
+  "final_judgment": "The Supreme Court set aside the 30-year fixed-term sentence without remission imposed by the trial court and confirmed by the High Court, holding that the trial court lacked jurisdiction to impose such a sentence. The Court emphasized the need to consider mitigating circumstances, reformation, and procedural fairness in sentencing, and remanded the matter to the High Court for reconsideration of the sentence in accordance with law."
+}

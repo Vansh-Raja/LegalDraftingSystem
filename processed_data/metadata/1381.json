@@ -1,0 +1,19 @@
+{
+  "case_number": "CRIMINAL APPEAL NO(S). …………. OF 2022 (ARISING OUT OF SLP (Crl.) No(s). 7899-7900 of 2015)",
+  "parties": {
+    "petitioner": "Manoj Pratap Singh",
+    "respondent": "The State of Rajasthan"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-06-24",
+  "summary": "The case involves the appeal of Manoj Pratap Singh against his conviction and death sentence for kidnapping, raping, and murdering a 7½-year-old mentally and physically challenged girl. The prosecution relied on circumstantial evidence, including the appellant being the last person seen with the victim, recovery of the body and incriminating items at his instance, medical and forensic evidence, and failure to explain his conduct. The Trial Court awarded the death sentence, which was confirmed by the Rajasthan High Court. The appellant challenged the conviction on grounds of alleged false implication, procedural irregularities in investigation and trial, lack of proper legal aid, and non-consideration of mitigating factors. The respondent-State argued that the evidence was cogent and consistent, the case fell within the 'rarest of rare' category, and the appellant posed a continued threat to society, citing a later conviction for killing another inmate in jail.",
+  "legal_provisions_cited": [
+    "Section 363 IPC",
+    "Section 365 IPC",
+    "Section 376(2)(f) IPC",
+    "Section 302 IPC",
+    "Section 6 POCSO Act, 2012",
+    "Section 366 CrPC"
+  ],
+  "final_judgment": "The Supreme Court upheld the conviction and confirmed the death sentence, finding the prosecution's case proven beyond reasonable doubt and the case to be among the 'rarest of rare' due to the heinous nature of the crime, vulnerability of the victim, and aggravating circumstances, while also observing that mitigating factors did not outweigh the gravity of the offence."
+}

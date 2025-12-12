@@ -1,0 +1,22 @@
+{
+  "case_number": "Civil Appeal Nos. 1763-1764 of 2022",
+  "parties": {
+    "petitioner": "The State of Karnataka & Anr",
+    "respondent": "Umesh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-22",
+  "summary": "The appeals challenged the Karnataka High Court's decision to set aside the compulsory retirement of respondent Umesh, a Village Accountant, following a disciplinary enquiry on bribery charges. Though acquitted in a criminal trial due to lack of reliable evidence, the disciplinary proceedings found him guilty based on possession of tainted currency and testimony of a shadow witness. The High Court nullified the penalty, citing insufficient corroboration and erroneous reliance on weak evidence. The State argued that acquittal in criminal proceedings doesn't bar departmental action, and that the High Court overstepped judicial review limits. The respondent contended the inquiry was flawed, lacked application of mind, and that explanation for possessing money (repayment of a loan) was credible. Key issues centered on standard of proof in disciplinary inquiries, evidentiary value of shadow witness, and finality of criminal acquittal.",
+  "legal_provisions_cited": [
+    "Section 7 and 13(1)(d) read with Section 13(2) of the Prevention of Corruption Act 1988",
+    "Section 7(2) of the Karnataka Lokayukta Act 1984",
+    "Rule 14-A of the Karnataka Civil Services (Classification, Control and Appeal) Rules 1957",
+    "Rule 3(1)(i) to (iii) of KCS (Conduct) Rules 1966",
+    "Rule 8(vi) of the 1957 Rules",
+    "Article 226 of the Constitution of India",
+    "Commissioner of Police, Delhi v. Narender Singh",
+    "State of Haryana v. Rattan Singh",
+    "State of Punjab v. Madan Mohan Lal Verma"
+  ],
+  "final_judgment": "Appeal allowed in part; set aside the High Court's judgment and reinstated the Karnataka Administrative Tribunal's order upholding compulsory retirement, but modified the penalty to removal from service without back wages and with full pensionary benefits"
+}

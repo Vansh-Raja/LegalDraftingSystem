@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 8181 of 2022 (Arising out of SLP (C) No. 9876 of 2020)",
+  "parties": {
+    "petitioner": "State Bank of India",
+    "respondent": "Assistant Commissioner of Income Tax"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-11-04",
+  "summary": "The case involved whether State Bank of India (SBI) was liable to deduct Tax at Source (TDS) under Section 192(1) of the Income Tax Act, 1961, on Leave Travel Concession (LTC) payments made to employees who undertook travel involving foreign legs and non-shortest routes. The Revenue contended that since the travel violated conditions under Section 10(5) and Rule 2B of the Income Tax Rules—specifically, travel outside India and not via the shortest route—the LTC benefit was not available, making the payments taxable and mandating TDS deduction. SBI argued that despite foreign legs, the origin and destination were within India, and reimbursement was only for the shortest domestic route. The Supreme Court upheld the findings of the Assessing Officer, CIT(A), ITAT, and Delhi High Court, holding that the travel did not satisfy the statutory conditions for exemption, and thus SBI was in default for failing to deduct TDS.",
+  "legal_provisions_cited": [
+    "Section 192(1) of the Income Tax Act, 1961",
+    "Section 201 of the Income Tax Act, 1961",
+    "Section 10(5) of the Income Tax Act, 1961",
+    "Rule 2B of the Income Tax Rules, 1962",
+    "Section 133A of the Income Tax Act, 1961"
+  ],
+  "final_judgment": "The appeal was dismissed. The Supreme Court upheld the order of the High Court and held that the State Bank of India was an assessee in default for not deducting tax at source on LTC payments made in violation of Section 10(5) and Rule 2B."
+}

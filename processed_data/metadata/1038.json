@@ -1,0 +1,23 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 1381 OF 2023",
+  "parties": {
+    "petitioner": "Peethambaran",
+    "respondent": "State of Kerala & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-03",
+  "summary": "Section 482 CrPC; further investigation vs reinvestigation; District Police Chief lacks authority to order further investigation without Magistrate's permission; supplementary report invalidly filed post-closure; no evidence of financial transactions or specific role of appellant; ingredients of Section 420 IPC not met; High Court erred in not quashing proceedings; closure report (FR-I) indicating false case not acted upon; challenge to validity of FR-II based on unauthorized further investigation.",
+  "legal_provisions_cited": [
+    "Code of Criminal Procedure, 1973 s.482",
+    "Code of Criminal Procedure, 1973 s.173(8)",
+    "Code of Criminal Procedure, 1973 s.156(3)",
+    "Indian Penal Code, 1860 s.420",
+    "Constitution of India Art.226",
+    "Vinay Tyagi v. Irshad Ali",
+    "Minu Kumari v. State of Bihar",
+    "Hemant Dhasmana v. CBI",
+    "Devendra Nath Singh v. State of Bihar",
+    "Paramjit Batra v. State of Uttarakhand"
+  ],
+  "final_judgment": "Appeal allowed; impugned order of High Court setting aside quashing petition is quashed; proceedings under Criminal Case No. 1326/2017 directed to be quashed; FR-II set aside as unauthorized; trial court to consider FR-I as final."
+}

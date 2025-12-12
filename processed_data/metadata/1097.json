@@ -1,0 +1,24 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 1198 OF 2023; Arising out of SLP (Crl.) No. 1655 of 2023",
+  "parties": {
+    "petitioner": "Sanjay Raghunath Agarwal",
+    "respondent": "The Directorate Of Enforcement"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-20",
+  "summary": "Bail plea in money laundering case; predicate offence FIR registered 2013 (IPC Sections 406, 407, 415-420, 120B) but pending for nine years; ECIR filed 2022 under PMLA based on SEBI order finding fraudulent GDR scheme; appellant CA professional argued as mere service provider without possession of 'proceeds of crime'; Enforcement Directorate alleged kingpin role in orchestrating GDR fraud causing $15.6M loss; Section 45 PMLA twin conditions analysis; no final report in predicate offence; Srinivas Reddy also arrested but remand rejected; bail granted with passport surrender and court appearance conditions.",
+  "legal_provisions_cited": [
+    "PMLA s.3",
+    "PMLA s.4",
+    "PMLA s.44",
+    "PMLA s.45(1)(ii)",
+    "IPC s.406",
+    "IPC s.407",
+    "IPC s.415",
+    "IPC s.420",
+    "IPC s.120B",
+    "IPC s.34",
+    "CrPC s.156(3)"
+  ],
+  "final_judgment": "Appeal allowed; bail granted subject to conditions including passport surrender and regular court appearances."
+}

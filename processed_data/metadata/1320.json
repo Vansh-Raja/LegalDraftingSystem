@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 2564 of 2012",
+  "parties": {
+    "petitioner": "K. Arumuga Velaiah",
+    "respondent": "P.R. Ramasamy and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-27",
+  "summary": "The petitioner challenged the partition of joint family properties, claiming entitlement to a one-fourth share via a will executed by his grandfather. The respondents contested the will's validity, asserting prior partition in 1964 among three sons, excluding the grandfather, and adverse possession. The Trial Court dismissed the suit, holding the will invalid due to lack of the grandfather's ownership post-partition and res judicata based on earlier decrees. The First Appellate Court and High Court affirmed. The Supreme Court analyzed the validity of the 1964 partition, earlier judgments, and applicability of res judicata, determining that the grandfather had no continuing interest in the property to bequeath.",
+  "legal_provisions_cited": [
+    "Section 6 of the Hindu Succession Act",
+    "principle of res judicata",
+    "doctrine of ouster in wills",
+    "Indian Succession Act"
+  ],
+  "final_judgment": "Appeal dismissed; affirmed the decisions of the High Court and lower courts, upholding the validity of the 1964 partition and the dismissal of the plaintiff's suit for partition and separate possession."
+}

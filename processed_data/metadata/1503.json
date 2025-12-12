@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 5789 of 2022",
+  "parties": {
+    "petitioner": "St. Mary's Education Society & Anr.",
+    "respondent": "Rajendra Prasad Bhargava & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-24",
+  "summary": "The key issues were (1) whether a writ petition under Article 226 is maintainable against a private unaided minority educational institution, and (2) whether service disputes in private educational institutions can be adjudicated via writ jurisdiction. The factual matrix involved termination of a non-teaching employee after departmental proceedings. The High Court had held the writ petition maintainable, overturning the Single Judge's dismissal. The Supreme Court examined precedents regarding public function and judicial review in minority institutions, particularly focusing on employee rights and extent of writ jurisdiction. The Court assessed whether service disputes involving private unaided minority institutions fall within the ambit of Article 226, balancing institutional autonomy under Article 30(1) and employee remedies.",
+  "legal_provisions_cited": [
+    "Article 226 of the Constitution of India",
+    "Article 30(1) of the Constitution of India",
+    "Marwari Balika Vidhyalaya v. Asha Shrivastaga",
+    "K. Krishnamacharyulu v. Andhra Pradesh Public Service Commission",
+    "Frank Anthony Public School Employees Association v. Union of India",
+    "Executive Committee of Vaish Degree College, Shamli v. Lakshmi Narain",
+    "Ramesh Ahluwalia v. Bihar State Board of Religious Trusts",
+    "Yogendra Singh Dhakad v. Delhi Public School Society & Ors."
+  ],
+  "final_judgment": "Appeal allowed in part; matter remanded to the High Court to decide the writ petition on merits, with directions for expeditious disposal."
+}

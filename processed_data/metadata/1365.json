@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 439 of 2022",
+  "parties": {
+    "petitioner": "M/s. Sree Surya Developers and Promoters",
+    "respondent": "N. Sailesh Prasad and Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-09",
+  "summary": "The appeals arose from a challenge to a High Court judgment allowing an appeal against the trial court's rejection of a plaint under Order VII Rule 11(d) CPC, which held that the suit to set aside a compromise decree was barred under Order XXIII Rule 3A CPC. The appellant contended that the suit was impermissible due to the bar under Order XXIII Rule 3A, while the High Court remanded the matter, citing failure to consider Order XXXII (minor's protection) Rules 1–7. The Supreme Court examined whether maintainability was properly addressed and emphasized that courts must reject cleverly drafted pleas circumventing statutory bars.",
+  "legal_provisions_cited": [
+    "Order VII Rule 11(d) CPC",
+    "Order XXIII Rule 3A CPC",
+    "Order XXXII Rules 1 to 7 CPC",
+    "Banwari Lal Vs. Chando Devi, (1993) 1 SCC 581",
+    "Pushpa Devi Bhagat Vs. Rajinder Singh & Ors., (2006) 5 SCC 566",
+    "T. Arivandandam Vs. T.V. Satyapal and Anr., (1977) 4 SCC 467"
+  ],
+  "final_judgment": "The appeals were allowed, and the High Court's judgment was set aside, with the Trial Court's order of plaint rejection under Order VII Rule 11(d) CPC reinstated, holding the suit barred under Order XXIII Rule 3A CPC."
+}

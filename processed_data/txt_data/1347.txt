@@ -1,0 +1,1318 @@
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on
+31 January, 2022
+
+Author: Dinesh Maheshwari
+
+Bench: Vikram Nath, Dinesh Maheshwari
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO. 786 OF 2022
+(ARISING OUT OF SLP(C) No. 16671 OF 2021)
+
+M/s AGMATEL INDIA PVT. LTD.                                                         .………APPELLANT(S)
+
+VERSUS
+
+M/s RESOURSYS TELECOM & ORS.                                                       ………RESPONDENT(S)
+
+WITH
+
+C.A. NO. 787 OF 2022
+(ARISING OUT OF SLP(C) No. 16672 of 2021)
+
+JUDGMENT
+
+Dinesh Maheshwari, J.
+
+Contents Preliminary.................................................................................................................1
+Relevant Factual Matrix and Background..................................................................3 High Court
+d i s a p p r o v e s   t h e   d e c i s i o n   o f   t e n d e r   i n v i t i n g   a u t h o r i t y . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7   R i v a l
+Submissions....................................................................................................16 Interpretation of
+Tender Document: Relevant Principles.........................................23 Application of relevant principles
+t o   t h e   c a s e   a t   h a n d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 8
+Conclusion................................................................................................................44 Preliminary
+Leave granted.
+
+2. These two appeals against the same judgment and order dated 27.09.2021, as passed by the High
+Court of Delhi at New Delhi in Writ Petition (C) No. 6676 of 2021, have been considered together
+and are 15:19:41 IST Reason:
+
+taken up for disposal by this common judgment.
+
+1
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+2.1. By the impugned judgment and order dated 27.09.2021, the High Court has
+accepted the writ petition filed by the respondent No. 1 of these appeals (M/s.
+Resoursys Telecom- hereinafter referred to as ‘the writ petitioner’) and has
+disapproved the technical disqualification and consequential rejection of the
+technical bid of writ petitioner in respect of a tender floated by the appellant of the
+appeal arising out of SLP(C) No. 16672 of 2021 (Navodaya Vidyalaya Samiti –
+hereinafter referred to as ‘NVS’). The appellant of the other appeal arising out of
+SLP(C) No. 16671 of 2021 (Agmatel India Pvt. Ltd. – hereinafter referred to as
+‘Agmatel’) is said to be the bidder whose offer was accepted by NVS after technically
+disqualifying the writ petitioner.
+
+3. The crux of the matter involved in these two appeals is as to whether the High
+Court has been justified in interfering with the view taken by the tender inviting
+authority, i.e., NVS, in rejection of the technical bid of writ petitioner for want of
+fulfilment of ‘Past Performance’ criterion about supply of ‘same or similar Category
+Products’ of 60% of bid quantity in at least one of the last three financial years?
+
+3.1. It may be observed at the outset that a contention had also been urged,
+particularly on behalf of Agmatel, that the High Court of Delhi had no jurisdiction to
+entertain the subject writ petition when all the material events took place in the State
+of Uttar Pradesh and when the tender inviting authority was also in the State of Uttar
+Pradesh. The High Court has rejected this objection with reference to the fact that
+such an objection was not taken by the tender inviting authority-NVS, who was even
+otherwise operating under the Department of School Education and Literacy,
+Ministry of Human Resources Development, New Delhi. This aspect has not been
+given much emphasis before us and we would also leave it at that only, while dealing
+with the matter on its merit.
+
+4. It may also be observed that while considering these appeals initially on
+29.10.2021, we had considered it appropriate to take up the matters for final hearing
+at the admission stage itself, particularly looking to the object of the tender process in
+question, for that being related with education of the children. However, in the
+circumstances of the case, we had stayed the operation of the impugned order of the
+High Court while providing that status quo in relation to the tender process in
+question shall be maintained by all the concerned. After completion of pleadings, we
+have heard learned counsel for the parties finally at the admission stage.
+
+5. After the foregoing preliminary comments, we may take note of the factual aspects
+in brief, and insofar as relevant for the issues at hand.
+
+Relevant Factual Matrix and Background
+
+6. The dispute in the present appeals has its genesis in a Notice Inviting Tenders (‘NIT’) bearing No.
+GEM/2021/b/1032762, as issued by the appellant-NVS on 12.02.2021 on the Government online
+
+2
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+portal i.e., Government e-market Place (‘GeM’) for supply of 68,940 Tablets for school children. The
+NIT carried with it several of the terms and conditions but, we are concerned in the present appeals
+with the terms and conditions pertaining to ‘Experience’ and ‘Past Performance’ of the bidders. The
+relevant terms and conditions may be extracted as under: -
+
+“1. Experience Criteria: In respect of the filter applied for experience criteria, the
+Bidder or its OEM {themselves or through reseller(s)} should have regularly,
+manufactured and supplied same or similar Category Products to any Central / State
+Govt Organization / PSU / Public Listed Company for number of Financial years as
+indicated above in the bid document before the bid opening date. Copies of relevant
+contracts to be submitted along with bid in support of having supplied some quantity
+during each of the Financial year. In case of bunch bids, the category of primary
+product having highest value should meet this criterion.
+
+****** ***** ******
+
+4. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)}
+should have supplied same or similar Category Products for 80% of bid quantity 1, in
+at least one of the last three Financial years before the bid opening date to any
+Central/State Govt Organization / PSU / Public Listed Company. Copies of relevant
+contracts (proving supply of cumulative order quantity in anyone financial year) to be
+submitted along with bid in support of quantity supplied in the relevant Financial
+year. In case of bunch bids, the category related to primary product having highest
+bid value should meet this criterion.” Bid Specific Additional Terms and Conditions
+“****** ***** ******
+
+3. The Bidder / OEM {themselves or through reseller(s)}, should have executed
+project for supply and installation/ commissioning of same or similar Category
+Products during preceding 3 financial years (i.e. current year and three previous
+financial years) as on opening of bid, as per following criteria:
+
+(i) Single order of at least 35% of estimated bid value; or
+
+(ii) Two orders of at least 20% each of estimated bid value; or
+
+(iii) Three orders of at least 15% each of estimated bid value.
+
+****** ***** ****** 1 This quantity requirement of 80% was admittedly reduced to
+60% by way of a corrigendum issued by the tender inviting authority.
+
+14. Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have
+regularly, manufactured and supplied same or similar Category Products to any Central/ State Govt
+Organization / PSU / Public Listed Company for 3 years before the bid opening date. Copies of
+relevant contracts to be submitted along with bid in support of having supplied some quantity
+
+3
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+during each of the year. In case of bunch bids, the primary product having highest value should
+meet this criterion."
+
+(emphasis in bold supplied) 6.1. It is the requirement concerning “same or similar Category
+Products” in the aforesaid conditions which forms the bone of contention in these appeals.
+
+7. The writ petitioner M/s. Resoursys Telecom responded to the said NIT and offered its bid for the
+product i.e., “Tablet” which is being manufactured by an Indian company namely, Lava
+International Limited, after having necessary approvals from the manufacturer (OEM). After
+opening the technical bids on 08.05.2021, the appellant-NVS rejected the bid of the writ petitioner
+on 25.06.2021, while stating the reason of rejection as ‘technical specification mismatch’. The writ
+petitioner felt that the grounds for rejection were not discernible and the rejection was vague and
+ambiguous; and, therefore, made a representation dated 27.06.2021 seeking clarification of the
+reason for rejection. The appellant-NVS, in its reply dated 29.06.2021, inter alia, stated as under: -
+
+“1. Does not qualify past Performance (Page 124) of tender document for any of the
+FY 2018-19, 2019-20, 2020-21. Work Orders of Smart Phones, Laptops, Aadhar Kits,
+Printers, Power-bank, etc are not considered as same or similar category products of
+tablets.” 7.1. The writ petitioner M/s. Resoursys Telecom, as also the said OEM Lava
+International Limited submitted further representations while maintaining that they
+were duly complying with the Past Performance clause of the tender document. The
+appellant-NVS stated in its response dated 01.07.2021 that they were procuring
+“Tablets” for learning management and the Technical Evaluation Committee (‘TEC’)
+has considered only “Tablets” under similar category ‘to ensure proven products’.
+
+8. At this juncture, we may take note of the facts emerging on record that the writ
+petitioner, in order to assert its fulfilment of the above referred Past Performance
+criterion, has relied upon the statements made by its OEM in the letter dated
+16.04.2021, wherein the supplies made in the financial year 2019-2020 to Punjab
+Infotech, Directorate of Welfare of Scheduled Castes-Assam, Directorate of Welfare
+of Plain Tribes & Backward Classes–Assam, and Directorate of Women and Child
+Development Kerala were referred and it was also stated that they had received the
+biggest purchase order of 1,75,443 units of “Smart Phones” from Punjab Infotech and
+supplied the device successfully. We shall be adverting to the relevant details of the
+said letter dated 16.04.2021 hereafter later, in the segment of discussion.
+
+8.1. It has been the case of the appellants that in the aforesaid supplies, only smart phones were
+supplied to Punjab Infotech and to the Directorate of Women and Child Development, Kerala; and
+the product “Smart Phone” does not fall within the description of “same or similar Category
+Product” vis-à-vis the product required under the NIT in question, i.e., “Tablet”.
+
+9. Being aggrieved by the decision taken by the tender inviting authority, the writ petitioner M/s.
+Resoursys Telecom preferred the writ petition leading to these appeals with the submissions, inter
+alia, that the process in question was vitiated due to an arbitrary and whimsical decision taken by
+
+4
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+the tender inviting authority. During the pendency of writ petition, it was informed by the tender
+inviting authority that the contract in question had been awarded to the other bidder who was found
+qualified and successful; and the application for impleadment made by the said successful
+bidder-Agmatel was allowed by the High Court. High Court disapproves the decision of tender
+inviting authority
+
+10. In essence, the submission of the writ petitioner before the High Court was that a “Tablet” was
+an electronic product belonging to the “same or similar category” as a “Smart Phone”; and that the
+decision of the NVS, excluding “Smart Phones” from “same or similar Category Products” was
+unreasonable and against the principles of fair play and logic. On behalf of the writ petitioner,
+strong reliance was placed on various tender notices issued by other departments and institutions,
+including the Electronic and Information Technology Departments of the States of Kerala, Himachal
+Pradesh, Bihar and Meghalaya; and it was submitted that in all such tender notices, the past
+experience of supply of tablets and smart phones had been treated alike. On the other hand, it was
+submitted on behalf of the tender inviting authority-NVS that the products like tablets, computers
+and smart phones were electronic goods, distinguishable on the basis of their technical, commercial
+and trade- related definitions, norms, and regulations provided by the authorities concerned. It was
+also argued that the tender inviting authority was the best person to interpret the terms of tender,
+and its decision could only be examined in case of it being arbitrary, biased or mala fide; and no
+such case being alleged, no interference was called for. The same contentions were urged on behalf
+of the impleaded party-Agmatel, while also raising the objection of jurisdiction.
+
+11. While dealing with the rival contentions, the High Court of Delhi, after rejecting the contention
+on jurisdiction, formed the view that the product “Smart Phone” was definitely a similar category
+product as “Tablet”; and the tender inviting authority as also its TEC had been unjustified in giving a
+restrictive meaning to the terms of NIT; and if at all there was any ambiguity, the tender inviting
+authority cannot be left to the option of interpreting the terms contrary to their plain meaning. The
+High Court, therefore, proceeded to allow the writ petition and disapproved the rejection of
+technical bid of the writ petitioner. It shall be appropriate to summarise the relevant aspects of the
+reasons that prevailed with the High Court in allowing the writ petition.
+
+11.1. The High Court took note of the contentions that the tender floating authority was the best
+judge to determine the conditions of a tender but, in that regard, referred to a passage from the
+decision of this Court in the case of Reliance Energy & Anr. v. Maharasthra State Road Development
+Corporation Ltd & Ors.: (2007) 8 SCC 1 to the effect that in invitation to tenders, the terms and
+conditions must indicate the norms and benchmarks with legal certainty; and if there be any
+vagueness and subjectivity in the said norms, it may result in unequal and discriminatory treatment
+and violate the doctrine of “level playing field”. The High Court, thereafter, observed that it was
+nobody’s case that “Smart Mobile Phones” were the “same” category products as “Tablets”; and that
+the issue was as to whether under the terms of NIT, “Smart Mobile Phones” could be called “similar
+Category Products” as “Tablets”. 11.2. Thereafter, the High Court referred to the aforementioned
+terms and conditions of NIT and opined that when the expression used had been “category” before
+the word “product” and with the qualifying expression “similar”, the intendment was not to exclude
+such products which were of “similar category”; and the intention had not been to insist only for
+
+5
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+“same” category products. Having thus minutely analysed the expressions “same”, “similar” and
+“category” as also the related semantics, the High Court proceeded to indicate the perceived
+similarities of the two products, i.e., “Smart Phones” and “Tablets” including that both were
+electronic products; were used for audio-visual reception/transmission of data; were having
+facilities of running programmes and applications; were sold and traded through the same channels
+and were likely to be found in the same shop; and were being sold by the large manufacturers and
+producers under the same brand. The High Court, thus, concluded that even if the said two products
+were not the “same”, it would not mean that they do not belong to “similar Category of Products”.
+The High Court further said that the interpretation prevalent in the market, where these products
+were treated as falling in “similar” category, was demonstrated by the writ petitioner with reference
+to five tenders floated by different Governments/PSUs in different parts of the country. Applying
+such test, the High Court concluded that NVS could not have excluded the product “Smart Mobile
+Phones” from the “similar” category vis-a-vis the product “Tablets”. According to the High Court,
+the clause in question had been so worded as to provide maximum competition. These observations
+and findings of the High Court, forming the core of its decision, could be usefully reproduced as
+under: -
+
+“29. From the above, it would be seen that the author of the tender in question has
+consciously and repeatedly used the expression “Category” before the word
+“Product”. Thus, the use of the expression “Category” is not inadvertent, or
+unintentional. Secondly, the author has also repeatedly used the words “same or
+similar” in relation to – not the product in question, but in relation to the category of
+products to which “Tablet” belongs. The use of the plural i.e. “Products”, and not
+“Product” also shows that the author was conscious that within the same or similar
+category of products, there would be products other than “Tablets”. Pertinently, the
+expression used is not “same products”, or even “same Category Products”. It is
+“same or similar Category Products”. Firstly, the use of the word “Category” shows
+that not just the same product, but all products which fall in the same category which
+are covered. Thus, if the expression used would have been “same Category Products”,
+other products which fall in the same category – as a Tablet, would be covered. The
+respondents have themselves enlisted other products which fall in the same category
+of products, as Tablets. They are “Slate tablets, Convertible Tablets, Hybrid Tablets,
+Phablets, Rugged tablets, Tough Tablets, Booklet, Microsoft Surface, Amazon Kindle
+Fire, Surface Pro Tablet PC, iPad, iPad Air, iPad Pro, iPad Mini, Samsung Galaxy Tab,
+and ThinkPad.” However, the respondent NVS has further enlarged the scope, by
+using the expression “similar Category Products”. By using this expression, all
+products which fall in similar categories – to the category in which Tablets fall, are
+also covered. The expression “similar” does not mean “same”. Therefore, a thing
+which is “similar” to another, would not be the same as that other. In the present
+context, the word “similar Category” has to be understood in relation to the nature
+and usage of the categories of products being compared. According to the Cambridge
+Dictionary, the word “same” means “exactly like another or each other”, whereas the
+word “similar” means “looking or being almost, but not exactly, the same”. Thus, if it
+was indeed the intent of the Respondent to exclude similar category products, from
+
+6
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+the category of products in which “Tablet” falls, they need not have used the words
+“same or similar category products”. They would have simply said “same products”,
+or “same category products”
+
+30. Both smart mobile phones, and Tablets, are electronic products. Both are used for
+audio-visual reception/ transmission of data. Both have facility of running
+programmes and applications to perform varied tasks, such as, receiving and sending
+messages/ e-mails, surfing internet, downloading content from the internet, viewing
+audio-visual content, transmitting audio-visual and the like. Both also have the
+facility to make audio calls through data networks – though, mobile phones use the
+mobile call network for regular calls. Both these products are sold and traded through
+the same channels.
+
+In the same shop, which sells smart mobile phones, one is likely to find Tablets, and vice versa. In
+fact, the larger manufacturers and producers of electronic goods produce and sell both – smart
+mobile phones, and tablets under the same brand. There are bound to be differences, since these
+two products are not “same”. They may not even belong to the “same category” of products.
+However, merely because they are not “same”, it does not mean that they do not belong to “similar
+category of products”.
+
+31. The terms of tender must receive the natural and commonly understood interpretation, which
+has been prevalent in the trade. What is prevalent in the trade has been demonstrated by the
+petitioner – by reference to the 5 tenders floated by different Government/ PSUs in different parts
+of the country for same/ similar products.
+
+32. Applying the said test, can it be said that the respondent NVS could exclude smart mobile
+phones from the similar category of products, as Tablets? The answer is an emphatic “No”. The
+Clause, intentionally, has been worded loosely in order to have maximum competition amongst
+bidders.” 11.3. Thereafter, the High Court took note of the stand taken by NVS in its reply dated
+01.07.2021 and that taken in the counter affidavit filed before the Court and observed that the TEC
+of NVS, on its own, had decided to curtail the competition by narrowing the scope of the eligibility
+criteria by taking only tablets as falling under “similar” category and not considering the past
+supplies of other products like smart mobile phones, laptops etc. The High Court, however, observed
+that exclusion of the products like Aadhaar kits, printers, power-banks etc. was not being considered
+and the TEC might have been justified in not considering them as falling under “similar” category
+products but, the TEC could not have gone outside the scope of tender. The Court further observed
+that in the counter affidavit, the averment had been to the effect that the “Tablets” and “Smart
+Mobile Phones” were not of “same” product or “similar” product but the criterion had been of
+“similar Category of Products” and these words were not of surplusage. The High Court disapproved
+the stance of NVS, as being not in conformity with open competition and found it unacceptable in
+public interest. The High Court observed and held thus: -
+
+“36. Thus, it is evident to us that the Technical Evaluation Committee (TEC) of the
+respondent NVS, on its own decided to curtail the competition by narrowing the
+
+7
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+scope of the eligibility criteria, by consideration of only Tablets as falling under
+similar category, and not to consider past supplies for other products like smart
+phones, laptops, etc, which are covered under “same or similar category products”, as
+tablets. We are not concerned with the exclusion of products like Aadhar kits,
+printers, power bank, etc. in the facts and circumstances of the present case. The TEC
+of the respondent NVS may have been justified in not considering past experience/
+turnover of supply of products like aadhar kits, printers, power banks, etc., as falling
+under similar category products, as that of the tablets. However, the TEC of the
+respondent NVS could not have gone outside the scope of the tender to lay down its
+own criteria to determine the eligibility of the bidders. They were bound to adhere to,
+and strictly comply with the terms and conditions stipulated in the tender floated by
+NVS. The decision taken by the TEC to exclude from consideration all other similar
+category products – for the purpose of evaluating past performance of the bidders,
+was wholly incompetent and beyond the authority of the TEC.
+
+37. From the counter affidavit, we also find that at various places, the respondent has
+averred that Tablets and smart mobile phones are not the same product, or similar
+product. It appears to us that the respondent has forgotten the eligibility criteria set
+out in the NIT, which is, “same or similar category products”, and not “same product”
+or even “similar products.”
+
+38. If that interpretation as given by the respondent NVS were to be accepted, the
+word “similar category of products” becomes a surplusage, which cannot be the
+intention attributed to the tender framing authority.
+
+39. To arbitrarily and whimsically change the goalpost, and determine what can, and
+cannot, be considered a “similar product”, at the time of evaluation of bids, disrupts
+the level playing field for bidders and extinguishes healthy competition. The
+respondents have argued that smartphones and tablets are separate products, and
+there can be no doubt about it. This is a no brainer. However, they don’t say that
+these two products are not even falling under two different similar categories of
+products.
+
+40. The restrictive interpretation given by the respondent NVS to the aforesaid
+tender conditions – not borne out from the tender terms and conditions, which
+would curb competition, does not find favour with the Court, in Public Interest. The
+whole purpose of issuing a tender is to invite maximum bids from bidders meeting
+the technical qualification so that the employer/ tender floating authority gets the
+most favourable product/services, at the most competitive price.” 11.4. The High
+Court, thereafter, referred to a decision of this Court in Nabha Power Ltd. v. Punjab
+SPCL: (2018) 11 SCC 508 for application of the “five condition test” for an implied
+condition to be read into the contract, including the “business efficacy test” and
+highlighted the principles laid down by this Court that “implied term” was a concept
+necessitated when the referred five conditions were satisfied and there was a strict
+
+8
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+necessity for it. On that basis, the High Court observed that NVS could have neither
+implied any term in the tender nor given restrictive meaning to the clear language of
+the tender. The High Court, thereafter, referred to the doctrine of ‘Contra
+proferentem’, as referred to in the case of United India Insurance Co. Ltd. v. Orient
+Treasures (P) Ltd.: (2016) 3 SCC 49, whereby, any ambiguity in an insurance policy
+would be resolved by a construction favourable to the insured. The High Court
+observed and held that if at all there was an ambiguity, it would be construed against
+the drafter of the tender; and in the absence of ambiguity, the plain meaning of the
+condition must be complied with.
+
+Having said so, the High Court observed that each and every word of a tender must be given a
+meaning, for it being a serious exercise; and TEC cannot evolve its own criteria to evaluate the
+eligibility of bidders, contrary to the terms and conditions of the tender.
+
+11.5. Before concluding on the matter, the High Court observed, with reference to the decision of this
+Court in Tata Cellular v. Union of India:
+
+(1994) 6 SCC 651, that the tender floating authority was the best person to interpret
+the terms of the tender but the said authority cannot act arbitrarily, whimsically or
+contrary to the terms and conditions of the tender. The High Court reiterated that in
+the first place, the terms and conditions were clear and if at all they were ambiguous,
+it could not be left to the option of tender floating authority to interpret it in a
+manner which is contrary to their plain meaning. The High Court said thus: -
+
+“47. We are conscious of the scope of judicial scrutiny in tender matters. We are also
+conscious that the tender floating authority is best person to interpret the terms of
+the tender, as they know what best is the requirement and how to achieve the same.
+(see Tata Cellular v. UOI (1994) 6SCC 651) However, the authorities cannot act
+arbitrarily, whimsically and contrary to the terms and conditions of the tender. As
+noticed hereinabove, the terms and conditions of the tender are clear. However, even
+if the terms of the tender are unclear and ambiguous, can it be left to the option of the
+tender floating authority to interpret it in a manner which is contrary to their plain
+meaning? The answer is “No”.” 11.6. With the aforementioned reasons, findings and
+observations, the High Court proceeded to allow the writ petition and held the
+rejection of the technical bid of the writ petitioner as unreasonable and arbitrary,
+while holding that “Smart Mobile Phones” fall in “similar Category Products’.
+
+Accordingly, the High Court directed the appellant-NVS to process the technical bid of the writ
+petitioner and thereafter proceed in accordance with law.
+
+11.7. Feeling aggrieved by the aforesaid judgment and order dated 27.09.2021, the tender inviting
+authority-NVS as also the bidder who is declared successful-Agmatel have preferred these appeals.
+Rival Submissions
+
+9
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+12. Assailing the judgment and order so passed by the High Court, learned Solicitor General of India
+appearing for the appellant-NVS has referred to the facts that the tender notice in question was
+issued for supply of Tablets for the students of Class XI and XII, with specific past performance
+criterion that the bidder or its OEM, themselves or through resellers, ought to have supplied same or
+similar category products to the extent of 80% of bid quantity (which was changed to 60% by
+corrigendum) in at least one of the last three financial years before bid opening date to any
+Central/State Government Organisation/PSU/Public Listed Company; and when the technical bids
+were opened, the writ petitioner was declared disqualified for having fallen short in past
+performance criterion by 10.20%. In this regard, the learned Solicitor General has particularly
+referred to the details stated in the additional affidavit filed on behalf of the appellant-NVS. We shall
+refer to the relevant part of these details too, in the segment of discussion. 12.1. The learned Solicitor
+General would argue that the writ petitioner had erroneously added its past supplies towards “Smart
+Phones/Mobile Handsets” and “Power Banks” so as to fulfil the past performance criterion required
+for awarding the tender for “Tablets” and hence, such supplies were not counted towards the
+requisite 60% of the bid quantity. 12.2. The learned Solicitor General has contended that “Smart
+Phones” and “Tablets” are two different products and belong to different categories and in this
+regard, has particularly referred to GeM portal of the Ministry of Commerce and Industry,
+Government of India. It has been submitted that on the said portal, “Smart Phones” and “Tablets”
+have been placed in totally different categories inasmuch as “Tablets” fall under the category
+“Computer Equipment and Accessories” within sub-category “Computers” whereas “Smart Phones”
+fall under the category “Communication Devices and Accessories” within sub-category “Personal
+Communication Devices”. The “Smart Phones” also fall under the category “Data Voice or
+Multimedia Network Equipment or Platforms and Accessories” within sub- category “Digital Mobile
+Equipment and Components”. With such categorisation, the learned Solicitor General would argue,
+the stand of the appellant-NVS is fortified that “Smart Phones” do not fall under same or similar
+category products as “Tablets”. It has further been argued that the terms were clear and none of the
+participating bidder found any ambiguity therein and hence, provided the requisite details of the
+supplies pertaining to “Tablets” only, except the writ petitioner. There was neither any ambiguity
+nor anyone asked for any clarification including the writ petitioner and only request was for
+reducing the past performance quantity from 80% to 40% whereupon, the quantity was reduced by
+corrigendum to 60%. The contention, thus, has been that everyone including the writ petitioner well
+understood the requirement in the past performance criterion as being that of supply of “Tablet”
+computers only. 12.3. It has further been submitted that the expressions “same” or “similar”
+category products in the tender condition were obviously in reference to different varieties and types
+of “Tablets”, like Slate Tablets, Convertible Tablets, Hybrid Tablets, Phablets, Rugged Tablets,
+Tough Tablets, Booklet, Microsoft Surface, Amazon Kindle Fire, Surface Pro Tablet PC, iPad, iPad
+Air, iPad Pro, iPad Mini, Samsung Galaxy Tab, ThinkPad etc. 12.4. With reference to the decision of
+this Court in Afcons Infrastructure Limited v. Nagpur Metro Rail Corporation Limited & Anr.:
+(2016) 16 SCC 818, the learned Solicitor General has argued that author of the tender document is
+the best person to understand and appreciate its requirements; and that the Courts must defer to
+such understanding and appreciation of tender documents by the tender inviting authority, unless
+there be any allegation of mala fide or perversity. The learned Solicitor General has particularly
+referred to the enunciation by this Court that even if an interpretation to the tender document by
+the author of the tender is not acceptable to the Constitutional Court, that, by itself, would not be a
+
+10
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+reason for interfering with the interpretation given. 12.5. It has further been contended that the
+threshold of mala fide intention to favour someone or arbitrariness or irrationality or perversity
+must be met before the Court would interfere with the decision-making process or the decision
+itself. Even in the case of ambiguity or doubt, the Court would be refraining from giving its own
+interpretation unless the interpretation given by the administrative authority is shown to be
+perverse or mala fide or intended to favour someone. The learned Solicitor General has contended
+that there being no finding about any mala fide or perversity or bias, the High Court has erred in
+interfering in the present tender process. It has been argued that even if the interpretation of tender
+document by the appellant was not found acceptable by the High Court, that, by itself, was not a
+sufficient reason for interference. It has also been submitted that the interpretation of the
+appellant-NVS is based on the pre-dominant purpose of the goods sought to be procured and no
+arbitrariness or irrationality could be imputed therein.
+
+12.6. In its written submissions, the appellant-NVS has also adverted to the other purchases/tenders
+referred by the writ petitioner in a tabular form; and has pointed out the distinguishing features. We
+shall refer to the relevant contents of this table too hereafter later.
+
+13. More or less similar submissions have been made by the learned senior counsel appearing on
+behalf of the appellant-Agmatel (successful bidder) while supplementing that the High Court has
+erred in going into the technical evaluation of two products and their similarity; and this remains an
+impermissible area for judicial review, as held by this Court in the case of Galaxy Transport Agencies
+v. New J K Roadways:
+
+2020 SCC OnLine SC 1035. The learned senior counsel has further argued that the
+view taken by the tender inviting authority and its evaluation committee remains a
+reasonable view that “Smart Phones” are not similar to “Tablets”. In this regard, the
+learned senior counsel has, apart from reiterating the categories specified on the
+online portal GeM, has also referred to the classification of “Tablet” computers by the
+Central Board of Excise and Customs under Section 151A of the Customs Act, 1950
+while specifically noting that a “Tablet” computer is different from a “Smart Phone”,
+as it is an automatic data processing machine classifiable under the heading 847130
+and not 8517. Learned senior counsel has further referred to the fact that various
+other authorities have considered “Tablet” computers as computing devices similar to
+Laptops, PCs etc., while taking “Mobile Phones” under a different category. Thus,
+according to the learned senior counsel, there being a reasonable view taken by NVS
+and there being no mala fide or bias, there was no case for interference by the High
+Court.
+
+14. While countering the submissions so made on behalf of the appellants, the learned counsel for
+the contesting respondent-writ petitioner, has in the first place, submitted that its bid was rejected
+on rather specious grounds inasmuch as even the reasons for rejection had not been consistent, as
+noticeable from different stands taken in the initial rejection dated 25.06.2021, in the clarification
+dated 29.06.2021, in the other response dated 01.07.2021 and in the submissions made before the
+High Court and this Court.
+
+11
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+14.1. The main plank of the submissions of the learned counsel for the writ petitioner has been that
+various similarly placed PSUs and Government Agencies, in various tender documents, have used
+the terms “Tablets” and “Smart Phones” rather interchangeably. In this regard, the learned counsel
+has referred to the prescriptions in tender documents by Meghalaya Information Technology
+Society, REC Power Distribution Co. Ltd., Department of Education, Government of Bihar, and the
+Himachal Pradesh State Electronics Development Corporation Ltd. The learned counsel has further
+submitted that, wherever the tender inviting authority wanted to restrict the past performance only
+to “Tablets”, the same was stated in unambiguous terms and has referred to the tender documents
+issued by Keltron and the Government of Maharashtra. The learned counsel has further submitted
+that not only tender issuing authorities have interchangeably used the products “Tablets” and
+“Smart Phones” but, even the utility based application issued by various Governments do not make
+any distinction between “Tablets” and “Smart Phones”; and has referred to the Government portal
+e-pathshala which provides for e-pub, an android based application, which is required for tablets
+and smart phones alike whereas for laptops and desktops, it provides for flip-book, which is a
+Windows based programme. It has also been pointed out that MSME, Kolkata has issued common
+training programme for repair and working of smart phones and tablets.
+
+14.2. With the aforesaid details and comparisons, it has been contended on behalf of the writ
+petitioner that the interpretation sought to be suggested by the tender inviting authority in the
+present case is entirely unreasonable and has rightly been interfered with by the High Court. It has
+also been submitted that in the present case, the tender inviting authority has attempted to exercise
+its discretion to suit a particular bidder and to curb the competition on rather inconsistent grounds
+by attempting to distinguish between otherwise identical products. It is contended that when the
+tender inviting authority was conscious of the terms stated in a particular manner, it cannot be
+permitted to change such terms by way of interpretation to suit a particular bidder or by taking away
+the level playing field. The submission has been that “Smart Phones” and “Tablets” are rather
+synonymous terms and the stand of the appellants deserves to be disapproved. 14.3. It has also been
+submitted on behalf of the writ petitioner that in fact, it has been awarded another contract for
+supply of 3,00,000 tablets and it had been regularly supplying various electronic products,
+including tablets.
+
+14.4. Yet further, it has been submitted that a caution was sounded by the Central Vigilance
+Commission (‘CVC’) to the effect that the terms of tender must be clear and ascertainable with
+specificity; and post facto interpretations must be avoided to bring in transparency in tendering
+matters. Thus, the learned counsel has supported the order impugned and submitted that the
+appeals deserve to be dismissed.
+
+15. We have given thoughtful consideration to the rival submissions and have examined the record
+with reference to the law applicable. Interpretation of Tender Document: Relevant Principles
+
+16. The scope of judicial review in contractual matters, and particularly in relation to the process of
+interpretation of tender document, has been the subject matter of discussion in various decisions of
+this Court. We need not multiply the authorities on the subject, as suffice it would be refer to the
+3-Judge Bench decision of this Court in Galaxy Transport Agency (supra) wherein, among others,
+
+12
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+the said decision in Afcons Infrastructure Limited (supra) has also been considered; and this Court
+has disapproved the interference by the High Court in the interpretation by the tender inviting
+authority of the eligibility term relating to the category of vehicles required to be held by the bidders,
+in the tender floated for supply of vehicles for the carriage of troops and equipment. This Court
+referred to various decisions on the subject and stated the legal principles as follows: -
+
+“14. In a series of judgments, this Court has held that the authority that authors the
+tender document is the best person to understand and appreciate its requirements,
+and thus, its interpretation should not be second-guessed by a court in judicial review
+proceedings. In Afcons Infrastructure Ltd. v. Nagpur Metro Rail Corporation Ltd.,
+(2016) 16 SCC 818, this Court held:
+
+“15. We may add that the owner or the employer of a project, having authored the
+tender documents, is the best person to understand and appreciate its requirements
+and interpret its documents. The constitutional courts must defer to this
+understanding and appreciation of the tender documents, unless there is mala fide or
+perversity in the understanding or appreciation or in the application of the terms of
+the tender conditions. It is possible that the owner or employer of a project may give
+an interpretation to the tender documents that is not acceptable to the constitutional
+courts but that by itself is not a reason for interfering with the interpretation given.”
+(page 825) (emphasis supplied)
+
+15. In the judgment in Bharat Coking Coal Ltd. v. AMR Dev Prabha 2020 SCC OnLine
+SC 335, under the heading “Deference to authority's interpretation”, this Court
+stated:
+
+“51. Lastly, we deem it necessary to deal with another fundamental problem. It is
+obvious that Respondent No. 1 seeks to only enforce terms of the NIT. Inherent in
+such exercise is interpretation of contractual terms. However, it must be noted that
+judicial interpretation of contracts in the sphere of commerce stands on a distinct
+footing than while interpreting statutes.
+
+52. In the present facts, it is clear that BCCL and India have laid recourse to Clauses
+of the NIT, whether it be to justify condonation of delay of Respondent No. 6 in
+submitting performance bank guarantees or their decision to resume auction on
+grounds of technical failure. BCCL having authored these documents, is better placed
+to appreciate their requirements and interpret them. (Afcons Infrastructure Ltd. v.
+Nagpur Metro Rail Corporation Ltd., (2016) 16 SCC 818)
+
+53. The High Court ought to have deferred to this understanding, unless it was
+patently perverse or mala fide. Given how BCCL's interpretation of these clauses was
+plausible and not absurd, solely differences in opinion of contractual interpretation
+ought not to have been grounds for the High Court to come to a finding that the
+appellant committed illegality.” (emphasis supplied)
+
+13
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+16. Further, in the recent judgment in Silppi Constructions Contractors v. Union of
+India, 2019 SCC OnLine SC 1133, this Court held as follows:
+
+“20. The essence of the law laid down in the judgments referred to above is the
+exercise of restraint and caution; the need for overwhelming public interest to justify
+judicial intervention in matters of contract involving the state instrumentalities; the
+courts should give way to the opinion of the experts unless the decision is totally
+arbitrary or unreasonable; the court does not sit like a court of appeal over the
+appropriate authority; the court must realise that the authority floating the tender is
+the best judge of its requirements and, therefore, the court's interference should be
+minimal. The authority which floats the contract or tender, and has authored the
+tender documents is the best judge as to how the documents have to be interpreted. If
+two interpretations are possible then the interpretation of the author must be
+accepted. The courts will only interfere to prevent arbitrariness, irrationality, bias,
+mala fides or perversity. With this approach in mind we shall deal with the present
+case.” (emphasis supplied)
+
+17. In accordance with these judgments and noting that the interpretation of the tendering authority
+in this case cannot be said to be a perverse one, the Division Bench ought not to have interfered with
+it by giving its own interpretation and not giving proper credence to the word “both” appearing in
+Condition No. 31 of the N.I.T. For this reason, the Division Bench's conclusion that JK Roadways
+was wrongly declared to be ineligible, is set aside.
+
+18. Insofar as Condition No. 27 of the N.I.T. prescribing work experience of at least 5 years of not
+less than the value of Rs. 2 crores is concerned, suffice it to say that the expert body, being the
+Tender Opening Committee, consisting of four members, clearly found that this eligibility condition
+had been satisfied by the Appellant before us. Without therefore going into the assessment of the
+documents that have been supplied to this Court, it is well settled that unless arbitrariness or mala
+fide on the part of the tendering authority is alleged, the expert evaluation of a particular tender,
+particularly when it comes to technical evaluation, is not to be second-guessed by a writ court. Thus,
+in Jagdish Mandal v. State of Orissa, (2007) 14 SCC 517, this Court noted:
+
+“22. Judicial review of administrative action is intended to prevent arbitrariness,
+irrationality, unreasonableness, bias and mala fides. Its purpose is to check whether
+choice or decision is made “lawfully” and not to check whether choice or decision is
+“sound”. When the power of judicial review is invoked in matters relating to tenders
+or award of contracts, certain special features should be borne in mind. A contract is
+a commercial transaction. Evaluating tenders and awarding contracts are essentially
+commercial functions. Principles of equity and natural justice stay at a distance. If the
+decision relating to award of contract is bona fide and is in public interest, courts will
+not, in exercise of power of judicial review, interfere even if a procedural aberration
+or error in assessment or prejudice to a tenderer, is made out. The power of judicial
+review will not be permitted to be invoked to protect private interest at the cost of
+public interest, or to decide contractual disputes. The tenderer or contractor with a
+
+14
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+grievance can always seek damages in a civil court. Attempts by unsuccessful
+tenderers with imaginary grievances, wounded pride and business rivalry, to make
+mountains out of molehills of some technical/procedural violation or some prejudice
+to self, and persuade courts to interfere by exercising power of judicial review, should
+be resisted. Such interferences, either interim or final, may hold up public works for
+years, or delay relief and succour to thousands and millions and may increase the
+project cost manifold. Therefore, a court before interfering in tender or contractual
+matters in exercise of power of judicial review, should pose to itself the following
+questions:
+
+(i) Whether the process adopted or decision made by the authority is mala fide or
+intended to favour someone;
+
+or Whether the process adopted or decision made is so arbitrary and irrational that the court can
+say:“the decision is such that no responsible authority acting reasonably and in accordance with
+relevant law could have reached”;
+
+(ii) Whether public interest is affected.
+
+If the answers are in the negative, there should be no interference under Article 226. Cases involving
+blacklisting or imposition of penal consequences on a tenderer/contractor or distribution of State
+largesse (allotment of sites/shops, grant of licences, dealerships and franchises) stand on a different
+footing as they may require a higher degree of fairness in action.” (pages 531-532) (emphasis
+supplied)
+
+19. Similarly, in Montecarlo Ltd. v. NTPC Ltd., (2016) 15 SCC 272, this Court stated as follows:
+
+“26. We respectfully concur with the aforesaid statement of law. We have reasons to
+do so. In the present scenario, tenders are floated and offers are invited for highly
+complex technical subjects. It requires understanding and appreciation of the nature
+of work and the purpose it is going to serve. It is common knowledge in the
+competitive commercial field that technical bids pursuant to the notice inviting
+tenders are scrutinised by the technical experts and sometimes third-party assistance
+from those unconnected with the owner's organisation is taken. This ensures
+objectivity. Bidder's expertise and technical capability and capacity must be assessed
+by the experts. In the matters of financial assessment, consultants are appointed. It is
+because to check and ascertain that technical ability and the financial feasibility have
+sanguinity and are workable and realistic. There is a multi-prong complex approach;
+highly technical in nature. The tenders where public largesse is put to auction stand
+on a different compartment. Tender with which we are concerned, is not comparable
+to any scheme for allotment. This arena which we have referred requires technical
+expertise. Parameters applied are different. Its aim is to achieve high degree of
+perfection in execution and adherence to the time schedule. But, that does not mean,
+these tenders will escape scrutiny of judicial review. Exercise of power of judicial
+
+15
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+review would be called for if the approach is arbitrary or mala fide or procedure
+adopted is meant to favour one. The decision-making process should clearly show
+that the said maladies are kept at bay. But where a decision is taken that is manifestly
+in consonance with the language of the tender document or subserves the purpose for
+which the tender is floated, the court should follow the principle of restraint.
+Technical evaluation or comparison by the court would be impermissible. The
+principle that is applied to scan and understand an ordinary instrument relatable to
+contract in other spheres has to be treated differently than interpreting and
+appreciating tender documents relating to technical works and projects requiring
+special skills. The owner should be allowed to carry out the purpose and there has to
+be allowance of free play in the joints.” (page 288)
+
+20. This being the case, we are unable to fathom how the Division Bench, on its own appraisal,
+arrived at the conclusion that the Appellant held work experience of only 1 year, substituting the
+appraisal of the expert four- member Tender Opening Committee with its own.” (Underlining
+emphasis in the original; emphasis in bold supplied)
+
+17. The above-mentioned statements of law make it amply clear that the author of the tender
+document is taken to be the best person to understand and appreciate its requirements; and if its
+interpretation is manifestly in consonance with the language of the tender document or subserving
+the purchase of the tender, the Court would prefer to keep restraint. Further to that, the technical
+evaluation or comparison by the Court is impermissible; and even if the interpretation given to the
+tender document by the person inviting offers is not as such acceptable to the Constitutional Court,
+that, by itself, would not be a reason for interfering with the interpretation given.
+
+Application of relevant principles to the case at hand
+
+18. Applying the aforesaid principles to the case at hand, we are clearly of the view that the
+impugned order cannot be sustained.
+
+19. In relation to the contention that the tender inviting authority was the best judge to interpret the
+conditions of tender and the Court should not interfere, the High Court referred to an observation
+by this Court in the case of Reliance Energy Ltd. (supra) that when tenders are invited, terms and
+conditions must indicate norms and benchmarks with legal certainty. In that case, the said
+observations came in the backdrop of the facts that in the eligibility conditions of the tender before
+the Court, one of the criteria had been of the consortium net cash profit of Rs. 200 crores but, the
+State had not specified the accounting norms with clarity for calculation of net cash profit; and one
+of the two acceptable methods of calculation of net cash profit was not taken into account without
+any reason. In the given facts, the decision of the authority concerned was found to be arbitrary,
+whimsical and unreasonable. The said decision in Reliance Energy Ltd. (supra) has no direct
+application to the facts of the present case and even otherwise, it has not been the finding of the
+High Court that the term stated by the tender inviting authority-NVS was lacking in certainty.
+However, beyond this, as to which particular product was to be treated as similar category product,
+could not have been a matter of interpretative exercise by the Court, particularly when the view
+
+16
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+taken by the tender inviting authority and its evaluation committee has not been shown to be absurd
+or irrational or suffering from mala fide.
+
+20. It has also rightly been pointed out by the appellants, with reference to the decision in Afcons
+Infrastructure Limited (as extracted in the quotation hereinabove), that an interpretation by owner
+or employer of a project to the tender document may not be acceptable to the Constitutional Courts
+but that, by itself, would not be a reason for interfering with the interpretation given. In the
+aforesaid view of matter, the long-drawn exercise by the High Court on the dictionary meaning of
+the words and on semantics, in our view, had been entirely unnecessary.
+
+21. The High Court has even proceeded to find the elements of similarity between “Smart Phones”
+and “Tablets” (vide paragraph 30 of the impugned order). The writ petitioner has also made
+elaborate submissions to suggest that “Smart Phones” and “Tablets” are of similar category. The
+respondents, per contra, have also made detailed submissions that these two products are neither
+the same nor of similar category. In our view, an elaborate and in-depth analysis of the features and
+categorisation of these two products is not called for but, for the reason that the High Court has
+adopted such a course, a few comments on this aspect would also be apposite.
+
+21.1. Even if some organisations/institutions, with reference to their requirements or other relevant
+factors, had assumed these two products, i.e., “Tablets” and “Smart Phones” akin to each other, the
+facts do remain that these very products have been placed under different categories on the online
+portal GeM and have also been taken as classifiable differently by the customs authority. In the
+given set of facts and classifications, the decision, as taken by NVS and its TEC, cannot be said to be
+suffering from irrationality, absurdity or mala fide. In our view, the analysis of the writ Court needs
+to stop at that. Beyond this point, the writ Court would not be substituting its preferred
+interpretation of the tender condition with the one adopted by the author of the tender document
+and the person procuring the product, who has to be regarded as the best person to understand its
+requirements.
+
+21.2. Putting it differently, neither the excessive analysis, as entered into by the High Court, was
+required in this case nor we would be evaluating all the specifications of these two products, namely,
+“Smart Phones” and “Tablets”. Suffice it to notice for the present purpose that even if both are
+electronic devices and even if several of their utility features are the same or similar, their
+categorisation under different headings is also a fact not unknown to the parties, as would appear
+from the categorisation on the Government online portal itself. Beyond this aspect, in our view, no
+adjudicatory process is called for and the interpretation as put by the tender inviting authority-NVS
+does not deserve interference. Similarly, if in some of the notice inviting tenders, both smart phones
+and tablets were stated, or in some of the tenders, specific product tablet alone was stated, that
+would also not be decisive because that would, obviously, depend on the purpose for which the
+procurement was being made; and the procuring party, i.e., the tender inviting authority, ought to
+be extended the latitude to decide on its requirements.
+
+22. In the same context, we may also deal with another feature of this case related with the supplies
+made by the writ petitioner to different organisations pursuant to different tender notices. 22.1. As
+
+17
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+noticed, the writ petitioner, in order to assert its fulfilment of the above referred Past Performance
+criterion, has relied upon the statements made by its OEM in the letter dated 16.04.2021. That reads
+as under: -
+
+“PO details in FY 2019-20 (Single Year): Past Performance Clause Sr.N Organis PO &
+Quantity (Units) o. ation Completi Name on Certificat e 1 Punjab PICTC/IT 1,75,443
+Infotech eG/2019/ dated 25.11.20 2 Director DSC./Spl.Grant/T 3809 ate of
+B/539/2019/45 Welfare dated 06-02-2020 of Schedul ed Castes-
+
+Assam
+3         Directorate of      DW/OTG./OBC/2 19047
+Welfare of Plain    019-20/755/Pt-
+Tribes         &    IX/16 dated 13-
+Backward            01-2020
+Classes–
+Assam
+4         Directorate of      DW/OTG./ST/201      14285
+Welfare of Plain    9-20/754/Pt-VI/13
+Tribes         &    dated 13-01-2020
+Backward
+Classes–
+Assam
+5         Directorate    of   Contract    No. 27550
+Women        and    GEMC-
+Child               51168773809149
+Development         3; Date:13-Aug-
+Kerala              2019
+
+f      Directorate of Contract      No. 8885
+Women      and GEMC-
+Child            51168771294670
+Development      5; Date: 23-Apr-
+Kerala           2019
+Total Quantity             249019
+
+We have even received the Biggest Purchase order of round 175443 Units of Smart
+phones by Punjab Infotech for Education Purpose and supplied the device
+successfully. PO and Completion Certificate is enclosed.” 22.2. In regard to the
+supplies shown by the writ petitioner, details have been stated by the appellant-NVS
+in the additional affidavit in the following terms: -
+
+“3…..Quantity supplied by Ms. Lava International Ltd. (OEM of respondent no. 1)
+during last 3 financial years before the bid opening date are as under:
+
+Sl.    Financ          Device            Quantity     Page
+No.    ial             Type              Supplied     Nos.
+
+18
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+Year
+1      2020-           Tablets           -            -
+21              Smartphones       -            -
+Power banks       -            -
+2      2019-           Tablets           3809         131
+20                                19047        132
+14285        133
+Total             37141
+Smartphones       175443       127
+27550        136
+8885         143
+Total             211878
+Power banks       27550        136
+8885         143
+Total             36435
+3      2018-           Tablets           3809         135
+
+3809         135
+Total             7618
+Smartphones       1598         120
+4418         121
+Total             6016
+Power banks       -            -
+
+4. I submit that the Committee for Technical Evaluation had opened the bids on
+12.05.2021 and, after scrutinizing the documents submitted by Respondent No. 1
+with regard to past performance mentioned at clause 4 of bid document found that
+Power banks and Smart Phones could not be considered as “same or similar category
+products” and, only work orders for Tablets could be considered as per the clause 4 of
+the bid document. Further it was found that the data and documents provided by the
+Respondent No. 1 for the three Financial Years viz., FY 2018-19, 2019-20 and
+2020-21, maximum quantities of Tablets supplied by the Respondent No. 1 were in
+the FY 2019-20 i.e. 37141 nos. which was short by 10.20% of the 60% criterion [60%
+of 68490 = 41364] for satisfying the past performance clause 4 of the bid document.
+
+5. I submit that due to shortfall of 10.2% of the required quantity of same or similar
+category products as per past performance clause, the Respondent No. 1 was declared
+disqualified in technical bid.” 22.3. The writ petitioner has also referred to the several
+such contracts where both the products, tablets and smart phones, have been
+procured simultaneously while suggesting that these terms have even been used
+interchangeably. On the other hand, the appellant-NVS has stated in detail that the
+supplies of Tablets by the writ petitioner fell short by 10.20% to 60% criterion and
+the writ petitioner was, in fact, largely supplying smart phones and not tablets. As
+regards the organisations and their tender processes referred by the writ petitioner,
+
+19
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+various comments have been offered by the appellant-NVS in a tabular form; the
+relevant parts thereof read as under: -
+
+“Purchases/ Tenders referred by Resoursys Telecom through its WP no. 6676/2021
+and additional affidavit filed therein Purchaser Purpose & Claim Reply of NVS
+Objectives through the WP HP State Rate Contract HP State **Since, the Electronics
+for Electronics referred tender Development procurement Development was itself for
+Corporation of android Corp had smartphones, Ltd. (for based placed hence no
+Himachal smartphones smartphones compatibility Pradesh & Tablets at and
+relevance Govt.) par in the e- with the subject tender matter which is documents the
+bid process of Tablet Computers.
+
+Guwahati        Bid        was       Not                ** Since, the
+High Court at   invited      for     mentioned in       referred tender
+Guwahati        supply          &    the Writ as        was itself for
+maintenance          well       as      smartphones,
+of          395      additional         hence         no
+numbers        of    affidavit.         compatibility
+smartphones          However,           and relevance
+for       Bailiff/   documents          with the subject
+Process              were attached      matter which is
+servers        in    with the WP.       the bid process
+various court                           of        Tablet
+complexes of                            Computers.
+Assam.
+High Court of   To supply and        Smart phones       **Bid      was
+Himachal        install approx.      & Tablets are      cancelled.
+Pradesh,        455 number           considered at
+Shimla          of                   par for the
+smartphones          purpose     of
+to the process       meeting the
+servers and          eligibility
+bailiffs in the      criteria.
+subordinate
+courts.              Smart Phones
+are
+interchangeab
+le.
+
+Both      have
+same
+specifications.
+
+Meghalaya       Tender      for      Meghalaya          **          Tender
+Information     procurement          Information        clause          for
+Technology      of Tablet PCs        Technology         eligibility
+Society                              Society            criteria is totally
+(MITY)                               invited        a   distinct      from
+tender       for   the NVS bid.
+Tablets
+wherein            **In         the
+
+20
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+Tablets/           eligibility
+Smart/             conditions,
+Phones/            bidder       has
+Laptops are        specifically
+considered         mentioned that
+under same         they         will
+and      similar   consider Tablet
+category.          PC or Smart
+
+(cid:12)                                               Phones          or
+Laptops or IT
+products.
+Kerala State   Rate Contract   Not             In    the      bid
+Electronics    for    Tablet   mentioned in    document        of
+Development    PC’s for e-     the Writ as     KELTRON, it is
+Corporation    health          well       as   specifically
+Ltd.                           additional      mentioned that
+affidavit.      Tablet,      PCs,
+However,        Laptop,       Net
+documents       books,
+were attached   Desktops will
+with the WP.    be    accepted.
+Nowhere
+Kerala      State
+Electronics
+Development
+Corporation
+Ltd. accepted
+the
+smartphones in
+the       similar
+category        of
+ICT(Tablet, PC
+Laptop,
+Netbook       and
+Desktop).
+
+**Tender clause
+is       different
+however
+smartphones is
+not considered.
+REC Power      Rate contract   Bidder should   **In the bid
+Distribution   for supply of   have desire     document, past
+Co. Ltd.       1000 number     experience of   performance
+of Tablet.      supplying       criteria is totally
+Tablet/ Smart   distinct      from
+phones.         the NVS bid
+document.
+Tender clause
+is different.
+
+21
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+**The         bid
+process floated
+by RECPDCL
+was not floated
+through       the
+GeM       Portal,
+hence,        the
+RECPDCL and
+NVS are not on
+similar footing.
+
+**The matter of
+
+(cid:12)                                                     NVS is distinct
+as no query
+was raised by
+the anyone of
+prospective
+bidders
+regarding
+inclusion     of
+smart phones
+in          past
+experience.
+
+**The       bid
+process    was
+floated 6 years
+back.
+Department of    Expression of    In the tender      **It         is
+Education,       interest (EOI)   documents          Expression of
+Govt. of Bihar   for selection    under clause       Interest not a
+of    agencies   3.7.3,      the    Tender.
+for supply and   criteria      is
+service of E-    mentioned          **Referred
+learning         that        the    bidder       has
+tablets.         bidder should      prepared      the
+be       either    documents of
+OEM          or    bid as per their
+authorized         need, expertise
+supplier      of   and familiarity.
+Mobiles/           However, NVS
+Tablets.           has floated the
+bid of procuring
+Tablet on GeM
+portal, Govt of
+India adhering
+to the all norms
+& provisions of
+bidding
+process.
+
+22
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+**Pre-
+qualification
+criteria       are
+distinct     from
+the         NVS
+criterias.
+
+**Past
+performance
+criteria
+mentioned       in
+clause 4 by
+NVS           and
+criteria referred
+by the bidder
+under      clause
+
+(cid:12)                                                       3.7.3        are
+distinct.
+Govt. of Bihar,   Tender     for     Rural             **The matter of
+Rural             procurement        Development       NVS is distinct
+Development       of Tablet and      Department,       as no query
+Department        related            Govt. of Bihar    was raised by
+accessories        considered        the anyone of
+for     BRDS       experience of     prospective
+under    BIPS      products like     bidders
+project            tablet    and     regarding
+smartphones       inclusion     of
+under similar     smart phones
+products.         in          past
+experience.
+
+**In the bid
+document
+(Addendum-II),
+experience
+[clause 3(b)] is
+distinct to the
+NVS         past
+experience
+clause 4. In the
+referred      bid
+document
+tenderer
+(buyer/author
+of the tender)
+has specifically
+shown        the
+intends        to
+consider the IT
+product      like
+
+23
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+Tablet      and
+Smartphones
+whereas NVS
+has     nowhere
+mentioned.
+
+**In all aforesaid purchases referred by the respondents Resoursys Telecom,
+incomplete documents are attached with the Writ and additional affidavit.
+
+**NVS in its bid documents specifically mentioned that Tender is floated for Tablet
+Computers only.
+
+**NVS has floated the bid through the GeM portal. **No prospective bidders raised
+any query regarding inclusion of smartphones under similar category. Only OEM of
+the R-1 i.e. Ms. Lava OEM has requested to reduce the past performance from 80% to
+40% and technical committee has considered the request of the Ms. Lava positively
+and reduced the requirement of past performance from 80% to 60%.
+
+**There is not a single case where bid condition is same and smartphones added in
+the similar category products.
+
+**Referred purchases consists different clause and purposes, hence, the same are not
+squarly covered in the instant case i.e. tender floated by the NVS for Tablet Computer
+only wherein specifically mentioned under clause 4 of past performance that the
+experience under same or similar category will be considered.
+
+**In the aforesaid purchase referred by the respondent, no matter on GeM wherein
+smartphones is considered under same or similar category of Tablet Computer unless
+specifically and unequivocally mentioned to this effect. It axiomatically demonstrates
+that the Smartphones are not comes under the purview of same or similar category of
+Tablet Computers.” 22.4. The aforesaid submissions on facts make this much clear
+that the decision, as taken by the appellant-NVS and its TEC, cannot be said to be
+totally baseless or absurd or irrational or illogical. It gets perforce reiterated that even
+if some of the organisations, in relation to their requirements, procured tablets and
+smart phones both under the same tender process or even used these expressions
+“interchangeably” or “interconnected”, that by itself cannot lead to a definite
+conclusion by the Court that “Smart Phones” and “Tablets” are to be taken as similar
+category products for the tender process in question.
+
+23. Viewed from any angle, interference by the High Court in this matter does not
+appear justified, particularly when no case of mala fide or bias is alleged. Every
+decision of the administrative authority which may not appear plausible to the Court
+cannot, for that reason alone, be called arbitrary or whimsical. The High Court, in the
+
+24
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+present matter has obviously proceeded with an assumption that the view as being
+taken by it, in acceptance of the case of the writ petitioner, was required to be
+substituted in place of the views of the tender inviting authority. That has been an
+error of law and cannot sustain itself in view of the consistent binding decisions of
+this Court, including the 3-Judge Bench decision in Galaxy Transport (supra).
+
+24. The High Court, while supporting its process of reasoning, has referred to such
+principles which, with respect, we find entirely inapposite and beyond the periphery
+of the question involved in the present case. As noticed, in such matter of contracts,
+the process of interpretation of terms and conditions is essentially left to the author
+of the tender document and the occasion for interference by the Court would arise
+only if the questioned decision fails on the salutary tests laid down and settled by this
+Court in consistent decisions, namely, irrationality or unreasonableness or bias or
+procedural impropriety.
+
+24.1. In the case of Nabha Power Limited (supra), as referred by the High Court, this
+Court, while referring to the concept of ‘Penta test’ for ‘business efficacy’, made it
+clear that such a test and thereby reading an “implied term”, would come in play only
+when the five conditions are satisfied. Even in that case, the Court, while dealing with
+the question of reimbursement of cost incurred by the successful bidder/power
+supplier towards washing of coal in a power procurement project, analysed as to what
+charges would be payable by interpretation of all the terms of the contract and held
+the appellant entitled to certain charges as the formula for energy charges was clear.
+In the present case too, neither the High Court was reading any “implied term” in the
+past performance criterion nor NVS had done so. It is difficult to find any correlation
+of the decision in Nabha Power Limited (supra) to the case at hand or even to the
+analysis by the High Court.
+
+24.2. The same aspects apply to the observations regarding ‘contra proferentem rule’
+as referred by the High Court with reference to the case of United India Insurance
+Company Limited (supra). The said rule was referred by this Court while not
+accepting the argument made on behalf of the insured and while observing that the
+said rule had no application, when the language of the relevant clauses was plain,
+clear and unambiguous. We may, however, observe that even from the extracted part
+of the principles related with the ‘contra proferentem rule’, as reproduced by this
+Court from the Halsbury's Laws of England, it is clear that the said rule was applied
+in the case of ambiguity in the insurance policy because the policies are made by the
+insurer and its ambiguity cannot be allowed to operate against the insured. This rule,
+in our view, cannot be applied to lay down that in case of any ambiguity in a tender
+document, it has to be construed in favour of a particular person who projects a
+particular view point. The obvious inapplicability of this doctrine to the eligibility
+conditions in a notice inviting tender could be visualised from a simple fact that in
+case of ambiguity, if two different tenderers suggest two different interpretations, the
+question would always remain as to which of the two interpretation is to be accepted?
+
+25
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+Obviously, to avoid such unworkable scenarios, the principle is that the author of the
+tender document is the best person to interpret its documents and requirements. The
+only requirement of law, for such process of decision-
+
+making by the tender inviting authority, is that it should not be suffering from illegality,
+irrationality, mala fide, perversity, or procedural impropriety. No such case being made out, the
+decision of the tender inviting authority (NVS) in the present case was not required to be interfered
+with on the reasoning that according to the writ Court, the product “Smart Phone” ought to be taken
+as being of similar category as the product “Tablet”.
+
+25. It has also been argued on behalf of the writ petitioner that the reasons for rejection by NVS have
+not been consistent. We are unable to find any inconsistency in the reasons assigned by the
+appellant-NVS in rejection of the bid of the writ petitioner. In the initial information, only this much
+was stated that there was a mismatch of technical specification but, when required further by the
+writ petitioner, the appellant-NVS elaborated, in its reply dated 29.06.2021, on the fact that the
+work orders concerning smart phones, laptops, Aadhaar kits, printers, power-banks were not
+considered to be as same or similar category products to that of tablets. Yet further, the
+representations made by the writ petitioner and its OEM were responded with the assertion that the
+TEC had considered only “Tablets” under similar category to ensure proven products. Same has
+been the stand of NVS before the High Court and before us. Mere elaboration by the tender inviting
+authority as regards its reasons and basis of the decision cannot be said to be that of any
+inconsistency.
+
+26. We may also observe that the other submission made on behalf of the writ petitioner about the
+caution sounded by CVC that the terms of tender must be clear and post facto interpretations must
+be avoided to bring in transparency in the tendering matters, carry no implication in the facts of the
+present case. The terms of tender in the present case had been clear, and they were ascertainable
+with specificity available on the very portal on which NIT was issued. It had not been a case of post
+facto interpretations by the tender inviting authority-NVS. Certain suggestions made on behalf of
+the writ petitioner about the tender inviting authority changing the terms to suit a particular bidder
+remain baseless. No such case of mala fide has been made out; rather, as pointed out on behalf of
+the appellant, all the other tenderers clearly understood the meaning and requirement of the past
+performance criterion and stated the particulars of tablets supplied by them in the past. Such
+contentions of the writ petitioner have only been noted to be rejected.
+
+27. Similarly, the submission made on behalf of the writ petitioner, that it had been awarded
+another contract for supply of 3,00,000 tablets, carries no meaning at all. Such a supply contract
+had not been a matter of evaluation in the tender process in question, where the quantity in the last
+three financial years before the bid opening date was to be considered. Any subsequent event could
+neither invest the writ petitioner with any right in the present matter nor the impugned order could
+be sustained on that basis.
+
+Conclusion
+
+26
+
+M/S Agmatel India Private Limited vs M/S Resoursys Telecom on 31 January, 2022
+
+28. For what has discussed hereinabove, we are clearly of the view that the petition filed by the writ
+petitioner was required to be dismissed. The High Court having allowed the writ petition on rather
+irrelevant considerations, the impugned order is required to be set aside
+
+29. Consequently, these appeals succeed and are allowed; the impugned judgment and order dated
+27.09.2021 is set aside; Writ Petition (C) No. 6676 of 2021, as filed by the writ petitioner, is
+dismissed with no order as to costs.
+
+………….…….…………. J.
+
+(DINESH MAHESHWARI) .…………………………J. (VIKRAM NATH) New Delhi;
+
+Dated: January 31, 2022
+
+27

@@ -1,0 +1,21 @@
+{
+  "case_number": "2024 INSC 433",
+  "parties": {
+    "petitioner": "Dani Wooltex Corporation & Ors.",
+    "respondent": "Sheil Properties Pvt. Ltd. & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-05-16",
+  "summary": "Issue: Validity of termination of arbitral proceedings under Section 32(2)(c) of the Arbitration and Conciliation Act, 1996. Facts: Arbitral proceedings were initiated in 2011; Marico's claim was adjudicated in 2017, but Sheil's claim remained dormant. Appellant contended abandonment due to eight years of inaction. Arbitral Tribunal terminated proceedings on 1 December 2020. High Court set aside the termination. Submissions: Appellant argued fact-based determination and limited judicial review under Section 14(2); Respondent argued no clear finding of impossibility or unnecessary continuation, citing precedent. Consideration: Court examined provisions on arbitral procedure (Sections 23–25, 32) and emphasized that termination under Section 32(2)(c) requires a clear finding that continuation is unnecessary or impossible. Outcome: Impugned order set aside; matter remanded to High Court to decide afresh whether termination was justified under Section 14(2).",
+  "legal_provisions_cited": [
+    "Section 32(2)(c), Arbitration and Conciliation Act, 1996",
+    "Section 25, Arbitration and Conciliation Act, 1996",
+    "Section 23, Arbitration and Conciliation Act, 1996",
+    "Section 14(2), Arbitration and Conciliation Act, 1996",
+    "Lalitkumar V Sanghavi & Anr. v. Dharamdas V Sanghavi & Ors., 2014 (7) SCC 255",
+    "Godrej and Boyce Manufacturing Company Limited v. Municipal Corporation of Greater Mumbai & Ors., 2023 SCC Online 592",
+    "NRP Projects Pvt. Ltd. & Anr. v. Hirak Mukhopadhyay & Anr., 2012 SCC OnLine Cal 10496",
+    "Kothari Developers v. Madhukant S Patel"
+  ],
+  "final_judgment": "Appeal allowed. Impugned judgment of the Bombay High Court set aside. Matter remanded to the High Court to decide the challenge under Section 14(2) afresh."
+}

@@ -1,0 +1,804 @@
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May,
+2024
+
+Author: Pamidighantam Sri Narasimha
+
+Bench: Aravind Kumar, Pamidighantam Sri Narasimha
+
+2024 INSC 435                                                                 REPORTABLE
+
+                                 IN THE SUPREME COURT OF INDIA
+                                  CIVIL APPELLATE JURISDICTION
+
+                                 CIVIL APPEAL NO. 6466 OF 2024
+                            ARISING OUT OF SLP (C) NO. 4504 OF 2021
+
+             KOLKATA MUNICIPAL CORPORATION & ANR. ...APPELLANTS
+
+                                                   VERSUS
+
+             BIMAL KUMAR SHAH & ORS.                                      …RESPONDENTS
+
+                                          TABLE OF CONTENTS
+             Introduction .................................................................. 1
+             Facts. ............................................................................ 2
+             Submission of Counsels .................................................. 7
+             Scheme of the Act .......................................................... 8
+             The Right to property: A net of intersecting rights ........ 15
+                  The Right to notice .........................................................19
+                  The Right to be heard ......................................................20
+                  The Right to a reasoned decision .....................................21
+                  The Duty to acquire only for public purpose .....................22
+                  The Right of restitution or fair compensation ..................23
+                  The Right to an efficient and expeditious process ............24
+                  The Right of conclusion. ..................................................26
+             Conclusions ................................................................. 28
+   Signature Not Verified
+
+   Digitally signed by
+   Indu Marwah
+   Date: 2024.05.16
+   18:14:28 IST
+   Reason:
+(cid:12)                        JUDGMENT
+
+PAMIDIGHANTAM SRI NARASIMHA, J.
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+1
+
+1. Leave granted.
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+Introduction: The Kolkata Municipal Corporation claims to have acquired the property of
+respondent no. 1 in exercise of powers under Section 352 of the Kolkata Municipal Corporation Act,
+1980. A single Judge and the Division Bench of the High Court have concurrently held that there is
+no such power of compulsory acquisition of immovable property under Section 352. While
+upholding the decision of the High Court, we have given our additional reasons by interpreting the
+text and the context in which Section 352 is placed in the Act. Rejecting the alternative argument of
+the appellant-Corporation that there is also a provision for compensation under Section 363 of the
+Act when land is acquired under Section 352, we have examined the constitutional position of
+acquisition of immovable property whereunder the mere presence of power to acquire coupled with
+a provision for payment of fair compensation by itself is not sufficient for a valid acquisition.
+Interpreting “authority of law” in Article 300A of the Constitution, we have held that a minimum
+content of a constitutional right to property comprises of seven sub-rights or procedures such as the
+right to notice, hearing, reasons for the decision, to acquire only for public purpose, fair
+compensation, efficient conduct of the procedure within timelines and finally the conclusion. These
+sub-rights have synchronously formed part of our laws and have attained judicial recognition.
+Therefore, as Section 352 does not provide for these sub-rights or procedures, it can never be a valid
+power of acquisition. Before we deal with the submissions and analyse the provisions, we will first
+narrate the necessary facts.
+
+2. Facts: The property in question, Premises No. 106C, situated at Narikeldanga North Road,
+Kolkata – 700011 1, belongs to Mr. Birinchi Bihari Shah 2 having succeeded it through a deed of
+settlement executed by his father. As Birinchi Shah was minor at the time when his father passed
+away, his elder brother managed and administered the Property and, in that process, he also let out
+the premises admeasuring 2 bighas 18 kathas 6 chitaks and 40 square feet in favour of one M/s
+Arora Film Corporation. Upon attaining majority, the Property was mutated in the name of Birinchi
+Shah in the assessment book of the appellant-Corporation. It is affirmatively stated that 1
+Hereinafter, referred to as the “Property”.
+
+2 Hereinafter, referred to as “Birinchi Shah”.
+
+all municipal dues including taxes with respect to the Property were paid regularly. It is also stated
+that the appellant- Corporation acknowledged the same and by its letter dated 07.04.2000
+admitting that there are no outstanding dues with respect to property tax.
+
+3. In the year 2009, when an attempt was made by the appellant-Corporation to forcefully enter and
+occupy the Property, Birinchi Shah filed a writ petition being W.P. No. 126 of 2009 before the High
+Court seeking a restraint order against the appellant-Corporation.
+
+4. As there was no real contest about the title in the Property and the appellant-Corporation having
+not filed any affidavit-in- opposition, the High Court disposed of the writ petition by an order dated
+17.09.2009 directing that the appellant- Corporation must hold an enquiry about the
+encroachments. The High Court further directed the appellant-Corporation not to make any
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+2
+
+construction over the Property.
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+5. In July 2010, Birinchi Shah received information that the appellant-Corporation had deleted his
+name from the category of owner and had inserted its own name in the official records. Aggrieved,
+he approached the High Court by filing a writ petition bearing W.P. No. 981 of 2010, not only for
+correction of the entries but also to restrain the appellant-Corporation from interfering with his
+peaceful possession over the Property. What happened in this writ petition is of seminal importance.
+The learned single Judge, by an order dated 08.01.2015, recorded the statement of the
+appellant-Corporation that they are unable to controvert the averments made in the writ petition
+with respect to title and ownership of the Property. The writ petition was disposed of restraining the
+appellant-Corporation from interfering with the possession of Birinchi Shah and also injuncted
+them from giving effect to the wrongful recording of its name in the official records. The
+appellant-Corporation was also directed to remove its men and material from the Property within
+two weeks from the date of the said order. The specific finding of the High Court that the
+appellant-Corporation could not establish its right and the title in the Property is significant.
+
+6. Dissatisfied, the appellant-Corporation filed a writ appeal bearing A.P.O. No. 51 of 2015 against
+the order of the single Judge and contended that their affidavit-in-opposition could not be filed
+before the Single Judge as the records were misplaced. It is more or less an admitted fact that a plea
+of acquisition was taken for the first time before the Division Bench, and this seems to be the reason
+for the Division Bench to remand the matter back to the single Judge after imposing a cost of Rs.
+50,000/- on the appellant-Corporation. After remand, the appellant-Corporation filed an
+affidavit-in- opposition before the single Judge claiming that the land was acquired. In view of new
+developments, Birinchi Shah sought permission to withdraw the pending writ petition with the
+liberty to file a fresh writ petition. The High Court permitted this by an order dated 11.08.2016.
+
+7. Accordingly, Writ Petition No. 930 of 2016 was filed by the respondent no. 1, the executor to the
+estate of Birinchi Shah, inter alia, seeking an order quashing the alleged acquisition as illegal and to
+restore their name as owners in the official records.
+
+8. The learned single Judge of the High Court, allowing the writ petition by order dated 14.09.2017,
+formulated two questions. The first question relates to the maintainability of the writ petition, which
+was answered in the affirmative. As there is no contest to this issue, we will not deal with it. The
+second issue relates to the legality and validity of acquisition of the Property in exercise of power
+under Section 352 of the Kolkata Municipal Corporation Act, 1980 3. Answering the second
+question, the learned single Judge held that the appellant-Corporation purported to acquire the
+Property under Section 352(a) of the Act when there is no power of compulsory acquisition therein.
+The learned single Judge therefore quashed and set-aside the alleged action of acquisition.
+
+9. The appellant-Corporation as well as the respondent no. 1 assailed the order of learned single
+Judge in writ appeals bearing APO No. 523 of 2017 and APO No. 210 of 2018, respectively.
+
+10. The Division Bench of the High Court, by the judgment impugned herein, affirmed the order of
+the Single Judge and accordingly, disposed of the appeals with a direction that the
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+3
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+appellant-Corporation may initiate acquisition proceedings for the Property under Section 536 or
+537 of the Act, within five months, or in the alternative, restore the name of the last recorded owner
+as the owner of the Property.
+
+3 Hereinafter, referred to as the “Act”.
+
+11. It is against this judgment and order of the Division Bench of the High Court, that the
+appellant-Corporation is in appeal before us.
+
+12. Submission of Counsels: Mr. Jaideep Gupta, learned senior counsel, representing the
+appellant-Corporation, has submitted that the appellant-Corporation has the requisite statutory
+power to acquire a property under Section 352 of the Act for the purposes of constructing a park, as
+is the case here. He has referred to Section 363 of the Act provisioning compensation for
+acquisitions made under Section 352 of the Act and submitted that acquisition under this chapter is
+therefore complete and stands on its own footing. He contended that the single and division benches
+of the High Court erred in concluding that Section 537 of the Act is the only provision for
+acquisition. Relying on State of Kerala v. T.M. Peter 4, he would submit that for differential schemes
+and purposes of acquisition, different compensation structures will not violate Article 14 of the
+Constitution. On the same point, he also relied on the decisions of this Court in Girnar Traders (3) v.
+State of 4 (1980) 3 SCC 554.
+
+Maharashtra 5, and Bankatlal v. Special Land Acquisition Officer 6.
+
+13. Mr. Mukul Rohatgi and Mr. Huzefa Ahmadi, learned senior counsels, appearing for the
+respondents, while supporting the judgment of the High Court, impugned herein, submitted that the
+power of acquisition is only in Section 537 of the Act and that invocation of Section 352 read with
+Section 363 is illegal and violative of Article 300A of the Constitution. In support of their
+submissions, they relied on the judgment of this Court in Nagpur Improvement Trust v. Vithal Rao
+7.
+
+14. Scheme of the Act: The Kolkata Municipal Corporation Act, 1980 extends to 636 Sections,
+followed by 9 Schedules. It has IX Parts, of which we are concerned only with Part VI of which
+Chapter XXI – relating to Streets and Public Places and Part VIII of which Chapter XXXIII –
+relating to Acquisition and Disposal of Property. As the appellant-Corporation invoked Section 352
+of the Act to acquire the Property for the purpose of opening a park and ward office, we need to
+examine the provision. Section 352 of the Act provides as under:
+
+5 (2011) 3 SCC 1.
+
+6 (2014) 15 SCC 116.
+
+7 (1973) 1 SCC 500.
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+4
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+“Section 352:- Power to acquire lands and buildings for public streets and for public parking
+places:– The Municipal Commissioner may, subject to the other provisions of this Act –
+
+(a) acquire any land required for the purpose of opening, widening, extending or otherwise
+improving any public street, square, park or garden or of making a new one, together with any
+building standing upon such land;
+
+(b) acquire, in relation to any land or building as aforesaid, such land with building thereon outside
+the regular line or the projected regular line of such public street;
+
+(c) acquire any land for the purpose of laying out or making a public parking place.”
+
+15. The appellant-Corporation has also relied on Section 363 of the Act relating to payment of
+compensation. The said provision is as under:
+
+“Section 363-Compensation to be paid:– (1) Compensation shall be paid by the
+Corporation to the owner of any building or land acquired for a public street, square,
+park or garden under the provisions of this Chapter:
+
+Provided that any increase or decrease in the value of the remainder of the property,
+of which building or the land so acquired formed part, likely to accrue from the
+setting back to the regular line of a public street, shall be taken into consideration in
+determining the amount of such compensation. (2) If any additional land, which will
+be included in the premises of any person permitted or required by an order under
+sub-section (2) of section 360 to set forward a building to the regular line of a public
+street, belongs to the Corporation, such order shall be a sufficient conveyance to the
+owner of such land;
+
+and the price to be paid to the Corporation by the owner for such additional land and the other
+terms and conditions of the conveyance shall be set forth in such order.
+
+(3) The Corporation shall pay compensation in respect of land or building acquired under this
+Chapter at the following scale:
+
+(i)….
+
+(ii)….”
+
+16. A close examination of the text of Section 352 of the Act coupled with the context with respect to
+the placement of the section in the Act, clarifies the purpose and object of the provision. The text of
+Section 352 of the Act provides that the Municipal Commissioner may acquire any land required for
+the purpose of opening, widening, extending, etc. of a street, square, park, etc. The purpose of this
+provision is to declare that if the Municipal Commissioner is of the view that any land is required for
+the purpose of opening a street, park, etc., such a land may be acquired. Once the Municipal
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+5
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+Commissioner takes the decision to acquire a piece of land, what would then be the process of
+acquisition is not provided in Section 352. It is provided in Section 535 occurring in Chapter XXXIII
+of Part VIII of the Act which relates to ‘Acquisition of Property’.
+
+17. Before we deal with the Section 535, it is sufficient to conclude that Section 352 merely
+contemplates the power and duty of the Municipal Commissioner to identify the land intended for
+opening of a street, park etc., and once that decision is taken, the Municipal Commissioner would
+take steps to acquire such a property, for a public purpose.
+
+18. The context in which Section 352 is located in Chapter XXI of Part VI of the Act relating to
+‘streets for public place’, also makes the position clear that this provision relates to vesting of public
+street, squares, parks and gardens in the appellant-Corporation but does not provide for the power
+of acquisition. In the following paragraph, we have explained how the text and the context of the
+expression, ‘The Municipal Commissioner may acquire’ in Section 352 is not at all the power of
+acquisition.
+
+19. Upon arriving at a decision to acquire any land for the purpose of opening a street, square, park,
+etc., under Section 352, the Municipal Commissioner will then apply to the Government under
+Section 537 of the Act to initiate the process of acquisition. Section 537 is located in Chapter XXXIII
+Part VIII of the Act relating to ‘Acquisition of Property’. This Chapter commences with Section 535
+which specifically provides that the appellant-Corporation shall have the power to acquire and hold
+immovable property. It is followed by the power to acquire properties through an agreement under
+Section 536 of the Act or in the alternative, through compulsory acquisition of immovable property
+as provided in Section 537 of the Act.
+
+20. The position is thus, clear. Upon application of the Municipal Commissioner under Section 537
+for the acquisition of land for opening of a street, square, park etc., the Government may order
+proceedings to be taken for acquiring land on behalf of the appellant-Corporation as if the land is
+needed for a public purpose within the meaning of the Land Acquisition Act, 1894.
+
+21. Sections 535, 536 and 537 of the Act are extracted hereinbelow for ready reference:
+
+“Section 535. Acquisition of property. – The Corporation shall, for the purposes of
+this Act, have power to acquire and hold movable and immovable property or any
+interest therein, whether within or outside the limits of Kolkata.
+
+Section 536. Acquisition of immovable property by agreement.— (1) Whenever it is
+provided in this Act that the Municipal Commissioner may acquire, or whenever it is
+necessary or expedient for any purpose of this Act that the Municipal Commissioner
+shall acquire, any immovable property, such property may be acquired by the
+Municipal Commissioner on behalf of the Corporation by agreement on such terms
+and at such rates or prices or at rates or prices not exceeding such maxima as may be
+approved by the Mayor-in-Council either generally for any class of cases or specially
+in any particular case.
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+6
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+(2) Whenever, under any provision of this Act, the Municipal Commissioner is
+authorised to agree to pay the whole or any portion of the expenses of acquiring any
+immovable property, he shall do so on such terms at such rates or prices or at rates or
+prices not exceeding such maxima as may be approved by the Mayor-in-Council
+either generally or in particular as aforesaid.
+
+(3) The Municipal Commissioner may on behalf of the Corporation acquire by
+agreement any easement affecting any immovable property vested in the Corporation
+and the provisions of sub-sections (1) and (2) shall apply to such acquisition.
+
+Section 537. Procedure when immovable property cannot be acquired by agreement. – (1) Whenever
+the Municipal Commissioner is unable under section 536 to acquire by agreement any immovable
+property or any easement affecting any immovable property vested in the Corporation or whenever
+any immovable property or any easement affecting any immovable property vested in the
+Corporation is required for the purpose of this Act, the State Government may, in its discretion,
+upon application of the Municipal Commissioner, made with the approval of the Mayor-in-Council
+and subject to other provisions of this Act, order proceedings to be taken for acquiring the same on
+behalf of the Corporation, as if such property or easement were land needed for public purpose
+within the meaning of the Land Acquisition Act, 1894 (I of 1894) (2)…..
+
+(3) For the purpose of acquisition of immovable property under this section, the Land Acquisition
+Act, 1894, shall be subject to the amendment that the market value of any land or building to be
+acquired shall be deemed, for the purpose of sub-
+
+section (1) of section 23 of the Act, to be the market- value determined according to the disposition
+of such immovable property at the date of declaration under sub-section (1) of section 4 thereof in
+respect of such immovable property.
+
+(4) The amount of compensation awarded and all other charges incurred in the acquisition of any
+such property shall, subject to all other provisions of this Act, be forthwith paid by the Municipal
+Commissioner and thereupon such property shall vest in the Corporation.”
+
+22. The scheme of the Act makes it clear that Section 352 empowers the Municipal Commissioner to
+identify the land required for the purpose of opening of public street, square, park, etc. and under
+Section 537, the Municipal Commissioner has to apply to the Government to compulsorily acquire
+the land. Upon such an application, the Government may, in its own discretion, order proceedings
+to be taken for acquiring the land. Section 352 is therefore, not the power of acquisition. We,
+therefore, reject the submission on behalf of the appellant-Corporation that Section 352 enables the
+Municipal Commissioner to acquire land.
+
+23. We will now deal with the other submission of Mr. Jaideep Gupta that there is also a provision
+for compensation under Section 363 where land is acquired under Section 352. In so far as Section
+363 relating to payment of compensation is concerned, the High Court has clarified that this
+provision relates to payment of compensation upon an agreement and not for compulsory
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+7
+
+acquisition. We are in agreement with this finding of the High Court.
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+24. The Right to property: A net of intersecting rights: There is yet another aspect of the matter.
+Under our constitutional scheme, compliance with a fair procedure of law before depriving any
+person of his immovable property is well entrenched. We are examining this issue in the context of
+Section 352 of the Act which is bereft of any procedure whatsoever before compulsorily acquiring
+private property. Again, assuming that Section 363 of the Act provides for compensation,
+compulsory acquisition will still be unconstitutional if proper procedure is not established or
+followed before depriving a person of their right to property. We find it compelling to clarify that a
+rather undue emphasis is laid on provisions of compensation to justify the power of compulsory
+acquisition, as if compensation by itself is the complete procedure for a valid acquisition.
+
+25. While it is true that after the 44th Constitutional Amendment 8, the right to property drifted
+from Part III to Part XII of the Constitution, there continues to be a potent safety net 8 Constitution
+(Forty-Fourth Amendment) Act, 1978. against arbitrary acquisitions, hasty decision-making and
+unfair redressal mechanisms. Despite its spatial placement, Article 300A 9 which declares that “no
+person shall be deprived of his property save by authority of law” has been characterised both as a
+constitutional and also a human right 10. To assume that constitutional protection gets constricted
+to the mandate of a fair compensation would be a disingenuous reading of the text and, shall we say,
+offensive to the egalitarian spirit of the Constitution.
+
+26. The constitutional discourse on compulsory acquisitions, has hitherto, rooted itself within the
+‘power of eminent domain’. Even within that articulation, the twin conditions of the acquisition
+being for a public purpose and subjecting the divestiture to the payment of compensation in lieu of
+acquisition were mandated 11. Although not explicitly contained in Article 300A, these twin
+requirements have been read in and inferred as necessary conditions for compulsory deprivation to
+afford protection to the individuals who are being divested of property12. A post-colonial reading of
+the Constitution cannot limit itself to these components 9 300A of the Constitution: “Persons not to
+be deprived of property save by authority of law. – No person shall be deprived of his property save
+by authority of law.” 10 Lachhman Dass v. Jagat Ram, (2007) 10 SCC 448; Vidya Devi v. State of
+Himachal Pradesh, (2020) 2 SCC 569.
+
+11 State of Bihar v. Maharajadhiraja Sir Kameshwar Singh of Darbhanga, (1952) 1 SCC 528. 12
+Hindustan Petroleum Corporation Ltd v. Darius Shapur Chenai, (2005) 7 SCC 627; K.T. Plantation
+Pvt Ltd v. State of Karnataka, (2011) 9 SCC 1. alone. The binary reading of the constitutional right to
+property must give way to more meaningful renditions, where the larger right to property is seen as
+comprising intersecting sub-rights, each with a distinct character but interconnected to constitute
+the whole. These sub-rights weave themselves into each other, and as a consequence, State action or
+the legislation that results in the deprivation of private property must be measured against this
+constitutional net as a whole, and not just one or many of its strands.
+
+27. What then are these sub-rights or strands of this swadeshi constitutional fabric constituting the
+right to property? Seven such sub-rights can be identified, albeit non-exhaustive. These are:
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+8
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+i) duty of the State to inform the person that it intends to acquire his property – the
+right to notice, ii) the duty of the State to hear objections to the acquisition – the right
+to be heard, iii) the duty of the State to inform the person of its decision to acquire –
+the right to a reasoned decision, iv) the duty of the State to demonstrate that the
+acquisition is for public purpose – the duty to acquire only for public purpose, v) the
+duty of the State to restitute and rehabilitate – the right of restitution or fair
+compensation, vi) the duty of the State to conduct the process of acquisition
+efficiently and within prescribed timelines of the proceedings – the right to an
+efficient and expeditious process, and vii) final conclusion of the proceedings leading
+to vesting – the right of conclusion.
+
+28. These seven rights are foundational components of a law that is tune with Article 300A, and the
+absence of one of these or some of them would render the law susceptible to challenge. The
+judgment of this Court in K.T. Plantations (supra)13 declares that the law envisaged under Article
+300A must be in line with the overarching principles of rule of law, and must be just, fair, and
+reasonable. It is, of course, precedentially sound to describe some of these sub-rights as ‘procedural’,
+a nomenclature that often tends to undermine the inherent worth of these safeguards. These seven
+sub-rights may be procedures, but they do constitute the real content of the right to property under
+Article 300A, non- compliance of these will amount to violation of the right, being without the
+authority of law.
+
+29. These sub-rights of procedure have been synchronously incorporated in laws concerning
+compulsory acquisition and are also recognised by our constitutional courts while reviewing
+administrative actions for compulsory acquisition of private 13 K.T. Plantation Pvt. Ltd. v. State of
+Karnataka, (2011) 9 SCC 1. property. The following will demonstrate how these seven principles
+have seamlessly become an integral part of our Union and State statutes concerning acquisition and
+also the constitutional and administrative law culture that our courts have evolved from time to
+time.
+
+30. Following are the seven principles:
+
+30.1. The Right to notice: (i) A prior notice informing the bearer of the right that the
+State intends to deprive them of the right to property is a right in itself; a linear
+extension of the right to know embedded in Article 19(1)(a). The Constitution does
+not contemplate acquisition by ambush. The notice to acquire must be clear, cogent
+and meaningful. Some of the statutes reflect this right.
+
+(ii) Section 4 of the Land Acquisition Act, 1894, Section 3(1) of the Requisitioning and Acquisition of
+Immovable Property Act, 1952, Section 11 of the Right to Fair Compensation and Transparency in
+Land Acquisition, Rehabilitation and Resettlement Act, 2013, and Section 3A of the National
+Highways Act, 1956 are examples of such statutory incorporation of the right to notice before
+initiation of the land acquisition proceedings.
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+9
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+(iii) In a large number of decisions, our constitutional courts have independently recognised the
+right to notice before any process of acquisition is commenced 14.
+
+30.2. The Right to be heard: (i) Following the right to a meaningful and effective prior notice of
+acquisition, is the right of the property-bearer to communicate his objections and concerns to the
+authority acquiring the property. This right to be heard against the proposed acquisition must be
+meaningful and not a sham.
+
+(ii) Section 5A of the Land Acquisition Act, 1894, Section 3(1) of the Requisitioning and Acquisition
+of Immovable Property Act, 1952, Section 15 of the Right to Fair Compensation and Transparency in
+Land Acquisition, Rehabilitation and Resettlement Act, 2013, and Section 3C of the National
+Highways Act, 1956, are some statutory embodiments of this right.
+
+14 In Narendrajit Singh v. State of U.P., (1970) 1 SCC 125, it was held that a notification under
+Section 4 of the Land Acquisition Act, 1894, even in urgent cases falling under Section 17 of the Land
+Acquisition Act, 1894 is the sine qua non of the process of acquisition. In State of Mysore v. Abdul
+Razak Sahib, (1973) 3 SCC 196, it was held that a notice under Section 4 of the Land Acquisition Act,
+1894 is necessary for completing the land acquisition process. In Narinderjit Singh and Ranjit Singh
+v. State of U.P., (1973) 1 SCC 157, this Court held that the notice under Section 4 of the Land
+Acquisition Act, 1894 is mandatory and if no notice is published, the entire process of land
+acquisition is vitiated. In Competent Authority v. Barangore Jute Factory, (2005) 13 SCC 477, this
+Court held that if the initial notification under Section 3A of the National Highways Act, 1956 is bad,
+the entire process which is followed in pursuance of it is vitiated.
+
+(iii) Judicial opinions recognizing the importance of this right are far too many to reproduce. Suffice
+to say that that the enquiry in which a land holder would raise his objection is not a mere formality
+15.
+
+30.3. The Right to a reasoned decision: i) That the authorities have heard and considered the
+objections is evidenced only through a reasoned order. It is incumbent upon the authority to take an
+informed decision and communicate the same to the objector.
+
+(ii) Section 6 of the Land Acquisition Act, 1894, Section 3(2) of the Requisitioning and Acquisition of
+Immovable Property Act, 1952, Section 19 of the Right to Fair Compensation and Transparency in
+Land Acquisition, Rehabilitation and Resettlement Act, 2013 and Section 3D of the National
+Highways Act, 1956, are the statutory incorporations of this principle.
+
+15 In Nandeshwar Prasad v. State of U.P., AIR 1964 SC 1217, this Court has held the right under
+Section 5A of the Land Acquisition Act, 1894 to be a substantial one and it cannot be taken away. In
+Hindustan Petroleum Corpn. Ltd. v. Darius Shapur Chenai, (2005) 7 SCC 627, this Court has held
+that the right of submitting objections under Section 5A of the Land Acquisition Act, 1894 is a
+valuable right and the hearing given in pursuance of exercise of this right must not be rendered to a
+mere formality. In Union of India v. Shiv Raj, (2014) 6 SCC 564, this Court held that the rules of
+natural justice have been ingrained in the scheme of Section 5A of the Land Acquisition Act, 1894.
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+10
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+In Competent Authority v. Barangore Jute Factory, (2005) 13 SCC 477, this Court observed that in
+the process from the initial notification to the final declaration, objections play a vital road. In
+Kamal Trading (P) Ltd. v. State of W.B., (2012) 2 SCC 25, this Court quashed the land acquisition
+proceedings when a proper hearing under Section 5A of the Land Acquisition Act, 1894 was not
+accorded. In Gojer Bros. (P) Ltd. v. State of W.B., (2013) 16 SCC 660, this Court held quashed the
+land acquisition proceedings when it was observed that a mere formality was rendered in the name
+of a hearing under Section 5A of the Land Acquisition Act, 1894.
+
+(iii) Highlighting the importance of the declaration of the decision to acquire, the Courts have held
+that the declaration is mandatory, failing which, the acquisition proceedings will cease to have effect
+16.
+
+30.4. The Duty to acquire only for public purpose: (i) That the acquisition must be for a public
+purpose is inherent and an important fetter on the discretion of the authorities to acquire. This
+requirement, which conditions the purpose of acquisition must stand to reason with the larger
+constitutional goals of a welfare state and distributive justice.
+
+(ii) Sections 4 and 6 of the Land Acquisition Act, 1894, Sections 3(1) and 7(1) of the Requisitioning
+and Acquisition of Immovable Property Act, 1952, Sections 2(1), 11(1),15(1)(b) and 19(1) of the Right
+to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act,
+2013 and Section 3A(1) of the National Highways Act, 1956 depict the statutory incorporation of the
+public purpose requirement of compulsory acquisition. 16 In Mohan Singh v. International Airport
+Authority of India, (1997) 9 SCC 132, this Court held that publication of a declaration under Section
+6 of the Land Acquisition Act, 1894 is mandatory. In Project Director, Project Implementation Unit
+v. P.V. Krishnamoorthy, (2021) 3 SCC 572, this Court held that if a declaration is not published
+under Section 3D of the National Highways Act, 1956 then the initial notification and resultantly,
+the acquisition proceedings cease to have effect.
+
+(iii) The decision of compulsory acquisition of land is subject to judicial review and the Court will
+examine and determine whether the acquisition is related to public purpose. If the court arrives at a
+conclusion that that there is no public purpose involved in the acquisition, the entire process can be
+set-aside. This Court has time and again reiterated the importance of the underlying objective of
+acquisition of land by the State to be for a public purpose17.
+
+30.5. The Right of restitution or fair compensation: (i) A person’s right to hold and enjoy property is
+an integral part to the constitutional right under Article 300A. Deprivation or extinguishment of
+that right is permissible only upon restitution, be it in the form of monetary compensation,
+rehabilitation or other similar means. Compensation has always been considered to be an integral
+part of the process of acquisition.
+
+17 In Somawanti v. State of Punjab, 1962 SCC OnLine SC 23, this Court held that the Constitution
+permits acquisition of private land by the State only for a public purpose. The rationale of taking
+away private land by the State for a public purpose is that private interest must give way to public
+interest as observed by the Court in Daulat Singh Surana v. First Land Acquisition Collector, (2007)
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+11
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+1 SCC 641. In Union of India v. Jaswant Rai Kochhar, (1996) 3 SCC 491 and D. Hanumanth SA v.
+State of Karnataka, (2010) 10 SCC 656, this Court held acquisition proceedings to be valid even if
+there was a change in the public purpose, so long as there is a public purpose for which the land is
+acquired. The importance of the communication of public purpose as an ingredient of the
+notification for acquisition was reiterated by this Court in Munshi Singh v. Union of India, (1973) 2
+SCC 337 when acquisition proceedings were set aside since the public purpose was mentioned as
+“planned development of the area” which was observed to be wholly insufficient and conveyed no
+idea as to the specific purpose. Similarly, in Madhya Pradesh Housing Board v. Mohd. Shafi, (1992)
+2 SCC 168, wherein this Court quashed the acquisition proceedings on the ground that the public
+purpose was mentioned as “residential” which was too vague.
+
+(ii) Section 11 of the Land Acquisition Act, 1894, Sections 8 and 9 of the Requisitioning and
+Acquisition of Immovable Property Act, 1952, Section 23 of the Right to Fair Compensation and
+Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, and Sections 3G and
+3H of the National Highways Act, 1956 are the statutory incorporations of the right to restitute a
+person whose land has been compulsorily acquired.
+
+(iii) Our courts have not only considered that compensation is necessary, but have also held that a
+fair and reasonable compensation is the sine qua non for any acquisition process18. 30.6. The Right
+to an efficient and expeditious process: (i) The acquisition process is traumatic for more than one
+reason. The administrative delays in identifying the land, conducting the enquiry and evaluating the
+objections, leading to a final declaration, consume time and energy. Further, passing of the award,
+payment of compensation and taking over the possession 18 In State of U.P. v. Manohar, (2005) 2
+SCC 126, this Court held that payment of compensation is an integral part of the process of land
+acquisition. In M. Naga Venkata Lakshmi v. Visakhapatnam Municipal Corpn., (2007) 8 SCC 748,
+this Court held that wherever promised, compensation is ought to be paid. In NHAI v. P. Nagaraju,
+(2022) 15 SCC 1, this Court held that compensation must be adequate and must be arrived at
+keeping in mind the market value of the acquired land. In Vidya Devi v. State of H.P., (2020) 2 SCC
+569, this Court held that even though compensation is not expressly provided for under Article
+300A of the Constitution, it can be inferred therein. In the American jurisprudence, payment of
+compensation has been made part of due process (See Sweet v. Rechel [159 US 380 (1895) :
+
+40 L.Ed. 188], Delaware L. & W.R. Co. v. Morristown [276 US 182 (1928) : 72 L.Ed.
+523] and United States v. Caltex (Philippines) [344 US 149 (1952) : 97 L.Ed. 157).
+
+are equally time consuming. It is necessary for the administration to be efficient in concluding the
+process and within a reasonable time. This obligation must necessarily form part of Article 300A.
+
+(ii) Sections 5A(1), 6, 11A, and 34 of the Land Acquisition Act, 1894, Sections 6(1A) and 9 of the
+Requisitioning and Acquisition of Immovable Property Act, 1952, Sections 4(2), 7(4), 7(5), 11(5), 14,
+15(1), 16(1), 19(2), 25, 38(1), 60(4), 64 and 80 of the Right to Fair Compensation and Transparency
+in Land Acquisition, Rehabilitation and Resettlement Act, 2013 and Sections 3C(1), 3D(3) and 3E(1)
+of the National Highways Act, 1956, prescribe for statutory frameworks for the completion of
+individual steps in the process of acquisition of land within stipulated timelines.
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+12
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+(iii) On multiple occasions, upon failure to adhere to the timelines specified in law, the courts have
+set aside the acquisition proceedings19.
+
+19 In Roy Estate v. State of Jharkhand, (2009) 12 SCC 194; Union of India v. Mahendra Girji, (2010)
+15 SCC 682 and Union of India v. Mahendra Girji, (2010) 15 SCC 682, this Court has underscored
+the importance of following the timelines fixed by the statute. In Mansaram v. S.P. Pathak, (1984) 1
+SCC 125, this Court has held that the powers relevant to the land acquisition process must be
+exercised within a reasonable time. In Kerala State Housing Board v. Ramapriya Hotels (P) Ltd.,
+(1994) 5 SCC 672, this Court has held that if the concerned legislation does not stipulate the
+time-frames within which the process or its components are to be completed, it amounts to a
+violation of Article 14 and Article 21 of the Constitution. In Ram Chand v. Union of India, (1994) 1
+SCC 44, this Court has acknowledged the realisation of the Parliament that the authorities are not
+completing the acquisition proceedings within a reasonable time and thus, the Parliament has
+introduced time-limits. In Ambalal Purshottam v. Ahmedabad Municipal Corpn. (1968) 3 SCR 207,
+this Court held that a notification under Section 6 of the Land Acquisition Act, 1894 must be
+followed by a proceeding for determination of compensation without any unreasonable delay. In
+Khadim Hussain v. State of U.P., (1976) 1 SCC 843, this Court held that excessive intervening delay
+30.7. The Right of conclusion: (i) Upon conclusion of process of acquisition and payment of
+compensation, the State takes possession of the property in normal circumstances. The culmination
+of an acquisition process is not in the payment of compensation, but also in taking over the actual
+physical possession of the land. If possession is not taken, acquisition is not complete. With the
+taking over of actual possession after the normal procedures of acquisition, the private holding is
+divested and the right, title and interest in the property, along-with possession is vested in the State.
+Without final vesting, the State’s, or its beneficiary’s right, title and interest in the property is
+inconclusive and causes lot of difficulties. The obligation to conclude and complete the process of
+acquisition is also part of Article 300A.
+
+ii) Section 16 of the Land Acquisition Act, 1894, Sections 4 and 5 of the Requisitioning and
+Acquisition of Immovable Property Act, 1952, Sections 37 and 38 of the Right to Fair Compensation
+and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, and Sections 3D
+and 3E of the National Highways Act, 1956, statutorily recognise this right of the acquirer. between
+notifications under Sections 4 and 6 of the Land Acquisition Act, 1894, keeping the landowner in
+suspense throughout, is illegal.
+
+iii) This step of taking over of possession has been a matter of great judicial scrutiny and this Court
+has endeavoured to construe the relevant provisions in a way which ensures non-arbitrariness in
+this action of the acquirer 20. For that matter, after taking over possession, the process of land
+acquisition concludes with the vesting of the land with the concerned authority. The culmination of
+an acquisition process by vesting has been a matter of great importance. On this aspect, the courts
+have given a large number of decisions as to the time, method and manner by which vesting takes
+place 21.
+
+20 In State of W.B. v. Vishnunarayan & Associates (P) Ltd., (2002) 4 SCC 134, this Court held that
+possession can be resumed by the acquirer only in a manner known to or recognised by law and it
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+13
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+cannot resume possession otherwise than in due course of law. In Jilubhai Nanbhai Khachar v. State
+of Gujarat, 1995 Supp (1) SCC 596, this Court held that though eminent domain is the highest and
+most exact idea of property remaining in the Government, or in the aggregate body of the people in
+their sovereign capacity, even then the right to take possession of a private property must be
+exercised in the manner directed by the Constitution and the laws of the State, since deprivation of
+property must take place after following the procedure of law and upon ensuring due process.
+
+21 In Girnar Traders (3) v. State of Maharashtra, (2011) 3 SCC 1, this Court held that under the Land
+Acquisition Act, 1894, upon the payment of compensation and taking of possession of a land so
+acquired, the land is vested in the State free of encumbrances and the completion of such vesting of
+the land in the State amounts to the transfer of title from the owner to the State by a legal fiction. In
+P. Chinnanna v. State of A.P., (1994) 5 SCC 486 and Delhi Development Authority v. Reena Suri,
+(2016) 12 SCC 649, this Court held that mere passing of award under the Land Acquisition Act, 1894
+will not suffice to vest the land in the State since taking possession is of utmost importance. In Fruit
+& Vegetable Merchants Union v. Delhi Improvement Trust, 1956 SCC OnLine SC 37, this Court held
+that once the land is vested in the State, it is vested neither for a limited purpose nor for a limited
+duration. Further, in Union of India v. Tarsem Singh, (2019) 9 SCC 304, this Court observed that
+the National Highways Act, 1956 has an object of reducing delay in the process of land acquisition in
+order to speedily implement projects pertaining to highways. It is in this context that this Court held
+that under Section 3D of the National Highways Act, 1956, the land to be acquired vests in the
+Union upon the publication of a notification declaring the acquisition, which is done after the
+disposal of objections of the land-owner, if any.
+
+31. The seven principles which we have discussed are integral to the authority of law enabling
+compulsory acquisition of private property. Union and State statutes have adopted these principles
+and incorporated them in different forms in the statutes provisioning compulsory acquisition of
+immovable property. The importance of these principles, independent of the statutory prescription
+have been recognised by our constitutional courts and they have become part of our administrative
+law jurisprudence.
+
+32. Conclusions: Returning to the legal submissions of the counsel for the appellant-Corporation, as
+we have noticed that Section 352 does not provide for any procedure whatsoever, we reject the
+contention that it contemplates the power of acquisition. We have already held that Section 352 is
+only intended to enable the Municipal Commissioner to decide whether a land is to be acquired for
+public purpose. The power of acquisition is in fact vested with the State under Section 537 and it will
+exercise it, in its own discretion, whenever the Municipal Commissioner makes an application to
+that effect. We have also agreed with the decision of the High Court that Section 363 is not a
+provision for compensation for compulsory acquisition. In this context, we have also held that a
+valid power of acquisition coupled with the provision for fair compensation by itself would not
+complete and exhaust the power and process of acquisition. Prescription of the necessary
+procedures, before depriving a person of his property is an integral part of the ‘authority of law’,
+under Article 300A and, Section 352 of the Act contemplates no procedure whatsoever.
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+14
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+33. We are not referring to the detailed facts of the case involving multiple rounds of litigation where
+the respondents have taken inconsistent stands about the ownership and acquisition of the
+Property. There is no doubt in our mind that the exercise of the power is illegal, illegitimate and has
+caused great difficult to the respondent-land-bearer. It is necessary to refer to the findings of the
+learned single Judge that the appellant-Corporation acted in blatant violation of statutory
+provisions, these findings are as follows:
+
+“The facts disclosed by the Corporation in the Affidavit- in-Opposition evidently
+shows that the acquisition was made by invoking Section 352(a) of the said Act by
+exercising the power of eminent domain. There was a doubt in the mind of some of
+the Municipal Authorities whether such sovereign power can be exercised by the
+Statutory Authority like the Corporation and a legal opinion was sought by the Chief
+Municipal Law Officer from one of the Senior Advocates. The Senior Advocate,
+however, doubted over the said exercise of power and also highlighted the anomalies
+in such action. On the basis of such opinion the Chief Municipal Officer made the
+following remark: -
+
+“Doubt has arisen in the past on the question whether the Municipal Commissioner
+could under Section 352(a) of the CMC Act, 1980 straightway compulsorily acquire
+any land by giving notice to owner/occupiers also in contract Newspapers and pay
+compensation under Section 363(3) of the Act. The former Ch. Mpl. Law Officer had
+referred the question to Mr. P.K. Ghoah Senior Advocate for his opinion. A copy of
+his opinion is placed below for persual. I have nothing more to add. If in spite of the
+anomalies in the statute pointed out by Mr. P.K.Ghosh the Mpl. Commissioner
+proceeds to take possession of the land in question, I have no comment to make. If
+the aggrieved party moves the Court, then the Court will resolve the anomalies.” It is
+curious to note that despite the same, the then Mayor put a note that the Corporation
+may proceed to acquire the property by invoking powers under Section 352(a) and
+the note of the Chief Municipal Law Officer was simply kept in the file. It would
+further appear from the subsequent noting of the Chief Municipal Law Officer put on
+08.01.1991 wherein it is noted that the act is silent as to when the possession is to be
+taken either before or after the payment of compensation under Section 363 and
+according to him, the possession can only be taken after the payment of
+compensation under Section 363(3) of the said Act. Despite the aforesaid noting, the
+Municipal Commissioner passed an order of acquisition on 18.01.1991 directing to
+acquire the subject land under Section 352(a) of the Act with immediate effect and
+the possession should also be taken immediately. There is a serious dispute whether
+the possession was in fact taken in terms of the said order of the Municipal
+Commissioner or not. However, it is seen from the notes put on 16.03.1991 that the
+possession was taken. The fact remains that no compensation has been paid as yet.
+The Corporation has further disclosed a letter allegedly written by the recorded
+owner on 14.11.1991 wherein it is categorically stated that the possession has not been
+taken. Though it appears from the noting that the possession was taken way back in
+1991 but the record maintained by the Corporation was not altered and/or corrected
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+15
+
+Kolkata Municipal Corporation vs Bimal Kumar Shah on 16 May, 2024
+
+and in fact the Corporation continued to accept the property tax paid by the recorded
+owner in respect of the said property. Even in the year 2000, the Corporation
+mutated the name of the Birinchi Behari Shaw and also issued the No Due Certificate
+to him. It is only in the year 2010 the Corporation deleted the name of the said owner
+and incorporated its name as owner thereof. Yet, showing the huge outstanding on
+account of property tax with interest and penalty in the letter of intimation issued on
+17.07.2010. The explanation is sought to be offered that there is no synchronization
+between the two departments of the Corporation and a mistake has been committed,
+which cannot confer any equity or right in favour of the Petitioner.
+
+I am unable to persuade myself to agree with such explanation. For the sake of
+argument, if it is accepted that possession was taken way back in 1991, there was no
+occasion to accept the property tax for more than a decade without altering the
+entries made in the assessment register.
+
+This Court, therefore, finds that the Corporation acted blatantly in violation of the
+statutory provision in acquiring the property as such acquisition should have been
+facilitated by approaching the State under Section 537(1) of the said Act. The entire
+action concerning the acquisition of property by invoking Section 352(a) of the Act is
+per se illegal, invalid and in clear contravention to the provisions of the Act and are
+hereby quashed and set aside.”
+
+34. In the above analysis, we are of the considered opinion that the High Court was fully justified in
+allowing the writ petition and rejecting the case of the appellant-Corporation acquiring land under
+Section 352 of the Act. The impugned judgment does not brook interference on any count.
+
+35. Having considered the matter in detail, we dismiss the appeal arising out of SLP (C) No. 4504 of
+2021 filed by the appellant-Corporation against the judgment of the High Court of Calcutta in APO
+No. 523 of 2017 dated 17.12.2019 with costs quantified at Rs. 5,00,000/-, to be paid to respondent
+no. 1 within a period of sixty days from today.
+
+36. Pending application(s), if any, shall be disposed of.
+
+………………………………....J. [PAMIDIGHANTAM SRI NARASIMHA] ………………………………....J.
+[ARAVIND KUMAR] NEW DELHI;
+
+MAY 16, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/11565482/
+
+16
+
+

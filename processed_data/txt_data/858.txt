@@ -1,0 +1,684 @@
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on
+29 March, 2023
+
+Author: S. Ravindra Bhat
+
+Bench: S. Ravindra Bhat, Dipankar Datta
+
+1
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO(S). 5622 OF 2009
+
+CCE, AURANGABAD                                                     …APPELLANT(S)
+
+VERSUS
+
+M/S VIDEOCON INDUSTRIES LTD.
+THR. ITS DIRECTOR                                                 …RESPONDENT(S)
+
+WITH
+
+CIVIL APPEAL NO(S). 8026 OF 2022
+
+JUDGMENT
+
+S. RAVINDRA BHAT, J.
+
+1. These appeals, by the revenue, challenge two orders by the Customs, Excise and Service Tax
+Appellate Tribunal (‘CESTAT’ hereafter).
+
+2. In the first appeal1, the assessee is M/s Videocon International (hereafter “Videocon”). CESTAT,
+by its impugned order 2 in the first appeal, allowed Videocon’s appeal and held that the LCD panels
+imported by it are classifiable in Chapter Heading (“CH”) 9013.8010 [of the First Schedule to the
+Customs 2 Dated 06.01.2009 in Order No. A/46/09/CSTB/C-II Tariff Act, 1975 (hereafter “CTA”)],
+as Liquid Crystal Devices- as opposed to the revenue’s stand, that they are classifiable as 85.29
+"parts of goods falling under heading 85.28" [television sets falling in heading 85.28]. Videocon
+manufactures TV sets; the LCD panels are used by it, along with other items, such as printed boards,
+decoders, etc.
+
+1
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+3. In the second appeal,3 the revenue is aggrieved by order of the CESTAT 4 whereby import of LCD
+panels by the assessee i.e., M/S Harman International (India) Pvt. Ltd., (hereafter “Harman”) was
+held to be classifiable under CH 9013.8010, rejecting the revenue’s contention that they were
+classifiable as “Car Audio or Video Players” under either CTH 8519 or 8555. The LCD panels, in this
+case, were used as part of audio systems in automobiles. Brief facts
+
+4. In both appeals, the assesses had imported LCD panels/display boards. In Videocon appeal,
+Videocon claimed that the imported goods fell in the relevant entry in CH 9013.8010. That entry
+reads as follows:
+
+“9013.8010 Liquid crystal devices (LCD)” The Chapter Heading read as follows:
+
+“9013 Liquid crystal Devices not constituting articles provided for more specifically in
+other headings; Lasers, other than Laser Diodes; other optical appliances and
+instruments, not specified or included elsewhere in this chapter” Whereas, the
+revenue contended that the LCD panels were to be classified as CH 8529, which reads
+as follows:
+
+4 Dated 09.11.2021 in Order No. A/87132/2021 in Customs Appeal No. 85003/2019
+“Chapter 8529. "Parts suitable for use solely or principally with the apparatus of
+heading 8525 to 8528” CH 8528 reads as follows:
+
+“8528 Monitors and projectors, not incorporating Television reception apparatus,
+reception apparatus for television, whether or not incorporating radio-broadcast
+receivers or sound or video recording or reproducing apparatus”
+
+5. The revenue claimed that the goods were improperly classified; a show cause notice was issued.
+The Deputy Commissioner, who adjudicated them, ruled against the assessee and held that the
+goods were classifiable under CH 8529. 9090. The assessee’s appeal succeeded, and the
+Commissioner directed a remand. The Dy. Commissioner, after remand, confirmed the show cause
+notice, and affirmed the classification proposed by it; the assessee appealed against this order,
+unsuccessfully. The Commissioner (Appeals) rejected its appeal. It, therefore, approached the
+CESTAT, which by the impugned order, set aside the demand, and upheld the assessee’s plea that
+the proper classification of the goods was in CH 9013.8010.
+
+6. In the Harman appeal too, the assessee claimed that the imported items i.e., LCD panels
+[declared before the customs authorities as “Liquid Crystal Devices-TFT-LCD 4.8 in”] for car audio
+assemblies, were properly classifiable in CH 9013.8010. Its contention was rejected by the revenue
+authorities, who classified it as “Sound Recording or Reproducing Apparatus” in CH 8519, and fell
+in CH 8522, item 8522.9000. CH 8522 reads as follows:
+
+“8522 Parts and accessories suitable for use solely or principally with the apparatus
+of headings 8519 or 8521” The litigation history in Harman’s case followed a
+trajectory similar to Videocon’s; ultimately, by the impugned order, CESTAT upheld
+
+2
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+its contention that the goods, meant for use in car audio systems, were classifiable in
+CH 9013.8010.
+
+Contention of parties
+
+7. Ms. Nisha Bagchi, learned counsel appearing for the revenue, argued that the findings of the
+CESTAT are erroneous. She argued that the literature and other documents reveal that the LCD
+panels have specific model numbers. She pointed to the fact that the websites of the manufacturers
+of the imported articles are meant for use in LCD TVs. It was undeniable that the imported items
+were used in the manufacture of LCD TVs. Some, however, were used in manufacturing monitors,
+though they were not sold in the market. Therefore, the goods were LCD devices principally used in
+the manufacture of LCD TVs. LCD TV is an apparatus covered specifically under heading 85.25 &
+85.28.
+
+8. Counsel argued that heading 90.13 covers only those articles which are not provided for more
+specifically in other headings. In the present case, LCDs are specifically mentioned as parts of LCD
+TVs in heading 85.29. Therefore, they cannot be classified under heading 90.13. Reliance was placed
+on G.S. Auto International Ltd v Collector of Central Excise 5. It was emphasized that in G.S. Auto
+(supra), this court held that the true test for classification is the test of commercial identity and not
+functional test. Therefore, the correct question is 5 [2003] 1 S.C.R. 372: 2003 (152) ELT 3 (SC) how
+the articles are referred to in the market by those who deal with them, whether for purchase, sale or
+otherwise. The commercial parlance test, therefore, is determinative. Counsel submitted that the
+court in GS Auto (supra) referred to Notes 2(b) and (3) of Section XVII and observed that a joint
+reading of the notes would show that the expression "parts of general use" throughout the schedule,
+meant, articles of Heading No. 7318 and similar articles of other base metal, and the expression 'part
+and accessories' in Chapter Heading 87.08 did not apply to parts or accessories unsuitable for use
+solely or primarily with articles of CH 87.08 which related to parts and accessories of motor vehicles
+of CH 87.01 to 87.05. For the purposes of classification under CH 87.08, the test to be applied is
+whether the goods are suitable for use solely or primarily with articles of CH Nos.87.01 to 87.05; if
+the answer is in the affirmative, the goods will be classifiable under CH 87.08, but if the answer is in
+the negative, they would have to be classified under CH 73.18.
+
+9. It is urged that on an application of similar logic even if LCDs are covered by CH 90.13, yet, they
+have to be classified under heading 85.29 since these are solely or principally used for manufacture
+of LCD TVs and commercially known as parts of TVs.
+
+10. Learned counsel referred to Chapter Note 2(b) (of Chapter 90) relating to classification of parts
+and accessories if suitable for use solely or principally with a particular kind of machine, instrument
+or apparatus or with a number of machines, are to be classified with that machine, instrument or
+apparatus of that kind. In view of this note, LCDs for computer monitor are classifiable as part of
+computer monitor, and the various general application and special application monitors will alone
+be classifiable under Chapter Heading 90.13. The example given for such LCD panels were panel for
+video games, medical monitoring and industrial test and control, etc., which are not part of any
+particular equipment or machine but can be used in an assortment of machines. It was submitted
+
+3
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+that the assessee's plea about classification of different parts in various Chapter Headings other than
+Chapter 84 and 85, is irrelevant as the various notes/explanatory notes of all sections, chapters, and
+headings are unique to the respective sections or chapters or headings and cannot be generalized or
+interchanged or applied to with other sections, chapters or headings, unless specified in the
+tariff/explanatory notes or by any other legislation. The absence of explanatory note stating the
+parts of LCD TVs will not be classifiable under Chapter Heading 85.29 if it is specifically specified
+under any other chapter heading (in this case, Chapter Heading 90.13), the assessee cannot rely on
+notes relating to other sections and chapters.
+
+11. Lastly, Ms. Bagchi, anticipating reliance- by the assessee upon the judgment of this court, in
+Secure Meters v Commissioner of Customs 6- submitted that the ratio of that case cannot be applied
+to the facts of this case because, firstly, the competing entries (in that case) fell within the same
+chapter, and secondly, that the factual basis in the present case, is stronger, because the 6 [2015] 6
+S.C.R. 219: 2015 (14) SCC 239 websites of the manufacturers, clearly reveal that the imported goods
+were meant principally to be used in television sets. Section note 2 (b) applies in this case because
+the item in question was not specifically classifiable under its headings, because it is principally
+meant for use in television sets.
+
+12. In the second appeal7 concerning import by Harman International, the revenue argues that the
+items are LCD attached with inseparable PCBs. Both were part of one equipment, though it was
+declared as LCDs. Counsel pointed out that Harman, in its letter (dated 19.08.2016) stated that it
+manufactured Car Audio/infotainment items and supplied them to auto manufacturers; the
+shipment contained LCDs used in its manufacturing process of car audio assembly. Further, it was
+stated that the items were assembled with the importer’s assembled PCBs to give different outputs
+on car audio screen and was designed specifically to suit end product requirements and could not be
+used separately as an accessory but was an essential part of its manufactured product. Thus, LCD
+panels were specifically designed in a particular manner to be used only in car audio/infotainment
+systems. They were, consequently, specific parts of car audio/infotainment systems and cannot be
+used otherwise.
+
+13. Counsel urged that the goods were articles described specifically as parts of 'Sound Recording
+and Reproducing Apparatus' covered under CTH 8522 and because they are constituting articles
+described more specifically in other headings, there was no scope of their being covered under CTH
+9013 8010. It was urged, that like in Videocon, the manufacturer’s literature described the goods
+specifically as 'LCD Module'.
+
+14. Mr. Vivek Singh, learned Senior counsel (appearing in the Videocon appeal), submitted that the
+view taken by CESTAT is correct. Goods are admittedly liquid crystal device; they are specifically
+covered by the entry heading 90.13 as it is not described more specifically in any other heading. The
+entry referred to by the revenue i.e., Chapter Heading 8529 relates to parts suitable for use solely or
+principally with the parts of heading nos.85.25 to 85.28, which inter alia includes LCD TV, cannot
+be considered as a specific heading.
+
+4
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+15. It was argued that Section Note 1(m) to Section XVI clearly excludes articles of Chapter 90.
+Therefore, first, it has to be specifically held that the LCD panels are not covered by Chapter 90. The
+revenue does not deny that LCD panels are covered by Chapter Heading 90.13. This heading,
+according to the revenue, covers only LCD panels meant for general use and are interchangeable and
+not what are principally meant for use in TVs. It is argued that tariff entry 90.13 refers to LCDs
+which do not constitute articles provided for more specifically in other headings. The entry relied on
+by the revenue is 8529, which deals with parts suitable for use “solely or principally with the
+apparatus” of Heading 8525 to 8528. This entry is not confined to LCD panels meant for use in TVs
+only but to several other parts which go into the making of LCD TV like TV tuners, PCB boards,
+switches, connectors, speakers, etc., all of which will be classifiable under heading 8529. The
+heading referring to parts cannot be treated as heading covering the LCDs more specifically.
+
+16. It is submitted that the description under heading 8529 is general and not specific, whereas the
+description under heading 90.13 is more specific. LCDs consist of items like LCD TV, (referred to
+under Chapter Heading 8528.7218 and 8528.7510) and indicator panels incorporating LCDs
+(referred to in entry 8531.2000) and other items which are specifically provided for. The Supreme
+Court decision in G.S. Auto (supra) is in the context of Section XVII where Note 2 and 3 provides:
+
+"2 The expression parts' and 'parts and accessories' do not apply to the following
+articles, whether or not they are identifiable as for the goods this section:
+
+(a) ********
+
+(b) Parts of general use, as defined in Note 2 to Section XV, of base metal (Section
+XV), or similar goods of plastics (Chapter 39)"
+
+"3. References in Chapters 86 to 88 to parts or accessories do not apply to parts or
+accessories which are not suitable for use solely or' principally with the articles of
+those Chapters. A part or accessory which answers to a description in two or more of
+the headings of those Chapters is to be classified under that heading which
+corresponds to the principal se of that part of accessory."
+
+17. It was argued that the section notes clearly provide that the word “parts and accessories” will not
+apply to parts of general use as defined in Note 2 to Section XV of base metal, and it was in view of
+this note that this Court held that parts which are suitable for use solely or principally with articles
+of Chapters 86 to 88 are to be treated as parts and accessories of articles falling under Chapter 86 to
+88 in terms of Note 3. These notes are missing from Section XVI and are, therefore, irrelevant.
+Chapter notes/section notes and explanatory notes are unique to the respective section, chapters
+and headings they deal with and cannot be generalized or interchanged. Consequently, classification
+has reference to section and chapter notes of the section to which the goods belong, i.e., Section XVI.
+Section Note 2(a) and 2(b) in Section XVI are different from Section Notes of Section XVII.
+According to Section Note 2(a) of Section XVI the parts which are goods included in any of the
+headings of Chapter 84 or 85 are, in all cases, to be classified in their respective headings, and it is
+only when the parts are not classifiable as per Section Note 2(a) that Section Note 2(b) is attracted.
+
+5
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+Therefore, even though a part is suitable for use or solely with a particular kind of machine finds
+mention under any headings in Chapter 84 or 85, it will then get classified under that heading and
+not as a part of apparatus or a machine.
+
+18. Learned senior counsel relied on the decision of this court in Secure Meters (supra) and urged
+that the distinction sought to be made by the revenue, with this case, is on untenable grounds. It was
+argued that though the competing entries were in Heading 90, nevertheless, the article was LC
+Displays, but used in meters. This clearly undermined the revenue’s argument that LCD sets were
+meant principally for TVs. They have multiple uses; if the revenue is correct, each such use would
+then be a “principal” use. In that event, the Chapter Heading would be rendered redundant.
+
+19. Mr. V. Lakshmikumaran, learned counsel appearing in Harman, adopted the submissions made
+by Mr. Vivek Singh. He additionally relied on Rule 1 of the General Rules of Interpretation, which
+provides that:
+
+“Classification of goods in this Schedule shall be governed by the following principles:
+
+The titles of Sections, Chapters and Sub-Chapters are provided for ease of reference
+only; for legal purposes, classification shall be determined according to the terms of
+the headings and any relative Section or Chapter Notes and, provided such headings
+or Notes do not otherwise require, according to the following provisions.” It was
+argued that in terms of Rule 1, since classification of a 'Liquid Crystal Device' is
+specifically provided for by nomenclature under tariff item 9013 8010, the LCDs
+imported by the assessee were correctly classifiable under tariff item 9013 8010, in
+terms of the nomenclature of the item.
+
+20. It was argued that Tariff Item 9013 8010 prescribes a more specific description and is to be
+preferred over any other heading, whereas tariff heading 8522 provides a general description, as
+parts and accessories suitable for use, “solely or principally” with the apparatus of CH 8519 or 8521.
+The further submission of Mr. Laxmikumaran is that the expression “parts and accessories” used in
+CH 8522 excludes articles covered under Chapter 90 of the Tariff, whether or not they are
+identifiable as for the goods falling under Section XVI of the Tariff and that even if any article is
+identifiable as a “part or/and accessories for the goods of Section XVI, it shall be excluded from the
+term “parts and accessories”. Learned counsel relied upon the judgment reported in Collector of
+Central Excise v Delton Cables Ltd & Anr 8 where, the court dealt with section Notes 2 (a) and 2 (b)
+to Chapter 85 and held that Note 2 (b) applies only if the item is not specifically classifiable under
+their respective headings. It was argued, therefore, in the present case, that Note 1 (m) to Chapter 85
+specifically excluded from its operation, goods falling in Chapter 90. In such circumstances, LCD
+panels were complete articles capable of multiple uses, and not solely or principally in some articles.
+It was additionally urged that the facts found, clearly showed that the PCBs attached to the LCD
+panels imported by the assessee were meant to act as voltage stabilizers.
+
+The provisions
+
+6
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+21. First, it would be necessary to refer to the relevant norms of interpretation under First Schedule
+of the CTA, i.e. “The General Rules of Interpretation of this Schedule”. Rules 1, 2 and 3 are relevant
+and are extracted below:
+
+THE FIRST SCHEDULE—IMPORT TARIFF (See Section 2) GENERAL RULES FOR
+“THE INTERPRETATION OF THIS SCHEDULE Classification of goods in this
+Schedule shall be governed by the following principles:
+
+1. The titles of Sections, Chapters and Sub-Chapters are provided for ease of reference
+only; for legal purposes, classification shall be determined according to the terms of
+the headings and any relative Section or Chapter Notes and, provided such headings
+or Notes do not otherwise require, according to the following provisions.
+
+2. (a) Any reference in a heading to an article shall be taken to include a reference to
+that article incomplete or unfinished, provided that, as presented, the incomplete or
+unfinished article has the essential character of the complete or finished article. It
+shall also be taken to include a reference to that article complete or finished (or
+falling to be classified as complete or, finished by virtue of this rule), presented
+unassembled or disassembled.
+
+8 2005 (12) SCC 284
+
+(b) Any reference in a heading to a material or substance shall be taken to include a
+reference to mixtures or combinations of that material or substance with other
+materials or substances. Any reference to goods of a given material or substance shall
+be taken to include a reference to goods consisting wholly or partly of such material
+or substance. The classification of goods consisting of more than one material or
+substance shall be according to the principles of rule 3.
+
+3. When by application of rule 2(b) or for any other reason, goods are, prima facie, classifiable under
+two or more headings, classification shall be effected as follows:
+
+(a) the heading which provides the most specific description shall be preferred to
+headings providing a more general description. However, when two or more headings
+each refer to part only of the materials or substances contained in mixed or
+composite goods or to part only of the items in a set put up for retail sale, those
+headings are to be regarded as equally specific in relation to those goods, even if one
+of them gives a more complete or precise description of the goods.
+
+(b) mixtures, composite goods consisting of different materials or made up of
+different components, and goods put up in sets for retail sale, which cannot be
+classified by reference to (a), shall be classified, as if they consisted of the material or
+component which gives them their essential character, insofar as this criterion is
+applicable.
+
+7
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+(c) when goods cannot be classified by reference to (a) or (b), they shall be classified
+under the heading which occurs last in numerical order among those which equally
+merit consideration.” Chapter 85 falls in Section XVI, the heading of which reads as
+follows:
+
+“CHAPTER 85 Machinery and Mechanical Appliances; Electrical Equipment; Parts
+thereof; Sound Recorders and Reproducers, Television Image and Sound Recorders
+and Reproducers, and Parts and Accessories of Such Articles NOTE 1. This Chapter
+does not cover:
+
+(a)xxxxxxxxxxx
+xxxxxx
+(m) Articles of Chapter 90…
+xxxxxx                         xxxxxx                         xxxxxx
+
+1. Subject to Note 1 to this Section, Note 1 to Chapter 84 and to Note 1 to Chapter 85,
+parts of machines (not being parts of the articles of heading 8484, 8544, 8545, 8546
+or 8547) are to be classified according to the following rules:
+
+(a) Parts which are goods included in any of the headings of Chapter 84 or 85 (other
+than headings 8409, 8431, 8448, 8466, 8473, 8485, 8503, 8522, 8529, 8538, and
+8548) are in all cases to be classified in their respective headings;
+
+(b) other parts, if suitable for use solely or principally with a particular kind of
+machine, or with a number of machines of the same heading (including a machine of
+heading 8479 or 8543) are to be classified with the machines of that kind or in
+heading 8409, 8448, 8466, 8473, 8503, 8522, 8529 or 8538 as appropriate.
+However, parts which are equally suitable for use principally with the goods of
+headings 8517 and 8525 to 8528 are to be classified in heading 8517
+
+(c) all other parts are to be classified in heading 8409, 8431, 8448, 8466, 8473, 8503,
+8522, 8529 or 8538 as appropriate or, failing that in heading 8485 or 8548” Chapter
+Heading 90, which falls in Section XVII, reads as follows:
+
+“CHAPTER 90 “Optical, Photographic, Cinematographic, Measuring, Checking,
+Precision, Medical or Surgical Instruments and Apparatus; Parts and Accessories
+Thereof” Note 2 to Chapter 90 reads as follows:
+
+2. Subject to Note 1 above, parts and accessories for machines, apparatus,
+instruments or articles of this Chapter are to be classified according to the following
+rules:
+
+(a) Parts and accessories which are goods included in any of the headings of this
+Chapter or of Chapter 84, 85 or 91 (other than heading 4[8487], 8548 or 9033) are in
+all cases to be classified in their respective headings;
+
+8
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+(b) Other parts and accessories, if suitable for use solely or principally with a
+particular kind of machine, instrument or apparatus, or with a number of machines,
+instruments or apparatus of the same heading (including a machine, instrument or
+apparatus of heading 9010, 9013 or 9031) are to be classified with the machines,
+instruments or apparatus of that kind;
+
+(c) All other parts and accessories are to be classified in heading 9033.” Analysis and
+Conclusions
+
+22. On a reading of the General Interpretive rules and the notes to the concerned
+chapters (85 and 90, in the present case), it is evident that:
+
+(a) classification has to be in accord with “the terms of the headings and any relative
+Section or Chapter Notes” (Note 1)
+
+(b) Reference in a heading to “an article” includes “that article incomplete or
+unfinished” provided, such incomplete or unfinished article has “the essential
+character of the complete or finished article.” [Note 2(a)]
+
+(c) If on an application of Rule 2(a), an article is classifiable in more than one
+heading “the heading which provides the most specific description shall be preferred
+to headings providing a more general description.” [Note 3 (a)]
+
+23. Note 1 (m) to Chapter 85 excludes “(m) Articles of Chapter 90…” The revenue
+relies on Note 2 (b) to Chapter 85, which says “other parts and accessories, “if
+suitable for use solely or principally with a particular kind of machine, instrument or
+apparatus, or with a number of machines, instruments or apparatus of the same
+heading” and then enumerates heading 9013, to say that Chapter 85 would cover the
+present case.
+
+24. The correct manner of interpreting the notes, chapters, and the General rules of
+interpretation was explained by this court, in Commissioner of Central Excise,
+Nagpur v Simplex Mills Co. Ltd.,9 where the Court held that the Rules for the
+Interpretation of the Schedule to the CET Act are framed pursuant to the powers
+under Section 2 of that Act. The court observed:
+
+“The Rules for the Interpretation of the Schedule to the Central Excise Tariff Act,
+1985 have been framed pursuant to the powers under Section 2 of that Act. According
+to Rule 1 titles of sections and chapters in the Schedule are provided for ease of
+reference only. But for legal purposes, classification ‘shall be determined according to
+the terms of the headings and any relevant section or chapter notes’. If neither the
+heading nor the notes suffice to clarify the scope of a heading, then it must be
+construed according to the other following provisions contained in the Rules. Rule 1
+gives primacy to the section and chapter notes along with terms of the headings. They
+
+9
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+should be first applied. If no clear picture emerges then only can one resort to the
+subsequent rules. The appellants have relied upon Rule
+
+3. Rule 3 must be understood only in the context of sub-rule (b) of Rule 2 which says
+inter alia that the classification of goods consisting of more than one material or
+substance shall be according to the principles contained in Rule 3. Therefore when
+goods are prima facie, classifiable under two or 9 [2005] 2 S.C.R. 441: (2005) 3 SCC
+51 more headings, classification shall be effected according to sub-rules (a),
+
+(b) and (c) of Rule 3 and in that order.”
+
+25. The difficulty in accepting the revenue’s argument, in this case, is that it jumps
+over interpretive instructions. One, General Note (1) states that classification has to
+be in consonance with terms and headings in chapter notes.
+
+Two, Rule 3 (a) categorically enjoins that in regard to classification, the heading providing for a
+“more” specific description prevails over the general one. Three, Note 1 (m) – in Chapter 85 excludes
+the application of articles falling in Chapter 90. In this court’s opinion, this note, along with the
+General Note 3 (a) [of the General Rules of Interpretation] that headings that are specifically
+provided, should be preferred over the general ones, is decisive. Thus, the revenue’s contention that
+by virtue of Note 2 (b) to Chapter 85, the goods are to be classified based on their principal or sole
+use is insubstantial because of the clear mandate of Note 1 (m), which excludes Chapter 90 goods
+(which includes LCD panels). More importantly, Note 2 opens with the expression “subject to Note
+1”. This subordinates the entire subject matter in Note 2; it is only where the article is a “part” which
+acts as an accessory, that the enumerated portions of Chapter 85 come into play. Such an
+interpretation is plainly untenable. In Commissioner of Central Excise, Delhi-III vs. UNI Products
+India Ltd., 10 this court had to consider whether “car matting” fell within Chapter 57 of the I
+Schedule to the CET Act per heading “Carpets and Other Textile Floor 10 [2020] 13 S.C.R. 295:
+2020 (19) SCC 742 Coverings” or were to be classified under Chapter 87, as “vehicles other than
+railway or tramway rolling-stock and parts and accessories thereof”. The court held that the item fell
+within the description “car matting”:
+
+“25. We do not find any error in such reasoning. Chapter 87 of the Central Excise
+Tariff of India does not contain car mats as an independent tariff entry. We have
+reproduced earlier the various parts and accessories listed against tariff entry 8708.
+All of them are mechanical components, and revenue want car mats to be included
+under the residuary sub-head "other" in the same list. The HSN Explanatory Notes
+dealing with interpretation of the Rules specifically exclude "tufted textile carpets,
+identifiable for use in motor cars" from 87.08 and place them under heading 57.03.
+Revenue's argument is that the Explanatory Notes have persuasive value only. But
+the level or quality of such persuasive value is very strong, as observed in the
+judgments of this Court to which we have already referred. Moreover, the
+Commissioner himself has referred to the Explanatory Notes in the order- in-original
+while dealing with the Respondent's stand. Thus, we see no reason as to why we
+
+10
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+should make a departure from the general trend of taking assistance of these
+Explanatory Notes to resolve entry related dispute. Now, on referring to these
+Explanatory Notes, we find that one category of carpets [Textile carpets (Chapter 57)]
+has been excluded specifically from parts and accessories. In our opinion, the
+subject-item does not satisfy the third condition specified in Section XVII of the
+Explanatory Notes in relation to "III-Parts and Accessories". A plain reading of
+Clause (C) thereof, which we have quoted above, excludes "textile carpets" (Chapter
+57).
+
+26. The main argument of the Appellant is that because the car mats are made
+specifically for cars and are used also in cars, they should be identified as parts and
+accessories. But if we go by that logic, textile carpets could not have been excluded
+from Parts and Accessories. We have referred to such exclusion in the preceding
+paragraph. It has also been urged on behalf of the revenue that these items are not
+commonly identified as carpets but are different products. The Tribunal on detailed
+analysis on various entries, Rules and Notes have found they fit the description of
+goods under chapter heading 570390.90. We accept this finding of the Tribunal.
+Once the subject goods are found to come within the ambit of that sub-heading, for
+the sole reason that they are exclusively made for cars and not for "home use" (in
+broad terms), those goods cannot be transplanted to the residual entry against the
+heading 8708. As we find the subject-goods come under the chapter-heading
+570390.90, and the other entry under the same Chapter forming the subject of
+dispute in the second order of the Commissioner, in our opinion, there is no necessity
+to import the "common parlance" test or any other similar device of construction for
+identifying the position of these goods against the relevant tariff entries.”
+
+26. In the decision reported as Delton Cables Ltd (supra) too, this court had
+emphasized on the rule of classification of the goods in accordance with a specific
+description and observed that:
+
+“3. There appears to be no dispute that were it not for Section Note 2(b), the item in
+question would be classified under Tariff Heading 85.44 as contended by the
+appellant. Sections Notes 2(a) and (b) respectively provide as follows:
+
+“2. (a) Parts which are goods included in any of the headings of Chapter 84 or
+Chapter 85 (other than Headings 84.85 and 85.48) are in all cases to be classified in
+their respective headings.
+
+(b) Other parts, if suitable for use solely or principally with a particular kind of
+machine, or with a number of machines of the same heading (including a machine of
+Heading 84.79 or Heading 85.43) are to be classified with the machines of that kind.
+However, parts which are equally suitable for use principally with the goods of
+Headings 85.17 and 85.25 to 85.28 are to be classified in Heading 85.17.”
+
+11
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+4. It is clear from a reading of the two clauses to the section note that clause
+
+(b) would only apply once it was found that the items in question were not
+specifically classifiable under their respective headings. As has been clearly said by
+the Collector (Appeals) “from the sequence of the paragraphs given under Section
+Note 2 it is clear that the question of switching over to Section Note 2(b) can arise
+only after ensuring that the parts are not covered by Section Note 2(b) [sic Section
+Note 2(a).] which begins with the expression “other parts” meaning thereby that the
+parts which are not covered by Section Note 2(a) would be considered for coverage by
+Section Note 2(b). One cannot therefore directly jump over to Section Note 2(b)
+without exhausting the possibility of Section Note 2(a).”
+
+27. M/S Intel Design Systems (India) (P) Ltd. vs. Commissioner of Customs and
+Central Excise11 is a decision, where the goods were described as parts of tanks and
+other armoured and motorized fighting vehicles, under Heading 8710 was held to fall
+within Chapter 85. The reasoning of this court, in that case, was as below:
+
+“4. As per Rule 1 on Interpretive Rules, classification of excisable goods is to be
+determined according to the terms of the Heading and in terms of Section/Chapter
+notes. Note 2(f) to Section XVII (which governs Chapter
+
+87) excludes the goods viz. electrical machinery and equipment (Chapter
+
+11 [2008] 2 S.C.R. 686: 2008 (3) SCC 258
+
+85). The goods in question i.e. contractors, switches, control box etc. are the goods used for
+switching, protecting electrical circuits or for making connections to or in electric circuit. These
+parts/components are specifically covered under CSH 8536.90. The CBEC Circular relied upon by
+the assessee is not relevant.
+
+5. As per the Explanatory Notes to HSN the parts falling under Chapter Heading 8710 would be
+covered under the said chapter, provided they fulfill both the conditions i.e. they must be
+identifiable as being suitable for use solely or principally for such vehicles and that they must not be
+excluded by the provisions of Notes to Section XVII. The identifiable parts under the said heading
+bodies of armoured vehicles and parts thereof, cover special road wheels for armoured cars,
+propulsion wheels for tanks, tracts etc. As per this requirement, the goods should not only be
+identifiable to be armoured vehicles, but it should so not have been excluded by Notes to Section
+XVII. The Chapter note 2(f) excludes electrical machinery and equipment falling under Chapter 85.
+Explanatory Notes to HSN relating to the parts and accessories excluded by Note 2 specify items
+with reference to specific Chapter Heading as per (7) (a), (k) which excludes photographs and other
+current collectors for electric traction vehicles, fuses, switches and other electric apparatus of
+Heading No.85.35 or 85.36. The items, therefore, manufactured by the appellants are identifiable or
+are in the nature of goods falling under Chapter Heading 85.36. Since these fall under the category
+of excluded goods under Chapter Notes, even though they are used specifically solely or principally
+
+12
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+with the armoured vehicles of Chapter Heading 8710, they are classifiable under Chapter Heading
+8536.90 only as held by the adjudicating authority.”
+
+28. It is, therefore, clear that when goods are excluded from a particular chapter, the “pull in”
+through a note has to be narrowly construed, as otherwise, the basis of exclusion would be defeated,
+and the earlier note (of exclusion) rendered redundant. Finally, Secure Meters (supra) is decisive on
+the question that LCDs are not articles provided “more specifically in other headings”, i.e., other
+than 90.13. Furthermore, the fact that LCDs could be used for purposes other than television sets or
+audio sets is also concluded because, in that decision, its use in meters was in issue. This court held,
+pertinently, as follows:
+
+“17. Keeping in mind the aforesaid nature of product in question, we revert to the
+tariff entries. It cannot be disputed that LCDs are specifically provided in Tariff Item
+9013. The only condition is that such LCDs should not constitute “articles” provided
+more specifically in other headings. In the present case, it is also not in dispute that
+LCDs imported by the appellant did not constitute any such “article” which is more
+specifically provided in other headings. On the contrary, the Revenue wants to
+include in the same chapter i.e. Chapter 90, though under Entry 9028.90.10 as “parts
+and accessories”. The only reason for including the goods under Chapter Heading
+9028 is that the LCDs were to be used in the electricity supply meters. However,
+Entry 9028 does not pertain to LCDs but gas, liquid, etc. and includes electricity
+supply meters as well. Merely because these LCDs are to be used as parts in the said
+electricity supply meters, can it be said that they are to be included in Entry 9028?
+Here, Note 2 of this Chapter Notes becomes important since LCDs are used in the
+electricity supply meters only as parts thereof. Note 2(a) stipulates that parts and
+accessories which are goods included in the heading of the said chapter i.e. Chapter
+90, are to be classified in their respective headings. Going by the plain reading of
+Note 2(a) it is clear that LCDs, which are goods and are used as parts in the final
+product mentioned in Chapter 90, namely, electricity supply meters, are to be
+classified in its respective heading. Respective heading, which is specifically provided
+is 9013.
+
+18. It was sought to be argued by Ms Kiran Suri that as per Note 2(b), when these
+LCDs are used solely for particular instrument, namely, electricity supply meter, it
+has to be classified with the said meter and, therefore, Chapter Entry 9028 would get
+attracted. However, this argument loses sight of the fact that Note 2(b) relates to
+“other parts and accessories”, namely, it would apply to those parts and accessories
+for which Note 2(a) is inapplicable. Once we find that in the present case Note 2(a)
+squarely applies, the irresistible conclusion is that the goods will be classified in
+Tariff Item 9013, which is the specific heading for these goods.”
+
+29. In view of the above decisions and the foregoing reasoning, the CESTAT’s reasoning and
+conclusions, in both cases, that the LCD sets were under Chapter 90, Entry 9013.8010, is sound and
+unexceptionable. Consequently, the appeals have to fail and are dismissed, without order on costs.
+
+13
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+.....................................................J. [S. RAVINDRA BHAT] .....................................................J.
+[DIPANKAR DATTA] New Delhi, March 29, 2023.
+
+ITEM NO.1501                COURT NO.14                   SECTION XVII-A
+
+S U P R E M E   C O U R T    O F   I N D I A
+RECORD OF PROCEEDINGS
+
+Civil Appeal   No(s).   5622/2009
+
+CCE, AURANGABAD                                         Appellant(s)
+
+VERSUS
+
+M/S VIDEOCON INDUSTRIES LTD. THR. ITS DIRECTOR          Respondent(s)
+
+([HEARD BY : HON'BLE S. RAVINDRA BHAT AND HON'BLE DIPANKAR DATTA, JJ. ] IA No.
+2/2009 - STAY APPLICATION) WITH C.A. No. 8026/2022 (XVII-A) (IA FOR STAY APPLICATION
+ON IA 144515/2022 FOR EXEMPTION FROM FILING C/C OF THE IMPUGNED JUDGMENT ON
+IA 144516/2022 IA No. 144516/2022 - EXEMPTION FROM FILING C/C OF THE IMPUGNED
+JUDGMENT IA No. 144515/2022 - STAY APPLICATION) Date : 29-03-2023 These matters were
+called on for hearing today.
+
+For Appellant(s)    Ms. Alka Agrawal, Adv.
+Mr. Mukesh Kumar Maroria, AOR
+
+For Respondent(s)     Mr. S. S. Shroff, AOR
+Mr. V Lakshmikumaran, Adv.
+Ms. Charanya Lakshmikumaran, AOR
+Ms. Apeksha Mehta, Adv.
+Ms. Falguni Gupta, Adv.
+Ms. Neha Choudhary, Adv.
+
+Hon’ble Mr. Justice S. Ravindra Bhat pronounced the reportable judgment of the Bench comprising
+His Lordship and Hon’ble Mr. Justice Dipankar Datta.
+
+The Civil Appeals are dismissed with no order as to costs in terms of the signed reportable
+judgment.
+
+14
+
+Cce, Aurangabad vs M/S Videocon Industries Ltd. Thr. Its ... on 29 March, 2023
+
+Pending application(s), if any, are disposed of.
+
+(HARSHITA UPPAL)                                        (MATHEW ABRAHAM)
+SENIOR PERSONAL ASSISTANT                               COURT MASTER (NSH)
+(Signed reportable judgment is placed on the file)
+
+15

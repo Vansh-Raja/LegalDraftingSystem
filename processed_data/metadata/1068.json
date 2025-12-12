@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No(s). 10128 of 2011",
+  "parties": {
+    "petitioner": "Rajiv Kumar Jindal and others",
+    "respondent": "BCI Staff Colony Residential Welfare Association and others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-27",
+  "summary": "Appeals challenging the High Court's setting aside of an auction for sale of assets of a sick company under the Sick Industrial Companies (Special Provisions) Act, 1985. The auction, conducted by IDBI as Operating Agency, accepted a sole bid but was later invalidated by BIFR due to non-compliance with ASC guidelines, particularly failure to furnish a bank guarantee. AAIFR reversed BIFR's order, but the High Court restored it, citing inadequate payment adherence and bid value below circle rate. Appellants argued auction finality and compliance post-AAIFR order; respondents contended employee dues and need for maximized asset value. Key issues: validity of auction without competitive bidding, enforceability of ASC terms not in initial notice, and locus standi of non-bidding employees to challenge sale.",
+  "legal_provisions_cited": [
+    "Section 20(4), Sick Industrial Companies (Special Provisions) Act, 1985",
+    "Section 21(c), Sick Industrial Companies (Special Provisions) Act, 1985",
+    "Valji Khimji and Company v. Official Liquidator of Hindustan Nitro Product (Gujarat) Limited and Others",
+    "National Highways Authority of India v. Gwalior-Jhansi Expressway Limited",
+    "Navalkha and Sons v. Sri Ramanya Das and Others",
+    "Divya Manufacturing Company (P) Ltd. v. Union Bank of India and Others",
+    "Article 226 of the Constitution of India"
+  ],
+  "final_judgment": "Appeal dismissed. The Supreme Court upheld the High Court's judgment restoring BIFR's order, setting aside the auction. It held that non-compliance with ASC guidelines, especially the failure to provide a bank guarantee and delayed payment, vitiated the sale process. The sale could not be confirmed in favor of the appellants. The property may be sold afresh as per law, with priority to realizing value for outstanding employee dues."
+}

@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 4811 of 2022 (Arising out of SLP (Civil) No. 18854 of 2019)",
+  "parties": {
+    "petitioner": "Ajay Kumar Pandey & Ors.",
+    "respondent": "State of U.P. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-01",
+  "summary": "Challenge to High Court's partial invalidation of a 1999 government order (G.O.) on disability reservations. The G.O. restricted reservation for persons with disabilities in Group D posts to hearing-impaired candidates only, particularly sweepers. The appellants, persons with locomotor disability, argued for entitlement to 3% reservation as per the Persons with Disabilities Act, 1995. The High Court struck down the G.O. for violating equality and reservation laws but upheld appointments made in 2008. The Supreme Court found the High Court misread the G.O., noting it separately reserved posts (like Peon, Daftry) for locomotor-disabled persons and others (sweepers) for hearing-impaired; thus, the G.O. was not ultra vires. The appeal was allowed, and the High Court's order invalidating the G.O. was set aside. No relief granted for 2008 appointments due to prior outsourcing policy banning Class-IV recruitments from 2010.",
+  "legal_provisions_cited": [
+    "Section 32, Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995",
+    "Section 33, Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995",
+    "Section 3, U.P. Public Service (Reservation for Physically Handicapped, Dependents of Freedom Fighters and ex-military officials) (Amendment) Act, 1997",
+    "Article 14, Constitution of India",
+    "Article 16, Constitution of India",
+    "Order XLI Rule 33, Code of Civil Procedure, 1908",
+    "Government of India through Secretary & Anr. v. Ravi Prakash Gupta & Anr."
+  ],
+  "final_judgment": "Appeal allowed. The impugned judgment of the High Court striking down the G.O. dated 7.5.1999 is set aside. The G.O. is upheld as consistent with the law. However, no direction for appointment is issued due to subsequent policy of outsourcing Class-IV posts."
+}

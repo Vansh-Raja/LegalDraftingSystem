@@ -1,0 +1,1096 @@
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle
+57 on 28 February, 2024
+
+Author: Dipankar Datta
+
+Bench: Dipankar Datta
+
+                                                                                         REPORTABLE
+2024 INSC 148
+                                                      IN THE SUPREME COURT OF INDIA
+
+                                                      CIVIL APPELLATE JURISDICTION
+
+                                                       CIVIL APPEAL NO. 7257 OF 2011
+
+                         BHARTI CELLULAR LIMITED
+                         (NOW BHARTI AIRTEL LIMITED)                            .....      APPELLANT
+
+                                                          VERSUS
+
+                         ASSISTANT COMMISSIONER OF INCOME
+                         TAX, CIRCLE 57, KOLKATA AND ANOTHER                    .....   RESPONDENTS
+
+                                                                   WITH
+
+                            CIVIL APPEAL NOS. 2652-2653, 4949-4950 AND 4947-4948 OF 2015;
+                            7455 OF 2018; 111 AND 2860 OF 2021; 8902 OF 2022; 7729, 7735,
+                            7736, 7737, 7738, 7739, 7740, 7741, 7742, 7743, 7679, 7680, 7681,
+                            7682, 7744, 7745, 7746, 7747, 7748, 7848, 7849, 7852, 7853, 7854,
+                            7855, 7856, 7857 AND 7859 OF 2023; AND 3514, 3515, 3516 AND 3517
+                            OF 2024
+
+                                                            JUDGMENT
+
+SANJIV KHANNA, J.
+
+This common judgment decides the aforestated appeals preferred by the Revenue and the assessees,
+who are cellular mobile telephone service providers. The issue relates to the liability to deduct tax at
+source under Section 194-H of the Income Tax Act, 19611 on the amount which, as per the Revenue,
+is a commission 1 “The Act”, for short.
+
+payable to an agent by the assessees under the franchise/ distributorship agreement between the
+assessees and the franchisees/distributors. As per the assessees, neither are they paying a
+commission or brokerage to the franchisees/distributors, nor are the franchisees/distributors their
+agents. The High Courts of Delhi and Calcutta have held that the assessees were liable to deduct tax
+at source under Section 194-H of the Act, whereas the High Courts of Rajasthan, Karnataka and
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+1
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+Bombay have held that Section 194-H of the Act is not attracted to the circumstances under
+consideration.
+
+2. To avoid prolixity and repetition, we are not referring to the facts and arguments in the beginning,
+and will preface our judgment by reproducing Section 194-H of the Act and explaining its contours.
+The relevant portion of Section 194-H reads as under:
+
+“194-H. Commission or brokerage.— Any person, not being an individual or a Hindu
+undivided family, who is responsible for paying, on or after the 1st day of June, 2001,
+to a resident, any income by way of commission (not being insurance commission
+referred to in Section 194-D) or brokerage, shall, at the time of credit of such income
+to the account of the payee or at the time of payment of such income in cash or by the
+issue of a cheque or draft or by any other mode, whichever is earlier, deduct income
+tax thereon at the rate of five per cent:
+
+Provided that no deduction shall be made under this section in a case where the
+amount of such income or, as the case may be, the aggregate of the amounts of such
+income credited or paid or likely to be credited or paid during the financial year to
+the account of, or to, the payee, does not exceed fifteen thousand rupees:
+
+Provided further that an individual or a Hindu undivided family, whose total sales,
+gross receipts or turnover from the business or profession carried on by him exceed
+one crore rupees in case of business or fifty lakh rupees in case of profession during
+the financial year immediately preceding the financial year in which such commission
+or brokerage is credited or paid, shall be liable to deduct income tax under this
+section.
+
+Provided also that no deduction shall be made under this section on any commission
+or brokerage payable by Bharat Sanchar Nigam Limited or Mahanagar Telephone
+Nigam Limited to their public call office franchisees.
+
+xx xx xx"
+
+3. Section 194-H of the Act imposes the obligation to deduct tax at source, states that
+any person responsible for paying at the time of credit or at the time of payment,
+whichever is earlier, to a resident any income by way of commission or brokerage,
+shall deduct income tax at the prescribed rate The expression “any person (...)
+responsible for paying” is a term of art, defined vide Section 2042 of 2 204. Meaning
+of “person responsible for paying”.—For the purposes of the foregoing provisions of
+this chapter and Section 285, the expression “person responsible for paying” means—
+
+(i) in the case of payments of income chargeable under the head “Salaries” other than
+payments by the Central Government or the Government of a State, the employer
+himself or, if the employer is a company, the company itself, including the principal
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+2
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+officer thereof;
+
+(ii) in the case of payments of income chargeable under the head “Interest on securities” other than
+payments made by or on behalf of the Central Government or the Government of a State, the local
+authority, corporation or company, including the principal officer thereof; (ii-a) in the case of any
+sum payable to a non-resident Indian, being any sum representing consideration for the transfer by
+him of any foreign exchange asset, which is not a short-term capital asset, the authorised person
+responsible for remitting such sum to the non-resident Indian or for crediting such sum of his
+Non-resident (External) Account maintained in accordance with the Foreign Exchange Management
+Act, 1999 (42 of 1999)], and any rules made thereunder; (ii-b) in the case of furnishing of
+information relating to payment to a non-resident, not being a company, or to a foreign company, of
+any sum, whether or not chargeable under the provisions of this Act, the payer himself, or, if the
+payer is a company, the company itself including the principal officer thereof;
+
+(iii) in the case of credit or, as the case may be, payment of any other sum chargeable under the
+provisions of this Act, the payer himself, or, if the payer is a company, the company itself including
+the principal officer thereof.
+
+(iv) in the case of credit, or as the case may be, payment of any sum chargeable under the provisions
+of this Act made by or on behalf of the Central Government or the Government of a State, the
+drawing the Act. As per the clause (iii) of Section 204, in the case of credit or in the case of payment
+in cases not covered by clauses (i), (ii),
+
+(ii)(a), (ii)(b), “the person responsible for paying” is the payer himself, or if the payer is a company,
+the company itself and the principal officer thereof.
+
+4. Explanation (i) to Section 194-H3 of the Act defines the expressions ‘commission’ or ‘brokerage’,
+as:
+
+“Explanation. — For the purposes of this section, —
+
+(i) “commission or brokerage” includes any payment received or receivable, directly
+or indirectly, by a person acting on behalf of another person for services rendered
+(not being professional services) or for any services in the course of buying or selling
+of goods or in relation to any transaction relating to any asset, valuable article or
+thing, not being securities;” and disbursing officer or any other person, by whatever
+name called, responsible for crediting, or as the case may be, paying such sum.
+
+(v) in the case of a person not resident in India, the person himself or any person
+authorised by such person or the agent of such person in India including any person
+treated as an agent under Section
+
+163.] Explanation. —For the purposes of this section, —
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+3
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+(a) “non-resident Indian” and “foreign exchange asset” shall have the meanings
+assigned to them in Chapter XII-A;
+
+(b) “authorised person” shall have the meaning assigned to it in clause (c) of Section 2 of the Foreign
+Exchange Management Act, 1999 (42 of 1999).
+
+3 Sub-section 1 to Section 194-H of the Act can be interpreted as requiring deduction of tax at source
+on commission and brokerage, even when the principal and agent relationship does not exist
+between the parties. Explanation (i) to Section 194-H of the Act can be read as expanding and
+widening the scope of the provision of sub-section (1) to include in the ambit of brokerage and
+commission, payments made by the principal to the agent, when covered under the four corners of
+the said explanation. We would not like to pronounce on this aspect as it has not been argued by the
+Revenue, and it appears that the requirement of relationship of principal and agent has been read
+into the main section. Further, applying common or commercial parlance meaning to the terms
+‘brokerage’ or ‘commission’, given the wide divergence in which it is understood, would lead to
+confusion and has pitfalls. Deduction of Tax provisions should be pragmatically and realistically
+construed, and not as enmeshes or by adopting catch-as-catch-can approach. When doubts exist, the
+Central Board of Direct Taxes may examine this question and may issue appropriate
+instructions/circular after ascertaining the views of assessees and other stakeholders. The decision
+should be clear, and we trust and hope that an obligation, if imposed, will be prospective. (See
+paragraph 34 of the judgment.) Payment is received when it is actually received or paid. The
+payment is receivable when the amount is actually credited in the books of the payer to the account
+of the payee, though the actual payment may take place in future. The payment received or
+receivable should be to a person acting on behalf of another person. The words “another person”
+refers to “the person responsible for paying”. The words “direct” or “indirect” in Explanation (i) to
+Section 194-H of the Act are with reference to the act of payment. Without doubt, the legislative
+intent to include “indirect” payment ensures that the net cast by the section is plugged and not
+avoided or escaped, albeit it does not dilute the requirement that the payment must be on behalf
+“the person responsible for paying”. This means that the payment/credit in the account should arise
+from the obligation of “the person responsible for paying”. The payee should be the person who has
+the right to receive the payment from “the person responsible for paying”. When this condition is
+satisfied, it does not matter if the payment is made “indirectly”.4 4 We are unable to visualize
+‘indirect’ credit in the books of the payer to the account of the payee. Credit entry is required even in
+cases of set-off. Nevertheless, this judgment should not be read as laying down that ‘indirect’ credit
+in the books shall not require deduction of tax under Section 194-H of the Act.
+
+5. The services rendered by the agent to the principal, according to the latter portion of Explanation
+(i) to Section 194-H of the Act, should not be in the nature of professional services. Further,
+Explanation (i) to Section 194-H of the Act restricts application of Section 194-H of the Act to the
+services rendered by the agent to the principal in the course of buying and selling of goods, or in
+relation to any transaction relating to any asset, valuable article, or thing, not being securities. The
+latter portion of the Explanation (i) to Section 194-H of the Act is a requirement and a
+pre-condition. It should not be read as diminishing or derogating the requirement of the principal
+and agent relationship between the payer and the recipient/payee.
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+4
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+6. It is settled by a series of judgments of this Court that the expression ‘acting on behalf of another
+person’ postulates the existence of a legal relationship of principal and agent, between the payer and
+the recipient/payee.5 The law of agency is technical. Whether in law the relationship between the
+parties is that of principal-agent is answered by applying Section 182 of the Contract Act, 18726.
+Therefore, the obligation to deduct tax at source in terms of Section 194-H of the Act arises when the
+legal relationship of 5 Singapore Airlines Ltd. and Another v. Commissioner of Income Tax, (2023) 1
+SCC 497, ¶¶ 23-29. 6 “Contract Act”, for short.
+
+principal-agent is established. It is necessary to clarify this position, as in day to day life, the
+expression ‘agency’ is used to include a vast number of relationships, which are strictly, not
+relationships between a principal and agent.
+
+7. Section 182 of the Contract Act, defines the words ‘agent’ and ‘principal’ and reads as under:
+
+“182. “Agent” and “principal” defined.— An “agent” is a person employed to do any
+act for another, or to represent another in dealings with third persons. The person for
+whom such act is done, or who is so represented, is called the “principal”.” Agency in
+terms of Section 182 exists when the principal employs another person, who is not his
+employee, to act or represent him in dealings with a third person. An agent renders
+services to the principal. The agent does what has been entrusted to him by the
+principal to do. It is the principal he represents before third parties, and not himself.
+As the transaction by the agent is on behalf of the principal whom the agent
+represents, the contract is between the principal and the third party. Accordingly the
+agent, except in some circumstances, is not liable to the third party.
+
+8. Agency is therefore a triangular relationship between the principal, agent and the third party. In
+order to understand this relationship, one has to examine the inter se relationship between the
+principal and the third party and the agent and the third party. When we examine whether a legal
+relationship of a principal and agent exists, the following factors/aspects should be taken into
+consideration:
+
+(a) The essential characteristic of an agent is the legal power vested with the agent to
+alter his principal’s legal relationship with a third party and the principal’s co-relative
+liability to have his relations altered.7
+
+(b) As the agent acts on behalf of the principal, one of the prime elements of the
+relationship is the exercise of a degree of control by the principal over the conduct of
+the activities of the agent. This degree of control is less than the control exercised by
+the master on the servant, and is different from the rights and obligations in case of
+principal to principal and independent contractor relationship.
+
+(c) The task entrusted by the principal to the agent should result in a fiduciary
+relationship. The fiduciary relationship is the manifestation of consent by one person
+to another to act on his or her behalf and subject to his or her control, and the
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+5
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+reciprocal consent by the other to do so.8
+
+(d) As the business done by the agent is on the principal’s account, the agent is liable
+to render accounts thereof to the 7 F.E. Dowrick, The Relationship of Principal and
+Agent, 17 MLR 24, 37 (1954).
+
+8 RESTATEMENT (THIRD) OF AGENCY (AMERICAN LAW INSTITUTE
+PUBLISHERS 2007).
+
+principal. An agent is entitled to remuneration from the principal for the work he performs for the
+principal.
+
+9. At this stage, three other relevant aspects/considerations should be noted. First is the difference
+between ‘power’ and ‘authority’. The two terms though connected, are not synonymous. Authority
+refers to a factual position, that is, the terms of contract between the two parties. The power of the
+agent however, is not, strictly speaking, conferred by the contract or by the principal but by the law
+of agency. When a person gives authority to another person to do the acts which bring the law of
+agency into play, then, the law vests power with the agent to affect the principal’s legal relationship
+with the third parties. The extent and existence of the power with the agent is determined by public
+policy. The authority, as observed above, refers to the factual situation. The second consideration is
+that the primary task of an agent is to enter into contracts on behalf of his principal, or to dispose of
+his principal’s property. The factors mentioned in clauses (b) to (d) in paragraph 8 above flow, and
+are indicia of this primary task. Clauses (b) to (d) of paragraph 8 are useful as tests or standards to
+examine the true nature or character of the relationship. Lastly, the substance of the relationship
+between the parties, notwithstanding the nomenclature given by the parties to the relationship, is of
+primary importance. The true nature of the relationship is examined by reference to the functions,
+responsibility and obligations of the so-called agent to the principal and to the third parties.
+
+10. An agent is distinct from a servant, in that an agent is subject to less control than a servant, and
+has complete, or almost complete discretion as to how to perform an undertaking. As Seavey said, ‘‘a
+servant (...) is an agent under more complete control than is a non- servant’’.9 The difference is “in
+the degree of control rather than in the acts performed. The servant sells primarily his services
+measured by time; the agent his ability to produce results.”10 This distinction can be criticised, for
+servants may have very wide discretion, and may not really be subject to control at all in practice,
+while agents may have their power to act circumscribed by detailed instructions.11
+
+11. This Court in Bhopal Sugar Industries Limited v. Sales Tax Officer, Bhopal12, has expounded the
+difference between principal-agent and principal-principal relationship, in the following words:-
+
+“5. … the essence of the matter is that in a contract of sale, title to the property passes
+on to the buyer on delivery of the 9 Warren A. Seavey, The Rationale of Agency, 29
+YALE L.J. 859, 866 (1920). 10 Ibid.
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+6
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+11 G.H.L. FRIDMAN, THE LAW OF AGENCY 33 (Butterworths, 7 ed. 1996). 12 (1977)
+3 SCC 147.
+
+goods for a price paid or promised. Once this happens the buyer becomes the owner of the property
+and the seller has no vestige of title left in the property. The concept of a sale has, however,
+undergone a revolutionary change, having regard to the complexities of the modern times and the
+expanding needs of the society, which has made a departure from the doctrine of laissez faire by
+including a transaction within the fold of a sale even though the seller may by virtue of an agreement
+impose a number of restrictions on the buyer, e.g. fixation of price, submission of accounts, selling
+in a particular area or territory and so on. These restrictions per se would not convert a contract of
+sale into one of agency, because in spite of these restrictions the transaction would still be a sale and
+subject to all the incidents of a sale. A contract of agency, however, differs essentially from a contract
+of sale inasmuch as an agent after taking delivery of the property does not sell it as his own property
+but sells the same as the property of the principal and under his instructions and directions.
+Furthermore, since the agent is not the owner of the goods, if any loss is suffered by the agent he is
+to be indemnified by the principal. This is yet another dominant factor which distinguishes an agent
+from a buyer—pure and simple. In Halsbury's Laws of England, Vol. 1, 4th Edn., in para 807 at p.
+485, the following observations are made:
+
+“807. Rights of agent. —The relation of principal and agent raises by implication a
+contract on the part of the principal to reimburse the agent in respect of all expenses,
+and to indemnify him against all liabilities, incurred in the reasonable performance of
+the agency, provided that such implication is not excluded by the express terms of the
+contract between them, and provided that such expenses and liabilities are in fact
+occasioned by his employment.”
+
+12. The aforesaid judgment in the context of distinction between a contract of sale
+and contract of agency observes that the agent is authorised to sell or buy on behalf of
+the principal, whereas the essence of contract of sale is the transfer of title of goods
+for the price paid or promised to be paid. In case of an agency to sell, the agent who
+sells them to the third parties, sells them not as his own property, but as a property of
+the principal, who continues to be the owner of the goods till the sale. The transferee
+is the debtor and liable to account for the price to be paid to the principal, and not to
+the agent for the proceeds of the sale. An agent is entitled to his fee or commission
+from the principal.
+
+13. This distinction and test was referred to by this Court in Commissioner of Income
+Tax, Ahmedabad and Others v.
+
+Ahmedabad Stamp Vendors Association13, which is a case relating to Section 194-H of the Act. This
+Court had approved the decision of the High Court in Ahmedabad Stamp Vendors Association v.
+Union of India14. We may also refer to two more decisions of this Court. In the case of Director,
+Prasar Bharati v. Commissioner of Income Tax, Thiruvananthapuram15, this Court has observed
+that the explanation appended to Section 194- H of the Act defining the expression ‘commission or
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+7
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+brokerage’ is an inclusive definition giving wide meaning to the expression ‘commission’. The
+second decision is in the case of Singapore Airlines Limited v. Commissioner of Income Tax,
+Delhi16, which we shall refer to subsequently in some detail as to its exact purport 13 (2014) 16 SCC
+114.
+
+14 (2002) 257 ITR 202 (Guj.).
+
+15 (2018) 7 SCC 800.
+
+16 (2023) 1 SCC 497.
+
+and ratio. However, at this stage, we would like to examine in some detail commercial relationships
+in the nature of an independent contractor, that are legally, principal to principal dealings.
+
+14. The passage from Bhopal Sugar Industries Limited (supra) highlights the principles and the
+complexities involved in determining the correct nature of the legal relationship between a principal
+and an agent. Law permits individuals to enter into complex contracts incorporating multiple rights
+and obligations. The relationships between contacting parties have become multi-dimensional,
+which may not strictly fall within an employer-employee, principal-agent or principal-principal
+relationship. A singular contract may create different legal relationships and obligations.
+Independent contractors on occasion act for themselves, and at other times may be creating legal
+relations between their employers and third persons. For example, a solicitor may start by giving
+advice (independent contractor), and then as a consequence make a contract for his employer with
+another person (agent).
+
+15. In Labreche v. Harasymiw17, Valin J. delineated the question of what an agency involves, stating
+that: (i) it refers to the power of the 17 (1992) 89 DLR (4th) 95 at 107.
+
+agent to affect the principal’s position. However, this is not the sole test, though it still remains one
+of the main criteria in determining whether someone is an agent. There are several features in the
+definition of an agent18. There can be several situations where one person represents or acts for
+another, but this does not create the relationship of principal and agent. It is only when the
+representation or action on another’s behalf affects the latter’s legal position, that is to say his rights
+against, or his liability towards, other people, that the law of agency applies; (ii) the second feature is
+the importance of the way in which law regards the relationship which is created. The effect of the
+law is that it regulates the way in which parties conduct themselves. The conduct of the parties is
+considered in terms of law, regardless of the language or nomenclature used by the parties. The true
+factual position must be investigated to determine whether a relationship of agency has come into
+existence between a set of parties or individuals.
+
+16. The significant observation in the aforesaid judgment is that all kinds of interactions with third
+parties or interested parties, resulting from the introduction of the third parties with one who
+wishes a particular undertaking to be performed, may not be a result of an agency. For instance, a
+retail dealer or supplier of goods, obtains 18 See ¶8 of the judgment.
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+8
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+goods from a wholesale supplier or a manufacturer for subsequent resale to retail customers or
+suppliers who, in turn, deals with retail dealers or shopkeepers. Such ‘middlemen’ are sometimes
+referred to as ‘agents’, when in fact they are franchisees of the manufacturer or supplier, or are
+distributors of the manufactures’ goods, perhaps with a ‘sole agency’ or special dealership for his
+goods. Such ‘agents’ can be real buyers, acting as principals on their own behalf. Consequently, they
+are not liable to the manufacturer or supplier in the way an agent might be for failure of duty, nor do
+their contracts with other parties – whether it be suppliers, retail dealers or individual customers –
+hold the party who sold to them, liable, for any breach including misrepresentation or sale of
+defective goods. The seller’s contractual or tortious liability is different from the manufacturer’s
+liability on account of warranty/guarantee, statutory liability or even obligation to a third party who
+purchases the goods or avails services from/through the independent contractor. An agent renders
+service to the principal, who he/she represents, and therefore the principal, and not the agent, is
+liable to the third parties. Further, the money received by an independent contractor from his
+customers will belong to the independent contractor and not to the party who sold to him. The
+money will be a part of such independent contractor’s property in the event of his bankruptcy or
+liquidation. This may be the case even if the contract of sale is one of ‘sale or return’. It is important
+to avoid confusion, by applying the legal tests, that may arise where the functions of the ‘buyer’ –
+described as an ‘agent’ – is really as that of a ‘middleman’, and the necessary elements for creation
+of principal and an agent relationship are absent. Two level commercial transaction can result in an
+tripartite arrangement/agreement with respective rights and obligations, without any of the two
+parties having principal-agent relationship.
+
+17. Clause (d) in paragraph 8 observes that the agent is liable to render accounts to the principal as
+the business done by the agent is on principal’s account. The agent is entitled to remuneration from
+the principal for the work he performs. To decide whether a contracting party acts for himself as an
+independent contractor, we may examine whether in the course of work, he intends to make profits
+for himself, or is entitled to receive prearranged remuneration. If the party is concerned about
+acting for himself and making the maximum profits possible, he is usually regarded as a buyer, or an
+independent contractor and not as an agent of the principal. This would be true even when certain
+terms and conditions have been fixed relating to the manner in which the seller conducts his
+business. We shall subsequently further elucidate on the characteristics of an independent
+contractor, and differentiate them from the principal-agent relationship.
+
+18. We now turn to the facts of the present case. The assessees, as noticed above, are cellular mobile
+telephone service providers in different circles as per the licence granted to them under Section 4 of
+the Indian Telegraph Act, 188519 by the Department of Telecommunications20, Government of
+India. To carry on business, the assessees have to comply with the licence conditions and the rules
+and regulations of the DoT and the Telecom Regulatory Authority of India.21 Cellular mobile
+telephone service providers have wide latitude to select the business model they wish to adopt in
+their dealings with third parties, subject to statutory compliances being made by the operators. As
+per the business model adopted by the telecom companies, the users can avail post-paid and prepaid
+connections. In the present case, we are only concerned with the business operations under the
+prepaid model.
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+9
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+19. Under the prepaid business model, the end-users or customers are required to pay for services in
+advance, which can be done by purchasing recharge vouchers or top-up cards from the retailers. 19
+The ‘1885 Act’, for short.
+
+20 ‘DoT’, for short.
+
+21 ‘TRAI’, for short.
+
+For a new prepaid connection, the customers or end-users purchase a kit, called a start-up pack,
+which contains a Subscriber Identification Mobile card22, commonly known as SIM card, and a
+coupon of the specified value as advance payment to avail the telecom services.
+
+20. The assessees have entered into franchise or distribution agreements with several parties, the
+terms and conditions of which we would refer to subsequently. It is the case of the assessees that
+they sell the start-up kits and recharge vouchers of the specified value at a discounted price to the
+franchisee/distributors. The discounts are given on the printed price of the packs. This discount, as
+per the assessees, is not a ‘commission or brokerage’ under Explanation (i) to Section 194-H of the
+Act. The Revenue, on the other hand, submits that the difference between ‘discounted price’ and
+‘sale price’ in the hands of the franchisee/distributors being in the nature of ‘commission or
+brokerage’ is the income of the franchisee/ distributors, the relationship between the assessees and
+the franchisee/distributor is in the nature of principal and agent, and therefore, the assesses are
+liable to deduct tax at source under Section 194-H of the Act.
+
+22 ‘SIM card’, for short.
+
+21. In order to decide the dispute in question, we would like to refer to some of the relevant clauses
+o f   t h e   f r a n c h i s e e / d i s t r i b u t o r   a g r e e m e n t   b e t w e e n   B h a r t i   A i r t e l   L i m i t e d   a n d   t h e
+franchisee/distributors, which read as under23:
+
+Bharti Airtel Limited “WHEREAS THE FRANCHISEE has approached BML and
+have expressed their keen desire to be one of the FRANCHISEE’s to undertake the
+job of promoting and marketing of Pre Paid and also other related services all under
+the brand name of “MAGIC” to the potential subscribers, under the terms of this
+Agreement. The FRANCHISEE has also represented that they have infrastructure,
+manpower and experience in the above area and they possess the financial to perform
+the above functions and such other functions as may be assigned to them by BML
+from time to time.
+
+xx xx xx A. It is expressly understood that the Agreement does not confer any
+exclusive right to the FRANCHISEE to market the Services nor does the Agreement
+gives any territorial right to the FRANCHISEE. The BML expressly reserves its right
+to enter into similar arrangements with other party(ies) to market and promote the
+Services and to market the Services directly to the customers if considered
+appropriate in terms of business exigency and market requirements.
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+10
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+xx xx xx 2.1 Subject to the terms and conditions of this Agreement, BML hereby
+appoints Central Supply Corporation, as its FRANCHISEE to promote and market
+the Pre Paid Services of BML and more particularly in terms of the policies of BML as
+shall be informed by BML from time to time and the FRANCHISEE hereby accepts
+the appointment as the FRANCHISEE of BML.
+
+23 Agreements in the case of assessees Vodafone Idea Limited (formerly known as
+Vodafone Mobile Services Limited) and Idea Cellular Limited (now known as
+Vodafone Idea Limited) are somewhat different. To avoid repetition or prolixity, we
+are not reproducing the said clauses.
+
+xx xx xx 2.3 The parties recognize that it is commercially prudent and desirable for
+the FRANCHISEE in the performance of the obligations under this Agreement to
+appointment (sic) Retailers/outlets for the retail promotion and marketing of Pre
+Paid services. In such an event the FRANCHISEE shall obtain the prior approval of
+BML for appointment(s) of Retailers/outlets, and also to the terms and conditions of
+such appointment.
+
+2.4 The FRANCHISEE acknowledges that the business of cellular mobile services is
+extremely competitive and exists in an ever expanding market. The FRANCHISEE
+agrees and acknowledges that during the term of this Agreement it shall not
+undertake the activities under this Agreement for any other provider of Cellular
+Mobile Telephone Services or any similar competitive business.
+
+xx xx xx 3.1 The FRANCHISEE warrants and represents that:
+
+(a) It has all necessary statutory, regulatory and municipal permissions, approvals
+and permits for the running and operation of its establishment and for the conduct of
+its business, more particularly for the business as provided for in this Agreement.
+
+(b) It is in compliance of all laws, regulars and rules in the conduct of its business and
+the running of its business establishment.
+
+3.2 The FRANCHISEE shall indemnify and keep indemnified BML from and against all and any
+costs, expenses and charges imposed on BML as a result of any action by a statutory, regulatory or
+municipal authority arising out of non-compliance by the FRANCHISEE of laws, rules or
+regulations in the running, operation and conduct of its business and business establishment, more
+particularly with respect to the conduct of its business provided for in this Agreement.
+
+xx xx xx 4.1 The FRANCHISEE shall maintain a suitable establishment for the conduct of its
+business and the performance of its obligations under this Agreement. The FRANCHISEE shall use
+its best efforts to actively provide effective ways to market and promote the Pre Paid Services and
+shall always act in the interest of both BML and the subscribers to the Services of BML.
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+11
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+4.2 As covenanted for in clause 2.4, the FRANCHISEE shall not involve himself in any manner
+either directly or indirectly in any business or activity which is competitive with the business of
+activities of BML. The FRANCHISEE acknowledges that the adherence to this provision is a
+material obligation of the FRANCHISEE under this Agreement.
+
+xx xx xx 4.4 The FRANCHISEE shall, in the conduct of its business and performing its obligations
+under this Agreement, conform and adhere to the policies of BML communicated to the
+FRANCHISEE from time to time. The FRANCHISEE shall not charge the customers of BML for the
+services anything more than the rates specified by the BML from time to time. 4.5 The
+FRANCHISEE shall employ adequate employees for performing its obligations under this
+Agreement and in the promoting and marketing of the Pre Paid Services. All contractual and
+statutory payments, including wages and salaries to the employees of the FRANCHISEE, shall be the
+sole liability and responsibility of the FRANCHISEE.
+
+4.6 The FRANCHISEE in respect of its business establishment shall, if so desired by BML, in order
+to effectively project the Franchisee, make alterations, modifications in and install such furniture,
+fixture and air conditioning equipment, fax, computer, with internet connection as required
+necessary and mutually agreed upon and the cost of such alterations, renovation shall be borne
+exclusively by the FRANCHISEE.
+
+4.7 The FRANCHISEE agrees and undertakes to maintain proper and sufficient quantities of the
+prepaid start up packs and recharge coupons in respect of the Pre Paid service in order to meet the
+market requirements at all times and in accordance with the guidelines and instructions issued by
+BML from time to time.
+
+4.8 The FRANCHISEE shall use its best efforts and endeavours to market and promote the Pre Paid
+Services to meet the growing demands of the Subscribers. At no point of time shall any right, title or
+interest pass to the FRANCHISEE in respect of the Pre-Paid Cards for the Pre Paid Services given to
+the subscribers for connection to the Service and all right, title, ownership and property rights in
+such cards shall at all times vest with BML.
+
+4.9 The FRANCHISEE shall seek prior written approval from BML for its promotional literature
+campaign (including promotional material which bears the Trademarks, logos and trade names of
+BML) for the Pre Paid Services. BML will not share the expenditure incurred by the FRANCHISEE
+for such advertising and publicity of the Services unless agreed to earlier in writing. Any share of the
+expenditure stated above and the ratio for the same shall be decided by BML from time to time at its
+sole discretion.
+
+4.10 The FRANCHISEE shall be solely liable and responsible, at its business premises, for the safety
+and storage of all pre paid start up kits, recharge cards and other material in respect of the Pre Paid
+Services. BML shall not be liable for any loss, pilferage or damage to the items as stated here above
+and the FRANCHISEE shall indemnify BML from all loss caused to BML arising out of any loss,
+pilferage or damage to the items as stated here above.
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+12
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+xx xx xx 4.12 The liability to insure and keep insured the items as stated in Clause 4.10 at the
+business establishment of the FRANCHISEE shall be of the FRANCHISEE and the liability for any
+loss or damage due to any fire, burglary, theft, etc. will be that of the FRANCHISEE.
+
+x x   x x   x x   4 . 1 4   T h e   F R A N C H I S E E   s h a l l   b e   r e s p o n s i b l e   f o r   c o l l e c t i o n   o f   a l l   n e c e s s a r y
+agreement/contract forms and other related forms, and for obtaining the signature of the customer
+on these forms. The FRANCHISEE shall forward all such forms, duly completed in all respects and
+signed by customers to BML for its verification and records.
+
+xx xx xx 5.1 From time to time, BML will review with the FRANCHISEE minimum subscription,
+targets for the Pre Paid Services, taking into account the market development and market potential
+and other relevant factors. The achievements of these prescribed targets by the FRANCHISEE is a
+material obligation of the FRANCHISEE under this Agreement.
+
+xx xx xx 6.2 The FRANCISEE shall employ a fully trained service staff whose training has been
+completed in accordance with the standards set out by BML.
+
+xx xx xx 8.1 The FRANCHISEE’s price and payment for services will be specified by BML from time
+to time. The rates are subject to variation during the terms of this Agreement at the sole discretion
+of BML and shall be intimated to the Distributor from time to time.
+
+xx xx xx 8.3 All other tax liabilities arising in connection with or out of the agreement transactions
+pertaining to the FRANCHISEE shall be the responsibility of the FRANCHISEE.
+
+xx xx xx 10.1 The FRANCHISEE accepts for all purposes that all trademarks, logos, trade names or
+identifying marks and slogans used by BML in respect of the Service and the Pre Paid Services,
+whether registered or not, constitute the exclusive property of BML or their affiliated companies as
+the case may be, and cannot be used by the FRNCHISEE except in connection with the promotion
+and marketing of the Services of BML and that too with the express written consent of BML. The
+FRANCHISEE shall not contest, at any time, the right of the BML or its affiliated companies to any
+such Trademark or trade name used or claimed by BML or such affiliated companies in respect of
+the Service or Pre Paid Services.
+
+xx xx xx 11.2 During the term of this Agreement, the FRANCHISEE is authorised to use BML’s
+trademarks, logos and trade names only in connection with the FRANCHISEE’s use of such
+trademarks, logos and trade names as set out in this Agreement. The FRANCHISEE’s use of such
+trademarks, logos and trade names shall be in accordance with the guidelines issued by BML.
+Nothing herein shall give the FRANCHISEE any right, title or interest in such trademarks, logos or
+trade names, in the event of termination of this Agreement, however caused, the FRANCHISEE’S
+right to use such Trademarks, logos or trade names shall cease forthwith. The FRANCHISEE agrees
+not to attach any additional trademarks, logos or trade designation to the Trademarks of BML.
+
+11.3 For as long as this Agreement continues in force but not thereafter, the FRANCHISEE may
+identify itself as an authorised FRANCHISEE of BML, but shall not use the Trademarks, logos and
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+13
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+trade names of BML as part of its proprietorship name/corporate/partnership name or otherwise
+indicate to the public that it is an affiliate of BML.
+
+xx xx xx 11.5 BML shall allow the FRANCHISEE to use its logo to be displayed on the sign board to
+be placed at the FRANCHISEE’s outlet(s) and on the each memos and/or official business
+documents issued by the FRANCHISEE towards the services effected from the outlet(s). However,
+the intellectual property rights associated with Trademarks, logos and trade names are and shall
+remain the sole property of BML.
+
+xx xx xx 14.1 BML shall not be liable to the FRANCHISEE or any other party by virtue of the
+termination of this Agreement for any reason whatsoever, including but not limited to any claim for
+loss of profits or compensation or prospective profits or on account of any expenditure, investments,
+leases, capital improvements or any other commitments made by the FRANCHISEE in connection
+with the business made in reliance upon or by virtue of FRANCHISEE’s appointment under this
+Agreement. It is expressly agreed that no compensation whatsoever shall be payable by BML to the
+FRANCHISEE upon the termination of this Agreement. 14.2 Upon receipt of any notice of
+termination of this Agreement the FRANCHISEE shall conduct all its operations until the effective
+date of termination mentioned in such notice in the manner which is consistent with the obligation
+of the FRANCHISEE hereunder and the FRANCHISEE shall not prejudice the reputation or
+goodwill of BML and the interests of the subscribers in any manner whatsoever. 14.3 Upon
+termination of this Agreement for any reason, the FRANCHISEE shall cease to represent himself as
+the authorised FRANCHISEE of BML and shall not act in a manner, which is likely to cause
+confusion or to deceive the public. The FRANCHISEE shall promptly remove all Trademarks, signs,
+words, trademarks (sic), logos and any other representations connected with BML. In the event the
+FRANCHISEE fails to comply with the above, BML shall have the right to enter upon the
+FRANCHISEE’s premises and remove, without liability, all Trademarks, signs, logos, trademarks
+(sic), materials written documents and any other representations connected with BML and the
+FRANCHISEE shall reimburse to BML all costs and expenses incurred thereof.
+
+14.4 In the event of termination of this Agreement, FRANCHISEE shall return to BML by the
+effective date of termination all advertising and promotional materials, marketing aids and other
+documents and materials received and all Confidential Information received under this Agreement.
+
+14.5 Both parties agree that goodwill created with respect to Service and Pre Paid Services is the
+exclusive property of BML. Any expenditure for promotion, advertising and other efforts by
+FRANCHISEE is made with the knowledge that this Agreement may be terminated pursuant to
+Article 13 hereof. Under no circumstance shall BML be obliged to pay to the FRANCHISEE upon
+termination of this Agreement any termination pay or compensation for subscriber acquisition,
+special indemnification, or any other termination compensation.
+
+xx xx xx 16.1 The FRANCHISEE understands that it is an independently owned business entity and
+this Agreement does not make the FRANCHISEE, its employees, associates or agents as employees,
+agents or legal representatives of BML for any purpose whatsoever. The FRANCHISEE has no
+express or implied right or authority to assume or to undertake any obligation in respect of or on
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+14
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+behalf of or in the name of BML, or to bind BML in any manner. In case, the FRANCHISEE, its
+employees, associates or agents hold out as employees, agents, or legal representatives of BML, the
+FRANCHISEE shall forthwith upon demand make good any/all loss, cost, damages, including
+consequential loss, suffered by BML on this account.
+
+16.2 It is understood that the relationship between the parties is solely on principal-to-principal.
+FRANCHISEE shall not acquire, by virtue of any provision of this Agreement or otherwise, any
+right, power or capacity to act as an agent or commercial representative of BML for any purpose
+whatsoever. Nothing contained in the contract shall be deemed or construed as creating a joint
+venture relationship or legal partnership etc. between BML and the FRANCHISEE.
+
+16.3 The FRANCHISEE shall not obtain/offer the pre paid cards and/or recharge coupons for the
+Pre Paid Service from any other source other than BML unless such permission is granted in writing
+by BML in order to meet the specific needs of the market and subscribers as determined by BML.
+
+xx xx Xx”
+
+22. As per the agreement, the franchisee/distributor is appointed for marketing of prepaid services
+and for appointing the retailer or outlets for sale promotion. It is pertinent to note that the retailers
+or outlets for sale promotion are appointed by the franchisee/ distributor and not the assessee. The
+franchisees/distributors have agreed not to undertake activities mentioned in the agreement for any
+o t h e r   c o m p e t i t i v e   c e l l u l a r   m o b i l e   t e l e p h o n e   s e r v i c e   p r o v i d e r   i n   t h e   b u s i n e s s .   T h e
+franchisees/distributors have to comply with statutory, regulatory and municipal permissions while
+conducting the business. The franchisees/distributors have agreed to indemnify and keep
+indemnified the assessee against any and all costs, expenses and charges imposed on the assessee
+because of any action by a statutory, regulatory or municipal authority due to non-compliance by the
+franchisee/distributor. The franchisee/ distributor has to maintain a suitable establishment for the
+conduct of business and performance of obligations. While doing so, the franchisee/distributor shall
+conform and adhere to the policies communicated to it from time to time by the assessee. The
+franchisee/distributor shall employ adequate employees for performing its obligations, and all
+contractual and statutory payments, including wages, are to be paid by the franchisee/distributor.
+The assessee can, if it so desires, call upon the franchisee/distributor to make alterations,
+modifications in furniture, air conditioning equipment etc., as required and necessary and mutually
+agreed. Costs of such alternations and distributions are to be borne by the franchisee/distributor.
+
+23. The franchisee/distributor has to maintain proper and sufficient quantities of prepaid start-up
+packs and recharge coupons to meet the market requirements. The franchisee/distributor shall
+follow the guidelines and directions issued by the assessee from time to time. At no point of time,
+the right, title, or interest in the prepaid cards shall pass on to the franchisee/distributor. All rights,
+t i t l e   o w n e r s h i p   a n d   p r o p e r t y   r i g h t s   i n   t h e   c a r d s   s h a l l   r e s t   w i t h   t h e   a s s e s s e e .   T h e
+franchisee/distributor shall be solely responsible and liable for safety and storage of prepaid
+start-up kits, recharge cards and other material. The assessee will not be liable for any loss, pilferage
+or damage to the pre-paid coupons/starter-kits. The franchisee/ distributor is to indemnify the
+assessee for any loss caused on this account. The franchisee/distributor is to insure the prepaid
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+15
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+start-up kits/ recharge coupons. The liability for any loss or damage due to fire, burglary, theft etc. is
+that of the franchisee/distributor.
+
+24. On termination of the agreement, the franchisee/distributor shall continue its operation till the
+effective date of termination mentioned in the notice. Upon termination, the franchisee/distributor
+is required to return all advertising and promotional material, etc. to the assessee by the effective
+date of termination. Further, the assessee is not liable to the franchisee/distributor or any other
+party for any loss of profits or compensation or prospective profits or on account of any expenditure,
+etc. in the event of termination.
+
+25. The assessee is to review the minimum subscriptions/targets for prepaid services taking into
+account market development and potential and other relevant factors. The franchisee/distributor is
+to employ a fully trained service staff, who have undergone training in accordance to the standards
+set out by the assessee. The franchisee/distributor will be responsible to collect all necessary
+agreement/contract forms and other related forms, after obtaining signatures of the customers on
+the said forms. These forms, duly completed in all respects and signed by the customers, will be
+forwarded to the assessee for its verification and record.
+
+26. The franchisee’s/distributor’s price and payment for services will be specified by the assessee
+from time to time. The rates can be varied during the terms of the agreement at the discretion of the
+assessee and such variation is to be intimated to the franchisee/distributor. All tax liabilities in
+connection with, or arising out of, the transactions pertaining to the agreement shall be the
+responsibility of the franchisee/distributor.
+
+27. The trademarks, logos, trade names or identifying marks and slogans used by the assessee,
+whether registered or not, are exclusive property of the assessee or the affiliated companies. The use
+of such marks, logos etc. will be in accordance with the guidelines issued by the assessee. As long as
+the agreement is in force, but not thereafter, the franchisee/distributor shall identify itself as an
+authorised franchisee, but shall not use trademarks, logos, tradenames, as part of its proprietorship
+name/corporate/ partnership name or otherwise. The franchisee/distributor is entitled to use its
+logo on the side door at its outlets and on its memos and official business documents towards the
+services effected from the outlet.
+
+28. On the question of actual business financial model adopted and followed, it is an admitted
+position that the franchisees/distributors were required to pay in advance the price of the welcome
+kit containing the SIM card, recharge vouchers, top-up cards, e-tops, etc. The abovementioned price
+was a discounted one. Such discounts were given on the price printed on the pack of the prepaid
+service products. The franchisee/distributor paid the discounted price regardless of, and even
+before, the prepaid products being sold and transferred to the retailers or the actual consumer. The
+franchisee/distributor was free to sell the prepaid products at any price below the price printed on
+the pack. The franchisee/distributor determined his profits/income.
+
+29. The Revenue has highlighted that the prepaid SIM cards were not the property of
+franchisee/distribution and no right, title or interest was transferred to them. These were always to
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+16
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+remain the property of the assessee. This is correct, but it is equally true that this is a mandate and
+requirement of the licence issued to the assessee by the DoT. In actual practice, the right to use the
+SIM card and its possession is handed over and given to the end-user, that is, the customer who
+installs the SIM card in his phone to avail the telecommunication services. Similarly, the
+franchisees/distributors are to ensure that the post-paid customers/end-users fill up the form as
+prescribed along with the documents which are given and submitted to the assessee. These are
+mandates prescribed by the licence issued by the DoT to the assessees. The contractual obligations
+of the distributors/franchisees, do not reflect a fiduciary character of the relationship, or the
+business being done on the principal’s account.
+
+30. The franchisees/distributors earn their income when they sell the prepaid products to the
+retailer or the end-user/customer. Their profit consists of the difference between the sale price
+received by them from the retailer/end-user/customer and the discounted price at which they have
+‘acquired’ the product. Though the discounted price is fixed or negotiated between the assessee and
+the franchisee/distributor, the sale price received by the franchisee/ distributor is within the sole
+discretion of the franchisee/distributor. The assessee has no say in this matter.
+
+31. It is not the case of the Revenue that the tax at source under Section 194-H of the Act is to be
+deducted on the difference between the printed price and the discounted price. This cannot be the
+case as the Revenue cannot insist that the franchisee/distributor must sell the products at the
+printed price and not at a figure or price below the printed price. The obligation to deduct tax at
+source is fixed by the statute itself, that is, on the date of actual payment by any mode, or at the time
+when income is credited to the account of the franchisee/distributor, whichever is earlier. In the
+context of the present case, the income of the franchisee/distributor, being the difference between
+the sale price received by the franchisee/distributor and the discounted price, is paid or credited to
+t h e   a c c o u n t   o f   t h e   f r a n c h i s e e / d i s t r i b u t o r   w h e n   h e   s e l l s   t h e   p r e p a i d   p r o d u c t   t o   t h e
+retailer/end-user/customer. The sale price and accordingly the income of the franchisee/distributor
+is determined by the franchisee/distributor and the third parties. Accordingly, the assessee does not,
+at any stage, either pay or credit the account of the franchisee/distributor with the income by way of
+commission or brokerage on which tax at source under Section 194-H of the Act is to be deducted.
+
+32. Faced with the above situation, the Revenue has relied upon the use of the expression “payment
+received or receivable directly or indirectly by a person acting on behalf of the other person”, that is,
+‘the principal’. It is argued that even if the franchisee/distributor receives payment in the form of
+income from the retailer/end-user/customer, it would require deduction of tax at source as payment
+received or receivable, directly or indirectly, is to be subjected to deduction of tax. In support of the
+argument, reliance is placed upon decision in the case of Singapore Airlines Limited (supra).
+
+33. The decision in Singapore Airlines Limited (supra) is required to be understood in the context of
+the contract in the said case, which was in terms of the rules/agreement set up by the International
+Airport Transport Association24. IATA would fix a ceiling price, and the price an airline could
+charge from its customers with a discretion to the airlines to sell their tickets at a net fare lower than
+the base fare but not higher. The air carriers were required to furnish a fare list to the Director
+General of Civil Aviation. The arrangement between the airlines and travel agents was covered by
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+17
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+the Passenger Sales Agency Agreement25, which would set out the conditions under which the travel
+agent carried out sale of tickets along with other ancillary services. The travel agents were entitled
+24 ‘IATA’, for short.
+
+25 ‘PSA’, for short.
+
+to 7% commission on sale of the tickets for its services as the standard commission based on the
+price bar set by the IATA. The airlines were deducting tax at source under Section 194-H of the Act
+on the 7% commission. In addition to the 7% commission, the travel agents were also entitled to
+additional/supplementary commission on the tickets sold by them. The additional/supplementary
+commission and the amount at which the tickets were sold were computed by the travel agents and
+transmitted to the billing and settlement plan (BSP). The BSP, functioning under the aegis of the
+IATA, managed, inter alia, logistics vis-à-vis payments, and acted as a forum for agents and airlines
+to examine details pertaining to the sale of the flight tickets. 33.1 This Court examined the operation
+of the BSP where the financial data regarding sale of tickets was stored. The BSP agglomerated the
+data from multiple transactions. Thereupon, this data was transmitted either bimonthly or twice a
+month to the airlines. It is on the basis of this data that the airlines/air carriers were required to pay
+the additional commission to the travel agents. These are the striking distinguishing features in
+Singapore Airlines Limited (supra) case.
+
+33.2 Having considered the aforesaid mechanism and the nature of relationship between a principal
+and an agent26, this Court found considerable merit in the argument of the Revenue that the
+airlines/ air carriers utilised the BSP to discern the amount earned as additional/supplementary
+commission and accordingly arrive at the income earned by the agent to deduct tax at source, in
+accordance with the provisions of Section 194-H of the Act. If the aforesaid mechanism is
+understood, then it is not difficult to appreciate and understand the conclusion arrived at by this
+Court in the said case. 33.3 Thus, the question whether there was relationship of principal and agent
+was not in dispute, but nevertheless the assessees in the said case disputed liability to deduct tax at
+source on the additional/supplementary commission. However, the judgment does refer to the
+difference between the legal relationship of master and servant, principal and agent, and between
+principal and principal. In this context, reference is made to the statement of law in Halsbury’s Law
+of England27, which reads:
+
+“The difference between the relations of master and servant and of principal and
+agent may be said to be this: a principal has the right to direct what work the agent
+has to do: but a master has the further right to direct how the work is to be done.” 26
+As stated above the airlines were deducting tax at source under Section 194-H on the
+7% commission (standard commission). The dispute only related to whether the
+airlines were liable to deduct tax at source on the additional commission
+(supplementary commission). 27 Vol. 22, p. 113, ¶ 192 and Vol. 1, at p. 193, Article
+345.
+
+xx xx xx “An agent is to be distinguished on the one hand from a servant, and on the
+other from an independent contractor. A servant acts under the direct control and
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+18
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+supervision of his master, and is bound to conform to all reasonable orders given him
+in the course of his work; an independent contractor, on the other hand, is entirely
+independent of any control or interference and merely undertakes to produce a
+specified result, employing his own means to produce that result. An agent, though
+bound to exercise his authority in accordance with all lawful instructions which may
+be given to him from time to time by his principal, is not subject in its exercise to the
+direct control or supervision of the principal. An agent, as such is not a servant, but a
+servant is generally for some purposes his master's implied agent, the extent of the
+agency depending upon the duties or position of the servant.”
+
+34. We have already expounded on the main provision of Section 194-H of the Act, which fixes the
+liability to deduct tax at source on the ‘person responsible to pay’ – an expression which is a term of
+art – as defined in Section 204 of the Act and the liability to deduct tax at source arises when the
+income is credited or paid by the person responsible for paying.28 The expression “direct or
+indirect” used in Explanation (i) to Section 194-H of the Act is no doubt meant to ensure that “the
+person responsible for paying” does not dodge the obligation to deduct tax at source, even when the
+payment is indirectly made by the principal-payer to the agent- payee. However, deduction of tax at
+source in terms of Section 194-H of the Act is not to be extended and widened in ambit to apply to
+true/genuine business transactions, where the assessee is not 28 See ¶ 5 of the judgment.
+
+the person responsible for paying or crediting income. In the present case, the assessees neither pay
+nor credit any income to the person with whom he has contracted. Explanation (i) to Section 194-H
+of the Act, by using the word “indirectly”, does not regulate or curtail the manner in which the
+assessee can conduct business and enter into commercial relationships. Neither does the word
+“indirectly” create an obligation where the main provision does not apply. The tax legislation
+recognises diverse relationships and modes in which commerce and trade are conducted, albeit
+obligation to tax at source arises only if the conditions as mentioned in Section 194-H of the Act are
+met and not otherwise. This principle does not negate the compliance required by law.
+
+35. Deduction of tax at source is a substantial source of the direct tax revenue. The ease of collection
+and recovery is obvious. Deduction and deposit of tax at source checks evasion and non-payment of
+tax. It expands the tax base. However, the assessee as a deductor is not paying tax on his/her
+income, and collects and pays tax otherwise payable by the third party. Liability of the third party to
+pay tax when not deducted remains unaffected. Failure to deduct tax at source has serious and
+quasi-penal consequences for an assessee. The deduction of tax provisions should be
+p r o g r a m m a t i c a l l y   a n d   r e a l i s t i c a l l y   c o n s t r u e d ,   a n d   n o t   a s   e n m e s h e s   o r   b y   a d o p t i n g
+catch-as-catch-can approach. In case of a legal or factual doubt in a given case, the assessee can rely
+on the doctrine of presumption against doubtful penalisation.29 Whether or not the said doctrine
+should be applied30, will depend on facts and circumstances of the case, including the past practice
+followed by the assessee and accepted by the department. When there is apparent divergence of
+opinion, to avoid litigation and pitfalls associated, it may be advisable for the Central Board of
+Direct Taxes to clarify doubts by issuing appropriate instruction/circular after ascertaining view of
+the assesses and stakeholders.31 In addition to enhancing revenue and ensuring tax compliance, an
+equally important aim/objective of the Revenue is to reduce litigation. The instructions/circular, if
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+19
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+and when issued, should be clear, and when justified – require the obligation to be made
+prospective.
+
+36. Notably, the Delhi High Court in Commissioner of Income Tax v.
+
+Singapore Airlines Ltd.32 had held that tax under Section 194-H 29 See Securities and Exchange
+Board of India v. Sunil Krishna Khaitan and Others, (2023) 2 SCC
+
+643. However, in the present case doctrine of presumption against doubtful penalisation is not
+applicable. The assessees were earlier deducting tax at source under Section 194-H of the Act,
+though the amount on which tax was being deducted is unclear. On legal opinion they stopped
+deducting tax at source.
+
+30 This would include the question of prospective or retrospective application. 31 We do
+acknowledge that the Central Board of Direct Taxes has on several occasions quelled doubts and
+issued instructions/circulars.
+
+32 (2009) 319 ITR 29.
+
+of the Act is not required to be deducted on the discounted tickets sold by the airlines/air carriers
+through travel agents. Revenue did not challenge the decision of the Delhi High Court to this extent
+and therefore, this dictum attained finality. As noted, it is not the case of the Revenue that tax is to
+be deducted when payment is made by the distributors/franchisees to the mobile service providers.
+It is also not the case of the revenue that tax is to be deducted under Section 194-H of the Act on the
+difference between the maximum retail price income of the distributors/ franchisees and the price
+paid by the distributors/franchisees to the assessees. The assessees are not privy to the transactions
+between distributors/franchisees and third parties. It is, therefore, impossible for the assessees to
+deduct tax at source and comply with Section 194-H of the Act, on the difference between the
+total/sum consideration received by the istributors/ franchisees from third parties and the amount
+paid by the distributors/ franchisees to them.
+
+37. The argument of the Revenue that assessees should periodically ask for this information/data
+and thereupon deduct tax at source should be rejected as far-fetched, imposing unfair obligation
+and inconveniencing the assesses, beyond the statutory mandate. Further, it will be willy-nilly
+impossible to deduct, as well as make payment of the tax deducted, within the timelines prescribed
+by law, as these begin when the amount is credited in the account of the payee by the payer or when
+payment is received by the payee, whichever is earlier. The payee receives payment when the third
+party makes the payment. This payment is not the payment received or payable by the assessee as
+the principal. The distributor/franchisee is not the trustee who is to account for this payment to the
+assessee as the principal. The payment received is the gross income or profit earned by the
+distributor/franchisee. It is the income earned by distributor/ franchisee as a result of its efforts and
+work, and not a remuneration paid by the assessee as a cellular mobile telephone service provider.
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+20
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+38. We must, therefore, reject the argument of the Revenue relying upon the decision of this Court
+in Singapore Airlines Limited (supra) that assessees would be liable to deduct tax at source even if
+the assessees are not making payment or crediting the income to the account of the
+franchisee/distributor. When the obligation, and the time and manner in which the tax is mandated
+by law to be deducted at source, is fixed by the statute, the same cannot be shifted/altered/modified
+or postponed on a concession in the court by the Revenue. The concession may be granted, when
+permissible, by way of a circular issued in accordance with Section 119 of the Act. We do not think
+that the decision in Singapore Airlines Limited (supra) can be read in the manner as suggested by
+the Revenue.
+
+39. Coming back to the legal position of a distributor, it is to be generally regarded as different form
+that of an agent. The distributor buys goods on his account and sells them in his territory. The profit
+made is the margin of difference between the purchase price and the sale price. The reason is, that
+the distributor in such cases is an independent contractor. Unlike an agent, he does not act as a
+communicator or creator of a relationship between the principal and a third party. The distributor
+has rights of distribution and is akin to a franchisee. Franchise agreements are normally considered
+as sui generis, though they have been in existence for some time. Franchise agreements provide a
+mechanism whereby goods and services may be distributed. In franchise agreements, the supplier or
+the manufacture, i.e. a franchisor, appoints an independent enterprise as a franchisee through
+whom the franchisor supplies certain goods or services. There is a close relationship between a
+franchisor and a franchisee because a franchisee’s operations are closely regulated, and this possibly
+is a distinction between a franchise agreement and a distributorship agreement. Franchise
+agreements are extremely detailed and complex. They may relate to distribution franchises, service
+franchises and production franchises. Notwithstanding the strict restrictions placed on the
+franchisees – which may require the franchisee to sell only the franchised goods, operate in a
+specific location, maintain premises which are required to comply with certain requirements, and
+even sell according to specified prices – the relationship may in a given case be that of an
+independent contractor. Facts of each case and the authority given by ‘principal’ to the franchisees
+matter and are determinative.
+
+40. An independent contractor is free from control on the part of his employer, and is only subject to
+the terms of his contract. But an agent is not completely free from control, and the relationship to
+the extent of tasks entrusted by the principal to the agent are fiduciary. As contract with an
+independent agent depends upon the terms of the contract, sometimes an independent contractor
+looks like an agent from the point of view of the control exercisable over him, but on an overview of
+the entire relationship the tests specified in clauses (a) to (d) in paragraph 8 may not be satisfied.
+The distinction is that independent contractors work for themselves, even when they are employed
+for the purpose of creating contractual relations with the third persons. An independent contractor
+is not required to render accounts of the business, as it belongs to him and not his employer.
+
+41. Thus, the term ‘agent’ denotes a relationship that is very different from that existing between a
+master and his servant, or between a principal and principal, or between an employer and his
+independent contractor. Although servants and independent contractors are parties to relationships
+in which one person acts for another, and thereby possesses the capacity to involve them in liability,
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+21
+
+Bharti Cellular Ltd.Now Bharti Airtel ... vs Assistant C.I.T Circle 57 on 28 February, 2024
+
+yet the nature of the relationship and the kind of acts in question are sufficiently different to justify
+the exclusion of servants and independent contractors from the law relating to agency. In other
+words, the term ‘agent’ should be restricted to one who has the power of affecting the legal position
+of his principal by the making of contracts, or the disposition of the principal’s property; viz. an
+independent contractor who may, incidentally, also affect the legal position of his principal in other
+ways. This can be ascertained by referring to and examining the indicia mentioned in clauses (a) to
+(d) in paragraph 8 of this judgment. It is in the restricted sense in which the term agent is used in
+Explanation (i) to Section 194-H of the Act.
+
+42. In view of the aforesaid discussion, we hold that the assessees would not be under a legal
+obligation to deduct tax at source on the income/profit component in the payments received by the
+distributors/franchisees from the third parties/customers, or while selling/transferring the pre-paid
+coupons or starter-kits to the distributors. Section 194-H of the Act is not applicable to the facts and
+circumstances of this case. Accordingly, the appeals filed by the assessee – cellular mobile service
+providers, challenging the judgments of the High Courts of Delhi and Calcutta are allowed and these
+judgments are set aside. The appeals filed by the Revenue challenging the judgments of High Courts
+of Rajasthan, Karnataka and Bombay are dismissed. There would be no orders as to cost. Pending
+applications, if any, shall stand disposed of.
+
+......................................J. (SANJIV KHANNA) ......................................J. (S.V.N. BHATTI) NEW
+DELHI;
+
+FEBRUARY 28, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/59271518/
+
+22
+
+

@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal No. of 2024 (@ SLP (Crl.) No. 3995 of 2022)",
+  "parties": {
+    "petitioner": "Payal Sharma",
+    "respondent": "State of Punjab & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-11-26",
+  "summary": "The appeal challenges the High Court's order quashing FIR No.0080/2020 against accused No.6 (husband of petitioner) but dismissing the quashment plea for accused No.5 (petitioner). The petitioner, related only as wife of cousin brother of complainant's son-in-law, alleged over-implication in a matrimonial dispute with no specific allegations against her. The Supreme Court considered whether her inclusion was due to mala fide or exaggerated complaints common in matrimonial cases. Relying on precedents like Preeti Gupta and Geeta Mehrotra, it emphasized caution in implicating distant relatives living in different cities. The High Court failed to properly analyze the lack of specific allegations against her, warranting quashment.",
+  "legal_provisions_cited": [
+    "Section 482 Cr.P.C.",
+    "Sections 406, 498-A, 420, 120-B IPC",
+    "Preeti Gupta & Anr. v. State of Jharkhand & Anr. (2010) 7 SCC 667",
+    "Geeta Mehrotra and Anr. v. State of U.P. and Anr. (2012) 10 SCC 741",
+    "Kahkashan Kausar @ Sonam and Others v. State of Bihar & Ors. (2022) 6 SCC 599"
+  ],
+  "final_judgment": "The appeal is allowed; the FIR and all further proceedings against accused No.5 (Payal Sharma) are quashed."
+}

@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal No. of 2022 (Arising out of Special Leave Petition (Criminal) No. 2872 of 2022)",
+  "parties": {
+    "petitioner": "Noor Mohammed",
+    "respondent": "Khurram Pasha"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-02",
+  "summary": "The appeal challenged the Karnataka High Court's dismissal of a criminal revision petition upholding conviction under Section 138 of the Negotiable Instruments Act, 1881, for dishonour of a cheque. The Trial Court had imposed a fine and directed interim compensation under Section 143A, which the appellant failed to pay, leading to denial of right to cross-examine the complainant. The Appellate and High Courts upheld the conviction, citing non-compliance with interim payment. The Supreme Court examined whether non-payment of interim compensation under Section 143A(1) could lawfully result in denial of the right to cross-examine. It held that the statutory mechanism under Section 143A(5) permits recovery of interim compensation as a fine but does not authorize curtailing of statutory or constitutional rights like fair trial. Denial of cross-examination solely due to non-payment of interim compensation is impermissible, as the statute prescribes specific remedies for non-compliance. The courts below erred in linking procedural compliance with substantive rights.",
+  "legal_provisions_cited": [
+    "Section 138, Negotiable Instruments Act, 1881",
+    "Section 143A, Negotiable Instruments Act, 1881",
+    "Section 357, Criminal Procedure Code, 1973",
+    "Section 421, Criminal Procedure Code, 1973",
+    "Nazir Ahmad vs. King Emperor",
+    "State of Uttar Pradesh vs. Singhara Singh and others",
+    "J.N. Ganatra vs. Morvi Municipality"
+  ],
+  "final_judgment": "The appeal is allowed. The judgments and orders of the High Court and lower courts denying the right to cross-examine solely on account of non-payment of interim compensation under Section 143A are set aside. The matter is remanded to the Trial Court to allow the appellant a reasonable opportunity to cross-examine the complainant, in accordance with law."
+}

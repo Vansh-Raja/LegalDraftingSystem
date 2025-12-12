@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal No 1260 of 2022 (Arising out of SLP (Crl) No 9836 of 2019)",
+  "parties": {
+    "petitioner": "Oriental Bank of Commerce",
+    "respondent": "Prabodh Kumar Tewari"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-16",
+  "summary": "The case involved a dispute under Section 138 of the Negotiable Instruments Act, 1881, where the respondent admitted signing a cheque but claimed it was a blank instrument given as security. The High Court allowed the respondent to engage a handwriting expert to examine whether the details in the cheque were filled by him. The Supreme Court held that Section 139 raises a rebuttable presumption that a cheque issued by a drawer is in discharge of a debt or liability. It ruled that the filling of cheque details by someone other than the drawer is immaterial; the liability persists unless the defence rebuts the presumption by preponderance of probabilities. Thus, the handwriting expert's opinion would not serve any purpose in rebutting the statutory presumption.",
+  "legal_provisions_cited": [
+    "Section 138, Negotiable Instruments Act, 1881",
+    "Section 139, Negotiable Instruments Act, 1881",
+    "Section 313, Code of Criminal Procedure, 1973",
+    "Bir Singh v. Mukesh Kumar, (2019) 4 SCC 197",
+    "Kalamani Tex v. P. Balasubramanian",
+    "Anss Rajashekar v. Augustus Jeba Ananth, (2021) 5 SCC 283",
+    "Rangappa v. Sri Mohan, (2010) 11 SCC 441"
+  ],
+  "final_judgment": "Appeal allowed; impugned order permitting handwriting expert examination set aside; expert report not to be considered in trial; respondent's application for expert examination dismissed."
+}

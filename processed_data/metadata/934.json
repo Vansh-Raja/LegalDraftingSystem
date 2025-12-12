@@ -1,0 +1,21 @@
+{
+  "case_number": "Criminal Appeal No. 1011 of 2023",
+  "parties": {
+    "petitioner": "Judgebir Singh @ Jasbir Singh Samra @ Jasbir & Ors.",
+    "respondent": "National Investigation Agency"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-01",
+  "summary": "The appellants, accused under IPC, UAPA and the Explosive Substances Act, challenged the High Court's dismissal of their appeal against denial of default bail. Key issues: whether a chargesheet filed without valid sanction is invalid for purposes of Section 167(2) CrPC; whether mere filing of chargesheet suffices to bar default bail; whether failure to obtain sanction under UAPA entitles accused to bail; and whether filing chargesheet before Magistrate instead of Special Court under NIA Act vitiates proceedings. Court analyzed filing timeline, extension of investigation under UAPA, and sanction requirements under UAPA and the 1908 Act.",
+  "legal_provisions_cited": [
+    "Section 167(2) of the Code of Criminal Procedure, 1973",
+    "Section 43D(2)(b) of the Unlawful Activities (Prevention) Act, 1967",
+    "Section 120B IPC",
+    "Sections 17, 18, 18B, 20 UAPA",
+    "Sections 4, 5 Explosive Substances Act, 1908",
+    "Section 16 of the NIA Act, 2008",
+    "Section 209 CrPC",
+    "Section 45(1) UAPA"
+  ],
+  "final_judgment": "Pending"
+}

@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 6466 of 2021",
+  "parties": {
+    "petitioner": "National High Speed Rail Corporation Limited",
+    "respondent": "Montecarlo Limited & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-31",
+  "summary": "The appellant (NHSRCL) challenged the Delhi High Court's judgment quashing the rejection of Montecarlo Limited's technical bid in a tender for the Mumbai-Ahmedabad High Speed Rail Project. The High Court held the bid was substantially responsive and directed NHSRCL to reconsider it. The Supreme Court examined whether the High Court erred in interfering with a foreign sovereign-funded project governed by JICA guidelines. The appellant argued that bid evaluation was conducted by JICA-appointed consultants and that deviation from their findings would violate loan agreements and procurement norms. The core issue was judicial review limits in sovereign-funded projects and compliance with international bidding standards.",
+  "legal_provisions_cited": [
+    "Article 226 of the Constitution of India",
+    "JICA Standard Bidding Documents (SBD)",
+    "Guidelines for Procurement under Japanese ODA Loans"
+  ],
+  "final_judgment": "The appeal was allowed, setting aside the Delhi High Court's order. The Supreme Court held that in foreign sovereign-funded projects, procurement processes must adhere to donor agency guidelines, and courts should not interfere unless there is arbitrariness or illegality. Since the bid evaluation followed JICA procedures and was approved by JICA, the rejection was upheld, and the High Court's interference was found unwarranted."
+}

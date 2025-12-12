@@ -1,0 +1,21 @@
+{
+  "case_number": "Criminal Appeal No. 1105 of 2010 and Criminal Appeal No. 1128 of 2010",
+  "parties": {
+    "petitioner": "Md. Jabbar Ali & Ors. and Md. Ajmot Ali",
+    "respondent": "The State of Assam"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-17",
+  "summary": "The appeals challenged the Gauhati High Court's affirmation of convictions under Sections 302/149, 148, 323, 324, and 447 IPC stemming from a violent land dispute where an unlawful assembly attacked individuals, resulting in one death. The conviction of multiple accused, including life sentences for some, was based on credible eyewitness and medical evidence corroborating prosecution claims. The Supreme Court upheld the convictions, finding the evidence cogent and consistent with the application of Section 149 IPC, despite minor discrepancies in testimonies.",
+  "legal_provisions_cited": [
+    "Section 302 read with Section 149 IPC",
+    "Section 148 IPC",
+    "Section 323 IPC read with Section 149 IPC",
+    "Section 447 IPC read with Section 149 IPC",
+    "Section 324 IPC read with Section 149 IPC",
+    "Section 313 CrPC",
+    "Section 147/148/149/447/323/324/307/302 IPC (FIR)",
+    "Code of Criminal Procedure, 1973"
+  ],
+  "final_judgment": "Appeals dismissed; conviction and sentence confirmed."
+}

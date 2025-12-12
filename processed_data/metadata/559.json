@@ -1,0 +1,19 @@
+{
+  "case_number": "2024 INSC 540",
+  "parties": {
+    "petitioner": "Kaushik Premkumar Mishra & Anr.",
+    "respondent": "Kanji Ravaria @ Kanji & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-07-19",
+  "summary": "The appeal challenged the Bombay High Court's decision allowing a second appeal and upholding the trial court's dismissal of the plaintiffs' suit. The case involved two sale deeds executed by respondent no.2 in 1985 in favor of the appellants and collaterals. While one deed was registered, the appellants' deed, though executed and presented, remained pending registration due to stamp duty deficiency until June 14, 2011. In 2010, the vendor re-transferred the same land to respondent no.1, who attempted possession in 2011. The appellants filed suit for cancellation of the 2010 conveyance deed and permanent injunction. The Trial Court dismissed the suit; the First Appellate Court reversed, but the High Court reinstated the trial court's decree. The Supreme Court examined issues of limitation, validity of 1985 sale deed (despite delay in registration), minority of one transferee, enforceability, and bona fide purchase. It held that the 1985 sale was valid, possession was delivered, delay in registration was explained, and the 2010 conveyance was fraudulent. The doctrine of lis pendens and principles of equity favored the appellants.",
+  "legal_provisions_cited": [
+    "Indian Contract Act, 1872, Section 11",
+    "Registration Act, 1908, Section 85",
+    "Specific Relief Act, 1963",
+    "Transfer of Property Act, 1882",
+    "Doctrine of Lis Pendens",
+    "Section 47 of the Registration Act, 1908"
+  ],
+  "final_judgment": "The appeal was allowed. The judgment of the High Court was set aside. The decree of the First Appellate Court was restored, decreeing the plaintiffs' suit. The sale deed dated 03.12.2010 in favor of respondent no.1 was declared void. Permanent injunction was granted in favor of the appellants. Costs were awarded to the appellants."
+}

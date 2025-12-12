@@ -1,0 +1,23 @@
+{
+  "case_number": "Civil Appeal No. 3762 of 2022",
+  "parties": {
+    "petitioner": "Noida Industrial Development Authority",
+    "respondent": "Ravindra Kumar & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-09",
+  "summary": "The appeals challenged the legality of invoking the urgency clause under Section 17(1) and (4) of the Land Acquisition Act, 1894, which dispensed with the Section 5A inquiry. The High Court held the invocation illegal but did not quash the acquisition, instead directing that landowners who did not accept compensation under the Karar Niyamawali be paid compensation under the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, with market value determined as of the High Court's judgment date. The appellants argued delay and laches in filing writ petitions and challenged the application of the 2013 Act retrospectively. The Supreme Court considered whether the acquisition should have been set aside entirely given the illegality, balancing it against substantial development and equitable considerations.",
+  "legal_provisions_cited": [
+    "Section 4, Land Acquisition Act, 1894",
+    "Section 5A, Land Acquisition Act, 1894",
+    "Section 6, Land Acquisition Act, 1894",
+    "Section 17(1) and (4), Land Acquisition Act, 1894",
+    "Section 23(2) and (1A), Land Acquisition Act, 1894",
+    "Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+    "Article 226 of the Constitution of India",
+    "Radhey Shyam v. State of U.P.",
+    "Garg Woollen Private Ltd. v. State of U.P.",
+    "Savitri Devi v. State of U.P."
+  ],
+  "final_judgment": "The Supreme Court upheld the High Court's decision not to quash the acquisition due to substantial development and equitable grounds, while affirming the direction to pay compensation under the 2013 Act to those who did not accept the earlier settlement, and maintaining the distinction between those who accepted and those who did not under the Karar Niyamawali."
+}

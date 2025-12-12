@@ -1,0 +1,1490 @@
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+Author: M.R. Shah
+
+Bench: B.V. Nagarathna, M.R. Shah
+
+// 1 //
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 341 OF 2022
+(@ SLP (C) No.13161/2019)
+
+Indian Oil Corporation Limited               …Appellant(s)
+
+Versus
+
+NCC Limited                                …Respondent(s)
+With
+CIVIL APPEAL NO. 342 OF 2022
+(@ SLP (C) No.13408/2019)
+CIVIL APPEAL NO. 344 OF 2022
+(@ SLP (C) No.13815/2019)
+CIVIL APPEAL NO. 343 OF 2022
+(@ SLP (C) No.13813/2019)
+CIVIL APPEAL NO. 345 OF 2022
+(@ SLP (C) No.13816/2019)
+
+JUDGMENT
+
+M.R. SHAH, J.
+
+1. As common questions of law and facts arise in this group of appeals and as such between the same
+parties and with respect to similar contracts / agreements, all these appeals are decided and
+disposed of together by this common judgment and order.
+
+// 2 //
+
+2. Feeling aggrieved and dissatisfied with the impugned judgment and orders passed by the High
+Court of Delhi, New Delhi in respect to Arbitration Petitions by which, in exercise of powers under
+Section 11(6) of the Arbitration and Conciliation Act, 1996 (hereinafter referred to as “Arbitration
+Act”), the High Court has allowed the said petitions and has appointed the learned Arbitrator by
+referring the dispute between the parties for arbitration, the Indian Oil Corporation Limited has
+preferred the present appeals.
+
+1
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+3. For the sake of convenience, Civil Appeal arising out of Special Leave Petition No.13161/2019
+arising out of the order passed by the High Court in Arbitration Petition No.115/2018 is treated as
+the lead matter.
+
+4. The facts leading to the present appeal in a nut−shell are as under:
+
+4.1. That, the appellant, Indian Oil Corporation Limited (hereinafter referred to as
+“IOCL”) floated a tender in respect of the works described as “Civil, Structural &
+Associated UG piping works of VGO− HDT, DHDT & HCDS Units (EPCM−2) for
+Paradip Refinery Project”. The respondent herein – NCC Ltd. (hereinafter referred to
+as “NCCL”) was declared the successful bidder. After issuance of the Letter of
+Acceptance dated 17.03.2010, a // 3 // formal agreement was executed between the
+parties dated 28.04.2010. The relevant clauses of the Agreement which may have a
+bearing on the issues involved in the present appeals are as under:
+
+“1.21.0.0 “Notified Claim” shall mean a claim of the CONTRACTOR notified in
+accordance with the provisions of Clause 6.6.1.0 hereof.
+
+xxx    xxx     xxx
+
+CLAIMS BY THE CONTRACTOR
+6.6.1.0    Should the CONTRACTOR consider that he is
+
+entitled to any extra payment or compensation in respect of the works over and above
+the amounts due in terms of the Contract as specified in Clause 6.3.1.0 hereof or
+should the CONTRACTOR dispute the validity of any deductions made or threatened
+by the OWNER from any Running Account Bills, the CONTRACTOR shall forthwith
+give notice in writing of his claim in this behalf to the Engineer−in−Charge and the
+Site Engineer within 10 (ten) days from the date of the issue of orders or instructions
+relative to any works for which the CONTRACTOR claims such additional payment or
+compensation or of the happening of other event upon which the CONTRACTOR
+bases such claim, and such notice shall give full particulars of the nature of such
+claim, grounds on which it is based, and the amount claimed. The OWNER shall not
+anywise be liable in respect of any claim by the CONTRACTOR unless notice of such
+claim shall have been given by the CONTRACTOR to the Engineer−in−Charge and
+t h e   S i t e   E n g i n e e r   i n   t h e   m a n n e r   a n d   w i t h i n   t h e   t i m e   a f o r e s a i d   a n d   t h e
+CONTRACTOR SHALL be deemed to have waived any and all claims and all his
+rights in respect of any claim not notified to the Engineer−in−Charge and the Site
+Engineer in writing in the manner and within the time aforesaid.
+
+// 4 // 6.6.2.0 The Engineer−in−Charge and/or the Site Engineer shall be under no
+obligation to reply to any notice of claim given or claim made by the CONTRACTOR
+within the provisions aforesaid or otherwise or to reject the same and no omission or
+failure on the part of the Engineer−in−Charge or Site Engineer to reject any claim
+made or notified by the CONTRACTOR or delay in dealing therewith shall be deemed
+
+2
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+to be an admission by the OWNER of the validity of such claim or waiver by the
+OWNER of any of its rights in respect thereof, with the intent that all such claims
+otherwise valid within the provisions of Clause 6.6.1.0 read with Clauses 6.6.3.0 and
+6.6.3.1 shall be dealt with/considered by the OWNER at the time of submission of the
+Final Bill.
+
+6.6.3.0 Any claims of the CONTRACTOR notified in ac− cordance with the provision
+of Clause 6.6.1.0 hereof as shall remain at the time of prepara− tion of Final Bill by
+the CONTRACTOR shall be separately included in the Final Bill prepared by the
+CONTRACTOR in the form of a State− ment of Claims attached thereto, giving
+partic− ulars of the nature of the claim, grounds on which it is based, and the amount
+claimed and shall be supported by a copy(ies) of the notice(s) sent in respect thereof
+by the CON− TRACTOR to the Engineer−in−Charge and Site Engineer under Clause
+6.6.1.0 hereof. In so far as such claim shall in any manner or par− ticular be at
+variance with the claim notified by the CONTRACTOR within the provision of Clause
+6.6.1.0 hereof, it shall be deemed to be a claim different from the notified claim with
+consequence in respect thereof indicated in Clause 6.6.1.0 hereof, and with
+consequences in respect of the notified claim as indicated in Clause 6.6.3.1 hereof.
+
+6.6.3.1 The OWNER shall not anywise be liable in re− spect of any notified claim not
+specifically re− flected in the Final Bill in accordance with the provisions of Clause
+6.6.3.0 hereof and any and all notified claims not specifically reflected and included
+in the Final Bill in accordance // 5 // with the provisions of Clause 6.6.3.0 hereof
+shall be deemed to have been waived by the CONTRACTOR. Further the OWNER
+shall have no liability in respect thereof and the CON− TRACTOR shall not be
+entitled to raise or in− clude in the Final Bill any claim(s) other than a notified claim
+conforming in all respects and in accordance with the provisions of Clause 6.6.3.0
+hereof.
+
+6.6.4.0 No claim(s) shall on any account be made by the CONTRACTOR after the
+Final Bill, with the intent the Final Bill prepared by the CON− TRACTOR shall reflect
+any and all notified claims whatsoever of the CONTRACTOR against the OWNER
+arising out of or in con− nection with the Contract or work performed by the
+CONTRACTOR thereunder or in relation thereto, and the CONTRACTOR shall
+notwith− standing any enabling provision under any law or Contract and
+notwithstanding any right of claim in quantum meruit that the CONTRAC− TOR
+could have in respect thereof, be deemed to have waived any and all such claims not
+in− cluded in the Final Bill and to have absolved and discharged the OWNER from
+and against the same, even if in not including the same as aforesaid, the
+CONTRACTOR shall have acted under a mistake of law or fact.
+
+6.6.5.0 Notwithstanding the existence of any claim by the CONTRACTOR in terms
+hereof or other− wise, the CONTRACTOR shall continue and be bound to continue
+and perform the works to completion in all respects according to the Contract (unless
+
+3
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+the Contract or works be pri− orly determined by the OWNER in terms hereof) and
+shall remain liable and bound in all respects under the Contract.
+
+6.6.6.0 The payment of any sum on account to the CONTRACTOR during the
+performance of any work or item of work in respect of which a claim has been
+notified by the CONTRACTOR in terms of Clause 6.6.1.0 hereof or the mak− ing or
+negotiation of any interim arrangements in respect of the performance of such work
+or item of work by the OWNER, shall not be // 6 // deemed to be an acceptance of
+the related claim by the OWNER, or any part or portion thereof with the intent that
+any such payment shall constitute merely an interim facility or interim assistance to
+the CONTRACTOR, and not an obligation upon the OWNER.
+
+6.7.0.0 DISCHARGE OF OWNER’S LIABILITY 6.7.1.0 The acceptance by the
+CONTRACTOR of any amount paid by the OWNER to the CONTRAC− TOR in
+respect of the final dues of the CON− TRACTOR under the Final Bill upon condition
+that the said payment is being made in full and final settlement of all said dues to the
+CONTRACTOR shall, without prejudice to the notified claims of the CONTRACTOR
+included in the Final Bill in accordance with the provi− sions under Clause 6.6.3.0
+hereof and associ− ated provisions thereunder, be deemed to be in full and final
+satisfaction of all such dues to the CONTRACTOR notwithstanding any quali− fying
+remarks, protest or condition imposed or purported to be imposed by the
+CONTRACTOR relative to the acceptance of such payment, with the intent that upon
+acceptance by the CONTRACTOR of any payment made as afore− said, the Contract
+(including the arbitration clause) shall, subject to the provisions of Clause 6.8.2.0
+hereof, stand discharged and extinguished except in respect of the notified claims of
+the CONTRACTOR included in the Final Bill and except in respect of the CON−
+TRACTOR's entitlement to receive the unad− justed portion of the Security Deposit
+in accor− dance with the provisions of Clause 6.8.3.0 hereof on successful completion
+of the defect liability period.
+
+6.7.2.0 The acceptance by the CONTRACTOR of any amount paid by the OWNER to
+the CONTRAC− TOR in respect of the notified claims of the CONTRACTOR included
+in the Final Bill in ac− cordance with the provisions of Clause 6.6.3.0 hereof and
+associated provisions thereunder, upon the condition that such payment is being
+made in full and final settlement of all the claims of the CONTRACTOR shall, subject
+to the provisions of Clause 6.7.3.0 hereof, be deemed to be in full and final
+satisfaction of all // 7 // claims of the CONTRACTOR notwithstanding any qualifying
+remarks, protest or condition imposed or purported to be imposed by the
+CONTRACTOR relative to the acceptance of such payment with the intent that upon
+ac− ceptance by the CONTRACTOR of any pay− ment made as aforesaid, the
+Contract (includ− ing the arbitration clause) shall stand dis− charged and
+extinguished insofar as relates to and/or concerns the claims of the CONTRAC− TOR.
+
+4
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+6.7.3.0 Notwithstanding anything provided in Clause 6.7.1.0 and/or Clause 6.7.2.0
+hereof the CON− TRACTOR shall be and remain liable for de− fects in terms of
+Clause 5.6.0.0 hereof and for the indemnity to the OWNER in terms of Clause
+6.8.2.0, and shall be and remain enti− tled to receive the unadjusted balance of the
+Security Deposit remaining in the hands of the OWNER in terms of Clause 6.8.3.0
+hereof.
+
+xxx      xxx     xxx
+
+9.0.0.0   ARBITRATION
+
+9.0.1.0 Subject to the provisions of Clauses 6.7.1.0, 6.7.2.0 and 9.0.2.0 hereof, any
+dispute arising out of a Notified Claim of the CONTRACTOR included in the Final
+Bill of the CONTRACTOR in accordance with the provisions of Clause 6.6.3.0 hereof,
+if the CONTRACTOR has not opted for the Alternative Dispute Resolution Machinery
+referred to in Clause 9.1.1.0 hereof, and any dispute arising out of any Claim(s) of the
+OWNER against the CONTRACTOR shall be referred to the arbitration of a Sole
+Arbitra− tor selected in accordance with the provisions of Clause 9.0.1.1 hereof. It is
+specifically agreed that the OWNER may prefer its Claim(s) against the
+CONTRACTOR as counter−claim(s) if a Notified Claim of the CONTRACTOR has
+been referred to arbitra− tion. The CONTRACTOR shall not, however, be entitled to
+raise as a set−off defence or counter−claim any claim which is not a Noti− fied Claim
+included in the CONTRACTOR's Fi− nal Bill in accordance with the provisions of
+Clause 6.6.3.0 hereof.
+
+// 8 // 9.0.1.1 The Sole Arbitrator referred to in Clause 9.0.1.0 hereof shall be selected by the CON−
+TRACTOR out of a panel of 3 (three) persons nominated by the OWNER for the purpose of such
+selection, and should the CONTRACTOR fail to select an arbitrator within 30 (thirty) days of the
+panel of names of such nominees being furnished by the OWNER for the pur− pose, the Sole
+Arbitrator shall be selected by the OWNER out of the said panel.
+
+9.0.2.0 Any dispute(s) or difference(s) with respect to or concerning or relating to any of the follow−
+ing matters are hereby specifically excluded from the scope, purview and ambit of this Ar− bitration
+Agreement with the intention that any dispute or difference with respect to any of the said following
+matters and/or relating to the Arbitrator's or Arbitral Tribunal's jurisdic− tion with respect thereto
+shall not and cannot form the subject− matter of any reference or submission to arbitration, and the
+Arbitrator or the Arbitral Tribunal shall have no jurisdic− tion to entertain the same or to render any
+de− cision with respect thereto, and such matter shall be decided by the General Manager prior to
+the Arbitrator proceeding with or proceeding further with the reference. The said excluded matters
+are:
+
+(i) With respect to or concerning the scope or existence or otherwise of the
+Arbitration Agree− ment;
+
+5
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+(ii) Whether or not a Claim sought to be re− ferred to arbitration by the
+CONTRACTOR is a Notified Claim;
+
+(iii) Whether or not a Notified Claim is included in the CONTRACTOR's Final Bill in
+accordance with the provisions of Clause 6.6.3.0 hereof.
+
+(iv) Whether or not the CONTRACTOR has opted for the Alternative Dispute
+Resolution Machinery with respect to any Notified Claim included in the
+CONTRACTOR's Final Bill.
+
+// 9 // 9.0.3.0 The provisions of the Indian Arbitration & Conciliation Act, 1996 and any re−
+enactment(s) and/or modification(s) thereof and of the Rules framed thereunder shall ap− ply to
+arbitration proceedings pursuant hereto subject to the following conditions:
+
+(a) The Arbitrator shall give his Award sepa− rately in respect of each Claim and
+Counter− Claim; and
+
+(b) The Arbitrator shall not be entitled to re− view any decision, opinion or
+determination (howsoever expressed) which is stated to be fi− nal and/or binding on
+the CONTRACTOR in terms of the Contract Documents.” 4.2. As per the contract
+entered into between the parties, the designated date for commencement of the
+project was the date of issuance of FOA i.e. 03.03.2010, and that the scheduled date
+of completion was 02.10.2011. It appears that the execution of the project was
+delayed, as a result of which the project was completed only on 28.12.2015. The
+NCCL was issued a completion certificate by the IOCL indicating the date of
+completion of the project as 28.12.2015. In view of the delay in completion of the
+project beyond the scheduled date, the NCCL made a request for extension of time
+vide the communication dated 23.05.2016. While the EOT requests were pending
+with the IOCL, the NCCL submitted its final bill dated 05.08.2016 to the Engineer−
+In−Charge appointed under the contract between the parties.
+
+// 10 // According to the NCCL, the NCCL in its final bill dated 05.08.2016 made a specific
+reference to the Notified Claims. There were correspondences between the Engineer−In−Charge and
+Thyssenkrupp Industrial Solutions India (P) Ltd. (hereinafter referred to as “TKIS”) pending
+settlement of the final bill and the request for Extension of Time (EOT). The NCCL responded to the
+communication dated 01.11.2016 by the TKIS, vide its response dated 02.11.2016. It appears that the
+NCCL conveyed to TKIS that if its request for EOT were considered favorably and if price
+adjustment does not exceed 4%, then, all its extra/additional claims including Notified Claims
+submitted by it through various communications and the final bill should be treated as withdrawn.
+
+4.3. The TKIS having received the aforesaid communication from the NCCL, made its
+recommendations vis−à−vis the request for EOT made by the NCCL. It appears that thereafter, TKIS
+in its communication dated 13.01.2017, informed NCCL that it had approved EOT for the period
+between 03.10.2011 to 03.11.2015, however, without price discount as per Clause 4.4.0.0 of the
+
+6
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+General Conditions of Contract (hereinafter referred to as “GCC”) and that for the period falling //
+11 // between 04.11.2015 to 28.12.2015 which covered the period of 55 days, it had concluded that
+the delay was attributable to NCCL. Accordingly, TKIS conveyed to NCCL that for the later period,
+as per Clause 4.4.2.0 of the GCC, a price adjustment discount of 4% would be applicable.
+
+4.4. It is the case on behalf of NCCL that being aggrieved, it wrote to the IOCL on 23.01.2017 to
+reconsider its decision and accord EOT upto the date of completion i.e. 28.12.2015 without making
+any adjustment towards price as indicated in the communication dated 13.01.2017.
+
+4.5. That, thereafter, the IOCL released a sum of Rs.4,53,04,021/−, the amount calculated as per the
+communication dated 13.01.2017, after making due adjustments towards taxes etc. 4.6. It appears
+that subsequently and after a period of 6&1/2 months (after the settlement of the claim) and after
+receiving the final bill payment 8 days earlier, on 08.05.2017, vide communication dated
+16.05.2017, NCCL reneged on the letter of 02.11.2016 and alleged that it was made to withdraw its
+claim under coercion and it had withdrawn its Notified Claims as TKIS vide its communication
+dated 01.11.2016, had indicated // 12 // that the review of the final bill and request for EOT would
+be considered only if it gave up its insistence on its Notified Claims being considered.
+
+4.7. That IOCL sent its response vide communication dated 06.06.2017, wherein it stated that none
+of the claims mentioned in the final bill were Notified Claims.
+
+4.8. In the above backdrop, NCCL invoked the arbitration clause contained in the Agreement on
+01.07.2017. That, the IOCL, in accordance with Clause 9.0.2.0 referred the matter regarding
+arbitrability of NCCL’s claims to the General Manager on 12.07.2017.
+
+4.9. Vide the communication / letter dated 10.11.2017, the General Manager held that the claims
+cannot be referred to arbitration and that the Arbitration Agreement itself does not survive on
+account of NCCL withdrawing its Notified Claims. The General Manager held that therefore there
+exist no dispute to be referred to arbitration.
+
+4.10.Thereafter the respondent – NCCL approached the Delhi High Court by filing Arbitration
+Petition No.115/2018 under Section 11(6) of the Arbitration Act for appointment of sole Arbitrator.
+The said petition was opposed by the IOCL on a // 13 // number of grounds. However, by overruling
+all the objections raised on behalf of the appellant – IOCL, by the impugned judgment and order,
+the High Court has allowed the said arbitration petition and appointed the sole Arbitrator.
+
+4.11.Impugned judgment and order passed by the High Court dated 08.02.2019 in Arbitration
+Petition No.115/2018 is the subject matter of present Civil Appeal No.341/2022 (arising out of
+Special Leave Petition No.13161/2019).
+
+5. With respect to other four contracts between the same parties and with same arbitration clauses,
+the NCCL’s claims were sent to the General Manager under Clause 9.0.2.0 of the GCC. So far as the
+Civil Appeal arising out of SLP No.13408/2019 is concerned, the NCCL did not approach the
+General Manager but the Arbitration Petition filed before the High Court was forwarded by the
+
+7
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+IOCL to the General Manager for its determination under Clause 9.0.2.0 of the GCC. That, in all the
+remaining four cases (Civil Appeal Nos.342/2022 to 345/2022), the General Manager declared that
+none of the claims were Notified Claims.
+
+6. Thereafter the NCCL approached the High Court by way of Arbitration Petition Nos.115/2018,
+356/2018, 116/2018, 407/2018 and 406/2018. By the impugned // 14 // judgment and orders, the
+High Court has allowed all the respective applications under Section 11(6) of the Arbitration Act and
+by different impugned judgment and orders, has appointed the sole Arbitrator. Impugned judgment
+and orders passed by the High Court is the subject matter of Civil Appeal Nos.341/2022 to
+345/2022.
+
+7. Shri K.K. Venugopal, learned Attorney General has appeared on behalf of the appellant – IOCL
+and Shri Ranjith Kumar, learned Senior Advocate has appeared on behalf of the respondent –
+NCCL.
+
+8. Shri K.K. Venugopal, learned Attorney General appearing on behalf of the IOCL has vehemently
+submitted that in the present case both the parties are governed by the terms of the contract entered
+into between the parties viz. the GCC. That in fact, both the parties are governed by the procedure to
+be followed in case of dispute between the parties, more particularly contained in the GCC and the
+arbitration clause.
+
+8.1 It is further submitted by the learned Attorney General that party autonomy is the backbone of
+arbitration and the terms of the contract have to be interpreted in the way the parties wanted and
+intended them to be. In this regard reliance is placed upon the decision of this Court in the case of
+Centrotrade Minerals & Metal Inc. v. // 15 // Hindustan Copper Ltd. reported in (2017) 2 SCC 228
+(Paras 38−42).
+
+8.2 It is submitted by the learned Attorney General that there are three categories of contracts which
+could arise for consideration, which can be summarized as under:
+
+(i) Where no arbitration agreement exists at all. As the arbitration agreement itself is
+an independent contract and is consensual in nature, it is left to the parties to include
+an arbitration agreement in the underlying contract, or not to include it. If no
+arbitration agreement exists in a contract, the only option if a dispute arises for either
+party is to go by way of a suit;
+
+(ii) An arbitration agreement can exist in the underlying contract or outside the
+contract, which is absolute in terms. This is the standard arbitration clause, and
+would be in the nature of “where any dispute arises between the parties in relation to
+the interpretation or implementation of this contract, it shall be referred to
+arbitration under the Arbitration and Conciliation Act, 1996...” This would be an
+UNRESTRICTED or ABSOLUTE arbitration clause.
+
+8
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+In such a case, in the background of Section 11(6−A), no question of the Court declining to refer the
+matter to arbitration would arise, if it finds that the arbitration // 16 // agreement exists and is
+valid. In such a case, every dispute between the parties has to be referred to arbitration because
+Section 11(6−A) would mandate this;
+
+(iii) The third category would be where the parties agree to have an arbitration clause but also
+consensually agree that certain specified disputes alone will be the subject of arbitration. This would
+mean that no arbitration clause exists in regard to all other disputes, and no arbitration clause
+would exist in regard to the ‘excepted’ or ‘excluded’ disputes. In such a case, Section 11(6−A) itself
+cannot be invoked as no arbitration clause exists in regard to these other disputes. This would be a
+RESTRICTED arbitration clause.
+
+8.3 It is further submitted by the learned Attorney General that when all the conditions mentioned
+in the GCC are satisfied and the procedure is followed and only with respect to the restricted
+arbitration clauses and with respect to the Notified Claims only the dispute between the parties can
+be referred to the arbitration.
+
+8.4 It is submitted that there are umpteen number of examples of restricted arbitration clauses.
+Reliance is placed on the decision of this Court in the case of United India Insurance Co. Ltd. v.
+Hyundai Engg. & Construction Co. Ltd. reported in (2018)17 SCC 607, // 17 // where the arbitration
+clause expressly stated that where a claim is made against the insurer and the insurer denies its
+liability, no reference to arbitration can take place. In support of the above submission, reliance is
+placed on following decisions of this Court:
+
+(1) Vidya Drolia v. Durga Trading Corpn.
+
+[(2021)2 SCC 1, Paras 113−116) (2) Garware Wall Ropes Ltd. vs. Coastal Marine
+Constructions & Engg.
+
+[(2019) 9 SCC 209, Paras 28−29) (3) Oriental Insurance Co. Ltd. v. Narbheram
+Power & Steel (P) Ltd.
+
+[(2018) 6 SCC 534, Paras 10, 23] 8.5 It is submitted by the learned Attorney General that in the
+aforesaid decisions, this Court had occasion to consider the applicability of Section 11(6−A) and its
+impact.
+
+8.6 It is submitted that in the case of Garware (supra), it is observed and held that where the
+underlying contract including the arbitration clause is not stamped, in such a case, the arbitration
+clause exists in fact but DOES NOT EXIST IN LAW. That in other words, Section 11(6− A) will not
+be a Bar for the Court holding that as the arbitration clause does not cover the particular dispute,
+Section 11(6−A) will not apply as there is no arbitration // 18 // clause in that regard and therefore,
+no reference to arbitration can be made.
+
+9
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+8.7 It is submitted that in the case of Vidya Drolia (supra), this Court had considered various aspects
+with respect to the restricted arbitration clause. But in the case of unrestricted clauses, all issues
+raised by the contracting parties will have to be referred to arbitration, because of Section 11(6−A).
+However, the instant case is a case of a restricted arbitration clause that specifically excludes certain
+issues from arbitration, as a result of which, no arbitration clause exists for those ‘other’ or
+‘excepted’ disputes and hence, the question of referring those disputes would not arise. That in the
+case of Vidya Drolia (supra), the Arbitration Agreement itself sets out what is excluded from
+arbitration. Therefore, it was held that Section 11(6−A) would not stand in the way of making a
+reference.
+
+8.8 It is further submitted by learned Attorney General that in the present case the respondent
+NCCL received the amount of final bill in full settlement of their claims. That in the present case the
+arbitration clause itself states that where the final bill amount has been received by the party, or
+where a sum has been received on account of Notified Claims, the arbitration clause itself stands
+extinguished. Therefore, the fact that amount of final bill having been received in full settlement
+cannot // 19 // be the subject matter of reference by any specific stipulation in the contract.
+
+8.9 Learned Attorney General has taken us to the relevant clauses of the GCC more particularly
+Clauses 1.21.0.0, 6.6.0.0, 6.6.1.0, 6.6.2.0, 6.6.3.0, 6.6.3.1, 6.6.4.0, 6.6.5.0, 6.6.6.0, 6.7.0.0, 6.7.1.0,
+6.7.2.0, 6.7.3.0, 9.0.0.0, 9.0.1.0, 9.0.1.1, 9.0.2.0 and 9.0.3.0. It is contended that as per Clause
+9.0.1.0, the only matter to which a reference to arbitration can be sought is a “Notified Claim”
+included in the final bill and to no other dispute. That all disputes other than Notified Claims
+included in the final bill, have to be pursued by way of a suit. The expression, “Notified Claim” is
+defined in Clause 1.21.0.0 of the GCC.
+
+8.10 It is urged that only those Notified Claims which are notified in accordance with provisions of
+Clause 6.6.1.0, can be referred to arbitration.
+
+8.11 It is submitted that the parties are at liberty to provide within the contract a departmental
+machinery for resolution of certain matters, the determination of which will be outside the scope of
+arbitration. That such departmental machinery, being the will of the parties as embodied in the
+contract, must be respected and given effect to. In support of the above submissions, reliance is
+placed on the following decisions of this Court:
+
+// 20 //
+
+(i) Food Corporation of India v. Sreekanth Transport (1999)4 SCC 491 (Paras 2, 3)
+
+(ii) Harsha Constructions v. Union of India (2014) 9 SCC 246 (Paras 14, 18, 19)
+
+(iii) Mitra Guha Builders (India) Company v. Oil and Natural Gas Corporation Ltd.
+
+(2020) 3 SCC 222 (Paras 23, 24, 26, 30) 8.12 The learned Attorney General has also
+relied upon the following decisions of the Delhi High Court and Gauhati High Courts
+
+10
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+dealing with identical clause in cases where the IOCL was a party and in which the
+Delhi High Court and Gauhati High Court have expressly interpreted the very Clause
+9.0.1.0 and 9.0.2.0.
+
+(i) China Petroleum Pipeline Bureau v. Indian Oil Corporation Ltd. [ARB.A. (COMM.) 35/2019,
+decision dated 10.01.2020]
+
+(ii) Srico Projects Pvt. Ltd. v. Indian Oil Foundation [ARB. PET. 276/2016 decided on 09.01.2017
+along with order dated 03.07.2017]
+
+(iii) Institute of Geoinformatics (P) Ltd. v. Indian Oil Corporation Ltd. [ARB. PET. 175/2012 decided
+on 19.05.2015]
+
+(iv) IOT Infrastructure and Energy Service v. Indian Oil Corporation Ltd. [ARB. PET. 334/2014
+decided on 12.02.2015]
+
+(v) Bongaigaon Refinery v. M/s. Buildworth Pvt. Ltd. // 21 // [Arb.Appeal 10/2006 before Gauhati
+High Court] 8.13 It is submitted that the Special Leave Petitions against the decision in the case of
+China Petroleum Pipeline Bureau (supra) and Srico Projects Pvt. Ltd. (supra) have been dismissed
+by this Court.
+
+8.14 It is further submitted by learned Attorney General that in the present case the final bill
+payment had been made to the respondent and accepted by it pursuant to an understanding
+between the parties by which the respondent expressly waived its Notified Claims. It is submitted
+that the arbitration clause itself is subject to Clauses 6.7.1.0 and 6.7.2.0. It is submitted that Clause
+6.7.2.0 dealing with “Notified Claims” expressly declares that the acceptance of any amount by the
+contractor in respect of the Notified Claims shall result in full and final satisfaction of the claims by
+the contractor in respect of the Notified Claims and hence, the contract, including the arbitration
+clause, shall stand discharged and extinguished. This is as per Clause 6.7.2.0 itself, notwithstanding
+any qualifying remarks, protest or condition imposed or purported to be imposed by the contractor
+relative to the acceptance of such payment.
+
+8.15 It is submitted that applying these principles to the present case, NCCL’s express statement
+dated 02.11.2016 is required to be appreciated and/or // 22 // considered. That pursuant to the said
+statement by the NCCL, the IOCL (petitioner) levied a price adjustment of only 4% as opposed to
+10%; and the respondent expressly withdrew its Notified Claims. It is submitted that the IOCL also
+paid the dues as per the final bill. The Notified Claims, having been withdrawn, therefore, could not
+more be the subject matter of any reference to arbitration. It is submitted that as a result of the
+acceptance by the NCCL of the amount paid pursuant to its final bill, and the Notified Claims having
+been withdrawn, and the result of Clauses 6.7.1.0 and 6.7.2.0, the contract, including the arbitration
+clause stands discharged and extinguished and therefore, subsequently, no reference to arbitration
+could be made.
+
+11
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+8.16 It is submitted that it is only 6½ months later, on 16.05.2017 and after receiving the final bill
+payment 8 days earlier on 08.05.2017, that the NCCL reneged on its letter withdrawing its demand
+in regard to Notified Claims. It is submitted that the reason why the NCCL withdrew their demand
+for payment of the full amount of final bill including Notified Claims is that if 10% has been
+deducted due to the delay, an amount of Rs.14.8 Crores would have been deducted from the
+payment of NCCL. It is submitted that having received Rs.151 Crores against the contract of Rs.148
+Crores, the NCCL was well aware that in such an eventuality, it would have received no amount
+against the final bill and its // 23 // bank guarantee would also have been invoked. That in fact by
+withdrawing the demand, the respondent was now able to get Rs.4.53 Crores as well as the return of
+the bank guarantee of Rs.14.8 Crores.
+
+8.17 It is further submitted that Clause 9.0.2.0 of the GCC specifically excludes certain matters, such
+as disputes concerning the scope of the arbitration agreement, viz.,
+
+(i) whether or not a claim is a Notified Claim; (ii) whether or not a Notified Claim is included in the
+contractor’s bill etc.; from the scope, purview and ambit of the Arbitration Agreement. It is
+submitted that under sub− Clause (iii) thereof, a Notified Claim covered by a decision of the General
+Manager is specifically an excluded matter. It is submitted that in the present case the General
+Manager rejected the demand of the NCCL in regard to the Notified Claims, particularly as the
+demand in regard to ‘Notified Claims’ had been specifically withdrawn by the NCCL. It is submitted
+therefore that viewed from any angle, as no arbitration clause existed so far as the NCCL is
+concerned, the High Court has committed a serious error in referring the dispute between the
+parties to Arbitrator and appointing the Arbitrator.
+
+8.18 Now, so far as the other four cases are concerned, the learned Attorney General has submitted
+that in those four cases the claims were referred / sent to the General // 24 // Manager under
+Clause 9.0.2.0 of the GCC. That in all the remaining cases the General Manager declared that none
+of the claims of the NCCL was a Notified Claim. Therefore, the claims which are found by the
+General Manager not to be Notified Claims are not arbitrable and are outside the scope and purview
+of the Arbitration Agreement. It is submitted that in that view of the matter, the High Court ought to
+have dismissed the applications / petitions filed by the NCCL under Section 11 of the Arbitration
+Act.
+
+Making above submissions and relying upon decisions, it is prayed to allow the present appeals and
+set aside the respective orders passed by the High Court referring the dispute between the parties to
+arbitration and appointing the sole Arbitrator.
+
+9. Present appeals are vehemently opposed by Shri Ranjith Kumar, learned Senior Advocate
+appearing on behalf of the respondent – NCCL.
+
+9.1 Shri Ranjith Kumar, learned Senior Advocate appearing for the respondent – NCCL has made
+following submissions pointing out the relevant facts which, according to him, are relevant for
+deciding the dispute in present appeals.
+
+12
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+(1) That, the parties herein had entered into an agreement, whereby the respondent NCCL was // 25
+// tasked with the job of completing the civil, structural and associated UG Piping works for the
+Paradip Refinery;
+
+(2) Due to certain reasons attributable to IOCL, there was a delay in completion of the works;
+
+(3) In accordance with the GCC, NCCL on 23.05.2016, applied for extension of time and submitted
+its final bill on 05.08.2016;
+
+(4) On 29.07.2016, NCCL issued the No Due Certificate, however, it also made it clear that the said
+Certificate would not include final bill amount, service tax amount and the Notified Claims due from
+IOCL;
+
+(5) The Engineer−in−charge vide letter dated 01.01.2016, expressly acknowledged the presence of
+“Notified Claims” in the final bill and coerced NCCL to take back its Notified Claims in order to
+process its application for EOT;
+
+(6) Under duress, NCCL was constrained to issue a letter on 02.11.2016 withdrawing its Notified
+Claims on the twin condition that the application for EOT is considered favorably and the price
+discount does not exceed 4% of the contract value; (7) That, the letter dated 02.11.2016 was clearly
+conditional and was in the nature of an offer and not an acceptance;
+
+(8) Vide letter dated 13.01.2017, IOCL informed NCCL // 26 // that they had only partially allowed
+the application for EOT and a price discount of 4% was applied to the period for which the
+application for EOT was not allowed. Therefore, it is clear that IOCL did not positively respond to
+both the conditions stated by NCCL in its letter dated 02.11.2016;
+
+(9) That, aggrieved by the aforesaid decision, NCCL without any delay, on 23.01.2017,
+communicated that the decision to partially allow its application for EOT is unacceptable as the
+same is not in accordance with the conditional offer given by NCCL and also since the delay was
+caused due to reasons attributable to the IOCL;
+
+(10) Disregarding the aforesaid letter, IOCL on 08.05.2017, unilaterally released the payment
+against the final bill, after adjusting the price discount;
+
+(11) That, NCCL on 16.05.2017 i.e. within 10 days from the release of the amount, informed IOCL
+that the application for price discount is misplaced and its ‘Notified Claims’ still hold good as the
+conditional offer of NCCL was not accepted;
+
+(12) Since IOCL miserably failed to provide an appropriate response within a reasonable period of
+time, NCCL invoked the arbitration clause i.e. Clause 9.0.1.0 of the GCC and submitted its claims to
+IOCL;
+
+13
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+// 27 // (13) It is submitted that as per Clause 9.0.1.0 read with Clause 9.0.2.0 of the GCC, IOCL had
+to refer the claims of NCCL to its General Manager and then the General Manager was to issue a
+declaration pursuant to which the arbitration could commence;
+
+(14) It is submitted that in the claims concerned in four of the petitions, the determination was
+made by the General Manager in an inordinately belated manner. It is submitted that in 3 out of 5
+petitions, the determination by the General Manager was made after NCCL filed the arbitration
+petitions before the High Court. It is submitted that in a completely malafide and deceptive manner,
+IOCL claims to have made a reference to the General Manager who determined the nature of claims
+after filing of the counter affidavit by NCCL before this Court.
+
+(15) It is submitted that therefore, as such, IOCL is attempting to scuttle respondent’s contractual
+right to pursue arbitration by bringing on record a document nearly two years after the respondent
+invoked the arbitration clause.
+
+(16) It is submitted that the General Manager’s decision which is relevant in SLP Nos.13161 and
+13183 of 2019 was based on the ground that there was full and final settlement between the parties.
+It is // 28 // submitted that as the decision of the General Manager on “Notified Claims” was
+erroneous, malafide and on technical grounds, NCCL rightly approached the High Court of Delhi
+under Section 11(6) of the Arbitration Act seeking the relief of appointment of Arbitrator. It is
+submitted that therefore the High Court is absolutely justified in appointing the Arbitrator.
+
+9.2 Shri Ranjith Kumar, learned Senior Advocate appearing for NCCL has supported the impugned
+orders passed by the High Court by making the following broad submissions:
+
+(1) As per the agreement entered into between the parties, the General Manager is
+not permitted to decide if a claim is barred by virtue of there being accord and
+satisfaction or a claim being an excepted claim.
+
+(2) Under Section 11(6−A) of the Arbitration Act, at the stage of appointment of an
+arbitrator, the scope of intervention by the Courts is confined to the examination of
+the existence of an arbitration agreement.
+
+(3) At the stage of appointment of the arbitrator, the Court cannot look into whether
+there has been accord and satisfaction between the parties (4) At the stage of
+appointment of arbitrator, the Court cannot look into whether a claim is an excepted
+// 29 // claim or not.
+
+(5) Contractual clauses cannot be read in a manner that abridges statutory rights and
+the doctrine of mutuality, to confer the power to unilaterally determine arbitrability
+of a dispute upon one of the parties.
+
+(6) As per the doctrine of election, the present proceedings ought to be dismissed
+since IOCL has preferred an application under Section 16(2) and 16(5) challenging
+
+14
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+the jurisdiction of the Arbitral Tribunal.
+
+9.3 On an interpretation of the Clauses of the GCC, Shri Ranjith Kumar, learned Senior Advocate
+appearing for the respondent NCCL has submitted that a bare perusal of the relevant clauses of the
+GCC would indicate that the General Manager of IOCL is neither entitled to examine whether a
+“Notified Claim” is an ‘excepted claim’ nor can he look into the issue whether there is accord and
+satisfaction between the parties. 9.4 It is submitted that Clause 9.0.1.0 is subject to Clauses 6.7.1.0,
+6.7.2.0 and 9.0.2.0. Further, Clause 9.0.2.0 creates a machinery whereby IOCL has unbridled power
+conferred upon its General Manager to certify if a claim is capable of being referred to arbitration.
+The said clause, according to IOCL vests the sole discretion of deciding the arbitrability of claims on
+the General Manager. It is submitted that, as such, the // 30 // interpretation of the Clause as
+suggested by IOCL, is in derogation of not only the arbitrator’s power to decide arbitrability, but also
+the Court’s power under Section 11 of the Arbitration Act.
+
+9.5 It is submitted that the said Clause would indicate that the General Manager is only supposed to
+see if the claim raised by the respondent is (i) a Notified Claim as defined under Clause 1.21.0.0 r/W.
+Clause 6.6.1.0; and
+
+(ii) whether the Notified Claim is included in the final bill in accordance with Clause 6.6.3.0. That
+the General Manager is not empowered under the said Clause to state that a claim is not arbitrable
+due to full and final settlement between the parties or due to a claim being an excepted claim.
+
+9.6 It is submitted that in the present case, the IOCL has admitted that the claims raised by the
+respondent are ‘Notified Claims’ and this fact has never been disputed by the IOCL or its General
+Manager. It is submitted that even the second condition is also fulfilled as the respondent’s final bill
+includes its Notified Claims. It is submitted that thus the only logical conclusion which follows is
+that the Notified Claims raised by the respondent should have been referred to arbitration.
+However, the General Manager of the IOCL, in two cases, denied referring the Notified Claims to
+arbitration on the ground that there was full and final settlement // 31 // between the parties, and in
+other three cases the General Manager has denied referring the Notified Claims to arbitration on the
+ground that they are ‘excepted claims’.
+
+9.7 It is submitted that as per the GCC, the General Manager is not entitled to resist the reference of
+a Notified Claim to arbitration on the ground of accord and satisfaction. That the aspect pertaining
+to full and final settlement between the parties, forms part of Clauses 6.7.1.0 and 6.7.2.0 and not of
+Clause 9.0.2.0. That, in fact, Clause 6.7.1.0 expressly provides that upon payment of sums under the
+final bill, there shall be full and final settlement, without prejudice to the Notified Claims of the
+contractor included in the final bill. It is submitted that therefore, even after the payment of money
+on 08.05.2017, Notified Claims are neither settled nor is there full and final settlement in respect of
+Notified Claims. It is submitted that insofar as ‘excepted claims’ are concerned, as per Clause
+9.0.2.0, once the General Manager comes to a decision that a claim is a Notified Claim and the same
+is included in the final bill, he is duty bound to refer the claim to arbitration. It is submitted that
+therefore the reasoning behind the decision rendered by the General Manager that the claims are
+not Notified Claims is not only unsustainable, but is also ex facie contrary to Clause 9.0.2.0. It is
+
+15
+
+submitted that Clause 9.0.2.0 does not // 32 // render the decision of the General Manager final.
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+9.8 It is further submitted that vide the Amendment Act, 2015, section 11(6−A) has been inserted by
+virtue of which, the scope of intervention at Section 11 stage is very narrow. Reliance is placed upon
+the decision of this Court in the case of Duro Felguera S.A. v. Gangavaram Port Limited [(2017) 9
+SCC 729]. It is submitted that after insertion of Section 11(6−A), the scope of intervention by the
+Court at the stage of appointment of Arbitrator is narrowed down and the Courts may have to now
+only examine the existence of a valid arbitration agreement. That in the aforesaid decision it is held
+that the legislative purpose is essentially to minimize the Court’s intervention at the stage of
+appointment of Arbitrator and that the intention as incorporated in Section 11(6−A) ought to be
+respected is the submission.
+
+9.9 It is submitted that despite the above binding decision, in the subsequent decision in the case of
+United India Insurance Co. Ltd. v. Antique Art Exports (P) Ltd. [(2019) 5 SCC 362], a coordinate
+Bench of this Court took the view that once a claim is settled, it leaves no arbitral dispute subsisting
+under the agreement to be referred to the Arbitrator.
+
+9.10 It is submitted that the conflicting decisions were considered and the issue has now been
+settled by a // 33 // Three Judges Bench of this Court in a subsequent decision rendered in the case
+of Mayavati Trading Private Limited v. Pradyuat Deb Burman [(2019) 8 SCC 714]. That after
+considering in detail the 246th Law Commission Report; the report of the High−Level Committee
+regarding institutionalization of arbitration in India and the Statement of Objects and Reasons of
+the 2015 Amendment Bill, it is held that post−2015, the scope of the Courts’ powers at the stage of
+appointment of Arbitrator is confined to the examination of the existence of the arbitration
+agreement. It is submitted that the decision of this Court in the case of Mayavati Trading Private
+Limited (supra) has been subsequently followed by this Court in a recent decision in the case of
+Vidya Drolia (supra).
+
+9.11 Shri Ranjith Kumar, learned Senior Advocate appearing on behalf of the respondent has also
+relied upon the following decisions of this Court in support of his submissions of applicability of
+Section 11(6−A) and a very limited jurisdiction of the Courts while considering an application of
+Section 11(6−A) of the Arbitration Act post−2015.
+
+(1) Uttarakhand Purv Sainik Kalyan Nigam Ltd. v.
+
+Northern Coal Field Ltd.
+
+(2020)2 SCC 455 (2) BSNL & Anr. v. Nortel Networks India Pvt. Ltd.
+
+(2021)5 SCC 738 // 34 // (3) Pravin Electricals (P) Ltd. v. Galaxy Infra & Engg.
+
+(P) Ltd.
+
+16
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+(2021)5 SCC 671 (4) Sanjiv Prakash v. Seema Kukreja (2021)9 SCC 732 9.12 It is further submitted
+that although 2019 Amendment to the Arbitration Act has deleted Section 11(6−A), this Court in the
+case of Vidya Drolia (supra) has clarified that the rationale behind the insertion of Section 11(6−A)
+of the Arbitration Act would continue to apply and guide the Courts on its scope of jurisdiction at
+stage one, that is, the pre−arbitration stage.
+
+9.13 It is further submitted by learned Senior Advocate appearing for the respondent NCCL that as
+held by this Court in the case of Vidya Drolia (supra) as well as in the case of Swiss Timing Limited
+v. Commonwealth Games 2010 Organizing Committee [(2014) 6 SCC 677], the role of a Court is to
+assist and support arbitration and leave a substantive part of the adjudication to the arbitral
+Tribunal. It is submitted therefore that at the stage of an application filed under Section 11, the
+Court is only supposed to look as to, whether, a valid arbitration agreement exists. It is submitted
+that therefore the scope of intervention by the Court is restricted at the stage of appointment of //
+35 // Arbitrator and it can neither examine whether certain claims are ‘excepted’ nor can it look into
+the issue of whether there is “accord and satisfaction”.
+
+9.14 It is further submitted by learned Senior Advocate appearing for the respondent NCCL that in
+cases where the claims are rejected by the General Manager on the ground that there was “accord
+and satisfaction” between the parties and hence, not referable to arbitration, in the instant case the
+respondent has disputed petitioner’s contention on “accord and satisfaction” even before the
+payment of final bill. It is submitted that therefore the issue whether “accord and satisfaction”
+existed between the parties is virtual in nature and examination of the same would require detailed
+perusal of the evidence by the Arbitral Tribunal. That in any event, pursuant to the introduction of
+Section 11(6−A), the Court has to restrict itself to the issue of existence of the Arbitration Agreement
+at Section 11 stage and cannot delve into the issue of “accord and satisfaction” is the submission.
+
+9.15 Relying upon the decisions of this Court in the case of Ambica Construction v. Union of India
+reported in (2006) 13 SCC 475 and R.L. Kalathia & Co. v. State of Gujarat reported in (2011) 2 SCC
+400, it is submitted that as observed by this Court in the aforesaid two decisions, in many instances,
+contractors are coerced to issue a no−dues certificate, without which // 36 // no amount would be
+released. It is submitted that in the aforesaid decision it is observed that merely because the
+contractor has issued “No Dues Certificate”, if there is an acceptable claim, the Court cannot reject
+the same on the ground of issuance of “No Dues Certificate”.
+
+9.16 It is further submitted that the question whether a Notified Claim is an ‘excepted claim’, is
+within the exclusive domain of the Arbitrator to be answered. Reliance is placed on the decision of
+this Court in the case of BSNL v. Motorola India (P) Ltd. reported in (2009) 2 SCC 337 and National
+Insurance Co. Ltd. v. Boghara Polyfab Pvt. Ltd. reported in (2009) 1 SCC 267 (even prior to 2015
+Amendment to the Arbitration Act) as well as in the case of Zostel Hospitality (P) Ltd. vs. Oravel
+Stays (P) Ltd. reported in (2021) 9 SCC
+
+765. 9.17 It is further submitted that Section 11 of the Arbitration Act expressly confers powers upon
+the Courts to determine the existence of an Arbitration Agreement and subsequently appoint an
+Arbitrator. It is submitted that Section 8 confers upon the Courts and judicial authorities the power
+
+17
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+to refer the parties to arbitration when there is an arbitration Agreement. Similarly, section 16 of the
+Arbitration Act categorically recognizes and empowers the Arbitral Tribunal to rule on any objection
+raised as against its jurisdiction. It is // 37 // submitted that therefore petitioner’s interpretation of
+Clause 9.0.2.0 of the GCC qua the purported finality of the determination of its General Manager,
+seeks to usurp the statutory powers of the Courts as enshrined under Sections 8 and 11 and the
+statutory power of an arbitral Tribunal as enshrined under Section 16.
+
+9.18 It is further submitted that insofar as the claims concerned in other four petitions (except the
+lead matter), the determination was made after an inordinate delay. That in 3 out of 5 petitions, the
+determination by the General Manager was made after the respondent filed the Arbitration Petitions
+before the High Court. That in SLP No.13408/2019, even no reference to the General Manager was
+made until the filing of the Arbitration Petition before the High Court. That therefore the General
+Manager’s decision in the aforesaid four SLPs is inefficacious as the determination has been made
+not only thirty days after the submission of the claim, but also after the arbitration petitions were
+filed before the High Court. Reliance is placed upon the decisions of this Court in the case of Datar
+Switchgears Ltd. v. Tata Finance Ltd. reported in (2000) 8 SCC 151 (Paras 18 and 19).
+
+9.19 It is further submitted by Shri Ranjith Kumar, learned Senior Advocate appearing for
+respondent − NCCL that in the present case, the petitioner had filed an // 38 // application
+challenging the jurisdiction of the Arbitral Tribunal under Sections 16(2) and 16(5) of the
+Arbitration Act before the Arbitral Tribunal on 10.06.2019, which is, after filing of the present
+petition and before the issuance of notice by this Court on 03.07.2019. That the petitioner has not
+disclosed the same and has suppressed this factum of pursuing two remedies simultaneously. It is
+submitted that therefore as the petitioner has elected to pursue the proceeding before the Arbitral
+Tribunal and as per the doctrine of election of remedies, the petitioner ought not to be permitted to
+continue the present proceedings before this Court.
+
+Making above submissions, it is prayed to dismiss the present appeals.
+
+10. We have heard learned Senior Advocates appearing for the respective parties at length.
+
+10.1 By the impugned orders the High Court in exercise of powers under Section 11(6) of the
+Arbitration Act has appointed the Arbitrators to adjudicate and resolve the disputes between the
+parties arising out of the respective contracts. The respective orders passed by the High Court
+appointing the Arbitrator in applications under Section 11(6) of the Arbitration Act are the subject
+matter of present appeals.
+
+// 39 // 10.2 It cannot be disputed that both the parties are governed by the GCC. The GCC are the
+part of the Agreements / Contracts between the parties. Under the GCC, the parties have agreed to
+resolve the dispute between them only in terms of the relevant clauses of the GCC referred to
+hereinabove. The parties have agreed that certain specified disputes alone will be the subject of
+arbitration.
+
+10.3 In the case of Narbheram Power & Steel (P) Ltd.
+
+18
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+(supra), it is observed and held that the parties are bound by the Clauses enumerated in the policy
+and the Court does not transplant any equity to the same by re− writing a clause. It is further
+observed and held that an arbitration clause is required to be strictly construed. Any expression in
+the clause must unequivocally express the intent of arbitration. It can also lay the postulate in which
+situations the arbitration clause cannot be given effect to. It is further observed that if a clause
+stipulates that under certain circumstances there can be no arbitration and they are demonstrably
+clear then the controversy pertaining to appointment of Arbitrator has to be put to rest (Paras 10−
+23).
+
+10.4 In the case of Centrotrade Minerals & Metal Inc. (supra), this Court had an occasion to consider
+the concept of party autonomy and it is observed and held that party autonomy is virtually the
+backbone of arbitration. It is // 40 // further observed and held that party autonomy being the
+brooding and guiding spirit in arbitration, the parties are free to agree on the application of three
+different laws governing their entire contract – (1) proper law of contract; (2) proper law of
+arbitration agreement and (3) proper law of the conduct of arbitration. It is further observed in the
+said decision that the parties to an arbitration agreement have the autonomy to decide not only on
+the procedural law to be followed but also the substantive law. The choice of jurisdiction is also left
+to the contracting parties.
+
+10.5 In the case of DLF Universal Ltd. & Anr. v. Director, Town and Country Planning Department,
+Haryana & Ors. [(2010) 14 SCC 1], it is observed and held that the contract is to be interpreted
+according to its purpose. The purpose of a contract is the interest, objective, values, policy that the
+contract is designed to actualize. It comprises the joint intent of the parties. It is observed that it is
+not an intent of a single party; it is the joint intent of both the parties and the joint intent of the
+parties is to be discovered from the entirety of the contract and the circumstances surrounding its
+formation (Para 13).
+
+10.6 In the case of Rajasthan State Industrial Development and Investment Corporation & Anr. v.
+Diamond and Gem Development Corporation Ltd. & Anr. [(2013) 5 // 41 // SCC 470], it is observed
+and held that a party cannot claim anything more than what is covered by the terms of the contract,
+for the reason that the contract is a transaction between two parties and has been entered into with
+open eyes and by understanding the nature of contract. It is further observed that thus the contract
+being a creature of an agreement between two or more parties has to be interpreted giving literal
+meanings unless there is some ambiguity therein. The contract is to be interpreted giving the actual
+meaning to the words contained in the contract and it is not permissible for the Court to make a new
+contract, however reasonable, if the parties have not made it themselves. It is further observed that
+the terms of the contract have to be construed strictly without altering the nature of a contract as it
+may affect the interest of either of the parties adversely (Para 23).
+
+10.7 In the case of Mitra Guha Builders (India) Company (supra), while interpreting the clause by
+which the parties agreed that the decision of the Superintending Engineer in levying compensation
+is final and the same is an ‘excepted matter’ and the determination shall be only by the
+Superintending Engineer and the correctness of his decision cannot be called in question in the
+arbitration proceedings and the remedy, if any, will arise in the ordinary course of law, the Three
+
+19
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+Judges Bench of this Court after referring to and // 42 // considering the earlier decisions on the
+point observed and held that once the parties have decided that certain matters are to be decided by
+the Superintending Engineer and his decision would be final, the same cannot be the subject matter
+of arbitration.
+
+10.8 In the case of Harsha Construction (supra), while interpreting the clause in the agreement by
+which some of the disputes were specifically not arbitrable and in relation to the said disputes the
+contractor had to negotiate with the Engineer concerned and if the contractor was not satisfied with
+the rate determined by the Engineer, the contractor was required to follow the procedure mentioned
+in the said clause and in this regard, in paras 18 and 19, it is observed and held as under:
+
+“18. Arbitration arises from a contract and unless there is a specific written contract,
+a contract with regard to arbitration cannot be presumed. Section 7(3) of the Act
+clearly specifies that the contract with regard to arbitration must be in writing. Thus,
+so far as the disputes which have been referred to in Clause 39 of the contract are
+concerned, it was not open to the Arbitrator to arbitrate upon the said disputes as
+there was a specific clause whereby the said disputes had been “excepted”. Moreover,
+when the law specifically makes a provision with regard to formation of a contract in
+a particular manner, there cannot be any presumption with regard to a contract if the
+contract is not entered into by the mode prescribed under the Act. // 43 //
+
+19. If a non−arbitrable dispute is referred to an Arbitrator and even if an issue is
+framed by the Arbitrator in relation to such a dispute, in our opinion, there cannot be
+a presumption or a conclusion to the effect that the parties had agreed to refer the
+issue to the Arbitrator. In the instant case, the respondent authorities had raised an
+objection relating to the arbitrability of the aforestated issue before the Arbitrator
+and yet the Arbitrator had rendered his decision on the said “excepted” dispute. In
+our opinion, the Arbitrator could not have decided the said “excepted” dispute.
+
+We, therefore, hold that it was not open to the Arbitrator to decide the issues which were not
+arbitrable and the award, so far as it relates to disputes regarding non−arbitrable disputes is
+concerned, is bad in law and is hereby quashed.” 10.9 At this stage, a recent decision of this Court in
+the case of Vidya Drolia (supra), which, as such, is post−insertion of Section 11(6−A) of the
+Arbitration Act, is required to be referred to. In the said decision it is observed and held that the
+issue of non−arbitrability of a dispute is basic for arbitration as it relates to the very jurisdiction of
+the Arbitral Tribunal. An Arbitral Tribunal may lack jurisdiction for several reasons and non−
+arbitrability has multiple meanings. After referring to another decision of this Court in the case of
+Booz Allen & Hamiltan Inc. v. SBI Home Finance Ltd. [(2011) 5 SCC 532 (Para 34)], it is observed
+and held that there are facets of non− arbitrability, namely “(i) Whether the disputes are capable of
+adjudication and settlement by arbitration? That is, whether the disputes, having regard to their
+nature, could be resolved by a private forum chosen by the parties (the // 44 // Arbitral Tribunal) or
+whether they would exclusively fall within the domain of public fora (courts).
+
+20
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+(ii) Whether the disputes are covered by the arbitration agreement? That is, whether the disputes
+are enumerated or described in the arbitration agreement as matters to be decided by arbitration or
+whether the disputes fall under the “excepted matters” excluded from the purview of the arbitration
+agreement.
+
+(iii) Whether the parties have referred the disputes to arbitration? That is, whether the disputes fall
+under the scope of the submission to the Arbitral Tribunal, or whether they do not arise out of the
+statement of claim and the counterclaim filed before the Arbitral Tribunal. A dispute, even if it is
+capable of being decided by arbitration and falling within the scope of an arbitration agreement, will
+not be “arbitrable” if it is not enumerated in the joint list of disputes referred to arbitration, or in the
+absence of such a joint list of disputes, does not form part of the disputes raised in the pleadings
+before the Arbitral Tribunal.” After referring to and considering in detail the earlier decisions on the
+point, more particularly, with respect to non−arbitrability and the ‘excepted matters’, it is ultimately
+concluded in para 76 as under:
+
+“76. In view of the above discussion, we would like to propound a four−fold test for
+determining when the subject matter of a dispute in an arbitration agreement is not
+arbitrable:
+
+76.1. (1) When cause of action and subject−matter of the dispute relates to actions in
+rem, that do not pertain to subordinate rights in personam that arise from rights in
+rem.
+
+76.2. (2) When cause of action and subject−matter of the dispute affects third−party
+rights; have erga omnes effect; require centralized adjudication, and // 45 // mutual
+adjudication would not be appropriate and enforceable;
+
+76.3. (3) When cause of action and subject−matter of the dispute relates to
+inalienable sovereign and public interest functions of the State and hence mutual
+adjudication would be unenforceable;
+
+76.4 (4) When the subject−matter of the dispute is expressly or by necessary
+implication non−arbitrable as per mandatory statute(s).
+
+76.5 These tests are not watertight compartments; they dovetail and overlap, albeit
+when applied holistically and pragmatically will help and assist in determining and
+ascertaining with great degree of certainty when as per law in India, a dispute or
+subject matter is non−arbitrable. Only when the answer is affirmative that the subject
+matter of the dispute would be non−arbitrable.
+
+76.6 However, the aforesaid principles have to be applied with care and caution as
+observed in Olympus Superstructures (P) Ltd.: (SCC p. 669, para 35) “35. ...Reference
+is made there to certain disputes like criminal offences of a public nature, disputes
+arising out of illegal agreements and disputes relating to status, such as divorce,
+
+21
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+which cannot be referred to arbitration. It has, however, been held that if in respect
+of facts relating to a criminal matter, say, physical injury, if there is a right to
+damages for personal injury, then such a dispute can be referred to arbitration (Keir
+v. Leeman). Similarly, it has been held that a husband and a wife may refer to
+arbitration the terms on which they shall separate, because they can make a valid
+agreement between themselves on that matter (Soilleux v. Herbst, Wilson v.
+
+Wilson and Cahill v. Cahill).” 10.10 On the question, who decides on non−arbitrability of the
+dispute, after referring to and considering the // 46 // earlier decisions on the point, more
+particularly, the decisions in the case of Garware Wall Ropes Ltd. (supra); Hyundai Engg. &
+Construction Co. Ltd. (supra) and Narbheram Power & Steel (P) Ltd. (supra), it is observed and held
+that the question of non− arbitrability relating to the inquiry, whether the dispute was governed by
+the arbitration clause, can be examined by the Courts at the reference stage itself and may not be left
+unanswered, to be examined and decided by the Arbitral Tribunal. Thereafter, in para 153, it is
+observed and held that the expression, “existence of arbitration agreement” in Section 11 of the
+Arbitration Act, would include aspect of validity of an arbitration agreement, albeit the Court at the
+reference stage would apply the prima facie test. It is further observed that in cases of debatable and
+disputable facts and, good reasonably arguable case etc., the Court would force the parties to abide
+by the arbitration Agreement as the Arbitral Tribunal has the primary jurisdiction and authority to
+decide the disputes including the question of jurisdiction and non−arbitrability. Ultimately in para
+154, the proposition of law is crystallized as under:
+
+“154. Discussion under the heading ‘Who decides Arbitrability?’ can be crystallized as
+under:
+
+154.1. Ratio of the decision in Patel Engineering Ltd. on the scope of judicial review
+by the court while deciding an application under Sections 8 or // 47 //
+
+11 of the Arbitration Act, post the amendments by Act 3 of 2016 (with retrospective effect from 23−
+10−2015) and even post the amendments vide Act 33 of 2019 (with effect from 9−8−2019), is no
+longer applicable.
+
+154.2. Scope of judicial review and jurisdiction of the court under Section 8 and 11 of the Arbitration
+Act is identical but extremely limited and restricted.
+
+154.3. The general rule and principle, in view of the legislative mandate clear from Act 3 of 2016 and
+Act 33 of 2019, and the principle of severability and competence−competence, is that the arbitral
+tribunal is the preferred first authority to determine and decide all questions of non−arbitrability.
+The court has been conferred power of “second look” on aspects of non− arbitrability post the award
+in terms of sub−clauses (i),
+
+(ii) or (iv) of Section 34(2)(a) or sub−clause (i) of Section 34(2)(b) of the Arbitration Act.
+
+22
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+154.3. Rarely as a demurrer the court may interfere at the Section 8 or 11 stage when it is manifestly
+and ex facie certain that the arbitration agreement is non− existent, invalid or the disputes are non−
+arbitrable, though the nature and facet of non− arbitrability would, to some extent, determine the
+level and nature of judicial scrutiny. The restricted and limited review is to check and protect parties
+from being forced to arbitrate when the matter is demonstrably “non−arbitrable” and to cut off the
+deadwood. The court by default would refer the matter when contentions relating to non−
+arbitrability are plainly arguable; when consideration in summary proceedings would be insufficient
+and inconclusive; when facts are contested; when the party opposing arbitration adopts delaying
+tactics or impairs conduct of arbitration proceedings. This is not the stage for the court to enter into
+a mini trial or elaborate review so as to usurp the jurisdiction of the arbitral tribunal but to affirm
+and uphold integrity and efficacy of arbitration as an alternative dispute resolution mechanism.”
+10.11 In the recent decision of this Court in the case of DLF // 48 // Home Developers Limited v.
+Rajapura Homes Private Limited and Another [2021 SCC Online SC 781] in which this Court also
+had an occasion to consider Section 11(6−A) of the Arbitration Act and ultimately has observed, after
+referring to and considering the decision of three Judges Bench of this Court in the case of Vidya
+Drolia (supra) that the jurisdiction of the Court under Section 11 of the Arbitration Act is primarily
+to find out whether there existed a written agreement between the parties for resolution of the
+dispute and whether the aggrieved party has made out a prima facie arguable case, it is further
+observed that limited jurisdiction, however, does not denude the Court of its judicial function to
+look beyond the bare existence of an arbitration clause to cut the deadwood. In the said decision,
+this Court had taken note of the observations made in the case of Vidya Drolia (supra) that with a
+view to prevent wastage of public and private resources, the Court may conduct ‘prima facie review’
+at the stage of reference to weed out any frivolous or vexatious claims.
+
+10.12 In the case of Nortel Networks India Pvt. Ltd. (supra), this Court had an occasion to consider
+the decision in the case of Vidya Drolia (supra) and in paras 46, 47 and 53.2, it is observed and held
+as under:
+
+“46. The upshot of the judgment in Vidya Drolia [Vidya // 49 // Drolia v. Durga
+Corpn., (2021) 2 SCC 1: (2021) 1 SCC (Civ) 549] is affirmation of the position of law
+expounded in Duro Felguera [Duro Felguera, S.A. v. Gangavaram Port Ltd., (2017) 9
+SCC 729 : (2017) 4 SCC (Civ) 764] and Mayavati Trading [Mayavati Trading (P) Ltd.
+v. Pradyuat Deb Burman, (2019) 8 SCC 714 : (2019) 4 SCC (Civ) 441], which continue
+to hold the field. It must be understood clearly that Vidya Drolia [Vidya Drolia v.
+Durga Corpn., (2021) 2 SCC 1: (2021) 1 SCC (Civ) 549] has not re−surrected the pre−
+amendment position on the scope of power as held in SBP & Co. v.
+
+Patel Engg. Ltd. [SBP & Co. v. Patel Engg. Ltd., (2005) 8 SCC 618].
+
+47. It is only in the very limited category of cases, where there is not even a vestige of doubt that the
+claim is ex facie time−barred, or that the dispute is non−arbitrable, that the court may decline to
+make the reference. However, if there is even the slightest doubt, the rule is to refer the disputes to
+arbitration, otherwise it would encroach upon what is essentially a matter to be determined by the
+tribunal. 53.2. In rare and exceptional cases, where the claims are ex facie time−barred, and it is
+
+23
+
+manifest that there is no subsisting dispute, the Court may refuse to make the reference.”
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+11. Applying the law laid down by this Court in the aforesaid decisions, let us consider the relevant
+clauses of the GCC governing the parties and the procedure to be followed in case of disputes
+between the parties to the contract on non−payment of alleged dues may be on account of extra
+payment or compensation in respect of the works over and above the amounts due in terms of the
+contract and/or the dispute on the validity of any deductions made or threatened by the owner. //
+50 // 11.1 Clause 1.21.0.0 defines “Notified Claims”. It means a claim of the contractor notified in
+accordance with the provisions of Clause 6.6.1.0. As per Clause 6.6.1.0, the contractor shall have to
+give notice in writing of his claim with respect to any extra payment or compensation in respect of
+the works over and above the amounts due in terms of the contract or on the validity of any
+deductions made or threatened by the owner from any running account bills, by giving notice in
+writing of his claim in this behalf to the Engineer−in− Charge and the Site Engineer within ten days
+from the date of issue of the orders or instructions relative to any works for which the contractor
+claims such additional payment… etc. Such notice shall give full particulars of the nature of such
+claim, grounds on which it is based and the amount claimed. It also further provides that the owner
+shall not in any way be liable to in respect of any claim by the contractor unless notice of such claim
+shall have been given by the contractor to the Engineer− in−Charge and the Site Engineer. It also
+further provides that a contractor shall be deemed to have waived any and all claims and all his
+rights in respect of any claim not notified to the Engineer−in−Charge and the Site Engineer in
+writing in the manner and within the time (ten days from the date of issue of the orders or
+instructions). It further provides that all such claims otherwise valid within the provisions of Clause
+6.6.1.0 // 51 // read with Clauses 6.6.3.0 and 6.6.3.1 shall have to be dealt with/considered by the
+owner at the time of submission of the Final Bill and that any action on the part of the owner
+(Engineer−in−Charge or Site Engineer) to reject any claim made or notified by the contractor or
+delay in dealing therewith shall be deemed to be an admission by the owner of the validity of such
+claim or waiver by the owner of any of its rights in respect thereof.
+
+11.2 As per Clause 6.6.3.0, any claims of the contractor notified in accordance with the provision of
+Clause 6.6.1.0 and remain due at the time of preparation of Final Bill by the contractor, shall have to
+be separately included in the Final Bill prepared by the contractor in the form of a Statement of
+Claims attached thereto, giving particulars of the nature of the claim, grounds on which it is based,
+and the amount claimed and shall be supported by a copy of the notice sent in respect thereof by the
+contractor to the Engineer−in−Charge and the Site Engineer under Clause 6.6.1.0. It further
+provides that any variance with the claim notified by the contractor within the provision of Clause
+6.6.1.0 shall be deemed to be a claim different from the Notified Claim with consequence in respect
+thereof indicated in Clauses 6.6.1.0 and 6.6.3.1.
+
+11.3 Clause 6.6.3.1 further provides that the owner (IOCL) // 52 // shall not in any way be liable in
+respect of any Notified Claim not specifically reflected in the Final Bill in accordance with the
+provisions of Clause 6.6.3.0. It further provides that in and all Notified Claims not specifically
+reflected and included in the Final Bill in accordance with the provisions of Clause 6.6.3.0 shall be
+deemed to have been waived by the contractor and the owner (IOCL) shall have no liability in
+respect thereof and the contractor shall not be entitled to raise or include in the Final Bill any claims
+
+24
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+other than a Notified Claim conforming in all respects and in accordance with the provisions of
+Clause 6.6.3.0.
+
+11.4 Clause 6.6.4.0 provides that no claim shall on any account be made by the contractor after the
+Final Bill. It further provides that any such claim shall be deemed to have been waived and with
+respect to all such claims not included in the Final Bill, the owner (IOCL) is absolved and
+discharged, even if not including the same, the contractor shall have acted under the mistake of law
+or fact.
+
+Thus, on a fair reading of the aforesaid provisions, it can be seen that only those claims which are
+Notified after following the procedure as referred to hereinabove shall be considered as “Notified
+Claim” and in respect of any claim other than the Notified Claim, the owner is not liable to pay and
+as such is absolved and discharged // 53 // under the said clauses.
+
+11.5 The next important clause is 6.7.0.0 with respect to the discharge of owner’s liability. As per
+Clause 6.7.1.0, the acceptance by the contractor of any amount paid by the owner to the contractor
+in respect of the final dues of the contractor under the Final Bill upon condition that the said
+payment is being made in full and final settlement of all said dues to the contractor shall, without
+prejudice to the Notified Claims of the contractor included in the Final Bill in accordance with the
+provisions of Clause 6.6.3.0, be deemed to be in full and final satisfaction of all such dues to the
+contractor notwithstanding any qualifying remarks, protest or condition imposed or purported to be
+imposed by the contractor relative to the acceptance of such payment.
+
+11.6 Clause 6.7.2.0 provides that the acceptance by the contractor of any amount paid by the owner
+(IOCL) to the contractor in respect of the Notified Claims of the contractor included in the Final Bill
+in accordance with the provisions of Clause 6.6.3.0 and associated provisions thereunder, upon the
+condition that such payment is being made in full and final settlement of all the claims of the
+contractor shall, subject to the provisions of Clause 6.7.3.0, be deemed to be in full and final
+satisfaction of all claims of the contractor notwithstanding any qualifying remarks, protest or // 54
+// condition imposed or purported to be imposed by the contractor relative to the acceptance of
+such payment with the intent that upon acceptance by the contractor of any payment made, the
+Contract (including the arbitration clause) shall stand discharged and extinguished insofar as relates
+to and/or concerns the claims of the contractor.
+
+11.7 The next important clause to be considered would be Clause 9.0.0.0. The said clause is for
+Alternative Dispute Resolution Machinery. As per Clause 9.0.1.0, subject to the earlier Clauses,
+namely Clauses 6.7.1.0, 6.7.2.0 and 9.0.2.0, any dispute arising out of a NOTIFIED CLAIM of the
+contractor included in the Final Bill of the contractor in accordance with the provisions of Clause
+6.6.3.0 and if the contractor has not opted for the Alternative Dispute Resolution Machinery
+referred to in Clause 9.1.1.0 and any dispute arising out of any Claim of the owner against the
+contractor shall be referred to the arbitration of a Sole Arbitrator. It also further provides that the
+owner may prefer its Claims against the contractor as counter− claims if a Notified Claim of the
+contractor has been referred to arbitration. It also further provides that the contractor shall not,
+however, be entitled to raise as a set−off, defence or counter−claim any claim which is not a
+
+25
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+NOTIFIED CLAIM included in the contractor’s Final // 55 // Bill in accordance with the provisions
+of Clause 6.6.3.0.
+
+11.8 Clause 9.0.2.0 is an exclusion clause by which, certain matters are specifically excluded from
+the scope, purview and ambit of the Arbitration Agreement. It pro− vides that disputes or
+differences with respect to or con− cerning or relating to any of the matters mentioned/specified in
+Clause 9.0.2.0 are excluded from the scope, purview and ambit of the arbitration agreement. It
+further provides that any such matter which is specifically excluded viz. (i) with respect to or
+concerning the scope or existence or otherwise of the Ar− bitration Agreement; (ii) whether or not a
+Claim sought to be referred to arbitration by the contractor is a Noti− fied Claim; (iii) whether or not
+a Notified Claim is in− cluded in the contractor’s Final Bill in accordance with the provisions of
+Clause 6.6.3.0 and (iv) whether or not the contractor has opted for the Alternative Dispute Res−
+olution Machinery with respect to any Notified Claim in− cluded in the contractor’s Final Bill shall
+have to be de− cided by the General Manager prior to the arbitration proceeding with or proceeding
+further with the reference and the Arbitrator or the Arbitral Tribunal shall have no jurisdiction to
+entertain the same or to render any deci− sion with respect to such matters.
+
+// 56 // Thus, on a fair reading of clause 9.0.0.0, only the dispute arising out of a NOTIFIED CLAIM
+of the con− tractor included in the FINAL BILL in accordance with the provisions of Clause 6.6.3.0
+shall be referred to arbi− tration, that too, subject to Clause 9.0.2.0 and any dis− pute / matter
+falling within Clause 9.0.2.0 shall have to be first decided by the General Manager, including,
+whether or not a Claim sought to be referred to arbitra− tion by the contractor is a Notified Claim.
+Therefore, if the claim is not a Notified Claim, as per Clause 6.6.1.0 and the same is not included in
+the Final Bill, such a claim is outside the purview of the arbitration agree− ment. Whether or not a
+claim sought for arbitration by the contractor is a Notified Claim or any such matter / dispute is
+specifically excluded from the scope, purview and ambit of arbitration agreement, such matter /
+dis− pute shall have to be first decided by the General Man− ager prior to the arbitral proceeding
+with or proceeding further with the reference. Thus, unless there is a deci− sion by the General
+Manager on whether or not a claim sought to be referred to arbitration by the contractor is a
+Notified Claim or not, the Arbitrator or Arbitral Tribunal shall have no jurisdiction to entertain such
+a dispute.
+
+The aforesaid clauses of the GCC are part of the contract between the parties herein and both the
+parties are bound by the aforesaid claims.
+
+// 57 //
+
+12. It is the case on behalf of the petitioner IOCL that the IOCL had settled the claim of respondent –
+NCCL accepting NCCL’s offer to grant extension of time; not to give price adjustment of over 4% of
+the total contract value and consequently IOCL condoned the delay of 1493 days and granted
+extension of time without applying any price discount. Further for the delay of 65 days, IOCL
+applied the price discount of Rs.6,44,40,021 i.e. 4% of the total value of contract and thereafter
+IOCL released the payment of Rs.4,53,04,021/− against NCCL’s final bill (adjusting price discount
+of Rs.6.4 Crores as against Rs.14.8 Crores) and also returned NCCL’s Bank Guarantee which came to
+
+26
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+be fully accepted by the respondent NCCL. It is the case of IOCL that thereafter, it was not open for
+the respondent to raise any further claim. Therefore, it is the case on behalf of the petitioner that,
+there being ‘accord and satisfaction’ for the claim, being an ‘excepted claim’, it was not open for the
+respondent to invoke the arbitration agreement and request for appointment of an Arbitrator. It is
+also the case on behalf of the petitioner IOCL that in view of the specific decisions by the General
+Manager, on “Notified Claims”, in view of Clause 9.0.2.0, for the same claims which are not held to
+be ‘Notified Claims’ by the General Manager, the matter cannot be referred to the Arbitrator in view
+of the clause pertaining to excluded matters.
+
+// 58 // On the other hand, it is the case on behalf of the respondent that acceptance of the amount
+of Rs.4,53,04,021/− was under duress and coercion. It is also the case on behalf of the respondent
+that earlier offer dated 02.11.2016 was a conditional one and was in the nature of an offer and
+subsequently when the offer was partially allowed, the respondent without any delay communicated
+that the decision to partially allow its application for EOT is unacceptable as the same is not in
+accordance with the conditional offer given by the respondent.
+
+12.1 Now, so far as the General Manager’s decision on Notified Claims is concerned, it is the case on
+behalf of the respondent that even the decision of the General Manager on the Notified Claims will
+always be subject to the decision of the Arbitral Tribunal. By the impugned judgment and order the
+High Court concluded and summed up as under:
+
+“81. Having regard to the foregoing discussion hereinabove my conclusions can be
+summed as follows:
+
+I) Where there is contestation or the decision rendered by the General Manager
+leaves scope for argument as to whether the claims lodged by a Contractor can be
+categorized as Notified Claims is best // 59 // left to the Arbitral Tribunal. In other
+words, except for the situation where there is no doubt that the claims were not
+lodged with the Engineer and the Site Engineer as required under Clause 6.6.1.0 68
+read with 6.6.3.0 69, the matter would have to be left for resolution by Arbitral
+Tribunal.
+
+II) Aspects with regard to accord and satisfaction of the claims or where there is a
+dispute will also have to be left to the Arbitral Tribunal. The position in law in this
+regard remains the same both pre and post amendment brought about in the 1996
+Act after 23.10.2015.
+
+III) After the insertion of Subsection (6A) in 11 of the 1996 Act the scope of inquiry by the Court in a
+Section 11 petition, (once it is satisfied that it has jurisdiction in the matter) is confined to
+ascertaining as to whether or not a binding arbitration agreement exists qua the parties before it
+which is relatable to the disputes at hand.
+
+IV) The space for correlating the dispute at hand with the arbitration agreement is very narrow.
+Thus, except for an open and shut case which throws up a circumstance indicative of the fact that a
+
+27
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+particular dispute does it not fall within the four corners of the arbitration agreement obtaining
+between the parties the matter would have to be resolved by an Arbitral Tribunal. In other words, if
+there is contestation on this score, the Court will allow the Arbitral Tribunal to reach a conclusion
+one way or another. This approach would be in keeping with the doctrine of Kompetenz // 60 //
+Kompetenz; a doctrine which has statutory recognition under Section 16 of the 1996 Act.”
+
+13. Having heard learned Counsel appearing for the respective parties and in the facts and
+circumstances of the case, the issue / aspect with regard to ‘accord and satisfaction’ of claims is
+seriously disputed and is debatable. Whether, in view of the acceptance of Rs.4,53,04,021/− by the
+respondent NCCL which was released by IOCL on the offer / letter made by the respondent NCCL
+dated 02.11.2016 there is an instance of ‘accord and satisfaction’ of the claims is a good and
+reasonably arguable case. It cannot be said to be an open and shut case. Therefore, even when it is
+observed and held that such an aspect with regard to ‘accord and satisfaction’ of the claims may/can
+be considered by the Court at the stage of deciding Section 11 application, it is always advisable and
+appropriate that in cases of debatable and disputable facts, good reasonably arguable case, the same
+should be left to the Arbitral Tribunal. Similar view is expressed by this Court in the case of Vidya
+Drolia (supra). Therefore, in the facts and circumstances of the case, though it is specifically
+observed and held that aspects with regard to ‘accord and satisfaction’ of the claims can be
+considered by the Court at the stage of deciding Section 11(6) application, in the facts and
+circumstances of the case, the High Court has not committed any error in observing that // 61 //
+aspects with regard to ‘accord and satisfaction’ of the claims or where there is a serious dispute will
+have to be left to the Arbitral Tribunal. However, at the same time, we do not agree with the
+conclusion arrived at by the High Court that after the insertion of Sub−Section (6−A) in Section 11 of
+the Arbitration Act, scope of inquiry by the Court in Section 11 petition is confined only to ascertain
+as to whether or not a binding arbitration agreement exists qua the parties before it, which is
+relatable to the disputes at hand. We are of the opinion that though the Arbitral Tribunal may have
+jurisdiction and authority to decide the disputes including the question of jurisdiction and non−
+arbitrability, the same can also be considered by the Court at the stage of deciding Section 11
+application if the facts are very clear and glaring and in view of the specific clauses in the agreement
+binding between the parties, whether the dispute is non−arbitrable and/or it falls within the
+excepted clause. Even at the stage of deciding Section 11 application, the Court may prima facie
+consider even the aspect with regard to ‘accord and satisfaction’ of the claims.
+
+13.1 Now, so far as the submission on behalf of the respective parties on the decision of the General
+Manager on Notified Claims in Civil Appeal No.341/2022 arising out of SLP (C) No.13161/2019 is
+concerned, the General Manager has decided / declared // 62 // that the claims are not arbitrable
+since they had been settled and the arbitration agreement has been discharged under Clause 6.7.2.0
+of the GCC and no longer existed / subsisted. As observed hereinabove, the claims had been settled
+or not is a debatable and disputable question, which is to be left to be decided by the Arbitral
+Tribunal. Therefore, matters related to the Notified Claims in the facts and circumstances of the case
+also shall have to be left to be decided by the Arbitral Tribunal as in the fact situation the aspect of
+‘accord and satisfaction’ and ‘Notified Claims’ both are interconnected and interlinked.
+
+28
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+13.2 Now, so far as the Civil Appeal No.342/2022 arising out of SLP (C) No.13816/2019 is
+concerned, the General Manager in exercise of powers under Clause 9.0.2.0 had declared that none
+of the claims of the respondent is a Notified Claim. From the communication dated 22.06.2018, it
+appears that the General Manager, after elaborately dealing with all the alleged Notified Claims of
+the respondent has thereafter found that none of the claims made by the respondent is a Notified
+Claim. On a conjoint reading of the relevant clauses of the GCC viz. Clauses 9.0.1.0 and 9.0.2.0, the
+dispute arising out of Notified Claims only, which is included in the Final Bill of the contractor can
+be referred to arbitration. However, as per Clause 9.0.2.0, any dispute or difference on whether or
+not a claim sought to be referred to // 63 // arbitration by the contractor is a Notified Claim falls
+within the excluded matters and the Arbitrator or Arbitral Tribunal shall have no jurisdiction and/or
+authority with respect thereto. The dispute or difference whether or not a claim sought to be
+referred to arbitration by the contractor is a Notified Claim shall not and cannot form the subject
+matter of any reference or submission to arbitration. Therefore, on a fair and conjoint reading of
+Clause 9.0.1.0 and 9.0.2.0, it can safely be concluded that (i) only the Notified Claims of the
+contractor included in the Final Bill of the contractor in accordance with the provisions of Clause
+6.6.3.0 shall have to be referred to arbitration; (ii) whether or not a claim sought to be referred to
+arbitration by the contractor is a Notified Claim or not, the Arbitrator or Arbitral Tribunal shall have
+no jurisdiction at all; (iii) whether or not a claim is a Notified Claim or not shall have to be decided
+by the General Manager and that too, prior to arbitration proceeding with or proceeding further
+with the reference. Therefore, once the General Manager, on the basis of the material on record
+takes a conscious decision that a particular claim sought to be referred to arbitration is not a
+Notified Claim, such a claim thereafter cannot be referred to arbitration. The language used in
+Clauses 9.0.1.0 and 9.0.2.0 is very clear and unambiguous.
+
+// 64 // 13.3 As observed hereinabove, parties to the contract are free to agree on applicability of (1)
+proper law of contract, (2) proper law of arbitration agreement and (3) proper law of the conduct of
+arbitration. Parties to the contract also may agree for matters excluded from the purview of
+arbitration. As observed by this Court in a catena of decisions, unless the effect of agreement results
+in performance of an unlawful act, an agreement, which is otherwise legal, cannot be held to be void
+and is binding between the parties. At this stage, the decision of this Court in the case of Sreekanth
+Transport (supra) is required to be referred to. In the case before this Court, the contract provided
+for exclusion of some matters from the purview of arbitration. A senior officer of the department
+was given the authority and power to adjudicate the same. One of the clauses provided that the
+decision of the Senior Officer, being the Adjudicator, shall be final and binding between the parties.
+This Court considered the same as ‘excepted matters’. In the aforesaid decision, it is observed and
+held in paragraph 3 as under:
+
+“3. “Excepted matters” obviously, as the parties agreed, do not require any further
+adjudication since the agreement itself provides a named adjudicator − concurrence
+to the same obviously is presumed by reason of the unequivocal acceptance of the
+terms of the contract by the parties and this is where the courts have found out
+lacking in its jurisdiction to entertain an application for reference to arbitration as
+regards the disputes arising therefrom and it has been the // 65 // consistent view
+that in the event the claims arising within the ambit of excepted matters, question of
+
+29
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+assumption of jurisdiction of any arbitrator either with or without the intervention of
+the court would not arise; The parties themselves have decided to have the same
+adjudicated by a particular officer in regard to these matters: what are these
+exceptions however are questions of fact and usually mentioned in the contract
+documents and forms part of the agreement as such there is no ambiguity in the
+matter of adjudication of these specialised matters and termed in the agreement as
+the excepted matters.” 13.4 In that view of the matter, the High Court has misread
+and misinterpreted the clauses 9.0.1.0 and 9.0.2.0 and has seriously erred in holding
+that where there is contestation or the decision rendered by the General Manager
+leaves scope for argument as to whether the claims alleged by the contractor can be
+categorized as Notified Claim is best left to the Arbitral Tribunal. The dispute
+whether the claim is a Notified Claim or not is specifically excluded from the scope,
+purview and ambit of the arbitration agreement. Therefore, once such a dispute falls
+within the ‘excepted matters’, any decision by the General Manager on the issue of
+Notified Claims cannot be the subject matter of arbitration proceeding.
+
+13.5 Therefore, the High Court has erred in referring the dispute to arbitration and
+appointing a sole Arbitrator to adjudicate on the dispute with respect to the claims
+which as such are held to be not Notified Claims by the General Manager. Therefore,
+the Civil Appeal // 66 // No.342/2022 arising out of SLP (C) No.13408/2019 as well
+as Civil Appeal Nos.343/2022 and 345/2022 arising out of SLP (C) Nos.13813/2019
+and 13816/2019 respectively deserve to be allowed and the impugned judgment and
+orders passed by the High Court in respective arbitration petitions deserve to be
+quashed and set aside.
+
+13.6 So far as the Civil Appeal No.344/2022 arising out of SLP (C) No.13815/2019
+arising out of the impugned judgment and order passed by the High Court in
+Arbitration Petition No.407/2018 is concerned, as the General Manager himself has
+declared that only one claim of the respondent was / is a Notified Claim, the said
+appeal is to be allowed partly by observing that the claim which is declared by the
+General Manager as a Notified Claim only shall have to be referred to arbitration and
+the learned Arbitrator shall have no jurisdiction to adjudicate the disputes with
+respect to other claims which as such are not declared as Notified Claims by the
+General Manager.
+
+14. In view of the above and for the reasons stated above, following order is passed.
+
+(1) Civil Appeal No.341/2022 arising out of the impugned judgment and order passed
+by the High Court in Arbitration Petition No.115/2018 is // 67 // hereby dismissed.
+However, it is observed that the learned Arbitrator shall first decide the aspect with
+regard to ‘accord and satisfaction’ of the claims and arbitrability of the disputes with
+regard to such claims by deciding an application under Section 16 of the Arbitration
+Act, which is reported to be pending. The learned Arbitrator shall first decide the
+jurisdiction of the Arbitral Tribunal and the arbitrability of the claims within a period
+
+30
+
+Indian Oil Corporation Limited vs Ncc Limited on 20 July, 2022
+
+of three months from the date of first sitting which shall be within a period of one
+month from today.
+
+All the contentions and/or defences which may be available to the respective parties are kept open
+to be considered by the learned Arbitrator in accordance with law and on its own merits and
+considering the relevant clauses of the contract and the material on record.
+
+(2) Civil Appeal No.342/2022 arising out of the impugned judgment and order passed by the High
+Court in Arbitration Petition No.356/2018 is hereby allowed. Impugned judgment and order passed
+by the High Court in Arbitration Petition No.356/2018 referring the dispute between the parties to
+arbitration and appointing the Arbitrator is hereby quashed and set aside.
+
+(3) Similarly, Civil Appeal No.343/2022 arising out of // 68 // the impugned judgment and order
+passed by the High Court in Arbitration Petition No.116/2018 and Civil Appeal No.345/2022 arising
+out of the impugned judgment and order passed by the High Court in Arbitration Petition
+No.406/2018 are allowed and consequently, the impugned judgments and orders passed by the
+High Court in Arbitration Petition Nos.116/2018 & 406/2018 are hereby quashed and set aside.
+
+(4) So far as Civil Appeal No.344/2022 arising out of the impugned judgment and order passed by
+the High Court in Arbitration Petition No.407/2018 is concerned, the same is partly allowed. The
+impugned judgment and order passed by the High Court in Arbitration Petition No.407/2018 is
+hereby modified to the extent and it is directed that only one claim of the respondent which is
+declared by the General Manager as a Notified Claim shall have to be referred to arbitration and the
+learned Arbitrator shall adjudicate only that claim which is declared by the General Manager as a
+Notified Claim and the learned Arbitral Tribunal shall not have any jurisdiction to adjudicate on any
+other claims which as such are not declared as Notified Claims.
+
+In the facts and circumstances of the case, // 69 // there shall be no order as to costs.
+
+……………………………….J. [M.R. SHAH] ……………………………….J. [B.V. NAGARATHNA] NEW
+DELHI;
+
+JULY 20, 2022.
+
+31

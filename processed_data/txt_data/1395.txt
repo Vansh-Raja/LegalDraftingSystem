@@ -1,0 +1,495 @@
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries Ltd. on 1 September, 2022
+
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries
+Ltd. on 1 September, 2022
+
+Author: D.Y. Chandrachud
+
+Bench: As Bopanna, Dhananjaya Y Chandrachud
+
+Reportable
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+Civil Appeal No. 5437 of 2022
+
+Morgan Securities And Credits Pvt. Ltd.                                .... Appellant
+
+Versus
+
+Videocon Industries Ltd.                                         ....Respondent
+
+JUDGMENT
+
+Dr Dhananjaya Y Chandrachud, J 1 This appeal arises from a judgment dated 26 February 2020 of
+the High Court of Delhi by which the appeal under Section 37 of the Arbitration and Conciliation Act
+19961 against a judgment of the Single Judge dated 7 February 2019 has been dismissed. At the
+core, the issue is whether the arbitrator has the discretion to grant post-award interest only on the
+principal sum due under Section 31(7)(b) of the Act.
+
+1 “The Act” Facts 2 On 27 January 2003, the appellant and the respondent entered into an
+agreement under which the respondent availed of bill discounting facilities from the appellant. The
+appellant disbursed Rs. 5,00,32,656 pursuant to the agreement. The dues remained unpaid. The
+appellant issued a notice to the respondent on 10 January 2006 demanding the payment of the
+principal amount of Rs. 5,00,32,656 as on 17 April 2003, which is the date of default, along with an
+overdue interest. Since the respondent did not pay the amount as demanded, the appellant issued a
+notice on 31 January 2006, invoking the arbitration clause of the agreement.
+
+1
+
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries Ltd. on 1 September, 2022
+
+3 The sole arbitrator rendered an arbitral award in favour of the appellant on 1 March 2013. The
+award was corrected on 29 April 2013 and decrees the claim of the appellant in the amount of Rs.
+5,00,32,656. Interest at the rate of (i) twenty one percent per annum has been granted from the date
+of default to the date of the demand notice; (ii) thirty six percent per annum with monthly rests
+from the date of the demand notice to the date of award (“pre-award interest”); and (iii) eighteen
+percent per annum on the principal amount of Rs. 5,00,32,656 from the date of award to the date of
+payment (“post-award interest”). The relevant extract of the award is set out below:
+
+“ In view of the findings of the Tribunal above, Respondent No. 2 is liable to pay a
+sum of Rs. 5,00,32, 656 (Rupees five crores thirty two thousand six hundred and fifty
+six only) to the Claimant along with interest at 21% p.a till the date of demand notice.
+After the date of the demand notice, i.e 10.01.2006, the Claimant is entitled to receive
+interest at the rate 36% p.a with monthly rests. Further, in terms of the aforesaid
+decision in S.L Arora, the Claimant is entitled to receive post- award interest at the
+rate of 18% p.a only on the principal amount of Rs 5,00,32,656/” (emphasis supplied)
+4 The appellant challenged the arbitral award 2 in a petition under Section 34 before
+the Delhi High Court raising objections on the grant of post-award and pre-
+
+award interest. The respondent also filed a petition3. The appellant urged that the post-award
+interest of eighteen percent per annum should be granted on the total sum awarded, inclusive both
+of principal and pre-award interest. By a judgment dated 7 February 2019, the Single Judge of the
+Delhi High Court dismissed the petition filed by the appellant on the grant of post-award interest.
+The Single Judge held that the Arbitrator had in his discretion restricted the post- award interest to
+the principal amount and that the court would not interfere with the exercise of discretion:
+
+The appeal against the judgment of the Single Judge was dismissed by the Division
+Bench of the High Court by a judgment dated 26 February 2020. The counsel for the
+appellant before the High Court placed reliance on the decision of a three-Judge
+Bench of this Court in Hyder Consulting (UK) Limited v. Governor, State of Orissa4
+and contended that post-award interest ought to be granted on the sum directed to be
+paid under the arbitral award, which also includes the pre-award interest. Counsel
+for the respondent contended that reliance ought not to be placed on the judgment in
+Hyder Consulting (supra) since the decision in State of Haryana v. SL Arora5 was the
+applicable law when the petition under Section 34 was instituted. The Division Bench
+of the High Court observed that the judgment in Hyder Consulting (supra) clarifies
+that when the arbitral award is silent on post-award interest, it would be payable on
+the ‘sum’ awarded, which would include both the principal and the pre-award
+interest. The Division Bench held that in this 3 OMP 665 of 2013 4 (2015) 2 SCC 189
+5 (2010) 3 SCC 690 case since the arbitral award is not silent on post-award interest,
+the provisions of Section 31(7)(b) of the Act would not be applicable.
+
+Both the Single Judge and the Division Bench of the Delhi High Court also decided on the other
+objections of the appellant and the respondent. 5 Proceedings under Article 136 of the Constitution
+were initiated for challenging the judgment of the Division Bench of the Delhi High Court dated 26
+
+2
+
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries Ltd. on 1 September, 2022
+
+February 2020. On 16 July 2021, this Court issued notice confined to the issue of post-award
+interest. The order reads as follows:
+
+“1 Issue notice confined to the post award interest. We are not entertaining the
+Special Leave Petition as regards the award of interest prior to the date of the award.
+
+2 The Arbitrator, in awarding interest at the rate of 18% post award on the principal
+sum, based the award on the decision in State of Haryana v SL Arora. The decision in
+S L Arora was overruled in Hyder Consulting (UK) Ltd. v. State of Orissa.
+
+3. In view of the above premises, we issue notice confined to the above issue
+returnable in eight weeks.” Submissions
+
+6 Mr. Abhishek Puri, learned counsel appearing for the appellant made the following submissions:
+
+(i) In view of the provisions of Section 31(7) of the Act and the judgment of this Court
+in Hyder Consulting (supra), if pre-award interest is awarded on the principal sum,
+the aggregate of the principal and the pre-award interest is the ‘sum’ on which
+post-award interest must be granted;
+
+(ii) According to the majority opinion in Hyder Consulting (supra), once pre-award
+interest is granted on the principal sum under Section 31(7)(a) of the Act, the interest
+award loses its character as interest and takes the color of the awarded ‘sum’ for the
+purposes of post-
+
+award interest under Section 31(7)(b) of the Act;
+
+(iii) The arbitral award is silent on post-award interest on the component of interest. Therefore, the
+appellant is entitled to the statutory rate of interest on the aggregate of the principal and pre-award
+interest under Section 31(7)(b) of the Act;
+
+(iv) Even according to the decision in SL Arora (supra), the discretion of the arbitral tribunal under
+Section 31(7)(b) of the Act was only with respect to the rate of the post-award interest. In this case,
+the arbitrator has awarded post-award interest only on the principal sum solely in view of the
+judgment in SL Arora (supra);
+
+(v) The arbitrator only has the discretion to determine the rate post-award interest. The Arbitrator
+does not have the discretion to determine the ‘sum’ on which the post-award interest is to be
+granted; and
+
+(vi) The contention that Section 31(7)(b) of the Act would be inapplicable in cases where the
+arbitrator has awarded post-award interest by exercising discretion is not borne out of the decisions
+in SL Arora (supra) or Hyder Consulting (supra).
+
+3
+
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries Ltd. on 1 September, 2022
+
+7 Mr Nakul Dewan, learned senior counsel for the respondent made the following submissions:
+
+(i) Section 31(7)(b) is qualified by the phrase “unless the award otherwise directs”.
+Therefore, Section 31(7)(b) would only be applicable where an arbitral award is silent
+on the component of post-award interest;
+
+(ii) Under Section 31(7)(b) of the Act, the arbitrator has the discretion to
+
+(a) grant post-award interest; (b) determine the quantum over which the post-award
+interest should be granted; and (c) determine the rate at which the interest should be
+calculated; and
+
+(iii) In Hyder Consulting (supra), a three-Judge Bench of this Court overruled SL
+Arora (supra) to the extent that the latter decision held that the arbitral tribunal does
+not have the power to award interest over interest. However, in Hyder Consulting
+(supra), it was not held that it is mandatory that the post-award interest ought to only
+be granted on the aggregate of the principal and the pre-award interest.
+
+Analysis 8 Section 31 provides for the “form and content of arbitral award”. Sub- section 7 of Section
+31 deals with pre-award and post-award interest. Section 31(7)(a) provides for pre-award interest,
+that is for the period between the date on which the cause of action arose and the date on which the
+award is made. Section 31(7)(b) provides for post-award interest, between the date of award to the
+date of payment. Section 31(7) reads as follows:
+
+(7) (a) Unless otherwise agreed by the parties, where and in so far as an arbitral
+award is for the payment of money, the arbitral tribunal may include in the sum for
+which the award is made interest, at such rate as it deems reasonable, on the whole or
+any part of the money, for the whole or any part of the period between the date on
+which the cause of action arose and the date on which the award is made;
+
+(b) A sum directed to be paid by an arbitral award shall, unless the award otherwise
+directs, carry interest at the rate of eighteen per centum per annum from the date of
+the award to the date of payment.
+
+(emphasis supplied) 9 In SL Arora (supra) this court had to interpret the expression ‘sum’ in Section
+31(7). This Court framed the following issue:
+
+“(i) Whether Section 31(7) of the Act authorises and enables Arbitral Tribunals to
+award interest on interest from the date of award?” Justice R V Raveendran writing
+for a two-Judge Bench held that Section 31(7) does not enable the arbitral tribunal to
+provide interest on interest from the date of the award. While arriving at this
+conclusion, the court observed that:
+
+4
+
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries Ltd. on 1 September, 2022
+
+(i) Section 31(7) does not make any reference to the payment of compound interest or
+interest on interest. The phrase “sum directed to be paid by the award” refers to the
+award of “sums on substantive claims”, that is, the principal amount. In the absence
+of a provision enabling the grant of compound interest, such a power cannot be read
+into the provisions either for the pre-award period or for the post-award period;
+
+(ii) A high rate of interest at eighteen percent is statutorily recognised in Section
+31(7)(b) for the post-award period to deter the award-debtor from delaying the
+payment of monies as directed in the award;
+
+(iii) Section 31(7)(a) confers the arbitrator with the discretion to determine the rate of
+interest, the period for which the interest is to be paid, and the quantum on which
+interest is to be awarded. However, the discretionary power of the arbitrator is
+subject to the contract between the parties. Section 31(7)(b) provides the arbitrator
+the discretion to award interest for the post-award period. The discretion is not
+subject to any contract. If the arbitrator does not exercise the discretion by awarding
+post-award interest, then the mandated interest of eighteen percent shall be
+awarded; and
+
+(iv) If the award provides interest at a specified rate till the date of payment, then
+Section 31(7)(b) of the Act will not be invoked. Section 31(7)(b) will be invoked only if
+the award is silent on the post-award interest.
+
+10 A two-judge bench of this Court6 referred the correctness of the decision in SL Arora (supra) to a
+three-Judge Bench. In Hyder Consulting (supra), a three- Judge Bench overruled the decision in SL
+Arora (supra). Three separate judgments were authored. In order to determine the ratio decidendi
+in Hyder Consulting (supra), it is necessary that all three opinions are carefully analysed. Justice SA
+Bobde, observed that the view in SL Arora (supra) that pre-award interest should not be included in
+the ‘sum’ for calculating post-award interest is erroneous:
+
+“ 2. It is not possible to agree with the conclusion in S.L. Arora case that Section 31(7)
+of the Act does not require that interest which accrues till the date of the award be
+included in the ‘sum’ from the date of award for calculating the post-award interest.
+In my humble view, this conclusion does not seem to be in consonance with the clear
+language of Section 31(7) of the Act.” Referring to Section 31(7)(a), Justice Bobde
+observed that (i) since Parliament has not qualified the phrase ‘sum’ with the word
+‘principal’, (as in Section 34 of the Code of Civil Procedure 1908) the word ‘sum’ only
+takes the meaning of ‘a 6 Hyder Consulting Ltd. v. State of Orissa, (2013) 2 SCC 719
+particular amount of money’; (ii) the ‘sum’ would include both principal and interest;
+and (iii) when interest is directed to be paid on the principal under Section 31(7)(a),
+the aggregate amount after merging pre-award interest and the principal would be
+the ‘sum’, where the two components of principal and interest would have lost their
+identities. The relevant observations are extracted below:
+
+5
+
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries Ltd. on 1 September, 2022
+
+7. Thus, when used as a noun, as it seems to have been used in this provision, the
+word “sum” simply means “an amount of money”; whatever it may include —
+“principal” and “interest” or one of the two. Once the meaning of the word “sum” is
+clear, the same meaning must be ascribed to the word in clause (b) of sub-section (7)
+of Section 31 of the Act, where it provides that a sum directed to be paid by an arbitral
+award “shall … carry interest …” from the date of the award to the date of the
+payment i.e. post-
+
+award. In other words, what clause (b) of sub-section (7) of Section 31 of the Act directs is that the
+“sum”, which is directed to be paid by the award, whether inclusive or exclusive of interest, shall
+carry interest at the rate of eighteen per cent per annum for the post-award period, unless otherwise
+ordered.
+
+[…]
+
+13. Thus, it is apparent that vide clause (a) of sub-section (7) of Section 31 of the Act, Parliament
+intended that an award for payment of money may be inclusive of interest, and the “sum” of the
+principal amount plus interest may be directed to be paid by the Arbitral Tribunal for the pre- award
+period. Thereupon, the Arbitral Tribunal may direct interest to be paid on such “sum” for the post-
+award period vide clause (b) of sub-section (7) of Section 31 of the Act, at which stage the amount
+would be the sum arrived at after the merging of interest with the principal; the two components
+having lost their separate identities.” (emphasis supplied) 11 Justice AM Sapre in his concurring
+opinion noted that while the grant of pre-award interest is at the discretion of the arbitral tribunal;
+post-award interest is mandated by the statute where the arbitrator only has the discretion to decide
+the rate of interest. That is, if the arbitral tribunal has used its discretion to grant post-award
+interest at a particular rate, then such rate as directed would prevail, otherwise, the rate of interest
+mentioned in the statute would be applicable. The relevant extract of the judgment reads as follows:
+
+“26. […] Pre-award interest is at the discretion of the Arbitral Tribunal, while the
+post-award interest on the awarded sum is mandate of the statute—the only
+difference being that of rate of interest to be awarded by the Arbitral Tribunal. In
+other words, if the Arbitral Tribunal has awarded post-award interest payable from
+the date of award to the date of payment at a particular rate in its discretion then it
+will prevail else the party will be entitled to claim post-award interest on the awarded
+sum at the statutory rate specified in clause (b) of Section 31(7) of the Act i.e. 18%.
+Thus, there is a clear distinction in time period and the intended purpose of grant of
+interest.” (emphasis supplied) Justice Sapre agreed with Justice Bobde on the
+meaning of the expression ‘sum’ and held that once the interest is ‘included in the
+sum’, then the interest and the principal component cannot be segregated :
+
+“28. Therefore, for the purposes of an award, there is no distinction between a “sum”
+with interest, and a “sum” without interest. Once the interest is “included in the sum”
+for which the award is made, the original sum and the interest component cannot be
+segregated and be seen independent of each other. The interest component then loses
+
+6
+
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries Ltd. on 1 September, 2022
+
+its character of an “interest” and takes the colour of “sum” for which the award is
+made.
+
+29. There may arise a situation where, the Arbitral Tribunal may not award any
+amount towards principal claim but award only “interest”. This award of interest
+would itself then become the “sum” for which an award is made under Section
+31(7)(a) of the Act. Thus, in a pre-
+
+award stage, the legislation seeks to make no distinction between the sum awarded and the interest
+component in it.
+
+[…]
+
+31. […] Interest under clause (b) is granted on the “sum” directed to be paid by an arbitral award
+wherein the “sum” is nothing more than what is arrived at under clause (a)” (emphasis supplied) 12
+The view of Chief Justice HL Dattu in his dissenting opinion was that :
+
+(i) The phrase ‘sum’ in Section 31(7)(a) refers to ‘money’ in common parlance.
+Section 31(7)(a) states that interest may be awarded on the ‘sum’, which would mean
+the interest awarded on the money for which the arbitral award is made. Therefore,
+sum refers to the ‘principal’ amount awarded;
+
+(ii) The phrase ‘sum’ as used in clause (b) is used in the same context as in clause (a).
+Therefore, the phrase ‘sum’ in clause (b) also means the ‘principal’ amount; and
+
+(iii) The words ‘unless the award otherwise directs” in Section 31(7) (b) would mean
+that if the arbitral tribunal directs post-award interest to be paid, then Section
+31(7)(b) would be inapplicable. The corollary is that even if the award directs that no
+post-award interest is to be granted, clause (b) cannot be invoked. The observations
+in the dissent are extracted below:
+
+“ 81. […] The said clause uses the phrase “unless the award otherwise directs”, which
+would mean that in the event the Arbitral Tribunal, in its award, makes a provision
+for interest to be imposed in this second stage as envisaged by sub- section (7) of
+Section 31 of the 1996 Act, clause (b) would become inapplicable. By the said award,
+the Arbitral Tribunal has the power to impose an interest for the post-award period
+which may be higher or lower than the rate as prescribed under clause (b). Even if the
+award states that no interest shall be imposed in the post-award period, clause
+
+(b) cannot be invoked.
+
+82. If the arbitral award is silent on the question of whether there would be any post-award interest,
+only in that situation could clause (b) be made applicable. In the said situation, it would be
+mandatory as per law that the award could carry interest at the rate of 18% per annum from the date
+
+7
+
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries Ltd. on 1 September, 2022
+
+of the award to the date of payment. The term used in the given clause is “shall”, therefore, if
+applicable, the imposition of interest as per clause (b) would be mandatory.” 13 The contention of
+the respondent is that Section 31(7)(b) could be invoked only when the arbitration award is silent on
+post-award interest. That is, if the award does not make a specific provision for post-award interest,
+then in view of Section 31(7)(b) of the Act, post-award interest of eighteen percent shall be paid on
+the ‘sum’, for which purpose the ‘sum’ shall be the aggregate of the principal and pre-award interest.
+The argument of Mr Nakul Dewan is that the arbitral tribunal has the discretion to determine- a)
+whether post-award interest should be granted; b) the ‘sum’ on which the post-award interest is to
+be granted; and c) the rate of such interest.
+
+14 The interpretation of Section 31(7)(b) has to focus on the meaning of two phrases - first, the
+expression “sum”; and second, “unless the award otherwise directs”. The phrase ‘sum’ has been
+interpreted in the opinion of Justice Bobde and in the concurring opinion of Justice Sapre in Hyder
+Consulting (supra) to mean the amount directed to be paid by an arbitral award as arrived in Section
+31(7)(a), which would include the aggregate of the principal and the pre-award interest. While
+Justice Sapre was of the view that the arbitrator only has the discretion to determine the rate of
+post-award interest, Justice Bobde did not expressly discuss the ambit of discretion of the arbitrator
+while granting post-
+
+award interest. In Justice Bobde’s opinion, there was no discussion on whether the arbitrator had
+the discretion to order post-award interest on a part of the ‘sum’ that was arrived under Section
+31(7)(a).
+
+15 On the interpretation of the words ‘unless the award otherwise directs’, Justice Sapre interpreted
+them to mean that post-award interest is a statutory mandate and that the arbitrator only has the
+discretion to determine the rate of interest to be awarded. Justice Bobde did not specifically
+interpret the phrase ‘unless the award otherwise directs’. The learned Judge made a passing
+reference to the phrase in paragraph 7 of the judgment, where he observed that “In other words,
+what clause (b) of sub-Section (7) of Section 31 of the Act directs is that the “sum”, which is directed
+to be paid by the award, whether inclusive or exclusive of interest, shall carry interest at the rate of
+eighteen per cent per annum for the post-award period, unless otherwise ordered.” However, in
+paragraph 13 of the judgment, the learned Judge observed, “Thereupon the Arbitral Tribunal may
+direct interest to be paid on such ‘sum’ for the post-award period vide clause (b) of sub-section (7) of
+Section 31 of the Act, at which stage the amount would be the sum arrived at after the merging of
+interest with the principal; the two components having lost their separate identities.” 16 The use of
+the words ‘may direct interest to be made’ in paragraph 13 of Justice Bobde’s opinion could be
+interpreted to mean either that the arbitrator has the discretion to decide not to grant post-award
+interest or as recognising the discretion of the arbitrator on whether to grant interest on the
+aggregate of the principal and the pre-award interest. Nothing in the observations extracted above
+limit the discretion of the arbitrator in awarding post-award interest. This conclusion is further
+fortified by the issue framed in Hyder Consultancy (supra), where the Court was to determine if the
+conclusion in SL Arora (supra) is correct to the extent that it holds that post-award interest cannot
+be granted on the aggregate of principal and pre-award interest. In the concluding paragraph of
+Justice Bobde’s opinion , it has been observed that SL Arora (supra) was wrongly decided:
+
+8
+
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries Ltd. on 1 September, 2022
+
+“ 24. In the result, I am of the view that SL Arora case is wrongly decided in that it
+holds that a sum directed to be paid by an Arbitral Tribunal and the reference to the
+award on the substantive claim does not refer to interest pendent lite awarded on the
+“sum directed to be paid upon award” and that in the absence of any provision of
+interest upon interest in the contract the Arbitral Tribunal does not have the power to
+award interest upon interest, or compound interest either for the pre-award period or
+for the post0award period. Parliament has the undoubted power to legislate on the
+subject and provide that the Arbitral Tribunal may award interest on the sum
+directed to be paid by the award, meaning a sum inclusive of principal sum adjudged
+and the interest, and this has been done by Parliament in plain language.”
+
+17 The decision in Hyder Consulting (supra) was on the limited issue of whether post-award interest
+could be granted on the aggregate of the principal and the pre-award interest. As noted above, the
+opinion authored by Justice Bobde was limited to this aspect of post-award interest. It was in the
+concurring opinion of Justice Sapre that it was held that the arbitrator only has the discretion to
+determine the rate of post-award interest. Therefore, the issue of whether the arbitrator could award
+post-award interest on a part of the aggregate sum was not conclusively decided the opinions
+forming a part of the majority in Hyder Consulting (supra).
+
+18 The issue before us is whether the phrase ‘unless the award otherwise directs’ in Section 31(7)(b)
+of the Act only provides the arbitrator the discretion to determine the rate of interest or both the
+rate of interest and the ‘sum’ it must be paid against. At this juncture, it is crucial to note that both
+clauses (a) and (b) are qualified. While, clause (a) is qualified by the arbitration agreement, clause
+(b) is qualified by the arbitration award. However, the placement of the phrases is crucial to their
+interpretation. The words, “unless otherwise agreed by the parties” occurs at the beginning of clause
+(a) qualifying the entire provision. However, in clause (b), the words, “unless the award otherwise
+directs” occurs after the words ‘a sum directed to be paid by an arbitral award shall’ and before the
+words ‘carry interest at the rate of eighteen per cent”. Thereby, those words only qualify the rate of
+post-award interest.
+
+19 Section 31(7)(a) confers a wide discretion upon the arbitrator in regard to the grant of pre-award
+interest. The arbitrator has the discretion to determine the rate of reasonable interest, the sum on
+which the interest is to be paid, that is whether on the whole or any part of the principal amount,
+and the period for which payment of interest is to be made - whether it should be for the whole or
+any part of the period between the date on which the cause of action arose and the date of the award.
+When a discretion has been conferred on the arbitrator in regard to the grant of pre-award interest,
+it would be against the grain of statutory interpretation to presuppose that the legislative intent was
+to reduce the discretionary power of the arbitrator for the grant of post-award interest under clause
+(b). Clause (b) only contemplates a situation where the arbitration award is silent on post-award
+interest, in which event the award-holder is entitled to a post-award interest of eighteen percent.
+
+20 The arbitrator has the discretion to grant post-award interest. Clause (b) does not fetter the
+discretion of the arbitrator to grant post-award interest. It only contemplates a situation in which
+the discretion is not exercised by the arbitrator. Therefore, the observations Hyder Consulting
+
+9
+
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries Ltd. on 1 September, 2022
+
+(supra) on the meaning of ‘sum’ will not restrict the discretion of the arbitrator to grant post-award
+interest. There is nothing in the provision which restricts the discretion of the arbitrator for the
+grant of post-award interest which the arbitrator otherwise holds inherent to their authority.
+
+21 The purpose of granting post-award interest is to ensure that the award-
+
+debtor does not delay the payment of the award. With the proliferation of arbitration, issues
+involving both high and low financial implications are referred to arbitration. The arbitrator takes
+note of various factors such as the financial standing of the award-debtor and the circumstances of
+the parties in dispute before awarding interest. The discretion of the arbitrator can only be restricted
+by an express provision to that effect. Clause (a) subjects the exercise of discretion by the arbitrator
+on the grant of pre-award interest to the arbitral award. However, there is no provision in the Act
+which restricts the exercise of discretion to grant post-award interest by the arbitrator. The
+arbitrator must exercise the discretion in good faith, must take into account relevant and not
+irrelevant considerations, and must act reasonably and rationally taking cognizance of the
+surrounding circumstances.
+
+22 In view of the discussion above, we summarise our findings below:
+
+(i) The judgment of the two-Judge Bench in SL Arora (supra) was referred to a
+three-Judge Bench in Hyder Consulting (supra) on the question of whether
+post-award interest could be granted on the aggregate of the principal and the
+pre-award interest arrived at under Section 31(7)(a) of the Act;
+
+(ii) Justice Bobde’s opinion in Hyder Consulting (supra) held that the arbitrator may
+grant post-award interest on the aggregate of the principal and the pre-award
+interest. The opinion did not discuss the issue of whether the arbitrator could use
+their discretion to award post-
+
+award interest on a part of the ‘sum’ awarded under Section 31(7)(a);
+
+(iii) The phrase ‘unless the award otherwise directs’ in Section 31(7)(b) only qualifies the rate of
+interest;
+
+(iv) According to Section 31(7)(b), if the arbitrator does not grant post-
+
+award interest, the award holder is entitled to post-award interest at eighteen percent;
+
+(v) Section 31(7)(b) does not fetter or restrict the discretion that the arbitrator holds in granting
+post-award interest. The arbitrator has the discretion to award post-award interest on a part of the
+sum;
+
+(vi) The arbitrator must exercise the discretionary power to grant post-
+
+10
+
+Morgan Securities And Credits Pvt. Ltd. vs Videocon Industries Ltd. on 1 September, 2022
+
+award interest reasonably and in good faith, taking into account all relevant circumstances; and
+
+(vii) By the arbitral award dated 29 April 2013, a post-award interest of eighteen percent was
+awarded on the principal amount in view of the judgment of this Court in SL Arora (supra). In view
+of the above discussion, the arbitrator has the discretion to award post-award interest on a part of
+the ‘sum’; the ‘sum’ as interpreted in Hyder Consulting (supra). Thus, the award of the arbitrator
+granting post award interest on the principal amount does not suffer from an error apparent.
+
+23 For the reasons indicated above, the appeal against the judgment of the Delhi High Court dated
+26 February 2020 is dismissed. 24 All pending application(s), if any, are disposed of.
+
+… … . . . . … . . . . . … . . . . . . . … … … … … … . . . . . . . . J .   [ D r   D h a n a n j a y a   Y   C h a n d r a c h u d ]
+.........….....….......………………........J. [AS Bopanna] New Delhi;
+
+September 01, 2022
+
+11

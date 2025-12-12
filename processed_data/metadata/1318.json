@@ -1,0 +1,24 @@
+{
+  "case_number": "CIVIL APPEAL NOS.1543-1544 OF 2019",
+  "parties": {
+    "petitioner": "Jogi Ram",
+    "respondent": "Suresh Kumar & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-01",
+  "summary": "The case involves a testamentary disposition under a Will dated 15.4.1968 by Tulsi Ram, who bequeathed property to his son (the appellant, Jogi Ram) with absolute rights and to his second wife, Ram Devi, with a limited life interest, prohibiting alienation. After decades of litigation, the appellant challenged sale deeds executed by Ram Devi during her life, which were initially set aside by a 1995 decree confirming her limited interest under Section 14(2) of the Hindu Succession Act, 1956. The High Court in 2018 reversed, holding that Ram Devi’s limited interest had crystallized into absolute ownership under Section 14(1) as a pre-existing right, relying on V. Tulasamma and Jupudy Pardha Sarathy. It also held res judicata did not apply due to a change in law and that no substantial question of law was required under the Punjab Courts Act. The Supreme Court considered these determinations in appeal.",
+  "legal_provisions_cited": [
+    "Section 14(1), Hindu Succession Act, 1956",
+    "Section 14(2), Hindu Succession Act, 1956",
+    "Section 30, Hindu Succession Act, 1956",
+    "Section 41, Transfer of Property Act, 1882",
+    "Section 97(1), Code of Civil Procedure, 1908",
+    "Section 41, Punjab Courts Act, 1918",
+    "V. Tulasamma & Ors. v. Sesha Reddy (Dead) by LRs.",
+    "Jupudy Pardha Sarathy v. Pentapati Rama Krishna & Ors.",
+    "Shakuntla Devi v. Kamla & Ors.",
+    "Mathura Prasad Bajoo & Ors. v. Dossibai N.B. Jeejebhoy",
+    "Pankajakshi (dead) through LRs & Ors. v. Chandrika & Ors."
+  ],
+  "final_judgment": "Leave granted; matter listed for detailed hearing while maintaining status quo as of the date of possession by the appellant."
+}

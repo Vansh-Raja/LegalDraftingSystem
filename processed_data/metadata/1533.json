@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal Nos. 487-488 of 2022",
+  "parties": {
+    "petitioner": "T. Takano",
+    "respondent": "Securities and Exchange Board of India & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-18",
+  "summary": "The case concerned whether SEBI was obligated to disclose its investigation report to the appellant before adjudicating a show cause notice under the PFUTP Regulations. The appellant, former MD & CEO of Ricoh India, challenged the non-disclosure of investigative material relied upon in issuing the show cause notice, arguing violation of principles of natural justice. The Court examined the regulatory framework under the PFUTP Regulations, emphasizing the duty of disclosure of incriminating material to ensure a fair hearing. It held that non-disclosure of investigative material undermines the right to a meaningful opportunity to be heard. However, limited exceptions exist for withholding material related to ongoing investigations or third-party confidentiality. The impugned order by SEBI in withholding the investigation report was found violative of natural justice, requiring reconsideration.",
+  "legal_provisions_cited": [
+    "SEBI (Prohibition of Fraudulent and Unfair Trade Practices) Regulations 2003, Regulation 9",
+    "Securities and Exchange Board of India Act 1992, Sections 11, 11(4), 11B, 12A",
+    "Securities Contracts (Regulation) Act 1956, Section 23H",
+    "Article 226 of the Constitution of India"
+  ],
+  "final_judgment": "The appeal was allowed, and SEBI was directed to disclose the investigation report to the appellant, subject to exceptions for privileged or sensitive information, ensuring compliance with principles of natural justice before proceeding with adjudication."
+}

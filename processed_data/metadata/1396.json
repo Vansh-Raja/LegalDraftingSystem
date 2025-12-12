@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No.2592 of 2022",
+  "parties": {
+    "petitioner": "Mrs. Umadevi Nambiar",
+    "respondent": "Thamarasseri Roman Catholic Diocese Rep by its Procurator Devssia’s Son Rev. Father Joseph Kappil"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-01",
+  "summary": "The case involved a suit for partition and separate possession of property originally co-owned by the appellant and her sister. The appellant executed a general Power of Attorney in favor of her sister, which lacked express power to sell. The sister alienated portions of the property to third parties, who later sold it to the respondent. The trial court decreed partition, but the High Court reversed, citing constructive notice and failure to cancel prior alienations. The Supreme Court upheld the trial court, ruling that absence of express power to sell rendered alienations void, Section 41 of the Transfer of Property Act did not apply due to lack of reasonable care by the transferee, and constructive notice under Section 3 could not be imputed to the appellant due to lack of due diligence by the respondent. The appeal was allowed.",
+  "legal_provisions_cited": [
+    "Order II Rule 2, Civil Procedure Code",
+    "Section 3, Transfer of Property Act, 1882",
+    "Section 41, Transfer of Property Act, 1882",
+    "Section 49, Registration Act, 1908",
+    "Section 51, Registration Act, 1908",
+    "Section 55, Registration Act, 1908"
+  ],
+  "final_judgment": "The appeal was allowed, setting aside the High Court's judgment and restoring the trial court's decree for partition and separate possession."
+}

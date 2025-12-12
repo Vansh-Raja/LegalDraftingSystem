@@ -1,0 +1,26 @@
+{
+  "case_number": "Civil Appeal Nos. 2935-2938 of 2022",
+  "parties": {
+    "petitioner": "Swadesh Kumar Agarwal",
+    "respondent": "Dinesh Kumar Agarwal & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-05",
+  "summary": "The appeals challenged the High Court's termination of the sole arbitrator's mandate under Section 14(1)(a) of the Arbitration and Conciliation Act, 1996, via an application under Section 11(6), and confirmation of the trial court's dismissal of an Order VII Rule 11 CPC application. Key issues included whether Section 11(6) permits termination of an arbitrator appointed by the parties, maintainability of Section 11(6) applications without a written arbitration agreement, and the distinction between Sections 11(5) and 11(6). The Court examined whether undue delay justified termination and if Order VII Rule 11 CPC was correctly dismissed. Reliance was placed on Antrix Corp. Ltd. v. Devas Multimedia and S.P. Singla Constructions v. State of Himachal Pradesh.",
+  "legal_provisions_cited": [
+    "Section 11(6)",
+    "Section 14(1)(a)",
+    "Section 2(e)",
+    "Section 13",
+    "Section 15",
+    "Section 25(a)",
+    "Section 30",
+    "Section 32",
+    "Order VII Rule 11 CPC",
+    "Antrix Corporation Limited v. Devas Multimedia Private Ltd. (2014) 11 SCC 560",
+    "S.P. Singla Constructions Private Limited v. State of Himachal Pradesh and Anr. (2019) 2 SCC 488",
+    "ACC Limited v. Global Cements Limited (2012) 7 SCC 71",
+    "Union of India and Ors. v. Uttar Pradesh State Bridge Corporation Limited (2015) 2 SCC 52"
+  ],
+  "final_judgment": "The appeals were allowed, setting aside the High Court's order terminating the arbitrator's mandate under Section 11(6). The Court held that Section 11(6) does not empower termination of an arbitrator appointed by the parties, especially when proceedings under Section 14 were already pending. The distinction between Sections 11(5) and 11(6) was affirmed, and it was ruled that Section 11(6) applications are not maintainable for terminating an existing arbitrator's mandate when an independent remedy under Section 14 exists."
+}

@@ -1,0 +1,2889 @@
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7
+November, 2024
+
+Author: Dhananjaya Y. Chandrachud
+
+Bench: Dhananjaya Y. Chandrachud
+
+2024 INSC 850                                                 REPORTABLE
+
+                             IN THE SUPREME COURT OF INDIA
+
+                               CIVIL ORIGINAL JURISDICTION
+
+                            ARBITRATION PETITION NO. 31 OF 2023
+
+ M/S ARIF AZIM CO. LTD.                                           ...PETITIONER(S)
+
+                                         VERSUS
+
+ M/S MICROMAX INFORMATICS FZE                                 ...RESPONDENT(S)
+
+                                      JUDGMENT
+
+J.B. PARDIWALA, J.:
+
+For the convenience of exposition, this judgment is divided into the following parts: -
+
+INDEX A. FACTUAL MATRIX ................................................................................... 3
+B. SUBMISSIONS OF THE PARTIES ........................................................ 11 i.
+Submissions on behalf of the Petitioner. ............................................... 11 ii.
+Submissions on behalf of the Respondent. ............................................ 18 C. ISSUES
+FOR DETERMINATION ........................................................... 21 D. ANALYSIS
+.................................................................................................. 21 i. The Notional
+Doctrine of Concurrent Jurisdiction and Applicability of Part I of the Arbitration &
+C o n c i l i a t i o n   A c t ,   1 9 9 6 .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2 4   a .   P r e - B A L C O
+Regime.................................................................................... 26 b. Post BALCO
+Regime. ................................................................................. 43 ii. Criterion or Test for
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+1
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+Determination of Seat of Arbitration: Conflict of ‘Venue’ versus ‘Seat’ of Arbitration.
+.................................................... 56 a. Closest Connection Test – Place of Arbitration
+to be ascertained by the Law governing the Arbitration Agreement and not the Place
+of Arbitration. ... 56 b. The Shashoua Principle – ‘Venue’ to be construed as ‘Seat’
+.................... 71 iii. Whether the Seat of Arbitration in the underlying Distributorship
+Agreement is in India? ............................................................................ 81 iv. Doctrine
+of Forum non Conveniens ....................................................... 89 E. CONCLUSION
+........................................................................................... 95
+
+1. The present petition has been filed under Section 11 sub-section (6)(a) read with
+Section 11 sub-section (12)(a) of the Arbitration and Conciliation Act, 1996 (for short,
+the “Act, 1996”) seeking a referral of the disputes that have arisen between the parties
+to arbitration and consequent appointment of an arbitrator by this Court in terms of
+clauses 26 and 27 of the Consumer Distributorship Agreement respectively dated
+09.11.2010 (hereinafter referred to as the “Agreement”) entered into between the
+petitioner and the respondent herein.
+
+2. The petitioner, ‘M/s Arif Azim Co. Ltd.’, is a company based in Afghanistan, having
+its registered office at 1st Floor, Zarnigar Hotel, Mohammed Jan Khan Watt, Kabul,
+Afghanistan and is inter-alia engaged in the business of distribution of handsets
+which are manufactured by the respondent no. 1 in the territory of Kabul,
+Afghanistan. The respondent no. 1, ‘M/s Micromax Informatics FZE’ is a Free Zone
+Establishment company incorporated under the laws of United Arab Emirates having
+its office at 28, Shed No. 18, Technology Park, Free Trade Zone, Ras-Al-Khaimah,
+UAE. Whereas, the respondent no. 2, ‘M/s Micromax India’ is a public limited
+company incorporated in India having its registered office at Block A, Plot No. 21/14,
+Naraina Industrial Area, Phase-II New Delhi. The respondent no. 1 company is a
+wholly owned subsidiary of the respondent no. 2 company with the same Board
+Members in both the companies, and together they are engaged in the business of
+manufacturing, importing and supplying various mobile handsets under its brand
+name ‘Micromax’ worldwide. We may clarify at the outset, that the respondent no. 2
+company herein is a non-signatory to the arbitration agreement in respect of which
+the present Section 11 petition has been filed.
+
+A. FACTUAL MATRIX
+
+3. The petitioner herein and the respondent no. 1 company entered into a Consumer
+Distributorship Agreement dated 09.11.2010 (for short, the “Distributorship
+Agreement”) inter-alia for the distribution of handsets which are manufactured by
+the respondent no. 1 and the same was executed by the parties in Kabul, Afghanistan.
+As per the terms of the aforesaid agreement, the petitioner herein became the
+authorized distributor of the respondent’s products including mobile handsets and
+was granted a non-
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+2
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+exclusive right to market and distribute the same under its own account in the territory of
+Afghanistan as allotted and delineated under the said agreement.
+
+4. Before proceeding further, it would be apposite to first highlight some of the salient features of
+the aforesaid Distributorship Agreement which are relevant to the case at hand. Under the terms of
+the aforesaid Distributorship Agreement, it is stipulated that all payments shall be made by the
+distributor in full before the physical delivery of the products, and it further specifies that the mode
+of such payment shall be through a letter of credit (L/C). The Distributorship Agreement further
+provides that no additions or modifications made to the aforesaid agreement shall be binding unless
+it is in writing and is duly signed by the authorized representatives of the parties.
+
+Additionally, the said Distributorship Agreement defines a ‘supplementary agreement’ to mean and
+include any further agreement or agreements that may be executed by the parties including such
+other terms and conditions that are not incorporated in the main agreement. The relevant clauses
+read as under: -
+
+“1. DEFINITIONS In this agreement, unless the context otherwise requires, the
+following expressions have the following meanings:
+
+xxx xxx xxx Supplementary Agreement: means the further agreement(s) as may be
+executed between the parties including such other commercial terms and conditions
+which are not incorporated in this Agreement.
+
+                              xxx         xxx           xxx
+
+           5. DISTRIBUTOR’S OBLIGATIONS
+                              xxx          xxx          xxx
+           5.4 Payment
+
+5.4.1 Invoice and Payment Terms. Unless credit terms have been expressly agreed by
+Micromax, payment for the Products shall be made through irrevocable and
+confirmed letter of credit (L/C) in full before physical delivery of the Products to
+Distributor (or Distributor’s customer). Time for payment is of the essence and
+Micromax reserves the right to charge interest on sums overdue, on a day to day basis
+at the rate of 24% per annum. Such interest shall be payable on demand.
+
+5.4.2. Payments not received by Micromax as per the payment terms shall constitute a default by the
+Distributor. Micromax shall have the right to invoke the bank guarantee furnished by the
+Distributor for securing payments in case of default. Distributor agrees not to seek any adjustments,
+set-off of any other amounts outstanding to Micromax in respect of the bank guarantee nor counter
+claim from Micromax.
+
+                              xxx        xxx          xxx
+
+           23. ENTIRE AGREEMENT
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+3
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+23.1 This Agreement together with the Conditions of Sale, supersedes all prior agreements,
+arrangements, understandings and undertakings between the parties and constitutes the entire
+agreement between the parties relating to the subject matter hereof.
+
+23.2 No addition to or modification of any provision of this Agreement shall be binding upon the
+parties unless made by a written instrument signed by a duly authorized representative of each of
+the parties.
+
+23.3 Distributor hereby warrants to Micromax that it has not been induced to enter into the
+Agreement by any prior oral or written representations (whether innocently or negligently made)
+except as specifically contained in the Agreement.”
+
+5. Furthermore, the aforesaid Distributorship Agreement inter-alia stipulates that the said
+agreement will be governed by the laws of UAE and subject to the non-exclusive jurisdiction of the
+Dubai Courts. The said Distributorship Agreement also contains an arbitration clause which states
+that any dispute or difference pertaining to the said agreement or arising therefrom shall be
+resolved through arbitration alone, the venue of the arbitration shall be Dubai, UAE and that the
+arbitration shall be subject to the UAE Arbitration & Conciliation rules. The relevant clauses are
+reproduced hereunder: -
+
+“26. DISPUTE RESOLUTION In the event of any dispute or difference arising out of
+the Agreement, its validity, applicability, then the same shall be referred to the
+arbitration. The arbitration shall be subject to UAE Arbitration and Conciliation rules
+made there under. The venue of arbitration shall be Dubai, UAE.
+
+27. LAW AND JURISDICTION This Agreement shall be governed by and construed
+in accordance with the laws of UAE and shall be subject to the non-
+
+exclusive jurisdiction of the Dubai Courts.”
+
+6. Pursuant to the aforesaid Distributorship Agreement several transactions took place between the
+petitioner and the respondents for the purchase and distribution of mobile handsets. It is the case of
+the petitioner that the business practice mutually followed by the parties for undertaking these
+transactions involved the petitioner first placing a purchase order, after which the respondents
+would raise an invoice, and the requisite payment would then be made either to the respondent no. 1
+or the respondent no. 2 as per the instructions of the respondents.
+
+7. Around March, 2012 the petitioner herein placed an order for purchase of 8000 (approx..) mobile
+handsets from the respondent no. 1. Against this purchase the respondent no. 1 raised a proforma
+invoice to the tune of $109,500/- (USD One hundred nine thousand five hundred) and as per the
+invoice the said amount was payable by the petitioner to the respondent no.
+
+1 company.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+4
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+8. According to the petitioner, although the terms of the Distributorship Agreement mandated that
+both the delivery of handsets and the payments thereof be processed through the respondent no. 1
+yet, interestingly, this time the handsets and the corresponding invoices for the same were issued by
+the respondent no. 2 instead. The respondent no. 2 supplied only 7300 handsets to the petitioner
+and issued a new invoice for the same amount i.e., $109,500/- (USD One hundred nine thousand
+five hundred), which was now payable directly to the respondent no. 2 instead.
+
+9. It is the case of the petitioner herein that as on 12.05.2012, the petitioner company had a credit
+balance of $190,625/- (USD One hundred ninety six hundred twenty-five) with the respondent no. 1
+company i.e., the running account of the respondent no. 1 reflected a sum of $190,625/- (USD One
+hundred ninety six hundred twenty-five) in favour of the petitioner company as outstanding credit.
+However, the respondent no. 2 whilst raising the invoice for supply of the aforesaid 7300 handsets,
+ignored the abovementioned credit balance of the petitioner and demanded payment, to be made
+directly to the respondent no. 2 in India.
+
+10. Thereafter some email correspondences were exchanged between the petitioner company and
+one Shri Vikas Jain, the executive director of the respondent no. 1 and the business director of the
+respondent no. 2 company for the adjustment of the abovementioned credit balance lying in favour
+of the petitioner against the outstanding invoices. On 23.10.2012, the respondents vide an email
+informed the petitioner company that since the accounts of Micromax Informatics FZE & M/s
+Micromax India are separate, the credit balance lying in its favour in the respondent no. 1’s account
+cannot be directly adjusted for the invoices raised by the respondent no. 2. It further stated that, the
+petitioner company should first make payment to the respondent no. 2 towards the invoices that
+have been raised, and thereafter, the respondent no. 1 company would remit the outstanding credit
+balance to the petitioner. The relevant portion of the respondent’s email dated 23.10.2012 is
+reproduced below: -
+
+“Dt. 23.10.2012 Subject: Account Statement Dear Sir, Kindly note that from Arif
+Azim we need to receive USD 109500 for sales made in MMX India and Need to pay
+USD 190625 in respect of advance received respect of sale to be made in FZE. Both
+these accounts are of separate Cos.
+
+Hence we should first receive payment of MMX India account; then let Micromax
+FZE pay to Arif.
+
+Regards, Anita”
+
+11. On 15.01.2013, the petitioner made the requisite payment of $109,500/-
+
+(USD One hundred nine thousand five hundred), which was now payable directly to the respondent
+no. 2 towards the aforesaid invoices raised by it.
+
+Thereafter, it appears from the materials on record, that over a period of time many more
+transactions took place between the petitioner company and respondent no. 1 inter-alia for purchase
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+5
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+and supply of various products whereby the credit balance lying in the respondent no.1’s account in
+favour of the petitioner company now came out to be $88,425/- (USD Eighty-Eight Thousand Four
+Hundred Twenty-Five).
+
+12. On 09.09.2019, the petitioner vide an email again requested Shri Vikas Jain to confirm the credit
+balance lying in its favour with the respondent no. 1 and to undertake steps to transfer the same to
+the petitioner’s account. In response, Shri Vikas Jain directed the finance department of respondent
+no.
+
+1 to confirm the credit balance lying with it in favour of the petitioner and further requested the
+petitioner to furnish its statement of account so that the two books of account may be reconciled for
+making the requisite payment.
+
+13. Thereafter, several more correspondences took place between the petitioner and Shri Vikas Jain
+on behalf of the respondents through emails and texts inter-alia requesting for various documents
+and statements for the purpose of ascertaining the outstanding credit balance in favour of the
+petitioner. On 06.05.2022, the petitioner furnished the necessary statement of accounts to the
+respondents and requested for an update on the payment.
+
+14. It appears from the material on record, that over the next 2-months several requests were made
+by the petitioner to the respondents for furnishing the outstanding credit balance in its favour and
+to make the requisite payment;
+
+however, the same were to no avail. Shri Vikas Jain, on behalf of the respondents’ time to time
+expressed his difficulty in ascertaining the exact figure for the outstanding credit balance, inter-alia
+citing that it was a very old running account and that the accountants responsible for maintaining
+the records had left the company, and thus requested for more time to do the needful.
+
+15. On 14.09.2022, the petitioner sent a notice for invocation of arbitration under Section 21 of the
+Act, 1996, in terms of Clause 26 of the Distributorship Agreement to the respondent nos. 1 & 2. Vide
+the notice, the petitioner raised a claim of $88,425/- (USD Eighty-Eight Thousand Four Hundred
+Twenty-
+
+Five) with interest @24% p.a. as per the terms agreed in the Distributorship Agreement and
+nominated Shri. V. Giri and Shri. R. Basant, Senior Advocate as its nominee arbitrators and called
+upon the respondents to accordingly appoint an arbitrator either from the above suggested panel or
+any other suitable name within 28-days from receipt of the said notice.
+
+16. It is material to note that in the aforesaid notice of invocation dated 14.09.2022, the petitioner
+further alluded that in the Distributorship Agreement more particularly Clause 27 the parties had
+not designated a specific court to the exclusion of all other courts to adjudicate the dispute, thus no
+exclusive jurisdiction had been conferred by the parties upon any particular court. It further stated
+that, as the cause of action had concurrently both in Afghanistan and India, the petitioner expressed
+its preference to resolve the dispute through arbitration administered under the jurisdiction of the
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+6
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+courts in India.
+
+17. Since no reply to the aforesaid notice of invocation of arbitration was elicited from either of the
+respondents, the present petition came to be filed by the petitioner on 19.04.2023 before this Court
+for seeking appointment of an arbitrator under Section 11(6) of the Act, 1996 in other words due to
+the failure on part of the respondents in nominating an arbitrator as per the mutually agreed upon
+terms and procedure under the aforesaid Distributorship Agreement.
+
+B.     SUBMISSIONS OF THE PARTIES
+
+i.     Submissions on behalf of the Petitioner.
+
+18. Mr. R. Sathish the learned counsel appearing for the petitioner in his written submissions has
+stated thus: -
+
+“WRITTEN SUBMISSIONS MADE BY R. SATHISH, ADVOCATE ON BEHALF OF
+THE PETITIONER
+
+1. The Dispute Resolution clause defined the venue of arbitration as Dubai and the
+curial law as UAE Arbitration and Conciliation Rules and the jurisdiction clause,
+suggestive of control, does not confer jurisdiction to Dubai courts to the exclusion of
+all other courts.
+
+2. For international arbitrations, the concept of seat assumes greater significance as it
+acts as the indicator for both curial law as well as supervisory jurisdiction whereas
+venue is not associated with the jurisdiction.
+
+3. The agreement, in so far the identity of Dubai courts, for jurisdiction, suffers from
+vagueness in that, it doesn’t specify which of the courts of Dubai and the laws
+governing thereunder, shall have jurisdiction to hear the disputes among three
+different courts constituted, namely
+
+(i) The UAE Courts (the language is not English)
+
+(ii) Dubai International Financial Court (DIFC-Common law)
+
+(iii) Abu Dhabi Global court (ADGM-common law).
+
+Therefore, at the threshold, it is submitted that the 2nd part of clause 27 dealing with jurisdiction
+that “……….and shall be subject to the non-exclusive jurisdiction of the Dubai courts” is a valid
+opting out of the exclusive jurisdiction of Dubai courts, as the parties have intended to avoid
+impracticable and inconvenient process and procedures as a result of subsequent amendments and
+modifications to the agreement involving 3countries, Afghanistan, India and UAE. This submission
+is discernible from a plain reading of various clauses in the subject of the agreement as well as the
+conduct of the parties including a non -signatory to the agreement.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+7
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+4. As held in Bharat Aluminium vs Kaiser Aluminium Technical Services Inc. 2012 (9)SCC 522, at
+para 99, that, it would be a matter of construction of the individual agreement to decide, whether
+the designated foreign “seat” would be read as in fact only providing a “venue”/“place” where the
+hearings would be held; and in the present case on hand, given the choice of UAE Arbitration and
+Conciliation Rules as being the curial law and the venue at Dubai, will not dictate what the
+governing or controlling law would be when the 2nd part of clause 27 reiterates the parties'
+autonomy in deciding/choosing the seat by expressly stating its intention that “This agreement shall
+be subject to the non-exclusive jurisdiction of the Dubai Courts”. Regard being to other clauses in
+the agreement, this clause has been incorporated to avoid conflicts related to the jurisdictions of
+courts and confer jurisdiction on other courts too, it is submitted. (Emphasis supplied).
+
+5. At the outset, be it kindly noted that, the relied upon decision by the respondent to oust the
+jurisdiction of Indian courts in Mankatsu Impex Private Limited vs Airvisual Limited 2010 (5) SCC
+399 is misplaced as it was a case of exclusive jurisdiction in terms conferred by the agreement. A
+clause therein like Cl.17.2 which provides “the place of arbitration shall be Hong Kong”, in addition
+to, also providing that “all disputes arising out of the MoU shall be referred to and finally resolved
+and administered in Hong Kong”…is conspicuously absent in the subject agreement. Still on a
+matter of law, emphasising the Party’s autonomy, Mankatsu Impex held;
+
+Quote “20. It is well-settled that “seat of arbitration” and “venue of arbitration” cannot be used
+interchangeably. It has also been established that mere expression “place of arbitration” cannot be
+the basis to determine the intention of the parties that they have intended that place as the “seat” of
+arbitration. The intention of the parties as to the “seat” should be determined from other clauses in
+the agreement and the conduct of the parties.” Unquote
+
+5. Proposition
+
+(i) Where in substance, the parties agreed that the local laws of one country will govern and control
+a given arbitration, the place where the arbitration is to be heard will not dictate what the governing
+law or controlling law will be. (Bharath Aluminium vs Kaiser Aluminium Technical services 2012 (9)
+SCC552 at page 613 Para 107.
+
+(ii) When an agreement expressly designates the venue without any express reference to seat, given
+the various factors connecting the dispute to India in a contract executed in Kabul and wholly to be
+performed in India and Afghanistan and the absence of any foreign factors connecting the dispute to
+Dubai with its vagueness and uncertainty of what the parties had intended by their reference to the
+“Dubai courts”, the burden is on the respondents to establish that its terms constituted Dubai as the
+seat of arbitration.
+
+SUBMISSIONS ON BEHALF OF THE PETITIONER
+
+6. The petitioner submits that the laws of the country with which the subject agreement was most
+closely connected are India and Afghanistan. The recitals in Sub- Cl. 22.4 (Interpretation Clause) of
+the Distribution agreement and the conduct of the parties reveal that the parties had attached very
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+8
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+little importance to its local subsidiary FZE within the “Micromax Group” of companies that
+ultimately signed the Distributor agreement. It was formed to take advantage of concessional
+benefits in a free economic zone. The intention of the parties as to the “seat” should be determined
+from other clauses in the agreement and the conduct of the parties.
+
+7. A plain conjoint reading of the following 6 clauses in the agreement with a supplementary
+agreement executed by Micromax Inc. (Non-signatory parent Co.) in the form of two emails forming
+its integral part (Pages 37 to 54) would negate the contra plea of the respondents as to the
+jurisdiction of Indian courts.
+
+(i) Clause 26 Clause 27 deals with Dispute Resolution; law and jurisdiction.
+
+Quote.."Cl. 26. Dispute Resolution In the event of any dispute or difference arising out of the
+agreement, its validity, applicability, then the same shall be referred to arbitration. The arbitration
+shall be subject to UAE Arbitration and conciliation rules made there under. The venue of
+arbitration shall be Dubai, UAE. Cl. 27. Law and jurisdiction This shall be governed by and
+construed in accordance with the laws of UAE and shall be subject to the non-exclusive jurisdiction
+of the Dubai Courts." ....Unquote
+
+8. Petitioner submits that Clause 27 preserved the party’s autonomy in allowing the concerned
+parties to choose their seat/jurisdiction. The second part of jurisdictional Cl. 27 discloses the
+intention - an agreement by itself- to opt out of Dubai court's jurisdiction and this is what the parties
+had intended by their reference to "the non-exclusive jurisdiction of the Dubai Courts. Since the
+parties had agreed not to confer exclusive jurisdiction to courts in Dubai, neither of the parties to
+the agreement construed the arbitration clause as designating courts in Dubai as the seat of
+arbitration.
+
+Vide PASL vs GE 2021 SCC online 226.
+
+9. DETERMINATION OF THE SEAT BASED ON THE CLOSEST CONNECTION TEST IF IT IS
+UNCLEAR THAT THE SEAT HAS BEEN DESIGNATED EITHER BY THE PARTIES.
+
+The petitioner submits that the laws of the country with which the subject agreement was most
+closely connected is India. However, there is no stipulation whatsoever in the subject agreement
+about the supervisory power over the arbitration proceedings. In Enercon (India) Limited and
+others v. Enercon GMBH and another (2014) 5 SCC 1, the arbitration clause provided London as the
+venue and not the seat. The Court pointed out various factors connecting the dispute to India and
+the absence of any foreign factors connecting the dispute to England. Supreme Court held that “the
+location of the Seat will determine the courts that will have exclusive jurisdiction to oversee the
+arbitration proceedings. It was further held that the Seat normally carries with it the choice of that
+country’s arbitration/curial law”. In the present case, the parties have only agreed on Dubai as a
+“Venue” of arbitration and not the juridical seat of the arbitration. If Dubai is treated as seat of the
+arbitration, ipso jure, local laws will be applied. So much so, the stipulation regarding the governing
+law of the agreement -Laws of UAE - contained in the first part of Cl. 27 will not dictate, what the
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+9
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+governing or controlling law would be, whereas the second part applies to both the substantive law
+and curial law, did not concede an exclusive jurisdiction to Dubai courts. Therefore on a matter of
+construction, Dubai cannot be the seat of Arbitration.
+
+10. In Indus Mobile Distribution Pvt. Ltd. v. Datawind Innovations Pvt. Ltd. and Ors., (2017) 7 SCC
+678 followed by M/s Emkay Global Financial Services Ltd. v. Girdhar Sondhi reiterated that “seat”
+in the context of arbitration proceedings is akin to an exclusive jurisdiction clause and would not
+vest the courts with seat if exclusive jurisdiction is not conceded.
+
+11. Submission is that “supervisory control over the arbitral proceedings” is not exclusively given to
+Dubai courts by the 2nd part of Clause 27 and the party's autonomy is thus preserved.
+
+12. 2nd submission. The Bi-party Agreement executed between the petitioner and a foreign
+company in Kabul was altered by invoking the Group of Companies doctrine by a non-signatory to
+the agreement. In terms, the agreement has become a tri- partite agreement where a non-signatory
+to the original agreement directed the petitioner to make a direct payment of $109500 to India by
+changing the original invoice raised by a party to the agreement. Submission is, 2nd part of Cl.27
+envisages a jurisdictional situation as had happened subsequently by the conduct of parties.
+
+12.1 A jurisdiction clause is suggestive of control. In the context of this particular case, the Dubai
+Courts would have no real control or supervisory jurisdiction over the arbitral process, in as much
+as, this supplementary agreement further reiterates the party's autonomy of choosing the juridical
+seat of Arbitration in consonance with 2nd part of Cl.27 in which case, a reference to the “venue”
+cannot be treated as the “seat” of the arbitration.
+
+12.2 Micromax Inc.'s insistence on payment in India by altering the original terms is a
+non-contest/in terrorem clause or a condition precedent which again substantiates the Party’s
+autonomy lest the respondents would have terminated the subsisting distribution agreement for
+violating the supplementary agreement by giving written notice under clause
+
+15. Equally, clause 16.7 (Effect of termination), obliges respondents to pay forthwith any amount
+standing to the credit of distributor, should they choose to terminate the agreement. Respondents
+have perpetrated a continuous wrong.
+
+12.3. The petitioner’s submission in this regard are fortified by a plain reading of the following
+clauses r/w the supplementary agreement, in the form of emails forming an integral part of the
+Agreement u/s 7 (4) (b) and Mc. Dermott International vs Burn Standard (2006 (11) SCC 181)
+Clause 1. Definitions.
+
+Quote “Products: means goods but not spare or replacement parts supplied by Micromax (but not
+necessarily manufactured, assembled or, in the case of software, owned by Micromax Inc. or any of
+its subsidiary companies or affiliates) to the Distributor. ..Unquote (emphasis supplied) Quote
+“Supplementary agreements: means further agreement(s) as may be executed between the parties
+including such other commercial terms and conditions which are not incorporated in this
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+10
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+agreement”.
+
+Cl. 5.4 Payment ………..
+
+Cl. 5.4.3 “Micromax shall be entitled to deduct from any monies due to the Distributor any sums
+owed by Distributor to Micromax……”Unquote Cl. 22 Interpretation ……… “22.4. references to
+Micromax shall be deemed to include reference to affiliates of Micromax where the context so
+requires”.
+
+24. Assignment - Micromax may assign or otherwise transfer this Agreement or any of its rights and
+obligations hereunder whether in whole or in part” ……..Unquote.
+
+12.5 Acting upon the supplementary terms, the petitioner made a payment of $109500 by SWIFT to
+Micromax Inc. in Bombay. (page 64 Annexure P7). In juxtaposition, curated details of the two
+emails originating from Sh. Vikash Jain (deponent in the counter) who is the Executive Director of
+Micromax FZE (at page 62 Annex P-4) and an authorised representative of Micromax Inc. is given
+below:
+
+Date: 11 December, 2012 Dear Ali Bhai, Please find attached your debit balance to
+Micromax, India. Also sending a credit balance statement from FZE, Would
+appreciate if you can make the mentioned payment to India and we remit credit
+balance to you back from FZE.
+
+           Thanks
+           Vikas”                     (Page 52 of the Paper book)
+
+           “Date 11 December, 2012
+           Dear Ali Bhai,
+
+This is about $190K that we owe back to your firm from FZE. Would appreciate if we
+can resolve the accounts at the fastest.
+
+            Thanks
+            Vikas”                    (Page 54 of the Paper book)
+
+Final submission- Mere expression of venue of arbitration will not entail that the
+parties intended it to be the seat. The intention of the parties- keeping intact Party
+autonomy - has to be determined from other clauses of the Agreement and the
+conduct of the parties.” ii. Submissions on behalf of the Respondent.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+11
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+19. Mr. Mudit Sharma the learned counsel appearing for the petitioner in his written
+submissions has stated thus: -
+
+“ W R I T T E N   S U B M I S S I O N S   O N   B E H A L F   O F   T H E   R E S P O N D E N T S   “ M / S
+MICROMAX FZE (UAE)” I. PETITION NOT MAINTAINABLE AND THIS HON’BLE
+COURT LACKS JURISDICTION:
+
+1. It is humbly submitted that this Hon’ble Court does not have the jurisdiction to
+either entertain the Petition under Section 11(6) of the Arbitration and Conciliation
+Act, 1996 (“the Act”) and / or appoint an Arbitrator in terms of the Arbitration
+Agreement between the Petitioner and the Respondent i.e. M/s.
+
+Micromax Informatics FZE(UAE) for neither the arbitration seat is India nor the parties ever
+envisaged the redressal of disputes through arbitration in terms of Indian laws and in India as per
+the Distributor Agreement dated 09.11.2010 between the Parties (Ann. P-1 @ Pg. 37 ( PDF Pg. 66 of
+Petition) (hereinafter referred to as “Distributor Agreement”)
+
+2. Moreover, admittedly, both the Petitioner (an entity of Afghanistan) and the Respondent, M/s.
+Micromax Informatics FZE(UAE) (an entity of UAE) are body corporates incorporated, registered
+and situated outside India (Please see description of Parties, Ann. P-1 @Pg.37 (PDF Pg. 66) & 50
+(PDF Pg. 79) of Petition) and the Distributor Agreement admittedly was entered and executed
+between the parties outside India.
+
+3. The Territory defined under the Distributor Agreement is Afghanistan (Please see Ann. P1 Clause
+1 -Territory @Pg.50 (PDF Pg. 66) read with the Schedule @ PDF Pg. 79 of Petition). All business
+transactions are outside India.
+
+4. Clause 26 (Distributor Agreement, Ann. P-1 @ Pg. 49 (Pdf Pg. 78 of Petition) of the Distributor
+Agreement provides for dispute resolution at Dubai, UAE under UAE Arbitration and Conciliation
+rules.
+
+5. Clause 27 of the Distributor Agreement (Ann. P-1, @Pg. 49 (Pdf Pg. 78 of Petition) specifically
+provides that governing law to be exclusively of UAE.
+
+6. There is clear intent between the parties that Dubai shall be the seat of Arbitration and the venue
+in the present case has to be construed as seat of arbitration.
+
+7. Section 2 (2) of the Act with respect to the applicability of Part-1 stipulate that Section 11 of the
+Act has no application to arbitrations seated outside India. Thus, this a an arbitration seated outside
+India and Part-1 of the Act would have no applicability.
+
+8. An “International Commercial Arbitration” in terms of Section 2(f) to attract the applicability of
+Section 11 for exercise of power of appointment of Arbitrator by this Hon’ble Court mandates that at
+least one party should be an individual or a body corporate in India and the arbitration agreement
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+12
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+should compulsorily provide for seat of Arbitration in India. Admittedly neither of the Parties are
+individuals or body corporates in India nor the Distributor Agreement provides for arbitration seat
+in India.
+
+9. Reliance is placed on the two Judgements of this Hon’ble Court:
+
+i. “Mankatsu Impex Private Limited Vs. Airvisual Ltd., (2020) 5 SCC 399”; relevant
+Paras being Para 20 at Page 406; Para 25 at Page 408 and Para 26 and Para 27 at
+Page 409 and ii. “BGS SGS Soma JV Vs. NHPC Limited, (2020) 4 SCC 234”; relevant
+Paras being Paras 61, 62 and 67 at are Page
+
+242).
+
+10. It is further submitted that the use of “non-exclusive jurisdiction of Dubai Courts” in Distributor
+Agreement did not ever envisage jurisdiction of Courts outside UAE and in no manner whatsoever
+the “Courts of India”. The word “non- exclusive: has been used in the context that jurisdiction of
+other Courts in UAE may not be restricted.
+
+11. Invoking of the provisions under section 11 of the Act; would tantamount to re-writing the terms
+of the Distributor Agreement and taking away parties’ autonomy which is the sole principle on
+which arbitration is based. As such; this Hon’ble Court cannot exercise its powers of appointment of
+Arbitrator to the present alleged dispute between the Parties.
+
+12. Given that the Governing law and jurisdiction is of Courts in UAE and Arbitration is stipulated to
+be under UAE Arbitration and Conciliation rules ; this Hon’ble Court has no jurisdiction to either
+entertain the present Petition and apply any provisions of the Arbitration Act or any other Indian
+law.
+
+II. NO PRIVITY OF CONTRACT BETWEEN PETITIONER AND MICROMAX INFORMATICS LTD.
+(INDIA):
+
+13. Admittedly the Distributor Agreement dated 09.11.2010 containing the Arbitration Clause
+provides for dispute resolution between the Petitioner and Respondent, M/s. Micromax Informatics
+FZE (UAE), an entity of UAE. Admittedly, Micromax Informatics Ltd. (India) is neither a party nor a
+signatory to the Distributor Agreement. Micromax Informatics Ltd. (India) is not even a Respondent
+to the present proceedings but has been sought to be impleaded by an Interim Application
+No.110064/2023. Thus, there exists no privity of contract between the Petitioner and the Indian
+Entity, Micromax Informatics Ltd. (India).
+
+14. Further, the Petitioner has sought to rely on communications between the Parties to establish
+privity of contract and assert Micromax Informatics Ltd. (India) as party to dispute. But in an email
+dated 23.12.2012 (Ann. P-2 @Pg.52 (PDF Pg. 81) of Petition); Micromax Informatics Ltd. (India)
+while making reference to M/s. Micromax Informatics FZE (UAE) and Micromax Informatics Ltd.
+(India) has explicitly and categorically stated that the accounts of both companies are separate and
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+13
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+there are sums receivable in Micromax Informatics Ltd. (India).
+
+15. Even assuming though not admitting that the transactions with Micromax India were under the
+Distributor Agreement then too, the terms of the Distributor Agreement with respect to territory,
+rules of arbitration, governing law, jurisdiction and other terms of agreement would remain same
+and cannot be considered to be varied. The Distributor Agreement in Clause 23.2 (Ann. P-1 at Pg.
+48) (PDF Pg 77) stipulates that no addition to or modification of any provision of this agreement
+shall be binding unless made by a written instrument signed by duly authorized representative of
+each of the parties.
+
+In view of the above, it is most respectfully prayed that the present Petition may kindly be
+dismissed.” C. ISSUES FOR DETERMINATION
+
+20. Having heard the learned counsel appearing for the parties and having gone through the
+materials on record, the following questions of law fall for our consideration: -
+
+I. Whether, the present petition under Section 11 of the Act, 1996 is maintainable?
+
+II. Whether, Part I of the Act, 1996 is applicable to the arbitration clause contained in
+the Distributorship Agreement dated 09.11.2010?
+
+III. What is the seat of the arbitration in terms of the Distributorship Agreement
+dated 09.11.2010?
+
+D. ANALYSIS
+
+21. It is necessary to delve into the history of the law of arbitration in India. Prior to
+the 1996 Act, three Acts governed the law of Arbitration in India — the Arbitration
+(Protocol and Convention) Act, 1937, which gave effect to the Geneva Convention, the
+Arbitration Act, 1940 (for short, the “Act, 1940”), which dealt with domestic awards,
+and the Foreign Awards (Recognition and Enforcement) Act, 1961 (for short, the
+“Act, 1961”) which gave effect to the New York Convention of 1958 and which dealt
+with challenges to awards made which were foreign awards. Thereafter, in order to
+consolidate and amend the law relating to domestic arbitration, international
+commercial arbitration, enforcement of foreign arbitral awards and to define the law
+relating to conciliation, taking into account the said UNCITRAL Model Law and
+Rules, the Act, 1996 was enacted.
+
+22. The Act, 1996 is divided into four parts. Part I which is headed “Arbitration”;
+
+Part II which is headed “Enforcement of Certain Foreign Awards”; Part III which is headed
+“Conciliation” and Part IV being “Supplementary Provisions”.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+14
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+23. There was no concept of “juridical seat” or “situs of arbitration” under the Act, 1940, rather the
+jurisdiction of courts was determined on the basis of the definition of “court” under Section 2(c) of
+the Act, 1940 which was defined as any civil court having jurisdiction to decide questions forming
+the subject-matter of the reference to arbitration if the same had been the subject-
+
+matter of a suit.
+
+24. Under the UNCITRAL Model Law on International Commercial Arbitration (as adopted by the
+United Nations Commission on International Trade Law on 21-6-1985) which forms the basis of the
+Act, 1996, the concept of ‘place of arbitration’ or ‘seat of arbitration’ was encompassed in Article 20
+which reads as under: -
+
+“20. Place of arbitration.— (1) The parties are free to agree on the place of arbitration.
+Failing such agreement, the place of arbitration shall be determined by the Arbitral
+Tribunal having regard to the circumstances of the case, including the convenience of
+the parties.
+
+(2) Notwithstanding the provisions of paragraph (1) of this article, the Arbitral
+Tribunal may, unless otherwise agreed by the parties, meet at any place it considers
+appropriate for consultation among its members, for hearing witnesses, experts or
+the parties, or for inspection of goods, other property or documents.”
+
+25. When the Act, 1996 was enacted replacing the earlier Act, 1940, a new provision of Section 20
+was inserted by the legislature which was absent in the earlier Act, 1940. The said provision reads as
+under: -
+
+“20. Place of arbitration.— (1) The parties are free to agree on the place of arbitration.
+
+(2) Failing any agreement referred to in sub-section (1), the place of arbitration shall
+be determined by the Arbitral Tribunal having regard to the circumstances of the
+case, including the convenience of the parties.
+
+(3) Notwithstanding sub-section (1) or sub-section (2), the Arbitral Tribunal may,
+unless otherwise agreed by the parties, meet at any place it considers appropriate for
+consultation among its members, for hearing witnesses, experts or the parties, or for
+inspection of documents, goods or other property.”
+
+26. A cursory reading of the aforesaid provision would reveal that it is a replication of Article 20 of
+the UNCITRAL Model Law whereunder, the place or seat of arbitration has been given pride and
+primacy. However, despite the aforesaid inclusion, the legislature retained the definition of “court”
+from the Act, 1940 in Section 2(e) of the Act, 1996 with a minor tweak that instead of any civil court
+of the lowest grade competent to entertain the subject-matter, now only the principal civil court or
+the High Court of original jurisdiction which is competent to entertain the subject-
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+15
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+matter shall have jurisdiction. Due to this, the concept of juridical seat of the arbitral proceedings
+and its interrelationship with the jurisdiction of courts in respect of arbitral proceedings the
+Doctrine of Concurrent Jurisdiction emerged in the Indian Arbitration Regime.
+
+i. The Notional Doctrine of Concurrent Jurisdiction and Applicability of Part I of the Arbitration &
+Conciliation Act, 1996.
+
+27. It can thus be seen from the discussion in the preceding paragraphs of this judgment that the
+scheme of the Act, 1996 is bifurcated into distinct parts being Part I, II, III & IV. Each of these parts
+delineates a unique scheme that deals with different aspects of arbitration or conciliation as the case
+may be.
+
+Section 11 of the Act, 1996 which inter-alia empowers this Court to appoint an arbitrator in case of
+an international commercial arbitration is contained in Part I of the said Act. Section 2(2) in Part I
+of the Act, 1996 expressly provides that this part (sic Part I and by extension the provisions
+thereunder) shall apply where the place of arbitration is in India. The said provision is reproduced
+hereunder: -
+
+“2. Definitions.
+
+xxx xxx xxx (2) This Part shall apply where the place of arbitration is in India.
+
+Provided that subject to an agreement to the contrary the provisions of section 9, 27 and clause (a)
+of sub-section (1) and sub-section (3) of Section 37 shall also apply to international commercial
+arbitration, even if the place of arbitration is outside India, and an arbitral award made or to be
+made in such place is enforceable and recognized under the provisions of Part II of this Act.”
+
+28. Thus, a cursory reading of the aforesaid provision makes it clear that the exercise of power to
+appoint an arbitrator under Section 11 of the Act, 1996 is dependent upon whether the said Part is
+applicable in the first place or not.
+
+As such it would be apposite to first understand the scope of Part I of the Act, 1996, more
+particularly the import of the expression “where the place of arbitration is in India” occurring in
+Section 2(2) of the Act and in which situations is the said Part applicable in order to enable this
+Court to exercise its powers under Section 11 to appoint an arbitrator.
+
+a. Pre-BALCO Regime.
+
+29. In National Thermal Power Corporation v. Singer Company & Ors.
+
+reported in (1992) 3 SCC 551, although the award which was the subject-
+
+matter of the said case had been challenged under the then Act, 1940 yet the observations made
+therein by this Court in regards the applicability of the Act, 1940 are significant insofar as the Act,
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+16
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+1996 is concerned. In the aforesaid case, the question before this Court was whether the Act, 1940
+was applicable to the arbitration agreement between the parties therein. This Court held as follows:
+-
+
+(i) First, it held that the choice of law governing the arbitration agreement i.e., the lex
+arbitri would determine which system of law would be applicable. It observed that
+since the arbitration agreement therein was to be governed by Indian laws, the Act,
+1940 would be applicable to such arbitration proceedings. The relevant observations
+read as under: -
+
+“2. The National Thermal Power Corporation (the ‘NTPC’) appeals from the
+judgment of the Delhi High Court in FAO (OS) No. 102 of 1990 dismissing the
+NTPC's application filed under Sections 14, 30 and 33 of the Arbitration Act, 1940
+(No. X of 1940) to set aside an interim award made at London by a tribunal
+constituted by the International Court of Arbitration of the International Chamber of
+Commerce (the “ICC Court”) in terms of the contract made at New Delhi between the
+NTPC and the respondent — the Singer Company (the ‘singer’) for the supply of
+equipment, erection and commissioning of certain works in India. The High Court
+held that the award was not governed by the Arbitration Act, 1940; the arbitration
+agreement on which the award was made was not governed by the law of India; the
+award fell within the ambit of the Foreign Awards (Recognition and Enforcement)
+Act, 1961 (Act 45 of 1961) (the ‘Foreign Awards Act’); London being the seat of
+arbitration, English courts alone had jurisdiction to set aside the award; and, the
+Delhi High Court had no jurisdiction to entertain the application filed under the
+Arbitration Act, 1940.
+
+xxx
+
+47. The decisions relied on by counsel for the Singer do not support his contention
+that the mere fact of London being the place of arbitration excluded the operation of
+the Arbitration Act, 1940 and the jurisdiction of the courts in India. In Whitworth
+Street Estates (Manchester) Ltd. v. James Miller & Partners Ltd. the parties had not
+expressly stated which law was to govern their contract.
+
+On an analysis of the various factors, the House of Lords held that in the absence of any choice of
+the law governing arbitration proceedings, those proceedings were to be considered to be governed
+by the law of the place in which the arbitration was held, namely, Scotland because it was that
+system of law which was most closely connected with the proceedings. Various links with Scotland,
+which was the place of performance of the contract, unmistakably showed that the arbitral
+proceedings were to be governed by the law of Scotland, although the majority of the learned Law
+Lords (Lords Reid and Wilberforce dissenting on the point) held that, taking into account certain
+other factors, the contract was governed by English law. That case is no authority for the proposition
+that, even where the proper law of the contract is expressly stated by the parties, and in the absence
+of any contrary indication, a different law governed arbitration. The observations contained in that
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+17
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+judgment do not support the contention urged on behalf of the Singer that merely because London
+was designated to be the place of arbitration, the law which governed arbitration was different from
+the law expressly chosen by the parties as the proper law of the contract.
+
+xxx
+
+51. In sum, it may be stated that the law expressly chosen by the parties in respect of all matters
+arising under their contract, which must necessarily include the agreement contained in the
+arbitration clause, being Indian law and the exclusive jurisdiction of the courts in Delhi having been
+expressly recognised by the parties to the contract in all matters arising under it, and the contract
+being most intimately associated with India, the proper law of arbitration and the competent courts
+are both exclusively Indian [...] xxx
+
+54. The Delhi High Court was wrong in treating the award in question as a foreign award. The
+Foreign Awards Act has no application to the award by reason of the specific exclusion contained in
+Section 9 of that Act. The award is governed by the laws in force in India, including the Arbitration
+Act, 1940. Accordingly, we set aside the impugned judgment of the Delhi High Court and direct that
+Court to consider the appellant's application on the merits in regard to which we express no views
+whatsoever. The appeal is allowed in the above terms. We do not, however, make any order as to
+costs.” (Emphasis supplied)
+
+(ii) Secondly, the Court held that where the parties have agreed to two distinct choices of law, one
+governing the arbitration agreement and the other governing the arbitration proceedings i.e., both
+lex arbitri and lex curiae, then the appropriate courts under both the laws will have concurrent
+jurisdiction in respect of the matters governed by their respective system of law. Thus, where the
+parties have agreed that the arbitration agreement would be governed by the Indian Laws whereas
+the arbitration proceedings would be conducted in accordance with the English Laws, then in such
+cases two different courts will have concurrent jurisdiction in respect of matters as agreed upon by
+the parties i.e., the competent English Courts will have jurisdiction in respect of procedural matters
+concerning the conduct of arbitration while the competent courts in India will have jurisdiction over
+all matters pertaining to and arising out of the arbitration agreement. The relevant observations
+read as under: -
+
+“26. Whereas, as stated above, the proper law of arbitration (i.e., the substantive law
+governing arbitration) determines the validity, effect and interpretation of the
+arbitration agreement, the arbitration proceedings are conducted, in the absence of
+any agreement to the contrary, in accordance with the law of the country in which the
+arbitration is held. On the other hand, if the parties have specifically chosen the law
+governing the conduct and procedure of arbitration, the arbitration proceedings will
+be conducted in accordance with that law so long as it is not contrary to the public
+policy or the mandatory requirements of the law of the country in which the
+arbitration is held. If no such choice has been made by the parties, expressly or by
+necessary implication, the procedural aspect of the conduct of arbitration (as
+distinguished from the substantive agreement to arbitrate) will be determined by the
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+18
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+law of the place or seat of arbitration. Where, however, the parties have, as in the
+instant case, stipulated that the arbitration between them will be conducted in
+accordance with the ICC Rules, those rules, being in many respects self-contained or
+self-regulating and constituting a contractual code of procedure, will govern the
+conduct of the arbitration, except insofar as they conflict with the mandatory
+requirements of the proper law of arbitration, or of the procedural law of the seat of
+arbitration. [See the observation of Kerr, LJ. In Bank Mellat v. Helliniki Techniki SA.
+See also Craig, Park and Paulsson, International Chamber of Commerce nd
+Arbitration, 2 edn. (1990).] To such an extent the appropriate courts of the seat of
+arbitration, which in the present case are the competent English courts, will have
+jurisdiction in respect of procedural matters concerning the conduct of arbitration.
+But the overriding principle is that the courts of the country whose substantive laws
+govern the arbitration agreement are the competent courts in respect of all matters
+arising under the arbitration agreement, and the jurisdiction exercised by the courts
+of the seat of arbitration is merely concurrent and not exclusive and strictly limited to
+matters of procedure. All other matters in respect of the arbitration agreement fall
+within the exclusive competence of the courts of the country whose laws govern the
+arbitration agreement. [See Mustil & Boyd, Commercial Arbitration, 2nd edn.; Allen
+Redfern and Martin Hunter, Law & Practice of International Commercial Arbitration,
+1986; Russel on Arbitration, 20th edn. (1982); Cheshire & North’s Private
+International Law, 11th edn. (1987).]” (Emphasis supplied)
+
+30. Thus, this Court for the first time in NTPC (supra) laid down the Doctrine of
+Concurrent jurisdiction in arbitration albeit in a limited sense inasmuch as the
+exercise of concurrent jurisdiction by two different but competent courts was limited
+only to matters of procedure and conduct of arbitration, and that the exercise of
+jurisdiction by courts at the seat or situs of arbitration over the arbitration agreement
+and its ancillaries was still regarded to be an exclusive jurisdiction.
+
+31. The applicability of the Act, 1940 was again looked into by this Court in Sumitomo
+Heavy Industries Ltd. v. ONGC Ltd. & Ors. reported in (1998) 1 SCC 305. The said
+decision is in three-parts: -
+
+(i) First, it was held that as per Section 47 of the Act, 1940 the provisions of the said
+Act applies to all arbitrations and to all proceedings thereunder, and as such where
+the agreement to arbitrate is governed by the laws of India, then the said Act would
+be applicable. The relevant observations read as under: -
+
+“16. The law which would apply to the filing of the award, to its enforcement and to
+its setting aside would be the law governing the agreement to arbitrate and the
+performance of that agreement. Having regard to the clear terms of clause 17 of the
+contract between the appellant and the first respondent, we are in no doubt that the
+law governing the contract and the law governing the rights and obligations of the
+parties arising from their agreement to arbitrate, and, in particular, their obligation
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+19
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+to submit disputes to arbitration and to honour the award, are governed by the law of
+India; nor is there any dispute in this behalf. Section 47 of the Indian Arbitration Act,
+1940, reads thus:
+
+“47. Act to apply to all arbitrations.— Subject to the provisions of Section 46, and
+save insofar as is otherwise provided by any law for the time being in force, the
+provisions of this Act shall apply to all arbitrations and to all proceedings thereunder:
+
+Provided that an arbitration award otherwise obtained may with the consent of all
+the parties interested be taken into consideration as a compromise or adjustment of a
+suit by any court before which the suit is pending.”
+
+17. [...] By reason of Section 9(b), the 1961 Act does not apply to any award made on
+an arbitration agreement governed by the law of India. The 1961 Act, therefore, does
+not apply to the arbitration agreement between the appellant and the first
+respondent. The 1940 Act applies to it and, by reason of Section 14(2) thereof, the
+courts in India are entitled to receive the award made by the second respondent. We
+must add in the interests of completeness that it is not the case of the appellant that
+the High Court at Bombay lacked the territorial jurisdiction to do so.” (Emphasis
+supplied)
+
+(ii) Secondly, it reiterated that, where the parties have chosen both the law governing
+the arbitration agreement i.e., lex arbitri and the law governing the arbitrator’s
+procedure and conduct thereof i.e., the curial law, it would confer concurrent
+jurisdiction whereby the competent courts under the curial law will have jurisdiction
+to administer the procedure of arbitration and the competent courts under the law
+governing the arbitration agreement will have jurisdiction to administer the
+performance of such agreement and the arbitrability of the dispute including the
+enforcement or setting aside of an award pursuant to such agreement. It further
+observed that the court administering the curial law will only have the jurisdiction to
+administer the conduct of such arbitration or reference. As soon as the arbitration
+concludes the curial law ceases and with it the jurisdiction of the courts to administer
+it ceases as well. The relevant observations read as under: -
+
+“11. The conclusion that we reach is that the curial law operates during the
+continuance of the proceedings before the arbitrator to govern the procedure and
+conduct thereof. The courts administering the curial law have the authority to
+entertain applications by parties to arbitrations being conducted within their
+jurisdiction for the purpose of ensuring that the procedure that is adopted in the
+proceedings before the arbitrator conforms to the requirements of the curial law and
+for reliefs incidental thereto. Such authority of the courts administering the curial law
+ceases when the proceedings before the arbitrator are concluded.” (Emphasis
+supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+20
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+(iii) Lastly, this court added that, when it comes to the courts administering the law
+governing the arbitration agreement / the reference to arbitration, they will continue
+to exercise concurrent jurisdiction when it comes to the performance of the
+arbitration agreement even if the arbitration has concluded inasmuch as it is
+competent to first apply the lex arbitri to see if the dispute is arbitrable and then to
+apply the curial law to see how the reference ought to be conducted in order to give
+effect to the award. The relevant observations read as under: -
+
+“12. The proceedings before the arbitrator commence when he enters upon the
+reference and conclude with the making of the award. As the work by Mustill and
+Boyd aforementioned puts it, with the making of a valid award the arbitrator's
+authority, powers and duties in the reference come to an end and he is “functus
+officio” (p.
+
+404). The arbitrator is not obliged by law to file his award in court but he may be
+asked by the party seeking to enforce the award to do so. The need to file an award in
+court arises only if it is required to be enforced, and the need to challenge it arises if it
+is being enforced. The enforcement process is subsequent to and independent of the
+proceedings before the arbitrator. It is not governed by the curial or procedural law
+that governed the procedure that the arbitrator followed in the conduct of the
+arbitration.
+
+xxx
+
+15. We think that our conclusion that the curial law does not apply to the filing of an award in court
+must, accordingly, hold good. We find support for the conclusion in the extracts from Mustill and
+Boyd which we have quoted earlier. Where the law governing the conduct of the reference is
+different from the law governing the underlying arbitration agreement, the court looks to the
+arbitration agreement to see if the dispute is arbitrable, then to the curial law to see how the
+reference should be conducted, “and then returns to the first law in order to give effect to the
+resulting award”.
+
+(Emphasis supplied)
+
+32. The aforesaid Doctrine of Concurrent Jurisdiction in Arbitration was further expanded by this
+Court in Bhatia International v. Bulk Trading S.A. reported in (2002) 4 SCC 105, wherein this Court
+examined the scope of Section 2(2) viz-a-viz Section 2(1)(e) & (f) of the Act, 1996 and held that Part
+I of the said Act applies to both (i) domestic arbitrations that take place in India and (ii)
+international commercial arbitrations that take place outside India. It held that unless the
+arbitration agreement states to the contrary, even if the seat or place of arbitration is outside India,
+the national courts in India will have concurrent jurisdiction in terms of Section 2(1)(e) along with
+the courts situated in the seat jurisdiction in terms of the arbitration agreement.
+
+The aforesaid decision is in two-parts: -
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+21
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+(i) First, it held that although Section 2 sub-section (2) of the Act, 1996 says that Part
+I will apply where the place of arbitration is in India, yet the Act more particularly
+Section 2(1)(f) makes no distinction between international commercial arbitrations
+held in India or outside India, thus the courts in India will have jurisdiction in terms
+of Section 2(1)(e) even in respect of international commercial arbitrations. The
+relevant observations read as under: -
+
+“14. At first blush the arguments of Mr Sen appear very attractive. Undoubtedly
+sub-section (2) of Section 2 states that Part I is to apply where the place of arbitration
+is in India. [...] xxx
+
+16. A reading of the provisions shows that the said Act applies to arbitrations which
+are held in India between Indian nationals and to international commercial
+arbitrations whether held in India or out of India.
+
+Section 2(1)(f) defines an international commercial arbitration. The definition makes no distinction
+between international commercial arbitrations held in India or outside India. An international
+commercial arbitration may be held in a country which is a signatory to either the New York
+Convention or the Geneva Convention (hereinafter called “the convention country”). An
+international commercial arbitration may be held in a non-convention country. The said Act
+nowhere provides that its provisions are not to apply to international commercial arbitrations which
+take place in a non- convention country. Admittedly, Part II only applies to arbitrations which take
+place in a convention country. Mr Sen fairly admitted that Part II would not apply to an
+international commercial arbitration which takes place in a non-convention country. He also fairly
+admitted that there would be countries which are not signatories either to the New York Convention
+or to the Geneva Convention. It is not possible to accept the submission that the said Act makes no
+provision for international commercial arbitrations which take place in a non-
+
+convention country.
+
+xxx
+
+20. Section 2(1)(e) defines “court” [...] A court is one which would otherwise have jurisdiction in
+respect of the subject-matter. The definition does not provide that the courts in India will not have
+jurisdiction if an international commercial arbitration takes place outside India. Courts in India
+would have jurisdiction even in respect of an international commercial arbitration. As stated above,
+an ouster of jurisdiction cannot be implied. An ouster of jurisdiction has to be express.” (Emphasis
+supplied)
+
+(ii) Secondly, this Court observed that Section 2 sub-section (2) of the Act, 1996 nowhere specifies
+that Part I will “only” apply where the place of arbitration is in India, nor does it provide that Part I
+shall not apply where the place of arbitration is not in India. Thus, by not specifically providing in
+black and white, whether Part I of the Act, 1996 would apply to international commercial
+arbitrations held outside India, the legislature’s intention appears to be to allow the parties the
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+22
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+freedom to choose whether Part I or any of its provisions therein would apply or not by an express
+or implied agreement. The relevant observations read as under: -
+
+“21. Now let us look at sub-sections (2), (3), (4) and (5) of Section 2. Sub-section (2)
+of Section 2 provides that Part I would apply where the place of arbitration is in
+India. To be immediately noted, that it is not providing that Part I shall not apply
+where the place of arbitration is not in India. It is also not providing that Part I will
+“only” apply where the place of arbitration is in India (emphasis supplied). Thus the
+legislature has not provided that Part I is not to apply to arbitrations which take place
+outside India. The use of the language is significant and important. The legislature is
+emphasising that the provisions of Part I would apply to arbitrations which take place
+in India, but not providing that the provisions of Part I will not apply to arbitrations
+which take place out of India. The wording of sub- section (2) of Section 2 suggests
+that the intention of the legislature was to make provisions of Part I compulsorily
+applicable to an arbitration, including an international commercial arbitration, which
+takes place in India. Parties cannot, by agreement, override or exclude the
+non-derogable provisions of Part I in such arbitrations. By omitting to provide that
+Part I will not apply to international commercial arbitrations which take place
+outside India the effect would be that Part I would also apply to international
+commercial arbitrations held out of India. But by not specifically providing that the
+provisions of Part I apply to international commercial arbitrations held out of India,
+the intention of the legislature appears to be to ally (sic allow) parties to provide by
+agreement that Part I or any provision therein will not apply. Thus in respect of
+arbitrations which take place outside India even the non-derogable provisions of Part
+I can be excluded. Such an agreement may be express or implied.
+
+22. If read in this manner there would be no conflict between Section 1 and Section
+2(2). The words “every arbitration” in sub-section (4) of Section 2 and the words “all
+arbitrations and to all proceedings relating thereto” in sub-section (5) of Section 2 are
+wide. Sub-
+
+sections (4) and (5) of Section 2 are not made subject to sub-section (2) of Section 2. It is significant
+that sub- section (5) is made subject to sub-section (4) but not to sub-section (2). To accept Mr Sen's
+submission would necessitate adding words in sub-sections (4) and (5) of Section 2, which the
+legislature has purposely omitted to add viz. “subject to provision of sub-section (2)”. However read
+in the manner set out hereinabove there would also be no conflict between sub-section (2) of Section
+2 and sub-sections (4) and/or (5) of Section 2.” (Emphasis supplied) Thus, this Court held that Part
+I of the Act, 1996 would apply to all arbitrations. Where such arbitration is held in India, the
+provisions of Part I would be compulsorily applicable, and parties may deviate only to the extent
+permitted by the derogable provisions of Part I. In cases of international commercial arbitrations
+held out of India the provisions of Part I would apply unless the parties by agreement, express or
+implied, exclude all or any of its provisions. In that case the laws or rules agreed upon by the parties
+would prevail. Any provision, in Part I, which is contrary to or excluded by that law or rules will not
+apply. The operative portion reads as under: -
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+23
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+“32. To conclude, we hold that the provisions of Part I would apply to all arbitrations
+and to all proceedings relating thereto. Where such arbitration is held in India the
+provisions of Part I would compulsorily apply and parties are free to deviate only to
+the extent permitted by the derogable provisions of Part I. In cases of international
+commercial arbitrations held out of India provisions of Part I would apply unless the
+parties by agreement, express or implied, exclude all or any of its provisions. In that
+case the laws or rules chosen by the parties would prevail. Any provision, in Part I,
+which is contrary to or excluded by that law or rules will not apply.
+
+xxx
+
+35. Lastly, it must be stated that the said Act does not appear to be a well-drafted
+legislation. Therefore the High Courts of Orissa, Bombay, Madras, Delhi and Calcutta
+cannot be faulted for interpreting it in the manner indicated above. However, in our
+view a proper and conjoint reading of all the provisions indicates that Part I is to
+apply also to international commercial arbitrations which take place out of India,
+unless the parties by agreement, express or implied, exclude it or any of its
+provisions. Such an interpretation does not lead to any conflict between any of the
+provisions of the said Act. On this interpretation there are no lacunae in the said Act.
+This interpretation also does not leave a party remediless. Thus such an
+interpretation has to be preferred to the one adopted by the High Courts of Orissa,
+Bombay, Madras, Delhi and Calcutta. It will therefore have to be held that the
+contrary view taken by these High Courts is not good law.” (Emphasis supplied)
+
+33. In yet another decision of this Court in Venture Global Engineering v.
+
+Satyam Computer Services Ltd. reported in (2008) 4 SCC 190 it was held that Part I of the Act, 1996
+and the provisions thereunder would apply to all arbitrations including international commercial
+arbitrations. It further clarified that although Part II of the Act, 1996 provides a special set of
+provisions that are applicable only to “foreign awards” passed pursuant to international commercial
+arbitrations held outside yet this in no manner means that by virtue of the same the Part I would be
+inapplicable. Part I of the Act, 1996 would apply to all arbitrations outside India including “foreign
+awards” passed pursuant thereto unless its application has been specifically excluded by the parties.
+The relevant observations read as under: -
+
+“19. Mr Nariman heavily relied on para 26 of Bhatia International which we have
+extracted supra. According to him, the said paragraph contains not only the
+submissions of Mr Sen, who appeared for Bhatia International therein but also the
+ultimate conclusion of the Bench. He reiterated that the Court concluded:
+
+26. … Thus Section 44 (in Chapter I) and Section 53 (in Chapter II) define foreign
+awards, as being awards covered by arbitrations under the New York Convention and
+the Geneva Convention respectively.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+24
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+Part II then contains provisions for enforcement of ‘foreign awards’ which necessarily would be
+different. For that reason special provisions for enforcement of foreign awards are made in Part II.
+To the extent that Part II provides a separate definition of an arbitral award and separate provisions
+for enforcement of foreign awards, the provisions in Part I dealing with these aspects will not apply
+to such foreign awards. It must immediately be clarified that the arbitration not having taken place
+in India, all or some of the provisions of Part I may also get excluded by an express or implied
+agreement of parties. But if not so excluded the provisions of Part I will also apply to ‘foreign
+awards’. The opening words of Sections 45 and 54, which are in Part II, read ‘notwithstanding
+anything contained in Part I’. Such a non obstante clause had to be put in because the provisions of
+Part I apply to Part II.” xxx
+
+31. On close scrutiny of the materials and the dictum laid down in the three-Judge Bench decision in
+Bhatia International20 we agree with the contention of Mr K.K. Venugopal and hold that paras 32
+and 35 of Bhatia International1 make it clear that the provisions of Part I of the Act would apply to
+all arbitrations including international commercial arbitrations and to all proceedings relating
+thereto. We further hold that where such arbitration is held in India, the provisions of Part I would
+compulsorily apply and parties are free to deviate to the extent permitted by the provisions of Part I.
+It is also clear that even in the case of international commercial arbitrations held out of India
+provisions of Part I would apply unless the parties by agreement, express or implied, exclude all or
+any of its provisions. We are also of the view that such an interpretation does not lead to any conflict
+between any of the provisions of the Act and there is no lacuna as such. The matter, therefore, is
+concluded by the three-Judge Bench decision in Bhatia International.
+
+32. The learned Senior Counsel for the respondent based on para 26 submitted that in the case of
+foreign award which was passed outside India is not enforceable in India by invoking the provisions
+of the Act or CPC. However, after critical analysis of para 26, we are unable to accept the argument
+of the learned Senior Counsel for the respondent. Paras 26 and 27 start by dealing with the
+arguments of Mr Sen who argued that Part I is not applicable to foreign awards. It is only in the
+sentence starting at the bottom of para 26 that the phrase “it must immediately be clarified” that the
+finding of the Court is rendered. That finding is to the effect that an express or implied agreement of
+parties can exclude the applicability of Part I. The finding specifically states: “But if not so excluded,
+the provisions of Part I will also apply to all ‘foreign awards’. …” (Emphasis supplied)
+
+34. Thus, the concept of “concurrent jurisdiction” in arbitration in India was further expanded in
+Venture Global (supra) inasmuch as by holding Part I of the Act, 1996 to be applicable to foreign
+awards as-well, this Court clarified that even after the arbitration has concluded and the award has
+been passed, the courts in India will continue to have jurisdiction in terms of Section 2(e) of the said
+Act.
+
+35. Similarly, in Indtel Technical Services (P) Ltd. v. W.S. Atkins Rail Ltd., reported in (2008) 10
+SCC 308, this Court reiterated that Part I of the Act, 1996 applies to both domestic and international
+arbitrations, notwithstanding the provisions of Section 2(2) of the said Act and irrespective of
+whether the seat of arbitration is in India or not. It further observed that the courts of the country,
+whose substantive laws govern the arbitration agreement, are competent courts in respect of all
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+25
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+matters arising under the arbitration agreement, and the jurisdiction exercised by the courts of the
+seat of arbitration is merely concurrent and not exclusive and strictly limited to the matter of
+procedure. Thus, an application under Section 11 for appointment of arbitrator in India was held to
+be maintainable though the seat of arbitration was in England. The relevant observations read as
+under: -
+
+“16. The submissions made on behalf of Bhatia International were accepted by this
+Court upon a finding that, although, Section 2(2) of the Arbitration and Conciliation
+Act, 1996, provides that Part I of the Act would apply where the place of arbitration is
+in India, it did not provide that Part I would not apply where the place of arbitration
+is not in India. It was also held that it was nowhere provided that Part I of the
+aforesaid Act would not apply to arbitrations taking place outside India. … xxx
+
+26. Referring to the decision in NTPC case [(1992) 3 SCC 551] which had also been
+referred to by Mr Gupta, Mr Tripathi submitted that in the said decision the views of
+jurists such as Dicey, Mustill and Boyd and Russell had been reiterated in support of
+the contention that the overriding principle is that the courts of the country, whose
+substantive laws govern the arbitration agreement, are competent courts in respect of
+all matters arising under the arbitration agreement, and the jurisdiction exercised by
+the courts of the seat of arbitration is merely concurrent and not exclusive and strictly
+limited to the matter of procedure. Mr Tripathi submitted that the decision in the
+aforesaid case supports the proposition that when the parties to the contract, do not
+express any choice with regard to the law governing the contract or the arbitration
+agreement in particular, a presumption has to be drawn that the parties intended that
+the proper law of the contract as well as the law governing the arbitration agreement
+would be the same as the law of the country which is the seat of arbitration. But when
+the parties expressly choose the proper law of the contract, as in the instant case, in
+the absence of a clear intention such law must govern the arbitration agreement also
+though it is collateral and ancillary to the main contract.
+
+xxx
+
+36. Although the matter has been argued at great length and Mr Tripathi has tried to establish that
+the decision of this Court in Bhatia International case [(2002) 4 SCC 105] is not relevant for a
+decision in this case, I am unable to accept such contention in the facts and circumstances of the
+present case. It is no doubt true that it is fairly well settled that when an arbitration agreement is
+silent as to the law and procedure to be followed in implementing the arbitration agreement, the law
+governing the said agreement would ordinarily be the same as the law governing the contract itself.
+The decisions cited by Mr Tripathi and the views of the jurists referred to in NTPC case [(1992) 3
+SCC 551] support such a proposition. What, however, distinguishes the various decisions and views
+of the authorities in this case is the fact that in Bhatia International [(2002) 4 SCC 105] this Court
+laid down the proposition that notwithstanding the provisions of Section 2(2) of the Arbitration and
+Conciliation Act, 1996, indicating that Part I of the said Act would apply where the place of
+arbitration is in India, even in respect of international commercial agreements, which are to be
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+26
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+governed by the laws of another country, the parties would be entitled to invoke the provisions of
+Part I of the aforesaid Act and consequently the application made under Section 11 thereof would be
+maintainable.
+
+37. The decision in Bhatia International case [(2002) 4 SCC 105 has been rendered by a Bench of
+three Judges and governs the scope of the application under consideration, as it clearly lays down
+that the provisions of Part I of the Arbitration and Conciliation Act, 1996, would be equally
+applicable to international commercial arbitrations held outside India, unless any of the said
+provisions are excluded by agreement between the parties expressly or by implication, which is not
+so in the instant case.” (Emphasis supplied) b. Post BALCO Regime.
+
+36. The correctness of the decision in Bhatia International (supra) came under cloud, and the same
+was ultimately referred to a larger bench, which then culminated into the landmark decision of a
+5-Judge Constitution Bench of this Court in Bharat Aluminium Co. v. Kaiser Aluminium Technical
+Services Inc reported in (2012) 9 SCC 552.
+
+37. This Court in BALCO (supra) after a thorough examination of the scheme of the Act, 1996 held
+that the conclusions reached by this Court in Bhatia International (supra) are neither supported by
+the text nor the context of the provisions of Section 1(2) and the proviso thereto or Section 2(2) of
+the said Act. It held that the applicability of Part I of the Act, 1996 is limited only to arbitrations that
+take place in India. The said decision is in two-parts: -
+
+(i) First, it held that a plain reading of Section 2(2) makes it clear that Part I of the
+Act, 1996 is limited in its application to arbitrations which take place in India. It
+observed that although the UNCITRAL Model Law which was the basis for the Act,
+1996 has not been boldly adopted, yet it does not mean that the territorial principle
+envisaged under the Model Law has not been accepted. It held that the Parliament
+through Section(s) 1(2) and 2(2) of the Act, 1996 has clearly given recognition to the
+territorial principle that Part I of the said Act will only apply to arbitrations having
+their place / seat in India. The relevant observations read as under: -
+
+“64. [...]Thereafter, this Court has given further instances of provisions of the
+Arbitration Act, 1996, not being in conformity with the Model Law and concluded
+that “… The Model Law and judgments and literature thereon are, therefore, not a
+guide to the interpretation of the Act and, especially of Section 11 thereof”. The
+aforesaid position, according to Mr Sorabjee has not been disagreed with by this
+Court in SBP & Co. We agree with the submission of Mr Sorabjee that the omission of
+the word “only” in Section 2(2) is not an instance of “casus omissus”. It clearly
+indicates that the Model Law has not been bodily adopted by the Arbitration Act,
+1996. But that cannot mean that the territorial principle has not been accepted. We
+would also agree with Mr Sorabjee that it is not the function of the court to supply the
+supposed omission, which can only be done by Parliament. In our opinion, legislative
+surgery is not a judicial option, nor a compulsion, whilst interpreting an Act or a
+provision in the Act.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+27
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+xxx
+
+67. We are unable to accept the submission of the learned counsel for the appellants
+that the omission of the word “only” from Section 2(2) indicates that applicability of
+Part I of the Arbitration Act, 1996 is not limited to the arbitrations that take place in
+India. We are also unable to accept that Section 2(2) would make Part I applicable
+even to arbitrations which take place outside India. In our opinion, a plain reading of
+Section 2(2) makes it clear that Part I is limited in its application to arbitrations
+which take place in India. We are in agreement with the submissions made by the
+learned counsel for the respondents, and the interveners in support of the
+respondents, that Parliament by limiting the applicability of Part I to arbitrations
+which take place in India has expressed a legislative declaration. It has clearly given
+recognition to the territorial principle. Necessarily therefore, it has enacted that Part
+I of the Arbitration Act, 1996 applies to arbitrations having their place/seat in India.
+
+xxx
+
+70. [...] Therefore, the Arbitration Act, 1996 consolidates the law on domestic
+arbitrations by incorporating the provisions to expressly deal with the domestic as
+well as international commercial arbitration by taking into account the 1985 Uncitral
+Model Laws. It is not confined to the New York Convention, which is concerned only
+with enforcement of certain foreign awards. It is also necessary to appreciate that the
+Arbitration Act, 1996 seeks to remove the anomalies that existed in the Arbitration
+Act, 1940 by introducing provisions based on the Uncitral Model Laws, which deals
+with international commercial arbitrations and also extends it to commercial
+domestic arbitrations. Uncitral Model Law has unequivocally accepted the territorial
+principle.
+
+Similarly, the Arbitration Act, 1996 has also adopted the territorial principle, thereby limiting the
+applicability of Part I to arbitrations, which take place in India.
+
+xxx
+
+77. We are of the opinion that the omission of the word “only” in Section 2(2) of the Arbitration Act,
+1996 does not detract from the territorial scope of its application as embodied in Article 1(2) of the
+Model Law. The article merely states that the arbitration law as enacted in a given State shall apply
+if the arbitration is in the territory of that State. The absence of the word “only” which is found in
+Article 1(2) of the Model Law, from Section 2(2) of the Arbitration Act, 1996 does not change the
+content/import of Section 2(2) as limiting the application of Part I of the Arbitration Act, 1996 to
+arbitrations where the place/seat is in India.
+
+78. For the reasons stated above, we are unable to support the conclusion reached in Bhatia
+International and Venture Global Engg., that Part I would also apply to arbitrations that do not take
+place in India.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+28
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+xxx
+
+81. We quote the above in extenso only to demonstrate that Section 2(2) is not merely stating the
+obvious. It would not be a repetition of what is already stated in Section 1(2) of the Arbitration Act,
+1996 which provides that “it extends to the whole of India”. Since the consolidated Arbitration Act,
+1996 deals with domestic, commercial and international commercial arbitrators, it was necessary to
+remove the uncertainty that the Arbitration Act, 1996 could also apply to arbitrations which do not
+take place in India. Therefore, Section 2(2) merely reinforces the limits of operation of the
+Arbitration Act, 1996 to India.” (Emphasis supplied)
+
+(ii) Secondly, this court rejected the contention that the Act, 1996 is ‘subject-matter centric’ and not
+exclusively ‘seat centric’. It observed that the words “subject-matter of the arbitration” and
+“subject-matter of the suit” occurring in Section 2(1)(e) should not be conflated as the former
+confers jurisdiction on the basis of cause of action while the latter confers jurisdiction on the basis of
+“place of arbitration”, thus, the Act, 1996 is not merely ‘subject-matter centric’. It observed that
+although the legislature by use of the words “subject-matter of arbitration” in addition to
+“subject-matter of the suit” under Section 2(1)(e) has conferred jurisdiction to two-courts i.e., the
+court of jurisdiction over the cause of action and the court of the seat of the arbitration process, yet
+the expression “subject-matter of suit” occurring in Section 2(1)(e) is confined only to Part I of the
+Act, 1996, and thus, wherever it is found that the seat or place of arbitration is outside India, Part I
+would be inapplicable and the jurisdiction then will be “exclusively seat centric”. In other words,
+where the seat of arbitration is outside India, only those courts situated where the ‘subject-matter of
+arbitration’ lies i.e., at the place of arbitration will be competent to exercise supervisory jurisdiction
+over arbitration in terms of Section 2(1)(e) of the Act, 1996. The relevant observations read as
+under: -
+
+“95. The learned counsel for the appellants have submitted that Section 2(1)(e),
+Section 20 and Section 28 read with Section 45 and Section 48(1)(e) make it clear
+that Part I is not limited only to arbitrations which take place in India. That these
+provisions indicate that the Arbitration Act, 1996 is subject-matter centric and not
+exclusively seat-centric. That therefore, “seat” is not the “centre of gravity” so far as
+the Arbitration Act, 1996 is concerned. We are of the considered opinion that the
+aforesaid provisions have to be interpreted by keeping the principle of territoriality at
+the forefront. We have earlier observed that Section 2(2) does not make Part I
+applicable to arbitrations seated or held outside India. In view of the expression used
+in Section 2(2), the maxim expressum facit cessare tacitum, would not permit by
+interpretation to hold that Part I would also apply to arbitrations held outside the
+territory of India. The expression “this Part shall apply where the place of arbitration
+is in India” necessarily excludes application of Part I to arbitration seated or held
+outside India. It appears to us that neither of the provisions relied upon by the
+learned counsel for the appellants would make any section of Part I applicable to
+arbitration seated outside India. It will be apposite now to consider each of the
+aforesaid provisions in turn.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+29
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+96. [...] We are of the opinion, the term “subject-matter of the arbitration” cannot be
+confused with “subject-matter of the suit”. The term “subject-matter” in Section
+2(1)(e) is confined to Part I. It has a reference and connection with the process of
+dispute resolution. Its purpose is to identify the courts having supervisory control
+over the arbitration proceedings. Hence, it refers to a court which would essentially
+be a court of the seat of the arbitration process. In our opinion, the provision in
+Section 2(1)(e) has to be construed keeping in view the provisions in Section 20
+which give recognition to party autonomy.
+
+Accepting the narrow construction as projected by the learned counsel for the appellants would, in
+fact, render Section 20 nugatory. In our view, the legislature has intentionally given jurisdiction to
+two courts i.e. the court which would have jurisdiction where the cause of action is located and the
+courts where the arbitration takes place. This was necessary as on many occasions the agreement
+may provide for a seat of arbitration at a place which would be neutral to both the parties. Therefore,
+the courts where the arbitration takes place would be required to exercise supervisory control over
+the arbitral process. For example, if the arbitration is held in Delhi, where neither of the parties are
+from Delhi, (Delhi having been chosen as a neutral place as between a party from Mumbai and the
+other from Kolkata) and the tribunal sitting in Delhi passes an interim order under Section 17 of the
+Arbitration Act, 1996, the appeal against such an interim order under Section 37 must lie to the
+courts of Delhi being the courts having supervisory jurisdiction over the arbitration proceedings and
+the tribunal. This would be irrespective of the fact that the obligations to be performed under the
+contract were to be performed either at Mumbai or at Kolkata, and only arbitration is to take place
+in Delhi. In such circumstances, both the courts would have jurisdiction i.e. the court within whose
+jurisdiction the subject-matter of the suit is situated and the courts within the jurisdiction of which
+the dispute resolution i.e. arbitration is located.
+
+97. The definition of Section 2(1)(e) includes “subject- matter of the arbitration” to give jurisdiction
+to the courts where the arbitration takes place, which otherwise would not exist. On the other hand,
+Section 47 which is in Part II of the Arbitration Act, 1996 dealing with enforcement of certain
+foreign awards has defined the term “court” as a court having jurisdiction over the subject-matter of
+the award. This has a clear reference to a court within whose jurisdiction the asset/person is located,
+against which/whom the enforcement of the international arbitral award is sought. The provisions
+contained in Section 2(1)(e) being purely jurisdictional in nature can have no relevance to the
+question whether Part I applies to arbitrations which take place outside India.
+
+xxx Only if the agreement of the parties is construed to provide for the “seat”/“place” of arbitration
+being in India — would Part I of the Arbitration Act, 1996 be applicable. If the agreement is held to
+provide for a “seat”/“place” outside India, Part I would be inapplicable to the extent inconsistent
+with the arbitration law of the seat, even if the agreement purports to provide that the Arbitration
+Act, 1996 shall govern the arbitration proceedings.
+
+xxx
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+30
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+117. It would, therefore, follow that if the arbitration agreement is found or held to provide for a
+seat/place of arbitration outside India, then the provision that the Arbitration Act, 1996 would
+govern the arbitration proceedings, would not make Part I of the Arbitration Act, 1996 applicable or
+enable the Indian courts to exercise supervisory jurisdiction over the arbitration or the award. It
+would only mean that the parties have contractually imported from the Arbitration Act, 1996, those
+provisions which are concerned with the internal conduct of their arbitration and which are not
+inconsistent with the mandatory provisions of the English procedural law/curial law. This
+necessarily follows from the fact that Part I applies only to arbitrations having their seat/place in
+India.” (Emphasis supplied) Thus, this Court held that Part I of the Act, 1996 is only applicable to
+arbitrations that take place in India and as such the decision of this Court in Bhatia International
+(supra) and Venture Global (supra) are no longer a good law. However, to avoid the chaos that
+might ensue upon arbitrations agreements and proceedings thereto which are already underway
+pursuant to the ratio of Bhatia International (supra) and Venture Global (supra), this Court held
+that the law declared by it will only apply prospectively to all arbitration agreements that have been
+executed on or after 06.09.2012 i.e., the date of pronouncement. This Court ultimately summed up
+its findings with the following conclusions reproduced below: -
+
+“Conclusion
+
+194. In view of the above discussion, we are of the considered opinion that the
+Arbitration Act, 1996 has accepted the territoriality principle which has been adopted
+the Uncitral Model Law. Section 2(2) makes a declaration that Part I of the
+Arbitration Act, 1996 shall apply to all arbitrations which take place within India. We
+are of the considered opinion that Part I of the Arbitration Act, 1996 would have no
+application to international commercial arbitration held outside India. Therefore,
+such awards would only be subject to the jurisdiction of the Indian courts when the
+same are sought to be enforced in India in accordance with the provisions contained
+in Part II of the Arbitration Act, 1996. In our opinion, the provisions contained in the
+Arbitration Act, 1996 make it crystal clear that there can be no overlapping or
+intermingling of the provisions contained in Part I with the provisions contained in
+Part II of the Arbitration Act, 1996.
+
+195. With utmost respect, we are unable to agree with the conclusions recorded in the
+judgments of this Court in Bhatia International and Venture Global Engg. In our
+opinion, the provision contained in Section 2(2) of the Arbitration Act, 1996 is not in
+conflict with any of the provisions either in Part I or in Part II of the Arbitration Act,
+1996. In a foreign-seated international commercial arbitration, no application for
+interim relief would be maintainable under Section 9 or any other provision, as
+applicability of Part I of the Arbitration Act, 1996 is limited to all arbitrations which
+take place in India. Similarly, no suit for interim injunction simpliciter would be
+maintainable in India, on the basis of an international commercial arbitration with a
+seat outside India.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+31
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+196. We conclude that Part I of the Arbitration Act, 1996 is applicable only to all the
+arbitrations which take place within the territory of India.
+
+197. The judgment in Bhatia International was rendered by this Court on 13-3-2002.
+Since then, the aforesaid judgment has been followed by all the High Courts as well
+as by this Court on numerous occasions. In fact, the judgment in Venture Global
+Engg. has been rendered on 10-1-2008 in terms of the ratio of the decision in Bhatia
+International. Thus, in order to do complete justice, we hereby order, that the law
+now declared by this Court shall apply prospectively, to all the arbitration agreements
+executed hereafter.” (Emphasis supplied)
+
+38. This Court in Union of India v. Reliance Industries Ltd. & Ors. reported in (2015)
+10 SCC 213 clarified the true import and effect of the decision in BALCO (supra). It
+held that although the doctrine of concurrent jurisdiction had been prospectively
+overruled in BALCO (supra) yet it would not mean or understood that all arbitration
+agreements prior to the date of pronouncement of BALCO (supra) will continue to be
+governed by Bhatia International (supra). It observed that Bhatia International
+(supra) itself had held that Part I of the Act, 1996 will not apply if it has been
+excluded expressly or by necessary implication. It said that the position of law that
+emerges from a conjoint reading of BALCO (supra) and Bhatia International (supra)
+is that where the court comes to a determination that the juridical seat is outside
+India or where law other than Indian law governs the arbitration agreement, Part I of
+the Arbitration Act, 1996 would be excluded by necessary implication and the
+doctrine of concurrent jurisdiction will not apply irrespective of whether the
+arbitration agreement pre-dates BALCO (supra) or not. The relevant observations
+read as under: -
+
+“13. It can be seen that this Court in Singer case did not give effect to the difference
+between the substantive law of the contract and the law that governed the arbitration.
+Therefore, since a construction of Section 9(b) of the Foreign Awards Act led to the
+aforesaid situation and led to the doctrine of concurrent jurisdiction, the 1996 Act,
+while enacting Section 9(a) of the repealed Foreign Awards Act, 1961, in Section 51
+thereof, was careful enough to omit Section 9(b) of the 1961 Act which, as stated
+hereinabove, excluded the Foreign Awards Act from applying to any award made on
+arbitration agreements governed by the law of India.
+
+14. This being the case, the theory of concurrent jurisdiction was expressly given a
+go-by with the dropping of Section 9(b) of the Foreign Awards Act, while enacting
+Part II of the Arbitration Act, 1996, which repealed all the three earlier laws and put
+the law of arbitration into one statute, albeit in four different parts.
+
+15. However, this Court in Bhatia International v. Bulk Trading S.A., resurrected this
+doctrine of concurrent jurisdiction by holding, in para 32, that even where
+arbitrations are held outside India, unless the parties agree to exclude the application
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+32
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+of Part I of the Arbitration Act, 1996, either expressly or by necessary implication, the
+courts in India will exercise concurrent jurisdiction with the court in the country in
+which the foreign award was made. Bhatia International was in the context of a
+Section 9 application made under Part I of the 1996 Act by the respondent in that
+case for interim orders to safeguard the assets of the Indian company in case a
+foreign award was to be executed in India against it. The reductio ad absurdum of
+this doctrine of concurrent jurisdiction came to be felt in a most poignant form in the
+judgment of Venture Global Engg. v. Satyam Computer Services Ltd., by which this
+Court held that a foreign award would also be considered as a domestic award and
+the challenge procedure provided in Section 34 of Part I of the 1996 Act would
+therefore apply. This led to a situation where the foreign award could be challenged
+in the country in which it is made; it could also be challenged under Part I of the 1996
+Act in India; and could be refused to be recognised and enforced under Section 48
+contained in Part II of the 1996 Act.
+
+16. Given this state of the law, a five-Judge Bench of this Court in BALCO v. Kaiser
+Aluminium Technical Services Inc., overruled both Bhatia International and Venture
+Global Engg.
+
+[...]
+
+17. It will thus be seen that facts like the present case attract the Bhatia International3 principle of
+concurrent jurisdiction inasmuch as all arbitration agreements entered into before 12- 9-2012, that
+is, the date of pronouncement of BALCO judgment, will be governed by Bhatia International.
+
+18. It is important to note that in para 32 of Bhatia International itself this Court has held that Part I
+of the Arbitration Act, 1996 will not apply if it has been excluded either expressly or by necessary
+implication. Several judgments of this Court have held that Part I is excluded by necessary
+implication if it is found that on the facts of a case either the juridical seat of the arbitration is
+outside India or the law governing the arbitration agreement is a law other than Indian law. … xxx
+
+21. The last paragraph of BALCO judgment has now to be read with two caveats, both emanating
+from para 32 of Bhatia International itself — that where the Court comes to a determination that the
+juridical seat is outside India or where law other than Indian law governs the arbitration agreement,
+Part I of the Arbitration Act, 1996 would be excluded by necessary implication. Therefore, even in
+the cases governed by the Bhatia principle, it is only those cases in which agreements stipulate that
+the seat of the arbitration is in India or on whose facts a judgment cannot be reached on the seat of
+the arbitration as being outside India that would continue to be governed by the Bhatia principle.
+Also, it is only those agreements which stipulate or can be read to stipulate that the law governing
+the arbitration agreement is Indian law which would continue to be governed by the Bhatia rule.”
+(Emphasis supplied)
+
+39. Thus, the legal position that emerges from a conspectus of all the decisions referred to above is
+that Part I of the Act and the provisions thereunder only applies where the arbitration takes place in
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+33
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+India i.e., where either (I) the seat of arbitration is in India OR (II) the law governing the arbitration
+agreement is Indian law. As a natural corollary to the above, the position of law may be summarized
+as under: -
+
+(i) Arbitration agreements executed after 06.09.2012 where the seat of arbitration is
+outside India, Part I of the Act, 1996 and the provisions thereunder will not be
+applicable and would fall beyond the jurisdiction of Indian courts by virtue of the
+decision of this Court in BALCO (supra).
+
+(ii) Even those arbitration agreements that have been executed prior to 06.09.2012
+and thus, governed by Bhatia International (supra), Part I of the Act, 1996 may not
+necessarily be applicable, if its application has been excluded by the parties in the
+arbitration agreement either explicitly by designating the seat of arbitration outside
+India or implicitly by choosing the law governing the agreement to be any other law
+other than Indian law, by virtue of Reliance Industries (supra).
+
+(iii) Thus, irrespective of the date of execution of arbitration agreement, Part I of the Act, 1996 will
+be applicable only to those arbitration agreements where the seat or place of arbitration is in India
+OR in the absence of any categorical finding as to the place or seat of arbitration, where such
+agreement stipulates or can be read to stipulate that the law governing the arbitration agreement
+would be Indian law.
+
+40. The petitioner contended that since the aforesaid Distributorship Agreement that contains the
+arbitration agreement was executed on 09.11.2010 i.e., prior to the decision of BALCO (supra), Part
+I of the Act, 1996 would be applicable. However, as discussed in the foregoing paragraphs, Part I of
+the Act, 1996 is applicable to arbitration agreements prior to BALCO (supra) if the seat of
+arbitration is in India or where the arbitration agreement is found to be governed by Indian laws.
+Thus, now the only question that remains to be answered in the present case is whether the seat of
+arbitration designated under the aforesaid Distributorship Agreement is in India, if not, whether the
+arbitration agreement could be said to be governed by the Indian laws?
+
+ii. Criterion or Test for Determination of Seat of Arbitration: Conflict of ‘Venue’ versus ‘Seat’ of
+Arbitration.
+
+41. Before proceeding further with the analysis, it would be apposite to first understand what is the
+criterion or test for determining the ‘seat’ or place of arbitration.
+
+a. Closest Connection Test – Place of Arbitration to be ascertained by the Law governing the
+Arbitration Agreement and not the Place of Arbitration.
+
+42. The "closest connection test" is a legal principle used to determine which law governs an
+arbitration agreement when the parties have not expressly chosen a governing law or where there is
+a conflict between the choice of law by the parties. This test seeks to identify the jurisdiction that has
+the closest relationship with the subject-matter in question or simplicter the dispute between the
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+34
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+parties by identifying which system of law has the closest and most real connection with the
+transaction or dispute between the parties.
+
+43. The ‘Closest Connection Test’ was first applied by this Court in its decision in NTPC (supra). In
+the aforesaid case, the main substantive contract therein had been executed in India, the general
+terms and conditions appended to the main contract stipulated that the said contract shall be
+construed and governed according to Indian laws. It further stipulated that the courts of Delhi were
+conferred exclusive jurisdiction in all matters arising under the said contract. It also contained an
+arbitration clause which inter-alia stipulated that where the dispute concerns a foreign contractor,
+then it will be resolved through arbitration and that the rules of conciliation and arbitration of the
+International Chamber of Commerce shall apply to such arbitrations. Pursuant to the above,
+arbitration was conducted between the parties therein by a tribunal constituted by the International
+Chamber of Commerce and an interim award was made at London. The appellant therein
+approached the Delhi High Court for setting aside the said interim award, however the High Court
+held that the award was not governed by the Act, 1940 and could only be set-aside at London being
+the designated seat of arbitration. Aggrieved by it, the appellant therein approached this Court by
+way of an appeal.
+
+44. This Court in NTPC (supra) held that the law governing the contract will be the proper law
+governing the arbitration agreement and by it the place of arbitration itself. Where the parties have
+expressly chosen the proper law of the contract, the courts of that system of law will have
+jurisdiction. Where however, the parties have not expressly chosen the substantive law governing
+the contract, there the intention has to be discovered by applying the ‘Closest Connection Test’ to
+determine which place or system of law has its closest and most real connection with the transaction
+or dispute. It further, cautioned that mere selection of place of arbitration will not be sufficient to
+draw an inference as to the intention of parties as regards the seat of arbitration, unless there is a
+significant link with such place. The aforesaid decision may be better understood in three-parts: -
+
+(i) First, it observed that the proper law of the arbitration agreement is normally the
+same as the proper law of the contract or the substantive law governing the contract.
+Where the proper law of the contract is expressly chosen by the parties then such law
+must, in the absence of an unmistakable intention to the contrary, govern the
+arbitration agreement which, though collateral or ancillary to the main contract, is
+nevertheless a part of such contract. In other words, if the proper law of the contract
+is expressly chosen and the arbitration agreement forms part and parcel of such
+contract, then the substantive law of such contract will govern the arbitration
+agreement, and by its extension the place of arbitration. The relevant observations
+read as under: -
+
+“24. The validity, effect and interpretation of the arbitration agreement are governed
+by its proper law. Such law will decide whether the arbitration clause is wide enough
+to cover the dispute between the parties. Such law will also ordinarily decide whether
+the arbitration clause binds the parties even when one of them alleges that the
+contract is void, or voidable or illegal or that such contract has been discharged by
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+35
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+breach or frustration. (See Heyman v. Darwins Ltd.) The proper law of arbitration
+will also decide whether the arbitration clause would equally apply to a different
+contract between the same parties or between one of those parties and a third party.
+
+25. The parties have the freedom to choose the law governing an international
+commercial arbitration agreement. They may choose the substantive law governing
+the arbitration agreement as well as the procedural law governing the conduct of the
+arbitration.
+
+Such choice is exercised either expressly or by implication. Where there is no express choice of the
+law governing the contract as a whole, or the arbitration agreement in particular, there is, in the
+absence of any contrary indication, a presumption that the parties have intended that the proper law
+of the contract as well as the law governing the arbitration agreement are the same as the law of the
+country in which the arbitration is agreed to be held. On the other hand, where the proper law of the
+contract is expressly chosen by the parties, as in the present case, such law must, in the absence of
+an unmistakable intention to the contrary, govern the arbitration agreement which, though
+collateral or ancillary to the main contract, is nevertheless a part of such contract.” (Emphasis
+supplied)
+
+(ii) Secondly, if there is no express statement about the governing law, then the true intention of
+parties as to the place or seat of arbitration has to be discovered by applying sound ideas of business,
+convenience and sense to the language of the contract itself in order to determine the proper law of
+the contract. This may be done by applying the ‘Closest Connection Test’ whereby the courts impute
+an intention by applying the objective test to determine what the parties would have as just and
+reasonable persons intended as regards the applicable law had they applied their minds to the
+question. For this purpose, the place where the contract was made, the form and object of the
+contract, the place of performance, the place of residence or business of the parties, reference to the
+courts having jurisdiction and such other links are to be examined to determine the system of law
+with which the transaction has its closest and most real connection. The relevant observations read
+as under: -
+
+“13. [...] Where, however, the intention of the parties is not expressly stated and no
+inference about it can be drawn, their intention as such has no relevance. In that
+event, the courts endeavour to impute an intention by identifying the legal system
+with which the transaction has its closest and most real connection.
+
+xxx
+
+16. Where the parties have not expressly or impliedly selected the proper law, the
+courts impute an intention by applying the objective test to determine what the
+parties would have as just and reasonable persons intended as regards the applicable
+law had they applied their minds to the question.7 The Judge has to determine the
+proper law for the parties in such circumstances by putting himself in the place of a
+“reasonable man”. He has to determine the intention of the parties by asking himself
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+36
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+how a just and reasonable person would have regarded the problem” [...]
+
+17. For this purpose the place where the contract was made, the form and object of
+the contract, the place of performance, the place of residence or business of the
+parties, reference to the courts having jurisdiction and such other links are examined
+by the courts to determine the system of law with which the transaction has its closest
+and most real connection.” (Emphasis supplied)
+
+(iii) Lastly, the choice of place of arbitration or selection of courts of particular
+country for submission to its jurisdiction, will have little relevance in determining the
+system of law to govern the arbitration agreement and may not be sufficient to draw
+an inference as to the intention of parties to regard the chosen place as the proper law
+of arbitration unless it is supported by the law governing the contract or in its
+absence if there is a significant link with such place that gives a strong indication that
+the law governing the arbitration agreement is the law of the place chosen for
+arbitration. The relevant observations read as under: -
+
+“15. In the absence of an express statement about the governing law, the inferred
+intention of the parties determines that law. The true intention of the parties, in the
+absence of an express selection, has to be discovered by applying “sound ideas of
+business, convenience and sense to the language of the contract itself”. In such a case,
+selection of courts of a particular country as having jurisdiction in matters arising
+under the contract is usually, but not invariably, an indication of the intention of the
+parties that the system of law followed by those courts is the proper law by which
+they intend their contract to be governed. However, the mere selection of a particular
+place for submission to the jurisdiction of the courts or for the conduct of arbitration
+will not, in the absence of any other relevant connecting factor with that place, be
+sufficient to draw an inference as to the intention of the parties to be governed by the
+system of law prevalent in that place. This is specially so in the case of arbitration, for
+the selection of the place of arbitration may have little significance where it is chosen,
+as is often the case, without regard to any relevant or significant link with the place.
+This is particularly true when the place of arbitration is not chosen by the parties
+themselves, but by the arbitrators or by an outside body, and that too for reasons
+unconnected with the contract. Choice of place for submission to jurisdiction of
+courts or for arbitration may thus prove to have little relevance for drawing an
+inference as to the governing law of the contract, unless supported in that respect by
+the rest of the contract and the surrounding circumstances. Any such clause must
+necessarily give way to stronger indications in regard to the intention of the parties.”
+(Emphasis supplied)
+
+45. Accordingly, this Court in NTPC (supra) held that since the proper law governing the contract
+was expressly stipulated to be the laws in force in India and because the parties had specifically
+accepted the exclusive jurisdiction of the courts in Delhi in all matters arising under the contract it
+meant that the law governing the arbitration agreement would be same as the proper law governing
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+37
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+the contract which contained the relevant arbitration clause. It further observed that since London
+had no significant connection with the contract or the parties except being a neutral place that had
+been chosen only because of the rules of the International Chamber of Commerce, it held that, the
+stipulation of such rules merely governed the procedure and conduct of the arbitration and could
+not in any manner supersede the overriding jurisdiction and control of the Indian law and the
+Indian courts that governed the main contract including the arbitration clause that formed part and
+parcel of the main contract. The aforesaid relevant observations read as under: -
+
+“26. [...]Where, however, the parties have, as in the instant case, stipulated that the
+arbitration between them will be conducted in accordance with the ICC Rules, those
+rules, being in many respects self-contained or self-regulating and constituting a
+contractual code of procedure, will govern the conduct of the arbitration, except
+insofar as they conflict with the mandatory requirements of the proper law of
+arbitration, or of the procedural law of the seat of arbitration.
+
+27. The proper law of the contract in the present case being expressly stipulated to be
+the laws in force in India and the exclusive jurisdiction of the courts in Delhi in all
+matters arising under the contract having been specifically accepted, and the parties
+not having chosen expressly or by implication a law different from the Indian law in
+regard to the agreement contained in the arbitration clause, the proper law governing
+the arbitration agreement is indeed the law in force in India, and the competent
+courts of this country must necessarily have jurisdiction over all matters concerning
+arbitration. Neither the rules of procedure for the conduct of arbitration contractually
+chosen by the parties (the ICC Rules) nor the mandatory requirements of the
+procedure followed in the courts of the country in which the arbitration is held can in
+any manner supersede the overriding jurisdiction and control of the Indian law and
+the Indian courts.
+
+xxx
+
+50. The arbitration clause must be considered together with the rest of the contract
+and the relevant surrounding circumstances.
+
+In the present case, as seen above, the choice of the place of arbitration was, as far as the parties are
+concerned, merely accidental insofar as they had not expressed any intention in regard to it and the
+choice was made by the ICC Court for reasons totally unconnected with either party to the contract.
+On the other hand, apart from the expressly stated intention of the parties, the contract itself,
+including the arbitration agreement contained in one of its clauses, is redolent of India and matters
+Indian. The disputes between the parties under the contract have no connection with anything
+English, and they have the closest connection with Indian laws, rules and regulations. In the
+circumstances, the mere fact that the venue chosen by the ICC Court for the conduct of arbitration is
+London does not support the case of the Singer on the point. Any attempt to exclude the jurisdiction
+of the competent courts and the laws in force in India is totally inconsistent with the agreement
+between the parties.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+38
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+51. In sum, it may be stated that the law expressly chosen by the parties in respect of all matters
+arising under their contract, which must necessarily include the agreement contained in the
+arbitration clause, being Indian law and the exclusive jurisdiction of the courts in Delhi having been
+expressly recognised by the parties to the contract in all matters arising under it, and the contract
+being most intimately associated with India, the proper law of arbitration and the competent courts
+are both exclusively Indian, while matters of procedure connected with the conduct of arbitration
+are left to be regulated by the contractually chosen rules of the ICC to the extent that such rules are
+not in conflict with the public policy and the mandatory requirements of the proper law and of the
+law of the place of arbitration. The Foreign Awards Act, 1961 has no application to the award in
+question which has been made on an arbitration agreement governed by the law of India.
+
+xxx
+
+53. All substantive rights arising under the agreement including that which is contained in the
+arbitration clause are, in our view, governed by the laws of India. In respect of the actual conduct of
+arbitration, the procedural law of England may be applicable to the extent that the ICC Rules are
+insufficient or repugnant to the public policy or other mandatory provisions of the laws in force in
+England. Nevertheless, the jurisdiction exercisable by the English courts and the applicability of the
+laws of that country in procedural matters must be viewed as concurrent and consistent with the
+jurisdiction of the competent Indian courts and the operation of Indian laws in all matters
+concerning arbitration insofar as the main contract as well as that which is contained in the
+arbitration clause are governed by the laws of India.” (Emphasis supplied)
+
+46. What has been conveyed in so many words by this Court in NTPC (supra) is that the law which
+governs the contract including the arbitration agreement, the courts of that system of law will have
+the supervisory jurisdiction over the arbitration. Where however the parties have expressly chosen a
+place of arbitration or selected a court of particular country for submission to the jurisdiction or
+selected the law for conduct of arbitration i.e., curial law, such place will only be regarded as venue,
+unless such factor is supported by relevant connecting factor sufficient to draw an inference as to
+what the parties would have intended as regards the applicable law. Thus, a mere place chosen by
+the parties will only be regarded as a venue and will not be construed as seat unless there is a
+significant link with such place to be ascertained by applying the ‘Closest Connection Test’ to
+determine which place or system of law has the most real with the transaction or dispute.
+
+47. Similarly, in Enercon (India) Ltd. & Ors. v. Enercon GMBH & Anr.
+
+reported in (2014) 5 SCC 1 this Court, held that where the parties have expressly agreed that the law
+governing the contract, the law governing the arbitration agreement and the law of arbitration /
+curial law would be Indian laws, then the seat or place of arbitration would be India. It further
+observed that mere mentioning of London as the place of arbitration will not designate it as the seat
+of arbitration, in the absence of anything to connect it to the arbitration agreement. This Court
+applying the closest connection test, held that the place with the closest and most real connection
+with the arbitration agreement and the law of arbitration was India and not London. The relevant
+observations read as under: -
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+39
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+“98. We find much substance in the submissions of Mr Nariman that there are very
+strong indicators to suggest that the parties always understood that the seat of
+arbitration would be in India and London would only be the “venue” to hold the
+proceedings of arbitration. We find force in the submission made by the learned
+Senior Counsel for the appellants that the facts of the present case would make the
+ratio of law laid down in Naviera Amazonica Peruana S.A. applicable in the present
+case. Applying the closest and the intimate connection to arbitration, it would be seen
+that the parties had agreed that the provisions of the Indian Arbitration Act, 1996
+would apply to the arbitration proceedings. By making such a choice, the parties have
+made the curial law provisions contained in Chapters III, IV, V and VI of the Indian
+Arbitration Act, 1996 applicable. Even Dr Singhvi had submitted that Chapters III,
+IV, V and VI would apply if the seat of arbitration is in India. By choosing that Part I
+of the Indian Arbitration Act, 1996 would apply, the parties have made a choice that
+the seat of arbitration would be in India. Section 2(2) of the Indian Arbitration Act,
+1996 provides that Part I “shall apply where the place of arbitration is in India”. In
+Balco, it has been categorically held that Part I of the Indian Arbitration Act, 1996,
+will have no application, if the seat of arbitration is not in India. In the present case,
+London is mentioned only as a “venue” of arbitration which, in our opinion, in the
+facts of this case cannot be read as the “seat” of arbitration.
+
+99. We are fortified in taking the aforesaid view since all the three laws applicable in
+arbitration proceedings are Indian laws. The law governing the contract, the law
+governing the arbitration agreement and the law of arbitration/curial law are all
+stated to be Indian. In such circumstances, the observation in Naviera Amazonica
+Peruana S.A. would become fully applicable. In that case, the Court of Appeal in
+England considered the agreement which contained a clause providing for the
+jurisdiction of the courts in Lima, Peru in the event of judicial dispute; and at the
+same time contained a clause providing that the arbitration would be governed by the
+English law and the procedural law of arbitration shall be the English law. The Court
+of Appeal summarised the state of the jurisprudence on this topic. [...] xxx
+
+116. The submission made by Dr Singhvi would only be worthy of acceptance on the
+assumption that London is the seat. That would be to put the cart before the horse.
+Surely, jurisdiction of the courts cannot be rested upon unsure or insecure
+foundations.
+
+If so, it will flounder with every gust of wind from different directions. Given the connection to India
+of the entire dispute between the parties, it is difficult to accept that parties have agreed that the seat
+would be London and that venue is only a misnomer. The parties having chosen the Indian
+Arbitration Act, 1996 as the law governing the substantive contract, the agreement to arbitrate and
+the performance of the agreement and the law governing the conduct of the arbitration; it would,
+therefore, in our opinion, be vexatious and oppressive if Enercon GmbH is permitted to compel EIL
+to litigate in England. … xxx
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+40
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+123. The cases relied upon by Dr Singhvi relate to the phrase “arbitration in London” or expressions
+similar thereto. The same cannot be equated with the term “venue of arbitration proceedings shall
+be in London”. Arbitration in London can be understood to include venue as well as seat; but it
+would be rather stretching the imagination if “venue of arbitration shall be in London” could be
+understood as “seat of arbitration shall be London”, in the absence of any other factor connecting
+the arbitration to London. In spite of Dr Singhvi's seemingly attractive submission to convince us,
+we decline to entertain the notion that India would not be the natural forum for all remedies in
+relation to the disputes, having such a close and intimate connection with India. In contrast, London
+is described only as a venue which Dr Singhvi says would be the natural forum.
+
+xxx
+
+135. In the present case, even though the venue of arbitration proceedings has been fixed in London,
+it cannot be presumed that the parties have intended the seat to be also in London. In an
+international commercial arbitration, venue can often be different from the seat of arbitration. In
+such circumstances, the hearing of the arbitration will be conducted at the venue fixed by the
+parties, but this would not bring about a change in the seat of the arbitration. [...]” (Emphasis
+supplied)
+
+48. What can be discerned from the above decision of this Court in Enercon (supra) is that for
+determining the seat of arbitration the closest connection test involves identifying the law with
+which the agreement to arbitrate has its closest and most real connection. Where the parties have
+expressly or impliedly provided the law governing the substantive contract, the arbitration
+agreement and the curial law, the law with which the agreement to arbitrate has its closest and most
+real connection would be the law of the seat of arbitration. Where the question before the courts
+involves ascertaining whether a particular place is the seat or venue of arbitration, the place with the
+closest connection with the law governing the arbitration agreement would be the seat of
+arbitration. Interestingly, although this Court deliberately did not address whether seat is to be
+determined based on the closest connection with the law governing the arbitration agreement or the
+curial law since in the facts of the said case both the law governing the contract and the curial law
+were the same, yet this Court approvingly referred to two other decisions in Roger Shashoua (1) v.
+Sharma, [2009] EWHC 957 (Comm) and Sulame´rica Cia Nacional de Seguros SA v. Enesa
+Engelharia SA, (2013) 1 WLR 102 (CA) wherein the seat of arbitration was construed on the basis of
+the curial law. The relevant observations read as under: -
+
+“105. We are also unable to accept the submission made by Dr Singhvi that in this
+case the venue should be understood as reference to place in the manner it finds
+mention in Section 20(1), as opposed to the manner it appears in Section 20(3) of the
+Indian Arbitration Act, 1996. Such a submission cannot be accepted since the parties
+have agreed that curial law would be the Indian Arbitration Act, 1996.
+
+xxx
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+41
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+124. In Shashoua, such an expression was understood as seat instead of venue, as the
+parties had agreed that the ICC Rules would apply to the arbitration proceedings. In
+Shashoua, the ratio in Naviera and Braes of Doune has been followed. In that case,
+the Court was concerned with the construction of the shareholders' agreement
+between the parties, which provided that “the venue of the arbitration shall be
+London, United Kingdom”. It provided that the arbitration proceedings should be
+conducted in English in accordance with the ICC Rules and that the governing law of
+the shareholders' agreement itself would be the law of India. The claimants made an
+application to the High Court in New Delhi seeking interim measures of protection
+under Section 9 of the Indian Arbitration Act, 1996, prior to the institution of
+arbitration proceedings. Following the commencement of the arbitration, the
+defendant and the joint venture company raised a challenge to the jurisdiction of the
+Arbitral Tribunal, which the panel heard as a preliminary issue.
+
+The Tribunal rejected the jurisdictional objection.
+
+xxx
+
+131. Upon consideration of the entire matter, it was observed in Sulamérica that “In these
+circumstances it is clear to me that the law with which the agreement to arbitrate has its closest and
+most real connection is the law of the seat of arbitration, namely, the law of England”. It was
+thereafter concluded by the High Court that the English law is the proper law of the agreement to
+arbitrate.
+
+xxx
+
+133. We also do not find any merit in the submission of Dr Singhvi that the close and the most
+intimate connection test is wholly irrelevant in this case. It is true that the parties have specified all
+the three laws. But the Court in these proceedings is required to determine the seat of the
+arbitration, as the respondents have taken the plea that the term “venue” in the arbitration clause
+actually makes a reference to the “seat” of the arbitration.” (Emphasis supplied)
+
+49. Thus, with the decision of Enercon (supra), the stage is now set to examine the decision of Roger
+Shashoua (1) (supra) to trace the evolution of the Shashoua Principle.
+
+b. The Shashoua Principle – ‘Venue’ to be construed as ‘Seat’
+
+50. In Roger Shashoua (1) a Queen’s Bench Division (Commercial Court) of the England & Wales
+High Court held that when there is an express designation of the arbitration venue as London and
+no designation of any alternative place as the seat, combined with a supranational body of rules
+governing the arbitration and no other significant contrary indicia, the inexorable conclusion would
+be that such venue in-fact is the juridical seat.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+42
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+It observed that often in arbitration agreements it is much more likely that the law of the arbitration
+agreement will coincide with the curial law, and thus any express stipulation of the curial law would
+aid in determination of the juridical seat. The relevant observations read as under: -
+
+“26. The Shareholders Agreement provided that "the venue of arbitration shall be
+London, United Kingdom"
+
+whilst providing that the arbitration proceedings should be conducted in English in
+accordance with ICC Rules and that the governing law of the Shareholders
+Agreement itself would be the laws of India. It is accepted by both parties that the
+concept of the seat is one which is fundamental to the operation of the Arbitration
+Act and that the seat can be different from the venue in which arbitration hearings
+take place. It is certainly not unknown for hearings to take place in an arbitration in
+more than one jurisdiction for reasons of convenience of the parties or witnesses. The
+claimants submitted that in the ordinary way, however, if the arbitration agreement
+provided for a venue, that would constitute the seat. If a venue was named but there
+was to be a different juridical seat, it would be expected that the seat would also be
+specifically named.
+
+Notwithstanding the authorities cited by the defendant, I consider that there is great
+force in this. The defendant submits however that as "venue" is not synonymous with
+"seat", there is no designation of the seat of the arbitration by clause 14.4 and, in the
+absence of any designation, when regard is had to the parties' agreement and all the
+relevant circumstances, the juridical seat must be in India and the curial law must be
+Indian law.
+
+27. In my judgment, in an arbitration clause which provides for arbitration to be
+conducted in accordance with the Rules of the ICC in Paris (a supranational body of
+rules), a provision that the venue of the arbitration shall be London, United Kingdom
+does amount to the designation of a juridical seat. The parties have not simply
+provided for the location of hearings to be in London for the sake of convenience and
+there is indeed no suggestion that London would be convenient in itself, in the light
+of the governing law of the Shareholders Agreement, the nature and terms of that
+agreement and the nature of the disputes which were likely to arise and which did in
+fact arise (although the first claimant is resident in the UK).
+
+28. The defendant relies upon the nature of the Shareholders Agreement, the
+provision for the proper law of the agreement to be that of India, the application of
+the ICC Rules and the Interim Measures Application made by the claimants in India
+as pointing to Indian law as, not only the curial law, but also that of the agreement to
+arbitrate. Furthermore reliance is placed on clause 14.5 of the Shareholders
+Agreement which provides that each party is to bear its own costs of the arbitration,
+which, on its face, is inconsistent with section 60 of the Arbitration Act. It is said that
+this conflict, when seen objectively, must militate against the application of English
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+43
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+law to the arbitration and to the seat being London. In my judgment none of these
+matters will bear the weight which the defendant seeks to put upon them.
+
+29. The defendant contends that the law of the agreement to arbitrate is Indian law,
+essentially because the proper law of the Shareholders Agreement is Indian law. As
+appears from the decided authorities however, although there have been dicta to this
+effect, recent decisions, where the focus has been on the seat of the arbitration and
+the agreement to arbitrate, establish that it is much more likely that the law of the
+arbitration agreement will coincide with the curial law. This does not therefore much
+assist the defendant and the argument that the nature of the Shareholders Agreement
+points to Indian law as the curial law is in reality no more than an argument that its
+nature points to Indian law as the substantive law of the Shareholders Agreement,
+which is in any event expressly provided. [...] xxx
+
+34. "London arbitration" is a well known phenomenon which is often chosen by
+foreign nationals with a different law, such as the law of New York, governing the
+substantive rights of the parties. This is because of the legislative framework and
+supervisory powers of the courts here which many parties are keen to adopt. When
+therefore there is an express designation of the arbitration venue as London and no
+designation of any alternative place as the seat, combined with a supranational body
+of rules governing the arbitration and no other significant contrary indicia, the
+inexorable conclusion is, to my mind, that London is the juridical seat and English
+law the curial law. In my judgment it is clear that either London has been designated
+by the parties to the arbitration agreement as the seat of the arbitration or, having
+regard to the parties' agreement and all the relevant circumstances, it is the seat to be
+determined in accordance with the final fall back provision of section 3 of the
+Arbitration Act.” (Emphasis supplied)
+
+51. In Roger Shashoua (2) v. Mukesh Sharma reported in (2017) 14 SCC 722 this Court held that the
+test that was applied in NTPC (supra) was no longer a good law in view of the repeal of Section 9(b)
+of the Act, 1961. It further, held that the principle enunciated in Roger Shashoua (1) had been
+expressly approved by the 5-Judge Bench decision of this Court in BALCO (supra).
+
+Accordingly, this Court applying the Shashoua Principle held that the mention of London in the
+arbitration agreement was not merely as a location but as a juridical seat. The relevant observations
+read as under: -
+
+“46. As stated earlier, in Shashoua Cooke, J., in the course of analysis, held that
+“London arbitration” is a well-known phenomenon which is often chosen by foreign
+nationals with a different law, such as the law of New York, governing the substantive
+rights of the parties and it is because of the legislative framework and supervisory
+powers of the courts here which many parties are keen to adopt. The learned Judge
+has further held that when there is an express designation of the arbitration venue as
+London and no designation of any alternative place as the seat, combined with a
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+44
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+supranational body of rules governing the arbitration and no other significant
+contrary indicia, the inexorable conclusion is that London is the juridical seat and
+English law the curial law.
+
+xxx
+
+54. We had earlier extracted extensively from the said judgment, as we find, the
+Court after adverting to various aspects, has categorically held that the High Court
+had not followed the Shashoua principle. The various decisions referred to in
+Enercon (India) Ltd., the analysis made and the propositions deduced leads to an
+indubitable conclusion that Shashoua principle has been accepted by Enercon (India)
+Ltd. It is also to be noted that in Balco, the Constitution Bench has not merely
+reproduced few paragraphs from Shashoua but has also referred to other decisions
+on which Shashoua has placed reliance upon. As we notice, there is analysis of earlier
+judgments, though it does not specifically state that “propositions laid down in
+Shashoua are accepted”.
+
+On a clear reading, the ratio of the decision in Balco, in the ultimate eventuate, reflects that the
+Shashoua principle has been accepted and the two-Judge Bench in Enercon (India) Ltd., after
+succinctly analysing it, has stated that the said principles have been accepted by the Constitution
+Bench. Therefore, we are unable to accept the submission of Mr Chidambaram that the finding
+recorded in Enercon (India) Ltd. that Shashoua principle has been accepted in Balco should be
+declared as per incuriam.
+
+xxx
+
+60. Tested on the aforesaid principle, we find that the question that arose in Balco and the
+discussion that has been made by the larger Bench relating to Shashoua and C v. D are squarely in
+the context of applicability of Part I or Part II of the Act. It will not be erroneous to say that the
+Constitution Bench has built the propositional pyramid on the basis or foundation of certain
+judgments and Shashoua and C v. D are two of them. It will be inappropriate to say that in Enercon
+(India) Ltd. the Court has cryptically observed that observations made in Shashoua have been
+approvingly quoted by the Court in Balco in para 110. We are inclined to think, as we are obliged to,
+that the Shashoua principle has been accepted in Balco as well as Enercon (India) Ltd. on proper
+ratiocination and, therefore, the submission advanced on this score by Mr Chidambaram, learned
+Senior Counsel for the respondent, is repelled.
+
+xxx
+
+72. It is worthy to note that the arbitration agreement is not silent as to what law and procedure is to
+be followed. On the contrary, Clause 14.1. lays down that the arbitration proceedings shall be in
+accordance with the Rules of Conciliation and Arbitration of ICC. In Enercon (India) Ltd., the
+two-Judge Bench referring to Shashoua case accepted the view of Cooke, J. that the phrase “venue of
+arbitration shall be in London, UK” was accompanied by the provision in the arbitration clause or
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+45
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+arbitration to be conducted in accordance with the Rules of ICC in Paris. The two-Judge Bench
+accepted the Rules of ICC, Paris which is supranational body of Rules as has been noted by Cooke, J.
+and that is how it has accepted that the parties have not simply provided for the location of hearings
+to be in London. To elaborate, the distinction between the venue and the seat remains. But when a
+court finds that there is prescription for venue and something else, it has to be adjudged on the facts
+of each case to determine the juridical seat. As in the instant case, the agreement in question has
+been interpreted and it has been held that London is not mentioned as the mere location but the
+courts in London will have the jurisdiction, another interpretative perception as projected by the
+learned Senior Counsel is unacceptable.
+
+xxx
+
+74. It is apposite to note that the said decision has been discussed at length in Union of India v.
+Reliance Industries Ltd. The Court, in fact, reproduced the arbitration clause in Singer Co. and
+referred to the analysis made in the judgment and noted that notwithstanding the award, it was a
+foreign award, since the substantive law of the contract was Indian law and the arbitration law was
+part of the contract, the arbitration clause would be governed by Indian law and not by the Rules of
+International Chamber of Commerce. On that basis the Court held in Singer Co. that the mere fact
+that the venue chosen by the ICC Court or conduct of the arbitration proceeding was London, does
+not exclude the operation of the Act which dealt with the domestic awards under the 1940 Act. and
+thereafter opined:
+
+“13. It can be seen that this Court in Singer case9 did not give effect to the difference
+between the substantive law of the contract and the law that governed the arbitration.
+Therefore, since a construction of Section 9(b) of the Foreign Awards Act led to the
+aforesaid situation and led to the doctrine of concurrent jurisdiction, the 1996 Act,
+while enacting Section 9(a) of the repealed Foreign Awards Act, 1961, in Section 51
+thereof, was careful enough to omit Section 9(b) of the 1961 Act which, as stated
+hereinabove, excluded the Foreign Awards Act from applying to any award made on
+arbitration agreements governed by the law of India.
+
+14. This being the case, the theory of concurrent jurisdiction was expressly given a
+go-by with the dropping of Section 9(b) of the Foreign Awards Act, while enacting
+Part II of the Arbitration Act, 1996, which repealed all the three earlier laws and put
+the law of arbitration into one statute, albeit in four different parts.”
+
+75. We respectfully concur with the said view, for there is no reason to differ. Apart from that, we
+have already held that the agreement in question having been interpreted in a particular manner by
+the English courts and the said interpretation having gained acceptation by this Court, the
+inescapable conclusion is that the courts in India have no jurisdiction.” (Emphasis supplied)
+
+52. This Court in its decision in BGS SGS SOMA JV v. NHPC LTD., reported in (2020) 4 SCC 234
+held that wherever in the arbitration agreement there is designation of a place of arbitration as
+‘venue’ of the ‘arbitral proceedings’, then such place effectively is the ‘seat’ of arbitration. This is
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+46
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+because, the expression ‘arbitral proceedings’ does not refer to individual hearings but rather the
+whole arbitration process including the making of the award. It further held that where the parties
+have anchored the arbitral proceedings to one fixed location or place, it would indicate that the
+parties intended such place to be the seat of arbitration. It held that where the place designated as
+venue in the arbitration agreement is coupled with there being no other significant contrary indicia
+that such place is merely a venue, then such place would be construed as the ‘seat’ of the arbitral
+proceedings. This Court also added that the international context where a supranational body of
+rules is to govern the arbitration in or in the national context the laws of a particular country then
+this would further be an indicia that the ‘venue’ designated in the arbitration agreement is really the
+seat of arbitration. The relevant observations read as under: -
+
+“82. On a conspectus of the aforesaid judgments, it may be concluded that whenever
+there is the designation of a place of arbitration in an arbitration clause as being the
+“venue” of the arbitration proceedings, the expression “arbitration proceedings”
+would make it clear that the “venue” is really the “seat” of the arbitral proceedings, as
+the aforesaid expression does not include just one or more individual or particular
+hearing, but the arbitration proceedings as a whole, including the making of an award
+at that place. This language has to be contrasted with language such as “tribunals are
+to meet or have witnesses, experts or the parties” where only hearings are to take
+place in the “venue”, which may lead to the conclusion, other things being equal, that
+the venue so stated is not the “seat” of arbitral proceedings, but only a convenient
+place of meeting. Further, the fact that the arbitral proceedings “shall be held” at a
+particular venue would also indicate that the parties intended to anchor arbitral
+proceedings to a particular place, signifying thereby, that that place is the seat of the
+arbitral proceedings. This, coupled with there being no other significant contrary
+indicia that the stated venue is merely a “venue” and not the “seat” of the arbitral
+proceedings, would then conclusively show that such a clause designates a “seat” of
+the arbitral proceedings. In an international context, if a supranational body of rules
+is to govern the arbitration, this would further be an indicia that “the venue”, so
+stated, would be the seat of the arbitral proceedings. In a national context, this would
+be replaced by the Arbitration Act, 1996 as applying to the “stated venue”, which then
+becomes the “seat” for the purposes of arbitration.” (Emphasis supplied)
+
+53. Thus, this Court in BGS SGS SOMA (supra) laid down a three-condition test as to when ‘venue’
+can be construed as ‘seat’ of arbitration. The conditions that are required to be fulfilled are as under:
+-
+
+i. The arbitration agreement or clause in question should designate or mention only
+one place;
+
+ii. Such place must have anchored the arbitral proceedings i.e., the arbitral
+proceedings must have been fixed to that place alone without any scope of change;
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+47
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+iii. There must be no other significant contrary indicia to show that the place
+designated is merely the venue and not the seat.
+
+Where the aforesaid conditions are fulfilled, then the place that has been designated
+as ‘venue’ can be construed as the ‘seat’ of arbitration. It is clarified that, while
+applying the aforesaid test, it must be borne in mind that where a supranational body
+of rules has been stipulated in an arbitration agreement or clause, such stipulation is
+not to be regarded as a contrary indicium, such stipulation does not mean that no
+seat has been designated rather such stipulation is a positive indicia that the place so
+designated is actually the ‘seat’.
+
+54. The aforesaid test was approvingly applied by this Court in Mankastu Impex Private Ltd. v.
+Airvisual Ltd. reported in (2020) 5 SCC 399 and it was held that where the reference to a place in
+the arbitration agreement is not simply as “venue” and rather a reference as place for final
+resolution by arbitration, such place shall be construed as the seat of arbitration. The relevant
+observations read as under: -
+
+“20. It is well settled that “seat of arbitration” and “venue of arbitration” cannot be
+used interchangeably. It has also been established that mere expression “place of
+arbitration” cannot be the basis to determine the intention of the parties that they
+have intended that place as the “seat” of arbitration. The intention of the parties as to
+the “seat” should be determined from other clauses in the agreement and the conduct
+of the parties.
+
+21. In the present case, the arbitration agreement entered into between the parties
+provides Hong Kong as the place of arbitration. The agreement between the parties
+choosing “Hong Kong” as the place of arbitration by itself will not lead to the
+conclusion that the parties have chosen Hong Kong as the seat of arbitration. The
+words, “the place of arbitration” shall be “Hong Kong”, have to be read along with
+Clause 17.2. Clause 17.2 provides that “… any dispute, controversy, difference arising
+out of or relating to MoU shall be referred to and finally resolved by arbitration
+administered in Hong Kong….”. On a plain reading of the arbitration agreement, it is
+clear that the reference to Hong Kong as “place of arbitration” is not a simple
+reference as the “venue” for the arbitral proceedings; but a reference to Hong Kong is
+for final resolution by arbitration administered in Hong Kong. The agreement
+between the parties that the dispute “shall be referred to and finally resolved by
+arbitration administered in Hong Kong” clearly suggests that the parties have agreed
+that the arbitration be seated at Hong Kong and that laws of Hong Kong shall govern
+the arbitration proceedings as well as have power of judicial review over the
+arbitration award.
+
+22. As pointed out earlier, Clause 17.2 of MoU stipulates that the dispute arising out
+of or relating to MoU including the existence, validity, interpretation, breach or
+termination thereof or any dispute arising out of or relating to it shall be referred to
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+48
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+and finally resolved by the arbitration administered in Hong Kong. The words in
+Clause 17.2 that “arbitration administered in Hong Kong” is an indicia that the seat of
+arbitration is at Hong Kong. Once the parties have chosen “Hong Kong” as the place
+of arbitration to be administered in Hong Kong, the laws of Hong Kong would govern
+the arbitration. The Indian courts have no jurisdiction for appointment of the
+arbitrator.” (Emphasis supplied) iii. Whether the Seat of Arbitration in the
+underlying Distributorship Agreement is in India?
+
+55. Now coming to the facts of the present case, Clause 26 of the aforesaid Distributorship
+Agreement stipulates that the arbitration shall be subject to UAE Arbitration and Conciliation rules.
+The aforesaid arbitration clause further designates only one place i.e., Dubai, UAE as the venue of
+arbitration.
+
+56. In view of the law laid down by this Court in BGS SGS SOMA (supra), since only one place has
+been designated in the arbitration clause, and such place has been categorically fixed inasmuch as
+there is no scope for the place designated as venue to change in terms of Clause 26, and
+furthermore, the said clause has explicitly stipulated that the curial law would be the UAE
+Arbitration and Conciliation rules and there being no other contrary indicia let alone a significant
+contrary indicia, we are of the considered opinion that the Dubai, UAE has not been designated
+merely as a venue but rather as the juridical seat of arbitration in terms of clause 26 of the
+Distributorship Agreement.
+
+57. We are further reinforced in our findings in light of the Shashoua Principle as laid down in Roger
+Shashoua (1) (supra) wherein it was held that more often than not the law of the arbitration
+agreement and by it the seat of the arbitration coincides with the curial law. Since the parties herein
+have expressly chosen the curial law of arbitration to be the UAE Arbitration and Conciliation rules,
+there is no second opinion that the seat of arbitration in the underlying Distributorship Agreement
+is Dubai, UAE and not India.
+
+58. It has been contended by the petitioner herein that, no one fixed place or seat of arbitration has
+been designated under the Distributorship Agreement since Clause 27 of the aforesaid Agreement
+stipulates that it shall be subject to the non-exclusive jurisdiction of the Dubai Courts. It has been
+submitted that since the parties had agreed not to confer exclusive jurisdiction to courts in Dubai,
+neither of the parties to the agreement construed the arbitration clause as designating courts in
+Dubai as the seat of arbitration. It was also contended that the non-exclusive jurisdiction clause had
+been specifically incorporated to confer jurisdiction on other courts too.
+
+59. In Enercon (supra), this Court held that the ‘seat’ or the situs of arbitration is a crucial location
+as it determines the courts that will have exclusive jurisdiction to oversee the arbitration
+proceedings. The relevant observations read as under: -
+
+“97. This now clears the decks for the crucial question i.e. is the “seat” of arbitration
+in London or in India. This is necessarily so as the location of the seat will determine
+the courts that will have exclusive jurisdiction to oversee the arbitration proceedings.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+49
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+Therefore, understandably, much debate has been generated before us on the
+question whether the use of the phrase “venue shall be in London” actually refers to
+designation of the seat of arbitration in London.” (Emphasis supplied)
+
+60. Similarly, in Indus Mobile Distribution (P) Ltd. v. Datawind Innovations (P) Ltd reported in
+(2017) 7 SCC 678, this Court held that in arbitration law, the moment ‘seat’ is determined, it would
+be akin to an exclusive jurisdiction clause whereby only the jurisdictional courts of that seat will
+have the jurisdiction to regulate the arbitral proceedings. It further held that where more than one
+court has jurisdiction, it is open for the parties to exclude all other courts and choose to submit to
+the jurisdiction of one court alone. The relevant observations read as under: -
+
+“19. A conspectus of all the aforesaid provisions shows that the moment the seat is
+designated, it is akin to an exclusive jurisdiction clause. On the facts of the present
+case, it is clear that the seat of arbitration is Mumbai and Clause 19 further makes it
+clear that jurisdiction exclusively vests in the Mumbai courts. Under the Law of
+Arbitration, unlike the Code of Civil Procedure which applies to suits filed in courts, a
+reference to “seat” is a concept by which a neutral venue can be chosen by the parties
+to an arbitration clause. The neutral venue may not in the classical sense have
+jurisdiction — that is, no part of the cause of action may have arisen at the neutral
+venue and neither would any of the provisions of Sections 16 to 21 CPC be attracted.
+In arbitration law however, as has been held above, the moment “seat” is determined,
+the fact that the seat is at Mumbai would vest Mumbai courts with exclusive
+jurisdiction for purposes of regulating arbitral proceedings arising out of the
+agreement between the parties.
+
+20. It is well settled that where more than one court has jurisdiction, it is open for the
+parties to exclude all other courts. …” (Emphasis supplied)
+
+61. In Swastik Gases (P) Ltd. v. Indian Oil Corpn. Ltd., reported in (2013) 9 SCC 32, it was held that
+in a jurisdictional clause even if words like “alone”, “only”, “exclusive” or “exclusive jurisdiction”
+have not been used it would make no material difference as to the exclusive nature of the
+jurisdiction conferred by such clause. This Court observed that this is because, the moment a
+jurisdiction is conferred, the maxim expressio unius est exclusio alterius i.e., expression of one is the
+exclusion of another comes into play, and it would be as if its an exclusive clause if there is nothing
+to indicate the contrary. The relevant observations read as under: -
+
+“31. In the instant case, the appellant does not dispute that part of cause of action has
+arisen in Kolkata. What appellant says is that part of cause of action has also arisen in
+Jaipur and, therefore, the Chief Justice of the Rajasthan High Court or the designate
+Judge has jurisdiction to consider the application made by the appellant for the
+appointment of an arbitrator under Section 11. Having regard to Section 11(12)(b)
+and Section 2(e) of the 1996 Act read with Section 20(c) of the Code, there remains
+no doubt that the Chief Justice or the designate Judge of the Rajasthan High Court
+has jurisdiction in the matter. The question is, whether parties by virtue of Clause 18
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+50
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+of the agreement have agreed to exclude the jurisdiction of the courts at Jaipur or, in
+other words, whether in view of Clause 18 of the agreement, the jurisdiction of the
+Chief Justice of the Rajasthan High Court has been excluded?
+
+32. For answer to the above question, we have to see the effect of the jurisdiction
+clause in the agreement which provides that the agreement shall be subject to
+jurisdiction of the courts at Kolkata. It is a fact that whilst providing for jurisdiction
+clause in the agreement the words like “alone”, “only”, “exclusive” or “exclusive
+jurisdiction” have not been used but this, in our view, is not decisive and does not
+make any material difference. The intention of the parties—by having Clause 18 in the
+agreement—is clear and unambiguous that the courts at Kolkata shall have
+jurisdiction which means that the courts at Kolkata alone shall have jurisdiction. It is
+so because for construction of jurisdiction clause, like Clause 18 in the agreement, the
+maxim expressio unius est exclusio alterius comes into play as there is nothing to
+indicate to the contrary. This legal maxim means that expression of one is the
+exclusion of another. By making a provision that the agreement is subject to the
+jurisdiction of the courts at Kolkata, the parties have impliedly excluded the
+jurisdiction of other courts.
+
+Where the contract specifies the jurisdiction of the courts at a particular place and such courts have
+jurisdiction to deal with the matter, we think that an inference may be drawn that parties intended
+to exclude all other courts. A clause like this is not hit by Section 23 of the Contract Act at all. Such
+clause is neither forbidden by law nor it is against the public policy. It does not offend Section 28 of
+the Contract Act in any manner.
+
+xxx
+
+55. It will be seen from the above decisions that except in A.B.C. Laminart [A.B.C. Laminart (P) Ltd.
+v. A.P. Agencies, (1989) 2 SCC 163] where this Court declined to exclude the jurisdiction of the
+courts in Salem, in all other similar cases an inference was drawn (explicitly or implicitly) that the
+parties intended the implementation of the exclusion clause as it reads notwithstanding the absence
+of the words “only”, “alone” or “exclusively” and the like. The reason for this is quite obvious. The
+parties would not have included the ouster clause in their agreement were it not to carry any
+meaning at all. The very fact that the ouster clause is included in the agreement between the parties
+conveys their clear intention to exclude the jurisdiction of courts other than those mentioned in the
+clause concerned. Conversely, if the parties had intended that all courts where the cause of action or
+a part thereof had arisen would continue to have jurisdiction over the dispute, the exclusion clause
+would not have found a place in the agreement between the parties.” (Emphasis supplied)
+
+62. As discussed in the foregoing paragraphs, since the Distributorship Agreement already
+designates Dubai, UAE as the seat of arbitration, the same would be akin to an exclusive jurisdiction
+clause with only the courts in Dubai, UAE having the jurisdiction over such arbitration in view of the
+decision of this Court in Indus Mobile Distribution (supra).
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+51
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+63. Even if it is assumed that the aforesaid clause does not confer jurisdiction exclusively to the
+courts where the seat of arbitration is situated, still this Court will not have jurisdiction to entertain
+the present Section 11 petition.
+
+This is because, in view of the law laid down in BALCO (supra) and Reliance Industries (supra), Part
+I of this Act, 1996 will not be applicable where the seat of arbitration is outside India or where the
+law governing the arbitration agreement is not Indian laws. In the present case as discussed in the
+foregoing paragraphs, the Distributorship Agreement, more particularly Clauses 26 & 27
+respectively makes it abundantly clear that the seat of arbitration is in fact Dubai, UAE, furthermore
+both the law governing the contract and the curial law are not Indian laws. In such scenario, even if
+the argument of the petitioner that the non-exclusive jurisdiction clause had been incorporated to
+confer jurisdiction on other courts too is accepted in toto, even then this Court will not have any
+jurisdiction to exercise its powers under Section 11 of the Act, 1996 as neither the seat is India nor is
+the arbitration agreement governed by Indian laws. Since Part I of the Act, 1996 is inapplicable, the
+parties cannot confer any jurisdiction to a court which otherwise has no jurisdiction even if such
+conferment is permissible as per the Distributorship Agreement.
+
+64. Clause 27 of the aforesaid Distributorship Agreement reads as follows:
+
+“This Agreement shall be governed by and construed in accordance with the laws of
+UAE and shall be subject to the non-exclusive jurisdiction of the Dubai Courts”. The
+expression “non-exclusive jurisdiction of the Dubai Courts” occurring in the said
+clause cannot be singled out and construed devoid of its context. The said clause
+provides the law governing the entire Distributorship Agreement and the stipulation
+that it shall be subject to the non-exclusive jurisdiction of the Dubai Court only
+relates to the substantive agreement and not the arbitration agreement contained in
+the preceding clause. The said clause can at best be construed to stipulate that any
+substantive part pertaining to such agreement which might not fall within the scope
+of ‘disputes’ covered under Clause 26 i.e.., those disputes which are not arbitrable
+between the parties will then in turn be amenable to the jurisdiction of Dubai Courts
+or any other courts. The said clause in no manner can be construed to mean that
+there exists no ‘seat’ or ‘situs’ of arbitration and that parties merely because there is
+no court that has been conferred exclusive jurisdiction in respect of the said
+agreement. It is the seat of arbitration which determines which court will have
+exclusive jurisdiction and not vice-versa.
+
+a. Doctrine of Forum non Conveniens
+
+65. The aforesaid may be looked at from one another angle, through the doctrine of
+forum non conveniens. The term ‘forum non conveniens’ is a latin term which means
+“an inconvenient forum” and provides that a court which otherwise might have
+jurisdiction may decline jurisdiction over a case if there is a more appropriate forum
+available to the parties, and is typically invoked in respect of cross-border
+subject-matters that are amenable to multiple concurrent jurisdictions. Depending
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+52
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+upon the nature of the dispute, the subject-matter involves and the parties thereto,
+the courts by invoking this doctrine proceed to determine which one of the available
+forums may be more convenient and fair for entertaining and adjudicating the
+matter.
+
+66. In order to apply the doctrine of forum non conveniens an dequate alternative
+forum must exist where the subject-matter may be espoused.
+
+The alternative forum must be capable of providing a fair and adequate remedy for the dispute,
+however this does not mean that the alternative forum must offer identical remedies, and this
+doctrine may be applied as long as the other alternative forum offers a reasonably fair process of
+remedy and is more convenient or appropriate in the opinion of the court invoking the doctrine.
+Courts in doing so must weigh the relative importance of private and public interest factors. In
+doing so, they exercise a high level of discretion and often issue rulings that are fact-specific.
+
+67. In Spiliada Maritime Corp v. Cansulex Ltd. reported in [1987] AC 460, the House of Lords while
+considering a non-exclusive jurisdiction clause laid down the test for applying the doctrine of forum
+non conveniens to decline jurisdiction on the grounds that another forum is more appropriate.
+
+It held that where the court is satisfied that there is some other available forum, having competent
+jurisdiction, which is more appropriate to decide the dispute the courts can decline its jurisdiction
+or stay the proceedings before it in favour of a more suitable forum for the interests of all the parties
+and the ends of justice. The relevant observations read as under: -
+
+“The existence of a non-exclusive jurisdiction clause is a factor, but it is not
+conclusive. It must be weighed alongside other considerations of convenience and
+connection to determine the appropriate forum.
+
+The basic principle is that a stay will only be granted on the ground of forum non
+conveniens where the court is satisfied that there is some other available forum,
+having competent jurisdiction, which is the appropriate forum for the trial of the
+action, i.e., in which the case may be tried more suitably for the interests of all the
+parties and the ends of justice. The principle of forum non conveniens allows
+discretion to stay proceedings in favor of a clearly more appropriate forum unless
+justice requires the case to proceed in the chosen forum due to special circumstances.
+
+If the court concludes at the end of stage one that there is another clearly more
+appropriate forum, it will ordinarily grant a stay unless the plaintiff can show that
+there are special circumstances by reason of which justice requires that the trial
+should nevertheless take place in England. While the plaintiff’s choice of forum is
+significant, it is not decisive; the court must weigh it against factors that might
+inconvenience the defendant or make the chosen forum less appropriate for the
+interests of justice.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+53
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+If the defendant shows another available forum is more suitable, then the court
+should only retain jurisdiction if the plaintiff can show that substantial justice would
+not be achieved in the alternative forum. In determining whether there is another
+forum which is more appropriate for the trial of the action, the court will look for the
+forum with which the action has the most real and substantial connection.”
+(Emphasis supplied)
+
+68. In Modi Entertainment Network v. W.S.G. Cricket Pte. Ltd. reported in (2003) 4 SCC 341, this
+Court observed that while construing a non-
+
+exclusive jurisdiction clause, where more forums than one are available, the court in exercise of its
+discretion will examine as to which is the appropriate forum (forum conveniens) having regard to
+the convenience of the parties. It further observed that Where parties have agreed, under a non-
+
+exclusive jurisdiction clause, to approach a neutral foreign forum and be governed by the law
+applicable to it for the resolution of their disputes arising under the contract, ordinarily should not
+be entertained as s it shall be presumed that the parties have thought over their convenience and all
+other relevant factors before submitting to the non-exclusive jurisdiction of the court of their choice
+which cannot be treated just as an alternative forum. It also held that the burden of establishing that
+the forum of choice is a forum non-conveniens or the proceedings therein are oppressive or
+vexatious would be on the party so contending to aver and prove the same.
+
+The relevant observations read as under: -
+
+“24. From the above discussion the following principles emerge:
+
+(1) In exercising discretion to grant an anti-suit injunction the court must be satisfied
+of the following aspects:
+
+(a) the defendant, against whom injunction is sought, is amenable to the personal
+jurisdiction of the court;
+
+(b) if the injunction is declined, the ends of justice will be defeated and injustice will
+be perpetuated; and
+
+(c) the principle of comity — respect for the court in which the commencement or
+continuance of action/proceeding is sought to be restrained — must be borne in
+mind.
+
+(2) In a case where more forums than one are available, the court in exercise of its
+discretion to grant anti-suit injunction will examine as to which is the appropriate
+forum (forum conveniens) having regard to the convenience of the parties and may
+grant anti-suit injunction in regard to proceedings which are oppressive or vexatious
+or in a forum non-
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+54
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+conveniens.
+
+(3) Where jurisdiction of a court is invoked on the basis of jurisdiction clause in a contract, the
+recitals therein in regard to exclusive or non-exclusive jurisdiction of the court of choice of the
+parties are not determinative but are relevant factors and when a question arises as to the nature of
+jurisdiction agreed to between the parties the court has to decide the same on a true interpretation
+of the contract on the facts and in the circumstances of each case.
+
+(4) A court of natural jurisdiction will not normally grant anti-suit injunction against a defendant
+before it where parties have agreed to submit to the exclusive jurisdiction of a court including a
+foreign court, a forum of their choice in regard to the commencement or continuance of proceedings
+in the court of choice, save in an exceptional case for good and sufficient reasons, with a view to
+prevent injustice in circumstances such as which permit a contracting party to be relieved of the
+burden of the contract; or since the date of the contract the circumstances or subsequent events
+have made it impossible for the party seeking injunction to prosecute the case in the court of choice
+because the essence of the jurisdiction of the court does not exist or because of a vis major or force
+majeure and the like.
+
+(5) Where parties have agreed, under a non-exclusive jurisdiction clause, to approach a neutral
+foreign forum and be governed by the law applicable to it for the resolution of their disputes arising
+under the contract, ordinarily no anti-suit injunction will be granted in regard to proceedings in
+such a forum conveniens and favoured forum as it shall be presumed that the parties have thought
+over their convenience and all other relevant factors before submitting to the non-exclusive
+jurisdiction of the court of their choice which cannot be treated just as an alternative forum.
+
+(6) A party to the contract containing jurisdiction clause cannot normally be prevented from
+approaching the court of choice of the parties as it would amount to aiding breach of the contract;
+yet when one of the parties to the jurisdiction clause approaches the court of choice in which
+exclusive or non-exclusive jurisdiction is created, the proceedings in that court cannot per se be
+treated as vexatious or oppressive nor can the court be said to be forum non- conveniens.
+
+(7) The burden of establishing that the forum of choice is a forum non-conveniens or the
+proceedings therein are oppressive or vexatious would be on the party so contending to aver and
+prove the same.” (Emphasis supplied)
+
+69. What can be discerned from above is that where more than one forum is available, it is the
+discretion of the court to entertain the matter by examining as to which is the appropriate forum
+more suited for the interests of all the parties and the ends of justice. Ordinarily, the burden to prove
+that the court or forum in seisin of the matter is an inconvenient forum or the proceeding therein
+are oppressive or vexatious lies on the party contending the same, yet the choice of forum by the
+other party is not decisive, and that it is for the court to determine whether the proceedings before it
+might be an inconvenience to the interests of the parties or less appropriate for the subject-matter in
+question.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+55
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+70. Thus, even if it is assumed that Clause 27 of the aforesaid Distributorship Agreement conferred
+concurrent jurisdiction to both the courts in UAE and the other courts and thus, the petitioner
+herein was well-within its right to approach this Court in terms of the non-exclusive jurisdiction
+clause for the purpose of appointment of arbitrator, this Court can decline to exercise its jurisdiction
+if there exists a more appropriate forum. As discussed in the foregoing paragraphs, the seat of
+arbitration in terms of the aforesaid Distributorship Agreement is Dubai, UAE, both the law
+governing the contract and the curial law are the laws of UAE, the respondent no. 1 herein with
+whom the petitioner’s credit account lies is also situated in Dubai, even the venue of arbitration is
+Dubai, thus by all reasons of logic the more appropriate forum suitable for appointment of arbitrator
+is Dubai, UAE and not the courts of India.
+
+E. CONCLUSION
+
+71. From the above exposition of law, the following position of law emerges: -
+
+(i) Part I of the Act, 1996 and the provisions thereunder only applies where the
+arbitration takes place in India i.e., where either (I) the seat of arbitration is in India
+OR (II) the law governing the arbitration agreement are the laws of India.
+
+(ii) Arbitration agreements executed after 06.09.2012 where the seat of arbitration is
+outside India, Part I of the Act, 1996 and the provisions thereunder will not be
+applicable and would fall beyond the jurisdiction of Indian courts.
+
+(iii) Even those arbitration agreements that have been executed prior to 06.09.2012
+Part I of the Act, 1996 will not be applicable, if its application has been excluded by
+the parties in the arbitration agreement either explicitly by designating the seat of
+arbitration outside India or implicitly by choosing the law governing the agreement
+to be any other law other than Indian law.
+
+(iv) The moment ‘seat’ is determined, it would be akin to an exclusive jurisdiction clause whereby
+only the jurisdictional courts of that seat alone will have the jurisdiction to regulate the arbitral
+proceedings.
+
+The notional doctrine of concurrent jurisdiction has been expressly rejected and overruled by this
+Court in its subsequent decisions.
+
+(v) The ‘Closest Connection Test’ for determining the seat of arbitration by identifying the law with
+which the agreement to arbitrate has its closest and most real connection is no longer a viable
+criterion for determination of the seat or situs of arbitration in view of the Shashoua Principle. The
+seat of arbitration cannot be determined by formulaic and unpredictable application of choice of law
+rules based on abstract connecting factors to the underlying contract. Even if the law governing the
+contract has been expressly stipulated, it does not mean that the law governing the arbitration
+agreement and by extension the seat of arbitration will be the same as the lex contractus.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+56
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+(vi) The more appropriate criterion for determining the seat of arbitration in view of the subsequent
+decisions of this Court is that where in an arbitration agreement there is an express designation of a
+place of arbitration anchoring the arbitral proceedings to such place, and there being no other
+significant contrary indicia to show otherwise, such place would be the ‘seat’ of arbitration even if it
+is designated in the nomenclature of ‘venue’ in the arbitration agreement.
+
+(vii) Where the curial law of a particular place or supranational body of rules has been stipulated in
+an arbitration agreement or clause, such stipulation is a positive indicium that the place so
+designated is actually the ‘seat’, as more often than not the law governing the arbitration agreement
+and by extension the seat of the arbitration tends to coincide with the curial law.
+
+(viii) Merely because the parties have stipulated a venue without any express choice of a seat, the
+courts cannot sideline the specific choices made by the parties in the arbitration agreement by
+imputing these stipulations as inadvertence at the behest of the parties as regards the seat of
+arbitration. Deference has to be shown to each and every choice and stipulations made by the
+parties, afterall the courts are only a conduit or means to arbitration, and the sum and substance of
+the arbitration is derived from the choices of the parties and their intentions contained in the
+arbitration agreement. It is the duty of the court to give weight and due consideration to each choice
+made by the parties and to construe the arbitration agreement in a manner that aligns the most with
+such stipulations and intentions.
+
+(ix) We do not for a moment say that, the Closest Connection Test has no application whatsoever,
+where there is no express or implied designation of a place of arbitration in the agreement either in
+the form of ‘venue’ or ‘curial law’, there the closest connection test may be more suitable for
+determining the seat of arbitration.
+
+(x) Where two or more possible places that have been designated in the arbitration agreement either
+expressly or impliedly, equally appear to be the seat of arbitration, then in such cases the conflict
+may be resolved through recourse to the Doctrine of Forum Non Conveniens, and the seat be then
+determined based on which one of the possible places may be the most appropriate forum keeping
+in mind the nature of the agreement, the dispute at hand, the parties themselves and their
+intentions. The place most suited for the interests of all the parties and the ends of justice may be
+determined as the ‘seat’ of arbitration.
+
+72. Thus, for all the foregoing reasons, we have reached the conclusion that the present petition
+under Section 11 of the Act, 1996 is not maintainable as neither the seat of arbitration is India nor is
+the arbitration agreement governed by laws of India.
+
+73. In the result, the present petition filed by the petitioner fails and is hereby dismissed.
+
+74. The parties shall bear their own costs.
+
+75. Pending application(s), if any, also stand disposed of.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+57
+
+M/S Arif Azim Co. Ltd vs M/S Micromax Informatics Fze on 7 November, 2024
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   C J I .   ( D r .   D h a n a n j a y a   Y .   C h a n d r a c h u d )
+.......................................................... J.
+
+(J.B. Pardiwala) .......................................................... J.
+
+(Manoj Misra) New Delhi;
+
+7th November, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/57679451/
+
+58
+
+

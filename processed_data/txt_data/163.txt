@@ -1,0 +1,253 @@
+M/S R.K. Transport Company vs M/S Bharat Aluminum Company Limited ... on 3 April, 2025
+
+M/S R.K. Transport Company vs M/S Bharat Aluminum Company
+Limited ... on 3 April, 2025
+
+Author: Pamidighantam Sri Narasimha
+
+Bench: Prashant Kumar Mishra, Pamidighantam Sri Narasimha
+
+2025 INSC 438                                                                REPORTABLE
+
+                                      IN THE SUPREME COURT OF INDIA
+                                       CIVIL APPELLATE JURISDICTION
+
+                                    CIVIL APPEAL NO. 4763 OF 2025
+                               ARISING OUT OF SLP (C) No. 26489 OF 2024
+
+             M/S R. K. TRANSPORT COMPANY                               ...APPELLANT(S)
+
+                                                    VERSUS
+
+             M/S BHARAT ALUMINUM
+             COMPANY LTD. (BALCO)                                     …RESPONDENT(S)
+
+                                               JUDGMENT
+
+PAMIDIGHANTAM SRI NARASIMHA, J.
+
+1. Leave granted.
+
+2. It is just as necessary to follow a precedent as it is to make a precedent.
+
+3. The present appeal arises out of an order of the Chhattisgarh High Court dated 27.09.2024 by
+which it allowed the respondent’s appeal under Section 37 of the Arbitration and Conciliation Act,
+1996 1 and held the respondent’s application under Section 34 as being filed within the limitation
+period.
+
+4. The short facts necessary for adjudication are as follows. The parties entered into a contract on
+01.04.2002 for bauxite mining INDU MARWAH Date: 2025.04.03 16:57:55 IST Reason:
+
+Hereinafter “ACA”.
+
+and delivery. Pursuant to disputes arising on payments under the contract, the
+matter was referred to arbitration, resulting in an arbitral award of Rs. 51,33,40,100
+dated 09.04.2022 in favour of the appellant. It is undisputed that the award was
+signed and delivered to the respondent on this very day. The respondent filed an
+application to set aside the award under Section 34 on 11.07.2022, along with an
+
+Indian Kanoon - http://indiankanoon.org/doc/20609962/
+
+1
+
+M/S R.K. Transport Company vs M/S Bharat Aluminum Company Limited ... on 3 April, 2025
+
+application for stay of the award. The Trial Court, on 13.07.2022, passed an ex-parte
+order that the Section 34 application was within limitation as the 3-month period
+expired on 09.07.2022, which was a second Saturday and the following day was a
+Sunday. Since the court was closed on both these days, the respondent filed the
+application on the next working day. It also directed the respondent to deposit 50%
+of the arbitral sum. It is relevant to note that such amount was deposited by the
+respondent, and the same has been withdrawn by the appellant after furnishing a
+bank guarantee.
+
+5. The appellant challenged the order dated 13.07.2022 by filing a writ petition under Article 227 of
+the Constitution, wherein the High Court gave the appellant liberty to file a recall application as the
+Trial Court order had been passed ex-parte. The appellant filed such recall application before the
+Trial Court, which was allowed on 25.04.2023 and it was held that the Section 34 application is
+barred by limitation as the 3-month period expired on 08.07.2022 on which day the court was
+working. The respondent filed a Section 37 appeal against this order, which was allowed by the High
+Court by the order impugned herein. The High Court relied on Section 12 of the Limitation Act,
+19632 and this Court’s decision in State of Himachal Pradesh v. Himachal Techno Engineers3 to
+hold that the limitation period expired on 09.07.2022, which was a court holiday. Therefore, Section
+4 of the Limitation Act becomes applicable as per Bhimashankar Sahakari Sakkare Karkhane
+Niyamita v. Walchandnagar Industries Limited4, and the Section 34 application must be considered
+as being within the limitation period as it was filed on the next working day. The High Court
+remanded the parties to appear before the Trial Court, and also directed that the interim order in
+respect of execution of pending recovery shall continue till the application is decided on merits.
+
+6. We have heard learned senior counsel, Mr. Mukul Rohatgi for the appellant and learned senior
+counsel, Mr. Ranjit Kumar for the respondent and have also perused the written submissions.
+Hereinafter “the Limitation Act”.
+
+(2010) 12 SCC 210.
+
+(2023) 8 SCC 453.
+
+7. Mr. Rohatgi submitted that the limitation period must be calculated from the date on which the
+award was received by the respondent, i.e., 09.04.2022 and therefore, the 3-month limitation period
+expired on 08.07.2022. He submitted that the Limitation Act, including Section 12, does not apply
+to proceedings under Section 34 of the ACA. Since the court was working on the date on which
+limitation expired, Section 4 of the Limitation Act will not apply to hold the application filed on
+11.07.2022 as being within the limitation period. There was a 3-day delay in filing the Section 34
+application but the respondent did not file an application for condonation that showed sufficient
+cause to condone the delay. Finally, he also submitted that the respondent must be required to
+deposit 100% of the arbitral sum, and the High Court has not offered any reasons for restricting the
+deposit to 50%. 7.1 On the other hand, Mr. Ranjit Kumar has relied on Section 12 of the Limitation
+Act and the judgment in Himachal Techno Engineers (supra) to submit that the date on which the
+arbitral award was received, i.e. 09.04.2022, must be excluded while calculating the limitation
+
+Indian Kanoon - http://indiankanoon.org/doc/20609962/
+
+2
+
+M/S R.K. Transport Company vs M/S Bharat Aluminum Company Limited ... on 3 April, 2025
+
+period. Hence, the High Court rightly concluded that the 3-month period commencing on
+10.04.2022 expired on 09.07.2022, which was a court holiday and therefore Section 4 of the
+Limitation Act is attracted and the application was filed in time. He also took us through the prayer
+in the Article 227 writ petition to show us that the appellant only sought deposit of 60% of the
+amount before the High Court and a bank guarantee for the remaining 40%, and hence cannot
+demand deposit of the entire amount at this stage.
+
+8. Section 34(3) of the ACA stipulates the limitation period for filing an application to set aside an
+arbitral award as 3 months from the date on which the party receives the arbitral award, which can
+be further extended by 30 days on sufficient cause being shown. 5 At this stage, it is necessary to
+reiterate that the statutory language of Section 34(3) clearly stipulates the limitation period as
+“three months”, as opposed to the condonable period as “thirty days”. This difference in language
+unambiguously demonstrates the legislative intent that the limitation period is 3 calendar months as
+opposed to 90 days. 6 Therefore, we reject the argument Section 34(3) of the ACA reads:
+
+“34. Application for setting aside arbitral award.— (3) An application for setting aside
+may not be made after three months have elapsed from the date on which the party
+making that application had received the arbitral award or, if a request had been
+made under section 33, from the date on which that request had been disposed of by
+the arbitral tribunal:
+
+Provided that if the Court is satisfied that the applicant was prevented by sufficient
+cause from making the application within the said period of three months it may
+entertain the application within a further period of thirty days, but not thereafter.”
+Himachal Techno Engineers (supra), paras 14 and 15.
+
+taken by the appellant in its written submissions that 3 months must be read as 90
+days in the context of Section 34(3).
+
+9. We will now deal with how limitation must be calculated in the present case. The law on the
+applicability of the Limitation Act to Section 34 proceedings has been summarised by us in a recent
+decision in My Preferred Transformation & Hospitality Pvt Ltd v. Faridabad Implements Pvt Ltd 7
+as follows:
+
+“23. …Through the above discussion, it is amply clear that there is no wholesale
+exclusion of the provisions of the Limitation Act in calculating the period of
+limitation under Section 34(3). Rather, each provision’s applicability/exclusion has
+been individually tested by this Court, on a case-to-case basis, based on the language
+and purpose of the specific provision in the Limitation Act, the language of Section
+34(3) of the ACA, and the scheme and object of the ACA…”
+
+10. The applicability of Section 12 of the Limitation Act is in issue in the present case. The relevant
+portion of Section 12 reads:
+
+Indian Kanoon - http://indiankanoon.org/doc/20609962/
+
+3
+
+M/S R.K. Transport Company vs M/S Bharat Aluminum Company Limited ... on 3 April, 2025
+
+“12. Exclusion of time in legal proceedings.— (1) In computing the period of
+limitation for any suit, appeal or application, the day from which such period is to be
+reckoned, shall be excluded…”
+
+11. This Court in Himachal Techno Engineers (supra) held that Section 12(1) of the Limitation Act
+applies while calculating the limitation period under Section 34(3) such that the day from which
+2025 INSC 56.
+
+such period is to be reckoned must be excluded. 8 The relevant portion reads as follows:
+
+“12. Section 12 of the Limitation Act, 1963 provides for exclusion of time in legal
+proceedings. Sub-section (1) thereof provides that in computing the period of
+limitation for any application, the day from which such period is to be reckoned, shall
+be excluded. The applicability of Section 12 of the Limitation Act, 1963 to petitions
+under Section 34 of the Act is not excluded by the provisions of the Act.”
+
+12. In the recent decision in State of West Bengal v. Rajpath Contractors and Engineers Ltd 9 also,
+this Court applied Section 12(1) while calculating the limitation period of 3 months under Section
+34(3).10 There is nothing in the statutory language or scheme of Section 34(3) that is
+contraindicative that Section 12(1) does not apply.
+
+13. In the present case, the respondent received a signed copy of the award on 09.04.2022. Since
+Section 12(1) applies, this date must be excluded and the 3-month limitation period must be
+reckoned from 10.04.2022. This expires on 09.07.2022, which Himachal Techno Engineers (supra),
+para 12. (2024) 7 SCC 257.
+
+ibid, para 8. The relevant portion of this decision reads as follows:
+
+“8. As per Section 12(1) of the Limitation Act, the day from which the limitation
+period is to be reckoned must be excluded. In this case, the period of limitation for
+filing a petition under Section 34 will have to be reckoned from 30-6-2022, when the
+appellants received the award. In view of Section 12(1) of the Limitation Act,
+30-6-2022 will have to be excluded while computing the limitation period. Thus, in
+effect, the period of limitation, in the facts of the case, started running on 1-7-2022.
+The period of limitation is of three months and not ninety days. Therefore, from the
+starting point of 1-7-2022, the last day of the period of three months would be
+30-9-2022. As noted earlier, the pooja vacation started on 1-10-2022.” happened to
+be a second Saturday when the court was not working. Hence, the benefit of Section 4
+of the Limitation Act will inure to the benefit of the respondent. This position of law
+is well-
+
+settled and has been reiterated by us in My Preferred Transformation & Hospitality (supra) as
+follows:
+
+Indian Kanoon - http://indiankanoon.org/doc/20609962/
+
+4
+
+M/S R.K. Transport Company vs M/S Bharat Aluminum Company Limited ... on 3 April, 2025
+
+“35. Summarising the Current Position of Law: From the reasoning and decisions in
+the above cases, the following conclusions evidently follow:
+
+35.1 First, Section 4 of the Limitation Act applies to Section 34(3) of the ACA.
+
+35.2 Second, Section 4 of the Limitation Act benefits a party only when the
+“prescribed period’’, i.e. the 3-month limitation period under Section 34(3) expires
+on a court holiday. In such a situation, the application under Section 34 will be
+considered as having been filed within the limitation period if it is filed on the next
+working day of the court.
+
+35.3 Third, Section 4 of the Limitation Act does not come to the aid of the party when
+the 3-month limitation period expires on a day when the court was working. The
+30-day condonable period expiring during the court holidays will not survive and
+neither Section 4, nor any other provision of the Limitation Act, will inure to the
+benefit of the party to enable filing of the Section 34 application immediately after
+reopening.
+
+35.4 Fourth, since Section 4 of the Limitation Act applies to proceedings under
+Section 34 of the ACA, the applicability of Section 10 of the GCA stands excluded in
+view of the express wording of its proviso that excludes the applicability of the
+provision when the Limitation Act applies.”
+
+14. Therefore, the respondent’s application under Section 34, which was filed on 11.07.2022, i.e., the
+next working day of the court, must be considered as being filed within the limitation period.
+Consequently, there was no delay in filing the application and sufficient cause need not be shown for
+condonation of delay. The High Court therefore rightly allowed the Section 37 appeal and held that
+the respondent’s Section 34 application was filed within the limitation period.
+
+15. Further, we do not wish to interfere with the High Court’s direction to stay the execution of
+pending recovery till the matter is adjudicated on merits, since the same is interim in nature and the
+appellant has already withdrawn 50% of the arbitral sum that was deposited by the respondent. In
+this view of the matter, the present appeal is dismissed.
+
+16. No order as to costs.
+
+17. Pending applications, if any, stand disposed of.
+
+………………………………....J. [PAMIDIGHANTAM SRI NARASIMHA] ………………………………....J.
+[PRASHANT KUMAR MISHRA] NEW DELHI;
+
+APRIL 03, 2025
+
+Indian Kanoon - http://indiankanoon.org/doc/20609962/
+
+5
+
+

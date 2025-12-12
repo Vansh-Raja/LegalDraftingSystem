@@ -1,0 +1,2362 @@
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ...
+on 20 November, 2024
+
+2024 INSC 880                                                   R E PO RTAB LE
+
+                                       IN THE SUPREME COURT OF INDIA
+                                        CIVIL APPELLATE JURISDICTION
+
+                                      CIVIL APPEAL NOS. 10409-10410 OF 2014
+
+                            M/S BHARTI AIRTEL LTD.             …APPELLANTS (S)
+
+                                                      VERSUS
+
+                            THE COMMISSIONER OF
+                            CENTRAL EXCISE, PUNE               …RESPONDENT(S)
+
+                                                     WITH
+                                       CIVIL APPEAL NO. 5832 OF 2018
+                                    CIVIL APPEAL NOs. 5032-5035 OF 2021
+                                      CIVIL APPEAL NOs. 5039-5040 OF 2021
+                                       CIVIL APPEAL NO. 5038 OF 2021
+                                       CIVIL APPEAL NO. 5056 OF 2021
+                                    CIVIL APPEAL NOs. 5036-5037 OF 2021
+                                       CIVIL APPEAL NO. 7119 OF 2015
+                                       CIVIL APPEAL NO. 7179 OF 2015
+                                       CIVIL APPEAL NO. 1077 OF 2016
+                                       CIVIL APPEAL NO. 1078 OF 2016
+                                       CIVIL APPEAL NO. 5112 OF 2021
+                                       CIVIL APPEAL NO. 1201 OF 2018
+                                       CIVIL APPEAL NO. 1205 OF 2018
+                                       CIVIL APPEAL NO. 1203 OF 2018
+                                       CIVIL APPEAL NO. 1204 OF 2018
+                                       CIVIL APPEAL NO. 1202 OF 2018
+                                                   And
+   Signature Not Verified               CIVIL APPEAL NO.62 OF 2022
+   Digitally signed by
+   RADHA SHARMA
+   Date: 2024.11.20
+   17:49:06 IST
+   Reason:
+
+                                                                            Page 1 of 76
+(cid:12)                           JUDGMENT
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+1
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+NONGMEIKAPAM KOTISWAR SINGH, J.
+
+1. The core issue involved in this set of appeals is whether the mobile service providers (MSPs) who
+pay excise duties on various items for setting up their business more particularly for erection of
+mobile towers and peripherals like pre-fabricated buildings (PFBs) etc. can take the benefit of
+CENVAT Credit under the CENVAT Credit Rules, 2004 (hereinafter referred to as the “CENVAT
+Rules”) for the purpose of payment of service tax on the output services rendered by them. With
+respect to the same, conflicting views have been given by two High Courts, namely the High Court of
+Bombay and High Court of Delhi. The Bombay High Court has ruled against the MSPs, favouring
+the Revenue, holding that MSPs are not entitled to CENVAT credit on mobile towers and
+prefabricated buildings. Whereas, the Delhi High Court has held to the contrary extending the
+benefit of CENVAT credit to the MSPs. The decisions of both the High Courts have been challenged
+before this Court by the respective aggrieved parties, by way of the present set of appeals.
+
+1.1 In the lead judgment of the Bombay High Court which has been challenged before this Court in
+Civil Appeal No. 10409-10 of 2014, namely Bharti Airtel Limited v. The Commissioner of Central
+Excise, Pune (Bharti Airtel, for short) rendered on 26.08.2014 in Central Excise Appeal Nos.73 of
+2012 and No. 119 of 2012, the Bombay High Court held that mobile towers and other components do
+not fall within the definition of “capital goods” as defined under Rule 2(a)(A) of the CENVAT Rules,
+nor are these “inputs” within the meaning of Rule 2(k) and, hence, the MSP is not entitled to
+CENVAT credit on duty paid on these items.
+
+1.2 The aforesaid decision of the Bombay High Court in Bharti Airtel (supra) has been reiterated in
+the following cases:
+
+(i) Central Excise Appeal No.126 of 2015 and Central Excise Appeal No.127 of 2015
+vide order dated 10.09.2015 which has been assailed before this Court in CA No.7119
+of 2015 (Vodafone India Limited v. Commissioner of Central Excise) and CA No.7179
+of 2015 (Vodafone India Limited v.
+
+Commissioner of Central Excise);
+
+(ii) Central Excise Appeal No.191 of 2015 and Central Excise Appeal No.190 of 2015 vide order dated
+12.10.2015 against which CA No.1077 of 2016 (Tata Teleservices Ltd. vs. Commissioner of Central
+Service Tax) and CA No.1078 of 2016 (Tata Teleservices Maharashtra Ltd. v. Commissioner of
+Central Service Tax) have been filed before this Court;
+
+(iii) Central Excise Appeal No.159 of 2015, out of which CA No.5112 of 2021 (Idea Cellular Ltd. vs.
+Commissioner of Service Tax) has arisen;
+
+(iv) Central Excise Appeal No.1 of 2016, Central Excise Appeal No.2 of 2016, Central Excise Appeal
+No.4 of 2016, Central Excise Appeal No.6 of 2016, Central Excise Appeal No.7 of 2016 which have
+been challenged in CA No.1201 of 2018 (Reliance Communications v. Commissioner of Service Tax),
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+2
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+CA No.1205/2018 (Reliance Communications v.
+
+Commissioner of Service Tax), CA No.1203 of 2018 (Reliance Communications v. Commissioner of
+Service Tax), CA No.1204 of 2018 (Reliance Communications v. Commissioner of Service Tax) and
+the CA No.1202 of 2018 (Reliance Communications v. Commissioner of Service Tax);
+
+(v) Central Excise Appeal No.7 of 2017 rendered on 02.04.2018 which has been challenged in CA
+No.5832 of 2018 (M/s Reliance Communication Infrastructure v. Commissioner of Service Tax,
+Mumbai).
+
+1.3 The Delhi High Court in the case of Vodafone Mobile Services Limited v. CST, Delhi 2019 [(27)
+G.S.T.L. 481 (Del.)] (Vodafone, for short) decided on 31.10.2018 arising out of C.E.A.C. Nos.12-13 of
+2016, 6 of 2017 and 4 of 2018, SERTA Nos.14-20 of 2016, on the contrary, held that towers and
+other associated structures like prefabricated buildings (PFBs) are covered by the definition of
+“capital goods” and are “inputs” as defined under CENVAT Rules and hence, MSPs are entitled to
+input credit on excise duty paid towards installation of mobile towers and PFBs. This judgement of
+t h e   D e l h i   H i g h   C o u r t   h a s   b e e n   c h a l l e n g e d   b e f o r e   t h i s   C o u r t   i n   C A   N o s .   5 0 3 2 -
+5035/2021(Commissioner of Service Tax vs. Indus Towers Ltd.), CA No. 5039-5040/2021
+(Commissioner of Service Tax vs. M/s Bharti Infratel Ltd.), CA No. 5038/2021 (Commissioner of
+Excise vs. Tower Vision India Pvt. Ltd.) and CA No. 5036-5037/2021 (Commissioner of Service Tax
+vs. Vodafone Mobile Services Ltd.).
+
+1.4 Following the aforesaid decision of the Delhi High Court in the Vodafone (supra), CESTAT,
+Principal Bench, Delhi in SA Appeal No.52342 of 2015 allowed the CENVAT Credit to the MSPs.
+This decision of the CESTAT, Delhi has been challenged in CA No.62/2022 (Commissioner Central
+Excise and Service Tax LTU vs. Mahanagar Telephone Nigam Ltd.)
+
+2. Most of the Assessees before us are mobile service providers (MSPs). The MSPs typically provide
+sim cards to the subscribers either in physical or electronic form, on activation of which the
+subscribers are able to enjoy wireless telecommunication service. For rendering these services, the
+service providers usually own and operate the infrastructure such as cell towers, Base Transceiver
+System (BTS) along with accompanying network equipment and structures like pre- fabricated
+building (PFBs), electricity generating sets (gensets), battery back-up and stabilisers for
+uninterrupted power supply to ensure seamless telecom service to the subscribers.
+
+2.1 Some of the Assessees, on the other hand, are merely providing passive infrastructure support
+service to the mobile telecommunication companies at telecom sites which consists of towers and
+other accompanying ancillaries including PFBs as mentioned above.
+
+3. The process of mobile telecommunication begins when a subscriber uses a wireless mobile
+handset which is also known as Mobile Station (MS) to make a call after activation of the sim card.
+The mobile handset, which is a radio equipment, performs the signal processing function of
+digitizing, encoding, error protecting, encrypting and modulating to transmitted signals. When it
+receives signals from other mobile stations, it performs the inverse functions. The mobile handset
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+3
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+sends a signal, an electromagnetic wave, which is a modulated version of the user’s voice or data.
+The signal emanating from the handset is received by the antenna mounted on the tower.
+Thereafter, the signal received by the antenna is sent through cables to the Base Station Sub-system
+(BSS). BSS is a set of base station equipment like Base Transceiver Station (BTS) and Base Station
+Controller (BSC). BSC essentially controls one or more BTS or BS. Base Transceiver Station (BTS)
+housed at the base of the tower is kept in secured and safe conditions in the prefabricated house or
+building (PFB). The BTS then converts the electromagnetic signal into a digital format that can be
+processed by the network. The processed signal is then transmitted to the mobile switching centre
+(MSC). The MSC then routes the calls or data to the destination through another tower or series of
+towers and by a reverse process of conversion from digital mode to electromagnetic wave, the signal
+is received at the destination.
+
+3.1 The said activities require constant electricity supply to the equipment to function. To prevent
+any interruption in the supply of electricity, the MSPs invariably keep electricity generator sets
+(gensets) and UPS Batteries along with stabilisers etc. which are kept near the base of the tower,
+usually housed in the portable PFBs to protect from damage.
+
+3.2 From the above, what is evident is that to dispense wireless telecom service, the sim cards,
+antenna, BTS along with other equipment play a critical role. The antenna and BTS are intrinsically
+linked. Antenna, tower, BTS, generation set, PFBs typically constitute essential components for
+providing seamless mobile telecommunication service to the consumers/subscribers.
+
+4. The mobile towers are bought and brought at the site either in completely knocked down
+condition (CKD) or semi-knocked down condition (SKD) by the service provider. The tower is
+installed at an appropriate site based on technological viability. It is on this mobile tower that the
+antenna which receives and transmits the electromagnetic signal is hoisted and fixed at an
+appropriate height as may be technically determined. The mobile tower, in turn, is fixed to the
+ground or on the top of a building to provide stability and make it wobble free as the antenna cannot
+function effectively if the same is not kept at a particular height and is not stable and prevented from
+shaking due to wind, rain or any other reason.
+
+5. The MSPs or the infrastructure providers purchase these items from the manufacturers for
+installation at the appropriate locations. It is the excise duties paid on purchase of the mobile towers
+or parts thereof either in CKD or SKD condition and for erection of PFBs which are sought to be
+claimed by MSPs as CENVAT credit. This credit is thereafter utilised for payment as service tax for
+the output service provided by the MSPs to the consumers. This credit availed is the subject matter
+of dispute in these proceedings wherein the two High Courts have given contrary views.
+
+6. In view of the conflicting decisions of the two High Courts, in order to ascertain which of the two
+views is the correct one, it would be appropriate to examine the findings and reasons assigned by
+each of these High Courts for coming to different conclusions.
+
+7. Before we proceed to examine the decisions of the two High Courts, it may be apposite to refer to
+the relevant provisions of the CENVAT Rules as the issues dealt with by the two High Courts and
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+4
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+before us are to be examined in the light of the provisions of the CENVAT Rules.
+
+7.1 Rule 3(1) of the CENVAT Credit Rules, 2004 enables a provider of taxable service to claim
+CENVAT credit paid on any “capital goods” or “input” received in the premises of the service
+provider. As to what are “capital goods” and “input” have been defined under Rule 2(a)(A) and the
+Rule 2(k) of the CENVAT Rules. Consequently, if the mobile towers and prefabricated buildings,
+which are the items in issue here, qualify as “capital goods” or “inputs” received in the premises of
+the mobile service provider, the mobile service provider will be entitled to claim CENVAT credit
+which can be further used for paying service tax for the output services rendered by the mobile
+service provider.
+
+7.2 While Rule 3(1) is the enabling provision for taking CENVAT credit, Rule (4) provides that the
+CENVAT credit in respect of “inputs” may be taken immediately on receipt of inputs in the factory of
+the manufacturer or in the premises of the service provider.
+
+For better clarity, we reproduce the relevant provisions of the CENVAT Rules.
+
+Rule 2(a) (A) defines “capital goods” and Rule 2(k) defines “input” which reads as below: -
+
+Rule 2(a)(A) “2. In these rules, unless the context otherwise requires, -
+
+(a) “capital goods” means:-
+
+(A) the following goods, namely:-
+
+(i) all goods falling under Chapter 82, Chapter 84, Chapter 85, Chapter 90, heading
+No. 68.02 and sub-heading No. 6801.10 of the First Schedule to the Excise Tariff Act;
+
+(ii) pollution control equipment;
+
+(iii) components, spares and accessories of the goods specified at (i) and(ii);
+
+(iv) moulds and dies, jigs and fixtures;
+
+(v) refractories and refractory materials;
+
+(vi) tubes and pipes and fittings thereof; and
+
+(vii) storage tank, used – (1) in the factory of the manufacturer of the final products,
+but does not include any equipment or appliance used in an office; or (2) for
+providing output service.” Rule 2(k) “2(k) “input” means-
+
+(i) all goods, except light diesel oil, high speed diesel oil and motor spirit, commonly
+known as petrol, used in or in relation to the manufacture of final products whether
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+5
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+directly or indirectly and whether contained in the final product or not and includes
+lubricating oils, greases, cutting oils, coolants, accessories of the final products
+cleared along with the final product, goods used as paint, or as packing material, or as
+fuel, or for generation of electricity or steam used in or in relation to manufacture of
+final products or for any other purpose, within the factory of production;
+
+(ii) all goods, except light diesel oil, high speed diesel oil, motor spirit, commonly
+known as petrol and motor vehicles, used for providing any output service.
+
+Explanation 1. - The light diesel oil, high speed diesel oil or motor spirit, commonly known as petrol,
+shall not be treated as an input for any purpose whatsoever.
+
+Explanation 2. - Input include goods used in the manufacture of capital goods which are further
+used in the factory of the manufacturer; Rule 3 is the enabling provision to take CENVAT credit,
+relevant portion of which reads as follows: -
+
+Rule 3 “3.(1) A manufacturer or producer of final products or a provider of taxable
+service shall be allowed to take credit (hereinafter referred to the CENVAT credit) of
+–
+
+(i) the duty of excise specified in the First Schedule to the Tarrif Act, leviable under
+the Excise Act:
+
+……………………………………………….
+
+paid on –
+
+(i) any input or capital goods received in the factory of manufacture of final product
+or premises of the provider of out service on or after the 10th day of September,
+2004; and
+
+(ii) any output service received by the manufacturer of final product or by the
+provider of output services on or after the 10th day of September, 2004.
+
+(2) …………….
+
+              (3)      …………….
+              (4)      ……………..
+              (5)     CENVAT credit may be utilized for payment of -
+                      (a)  any duty of excise of any final product; or
+
+(b) an amount equal to CENVAT credit taken on inputs if such inputs are removed as
+such or after being partially processed; or
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+6
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+(c) an amount equal to the CENVAT credit taken on capital goods if such capital
+goods are removed as such; or
+
+(d) an amount under sub-rule (2) of rule 16 of Central excise Rules, 2002; or
+
+(e) service tax on any output service:
+
+…………………………………………… ……………………………………………” Rule 4 “Condition
+for allowing CENVAT credit.
+
+4. (1) The CENVAT credit in respect of inputs may be taken immediately on receipt of
+the inputs in the factory of the manufacturer or in the premises of the provider of
+output service:
+
+Provided that…………….”
+
+8. Since the Bombay High Court’s decision was rendered on an earlier date i.e. on 26.08.2014, and
+the Delhi High Court rendered its decision subsequently on 31.10.2018, we will first deal with the
+decision of the Bombay High Court.
+
+8.1 Shorn of unnecessary details, we will refer only to the relevant facts by referring to the lead case
+of each of the High Courts as the decisions arrived on examining these lead cases would cover other
+appeals before us.
+
+Decision of the Bombay High Court
+
+9. The proceeding in the lead case of Bharti Airtel (supra) was set into motion by a show cause
+notice dated 25.04.2006 issued by the Commissioner of Excise to M/s. Bharti Airtel Limited, an
+MSP (Assessee) alleging inter alia, that the Assessee had wrongly taken and utilised CENVAT Credit
+on certain goods which do not qualify as “capital goods” within the meaning of CENVAT Credit
+Rules, 2004 and thus, availing such credit was contrary to the definition under Rule 2(a)(A) and
+Rule 4 of the CENVAT Rules. The goods mentioned in the said show cause notice include amongst
+others: (i) towers and parts of towers; (ii) prefabricated building (PFB) used as a shelter for
+protecting transmission devices which are the primary concern of these proceedings.
+
+9.1 In the said show cause notice, it was alleged that a tower, after erection, becomes immovable
+property having been fixed to the earth and thus, cannot be considered to be a “good” and hence was
+not “capital good” within the meaning of the CENVAT Rules. It was alleged that the tower even in
+CKD or SKD condition would fall under Chapter 7308 of the Central Excise Tariff Act, 1985 which
+does not find mention either in clause (i) or clause (ii) of Rule 2(a)(A) or in Rule 2(k) of the CENVAT
+Rules. It was also alleged that tower or parts of the tower cannot be claimed for CENVAT Credit as
+these are not components, spares or accessories of “capital goods” as specified in sub-clauses (i) and
+(ii) of Rule 2(a)(A) within the meaning of Rule 2(a)(A)(iii). Consequently, the Revenue sought not
+only the recovery of wrongfully claimed CENVAT credit but also imposed penalty and interests on
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+7
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+account of misstatement of ineligible claim.
+
+9.2 As regards prefabricated buildings (PFBs), it was alleged that these are used as shelter for
+protecting transmission devices etc. and not for providing output service i.e. telecommunication
+service and hence, cannot be considered “capital goods” within the meaning of Rule 2(a)(A).
+
+Further, it was also alleged that these cannot be said to be “inputs” for providing mobile service
+within the meaning of Rule 2(k).
+
+9.3 The response of the Assessee in respect of the said show cause notice was that towers and parts
+of towers are “capital goods” and “inputs” for which CENVAT credit is admissible for the output
+service rendered by the Assessee.
+
+9.4 In regard to the prefabricated buildings (PFBs), the Assessee explained that these are also
+eligible for CENVAT credit as “capital goods” and in any case as “inputs” for providing mobile
+telecom service to the subscribers. It was contended that the aforesaid articles are covered within
+the meaning of “capital goods” under Rule 2(a)(A) and “inputs” under Rule 2(k).
+
+9.5 It was also contended on behalf of the Assessee that credit in respect of “inputs” can be availed
+immediately on receipt of the goods in the premises of the service provider under Rule 4(1) of the
+CENVAT Rules. Thus, the Assessee was entitled to CENVAT credit the moment these articles were
+received in the premises of the service provider and the Assessee need not wait until these goods are
+actually installed for providing services to the consumers.
+
+9.6 It was contended by the Assessee that tower is a part of the “Base Transceiver Station” (BTS) and
+antenna, all of which form components of an integrated telecom system. It was further contended
+that the tower acts as an accessory of BTS and antenna and without the tower, antenna and BTS
+cannot function properly. Consequently, mobile service cannot be provided by the service provider
+without tower, antenna and BTS. It has been contended that BTS and antenna are covered by
+Chapter 85 under Rule 2(a)(A) and are “capital goods”. Since BTS/antenna are “capital goods”
+under the CENVAT Rules, the tower, being a part of BTS/antenna will be also deemed as “capital
+good” by virtue of sub-clause (iii) of Rule (a)(A). Since these goods, namely tower, BTS and antenna
+are used for providing output telecom service to the subscribers/consumers, the mobile service
+provider will be entitled to claim CENVAT credit not only on BTS and antenna but also on tower,
+being an accessory to “capital goods” in the form of BTS and antenna.
+
+9.7 The Assessee further contended that for effective and uninterrupted transmission and receipt of
+electromagnetic radio signals by the antenna which is installed on the mobile tower, additional
+peripheral equipment such as battery back-up, rectifier, UPS, gensets etc., are also necessary which
+are purchased by the service provider and brought at the site and installed and housed in the
+prefabricated shelters or buildings without which the antenna installed on the mobile tower and
+BTS will become inoperative. Thus, apart from mobile tower, the prefabricated building/shelter,
+where these ancillary items which are indispensable components of the mobile telephone system are
+securely housed, becomes an integral part of the mobile telephone system. It was also contended
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+8
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+that since it is through these items including the prefabricated building that the mobile telephone
+service is provided as an output to the subscribers, these articles, including the prefabricated
+shelters/buildings will be eligible for CENVAT input credit.
+
+9.8 The Revenue rejected the aforesaid pleas of the Assessee by holding that various goods/items
+like tower, antenna, prefabricated building (PFB) etc. have independent and definite functions and
+cannot be treated as a single integrated unit and accordingly, these items/goods cannot be treated as
+capital goods and CENVAT credit cannot be allowed. The Revenue held that only equipment like
+BTS, transmitter, antenna which are used in providing telecom service and which are covered under
+various Chapters under Rule 2(a)(A) are eligible for CENVAT credit vide order dated 19.12.2006 of
+the Commissioner of Excise/Revenue.
+
+9.9 Being aggrieved by the aforesaid order of the Commissioner, the Assessee approached the
+Customs Excise and Service Tax Appellate Tribunal (CESTAT) by filing Appeal No. ST/49/2007
+challenging the order dated 19.12.2006.
+
+9.10 It may be noted that after the Commissioner, Excise/Revenue rejected the plea of the Assessee
+by order dated 19.12.2006, another proceeding was initiated for recovery of penalty which
+culminated in the passing of order dated 23.03.2009 by the Commissioner which was challenged
+before the Tribunal in Appeal No. ST/145/2009.
+
+9.11 The aforesaid two orders passed in the above appeals namely ST/49/2007 and the
+ST/145/2009 were challenged before the CESTAT which were disposed of by a common order dated
+06.01.2012 upholding the view of the Revenue, against which the Assessee preferred appeals before
+the Bombay High Court by filing Central Excise Appeal No. 73 of 2012 and Central Excise Appeal
+No. 119 of 2012 which were finally disposed of by the Bombay High Court on 26.08.2014 vide a
+common judgment upholding the findings recorded by the Tribunal in support of the Revenue to the
+effect that subject items are neither “capital goods” under Rule 2(a)(A) nor “inputs” under Rule 2(k)
+of the CENVAT Rules and hence duties paid on these items were not admissible to the Assessee for
+CENVAT credit. Against the aforesaid decision of the Bombay High Court, the present Appeal No. 73
+of 2012 and Appeal No. 119 of 2012 have been preferred before this Court.
+
+9.12 The Bombay High Court, while examining the aforesaid issues framed the following questions
+of law:-
+
+"1. Whether in the facts and circumstances of the case, the Appellate Tribunal was
+correct and justified in holding that the Appellant was not entitled to credit of duty
+paid on tower parts, green shelter, printers and office chairs?
+
+2. Whether in the facts and circumstances of the case, the Appellate Tribunal was
+correct and justified in holding that the Appellant was not entitled to credit of duty
+paid on tower parts, green shelter on the ground that tower/green shelter is
+"immovable property" and hence, do not qualify as "capital goods" or "inputs" as
+defined under the CENVAT Credit Rules, 2004?
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+9
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+3. Whether in the facts and circumstances of the case, the Appellate Tribunal was
+correct and justified in holding that tower would not qualify as "part" or "component"
+or "accessory" of the capital goods i.e. antenna?"
+
+The Bombay High Court decided all the above questions of law against the Assessee and in favour of
+the Revenue.
+
+9.13 In deciding the abovementioned issues, the Bombay High Court considered the following
+aspects:
+
+(i) That the aforesaid goods are not “capital goods” within the meaning under Rule
+2(a)(A) of the CENVAT Rules, since these are immovable property.
+
+(ii) That these goods are not the components/accessories of antenna within the
+meaning of Rule 2(a)(A)(iii).
+
+(iii) That these goods are not “inputs” within the meaning of Rule 2(k).
+
+In considering the aforesaid aspects the Bombay High Court analysed the relevant provisions of
+CENVAT Rules, as to what amounts to “capital goods” and “input” and also the provisions of Rule 3
+which provides for credit on excise duty paid in discharging liability towards service tax.
+
+9.14 The Bombay High Court, after considering the definition clauses in the CENVAT Rules, took
+the view that the goods in question i.e. tower and parts thereof which are fastened and fixed to the
+earth after their erection become immovable properties and therefore, these cannot be goods and
+hence not “capital goods” within the meaning of the CENVAT Rules. The Bombay High Court also
+took the view that the tower and parts thereof in the CKD or SKD condition, would fall under
+Chapter Heading 7308 of the Central Excise Tariff Act, but the aforesaid heading is not specified
+either in clause (i) or clause (ii) of Rule 2(a)(A) of the CENVAT Rules to be treated as “capital
+goods”.
+
+The Bombay High Court further opined that since these are neither components, spares and
+accessories of goods falling under any of the Chapters or Headings of the Central Excise Tariff
+Schedule as specified in Rule 2(a)(A)(i), the goods in question would not be “capital goods” for the
+purpose of CENVAT credit.
+
+9.15 The Bombay High Court also did not find favour with the contention of the Assessee that tower
+is an accessory of antenna since, without tower, antenna cannot be installed, and consequently,
+antenna cannot function and hence tower should be treated as part or component of antenna.
+
+9.16 In coming to the above stated conclusions, the Bombay High Court considered various
+decisions, cited by both the contesting parties, some of which we will advert to briefly.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+10
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+9.16.1 Before the Bombay High Court, the Assessee in support of the contention that the tower and
+parts thereof and PFBs are not immoveable properties, relied upon the following, inter alia,
+decisions:
+
+(i) CCE V. SLR Steels Ltd., 2011 SCC Online Kar 4345, (2012) 280 ELT 176 (Kant).
+
+(ii) CCE v. ICL Sugars Ltd., 2011 SCC Online Kar 4254, (2011) 271 ELT 360 (Kant).
+
+(iii) CCE v. Sai Sahmita Storage Ltd., (2011) SCC OnLine AP 956, (2011) 23 STR 341
+(AP).
+
+(iv) Bannari Amman Sugars Ltd. v. CCE, 2009 SCC OnLine Kar 814, (2010) 250 ELT
+326 (Kant).
+
+(v) CCE v Hindustan Sanitaryware & Industries, (2002) 7 SCC 515.
+
+(vi) CCE v. N.R.C. Ltd., 2008 SCC OnLine Bom 1894.
+
+(vii) Commr. of Customs v. Rupa and Co. Ltd., (2004) 6 SCC 408.
+
+(viii) Deepak Fertilizers & Petrochemicals Corpn. Ltd. v. C.C.E., Belapur, 2012 SCC
+OnLine CESTAT 3055.
+
+(ix) Commr. of C.Ex., Jaipur v. Rajasthan Spinning & Weaving Mills Ltd., (2010) 12
+SCC 186.
+
+9.16.2 The Bombay High Court, however, held that the aforesaid decisions are not applicable to the
+present case and proceeded to examine the plea of the Assessee that since the antenna is fitted onto
+the tower and shelter is used for providing telecommunication services, they would qualify as
+“inputs” under Rule 2(k) of the CENVAT Credit Rules. In support of this contention, the Assessee
+had placed reliance on the following decisions:-
+
+(i) Industrial Machinery Manufacturers (P) Ltd. v. State of Gujarat, 1963 SCC Online
+Guj 84:(1965) 16 STC 380 (Guj).
+
+(ii) Board of Revenue v. Phelps & Co. (P) Ltd., (1972) 4 SCC 121.
+
+(iii) J.K. Cotton Spg. & Wvg. Mills Co. Ltd. v. STO, AIR 1965 SC 1310.
+
+(iv) Indus Towers Ltd. v. CTO, 2012 SCC Online AP 628: (2012) 52 VST 447 (AP).
+
+(v) Collector of C.E. v. Jay Engineering Works Ltd., 1989 Supp (1) SCC 128.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+11
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+(vi) Banco Products (India) Ltd. v. Commissioner of C. Ex., Vadodara-I, 2009 SCC
+OnLine CESTAT 1043.
+
+(vii) Singh Alloys and Steel Ltd. v. Assistant Collector of Central Excise, 1993 SCC
+OnLine Cal 441 The Bombay High Court, however, did not find the aforesaid
+decisions applicable to the present case.
+
+9.16.3 The Bombay High Court then proceeded to examine the alternate plea of the Assessee that the
+tower is an accessory of antenna and without towers, antenna cannot be installed and hence it
+cannot function, and therefore, tower should be treated as a part or component or accessory of the
+antenna. The contention of the Assessee was that the antenna falls under Chapter 85 of the Schedule
+to the Central Excise Tariff Act and is thus “capital good” within the meaning of Rule 2(a)(A)(i) and
+(ii), therefore, tower being an accessory of antenna, will be eligible for availing CENVAT credit
+under Rule 2(a)(A)(iii).
+
+Some more cases relied upon by the Assessee were as follows.
+
+(i) M/s. Annapurna Carbon Industries Co. v. State of Andhra Pradesh, (1976) 2 SCC 273.
+
+(ii) Commissioner of Sales Tax, Maharashtra State, Bombay v. L.D. Bhave & Sons, 1981 SCC OnLine
+Bom 438.
+
+(ii) Mehra Brothers v. Joint Commercial Officer, (1991) 1 SCC 514. The Bombay High Court on
+examination held these decisions not to be applicable to the present case.
+
+9.17 The Bombay High Court then considered the contentions advanced on behalf of the Revenue
+which were as follows :-
+
+i) Since towers and parts thereof are fixed to the earth, thus, after being installed
+become immovable property and hence, cannot be considered as “goods” and
+consequently cannot be “capital goods”.
+
+ii) The tower in CKD/SKD condition would be classifiable under Chapter Heading
+7308 of the Central Excise Tariff Act.
+
+However, Chapter Heading 7308 is not specified either in Clause (i) or Clause (ii) of Rule 2(a)(A) of
+the CENVAT Rules. Consequently, since tower is not one of the items specified in the Rules as
+“capital goods”, duties paid for parts of the tower cannot be claimed as CENVAT Credit.
+
+iii) Even if it is assumed that CENVAT credit on the parts of the towers would be admissible under
+Clause (iii) of Rule 2(a)(A), there is an explicit condition that the said goods should be components,
+spares and accessories of the goods specified in Clauses (i) and (ii) of Rule 2(a)(A). As tower is not a
+“capital good” under the aforesaid clauses, duty paid on its parts, therefore, is not admissible for
+availing CENVAT credit.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+12
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+iv) Only those articles which go into composition of another article can be considered as
+components or parts of the latter. Though GSM and the network antenna are specified under Tariff
+Chapter Heading 8517, tower on which the antenna is placed is not classified as such under the said
+Tariff chapter Heading 8517. Thus, tower cannot be considered to be a component to the antenna
+within the meaning of Rule 2(a)(A)(iii) as it does not enter into the composition of the antenna.
+
+(v) As regards, availing the CENVAT credit in respect of “input”, it was submitted by the Revenue
+that only a manufacturer can avail such credit and not a service provider.
+
+9.17.1 In support of the contentions, the Revenue cited a number of judgments before the Bombay
+High Court, some of which are referred as below:
+
+(i) Vandana Global Ltd. v. Commissioner of Central Excise, Raipur, 2010 (253) E.L.T.
+440 (Tri.-LB).
+
+(ii) Quality Steel Tubes (P) Ltd. v. Collector of Central Excise, (1995) 2 SCC 372.
+
+(iii) Triveni Engineering & Industries Ltd. & Anr v. Commissioner of Central Excise,
+(2000) 7 SCC 29.
+
+(iv) Mittal Engineering Works (P) Ltd. v. Collector of Central Excise, Meerut (1997) 1
+SCC 203.
+
+[
+
+(v) Commissioner of Central Excise, Indore v. Cethar Vessels Ltd. & Ors., (2009) 17 SCC 551.
+
+(vi) Municipal Corporation of Greater Bombay v. Indian Oil Corporation, 1991 Supp (2) SCC 18.
+
+(vii) Cellular Operators Association of India & Ors. V. Municipal Corporation of Delhi etc., 2011 SCC
+OnLine Del 2003.
+
+(viii) Collector of Central Excise v. Hutchison Max Telecom P. Ltd., 2007 SCC OnLine Bom 702.
+
+(xi) Saraswati Sugar Mills v. Commissioner of central Excise, Delhi-III, (2014) 15 SCC 625).
+
+9.18. The Bombay High Court after analysing the facts of the present case, in the light of the case
+laws cited by the contesting parties and relevant provisions of the CENVAT Rules, rejected the
+contention of the Assessees that they were entitled to credit of the duties paid on these items since
+BTS is a single integrated system consisting of tower, GSM or Microwave Antennas, PFB, isolation
+transformers, electrical equipments, generator sets, feeder cables etc., and these are to be treated as
+“composite system” classified under Chapter Heading 85.25 of the Tariff Act and hence be treated as
+“capital goods” and credit be allowed. The Bombay High Court held that each of the components
+had independent functions and, hence, these cannot be treated and classified together as a single
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+13
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+composite unit.
+
+9.19 The Bombay High Court held that all capital goods are not eligible for credit and only those
+“capital goods” which fall under Rule 2(a)(A)(i) and (ii) relatable to the output services and
+mentioned in the CENVAT Rules will be available for credit. The goods in question namely, the
+tower and parts thereof and PFB cannot be considered to be “capital goods” for the purpose of
+CENVAT credit as they are neither mentioned nor are components, spares or accessories of goods
+falling under any of the Chapters or Headings of the Central Excise Tariff Schedule as specified in
+Rule 2(a)(A). In the CKD or SKD condition, the tower and parts thereof would fall under Chapter
+Heading 7308 of the Central Excise Tariff Act and the said Heading is not specified in sub-clause (i)
+or sub-clause (ii) of Rule 2(a)(A) of CENVAT Rules so as to be capital goods.
+
+9.20 The Bombay High Court held that admittedly, the goods in question do not fall within the
+definition of “capital goods”, since towers and parts thereof, once fastened and fixed to the earth,
+post their erection, become immovable and therefore cannot be classified as goods. Consequently,
+they cannot be considered capital goods as defined under Rule 2(a)(A). Hence, the Assessee cannot
+claim the credit of duty paid on these items. The Court further clarified that only items specified as
+capital goods under Rule 2(a)(A) would be eligible for CENVAT credit.
+
+9.21 The Bombay High Court further held that the goods in question would not be capital goods for
+the purpose of CENVAT Credit as they are neither components, spares or accessories of goods
+falling under any of the chapters or headings of the Central Excise Tariff Schedule as specified in
+sub-clause (i) of the definition of “capital goods”. Thus they are not covered by sub-clause (iii) of
+Rule 2(a)(A).
+
+9.22 The Bombay High Court repelled the contention of the Assessee that tower is an accessory of
+antenna and without tower, antenna cannot be installed and as such the antenna cannot function
+and that the tower should be treated as a part of antenna.
+
+The Bombay High Court held that towers are structures fastened to the earth on which antennas are
+installed and, hence, cannot be considered to be an accessory or part of the antenna.
+
+9.23 The Bombay High Court also held that these items cannot be considered to be “inputs” within
+the meaning of Rule 2(k) of the CENVAT Rules as the Assessee is a service provider and not a
+manufacturer of capital goods.
+
+Further since tower and PFBs are in the nature of immovable, non-marketable and non-excisable
+goods, these cannot be classified as “inputs” to fall within the definition Rule 2(k) of the CENVAT
+Rules.
+
+9.24 In view of the aforesaid conclusions arrived by the Bombay High Court, it was held that the
+subject items are neither “capital goods” under Rule 2(a)(A) nor “inputs” under Rule 2(k) of the
+CENVAT Rules and hence CENVAT credit of the duty paid thereon was not admissible to the
+Assessee.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+14
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+Decision of the Delhi High Court
+
+10. The proceedings before the Delhi High Court arose out of the decision rendered by the CESTAT,
+New Delhi against an Appeal preferred under Section 35E of the Central Excise Act, 1944 and
+Section 83 of the Finance Act, 1944.
+
+10.1. The Assessee, Vodafone, provided cellular telecommunication services and paid service tax as
+applicable. It availed CENVAT credit on excise duty paid on towers, parts thereof and prefabricated
+shelter/building purchased by it for providing the output services. The credit so availed was utilized
+to pay service tax on the output services i.e. cellular mobile services to the customers.
+
+10.2. A show cause notice was issued by the Revenue to the Assessee alleging, inter alia, that
+Vodafone had wrongly claimed and utilized CENVAT Credit in contravention of provisions of Rule
+2(a)(A) of the CENVAT Rules, and was liable for penalty recoverable from it under the provisions of
+Rule 14 of the CENVAT Rules read with Section 73 of the Central Excise Act. According to the
+Revenue, the Assessee had claimed and used credit in respect of goods which do not qualify as
+“capital goods” within the meaning of CENVAT Rules. The plea of the Assessee was that these were
+capital goods within the meaning of Rule 2(a)(A)(i) and (ii) of the CENVAT Rules. Moreover, these
+were “inputs” used for providing output service, hence the benefit of Rule 3 should be available to
+the Assessee.
+
+10.3 It was also the plea of the Assessee that the credit in respect of “inputs” can be availed
+immediately on receipt of the goods in the premises of the service provider under Rule 4(1).
+
+10.4 Further, the plea of the Assessee was that BTS constitutes an integrated system for the purpose
+of providing the benefits of mobile service and is classified under Heading 85.25 of Central Excise
+Tariff Act, 1985 (CETA) which also comprises of the tower as one of its parts, without which the
+output service cannot be provided. Hence, it was contended that the tower and parts thereof are
+parts of eligible “capital good”, i.e. BTS which are used for providing output services. Hence, excise
+duty paid on tower and its parts were eligible for the credit.
+
+10.5 On similar lines, it was contended that a PFB is purchased for housing electrical equipment i.e.
+transformers/batteries/stabilizers, rectifiers etc. which are necessary to enable the antenna to
+provide uninterrupted signals. The aforesaid configuration is supported by a Diesel Generating Set
+(Genset) to be used as a backup source of electricity supply in case of failure of the main power
+supply. It was contended that since BTS as a whole is to be treated as a single integrated system
+which is classified under Chapter Heading 85.25 of CETA, and thus, BTS being an eligible “capital
+good”, the parts thereof i.e., the towers and other accessories are also eligible for credit under Rule
+2(a)(A)(iii).
+
+10.6 The Commissioner, however, did not agree with the aforesaid contention that these items form
+a composite integrated system classifiable under Chapter 85.25 of CETA and held that these goods
+had independent functions and could not be classified as a single unit. It was the view of the
+Revenue that all capital goods are not eligible for credit but only those which are used for providing
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+15
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+output service would be eligible for credit. Thus, only telecom equipment like BTS, transmitters
+which are used for providing telecom services alone would be eligible for input credit and the not the
+other goods as insisted by the Assessee.
+
+10.7 The Assessee appealed to the CESTAT, by which time the Bombay High Court had already
+rendered its decision in Bharti Airtel (supra), in view of which two members of the Bench of the
+CESTAT rendered two different opinions, hence, it was referred to a larger bench of the CESTAT,
+which, however, accepted the contentions of Revenue by holding that goods in question were neither
+“capital goods” and nor “inputs”, leading to the filing of the appeal before the Delhi High Court
+wherein the Delhi High Court decided in favour of the Assessee.
+
+10.8 In deciding the said appeal, the Delhi High Court framed the following questions of law:-
+
+i) Whether the CESTAT was right in concluding that the towers, shelter and
+accessories used by the Appellants for providing telecom are immovable property?
+
+ii) Whether the Appellants are entitled to claim CENVAT credit on the towers, shelter
+as 'accessories' either as capital goods or input goods in terms of Rule 2(a) or 2(k) of
+the CENVAT Rules?
+
+iii) Whether the CESTAT erred in applying nexus test with reference to MS Angles
+and Channels, whereas according to the Appellants what was brought to the site were
+towers, shelter and accessories for providing services?
+
+iv) Whether the Appellants were justified, in terms of Rule 4 (1) of the CENVAT
+Rules, in claiming CENVAT credit of excise duty paid by the manufacturer of towers
+and shelters after receipt of such towers and shelters at their premises (i.e. tower
+sites)?
+
+v) Whether the emergence of immovable structure at an intermediate stage
+(assuming without admitting) is a criterion for denial of CENVAT credit?
+
+10.9 The Delhi High Court examined the aforesaid issues framed, in the following manner:
+
+10.9.1 As regards the first issue as to whether towers, shelters and accessories used by
+the Assessee for providing business support services were immovable property or
+not, the Delhi High Court, after examining the relevant statutory provisions under
+Section 3(36) of the General Clauses Act, 1897 and Section 3 of the Transfer of
+Property Act, 1882, elaborately discussed the concept of immovable property,
+referring to a number of decisions including in Commissioner of Central Excise,
+Ahmedabad v. Solid and Correct Engineering Works & Ors (2010) 5 SCC 122; Sirpur
+Paper Mills Ltd. v. Collector of Central Excise, Hyderabad, (1998) 1 SCC 400; Narne
+Tulaman Manufacturers Pvt. Ltd. Hyderabad v. Collector of Central Excise,
+Hyderabad, 1989 (1) SCC 172; Quality Steel Tubes (P) Ltd. v.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+16
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+Collector of Central Excise, U.P. (1995) 2 SCC 372 1995 and Mittal Engineering Works (P) Ltd. v.
+Collector of Central Excise, Meerut, (1997) 1 SCC 203; Triveni Engineering & Indus Ltd. v
+Commissioner of Central Excise, (2000) 7 SCC 29 and other decisions rendered by the Delhi High
+Court, and applied the permanency test to come to the definitive finding that the entire tower and
+shelter are fabricated in the factories of the respective manufacturers and thereafter, are supplied in
+CKD condition to the mobile service providers. It was held that these are merely fastened to the civil
+foundation to make these wobble free and stable. It was also held that tower and PFB can be
+unbolted and reassembled without any damage and relocated to a new site. These are thus not
+permanently annexed to the earth for the beneficial enjoyment of the land of the owner as observed
+in para 37 of the decision of the Delhi High Court which is reproduced below:
+
+“37. On an application of the above tests to the cases at hand, this Court sees no
+difficulty in holding that the manufacture of the plants in question do not constitute
+annexation and hence cannot be termed as immovable property for the following
+reasons:
+
+(i) The plants in question are not per se immovable property.
+
+(ii) Such plants cannot be said to be "attached to the earth"
+
+within the meaning of that expression as defined in Section 3 of the Transfer of Property Act.
+
+(iii) The fixing of the plants to a foundation is meant only to give stability to the plant and keep its
+operation vibration free.
+
+(iv) The setting up of the plant itself is not intended to be permanent at a given place. The plant can
+be moved and is indeed moved after the road construction or repair project for which it is set up is
+completed.” It was thus held that these are not immovable properties as held by the Tribunal.
+
+10.9.2 Having held that these are not immovable but moveable, the Delhi High Court went on to
+examine the second issue as to whether the Assessee is entitled to claim CENVAT Credit on the
+tower and PFB either as “capital goods” or as “inputs” in terms of Rule 2(a)(A)(i) or Rule 2(k) of the
+CENVAT Rules, and whether these would qualify as accessories within the meaning of Rule
+2(a)(A)(iii).
+
+10.9.3 After analysing the provisions of Rule 2(a)(A) of the CENVAT Rules, the Delhi High Court
+held that for goods to be termed as “capital goods”, the following conditions must be fulfilled:
+
+(i) they must fall, inter alia, under Chapter 85 of the first Schedule to the Central
+Excise Tariff Act (CET) or must be components, parts or spares of such goods falling
+under Chapter 85 of the first Schedule to the CET; and
+
+(ii) must be used for providing output service.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+17
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+10.9.4 The Delhi High Court noted that all components, spares and accessories of such capital goods
+under Chapter 85, would also be treated as capital goods since CENVAT credit is available to
+accessories of capital goods.
+
+10.9.5 As to what amounts to an accessory, the Delhi High Court, after analysis of the relevant rules
+and case laws, took the view that an accessory is an article or device that adds to the convenience or
+effectiveness but is not essential to the main machinery. It was held that tower has to be considered
+as an essential component/part of the “capital good” being BTS and the antenna. The Antenna
+which receives and transmits signals and used for providing output mobile service cannot be
+installed high above the ground without the tower.
+
+10.9.6 It was also held that BTS is an integrated system which includes antenna, and each
+component in the BTS has to work in tandem to provide cellular connectivity to phone users to
+provide efficient services.
+
+10.9.7 Further, it was held that the tower is part of the active infrastructure as the antenna cannot be
+placed at the appropriate altitude to generate uninterrupted frequency without the support of the
+tower and the PFBs are accessories for the placement of various BTS equipment and other items for
+these to remain in a dust-free environment with ambient temperature.
+
+10.9.8 The Delhi High Court then concluded that tower and PFB/Shelter support the BTS for
+effective transmission of mobile signals and therefore, enhance the efficiency of BTS and antenna.
+The towers and shelters, therefore, act as components and parts and in alternative as accessories to
+the BTS and antenna and thus are covered by the definition of “capital goods”.
+
+10.9.9 The Delhi High Court accordingly found fault with the Tribunal in interpreting the definition
+of “capital goods” and observed that the Tribunal merely adopted the ratio laid down in the case of
+Bharti Airtel (supra) of the Bombay High Court without proper analysis. The Delhi High Court was
+of the opinion that the view of the Bombay High Court in the aforesaid case of Bharti Airtel (supra)
+and subsequent decisions was contrary to the settled judicial precedents including in Solid and
+Correct Engineering (supra).
+
+10.9.10 The Delhi High Court further examined as to whether towers and PFBs/shelters would
+qualify as “inputs” under Rule 2(k) of the CENVAT Rules.
+
+10.9.11 After examining the principles laid down in Godfrey Phillips India Ltd. vs. Union of India,
+1985 SCC OnLine Bom 345; Indian Chamber of Commerce vs. Commissioner of Income Tax, WB,
+AIR 1976 SC 348; Union Carbide India Ltd. vs. CCE, Calcutta-1, 1996 SCC OnLine CEGAT 1355;
+Oblum Electrical Industries Pvt. Ltd. vs. Collector of Customs, 1997 (7) SCC 581; J.K. Cotton
+Spinning and Weaving Mills Co. Ltd. vs. Sales Tax Officer, Kanpur, (1965) 1 SCR 900, the Court
+came to the conclusion that the term “all goods” mentioned under Rule 2(k) of the CENVAT Rules
+would cover all the goods used for providing output services except those which are specifically
+excluded in the Rules. It held that the definition is wide enough to bring all goods which are used for
+providing any output service.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+18
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+10.9.12 Applying the functional utility test, the Delhi High Court held that if an item is required for
+providing output service by the service provider on a commercial scale, the test would be satisfied. It
+was held that in the present case, the BTS is an integrated system and each of its components have
+to work in tandem with one another in order to provide the required connectivity to the cellular
+phone users and for efficient telecommunication services and because of these utility and functions,
+these items would be considered to be “inputs” within the ambit of Rule 2(k) of the CENVAT Rules.
+
+10.9.13 As regards the question as to whether the CESTAT erred in applying the nexus test with
+reference to MS angles and channels, the Delhi High Court found fault with the finding of the
+CESTAT that there was no nexus between the input and output service and held that CESTAT had
+erroneously ignored the decision of the Andhra Pradesh High Court in the case of M/s Indus Towers
+Ltd. vs. CTU, Hyderabad, 2012 SCC OnLine AP 628 which held that towers and shelters are indeed
+used and are integrally connected to the rendition of telecommunication services. The channels,
+which according to the Assessee, were in fact towers, shelters and accessories, were bought and
+b r o u g h t   t o   t h e   s i t e   i n   C K D / S K D   c o n d i t i o n   a n d   p u t   t o   u s e   f o r   m o u n t i n g / i n s t a l l i n g
+telecommunication antenna and other equipment for providing output telecom services. However,
+the Revenue contended that these goods were used for assembling towers and shelters and do not
+fall within the definition of Rule 2(a)(A) i.e. “capital goods” and that these are items falling under
+Chapter 73 and the same is not included in Rule 2(a)(A) of the CENVAT Rules.
+
+10.9.14 The Delhi High Court accepted the plea of the Assessee by invoking the nexus test as
+enunciated in Collector of Central Excise vs. Hyundai Unitech Electrical Transmission Ltd. (2015) 17
+SCC 181 and took the view that MS angles and channels have gone into making towers and shelters
+which in turn are used for providing infra-support services/telecom services and hence are
+amenable to CENVAT credit.
+
+10.9.15 Coming to the fourth question framed by the Delhi High Court as to whether the Assessee
+could claim CENVAT credit on receipt of such towers and shelters at their premises, which the
+CESTAT had denied on the ground that upon installation, towers and shelters become immovable
+property and hence are not eligible for CENVAT credit as “inputs”. The Delhi High Court, however,
+accepted the plea of the Assessee that Rule 4(1) of the CENVAT Rules allows credit on inputs on
+receipt in the premises of the output service provider.
+
+10.9.16 The Delhi High Court ruled in favour of the Assessee that it is entitled to the credit
+immediately on receiving the inputs irrespective of the subsequent treatment i.e. by way of
+fastening, bolting etc. whether or not it results into an immovable property, by holding that the
+subsequent treatment of capital goods or inputs after receipt by the provider of output service is not
+relevant for the purpose of availing credit in terms of Rule 3(1) of the CENVAT Rules. According to
+the Delhi High Court, the only condition which is required to be satisfied is that the said goods must
+be used for providing the output services, which was not in dispute.
+
+10.9.17 The Delhi High Court accepted the plea of the Assessee that there was no break in the chain
+linking availability and actual availing of CENVAT credit. The towers and shelters were purchased in
+CKD condition and not as mere angles, channels, beams or bars and there is neither loss of identity
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+19
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+of goods, nor emergence of a new entity with fresh identity with a distinct character, name or use
+and thus, there is no transformation to or new value addition to the parts assembled as towers and
+shelters. The identity of the inputs received (as parts of tower) and the inputs installed (as tower on
+assembling the parts thereof) are one and the same and in the absence of any manufacturing
+operation, there is no breakage of the credit chain.
+
+10.9.18 The Delhi High Court on analysis of the case laws cited on behalf of the respective parties
+held that the definition of “input” does not contain any condition relating to emergence of
+immovable property rendering it ineligible for taking credit and eligibility of credit must be
+determined at the time of receipt of goods in terms of Rule 4(1) of the CENVAT Rules and as such
+credit cannot be denied.
+
+10.9.19 The Delhi High Court held that denial of CENVAT credit to the Assessee on the premise that
+the towers, on erection, resulted in an immovable property is erroneous and contrary to the
+judgment of this Court in the case of Solid and Correct Engineering (supra). The towers which are
+received in CKD condition are re-assembled and erected at the site, subsequently giving rise to a
+structure that remains immovable so long it is used for the reason of safety, stability and commercial
+reasons of use.
+
+10.9.20 The Delhi High Court clarified that entitlement of CENVAT credit is determined at the time
+of receipt of the goods and the fact that such goods are later on fixed/fastened to the earth for use
+would not make them non-excisable commodities when received.
+
+10.9.21 As regards the fifth question as to whether emergence of immovable structure at an
+intermediate stage will be a ground for denial of CENVAT credit, the Delhi High Court held that in
+view of the decision in Solid and Correct Engineering (supra), even if, in the intermediate stage, an
+immovable structure emerges, it is of no consequence in as much as entitlement of CENVAT credit
+is to be determined at the time of the receipt of goods and not at a later stage. It was held that if the
+goods that are received qualify as “inputs” or “capital goods”, the fact that they are later
+fixed/fastened to the earth for use would not make them non-excisable commodity when received.
+
+10.9.22 The Delhi High Court also held that in the present case the tower and PFB shelters are not
+immovable property for in the event of requirement of relocation, these towers and PFB shelters can
+be removed and shifted to another location.
+
+10.9.23 In the light of the aforesaid findings, the Delhi High Court held that the Assessees are
+entitled to seek CENVAT credit on the towers and pre-fabricated buildings (PFBs) and such other
+accessories.
+
+10.10 What emerges from the above discussion is that the Bombay High Court and Delhi High Court
+differed fundamentally on the issue as to whether towers, parts thereof and pre-fabricated buildings,
+with which we are primarily concerned in the present proceedings, are “capital goods” within the
+meaning of CENVAT Credit Rules, 2004 so as to enable the Assessees to claim CENVAT credit on
+the duty paid on the purchase of these.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+20
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+10.10.1 The other area of disagreement is that even if these items themselves may not qualify as
+“capital goods”, but if they are found to be accessories or components of “capital goods”, they would
+be covered by the deeming provision of “capital goods” under Rule 2(a)(A)(iii).
+
+10.10.2 Further, another aspect where the two High Courts differed is whether these goods can be
+considered as “inputs” for the “output” of services rendered by the service providers for if these are
+treated as “inputs”, the mobile service providers can claim CENVAT credit for the output services
+i.e. telecom services provided by them.
+
+10.10.3 While the Bombay High Court held that towers and the parts thereof and prefabricated
+buildings are not “capital goods” since these are immovable property and also cannot be said to be
+“inputs”, thus, the Assessee is not entitled to claim CENVAT credit, whereas, the Delhi High Court
+took the contrary view that towers, parts thereof and pre- fabricated buildings are not immovable
+property and these can be considered as “capital goods” as defined under the CENVAT Rules. Since
+these are “capital goods”, these are liable to excise duty, of which the service provider can take
+CENVAT credit. The Delhi High Court also held that these goods can be said to be “inputs” for
+providing output service and hence eligible for CENVAT credit.
+
+Analysis by this Court :
+
+11. From the above discussion, what is evident is that the entire controversy revolves around the
+core issue as to whether the mobile service providers (MSPs) are entitled to claim CENVAT credit on
+excise duties paid on mobile tower, its parts thereof and prefabricated buildings (PFBs) in terms of
+the Rule 3 of the CENVAT Rules and whether the credit so claimed can be used to pay service tax for
+the output services rendered by the MSPs.
+
+11.1 As discussed above, Rule 3(1) of the CENVAT Rules enables a provider of taxable service to
+claim CENVAT credit on duties paid on any “capital goods” or “input” received in the premises of
+the service provider. Thus, if the mobile towers and prefabricated buildings, which are the items in
+issue here, qualify as “capital goods” or “inputs” received in the premises of the mobile service
+provider, the mobile service provider will be entitled to claim CENVAT credit which can be further
+used for paying service tax for the output services rendered by the mobile service provider.
+
+11.2 In the light of the provisions of the CENVAT Rules, if it is held that towers and/or parts thereof
+and prefabricated buildings (PFBs) are “capital goods” or “inputs” used for providing output service
+within the meaning of the aforesaid CENVAT Rules, then CENVAT credit can be claimed on these
+items.
+
+11.2.1 For this we will first examine the attributes of “capital goods” for if these items are to be
+considered “capital goods”, these must first have the traits of “goods”.
+
+11.2.2 We, therefore, now focus our attention in understanding what is meant by “goods”, for if these
+items do not qualify as goods then these obviously cannot be “capital goods” and the benefit of
+CENVAT credit under the Rules will not be available, since such credit is available only in respect of
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+21
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+“goods”.
+
+11.2.3 The word “goods” has not been defined in the CENVAT Rules. Hence, we will refer to other
+statutes to understand its meaning. The term “goods” has been defined in an expansive manner, in
+the widest amplitude, under Article 366 (12) of the Constitution of India so as to include all
+materials, commodities and articles.
+
+11.2.4 However, since this definition is too broad in nature, it may not help us in our enquiry to
+determine whether the items in consideration are “goods” or not, for the purpose of CENVAT Rules.
+
+11.2.5 “Goods” has not been defined in the Central Excise Act, 1944. We, therefore, look into other
+statutes. The term “goods” has been defined under various statutes some of which may be
+mentioned as below.
+
+(i) Sale of Goods Act, 1930 Section 2(7):
+
+“goods” means every kind of movable property other than actionable claim and
+money; and includes stocks, shares, growing crops, grass, and things attached to
+forming part of the land which are agreed to be severed before sale or under contract
+of sale.
+
+(cid:12)(ii)    The Central Goods And Services Tax Act, 2017
+Section 2(52):
+
+“goods” means every kind of movable property other than money and securities but
+includes actionable claim, growing crops, grass and things attached to or forming
+part of the land which are agreed to be severed before supply or under a contract of
+supply.
+
+(iii) The Central Sales Tax Act, 1956 Section 2(d):
+
+"goods" includes all materials, articles, commodities and all other kinds of movable
+property, but does not include [newspapers] actionable claims, stocks, shares and
+securities.
+
+(iv)    The Customs Act, 1962
+Section 2(22):
+
+goods includes—(a) vessels, aircrafts and vehicles; (b) stores; (c) baggage; (d)
+currency and negotiable instruments; and (e) any other kind of movable property.
+
+(v)     Competition Act, 2002
+Section 2(i):
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+22
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+“goods” means goods as defined in the Sale of Goods Act, 1930 (8 of 1930) and
+includes— (A) products manufactured, processed or mined; (B) debentures, stocks
+and shares after allotment; (C) in relation to goods supplied, distributed or controlled
+in India, goods imported into India.
+
+(vi)    The Motor Vehicles Act, 1988
+Section 2(13):
+
+“goods” includes live-stock, and anything (other than equipment ordinarily used with
+the vehicle) carried by a vehicle except living persons, but does not include luggage or
+personal effects carried in a motor car or in a trailer attached to a motor car or the
+personal luggage of passengers travelling in the vehicle.
+
+         (vii) The Micro, Small             And     Medium       Enterprises
+         Development Act, 2006
+Section 2(f):
+
+“goods” means every kind of movable property other than actionable claims and
+money.
+
+(viii) The Bureau of Indian Standards Act, 2016 Section 2(14):
+
+"goods" includes all kinds of movable properties under the Sale of Goods Act, 1930,
+other than actionable claims, money, stocks and shares;
+
+(ix) Consumer Protection Act, 2019 Section 2(21):
+
+"goods" means every kind of movable property and includes "food" as defined in
+clause (j) of sub-section (1) of section 3 of the Food Safety and Standards Act, 2006
+(34 of 2006).
+
+11.2.6 From the above, it appears that the definition of “goods” under the Sales of
+Goods Act, 1930 seems to be the basis of the term “goods” in other Statutes. Hence,
+we would primarily rely on the definition given in the Sale of Goods Act.
+
+11.2.7 The items in consideration viz., towers and prefabricated buildings are neither
+actionable claim nor money, nor do they come within the inclusive clause of the
+definition, viz., stocks, shares, growing crops, grass, and things attached to forming
+part of the land which are agreed to be severed before sale or under contract of sale.
+
+11.2.8 If these items are movable properties, these will be “goods”, in which case our
+further enquiry will be to examine whether these belong to the category of “capital
+goods” as enumerated in Rule 2(a)(A) only under which the Assessees will be entitled
+to claim CENVAT credit under the Rules.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+23
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+11.2.9 On the other hand, if these are held to be immovable property, as the Revenue
+insists and also as has been held by the Bombay High Court, we may not be required
+to proceed further in the enquiry with reference to Rule 2(a)(A) for claim of CENVAT
+credit on “capital goods”.
+
+11.3 Thus, the focus of our inquiry now will be to ascertain whether these items
+namely, towers, its parts thereof and prefabricated buildings are movable or
+immovable properties.
+
+11.3.1 As to what is a movable property has been defined and can be understood from
+the expansive meaning assigned to it under Section 3(36) of the General Clauses Act,
+1897 which states that, “movable property shall mean property of every description
+except immovable property”.
+
+11.3.2 The aforesaid definition categorically indicates that movable and immovable
+properties are mutually exclusive. Thus, if it is found that these items are not
+immovable properties, these invariably can be treated as movable properties under
+Section 3(36) of the General Clause Act and thus will be “goods” within the meaning
+of Section 2(7) of the Sale of Goods Act, 1930 and hence may qualify as “capital
+goods” within the meaning of Rule 2(a)(A) subject to fulfilling other conditions
+mentioned therein.
+
+11.3.3 As to what is immovable property has been explained under Section 3 of the
+Transfer of Property Act, 1882 which specifies that “immovable property does not
+include standing timber, growing crops or grass”.
+
+11.3.4 It has been also defined under Section 3(26) of the General Clauses Act, though
+not exhaustively, but in an inclusive manner by providing that “immovable property”
+shall include “land, benefits to arise out of land and things attached to the earth, or
+permanently fastened to anything attached to the earth”.
+
+11.3.5 Therefore, we have to consider whether these items are attached to the earth or
+are permanently fastened to anything attached to the earth, for if these are found to
+be so, these will be immovable properties and hence cannot be “goods” and
+consequently, cannot be “capital goods” within the scope of the CENVAT Rules.
+
+11.4 As to what amounts to “attached to earth” as mentioned under Section 3(26) of
+the General Clauses Act, has been explained under Section 3 of the Transfer of
+Property Act, 1882 to mean as rooted in the earth, as in the case of trees and shrubs;
+imbedded in the earth, as in the case of walls or buildings; or attached to what is so
+imbedded for the permanent beneficial enjoyment of that to which it is attached.
+
+11.5 For easy reference, the aforesaid definition clauses of the Transfer of Property
+Act, 1882 and the General Clauses Act, 1897 as may be relevant are reproduced
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+24
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+below.
+
+Section 3(36) of the General Clauses Act.
+
+“movable property” shall mean property of every description, except immovable
+property;
+
+Section 3(26) of the General Clauses Act.
+
+“immovable property” shall include land, benefits to arise out of land, and things
+attached to the earth, or permanently fastened to anything attached to the earth.
+
+Section 3 of the Transfer of Property Act.
+
+“immovable property” does not include standing timber, growing crops or grass.
+
+Under Section 3 of the Transfer of Properties Act, “attached to the earth” means:
+
+(a) rooted in the earth, as in the case of trees and shrubs;
+
+(b) imbedded in the earth, as in the case of walls or buildings; or
+
+(c) attached to what is so imbedded for the permanent beneficial enjoyment of that to
+which it is attached.
+
+11.6 From the above, it is now clear that if these items, namely towers and parts thereof and
+prefabricated buildings/shelters are considered to be “goods”, these cannot be immovable
+properties. Conversely, if these are not rooted in the earth, nor imbedded in the earth nor attached
+to what is so imbedded for the permanent beneficial enjoyment of that to which it is attached, these
+cannot be immovable properties and can qualify to be movable properties and hence, “goods”.
+
+11.6.1 Since, towers and parts thereof and prefabricated buildings/shelters apparently appear to be
+fixed on the earth or building, these seem to be immovable properties at the first blush. However,
+the first appearance may not be decisive to indicate the real character of these items, whether these
+are immovable or movable properties, as demonstrated by the conflicting views of the two High
+Courts on this issue. Hence, we need to delve further to arrive at the correct position in law on this
+issue.
+
+11.7 In order to determine whether any property is movable or immovable, this Court, in the light of
+the statutory provisions has applied certain principles. It has also been noted that such
+determination may be done not based on a single test but after applying several criteria on the facts
+of each case.
+
+We will now refer to some of the decisions relied upon by the contesting parts.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+25
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+11.7.1 This Court, in Solid and Correct Engineering (supra), applied the intendment and
+functionality test to determine whether any article is movable or immovable. The issue in the said
+case was whether the asphalt drum/hot mix plant, though apparently appearing to be immovable
+and fixed to the structure embedded to the earth, can be considered to be movable. After examining
+the expression “attached to the earth” as mentioned in Section 3 of the Transfer of Property Act, the
+observations of this Court were as follows:
+
+“25. It is evident from the above that the expression “attached to the earth” has three
+distinct dimensions viz. (a) rooted in the earth as in the case of trees and shrubs, (b)
+imbedded in the earth as in the case of walls or buildings, or (c) attached to what is
+imbedded for the permanent beneficial enjoyment of that to which it is attached.
+Attachment of the plant in question with the help of nuts and bolts to a foundation
+not more than 1½ ft deep intended to provide stability to the working of the plant
+and prevent vibration/wobble free operation does not qualify for being described as
+attached to the earth under any one of the three clauses extracted above. That is
+because attachment of the plant to the foundation is not comparable or synonymous
+to trees and shrubs rooted in earth. It is also not synonymous to imbedding in earth
+of the plant as in the case of walls and buildings, for the obvious reason that a
+building imbedded in the earth is permanent and cannot be detached without
+demolition. Imbedding of a wall in the earth is also in no way comparable to
+attachment of a plant to a foundation meant only to provide stability to the plant
+especially because the attachment is not permanent and what is attached can be
+easily detached from the foundation. So also the attachment of the plant to the
+foundation at which it rests does not fall in the third category, for an attachment to
+fall in that category it must be for permanent beneficial enjoyment of that to which
+the plant is attached. It is nobody's case that the attachment of the plant to the
+foundation is meant for permanent beneficial enjoyment of either the foundation or
+the land in which the same is imbedded.” 11.7.2 This Court found that the machine
+was fixed and attached to the earth primarily for the purpose of providing
+wobble-free operation of the machine and held that there was no necessary intent to
+make the same permanent, thus, it does not amount to permanently fixing,
+embedding as attachment in the sense that would make the machine a part and
+parcel of the earth permanently, and held as follows:
+
+“43. It is noteworthy that in none of the cases relied upon by the Assessee referred to
+above was there any element of installation of the machine for a given period of time
+as is the position in the instant case. The machines in question were by their very
+nature intended to be fixed permanently to the structures which were embedded in
+the earth. The structures were also custom made for the fixing of such machines
+without which the same could not become functional. The machines thus becoming a
+part and parcel of the structures in which they were fitted were no longer movable
+goods. It was in those peculiar circumstances that the installation and erection of
+machines at site were held to be by this Court, to be immovable property that ceased
+to remain movable or marketable as they were at the time of their purchase. Once
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+26
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+such a machine is fixed, embedded or assimilated in a permanent structure, the
+movable character of the machine becomes extinct. The same cannot thereafter be
+treated as movable so as to be dutiable under the Excise Act. But cases in which there
+is no assimilation of the machine with the structure permanently, would stand on a
+different footing.
+
+44. In the instant case all that has been said by the assessee is that the machine is
+fixed by nuts and bolts to a foundation not because the intention was to permanently
+attach it to the earth but because a foundation was necessary to provide a wobble free
+operation to the machine. An attachment of this kind without the necessary intent of
+making the same permanent cannot, in our opinion, constitute permanent fixing
+embedding or attachment in the sense that would make the machine a part and
+parcel of the earth permanently. In that view of the matter we see no difficulty in
+holding that the plants in question were not immovable property so as to be immune
+from the levy of excise duty.” 11.7.3 While deciding the said issue, the Court referred
+to Triveni Engineering (supra), Sirpur Paper Mills Ltd. (supra), Quality Steel Tubes
+(P) Ltd. (supra), Mittal Engg. Works (P) Ptd. (supra), T.T.G Industries Ltd. Vs. CCE
+(2004) 4 SCC 751 and examined various characteristics of the property including
+marketability and lack of permanency to determine whether the property in issue was
+movable or immovable.
+
+11.7.4 In Triveni Engineering (supra), this Court applied the marketability test, in
+which it took the view that if the goods in question are capable of being taken into the
+market and sold, the same cannot be treated to be as immovable but movable
+property.
+
+This Court observed that “marketability” itself indicates movability of the property in issue.
+
+11.7.5 This Court was of the view and thus held that if the goods that were fixed to the earth were
+capable of being dismantled without doing any damage or change in the nature of goods, it would
+indicate the “absence of permanency” and such a good cannot be deemed to be immovable property,
+as held in the following paragraph:
+
+“20. Further, in the instant case, it is a common ground that a turbo alternator comes
+into existence only when a steam turbine and alternator with all their accessories are
+fixed at the site and only then it is known by a name different from the names of its
+components in the market. The Tribunal recorded the finding that fixing of steam
+turbine and the alternator is necessitated by the need to make them functionally
+effective to reduce vibration and to minimise disturbance to the coupling
+arrangements and other connections with the related equipments. It also noted that
+removal of the machinery does not involve any dismantling of the turbine and
+alternator in the sense of pulling them down or taking them to pieces but only
+undoing the foundation bolts arrangement by which they are fixed to the platform
+and uncoupling of the two units and, therefore, the turbo alternator did not answer
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+27
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+the test of permanency laid down by this Court in the case of Municipal Corporation
+of Greater Bombay. In our view, the findings recorded do not justify the conclusion of
+the Tribunal inasmuch as on removal, a turbo alternator gets dismantled into its
+components - steam turbine and alternator. It appears that the Tribunal did not keep
+in mind the distinction between a turbo alternator and its components. Thus, in our
+view, the test of permanency fails.” As regards marketability it was held as follows: -
+
+“21. The marketability test requires that the goods as such should be in a position to
+be taken to the market and sold and from the above findings it follows that to take it
+to the market the turbo alternator has to be separated into its components — turbine
+and the other alternator — but then it would not remain turbo alternator, therefore,
+the test is incorrectly applied. Though, there is no finding that without fixing to the
+platform such turbo alternator would not be functional, it is obvious that when
+without fixing, it does not come into being, it can hardly be functional.” 11.7.6 In the
+case of Sirpur Paper Mills Ltd. (supra), this Court again applied the test of
+marketability. The issue which arose for consideration in the said case was whether
+paper machines assembled at site were liable for duties under the Excise Act. It was
+the plea of the Assessee that since the machine was embedded in concrete base, it
+became an immovable property though embedding was for providing a wobble-free
+operation of the machine. This Court rejected the plea and held that merely because
+the machine was attached to the earth for efficient working and wobble- free
+operation, it did not per se render the said property immovable since the said
+machine can be sold in the market. It was then observed as follows:
+
+“5. Apart from this finding of fact made by the Tribunal, the point advanced on behalf
+of the appellant, that whatever is embedded in earth must be treated as immovable
+property is basically not sound. For example, a factory owner or a house-holder may
+purchase a water pump and fix it on a cement base for operational efficiency and also
+for security. That will not make the water pump an item of immovable property.
+Some of the component of water pump may even be assembled on site. That too will
+not make any difference to the principle. The test is whether the paper making
+machine can be sold in the market. The Tribunal has found as a fact that it can be
+sold. In view of that finding, we are unable to uphold the contention of the appellant
+that the machine must be treated as a part of the immovable property of the
+company.
+
+Just because a plant and machinery are fixed in the earth for better functioning, it
+does not automatically become an immovable property.” 11.7.7 In Quality Steel Tubes
+(P) Ltd. (supra), this Court was examining whether “the tube mill and welding head”
+erected and installed by the Assessee for manufacture of tubes and pipes out of duty-
+
+paid raw material were exigible to duty. By applying the marketability test, this Court rejected the
+plea of the Assessee by holding that these were erected and installed in the premises and embedded
+in the earth and these are no longer movable goods that could be brought to market for sale since
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+28
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+these ceased to be goods within the meaning of Section 3 of the General Clauses Act. It was thus held
+that, "5. ………………..The basic test, therefore, of levying duty under the Act is twofold. One, that any
+article, must be a goods and second, that it should be marketable or capable of being brought to
+market. Goods which are attached to the earth and thus become immoveable and do not satisfy the
+test of being goods within the meaning of the Act nor it can be said to be capable of being brought to
+the market for being bought and sold. Therefore, both the tests, as explained by this Court, were not
+satisfied in the case of appellant as the tube mill or welding head having been erected and installed
+in the premises and embedded to earth they ceased to be goods within meaning of Section 3 of the
+Act".
+
+11.7.8 The test of marketability was also applied in the case of Mittal Engg. Works (P) Ptd. (supra).
+
+11.7.9 Much reliance was placed by the Revenue on the T.T.G. Industries Ltd. (supra) in which this
+Court, by relying on the permanency test as also applied in the Municipal Corporation of Greater
+Bombay (supra) held that if the article cannot be shifted without first being dismantled and
+thereafter re-erected at another site, it cannot be considered to be a movable property but an
+immovable property.
+
+In the aforesaid case, the machinery was erected at the site on a specially made concrete floor at a
+very high level of 25 feet from the ground level and the sheer weight, even without being fastened by
+nuts and bolts, rendered it incapable of being shifted to another site without dismantling and
+re-erecting. Given these facts, this Court held that it can be said to be immovable property.
+
+In Municipal Corporation of Greater Bombay (supra) this Court observed as follows:
+
+“32. The tanks, though, are resting on earth on their own weight without being fixed
+with nuts and bolts, they have permanently been erected without being shifted from
+placed to place. Permanency is the test. The chattel whether is movable to another
+place of use in the same position or liable to be dismantled and re-erected at the
+latter place? If the answer is yes to the former it must be a movable property and
+thereby it must be held that it is not attached to the earth. If the answer is yes to the
+latter it is attached to the earth.” 11.7.10 In T.T.G. Industries Ltd. (supra), this Court
+also placed reliance on Quality Steel Tubes and Mittal Engineering works Ltd.
+(supra).
+
+This Court in T.T.G. Industries Ltd. (supra) held as follows:
+
+“27. Keeping in view the principles laid down in the judgments noticed above, and
+having regard to the facts of this case, we have no doubt in our mind that the
+mudguns and the drilling machines erected at site by the appellant on a specially
+made concrete platform at a level of 25 feet above the ground on a base plate secured
+to the concrete platform, brought into existence not excisable goods but immovable
+property which could not be shifted without first dismantling it and then re- erecting
+it at another site. We have earlier noticed the processes involved and the manner in
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+29
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+which the equipments were assembled and erected. We have also noticed the volume
+of the machines concerned and their weight. Taking all these facts into consideration
+and having regard to the nature of structure erected for basing these machines, we
+are satisfied that the judicial member of the CEGAT was right in reaching the
+conclusion that what ultimately emerged as a result of processes undertaken and
+erections done cannot be described as "goods" within the meaning of the Excise Act
+and exigible to excise duty. We find considerable similarity of facts of the case in
+hand and the facts in Mittal Engineering and Quality Steel Tubes (supra) and the
+principles underlying those decisions must apply to the facts of the case in hand. It
+cannot be disputed that such drilling machines and mudguns are not equipments
+which are usually shifted from one place to another, nor it is practicable to shift them
+frequently. Counsel for the appellant submitted before us that once they are erected
+and assembled they continue to operate from where they are positioned till such time
+as they are worn out or discarded. According to him they really become a component
+of the plant and machinery because without their aid a blast furnace cannot operate.
+It is not necessary for us to express any opinion as to whether the mudgun and the
+drilling machines are really a component of the plant and machinery of the steel
+plant, but we are satisfied that having regard to the manner in which these machines
+are erected and installed upon concrete structures, they do not answer the
+description of "goods" within the meaning of the term in the Excise Act.” It may be
+noted that while this Court invoked permanency test in T.T.G. Industries Ltd.
+(supra), what was also observed was that if the machinery cannot be shifted and
+re-erected without dismantling, it would show that it is an immovable property.
+
+11.7.11 In the present case, while mobile tower cannot be shifted to another location
+without dismantling it, it is to be noted that mobile tower itself was bought and
+brought in a completely knocked-down (CKD) or semi-knocked-down (SKD)
+condition and it was erected and installed at the site after assembling the parts. If the
+said mobile tower is to be shifted to another location, it obviously has to be
+dismantled and restored to its SKD or CKD condition and thereafter re-erected,
+which however, would not entail any damage to it. Thus, the present case of the
+mobile towers differs from the factual matrix of T.T.G. Industries Ltd. (supra).
+
+11.7.12 Before us, the Revenue has also placed reliance on the Commissioner of
+Central Excise Versus Virdi Brothers and Ors., (2007) 15 SCC 24 and CCE Versus
+Globus Store Pvt. Ltd., (2011) 15 SCC 200, in which this Court relied on a Circular
+issued by the Central Board of Excise and Custom, Department of Revenue, Ministry
+of Finance, Government of India under No. 58/1/2002-CX dated 15.01.2002 in
+which it was mentioned under Clause (e) that, “(e) If items assembled or erected at
+site and attached by foundation to earth cannot be dismantled without substantial
+damage to its components and thus cannot be reassembled, then the items would not
+be considered as movable and will, therefore, not be excisable goods.” 11.7.13 In the
+present case, as discussed above, the tower has been bought and brought to the site in
+a semi or completely knocked-down condition and assembled and if the same is
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+30
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+required to be re-located to another location it can be dismantled in its original
+semi-knocked-down or completely knocked down condition without causing any
+damage to the tower itself and as such the Clause (e) of the Circular referred to the
+above cannot be applied.
+
+11.7.14 It may be also noted that the CESTAT, in its order observed that the Revenue does not
+contest or dispute the fact that wherever BTS/ BSC site has to be relocated, all the equipment like
+BTS/BSC, microwave, UPS, tower, antenna etc., are required to be dismantled as individual
+components and then they are required to be moved from the existing site and reassembled at a new
+site. The CESTAT, however, observed that this involves damage to certain parts like cable trays etc.
+which are embedded/fixed to the civil structure as also the BTS microwave equipment itself. Thus,
+all the components of the newly set up structure cannot be shifted as an illustration to the room
+housing the equipment. Apart from it, the CESTAT was of the opinion that the goods cannot be re-
+erected as in the previous place as requirement of each place is different. The structures cannot be
+shifted without damage. Apart from that various items and components are embedded in the earth.
+Therefore, the structure would not be considered as movable.
+
+11.7.15 Therefore, the finding of the CESTAT is that even though the tower can be relocated to
+another site, it would entail damages to it.
+
+11.7.16 There can no dispute that if the newly set up BTS/BSC is relocated to another site it may
+entail certain damages. However, what is important to be noted is that the damage is qua the
+BTS/BSC or cables connecting the various components, but not the tower itself or PFB with which
+we are concerned. If the tower or the PFB can be dismantled and relocated in another site without
+causing any damage to either the tower or PFB, the mobility or the marketability of these items is
+retained. Thus, as far as the tower and PFBs are concerned, these exhibit the character of a movable
+property.
+
+11.8 In view of the above decisions, we are of the opinion that merely because certain articles are
+attached to the earth, it does not ipso facto render these immovable properties. If such attachment
+to earth is not intended to be permanent but for providing support to the goods concerned and make
+their functioning more effective, and if such items can still be dismantled without any damage or
+without bringing any change in the nature of the goods and can be moved to market and sold, such
+goods cannot be considered immovable.
+
+11.8.1 We may summarise some of the principles applied by the Courts in the decisions referred to
+above to determine the nature of the property as follows:
+
+1. Nature of annexation: This test ascertains how firmly a property is attached to the
+earth. If the property is so attached that it cannot be removed or relocated without
+causing damage to it, it is an indication that it is immovable.
+
+2. Object of annexation: If the attachment is for the permanent beneficial enjoyment
+of the land, the property is to be classified as immovable. Conversely, if the
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+31
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+attachment is merely to facilitate the use of the item itself, it is to be treated as
+movable, even if the attachment is to an immovable property.
+
+3. Intendment of the parties: The intention behind the attachment, whether express
+or implied, can be determinative of the nature of the property. If the parties intend
+that the property in issue is for permanent addition to the immovable property, it will
+be treated as immovable. If the attachment is not meant to be permanent, it indicates
+that it is movable.
+
+4. Functionality Test: If the article is fixed to the ground to enhance the operational
+efficacy of the article and for making it stable and wobble free, it is an indication that
+such fixation is for the benefit of the article, such the property is movable.
+
+5. Permanency Test: If the property can be dismantled and relocated without any
+damage, the attachment cannot be said to be permanent but temporary and it can be
+considered to be movable.
+
+6. Marketability Test: If the property, even if attached to the earth or to an
+immovable property, can be removed and sold in the market, it can be said to be
+movable.
+
+11.9 The plea of the Revenue is that the items in issue are attached to the earth, fixed
+permanently and not marketable, hence immovable, as also accepted by the Bombay
+High Court.
+
+11.9.1 What is “attached to the earth” to make it an immovable property would have
+to possess any of the three attributes as specified under Section 3 of the Transfer of
+Property of Act, namely,
+
+(a) rooted in the earth, as in the case of trees and shrubs;
+
+(b) imbedded in the earth, as in the case of walls or buildings; or
+
+(c) attached to what is so imbedded for the permanent beneficial enjoyment of that to which it is
+attached:
+
+11.9.2 The present items in issue are not the ones which are rooted in the earth as in
+the case of trees and shrubs [sub-clause (a)]. Therefore, the next consideration will be
+whether these are embedded in the earth, as in the case of walls or buildings
+[sub-clause (b)], or whether these are attached to what is so embedded for the
+permanent beneficial enjoyment of that to which these are attached to the earth
+[sub-clause
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+32
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+(c)]. The attachment of tower to the earth/building, however, does not partake of the
+character of walls or buildings imbedded in the earth.
+
+11.9.3 It is on the tower that the antennas are mounted and affixed at proper height, to make these
+stable. Since the antennas are used for receiving and sending radio signals, these need to be attached
+at a certain height, and these are required to be stable and wobble-free. It is not in dispute that the
+mobile tower is attached and fastened to the earth or building to provide stability to the same and to
+make antennas unshakable due to wind, rain or any other external force(s).
+
+11.9.4 The mobile tower is bought and brought in the CKD or SKD form from the manufacturers and
+same is installed at the site by assembling the parts which also consists of MS angles and channels.
+The tower, after being assembled and fixed to the earth or a building can be dismantled without any
+change in the nature of the tower, and the tower can be removed and shifted to any other location as
+per the needs and requirements of the service provider and also can be re-sold in the market in the
+same form and hence both, the functionality and marketability tests as applied in the aforesaid cases
+of Solid and Correct Engineering (supra), Triveni Engineering (supra) and Sirpur Paper Mills Ltd.
+(supra) can be said to be fulfilled in the present case.
+
+11.9.5 The tower is brought to the site in CKD or SKD form and assembled at the site. If it is to be
+dismantled, it only involves unbolting of the nuts and bolts. Dismantling the tower may entail some
+damages, but such damages will be on the cables which may be required to be stripped of but no
+damage is caused to the tower. If one says that there may be some damage caused, it will be with
+reference to the BTS which consists of the antenna, connected by cables and other electrical
+equipment. But there is no damage to the tower per se. Similarly, in case of PFB, there is no damage
+to it, though damage may be caused to the wiring or cables connecting the various parts of the Base
+Transceiver System (BTS) or the Base Station Sub-System (BSS).
+
+11.9.6 The tower which is affixed to the earth and thus appears to be immovable, can be dismantled
+from the existing site and re-assembled without causing any change in its character. It can be moved
+to any other place and also sold in the market. These attributes negate the permanency test, which is
+a characteristic of immovable property. The tower when fixed to the earth or the building or the civil
+foundation by nuts and bolts does not get assimilated with the earth or building permanently. Such
+affixing is only for the purpose of maintaining stability of the tower and keep it wobble free so that
+the antenna which is hoisted on it can receive and transmit the electromagnetic signals effectively
+and without any disturbance. Affixing of the tower to the earth or building is not for the permanent
+beneficial enjoyment of the land or building, but to make it stable for effective functioning of the
+a n t e n n a   f o r   s e a m l e s s   r e n d e r i n g   o f   m o b i l e   s e r v i c e s   b y   t h e   s e r v i c e   p r o v i d e r   t o   t h e
+consumers/subscribers. Same is the case with pre- fabricated buildings (PFB).
+
+11.9.7 If we thus apply the functionality test, it can be stated that the attachment of tower to the
+earth /building is not for the benefit of the land or the building but for better functioning of the
+antenna which is fixed on the tower. Thus, based on functionality test it can be said that tower is a
+movable property, as also held in Municipal Corporation of Greater Bombay (supra).
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+33
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+11.9.8 These items are not embedded in the earth as in the case of walls or buildings so as to fall
+under clause (b) of the definition of “attached to the earth” as provided under Section 3 of the
+Transfer of Property of Act.
+
+Neither do these items fall under clause (c) of the definition of “attached to the earth” and nor are
+these intended to be for permanent beneficial enjoyment of the building or land to which these are
+attached.
+
+In this regard, it may be apposite herein to mention what was stated in Solid & Correct Engg. Works
+(supra) as follows:-
+
+“25. It is evident from the above that the expression “attached to the earth” has three
+distinct dimensions viz. (a) rooted in the earth as in the case of trees and shrubs, (b)
+imbedded in the earth as in the case of walls or buildings, or (c) attached to what is
+imbedded for the permanent beneficial enjoyment of that to which it is attached.
+Attachment of the plant in question with the help of nuts and bolts to a foundation
+not more than 1½ ft deep intended to provide stability to the working of the plant
+and prevent vibration/wobble free operation does not qualify for being described as
+attached to the earth under any one of the three clauses extracted above. That is
+because attachment of the plant to the foundation is not comparable or synonymous
+to trees and shrubs rooted in earth. It is also not synonymous to imbedding in earth
+of the plant as in the case of walls and buildings, for the obvious reason that a
+building imbedded in the earth is permanent and cannot be detached without
+demolition. Imbedding of a wall in the earth is also in no way comparable to
+attachment of a plant to a foundation meant only to provide stability to the plant
+especially because the attachment is not permanent and what is attached can be
+easily detached from the foundation. So also the attachment of the plant to the
+foundation at which it rests does not fall in the third category, for an attachment to
+fall in that category it must be for permanent beneficial enjoyment of that to which
+the plant is attached. It is nobody's case that the attachment of the plant to the
+foundation is meant for permanent beneficial enjoyment of either the foundation or
+the land in which the same is imbedded.” 11.9.9 Applying the tests of permanency,
+intendment, functionality and marketability, it is quite clearly evident that these
+items are not immovable but movable within the meaning of Section 3 of the Transfer
+of Property Act, read with Section 3 (36) of the General Clause Act.
+
+If we consider the nature of annexation of the tower to the earth, it is seen that the annexation is not
+for permanent annexation to the land or the building as the tower can be removed or relocated
+without causing damage to it.
+
+It is also to be noted that the attachment of the tower to the building or the land is not for the
+permanent enjoyment of the building or the land.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+34
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+Further, the tower is fixed to the land or building for enhancing the operational efficacy and proper
+functioning of the antenna which is fixed on the tower by making it stable and wobble free.
+
+The fact that the tower, if required can be removed, dismantled in the CKD and SKD and sold in the
+market is not disputed.
+
+Application of the tests evolved and discussed above on these items clearly points to the movability
+as opposed to immovability of these items. We are, thus, of the view that mobile towers and PFBs
+are movable properties and hence, “goods”.
+
+11.9.10 What we have also noticed is that the Bombay High Court has held that since the towers and
+parts thereof are fastened and fixed to the earth and after their erection, they become immovable,
+and therefore, these cannot be classified as goods. While this conclusion is based on the classic
+definition of immovable property based on one criterion, as noticed earlier, that may not be the sole
+consideration to determine whether a property is immovable or movable. Even if the property is
+embedded to the earth and appears ex-facie immovable, if there are other indicators which show the
+characteristics of a movable property, as for instance, susceptibility to removal of the property from
+the fixture without causing any damage to its basic structure and change in character, ability of
+relocation to a new location and if the same can be sold thereby showing marketability, and lack of
+intention to make it a permanent fixture, in spite of the said property being embedded to the earth
+by way of fixing, the property may still be considered to be movable as has been held in many of the
+cases referred to above including in Solid and Correct Engineering (supra).
+
+11.9.11 It also appears that the decision of this Court in Solid and Correct Engineering (supra) was
+not brought to the notice of the Bombay High Court and thus escaped consideration. The Bombay
+High Court without considering above-mentioned aspects proceeded on the premise that these
+items namely tower, its parts thereof and PFBs are immovable properties. In paragraph no. 52 of the
+impugned judgment, while dealing with the case of CCE Vs. Sai Samhita Storages (P) Ltd., (supra)
+rendered by the Division Bench of the Andhra Pradesh High Court, the Bombay High Court
+observed that, “The towers are admittedly immovable structures and non-marketable and
+non-excisable. We, therefore, are of the clear opinion that this judgment of the Division Bench of the
+Andhra Pradesh High Court is inapplicable in the facts of the present case.” 11.9.12 We are of the
+opinion that the aforesaid finding was erroneous for the reason that there was no admission on the
+part of the Assessee that towers are immovable structures and in fact, that was the disputed issue
+before the Court which was required to be determined.
+
+11.9.13 The Revenue, however, relied on Triveni Engineering & Industries Ltd. (supra) to contend
+that there is neither mobility nor marketability in the tower but it is permanently fastened to the
+earth or building. In this regard, para 13 and 14 of the judgment in Triveni Engineering & Industries
+Ltd. (supra) may be referred to “13. A perusal of the entry shows that a turbo alternator does not
+find a place therein eo nomine. The question then will be whether a “turbo alternator” falls within
+the meaning of “electric-generating set”. To bring a “turbo alternator” under that heading it must be
+shown to have the attributes of excisable “goods” as understood in the excise law. They are mobility
+and marketability. The article in question should be capable of being brought and sold in the market
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+35
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+— a test which is too well established by a series of decisions of this Court to be elaborated here.
+
+14. There can be no doubt that if an article is an immovable property, it cannot be termed as
+“excisable goods” for purposes of the Act. From a combined reading of the definition of “immovable
+property” in Section 3 of the Transfer of Property Act, Section 3(25) of the General Clauses Act, it is
+evident that in an immovable property there is neither mobility nor marketability as understood in
+the excise law. Whether an article is permanently fastened to anything attached to the earth requires
+determination of both the intention as well as the factum of fastening to anything attached to the
+earth. And this has to be ascertained from the facts and circumstances of each case.” 11.9.14 Hence,
+it is to be noted that the tower, though appears to be fastened to the earth, cannot be said to be
+permanently fastened to the earth or a building for the beneficial enjoyment of the land or the
+building. The tower possesses the characteristics of mobility as the same can be dismantled and
+relocated to another place or site.
+
+Therefore, in our opinion, the decision in Triveni Engineering & Industries Ltd. (supra) cannot be
+applied in the present case, considering the factum and intention behind fastening of the tower for
+purpose of keeping the antenna stable and wobble free and that it can be relocated.
+
+11.9.15 Reliance has been also placed by the Revenue on Quality Steel Tubes (P) Ltd. (supra) by
+drawing our attention to para 5 and 6 of the judgment which read as follows:
+
+“5. In several decisions rendered by this Court commencing from Union of India v.
+Delhi Cloth and General Mills Co. Ltd. [AIR 1963 SC 791 : 1977 ELT 199] to Indian
+Cable Co. Ltd. v. CCE [(1994) 6 SCC 610 : (1994) 74 ELT 22] the twin test of
+exigibility of an article to duty under Excise Act are that it must be goods mentioned
+either in the Schedule or under Item 68 and must be marketable. In Delhi Cloth Mills
+[AIR 1963 SC 791 : 1977 ELT 199] it having been held that the word ‘goods’ applies to
+those goods which can be brought to market for being bought and sold it is implied
+that it applies to such goods as are moveable. The requirement of the goods being
+brought to the market for being bought and sold has become known as the test of
+marketability which has been reiterated by this Court in CCE v. Ambalal Sarabhai
+Enterprises [(1989) 4 SCC 112 : 1989 SCC (Tax) 162 : (1989) 43 ELT 214] . The Court
+has held in Union Carbide India Ltd. v. Union of India [(1986) 2 SCC 547 : 1986 SCC
+(Tax) 443] that even if the goods was capable of being brought to the market, it would
+satisfy the test of marketability. The basic test, therefore, of levying duty under the
+Act is twofold. One, that any article must be goods and second, that it should be
+marketable or capable of being brought to market. Goods which are attached to the
+earth and thus become immovable and do not satisfy the test of being goods within
+the meaning of the Act nor it can be said to be capable of being brought to the market
+for being bought and sold.
+
+Therefore, both the tests, as explained by this Court, were not satisfied in the case of appellant as the
+tube mill or welding head having been erected and installed in the premises and embedded to earth
+ceased to be goods within meaning of Section 3 of the Act.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+36
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+6. Learned counsel for the Revenue urged that even if the goods were capable of being brought to the
+market it would attract levy. True, but erection and installation of a plant cannot be held to be
+excisable goods. If such wide meaning is assigned it would result in bringing in its ambit structures,
+erections and installations. That surely would not be in consonance with accepted meaning of
+excisable goods and its exigibility to duty.
+
+11.9.16 The Revenue has also relied on the decision in Mittal Engineering Works (P) Ltd. (supra) by
+referring to paras 9 and 10 of the said judgment which are reproduced as below:
+
+“9. Upon the material placed upon record and referred to above, we are in no doubt
+that the mono vertical crystalliser has to be assembled, erected and attached to the
+earth by a foundation at the site of the sugar factory. It is not capable of being sold as
+it is, without anything more. As was stated by this Court in the case of Quality Steel
+Tubes (P) Ltd. [(1995) 2 SCC 372] the erection and installation of a plant is not
+excisable. To so hold would, impermissibly, bring into the net of excise duty all
+manner of plants and installations.
+
+10. The Tribunal took an unreasonable view of the evidence. It was the case of the
+appellants, not disputed by the Revenue, that mono vertical crystallisers were
+delivered to the customers in a knocked-down condition and had to be assembled
+and erected at the customers' factory. Such assembly and erection was done either by
+the appellants or by the customer. Where it was done by the appellants, fabrication
+materials of the customer were used and the customer sent to the appellants debit
+notes in regard to their value. Where the assembly and erection was done by the
+customer, there was no occasion for it to send to the appellants a debit note. The fact
+that there was no debit note in respect of one customer could not reasonably have led
+the Tribunal to conclude that in the case of that customer a complete mono vertical
+crystalliser had left the appellants' factory and that, therefore, mono vertical
+crystallisers were marketable. The Tribunal ought to have remembered that the
+record showed that mono vertical crystallisers had, apart from assembly, to be
+erected and attached by foundations to the earth and, therefore, were not, in any
+event, marketable as they were.” 11.9.17 Relying on the aforesaid decisions, it has
+been contended by the Revenue that the tower once assembled and fixed to the
+earth/building, ceases to be marketable and hence cannot be said to be moveable.
+
+11.9.18 However, as discussed above, the tower and PFBs, after being dismantled
+without being damaged, can be relocated or sold, thereby possessing the character of
+marketability. As such these decisions would not be applicable in the present case.
+
+For the same reason, the decision in T.T.G Industries Ltd. (supra) also relied upon by the Revenue
+will not help the cause of the Revenue.
+
+11.9.19 The Revenue has also sought to rely upon a circular under F.No.137/315/2007-CX.4, dated
+26.02.2008 issued by the Central Board of Excise and Customs, Department of Revenue, Ministry of
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+37
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+Finance specifying that angles, channels, beam of steel and prefabricated shelter, PUF panels are
+used by the cellular phone service providers for erecting towers and making housing/storage units
+and are used in making of products and cannot be called excisable goods, being attached to the earth
+and are not chargeable to excise duty. The circular further mentions that these inputs for civil
+structures are not used for providing taxable service and accordingly the circular clarified that credit
+of excise duty paid on such items is not available to the telecom service providers.
+
+11.9.20 We are of the considered opinion that though the Revenue/ Department may issue any such
+circular based on their understanding of the matter and the Revenue authorities/officers are bound
+to follow it, yet, in view of the findings arrived at by us in these proceedings, the said circular would
+be of no avail and to the extent the same is contrary to our findings in these proceedings would not
+be enforceable and would be liable to be withdrawn.
+
+11.9.21 In Commissioner of Central Excise, Bolpur Vs. M/s Ratan Melting & Wire Industries, (2008)
+14 SCR 653, it was held that, “6. Circulars and instructions issued by the Board are no doubt binding
+in law on the authorities under the respective statutes, but when the Supreme Court or the High
+Court declares the law on the question arising for consideration, it would not be appropriate for the
+Court to direct that the circular should be given effect to and not the view expressed in a decision of
+this Court or the High Court. So far as the clarifications/circulars issued by the Central Government
+and of the State Government are concerned they represent merely their understanding of the
+statutory provisions. They are not binding upon the court. It is for the Court to declare what the
+particular provision of statute says and it is not for the Executive. Looked at from another angle, a
+circular which is contrary to the statutory provisions has really no existence in law. (emphasis
+added) The aforesaid proposition of law was reiterated in Commissioner of Central Excise, Mumbai,
+Vs. Hindoostan Spinning and Weaving Mills Ltd. & anr, (2009) 14 SCC 221.
+
+11.9.22 In a recent judgment in Ranadey Micronutrients & Ors. v. Collector of Central Excise, (2022)
+18 S.C.R. 28, it was held that while the departmental circulars in operation are binding upon the
+officers of the Revenue, to the extent it is contrary to the statute must be withdrawn by holding as
+follows:
+
+“15. There can be no doubt whatsoever, in the circumstances, that the earlier and
+later circulars were issued by the Board under the provisions of Section 37B, and the
+fact that they do not so recite does not mean that they do not bind Central Excise
+officers or become advisory in character. There can be no doubt whatsoever that after
+21st November, 1994, Excise duty could be levied upon micronutrients only under the
+provisions of heading 31.05 as “other fertilisers”. If the later circular is contrary to the
+terms of the statute, it must be withdrawn.
+
+While the later circular remains in operation the Revenue is bound by it and cannot
+be allowed to plead that it is not valid.” (emphasis added) 11.10 We now proceed to
+the next stage of consideration. Even if it is held that the mobile towers and PFBs are
+movable properties and “goods”, the question which still requires to be answered is
+whether these are “capital goods” within the meaning of Rule 2(a)(A) of the CENVAT
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+38
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+Rules. As discussed above, every “good” is not “capital good” within the scope of the
+CENVAT Rules, but only such goods which come within meaning of sub-Clause (i) of
+Rule 2(a)(A) i.e. goods falling under Chapter 82, Chapter 84, Chapter 85, Chapter 90
+Heading no. 68.2 and the sub-Heading no. 6801, 6801.1 and 6801.10 of the First
+Schedule to the Central Excise Tariff Act, which are used for providing output service
+will be considered as “capital goods” and eligible for CENVAT credit. Sub-clause (ii)
+of Rule 2(a)(A) provides that pollution control equipment used for providing output
+service can also be capital goods with which we are not concerned.
+
+1 1 . 1 0 . 1   H o w e v e r ,   i t   m a y   b e   n o t e d   t h a t   n e i t h e r   t o w e r   n o r   p r e f a b r i c a t e d
+shelter/building (PFB) finds mention under any of the Chapters/Heading specified
+under sub-clause (i), nor these are pollution control equipment to fall within
+sub-clause (ii). Hence, these items on their own cannot be said to be “capital goods”
+within the meaning of sub-clause (i) and (ii) of Rule 2(a)(A).
+
+11.11 However, it is to be noted that it has been provided under sub-
+
+clause (iii) that components, spares and accessories of goods specified in sub-clause (i) and
+sub-clause (ii) will also be treated as “capital goods” if used for providing output service within the
+meaning of CENVAT Rules. Therefore, we have to examine whether towers and PFBs which on their
+own are not “capital goods” within the scope of either of the sub-clauses (i) and (ii) can be
+considered to be “capital goods” under sub-clause (iii) by virtue of being accessories of any of the
+“capital goods” mentioned under sub-clauses (i) and (ii) of Rule 2(a)(A).
+
+11.11.1 It is also not the case of the Assessees before us that mobile towers and PFBs are goods falling
+under Chapter 82, Chapter 84, Chapter 85, Chapter 90, Heading No. 68.02 and sub-Heading No.
+6801.10 of the First Schedule to the Central Excise Tariff Act so as to be deemed as capital goods. It
+is the case of the Assessees that the mobile tower is an accessory of “antenna” which is part of “BTS”
+and since antenna and BTS fall under Chapter 85 which are “capital goods”, mobile tower being
+accessory of antenna and BTS is to be treated as “capital good” by virtue of sub-clause (iii) of Rule
+2(a)(A). Similar is the case with PFBs.
+
+11.11.2 Since, we have already held that mobile towers and PFBs are not immovable properties and
+can be treated as “goods”, we have to examine whether these are to be treated as accessories of
+antenna and BTS (which are “capital goods”) as claimed by the Assessees and if so, being accessory
+of antenna/ BTS, all these are covered within the meaning of “capital goods” under Rule 2(a)(A) (iii)
+and since these accessories of capital goods are used for providing output service i.e. mobile service,
+whether the service providers would be entitled to take CENVAT credit by virtue of Rule 3(i) of the
+CENVAT Rules.
+
+11.11.3 In this regard, it is to be noted that the stand of the Revenue is that the towers and PFBs have
+independent functions and existence and have specific utilities and thus these cannot form part of a
+composite system or a single unit and hence they cannot be considered to be accessories of the
+antenna or BTS in contra-distinction to the plea of the Assessees that these are accessories of
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+39
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+antenna and BTS which are “capital goods” falling under Chapter 85 of the First Schedule to the
+Central Excise Tariff Act.
+
+11.11.4 What is an accessory has been defined in Black’s Law Dictionary, (Fifth Edition) as,
+“anything which is joined to another thing as an ornament or to render it more perfect, or which
+accompanies it, or is connected with it as an incident, or as subordinate to it, or which belongs to or
+with it, adjunct or accompaniment. A thing to subordinate importance. Aiding or contributing in
+secondary way of assisting in or contributing to as a subordinate.” Similarly, Oxford Dictionary
+defines “accessory” as:
+
+“an extra piece of equipment that is useful but not essential or that can be added to
+something else as a decoration.” 11.11.5 What comes out from the above dictionary
+meaning of “accessory” is that any such item which adds to the beauty, convenience
+or effectiveness of some other items can be said to be accessory of that other thing
+and it may or may not be essential for functioning of main machinery. Seen from the
+above perspective what is evident is that the tower is a structure fixed to the earth or
+building on which microwave antenna is fastened to provide the necessary height and
+stability to the antenna by making it steady and wobble free. The function of antenna
+as part of the BTS is to receive and transmit radio signal and is used for providing
+mobile telecom service to the subscribers. The tower itself is not an electrical
+component of microwave antenna per-se, yet it is necessary and helps in keeping the
+antenna at proper height and in a stable position so that the antenna can transmit
+signals for ensuring uninterrupted and seamless services to the subscribers. It is with
+the aid of the tower that the potential of the antenna is fully realised, making it
+function optimally. Without tower, antenna cannot effectively function for the
+purpose it is used. Hence, there can be no doubt that tower is to be considered as an
+accessory of antenna.
+
+11.11.6 Similarly, the PFB houses other BTS equipment and alternative electricity
+source in the form of diesel generators and other equipment to provide alternative
+and uninterrupted power supply to the antenna so that in the event of failure of main
+power supply, the generator can instantly provide backup electricity supply to the
+antenna and BTS. The PFBs house electric cables, other equipment related to
+antenna, BTS and generator. Thus, PFBs enhance the efficacy and functioning of
+mobile antenna as well as BTS and accordingly, PFBs can also be considered as
+accessories to the antenna and BTS which are “capital goods” falling under Chapter
+85 of the Schedule to the Central Excise Tariff.
+
+11.11.7 That tower is to be treated as an accessory of antenna or BTS and their
+relationship has been highlighted by this Court in Tata Teleservices Ltd. Vs. Bharat
+Sanchar Nigam Ltd. & Ors. (2008) 10 SCC 556 wherein the principles of cellular
+networks have been discussed showing the inter dependency of tower and antenna in
+the following words, “xi) Principles of Cellular Networks:
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+40
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+Mobile communications reached the market in 1980. Even at that time the major
+challenge was to implement advanced mobility features such as handover, roaming
+and localization of subscribers which required additional control channels between
+terminal and serving base station.
+
+A cellular network consists of a number of radio cells where the term "cell" refers to
+geographic coverage area of a BTS. The size of the coverage area depends on the
+signal strength of the base station and the degree of attenuation. Each BTS is
+assigned a certain number of channels for transmitting and receiving data which is
+called as cell allocation ("CA"). To avoid interference between cells, it needs to be
+guaranteed that the neighbouring base stations are also assigned cell allocations of
+different channels. There are no sharp borders between neighbouring cells. Most of
+the time they overlap. In urban areas, a mobile device can hear a set of around 10
+base stations simultaneously, and then it selects from this set of base station within
+the strongest signal. The number of cells a network is made up of is basically a
+function of the size of area to be covered and the user penetration. When building up
+a new network, operators first concentrate on establishing a coverage in congested
+urban areas before establishing base stations in rural areas. If a network runs the risk
+of becoming overloaded in a certain region, the operators can increase the capacity by
+increasing the base stations density.
+
+A cellular network not only consists of base stations but also comprises a network
+infrastructure for interconnecting base stations, mobility support, service
+provisioning and connection to other networks like internet. Therefore, a cellular
+network consists of several access networks, which include the radio equipment
+which is necessary to interconnect a terminal to the network. The access networks are
+interconnected by the core network. For example, in GSM, the access network is
+referred to as Base Station Subsystem ("BSS") whereas the core network is denoted as
+Mobile Switching and Management Subsystem ("SMSS"). BSS is responsible for
+monitoring and controlling the air interface. BSS consists of two different
+components, namely Base Transceiver Station ("BTS") and Base Station Controller
+("BSC"). BTS stands for "base station". It contains transmitter and receiver
+equipment as well as an antenna. The base station is equipped with very limited
+capabilities for signalling a protocol processing. The bulk of the work, for example,
+allocation and release of channels is done by the BSC. The BSC is mainly responsible
+for control and execution of handover, a function which is needed to keep a
+circuit-switched connection if the subscriber moves between base stations. Therefore,
+each BSC controls several base stations, which are connected to the BSC via fixed
+lines or radio link systems. On the other hand, mobile Switching and Management
+System is a fixed network of switching nods and databases for establishing
+connections from and to the mobile subscriber. HLR and VLR are two important
+databases which are the foundation of the Numbering Plan in MSC. The switching
+components are the Mobile Switching Centre ("MSC") and the Gateway MSC
+("GMSC"). The MSC connects a number of BSCs. to the network for the purposes of
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+41
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+localization and handover. Thus, it is the MSC which is responsible for serving a
+limited geographic region governed by all base stations connected to the MSC over
+their BSCs. In a mobile network, when a connection is to be established it is the MSC
+which determines another switch depending on the current location of the mobile
+subscriber. For this purpose, MSC is also connected to local network for each
+subscriber so as to implement the numbering plan. The area from which the call
+emanates, the identification of the nature of the call whether from mobile or fixed
+wireline is all done by the computer having the requisite software in MSC.” 11.11.8 In
+this regard, we may also note the finding given by the CESTAT which has not been
+disturbed by the Bombay High Court regarding the contention of the Assessee that
+towers are essential parts of the antennas and as such without tower, the antennas
+cannot be placed at appropriate and requisite height to receive and send signals and
+since towers are essential for the functioning of antennas, towers should be treated as
+accessories of antennas. The CESTAT did not find the said contention of Assessee
+acceptable on the ground that tower cannot be considered to be a part of antenna,
+since a component or part of any goods means something which is required to make
+such goods a finished item. The CESTAT held that only those articles which would go
+into the composition of another article can be considered to be component or part of
+the latter and that tower does not enter into the composition of the antenna and
+hence it is not a component/part of the antenna, relying on the decision of this Court
+in Saraswati Sugar Mills v. Commissioner of Central Excise, Delhi-III, (2014) 15 SCC
+625). In the aforesaid case of Saraswati Sugar Mills (supra) it was held by this Court
+that anything required to make the goods a finished item can be described as
+component or part of the finished item. It was held that iron and steel structures
+would not go into the composition of vacuum pans, crystallizers etc. If an article is an
+element in the composition of another article made out of it, such an article may be
+described as a component of another article. Thus, structures in question in the said
+case did not satisfy the description of ‘component’.
+
+11.11.9 While there can be no dispute about the aforesaid proposition, we are of the
+view that it cannot be the only criterion to determine what amounts to component of
+another article. In order for any article to be considered a component of another
+article, it does not necessarily mean that it has to be consumed or used up for
+producing the said another article as in the case of a manufacturing process. In our
+considered opinion, a component of any good would also mean to include those
+which make the good fully functional and make such a good more effective as
+observed in M/s. Annapurna Carbon Industries Co.(supra), wherein this Court held
+that an accessory would mean an object or a device that is not essential in itself but
+that adds to the beauty or convenience or effectiveness of something else or is
+supplementary or secondary to something of greater or primary importance, which
+assists in operating or controlling the said good, and thus serves as its accessory.
+
+It was thus held in Annapurna Carbon Industries Co. (supra) that, “10. We find that the term
+“accessories” is used in the schedule to describe goods which may have been manufactured for use
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+42
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+as an aid or addition. A sense in which the word accessory is used is given in Webster's Third New
+International Dictionary as follows:
+
+“An object or device that is not essential in itself but that adds to the beauty,
+convenience, or effectiveness of something else.” Other meanings given there are:
+“supplementary or secondary to something of greater or primary importance”,
+“additional”, “any of several mechanical devices that assist in operating or controlling
+the tone resources of an organ”. “Accessories” are not necessarily confined to
+particular machines for which they may serve as aids. The same item may be an
+accessory of more than one kind of instrument.” 11.11.10 Thus, in our opinion, the
+restricted meaning of accessory given by the CESTAT and not differed from by the
+Bombay High Court is not wholly correct in as much as the meaning of accessory can
+have different ascribed meanings as observed in the aforesaid decision.
+
+11.11.11 There is no dispute to the fact that BTS is a composite system consisting of
+the transmitter, receiver, antenna and other equipment, and antenna can be said to
+be an integral part of BTS. As discussed above, and not disputed by the Revenue,
+tower is needed to keep the antenna at an appropriate height and keep it stable.
+Without the tower, it is not possible to hoist the antenna at the requisite height and
+without it being securely fastened to the tower, antenna cannot be kept firm and
+steady for proper receipt and transmission of radio signals. Thus, there cannot be any
+doubt that a mobile tower can be treated to be an accessory of antenna and BTS.
+Accordingly, since in terms of sub-
+
+clause (iii) of Rule 2(a)(A), all components, spares and accessories of such capital goods falling
+under sub-clause (i) would also be treated as capital goods, a mobile tower can also be treated as
+“capital good”.
+
+11.11.12 We, therefore, agree with the conclusion arrived at by the Delhi High Court that towers and
+shelters (PFBs) support the BTS/antenna for effective transmission of mobile signals and thus
+enhance their efficiency and since these articles are components/accessories of BTS/antenna which
+are admittedly “capital goods” falling under Chapter 85 within sub-clause (i) of Rule 2(a)(A) of
+CENVAT Rules, these items consequently are covered by the definition of “capital goods” within the
+meaning of sub-clause (iii) read with sub-clause (i) of Rule 2(a)(A) of CENVAT Rules. Further, since
+these are used for providing output service, i.e., mobile telecommunication service, and since these
+are “capital goods” received in the premises of the provider of output service as contemplated under
+Rule 3(1)(i), the Assessees would be entitled to CENVAT credit on the excise duties paid on these
+goods.
+
+11.12 The alternative plea taken by the Assessee is that these items, viz., mobile tower and the
+prefabricated buildings (PFBs) are “inputs’ used for providing output service of telecommunication
+and hence, being “inputs” under Rule 2(k) which are used for providing output service i.e., mobile
+service, CENVAT credit will be available in terms of Rule 3(1) which provides that a provider of a
+taxable service shall be allowed to take credit on duties paid on any input received in the premises of
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+43
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+that provider of output service on or after 10th September, 2004 and this may be utilised for
+payment of service tax on any output service under Rule 3(1) read with Rule 3(4) of the CENVAT
+Rules.
+
+11.12.1 “Input” has been defined under Rule 2(k) to mean all goods used for providing any output
+service. We have already held that tower and the prefabricated buildings (PFBs) are not immovable
+property but are “goods”/ “capital goods” within the meaning of Rule 2(a)(A)(iii) and since these are
+used for providing output service, i.e. mobile service, these can be considered to be “inputs” within
+the meaning of Rule 2(k) and CENVAT credit can be availed in respect of these goods for payment of
+service tax.
+
+The aforesaid definition clause under Rule 2(k) neither puts any condition on it nor any qualifying
+words have been added to the word “input”, except to mean goods used for providing any output
+service. Hence, it would mean any “good” which is used as “input” for providing taxable output
+service. Thus, any item so long it qualifies as a “good” and is “used” for providing output service,
+would come within the purview of “input” under Rule 2(k) and excise duty paid on such items can be
+claimed as CENVAT credit which may in turn be used for payment of service tax for the output
+service provided by the MSPs.
+
+11.12.2 It may be also noted that there must be “use” of such goods to qualify as “inputs”. Without
+stretching too much the meaning of the words “use” and “input”, it can be said, without any doubt,
+that tower and PFBs are used for providing output service by way of inputs. The use of tower and
+PFB cannot be said to be so remotely connected with the output of service that these goods will go
+beyond the ordinary meaning of “use”. Their usage in providing the output service is not remote but
+proximate. In fact, without the use of tower and PFB, it is inconceivable that the service provider can
+provide mobile services effectively. Rather, towers and PFBs are indispensable being accessories of
+antenna for providing mobile services. In this regard one may refer to the decision in Member,
+Board of Revenue, West Bengal Vs. M/s. Phelps & Co. (P) Ltd., (1972) 4 SCC 121 wherein it was held
+that, “6. We have now to find out what exactly is the meaning of the expression "for use by him in
+the manufacture of goods for sale". Identical words are used in Section 8(b) of the Central Sales Tax
+Act 1956. This court was called upon to find out the scope of that expression in M/s. J.K. Cotton
+Spinning & Weaving Mills Co Ltd. Vs. Sales Tax Officer, Kanpur and Anr. (AIR 1965 SC 1310).
+Dealing with that expression this Court observed:
+
+The expression "in the manufacture of goods" would normally encompass the entire
+process carried on by the dealer of converting raw materials into finished goods.
+Where any particular process is so integrally connected with the ultimate production
+of goods that but for that process, manufacture or processing of goods would be
+commercially inexpedient, goods required in that process would, in our judgment,
+fall within the expression "in the manufacture of goods.
+
+In the present case the assessee company has sold the goods in question to certain
+manufactures who were manufacturing iron steel materials. It is also clear from
+question no. (i) that those gloves were to be used by workmen who were engaged in
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+44
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+hot jobs or in handling corrosive substances in the course of manufacture. That being
+so it cannot be denied that those gloves had to be used in the course of manufacture.”
+11.12.3 It may be noted that in the definition of “input” under Rule 2(k) when it
+relates to providing output service it has been simply defined as all goods, except
+light diesel oil, high speed diesel oil, motor spirit, commonly known as petrol and the
+motor vehicles used for providing any output service. However, when the word
+“input” is defined relating to manufacture of product, it has been defined in a broad
+and expensive manner to mean all goods except light diesel oil, high speed diesel oil
+and motor vehicle spirit commonly as petrol,
+
+(i) used in or in relation to the manufacture of final products,
+
+(ii) whether directly or indirectly,
+
+(iii) whether contained in the final product or not,
+
+(iv) and includes lubricating oils, greases, cutting oils, coolants, accessories of the
+final product cleared along with the final products,
+
+(v) goods used as paint, or as packing material, or as fuel, or for generation of
+electricity or steam, used in or in relation to manufacture of final products,
+
+(vi) or for any other purpose, within the factory of production.
+
+Thus, “input” in relation to manufacturing of final product would mean not only those which are
+directly used but also indirectly used not only for manufacture of final product whether contained in
+the final product or not but also used in relation to manufacture of final product or for any of other
+purpose.
+
+However, as mentioned above when “input” has been defined with reference to providing output
+service, the definition clauses does not explain it so elaborately but merely uses the simple
+expression i.e. “used for providing any output service”.
+
+In our view, even if the definition of “input” with reference to output service may not have been
+explained in an expansive manner as in the case of manufacture of final product under Rule 2(k)(i),
+the definition of “input” with reference to providing output service under Rule 2(k)(ii) need not be
+given a restrictive meaning as sought to be done by the CESTAT by holding that tower is not used
+directly for transmission of signal. In our view since the subject matter is same, i.e., what amounts
+to “input” though the end use is for two different products, one tangible, in the form of final
+manufactured product, and one intangible i.e., output service, applying similar tests to determine
+what amounts to “input” would not be impermissible.
+
+11.12.4 We have also noted that the Bombay High Court had taken the view that it cannot be said
+that it is impossible to provide the service without the aid of the towers, thus showing non
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+45
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+dependency of antenna on tower.
+
+In our view, while theoretically antenna may receive and transmit signal without the tower,
+practically, the same is not feasible and tower is an essential accessory for keeping the antenna at an
+appropriate height and in a stable position so that there is no disturbance in receiving and
+transmission of signal and there can be wider coverage of signal. The link between antenna and
+tower is almost inseparable for the effective functioning of antenna for providing mobile
+telecommunication service and it cannot be said that the nexus between antenna and tower is
+remote. Rather, in our view, their relationship is quite proximate and inseparable for proper
+functioning of antenna.
+
+In this regard, we have noted the decision of the Gujarat High Court in Industrial Machinery
+Manufacturers Pvt. Ltd. vs. State of Gujarat, (1965) 16 STC 380 (Guj) wherein the Gujarat High
+Court held that humidifiers which are used by the textile mills for improving the quality of the yarn
+produced in general, and even though humidifiers were essentially electric motors and not directly
+connected with the manufacturing process of yarns, yet these were considered to be machineries for
+use in the manufacture of yarn. The said finding by the Gujarat High Court was based on the
+essentiality of the humidifiers. By applying the same principle in the present case, towers and PFBs
+though themselves are not electrical equipment, are essential for proper functioning of antenna.
+Thus tower being essential to rendering of output service of mobile telephony, these items certainly
+can be considered to be “inputs” akin to antenna. Without the towers and the PFBs, there cannot be
+proper service of mobile telecommunication. Hence, these certainly would come within the
+definition of “input” under Rule 2(k)(ii).
+
+11.12.5 What we have noted also is that the CESTAT rejected the plea of the Assessee that towers and
+parts thereof are inputs under Rule 2(k) by observing that the towers are admittedly immovable
+structures and hence ipso facto non-marketable and non-excisable and these do not lead to
+manufacture of goods and that towers and PFBs certainly are not used for providing mobile services.
+By relying on Explanation-2 to Rule 2(k) which provides that input includes goods used in the
+manufacture of capital goods which are further used in the factory of the manufacturer, the CESTAT
+held that these items are not inputs. However, in our view, invoking Explanation-2 is neither
+appropriate nor necessary as sub-clause (ii) of Rule 2(k) itself clearly provides that “input” means all
+goods, except light diesel oil, high speed diesel oil, motor spirit, commonly known as petrol and
+motor vehicles, used for providing any output service. Even though tower and the PFBs are not
+electrical items/equipment in the sense that these do not transmit signals, yet these are
+indispensable for the effective functioning of antenna by which the radio signals are received and
+transmitted and accordingly, used for providing the mobile telephonic services to the subscribers.
+Thus, towers and PFBs, though are not electrical equipment for transmission of signals, yet these
+are used for transmission of signal by the antennas. Therefore, there can be no denying of the fact
+that there is a close proximity and nexus between their functioning and the ultimate transmission of
+radio signals which is the output service rendered by the MSPs. Hence, the view of the CESTAT
+which has not been disturbed by the Bombay High Court does not commend our acceptance.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+46
+
+M/S Bharti Airtel Ltd vs The Commissioner Of Central Excise, ... on 20 November, 2024
+
+11.12.6 Having held that the tower and pre-fabricated buildings (PFBs) are “goods” and not
+immovable property and since these goods are used for providing mobile telecommunication
+services, the inescapable conclusion is that they would also qualify as “inputs” under Rule 2(k) for
+the purpose of credit benefits under the CENVAT Rules.
+
+11.13 For the foregoing reasons, we agree with the conclusions arrived at by the Delhi High Court
+and uphold the judgment rendered by it in Vodafone (supra) and dismiss the connected appeals
+being CA No. 5032-5035 of 2021, CA No. 5039-5040 of 2021, CA No. 5038 of 2021, CA No.
+5036-5037 of 2021, CA No. 62 of 2022.
+
+11.14 For the same reasons, we are unable to agree with the view of the Bombay High Court and
+accordingly, set aside the judgment in Bharti Airtel (supra) rendered by it and allow the connected
+appeals, being CA No. 10409-10 of 2014, CA No. 7119 of 2015, CA No. 7179 of 2015, CA No. 1077 of
+2016, CA No. 1078 of 2016, CA No. 5112 of 2021, CA No. 1201 of 2018, CA No. 1205 of 2018, CA No.
+1203 of 2018, CA No. 1204 of 2018, CA No. 1202 of 2018, CA No. 5056 of 2021 and CA No. 5832 of
+2018.
+
+Consequently, all the appeals and connected applications are disposed of in terms of the above
+findings and conclusions.
+
+……………………………J. (B.V. NAGARATHNA) ……………….…………………………J. (NONGMEIKAPAM
+KOTISWAR SINGH) New Delhi;
+
+November 20, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/110693149/
+
+47
+
+

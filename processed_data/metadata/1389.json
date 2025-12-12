@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 4113 of 2022",
+  "parties": {
+    "petitioner": "Mohamed Ali",
+    "respondent": "V. Jaya & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-11",
+  "summary": "The appellant challenged the Madras High Court's exercise of Article 227 powers in setting aside an ex parte decree for specific performance passed by the Trial Court in 2012. The High Court nullified the decree on grounds of non-application of mind, particularly failure to assess plaintiff's readiness and willingness, without addressing the substantial delays (1522 and 2345 days) in filing applications to set aside the decree. The appellant argued that the High Court overstepped its revisional jurisdiction, especially where appeals were maintainable, and failed to uphold the Trial Court's order rejecting delay condonation. Respondents defended the High Court's action, citing non-compliance with CPC Order XII and lack of consideration of statutory requirements under the Specific Relief Act.",
+  "legal_provisions_cited": [
+    "Article 227 of the Constitution of India",
+    "Section 115 of the Code of Civil Procedure",
+    "Order XII, CPC",
+    "Specific Relief Act",
+    "Radhey Shyam v. Chhabi Nath, (2015) 5 SCC 423",
+    "K.P. Natarajan v. Muthalammal, (2021) SCC Online SC 467"
+  ],
+  "final_judgment": "The Supreme Court set aside the High Court's judgment and restored the ex parte decree of specific performance, holding that the High Court had wrongly exercised its powers under Article 227 by acting in the realm of appellate jurisdiction and failing to respect the statutory bar and finality of the Trial Court's decision on delay condonation."
+}

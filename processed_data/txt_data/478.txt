@@ -1,0 +1,612 @@
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+Author: Dhananjaya Y. Chandrachud
+
+Bench: Dhananjaya Y. Chandrachud
+
+2024 INSC 670                                             REPORTABLE
+
+                             IN THE SUPREME COURT OF INDIA
+                              CIVIL ORIGINAL JURISDICTION
+
+                            ARBITRATION PETITION NO. 38 OF 2020
+
+             COX & KINGS LTD.                             …PETITIONER
+
+                                          VERSUS
+
+             SAP INDIA PVT. LTD. & ANR.                 …RESPONDENTS
+
+                                     JUDGMENT
+
+J. B. PARDIWALA, J.:
+
+1. Cox & Kings Ltd. (hereinafter referred to as the “petitioner”) has filed the present
+petition in terms of Section 11(6) read with Section 11(12)(a) of the Arbitration &
+Conciliation Act, 1996 (for short “the Act, 1996”), seeking appointment of an
+arbitrator for the adjudication of disputes and claims in terms of clause 15.7 of the
+Services General Terms and Conditions Agreement dated 30.10.2015 entered into
+between the Petitioner and SAP India Pvt. Ltd. (hereinafter referred to as the
+“respondent no. 1”) A. FACTUAL MATRIX
+
+2. The petitioner is a company registered under the Companies Act, 1956 and is
+engaged in the business of providing tourism packages and hospitality services to its
+customers.
+
+3. Respondent no. 1 is also a company registered under the Companies Act, 1956 and
+is engaged in the business of providing business software solution services. It is a
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+1
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+wholly-owned subsidiary of SAP SE GMBH (Germany) (hereinafter referred to as the
+“respondent no. 2”), a company incorporated under the laws of Germany.
+
+4. The petitioner and respondent no. 1 entered into a SAP Software End User License
+Agreement & SAP Enterprise Support Schedule (for short “License Agreement”) on
+14.12.2010 under which the petitioner was made a licensee of certain Enterprise
+Resource Planning (“ERP”) software developed and owned by the respondents. The
+License Agreement is a mandatory pre-requisite for all customers of the respondents
+who intend to enter into any software agreement with the respondents.
+
+5. It is the case of the petitioner that while it was developing its own software for
+e-commerce operations in 2015, it was approached by respondent no. 1 who
+recommended their ‘Hybris Solution’ (hereinafter referred to as the “SAP Hybris
+Software”) for use by the petitioner. It is the case of the petitioner that respondent no.
+1 had, at the relevant point in time, represented that the SAP Hybris Software would
+be suitable and 90% compatible to the requirements of the petitioner. It was further
+represented that the customisation of the balance 10% would take about 10 months
+from the date of execution of an agreement and that the customisation of the SAP
+Hybris Software would take lesser time than the time the petitioner may take in
+developing its own technological solution.
+
+6. The transaction for the purchase, customisation and use of the SAP Hybris
+Software was divided into three separate agreements entered into between the
+petitioner and respondent no. 1:
+
+i. First, Software License and Support Agreement Software Order Form no. 3 (for
+short “Order Form no. 3”) dated 30.10.2015 for the purchase of SAP Hybris Software
+License by the petitioner. ii. Second, the Services General Terms and Conditions
+Agreement (for short “GTC agreement”) dated 30.10.2015 containing the terms and
+conditions governing the implementation of the SAP Hybris Software.
+
+iii. Third, SAP Global Service and Support Agreement, Order Form no.
+
+1 dated 16.11.2015 (for short “Order Form no. 1”) which was executed pursuant to the
+signing of the GTC agreement and contained the terms of payment between the
+parties for the services being rendered.
+
+7. It is the case of the petitioner that as it had already entered into the License
+Agreement with respondent no. 1 in 2010, it was not required to do so again for the
+purpose of purchasing the SAP Hybris Software. The GTC agreement, Order Form
+no. 3 and Order Form no. 1 were all executed pursuant to the License Agreement. The
+said three agreements are ancillary to the License Agreement and have a similar
+underlying commercial purpose.
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+2
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+8. It is pertinent to note that in terms of Clause 15.7 of the GTC agreement, in the
+event of any dispute, the parties agreed to resolve their disputes through arbitration.
+Clause 15.7 of GTC agreement reads as under:
+
+“15.7 Dispute Resolution: In the event of any dispute or difference arising out of the
+subject matter of this Agreement, the Parties shall undertake to resolve such disputes
+amicably. If disputes and differences cannot be settled amicably then such disputes
+shall be referred to bench of three arbitrators, where each party will nominate one
+arbitrator and the two arbitrators shall appoint a third arbitrator. Arbitration award
+shall be binding on both parties. The arbitration shall be held in Mumbai and each
+party will bear the expenses of their appointed arbitrator. The expense of the third
+arbitrator shall be shared by the parties. The arbitration process will be governed by
+the Arbitration & Conciliation Act, 1996.”
+
+9. Certain issues arose between the parties regarding the timely completion and
+implementation of the SAP Hybris Software. After several queries from the
+petitioner, respondent no. 1 vide e-mail dated 24.04.2016, informed about certain
+challenges in the execution of the SAP Hybris Software project. Thereafter, a series of
+emails were exchanged between respondent no. 1 and the petitioner regarding the
+completion of the project.
+
+10. Subsequently, as there was no response from respondent no. 1 to the e-
+
+mails sent by the petitioner, the latter, vide e-mail dated 31.08.2016 contacted respondent no. 2, i.e.,
+the German parent company of respondent no. 1 and apprised them of the issues being faced by the
+petitioner in the execution and delivery of the SAP Hybris Software. Respondent no. 2 was informed
+of the various shortcomings in the execution of the project and the negative ramifications being
+caused to the petitioner’s business as a result thereof. In response to the concerns raised by the
+petitioner, respondent no. 2, vide e-mail dated 01.09.2016, assured to provide a framework for
+resolution of the challenges and completion of the project.
+
+11. Respondent no. 2 vide email dated 07.10.2016 assured the petitioner that it would monitor the
+execution of the project and requested the petitioner for an opportunity to agree on the revised plan
+and delivery. As per the minutes of the meeting dated 14.11.2016, one of the suggestions given by
+respondent no. 2 as part of the revised proposal for the execution of the project was that a
+substantial part of the project work would be outsourced to the more experienced global team, and
+one representative of respondent no. 2 would overlook the progress of the project at the execution
+level.
+
+12. Unable to resolve the issues, the contract for the SAP Hybris Software project ultimately came to
+be rescinded on 15.11.2016. In response to this, respondent no. 2, vide e-mail dated 23.11.2016,
+requested the petitioner for one last opportunity to complete the project, which the petitioner
+declined vide email dated 24.11.2016.
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+3
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+13. Respondent no. 2, vide email dated 09.12.2016 sent to the petitioner, communicated that there
+were shortcomings at the petitioner’s end as well and the respondents could not be said to be solely
+responsible for the collapse of the SAP Hybris Software project.
+
+14. Despite several correspondences and meetings, the matter could not be settled amicably between
+the parties. On 29.10.2017, respondent no. 1 issued a notice invoking arbitration under Clause 15.7
+of the GTC agreement for the alleged wrongful termination of the contract between the parties and
+non-payment of Rs. 17 Crore. Upon failure of the petitioner to nominate an arbitrator in response to
+the aforesaid notice, a Section 11(6) petition was instituted by respondent no. 1 before the Bombay
+High Court. The said petition came to be allowed vide order dated 30.11.2018 and an arbitral
+tribunal was constituted to adjudicate the disputes between the parties. The petitioner filed its
+Statement of Defence and counterclaims on 31.07.2019 for an amount of Rs. 45,99,71,098/-.
+
+15. It may not be out of place to state at this stage that respondent no. 2 was not made a party to the
+aforesaid arbitration proceedings. In the course of the said proceedings, the petitioner filed an
+application under Section 16 of the Act, 1996 before the arbitral tribunal, contending that the four
+agreements entered into between the parties were part of a composite transaction and for this
+reason the agreements should be made a part of a singular proceeding.
+
+16. During the pendency of the aforesaid application, on 22.10.2019, the NCLT, Mumbai admitted
+an application filed under Section 7 of the Insolvency and Bankruptcy Code, 2016 (for short “the
+Insolvency Code”) against the petitioner and appointed an Interim Resolution Professional. Vide
+Public Announcement dated 25.10.2019, the Interim Resolution Professional ordered for the
+commencement of the Corporate Insolvency Resolution Process (‘CIRP’). On 05.11.2019, the NCLT
+passed an order adjourning the arbitration proceedings sine die due to initiation of the CIRP.
+
+17. Meanwhile, upon seeking permission of the Interim Resolution Professional, the petitioner sent
+a fresh notice to the respondents on 07.11.2019 invoking arbitration under Clause 15.7 of the GTC
+agreement. Pertinently, the petitioner arrayed respondent no. 2 in the said arbitration notice. The
+petitioner appointed Dr. Justice Arijit Pasayat, former Judge of this Court, as its nominated
+arbitrator and called upon the respondents to appoint their arbitrator for the constitution of the
+tribunal. However, upon failure of the respondents to appoint an arbitrator in terms of the said
+notice, the petitioner has preferred the present petition.
+
+B. REFERENCE ORDER
+
+18.This petition was heard by a three-Judge Bench of this Court. By an order dated 06.05.2022,
+Chief Justice N.V Ramana (as he then was) speaking for himself and Justice A.S. Bopanna doubted
+the correctness of the application of the Group of Companies doctrine by the Indian courts. Chief
+Justice Ramana criticised the approach of a three-Judge Bench of this Court in Chloro Controls
+India (P) Ltd v. Severn Trent Water Purification Inc reported in (2013) 1 SCC 641 which relied upon
+the phrase “claiming through or under” appearing in Section 45 of the Act, 1996 to adopt the Group
+of Companies doctrine. He noted that the subsequent decisions of this Court read the doctrine into
+Sections 8 and 35 of the Act, 1996 without adequately examining the interpretation of the phrase
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+4
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+“claiming through or under” appearing in those provisions. He also observed that economic
+concepts such as tight group structure and single economic unit alone cannot be utilized to bind a
+non-signatory to an arbitration agreement in the absence of an express consent. Consequently, he
+referred the matter to the larger bench to seek clarity on the interpretation of the phrase “claiming
+through or under” appearing under Sections 8, 35 and 45 respectively of the Act, 1996. The
+following two questions were formulated by him for reference:
+
+i. Whether the phrase “claiming through or under” in Sections 8 and 11 respectively
+of the Act, 1996 could be interpreted to include the Group of Companies doctrine;
+and ii. Whether the Group of Companies doctrine as expounded by Chloro Controls
+(supra) and subsequent judgments is valid in law?
+
+19. Justice Surya Kant, in a separate opinion, observed that the decisions of this Court before Chloro
+Controls (supra) adopted a restrictive approach by placing undue emphasis on formal consent.
+Justice Surya Kant traced the evolution of the Group of Companies doctrine to observe that it had
+gained a firm footing in Indian jurisprudence. However, he opined that this Court has adopted
+inconsistent approaches while applying the doctrine in India, which needed to be clarified by a
+larger bench. Accordingly, he highlighted the following questions of law for determination by the
+larger Bench:
+
+i. Whether the Group of Companies Doctrine should be read into Section 8 of the Act,
+1996 or whether it can exist in Indian jurisprudence independent of any statutory
+provision; ii. Whether the Group of Companies Doctrine should continue to be
+invoked on the basis of the principle of ‘single economic reality’; iii. Whether the
+Group of Companies Doctrine should be construed as a means of interpreting implied
+consent or intent to arbitrate between the parties; and iv. Whether the principles of
+alter ego and/or piercing the corporate veil can alone justify pressing the Group of
+Companies Doctrine into operation even in the absence of implied consent?
+
+C. SUBMISSIONS ON BEHALF OF THE APPELLANT
+
+20. Mr. Hiroo Advani, the learned counsel appearing on behalf of the petitioner,
+submitted at the outset that the GTC agreement, Order Form no.
+
+1, Order Form no. 3 and the License Agreement are interlinked and form part of a composite
+transaction. The said four agreements cannot be performed in isolation and have to be read
+coherently for achieving the common object underlying the agreements.
+
+21.The counsel submitted that respondent no. 1 is indisputably a fully owned subsidiary of
+respondent no. 2 and the customisation of the SAP Hybris Software to meet the requirements of the
+petitioner was not feasible without the aid, execution and performance of respondent no. 2. He
+submitted that for such reason, it could be said that there exists a direct commercial relationship
+between the petitioner and both the respondents.
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+5
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+22. The counsel further submitted that the various emails exchanged between the petitioner and
+respondent no. 2 are indicative of the intention of respondent no. 2 to monitor the execution of the
+SAP Hybris Software project and to ensure the compliance of the contractual obligations on behalf
+of respondent no. 1. The counsel adverted to the contents of many such emails in support of his
+contention.
+
+23. The counsel placed reliance on certain clauses of the License Agreement, Order Form no. 3 and
+GTC agreement to submit that although respondent no. 2 may not have been a signatory to the
+agreements, yet it had been entrusted with certain liabilities and obligations under the agreements
+entered into between the petitioner and respondent no. 1, thereby making it a veritable party to the
+transaction.
+
+24. In the last, the counsel submitted that as per the decision of the Constitution Bench of this Court
+in Cox and Kings Ltd. v. SAP India Pvt. Ltd. & Anr. reported in 2023 INSC 1051 the court at the
+stage of referral is only required to look prima facie into the validity and existence of an arbitration
+agreement and should leave the questions relating to the involvement of the non-signatory to the
+arbitral tribunal.
+
+D. SUBMISSIONS ON BEHALF OF THE RESPONDENTS
+
+25. Mr. Ritin Rai, the learned senior counsel appearing on behalf of the respondents made the
+following submissions which can be broadly divided into four categories:
+
+i. Contentions and claims sought to be raised by the petitioner are pending
+adjudication before another arbitral tribunal constituted under the same dispute
+resolution clause • The same contentions and claims as sought to be advanced in the
+present petition have already been raised and are pending adjudication before an
+arbitral tribunal constituted under the GTC Agreement. In the said proceedings, the
+Bombay High Court appointed an arbitrator and the same was affirmed by this Court.
+• The claims of the petitioner pertaining to the GTC agreement read with Order Form
+no. 1 (collectively referred to as the “Service Agreement”) are already sub-judice and
+cannot be permitted to be reagitated. The petitioner has already filed its
+counterclaims for an amount of Rs. 45,99,71,098/- before the arbitral tribunal
+presided by Justice Madan B. Lokur (Retd.).
+
+• Allowing parallel arbitration proceedings emanating from the same agreement and
+transaction would entail a risk of conflicting judgments on the same subject matter
+including the analogous set of facts in evidence. As such, the principles of res
+sub-judice and res judicata would be attracted to the second arbitration proceedings
+and consequently the present petition.
+
+ii. Respondent no. 2 has neither impliedly nor explicitly consented to the arbitration
+agreement between the petitioner and respondent no. 1 • The agreements in question
+have been executed only between the petitioner and respondent no. 1. Respondent
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+6
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+no. 2 is not a signatory to any of the agreements between the petitioner and
+respondent no. • Respondent no. 2 has been unnecessarily and disingenuously made
+a party to the present proceedings. Not a single limb of the transaction between the
+petitioner and respondent no. 1 was to be performed by or has been performed by
+respondent no. 2. Respondent no. 2 was never part of the negotiation process
+between the petitioner and respondent no. 1. Respondent no. 2 did not by its conduct,
+agree, either impliedly or explicitly, to be bound by the terms and conditions of the
+agreements between respondent no. 1 and the petitioner.
+
+• It is preposterous to suggest that by trying to address the concerns of a customer of
+the subsidiary company (who had voluntarily reached out), respondent no. 2 would
+become liable under the contracts executed solely between the petitioner and
+respondent no. • Respondent no. 2 entered the fray only when the petitioner, of its
+own accord, approached it and levelled certain allegations and raised issues
+concerning the SAP Hybris Software project with its management in August, 2016.
+
+• There is nothing on record either in the contractual framework or otherwise to
+indicate that the project was to be performed by respondent no. 2. The only
+communication with respondent no. 2 in respect of the SAP Hybris Software project
+arose after the escalation emails in August, 2016 where the petitioner itself requested
+the management of respondent no. 2 company to help with the alleged issues
+plaguing the SAP Hybris Software project. It was neither the intention of the
+petitioner nor that of respondent no. 1 to bind respondent no. 2 to the agreements.
+
+• The references to respondent no. 2 in the License Agreement only indicate that
+respondent no. 1 has obtained a license from respondent no. 2. No part of the License
+Agreement between the petitioner and respondent no. 1 was to be performed by
+respondent no. 2 and it is only in such circumstances that the parties chose not to
+make respondent no. 2 a party thereto. The references to respondent no. 2 in the
+License Agreement are standard references used by global software licensing
+companies. These references cannot bind a foreign owner of such licenses. Any
+finding to the contrary would completely upset the well-established commercial
+practice in this sector and would set a dangerous precedent. iii. Claims raised by the
+petitioners are beyond the ambit of Clause 15.7 of the GTC agreement • There exists
+no commonality between the four agreements entered into between the petitioner
+and respondent no. 1. The contention of the petitioner that the four agreements form
+part of a “single composite transaction” is incorrect as the License Agreement and
+Order Form no. 3 bear no significance to the implementation of the software, which
+is covered by the Services Agreement comprising of the GTC agreement and Order
+Form no. 1. Implementation is an exercise de hors the purchase of the license of the
+software.
+
+• The claims raised by the petitioner are beyond the ambit of the Services Agreement. As the License
+Agreement read with Order Form no. 3 is distinct and independent from the Services Agreement, it
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+7
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+naturally follows that the arbitration agreement contained under the GTC agreement read with
+Order Form no. 1 does not apply to the License Agreement read with Order Form no. • As the
+arbitration clause under the License Agreement read with Order Form no. 3 has not been invoked
+till date by either of the parties, it stands to reason that any alleged claims pertaining to the License
+Agreement read with Order Form no. 3 as mentioned in the notice of arbitration are time-barred
+and cannot be adjudicated upon. On this ground alone, the present Petition is liable to be dismissed.
+
+iv. The present petition is not bona fide and the petitioners have suppressed material facts from this
+Court • The present proceedings are a belated and misconceived attempt on the part of the
+petitioner to inflate amounts that it claims are due from respondent no. 1 and respondent no. 2. This
+is sought to be done by the petitioner to portray and provide a false view of its financial position to
+the creditors and subvert the due process of law through colourable actions. The petitioner is
+indulging in forum- shopping by once again attempting to appoint an arbitrator under the GTC
+agreement, a right which both the Bombay High Court and this Court, in two separate lengthy
+proceedings, under Sections 11 and 14 respectively of the Act, 1996, had decisively held to be
+forfeited by the petitioner for all times to come. • The petitioner failed to disclose that respondent
+no. 1 had challenged the notice of arbitration before the NCLT, Mumbai.
+
+      E.        SUBMISSIONS        ON     BEHALF       OF THE        INTERVENOR,
+
+                UNCITRAL NATIONAL COORDINATION COMMITTEE FOR
+
+                INDIA (UNCCI)
+
+26. Mr George Pothan Poothicote and Ms Manisha Singh, the learned counsel appearing on behalf
+of the intervenors in I.A. no. 69863 of 2023, made the following submissions:
+
+i. UNCITRAL Model Law on International Commercial Arbitration (“model law”) was
+amended in 2006 to address the concerns about the formal requirements necessary
+for constituting an arbitration agreement. The amendment was adopted by the
+United Nations General Assembly vide Resolution 61/33 dated 04.12.2006. Post the
+amendment, Article 7 of the model law provides two options to the member states –
+the first option requires the arbitration agreement to be in the form of a clause in a
+contract or a separate agreement, both of which must be in writing; the second option
+is silent on the requirement of a written agreement and thus the contract law
+applicable in a specific jurisdiction remains available for the determination of the
+level of consent necessary for a party to become bound by an arbitration agreement
+allegedly made by reference. Section 7 of the Act, 1996 is similar to (but not the same
+as) the first option.
+
+ii. As per the Constitution Bench decision in Cox and Kings (supra), the court, at the
+referral stage, is not bound to go into the merits of the case to decide if the
+non-signatory is bound by the arbitration agreement. On the contrary, the referral
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+8
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+court should leave it to the arbitral tribunal to decide such an issue.
+
+F. ANALYSIS
+
+27. Having heard the learned counsel appearing for the parties and having gone
+through the materials on record, the short question that falls for our consideration is
+whether the application of the petitioner for the appointment of an arbitrator
+deserves to be allowed.
+
+28. On the scope of powers of the referral court at the stage of Section 11(6), it was
+observed by us in Lombardi Engg. Ltd. v. Uttarakhand Jal Vidyut Nigam Ltd.
+reported in 2023 INSC 976 as follows:
+
+“26. Taking cognizance of the legislative change, this Court in Duro Felguera, S.A. v.
+Gangavaram Port Ltd. [Duro Felguera, S.A. v. Gangavaram Port Ltd., (2017) 9 SCC
+729 : (2017) 4 SCC (Civ) 764] , noted that post 2015 Amendment, the jurisdiction of
+the Court under Section 11(6) of the 1996 Act is limited to examining whether an
+arbitration agreement exists between the parties — “nothing more, nothing less.””
+(Emphasis supplied)
+
+29. A Constitution Bench of this Court in In Re: Interplay Between Arbitration
+Agreements under the Arbitration and Conciliation Act, 1996 and the Stamp Act,
+1899 reported in 2023 INSC 1066, speaking through one of us (Dr. D.Y.
+Chandrachud, CJI), considered the scope of judicial interference by the referral court
+in a Section 11 application. A few relevant observations made therein are reproduced
+hereinbelow:
+
+“81. One of the main objectives behind the enactment of the Arbitration Act was to
+minimise the supervisory role of Courts in the arbitral process by confining it only to
+the circumstances stipulated by the legislature. For instance, Section 16 of the
+Arbitration Act provides that the Arbitral Tribunal may rule on its own jurisdiction
+“including ruling on any objection with respect to the existence or validity of the
+arbitration agreement”. The effect of Section 16, bearing in view the principle of
+minimum judicial interference, is that judicial authorities cannot intervene in
+matters dealing with the jurisdiction of the Arbitral Tribunal. Although Sections 8
+and 11 allow Courts to refer parties to arbitration or appoint arbitrators, Section 5
+limits the Courts from dealing with substantive objections pertaining to the existence
+and validity of arbitration agreements at the referral or appointment stage. A Referral
+Court at Section 8 or Section 11 stage can only enter into a prima facie determination.
+The legislative mandate of prima facie determination ensures that the Referral Courts
+do not trammel the Arbitral Tribunal's authority to rule on its own jurisdiction.”
+
+30. In a recent decision in SBI General Insurance Co. Ltd. v. Krish Spinning reported
+in 2024 INSC 532, it was observed by us that the arbitral tribunal is the preferred
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+9
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+first authority to look into the questions of arbitrability and jurisdiction, and the
+courts at the referral stage should not venture into contested questions involving
+complex facts. A few relevant paragraphs of the said decision are extracted
+hereinbelow:
+
+“98. What follows from the negative facet of arbitral autonomy when applied in the
+context of Section 16 is that the national courts are prohibited from interfering in
+matters pertaining to the jurisdiction of the arbitral tribunal, as exclusive jurisdiction
+on those aspects vests with the arbitral tribunal. The legislative mandate of prima
+facie determination at the stage of Sections 8 and 11 respectively ensures that the
+referral courts do not end up venturing into what is intended by the legislature to be
+the exclusive domain of the arbitral tribunal.
+
+xxx xxx xxx
+
+114. In view of the observations made by this Court in In Re:
+
+Interplay (supra), it is clear that the scope of enquiry at the stage of appointment of
+arbitrator is limited to the scrutiny of prima facie existence of the arbitration
+agreement, and nothing else. […] xxx xxx xxx
+
+125. We are also of the view that ex-facie frivolity and dishonesty in litigation is an
+aspect which the arbitral tribunal is equally, if not more, capable to decide upon the
+appreciation of the evidence adduced by the parties. We say so because the arbitral
+tribunal has the benefit of going through all the relevant evidence and pleadings in
+much more detail than the referral court. If the referral court is able to see the
+frivolity in the litigation on the basis of bare minimum pleadings, then it would be
+incorrect to doubt that the arbitral tribunal would not be able to arrive at the same
+inference, most likely in the first few hearings itself, with the benefit of extensive
+pleadings and evidentiary material.” (Emphasis supplied)
+
+31. Further, on the scope of enquiry at the referral stage for the determination of
+whether a non-signatory can be impleaded as a party in the arbitration proceedings,
+it was observed by the Constitution Bench in Cox and Kings (supra) as follows:
+
+“ 1 5 8 .   S e c t i o n   1 6   o f   t h e   A r b i t r a t i o n   A c t   e n s h r i n e s   t h e   p r i n c i p l e   o f
+competence-competence in Indian arbitration law. The provision empowers the
+Arbitral Tribunal to rule on its own jurisdiction, including any ruling on any
+objections with respect to the existence or validity of arbitration agreement. Section
+16 is an inclusive provision which comprehends all preliminary issues touching upon
+the jurisdiction of the Arbitral Tribunal. [Uttarakhand Purv Sainik Kalyan Nigam Ltd.
+v. Northern Coal Field Ltd., (2020) 2 SCC 455 : (2020) 1 SCC (Civ) 570] The doctrine
+of competence-competence is intended to minimise judicial intervention at the
+threshold stage. The issue of determining parties to an arbitration agreement goes to
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+10
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+the very root of the jurisdictional competence of the Arbitral Tribunal.
+
+xxx xxx xxx
+
+160. In Pravin Electricals (P) Ltd. v. Galaxy Infra & Engg. (P) Ltd. [Pravin Electricals (P) Ltd. v.
+Galaxy Infra & Engg. (P) Ltd., (2021) 5 SCC 671 : (2021) 3 SCC (Civ) 307] , a Bench of three Judges
+of this Court was called upon to decide an appeal arising out of a petition filed under Section 11(6) of
+the Arbitration Act for appointment of sole arbitrator. The issue before the Court was the
+determination of existence of an arbitration agreement on the basis of the documentary evidence
+produced by the parties. This Court prima facie opined that there was no conclusive evidence to
+infer the existence of a valid arbitration agreement between the parties. Therefore, the issue of
+existence of a valid arbitration agreement was referred to be decided by the Arbitral Tribunal after
+conducting a detailed examination of documentary evidence and cross-examination of witnesses.
+
+161. The above position of law leads us to the inevitable conclusion that at the referral stage, the
+Court only has to determine the prima facie existence of an arbitration agreement. If the referral
+court cannot decide the issue, it should leave it to be decided by the Arbitral Tribunal. The referral
+court should not unnecessarily interfere with arbitration proceedings, and rather allow the Arbitral
+Tribunal to exercise its primary jurisdiction. In Shin-Etsu Chemical Co. Ltd. v. Aksh Optifibre Ltd.
+[Shin-Etsu Chemical Co. Ltd. v. Aksh Optifibre Ltd., (2005) 7 SCC 234], this Court observed that
+there are distinct advantages to leaving the final determination on matters pertaining to the validity
+of an arbitration agreement to the Tribunal : (Shin- Etsu Chemical Co. case [Shin-Etsu Chemical Co.
+
+Ltd. v. Aksh Optifibre Ltd., (2005) 7 SCC 234] , SCC p. 267, para 74) “74. … Even if the Court takes
+the view that the arbitral agreement is not vitiated or that it is not valid, inoperative or
+unenforceable, based upon purely a prima facie view, nothing prevents the arbitrator from trying
+the issue fully and rendering a final decision thereupon. If the arbitrator finds the agreement valid,
+there is no problem as the arbitration will proceed and the award will be made. However, if the
+arbitrator finds the agreement invalid, inoperative or void, this means that the party who wanted to
+proceed for arbitration was given an opportunity of proceeding to arbitration, and the arbitrator
+after fully trying the issue has found that there is no scope for arbitration.” xxx xxx xxx
+
+164. In case of joinder of non-signatory parties to an arbitration agreement, the following two
+scenarios will prominently emerge: first, where a signatory party to an arbitration agreement seeks
+joinder of a non-signatory party to the arbitration agreement; and second, where a non- signatory
+party itself seeks invocation of an arbitration agreement. In both the scenarios, the referral court
+will be required to prima facie rule on the existence of the arbitration agreement and whether the
+non-signatory is a veritable party to the arbitration agreement. In view of the complexity of such a
+determination, the referral court should leave it for the Arbitral Tribunal to decide whether the non-
+signatory party is indeed a party to the arbitration agreement on the basis of the factual evidence
+and application of legal doctrine. The Tribunal can delve into the factual, circumstantial, and legal
+aspects of the matter to decide whether its jurisdiction extends to the non-signatory party. In the
+process, the Tribunal should comply with the requirements of principles of natural justice such as
+giving opportunity to the non-signatory to raise objections with regard to the jurisdiction of the
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+11
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+A r b i t r a l   T r i b u n a l .   T h i s   i n t e r p r e t a t i o n   a l s o   g i v e s   t r u e   e f f e c t   t o   t h e   d o c t r i n e   o f
+competence-competence by leaving the issue of determination of true parties to an arbitration
+agreement to be decided by the Arbitral Tribunal under Section 16.
+
+165. In view of the discussion above, we arrive at the following conclusions:
+
+………
+
+(l) At the referral stage, the referral court should leave it for the Arbitral Tribunal to
+decide whether the non-signatory is bound by the arbitration agreement […]”
+(Emphasis supplied)
+
+32. As discussed above, the respondents have raised a number of objections against
+the present petition, however, none of the objections raised question or deny the
+existence of the arbitration agreement under which the arbitration has been invoked
+by the petitioner in the present case. Thus, the requirement of prima facie existence
+of an arbitration agreement, as stipulated under Section 11 of the Act, 1996, is
+satisfied.
+
+33. Once the arbitral tribunal is constituted, it shall be open for the respondents to
+raise all the available objections in law, and it is only after (and if) the preliminary
+objections are considered and rejected by the tribunal that it shall proceed to
+adjudicate the claims of the petitioner.
+
+34. Further, on the issue of impleadment of respondent no. 2, which is not a
+signatory to the arbitration agreement, elaborate submissions have been made on
+both the sides, placing reliance on terms of the agreements, email exchanges, etc. In
+view of the complexity involved in the determination of the question as to whether
+the respondent no. 2 is a party to the arbitration agreement or not, we are of the view
+that it would be appropriate for the arbitral tribunal to take a call on the question
+after taking into consideration the evidence adduced before it by the parties and the
+application of the legal doctrine as elaborated in the decision in Cox and Kings
+(supra).
+
+35. In view of the aforesaid, the present petition is allowed. We appoint Shri Justice
+Mohit S. Shah, former Chief Justice of the High Court of Judicature at Bombay to act
+as the sole arbitrator. The fees of the arbitrator including other modalities shall be
+fixed in consultation with the parties.
+
+36. It is made clear that all the rights and contentions of the parties are left open for
+adjudication by the learned arbitrator.
+
+37. Pending application(s), if any, shall stand disposed of.
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+12
+
+Cox And Kings Ltd vs Sap India Pvt. Ltd on 9 September, 2024
+
+…………………………………….CJI (Dr. Dhananjaya Y. Chandrachud) ………………………………………J. (J.B.
+Pardiwala) ………………………………………J. (Manoj Misra) New Delhi;
+
+9th September, 2024
+
+Indian Kanoon - http://indiankanoon.org/doc/146053591/
+
+13
+
+

@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 6733 of 2022",
+  "parties": {
+    "petitioner": "Balram Singh",
+    "respondent": "Kelo Devi"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-23",
+  "summary": "The appellant challenged the High Court's dismissal of a second appeal which had confirmed a decree for permanent injunction in favor of the respondent based on an unregistered agreement to sell. The Supreme Court held that an unregistered agreement to sell is inadmissible in evidence and cannot be used as a basis for granting permanent injunction, especially when the plaintiff avoids seeking specific performance. The Court ruled that a party cannot obtain indirectly a relief (injunction) that cannot be obtained directly (specific performance) through clever drafting. Consequently, the appellate decisions were set aside.",
+  "legal_provisions_cited": [
+    "Section 49 of the Registration Act, 1908",
+    "Specific Relief Act, 1963"
+  ],
+  "final_judgment": "Appeal allowed. The impugned judgment and decree granting permanent injunction are quashed. The trial court's decree dismissing the suit and allowing the counter-claim is restored. No order as to costs."
+}

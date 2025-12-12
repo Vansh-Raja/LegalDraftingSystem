@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No(s). 3738-3739 of 2023 (Arising out of SLP(C) No(s). 10617-10618 of 2023)",
+  "parties": {
+    "petitioner": "M/s D. N. Singh Through Partner",
+    "respondent": "Commissioner of Income Tax, Central, Patna and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-16",
+  "summary": "The case involved tax assessments for AY 1995-1996 and 1996-1997, where the appellant was alleged to have misappropriated bitumen during transport. The Assessing Officer made additions under Section 69A of the Income-Tax Act, 1961, for undelivered quantities. The CIT(A) deleted additions except on disputed deliveries, remanding for cross-examination. The Revenue sought rectification under Section 154, which was allowed, reinstating the additions. The High Court dismissed the appeal. The Supreme Court considered issues of standard of proof, applicability of Section 69A, evidentiary value of challans, and whether undelivered goods could be treated as unexplained income. It emphasized that mere discrepancy in delivery records does not justify treating goods as income unless ownership or benefit is established. The case also examined whether bitumen could be treated as an 'other valuable article' under the Act.",
+  "legal_provisions_cited": [
+    "Section 69A, Income-Tax Act, 1961",
+    "Section 154, Income-Tax Act, 1961",
+    "Section 260A, Income-Tax Act, 1961",
+    "The Carriage by Road Act, 2007",
+    "The Sale of Goods Act, 1930",
+    "Indian Penal Code - Criminal Breach of Trust"
+  ],
+  "final_judgment": "Leave granted. The judgment of the High Court is set aside. The appeals are allowed. The matter is remanded to the Assessing Officer to reassess the additions under Section 69A, after affording opportunity of cross-examination and verification of signatures, in accordance with law and the principles laid down."
+}

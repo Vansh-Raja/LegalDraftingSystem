@@ -1,0 +1,19 @@
+{
+  "case_number": "CRIMINAL APPEAL NO(S). 2311 OF 2022",
+  "parties": {
+    "petitioner": "Rajaram",
+    "respondent": "State of Madhya Pradesh & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-16",
+  "summary": "Appellant challenged his conviction under Section 498A IPC, arguing that the dying declarations were inadmissible and internally inconsistent, particularly Ex. P-26 which named him for cruelty while Ex. P-11 did not. Prosecution relied on Ex. P-26 to establish dowry-related cruelty and harassment. Appellant contended that statements implicating him were not circumstances of the transaction leading to death under Section 32(1) of Evidence Act. High Court affirmed conviction; appellant claimed witnesses turned hostile and prosecution failed to prove Section 304B. Court examined admissibility and reliability of two dying declarations, timing, medical fitness, and contradictions. Held that dying declarations, though recorded differently, could be relied upon if voluntarily made and consistent with material facts.",
+  "legal_provisions_cited": [
+    "Section 498A IPC",
+    "Section 304B IPC",
+    "Section 302 IPC",
+    "Section 34 IPC",
+    "Dowry Prohibition Act, Sections 3 and 4",
+    "Section 32(1) of the Indian Evidence Act"
+  ],
+  "final_judgment": "Appeal allowed. Conviction under Section 498A IPC set aside due to insufficient corroborative evidence and inconsistencies in dying declarations, particularly the late inclusion of the appellant in Ex. P-26 without medical certification of mental fitness. Case remanded for fresh consideration of charges under other sections."
+}

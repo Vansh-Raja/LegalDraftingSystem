@@ -1,0 +1,23 @@
+{
+  "case_number": "Civil Appeal No. 6990 of 2014",
+  "parties": {
+    "petitioner": "The State of Haryana through Secretary to Government of Haryana",
+    "respondent": "Jai Singh & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-07",
+  "summary": "The appeals challenged amendments to the Punjab Village Common Lands (Regulation) Act, 1961, introduced by Haryana Act No. 9/1992, which expanded the definition of 'Shamlat Deh' to include lands reserved under Section 18 of the East Punjab Holdings (Consolidation and Prevention of Fragmentation) Act, 1948, vesting them in Gram Panchayats. The Punjab and Haryana High Court had initially struck down the amendments as violative of Article 31-A of the Constitution, amounting to colourable legislation by acquiring private land without compensation. This Court in 1998 remanded the matter for determination of whether the affected lands were within ceiling limits and under personal cultivation. On re-adjudication, the constitutional validity of the provisions was challenged again. The Supreme Court examined historical context, customary law, prior judicial precedents, and the scope of agrarian reforms, ultimately determining the constitutional permissibility of vesting such lands in Panchayats without compensation, subject to statutory compliance.",
+  "legal_provisions_cited": [
+    "Article 31-A of the Constitution of India",
+    "Punjab Village Common Lands (Regulation) Act, 1961",
+    "Haryana Act No. 9/1992",
+    "East Punjab Holdings (Consolidation and Prevention of Fragmentation) Act, 1948, Section 18",
+    "AIR 1995 P&H 243",
+    "AIR 1960 P&H 317",
+    "AIR 1961 P&H 1",
+    "AIR 1962 P&H 221",
+    "AIR 1965 SC 632",
+    "Ajit Singh v. State of Punjab & Anr."
+  ],
+  "final_judgment": "The appeals were disposed of on the basis of prior remand and subsequent reconsideration by the High Court, with the Supreme Court affirming the need to assess lands under personal cultivation and within ceiling limits; constitutional validity of the amendments upheld as not amounting to prohibited acquisition under Article 31-A where statutory conditions are satisfied."
+}

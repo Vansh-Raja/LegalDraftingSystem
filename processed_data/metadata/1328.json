@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No 1046 of 2019",
+  "parties": {
+    "petitioner": "Kantha Vibhag Yuva Koli Samaj Parivartan Trust and Others",
+    "respondent": "State of Gujarat and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-21",
+  "summary": "The appeal challenged the National Green Tribunal's (NGT) dismissal of an original application (OA No 81 of 2014) concerning illegal dumping of untreated municipal solid waste (MSW) at an open landfill in Khajod Village, Surat, violating the Municipal Solid Waste Rules, 2000 and Bio-Medical Waste Rules, 1998. The landfill, operated by Surat Municipal Corporation (SMC), caused severe environmental and health hazards. The NGT had previously issued multiple directives to SMC for compliance and closure of the site but ultimately disposed of the OA in September 2018, citing ongoing monitoring by newly constituted Apex, Regional, and State Level Committees under OA No 606 of 2018. The Supreme Court considered whether this disposal was justified without final adjudication on environmental restoration, compensation, and compliance. The Court emphasized continued judicial oversight and the insufficiency of administrative committees as substitutes for adjudicatory relief.",
+  "legal_provisions_cited": [
+    "Section 22 of the National Green Tribunal Act, 2010",
+    "Sections 14 and 15 of the NGT Act",
+    "Municipal Solid Waste (Handling and Management) Rules, 2000",
+    "Bio-Medical Waste (Management and Handling) Rules, 1998",
+    "Solid Waste Management Rules, 2016",
+    "Clause J of Schedule-I of the SWM Rules, 2016"
+  ],
+  "final_judgment": "The Supreme Court set aside the NGT’s order dismissing OA No 81 of 2014 and directed the NGT to adjudicate the matter afresh, ensuring compliance with environmental norms, assessment of environmental damage, determination of compensation, and restoration of the affected area."
+}

@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No(s) 2109-2110 of 2004; 2108 of 2004; 5312-5313 of 2005; 5314 of 2005; 6587 of 2005; 7303 of 2005; 6579 of 2022; 6593-6594 of 2022; 3018 of 2007; 7169 of 2022; 6591 of 2022; 6595 of 2022; 6879-6881 of 2022; 6592 of 2022; 7103-7104 of 2022; 6828 of 2022; 7064 of 2022; 6590 of 2022; 3640 of 2022",
+  "parties": {
+    "petitioner": "K.C. Ninan",
+    "respondent": "Kerala State Electricity Board & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-19",
+  "summary": "Electricity dues from previous owners; whether recoverable from subsequent purchasers; regulatory regime analysis (Electricity Acts 1910, 1948, 2003); interpretation of Conditions of Supply; States' rules compared (Kerala, Maharashtra, Gujarat, Assam, West Bengal); arrears as property charge; universal service obligation; legal principles on successor liability; no automatic transfer of dues to transferee; statutory framework examination for electricity connection refusal; standard applied: electricity dues not binding on new owners absent statutory mandate; appeal partially allowed to limit recovery.",
+  "legal_provisions_cited": [
+    "Electricity Act 1910 s.2(c), s.21(2), s.22, s.24",
+    "Electricity (Supply) Act 1948 s.5, s.26, s.49, s.70(2)",
+    "Electricity Regulatory Commissions Act 1998",
+    "Electricity Act 2003 ss.2(15), 43, 50, 56, 181(2)(x)",
+    "Kerala Conditions of Supply 1990 c.15(e)",
+    "MSEB Conditions 1976 c.23(b)",
+    "Maharashtra ESR Commission Regulations 2005 r.10.5"
+  ],
+  "final_judgment": "Appeal partially allowed; transferees not liable for predecessor's full electricity arrears; recovery capped to statutory limits per state regulations; Electricity Boards directed to provide connections upon compliance with modified terms."
+}

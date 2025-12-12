@@ -1,0 +1,20 @@
+{
+  "case_number": "2024 INSC 484",
+  "parties": {
+    "petitioner": "The Excise Commissioner, Karnataka & Anr.",
+    "respondent": "Mysore Sales International Ltd. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-07-08",
+  "summary": "Whether Section 206C of the Income Tax Act applies to the appellant, a state government undertaking, and whether liquor vendors obtaining retail vending rights via auction qualify as 'buyers' under Section 206C. The Court examined the nature of the transaction—conclusion that auction pertains to retail vending rights, not sale of liquor itself—and considered exclusions under Explanation(a)(iii). Also considered applicability of TDS obligations and compliance with natural justice. Held that Section 206C does not apply as vendors are not 'buyers' in a commercial sale context but licensees under state control.",
+  "legal_provisions_cited": [
+    "Section 206C(6), Income Tax Act, 1961",
+    "Section 156, Income Tax Act, 1961",
+    "Explanation(a) to Section 206C, Income Tax Act, 1961",
+    "Karnataka Excise Act, 1965",
+    "The Karnataka Excise (Arrack Vend Special Conditions of Licenses) Rules, 1967",
+    "The Karnataka Excise (Lease of the Right of Retail Vend of Liquors) Rules, 1969",
+    "The Karnataka Excise (Manufacture and Bottling of Arrack) Rules, 1987"
+  ],
+  "final_judgment": "Appeal allowed. The orders of the assessing officer and the High Court setting TDS liability under Section 206C are set aside. Mysore Sales International Ltd. not liable to collect tax at source as the excise contractors are not 'buyers' within the meaning of Section 206C."
+}

@@ -1,0 +1,21 @@
+{
+  "case_number": "Criminal Appeal No. __ of 2022 (Arising out of SLP (Crl.) No. 3113 of 2018)",
+  "parties": {
+    "petitioner": "M/s TRL Krosaki Refractories Ltd.",
+    "respondent": "M/s SMS Asia Private Limited & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-22",
+  "summary": "The case involves a dispute over the quashing of a criminal complaint under Section 138 of the Negotiable Instruments Act, 1881, for dishonour of cheques. The key issue was whether the complaint filed by the General Manager (Accounting) of the appellant company was valid under Section 142, particularly regarding authorization and knowledge of the transaction. The High Court had quashed the complaint, citing lack of explicit authorization and reliance on A.C. Narayanan v. State of Maharashtra. The Supreme Court examined whether the complainant was the 'payee' and if the representative was competent, noting he was a signatory to relevant documents and had knowledge. The Court emphasized the requirement under Section 142(1)(a) that the complaint must be filed by the payee or holder in due course, and considered precedents including M.M.T.C. Ltd. v. Medchi Chemicals and Vishwa Mitter v. O.P. Poddar.",
+  "legal_provisions_cited": [
+    "Section 138, Negotiable Instruments Act, 1881",
+    "Section 142(1)(a), Negotiable Instruments Act, 1881",
+    "Section 482, Criminal Procedure Code",
+    "Order III Rule 1 and 2, Code of Civil Procedure",
+    "A.C. Narayanan vs. State of Maharashtra & Anr. (2014) 11 SCC 790",
+    "M/s. M.M.T.C. Ltd. vs. Medchi Chemicals and Pharma (P) Ltd., (2002) 1 SCC 234",
+    "Vishwa Mitter vs. O.P. Poddar, (1983) 4 SCC 701",
+    "Janaki Vashdeo Bhojwani & Anr. vs. Indusind Bank Ltd. & Ors. (2005) 2 SCC 217"
+  ],
+  "final_judgment": "The appeal is allowed, and the judgment of the Orissa High Court quashing the complaint is set aside. The matter is remanded to the Magistrate to proceed with the trial in accordance with law."
+}

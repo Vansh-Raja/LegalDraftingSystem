@@ -1,0 +1,21 @@
+{
+  "case_number": "Criminal Appeal No(s). OF 2022 (Arising out of Special Leave Petition (Crl.) No.2420 of 2022)",
+  "parties": {
+    "petitioner": "The State of Manipur & Ors.",
+    "respondent": "Buyamayum Abdul Hanan @ Anand & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-19",
+  "summary": "The appeals challenged the Manipur High Court's decision to set aside an order of preventive detention under the Narcotic Drugs and Psychotropic Substances Act, 1988. The High Court held that illegible and blurred copies of documents relied upon in the detention order were supplied, undermining the detenu's right under Article 22(5) of the Constitution to make an effective representation. The State argued the issue was not raised before the detaining authority, but the Supreme Court emphasized that non-supply of legible documents constitutes a violation of a fundamental right, irrespective of prior objection. The Supreme Court upheld the High Court's judgment, affirming that denial of clear documents vitiated the detention process.",
+  "legal_provisions_cited": [
+    "Article 22(5), Constitution of India",
+    "Article 226, Constitution of India",
+    "Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Act, 1988",
+    "Smt. Dharmista Bhagat v. State of Karnataka & Another, 1989 Supp (2) SCC 155",
+    "Manjit Singh Grewal @ Gogi v. Union of India & Ors., 1990 (Supp.) SCC 59",
+    "Mehrunissa v. State of Maharashtra, (1981) 2 SCC 709",
+    "Bhupinder Singh v. Union of India & Others, (1987) 2 SCC 234",
+    "Ramchandra A. Kamat v. Union of India and Others, (1980) 2 SCC 270"
+  ],
+  "final_judgment": "Appeal dismissed; the High Court's order quashing the detention was upheld as the failure to supply legible documents violated Article 22(5) of the Constitution."
+}

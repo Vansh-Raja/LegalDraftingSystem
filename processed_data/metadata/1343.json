@@ -1,0 +1,24 @@
+{
+  "case_number": "Crl.A.256/2022",
+  "parties": {
+    "petitioner": "Luckose Zachariah @ Zak Nedumchira Luke and Others",
+    "respondent": "Joseph Joseph and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-18",
+  "summary": "The appeal challenged the revival of criminal proceedings after a supplementary investigation under Section 173(8) CrPC recommended dropping charges. The High Court had dismissed a Section 482 CrPC petition, holding that both positive and negative reports under Section 173 CrPC must be read together, but that a protest petition's dismissal had no legal consequence. The Supreme Court reaffirmed Vinay Tyagi v. Irshad Ali, holding that supplementary reports under Section 173(8) must be considered alongside the initial report to determine prima facie guilt, and that the Magistrate must apply judicial mind to both before proceeding. The Court emphasized that a fair investigation continues until charges are framed, and Magistrates retain supervisory powers under Section 156(3) CrPC.",
+  "legal_provisions_cited": [
+    "Section 173(2), Code of Criminal Procedure, 1973",
+    "Section 173(8), Code of Criminal Procedure, 1973",
+    "Section 227, Code of Criminal Procedure, 1973",
+    "Section 156(3), Code of Criminal Procedure, 1973",
+    "Article 21, Constitution of India",
+    "Vinay Tyagi v. Irshad Ali, (2013) 5 SCC 762",
+    "Vinubhai Haribhai Malaviya v. State of Gujarat, (2019) 17 SCC 1",
+    "Sakiri Vasu v. State of U.P., (2008) 2 SCC 409",
+    "Samaj Parivartan Samudaya v. State of Karnataka, (2012) 7 SCC 407",
+    "Hardeep Singh v. State of Punjab, (2014) 3 SCC 92",
+    "Hasanbhai Valibhai Qureshi v. State of Gujarat, (2004) 5 SCC 347"
+  ],
+  "final_judgment": "The appeal was allowed, the impugned judgment of the High Court was set aside, and the Magistrate was directed to consider both the initial and supplementary reports under Section 173 CrPC together to determine whether there is sufficient ground to proceed, in accordance with the principles laid down in Vinay Tyagi and Vinubhai Haribhai Malaviya."
+}

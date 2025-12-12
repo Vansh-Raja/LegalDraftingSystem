@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 4795 of 2021",
+  "parties": {
+    "petitioner": "M/s Pahwa Plastics Pvt. Ltd. and Anr.",
+    "respondent": "Dastak NGO and Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-25",
+  "summary": "The appeal concerned the legality of continuing industrial operations without prior Environmental Clearance (EC), despite holding Consent to Establish (CTE) and Consent to Operate (CTO). The key issue was whether large industrial units employing thousands could be allowed to operate pending ex post facto EC, particularly if they comply with pollution norms. The Court examined statutory frameworks under the Air (Prevention and Control of Pollution) Act, 1981, the Environment (Protection) Act, 1986, and associated notifications, especially the 2006 EIA Notification mandating prior EC. It emphasized the precautionary principle, holding that prior EC is mandatory and ex post facto clearance cannot be permitted routinely, as it undermines environmental safeguards.",
+  "legal_provisions_cited": [
+    "Section 22, National Green Tribunal Act, 2010",
+    "Environment (Protection) Act, 1986, Section 3",
+    "Environment (Protection) Act, 1986, Section 5",
+    "Air (Prevention and Control of Pollution) Act, 1981, Section 17",
+    "Environmental Impact Assessment Notification, 2006"
+  ],
+  "final_judgment": "Appeal dismissed. Industrial units without prior Environmental Clearance must cease operations until compliance, even if they hold CTE/CTO and employ large workforces. Ex post facto clearance not permitted as a matter of course."
+}

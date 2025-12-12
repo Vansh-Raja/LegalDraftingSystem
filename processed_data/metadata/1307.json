@@ -1,0 +1,15 @@
+{
+  "case_number": "Writ Petition (Civil) No. 607 of 2021",
+  "parties": {
+    "petitioner": "Jacob Puliyel",
+    "respondent": "Union of India & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-02",
+  "summary": "The petitioner, a former member of NTAGI, filed a public interest petition seeking disclosure of clinical trial data, minutes of expert committee meetings, DCGI's reasoned decisions on vaccine approvals, and post-vaccination adverse event data. He challenged the constitutionality of vaccine mandates, arguing they violate Article 21 by infringing informed self-determination. The Union of India opposed on maintainability, citing risk of increasing vaccine hesitancy and emphasizing that vaccination decisions are based on expert advice. It stated that vaccination is voluntary and not linked to entitlements. The court examined issues of transparency, public health policy, and judicial restraint in scientific matters.",
+  "legal_provisions_cited": [
+    "Article 21 of the Constitution of India",
+    "National Ethical Guidelines for Biomedical and Health Research involving Human Participants (ICMR)"
+  ],
+  "final_judgment": "The court dismissed the petition, upholding the government's vaccination policy as voluntary and based on expert advice, and refrained from interfering in scientific decision-making, citing public interest and potential impact on vaccine hesitancy."
+}

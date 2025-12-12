@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal Nos.111-113 of 2015",
+  "parties": {
+    "petitioner": "Rajesh Prasad",
+    "respondent": "The State of Bihar and Anr. Etc."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-07",
+  "summary": "Appellant Rajesh Prasad challenged the Patna High Court's acquittal of accused persons convicted by the Fast Track Court, Munger, in a bomb explosion case resulting in two deaths. The prosecution alleged the accused hurled bombs due to opposition to their illegal liquor trade, killing the appellant's father and another person. The Fast Track Court convicted three accused, sentencing two to death and one to life imprisonment. The High Court reversed the conviction, acquitting all, and directed perjury proceedings against the appellant. The Supreme Court examined consistency of eyewitnesses, reliability of prosecution evidence, and reasonableness of the High Court's interference, especially in overturning a death sentence confirmed by the Sessions Court.",
+  "legal_provisions_cited": [
+    "Section 302/34 IPC",
+    "Section 120B IPC",
+    "Section 504 IPC",
+    "Section 225 IPC",
+    "Section 3/4 Explosive Substances Act, 1908",
+    "Section 313 Cr.P.C.",
+    "Section 207 Cr.P.C."
+  ],
+  "final_judgment": "The appeals were dismissed, upholding the High Court's judgment acquitting the accused, as the prosecution failed to prove guilt beyond reasonable doubt; the direction for perjury proceedings against the appellant was not acted upon."
+}

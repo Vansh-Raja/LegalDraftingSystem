@@ -1,0 +1,2604 @@
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks
+Private Limited on 26 April, 2024
+
+2024 INSC 348                                                                                                REPORTABLE
+                                            IN THE SUPREME COURT OF INDIA
+                                             CIVIL APPELLATE JURISDICTION
+                                           CIVIL APPEAL NOS. 5366-5367 OF 2024
+
+               FERTILIZER CORPORATION OF INDIA                                                         …APPELLANTS
+               LIMITED & ORS.
+
+                                                                 VERSUS
+
+               M/S COROMANDAL SACKS PRIVATE LIMITED                                                    …RESPONDENT
+
+                                                             JUDGMENT
+
+J. B. PARDIWALA, J.:
+
+For the convenience of exposition, this judgment is divided into the following parts: -
+
+I N D E X   A .
+  F A C T U A L   M A T R I X
+............................................................................................. 2 i. Case of the original
+plaintiff before the trial court ...................................... 4 ii. Case of the original
+defendants before the trial court .................................. 6 iii. Appeals before the High
+Court .................................................................... 9 B. SUBMISSIONS ON BEHALF
+O F   T H E   A P P E L L A N T S / O R I G I N A L   D E F E N D A N T S
+.................................................................................................... 10 C. SUBMISSIONS
+ON BEHALF OF THE RESPONDENT/ORIGINAL Sanjay Kumar PLAINTIFF
+.......................................................................................................... 15 D.
+ANALYSIS............................................................................................................ 19 i.
+Proceedings in respect of FCIL before the BIFR ....................................... 19 ii. Issues
+for Determination ............................................................................ 21 iii. Overview of
+I n d u s t r i a l   S i c k n e s s   a n d   t h e   L e g i s l a t i v e   S c h e m e   o f   t h e   1 9 8 5   A c t .
+............................................................................................................. 22 iv. ISSUE NO.
+1: Whether the suspension of legal proceedings as envisaged under Section 22(1) of
+the 1985 Act would extend to a civil suit for recovery of money even if the debt sought
+to be proved in the plaint has not been admitted by the sick industrial company? If
+so, whether the decree in favour of the original plaintiff could be said to be coram
+non-judice? ................... 29 v. ISSUE NO. 2: Whether the High Court was correct in
+granting 24% Compound Interest on the Principal Decretal Amount in favour of the
+original Plaintiff? ....................................................................................... 68 a.
+Concept of Interest ........................................................................................ 68 E.
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+1
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+CONCLUSION .................................................................................................... 90 A.
+FACTUAL MATRIX
+
+1. Since the issues raised in both the captioned appeals are the same; the parties are
+also the same and the challenge is also to the self-same impugned common judgment
+and order passed by the High Court, those were taken up for hearing analogously and
+are being disposed of by this common judgment and order.
+
+2. The appellants herein are the original defendants and the respondent herein is the
+original plaintiff.
+
+3. The present appeals arise from the impugned common judgment and order dated
+10.06.2022 (“impugned judgment”) passed by the High Court of Telangana at
+Hyderabad partly allowing the Appeal Suit No. 808 of 2002 and Appeal Suit No. 913
+of 2004 respectively preferred by the original defendants and the original plaintiff
+respectively against the judgment and decree dated 19.09.2001 passed by the Senior
+Civil Judge, Peddapalli in O.S. No. 37 of 1996 decreeing the suit partly in favour of
+the original plaintiff.
+
+4. M/s Coromandal Sacks Private Limited, that is, the original plaintiff, is a company
+registered under the Companies Act, 1956 established with the assistance of the
+Andhra Pradesh Industrial Development Corporation Limited (“APIDC”) and is
+engaged in the manufacturing of High Density Poly Ethylene (“HDPE”) bags.
+
+5. Fertilizer Corporation of India Ltd. (“FCIL”), that is, the defendant company, is a
+Public Sector Undertaking (“PSU”) of the Government of India established for the
+manufacturing of fertilisers and are operating under the administrative control of the
+Ministry of Chemicals and Fertilizers, Government of India.
+
+6. The original defendants required HDPE bags for the purpose of packaging and
+supply of fertiliser to their customers. They had been placing orders for the same with
+the original plaintiff since 1986-87 onwards. The terms and conditions including the
+technical specifications of the bags and terms of payment were specified in the
+notices inviting tender (“NIT”) issued from time to time and the purchase orders
+issued in pursuance thereof. As per the terms of the NIT, the original defendants
+were required to make the entire payment within 20 days of the receipt of the bags
+and approval of the same.
+
+The terms of the purchase orders also entitled the original defendants to deduct up to a maximum of
+5% of the contract price towards liquidated damages upon delay in supply of bags by the original
+plaintiff.
+
+i. Case of the original plaintiff before the trial court
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+2
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+7. The case of the original plaintiff before the trial court was that the original defendants placed with
+it certain purchase orders for the supply of the HDPE bags, which were manufactured by it as per
+the specifications and duly supplied periodically. The purchase orders were amended from time to
+time to account for the increase in the number of bags which were required by the original
+defendants. It was the case of the original plaintiff that in pursuance of the communications
+exchanged with the original defendants, it supplied 42,000 bags over and above the quantity
+mentioned in the purchase orders to meet with the urgent requirements of the original defendants,
+on the understanding that a subsequent purchase order would be issued to account for the extra
+supply.
+
+8. The grievance of the original plaintiff was that when a formal purchase order was subsequently
+issued by the original defendants to account for the extra bags supplied by the original plaintiff, the
+price per bag mentioned in the said order fell short of the price agreed upon between the parties.
+The original plaintiff was also aggrieved by the deductions made by the original defendants towards
+the liquidated damages for the alleged delay in supply of the bags and the penalty imposed towards
+the supply of the alleged poor quality of the bags. The original plaintiff also claimed to have suffered
+losses due to the refusal of the original defendants to accept 25,000 bags after placing the order,
+which were printed as per the specifications prescribed by the original defendants and had to be sold
+as scrap due to non-acceptance by the original defendants.
+
+9. With a view to recover the aforesaid losses, the original plaintiff instituted the civil suit for the
+recovery of Rs 8,27,100.74/- along with Rs 10,31,803.14/- towards interest up to the date of
+institution of the suit. A detailed break-up of the claim of the original plaintiff before the trial court
+is as follows:
+
+     S. No.                        Particulars                          Amount (Rs.)
+
+    1.        Towards price difference for 33,000 bags, i.e., from         49,500
+              Rs. 8.75/bag to Rs. 10.25/bag
+
+    2.        Towards price difference for 9,000 bags, i.e., from Rs.      6,210
+              8.75/bag to Rs. 9.44/bag
+
+                                                               Total    Rs. 55,710.00
+
+(cid:12)                             (Towards price difference for 42000 bags)
+
+       3.         Towards Liquidated Damages deducted by the             1,63,470.75
+                  defendants
+
+       4.         Towards deduction against penalties                    4,89,919.99
+
+       5.         Towards loss incurred on 25,000 Bags printed which     1,18,000.00
+                  was sold as waste @ 50% price on account of not
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+3
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+                  taking delivery.
+
+                                               Principal Grand Total     8,27,100.74
+
+       6.         Towards Interest on Rs. 55,710 from 01.01.1994 to       38,609.32
+                  21.11.1996 at the rate of 24%
+
+       7.         Towards Interest on Rs. 1,63,470.75 from 01.01.1994      1,13,298
+                  to 21.11.1996
+
+       8.         Towards Interest on delayed payment up to                3,45,467
+                  15.07.1994 as per the Debit Note dated 15.07.1994
+
+       9.         Towards interest on Rs. 3,45,467 from 16.07.1994 to    1,94,900.18
+                  21.11.1996
+
+       10.        Towards interest on Rs. 4,89,919.99 from 01.01.1994    3,39,534.69
+                  to 21.11.1996
+
+                                                        Total Interest   10,31,803.14
+
+                                                         Grand Total     18,58,903.88
+
+ii.         Case of the original defendants before the trial court
+
+10. The original defendants filed their written statement before the trial court stating that there was
+no discrepancy in the purchase order issued subsequent to the supply of the extra bags and that the
+imposition of liquidated damages was justified as per the terms of the NIT and the purchase orders.
+It was also stated that the deductions imposed as penalty for the supply of poor quality of the bags
+was also justified and interest @ 24% was not liable to be imposed.
+
+11. The original defendants further stated before the trial court that as they had been declared to be a
+sick company under Section 3(1)(o) of the Sick Industrial Companies (Special Provisions) Act, 1985
+(“the 1985 Act”), the suit for recovery was not maintainable as per Section 22(1) of the 1985 Act and
+thus was liable to be dismissed.
+
+12. The trial court, having regard to the specific pleadings of the parties proceeded to frame 10 issues
+as tabulated hereinbelow.
+
+         S. No.                       Issue                        Decision of the trial court
+
+        1.        Whether the plaintiff had supplied 42,000          Decided in favour of the
+                  bags (33,000 + 9,000) on the advice and                   plaintiff
+                  urgency showed by the defendants on his
+                  own?
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+4
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+        2.        Whether the defendants after taking and            Decided in favour of the
+                  consuming the bags even without placing          plaintiff – Rs 55,710/- with
+                  order can deny the agreed price for the           interest @ 12% p.a. from
+                  42,000 bags?                                     01.01.1994 till realisation
+
+        3.        Whether the defendants had any right to          Partly decided in favour of
+                  deduct Rs. 1,63,471/- as Liquidated                    the defendants
+                  Damages?
+
+        4.        Whether the defendants were entitled to            Decided in favour of the
+                  deduct Rs. 4,89,919.99 as penalty. If so,                defendants
+                  whether it was in accordance with the terms
+                  and conditions of order/tender?
+
+5. Whether the plaintiff was entitled to interest Partly decided in favour of for the delayed payment
+as per law? the plaintiff – Interest rate of 12% granted on the payments held as due and delayed.
+
+6. Whether the plaintiff had printed 25,000 Decided in favour of the bags as per the oral order of the
+plaintiff – Rs 1,18,000/- with defendants? If so, whether the plaintiff sustained loss at the rate of
+50% of the value interest @ 12% p.a. from due to refusal on the part of the defendants 01.01.1994 till
+realisation. to take delivery of the bags?
+
+7. Whether the defendants had called for a Decided in favour of the fresh tender after placing of the
+orders to plaintiff the plaintiff and in which M/s Neptune Polymers, Ahmedabad quoted rate of a
+bag at Rs. 8.46, the same has become binding on the plaintiff?
+
+8. Whether the defendants had regularised the Decided in favour of supply of 33,000 bags at Rs.
+8.46/bag vide plaintiff P.O. No. 40893 dated 21.04.1994 and same was accepted by the plaintiff?
+
+9. Whether the suit was not maintainable as Decided in favour of the the defendants have been
+declared as Sick plaintiff Industry by the BIFR vide Case No. PUC/C/515/92 dated 06.11.1992?
+
+10. Whether the suit of the plaintiff was barred Decided in favour of the by limitation? plaintiff
+
+13. On the issue of applicability of Section 22 of the 1985 Act, it was observed thus by the trial court:
+
+“Both sides have not argued on this issue and no material is produced before the
+Court and no evidence is also adduced on this issue. Hence, the defendant company
+failed to prove that it is a sick industry and the plaintiff’s suit is maintainable. I
+answer this issue in favour of the Plaintiff accordingly”
+
+14. The final decree drawn by the trial court reads thus:
+
+“1. That the suit of the plaintiff be and is hereby decreed.
+
+2. That the defendants 1 to 4 be and are hereby directed to pay Rs.
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+5
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+55,710/-, Rs. 100,848 and Rs. 1,18,000/- to the plaintiff together with interest @ 12% per annum
+from 01.01.1994 till realization.
+
+3. That the defendants 1 to 4 be and are hereby further directed to pay Rs. 1,72,734/- to the plaintiff
+together with interest @ 12% per annum from 16.07.1994 till realization.
+
+4 That the suit of the plaintiff for the rest of the claim of Rs. 4,89,919/- be and is hereby dismissed.
+
+5. That the defendants do pay Rs. 37,169/- to the plaintiff towards the costs of the suit.” iii. Appeals
+before the High Court
+
+15. Both the parties went to the High Court in appeal against the aforesaid decision of the trial court.
+The original plaintiff contended before the High Court, inter alia, that the deductions towards the
+liquidated damages and penalty were wrongly imposed on it by the original defendants, and that the
+interest at the rate of 24% with monthly compounding ought to have been granted on the delayed
+payments in light of the provisions of the Interest on Delayed Payments to Small Scale and Ancillary
+Industrial Undertakings Act, 1993 (“the 1993 Act”).
+
+16. The original defendants on the other hand contested that the trial court had failed to consider
+the evidence properly and had wrongly awarded the amounts under different heads to the original
+plaintiff. The contention as to the applicability of Section 22(1) of the 1985 Act was also raised by the
+original defendants.
+
+17. The High Court, vide the impugned judgment partly allowed both the appeals.
+
+The original defendants were allowed to deduct an amount of Rs 1,63,471/- towards the liquidated
+damages, whereas the original plaintiff was allowed to recover the amounts deducted towards
+penalty, price difference in the supply of 42,000 bags and the loss incurred due to the refusal of the
+original defendants to accept the delivery of 25,000 bags. Pertinently, the High Court accepted the
+contention of the original plaintiff on the issue of interest and granted 24% compound interest on
+the amounts due.
+
+18. Despite recording the submissions of the parties on the applicability of Section 22(1) of the 1985
+Act, neither any point for determination was framed nor any finding was returned on the same by
+the High Court.
+
+19. Aggrieved by the impugned judgment, more particularly as regards the awarding of 24% interest
+in favour of the original plaintiff – which has inflated the principal decretal amount to one of
+mammoth proportions – the original defendants are before this Court with the present appeals. B.
+SUBMISSIONS ON BEHALF OF THE APPELLANTS/ORIGINAL DEFENDANTS
+
+20. Ms. Malvika Trivedi, the learned senior counsel appearing on behalf of the original defendants
+submitted that the 1985 Act overrides the 1993 Act as the same was enacted in the larger public
+interest by the Parliament with a view to secure the directive specified under Article 39 of the
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+6
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+Constitution.
+
+21. It was further submitted that the 1993 Act having been enacted to provide for and regulate the
+payment of interest on delayed payments to the small-scale industries, does not envisage a situation
+where an industrial undertaking becomes sick and requires a scheme for its revival.
+
+22. It was argued that the provisions of the 1985 Act should be given the widest possible import in
+light of the fact that the same is a self-contained code containing provisions like the statutory bar on
+civil suits for recovery of money from sick industrial companies under Section 22 and the
+non-obstante clause under Section 32 by virtue of which the provisions of the 1985 Act are given an
+overriding effect. Reliance was placed by the learned senior counsel upon the decisions of this Court
+in Jay Engineering Works Ltd. v. Industry Facilitation Council reported in (2006) 8 SCC 677 and
+Tata Motors Ltd. v. Pharmaceutical Products of India Ltd. reported in (2008) 7 SCC 619.
+
+23. It was further submitted that the impugned judgment and order passed by the High Court failed
+to take into consideration the law settled by this Court in Bhoruka Textiles Ltd. v. Kashmiri Rice
+Industries reported in (2009) 7 SCC 521 which held that if the jurisdiction of the civil court was
+ousted in terms of the jurisdictional bar imposed under Section 22 of the 1985 Act, then any
+judgment rendered by it would be coram non-judice and as a result a nullity.
+
+24. To fortify her aforesaid submission, the learned senior counsel argued that the facts of the
+present case are similar to the facts in Bhoruka Textiles (supra) as follows:
+
+I. The defendant company was declared as a sick industrial undertaking under
+Section 3(1)(o) of the 1985 Act and was referred to the BIFR for its revival on
+06.11.1992 and an enquiry under Section(s) 16 and 17 respectively of the 1985 Act was
+pending in respect of the defendant company at the time of the institution of the suit
+by the original plaintiff before the trial court.
+
+II. The suit for recovery of money was instituted by the original plaintiff against the
+original defendants without obtaining the consent of the BIFR, as mandated by
+Section 22 of the 1985 Act.
+
+III. Despite the statutory bar under Section 22 against the institution of a suit for the
+recovery of money, the trial court decided the suit and decreed it. Even the High
+Court in the impugned judgment failed to decide the issue of lack of jurisdiction of
+the trial court in deciding the suit.
+
+25. The learned senior counsel further submitted that the contention of the original plaintiff that the
+statutory bar under Section 22 of the 1985 Act applies only against a recognized creditor and such
+debts as are acknowledged before the BIFR during the pendency of the reference application is not
+the correct understanding of the law and is against the beneficial object of the Act. It was contended
+that the reliance placed by the original plaintiff on the decision of the Delhi High Court in Sunil
+Mittal Properties of Shree Shyam Packaging Industries v. M/s LML Ltd. reported in (2011) 123 DRJ
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+7
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+249 is misplaced as the said decision failed to consider the law settled by this Court in Bhoruka
+Textiles (supra) and thus could be termed as per incuriam.
+
+26. One another submission made by the learned senior counsel was that out of the total claim put
+forward by the original plaintiff before the trial court, only the amount of Rs 55,710/- could have
+been recognized as delayed payment. It was submitted that the deductions made by the original
+defendants towards liquidated damages and penalty while remitting the payment to the original
+plaintiff could not have been classified as delayed payment for the purpose of computation of
+interest under the 1993 Act and the interest could only have been claimed on the undisputed and
+agreed upon sum under the contract.
+
+27. It was argued that the liability, if any, of the original defendants to pay interest on the amount of
+Rs 4,89,919.99/- should be limited from the date of the impugned judgment, wherein the High
+Court while partially modifying the decree awarded by the trial court, awarded the amount as above
+in favour of the original plaintiff for the first time.
+
+28. It was also argued that the High Court erred in interfering with the exercise of discretion by the
+trial court in awarding 12% pendente lite interest in favour of the original plaintiff.
+
+29. The learned senior counsel further submitted that the original plaintiff had the option of taking
+recourse to the mechanism prescribed under Section 6 of the 1993 Act which provides for making a
+reference of any dispute to the Industry Facilitation Council for acting as an arbitrator or a
+conciliator. However, by consciously approaching the civil court by way of a suit for recovery of
+money despite the jurisdictional bar contained under Section 22 of the Act, the original plaintiff
+must now face the consequences of approaching a non- jurisdictional forum.
+
+30. Lastly, it was submitted by the learned senior counsel that the defendant company remained
+under BIFR for a period of 21 years and was revived in 2013 after intervention of the Cabinet
+Committee on Economic Affairs. The economic distress caused by the enforcement of the liability
+imposed upon the original defendants by the High Court may potentially overwhelm the efforts at
+revival of the defendant company.
+
+C. SUBMISSIONS ON BEHALF OF THE RESPONDENT/ORIGINAL PLAINTIFF
+
+31. Mr. Sundeep Pothina, the learned counsel appearing on behalf of the original plaintiff submitted
+at the outset that Section 22 of the 1985 Act is not applicable to the instant case as neither the debt
+came to be acknowledged, nor the name of the creditor company figured before the BIFR. Since, in
+the case on hand, the original defendants did not include the liability of the original plaintiff in their
+list of liabilities in accordance with Section 21(a)(i) of the 1985 Act nor in their book of accounts
+under Section 21(a)(ii) of the 1985 Act nor did it include the original plaintiff company in the list of
+creditors under Section 21(b) of the 1985 Act at the time of reference or thereafter, the jurisdictional
+bar available under Section 22 of the 1985 Act cannot be said to be applicable to the suit instituted
+by the original plaintiff.
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+8
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+32. It was further submitted that the reliance placed by the original defendants on Bhoruka Textiles
+(supra) in support of their contention regarding Section 22 of the 1985 Act is misplaced for the
+following reasons:
+
+I. This Court in Bhoruka Textiles (supra) decided the issue as to whether the bar
+under Section 22 of the 1985 Act would apply to a suit for recovery instituted for
+defaults occurring post the reference of the sick industrial company to the BIFR when
+the reference was pending.
+
+However, the issue in the present case is different and pertains to whether a suit for
+determination of ‘illegal deductions’ and ‘breach of contract’ and liability would be
+barred by virtue of Section 22 of the Act.
+
+II. In Bhoruka Textiles (supra), not only the debt but the creditor was also
+acknowledged before the BIFR and there was no dispute on the issue or size of
+default. However, in the present case, both the existence and quantum of liability are
+under dispute. The original defendants have not referred to the original plaintiff as a
+‘creditor’ before any forum.
+
+33. It was further argued that the reliance placed by the original defendants on Jay Engineering
+(supra) is also of no avail as in the facts of that case, there was no dispute over the quantum of dues
+and the sick company therein had reckoned the dues and the liabilities were covered in the revised
+rehabilitation scheme. Further, the decision in the said case only supports the contention of the
+original plaintiff that the adjudicatory process of making an award is not barred under Section 22 of
+the 1985 Act and it is only the execution of such an award against a sick company which is protected
+under Section 22 of the 1985 Act. Thus, as the civil court in this case was the adjudicating authority
+having inherent jurisdiction to decide the suit under Section 9 of the Civil Procedure Code, 1908, the
+adjudicatory part of determining the liability couldn’t be said to have been barred by Section 22 of
+the Act. It is only the execution of such a decree arrived at as a result of the adjudicatory process
+which could be said to be barred under Section 22 of the 1985 Act during the period when the sick
+company is under the protection of the BIFR.
+
+34. The learned counsel further submitted that the reliance placed by the original defendants on the
+decision of this Court in Tata Motors (supra) is also misplaced as the said decision pertains to
+Section 26 of the 1985 Act while the case on hand pertains to the applicability of Section 22 of the
+1985 Act. He contended that even the said decision supports the case of the original plaintiff as it
+explains the distinction between the adjudicatory authority of a civil court and the BIFR and holds
+that the jurisdiction of a civil court is barred in respect of any matter for which the BIFR or the
+Appellate Authority for Industrial and Financial Reconstruction (“AAIFR”) is empowered.
+
+35. The learned counsel, while placing reliance on the decision of the Delhi High Court in Sunil
+Mittal (supra), argued that the facts of the present case are squarely covered by the said decision. It
+was submitted that in the said case, a distinction was drawn between the ‘process of assessment’ and
+‘quantified recoveries’ and it was held that while the realisation of the latter is stayed by virtue of
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+9
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+Section 22 of the 1985 Act, the former, which is the process of finalisation of liability, does not get
+stayed by operation of Section 22 of the 1985 Act.
+
+36. The learned counsel submitted that the contention of the original defendants that the decision in
+Sunil Mittal (supra) is rendered per-incuriam as the same failed to consider the decision in Bhoruka
+Textiles (supra) is incorrect as the court therein had based its decision on the judgment of a division
+bench of the Delhi High Court in Saketh India Limited v. W. Diamond India Ltd. reported in 2010
+SCC OnLine Del 1786. The decision in Saketh India (supra) has exhaustively considered the various
+decisions of this Court on the issue of applicability of jurisdictional bar under Section 22 of the 1985
+Act and thus the decision in Sunil Mittal (supra) cannot be characterised as per-incuriam.
+
+37. The learned counsel submitted that the High Court in its impugned judgment has determined
+the issue of rate of interest under Section 4 of the 1993 Act. The High Court, after looking into the
+relevant material, observed that the floor rate charged by the State Bank of India (“SBI”) for the
+financial year 1993-94 was 19% and thus awarded interest at 24% which is 5 per-cent points above
+the floor rate.
+
+38. The learned counsel, in the last, submitted that as opposed to the representations made by the
+defendant company about its current financial status, the net worth of the defendant company as on
+31.03.2022 is in the positive and is at the least not less than 2,000/- crores.
+
+D. ANALYSIS
+
+39. Before adverting to the rival submissions canvassed on either side, we would like to briefly
+discuss the proceedings in respect of the defendant company before the Board for Industrial and
+Financial Reconstruction (“BIFR”) in terms of Section 15 of the 1985 Act.
+
+i. Proceedings in respect of FCIL before the BIFR
+
+40. At the end of financial year 1991-92, the defendant company suffered huge erosion in its net
+worth and became a sick industrial company. Accordingly, a reference was made to the BIFR in
+terms of Section 15 of the 1985 Act. Thereafter, the BIFR after hearing the representatives and
+stakeholders declared the defendant company to be a sick company under Section 3(1)(o) of the
+1985 Act vide its order dated 06.11.1992. The BIFR also granted FCIL and the Government of India
+time till 31.03.1993 to submit their final plan for rehabilitating the company.
+
+41. During the entire period of adjudication of the suit by the trial court and for a part of the period
+during the pendency of the appeals before the High Court, the defendant company continued to
+remain a Sick Industrial company with a Special Director appointed by the BIFR and the SBI
+appointed as the Operating Agency.
+
+42. On 09.05.2013, the Cabinet Committee on Economic Affairs (“CCEA”) met and took decisions
+on the revival of the defendant company. The Government of India waived off its loan and interest
+amounting to Rs. 10,643/- crore and the debt owed to the other PSUs were settled at 30% of their
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+10
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+respective dues as on 31.03.2003.
+
+43. Meanwhile, the BIFR in the course of one important hearing looked into the progress towards
+the revival of the defendant company in detail. After taking into account the developments over the
+course of 20 years, the BIFR issued the following relevant directions: -
+
+“i. The company, M/s Fertilizer Corpn. Of India (Case No. 515/1992) ceases to be a
+Sick Industrial Company, within the meaning of Section 3(1)(o) of the SICA as its
+net-worth has turned positive. It is therefore, de-registered from the purview of
+SICA/BIFR.
+
+xxx xxx xxx iv. The Board discharges the State Bank of India from the responsibility
+of Operating Agency (OA) to the Board. v. All Secured Creditors, Statutory
+Authorities are at liberty to recover their dues, if any, according to law.”
+
+44. Thus, in view of the directions of the BIFR dated 27.06.2013 referred to above, the defendant
+company ceased to be a Sick Industrial company during the pendency of the appeals before the High
+Court.
+
+45. The submissions of the original defendants were focussed on and limited to the following two
+aspects – jurisdictional bar on the civil court in deciding the suit instituted by the original plaintiff
+by virtue of Section 22(1) of the 1985 Act; and the legality & validity of the interest rate of 24% per
+annum awarded by the High Court in the original plaintiff’s favour.
+
+ii. Issues for Determination
+
+46. Having heard the parties extensively on the aforesaid aspects and having perused the materials
+on record, the following two questions fall for our consideration:
+
+I. Whether the suspension of legal proceedings as envisaged under Section 22(1) of
+the 1985 Act would extend to a civil suit for recovery of money even if the debt sought
+to be proved in the plaint has not been admitted by the sick industrial company? If
+so, whether the decree in favour of the original plaintiff could be said to be coram
+non-judice?
+
+II. Whether the High Court was correct in granting 24% compound interest on the
+principal decretal amount in favour of the original plaintiff?
+
+iii. Overview of Industrial Sickness and the Legislative Scheme of the 1985 Act.
+
+47. Before we proceed to answer the aforesaid issues, we would like to discuss briefly the concept of
+industrial sickness, the legislative scheme of the 1985 Act and the object behind its enactment. This
+will help us develop a better contextual understanding of the questions before us.
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+11
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+48. Sickness in industries is a natural fall-out of industrialisation. Industrial sickness can be
+understood to refer to a situation wherein an industrial unit fails to generate surplus and is
+incurring losses over a period of time resulting in the erosion of its net-worth. Section 3(o) of the
+1985 Act defines a ‘sick industrial company’ to be one which at the end of a financial year
+accumulates losses equal to or exceeding its net worth.
+
+49. While there could be numerous causes of sickness, the mismanagement of the industrial unit,
+faulty planning at the inception of an industry, technical drawbacks, recession in the market, labour
+disputes, changes in the fiscal policies of the government, unavailability of credit facilities, and non-
+availability of raw-materials are some of the prominent factors causing industrial sickness.
+
+50. As the Indian economy transitioned from being an agriculture-intensive one towards a more
+industry-centric one, a growing number of industries suffered huge financial losses resulting in their
+closure, which in turn led to the loss of employment, government revenue and locking up of the
+investible funds of banks and financial institutions which were invested in setting up of those
+industries. In order to curb industrial sickness and its detrimental impacts on the Indian economy,
+many policies and legislations were enacted over the years by the executive and the legislative wing
+respectively. The aim of such enactments was two-fold – first, to reduce the incidence of sickness in
+industries by promoting a conducive industrial climate and secondly, to identify sick companies and
+take effective remedial steps for revival of such companies and upon failure, to wind them up.
+
+51. One of the first such enactments was the Industrial Development and Regulation Act, 1951
+(“IDRA Act, 1951”) which contained provisions empowering the Central Government to cause
+investigation into the affairs of an Industrial Company which is to be wound up for the purpose of
+reviving such Company in the interest of general public by ensuring production, supply or
+distribution of articles.
+
+52. Nationalisation of sick industries through legislations was another approach adopted by the
+government to revive or continue the operation of sick industries in national interest. An enactment
+brought in with the object of dealing with sickness in the textile industry was the Sick Textile
+Undertaking (Nationalization) Act, 1974 which, inter alia, provided for the reorganisation and
+rehabilitation of sick textile industries. Similarly, The Aluminium Corporation of India Ltd.
+(Acquisition and Transfer of Aluminium Undertaking) Act, 1984 and The Futwah Islampur
+Lightway Line (Nationalisation) Act, 1985 were enacted with similar objects.
+
+53. Industrial Reconstruction Bank of India Act, 1984 was enacted to provide financial assistance to
+sick industrial companies for their revival. However, the said enactment was repealed thereafter.
+
+54. In 1981, the Reserve Bank of India (“RBI”) appointed a committee under the chairmanship of
+late Shri T. Tiwari to look into the causes of industrial sickness, to assess the depth of the problem
+and to suggest comprehensive and focussed remedial measures to counter the problem of industrial
+sickness in India. The committee submitted its report suggesting, inter alia, the setting up of a
+quasi-judicial body through a special legislation to handle the cases of industrial sickness. This
+suggestion of the committee led to the enactment of the 1985 Act.
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+12
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+55. The Statement of Objects and Reasons accompanying the Sick Industrial Companies Bill, 1985
+reads as follows:
+
+“The ill effects of sickness in industrial companies such as loss of production, loss of
+employment, loss of revenue to the Central and State Governments and locking up of
+investible funds of banks and financial institutions are of serious concern to the
+Government and the society at large. The concern of the Government is accentuated
+by the alarming increase in the incidence of sickness in industrial companies. It has
+been recognised that in order to fully utilise the productive industrial assets, afford
+maximum protection of employment and optimise the use of the funds of the banks
+and financial institutions, it would be imperative to revive and rehabilitate the
+potentially viable sick industrial companies as quickly as possible. It would also be
+equally imperative to salvage the productive assets and realise the amounts due to the
+banks and financial institutions, to the extent possible, from the non-viable sick
+industrial companies through liquidation of those companies.
+
+2. It has been the experience that the existing institutional arrangements and
+procedures for revival and rehabilitation of potentially viable sick industrial
+companies are both inadequate and time-consuming. A multiplicity of laws and
+agencies makes the adoption of coordinated approach for dealing with sick industrial
+companies difficult. A need has, therefore, been felt to enact in public interest a
+legislation to provide for timely determination by a body of experts of the preventive,
+ameliorative, remedial and other measures that would need to be adopted with
+respect to such companies and for enforcement of the measures considered
+appropriate with utmost practicable despatch.
+
+3. The salient features of the Bill are-
+
+(i) Application of the legislation to the industries specified in the First Schedule to the
+Industries (Development and Regulation) Act. 1951, with the initial exception of the
+scheduled industry relating to ships and other vessels drawn by power, which may
+however be brought within the ambit of the legislation in due course:
+
+(ii) identification of sickness in an industrial company, registered for not less than
+seven years, on the basis of the symptomatic indices of cash losses for two
+consecutive financial years and accumulated losses equalling or exceeding the net
+worth of the company as at the end of the second financial year,
+
+(iii) the onus of reporting sickness and impending sickness at the stage of erosion of
+fifty per cent, or more of the net worth of an industrial company is being laid on the
+Board of Directors of such company; where the Central Government or the Reserve
+Bank is satisfied that an industrial company has become sick, it may make a reference
+to the Board, likewise if any State Government, scheduled bank or public financial
+institution having an interest in an industrial company is satisfied that the industrial
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+13
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+company has become sick, it may also make a reference to the Board;
+
+(iv) establishment of Board consisting of experts in various relevant fields with
+powers to enquire into and determine the incidence of sickness in industrial
+companies and devise suitable remedial measures through appropriate schemes or
+other proposals and for proper implementation thereof;
+
+v) constitution of an Appellate Authority consisting of persons who are or have been
+Supreme Court Judges, senior High Court Judges and Secretaries to the Government
+of India, etc. for hearing appeals against the order of the Board.
+
+4. The notes on clauses appended to the Bill explain the various provisions of the Bill.
+
+NEW DELHI THE 22nd August, 1985. VISHWANATH PRATAP SINGH”
+
+56. The preamble to the 1985 Act reads as follows:
+
+“An Act to make, in the public interest, special provisions with a view to securing the
+timely detection of sick and potentially sick companies owning industrial
+undertakings, the speedy determination by a Board of experts of the preventive,
+ameliorative, remedial and other measures which need to be taken with respect to
+such companies and the expeditious enforcement of the measures so determined and
+for matters connected therewith or incidental thereto.”
+
+57. Having discussed the object behind the enactment of the 1985 Act and the developments leading
+up to its inception, we shall now briefly discuss the scheme and scope of the 1985 Act.
+
+58. The 1985 Act is divided into four chapters. The first chapter contains preliminary provisions
+including the definitions and a declaration that the 1985 Act is enacted in furtherance of the
+principles enshrined in clauses (b) and (c) of the Article 39 of the Constitution. The second chapter,
+inter alia, provides for the establishment of the BIFR and the AAIFR and prescribes the term of
+office and conditions of service of their chairperson and members and also the procedure to be
+followed by them.
+
+59. The third chapter, which is often described as the soul and essence of the 1985 Act, provides for
+the methodology that is to be adopted for the purposes of detecting, reviving or even winding up a
+sick industrial company. Section 15 enables the Board of Directors of a company which has become
+sick to make reference to BIFR for determination of measures which shall be adopted with respect to
+the company. The Central Government or the Reserve Bank or the State Government concerned
+may also make the reference to the BIFR for the same purpose if it has sufficient reasons to believe
+that a company has become sick. Once a reference is made, it is open to the BIFR to conduct an
+inquiry for determining whether the company has become sick. If the BIFR is satisfied on
+completion of the inquiry that the company has become sick, it can adopt any of the measures
+envisaged in Section 17 of the 1985 Act. When an order is made under Section 17 a scheme with
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+14
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+respect to the company shall be prepared by “the operating agency” specified in such order under
+Section 18. The operating agency may also be directed by the BIFR under Section 21 to prepare,
+inter alia, an inventory of the books of account of the sick company and its assets and liabilities, a
+list of shareholders and secured and unsecured creditors, a valuation report in respect of the shares
+and the assets etc. Section 20 provides for the winding up of a sick company where the BIFR is of
+the opinion that such a company is not likely to become viable in the future. Section 22, which is at
+the heart of the dispute before us, inter alia, provides for the suspension of legal proceedings of the
+nature as specified in the said section.
+
+60. The fourth chapter, among other things, provides for the detection of potentially sick companies
+in the initial stages by mandating the Board of Directors of such companies to bring such potential
+sickness to the knowledge of the BIFR and the shareholders of the companies. Punishment of up to
+two years imprisonment along with fine is also prescribed in case of default in complying with the
+requirement. The issue of mismanagement leading to sickness in companies is sought to be dealt
+with under Section 24 of the 1985 Act which provides strict measures in case of proved misfeasance,
+breach of trust, etc. Section 26 bars the jurisdiction of civil courts in respect of matters which the
+BIFR or the AAIFR are empowered to determine. Section 32 is the non-obstante provision which
+imparts overriding effect to the 1985 Act over other laws in force except for the two legislations
+mentioned in the said section itself. The 1985 Act was repealed by the Sick Industrial Companies
+(Special Provisions) Repeal Act, 2003 which was notified on 01.12.2016.
+
+61. Having discussed in detail the scheme of the 1985 Act and the object and purpose behind its
+enactment, we shall now proceed to answer the issues framed by us.
+
+iv. ISSUE NO. 1: Whether the suspension of legal proceedings as envisaged under Section 22(1) of
+the 1985 Act would extend to a civil suit for recovery of money even if the debt sought to be proved
+in the plaint has not been admitted by the sick industrial company? If so, whether the decree in
+favour of the original plaintiff could be said to be coram non-judice?
+
+62. To answer the issue before us, it is important to first delineate the scope of the relevant
+provision, which is reproduced hereinbelow:
+
+“22. Suspension of legal proceedings, contracts, etc.— (1) Where in respect of an
+industrial company, an inquiry under section 16 is pending or any scheme referred to
+under section 17 is under preparation or consideration or a sanctioned scheme is
+under implementation or where an appeal under section 25 relating to an industrial
+company is pending, then, notwithstanding anything contained in the Companies
+Act, 1956 (1 of 1956) or any other law or the memorandum and articles of association
+of the industrial company or any other instrument having effect under the said Act or
+other law, no proceedings for the winding up of the industrial company or for
+execution, distress or the like against any of the properties of the industrial company
+or for the appointment of a receiver in respect thereof and no suit for the recovery of
+money or for the enforcement of any security against the industrial company or of
+any guarantee in respect of any loans or advance granted to the industrial company
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+15
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+shall lie or be proceeded with further, except with the consent of the Board or, as the
+case may be, the Appellate Authority….”
+
+63. Section 22(1) of the 1985 Act provides that subject to the fulfilment of the conditions as
+described in the sub-section, proceedings of the nature mentioned therein shall remain suspended
+in respect of a sick industrial company.
+
+64. For the bar under the said sub-section to get attracted, it is necessary that in respect of an
+industrial company:
+
+I. An inquiry under Section 16 of the 1985 Act is pending; OR II. A scheme under
+Section 17 of the 1985 Act is under preparation or consideration; OR III. A sanctioned
+scheme is under implementation; OR IV. An appeal under Section 25 of the 1985 Act
+is pending.
+
+65. If one of the four conditions as mentioned aforesaid is fulfilled, then notwithstanding anything
+contained in the Companies Act, 1956 or any other law or the memorandum and articles of
+association of the industrial company or any other instrument having effect under the Companies
+Act, 1956 or other law, proceedings in the nature of the following cannot be initiated, and if already
+initiated, cannot be proceeded with, except with the consent of the BIFR or the AAIFR, as the case
+may be:
+
+I. Winding up of the industrial company;
+
+II. Execution, distress or the like against any of the properties of the industrial
+company;
+
+III. Appointment of receiver in respect of any of the properties of the industrial
+company;
+
+IV. Suit for recovery of money from the industrial company;
+
+V. Suit for enforcement of a security against the industrial company;
+
+VI. Suit for enforcement of a guarantee in respect of loans or advance granted to the
+industrial company.
+
+66. It is pertinent to mention that prior to the coming into force of the Sick Industrial Companies
+(Amendment) Act, 1993 w.e.f. 01.02.1994, the proceedings in the nature of a suit as mentioned in
+(iv), (v) and (vi) in paragraph 65 above were exempt from the ambit of the suspension as envisaged
+under Section 22(1) of the 1985 Act.
+
+67. Thus, as can be seen from the plain reading of Section 22(1) of the 1985 Act, for an industrial
+company to avail the benefit of suspension of legal proceedings, two conditions have to be fulfilled –
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+16
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+First, one of the four requirements as mentioned in paragraph 64 should be satisfied, that is, the
+industrial company must be at the prescribed stage of proceedings before the BIFR or the AAIFR.
+Secondly, the nature of proceedings sought to be suspended should be one which falls within the
+ambit of proceedings mentioned in paragraph 65 above.
+
+68. We shall first examine whether the first of the two conditions as mentioned above is satisfied, as
+the protective shield of Section 22(1) of the 1985 Act is only available so long as the proceedings
+before the BIFR or the AAIFR are pending. It was observed by a three-judge bench of this Court in
+Shree Chamundi Mopeds Ltd. v. Church of South India Trust Association CSI CINOD Secretariat,
+Madras reported in (1992) 3 SCC 1 thus:
+
+“….We are, therefore, of the opinion that the passing of the interim order dated
+February 21, 1991 by the Delhi High Court staying the operation of the order of the
+Appellate Authority dated January 7, 1991 does not have the effect of reviving the
+appeal which had been dismissed by the Appellate Authority by its order dated
+January 7, 1991 and it cannot be said that after February 21, 1991, the said appeal
+stood revived and was pending before the Appellate Authority. In that view of the
+matter, it cannot be said that any proceedings under the Act were pending before the
+Board or the Appellate Authority on the date of the passing of the order dated August
+14, 1991 by the learned Single Judge of the Karnataka High Court for winding up of
+the company or on November 6, 1991 when the Division Bench passed the order
+dismissing O.S.A. No. 16 of 1991 filed by the appellant-
+
+company against the order of the learned Single Judge dated August 14, 1991. Section
+22(1) of the Act could not, therefore, be invoked and there was no impediment in the
+High Court dealing with the winding up petition filed by the respondents…”
+(Emphasis supplied)
+
+69. As discussed hereinbefore in paragraph 40 of the judgment, the Board of Directors of the
+defendant company, passed a resolution dated 20.04.1992 to the effect that the company had
+become a sick company for the purposes of the 1985 Act and thus a reference to the BIFR was
+required to be made. In accordance with the resolution, a reference was accordingly made under
+Section 15(1) of the 1985 Act. Subsequently, a bench of the BIFR took up the reference of the
+defendant company for consideration and vide order dated 06.11.1992, inter alia, decided that the
+company fulfilled all the criteria prescribed under Section 3(1)(o) of the 1985 Act for being declared
+a sick company. The bench also granted the defendant company and the Government of India time
+till 31.03.1993 to submit a proposal for rehabilitation of the company for the consideration of the
+bench.
+
+70. The defendant company continued to remain a sick company under the 1985 Act and
+proceedings before the BIFR continued and it was only on 27.06.2013, after a detailed consideration
+of the progress made by the company towards revival, that the BIFR declared the defendant
+company to have ceased to be a sick industrial company. Consequently, the defendant company was
+deregistered from BIFR on the said date.
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+17
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+71. It is the case of the original defendants that the original civil suit for the recovery of money
+having been filed against the defendant company during the pendency of proceedings before the
+BIFR, the trial court committed an error in deciding the suit despite the statutory bar as envisaged
+under Section 22(1) of the 1985 Act.
+
+72. From a perusal of the facts as discussed above, it is clear that the civil suit was instituted by the
+original plaintiff on 21.11.1996, that is, indeed, during the pendency of the proceedings in respect of
+the defendant company before the BIFR. Thus, the first condition precedent for the applicability of
+the restriction under Section 22(1) of the 1985 Act being satisfied, the only aspect that is now
+required to be determined is whether the suit instituted by the original plaintiff was of a nature as
+contemplated under Section 22(1).
+
+73. From a bare reading of the provision, it appears that any ‘suit for recovery of money’ against a
+sick industrial company shall not lie or be proceeded with during the pendency of the proceedings in
+respect of such a company before the BIFR or the AAIFR, except with the permission of the BIFR or
+the AAIFR, as the case may be. However, it has been contended by the original plaintiff that it is not
+a suit for recovery of money simpliciter is not barred under the provision, and only such suits for
+recovery of money which are instituted towards recovery of liabilities admitted by the sick company
+before the BIFR that fall within the protective ambit of Section 22(1).
+
+74. In other words, the contention of the original plaintiff is that if a suit for recovery of money is
+brought against a sick company during the pendency of proceedings before the BIFR or the AAIFR
+with respect to the recovery of an acknowledged debt, then such a suit will be hit by Section 22(1)
+and cannot lie or be proceeded with except with the permission of the BIFR or the AAIFR, as the
+case may be.
+
+75. This Court including many of the High Courts have had the occasion of interpreting Section
+22(1) of the 1985 Act. One of the earliest decisions concerning Section 22(1) was rendered by a
+two-Judge Bench of this Court in Gram Panchayat and Another v. Shree Vallabh Glass Works
+Limited and Others reported in (1990) 2 SCC 440. In the said case, while deciding an appeal against
+the decision of the Bombay High Court quashing recovery proceedings towards property taxes and
+other amounts due under the provisions of the Bombay Village Panchayat Act, 1959 against the
+respondent company therein, which had been declared to be a sick company under the Act, the
+Bench held:
+
+“5. The question is whether the Panchayat could not recover the amount due to it
+from out of the properties of the sick industrial company without the consent of the
+Board?
+
+xxx xxx xxx
+
+7. Section 22(1) provides that in case the enquiry under Section 16 is pending or any
+scheme referred to under Section 17 is under preparation or consideration by the
+Board or any appeal under Section 25 is pending then certain proceedings against the
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+18
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+sick industrial company are to be suspended or presumed to be suspended. The
+nature of the proceedings which are automatically suspended are: (1) Winding up of
+the industrial company; (2) Proceedings for execution, distress or the like against the
+properties of sick industrial company; and (3) Proceedings for the appointment of
+receiver. The proceedings in respect of these matters could, however, be continued
+against the sick industrial company with the consent or approval of the Board or of
+the appellate authority as the case may be.
+
+xxx xxx xxx
+
+10. In the light of the steps taken by the Board under Sections 16 and 17 of the Act, no
+proceedings for execution, distress or the like proceedings against any of the
+properties of the company shall lie or be proceeded further except with the consent of
+the Board.
+
+Indeed, there would be automatic suspension of such proceedings against the company's properties.
+As soon as the inquiry under Section 16 is ordered by the Board, the various proceedings set out
+under sub-section (1) of Section 22 would be deemed to have been suspended.
+
+11. It may be against the principles of equity if the creditors are not allowed to recover their dues
+from the company, but such creditors may approach the Board for permission to proceed against the
+company for the recovery of their dues/outstandings/overdues or arrears by whatever name it is
+called. The Board at its discretion may accord its approval for proceeding against the company. If
+the approval is not granted, the remedy is not extinguished. It is only postponed. Sub-section (5) of
+Section 22 provides for exclusion of the period during which the remedy is suspended while
+computing the period of limitation for recovering the dues.
+
+12. In our opinion, the High Court was justified in quashing the recovery proceedings taken against
+the properties of the company and we accordingly, reject this petition, with no order as to costs.”
+(Emphasis supplied)
+
+76. One another decision interpreting Section 22(1) of the 1985 Act was delivered by a two-judge
+bench of this Court in Maharashtra Tubes Ltd. v. State Industrial & Investment Corpn. of
+Maharashtra Ltd. reported in (1993) 2 SCC 144. In this case, this Court, while deciding the interplay
+between the power of recovery under the State Financial Corporations Act, 1951 and the suspension
+of certain legal proceedings under Section 22 of the 1985 Act, held thus:
+
+“10. It was next contended that the right conferred on the Financial Corporation by
+Section 29 of the 1951 Act is not a ‘legal proceeding’ but merely an action permitted
+by statute and, therefore, Section 22(1) will have no application as it only bars legal
+proceedings for the winding up of any industrial company or for execution, distress
+or the like against any of its properties or for the appointment of a Receiver in respect
+thereof. Now Section 22(1) uses the expression ‘proceedings’ and not ‘legal
+proceedings’ which expression is albeit used in the marginal note to the said
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+19
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+provision. Mr Rao contended that Section 22 must be read in the light of the
+marginal note and when so read it becomes obvious that only legal proceedings of the
+type mentioned in sub- section (1) thereof are barred and not the exercise of a right
+such as the one conferred by Section 29 of the 1951 Act. In support of his contention
+that the marginal note can be used as an aid to interpretation he invited our attention
+to a seven-Judge Bench decision of this Court in Bengal Immunity Company Ltd. v.
+State of Bihar [(1955) 2 SCR 603, 636 : AIR 1955 SC 661 : (1955) 6 STC 446] . In that
+case the marginal note to Article 286 of the Constitution was referred to and it was
+said that it furnished some clue as to the meaning and purpose of the Article. But at
+the same time the Court pointed out that unlike the marginal notes in the statutes of
+the British Parliament, the various Articles of the Constitution were passed by the
+Constituent Assembly with the marginal notes and, therefore, the Court considered it
+permissible to use the marginal note to understand the meaning and purport of the
+Article. But so far as statutes are concerned this Court in the case of Board of Muslim
+Wakfs, Rajasthan v. Radha Kishan [(1979) 2 SCC 468] held in no uncertain terms
+that the weight of the authority was in favour of the view that the marginal note
+appended to a section cannot be used for construing the section (see paragraph 24 at
+p. 479). Section 22(1) shorn of the irrelevant part provides that where an appeal
+under Section 25 relating to an industrial company is pending, then, notwithstanding
+anything contained in any other law, no proceedings for the winding up of the
+industrial company or for execution, distress or the like against any of the properties
+of the industrial company or for appointment of a Receiver in respect thereof shall lie
+or be proceeded with further, except with the consent of the BIFR or, as the case may
+be, the appellate authority. The purpose and object of this provision is clearly to await
+the outcome of the reference made to the BIFR for the revival and rehabilitation of
+the sick industrial company. The words ‘or the like’ which follow the words
+‘execution’ and ‘distress’ are clearly intended to convey that the properties of the sick
+industrial company shall not be made the subject-matter of coercive action of similar
+quality and characteristic till the BIFR finally disposes of the reference made under
+Section 15 of the said enactment. The legislature has advisedly used an omnibus
+expression ‘the like’ as it could not have conceived of all possible coercive measures
+that may be taken against a sick undertaking. The action contemplated by Section 29
+of the 1951 Act is undoubtedly a coercive measure directed at the take over of the
+management and property of the industrial concern and confers a further right on the
+Financial Corporation to transfer by way of lease or sale the properties of the said
+concern and any such transfer effected by the Financial Corporation would vest in the
+transferee all rights in or to the transferred property as if the transfer was made by
+the owner of the property. So also under the said provision the Financial Corporation
+will have the same rights and powers with respect to goods manufactured or
+produced wholly or partly from goods forming part of the security held by it as it had
+with respect to the original goods. It is, therefore, obvious on a plain reading of
+Section 29 of the 1951 Act that it permits coercive action against the defaulting
+industrial concern of the type which would be taken in execution or distress
+proceedings; the only difference being that in the latter case the concerned party
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+20
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+would have to use the forum prescribed by law for the purpose of securing
+attachment and sale of property of the defaulting industrial concern whereas in the
+case of a Financial Corporation that right is conferred on the creditor corporation
+itself which is permitted to take over the management and possession of the
+properties and deal with them as if it were the owner of the properties. If the
+Corporation is permitted to resort to the provision of Section 29 of the 1951 Act while
+proceedings under Sections 15 to 19 of the 1985 Act are pending it will render the
+entire process nugatory. In such a situation the law merely expects the corporation
+and for that matter any other creditor to obtain the consent of the BIFR or, as the
+case may be, the appellate authority to proceed against the industrial concern. The
+law has not left them without a remedy. We are, therefore, of the opinion that the
+word ‘proceedings’ in Section 22(1) cannot be given a narrow or restricted meaning to
+limit the same to legal proceedings. Such a narrow meaning would run counter to the
+scheme of the law and frustrate the very object and purpose of Section 22(1) of the
+1985 Act.” (Emphasis supplied)
+
+77. The decisions in Gram Panchayat (supra) and Maharashtra Tubes (supra) considered the
+unamended Section 22(1) of the 1985 Act. However, the said provision came to be amended by the
+Sick Industrial Companies (Amendment) Act, 1994 which came into effect from 01.02.1994. The suit
+in question before us having been filed in 1996, it is the amended Section 22(1) which would apply.
+Thus, we shall now look into some of the decisions wherein the amended Section 22(1) of the 1985
+Act was interpreted.
+
+78. The question whether proceedings for the recovery of dues arising after the sanctioning of the
+scheme would also be covered under the protective umbrella of Section 22(1) of the 1985 Act fell for
+the consideration of a two- judge bench of this Court in Deputy Commercial Tax Officer and Others
+v. Corromandal Pharmaceuticals and Others reported in (1997) 10 SCC 649. This Court, while
+answering the issue in the negative, distinguished the facts before it from the decisions in Gram
+Panchayat (supra) and Maharashtra Tubes (supra) and held thus:
+
+“13. On a fair reading of the provisions contained in Chapter III of Act 1 of 1986 and
+in particular Sections 15 to 22, we are of the opinion that the plea put forward by the
+Revenue is reasonable and fair in all the circumstances of the case. Under the statute,
+the BIFR is to consider in what way various preventive or remedial measures should
+be afforded to a sick industrial company. In that behalf, BIFR is enabled to frame an
+appropriate scheme. To enable the BIFR to do so, certain preliminaries are required
+to be followed. It starts with the reference to be made by the Board of Directors of the
+sick company. The BIFR is directed to make appropriate inquiry as provided in
+Sections 16 and 17 of the Act. At the conclusion of the inquiry, after notice and
+opportunity afforded to various persons including the creditors, the BIFR is to
+prepare a scheme which shall come into force on such date as it may specify in that
+behalf. It is in implementation of the scheme wherein various preventive, remedial or
+other measures are designed for the sick industrial company, steps by way of giving
+financial assistance etc. by Government, banks or other institutions, are
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+21
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+contemplated. In other words, the scheme is implemented or given effect to, by
+affording financial assistance by way of loans, advances or guarantees or reliefs or
+concessions or sacrifices by Government, banks, public financial institutions and
+other authorities. In order to see that the scheme is successfully implemented and no
+impediment is caused for the successful carrying out of the scheme, the Board is
+enabled to have a say when the steps for recovery of the amounts or other coercive
+proceedings are taken against sick industrial company which, during the relevant
+time, acts under the guidance/control or supervision of the Board (BIFR). Any step
+for execution, distress or the like against the properties of the industrial company or
+other similar steps should not be pursued which will cause delay or impediment in
+the implementation of the sanctioned scheme. In order to safeguard such state of
+affairs, an embargo or bar is placed under Section 22 of the Act against any step for
+execution, distress or the like or other similar proceedings against the company
+without the consent of the Board or, as the case may be, the appellate authority. The
+language of Section 22 of the Act is certainly wide. But, in the totality of the
+circumstances, the safeguard is only against the impediment, that is likely to be
+caused in the implementation of the scheme. If that be so, only the liability or
+amounts covered by the scheme will be taken in, by Section 22 of the Act. So, we are
+of the view that though the language of Section 22 of the Act is of wide import
+regarding suspension of legal proceedings from the moment an inquiry is started, till
+after the implementation of the scheme or the disposal of an appeal under Section 25
+of the Act, it will be reasonable to hold that the bar or embargo envisaged in Section
+22(1) of the Act can apply only to such of those dues reckoned or included in the
+sanctioned scheme. Such amounts like sales tax, etc., which the sick industrial
+company is enabled to collect after the date of the sanctioned scheme legitimately
+belonging to the Revenue, cannot be and could not have been intended to be covered
+within Section 22 of the Act. Any other construction will be unreasonable and unfair
+and will lead to a state of affairs enabling the sick industrial unit to collect amounts
+due to the Revenue and withhold it indefinitely and unreasonably. Such a
+construction which is unfair, unreasonable and against the spirit of the statute in a
+business sense, should be avoided.
+
+14. The situation which has arisen in this case seems to be rather exceptional. The
+issue that has arisen in this appeal did not arise for consideration in the two cases
+decided by this Court in Gram Panchayat v. Shree Vallabh Glass Works Ltd. [(1990) 2
+SCC 440] and Maharashtra Tubes Ltd. v. State Industrial & Investment Corpn. of
+Maharashtra Ltd. [(1993) 2 SCC 144] It does not appear from the above two decisions
+of this Court nor from the decisions of the various High Courts brought to our notice,
+that in any one of them, the liability of the sick company dealt with therein itself
+arose, for the first time after the date of sanctioned scheme.
+
+At any rate, in none of those cases, a situation arose whereby the sick industrial unit was enabled to
+collect tax due to the Revenue from the customers after the “sanctioned scheme” but the sick unit
+simply folded its hands and declined to pay it over to the Revenue, for which proceedings for
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+22
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+recovery, had to be taken. The two decisions of this Court as also the decisions of High Courts
+brought to our notice are, therefore, distinguishable. They will not apply to a situation as has arisen
+in this case. We are, therefore, of the opinion that Section 22(1) should be read down or understood
+as contended by the Revenue. The decision to the contrary by the High Court is unreasonable and
+unsustainable. We set aside the judgment of the High Court and allow this appeal. There shall be no
+order as to costs.” (Emphasis supplied)
+
+79. The decision in Corromandal Pharmaceuticals (supra) was referred to and relied upon by a
+two-Judge Bench of this Court in Jay Engineering (supra) which set aside the order of the High
+Court as it failed to consider that the liabilities of the appellant-sick company therein with respect to
+the creditor were indisputably a part of the revised rehabilitation scheme. This Court held that if the
+liabilities of the creditor were duly considered and made a part of the rehabilitation scheme, the bar
+under Section 22(1) of the 1985 Act would apply, notwithstanding the fact that the liabilities arose
+after the company was declared to be a sick one. The relevant observations of this court are
+extracted hereinbelow:
+
+“9. In the said scheme, the award made in favour of the respondents finds place in
+the category of “dormant creditors”. The liabilities of the appellant vis-à-vis
+Respondent 2 were, therefore, indisputably a subject-matter of the said scheme. The
+High Court, in our opinion, committed an error in proceeding on the premise that the
+awarded amount had not been included and could not be included in the sanctioned
+rehabilitation scheme, the same being part of transactions which took place after
+21-11-1997 ignoring the revised scheme made in the year 2003.
+
+xxx xxx xxx
+
+18. The award of the Council being an award, deemed to have been made under the
+provisions of the 1996 Act, indisputably is being executed before a civil court.
+Execution of an award, beyond any cavil of doubt, would attract the provisions of
+Section 22 of the 1985 Act. Whereas an adjudicatory process of making an award
+under the 1993 Act may not come within the purview of the 1985 Act but once an
+award made is sought to be executed, it shall come into play. Once the awarded
+amount has been included in the scheme approved by the Board, in our opinion,
+Section 22 of the 1985 Act would apply.
+
+19. If the liabilities of the appellant are covered by the scheme framed under Section
+22 of the 1985 Act, the High Court was clearly in error in coming to the conclusion
+that the provisions thereof are not attracted only because the debt had been incurred
+after the Company was declared to be a sick one.
+
+                           xxx                 xxx                  xxx
+
+          22. The     High     Court      has      placed     strong   reliance
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+23
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+on CTO v. Corromandal Pharmaceuticals [(1997) 10 SCC 649] wherein this Court was
+considering an exceptional situation by reason of the fact that the liability of the sick
+company for the first time arose after the date of sanctioned scheme and the sick
+industrial unit was enabled to collect tax due to the Revenue from the exporters
+thereafter but declined to pay it over to the Revenue wherefor recovery proceedings
+had to be taken. This Court categorically opined that there cannot be any impediment
+in the enforcement of the scheme. Section 22 of the 1985 Act provides for a safeguard
+against impediment that is likely to be caused in the implementation of the scheme.
+Section 22 was also held to be of wide import as regards suspension of legal
+proceedings from the moment, the inquiry is started till after the implementation of
+the scheme or disposal of the scheme under Section 25 of the 1985 Act.
+
+It was categorically held:
+
+“… it will be reasonable to hold that the bar or embargo envisaged in Section 22(1) of
+the Act can apply only to such of those dues reckoned or included in the sanctioned
+scheme….” The ratio laid down in the said decision, therefore, instead of assisting the
+respondent assists the appellant.” (Emphasis supplied)
+
+80. The original defendants have strongly relied upon the decision of a two-judge bench of this
+Court in Bhoruka Textiles (supra). In the said case, the respondent therein, filed a suit for recovery
+against the appellant, a sick industrial company. The civil court decreed the suit in favour of the
+respondent therein with the finding that the transaction referred to took place subsequent to the
+reference of the appellant company to the BIFR and thus the suspension under Section 22(1) of the
+1985 Act would not apply. The civil court also held that in the absence of any final order declaring
+the appellant company as a sick company by the BIFR, mere reference of the said company to the
+BIFR would not bring the protection under Section 22(1) of the 1985 Act into effect.
+
+81. This Court negatived both the findings noted above and held that the civil court committed a
+manifest error in holding that the transaction in question was subsequent to the reference, when
+from the admitted facts it was apparent that it took place prior to the referral. It was observed by the
+Bench thus:
+
+“7. Chapter III of the Act provides for reference, enquiries and schemes. Section 15 of
+the Act provides for reference to the Board in terms whereof the Board of Directors of
+the company is required to make a reference within 60 days from the date of the duly
+audited accounts of the company for the financial year as at the end of which the
+company has become a sick industrial company. Such reference is made for
+determination of the measures which may be adopted with respect to the company.
+The proviso appended thereto, however, entitles the Board of Directors to make a
+reference within 60 days from the date of formation of the opinion that the company
+had become a sick industrial company before the audited accounts of the financial
+year in question are finalised. Section 16 of the Act empowers the Board to make such
+enquiry as it may deem fit for determining whether any industrial company has
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+24
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+become a sick industrial company, inter alia, upon receipt of a reference with respect
+to such company under Section 15.
+
+xxx xxx xxx
+
+10. Section 22 of the Act must be interpreted giving a plain meaning to its contents.
+An enquiry in terms of Section 16 of the Act by the Board is permissible upon receipt
+of a reference. Thus, reference having been made on 27-12-2001 and the suit having
+been filed on 17-12-2002, the receipt of a reference must be held to be the starting
+period for proceeding with the enquiry.
+
+11. The effect of the provisions of the Act has been considered by a three-Judge Bench
+decision of this Court in Tata Motors Ltd. v. Pharmaceutical Products of India Ltd.
+[(2008) 7 SCC 619] wherein it, in no uncertain terms, held that SICA is a special
+statute and, thus, overrides other Acts like the Companies Act, 1956, stating: (SCC p.
+635, paras 31-33) “31. SICA furthermore was enacted to secure the principles
+specified in Article 39 of the Constitution of India. It seeks to give effect to the larger
+public interest. It should be given primacy because of its higher public purpose.
+Section 26 of SICA bars the jurisdiction of the civil courts.
+
+32. What scheme should be prepared by the operating agency for revival and
+rehabilitation of the sick industrial company is within the domain of BIFR. Section 26
+not only covers orders passed under SICA but also any matter which BIFR is
+empowered to determine.
+
+33. The jurisdiction of the civil court is, thus, barred in respect of any matter for
+which the Appellate Authority or the Board is empowered. The High Court may not
+be a civil court but its jurisdiction in a case of this nature is limited.”
+
+12. If the civil court's jurisdiction was ousted in terms of the provisions of Section 22
+of the Act, any judgment rendered by it would be coram non judice. It is a well-settled
+principle of law that a judgment and decree passed by a court or tribunal lacking
+inherent jurisdiction would be a nullity. In Kiran Singh v. Chaman Paswan [AIR 1954
+SC 340] this Court held: (AIR p. 342, para 6) “6. … It is a fundamental principle well
+established that a decree passed by a court without jurisdiction is a nullity, and that
+its invalidity could be set up whenever and wherever it is sought to be enforced or
+relied upon, even at the stage of execution and even in collateral proceedings. A
+defect of jurisdiction, whether it is pecuniary or territorial, or whether it is in respect
+of the subject-matter of the action, strikes at the very authority of the court to pass
+any decree, and such a defect cannot be cured even by consent of parties.” (See also
+Chief Engineer, Hydel Project v. Ravinder Nath [(2008) 2 SCC 350 : (2008) 1 SCC
+(L&S) 940] , SCC p. 361, para 26.)” (Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+25
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+82. A three-Judge Bench of this Court in Raheja Universal Limited v. NRC Limited and Others
+reported in (2012) 4 SCC 148 undertook a comprehensive study of the various decisions of this
+Court on the interpretation of Section 22 of the 1985 Act to clarify the divergences and settle the
+position of law on the said provision. The relevant observations are as follows:
+
+“23. The provisions of SICA 1985 impose an obligation on the sick industrial
+companies and potentially sick industrial companies to make references to BIFR
+within the time specified under SICA 1985. Default thereof is punishable under the
+provisions of SICA 1985. Largely, the proceedings before BIFR are specific to
+rehabilitation or winding up of the sick company and SICA 1985 hardly contemplates
+adversarial proceedings. The bodies constituted under SICA 1985 would least
+exercise their jurisdiction to a lis between any party or upon the rival interests of the
+parties.
+
+xxx xxx xxx
+
+30. Dealing with the language of Section 22 of SICA 1985, this Court in Jay Engg.
+case [(2006) 8 SCC 677 : AIR 2006 SC 3252] took the view that the said Act shall
+prevail and though the adjudicatory process of making an award under the 1993 Act
+would not come under the purview of SICA 1985, once an award is made and sought
+to be executed, the provisions of Section 22 of SICA 1985 shall take over and such
+award would not be executable against the sick company, particularly when the party
+in whose favour the award was made was, as in the present case, included in the
+category of dormant creditors of the sick company.
+
+xxx xxx xxx
+
+48. All these provisions which fall under Chapter III of SICA 1985 have to be read
+conjointly and that too, along with other relevant provisions and the scheme of SICA
+1985. It is a settled canon of interpretation of statutes that the statute should not (sic)
+be construed in its entirety and a sub-section or a section therein should not be read
+and construed in isolation. Chapter III, in fact, is the soul and essence of SICA 1985
+and it provides for the methodology that is to be adopted for the purposes of
+detecting, reviving or even winding up a sick industrial company. Provisions under
+SICA 1985 also provide for an appeal against the orders of BIFR before another
+specialised body i.e. Aaifr. To put it simply, this is a self-contained code and because
+of the non obstante provisions, contained therein, it has an overriding effect over the
+other laws. As per Section 32 of SICA 1985, the Act is required to be enforced with all
+its vigour and in precedence to other laws.
+
+xxx xxx xxx
+
+54. Firstly, the facts of these cases are different and distinct and, therefore,
+conclusions of the Court have to be read with reference to the facts of the respective
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+26
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+cases only and not dehors thereof.
+
+Once the dictum of this Court is read with reference to the facts of the respective cases, it would be
+evident that there is no conflict of views within the ambit of ratio decidendi of the respective
+judgments to make both of them legal and binding precedents.
+
+55. Despite these judgments and with an intention to clarify the law, we would state that the matters
+which are connected with the sanctioning and implementation of the scheme right from the date on
+which it is presented or the date from which the scheme is made effective, whichever is earlier,
+would be the matters which squarely fall within the ambit and scope of Section 22 of SICA 1985
+subject to their satisfying the ingredients stated under that provision. This would include the
+proceedings before the civil court, Revenue Authorities and/or any other competent forum in the
+form of execution or distress in relation to recovery of amount by sale or otherwise of the assets of
+the sick industrial company. It is difficult for us to hold that merely because a demand by a creditor
+had not been made a part of the scheme, pre- or post- sanctioning of the same for that reason alone,
+it would fall outside the ambit of protection of Section 22 of SICA 1985.
+
+xxx xxx xxx
+
+58. Section 22 is the reservoir of the statutory powers empowering BIFR to determine a scheme,
+right from its presentation till its complete implementation in accordance with law, free of
+interjections and interference from other judicial processes. Section 22(1) deals with the execution,
+distress or the like proceedings against the company's properties, including appointment of a
+Receiver. It also specifically provides that even a winding-up petition would not be instituted and no
+other proceedings shall lie or proceed further, except with the consent of BIFR.
+
+xxx xxx xxx
+
+61. It can safely be perceived that the provisions of Section 22 of SICA 1985 are self-explanatory.
+They would cease to operate within their own limitations and not by force of any other law,
+agreement, memorandum or even articles of association of the company. The purpose is so very
+clear that during the examination, finalisation and implementation of the scheme, there should be
+no impediment caused to the smooth execution of the scheme of revival of the sick industrial
+company. It is only when the specified period of restrictions and declarations contemplated under
+the provisions of SICA 1985 is over, that the status quo ante as it existed at the time of the
+consideration and finalisation of the scheme, would become operative. This is done primarily with
+the object that the assets of the company are not diverted, wasted, taken away and/or disposed of in
+any manner, during the relevant period.
+
+xxx xxx xxx
+
+69. Sections 22, 22-A, 26 and 32 have to be read and construed conjointly. A common thread of
+legislative intent to treat this law as a special law, in contradistinction to the other laws except the
+laws stated in the provisions and to ensure its effective implementation with utmost
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+27
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+expeditiousness, runs through all these provisions. It also mandates that no injunction shall be
+granted by any court or authority in respect of an action taken or to be taken in pursuance of the
+powers conferred to or by under this Act.
+
+xxx xxx xxx
+
+78. The expression “no proceedings” that finds place in Section 22(1) is of wide spectrum but is
+certainly not free of exceptions. The framers of law have given a definite meaning to the expression
+“proceedings” appearing under Section 22(1) of SICA 1985. These proceedings are for winding up of
+the industrial company or for execution, distress or the like against any of the properties of the
+industrial company or for the appointment of a Receiver in respect thereof.
+
+79. The expression “the like” has to be read ejusdem generis to the term “proceedings”. The words
+“execution, distress or the like” have a definite connotation. These proceedings can have the effect of
+nullifying or obstructing the sanctioning or implementation of the revival scheme, as contemplated
+under the provisions of SICA 1985. This is what is required to be avoided for effective
+implementation of the scheme. The other facet of the same section is that, no suit for recovery of
+money, or for enforcement of any security against the industrial company, or any guarantee in
+respect of any loan or advance granted to the industrial company shall lie, or be proceeded with
+further without the consent of BIFR. In other words, a suit for recovery and/or for the stated kind of
+reliefs cannot lie or be proceeded with further without the leave of BIFR. Again, the intention is to
+protect the properties/assets of the sick industrial company, which is the subject-matter of the
+scheme.
+
+80. It is difficult to state with precision the principle that would uniformly apply to all the
+proceedings/suits falling under Section 22(1) of SICA 1985. Firstly, it will depend upon the facts and
+circumstances of a given case, it must satisfy the ingredients of Section 22(1) and fall under any of
+the various classes of proceedings stated thereunder. Secondly, these proceedings should have the
+impact of interfering with the formulation, consideration, finalisation or implementation of the
+scheme.” (Emphasis supplied)
+
+83. While the decisions in each of the aforesaid cases should be seen in the context of the specific
+factual situation therein, there is a common thread that binds them all together. All of the aforesaid
+decisions proceed on the footing that any proceeding which can possibly interfere with the
+formulation, consideration, finalisation or implementation of a rehabilitation scheme as envisaged
+under Chapter III of the Act, has to be suspended under Section 22(1) of the 1985 Act.
+
+84. It is the above purpose which the scheme of Section 22(1) seeks to achieve by suspending the
+proceedings of the nature either mentioned specifically in the provision, or the proceedings of a like
+nature. Although this Court has interpreted the provision liberally by widening the ambit of its
+protective umbrella, yet it has also been mindful to extend such protection only to such cases where
+the refusal to allow such extension would result in miscarriage of the very purpose of the Act, which
+is the expeditious revival of sick companies.
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+28
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+85. The ameliorative object of the 1985 Act, as envisaged by the legislature, is sought to be achieved,
+inter alia, by the smooth formulation and implementation of a rehabilitation scheme. Thus, if any
+impediment exists to the successful execution of the scheme, such an impediment is curtailed at the
+outset by the embargo provided under Section 22(1) of the 1985 Act.
+
+86. It can be said without a cavil of doubt that the proceedings in the nature of execution or distress
+by way of appointment of receiver or attachment of immovable property, bank accounts, etc. would
+affect the assets of a sick company and may inevitably come in the way of the preparation or
+execution of the rehabilitation scheme. However, to hold that the protective shield of Section 22(1)
+of the 1985 Act would apply even to those proceedings which do not have any impact on the
+prospects of successful formulation and implementation of the scheme, and the possibility of revival
+of the sick company, would run contrary to the object of the Act, which was never to confer absolute
+immunity or impunity on the sick company.
+
+87. Thus, as explained in paragraph 67 of this judgment, a perusal of the plain text of Section 22(1)
+of the 1985 Act brings out only two conditions for the suspension of legal proceedings to operate.
+However, various decisions of this Court, by necessary implication, have read into the said provision
+a third condition which too has to be fulfilled before a sick company can seek protection of the said
+provision. This third condition is that for a legal proceeding to be suspended under Section 22(1) of
+the 1985 Act, it should be shown to be interfering with the formulation, consideration, finalisation
+or implementation of a rehabilitation scheme.
+
+88. A Single Judge of the Delhi High Court has explained very succinctly these conditions in Goyal
+MG Gases Pvt. Ltd. v. SBQ Steels Ltd. reported in 2016 SCC OnLine Del 5100 thus:
+
+“25. The applicability of embargo contained in Section 22(1) of SICA requires the
+cumulative and conjoint satisfaction of two conditions; namely; a) the proceeding
+sought to be suspended should clearly satisfy the ingredients of Section 22(1) and fall
+within one or more of the categories of proceedings indicated in the said provision
+and b) additionally, the continuance of the proceeding should have the impact of
+interfering with the formulation of the scheme.
+
+26. The Supreme Court has also made it clear that the applicability of the embargo
+contained in Section 22(1) of SICA depends on the facts and circumstances of each
+individual case;
+
+and no principle of universal application can be laid down in all such matters.
+
+27. The use of the expressions “Firstly” and “Secondly”, in para 80 of Raheja Universal Ltd. (supra)
+would make it clear that both the conditions given in the judgment have to be satisfied cumulatively.
+Even if the suit/proceeding is of the category contemplated in Section 22(1), that by itself will not
+attract the bar contained in the said provision, unless it additionally has the impact of “interfering
+with the formulation, consideration, finalisation or implementation of the scheme.” (Emphasis
+supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+29
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+89. A Division Bench of the Delhi High Court in Saketh India (supra) considered the scope of
+Section 22(1) of the 1985 Act in the context of the object sought to be achieved by it and held that the
+term ‘suit for recovery’ as it appears in the said provision must be construed ejusdem generis,
+meaning thereby that only such a suit for recovery which is in the nature of execution or any other
+coercive enforcement will be suspended by the effect of the provision. The relevant parts of the said
+decision are extracted hereinbelow:
+
+“5. We think it appropriate, however, to consider the provision of SICA and analyse
+what it endeavours to achieve. We must immediately take note of the fact that SICA
+has been repealed by Sick Industrial Companies (Special Provisions) Repeal Act,
+2003. While it is yet to be notified, it is significant that provisions akin to Section 22
+are conspicuous by their absence in the new Scheme of revival of sick companies
+inserted in form of Part VIA, namely, “Revival and Rehabilitation of Sick Industrial
+Companies”. Obviously, empirical analysis discloses that more often than not
+companies which have sought shelter of SICA have done so to procrastinate, delay
+and defer clearing its liability, with the obvious intention of coercing creditors into
+unfair settlements rather than implementing projected schemes supposed to assist in
+their reconstruction. When the statute is notified, amendments to the Companies
+Act, 1956 will become effective and all proceedings pending before BIFR will stand
+abated. To some extent, therefore, the present controversy has been rendered
+academic.
+
+6. Courts, however, have always been alive to the possible mischief that invocation of
+SICA can lead to. In a nutshell, where the not worth of a company is reduced to a
+negative, and the amelioration that is sought is for reviving the company rather than
+winding it up, the recourse to the Act would be legitimate. There is no justifiable
+reason, therefore, for all legal proceedings to be immediately even held in abeyance, if
+not dismissed. We are mindful of the fact that Parliament has incorporated an
+amendment in the Section with effect from 1.2.1994 in these words — “no suit for the
+recovery of money or for the enforcement of any security against the industrial
+company or of any guarantee in respect of any loans or advance granted to the
+industrial company — shall lie or be proceeded with-further, except with the consent
+of the Board, or as the case may be, the Appellate Authority”. It appears to us that the
+phrase “recovery of money” must be construed ejusdem generis and accordingly
+recovery proceedings in the nature of execution or any other coercive enforcement
+that has been ordained to be not maintainable. We do not find any logic in holding
+legal proceedings to be not maintainable, or to be liable to be halted unless, even if
+the debt sought to be proved in the Plaint has not been admitted. Given the delays
+presently endemic in the justice delivery system if a creditor is disallowed even from
+proving the indebtedness of a recalcitrant debtor SICA company, it would cause
+unjustified hardship. Whichever way we look at the matter, there can be no logic in
+denying legal recourse to a party for proving its debt. In the event that at least the
+principal amount, or a substantial part of it stands admitted, either in the suit or by
+means of a mention in the Scheme placed before the BIFR, the aggrieved party must
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+30
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+be permitted to prove its claim. In holding so, the only prejudice that we can conceive
+of is incurring expenditure in legal fees. When this is weighed against the interests of
+a person claiming that the company is indebted to it, the balance tilts in favour of the
+latter. A holistic reading of Section 22(1) of SICA makes it manifestly clear that
+Parliament's intention was to insulate sick companies only against proceedings for
+winding-up or for execution, or distress or the like or for enforcement of any security
+or guarantee. In the case in hand, despite several opportunities granted to the
+Appellant, it has miserably and perhaps deliberately failed to substantiate that the
+claim mentioned in the Suit has been reflected in the Scheme placed before the BIFR
+but even more poignantly, that a scheme was, in fact, pending before BIFR. If an
+Appeal is pending, has BIFR failed to grant or has withdrawn registration under
+SICA.
+
+We see the conduct of the Appellant as nothing more than an abuse of SICA.
+
+7. The Apex Court has in Deputy Commercial Tax Officer v. Corromandal Pharmaceuticals, (1997)
+10 SCC 649 enunciated the law in the context of SICA to be that a cessation of legal proceedings
+would be justified only if the dues in respect of which adjudication is ongoing is also included in or
+within the contemplation of the Scheme presented to BIFR. Their Lordships had analysed and
+distinguished its previous decisions in Gram Panchayat v. Shree Vallabh Glass Works Limited,
+(1990) 2 SCC 440 as well as Maharashtra Tubes Ltd. v. State of Industrial and Investment
+Corporation of Maharashtra Ltd., (1993) 2 SCC 144 on the reasoning that in those cases the liability
+of the sick company had arisen for the first time after the sanction of the Scheme by BIFR….
+
+8. In Sirmor Sudburg Auto Ltd. v. Kuldip Singh Lamba, [1998] 91 Comp. Cas. 727, R.C. Lahoti, J., as
+the Learned Single Judge of this Court then was, opined that to be entitled to a stay of legal
+proceedings under Section 22 of the Act, a mere pendency of the enquiry would not suffice; the
+claimed dues must be reckoned or included in the sanctioned scheme. A suit for eviction against a
+sick industrial company is not liable to be stayed under Section 22(1) of the SICA. This decision has
+been followed by the Division Bench of the Calcutta High Court in Taulis Pharma Ltd. v. Bengal
+Immunity Ltd., [2002] 108 Comp. Cas. 237. Similar views have also been expressed in Vibgyar Ink
+Chem (Pvt.) Ltd. v. Safe Pack Polymers Ltd., [1998] 93 Com. Cas. 407, which likewise is a decision of
+the Division Bench of the Andhra Pradesh High Court which enunciates that “an independent
+transaction de hors the scheme obviously cannot thus be covered within the ambit of Section 22 of
+the 1985 Act”.
+
+9. Justice Lahoti's view has also been followed by a Single Bench of the Calcutta High Court in Fort
+William Industries Limited v. Usha Bentron Limited, [2002] 108 Comp. Cas. 176. His Lordship, Dr.
+Mukundakam Sharma, J. has, in the Cement Corporation of India v. Manohar Basin, 82 (1999) DLT
+343 :
+
+1999 (51) DRJ 535 observed that since no documentary proof had been furnished to
+disclose that any scheme stood sanctioned the so-called SICA bar was not attracted. A
+Single Bench of the Bombay High Court in Special Steels v. Jay Prestressed Products
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+31
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+Ltd., [1991] 72 Comp. Cas. 277 has opined that the pivotal question in connection
+with the current conundrum concerns the assets of the Company and its functioning,
+and these would not be jeopardized if a civil suit continues. In Hardip Singh v.
+Income Tax Officer, Amritsar, [1979] 118 ITR 57 (SC) the winding-up petition was
+allowed to continue and only when the third and final stage of the dissolution of the
+Company came to be reached, was the moratorium of Section 22 of the SICA
+enforced.” (Emphasis supplied)
+
+90. The original plaintiff has placed strong reliance upon the decision of a single
+judge of the Delhi High Court in Sunil Mittal (supra). It was held therein that since
+the liability was neither admitted nor taken into consideration by any rehabilitation
+scheme, the suit proceedings could not have been adjourned sine die under Section
+22(1) of the 1985 Act. The relevant paragraphs are extracted hereinbelow:
+
+“21. In view of the aforesaid facts and circumstances of the case, I feel as the FChas
+not admitted its liability to pay the amount to the tune as claimed by the plaintiff nor
+such an amount has been reckoned or taken into consideration by any scheme of
+rehabilitation of the sick defendant company, therefore, the proceedings of the
+present suit cannot be adjourned sine die. As a matter of fact the defendant has not
+placed on record any documentary evidence to show that any such scheme has been
+formulated as yet and if formulated whether the said amount has been taken care of
+allegedly being owed to the Plaintiff.
+
+22. For the aforesaid reasons, I feel that the application of the Defendant totally
+misconceived and accordingly, the same is dismissed.” (Emphasis supplied)
+
+91. It has come to our notice that the said decision in Sunil Mittal (supra) was
+challenged in appeal before a division bench of the Delhi High Court in LML Ltd. v.
+Sunil Mittal reported in 2013 SCC OnLine Del 1766 wherein the bench set aside the
+decision and held that Section 22(1) of the 1985 Act would apply to the facts of the
+case. The bench observed that from the record it was clear that the amount as
+claimed by the plaintiff in the recovery suit was admittedly covered by the scheme
+and thus the proceeding was liable to be suspended by application of Section 22(1) of
+the 1985 Act. Thus, the position of law held in Sunil Mittal (supra), could not be said
+to have been disturbed, but only its incorrect application to the facts of the specific
+case was set aside in LML Ltd.
+
+(supra).
+
+92. The decision in LML Ltd. (supra), on the contrary, fortifies the interpretation of Section 22(1) as
+was done in Sunil Mittal (supra) and Saketh India (supra). The relevant paragraph of the decision in
+LML Ltd. (supra) is extracted hereinbelow:
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+32
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+“16. The principle of law is thus unambiguous. Where the amount claimed or the
+liability sought to be set up is covered under the scheme, Section 22(1) will be
+attracted and there would be an automatic suspension of all legal proceedings
+including a suit for recovery of money. In the present case, the amount Rs.
+21,74,490.88 is admittedly a part of the DRS pending before the BIFR. The debt of
+Rs. 3,00,000/- on account of sales tax dues, the petitioner admits as his liability.
+Even if this amount is not permitted to be adjusted at this stage as has been pointed
+out by the learned counsel for the respondent, keeping in view the wide import of the
+language of Section 22 of the said Act there can be no question of continuing with the
+suit proceedings. It also cannot be lost sight of the fact that the parties were
+maintaining a running account; payments were being made from time to time; it
+would thus not be possible to segregate the element of debt since the question would
+be whether the debt due to the plaintiff is correctly reflected or a lesser amount is in
+fact due to him. The language of Section 22 would take into its sweep a situation even
+where if the full amount is not a part of the DRS. The question of continuation of the
+suit would not arise.” (Emphasis supplied)
+
+93. In M/s Haryana Steel & Alloys Ltd. v. M/s Transport Corporation of India reported in (2012)
+SCC OnLine Del 2140 it was held that the mere contention of the sick company unsubstantiated by
+any material indicating that the amount forming subject-matter of the recovery suit is covered under
+the scheme, would not be sufficient to bring the company under the protective ambit of Section
+22(1) of the Act. The relevant paragraphs of the said decision are extracted thus:
+
+“11. However, there is another dimension to the said embargo placed on filing of the
+suit for recovery against a company when the proceedings are pending under the
+SICA, which is the necessity of the inclusion of the dues payable by the company to
+the plaintiff in the scheme formulated before the BIFR. It is a settled legal position
+that it is not by mere pendency of an enquiry under Section 16 of the said Act or
+preparation of the scheme thereof being under consideration or even filing of an
+appeal under section 25 before the appellate authority that by itself would entitle the
+appellant for the said statutory injunction against the respondent/plaintiff as the
+benefit of the prohibition or embargo created under section 22 of the Act would come
+into operation only where the appellant/defendant has disclosed before the Court,
+that the amounts claimed by the respondent/plaintiff have been duly shown and
+disclosed in the scheme formulated and laid before the BIFR. The Apex Court in the
+case of Deputy Commercial Tax Officer v. Corromandal Pharmaceuticals, (1997) 10
+SCC 649 enunciated the law to hold that a cessation of legal proceedings would be
+justified only if the dues in respect of which adjudication is ongoing is also included
+in the contemplation of scheme presented by BIFR… xxx xxx xxx
+
+14. In the light of the above settled legal position, analyzing the facts of the case at
+hand, it is manifest that no material was placed on record by the appellant to show
+that the amount in respect of which the respondent laid its claim in the said recovery
+suit was reflected in the scheme laid before the BIFR. The only contention raised by
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+33
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+the appellant before the trial court as well as before this Court was that the
+prohibition or embargo as envisaged in Section 22 would come into operation
+immediately once the defendant brings to the notice of the Court that an inquiry
+under Section 16 is pending before the Board or an appeal is pending relating to the
+said inquiry before the Appellate Authority. Having failed to place any such material
+on record, this Court is of the clear view that the bar or embargo envisaged under
+Section 22 of the Act will not apply to the facts of the present case as the appellant
+cannot take the advantage of the said provision merely because an inquiry under
+Section 16 was pending before the BIFR or an Appeal under Section 25 against the
+order of BIFR was pending before the AAIFR.” (Emphasis supplied)
+
+94. In Kusum Products Ltd. v. Hitkari Industries Ltd. reported in 2014 SCC OnLine Del 4926, a
+learned Single Judge of the Delhi High Court, relying upon the decision in Raheja Universal (supra)
+held that a suit for recovery of money simpliciter will not be liable to be suspended under Section
+22(1) of the 1985 Act. It was observed thus:
+
+“3. The aforesaid paragraphs show that the proceedings for which prior permission is
+required under Section 22 of SICA are proceedings in the nature of execution,
+distress or like. It is not every suit or every suit for recovery which automatically
+becomes proceedings in the nature of execution, distress or like, and only such suits
+of recovery where there would be proceedings which cause liquidation of assets of a
+sick company, would be those suits which would be hit by the bar of Section 22 of
+SICA.
+
+4. In the present case, the suit for recovery of money is a suit for recovery of money
+simplicitor. Counsel for the plaintiff does not press the interim applications under
+Order 38 Rule 5 of Code of Civil Procedure, 1908 (CPC) and Order 39 Rules 1 and 2
+CPC.
+
+Accordingly, in the subject suit, there is no threat to the liquidation of the assets of the sick company
+and therefore no prior permission is required under Section 22 of SICA.” (Emphasis supplied)
+
+95. In FMI Investment Pvt. Ltd. v. Montari Industries Ltd. and Another reported in (2012) SCC
+OnLine Del 5354, the High Court undertook a comprehensive analysis of the dictum as laid in
+Raheja Universal (supra) and Saketh India (supra) and held thus:
+
+“6. The salient conclusions which can be arrived at from reading of the aforesaid
+paras in the case of Raheja Universal (supra) are :-
+
+(i) The proceedings which are affected by Section 22(1) are proceedings in the nature
+of execution, distress or the like.
+
+(ii) It depends on facts of each case as to whether the suit is hit by Section 22 i.e. all
+suits including of recovery, are not hit by Section 22(1).
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+34
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+(iii) Only those suits which have the effect of execution, distress or like action against
+the properties of the sick company are hit by Section 22 i.e. where a suit is simply for
+recovery of moneys, and the properties of a sick company are not threatened by the
+proceedings including interim proceedings such as appointment of receiver,
+execution, distress or the like, such suits can continue without permission under
+Section 22.
+
+7. Learned counsel for the defendant no. 2 sought to place reliance on the following three judgments
+to argue that permission under Section 22 is a sine qua non.
+
+(i) Managing Director, Bhoruka Textiles Ltd. v. Kashmiri Rice Industries (2009) 7 SCC 521;
+
+(ii) Tata Davy Ltd. v. State of Orissa (1997) 6 SCC 669;
+
+(iii) Dr. B.K. Modi v. Morgan Securities and Credits Pvt. Ltd. and Morgan Securities and Credits Pvt.
+Ltd. v. Dr. B.K. Modi MANU/DE/2779/2012
+
+8. In my opinion, all the three judgments, which have been cited on behalf of defendant no. 2 have
+no application because the legal position is sufficiently elaborated by the Supreme Court in the
+judgment of Raheja Universal (supra).
+
+9. None of the aforesaid judgments cited on behalf of defendant no. 2 deal with the issue of
+interpretation of Section 22 of SICA as has been done by the Division Bench of three Judges in the
+case of Raheja Universal (supra) and which holds that unless the suit proceedings are in the nature
+of ‘execution, distress or the like’, the suit can continue. The judgments relied upon by the defendant
+no. 2 are judgments which simply hold that once a company is a sick company, permission is
+required under Section 22 of the SICA, however, none of the judgments cited on behalf of the
+defendant no. 2 deal with the proposition as incorporated in the later judgment of the Division
+Bench of three Judges of the Supreme Court in the case of Raheja Universal (supra). Accordingly, it
+is held that the suit is maintainable.
+
+10. In the present suit for recovery it cannot be said that the suit is of a nature which has impact of
+or threat to the properties of the defendant No. 1 sick company to affect the scheme of revival. The
+suit is a simple suit for recovery under Order 37 CPC not having proceedings, whether interim or
+final, of execution, distress or the like and hence the suit is not hit by Section 22 of SICA. So far as
+defendant No. 2/guarantor is concerned, the suit against him will not surely hit any assets of the
+sick company and hence is not barred under Section 22 of SICA.” (Emphasis supplied)
+
+96. In one recent decision of the Delhi High Court in Chhattisgarh Distilleries Ltd. v. Percept
+Advertising Limited reported in 2023 SCC OnLine Del 6417, while considering the question on
+applicability of Section 22(1) of the 1985 Act, it was held thus:
+
+“8. It is well settled that there was legal duty cast upon the appellant/defendant to
+bring it to the notice of the Court that it had qualified for the protection under the
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+35
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+SICA, and this obligation was not discharged. There is no gainsaying that the
+aforesaid provision has been interpreted in umpteen number of cases decided by the
+Apex Court as well as this Court. In the cited case of Saketh India Limited (supra), it
+was observed that the phrase “recovery of money” must be construed ejusdem
+generis and accordingly recovery proceedings in the nature of execution or any other
+coercive enforcement that has been ordained to be not maintainable. There is
+nothing in the said provision so as to hold the legal proceedings to be not
+maintainable, or liable to be halted, even if the debt sought to be proved in the plaint
+has not been admitted. Furthermore, it was observed that there can be no logic in
+denying legal recourse to a party for proving its debt. The said decision was relied
+upon by this Court again in the decision of Ralson Industries Ltd. (now known as Da
+Rubber Industries Ltd) (supra), wherein it was categorically held that the
+proceedings that can be halted by invoking Section 22 of the SICA should be in the
+nature of execution, distress or the like.” (Emphasis supplied)
+
+97. From the aforesaid discussion, the position of law on the first issue before us appears to be that
+for the applicability of Section 22(1) of the 1985 Act, three aspects need to be considered – I. First,
+an inquiry under Section 16 of the 1985 Act must be pending; or any scheme referred to in Section 17
+of the 1985 Act must be under preparation or consideration or a sanctioned scheme must be under
+implementation; or an appeal under Section 25 of the 1985 Act must be pending – in relation the
+company against whom the legal proceedings sought to be suspended have been initiated.
+
+II. Secondly, the proceedings must be one from amongst the six types as described in paragraph 65
+of this judgment, or of a similar nature, i.e. ejusdem generis to the said six types of proceedings. III.
+Thirdly, the proceedings must have the effect of threatening the assets of the sick company and
+interfering with the formulation, consideration, finalisation or implementation of the scheme.
+
+98. Applying the aforesaid tests to the facts of the present case, we have already observed that
+requirement (i) is fulfilled. The proceeding in question being a suit for recovery of money,
+requirement (ii) is also satisfied. However, we are of the considered opinion that the third
+requirement is not fulfilled. We say so because the suit for recovery was not of a nature which could
+have proved to be a threat to the properties of the defendant sick company or would have adversely
+impacted the scheme of revival. The suit was a simple suit for recovery of money towards the dues
+arising under the alleged illegal deductions under the contract. This cannot be said to be a
+proceeding in the nature of execution, distress or the like and hence the suit was not hit by Section
+22(1) of the 1985 Act.
+
+99. By no stretch of imagination could it be said that the legislature intended to include even the
+proceedings for the adjudication of the liabilities not admitted by a sick company within the
+protective ambit of Section 22(1) of the 1985 Act. Such an adjudicatory process only determines the
+liability of the defendant towards the plaintiff, and does not threaten the assets of the sick company
+or interfere with the formulation of the scheme unless execution proceedings are initiated pursuant
+to the completion of such adjudicatory process. In the case of Jay Engineering (supra), it was rightly
+observed by this Court in the context of arbitration proceedings under the 1993 Act for the
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+36
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+adjudication of claims, that while the execution of an award would definitely be suspended under
+Section 22(1) of the 1985 Act, the adjudicatory process for arriving at such an award cannot be said
+to be suspended by the said provision. This position also seems to be justified in light of the fact that
+the proceedings before the BIFR under the 1985 Act were generally long-drawn and time consuming
+and it would subserve the interest of justice if a party was prevented even from proving the
+debt/liability of the sick company for the entirety of that lengthy period.
+
+100. We may also look at Section 22(1) of the 1985 Act by applying the mischief rule of
+interpretation. G.P. Singh in his authoritative commentary on the interpretation of statutes
+describes the mischief rule of construction as follows:
+
+“The rule which is also known as 'purposive construction' or 'mischief rule', enables
+consideration of four matters in construing an Act: (i) What was the law before the
+making of the Act, (ii) What was the mischief or defect for which the law did not
+provide, (iii) What is the remedy that the Act has provided, and (iv) What is the
+reason of the remedy. The rule then directs that the courts must adopt that
+construction which "shall suppress the mischief and advance the remedy.””
+
+101. Applying the aforesaid rule to Section 22(1) of the Act, we find that there was a vacuum in the
+legal framework to deal with sick industrial companies and provide ameliorative steps for their
+revival. The 1985 Act was thus enacted to fill in this vacuum. The mischief which was sought to be
+dealt with by the enactment of Section 22 was any such legal proceeding which could impact the
+assets of the sick company and in-turn negatively impact the formulation and implementation of the
+rehabilitative scheme. This provision was inserted to provide a remedy by ensuring that the multiple
+recourses available under the law for recovery of debts, etc. were suspended for the period during
+which the sick company was under the ameliorative shelter of the BIFR. Finally, it can be said that
+the reason for the remedy was to shield the formulation and implementation of the revival scheme
+from any impediments thereby maximising the chances of revival of sick company, which was the
+ultimate object sought to be achieved by the Act.
+
+102. The original defendants have placed strong reliance on 3 decisions of this Court in Jay
+Engineering (supra), Bhoruka Textiles (supra) and Tata Motors (supra) respectively. We have
+discussed in the foregoing parts of this judgment as to how this Court in Jay Engineering (supra)
+expressly observed that it was not the adjudicatory process, but the execution of an award which
+would be restricted by Section 22(1) of the 1985 Act. This judgment, thus, only furthers the line of
+reasoning we have adopted to negate the contention of the original defendants on the applicability
+of Section 22(1) of the 1985 Act.
+
+103. The decision in Bhoruka Textiles (supra) dealt with the specific facts in that case and should be
+read alongwith the decision in Raheja Universal (supra) wherein the scope of Section 22(1) of the
+1985 Act was considered in detail by a three-Judge bench. We would also like to observe that the
+reliance placed by this Court in Bhoruka Textiles (supra) on the decision in Tata Motors (supra)
+seems to be misplaced. The relevant paragraph of Bhoruka Textiles (supra) is reproduced
+hereinbelow:
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+37
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+“10. Section 22 of the Act must be interpreted giving a plain meaning to its contents.
+An enquiry in terms of Section 16 of the Act by the Board is permissible upon receipt
+of a reference. Thus, reference having been made on 27-12-2001 and the suit having
+been filed on 17-12-2002, the receipt of a reference must be held to be the starting
+period for proceeding with the enquiry.
+
+11. The effect of the provisions of the Act has been considered by a three-Judge Bench
+decision of this Court in Tata Motors Ltd. v.
+
+Pharmaceutical Products of India Ltd. [(2008) 7 SCC 619] wherein it, in no uncertain terms, held
+that SICA is a special statute and, thus, overrides other Acts like the Companies Act, 1956, stating:
+(SCC p. 635, paras 31-33) “31. SICA furthermore was enacted to secure the principles specified in
+Article 39 of the Constitution of India. It seeks to give effect to the larger public interest. It should be
+given primacy because of its higher public purpose. Section 26 of SICA bars the jurisdiction of the
+civil courts.
+
+32. What scheme should be prepared by the operating agency for revival and rehabilitation of the
+sick industrial company is within the domain of BIFR. Section 26 not only covers orders passed
+under SICA but also any matter which BIFR is empowered to determine.
+
+33. The jurisdiction of the civil court is, thus, barred in respect of any matter for which the Appellate
+Authority or the Board is empowered. The High Court may not be a civil court but its jurisdiction in
+a case of this nature is limited.”
+
+12. If the civil court's jurisdiction was ousted in terms of the provisions of Section 22 of the Act, any
+judgment rendered by it would be coram non judice. It is a well-settled principle of law that a
+judgment and decree passed by a court or tribunal lacking inherent jurisdiction would be a nullity.
+In Kiran Singh v. Chaman Paswan [AIR 1954 SC 340] this Court held: (AIR p. 342, para 6) “6. … It is
+a fundamental principle well established that a decree passed by a court without jurisdiction is a
+nullity, and that its invalidity could be set up whenever and wherever it is sought to be enforced or
+relied upon, even at the stage of execution and even in collateral proceedings. A defect of
+jurisdiction, whether it is pecuniary or territorial, or whether it is in respect of the subject-matter of
+the action, strikes at the very authority of the court to pass any decree, and such a defect cannot be
+cured even by consent of parties.” (See also Chief Engineer, Hydel Project v. Ravinder Nath [(2008)
+2 SCC 350 : (2008) 1 SCC (L&S) 940] , SCC p. 361, para 26.)”
+
+104. A perusal of the above indicates that in Tata Motors (supra), it was Section 26 and not Section
+22 of the 1985 Act which was under consideration. As opposed to Section 26 of the Act, which bars
+the jurisdiction of the civil courts in respect of those matters for which the BIFR or the AAIFR are
+empowered, Section 22 only places a temporary embargo on the initiation or continuation of legal
+proceedings in respect of certain matters mentioned therein. Further, unlike Section 22, where the
+said suspension can be revoked by seeking express permission of the BIFR or the AAIFR, no such
+permission can be sought under Section 26 of the 1985 Act. Again, in any view of the matter, the
+adjudication and determination of a contested liability under a contract is undoubtedly the domain
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+38
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+of the civil court or an arbitral tribunal and not that of the BIFR or the AAIFR.
+
+v. ISSUE NO. 2: Whether the High Court was correct in granting 24% Compound Interest on the
+Principal Decretal Amount in favour of the original Plaintiff?
+
+105. The High Court in its impugned judgment considered, as a separate issue, whether the original
+plaintiff was entitled to claim 24% compound interest from the original defendants on the delayed
+payments.
+
+a. Concept of Interest
+
+106. When interest is awarded by the Court, our normal feeling is that it is so awarded by way of
+penalty or punishment. But interest in all cases is not granted by way of penalty or punishment. In
+this regard, reference may be made to the decision of this Court in the case of Alok Shanker Pandey
+v. Union of India, reported in 2007 AIR (SC) 1198, wherein the concept of grant of interest has been
+explained in the following manner:
+
+"It may be mentioned that there is misconception about interest. Interest is not a
+penalty or punishment at all, but it is the normal accretion on capital. For example, if
+A had to pay B a certain amount, say ten years ago, but he offers that amount to him
+today, then he has pocketed the interest on the principal amount. Had A paid that
+amount to B ten years ago, B would have invested that amount somewhere and
+earned interest thereon, but instead of that A has kept that amount with himself and
+earned interest on it for this period. Hence equity demands that A should not only
+pay back the principal but also interest thereon to B."
+
+107. The above-noted decision of this Court makes it clear that interest on the delayed payment of
+the claim amount accrues due to the continuing wrong committed by the wilful withholding of the
+payment towards the claim, resulting in a continuous injury until such payment is made, or in other
+words, until the claim is realised.
+
+108. The High Court relied upon the provisions of the 1993 Act to hold that as per Sections 4 and 5
+respectively of the said legislation, the original plaintiff, which was a small-scale industrial
+undertaking, was entitled to claim compound interest @ 24% per annum from the original
+defendants. As a result, the High Court set aside the decree of the trial court which granted 12%
+simple interest in favour the original plaintiff.
+
+109. The original defendants are aggrieved by the awarding of 24% interest in favour of the original
+plaintiff, which they contend has resulted in the principal decretal amount getting inflated
+exorbitantly. The original plaintiff, on the other hand, has argued that the impugned judgment of
+the High Court insofar as it deals with the issue of interest cannot be said to suffer from any
+infirmity and was arrived at after due consideration of relevant material viz. the Handbook of
+Statistics of Indian Economy published by the Reserve Bank of India, etc. and after hearing the
+parties at length.
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+39
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+110. The original plaintiff has further submitted that the High Court considered the floor rate
+charged by the SBI for the financial year 1993-1994, which was 19%, as observed under the Table 74
+on Structure of Interest Rates in the Handbook of Statistics of Indian Economy published by the
+Reserve Bank of India.
+
+111. We shall briefly consider the object and scope of the 1993 Act for a better understanding of the
+issue before us. The Interest on Delayed Payments to Small Scale and Ancillary Industrial
+Undertakings Ordinance, 1992 was promulgated by the President of India on 23.09.1992. To replace
+this ordinance, the 1993 Act was enacted on 02.04.1993 and came into force with retrospective
+effect from 23.09.1992. Subsequently, the 1993 Act was repealed by the Micro Small and Medium
+Enterprises Development Act, 2006 (“MSMED Act, 2006”). The statement of objects and reasons to
+the 1993 Act reads as under:
+
+“A policy statement on small scale industries was made by the Government in
+Parliament. It was stated at that time that suitable legislation would be brought to
+ensure prompt payment of money by buyers to the small industrial units.
+
+2. Inadequate working capital in a small scale or an ancillary industrial undertaking
+causes serious and endemic problems affecting the health of such undertaking.
+Industries in this sector have also been demanding that adequate measures be taken
+in this regard. The Small Scale Industries Board, which is an apex advisory body on
+policies relating to small scale industrial units with representatives from all the
+States, governmental bodies and the industrial sector, also expressed this view. It
+was, therefore, felt that prompt payments of money by buyers should be statutorily
+ensured and mandatory provisions for payment of interest on the outstanding
+money, in case of default, should be made. The buyers, if required under law to pay
+interest, would refrain from withholding payments to small scale and ancillary
+industrial undertakings.
+
+3. An Ordinance, namely, the Interest on Delayed Payments to Small Scale and
+Ancillary Industrial Undertakings Ordinance, 1992, was, therefore, promulgated by
+the President on the 23rd September, 1992.
+
+4. The Bill seeks to replace the said Ordinance and to achieve the aforesaid objects.”
+
+112. It is evident from the aforesaid statement of objects and reasons that the legislature desired to
+bring about a legislation which would ensure prompt payment of money to small scale units, as the
+absence of working capital may have severe impacts on the functioning of small scale and ancillary
+industries. The 1993 Act envisaged that there should be minimal delay in payments to small scale
+units. Section 2 of the 1993 Act provides for the certain important definitions which are reproduced
+hereinbelow:
+
+“(b) “appointed day” means the day following immediately after the expiry of the
+period of thirty days from the date of acceptance or the day of deemed acceptance of
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+40
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+any goods or any services by a buyer from a supplier;
+
+Explanation.—For the purposes of this clause,—
+
+(i) “the day of acceptance” means,—
+
+(a) the day of the actual delivery of goods or the rendering of services; or
+
+(b) where any objection is made in writing by the buyer regarding acceptance of
+goods or services within thirty days from the day of the delivery of goods or the
+rendering of services, the day on which such objection is removed by the supplier;
+
+(ii) “the day of deemed acceptance” means, where no objection is made in writing by
+the buyer regarding acceptance of goods or services within thirty days from the day of
+the delivery of goods or the rendering of services, the day of the actual delivery of
+goods or the rendering of services;
+
+(c) “buyer” means whoever buys any goods or receives any services from a supplier
+for consideration;
+
+xxx xxx xxx
+
+(f) “supplier” means an ancillary industrial undertaking or a small scale industrial
+undertaking holding a permanent registration certificate issued by the Directorate of
+Industries of a State or Union territory and includes,—
+
+(i) the National Small Industries Corporation, being a company, registered under the
+Companies Act, 1956 (1 of 1956);
+
+(ii) the Small Industries Development Corporation of a State or a Union territory, by
+whatever name called, being a company registered under the Companies Act, 1956 (1
+of 1956).]”
+
+113. Section 3 of the 1993 Act provides for the liability of the buyer to make payment to the
+small-scale industries whereas Section 4 and 5 respectively of the said Act pertain to the date from
+which and the rate at which interest is payable. Section 5 of the 1993 Act also stipulates that the
+buyer shall be liable to pay compound interest. Sections 3, 4 and 5 respectively of the 1993 Act, as
+existing at the time when the dispute between the parties arose, are reproduced thus: -
+
+“3. Liability of buyer to make payment - Where any supplier supplies any goods or
+renders any services to any buyer, the buyer shall make payment therefor on or
+before the date agreed upon between him and the supplier in writing or, where there
+is no agreement in this behalf, before the appointed day.
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+41
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+4. Date from which and rate at which interest is payable - Where any buyer fails to
+make payment of the amount to the supplier, as required under section 3, the buyer
+shall, notwithstanding anything contained in any agreement between the buyer and
+the supplier or in any law for the time being in force, be liable to pay interest to the
+supplier on that amount from the appointed day or, as the case may be, from the date
+immediately following the date agreed upon, at such rate, which is five per cent
+points above the floor rate for comparable lending.
+
+Explanation: For the purposes of this section, "floor rate for comparable lending" means the highest
+of the minimum lending rates charged by scheduled banks (not being co-operative banks) on credit
+limits in accordance with the directions given or issued to banking companies generally by the
+Reserve Bank of India under the Banking Regulation Act, 1949 (10 of 1949).
+
+5. Liability of buyer to pay compound interest - Notwithstanding anything contained in any
+agreement between a supplier and a buyer or in any law for the time being in force, the buyer shall
+be liable to pay compound interest (with monthly interest) at the rate mentioned in section 4 on the
+amount due to the supplier.”
+
+114. On a perusal of Section 3 of the 1993 Act, we find that where any supplier supplies any goods,
+the buyer shall make payment on or before the date agreed upon between him and the supplier in
+writing or, where there is no agreement in this behalf, before the appointed day. In the instant case,
+as per the terms of the NIT, payment was to be made within 20 days from the receipt of the goods.
+
+115. As discussed in the preceding paragraphs of this judgment, the High Court has awarded 24%
+compound interest on the amounts due to the original plaintiff from the date the amounts were
+determined to have become due till the date of their realisation by the original plaintiff. While there
+is no doubt that the rate of interest applicable to the dues of the original plaintiff as determined by
+the High Court is correct, we think it is necessary to examine if the compound interest can be said to
+have continued to accrue even when FCIL was declared a sick company and was awaiting its revival
+before the BIFR. In other words, it is not the rate of interest but the period for which it is applicable,
+is the question that is to be determined.
+
+116. We have discussed at length in the foregoing paragraphs of the judgment the object behind the
+enactment of the 1985 Act. Sickness of industrial companies was considered to be a problem that
+affected the country at large, and thus the 1985 Act was enacted as per the policy directions
+contained in Article 39 of the Constitution to provide, inter alia, ameliorative steps for the revival of
+sick companies, and for the expeditious detection of potentially sick companies. In particular, we
+would like to mention that Section 19 of the 1985 Act provides that the scheme for rehabilitation of a
+sick company may provide for financial assistance to the sick company by way of loans, advances,
+reliefs or concessions or sacrifices from the Central Government, a State Government, a public
+financial institution etc.
+
+117. In the present case, in pursuance of Section 19 of the Act, a number of decisions were taken by
+the CCEA on 09.05.2013 including the waiver of loans and interest thereon by the Central
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+42
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+Government which ran into thousands of crores. As per the document F.No. 18055/13/2012-FCA-1
+titled “Gist of the CCEA decisions dated 09th May, 2013” published by the Ministry of Chemicals
+and Fertilizers, it appears that the dues of the major unsecured creditors were settled at 30% of their
+dues as on 31.03.2003. Further, the dues of some other parties were settled without any interest or
+penalty, as otherwise the entire process of revival might have gotten derailed.
+
+118. We have also discussed how Section 22(1) of the 1985 Act suspends any legal proceedings of the
+nature specified therein if they can potentially interfere with the consideration, sanction or
+execution of the rehabilitation scheme. The intention behind the sanction and execution of a
+rehabilitation scheme, without a doubt, is to increase the chances of the revival of the sick company
+in public interest.
+
+119. Thus, on one hand we have the beneficial provisions of the 1985 Act, enacted to maximise the
+chances of revival of sick industrial companies, while on the other, we have the 1993 Act, which was
+enacted with the intention to ensure that small-scale industries are paid their dues in time. This
+object of the 1993 Act was sought to be achieved by providing a high interest rate, with monthly
+compounding, so as to act as a deterrent for the buyers.
+
+120. A preliminary contention was raised by the original defendants that the original plaintiff chose
+to institute a civil suit for recovery of money, rather than following the process prescribed under
+Section 6 of the 1993 Act, which provides for the referring of a dispute arising under the 1993 Act to
+arbitration before the Industry Facilitation Council, and thus for this reason, the suit for recovery,
+which is expressly suspended under Section 22(1) of the Act, should be held as not maintainable. It
+was also argued that even otherwise no interest should be granted on the amount claimed as due
+since the mechanism prescribed under Section 6(2) of the 1993 Act was not followed.
+
+121. Section 6 of the 1993 Act reads as follows:
+
+“6. Recovery of amount due -
+
+(1) The amount due from a buyer, together with the amount of interest calculated in
+accordance with the provisions of sections 4 and 5, shall be recoverable by the
+supplier from the buyer by way of a suit or other proceeding under any law for the
+time being in force.
+
+(2) Notwithstanding anything contained in sub-section (1), any party to a dispute
+may make a reference to the Industry Facilitation Council for acting as an arbitrator
+or conciliator in respect of the matters referred to in that sub-section and the
+provisions of the Arbitration and Conciliation Act, 1996 (26 of 1996) shall apply to
+such dispute as if the arbitration or conciliation were pursuant to an arbitration
+agreement referred to in sub-section (1) of section 7 of that Act.”
+
+122. We do not find any force in this contention of the original defendants. Section 6 merely
+provides that for the purpose of recovery of the amounts due under the 1993 Act, a supplier may
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+43
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+make a reference to the Industries Facilitation Council, which is established under Section 7A of the
+1993 Act. First, at the time of the institution of the suit by the original plaintiff, the Industries
+Facilitation Councils didn’t exist as the provision for their establishment was only brought in vide an
+amendment in 1998. Secondly, even otherwise, Section 6(2) of the 1993 Act merely provides for an
+alternate avenue to the supplier in addition to a suit or any other legal proceedings as mentioned in
+Section 6(1) of the 1993 Act.
+
+123. It is also pertinent to mention that in the absence of the express permission of the BIFR,
+Section 22(1) of the 1985 Act suspends any legal proceedings in the nature of execution during the
+pendency of the scheme before the BIFR, as execution would necessarily result in negatively
+impacting the assets of a sick company, thereby affecting the preparation, sanction or
+implementation of scheme and as a net effect, would bring down the chances of revival of the sick
+company.
+
+124. In the present case, the suit was decreed in favour of the original plaintiff by the trial court vide
+its judgment dated 19.09.2001. However, while the adjudication of the suit of the original plaintiff
+could not have been said to be barred under Section 22(1) of the 1985 Act as it was for the mere
+determination of liability of the parties inter-se, the execution of decree obtained as a result thereof
+was expressly suspended during the period as mentioned in the said provision, unless the requisite
+permission from the BIFR or the AAIFR could be obtained.
+
+125. Interest of justice requires that both the 1985 Act and the 1993 Act, which are in the nature of
+beneficial enactments, should be read harmoniously so as to impart a meaningful construction to
+the language of each of the enactments. It was held in Jay Engineering (supra) on the interplay
+between the two Acts as follows:
+
+“13. The 1993 Act was enacted to provide for and regulate the payment of interest on
+delayed payments to small-scale and ancillary industrial undertakings and for
+matters connected therewith.
+
+14. The provisions of the 1993 Act, therefore, do not envisage a situation where an
+industrial company becomes sick and requires framing of a scheme for its revival.”
+(Emphasis supplied)
+
+126. In our opinion, it would defy logic to hold that even for the period when the principal decretal
+amount awarded by the civil court under a decree could not have been realised in lieu of the
+suspension of execution proceedings, interest would continue to mount on the principal decretal
+amount. Thus, while there is a stay on proceedings in the nature of distress and execution, etc.
+against the properties of the sick company, to safeguard its assets, awarding interest for that very
+same period, though not expressly barred under any provision of the Act, could not have been the
+intention of the legislature.
+
+127. Any other interpretation would only lead to an absurd result that as soon as a sick company is
+revived after the steps taken by the BIFR, and concessions, financial support, etc. provided by the
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+44
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+government, it would be prone to the liability of having to pay exorbitant interest that would have
+accrued on any decree which can be put to execution after the end of BIFR proceedings.
+
+128. The net effect would be that a freshly revived sick company would potentially be saddled with
+huge amounts, as has happened in the present case because of the impugned judgment, and be at a
+risk of being rendered sick again, thus defeating the very purpose of the 1985 Act.
+
+129. A two-judge bench of this Court, in a recent decision in Modi Rubber Ltd. v. Continental
+Carbon India Ltd., reported in 2023 SCC OnLine SC 296 decided the issue as to whether it was open
+to an unsecured creditor to not accept the scaled down value of its dues, as computed in the
+rehabilitation scheme, and wait for the revival of the sick company to recover its debt with interest
+post the rehabilitation. This Court, after an exhaustive consideration of the object of the 1985 Act,
+answered the issue in the negative and held as follows:
+
+“40. The short question, which is posed for the consideration of this Court is:—
+“Whether on approval of a scheme by the BIFR under the Sick Industrial Companies
+(Special Provisions) Act, 1985, an unsecured creditor has the option not to accept the
+scaled down value of its dues, and to wait till the scheme for rehabilitation of the
+respondent - sick company has worked itself out, with an option to recover the debt
+with interest post such rehabilitation?” xxx xxx xxx
+
+49. Thus, the primary concern of the Board would be the revival of the sick company
+and to save the sick company from winding up. That is why with a view to see that
+there is no impediment in framing the rehabilitation scheme and to get out the sick
+company from sickness. Section 22 provides for suspension of legal proceedings,
+contracts etc. On a bare reading of Section 22 and Section 22A of SICA, it appears
+that these two provisions primarily ensure that the scheme prepared by BIFR does
+not get frustrated because of certain other legal proceedings and to prevent untimely
+and unwarranted disposal of the assets of the sick industrial company. These sections
+clearly state certain restrictions which will impact upon the implementation of the
+scheme as well as on the assets of the company.
+
+xxx xxx xxx
+
+53. Keeping in mind the statement of objects and reasons for enactment of SICA,
+1985 and the powers exercised by the BIFR and the primary concern to revive the
+sick industry for which the rehabilitation scheme is to be framed under Section 18,
+the question posed is required to be considered.
+
+xxx xxx xxx
+
+56. The operating agency is defined under Section 3(i) and it means any public
+financial institution, State-level institution, scheduled bank or any other person as
+may be specified by general or special order as its agency by the Board. No other
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+45
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+persons including the unsecured creditors comes into picture like preparing the
+scheme under Section 18. Section 18 of the SICA does not provide that at the time of
+preparing of the scheme under Section 18 or when it is sanctioned by the Board, the
+unsecured creditors are required to be heard. The only provision for the consent
+required is Section 19 and the agency/person, who is required to give the financial
+assistance, its consent is required.
+
+Once the rehabilitation scheme/scheme under Section 18 prepared by the operating agency is
+sanctioned by the BIFR, which may include the scaling down the value of dues of the unsecured
+creditors, the same shall bind all, otherwise the rehabilitation scheme shall not be workable at all
+and the object and purpose of enactment of the SICA, 1985 will be frustrated. If some
+persons/unsecured creditors and/or even the labourers are permitted to get out of the purview of
+the scheme and thereafter permitting such or some of the unsecured creditors to wait till the scheme
+for rehabilitation of the sick company has worked itself out, in that case, the scheme shall not be
+workable at all. To make the company viable, the concerned persons including the unsecured
+creditors have to sacrifice to some extent otherwise the revival efforts shall fail.
+
+xxx xxx xxx
+
+59. If the submission on behalf of the unsecured creditors, which has been accepted by the High
+Court in the case of Continental Carbon India Ltd. (supra) that an unsecured creditor can opt out of
+the scheme sanctioned by the BIFR under the SICA, 1985 and is allowed not to accept the scaled
+down value of its dues and may wait till the scheme for rehabilitation of the sick company has
+worked itself out, with an option to recover the debt post such rehabilitation is accepted/allowed, in
+that case, the minority creditors may frustrate the rehabilitation scheme, which may frustrate the
+object and purpose of enactment of SICA, 1985.
+
+xxx xxx xxx
+
+61. Thus, minority creditors and that too some unsecured creditors cannot be permitted to stall the
+rehabilitation of the sick company by not accepting the scaled down value of its dues. Unless and
+until there is a sacrifice by all concerned, including the creditors, financial institutions, unsecured
+creditors, labourers, there shall not be any revival of the sick industrial company/company.
+
+62. Now, so far as the submission on behalf of the unsecured creditors that the unsecured creditors
+should have an option not to accept the scaled down value of its dues and to wait till the scheme for
+rehabilitation of the sick company has worked itself out, with an option to recover the debt post such
+rehabilitation is concerned, the same has no substance and cannot be accepted. It is required to be
+noted that in a given case, because of the scaling down of the value of the dues of the creditors, the
+company survives. The company has survived in view of the rehabilitation scheme because of the
+sacrifice/scaling down the value of the dues of the creditors including the financial institutions. How
+such a benefit can be permitted to be given to the unsecured creditors, who does not accept the
+scaled down value of its dues. Such an unsecured creditor cannot be permitted to take the benefit of
+the revival scheme, which is at the cost of other creditors including the financial institutions and
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+46
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+even the labourers.
+
+63. Now, so far as the view taken by the High Court that the unsecured creditor had an option not to
+accept the scaled down value of its dues and can wait till the scheme for rehabilitation of the
+company has worked itself out with an option to recover the debt with interest post such
+rehabilitation is accepted, in a given case, the sick company, which has been able to revive because
+of the scaling down the value of the dues, may again become sick, if the entire dues of the unsecured
+creditors are to be paid thereafter. It may again lead to becoming such a revived company again as a
+sick company. If such a thing is permitted, in that case, it will again frustrate the object and purpose
+of enactment of the SICA, 1985.
+
+64. Now, so far as the submission on behalf of the unsecured creditors that to compel the unsecured
+creditors to accept the scaled down value of its dues would tantamount to and would be violative of
+Article 300A of the Constitution of India is concerned, the same has also no substance. Scaling down
+the value of the dues is under the rehabilitation scheme prepared under Section 18 of the SICA,
+which has a binding effect on all the creditors. Therefore, the same cannot be said to be violative of
+Article 300A of the Constitution of India. The law permits framing of the scheme taking into
+consideration and to provide the measures contemplated under Section 18, therefore, the
+rehabilitation scheme which provides for scaling down the value of dues of the creditors/unsecured
+creditors and even that of the labourers cannot be said to be violative of Article 300A of the
+Constitution of India as submitted on behalf of the unsecured creditors.
+
+65. In view of the above and for the reasons stated above, the view taken by the High Court of Delhi
+in Continental Carbon India Ltd. (supra) that on approval of a scheme by the BIFR under the Sick
+Industrial Companies (Special Provisions) Act, 1985, the unsecured creditors has an option not to
+accept the scaling down value of its dues and to wait till the rehabilitation scheme of the sick
+company has worked itself out with an option to recover the debt with interest post such
+rehabilitation is erroneous and contrary to the scheme of SICA, 1985 and the same deserves to be
+quashed and set aside and is accordingly quashed and set aside.” (Emphasis supplied)
+
+130. It is clear from the aforesaid observations of this Court that the revival of a sick industry should
+be given utmost priority and any interpretation which may result in a newly revived company
+becoming sick again should be avoided at all costs. In the case on hand, the decree in favour of the
+original plaintiff was not a part of the scheme of rehabilitation approved by the BIFR. Had it been
+so, it is nothing but obvious that the scheme would have proposed to settle the dues of the original
+plaintiff at a scaled down value, since a similar approach was adopted in the scheme to settle the
+dues of all the other creditors. In that scenario, the original plaintiff would not have had any other
+option but to accept the scaled down value and settle its dues as per the dictum in Modi Rubber
+(supra).
+
+131. The decree awarded by the trial court was contested by both the parties before the High Court.
+No material was placed before us to show whether any steps were taken by the original plaintiff to
+obtain the permission of the BIFR for the execution of the decree of the trial court, or for the
+inclusion of the said decree in the rehabilitation scheme. At the same time, the original defendants
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+47
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+too failed to bring anything on record to show if any steps were taken by them for the inclusion of
+the dues of the original plaintiff in the rehabilitation scheme.
+
+132. Although the facts of the case on hand are different from the facts in Modi Rubber (supra), we
+are of the opinion that the general principles enunciated in that case are equally applicable in the
+present case. Thus, only for the reason that the dues of the original plaintiff were not a part of the
+scheme and thus could not be settled at a scaled-down value, it cannot be held that it will now be
+open for the original plaintiff to recover its dues along with compound interest for the entire period
+in a manner that will saddle the defendant company with enormous liability, thereby possibly
+rendering the entire process of its revival futile. This, in our view, could never have been the object
+of the 1985 Act and the provisions of the 1993 Act thus have to be harmonised so as to give effect to
+the true object of the 1985 Act.
+
+133. We also had the occasion to look into the decision of a 2-Judge bench of this Court in LML
+Limited v. Union of India & Others reported in (2014) 13 SCC 375 wherein this Court was
+considering the purport of Section 19 of the MSMED Act, 2006 which is in pari-materia to the
+Section 7 of the 1993 Act. The provisions read as under:
+
+MSMED Act, 2006 The 1993 Act “19. Application for setting aside decree, award or “7. Appeal –
+order.
+
+No appeal against any decree, No application for setting aside any decree, award or award or other
+order shall be other order made either by the Council itself or by any entertained by any court or
+other institution or centre providing alternate dispute authority unless the appellant resolution
+services to which a reference is made by (not being a supplier) has the Council, shall be entertained
+by anyf court unless deposited with it seventy-five the appellant (not being a supplier) has deposited
+with per cent. of the amount in terms it seventy-five per cent. of the amount in terms of the of the
+decree, award or, as the decree, award or, as the case may be, the other order case may be, other
+order in the in the manner directed by such court: manner directed by such court or, as the case may
+be, such Provided that pending disposal of the application to authority.” set aside the decree, award
+or order, the court shall order that such percentage of the amount deposited shall be paid to the
+supplier, as it considers reasonable under the circumstances of the case, subject to such conditions
+as it deems necessary to impose.”
+
+134. In the aforesaid case, the petitioner therein, having become a sick company, filed a reference to
+the BIFR under Section 15(1) of the 1985 Act. Around the same time, one of the respondents filed a
+claim petition before the Industries Facilitation Council under Section 6 of the 1993 Act. The 1993
+Act was replaced by the MSMED Act, 2006 during the pendency of the proceedings. While the
+reference of the company remained pending before the BIFR, the Industries Facilitation Council
+passed an award in the favour of the said respondent, which the petitioner sought to appeal under
+the Section 34 of the Arbitration and Conciliation Act, 1996. However, both the District Court and
+the High Court dismissed the challenge petition for not complying with the Section 19 of the
+MSMED Act, 2006, which mandates that 75% of the decretal/award amount has to be deposited by
+the appellant before the appeal can be entertained by the appellate court.
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+48
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+135. However, this Court set aside the dismissal orders and held as follows:
+
+“9. Having regard to the above position, we are satisfied that this is not a case where
+we should go into the legal question noted by us in the beginning of our order. We are
+satisfied that interest of justice shall be subserved if it is directed that failure to
+deposit the amount as directed by the District Judge, Kanpur Nagar in its order dated
+12-5-2011 would not result in dismissal of the arbitration petition filed by the
+petitioner under Section 34 of the 1996 Act challenging the award dated 22-12-2008.
+The said arbitration petition may remain pending with the District Judge until the
+finalisation of scheme by BIFR under Section 18 of the 1985 Act. We order
+accordingly.
+
+10. The special leave petition is disposed of as above. Respondent 3 is granted liberty
+to apply to BIFR to hear it before finalisation of the scheme. We observe that if such
+an application is made, BIFR shall hear Respondent 3 before finalisation of the
+scheme or any other order that may be passed by BIFR terminating the proceedings
+under 1985 Act.” (Emphasis supplied)
+
+136. We would also like to advert to the principle of harmonious construction to understand the
+interplay between the 1985 Act and the 1993 Act. Simply put, the doctrine of harmonious
+construction is based on the principle that the legislature would not lightly take away from one hand
+what it had given with the other. Thus, this doctrine provides, that as far as possible, two seemingly
+conflicting provisions within a statute, or the seemingly conflicting provisions of one statute vis a vis
+another, should be construed in a manner so as to iron out any conflict.
+
+137. Section 10 of the 1993 Act provides for an overriding effect to the provisions of the said Act to
+the extent of inconsistency with any other statute. Similarly, Section 32 of the 1985 Act provides
+overriding effect to the provisions of the said Act except for the enactments specified therein.
+Dealing with a case involving the apparent conflict between the two statutes containing overriding
+provisions, this Court in Sarwan Singh v. Shri Kasturi Lal reported in (1977) 1 SCC 750 held as
+follows:
+
+“When two or more laws operate in the same field and each contains a non obstante
+clause stating that its provisions will override those of any other law, stimulating and
+incisive problems of interpretation arise. Since statutory interpretation has no
+conventional protocol, cases of such conflict have to be decided in reference to the
+object and purpose of the laws under consideration.” (Emphasis supplied)
+
+138. Similarly, in Jay Engineering (supra), it was observed by this Court thus:
+
+“31. The endeavour of the court would, however, always be to adopt a rule of
+harmonious construction.”
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+49
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+139. We would also like to refer to a recent decision of the Madras High Court in Metafilms India
+Ltd. v. Assistant Commissioner (CT) (Addl.), Amaindakarai Assessment Circle, Chennai and Others
+reported in (2022) 96 GSTR 272. Although the said decision was rendered in the peculiar facts of
+the case therein, yet the reasoning behind the same appears to have been similar to the one that we
+have employed. The relevant parts of the judgment are extracted hereinbelow:
+
+“27. Hence, the question would be, in the facts and circumstances of the present case,
+what is the date, on which, the repayment is due. As we have mentioned earlier, the
+case on hand is very peculiar and appears to have not arisen in any of the earlier
+litigations and therefore, it requires to be dealt with in a different manner and
+obviously on such a reasoning, any observation or direction, which we may issue in
+this judgment, cannot be treated as a precedent.
+
+28. As mentioned above, the appellant was de-registered by the BIFR on February 5,
+2013. The first demand notice was issued on March 20, 2013. However, the appellant
+paid the dues only on April 25, 2015. The question would be, in the facts and
+circumstances, what would be the date, on which, the repayment of the loan is due.
+
+29. The Department's contention is that it should be the date, on which, the default
+occurred. If that is to be reckoned as the date, then an order of cancellation of the
+agreement followed by recovery proceedings should have been taken by the
+Department, which admittedly has not been done. This is presumably for the reason
+that from 2003 to 2013, the appellant was before the Board and it was declared as a
+s i c k   i n d u s t r i a l   c o m p a n y   a n d   i n   t e r m s   o f   s e c t i o n   2 2   o f   t h e   S I C A ,   t h e
+respondent-Department was prohibited from proceeding with any recovery against
+t h e   a p p e l l a n t   a n d   t h i s   i s   a   s t a t u t o r y   p r o h i b i t i o n ,   w h i c h   b i n d s   t h e
+respondent-Department.
+
+30. From the representation given by the appellant to the Government dated August
+5, 2014, we find that the Sales Tax Department did not appear before the Board on
+several dates when the case was heard. Be that as it may, the due date for repayment
+could have never occurred, in the facts and circumstances, between August 1, 2003
+when the appellant was referred to the BIFR and May 31, 2006, the appellant was
+declared as a sick industrial company till its net worth turned positive and it was
+discharged from the Board on February 5, 2013.
+
+31. Thus, on facts, we hold that the date, on which, the repayment became due for the
+appellant's case shall be fixed on February 6, 2013. Admittedly, the appellant cleared
+the entire sales tax on April 25, 2015. Hence, for the period from February 6, 2013 to
+April 25, 2015, the appellant is liable to pay interest."
+
+(Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+50
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+140. For the period during which the defendant company was sick and before the BIFR, it cannot be
+said that the withholding of the payment of the dues of the original plaintiff was wilful and
+intentional. We say so because first, the liability of the original defendants was disputed and was
+finally adjudicated only by way of the impugned judgment, much after the BIFR proceedings had
+come to an end; and secondly, even if the liability of the original defendants was not disputed, or
+was even acknowledged before the BIFR, recovery of the same could not have been done without the
+permission of the BIFR in view of the suspension of recovery proceedings by Section 22(1) of the
+1985 Act.
+
+141. Thus, in view of our aforesaid discussion, we deem it fit to exclude the period commencing from
+the date when FCIL was declared to be a sick company under the 1985 Act going up to the date when
+it was discharged by the BIFR and declared to be no longer a sick industrial company from the
+purview of the applicability of the interest provision under the 1993 Act. Thus, while the
+applicability of the 1993 Act to the dues of the original plaintiff is not disputed, such interest shall
+not be calculated for the period between 06.11.1992 and 27.06.2013.
+
+E. CONCLUSION
+
+142. The net effect of the aforesaid discussion and findings is as follows:
+
+I. The suit instituted by the original plaintiff before the trial court was not hit by the
+embargo envisaged under Section 22(1) of the 1985 Act.
+
+Thus, the decree awarded in favour of the original plaintiff by the trial court and
+modified by the High Court, cannot be said to be coram non-
+
+judice.
+
+II. The High Court committed no error in awarding 24% interest to the original
+plaintiff on its dues as per the provisions of the 1993 Act.
+
+However, the period during which the defendant company was a sick company as per
+the 1985 Act should be excluded for the purposes of calculation of interest.
+
+143. As a result, the impugned judgment and order of the High Court is upheld subject to the
+modification of the period for which interest may be granted as discussed aforesaid. To clarify, the
+interest will be calculated at 24% p.a. with monthly compounding.
+
+144. The appeals are disposed of in the aforesaid terms. The final amount that may be determined in
+accordance with the final decree shall be paid to the original plaintiff within a period of 4 weeks
+from today, failing which interest at the rate of 36% p.a. with monthly compounding shall accrue.
+
+145. Pending application(s), if any, shall stand disposed of.
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+51
+
+Fertilizer Corporation Of India Ltd. vs M/S. Coromandal Sacks Private Limited on 26 April, 2024
+
+146. Parties to bear their own costs.
+
+............................................................. J.
+
+(J.B. Pardiwala) ............................................................. J.
+
+(Sandeep Mehta) New Delhi 26th April, 2024
+
+Indian Kanoon - http://indiankanoon.org/doc/59913038/
+
+52
+
+

@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 4833 of 2022 (Arising out of SLP (C) No. 948 of 2018)",
+  "parties": {
+    "petitioner": "Satyender and Ors.",
+    "respondent": "Saroj and Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-17",
+  "summary": "The appeal challenged a Punjab & Haryana High Court judgment partly allowing a second appeal in a property dispute over agricultural land. The plaintiffs claimed ownership and sought eviction of defendants alleging unauthorized sub-tenancy. The trial and first appellate courts dismissed the suit, citing failure to prove ownership and non-joinder of necessary parties. The High Court partly allowed the second appeal, granting possession of two plots uncontested by defendants, while setting aside the counterclaim on procedural grounds under Order VIII Rule 6A CPC. This Court examined whether the High Court erred in deciding the second appeal without framing a substantial question of law. It held that in Haryana, Section 41 of the Punjab Courts Act, 1918 governs second appeals—not Section 100 CPC—allowing appeals on grounds of contravention of law, failure to determine material legal issues, or procedural errors. The appeal succeeded on the threshold issue, affirming applicability of Section 41 and overturning the High Court's approach.",
+  "legal_provisions_cited": [
+    "Section 41, Punjab Courts Act, 1918",
+    "Section 100, Code of Civil Procedure, 1908",
+    "Order VIII, Rule 6A, CPC",
+    "Article 254, Constitution of India",
+    "Pankajakshi & Ors. v. Chandrika & Ors.",
+    "Kirodi v. Ram Parkash & Ors.",
+    "Kulwant Kaur v. Gurdial Singh Mann"
+  ],
+  "final_judgment": "Appeal allowed to the extent of reinstating the jurisdictional framework under Section 41 of the Punjab Courts Act, 1918; remanded for determination of second appeal in accordance with law."
+}

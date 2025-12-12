@@ -1,0 +1,19 @@
+{
+  "case_number": "Criminal Appeal No.816 of 2016",
+  "parties": {
+    "petitioner": "Dhirubhai Bhailalbhai Chauhan & Anr.",
+    "respondent": "State of Gujarat & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-03-21",
+  "summary": "Appeals challenged the partial reversal of acquittal by the Gujarat High Court, which convicted appellants for offences under IPC sections 143, 147, 153(A), 295, 436, and 332 in a 2002 riot case. Trial court had acquitted all 19 accused due to lack of reliable identification and contradictory testimony. High Court upheld acquittal of 12 accused but convicted 7 arrested on spot, relying on their presence and FIR mention. Supreme Court analyzed evidence: large mob, no curfew, no recovery of weapons, weak eyewitness testimony (PW-2 and PW-4 discredited), and no specific acts attributed to appellants. Held that mere presence in village during riots, without overt act, insufficient for conviction. Found High Court erred in reversing acquittal without cogent evidence linking appellants to unlawful assembly.",
+  "legal_provisions_cited": [
+    "Indian Penal Code, Section 143",
+    "Indian Penal Code, Section 147",
+    "Indian Penal Code, Section 153(A)",
+    "Indian Penal Code, Section 295",
+    "Indian Penal Code, Section 436",
+    "Indian Penal Code, Section 332"
+  ],
+  "final_judgment": "Appeals allowed; impugned judgment of the High Court set aside; conviction and sentence of the appellants quashed; appellants entitled to bail if not already released."
+}

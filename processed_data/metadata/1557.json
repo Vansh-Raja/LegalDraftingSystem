@@ -1,0 +1,27 @@
+{
+  "case_number": "Criminal Appeal No. 85 of 2022",
+  "parties": {
+    "petitioner": "The State of Sikkim",
+    "respondent": "Jasbir Singh & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-01",
+  "summary": "The case involved a dispute over the jurisdiction to try a serving army personnel, Lance Naik Jasbir Singh, for murder and related offences. The Sessions Court and High Court held that under Section 69 of the Army Act, 1950, the accused could only be tried by court-martial, and the criminal court lacked jurisdiction. The State of Sikkim appealed, arguing that criminal courts and court-martial have concurrent jurisdiction based on the discretion of the Commanding Officer under Section 125 of the Army Act. The State contended that absence of objection from military authorities implies tacit consent for trial in criminal court, relying on Joginder Singh v. State of Himachal Pradesh. The central issue was whether procedural requirements under Section 125 and 126 of the Army Act and the 1978 Rules were complied with to enable trial in a civilian court.",
+  "legal_provisions_cited": [
+    "Section 397 CrPC",
+    "Section 401 CrPC",
+    "Section 482 CrPC",
+    "Section 302 IPC",
+    "Section 308 IPC",
+    "Section 25(1-B)(a) Arms Act",
+    "Section 27(3) Arms Act",
+    "Section 69 Army Act",
+    "Section 70 Army Act",
+    "Section 125 Army Act",
+    "Section 126 Army Act",
+    "Section 475 CrPC",
+    "Rules 3, 4, 5 Criminal Courts and Court Martial (Adjustment of Jurisdiction) Rules 1978",
+    "Joginder Singh v. State of Himachal Pradesh"
+  ],
+  "final_judgment": "Pending"
+}

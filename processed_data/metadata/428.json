@@ -1,0 +1,16 @@
+{
+  "case_number": "2024 INSC 849",
+  "parties": {
+    "petitioner": "Aslam Ismail Khan Deshmukh",
+    "respondent": "Asap Fluids Pvt Ltd & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-11-07",
+  "summary": "The petitioner sought appointment of an arbitrator under Section 11(6) and Section 11(12)(a) of the Arbitration & Conciliation Act, 1996, for disputes arising from a Shareholders Agreement dated 25.07.2011, concerning shareholding, transfer restrictions, and appointment as director under a Service Agreement. Key issues included enforcement of pre-emption rights, lock-in obligations, and alleged non-compliance with contractual terms. The Court examined the existence of a valid arbitration agreement, applicability of the doctrine of separability, and the competence of the arbitrator to rule on jurisdiction. Found that disputes fell within the arbitration clause (Clause 13.10), the Court exercised its power under Section 11 to appoint an arbitrator.",
+  "legal_provisions_cited": [
+    "Arbitration & Conciliation Act, 1996, Section 11(6)",
+    "Arbitration & Conciliation Act, 1996, Section 11(12)(a)",
+    "Arbitration & Conciliation Act, 1996, Clause 13.10"
+  ],
+  "final_judgment": "The petitions were allowed; an arbitrator was appointed to adjudicate the disputes between the parties as per the Shareholders Agreement."
+}

@@ -1,0 +1,17 @@
+{
+  "case_number": "CIVIL APPEAL NOS. 100-101 OF 2023",
+  "parties": {
+    "petitioner": "Gajanand Sharma",
+    "respondent": "Adarsh Siksha Parisad Samiti & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-19",
+  "summary": "The employee challenged the High Court's judgment upholding his termination without obtaining prior approval from the Director of Education under Section 18 of the Rajasthan Non-Governmental Educational Institutions Act, 1989. The Supreme Court examined whether binding precedent in Raj Kumar v. Director of Education (2016) 6 SCC 541, requiring prior approval, was correctly disregarded by the High Court. The High Court had relied on a Larger Bench decision reading down Section 18 for post-disciplinary enquiry terminations. The appellant contended that Raj Kumar was wrongly distinguished as it did consider T.M.A. Pai Foundation, while the respondent argued distinctions based on presence of a District Education Officer's nominee in the enquiry committee. Issue centered on mandatory nature of approval under Section 18 even after valid departmental enquiry.",
+  "legal_provisions_cited": [
+    "Section 18, Rajasthan Non-Governmental Educational Institutions Act, 1989",
+    "Raj Kumar Vs. Director of Education and Ors., (2016) 6 SCC 541",
+    "T.M.A. Pai Foundation Vs. State of Karnataka; (2002) 8 SCC 481",
+    "Marwari Balika Vidyalaya Vs. Asha Srivastava; (2020) 14 SCC 449"
+  ],
+  "final_judgment": "The appeals were allowed, the impugned judgment of the Rajasthan High Court was set aside, and the termination order was quashed for non-compliance with Section 18 of the Act, 1989, reaffirming the mandatory requirement of prior approval from the Director of Education."
+}

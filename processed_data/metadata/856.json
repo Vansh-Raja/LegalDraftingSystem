@@ -1,0 +1,16 @@
+{
+  "case_number": "2023 INSC 917; CIVIL APPEAL NO(S). 11128 OF 2016",
+  "parties": {
+    "petitioner": "C.I.T., Delhi",
+    "respondent": "Bharti Hexacom Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-10-16",
+  "summary": "Variable licence fee under New Telecom Policy 1999; classification as revenue vs capital expenditure; Section 37 vs Section 35ABB of Income Tax Act 1961; licence fee linked to annual gross revenue; migration from 1994 regime to 1999 policy; 15% provisional share; TRAI recommendation mechanism; one-time entry fee vs recurring fee; 'establish maintain operate' context; annual payment character despite 20-year licence term; precedent reliance on Bharti Cellular; Revenue's arguments rejected; deduction under Section 37 upheld.",
+  "legal_provisions_cited": [
+    "Income Tax Act 1961 Section 37",
+    "Income Tax Act 1961 Section 35ABB",
+    "Indian Telegraph Act 1885"
+  ],
+  "final_judgment": "Appeals dismissed; High Court judgment confirming Tribunal decision upheld; variable licence fee held revenue expenditure deductible under Section 37."
+}

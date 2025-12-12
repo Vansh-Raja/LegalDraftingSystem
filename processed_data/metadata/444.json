@@ -1,0 +1,16 @@
+{
+  "case_number": "2024 INSC 631",
+  "parties": {
+    "petitioner": "Bangalore Electricity Supply Company Limited",
+    "respondent": "Hirehalli Solar Power Project LLP & Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-08-27",
+  "summary": "The appeals concerned the applicability of the force majeure clause in a Power Purchase Agreement (PPA) for extending the Scheduled Commissioning Date (SCD) and whether the consequent tariff reduction imposed by KERC was justified. The Supreme Court upheld APTEL's order, which found that delays in land conversion, evacuation approvals, and bay construction were beyond the respondents' control. APTEL had held that the effective date of the PPA was the date of KERC approval (07.09.2015), not the signing date, and that the appellant had previously approved a six-month extension. The Supreme Court affirmed that statutory appellate jurisdiction under Section 125 of the Electricity Act, 2003, is limited, and upheld APTEL’s conclusion that the respondents acted with due diligence and were entitled to the extension without penalty.",
+  "legal_provisions_cited": [
+    "Section 125 of the Electricity Act, 2003",
+    "Article 1.1(xii), 1.1(xxviii), 2.2, 2.5, 2.5.7, 4.1(c), 5.1, and 8.3 of the Power Purchase Agreement",
+    "Rule 106A of the Karnataka Land Revenue Act"
+  ],
+  "final_judgment": "Appeals dismissed; order of APTEL upholding the extension of commissioning date and setting aside KERC's tariff reduction and liquidated damages upheld."
+}

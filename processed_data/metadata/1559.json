@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 228 of 2022 (@ Special Leave Petition (Civil) No. 29972 of 2019)",
+  "parties": {
+    "petitioner": "State of Uttar Pradesh & Ors.",
+    "respondent": "Atul Kumar Dwivedi & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-07",
+  "summary": "The case involved a challenge to the normalization of marks in a police recruitment exam conducted by Uttar Pradesh. The State invited applications for various posts, with over 6.3 lakh candidates applying. A written exam was held in 29 sessions with different question papers. The Board used the 'Standardized Equi-percentile method' (as in MAH-MBA/MMS CET 2015) to normalize scores across sessions. Candidates who scored below 50% in raw marks but crossed 50% after normalization were included in the shortlist. Petitioners challenged this, arguing only those with 50% raw marks should qualify. The High Court quashed the normalization process, but the Supreme Court upheld it, finding it scientifically valid and necessary to ensure fairness across multiple exam sessions. The Court emphasized that normalization does not alter eligibility criteria but adjusts for variance in difficulty across papers.",
+  "legal_provisions_cited": [
+    "Uttar Pradesh Sub Inspector and Inspector (Police) Service (1st Amendment) Rulebook – 2015",
+    "Writ Petition No. 2669/2009 (MB) – Pawan Kumar Agrahari vs. Uttar Pradesh Public Service Commission"
+  ],
+  "final_judgment": "Appeal allowed. The impugned judgment of the High Court quashing the normalization process set aside. The selection process, including normalization of marks using the Standardized Equi-percentile method, upheld as valid and equitable."
+}

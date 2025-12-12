@@ -1,0 +1,22 @@
+{
+  "case_number": "Criminal Appeal No. ___ of 2022 (Arising out of S.L.P. (Criminal) No. 4599 of 2021)",
+  "parties": {
+    "petitioner": "Ghulam Hassan Beigh",
+    "respondent": "Mohammad Maqbool Magrey & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-26",
+  "summary": "The appeal challenged the High Court's affirmation of the trial court's discharge of accused persons from the charge of murder under Section 302 IPC. The prosecution alleged that the accused unlawfully assembled, trespassed, assaulted the complainant and family, caused injuries, and outraged the modesty of the deceased (complainant's wife), who later died. Post mortem revealed cause of death as 'cardio-respiratory failure' with no fatal injuries. Both trial and High Court held that ingredients of murder under Section 302 IPC were not made out; charge framed instead under Section 304 IPC for culpable homicide not amounting to murder. The Supreme Court upheld the lower courts' findings, noting insufficient evidence linking the injuries to death.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 304 IPC",
+    "Section 304-A IPC",
+    "Section 299 IPC",
+    "Section 147 IPC",
+    "Section 354 IPC",
+    "Section 323 IPC",
+    "Section 451 IPC",
+    "Section 161 CrPC"
+  ],
+  "final_judgment": "Appeal allowed in part; courts below upheld in discharging accused from offence under Section 302 IPC, but charge under Section 304 IPC rightly framed."
+}

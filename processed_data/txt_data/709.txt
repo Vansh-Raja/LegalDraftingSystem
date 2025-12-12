@@ -1,0 +1,1935 @@
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+2024 INSC 625                                                  REPORTABLE
+
+                               IN THE SUPREME COURT OF INDIA
+                              CRIMINAL APPELLATE JURISDICTION
+                               CRIMINAL APPEAL NO. 2622 OF 2024
+                            (ARISING OUT OF SLP (CRL.) NO. 8081 OF 2023)
+
+                   SHAJAN SKARIA                             ……APPELLANT
+
+                                         VERSUS
+
+                   THE STATE OF KERALA & ANR.              ……RESPONDENT(S)
+
+                                     JUDGMENT
+
+J. B. PARDIWALA, J.:
+
+For the convenience of exposition, this judgment is divided into the following parts: -
+
+A. FACTUAL MATRIX ...................................................................................2 B.
+SUBMISSIONS ON BEHALF OF THE APPELLANT ....................... 10 C.
+SUBMISSIONS ON BEHALF OF THE COMPLAINANT ................. 13 D.
+SUBMISSIONS ON BEHALF OF THE STATE................................... 15 E. RELEVANT
+STATUTORY PROVISIONS .......................................... 16 F. ISSUES FOR
+D E T E R M I N A T I O N   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2 0   G .
+ANALYSIS................................................................................................. 21 i. Evolution
+of the concept of anticipatory bail .................................................... 21 ii. Whether
+Section 18 of the Act, 1989 imposes an absolute bar on the grant of anticipatory bail
+in cases registered under the said Act? .......................... 27 a. Significance of the
+expression “arrest of any person” appearing in Section 18 of the Act, 1989
+................................................................................................................. 41 iii. When
+can it be said that a prima facie case is made out in a given FIR/complaint?
+........................................................................................................ 47 iv. Whether the
+averments in the FIR/complaint in question disclose commission of any offence
+under Section 3(1)(r) of the Act, 1989? ............. 51 a. Meaning of the expression
+“ i n t e n t   t o   h u m i l i a t e ”   a p p e a r i n g   i n   S e c t i o n   3 ( 1 ) ( r )   o f   t h e   A c t ,   1 9 8 9
+........................................................................................................ 55 v. Whether any
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+1
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+offence under Section 3(1)(u) of the Act, 1989 is prima facie made out in the
+FIR/complaint in question? ..................................................... 63 vi. Whether mere
+knowledge of the caste identity of the complainant is sufficient to attract the offence
+u n d e r   S e c t i o n   3 ( 1 ) ( r )   o f   t h e   A c t ,   1 9 8 9 ?   . . . . .   6 4   H .   C O N C L U S I O N
+.......................................................................................... 69
+
+1. This appeal arises from the judgment and order dated 30.06.2023 passed by the
+High Court of Kerala at Ernakulam in Criminal Appeal No. 906 of 2023 filed by the
+appellant herein by which the High Court dismissed the appeal and thereby affirmed
+the order dated 16.06.2023 passed by the Special Judge for Scheduled Castes and
+Scheduled Tribes (Prevention of Atrocities) Act, 1989, Ernakulam Division declining
+to grant anticipatory bail to the appellant herein in connection with the First
+Information Report No. 899 of 2023 lodged by the complainant (Respondent No. 2)
+at the Elamakkara Police Station, District Ernakulam for the offence punishable
+under Sections 3(1)(r) and 3(1)(u) respectively of the Scheduled Castes and
+Scheduled Tribes (Prevention of Atrocities) Act, 1989 (the “Act, 1989”).
+
+A. FACTUAL MATRIX
+
+2. On 24.05.2023, the appellant herein, in his capacity as the Editor of an online
+news channel named “Marunandan Malayali” published a video on YouTube, an
+online video sharing platform, levelling certain allegations against the complainant.
+The English translation of the video transcript is reproduced hereinbelow: -
+
+“Thumb Every one's afraid of P.V. Srinijan who grew up like a mafia don! Title Who
+made P.V. Srinijan a mafia don?
+
+Content It was before a few days; the outside world knew about the news. The pride
+of Kerala, Kerala blasters was holding a selection trial which was for children under
+the age of 17. Children and parents had to wait for hours in front of the stadium at
+Panampally Nagar, Ernakulam which was owned by the Sports Council.
+
+The Stadium was closed, because P.V. Srinijan, District Sports Council President and
+MLA of Kunnathunad had alleged that Kerala blasters had a debt to clear with Kerala
+Sports Council. Media took on the news and people got furious over it. With
+hesitation the gates were finally opened. Yesterday evening Srinijan said sorry, he
+said that he knew nothing about the incident and he was being targeted. Former
+National Sports Star and present Sports Council President, Sharaf Ali came out with
+strong stand that; one, Kerala blasters didn't owe any money. Two, even if they owed
+money it's a matter for the sports council to deal with. The most important fact is that
+there is not any due, because all the grounds belong to the State Sports Council, the
+District Sports Council doesn't have any relation. Sharaf Ali also said that P.V.
+Srinijan doesn't have a say in it.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+2
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+There are no arrears in the contract between Kerala Blasters and Kerala Sports
+Council. The Kerala State Sports Council has informed the Council in writing. The
+District Sports Council has no right to block.
+
+So why did Srinijan do the dirty work, who gave him the right to do so? Today
+evening another news came out. Including the sports hostel at Ernakulam,
+Panampalli Nagar and district sports development is being obstructed by Srinijan,
+the former Sports Council President and the National Sports Star Olympian Mercy
+Kutty said.
+
+The hostel at Panampally Nagar Sports Academy was one of the biggest sports hostels
+in Kerala. With arrival of Srinijan and the present President the administration got
+completely changed. After that food was also not served at the hotel. Now vigilance
+investigation is going on. All the bills are fakes and the Sports Council's investigation
+is being piled up.
+
+Who should Kerala believe, Sharaf Ali, Mercy Kuttan or Srinijan? Sharaf Ali and
+Mercy Kuttan have shown their skills.
+
+They are national sports stars and are responsible and know how to act according to
+the situation at hand. They aren't political, so Kerala is more likely to believe these
+sports stars.
+
+Srinijan is lying, it's the latest example Srinijan’s dramatic moves to slowly bring it
+under his control. My question isn't this, whenever a scandal, corruption or illegal
+activities take place we will find Srinijan name under it. Srinijan is infamous, still the
+CPM which made Srinijan a candidate should remember he wasn't even a
+communist. He was a leader of the youth congress. The footage of the DYFI
+demonstration against Srinijan’s relation to corruption and black money transactions
+are still available.
+
+First, CPM gives seat to him. Secondly, the people of the locality elect him. The MLA
+Post is the best example that the people of Kerala would allow any corrupt and black
+money dealer to become a leader. By being at the MLA position, Srinijan has only
+done damage to the state.
+
+We know that it is hard for Kerala to invite industries over, because here political
+parties will raise red flags against it. Therefore, even those industries in Kerala are
+leaving. There are only a few industries who are born here and pays taxes correctly to
+the State. One such industry is the Kitex run by Kitex Sabu. The one who made Kitex
+Sabu to move to Telangana from Kerala was Srinijan.
+
+It was with Srinijan's consent that authorities used to pester Kitex and being a close
+friend to the CM Pinarayi Vijayan, Sabu had to come out to deal with the issue which
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+3
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+made Sabu to leave the state and move his entire industry into Telangana. This is the
+situation of an entrepreneur who gave jobs to millions and Srinijan is solely
+responsible for it. To destroy the enterprise, he made the employees get arrested in
+false charges, killed a person. The authorities were haunting the enterprise. It is said
+as Kadambrayar waste water, but investigation hasn't been fruitful. But we know that
+the waste is being generated from the Bhramapuram Plant which was later burnt.
+Now the dust and ashes are going to the Kadambrayar Lake. No one has a complaint
+about it. He made a businessman to move out of the State who was providing jobs to
+millions. Srinijan has many other allegations against him.
+
+Srinijan’s father-in-law was the Chief Justice of Supreme Court.
+
+There are allegations that during those days he made crores illegally which were even
+raised by the CPM.
+
+Reason for Srinijan’s sudden growth in wealth is due to corruption has been come to
+knowledge. But no one has the guts to start an investigation against him. Because he
+has high connections even in the judiciary. Even an audio clip came out that he had
+used his relations in judiciary to bring down the Kitex Industry. The first was the
+account of Srinijan’s destruction of the sports sector in order to bring it under his
+jurisdiction. The second was the conspiracy to drive out a businessman out of the
+State.
+
+Viewers might remember the news I have given out about Prithviraj where it talked
+about the legal notice he had sent me. After receiving the legal notice, I have studied
+in depth about the film industry. From what I have learnt, there are some shocking
+facts related to it. I am just waiting for more proof. Knowingly or unknowingly
+Srinijan has a presence in the film industry.
+
+It is not as we thought, we can see Srinijan at most film sites. Srinijan is the middle
+man in film industry for many. Which means he is the one who provides funds the
+most in the film industry.
+
+But he does this with legal security. We are gathering evidences and as we find it true
+we will publish it.
+
+Just focus on one thing. When Srinijan gave affidavit for participating in the
+competition he had to struggle to gather money because he had lots of black money.
+If he were to use it, he would get caught. So, he needed money in his account, so it is
+said that he borrowed money from some movie producers to show in record. I
+investigated some of the movie producers listed in the records. These producers
+borrow from others including Srinijan to make movies.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+4
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+In short, Srinijan acts as a young mafia don. Srinijan has presence in movie industry,
+sports sector and politics. Srinijan will go to any extreme to eliminate those who
+dares to stand against him. Srinijan has high connections in judiciary. We shouldn't
+question judiciary. But there are some judicial officers who are corrupt and Srinijan
+aids them. But no one is bold enough to question him.
+
+CPM has given Srinijan more power. Even the opposition is afraid to stand up against
+him. Even the judiciary is turning a blind eye. Even Kitex Sabu who fought against
+this leaves at one point.
+
+Why is everyone afraid of him? Why is Kerala letting Srinijan to grow as a young
+mafia don?”
+
+3. The complainant who is a Member of the Kerala Legislative Assembly representing
+the Kunnathunad constituency, a seat reserved for the members of the Scheduled
+Castes, aggrieved by the publication of the aforesaid video, filed a written complaint
+before the ACP, Central Police Station, Ernakulam alleging inter alia that the video
+was published by the appellant in order to publicise, abuse and insult the
+complainant, who is a member of a Scheduled Caste. The contents of the complaint
+are reproduced as under:
+
+“I am the elected candidate for the Kunnathunad Assembly Constituency. Shri Sajan
+Skaria (Editor, News Reader and Publisher), Smt. Ann Mary George (Managing
+Editor & CEO), Shri Riju (Chief Editor) are using the online TV Channel named
+M a r u n a d a n   M a l a y a l i   ( T C   1 7 / 3 1 6 4   ( 1 1 )   P a t t o m   P a l a c e   P . O . ,   P a t t o m
+Thiruvananthapuram, PIN 695004) & are continuously concocting and spreading
+false news against me through different social media, which have no basis of any
+kind. Such false news are created and spread in order to ridicule and humiliate me, as
+a member of the Scheduled Caste Pulaya Community.
+
+Shajan Skaria and aforesaid persons used my photo and uploaded a defamatory video
+against me through the Youtube Channel named Marunadan Malayali on 24.03.2023
+with the title reading ‘PV Sreenijan, who rose so suddenly as a Mafia Don’ and the
+same was shared through other social media as well.
+
+He raised a false allegation against me, who is the President of District Sports Council
+that there is a vigilance inquiry going on against me regarding running of a sports
+hostel. Besides he also alleged that I am trying to destroy the business ventures and I
+have falsely implicated and jailed the employees of Kitex. He also made a very serious
+allegations against me that I have murdered one person.
+
+Shajan Skaria and the aforesaid persons are making efforts through their channel and
+other social media to me as a murderer, without any basis. That after the aforesaid
+video was uploaded, many people have shared the same on different social media
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+5
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+platforms. On seeing this video, many persons from within the State of Kerala outside
+telephoned me and talked about this matter and raised doubts as to whether I am
+such a person or not. I doubt that the above actions of Shajan Skaria, Smt. Ann Mary
+George and Shri Riju is a part of their efforts to intentionally destroy the public faith
+that I enjoy in the society.
+
+The video published through the Online News Channel Marunadan Malayali on
+24.05.2023 containing only false news and false averments, is knowingly made with
+the knowledge that I belong to Scheduled Caste Pulaya community and thus only to
+deliberately humiliate and ridicule me among the general public. Shajan Skaria, Smt.
+Ann Mary George, Shri Riju who belongs to Christian Community, knowing it fully
+well that I belong to Scheduled Caste Pulaya Community, has uploaded and spread
+the video as aforesaid with the deliberate intention of humiliating, ridiculing me
+among the general public. The same is an offence and is punishable under Section
+3(r) and 3(u) of the Scheduled Caste and the Scheduled Tribes (Prevention of
+Atrocities) Act, 1989.
+
+That I faced severe humiliation, loss and damages due to the aforesaid actions of
+Shajan Skaria, Smt. Ann Mary George and Shri Riju. Hence it is prayed that
+necessary legal action be taken against Shajan Skaria, Smt. Ann Mary George and
+Shri Riju against creating and spreading of false news through online channel and
+other social media under the Sections of the Scheduled Caste and the Scheduled
+Tribes (Prevention of Atrocities) Act, 1989, sections of IT Act and Sections of IPC.
+
+Sd/xx P.V. Sreenijan Attaching the CD.”
+
+4. On the basis of the aforesaid complaint, FIR No. 899 of 2023 dated 09.06.2023
+came to be registered against the appellant and two other persons, who are not
+parties to the present appeal, for offences punishable under Section 120(o) of the
+Kerala Police Act (the “KP Act”) and Sections 3(1)(r) and 3(1)(u) respectively of the
+Act, 1989.
+
+5. A plain reading of the FIR would indicate that the appellant is not a member of the
+Scheduled Caste and he is alleged to have published and disseminated a video
+containing disparaging content about the complainant with a view to publicise, abuse
+and insult the complainant. The complainant has alleged that the video has caused
+him a lot of humiliation, mental pain and agony. The complainant has also alleged
+that the video was uploaded by the appellant with the intention to humiliate and
+ridicule him among the general public with the knowledge that the complainant is a
+member of the Pulaya community, which is a Scheduled Caste.
+
+6. Apprehending his arrest, the appellant went before the Court of Special Judge for
+Scheduled Castes and Scheduled Tribes (Prevention of Atrocities Act), 1989,
+Ernakulam Division, praying for grant of anticipatory bail under Section 438 of the
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+6
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+Criminal Procedure Code, 1973 (the “CrPC”). The Special Judge, vide order dated
+16.06.2023, rejected the anticipatory bail application of the appellant, holding that
+the allegations in the FIR are prima facie sufficient to attract the offence under the
+Act, 1989 and the bar of Section 18 of the said Act prohibits the court from exercising
+powers under Section 438 of the CrPC.
+
+7. The appellant challenged the order passed by the Special Judge before the High
+Court of Kerala, wherein the High Court, vide order dated 30.06.2023 (“impugned
+order”), affirmed the order passed by the Special Judge and refused to grant
+anticipatory bail to the appellant. Relevant observations made by the High Court in
+the impugned order are extracted hereinbelow: -
+
+“8. Now the question arises whether the offence under Section 3(1)(r) will be
+attracted, in the absence of reference to the caste status of the second respondent in
+the news item. In my opinion that question cannot be decided, oblivious of the object
+behind the enactment and the reason for amending the Act in 2019. The Act was
+brought into force for preventing the commission of atrocities against members of the
+Scheduled Castes and Scheduled Tribes and to establish Special Courts for the trial of
+such offences and provide relief and rehabilitation to the victims of such offences.
+The Act was amended on finding that, despite various measures to improve the
+socio-economic conditions of the scheduled Castes and Scheduled Tribes, they still
+remained vulnerable. Of course, as held by the Apex Court in Hitesh Verma and
+Ramesh Chandra Vaishya (supra), all insults or intimidation will not be an offence
+under the Act, unless such insult or intimidation is on account of the victim belonging
+to the Scheduled Castes or Scheduled Tribes. As observed earlier, materials on record
+do indicate that the video is intended to insult and humiliate the second respondent.
+At this stage, the court can only go by the allegations in the complaint and the
+attendant circumstances. The allegation is specific to the effect that the appellant has
+been insulting and humiliating the second respondent only for the reason that he
+belongs to the Scheduled Caste. The attendant circumstances are the wanton nature
+of the allegations and the repeated news items published against the second
+respondent. Going by the wording of Section 3(1)(r), reference to the caste name of
+the victim is not necessary for attracting the offence. This is clear from the distinction
+between the wording of Section 3(1) (r) and 3(1)(s). As such, it is not possible to hold
+that there are no prima facie materials to attract the offence under Section 3(1)(r).
+
+In view of the finding on Section 3(1)(r), I am not venturing to decide whether the offence under
+Section 3(1)(u) is attracted or not. For the aforementioned reasons, the impugned order of the
+Special Court is upheld.
+
+In the result, the Criminal Appeal is dismissed.” (Emphasis supplied)
+
+8. In view of the aforesaid, the appellant is before this Court with the present appeal.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+7
+
+B. SUBMISSIONS ON BEHALF OF THE APPELLANT
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+9. Mr. Sidharth Luthra and Mr. Gaurav Agrawal, the learned Senior Counsel appearing for the
+appellant made the following submissions:
+
+a. The appellant had no intention to insult the complainant and merely stated the
+facts without mentioning the name of the complainant’s caste or community. The
+appellant being a journalist, had published facts gathered through research and
+sources.
+
+b. The High Court failed to take into consideration that the complainant has not
+alleged that the appellant intentionally insulted or intimidated him with an intent to
+humiliate him as a member of the Scheduled Caste or Scheduled Tribe community. A
+perusal of the telecast makes it clear that the appellant did not refer to the caste or
+community of the complainant. Even if the statements made in the video are said to
+be defamatory, the same by itself is not sufficient to attract an offence under the Act,
+1989.
+
+c. The complainant has not alleged that the appellant by words, either written or
+spoken, had promoted or attempted to promote feelings of enmity, hatred or ill-will
+against the members of the Scheduled Castes or Scheduled Tribes. Thus, no offence
+under Section 3(1)(u) of the Act 1989 is made out against the appellant.
+
+d. The High Court failed to consider the judgments of the co-ordinate benches in
+XXX v. State of Kerala reported in ILR 2022 4 Ker. 620 and State of Kerala v. Hassan
+reported in 2002 (2) KLT 505, wherein it has been reiterated that the offence under
+Section 3(1)(u) of the Act, 1989 would be attracted only if the feelings of enmity,
+hatred or ill-will are promoted or attempted to be promoted against members of the
+Scheduled Castes or Scheduled Tribes as a class and not on criticizing an individual
+member.
+
+e. The decision of this Court in Hitesh Verma v. State of Uttarakhand reported in
+(2020) 10 SCC 710 held that an offence under Section 3(1)(r) is not established
+merely on the fact that the victim is a member of the Scheduled Caste, unless there is
+an intention to humiliate a member of the Scheduled Caste or Schedule Tribe for the
+reason that the victim belongs to such caste.
+
+f. The decision of this Court in Ramesh Chandra Vaishya v. State of Uttar Pradesh &
+Anr. reported in 2023 SCC OnLine SC 668 held that every insult or intimidation
+would not amount to an offence under Section 3(1)(x) of the Act, 1989 unless, such
+insult or intimidation is targeted at the victim because he is a member of a particular
+Scheduled Caste or Scheduled Tribe.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+8
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+g. The High Court failed to consider the decision of this Court in Prathvi Raj Chauhan
+v. Union of India reported in (2020) 4 SCC 727 wherein it was held that if the
+complaint does not make out a prima facie case for applicability of the provisions of
+the Act, 1989 then the bar created by Section 18 and Section 18A(i) would not apply.
+
+C. SUBMISSIONS ON BEHALF OF THE COMPLAINANT
+
+1 0 .   M r .   H a r i s   B e e r a n ,   t h e   l e a r n e d   c o u n s e l   a p p e a r i n g   o n   b e h a l f   o f   t h e
+complainant/Respondent No.2 made the following submissions:
+
+a. The appellant is a habitual offender in creating controversies by intentionally
+propagating false and defamatory campaigns against respectable members of society
+with the sole purpose of attracting subscriptions to his web platform.
+
+b. The Act, 1989 was enacted with the object to prevent the commission of offences
+and atrocities against the members of the Scheduled Caste and Scheduled Tribes.
+Section 3(1)(r) of the Act, 1989 underscores the crucial aspect of intentional insult
+and intimidation with the specific intent to humiliate a member of the Scheduled
+Caste or Scheduled Tribe. The primary aim of the Act, 1989 is to ameliorate the socio-
+
+economic conditions of the community as they have been historically deprived of
+numerous civil rights. Therefore, an offence under the Act, 1989 is established when a
+member of these vulnerable sections of society is subjected to humiliation and
+harassment.
+
+c. The appellant had wilfully disseminated the news against the complainant,
+containing false assertions, deliberately aimed at portraying the complainant in poor
+light in society on the ground that he was a member of a Scheduled Caste.
+
+d. The false and derogatory remarks were spread with full awareness of the
+complainant’s status as a person belonging to the Scheduled Caste, having been
+elected as an MLA in 2021 from a seat reserved for members of the Scheduled Caste
+community. The appellant’s deliberate actions of insult and humiliation undeniably
+constitute the offence under Section 3(1)(r) of the Act, 1989.
+
+e. The appellant himself has stated that the complainant is an MLA representing the
+Kunnathunad Constituency. This makes his intentions clear as it is common
+knowledge that the said constituency is reserved for members belonging to the
+Scheduled Castes.
+
+f. The complainant has been singled out by the appellant for the sole reason that he
+belongs to a Scheduled Caste. The Appellant has made unsubstantiated allegations
+and aspersions against the complainant and has gone to the extent of calling him a
+‘murderer’ and ‘mafia don’.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+9
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+g. The appellant has not spared even the former Chief Justice of India who happens
+to be the father-in-law of the complainant and a person belonging to a Scheduled
+Caste. The appellant has intentionally humiliated the father-in-law of the
+complainant, assassinating his character as he also belongs to the Scheduled Caste
+community. The appellant has not even spared the judiciary by levelling defamatory
+allegations.
+
+h. The act of the appellant, as alleged, constitutes an offence under Sections 3(1)(r)
+and 3(1)(u) respectively of the Act, 1989 and anticipatory bail cannot be granted in
+view of the bar under Section 18 of the Act, 1989.
+
+i. Despite many notices issued by the investigating officers, the appellant has failed to
+turn up for the purpose of interrogation.
+
+j. The appellant could be said to have exhibited a pattern of wilful non-
+
+compliance of the court orders, thereby showcasing a flagrant disregard for the
+courts. In a different case where anticipatory bail was granted to him, the appellant
+subsequently stopped attending the court proceedings and failed to cooperate in the
+investigation. The High Court took note of such behaviour and warned the appellant
+that his anticipatory bail could be revoked. Therefore, there is a substantial risk in
+granting anticipatory bail to the appellant.
+
+D. SUBMISSIONS ON BEHALF OF THE STATE
+
+11. Mr. P.V. Dinesh, the learned Senior Counsel appearing on behalf of the State
+(Respondent No. 1 herein) made the following submissions:
+
+a. The complainant is an MLA from Kunnathunad constituency which is reserved for
+members of the Scheduled Caste and the telecast of the video was with a clear
+knowledge that the complainant belongs to a Scheduled Caste community.
+
+b. To constitute an offence under Section 3(1)(r) of the Act, 1989, it is not necessary
+to mention the caste of the person. The video was uploaded with the intention to
+cause insult and humiliate the complainant and thereby promote feelings of hatred
+and ill will.
+
+c. The appellant has filed a petition before the Kerala High Court to quash the FIR
+and the same is currently pending.
+
+E. RELEVANT STATUTORY PROVISIONS
+
+12. Before adverting to the rival submissions canvassed on either side, it is necessary
+for us to look into few relevant provisions of the Act, 1989, the CrPC and the KP Act:
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+10
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+Section 3 of the Act 1989:
+
+Punishments for offences of atrocities.— (1) Whoever, not being a member of a
+Scheduled Caste or a Scheduled Tribe,— … ….
+
+….
+
+(r) intentionally insults or intimidates with intent to humiliate a member of a Scheduled Caste or a
+Scheduled Tribe in any place within public view;
+
+… (u) by words either written or spoken or by signs or by visible representation or otherwise
+promotes or attempts to promote feelings of enmity, hatred or ill-will against members of the
+Scheduled Castes or the Scheduled Tribes;
+
+Shall be punishable with imprisonment for a term which shall not be less than six months but which
+may extend to five years and with fine Section 18 of the Act 1989:
+
+Section 438 of the Code not to apply to persons committing an offence under the
+Act.— Nothing in Section 438 of the Code shall apply in relation to any case involving
+the arrest of any person on an accusation of having committed an offence under this
+Act.
+
+Section 438 of the CrPC:
+
+Direction for grant of bail to person apprehending arrest.— [(1) Where any person
+has reason to believe that he may be arrested on accusation of having committed a
+non- bailable offence, he may apply to the High Court or the Court of Session for a
+direction under this section that in the event of such arrest he shall be released on
+bail; and that Court may, after taking into consideration, inter alia, the following
+factors, namely:---
+
+(i) the nature and gravity of the accusation;
+
+(ii) the antecedents of the applicant including the fact as to whether he has previously
+undergone imprisonment on conviction by a Court in respect of any cognizable
+offence;
+
+(iii) the possibility of the applicant to flee from justice; and.
+
+(iv) where the accusation has been made with the object of injuring or humiliating
+the applicant by having him so arrested, either reject the application forthwith or
+issue an interim order for the grant of anticipatory bail:
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+11
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+Provided that, where the High Court or, as the case may be, the Court of Session, has
+not passed any interim order under this sub-section or has rejected the application
+for grant of anticipatory bail, it shall be open to an officer in-charge of a police station
+to arrest, without warrant the applicant on the basis of the accusation apprehended
+in such application.
+
+(1A) Where the Court grants an interim order under sub-
+
+section (1), it shall forthwith cause a notice being not less than seven days notice, together with a
+copy of such order to be served on the Public Prosecutor and the Superintendent of Police, with a
+view to give the Public Prosecutor a reasonable opportunity of being heard when the application
+shall be finally heard by the Court, (1B) The presence of the applicant seeking anticipatory bail shall
+be obligatory at the time of final hearing of the application and passing of final order by the Court, if
+on an application made to it by the Public Prosecutor, the Court considers such presence necessary
+in the interest of justice.] (2) When the High Court or the Court of Session makes a direction under
+sub-section (1), it may include such conditions in such directions in the light of the facts of the
+particular case, as it may think fit, including--
+
+(i) a condition that the person shall make himself available for interrogation by a police officer as
+and when required;
+
+(ii) a condition that the person shall not, directly or indirectly, make any inducement, threat or
+promise to any person acquainted with the facts of the case so as to dissuade him from disclosing
+such facts to the Court or to any police officer;
+
+(iii) a condition that the person shall not leave India without the previous permission of the Court;
+
+(iv) such other condition as may be imposed under sub-section (3) of section 437, as if the bail were
+granted under that section.
+
+(3) If such person is thereafter arrested without warrant by an officer in charge of a police station on
+such accusation, and is prepared either at the time of arrest or at any time while in the custody of
+such officer to give bail, he shall be released on bail; and if a Magistrate taking cognizance of such
+offence decides that a warrant should be issued in the first instance against that person, he shall
+issue a bailable warrant in conformity with the direction of the Court under sub-section (1).
+
+[(4) Nothing in this section shall apply to any case involving the arrest of any person on accusation
+of having committed an offence under sub-section (3) of section 376 or section 376AB or section
+376DA or section 376DB of the Indian Penal Code (45 of 1860).] Section 120 of the KP Act:
+
+Penalty for causing nuisance and violation of public order.— If any person,— …
+
+(o) causing, through any means of communication, a nuisance of himself to any
+person by repeated or undesirable or anonymous call, letter, writing, message, e-mail
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+12
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+or through a messenger ;
+
+… shall, on conviction, be punishable with imprisonment which may extend to one year or with fine
+which may extend to five thousand rupees or with both.
+
+F. ISSUES FOR DETERMINATION
+
+13. Having heard the learned counsel appearing for the parties and having gone through the
+materials on record, the following issues fall for our consideration:
+
+a. Whether Section 18 of the Act, 1989 imposes an absolute bar on the grant of
+anticipatory bail in cases registered under the said Act?
+
+b. When can it be said that a prima facie case is made out in a given FIR/complaint?
+
+c. Whether the averments in the FIR/complaint in question disclose commission of
+any offence under Section 3(1)(r) of the Act, 1989?
+
+d. Whether any offence under Section 3(1)(u) of the Act, 1989 could be said to have
+been prima facie made out in the FIR/complaint in question?
+
+e. Whether mere knowledge of the caste identity of the complainant is sufficient to
+attract the offence under Section 3(1)(r) of the Act, 1989?
+
+(cid:12)  G.     ANALYSIS
+
+  i.    Evolution of the concept of anticipatory bail
+
+14. The Code of Criminal Procedure, 1898 did not contain any specific provision
+analogous to Section 438 of the CrPC. In Amir Chand v. The Crown, reported in 1949
+SCC OnLine Punj 20, the question before the Full Bench was whether Section 498 of
+the Criminal Procedure Code, 1898 empowered the High Court or the Sessions Court
+to grant bail to a person who had not been placed under restraint by arrest or
+otherwise. The Full Bench answered the reference as under:
+
+“…The very notion of bail presupposes some form of previous restraint. Therefore,
+bail cannot be granted to a person who has not been arrested and for whose arrest no
+warrants have been issued. Section 498, Criminal Procedure Code, does not permit
+the High Court or the Court of Session to grant bail to anyone whose case is not
+covered by sections 496 and 497, Criminal Procedure Code. It follows, therefore, that
+bail can only be allowed to a person who has been arrested or detained without
+warrant or appears or is brought before a Court. Such person must be liable to arrest
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+13
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+and must surrender himself before the question of bail can be considered. In the case
+of a person who is not under arrest, but for whose arrest warrants have been issued,
+bail can be allowed if he appears in Court and surrenders himself. No bail can be
+allowed to a person at liberty for whose arrest no warrants have been issued. The
+petitioners in the present case are, therefore, not entitled to bail. The question
+referred to the Full Bench is, therefore, answered in the negative.” (Emphasis
+supplied)
+
+15. Under the 1898 Code, the concept of anticipatory or pre-arrest bail was absent
+and the need for introduction of a new provision in the CrPC empowering the High
+Court and Court of Session to grant anticipatory bail was pointed out by the 41st Law
+Commission of India in its report dated September 24, 1969. The report pointed out
+the necessity of introducing a provision in the CrPC enabling the High Court and the
+Court of Session to grant anticipatory bail. It observed in para 39.9 of its report
+(Volume I):
+
+Anticipatory bail “39.9 The suggestion for directing the release of a person on bail
+prior to his arrest (commonly known as “anticipatory bail”) was carefully considered
+by us. Though there is a conflict of judicial opinion about the power of a Court to
+grant anticipatory bail, the majority view is that there is no such power under the
+existing provisions of the Code. The necessity for granting anticipatory bail arises
+mainly because sometimes influential persons try to implicate their rivals in false
+causes for the purpose of disgracing them or for other purposes by getting detained in
+jail for some days. In recent times, the accentuation of political rivalry, this tendency
+is showing signs of steady increase. Apart from false cases, where there are
+reasonable grounds for holding that a person accused of an offence is not likely to
+abscond, or otherwise misuse his liberty while on bail, there seems no justification to
+require him first to submit to custody, remain in prison for some days and then apply
+for bail” We recommend the acceptance of this suggestion. We are further of the view
+that this special power should be conferred only on the High Court and the Court of
+Session, and that the order should take effect at the time of arrest or thereafter.
+
+In order to settle the details of this suggestion, the following draft of a new section is
+placed for consideration:
+
+‘497-A. (1) When any person has a reasonable apprehension that he would be
+arrested on an accusation of having committed a non-bailable offence, he may apply
+to the High Court or the Court of Session for a direction under this section. That
+court may, in its discretion, direct that in the event of his arrest, he shall be released
+on bail.
+
+(2) A Magistrate taking cognizance of an offence against that person shall, while
+taking steps under Section 204(1), either issue summons or a bailable warrant as
+indicated in the direction of the court under sub-section (1).
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+14
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+(3) If any person in respect of whom such a direction is made is arrested without
+warrant by an officer in charge of a police station on an accusation of having
+committed that offence, and is prepared either at the time of arrest or at any time
+while in the custody of such officer to give bail, such person shall be released on bail.’
+We considered carefully the question of laying down in the statute certain conditions
+under which alone anticipatory bail could be granted. But we found that it may not be
+practicable to exhaustively enumerate those conditions; and moreover, the laying
+down of such conditions may be construed as prejudging (partially at any rate) the
+whole case. Hence we would leave it to the discretion of the court and prefer not to
+fetter such discretion in the statutory provision itself.
+
+Superior courts will, undoubtedly, exercise their discretion properly, and not make any observations
+in the order granting anticipatory bail which will have a tendency to prejudice the fair trial of the
+accused.” (Emphasis supplied)
+
+16. The suggestion made by the Law Commission was, in principle, accepted by the Central
+Government which introduced clause 447 in the Draft Bill of the Code of Criminal Procedure, 1970
+with a view to conferring express power on the High Court and the Court of Session to grant
+anticipatory bail. The said clause of the draft bill was enacted with certain modifications and became
+Section 438 of the CrPC.
+
+17. The Law Commission, in paragraph 31 of its 48th Report (1972), made the following comments
+on the aforesaid clause:
+
+“The Bill introduces a provision for the grant of anticipatory bail. This is substantially
+in accordance with the recommendation made by the previous Commission. We
+agree that this would be a useful addition, though we must add that it is in very
+exceptional cases that such a power should be exercised.
+
+We are further of the view that in order to ensure that the provision is not put to
+abuse at the instance of unscrupulous petitioners, the final order should be made
+only after notice to the Public Prosecutor. The initial order should only be an interim
+one. Further, the relevant section should make it clear that the direction can be
+issued only for reasons to be recorded, and if the court is satisfied that such a
+direction is necessary in the interests of justice.
+
+It will also be convenient to provide that notice of the interim order as well as of the
+final orders will be given to the Superintendent of Police forthwith.” (Emphasis
+supplied)
+
+18. It is apparent on a plain reading of the Statement of Objects and Reasons accompanying the Bill
+for introducing Section 438 in the CrPC that the legislature felt that it was imperative to evolve a
+device by which an alleged accused is not compelled to face ignominy and disgrace at the instance of
+influential people who try to implicate their rivals in false cases. The purpose behind incorporating
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+15
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+Section 438 in CrPC was to recognise the importance of personal liberty and freedom in a free and
+democratic country. A careful reading of this section reveals that the legislature was keen to ensure
+respect for the personal liberty by pressing in service the age-old principle that an individual is
+presumed to be innocent till he is found guilty by the court. [See: Siddharam Satlingappa Mhetre v.
+State of Maharashtra and Others reported in (2011) 1 SCC 694]
+
+19. Discussing in the context of anticipatory bail, this Court, in Siddharam (supra), discussed the
+relevance and importance of personal liberty as under:
+
+“36. All human beings are born with some unalienable rights like life, liberty and
+pursuit of happiness. The importance of these natural rights can be found in the fact
+that these are fundamental for their proper existence and no other right can be
+enjoyed without the presence of right to life and liberty. Life bereft of liberty would be
+without honour and dignity and it would lose all significance and meaning and the
+life itself would not be worth living. That is why “liberty” is called the very
+quintessence of a civilised existence.
+
+37. Origin of “liberty” can be traced in the ancient Greek civilisation. The Greeks
+distinguished between the liberty of the group and the liberty of the individual. In 431
+BC, an Athenian statesman described that the concept of liberty was the outcome of
+two notions, firstly, protection of group from attack and secondly, the ambition of the
+group to realise itself as fully as possible through the self-realisation of the individual
+by way of human reason. Greeks assigned the duty of protecting their liberties to the
+State. According to Aristotle, as the State was a means to fulfil certain fundamental
+needs of human nature and was a means for development of individuals' personality
+in association of fellow citizens so it was natural and necessary to man. Plato found
+his “republic” as the best source for the achievement of the self-realisation of the
+people.
+
+xxx xxx xxx
+
+43. A distinguished former Attorney General for India, M.C. Setalvad in his treatise War and Civil
+Liberties observed that the French Convention stipulates common happiness as the end of the
+society, whereas Bentham postulates the greatest happiness of the greatest number as the end of
+law. Article 19 of the Indian Constitution averts to freedom and it enumerates certain rights
+regarding individual freedom. These rights are vital and most important freedoms which lie at the
+very root of liberty. He further observed that the concept of civil liberty is essentially rooted in the
+philosophy of individualism. According to this doctrine, the highest development of the individual
+and the enrichment of his personality are the true function and end of the State. It is only when the
+individual has reached the highest state of perfection and evolved what is best in him that society
+and the State can reach their goal of perfection. In brief, according to this doctrine, the State exists
+mainly, if not solely, for the purpose of affording the individual freedom and assistance for the
+attainment of his growth and perfection. The State exists for the benefit of the individual.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+16
+
+xxx xxx xxx
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+49. An eminent English Judge, Lord Alfred Denning observed:
+
+“By personal freedom I mean freedom of every law-abiding citizen to think what he
+will, to say what he will, and to go where he will on his lawful occasion without
+hindrance from any person…. It must be matched, of course, with social security by
+which I mean the peace and good order of the community in which we live.”
+
+50. An eminent former Judge of this Court, Justice H.R. Khanna in a speech as published in 2 IJIL,
+Vol. 18 (1978), p. 133 observed that “… Liberty postulates the creation of a climate wherein there is
+no suppression of the human spirits, wherein, there is no denial of the opportunity for the full
+growth of human personality, wherein head is held high and there is no servility of the human mind
+or enslavement of the human body.”” ii. Whether Section 18 of the Act, 1989 imposes an absolute
+bar on the grant of anticipatory bail in cases registered under the said Act?
+
+20. The Statement of Objects and Reasons accompanying the Scheduled Castes and Scheduled
+Tribes (Prevention of Atrocities) Bill, 1989 is extracted hereinbelow:
+
+“Statement of Objects and Reasons.
+
+1. Despite various measures to improve the socio-economic conditions of the
+Scheduled Castes and the Scheduled Tribes, they remain vulnerable. They are denied
+number of civil rights. They are subjected to various offences, indignities,
+humiliations and harassment. They have, in several brutal incidents, been deprived
+of their life and property. Serious crimes are committed against them for various
+historical, social and economic reasons.
+
+2. Because of the awareness created amongst the Scheduled Castes and the Scheduled
+Tribes through spread of education, etc. they are trying to assert their rights and this
+is not being taken very kindly by the others. When they assert their rights and resist
+practices of untouchability against them or demand statutory minimum wages or
+refuse to do any bonded and forced labour, the vested interests try to cow them down
+and terrorise them. When the Scheduled Castes and the Scheduled Tribes try to
+preserve their self-respect or honour of their women, they become irritants for the
+dominant and the mighty. Occupation and cultivation of even the Government
+allotted land by the Scheduled Castes and the Scheduled Tribes is resented and more
+often these people become victims of attacks by the vested interests. Of late, there has
+been an increase in the disturbing trend of commission of certain atrocities like
+making the Scheduled Castes persons eat inedible substances like human excreta and
+attacks on and mass killings of helpless Scheduled Castes and the Scheduled Tribes
+and rape of women belonging to the Scheduled Castes and the Scheduled Tribes.
+Under the circumstances, the existing laws like the Protection of Civil Rights Act,
+1955 and the normal provisions of the Penal Code, 1860 have been found to be
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+17
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+inadequate to check these crimes. A special legislation to check and deter crimes
+against them committed by non-Scheduled Castes and non-Scheduled Tribes has,
+therefore, become necessary.
+
+3. The term 'atrocity' has not been defined so far. It is considered necessary that not
+only the term 'atrocity' should be defined but stringent measures should be
+introduced to provide for higher punishments for committing such atrocities. It is
+also proposed to enjoining on the States and the Union territories to take specific
+preventive and punitive measures to protect the Scheduled Castes and the Scheduled
+Tribes from being victimised and where atrocities are committed, to provide
+adequate relief and assistance to· rehabilitate them.”
+
+21. It is evident from the aforesaid that the purpose of the Act, 1989 is to prevent the commission of
+offences of atrocities against the members of the Scheduled Castes and Scheduled Tribes, to provide
+for establishment of special courts for the trial of such offences and to make provisions for the relief
+and rehabilitation of the victims of such offences.
+
+22. The Act, 1989 could be said to have been enacted to improve the social and economic conditions
+of the vulnerable sections of the society as they have been historically subjected to various
+indignities, humiliations and harassment besides deprivation of life and property on account of their
+caste identity. The legislation, thus, intends to punish the acts committed against the vulnerable
+sections of the society for the reason that they belong to a particular community.
+
+23. Section 18 of the Act, 1989 which makes the remedy of anticipatory bail unavailable in cases
+falling under the Act, 1989 reads thus:
+
+“18. Section 438 of the Code not to apply to persons committing an offence under the
+Act.— Nothing in Section 438 of the Code shall apply in relation to any case involving
+the arrest of any person on an accusation of having committed an offence under this
+Act.”
+
+24. It is manifest from a plain reading of Section 18 referred to above that it bars the applicability of
+Section 438 of the CrPC in respect of offences under the Act, 1989. The legislature in its wisdom
+thought fit that the benefit of anticipatory bail should not be made available to the accused in
+respect of offences under the Act, 1989, having regard to the prevailing social conditions which give
+rise to such offences and the apprehension that the perpetrators of such atrocities are likely to
+threaten and intimidate the victims and prevent or obstruct them in the prosecution of such
+offences, if they are allowed to avail the benefit of anticipatory bail.
+
+25. The constitutional validity of Section 18 of the Act, 1989 fell for the consideration of this Court in
+State of Madhya Pradesh v. Ram Krishna Balothia reported in (1995) 3 SCC 221. The challenge
+essentially was on the following two grounds:
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+18
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+a. Section 18 is violative of Article 14 of the Constitution as the benefit of Section 438
+of the CrPC is available to an accused for offences under the Indian Penal Code, 1860
+(“IPC”) but the same is not available for offences under the Act, 1989.
+
+b. Section 18 is also violative of Article 21 of the Constitution which protects the life
+and personal liberty of every person in this country.
+
+26. The Respondents in the aforesaid case had filed writ petitions before the High Court of Madhya
+Pradesh, challenging the constitutional validity of certain provisions of the Act, 1989. Although the
+High Court negatived some part of the challenge, yet it held that Section 18 of the Act, 1989 was
+unconstitutional as it was violative of Articles 14 and 21 respectively of the Constitution of India.
+
+27. The aforesaid decision of the High Court was challenged before this Court which allowed the
+appeals and held that Section 18 of the Act, 1989 cannot be considered as violative of Articles 14 and
+21 respectively of the Constitution. It was held that the offences enumerated under the Act, 1989 fall
+into a separate and special category. The Court considered Article 17 of the Constitution which
+expressly deals with abolition of “untouchability” and forbids its practice in any form and took the
+view that the offences enumerated under Section 3(1) of the Act, 1989 arise out of the practice of
+“untouchability”. Having regard to the same, it was held that Section 18 of the Act, 1989 does not
+violate Article 14 of the Constitution in any manner.
+
+28. On the aspect of Article 21 of the Constitution, it was held by this Court that although Article 21
+protects the life and personal liberty of every person in this country, which also includes the right to
+live with dignity, yet it cannot be said that Section 438 of the CrPC is an integral part of Article 21.
+The Court took notice of the fact that there was no provision similar to Section 438 in the Criminal
+Procedure Code, 1898 and ultimately concluded that anticipatory bail is not granted as a matter of
+right. It is essentially a statutory right conferred long after the coming into force of the Constitution.
+Therefore, it was observed, that the non-application of Section 438 to a certain distinct category of
+offences cannot be considered as violative of Article 21 of the Constitution. Relevant observations
+made by the Court are reproduced hereinbelow:
+
+“6. It is undoubtedly true that Section 438 of the Code of Criminal Procedure, which
+is available to an accused in respect of offences under the Penal Code, is not available
+in respect of offences under the said Act. But can this be considered as violative of
+Article 14? The offences enumerated under the said Act fall into a separate and
+special class. Article 17 of the Constitution expressly deals with abolition of
+‘untouchability’ and forbids its practice in any form. It also provides that enforcement
+of any disability arising out of ‘untouchability’ shall be an offence punishable in
+accordance with law. The offences, therefore, which are enumerated under Section
+3(1) arise out of the practice of ‘untouchability’. It is in this context that certain
+special provisions have been made in the said Act, including the impugned provision
+under Section 18 which is before us. The exclusion of Section 438 of the Code of
+Criminal Procedure in connection with offences under the said Act has to be viewed
+in the context of the prevailing social conditions which give rise to such offences, and
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+19
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+the apprehension that perpetrators of such atrocities are likely to threaten and
+intimidate their victims and prevent or obstruct them in the prosecution of these
+offenders, if the offenders are allowed to avail of anticipatory bail. In this connection
+we may refer to the Statement of Objects and Reasons accompanying the Scheduled
+Castes and Scheduled Tribes (Prevention of Atrocities) Bill, 1989, when it was
+introduced in Parliament. [….] The above statement graphically describes the social
+conditions which motivated the said legislation. It is pointed out in the above
+Statement of Objects and Reasons that when members of the Scheduled Castes and
+Scheduled Tribes assert their rights and demand statutory protection, vested
+interests try to cow them down and terrorise them. In these circumstances, if
+anticipatory bail is not made available to persons who commit such offences, such a
+denial cannot be considered as unreasonable or violative of Article 14, as these
+offences form a distinct class by themselves and cannot be compared with other
+offences.
+
+7. We have next to examine whether Section 18 of the said Act violates, in any
+manner, Article 21 of the Constitution which protects the life and personal liberty of
+every person in this country. Article 21 enshrines the right to live with human dignity,
+a precious right to which every human being is entitled; those who have been, for
+centuries, denied this right, more so. We find it difficult to accept the contention that
+Section 438 of the Code of Criminal Procedure is an integral part of Article 21. In the
+first place, there was no provision similar to Section 438 in the old Criminal
+Procedure Code.
+
+[…] Looking to the cautious recommendation of the Law Commission, the power to grant
+anticipatory bail is conferred only on a Court of Session or the High Court. Also, anticipatory bail
+cannot be granted as a matter of right. It is essentially a statutory right conferred long after the
+coming into force of the Constitution. It cannot be considered as an essential ingredient of Article 21
+of the Constitution. And its non-application to a certain special category of offences cannot be
+considered as violative of Article 21.
+
+xxx xxx xxx
+
+9. Of course, the offences enumerated under the present case are very different from those under the
+Terrorists and Disruptive Activities (Prevention) Act, 1987. However, looking to the historical
+background relating to the practice of ‘untouchability’ and the social attitudes which lead to the
+commission of such offences against Scheduled Castes and Scheduled Tribes, there is justification
+for an apprehension that if the benefit of anticipatory bail is made available to the persons who are
+alleged to have committed such offences, there is every likelihood of their misusing their liberty
+while on anticipatory bail to terrorise their victims and to prevent a proper investigation. It is in this
+context that Section 18 has been incorporated in the said Act. It cannot be considered as in any
+manner violative of Article 21.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+20
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+10. It was submitted before us that while Section 438 is available for graver offences under the Penal
+Code, it is not available for even “minor offences” under the said Act. This grievance also cannot be
+justified. The offences which are enumerated under Section 3 are offences which, to say the least,
+denigrate members of Scheduled Castes and Scheduled Tribes in the eyes of society and prevent
+them from leading a life of dignity and self-respect. Such offences are committed to humiliate and
+subjugate members of Scheduled Castes and Scheduled Tribes with a view to keeping them in a state
+of servitude. These offences constitute a separate class and cannot be compared with offences under
+the Penal Code.
+
+xxx xxx xxx
+
+12. In the premises, Section 18 of the said Act cannot be considered as violative of Articles 14 and 21
+of the Constitution.” (Emphasis supplied)
+
+29. However, over a period of time, the courts across the country started taking notice of the fact
+that the complaints were being lodged under the Act, 1989 out of personal and political vendetta.
+The courts took notice of the fact that the provisions of the Act, 1989 were being misused to some
+extent for purposes not intended by the legislation. To overcome the bar of Section 18 of the Act,
+1989, the persons against whom such complaints were being lodged started invoking the writ
+jurisdiction of the High Court under Article 226 of the Constitution.
+
+30. Taking note of the aforesaid, this Court in Dr. Subhash Kashinath Mahajan v.
+
+State of Maharashtra and Another reported in (2018) 6 SCC 454, while quashing the proceedings
+instituted against the appellant therein under the provisions of the Act, 1989 thought fit to issue the
+following directions:
+
+“79.1. Proceedings in the present case are clear abuse of process of court and are
+quashed.
+
+79.2. There is no absolute bar against grant of anticipatory bail in cases under the
+Atrocities Act if no prima facie case is made out or where on judicial scrutiny the
+complaint is found to be prima facie mala fide.
+
+79.3. In view of acknowledged abuse of law of arrest in cases under the Atrocities Act,
+arrest of a public servant can only be after approval of the appointing authority and of
+a non-
+
+public servant after approval by the SSP which may be granted in appropriate cases if considered
+necessary for reasons recorded. Such reasons must be scrutinised by the Magistrate for permitting
+further detention.
+
+79.4. To avoid false implication of an innocent, a preliminary enquiry may be conducted by the DSP
+concerned to find out whether the allegations make out a case under the Atrocities Act and that the
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+21
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+allegations are not frivolous or motivated. 79.5. Any violation of Directions 79.3 and 79.4 will be
+actionable by way of disciplinary action as well as contempt. 79.6. The above directions are
+prospective.”
+
+31. The Parliament took notice of the aforesaid directions and thought fit to carry out certain
+amendments in the Act, 1989 vide the Scheduled Castes and the Scheduled Tribes (Prevention of
+Atrocities) Amendment Act, 2018. The relevant portion is extracted hereinbelow:
+
+“2. After section 18 of the Scheduled Castes and the Scheduled Tribes (Prevention of
+Atrocities) Act, 1989, the following section shall be inserted, namely:— "18A. (1) For
+the purposes of this Act,—
+
+(a) preliminary enquiry shall not be required for registration of a First Information
+Report against any person; or
+
+(b) the investigating officer shall not require approval for the arrest, if necessary, of
+any person, against whom an accusation of having committed an offence under this
+Act has been made and no procedure other than that provided under this Act or the
+Code shall apply.
+
+(2) The provisions of section 438 of the Code shall not apply to a case under this Act,
+notwithstanding any judgment or order or direction of any Court.".
+
+32. The provisions inserted by way of carving out Section 18-A of the Act, 1989 referred to above
+were made the subject matter of challenge in Prathvi Raj Chauhan (supra). In the said case, it was
+argued before a three-Judge Bench of this Court that Section 18-A inserted by way of amendment
+was only with a view to nullify the judgment of this Court in Subhash Kashinath (supra) referred to
+above. This Court noted that it was not in dispute that the bar of Section 18-A in the Act, 1989 had
+been enacted because of the judgment passed by this Court in Subhash Kashinath (supra) more
+particularly in view of the directions contained in paragraphs 79.3 and 79.5 therein. The court also
+noted that the review petitions filed by the Union of India in Subhash Kashinath (supra) were
+allowed and the directions contained in paragraphs 79.3 to 79.5 referred to above were ordered to be
+recalled.
+
+33. In such circumstances, this Court observed that the examination of the Constitutional validity of
+Section 18-A brought by way of the amendment had been rendered academic. However, the Bench
+proceeded to look into the matter. Justice Arun Mishra, speaking for himself and Justice Vineet
+Saran held as under:
+
+“10. Section 18-A(i) was inserted owing to the decision of this Court in Subhash
+Kashinath [Subhash Kashinath Mahajan v. State of Maharashtra, (2018) 6 SCC 454 :
+(2018) 3 SCC (Cri) 124], which made it necessary to obtain the approval of the
+appointing authority concerning a public servant and the SSP in the case of arrest of
+accused persons.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+22
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+This Court has also recalled that direction on Review Petition (Crl.) No. 228 of 2018 decided on
+1-10-2019 [Union of India v. State of Maharashtra, (2020) 4 SCC 761] . Thus, the provisions which
+have been made in Section 18-A are rendered of academic use as they were enacted to take care of
+mandate issued in Subhash Kashinath [Subhash Kashinath Mahajan v. State of Maharashtra, (2018)
+6 SCC 454 : (2018) 3 SCC (Cri) 124] which no more prevails. The provisions were already in Section
+18 of the Act with respect to anticipatory bail.
+
+11. Concerning the applicability of provisions of Section 438 CrPC, it shall not apply to the cases
+under the 1989 Act. However, if the complaint does not make out a prima facie case for applicability
+of the provisions of the 1989 Act, the bar created by Sections 18 and 18-A(i) shall not apply. We have
+clarified this aspect while deciding the review petitions.
+
+12. The Court can, in exceptional cases, exercise power under Section 482 CrPC for quashing the
+cases to prevent misuse of provisions on settled parameters, as already observed while deciding the
+review petitions. The legal position is clear, and no argument to the contrary has been raised.
+
+13. The challenge to the provisions has been rendered academic. In view of the aforesaid
+clarifications, we dispose of the petitions.”
+
+34. Justice S. Ravindra Bhat, while concurring with the judgment rendered by Justice Mishra,
+assigned his own reasons which are reproduced hereinbelow:
+
+“32. As far as the provision of Section 18-A and anticipatory bail is concerned, the
+judgment of Mishra, J. has stated that in cases where no prima facie materials exist
+warranting arrest in a complaint, the court has the inherent power to direct a
+pre-arrest bail.
+
+33. I would only add a caveat with the observation and emphasise that while
+considering any application seeking pre-arrest bail, the High Court has to balance the
+two interests : i.e. that the power is not so used as to convert the jurisdiction into that
+under Section 438 of the Criminal Procedure Code, but that it is used sparingly and
+such orders made in very exceptional cases where no prima facie offence is made out
+as shown in the FIR, and further also that if such orders are not made in those classes
+of cases, the result would inevitably be a miscarriage of justice or abuse of process of
+law. I consider such stringent terms, otherwise contrary to the philosophy of bail,
+absolutely essential, because a liberal use of the power to grant pre-arrest bail would
+defeat the intention of Parliament.”
+
+35. Thus, the decision in Prathvi Raj Chauhan (supra) makes it abundantly clear that even while
+upholding the validity of Section 18-A of the Act, 1989, this Court observed that if the complaint
+does not make out a prima facie case for applicability of the provisions of the Act, 1989 then the bar
+created by Sections 18 and 18-A(i) shall not apply and thus the court would not be precluded from
+granting pre-arrest bail to the accused persons.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+23
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+36. Justice Ravindra Bhat, in his concurring judgment, observed that while considering any
+application seeking pre-arrest bail in connection with an offence alleged to have been committed
+under the provisions of the Act, 1989, the courts should balance two interests – On one hand they
+should ensure that the power is not exercised akin to the jurisdiction under Section 438 of the CrPC
+while on the other hand they should ensure that the power is used sparingly in exceptional cases
+where no prima facie offence is made out as shown in the FIR or the complaint. It was observed that
+in cases where no prima facie materials exist in a complaint which would warrant the arrest of the
+accused, the court would have the inherent power to direct a pre-arrest bail.
+
+37. The applicability of Section 438 of the CrPC to cases registered under the Act, 1989 was also
+dealt with by a two-Judge Bench of this Court in Vilas Pandurang Pawar and Another v. State of
+Maharashtra and Others reported in (2012) 8 SCC 795. The specific issue framed and answered by
+this Court was whether an accused charged with various offences under the IPC along with offences
+under the Act, 1989 would be entitled for an anticipatory bail under Section 438 of CrPC.
+
+38. It was observed by this Court that although Section 18 of the Act, 1989 creates a bar for invoking
+Section 438 of the CrPC yet the courts are entrusted with a duty to verify the averments in the
+complaint and to find out whether an offence under the Act, 1989 is prima facie made out or not. It
+was further observed that while considering the application for anticipatory bail, the scope for
+appreciation of evidence and other material is limited and the courts are not expected to undertake
+an intricate evidentiary inquiry of the materials on record. The relevant observations are reproduced
+hereinbelow:
+
+“9. Section 18 of the SC/ST Act creates a bar for invoking Section 438 of the Code.
+However, a duty is cast on the court to verify the averments in the complaint and to
+find out whether an offence under Section 3(1) of the SC/ST Act has been prima facie
+made out. In other words, if there is a specific averment in the complaint, namely,
+insult or intimidation with intent to humiliate by calling with caste name, the accused
+persons are not entitled to anticipatory bail.
+
+10. The scope of Section 18 of the SC/ST Act read with Section 438 of the Code is
+such that it creates a specific bar in the grant of anticipatory bail. When an offence is
+registered against a person under the provisions of the SC/ST Act, no Court shall
+entertain application for anticipatory bail, unless it prima facie finds that such an
+offence is not made out.
+
+Moreover, while considering the application for bail, scope for appreciation of evidence and other
+material on record is limited. Court is not expected to indulge in critical analysis of the evidence on
+record. When a provision has been enacted in the Special Act to protect the persons who belong to
+the Scheduled Castes and the Scheduled Tribes and a bar has been imposed in granting bail under
+Section 438 of the Code, the provision in the Special Act cannot be easily brushed aside by elaborate
+discussion on the evidence.” (Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+24
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+39. A three-Judge Bench of this Court in Rahna Jalal v. State of Kerala reported in (2021) 1 SCC 733
+while discussing in the context of Section 7 of the Muslim Women (Protection of Rights on
+Marriage) Act, 2019, elaborated on the requirement of the existence of a prima facie case under
+Section 18 of the Act, 1989 for the bar of anticipatory bail to become applicable, as follows:
+
+“25. Thus, even in the context of legislation, such as the Scheduled Castes and
+Scheduled Tribes (Prevention of Atrocities) Act 1989, where a bar is interposed by the
+provisions of Section 18 and Sub-section (2) of Section 18-A on the application of
+Section 438 of the CrPC, this Court has held that the bar will not apply where the
+complaint does not make out “a prima facie case” for the applicability of the
+provisions of the Act. A statutory exclusion of the right to access remedies for bail is
+construed strictly, for a purpose. Excluding access to bail as a remedy, impinges upon
+human liberty. Hence, the decision in Chauhan (supra) held that the exclusion will
+not be attracted where the complaint does not prima facie indicate a case attracting
+the applicability of the provisions of the Scheduled Castes and Scheduled Tribes
+(Prevention of Atrocities) Act 1989.” (Emphasis supplied)
+
+40. This Court, in Hitendra Vishnu Thakur and Others v. State of Maharashtra and Others reported
+in (1994) 4 SCC 602, while discussing a similarly worded provision in the Terrorist and Disruptive
+Activities (Prevention) Act, 1985, held as follows:
+
+“13. We would, therefore, at this stage like to administer a word of caution to the
+Designated Courts regarding invoking the provisions of TADA merely because the
+investigating officer at some stage of the investigation chooses to add an offence
+under same (sic some) provisions of TADA against an accused person, more often
+than not while opposing grant of bail, anticipatory or otherwise. The Designated
+Courts should always consider carefully the material available on the record and
+apply their mind to see whether the provisions of TADA are even prima facie
+attracted.” (Emphasis supplied) a. Significance of the expression “arrest of any
+person” appearing in Section 18 of the Act, 1989
+
+41. It is clear from the aforesaid discussion that Section 18 of the Act, 1989 does not impose an
+absolute fetter on the power of the courts to examine whether a prima facie case attracting the
+provisions of the Act, 1989 is made out or not. As discussed, Section 18 stipulates that in any case
+which involves the arrest of any person on the accusation of having committed an offence under the
+Act, 1989, the benefit of anticipatory bail under Section 438 of CrPC would not be available to the
+accused. We have deliberated on the significance of the expression “arrest of any person” appearing
+in the text of Section 18 of the Act, 1989 and are of the view that Section 18 bars the remedy of
+anticipatory bail only in those cases where a valid arrest of the accused person can be made as per
+Section 41 read with Section 60A of CrPC.
+
+42. Section 60A of CrPC provides that no arrest shall be made except in accordance with the
+provisions of CrPC or any other law for the time being in force and providing for arrest. Section 41 of
+CrPC confers upon the police the power to arrest without warrant in certain situations as specified
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+25
+
+therein. Sections 41(1)(b) and 41(1)(ba) respectively of CrPC read as follows:
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+“41. When police may arrest without warrant.—(1) Any police officer may without an
+order from a Magistrate and without a warrant, arrest any person— xxx xxx xxx
+
+(b) against whom a reasonable complaint has been made, or credible information has
+been received, or a reasonable suspicion exists that he has committed a cognizable
+offence punishable with imprisonment for a term which may be less than seven years
+or which may extend to seven years whether with or without fine, if the following
+conditions are satisfied, namely:—
+
+(i) the police officer has reason to believe on the basis of such complaint, information,
+or suspicion that such person has committed the said offence;
+
+(ii) the police officer is satisfied that such arrest is necessary—
+
+(a) to prevent such person from committing any further offence; or
+
+(b) for proper investigation of the offence; or
+
+(c) to prevent such person from causing the evidence of the offence to disappear or
+tampering with such evidence in any manner; or
+
+(d) to prevent such person from making any inducement, threat or promise to any
+person acquainted with the facts of the case so as to dissuade him from disclosing
+such facts to the Court or to the police officer; or
+
+(e) as unless such person is arrested, his presence in the Court whenever required
+cannot be ensured, and the police officer shall record while making such arrest, his
+reasons in writing.
+
+Provided that a police officer shall, in all cases where the arrest of a person is not required under the
+provisions of this sub-section, record the reasons in writing for not making the arrest.
+
+(ba) against whom credible information has been received that he has committed a cognizable
+offence punishable with imprisonment for a term which may extend to more than seven years
+whether with or without fine or with death sentence and the police officer has reason to believe on
+the basis of that information that such person has committed the said offence.”
+
+43. A plain reading of the above provision shows that an arrest can be effected if there is a
+reasonable complaint, credible information or reasonable suspicion and the police officer has a
+reason to believe that such offence has been committed by the accused person and the arrest is
+necessary. It is worth noting that the words ‘complaint’, ‘information’ and ‘suspicion’ are qualified
+by the adjectives ‘reasonable’, ‘credible’ and ‘reasonable’ respectively. Similarly, the police officer is
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+26
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+required to have a ‘reason to believe’ based on the information he has received that the accused
+person has committed the alleged offence.
+
+44. It is settled law that arrest cannot be made merely because it is lawful to do so.
+
+The exercise of the power to arrest has been qualified by a twofold requirement – first, of having a
+reasonable belief that the accused person has committed the offence and secondly, that there is a
+need to arrest the accused person. This Court in Satender Kumar Antil v. CBI reported in (2022) 10
+SCC 51 held that non-observance of the requirements stipulated under Sections 41 and 41A of CrPC
+respectively before effecting arrest would entitle the accused to be enlarged on bail. The relevant
+paragraphs are reproduced hereinbelow:
+
+“25. The consequence of non-compliance with Section 41 shall certainly inure to the
+benefit of the person suspected of the offence. Resultantly, while considering the
+application for enlargement on bail, courts will have to satisfy themselves on the due
+compliance of this provision. Any non-compliance would entitle the accused to a
+grant of bail.”
+
+45. In Arnesh Kumar v. State of Bihar and Another reported in (2014) 8 SCC 273, this Court laid
+emphasis on the phrases “credible information” and “reasonable suspicion” as they appear in
+Section 41 of CrPC and held as follows:
+
+“5. Arrest brings humiliation, curtails freedom and casts scars forever. Lawmakers
+know it so also the police. There is a battle between the lawmakers and the police and
+it seems that the police has not learnt its lesson: the lesson implicit and embodied in
+CrPC. It has not come out of its colonial image despite six decades of Independence,
+it is largely considered as a tool of harassment, oppression and surely not considered
+a friend of public. The need for caution in exercising the drastic power of arrest has
+been emphasised time and again by the courts but has not yielded desired result.
+Power to arrest greatly contributes to its arrogance so also the failure of the
+Magistracy to check it. Not only this, the power of arrest is one of the lucrative
+sources of police corruption. The attitude to arrest first and then proceed with the
+rest is despicable. It has become a handy tool to the police officers who lack
+sensitivity or act with oblique motive.
+
+6. Law Commissions, Police Commissions and this Court in a large number of
+judgments emphasised the need to maintain a balance between individual liberty and
+societal order while exercising the power of arrest. Police officers make arrest as they
+believe that they possess the power to do so. As the arrest curtails freedom, brings
+humiliation and casts scars forever, we feel differently. We believe that no arrest
+should be made only because the offence is non-bailable and cognizable and
+therefore, lawful for the police officers to do so. The existence of the power to arrest is
+one thing, the justification for the exercise of it is quite another. Apart from the
+power to arrest, the police officers must be able to justify the reasons thereof.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+27
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+No arrest can be made in a routine manner on a mere allegation of commission of an offence made
+against a person. It would be prudent and wise for a police officer that no arrest is made without a
+reasonable satisfaction reached after some investigation as to the genuineness of the allegation.
+Despite this legal position, the legislature did not find any improvement. Numbers of arrest have not
+decreased. Ultimately, Parliament had to intervene and on the recommendation of the 177th Report
+of the Law Commission submitted in the year 2001, Section 41 of the Code of Criminal Procedure
+(for short “CrPC”), in the present form came to be enacted. It is interesting to note that such a
+recommendation was made by the Law Commission in its 152nd and 154th Report submitted as
+back in the year 1994. The value of the proportionality permeates the amendment relating to arrest.
+
+xxx xxx xxx 7.3. In pith and core, the police officer before arrest must put a question to himself, why
+arrest? Is it really required? What purpose it will serve? What object it will achieve? It is only after
+these questions are addressed and one or the other conditions as enumerated above is satisfied, the
+power of arrest needs to be exercised. In fine, before arrest first the police officers should have
+reason to believe on the basis of information and material that the accused has committed the
+offence. Apart from this, the police officer has to be satisfied further that the arrest is necessary for
+one or the more purposes envisaged by sub-clauses (a) to (e) of clause (1) of Section 41 CrPC.
+
+xxx xxx xxx
+
+10. We are of the opinion that if the provisions of Section 41 CrPC which authorises the police officer
+to arrest an accused without an order from a Magistrate and without a warrant are scrupulously
+enforced, the wrong committed by the police officers intentionally or unwittingly would be reversed
+and the number of cases which come to the Court for grant of anticipatory bail will substantially
+reduce. We would like to emphasise that the practice of mechanically reproducing in the case diary
+all or most of the reasons contained in Section 41 CrPC for effecting arrest be discouraged and
+discontinued.” (Emphasis supplied)
+
+46. The aforesaid discussion indicates that the term ‘arrest’ appearing in the text of Section 18 of the
+Act, 1989 should be construed and understood in the larger context of the powers of police to effect
+an arrest and the restrictions imposed by the statute and the courts on the exercise of such power.
+Seen thus, it can be said that the bar under Section 18 of the Act, 1989 would apply only to those
+cases where prima facie materials exist pointing towards the commission of an offence under the
+Act, 1989. We say so because it is only when a prima facie case is made out that the pre-arrest
+requirements as stipulated under Section 41 of CrPC could be said to be satisfied.
+
+iii. When can it be said that a prima facie case is made out in a given FIR/complaint?
+
+47. Prima facie is a Latin term that translates to “at first sight” or “based on first impression”. The
+expression “where no prima facie materials exist warranting arrest in a complaint or FIR” should be
+understood as “when based on first impression, no offence is made out as shown in the FIR or the
+complaint”. This means that when the necessary ingredients to constitute the offence under the Act,
+1989 are not made out upon the reading of the complaint, no case can be said to exist prima facie.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+28
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+48. As a sequitur, if the necessary ingredients to constitute the offence under the Act, 1989 are not
+disclosed on the prima facie reading of the allegations levelled in the complaint or FIR, then in such
+circumstances, as per the consistent exposition by various decisions of this Court, the bar of Section
+18 would not apply and the courts would not be absolutely precluded from granting pre-arrest bail
+to the accused persons.
+
+49. In our opinion, the aforesaid is the only test that the court should apply, when an accused prays
+for anticipatory bail in connection with any offence alleged to have been committed under the
+provisions of the Act, 1989. In a given case, an accused may argue that although the allegations
+levelled in the FIR or the complaint do disclose the commission of an offence under the Act, 1989,
+yet the FIR or the complaint being palpably false on account of political or private vendetta, the
+court should consider the plea for grant of anticipatory bail despite the specific bar of Section 18 of
+the Act, 1989. However, if the accused puts forward the case of malicious prosecution on account of
+political or private vendetta then the same can be considered only by the High Court in exercise of
+its inherent powers under Section 482 of the Code or in exercise of its extraordinary jurisdiction
+under Article 226 of the Constitution. However, powers under Section 438 of the CrPC cannot be
+exercised once the contents of the complaint/FIR disclose a prima facie case. In other words, if all
+the ingredients necessary for constituting the offence are borne out from the complaint, then the
+remedy of anticipatory bail becomes unavailable to the accused.
+
+50. The duty to determine prima facie existence of the case is cast upon the courts with a view to
+ensure that no unnecessary humiliation is caused to the accused. The courts should not shy away
+from conducting a preliminary inquiry to determine if the narration of facts in the complaint/FIR in
+fact discloses the essential ingredients required to constitute an offence under the Act, 1989. It is
+expected of the courts to apply their judicial mind to determine whether the allegations levelled in
+the complaint, on a plain reading, satisfy the ingredients constituting the alleged offence. Such
+application of judicial mind should be independent and without being influenced by the provisions
+figuring in the complaint/FIR. The aforesaid role of the courts assumes even more importance when
+a prima facie finding on the case has the effect of precluding the accused person from seeking
+anticipatory bail, which is an important concomitant of personal liberty of the individual.
+
+51. The aforesaid position is also apparent from a plain construction of the text of Section 18 of the
+Act, 1989. The words “having committed an offence under this Act” denote that it is only when the
+accusation in the complaint clearly points towards the commission of an offence under the Act, 1989
+that the bar of Section 18 would apply. The minimum threshold for determining whether an offence
+under the Act has been committed or not is to ascertain whether all the ingredients which are
+necessary to constitute the offence are prima facie disclosed in the complaint or not. An accusation
+which does not disclose the necessary ingredients of the offence on a prima facie reading cannot be
+said to be sufficient to bring into operation the bar envisaged by Section 18 of the Act, 1989. Holding
+otherwise would mean that even a plain accusation, devoid of the essential ingredients required for
+constituting the offence, would be enough for invoking the bar under Section 18. In our considered
+view, such an approach would not be in line with the dictum as laid by this Court while upholding
+the Constitutionality of Sections 18 and 18-A respectively of the Act, 1989.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+29
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+52. Having said so, we would also like to state that the case at hand is of a unique nature and one
+that falls in a separate category. With the advent of internet and social media, cases like the one we
+are dealing with are likely to come up more frequently. In the present case, the basis of the FIR is
+the YouTube video and some other digital materials alleged to have been published by the appellant
+in the public domain. It is not the case of the complainant that the appellant subjected him to insults
+or humiliations in some public gathering, the details of which can only be gathered by recording the
+statements of witnesses. The entire incriminatory material based upon which the complaint came to
+be lodged was available in the public domain by virtue of having been uploaded on social media
+platforms. We had the occasion to threadbare go through the transcript of the YouTube video. We
+may only say that in cases like the one in hand, the courts should have the discretion to look into the
+materials based upon which the complaint has been registered, in addition to verifying the
+averments made in the complaint. If on a prima facie reading of the materials referred to in the
+complaint and the complaint itself, the ingredients necessary for constituting the offence are not
+made out, then the bar of Section 18 would not be applicable and it would be open to the courts to
+consider the plea for the grant pre-arrest bail on its own merits.
+
+iv. Whether the averments in the FIR/complaint in question disclose commission of any offence
+under Section 3(1)(r) of the Act, 1989?
+
+53. It is the case of the complainant as well as the State that considering the rash and derogatory
+statements alleged to have been made by the appellant herein, he could be said to have prima facie
+committed the offence under Sections 3(1)(r) and 3(1)(u) respectively of the Act, 1989.
+
+54. We shall first proceed to examine whether the necessary ingredients to constitute the offence
+under Section 3(1)(r) of the Act, 1989 are prima face disclosed on a plain reading of the FIR. Section
+3(1)(r) reads thus:
+
+“Section 3 of the Act 1989:
+
+Punishments for offences of atrocities.— [(1) Whoever, not being a member of a
+Scheduled Caste or a Scheduled Tribe,— XXX XXX XXX
+
+(r) intentionally insults or intimidates with intent to humiliate a member of a
+Scheduled Caste or a Scheduled Tribe in any place within public view;” (Emphasis
+supplied)
+
+55. The basic ingredients to constitute the offence under Section 3(1)(r) of the Act, 1989 are:
+
+a. Accused person must not be a member of the Scheduled Caste or Scheduled Tribe;
+
+b. Accused must intentionally insult or intimidate a member of a Scheduled Caste or
+Scheduled Tribe;
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+30
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+c. Accused must do so with the intent to humiliate such a person; and d. Accused
+must do so at any place within public view.
+
+56. It is relevant to note that Section 3(1)(r) of the Act, 1989 is similarly worded as the erstwhile
+Section 3(1)(x) of the Act, 1989 which was in force prior to its substitution with effect from
+26.01.2016.
+
+57. In the case at hand, the appellant is alleged to have published a video on YouTube, containing a
+slew of reckless statements in the form of allegations levelled against the complainant. We are not
+supposed to look into the veracity or the truthfulness of such allegations as contained in the video.
+We are only trying to understand that even if all the statements alleged to have been made by the
+appellant are believed to be true whether any offence under Section 3(1)(r) of the Act, 1989 could be
+said to have been prima facie committed. In our opinion, the answer should be in the negative.
+
+58. We say so for the reason that all insults or intimidations to a member of the Scheduled Caste or
+Scheduled Tribe will not amount to an offence under the Act, 1989 unless such insult or
+intimidation is on the ground that the victim belongs to Scheduled Caste or Scheduled Tribe. There
+is nothing in the transcript of the uploaded video to indicate even prime facie that those allegations
+were made by the appellant only on account of the fact that the complainant belongs to a Scheduled
+Caste. From the nature of the allegations made by the appellant, it appears that he is at inimical
+terms with the complainant. His intention may be to malign or defame him but not on the ground or
+for the reason that the complainant belongs to a Scheduled Caste.
+
+59. In the aforesaid context, we may refer to and rely upon a three-Judge Bench decision of this
+Court in Hitesh Verma (supra). The relevant observations are reproduced below:
+
+“13. The offence under Section 3(1)(r) of the Act would indicate the ingredient of
+intentional insult and intimidation with an intent to humiliate a member of a
+Scheduled Caste or a Scheduled Tribe. All insults or intimidations to a person will not
+be an offence under the Act unless such insult or intimidation is on account of victim
+belonging to Scheduled Caste or Scheduled Tribe. The object of the Act is to improve
+the socio-economic conditions of the Scheduled Castes and the Scheduled Tribes as
+they are denied number of civil rights. Thus, an offence under the Act would be made
+out when a member of the vulnerable section of the society is subjected to indignities,
+humiliations and harassment. The assertion of title over the land by either of the
+parties is not due to either the indignities, humiliations or harassment. Every citizen
+has a right to avail their remedies in accordance with law. Therefore, if the appellant
+or his family members have invoked jurisdiction of the civil court, or that Respondent
+2 has invoked the jurisdiction of the civil court, then the parties are availing their
+remedies in accordance with the procedure established by law. Such action is not for
+the reason that Respondent 2 is a member of Scheduled Caste.
+
+xxx xxx xxx
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+31
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+17. In another judgment reported as Khuman Singh v. State of M.P. [Khuman Singh
+v. State of M.P., (2020) 18 SCC 763 : 2019 SCC OnLine SC 1104] , this Court held that
+in a case for applicability of Section 3(2)(v) of the Act, the fact that the deceased
+belonged to Scheduled Caste would not be enough to inflict enhanced punishment.
+This Court held that there was nothing to suggest that the offence was committed by
+the appellant only because the deceased belonged to Scheduled Caste. The Court held
+as under:
+
+“15. As held by the Supreme Court, the offence must be such so as to attract the
+offence under Section 3(2)(v) of the Act. The offence must have been committed
+against the person on the ground that such person is a member of Scheduled Caste
+and Scheduled Tribe. In the present case, the fact that the deceased was belonging to
+“Khangar” Scheduled Caste is not disputed. There is no evidence to show that the
+offence was committed only on the ground that the victim was a member of the
+Scheduled Caste and therefore, the conviction of the appellant-accused under Section
+3(2)(v) of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act is
+not sustainable.”
+
+18. Therefore, offence under the Act is not established merely on the fact that the
+informant is a member of Scheduled Caste unless there is an intention to humiliate a
+member of Scheduled Caste or Scheduled Tribe for the reason that the victim belongs
+to such caste. In the present case, the parties are litigating over possession of the
+land. The allegation of hurling of abuses is against a person who claims title over the
+property. If such person happens to be a Scheduled Caste, the offence under Section
+3(1)(r) of the Act is not made out.” (Emphasis supplied)
+
+60. Thus, the dictum as laid aforesaid is that the offence under Section 3(1)(r) of the Act, 1989 is not
+established merely on the fact that the complainant is a member of a Scheduled Caste or a
+Scheduled Tribe, unless there is an intention to humiliate such a member for the reason that he
+belongs to such community. In other words, it is not the purport of the Act, 1989 that every act of
+intentional insult or intimidation meted by a person who is not a member of a Scheduled Caste or
+Scheduled Tribe to a person who belongs to a Scheduled Caste or Scheduled Tribe would attract
+Section 3(1)(r) of the Act, 1989 merely because it is committed against a person who happens to be a
+member of a Scheduled Caste or Scheduled Tribe. On the contrary, Section 3(1)(r) of the Act, 1989 is
+attracted where the reason for the intentional insult or intimidation is that the person who is
+subjected to it belongs to a Scheduled Caste or Scheduled Tribe. We say so because the object behind
+the enactment of the Act, 1989 was to provide stringent provisions for punishment of offences which
+are targeted towards persons belonging to the SC/ST communities for the reason of their caste
+status.
+
+a. Meaning of the expression “intent to humiliate” appearing in Section 3(1)(r) of the Act, 1989
+
+61. The words “with intent to humiliate” as they appear in the text of Section 3(1)(r) of the Act, 1989
+are inextricably linked to the caste identity of the person who is subjected to intentional insult or
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+32
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+intimidation. Not every intentional insult or intimidation of a member of a SC/ST community will
+result into a feeling of caste-based humiliation. It is only in those cases where the intentional insult
+or intimidation takes place either due to the prevailing practice of untouchability or to reinforce the
+historically entrenched ideas like the superiority of the “upper castes” over the “lower
+castes/untouchables”, the notions of ‘purity’ and ‘pollution’, etc. that it could be said to be an insult
+or intimidation of the type envisaged by the Act, 1989.
+
+62. We would like to refer to the observations of this Court in Ram Krishna Balothia (supra) to
+further elaborate upon the idea of “humiliation” as it has been used under the Act, 1989. It was
+observed in the said case that the offences enumerated under the Act, 1989 belong to a separate
+category as they arise from the practice of ‘untouchability’ and thus the Parliament was competent
+to enact special laws treating such offences and offenders as belonging to a separate category.
+Referring to the Statements of Objects and Purposes of the Act, 1989 it was observed by this Court
+that the object behind the introduction of the Act, 1989 was to afford statutory protection to the
+Scheduled Castes and the Scheduled Tribes, who were terrorised and subjected to humiliation and
+indignations upon assertion of their civil rights and resistance to the practice of untouchability. For
+this reason, mere fact that the person subjected to insult or intimidation belongs to a Scheduled
+Caste or Scheduled Tribe would not attract the offence under Section 3(1)(r) unless it was the
+intention of the accused to subject the concerned person to caste-based humiliation.
+
+63. V. Geetha in her paper titled Bereft of Being: The Humiliations of Untouchability1 describes
+humiliation as an experience that is “felt, held and savoured in the very gut of our existence.”
+Humiliation, in her understanding, can either be suffered as a one-time occurrence which bruises
+the self-esteem or pride of an individual, or it can be “suffered as a condition that is degrading and
+wounding.” In the words of Gopal Guru, humiliation is not so much a physical injury but is in the
+nature of a psychological injury that leaves a permanent scar on the heart.
+
+64. Explaining the social structures that perpetuate humiliation, Gopal Guru, in an introduction to
+his book2 writes that “humiliation is almost endemic to social life that is active basically through
+asymmetries of intersecting sects of attitudes – arrogance and obeisance, self-respect and servility
+and reverence and repulsion. Discussing on how the basis of humiliation varies in different societies,
+depending upon the social context, he observes that the idea and practice of humiliation “continues
+to survive in different forms depending upon the specific nature of the social context. For example,
+in the West it is the attitude of race that is at the base of humiliation. In the East, it is the notion of
+untouchability that foregrounds the form and content of humiliation.” Humiliation: Claims and
+Context, Oxford University Press, First Edition (2009), pp. 95-107 Humiliation: Claims and Context
+(supra), pp. 1-22
+
+65. While Gopal Guru makes the aforesaid observation in the context of different societies in
+relation to one another, such as the East and the West, in our opinion the observations are equally
+applicable to specific individual societies as well wherein multiple varying grounds of humiliation
+like gender, caste, race, etc. can co-exist and apply to the same or different individuals and groups.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+33
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+66. Bhikhu Parekh in his paper titled Logic of Humiliation3 attempts to differentiate humiliation
+from other concepts that it is generally confused with. He gives the example of the ticket inspector
+who threw Gandhi off the train in South Africa to argue that humiliation might, but need not,
+involve physical cruelty. On the contrary, he contends that a man who starves another to death and
+tortures him, shows cruelty but does not necessarily humiliate him. He argues the same regarding
+the difference between insult and humiliation and observes that although humiliation generally
+involves insult, yet insult alone is not sufficient to constitute humiliation.
+
+67. On the social context of humiliation, Parekh writes that “organised or institutionalized
+humiliation exists when social institutions and practices embody disrespect for, and systematically
+violate the self-respect of, groups of individuals.” Drawing a distinction between systemic and
+regimented Humiliation: Claims and Context (supra), pp. 23-40 humiliation on the one hand as
+distinguished from isolated incidents of humiliation on the other, he observes that while the latter is
+present in modern liberal societies, the former is found in societies structured on the basis of
+slavery, racial segregation, untouchability, caste system, hierarchical status, etc. According to him,
+the reason for the same is that the modern liberal societies, though marked by deep economic,
+political and other inequalities, allow for vertical mobility owing to the fluid nature of the
+inequalities. Whereas, societies based on race, caste system, etc. are grounded in inequalities like
+colour, birth, ethnicity, etc. which are unalterable and deeply entrenched in the very foundational
+fabric of such a society. The inflexible nature of the basis of inequalities leads to the existence of a
+more structural and systemic form of humiliation, as the perpetrator is assured of its place in the
+structure of the society owing to its immobility. Since no one can be assured of the same in a modern
+liberal society which is marked by vertical mobility in the social structure, there is no incentive for
+anyone to have a regimented system of humiliation.
+
+68. Resistance is internal to humiliation, and some scholars have argued that humiliation is only
+defined on the basis of the claims made against it. Thus, those who are humiliated also inherently
+possess the capacity to protest against it. However, those who protest also run the risk of inciting
+opposition from those who want to push the traditionally humiliated groups to the margins. This
+apprehension of opposition and push back from the dominant against the marginalised is also
+evident from the Statements of Objects of the Act, 1989, as discussed by this Court in Ram Krishna
+Balothia (supra).
+
+69. What appears from the aforesaid discussion is that the expression “intent to humiliate” as it
+appears in Section 3(1)(r) of the Act, 1989 must necessarily be construed in the larger context in
+which the concept of humiliation of the marginalised groups has been understood by various
+scholars. It is not ordinary insult or intimidation which would amount to ‘humiliation’ that is sought
+to be made punishable under the Act, 1989. The Parliament, by way of different legislations, has
+over the years sought to target humiliation based on different grounds and identities which exist in
+the society. The Protection of Women from Domestic Violence Act, 2005 seeks to punish
+humiliation based on gender inequalities by specifically including the term ‘humiliation’ in the
+definition of “domestic violence”. Similarly, The Sexual Harassment of Women at Workplace
+(Prevention, Prohibition and Redressal) Act, 2013 includes treatment causing humiliation to a
+female employee and which may likely affect her health and safety within the definition of sexual
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+34
+
+harassment.
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+70. In our considered view, it is in a similar vein that the term ‘humiliation’ as it appears in Section
+3(1)(r) of the Act, 1989 must be construed, that is, in a way that it deprecates the infliction of
+humiliation against members of the Scheduled Castes and Scheduled Tribes wherein such
+humiliation is intricately associated with the caste identity of such members.
+
+71. We would also like to refer to Section 7(1)(d) of The Protection of Civil Rights Act, 1955 (“Civil
+Rights Act”) at this juncture to give a more meaningful construction to Section 3(1)(r) of the Act,
+1989. The provision reads as follows:
+
+“7. Punishment for other offences arising out of “untouchability”.—(1) Whoever— xxx
+xxx xxx
+
+(d) insults or attempts to insult, on the ground of “untouchability”, a member of a
+Scheduled Caste;
+
+shall be punishable with imprisonment for a term of not less than one month and not more than six
+months, and also with fine which shall be not less than one hundred rupees and not more than five
+hundred rupees.”
+
+72. It is clear from a plain reading of the aforesaid provision that any insult against a member of a
+Scheduled Caste or Scheduled Tribe on the ground of “untouchability” was punishable with
+imprisonment for a maximum term of six months under the Civil Rights Act. With the passage of
+time, it was realised by the legislature that the Civil Rights Act was not adequately sufficient to
+tackle caste-based offences and the practice of “untouchability”, leading to the enactment of the Act,
+1989 introducing more stringent provisions for combating such practices. Section 3(1)(r) of the Act,
+1989 should, thus, be seen in the context of Section 7(1)(d) of the Civil Rights Act. Seen thus, the
+words “with an intent to humiliate a member of a Scheduled Caste or Scheduled Tribe” become
+inseparable from the underlying idea of “untouchability” which is sought to be remedied and
+punished by the Act, 1989.
+
+73. A two-Judge Bench of this Court in Ramesh Chandra Vaishya (supra) explained that for an act of
+intentional insult to attract the offence under erstwhile Section 3(1)(x) of the Act, 1989 (which is
+identical to Section 3(1)(r) of the Act, 1989) it was necessary that the insult is laced with casteist
+remarks. Relevant observations is extracted hereinbelow:
+
+“18. […]The legislative intent seems to be clear that every insult or intimidation for
+humiliation to a person would not amount to an offence under section 3(1)(x) of the
+SC/ST Act unless, of course, such insult or intimidation is targeted at the victim
+because of he being a member of a particular Scheduled Caste or Tribe. If one calls
+another an idiot (bewaqoof) or a fool (murkh) or a thief (chor) in any place within
+public view, this would obviously constitute an act intended to insult or humiliate by
+user of abusive or offensive language. Even if the same be directed generally to a
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+35
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+person, who happens to be a Scheduled Caste or Tribe, per se, it may not be sufficient
+to attract section 3(1)(x) unless such words are laced with casteist remarks. […]”
+
+74. Having regard to the reprehensible conduct and the nature of the derogatory statements made,
+the appellant, at best could be said to have prima facie committed the offence of defamation
+punishable under Section 500 of the IPC. If that be so, it is always open for the complainant to
+prosecute the appellant accordingly. However, the complainant could not have invoked the
+provisions of the Act, 1989 only on the premise that he is member of Scheduled Caste, more so,
+when a prima facie conjoint reading of the transcript of the video and the complaint fails to disclose
+that the actions of the appellant were impelled by the caste identity of the complainant.
+
+v. Whether any offence under Section 3(1)(u) of the Act, 1989 is prima facie made out in the
+FIR/complaint in question?
+
+75. Section 3(1)(u) of the Act, 1989 reads thus:
+
+“Punishments for offences of atrocities.— (1) Whoever, not being a member of a
+Scheduled Caste or a Scheduled Tribe,— xxx xxx xxx (u) by words either written or
+spoken or by signs or by visible representation or otherwise promotes or attempts to
+promote feelings of enmity, hatred or ill-will against members of the Scheduled
+Castes or the Scheduled Tribes;
+
+xxx xxx xxx Shall be punishable with imprisonment for a term which shall not be less
+than six months but which may extend to five years and with fine” (Emphasis
+supplied)
+
+76. The basic ingredients for constituting an offence under Section 3(1)(u) of the Act, 1989 are:
+
+a. Accused should not be a member of the Schedule Caste or Scheduled Tribe;
+
+b. Accused should by words, either written or spoken, or by signs or by visible
+representation or otherwise;
+
+c. Promote or attempt to promote feelings of enmity, hatred or ill-will against
+members of the Scheduled Caste or the Scheduled Tribes.
+
+77. In our opinion, there is nothing to even prima facie indicate that the appellant by publishing the
+video on YouTube promoted or attempted to promote feelings of enmity, hatred or ill-will against
+the members of Scheduled Castes or Scheduled Tribes. The video has nothing to do in general with
+the members of Scheduled Caste or the Scheduled Tribe. His target was just the complainant alone.
+The offence under Section 3(1)(u) will come into play only when any person is trying to promote ill
+feeling or enmity against the members of the scheduled castes or scheduled tribes as a group and
+not as individuals.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+36
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+vi. Whether mere knowledge of the caste identity of the complainant is sufficient to attract the
+offence under Section 3(1)(r) of the Act, 1989?
+
+78. It was also sought to be argued that the appellant knew very well that the complainant belongs to
+a Scheduled Caste and despite such knowledge if he went on to make derogatory utterances in the
+video then the offence under Sections 3(1)(r) and 3(1)(u) respectively of the Act, 1989 could be said
+to have been prima facie made out.
+
+79. We find no merit in the aforesaid submission. Wherever the legislature intended that mere
+knowledge of the fact that the victim is a member of Scheduled Caste or Scheduled Tribe would be
+sufficient to constitute an offence under the Act, 1989, it has said so in so many words. We may
+reproduce some of the relevant provisions where knowledge that the complainant belongs to the
+Scheduled Castes or Scheduled Tribes is sufficient in itself to constitute the offence:
+
+“3. Punishments for offences atrocities.-(1) xxx xxx xxx (w)(i) intentionally touches a
+woman belonging to a Scheduled Caste or a Scheduled Tribe, knowing that she
+belongs to a Scheduled Caste or a Scheduled Tribe, when such act of touching is of a
+sexual nature and is without the recipient’s consent;
+
+(ii) uses words, acts or gestures of a sexual nature towards a woman belonging to a
+Scheduled Caste or a Scheduled Tribe, knowing that she belongs to a Scheduled Caste
+or a Scheduled Tribe.” xxx xxx xxx (2) Whoever, not being a member of a Scheduled
+Caste or a Scheduled Tribe,─ xxx xxx xxx
+
+(v) commits any offence under the Indian Penal Code (45 of 1860) punishable with
+imprisonment for a term of ten years or more against a person or property [knowing
+that such person is a member of a Scheduled Caste or a Scheduled Tribe or such
+property belongs to such member], shall be punishable with imprisonment for life
+and with fine;
+
+(va) commits any offence specified in the Schedule, against a person or property,
+knowing that such person is a member of a Scheduled Caste or a Scheduled Tribe or
+such property belongs to such member, shall be punishable with such punishment as
+specified under the Indian Penal Code (45 of 1860) for such offences and shall also be
+liable to fine;]” (Emphasis supplied)
+
+80. At the cost of repetition, the words in Section 3(1)(r) of the Act, 1989 are altogether different.
+Mere knowledge of the fact that the victim is a member of the Scheduled Caste or Scheduled Tribe is
+not sufficient to attract Section 3(1)(r) of the Act, 1989. As discussed earlier, the offence must have
+been committed against the person on the ground or for the reason that such person is a member of
+Scheduled Caste or Scheduled Tribe. When we are considering whether prima facie materials exist,
+warranting arrest of the appellant, there is nothing to indicate that the allegations/statements
+alleged to have been made by the appellant were for the reason that the complainant is a member of
+a Scheduled Caste.
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+37
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+81. The High Court in its impugned order has observed “materials on record do indicate that the
+video is intended to insult and humiliate the second respondent.” The High Court may be right in
+observing that the intention of the appellant could have been to insult and humiliate the
+complainant but the High Court failed to consider whether such insult or humiliation was on
+account of or for the reason that the complainant belongs to Scheduled Caste. Is it the case of the
+complainant that had he not belonged to a Scheduled Caste, the appellant would not have levelled
+the allegations? The answer lies in the question itself.
+
+82. A penal statute must receive strict construction. A principle of statutory interpretation embodies
+the policy of the law, which is in turn based on public policy. The court presumes, unless the
+contrary intention appears, that the legislator intended to conform to this legal policy. A principle of
+statutory interpretation can, therefore, be described as a principle of legal policy formulated as a
+guide to the legislative intention.
+
+83. Maxwell in The Interpretation of Statutes (12th Edn.) has observed that “the strict construction
+of penal statutes seems to manifest itself in four ways: in the requirement of express language for
+the creation of an offence; in interpreting strictly words setting out the elements of an offence; in
+requiring the fulfilment to the letter of statutory conditions precedent to the infliction of
+punishment; and in insisting on the strict observance of technical provisions concerning criminal
+procedure and jurisdiction.”
+
+84. William F. Craies in Statute Law (7th Edn. at p. 530) while referring to U.S. v.
+
+Wiltberger [5 L Ed 37 : 18 US (5 Wheat.) 76 (1820)] observes thus:
+
+“The distinction between a strict construction and a more free one has, no doubt, in
+modern times almost disappeared, and the question now is, what is the true
+construction of the statute? I should say that in a criminal statute you must be quite
+sure that the offence charged is within the letter of the law. This rule is said to be
+founded on the tenderness of the law for the rights of individuals, and on the plain
+principle that the power of punishment is vested in the legislature, and not in the
+judicial department, for it is the legislature, not the court, which is to define a crime
+and ordain its punishment.” (Emphasis supplied)
+
+85. In Tuck & Sons v. Priester reported in (1887) 19 QBD 629 (CA), which was followed in London
+and Country Commercial Properties Investments Ltd. v. Attorney General reported in (1953) 1 WLR
+312 : (1953) 1 All ER 436, it was observed thus:
+
+“We must be very careful in construing that section, because it imposes a penalty. If
+there is a reasonable interpretation, which will avoid the penalty in any particular
+case, we must adopt that construction. Unless penalties are imposed in clear terms,
+they are not enforceable. Also, where various interpretations of a section are
+admissible it is a strong reason against adopting a particular interpretation if it shall
+appear that the result would be unreasonable or oppressive.” (Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+38
+
+Shajan Skaria vs The State Of Kerala on 23 August, 2024
+
+86. Blackburn, J. in Willis v. Thorp reported in (1875) LR 10 QB 383 observed that “when the
+legislature imposes a penalty, the words imposing it must be clear and distinct.”
+
+87. We have construed Section 18 of the Act, 1989 keeping in mind the aforesaid principles of
+statutory construction. We are of the view that taking any other view than the one taken by us would
+be unreasonable, oppressive and not in tune with the consecrated principles of our Constitution.
+
+H. CONCLUSION
+
+88. For all the foregoing reasons, this appeal succeeds and is hereby allowed. The impugned order
+passed by the High Court is hereby set aside.
+
+89. We direct that in the event of arrest of the appellant by police in connection with the First
+Information Report No. 899 of 2023 lodged at the Elamakkara Police Station, he shall be released
+on bail subject to terms and conditions, which the Investigating Officer may deem fit to impose.
+
+90. Pending application(s), if any, shall stand disposed of.
+
+…………………………………..J. (J.B. Pardiwala) ………………………………….J. (Manoj Misra) New Delhi
+August 23, 2024
+
+Indian Kanoon - http://indiankanoon.org/doc/80496296/
+
+39
+
+

@@ -1,0 +1,19 @@
+{
+  "case_number": "Arbitration Petition (Civil) No. 38 of 2020",
+  "parties": {
+    "petitioner": "Cox And Kings Limited",
+    "respondent": "SAP India Private Limited & Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-06",
+  "summary": "The case involves the applicability of the 'group of companies doctrine' in arbitration law. The petitioner sought appointment of an arbitral tribunal under Section 11 of the Arbitration and Conciliation Act, 1996, alleging a composite transaction across multiple agreements involving both respondents. The key issue was whether a non-signatory foreign parent company (Respondent No. 2) could be bound by an arbitration agreement between the petitioner and its Indian subsidiary (Respondent No. 1), based on mutual intention and commonality of transaction. The Court emphasized party autonomy, corporate personality, and strict adherence to consent in arbitration, holding that the doctrine cannot override lack of written agreement or implied consent. The Court also considered the impact of moratorium under the Insolvency and Bankruptcy Code on arbitration proceedings.",
+  "legal_provisions_cited": [
+    "Arbitration and Conciliation Act, 1996, Section 7",
+    "Arbitration and Conciliation Act, 1996, Section 11(6)",
+    "Arbitration and Conciliation Act, 1996, Section 11(12)(a)",
+    "Arbitration and Conciliation Act, 1996, Section 16",
+    "Insolvency and Bankruptcy Code, 2016, Section 7",
+    "Chloro Controls India Private Limited v. Severn Trent Water Purification Inc., (2013) 1 SCC 641"
+  ],
+  "final_judgment": "The petition was allowed in part; the Court held that the arbitration could proceed against Respondent No. 1, but declined to extend the arbitration clause to Respondent No. 2, the non-signatory foreign entity, reaffirming that the 'group of companies doctrine' cannot be applied in the absence of clear consent or agreement."
+}

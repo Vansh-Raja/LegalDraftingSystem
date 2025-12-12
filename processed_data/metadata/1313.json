@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. ___________ of 2022 (Arising out of SLP (Civil) No. 21077 of 2019)",
+  "parties": {
+    "petitioner": "Janabai WD/O Dinkarrao Ghorpade & Ors.",
+    "respondent": "M/S. I.C.I.C.I. Lambord Insurance Company Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-10",
+  "summary": "The appellants, legal heirs of the deceased motorcyclist, challenged the Bombay High Court's reversal of a Motor Accident Claims Tribunal award granting compensation. The Supreme Court found the High Court's reliance on criminal standard of proof inappropriate in a summary compensation proceeding under Section 166 of the Motor Vehicles Act, 1988. Key reasoning included acceptance of appellant's delayed FIR due to medical and mental trauma, and the owner's bail bond acknowledging the driver as his employee, indicating vicarious liability. The Court restored the Tribunal's finding of liability and enhanced compensation in line with National Insurance Co. v. Pranay Sethi and recognized spousal/parental consortium, rejecting claims for 'loss of love and affection' per Satinder Kaur.",
+  "legal_provisions_cited": [
+    "Section 166 of the Motor Vehicles Act, 1988",
+    "National Insurance Company Limited v. Pranay Sethi & Ors. (2017) 16 SCC 680",
+    "United India Insurance Company Limited v. Satinder Kaur & Ors. (2021) 11 SCC 780",
+    "Magma General Insurance Co. Ltd. v. Nanu Ram (2018) 18 SCC 130",
+    "Article 142 of the Constitution of India"
+  ],
+  "final_judgment": "Appeal allowed; High Court's order setting aside the award is set aside, liability of the insurer upheld, compensation recalculated and enhanced in accordance with law."
+}

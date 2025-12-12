@@ -1,0 +1,24 @@
+{
+  "case_number": "Civil Appeal Nos. 8822-8823 of 2022 [Arising out of SLP (C) Nos. 10386-10387 of 2020]",
+  "parties": {
+    "petitioner": "The State of Uttar Pradesh",
+    "respondent": "Karunesh Kumar & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-12",
+  "summary": "The State of Uttar Pradesh challenged the Allahabad High Court's decision to allow a writ petition directing the appointment of candidates from a waiting list for the post of Gram Panchayat Adhikari, Group C, despite the recruitment process being conducted under the 2015 Rules, which do not provide for a waiting list. The High Court relied on Rule 15(4) of the 1978 Rules to justify consideration of candidates beyond the original list. The State argued that the 2015 Rules, which mandate recruitment through written examination and interview and contain a non-obstante clause, override the 1978 Rules. The respondents contended that the 1978 Rules, being post-specific, prevail and create a right to consideration from a merit-based waiting list. The Court examined the hierarchy and applicability of statutes, the effect of subsequent rules, and whether candidates could claim a vested right to appointment.",
+  "legal_provisions_cited": [
+    "Uttar Pradesh Gram Panchayat Adhikari Service Rules, 1978, Rule 15(4)",
+    "Uttar Pradesh Direct Recruitment to Group 'C' Posts (Mode and Procedure) Rules, 2015",
+    "Uttar Pradesh Subordinate Services Selection Commission Act, 2014, Section 15",
+    "Government Order dated 15.11.1999",
+    "Article 309 of the Constitution of India",
+    "Ajoy Kumar Banerjee v. Union of India (1984) 3 SCC 127",
+    "Mohan Karan v. State of U.P. (1998) 3 SCC 444",
+    "Surinder Singh v. State of Punjab (1997) 8 SCC 488",
+    "Anupal Singh v. State of U.P. (2020) 2 SCC 173",
+    "Union of India v. G.R. Prabhavalkar (1973) 4 SCC 183",
+    "S.S. Balu v. State of Kerala (2009) 2 SCC 479"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, set aside the impugned judgment of the Allahabad High Court, and held that the 2015 Rules, being later in time and containing a non-obstante clause, override the 1978 Rules. The recruitment process conducted under the 2015 Rules does not provide for a waiting list, and candidates not included in the final merit list forwarded by the Commission are not entitled to appointment. The benefit of Rule 15(4) of the 1978 Rules cannot be extended where a subsequent, inconsistent, and more specific statutory framework governs the recruitment."
+}

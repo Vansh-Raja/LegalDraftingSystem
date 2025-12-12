@@ -1,0 +1,18 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. OF 2023 (@ SPECIAL LEAVE PETITION (CRL.) NO.12216 OF 2022)",
+  "parties": {
+    "petitioner": "Paranagouda and Another",
+    "respondent": "The State of Karnataka and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-10-19",
+  "summary": "The appellants challenged the Karnataka High Court's judgment upholding their conviction under Section 304B, 498A r/w 34 IPC, and Sections 3 and 4 of the Dowry Prohibition Act, based primarily on a dying declaration. The prosecution alleged dowry harassment leading to the deceased's self-immolation. The Trial Court and High Court relied on the dying declaration (Ex.P.45) and medical testimony to affirm conviction. Appellants argued the deceased was physically and mentally incapacitated due to 70-80% burns and incapable of making a voluntary declaration. Multiple prosecution witnesses turned hostile. The Supreme Court evaluated the reliability of the dying declaration, considering medical evidence from PW-31 and PW-32, and the recording procedure by Tahsildar PW-25. It emphasized that a dying declaration can be sole basis for conviction if reliable and properly corroborated.",
+  "legal_provisions_cited": [
+    "Section 304B IPC",
+    "Section 498A IPC",
+    "Section 34 IPC",
+    "Section 3 and 4 of the Dowry Prohibition Act",
+    "Section 313 Cr.P.C."
+  ],
+  "final_judgment": "Appeal dismissed. Conviction and sentence upheld."
+}

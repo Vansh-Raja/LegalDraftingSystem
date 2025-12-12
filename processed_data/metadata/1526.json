@@ -1,0 +1,19 @@
+{
+  "case_number": "Criminal Appeal No. of 2022 [Arising out of SLP (Crl.) No. 10396 of 2019]",
+  "parties": {
+    "petitioner": "Sunita Palita & Others",
+    "respondent": "M/S Panchami Stone Quarry"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-01",
+  "summary": "The appeal challenged the Calcutta High Court's dismissal of a criminal revision petition seeking to quash proceedings under Section 138/141 of the Negotiable Instruments Act, 1881, against three directors of MBL Infrastructure Ltd. The cheque issued by the company in discharge of liability was dishonoured due to 'account closed'. The appellants, non-executive directors, argued that mere averments in the complaint without specific details about their role in day-to-day affairs were insufficient to attract vicarious liability under Section 141. The Supreme Court considered whether personal appearance was necessary and the strict interpretation of penal vicarious liability. Reliance was placed on S.M.S. Pharmaceuticals Ltd. v. Neeta Bhalla to emphasize that only those in charge of and responsible for the company's business can be liable.",
+  "legal_provisions_cited": [
+    "Section 138 of the Negotiable Instruments Act, 1881",
+    "Section 141 of the Negotiable Instruments Act, 1881",
+    "Section 482 of Cr.P.C.",
+    "Section 205 of Cr.P.C.",
+    "Section 305 of Cr.P.C.",
+    "S.M.S. Pharmaceuticals Ltd. v. Neeta Bhalla, (2005) 8 SCC 89"
+  ],
+  "final_judgment": "Leave granted, matter remanded for reconsideration of whether the appellants can be vicariously liable under Section 141 of the NI Act given lack of specific allegations regarding their active role in company affairs."
+}

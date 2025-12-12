@@ -1,0 +1,1725 @@
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+Author: B.R. Gavai
+
+Bench: B.R. Gavai
+
+2024 INSC 502                                                        REPORTABLE
+                                         IN THE SUPREME COURT OF INDIA
+                                           CIVIL ORIGINAL JURISDICTION
+
+                                            ORIGINAL SUIT NO. 4 OF 2021
+
+                            THE STATE OF WEST BENGAL                              ...PLAINTIFF(S)
+                                                             VERSUS
+                            UNION OF INDIA                                       ...DEFENDANT(S)
+
+                                                             INDEX
+                            Sl. No.                 Particulars                         Para Nos.
+                              I.      INTRODUCTION                                        1-3
+                              II.     SUBMISSIONS OF DEFENDANT                            4-14
+                             III.     SUBMISSIONS OF PLAINTIFF                           15-21
+                             IV.      LEGAL FRAMEWORK                                    22-31
+                                        a. Supreme Court Rules, 2013                     22-29
+                                        b. Article 131 of the Constitution
+                                                                                         30-31
+                              V.      JUDICIAL PRECEDENTS                                32-43
+                                        a. State of Bihar v. Union of India              32-33
+                                        b. State of Rajasthan v. Union of
+                                            India                                        34-43
+
+                             VI.      CONSIDERATION                                      44-83
+
+                                         a. Reading of the Plaint                        44-51
+                                         b. Scheme of the DSPE Act
+                                                                                         52-66
+                                         c. Power of superintendence of the
+                                            Central Government                             67
+                                         d. Interpretation   of    the   term
+                                            “subject to the provisions of this           68-77
+                                            Constitution”
+                                         e. Suppression of material fact                 78-79
+   Signature Not Verified
+                                         f. Cause of action of the suit                  80-83
+   Digitally signed by
+   Deepak Singh
+   Date: 2024.07.10
+   12:06:08 IST
+   Reason:
+                             VII.     CONCLUSION                                           84
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+1
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+                                                                  1
+(cid:12)                        JUDGMENT
+
+B.R. GAVAI, J.
+
+I. INTRODUCTION:
+
+1. The present suit has been filed by the State of West Bengal against Union of India
+seeking the following reliefs:
+
+i. “Pass a Judgment and Decree declaring that registration of cases by the Defendant
+after withdrawal of Notification under Section 6 of the DSPE Act by the Plaintiff is
+unconstitutional and non-est;
+
+ii. Pass Judgment and Decree thereby restraining and forbearing the Defendant from
+registering any case and/or investigating a case in connection with offences
+committed within the territory of State of West Bengal after withdrawal of the
+consent under Section 6 of the DSPE Act by the State;
+
+iii. Pass a Judgment and Decree declaring that the action of the Defendant in
+registering cases by the Defendant after withdrawal of Notification under Section 6 of
+the DSPE Act by the Plaintiff is violative of Constitution of India as well as violative of
+the basic structure of the Constitution and the principle of federalism;
+
+iv. Pass a Judgment and Decree thereby quashing all cases registered by the
+Defendant after withdrawal of Notification under Section 6 of the DSPE Act by the
+Plaintiff and transmit those records to the Plaintiff for registration of regular cases by
+the police force of the Plaintiff;
+
+v. Ad-interim order restraining the Defendant from proceeding with any
+investigation on an FIR and any proceeding arising therefrom, registered after
+November 16, 2018 when the consent under Section 6 of the DSPE Act was
+withdrawn by the Plaintiff, other than investigation with respect to an FIR
+filed/registered on an order of a competent court of law;
+
+vi. Pass a Judgment and Decree granting such other and further reliefs that are
+deemed fit in the facts and circumstances of the case.”
+
+2. On filing of the suit, preliminary objections have been raised by the defendant – Union of India
+with regard to the maintainability of the present suit. Through this judgment, we have dealt with the
+contentions of the parties on the aspect of maintainability.
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+2
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+3. For the consideration of the present issue of maintainability, we have heard Shri Tushar Mehta,
+learned Solicitor General of India appearing on behalf of the defendant-Union of India and Shri
+Kapil Sibal, Shri Abhishek Manu Singhvi and Shri Bishwajit Bhattacharya, learned Senior Counsel
+appearing on behalf of the plaintiff-State of West Bengal.
+
+II. SUBMISSIONS OF DEFENDANT:
+
+4. The basic objection with regard to tenability of the suit is based on Article 131 of the Constitution
+of India (for short, “the Constitution”). The learned Solicitor General submitted that, upon
+interpretation of Article 131 of the Constitution, it is clear that the provisions of Article 131 of the
+Constitution are subject to the other provisions of the Constitution. He therefore submitted that,
+since the issue involved in the present lis is also an issue arising in certain appeals pending before
+this Court, under Article 136 of the Constitution, a fresh suit under Article 131 of the Constitution
+would not be tenable. It is submitted that the term “subject to the provisions of this Constitution”
+has to be interpreted as “subject to the other provisions of the Constitution including Article 136”. It
+is therefore submitted that, since the issue with regards to the same subject matter is pending before
+this Court under Article 136 of the Constitution, a suit for the same purpose under Article 131 of the
+Constitution is barred.
+
+5. The learned Solicitor General further submitted that, in various proceedings filed either under
+Article 226 before the High Court or under Article 136 of the Constitution wherein the State of West
+Bengal is a party, the question with regards to the jurisdiction of the Central Bureau of Investigation
+(for short “CBI”) to investigate cases within the State of West Bengal after 16th November 2018, i.e.,
+the date on which the consent under Section 6 of the Delhi Special Police Establishment Act, 1946
+(hereinafter referred to as “DSPE Act”) was withdrawn arises for consideration.
+
+6. While making a reference to the term “subject to the provisions of this Constitution” in Article 131
+of the Constitution, the learned Solicitor General submitted that, since the subject matter of the
+present suit is also pending before this Court or the High Courts under Article 136 or 226 of the
+Constitution respectively, the present suit would not be tenable.
+
+7. The learned Solicitor General further submitted that, perusal of the entire matter would reveal
+that, taking the averments in the plaint at its face value, it can be seen that no cause of action has
+been made out against the defendant to the suit i.e. the Union of India. Shri Mehta submitted that
+all the reliefs including declaration of the registration of cases being unconstitutional, restraining
+and forbearing the defendant from registering any case etc., are all related to the CBI. It is submitted
+that the cases referred to in the plaint are registered at the instance of the CBI and the Union of
+India has no role to play. It is submitted that, though the reliefs are claimed against the CBI, it has
+not been made a party to the suit and that this has been rightly done inasmuch as if the CBI was
+made a party, the suit would not have been maintainable under Article 131 of the Constitution. It is
+submitted that, since the defendant has no role to play in the registration of cases; even if the suit is
+decreed, the said decree would remain unenforceable against the present defendant. Reliance in this
+respect is placed on the judgments of this Court in the cases of Mumbai International Airport
+Private Limited v. Regency Convention Centre and Hotels Private Limited and Others1 and Ram
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+3
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+Kumar v. State of Uttar Pradesh and Others2. It is therefore submitted that the present suit is liable
+to be dismissed on the ground of misjoinder or non- joinder of parties.
+
+8. The learned Solicitor General further submitted that the present suit is also liable to be dismissed
+on the ground of non-laying down of the factual foundation in the suit. It is (2010) 7 SCC 417 : 2010
+INSC 362 2022 SCC OnLine SC 1312 : 2022 INSC 1032 submitted that, unless there is a factual basis
+in the suit itself, no legal arguments arising therefrom can be entertained. Reliance in this respect is
+placed on the judgment of this Court in the case of D.M. Deshpande and Others v. Janardhan
+Kashinath Kadam (Dead) By LRs and Others3 and the judgment of the Privy Council in the case of
+Attorney-General of the Colony of Fiji v. J.P. Bayly Limited4.
+
+9. Shri Mehta further submitted that, Article 131 of the Constitution clearly provides as to who can
+be parties to the suit under Article 131 of the Constitution. He submitted that, even for a moment, if
+it is assumed that CBI is an instrumentality of the State under Article 12 of the Constitution, still the
+suit would not be maintainable. It is submitted that the expanded meaning given to the term ‘State’
+under Article 12 of the Constitution cannot be made applicable to the term ‘Union’ or ‘State’
+mentioned under Article 131 of the Constitution. Reliance in this respect is placed on the
+Constitution Bench judgments of this Court in the cases of State of Bihar v. Union of India and
+(1998) 8 SCC 315 : 1998 INSC 425 1949 SCC OnLine PC 76 Another5, State of Rajasthan and Others
+v. Union of India and Others6 and Tashi Delek Gaming Solutions Limited and Another v. State of
+Karnataka and Others7.
+
+10. The learned Solicitor General further submitted that the dispute, at the most, is between the
+State of West Bengal and the CBI. Reliance in this respect is placed on the judgment of this Court in
+the case of National Textile Corporation Limited v. Nareshkumar Badrikumar Jagad and Others8.
+
+11. Relying on the judgment of this Court in the case of Vineet Narain and Others v. Union of India
+and Another9, the learned Solicitor General further submitted that the responsibility of
+superintendence over the CBI’s functioning has been entrusted with the Central Vigilance
+Commission (for short “CVC”). It is submitted that CVC is an independent body appointed by an
+independent collegium. It is submitted that this Court has clearly emphasized that the CBI has to be
+viewed as a non-partisan agency. It is submitted that no control is vested with the Central (1970) 1
+SCC 67 : 1969 INSC 253 (1977) 3 SCC 592 : 1977 INSC 143 (2006) 1 SCC 442 : 2005 INSC 607 (2011)
+12 SCC 695 : 2011 INSC 651 (1998) 1 SCC 226 : 1997 INSC 826 Government insofar as CBI is
+concerned. The learned Solicitor General submitted that Section 8 of the Central Vigilance
+Commission Act, 2003 (hereinafter referred to as “CVC Act”) would make it clear that the CBI is
+under superintendence of the CVC and not the Union of India. He submitted that the proviso to
+Section 8(1)(b) of the CVC Act makes it clear that even the CVC is not empowered to exercise powers
+in such a manner so as to require the Delhi Special Police Establishment (for short, “DSPE”) to
+investigate or dispose of any case in a particular manner. It is submitted that this Court, in the case
+of Centre for Public Interest Litigation and Others v. Union of India and Others10 held that the
+power of superintendence can neither be used by the CVC for interfering with the manner and
+method of investigation by the CBI nor can the CBI be directed to exercise its powers in a particular
+manner.
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+4
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+12. The learned Solicitor General further submitted that Section 4 of the DSPE Act would also clearly
+reveal that the administration of the CBI is with the CVC and not the Union of India.
+
+(2012) 3 SCC 104 : 2012 INSC 68
+
+13. Shri Mehta further submitted that the plaintiff has suppressed the material fact that most of the
+cases stated in the plaint have been registered on the directions of the High Court issued under
+Article 226 of the Constitution. He submitted that, under Order XXVI Rule 9 of the Supreme Court
+Rules, 2013 (hereinafter referred to as “SC Rules”), the plaintiff, when he sues upon a document in
+his possession, is required to deliver such document or a copy thereof with the plaint and under
+Order XXVI Rule 10 of the SC Rules, the plaintiff, when he relies on any other documents (whether
+in his possession or power or not) as evidence in support of his claim, is required to enter such
+documents in a list to be added or annexed to the plaint. It is submitted that, admittedly, the
+requirements under Order XXVI Rules 9 and 10 of SC Rules have not been fulfilled in the present
+plaint. Relying on the judgment of this Court in the case of S.P. Chengalvaraya Naidu (Dead) by LRs.
+v. Jagannath (Dead) by LRs. and Others11, it is submitted that when a party withholds a vital
+document in order to gain advantage on the other side, then such a party would be guilty of playing
+fraud (1994) 1 SCC 1 : 1993 INSC 344 on the court as well as on the opposite party. He therefore
+submitted that, on this short ground alone, the suit is liable to be dismissed. In addition to S.P.
+Chengalvaraya Naidu (Dead) by LRs. (supra), reliance is placed on the judgments of this Court in
+the cases of Atma Linga Reddy and Others v. Union of India and Others12 and Kazi Lhendup Dorji
+v. Central Bureau of Investigation and Others13. It is therefore submitted that, in view of Order
+XXVI Rule 6 of the SC Rules, the plaint is liable to be rejected.
+
+14. In response to the contention of the plaintiff regarding the defendant not filing an application
+under Order VII Rule 11 of the Code of Civil Procedure, 1908 (hereinafter referred to as “CPC”) is
+concerned, it is submitted that the defendant has taken preliminary objections with regard to the
+maintainability of the suit itself and therefore there is no substance with regard to the said
+submission of the plaintiff.
+
+III.     SUBMISSIONS OF PLAINTIFF:
+
+15. Shri          Sibal,   on   the     contrary    submitted      that,   for
+
+considering         the    question     as   to    whether   the    suit    is
+
+maintainable or not, only the averments made in the plaint (2008) 7 SCC 788 : 2008 INSC 805 1994
+Supp (2) SCC 116 : 1994 INSC 129 will have to be taken into consideration. It is submitted that, only
+the averments made in the plaint can be considered to decide as to whether the plaint discloses any
+cause of action or not. It is submitted that, perusal of the averments made in the plaint would clearly
+reveal that a cause of action has been made out against the defendant – Union of India. It is
+submitted that, perusal of Section 2 of the DSPE Act would reveal that it is the Central Government
+that is empowered to constitute a special police force to be called the DSPE for the investigation of
+offences notified under Section 3 of the DSPE Act. It is submitted that, perusal of Section 3 of the
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+5
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+DSPE Act would also reveal that it is the Central Government that is empowered to specify the
+offences or classes of offences which are to be investigated by the DSPE. He submitted that, perusal
+of sub-section (1) of Section 4 of the DSPE Act would reveal that the superintendence of the DSPE
+vests with the CVC only for the investigation of offences committed under the Prevention of
+Corruption Act, 1988 (hereinafter referred to as “PC Act”). He submitted that sub-section (2) of
+Section 4 clearly reveals that, except what has been provided in sub-section (1) thereof, the
+superintendence of DSPE in all other matters shall vest with the Central Government. He submitted
+that sub-section (3) of Section 4 would reveal that the administration of the said police
+establishment shall vest in an officer appointed in this behalf by the Central Government and that
+such an officer, in respect of the CBI, is entitled to exercise powers exercisable by an Inspector-
+General of Police in respect of the police force in a State.
+
+16. Shri Sibal further submitted that sub-section (1) of Section 5 of the DSPE Act would reveal that it
+is only the Central Government that is empowered to extend to any area (including Railway areas) in
+a State, the powers and jurisdiction of members of the CBI for the investigation of any offences or
+classes of offences specified in a notification under Section 3 of the DSPE Act. He submitted that
+under sub-section (2) of Section 5, a member of the CBI may, when by an order under sub-section
+(1) thereof, the powers and jurisdiction of the CBI are extended to any such area, discharge the
+functions of a police officer in that area. However, this is again subject to any orders which the
+Central Government may make in this behalf. It is submitted that, perusal of sub-section (3) thereof
+would reveal that any member of CBI of or above the rank of Sub-Inspector is entitled to exercise
+the powers of the officer in charge of a police station in that area and when so exercising such
+powers, shall be deemed to be an officer in charge of a police station discharging the functions of
+such an officer within the limits of his station. This is again subject to the orders which the Central
+Government may make in that behalf. It is therefore submitted that the provisions of the DSPE Act
+would reveal that CBI cannot be said to be an instrumentality of a State by giving an expanded
+meaning to the term ‘State’ in Article 12 of the Constitution but is one of the organs of the Union of
+India through which it derives powers to investigate offences.
+
+17. It is further submitted that the power available with the Central Government for extension of the
+jurisdiction of CBI to other areas is subject to the consent of such State Government under Section 6
+of the DSPE Act. It is therefore submitted that if consent is given by a State and subsequently
+withdrawn, then the CBI will not have jurisdiction to exercise the powers in that State.
+
+18. Shri Sibal submitted that grant of consent under Section 6 of the DSPE Act is a privilege. It is the
+discretion of the State as to whether such a privilege is to be granted or not. He submitted that the
+cause of action in the present suit is that, after withdrawal of the consent which was granted under
+Section 6 of the DSPE Act by the plaintiff, the Central Government has no jurisdiction to authorize
+investigating agency (CBI) to register cases in the State of West Bengal.
+
+19. Shri Sibal further submitted that the interpretation sought to be given by the defendant to the
+words “subject to the provisions of this Constitution” as appearing in Article 131 of the Constitution
+is incorrect. It is submitted that the correct interpretation would be that when there is some other
+provision in the Constitution prohibiting this Court from exercising its jurisdiction, then a suit
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+6
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+under Article 131 of the Constitution would not be tenable. He refers to Articles 262 and 279A(11) of
+the Constitution in this regard. He submits that the words “subject to the provisions of this
+Constitution” would not make the present suit non-maintainable.
+
+20. Dealing with the arguments of the learned Solicitor General on Order XXVI Rule 6 of the SC
+Rules, Shri Sibal submitted that the plaint can be rejected only when it either does not disclose a
+cause of action or where the suit appears from the statement in the plaint to be barred by any law. It
+is submitted that neither of the grounds is available in the present case. Insofar as the argument
+with regard to Order XXVI Rules 9 and 10 of the SC Rules are concerned, Shri Sibal submitted that
+there is sufficient compliance with regard to the said provisions.
+
+21. With regard to the allegations regarding suppression, Shri Sibal submitted that, out of so many
+instances listed in the plaint, only one or two cases are registered under the directions of the High
+Court. It is therefore submitted that there is no material suppression as alleged. Shri Sibal therefore
+pressed for rejection of the preliminary objections raised by the learned Solicitor General. IV.
+LEGAL FRAMEWORK:
+
+a. Supreme Court Rules, 2013
+
+22. For appreciating the rival submissions, it will be relevant to refer to Order XXVI Rule 6 of the SC
+Rules, which reads thus:
+
+“Order XXVI Plaints …………
+
+6. The plaint shall be rejected:-
+
+(a) where it does not disclose a cause of action;
+
+(b) where the suit appears from the statement in the plaint to be barred by any law.”
+
+23. It can thus be seen that a plaint is liable to be rejected where it does not disclose a cause of action
+or where the suit appears from the statement in the plaint to be barred by any law.
+
+24. As such, it could be seen that the provisions in Order XXVI Rule 6 (a) and (b) are analogous to
+the provisions in clauses (a) and (d) of Order VII Rule 11 of the CPC.
+
+25. It is a settled position of law that, for considering objections under Order VII Rule 11 (a) and (d)
+of the CPC, what needs to be looked into is only the averments made in the plaint. It is well settled
+that if the averments made in the plaint are germane then the pleas taken by the defendant in the
+written statement would be wholly irrelevant at this stage. Reference in this respect could be made
+to the judgments of this Court in the cases of Saleem Bhai and Others v. State of Maharashtra and
+Others14, Sopan Sukhdeo Sable and Others v. Assistant Charity Commissioner and Others15, Bhau
+Ram v. Janak Singh and Others16 and Chhotanben and Another v. Kirtibhai Jalkrushnabhai
+Thakkar and Others17.
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+7
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+26. In view of the word ‘shall’ used in the provisions, a duty is cast on the court to examine as to
+whether the plaint is hit by any of the infirmities provided in the six clauses of Order VII Rule 11 of
+the CPC. A duty is cast on the court to reject the plaint even without the intervention of the
+defendant. Reference in this respect could be made to the judgment of this Court in the case of
+Sopan Sukhdeo Sable (supra).
+
+27. It is further settled that the averments made in the plaint have to be read as a whole and not in
+isolation. Reference in this respect could be made to the judgment of this Court in the case of
+Kirtibhai Jalkrushnabhai Thakkar (supra).
+
+(2003) 1 SCC 557 : 2002 INSC 554 (2004) 3 SCC 137 : 2004 INSC 56 (2012) 8 SCC 701 : 2012 INSC
+293 (2018) 6 SCC 422 : 2018 INSC 319
+
+28. As already discussed hereinabove, the provisions under Order XXVI Rule 6 of the SC Rules are
+analogous to Order VII Rule 11 (a) and (d) of the CPC. We will have to therefore consider the
+preliminary objections as raised by the defendant in the light of the aforesaid legal provisions.
+
+29. As already observed hereinabove, the word ‘shall’ casts a duty upon the court to consider as to
+whether the plaint is hit by any of the infirmities mentioned in the provision even without the
+intervention of the defendant. As such, we do not find any force in the submission of the plaintiff
+that the objections could not be considered in the absence of an application for the rejection of
+plaint filed by the defendant under Order XXVI Rule 6 of the SC Rules.
+
+b. Article 131 of the Constitution:
+
+30. It will be apposite to refer to Article 131 of the Constitution, which reads thus:
+
+“131. Original jurisdiction of the Supreme Court.- Subject to the provisions of this
+Constitution, the Supreme Court shall, to the exclusion of any other court, have
+original jurisdiction in any dispute-
+
+(a) between the Government of India and one or more States; or
+
+(b) between the Government of India and any State or States on one side and one or
+more other States on the other; or
+
+(c) between two or more States, if and in so far as the dispute involves any question
+(whether of law or fact) on which the existence or extent of a legal right depends:
+
+Provided that the said jurisdiction shall not extend to a dispute arising out of any
+treaty, agreement, covenant, engagement, sanad or other similar instrument which,
+having been entered into or executed before the commencement of this Constitution,
+continues in operation after such commencement, or which provides that the said
+jurisdiction shall not extend to such a dispute.”
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+8
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+31. It is thus clear that the jurisdiction of this Court, subject to the provisions of the Constitution, is
+to the exclusion of any other court. The jurisdiction has to be exercised for any dispute either
+between the Government of India and one or more States; or between the Government of India and
+any State or States on one side and one or more other States on the other; or between two or more
+States. The jurisdiction is also limited insofar as the dispute involves any question (whether of law
+or fact) on which the existence or extent of legal right depends.
+
+V. JUDICIAL PRECEDENTS:
+
+a. State of Bihar v. Union of India:
+
+32. The learned Solicitor General relied on the Constitution Bench judgment of this Court in the case
+of State of Bihar v. Union of India and Another (supra). In the said case, the State of Bihar had filed
+9 suits against the Union of India who was the first defendant in all of the said suits. Whereas in 6
+suits, the second defendant was Hindustan Steel Limited and in 3 others, the second defendant was
+Indian Iron and Steel Company Limited. The cause of action in all the said suits was that “due to the
+negligence or deliberate action of the servants of both defendants, there was a shortage in the
+delivery of iron and steel material ordered by the plaintiff to various sites in the State of Bihar in
+connection with the construction work of the Gandak Project”. It will be relevant to refer to the
+following observations made in the said judgment:
+
+“3. Clauses (a), (b) and (c) of the article specify the parties who can appear as
+disputants before this Court. Under clause (a) it is the Government of India and one
+or more States; under clause (b) it is the Government of India and one or more States
+on one side and one or more other States on the other, while under clause (c) the
+parties can be two or more States without the Government of India being involved in
+the dispute. The specification of the parties is not of an inclusive kind. The express
+words of clauses (a), (b) and (c) exclude the idea of a private citizen, a firm or a
+corporation figuring as disputant either alone or even along with a State or with the
+Government of India in the category of a party to the dispute. There is no scope for
+suggesting that a private citizen, a firm or a corporation can be arrayed as a party by
+itself on one side and one or more States including the Government of India on the
+other. Nor is there anything in the article which suggests a claim being made by or
+preferred against a private party jointly or in the alternative with a State or the
+Government of India. The framers of the Constitution appear not to have
+contemplated the case of a dispute in which a private citizen, a firm or a corporation
+is in any way involved as a fit subject for adjudication by this Court under its
+exclusive original jurisdiction conferred by Article 131.
+
+…………..
+
+9. So far as the proceedings of the Joint Committee on Indian Constitutional Reform
+and the report of the Committee on the same are concerned, they make it clear that
+the object of conferring exclusive original jurisdiction on the Federal Court was that
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+9
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+the disputes of the kinds specified between the Federation and the Provinces as the
+constituent units of the Federation, should not be left to be decided by courts of law
+of a particular unit but be adjudicated upon only by the highest tribunal in the land
+which would be beyond the influence of any one constituent unit.
+
+10. Although Article 131 does not defines the scope of the disputes which this Court
+may be called upon to determine in the same way as Section 204 of the Government
+of India Act, and we do not find it necessary to do so this much is certain that the
+legal right which is the subject of dispute must arise in the context of the constitution
+and the Federalism it sets up. However, there can be no doubt that so far as the
+parties to the dispute are concerned, the framers of the Constitution did intend that
+they could only be the constituent units of the Union of India and the Government of
+India itself arrayed on one side or the other either singly or jointly with another unit
+or the Government of India.
+
+………………
+
+18. It was argued by counsel on behalf of the State of Bihar that so far as the
+Hindustan Steel Limited, is concerned it is “State” and the suits in which the
+Government of India along with Hindustan Steel Limited, have been impleaded are
+properly filed within Article 131 of the Constitution triable by this Court in its original
+jurisdiction. Reference was made to the case of Rajasthan State Electricity Board v.
+Mohan Lal [1967 3 SCR 377] . There the question arose between certain persons who
+were permanent employees of the Government of the State of Rajasthan and later
+placed at the disposal of the State Electricity Board and one of the questions was
+whether the appellant Board could be held to be “State” as defined in Article 12. This
+Court by a majority held that the Board was “other authority” within the meaning of
+Article 12 and therefore was a “state” to which appropriate directions could be given
+under Articles 226 and 227 of the Constitution. It will be noted that under Article 12
+all local or other authorities within the territory of India or under the control of the
+Government of India are “States” for purposes of Part III which defines and deals
+with the Fundamental Rights enshrined in the Constitution. The expression “the
+State” has the same meaning in Part IV of the Constitution under Article 36. No
+reason was shown as to why the enlarged definition of “State” given in Parts III and
+IV of the Constitution would be attracted to Article 131 of the Constitution and in our
+opinion a body like the Hindustan Steel Limited cannot be considered to be “a State”
+for the purpose of Article 131 of the Constitution.” [emphasis supplied]
+
+33. It could be seen that this Court held that the express words of clauses (a), (b) and (c) of Article
+131 of the Constitution exclude the idea of a private citizen, a firm or a corporation figuring as a
+disputant either alone or even along with a State or with the Government of India in the category of
+a party to the dispute. It has been held that the framers of the Constitution did not contemplate a
+dispute in which a private citizen, a firm or a corporation is in any way involved as a fit subject for
+adjudication by this Court under its exclusive original jurisdiction conferred by Article 131 of the
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+10
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+Constitution. It further observed that the legal right which is the subject of dispute must arise in the
+context of the Constitution and the Federalism it sets up. It has been unequivocally held that there
+can be no doubt that so far as the parties to the dispute are concerned, the framers of the
+Constitution did intend that they could only be the constituent units of the Union of India and the
+Government of India itself arrayed on one side or the other, either singly or jointly with another unit
+or the Government of India. The Court then observed that, under Article 12 of the Constitution, all
+local or other authorities within the territory of India or under the control of the Government of
+India are “States” for purposes of Part III of the Constitution which defines and deals with the
+Fundamental Rights enshrined in the Constitution. It further observed that the expression “the
+State” has the same meaning as in Part IV of the Constitution under Article 36. It therefore observed
+that a body like the Hindustan Steel Limited cannot be considered to be “a State” for the purpose of
+Article 131 of the Constitution. A strong reliance has been placed on these observations by the
+learned Solicitor General.
+
+b. State of Rajasthan v. Union of India:
+
+34. The learned Solicitor General strongly relies on the judgment of this Court in the case of State of
+Rajasthan and Others v. Union of India and Others (supra). The brief facts of the said case are as
+under:
+
+“In the elections held in March, 1977, the Janata party had secured overwhelming
+majority in the Lok Sabha. In some of the States, the Congress was continuing in
+power. In view of the complete and unequivocal rejection of the Congress Party, the
+Union Home Minister addressed a communication on 18th April 1977 to nine States
+asking them to advise their respective Governors to dissolve the Assemblies and seek
+a fresh mandate from the people. Some of the States had filed suits before the
+Supreme Court praying for a declaration that the letter of the Union Home Minister
+was illegal and ultra vires of the Constitution of India and not binding on the
+plaintiffs and prayed for an interim injunction restraining the Central Government
+from restoring to Article 356 of the Constitution. Preliminary objections were raised
+on behalf of the defendant – Union of India against the maintainability of the suits
+under Article 131 of the Constitution of India. The preliminary objections were raised
+on two grounds. The first was that under Article 131 of the Constitution of India, the
+‘State’ and not the ‘State Government’ should be a party. The second was that the
+present matter did not involve a legal dispute.”
+
+35. It will be apposite to refer to the following paragraphs of the said judgment of Y.V. Chandrachud,
+J. (as His Lordship then was):
+
+“108. The absence of the expression “State Government” and the use in its place of
+the expression “State” in Article 131, is said to furnish intrinsic evidence that for a suit
+to fall under that article, the dispute must arise between the Government of India and
+a State, not between the Government of India and the Government of a State. The
+intrinsic evidence, it is argued, assumes greater credibility in the context that the
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+11
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+article does employ the expression “Government of India” when what was meant was
+the government, as contra distinguished from the State. The presence of the
+particular expressions in Article 131 does not, in my opinion, support the inference
+suggested on behalf of the Union of India. The use of the phrase “Government of
+India” in Article 131(a) and (b) does not mean that one party to the dispute has to be
+the Government of the day at the Centre. “Government of India” means “Union of
+India” because if there be merit in the logic that Article 131 does not comprehend
+disputes in which the Government of a State as contrasted with the State itself is
+interested, it must follow that correspondingly, the “Government of India” too cannot
+mean the Government for the time being in power at the Centre. The true
+construction of Article 131(a), true in substance and true pragmatically, is that a
+dispute must arise between the Union of India and a State.
+
+109. This may sound paradoxical because if the preliminary objection is
+unsustainable, it would be easier to say that the expression “Government of India”
+means “Government in office” and the expression “State” means the State as a polity
+and not “the Government in Office”. But convenient interpretations are apt to blur
+the significance of issues involved for interpretations. Therefore, the effort has to be
+to accept what the words truly mean and to work out the constitutional scheme as it
+may reasonably be assumed to have been conceived.
+
+110. The dispute between the Union of India and a State cannot but be a dispute
+which arises out of the differences between the Government in office at the Centre
+and the Government in office in the State. “In office” means “in power” but the use of
+the latter expression may prudently be avoided with the realisation of what goes with
+power. But there is a further prerequisite which narrows down the ambit of the class
+of disputes which fall within Article 131. That requirement is that the dispute must
+involve a question, whether of law or fact, on which the existence or extent of a legal
+right depends. It is this qualification which affords the true guide for determining
+whether a particular dispute is comprehended within Article
+
+131. Mere wrangles between governments have no place in the scheme of that article.
+They have to be resolved elsewhere and by means less solemn and sacrosanct than a
+court proceeding. The purpose of Article 131 is to afford a forum for the resolution of
+disputes which depend for their decision on the existence or extent of a legal right. It
+is only when a legal, not a mere political, issue arises touching upon the existence or
+extent of a legal right that Article 131 is attracted.
+
+…………..
+
+113. I find it difficult to accept that the State as a polity is not entitled to raise a
+dispute of this nature. In a federation, whether classical or quasi-classical, the States
+are vitally interested in the definition of the powers of the Federal Government on
+one hand and their own on the other. A dispute bearing upon the delineation of those
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+12
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+powers is precisely the one in which the federating States, no less than the Federal
+Government itself, are interested. The States, therefore, have the locus and the
+interest to contest and seek an adjudication of the claim set up by the Union
+Government. The bond of constitutional obligation between the Government of India
+and the States sustains that locus.
+
+114. The expression “legal right” which occurs in Article 131 has to be understood in
+its proper perspective. In a strict sense, legal rights are correlative of legal duties and
+are defined as interests which the law protects by imposing corresponding duties on
+others. But in a generic sense, the word “right” is used to mean an immunity from the
+legal power of another: immunity is exemption from the power of another in the
+same way as liberty is exemption from the right of another. Immunity, in short, is
+“no-subjection”. [ Salmond's Jurisprudence 11th Edn. pp. 276-7] R.W.M. Dias says in
+his “Jurisprudence” (1976 Edn., pp. 33-4) that the word “right” has undergone
+successive shifts in meaning and connotes four different ideas concerning the
+activity, or potential activity, of one person with reference to another.
+
+One of these four jural relationships, according to the learned Author, is the “you cannot”
+relationship, which is the same thing as the right of immunity which “denotes freedom from the
+power of another” (p. 58). Paton's book on Jurisprudence (3rd Edn. p.
+
+256) contains a similar exposition of legal rights. The legal right of the States consists in their
+immunity, in the sense of freedom from the power of the Union Government. They are entitled,
+under Article 131, to assert that right either by contending in the absolute that the Centre has no
+power to dissolve the Legislative Assemblies or with the qualification that such a power cannot be
+exercised on the ground stated.
+
+115. It is true that the State, like the British Monarch, never dies. A Legislative Assembly may be
+dissolved, a Council of Ministers may go out of power, the President's rule may be introduced or
+imposed, or an emergency may be declared which can conceivably affect the States' powers in
+matters legislative and executive. The State survives these upheavals. But it is constitutionally
+unsound to say that the State, as a political entity, has no legal interest in such cataclysmic events
+and no legal rights to assert in relation thereto. Were it so, which then are the legal rights which the
+State, as distinguished from its Government, can agitate under Article 131? Whatever be the nature
+of the claim, the argument can always be put forward that the Government, not the State, is
+interested in making that claim. Such a rigid interpretation of the scope of Article 131 will virtually
+reduce it to a dead-letter and destroy a precious safeguard against the use of arbitrary power. The
+interpretation canvassed by the learned Additional Solicitor General must, therefore, be avoided,
+Insofar as the language of the article permits it which in my opinion it does.
+
+……….
+
+117. The judgment of this Court in State of Bihar v. Union of India [(1970) 1 SCC 67 : (1970) 2 SCR
+522] affords no real assistance on the question arising before us. In that case, the Court raised three
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+13
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+issues in the suits filed under Article 131. The first issue which related to the question whether the
+suits were within the scope of Article 131 was not answered by the Court because it held on the
+second issue that the suits were not maintainable, since a private party was impleaded thereto. The
+only assistance which may be derived from the judgment in that case is that it said that the disputes
+under Article 131 should be “in respect of legal rights and not disputes of a political character” and
+that though it was unnecessary to define the scope of Article 131, “this much is certain that the legal
+right which is the subject of dispute must arise in the context of the Constitution and the Federalism
+it sets up” (p. 529). These observations do not affect the construction which I have placed on Article
+131. I have endeavoured to show that it is competent to the State Governments to bring suits of the
+present nature under that article and that by these suits, the State Governments are raising a legal,
+not a political, issue. Their assertion is that the Government of India does not possess the
+constitutional power claimed by it and therefore, this Court should declare that they are immune
+from the exercise of that power. The States assert their legal right of immunity which, as explained
+above, denotes freedom from the power of another.” [emphasis supplied]
+
+36. It could thus be seen that Justice Chandrachud observed that the true construction of Article
+131(a), true in substance and true pragmatically, is that a dispute must arise between the Union of
+India and a State. His Lordship further observed that the dispute between the Union of India and a
+State cannot but be a dispute which arises out of the differences between the Government in office at
+the Centre and the Government in office in the State. It was further held that the further
+requirement for a dispute to fall within the ambit of the classes of disputes under Article 131 of the
+Constitution is that the dispute must involve a question, whether of law or fact, on which the
+existence or extent of a legal right depends. It was further observed that mere wrangles between
+governments have no place in the scheme of that article. His Lordship further held that the purpose
+of Article 131 is to afford a forum for the resolution of disputes which depend for their decision on
+the existence or extent of a legal right. It has been held that it is only when a legal, not a mere
+political issue arises touching upon the existence or extent of a legal right that Article 131 of the
+Constitution is attracted.
+
+37. Justice Chandrachud specifically rejected the contention that the State as a polity was not
+entitled to raise a dispute of the nature raised herein. His Lordship observed that in a federation,
+whether classical or quasi-classical, the States are vitally interested in the definition of the powers of
+the Federal Government on one hand and their own on the other. A dispute bearing upon the
+delineation of those powers is precisely the one in which the federating States, no less than the
+Federal Government itself, are interested. It was also observed that the States therefore have the
+locus and the interest to contest and seek an adjudication of the claim set up by the Union
+Government. The bond of constitutional obligation between the Government of India and the States
+sustains that locus. His Lordship further observed that the legal right of the States consists in their
+immunity, in the sense of freedom from the power of the Union Government. It has been held that
+the States are entitled, under Article 131, to assert that right either by contending in the absolute
+that the Centre has no power to dissolve the Legislative Assemblies or with the qualification that
+such a power cannot be exercised on the ground stated. It has been held that it is constitutionally
+unsound to say that the State, as a political entity, has no legal interest in such cataclysmic events
+and no legal rights to assert in relation thereto. The Court specifically rejected the argument on the
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+14
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+rigid interpretation of the scope of Article 131 and observed that if such an interpretation was to be
+accepted, it would virtually reduce it to a dead-letter and destroy a precious safeguard against the
+use of arbitrary power.
+
+38. After referring to the judgment in the case of State of Bihar v. Union of India and Another
+(supra), His Lordship observed that, in the said case, the Court held that on the second issue, the
+suits were not maintainable since a private party was impleaded thereto. His Lordship further
+observed that the only assistance that could be derived from the said judgment was that the disputes
+under Article 131 should be “in respect of legal rights and not disputes of a political character”. His
+Lordship further observed that the assertion of the States was that the Government of India did not
+possess the constitutional power claimed by it and therefore, this Court should declare that they are
+immune from such exercise of that power.
+
+39. With the aforesaid observations, the Court rejected the preliminary objections with regard to
+maintainability of the suits therein. Justice Chandrachud, further observed thus:
+
+“138. That takes us to the question of maintainability of the suits. There are six suits
+before us filed by the States of Rajasthan, Madhya Pradesh, Punjab, Bihar, Himachal
+Pradesh and Orissa. Each of these suits has been filed under Article 131 of the
+Constitution. This Article confers original jurisdiction on the Supreme Court, to the
+exclusion of all other courts, in respect of certain categories of suits and is in the
+following terms:
+
+“131. Subject to the provisions of this Constitution, the Supreme Court shall, to the
+exclusion of any other court, have original jurisdiction in any dispute—
+
+(a) between the Government of India and or more States; or
+
+(b) between the Government of India and any State or States on one side and one or
+more other States on the other; or
+
+(c) between two or more States, if and insofar as the dispute involves any question
+(whether of law or fact) on which the existence or extent of a legal right depends:
+
+Provided that the said jurisdiction shall not extend to a dispute arising out of any
+treaty, agreement, covenant, engagement, sanad or other similar instrument which
+having been entered into or executed before the commencement of the Constitution,
+continues in operation after such commencement, or which provides that the said
+jurisdiction shall not extend to such a dispute.” There are two limitations in regard to
+the nature of the suit which can be entertained by the Supreme Court under this
+Article. One is in regard to parties and the other is in regard to the subject-matter.
+The Article provides in so many terms in clauses (a), (b) and (c) that the dispute must
+be between the Government of India and one or more States, or between the
+Government of India and any other State or States on one side and one or more other
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+15
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+States on the other, or between two or more States. It does not contemplate any
+private party being arrayed as a disputant on one side or the other. The parties to the
+dispute must fall within one or the other category specified in clauses (a), (b) and (c).
+That was established by a decision of this Court in State of Bihar v. Union of India
+[(1970) 1 SCC 67 : (1970) 2 SCR 522] where this Court pointed out:
+
+“a dispute which falls within the ambit of Article 131 can only be determined in the
+forum mentioned therein, namely, the Supreme Court of India, provided there has
+not been impleaded in any said dispute any private party, be it a citizen or a firm or a
+corporation along with a State either jointly or in the alternative. A dispute in which
+such a private party is involved must be brought before a court, other than this court,
+having jurisdiction over the matter.” This is the limitation as to parties. The other
+limitation as to subject-matter flows from the words “if and insofar as the dispute
+involves any question (whether of law or fact) on which the existence or extent of a
+legal right depends”. These words clearly indicate that the dispute must be one
+relating to a legal right and not a dispute on the political plans not based on a legal
+right, for instance, to take an example given by Mr Seervai in his well known work on
+“Constitutional Law of India” at p. 1385: “a claim that a State project should be
+included in the Five- Year Plan.” The dispute must, therefore, involve assertion or
+vindication of a legal right of the Government of India or a State. It is not necessary
+that the right must be a constitutional right. All that is necessary is that it must be a
+legal right. It is true that in the State of Bihar v. Union of India this Court, while
+discussing the scope of the dispute which may be determined by the Supreme Court
+under Article 131, happened to make an observation that “this much is certain that
+the legal right which is the subject of dispute must arise in the context of the
+Constitution and the federalism it sets up”. But this observation, Insofar as it
+suggests that the “legal right” must be one which arises under the Constitution, goes
+much further than what the language of Article 131 warrants. The Article speaks only
+of “legal right” and does not qualify it by any other words. It may be noted that the
+provision in the corresponding Section 204 of the Government of India Act, 1935 was
+significantly different. It contained a proviso that the dispute must inter alia concern
+the interpretation of the Government of India Act, 1935 “or of an Order in Council
+made thereunder or the extent of the legislative or executive authority vested in the
+Federation by virtue of the Instrument of Accession of that State”. This provision has
+been deliberately and designedly omitted in Article 131 and now any legal right can be
+enforced by a suit in the Supreme Court provided the parties fill the character
+specified in clauses (a), (b) and (c). The question which therefore requires to be
+considered in determining the maintainability of the suits is whether any legal right
+of the States is sought to be vindicated in the suits. We shall presently consider this
+question, but before we do so, we must point out one other error in which, with the
+greatest respect, the learned Judges who decided the case of State of Bihar v. Union
+of India seem to have fallen. They held that in a suit under Article 131 the only order
+which the Supreme Court could make was a declaration adjudicating on the legal
+right claimed in the suit and once such a declaration was given, the function of the
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+16
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+Supreme Court under Article 131 was at an end. If this conclusion were correct, then
+obviously the present suits seeking permanent injunction restraining the
+Government of India from issuing a proclamation under Article 356 clause (1) could
+not lie and equally no interim injunction could be granted by this Court, but the
+learned Additional Solicitor General, with his usual candour and fairness, conceded
+that he was not in a position to support this view. This view seems to be erroneous
+and for two very good reasons. In the first place, it overlooks the fact that whereas
+sub-section (2) of Section 204 of the Government of India Act, 1935 provided that the
+Federal Court, in exercise of its original jurisdiction, shall not pronounce any
+judgment, other than a declaratory judgment, no such provision limiting the power of
+the Supreme Court in regard to the relief to be granted is to be found in Article 131.
+The power of the Supreme Court to grant relief in a suit under Article 131 is not
+restricted only to “declaratory judgment”.
+
+Secondly, as pointed out by Mr Seervai in his book at p. 1385, “when a court is given exclusive
+jurisdiction in respect of a dispute between the parties, it is reasonable to hold that the Court has
+power to resolve the whole dispute”, unless its power is limited by express words or by necessary
+implication. There is no such limitation in Article 131 and hence it is not correct to say that the
+Supreme Court can only give a declaratory judgment in a suit under Article 131. The Supreme Court
+would have power to give whatever reliefs are necessary for enforcement of the legal right claimed in
+the suit if such legal right is established.” [emphasis supplied]
+
+40. It could thus be seen that His Lordship approved the ratio in State of Bihar v. Union of India and
+Another (supra) to the effect that the suit under Article 131 of the Constitution does not contemplate
+any private party being arrayed as a disputant on one side or the other. It held that the parties to the
+dispute must fall within one or the other category specified in clauses (a), (b) and (c) of Article 131 of
+the Constitution.
+
+41. His Lordship disapproved the observations made in the case of State of Bihar v. Union of India
+and Another (supra) to the effect that “this much is certain that the legal right which is the subject of
+dispute must arise in the context of the Constitution and the federalism it sets up”. His Lordship
+held that the suggestion that the legal right must be one which arises under the Constitution, goes
+much further than what the language of Article 131 of the Constitution warrants.
+
+42. Justice Chandrachud further pointed out that, under the Government of India Act, 1935, Section
+204 provided that the dispute must inter alia concern the interpretation of the Government of India
+Act, 1935 or of an Order in Council made thereunder or the extent of the legislative or executive
+authority vested in the Federation by virtue of the Instrument of Accession of that State. It has been
+observed that the said provisions have been deliberately and designedly omitted in Article 131 of the
+Constitution and now any legal right can be enforced by a suit in this Court provided the parties fill
+the character specified in clauses (a), (b) and (c) of Article 131 of the Constitution. What is required
+to be considered is that in determining the maintainability of the suits, whether any legal right of the
+States is sought to be vindicated or not. His Lordship, in paragraph 142, specifically observed that
+the suits for consideration before it sought to enforce a legal right of the States arising under the
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+17
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+Constitution and the suits could not be thrown out in limine as being outside the scope and ambit of
+Article 131 of the Constitution. The same view has been taken by Justice P.K. Goswami in paragraph
+159 with regard to parties that may be impleaded in a suit under Article 131 of the Constitution as
+well as with regard to the subject matter of the litigation.
+
+43. In the light of the law laid down in the case of State of Rajasthan and Others v. Union of India
+and Others (supra), which is a judgment of seven Judges of this Court, we will have to examine the
+rival submissions. VI. CONSIDERATION:
+
+a. Reading of the Plaint:
+
+44. As observed hereinabove, in a catena of judgments, it has been held that for considering the
+preliminary objections, only the averments made in the plaint are to be looked into to determine as
+to whether a cause of action has been made out or not. In that regard, it will be relevant to refer to
+some of the paragraphs in the plaint, which read thus:
+
+“3. Article 246(1) empowers the Parliament with exclusive power to make laws with
+respect to any of the matters enumerated in List I, Seventh Schedule (known as the
+Union List). Entry 80, List I is relevant in this regard:
+
+“80. Extension of the powers and jurisdiction of members of a police force belonging
+to any State to any area outside that State, but not so as to enable the police of one
+State to exercise powers and jurisdiction in any area outside that State without the
+consent of the Government of the State in which such area is situated; extension of
+the powers and jurisdiction of members of a police force belonging to any State to
+railway areas outside that State.”
+
+4. That the police powers come within the State’s exclusive jurisdiction is also
+recognized in Article 246(3) of the Constitution, which provides that the State has
+exclusive power to make laws for such state for any of the matters enumerated in List
+II.
+
+Specifically, of such matters, Entry 1 and Entry 2 are relevant which are:
+
+“1. Public order (but not including the use of any naval, military or air force or any
+other armed force of the Union or of any other force subject to the control of the
+Union or of any contingent or unit thereof in aid of the civil power).
+
+2. Police (including railway and village police) subject to the provisions of entry 2A of
+List I.”
+
+5. Entries 1 and 2 of List II, the Seventh Schedule to the Constitution of India thus
+prescribe that public order and the police are exclusive subject matters of the
+concerned State. Further Entry 80, List I, ensures that the Union/Center does not
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+18
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+transgress into the jurisdiction of the State without permission of the concerned
+State.
+
+6. The CBI which draws its powers under the DSPE Act has acted in violation of the
+aforementioned Constitutional provisions and the DSPE Act. The DSPE Act, as its
+preamble provides, was enacted to make provisions for the constitution of a Special
+‘Police Force’ in Delhi for the investigation of certain offences in the Union Territory,
+for the superintendence and administration of the said Force and for the extension of
+its powers and jurisdiction in regard to the investigation of the said offences. Section
+2 of the DSPE Act provides for constitution of the force, Section 3 thereof prescribes
+the offence which are to be investigated by CBI; Section 5 of DSPE Act provides
+extension of power and jurisdiction of CBI into any area (including a railway area) in
+a State;
+
+Section 6 thereof expressly provides that the force/CBI is required to obtain the consent of the
+concerned State in case of exercise of such power in terms of Section 5 of the DSPE Act.
+
+7. Section 6 of the DSPE Act is the statutory recognition of the principle of federalism which forms a
+part of the basic structure of the Constitution of India, as also protected under Entry 80, List I and
+Entries 1 and 2, List II, Constitution of India. In absence of Section 6 in the statute book, the piece of
+legislation would have attracted the vice of unconstitutionality.
+
+8. Any act of the CBI in violation of Section 6, DSPE Act, strikes at the roots of federalism, which
+this Hon’ble Court in S.R. Bommai v. Union of India, 1994 SCC (3) 1, has held to be a part of the
+Constitution’s basic structure. Therefore, the CBI’s exercise of powers by violating Section 6, DSPE
+Act, subverts the basic structure of the Constitution.
+
+9. Under the Constitution, a threefold distribution of legislative power by the three Legislative Lists
+in the Seventh Schedule to the Constitution of India has been conceptualized (vide Article 246). List
+II of the Seventh Schedule to the Constitution of India is the part and parcel of a single
+constitutional instrument envisaging a federal scheme. It thus confers plenary power on the State to
+legislate on certain exclusive subject matters which includes “public order” and “police” in a State.
+
+10. Section 6 of the DSPE Act is a component of such federalism that provides for a prior approval of
+the State in case Centre wishes to transgress in the territory of the State and usurping the powers of
+the police force of the State.
+
+11. The provision of Section 6 therefore, assumes immense significance and therefore, cannot be
+ignored and violated by the Defendant. Any such attempt on the part of the Defendant would cause
+an inroad to the constitutionalism and therefore, this Hon’ble Court being the conscience keeper of
+the Constitution ought not to permit the Defendant to do so.
+
+12. In State of West Bengal and others v.
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+19
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+Committee for Protection of Democratic Right, West Bengal and others reported in (2010) 3 SCC
+571, this Hon’ble Court held that although Section 5(1), DSPE Act empowers the Central
+Government to extend power and jurisdiction of members of the DSPE force to any area in a State,
+Section 6 imposes a restriction on such power of the Central Government requiring it to obtain the
+consent of the concerned State Government. This Hon’ble Court further held that the only exception
+is when either the Hon’ble High Courts or this Hon’ble Court, in exercise of its jurisdiction under
+Article 226 or 32 of the Constitution, respectively, directs the CBI to investigate a cognizable offence
+allegedly to have been committed within the territory of a state without the consent of that
+particular state; such direction under Articles 226 or 32 of the Constitution will neither impinge
+upon the federal structure of the Constitution nor violate the doctrine of separation of power, and
+shall be valid in law.
+
+13. In the instant proceeding, the Plaintiff is challenging the act of the defendant in registering suo
+moto cases for offences that have occurred within the territory of the plaintiff dehors any direction
+from any competent court or prior consent granted by the Plaintiff.
+
+14. In this regard, Section 6 of the DSPE Act is crucial since it requires prior consent of the State
+Government for exercising power and jurisdiction under the DSPE Act by CBI to any area in a State
+not having Union Territory or Railways. Before the provision of DSPE Act are invoked to authorize
+the CBI to exercise its power and jurisdiction within any State, the following conditions are to be
+specified compulsorily.
+
+i) A notification must be issued by the Central Government specifying the offences to be investigated
+by CBI (Section 3);
+
+ii) An order must be passed by the Central Government extending power and jurisdiction of CBI to
+any area (including railway area) in a State not being an Union Territory in respect of offences
+specified under Section 3 (Section 5); and
+
+iii) Consent of the State Government must be obtained for the exercise of power by CBI in the
+concerned State (Section 6).
+
+15. Thus, from a plain reading of the law, it is evident that the CBI does not have any inherent
+jurisdiction in any area in a State including a railway area. The DSPE has to mandatorily meet the
+requirements of Section 3 and Section 5, DSPE Act, and thereafter its powers become subject to the
+consent of the State under Section 6, DSPE Act.
+
+16. This Hon’ble Court has held that fulfillment of all three conditions under Sections 3,5, and 6 are
+required prior to the CBI exercising its powers in any State (M. Balakrishna Reddy v. CBI, (2008) 4
+SCC 409).
+
+17. On February 18, 1963, the Defendant under Section 3 (1) of the DSPE Act notified a class of
+offences, wherein, the power to investigate given to be vested with CBI. On February 18, 1963, by
+order No. 25/12/6-AVD-II, issued by Ministry of Home Affairs, Government of India Act, under
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+20
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+Section 5, DSPE Act extended jurisdiction of members of the Delhi Special Police Establishment to
+various states, including the State of West Bengal.
+
+18. On August 2, 1989, in exercise of its powers under Section 6, DSPE Act, the Plaintiff vide
+Notification being G.O. No. 6845-PL/PE/2A- 10/88, accorded its consent to CBI to exercise the
+power and jurisdiction within the territory of the State of West Bengal for certain offences, except
+for public servants employed in connection with the affairs of the State or any Authority controlled
+or aided wholly or partly by the State Government for which the specific request and with the prior
+concurrence of the State Government was required.
+
+19. On November 16, 2018, the Plaintiff, in exercise of its powers under Section 6, DSPE Act,
+withdrew the aforesaid consent accorded vide G.O. No. 6845-PL/PE/2A-10/88 dated August 2,
+1989. Thus, the Plaintiff, during the period August 2, 1989 to November 16, 2018, had given a
+limited consent to the CBI to investigate certain offences pertaining to persons who were not
+employed in connection with the affairs of the State Government/authority controlled or aided by
+the State Government. However, after November 16, 2018, the CBI would have been required to
+obtain the prior and specific consent of the Plaintiff for exercise of any power under the DSPE Act in
+the State of West Bengal.
+
+…………
+
+21. The cause of action for filing this suit thus does not arise from any one particular event or case
+but arises due to the fact that the CBI, despite the withdrawal of consent by the State under Section
+6, DSPE Act, has registered cases and has been exercising its powers under the DSPE Act in an
+unconstitutional manner. This impacts many cases and investigation of offences that ought to be
+done by the State Police. The details of some of the cases registered by the CBI without obtaining
+consent of the Plaintiff, which gives rise to a continuing cause of action, are as follows:
+
+Sl. No. Date of Registration Regular Case No.
+
+1. 17/11/2018 RC0102018A0011
+
+2. 19/11/2018 RC0102018A0012
+
+3. 23/08/2019 RC0562019S0004
+
+4. 30/09/2019 RC0562019S0005
+
+5. 21/09/2020 RC0102020A0018
+
+6. 21/09/2020 RC0102020A0019
+
+7. 22/09/2020 RC0102020A0020
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+21
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+8. 19/10/2020 RC0102020A0021
+
+9. 27/11/2020 RC0102020A0022
+
+10. 07/12/2020 RC0102020A0023
+
+11. 29/01/2021 RC0732021E0001
+
+12. 15/06/2021 RC0102021A0003
+
+22. All of the abovementioned FIRs concern offences under laws such as the Indian Penal Code 1860
+and/or Prevention of Corruption Act, 1988, all of which the State/Kolkata Police is empowered to
+investigate by statute. Therefore, the CBI in exercising its powers under the DSPE Act, without the
+requisite State consent is not only violating Section 6, DSPE Act, but also usurping and ousting
+State/Kolkata Police’s statutory jurisdiction over such offences.
+
+23. Such action of the Defendant violates the Constitutional provisions, the DSPE Act, and derogates
+from the doctrine of federalism. By registration of these cases, the Defendant herein has rendered
+the provisions under Section 6 of the DSPE Act nugatory.
+
+24. The requirement of obtaining consent of the concerned state to enable CBI to investigate in the
+said state under section 6 of the DSPE Act aligns with the principles of federalism as envisaged in
+the constitution which has vested the state with the power to exercise exclusive jurisdiction by
+making laws with respect to police under Entry 2 of the State List of the Seventh Schedule read with
+Article 246(3) of the Constitution of India.
+
+………….
+
+29. In accordance with the provisions of Constitution and the law interpreted by this Hon’ble Court,
+the Plaintiff State will suffer grave constitutional prejudice in case the Defendant is allowed to
+operate its own police force within the State of West Bengal in absence of previous approval of the
+Plaintiff State. Thus, there exists a dispute, involving of question of law and fact, between the
+Plaintiff State of West Bengal and the Defendant Union of India, regarding the encroachment of
+jurisdiction and encroachment of legal rights as a State and as well as for the enforcement of the
+fundamental, statutory constitutional and other legal rights of the State of West Bengal. Hence, this
+Original Suit under Article 131 of the Constitution of India is being preferred.
+
+30. The action of the Defendant is an act of constitutional overreach inasmuch as by registering
+cases within the State of West Bengal in absence of the consent of the Plaintiff, the Defendant has
+exceeded its jurisdiction and has acted contrary to the scheme of Constitution and DSPE statute.
+
+31. Such action of the Defendant also violates the law laid down by this Hon’ble Court that no
+investigation can be conducted within the territory of a State in absence of consent under Section 6
+of the DSPE Act (see Kazi Lehendup Dorji v. CBI, & Ors 1994 Supp (2) SCC 116 (para 4,9,17);
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+22
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+Subramanian Swami v. CBI 2014 (8) SCC 682 (Para 67,68); State of West Bengal v. Committee for
+Protection of Democratic Right, West Bengal & Ors. 2013(3) SCC 571 (Para 35,37); Mayawati v.
+Union of India (2012) 8 SCC106 (Para 9, 30, 41, 44); A.C Sharma v. Delhi Administration, 1973 (1)
+SCC 726 (Para 13); M Balakrishnan v. Director, CBI Delhi 2008 (4) SCC 409 (Para 18, 19)).
+
+32. It is well settled that when differences arise between the representative of the State and that of
+the Union on questions of interpretation of the Constitution and law which may affect the welfare of
+the whole people and particularly that of the people of the State concerned, a suit under Article 131
+of the Constitution lies. Given the aforesaid statutory obligation of the Defendant, the Plaintiff being
+the repository of people on the subject of law and order in State, the Defendant cannot cause
+investigation into the offences in the State. Since there cannot be two parallel investigations in
+respect of the same offence, the registration of FIRs by the Defendant precludes the State from
+initiating appropriate action on the allegations of this subject. As a consequence thereof, the Plaintiff
+fails to adhere to the constitutional obligation.
+
+33. Article 131 of the Constitution provides for independent adjudication in case of federal disputes
+and should be widely and generously interpreted to advance the intended remedy. It can be invoked
+whenever a State and other States or Union differ on a question of interpretation of constitution or
+law so that a decision of it will affect the scope and exercise of the governmental powers which are
+attributes of a State. The jurisdiction conferred on this Hon’ble Court under Article 131 of the
+Constitution should not be tested on the anvil of banal rules which are applied under the provisions
+of Code of Civil Procedure for determining whether a suit is maintainable.
+
+34. The Constitution aims at maintaining a fine balance not only between the legislature, the
+executive and the judiciary, but also between the powers of the Union and State, as demonstrated by
+the Legislative Lists and the executive power of the Central Government and the State Governments
+in part XI of the Constitution. This is a delicate relationship particularly if different political parties
+are in power in the Centre and in the States. The object of the Articles 245-246 is to ensure that the
+Central Government and State Governments act within the respective spheres of their authority and
+do not transgress upon each other’s constitutional functions or powers.
+
+…………
+
+36. This present suit is being filed to challenge the constitutionality of the actions of the defendant.
+Thus, a suit under Article 131 of the Constitution of India challenging the constitutionality of the
+impugning the action of the Defendant at the instance of a constituent State of the Union is
+maintainable.
+
+37. A proceeding under Article 131 of the Constitution stands in sharp contrast with an ordinary suit.
+The proceedings are adjudicatory of the limits of the constitutional power vested in the Central and
+the State Governments. The competition in such a proceeding is between two or more Governments
+either the one or the other of which possesses the constitutional power to act.
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+23
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+38. While mere wrangles between the Governments have no place under the scheme, when legal as
+distinct from a mere political issue arises touching upon the existence or extent of the legal right the
+article is attracted. There is a distinction between “State” and “State Government”. When a right or
+capacity or lack of it attributed to any institution of person acting on behalf of the State, it raises a
+matter in which the State is involved or concerned. The State would therefore be affected by any
+unconstitutional exercise of power by the Central Government. The word “right” in Article 131 of the
+Constitution is used in a generic sense. If the State claims to be entitled to legislative exclusivity on a
+particular matter on the ground that it falls within List II of Seventh Schedule and the Union of
+India questions this right, despite the constitutional restriction under Entry 80, List I, the dispute is
+one relating not to not only the right of the State in the strict sense of the term but also of the liberty
+of the State, and the same would directly come within the scope of Article 131 of the Constitution. It
+is therefore, evident that the present suit is maintainable by the Plaintiff against the Defendant
+before this Hon’ble Court under Article 131 of the Constitution. The plaintiff has not filed any other
+similar suit claiming the same reliefs before this Hon’ble Court or any other Court. The Suit is not
+barred by limitation as on the date of filing of the present Suit.”
+
+45. A perusal of the plaint would reveal that it refers to Article 246(1) of the Constitution which
+empowers the Parliament with exclusive power to make laws with respect to any of the matters
+enumerated in List I. It refers to Entry 80 of List I which enables the Parliament to make laws with
+regard to extension of the powers and jurisdiction of members of a police force belonging to any
+State to any area outside that State. However, the same cannot be done without the consent of the
+Government of the State in which such area is situated. Then, it refers to the exclusive jurisdiction of
+the State Legislature as recognized in Article 246(3) of the Constitution to make laws with regard to
+any of the matters enumerated in List II. It refers to Entries 1 and 2 which relate to public order and
+police. Then, the plaint avers that the public order and police are exclusive subject matters of the
+concerned State. It avers that Entry 80, List I, ensures that the Union/Centre does not transgress
+into the jurisdiction of the State without permission of the concerned State. It therefore avers that
+the CBI which draws its powers from the DSPE Act has acted in violation of the aforementioned
+Constitutional provisions as also the DSPE Act and then it refers to various provisions of the DSPE
+Act including Section 6 thereof which requires the consent of the Government of the concerned
+State in whose areas the jurisdiction of the CBI is being extended. Thereafter, it refers to Section 6 of
+the DSPE Act as a component of the concept of federalism. It avers that the provisions of Section 6
+of the DSPE Act cannot be ignored or violated by the defendant.
+
+46. In paragraph 12 of the plaint, the plaint refers to various judgments of this Court interpreting
+Sections 5(1) and 6 of the DSPE Act. In paragraph 13, the plaint avers that the plaintiff is challenging
+the act of the defendant in registering suo moto cases for offences that have occurred within the
+territory of the plaintiff without any direction from the competent court or prior consent granted by
+the plaintiff. Then, in paragraph 14, averments are made with regard to the approval to be made by
+the Central Government, a rule which is required to be followed by the Central Government in
+extending powers and jurisdiction of the CBI. Thereafter, it refers to the judgment of this Court
+which requires the fulfillment of the three conditions under Sections 3, 5 and 6 of the DSPE Act
+prior to the CBI exercises powers in any State, which read thus:
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+24
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+i) A notification must be issued by the Central Government specifying the offences to be investigated
+by CBI (Section 3);
+
+ii) An order must be passed by the Central Government extending power and jurisdiction of CBI to
+any area (including railway area) in a State not being an Union Territory in respect of offences
+specified under Section 3 (Section 5); and
+
+iii) Consent of the State Government must be obtained for the exercise of power by CBI in the
+concerned State (Section 6).
+
+47. Thereafter, the plaint refers to the consent granted by the plaintiff under Section 6 of the DSPE
+Act on 2nd August 1989 vide notification issued by it. Then, it refers to the withdrawal of the said
+consent on 16th November 2018.
+
+48. Paragraph 21 of the plaint avers regarding the powers of the CBI. It avers that despite
+withdrawal of the consent given by the plaintiff under Section 6 of the DSPE Act, the CBI has
+registered cases and has been exercising its powers under the DSPE Act in an unconstitutional
+manner. The plaint thereafter gives a list of the cases and states that the CBI exercised its powers
+under the DSPE Act without the requisite consent of the State and as such, not only violated Section
+6 of the DSPE Act but also usurped and ousted the State police’s statutory jurisdiction.
+
+49. In paragraph 24 of the plaint, the averments with regard to principles of federalism are
+reiterated.
+
+50. Paragraph 27 of the plaint states that the present lis involves substantial question of law as to the
+interpretation of Articles 245 and 246 of the Constitution and various Entries in the Seventh
+Schedule as well as corresponding provisions of Code of Criminal Procedure, 1973 and the DSPE
+Act.
+
+51. In paragraph 29 of the plaint, it is averred that, in case the defendant is allowed to operate its
+own police force within the State of West Bengal in the absence of previous approval of the plaintiff
+State, the plaintiff will suffer grave constitutional prejudice. It is therefore averred that there exists a
+dispute involving question of law and fact between the plaintiff and the defendant – Union of India
+regarding the encroachment of jurisdiction and legal rights. In paragraph 30 of the plaint, it is
+averred that the action of the defendant is an act of constitutional overreach. In paragraph 32 and
+subsequent paragraphs of the plaint, it delineates the scope of Article 131 of the Constitution.
+
+b. Scheme of the DSPE Act:
+
+52. After considering the averments in the plaint, we now propose to consider the
+contention of the learned Solicitor General with regard to Union of India having no
+superintendence or control over the CBI. For considering the same, it will be
+necessary to refer to certain provisions of the DSPE Act.
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+25
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+53. Section 2 of the DSPE Act reads thus:
+
+“2. Constitution and powers of special police establishment.—(1) Notwithstanding
+anything in the Police Act, 1861 (5 of 1861), the Central Government may constitute a
+special police force to be called the Delhi Special Police Establishment for the
+investigation in any Union Territory, of offences notified under Section 3.
+
+(2) Subject to any orders which the Central Government may make in this behalf,
+members of the said police establishment shall have throughout any Union Territory,
+in relation to the investigation of such offences and arrest of persons concerned in
+such offences, all the powers, duties, privileges and liabilities which police officers of
+that Union Territory have in connection with the investigation of offences committed
+therein. (3) Any member of the said police establishment of or above the rank of
+Sub-Inspector may, subject to any orders which the Central Government may make
+in this behalf, exercise in any Union Territory any of the powers of the officer in
+charge of a police station in the area in which he is for the time being and when so
+exercising such powers shall, subject to any such orders as aforesaid, be deemed to be
+an officer in charge of a police station discharging the functions of such an officer
+within the limits of his station.”
+
+54. A perusal of sub-section (1) of Section 2 of the DSPE Act clearly shows that it is
+the Central Government that is entitled to constitute a special police force to be called
+the DSPE for investigation of cases in any Union Territory of offences notified under
+Section 3 of the DSPE Act. Sub-
+
+section (2) thereof would show that, subject to any orders which the Central Government may make
+in this behalf, members of the DSPE shall have, throughout any Union Territory, in relation to the
+investigation of such offences and arrest of persons concerned in such offences, all the powers,
+duties, privileges and liabilities which police officers of that Union Territory have in connection with
+the investigation of offences committed therein. Again, under sub-section (3) thereof, any member
+of the DSPE of or above the rank of Sub-Inspector may, subject to any orders which the Central
+Government may make in this behalf, exercise, in any Union Territory, any of the powers of the
+officer in charge of a police station in the area in which he is for the time being and when so
+exercising such powers, he shall, subject to any such orders as aforesaid, be deemed to be an officer
+in charge of a police station discharging the functions of such an officer within the limits of his
+station.
+
+55. Section 3 of the DSPE Act reads thus:
+
+“3. Offences to be investigated by special police establishment.—The Central
+Government may, by notification in the Official Gazette, specify the offences or
+classes of offences which are to be investigated by the Delhi Special Police
+Establishment.”
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+26
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+56. It is thus clear that the DSPE is entitled to investigate only such offences or classes of offences
+which are specified by the Central Government by issuing a notification in the official gazette.
+
+57. Section 4 of the DSPE Act reads thus:
+
+“4. Superintendence and administration of Special Police Establishment.—(1) The
+superintendence of the Delhi Special Police Establishment insofar as it relates to
+investigation of offences alleged to have been committed under the Prevention of
+Corruption Act, 1988 (49 of 1988), shall vest in the Commission.
+
+(2) Save as otherwise provided in sub-section (1), the superintendence of the said
+police establishment in all other matters shall vest in the Central Government.
+
+(3) The administration of the said police establishment shall vest in an officer
+appointed in this behalf by the Central Government (hereinafter referred to as the
+Director) who shall exercise in respect of that police establishment such of the powers
+exercisable by an Inspector-General of Police in respect of the police force in a State
+as the Central Government may specify in this behalf.”
+
+58. A perusal of sub-section (1) of Section 4 of the DSPE Act would reveal that the superintendence
+of the DSPE insofar as it relates to investigation of offences alleged to have been committed under
+the PC Act is concerned, shall vest with the CVC. However, sub-section (2) thereof provides that
+except for what has been provided in sub-section (1) thereof, the superintendence of the said police
+establishment in all other matters shall vest with the Central Government. Sub-section (3) thereof
+provides that the administration of the DSPE shall vest in an officer appointed in this behalf by the
+Central Government who shall exercise, in respect of that police establishment, such of the powers
+exercisable by an Inspector-General of Police in respect of the police force in a State as the Central
+Government may specify in this behalf.
+
+59. Section 5 of the DSPE Act reads thus:
+
+“5. Extension of powers and jurisdiction of special police establishment to other
+areas.—(1) The Central Government may by order extend to any area (including
+Railway areas) in a State, not being a Union Territory the powers and jurisdiction of
+members of the Delhi Special Police Establishment for the investigation of any
+offences or classes of offences specified in a notification under Section 3.
+
+(2) When by an order under sub-section (1) the powers and jurisdiction of members
+of the said police establishment are extended to any such area, a member thereof
+may, subject to any orders which the Central Government may make in this behalf,
+discharge the functions of a police officer in that area and shall, while so discharging
+such functions, be deemed to be a member of a police force of that area and be vested
+with the powers, functions and privileges and be subject to the liabilities of a police
+officer belonging to that police force.
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+27
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+(3) where any such order under sub-section (1) is made in relation to any area, then,
+without prejudice to the provisions of sub-section (2) any member of the Delhi
+Special Police Establishment of or above the rank of Sub-Inspector may subject to
+any orders which the Central Government may make in this behalf, exercise the
+powers of the officer in charge of a police station in that area and when so exercising
+such powers, shall be deemed to be an officer in charge of a police station discharging
+the functions of such an officer within the limits of his station.”
+
+60. A perusal of sub-section (1) of Section 5 of the DSPE Act would reveal that the Central
+Government, by an order, is entitled to extend to any area including Railway areas in a State, not
+being a Union Territory, the powers and jurisdiction of members of the DSPE for the investigation
+of any offences or classes of offences specified in a notification under Section 3 of the DSPE Act.
+Sub-section (2) thereof provides that when by an order under sub-section (1), the powers and
+jurisdiction of members of the DSPE are extended to any such area, a member thereof may, subject
+to any orders which the Central Government may make in this behalf, discharge the functions of a
+police officer in that area and shall, while so discharging such functions, be deemed to be a member
+of the police force of that area and be vested with the powers, functions and privileges and be subject
+to the liabilities of a police officer belonging to that police force. Again, under sub-section (3)
+thereof, where any such order under sub-section (1) is made in relation to any area, then, without
+prejudice to the provisions of sub-section (2), any member of the DSPE of or above the rank of
+Sub-Inspector may, subject to any orders which the Central Government may make in this behalf,
+exercise the powers of the officer in charge of a police station in that area and when so exercising
+such powers, shall be deemed to be an officer in charge of a police station discharging the functions
+of such an officer within the limits of his station.
+
+61. Section 6 of the DSPE Act reads thus:
+
+“6. Consent of State Government to exercise of powers and jurisdiction.—Nothing
+contained in section 5 shall be deemed to enable any member of the Delhi Special
+Police Establishment to exercise powers and jurisdiction in any area in a State, not
+being a Union Territory or railway area, without the consent of the Government of
+that State.”
+
+62. A perusal of Section 6 of the DSPE Act would reveal that nothing contained in Section 5 shall be
+deemed to enable any member of the DSPE to exercise powers and jurisdiction in any area in a
+State, not being a Union Territory or railway area, without the consent of the Government of that
+State.
+
+63. A perusal of the entire scheme would therefore reveal that right from the constitution of the
+special police force which is called DSPE, issuance of notifications specifying the offences or classes
+of offences which are to be investigated by the DSPE, superintendence and administration of DSPE
+and the extension of powers and jurisdiction of DSPE to the areas beyond the Union Territories, it is
+the Central Government which is vitally concerned with. Not only that, only such offences which the
+Central Government notifies in the official gazette, can be investigated by the DSPE. Under Section
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+28
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+4 of the DSPE Act, except the offences under the PC Act in which the superintendence will be with
+the CVC, the superintendence of the DSPE in all other matters would vest with the Central
+Government.
+
+64. If the powers and jurisdiction of the members of the DSPE are to be extended to any area
+including railway areas, in a State not being a Union Territory, the same cannot be done unless the
+Central Government passes an order in that regard. The statutory scheme makes it clear that, for
+extending such powers under Section 5 of the DSPE Act, it cannot be done without the consent of
+the Government of that State under Section 6 of the DSPE Act.
+
+65. In that view of the matter, we find that the contention of the learned Solicitor General that even
+if the CBI, being an independent agency, is considered to be an instrumentality of the State under
+Article 12 of the Constitution, it cannot be equated to the term Government of India as contemplated
+under Article 131 of the Constitution, in our view, holds no water.
+
+66. We further find that the very establishment, exercise of powers, extension of jurisdiction, the
+superintendence of the DSPE, all vest with the Government of India. In that view of the matter, in
+our opinion, the reliance placed by the learned Solicitor General on the judgment of this Court in the
+case of State of Bihar v. Union of India and Another (supra), is not well placed. In our view, the CBI
+is an organ or a body which is established by and which is under the superintendence of the
+Government of India in view of the statutory scheme as enacted by the DSPE Act. c. Power of
+superintendence of the Central Government:
+
+67. Insofar as reliance placed by the learned Solicitor General on the judgments of this Court in the
+cases of Vineet Narain (supra) and State of West Bengal and Others v. Committee for Protection of
+Democratic Rights, West Bengal and Others18 is concerned, no doubt that the powers of
+superintendence of the Central Government would not relate to the superintendence of investigation
+of a particular case and the investigating agency (CBI) would always be entitled to investigate the
+offences independently. However, that would not water down the administrative control and
+superintendence of the DSPE that vests with the Central Government. In that view of the matter, we
+find that the contention in that regard needs to be rejected.
+
+(2010) 3 SCC 571 : 2010 INSC 104 d. Interpretation of the term “subject to the provisions of this
+Constitution”:
+
+68. The learned Solicitor General has vehemently argued that, in view of the term “subject to the
+provisions of this Constitution” used in Article 131 of the Constitution, since various matters are
+already pending with regard to the subject matter of the present suit, be it the proceedings either
+under Article 136, Article 32 or Article 226 of the Constitution, the present suit would not be
+maintainable.
+
+69. No doubt that Article 131 of the Constitution begins with the term “subject to the provisions of
+this Constitution”. To understand the said term, we can gainfully refer to a few authorities.
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+29
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+70. In Black’s Law Dictionary, 5th Edition at Page 1278, the expression “subject to” has been defined
+as under:
+
+“Liable, subordinate, subservient, inferior, obedient to; governed or affected by;
+provided that; provided; answerable for.”
+
+71. A Constitution Bench of this Court in the case of The South India Corporation (P) Limited v. The
+Secretary, Board of Revenue, Trivandrum and Another19 also had an [1964] 4 SCR 280 : 1963 INSC
+163 occasion to consider the said term, though it was in a case concerning Article 372 of the
+Constitution. It will be apposite to refer to the following part of the said judgment of the
+Constitution Bench:
+
+“13. ……..Article 372 reads:
+
+“(i) Notwithstanding the repeal by this Constitution of the enactments referred to in
+Article 395 but subject to the other provisions of this Constitution, all the law in force
+in the territory of India immediately before the commencement of this Constitution
+shall continue in force therein until altered or repealed or amended by a competent
+legislature or other competent authority.
+
+*** Explanation I.—The expression “law in force” in this article shall include a law
+passed or made by a legislature or other competent authority in the territory of India
+before the commencement of this Constitution and not previously repealed,
+notwithstanding that it or parts of it may not be then in operation either at all or in
+particular areas.” The object of this article is to maintain the continuity of the
+pre-existing laws after the Constitution came into force till they were repealed,
+altered or amended by a competent authority. Without the aid of such an article there
+would be utter confusion in the field of law. The assumption underlying the article is
+that the State laws may or may not be within the legislative competence of the
+appropriate authority under the Constitution. The article would become ineffective
+and purposeless if it was held that pre-Constitution laws should be such as could be
+made by the appropriate authority under the Constitution. The words “subject to the
+other provisions of the Constitution” should, therefore, be given a reasonable
+interpretation, an interpretation which would carry out the intention of the makers of
+the Constitution and also which is in accord with the constitutional practice in such
+matters. The article posits the continuation of the pre-existing laws made by a
+competent authority notwithstanding the repeal of Article 395; and the expression
+“other” in the article can only apply to provisions other than those dealing with
+legislative competence.
+
+14. The learned Advocate-General relied upon the following decisions for the said
+legal position : Gannon Dankerly and Co. v. Sales Tax Officer, Maatancherry [ILR
+(1957) Kerala 462] ; Sagar Mall v. State [ILR (1952) 1 All 862] ; Kanpur Oil Mills v.
+Judge (Appeals) Sales Tax, Kanpur [AIR 1955 All 99] ; Amalgamated Coalfields Ltd.
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+30
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+v. Janapada Sabha, Chhindwara [(1962) 1 SCR 1] ; Jagdish Prasad v. Saharanpur
+Municipality [AIR 1961 All 583] ; Saeoshankar v. M.P. State [AIR 1951 Nag 58] ; State
+v. Yash Pal [AIR 1957 P&H 91] ; and Binoy Bhusan v. States of Bihar [AIR 1954 Pat
+346] . It is not necessary to consider in detail the said decisions, as they either resume
+the said legal position or sustain it, but do not go further. They held that a law made
+by a competent authority before the Constitution continues to be in force after the
+Constitution till it is altered or modified or repealed by the appropriate authority,
+even though it is beyond the legislative competence of the said authority under the
+Constitution. We give our full assent to the view and hold that a pre-Constitution law
+made by a competent authority, though it has lost its legislative competency under
+the Constitution, shall continue in force, provided the law does not contravene the
+“other provisions” of the Constitution.”
+
+72. The Constitution Bench has held that the words “subject to the other provisions of the
+Constitution” should be given a reasonable interpretation. It has been held that the interpretation
+which would carry out the intention of the makers of the Constitution and also which is in accord
+with the constitutional practice in such matters, should be adopted. The Court held that Article 372
+of the Constitution posits the continuation of the pre-existing laws made by a competent authority
+notwithstanding the repeal of Article 395 of the Constitution. It has been held that the expression
+“other” under Article 372 of the Constitution can only apply to the provisions other than those
+dealing with legislative competence. The Court therefore held that a pre-Constitution law made by a
+competent authority, though it has lost its legislative competency under the Constitution, shall
+continue in force, provided the law does not contravene the “other provisions” of the Constitution.
+
+73. Another Constitution Bench of this Court in the case of Union of India and Another v. Tulsiram
+Patel20 also had an occasion to consider the said term which is also recorded (1985) 3 SCC 398 :
+1985 INSC 155 in Article 309 of the Constitution. The Court held thus:
+
+“106. It is not possible to accept this submission. The opening words of Article 309
+make that article expressly “Subject to the provisions of this Constitution”. Rules
+made under the proviso to Article 309 or under Acts referable to that article must,
+therefore, be made subject to the provisions of the Constitution if they are to be valid.
+Article 310(1) which embodies the pleasure doctrine is a provision contained in the
+Constitution. Therefore, rules made under the proviso to Article 309 or under Acts
+referable to that article are subject to Article 310(1). By the opening words of Article
+310(1) the pleasure doctrine contained therein operates “Except as expressly
+provided by this Constitution”. Article 311 is an express provision of the Constitution.
+Therefore, rules made under the proviso to Article 309 or under Acts referable to
+Article 309 would be subject both to Article 310(1) & Article 311……….”
+
+74. This Court held that, in view of the said term “subject to the provisions of this Constitution”,
+rules made under the proviso to Article 309 must be made subject to the provisions of this
+Constitution if they are to be valid. The Constitution Bench held that the rules made under the
+proviso to Article 309 or under Acts referable to that article are subject to Articles 310(1) and 311 of
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+31
+
+the Constitution.
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+75. In our opinion, Article 131 of the Constitution is a special provision which deals with the original
+jurisdiction of this Court in case of a dispute between the Federal Government and the State
+Governments. It provides for a special jurisdiction to this Court to decide any question on which the
+existence or extent of a legal right depends. Any dispute either between the Government of India
+and one or more States; or between the Government of India and any State or States on one side and
+one or more other States on the other; or between two or more States which involve a question on
+which the existence or extent of a legal right depends are covered by this provision. A special
+provision has been made for deciding the question on which the existence or extent of a legal right
+between the special parties mentioned therein has been provided. Therefore, the words “subject to
+the provisions of this Constitution” will have to be considered in that context. The jurisdiction under
+Article 131 of the Constitution would only be subject to any other provision in the Constitution
+which provides for entertaining a dispute between the parties mentioned therein. We could notice
+only one such other provision in the Constitution, which is Article 262, which reads thus:
+
+“262. Adjudication of disputes relating to waters of inter-State rivers or river
+valleys.—(1) Parliament may by law provide for the adjudication of any dispute or
+complaint with respect to the use, distribution or control of the waters of, or in, any
+inter-State river or river valley.
+
+(2) Notwithstanding anything in this Constitution, Parliament may by law provide
+that neither the Supreme Court nor any other court shall exercise jurisdiction in
+respect of any such dispute or complaint as is referred to in clause (1).”
+
+76. Article 262 of the Constitution deals with adjudication of disputes relating to
+waters of inter-State rivers or river valleys. It provides that the Parliament may by
+law provide for the adjudication of such disputes or complaints excluding the
+jurisdiction of all courts including this Court. As such, ordinarily a dispute with
+respect to the use, distribution or control of the waters of, or in, any inter-State river
+or river valley between two States could have fallen under Article 131 of the
+Constitution but because of the words “subject to the provisions of this Constitution”
+used therein and in view of Article 262, such a dispute would not be entertainable
+under Article 131 of the Constitution.
+
+77. Article 32 of the Constitution provides for remedy for enforcement of rights
+conferred by Part-III of the Constitution whereas Article 136 provides for remedy by
+way of special leave to appeal before this Court. These are the general remedies
+available to “any party”. Merely because, in any of the proceedings initiated under
+Article 32 or Article 136 or even Article 226 of the Constitution, one of the parties is
+common, in our view, the pendency of such proceedings would not come in the way
+of a specific party mentioned in Article 131 of the Constitution to take recourse to the
+remedy available therein. As already discussed hereinabove, a remedy under Article
+131 of the Constitution is a special remedy available only to the parties mentioned
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+32
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+therein and for the purposes mentioned therein. In our view, therefore, the
+interpretation as placed by the defendant - Union of India would not be in
+consonance with the constitutional scheme and as such, is liable to be rejected.
+
+e. Suppression of material fact:
+
+78. The Union of India has also pressed that the present suit is liable to be dismissed
+on the ground of suppression of material facts. It is argued that many of the FIRs
+mentioned in the plaint are registered under the directions of the High Court under
+Article 226 of the Constitution. It is submitted that this fact is suppressed by the
+plaintiff and as such, the plaint is liable to be rejected on this ground.
+
+79. No doubt that material suppression of fact would entail a plaint to be rejected.
+However, a very reading of the plaint including the prayer clause and specifically
+paragraph 13 of the plaint would reveal that the claim of the petitioner is with regard
+to the investigations except with respect to the FIRs registered under the order of
+competent court of law. In that view of the matter, we find that the contention in that
+respect is also liable to be rejected.
+
+f. Cause of action of the suit:
+
+80. The next contention is with regard to non-disclosure of cause of action against
+the defendant. We have hereinabove extensively reproduced the averments made in
+the plaint. At the cost of repetition, it is only the averments in the plaint which can be
+gone into for considering as to whether the cause of action against the defendant
+arises or not.
+
+81. The main case of the plaintiff as could be gathered from the averments in the
+plaint is that, before the provisions of DSPE Act can be invoked to authorize the CBI
+to exercise its powers and jurisdiction within any State, the following conditions are
+necessary:
+
+(cid:12)     i)     “A notification must be issued by the
+            Central    Government      specifying   the
+
+offences to be investigated by CBI (Section
+
+3);
+
+ii) An order must be passed by the Central Government extending power and jurisdiction of CBI to
+any area (including railway area) in a State not being an Union Territory in respect of offences
+specified under Section 3 (Section 5); and
+
+iii) Consent of the State Government must be obtained for the exercise of power by CBI in the
+concerned State (Section 6).”
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+33
+
+The State Of West Bengal vs Union Of India on 10 July, 2024
+
+82. It is the case of the plaintiff that unless the three conditions under Sections 3, 5 and 6 of the
+DSPE Act are fulfilled, the CBI cannot exercise its powers in any State. It is the case of the plaintiff
+that after withdrawal of the consent by the plaintiff on 16th November 2018, the CBI could not have
+continued to register cases and exercise its powers under the DSPE Act. It is the plaintiff’s case that
+continuation of the registration of cases and exercise of powers after withdrawal of the consent is an
+act of constitutional overreach.
+
+83. As already discussed hereinabove, the averments in the plaint cannot be read in isolation but are
+to be read in entirety. It is the case of the plaintiff that the CBI is established by the defendant, its
+exercise of powers is controlled by the defendant and its functioning is also under the
+superintendence of the defendant. Therefore, it cannot be said that the plaintiff has not made out
+any cause of action against the defendant. As has been held by Their Lordships Justice Chandrachud
+and Justice Bhagwati in the case of State of Rajasthan and Others v. Union of India and Others
+(supra), the legal right of the States could be sought to be indicated in the suits. In the said case, the
+Court has disapproved the observations made by five-Judges Bench in the case of State of Bihar v.
+Union of India and Another (supra) that the legal right which is the subject of dispute must arise in
+the context of the Constitution and federalism itself. As has been held by this Court in the case of
+State of Rajasthan and Others v. Union of India and Others (supra), the legal right of the States
+consists in their immunity, in the sense of freedom from the power of the Union Government.
+Therefore, in light of DSPE Act and the judgments of this Court, even this contention is liable to be
+rejected.
+
+VII. CONCLUSION:
+
+84. We find that, in the present suit, the plaintiff is raising the legal issue as to whether after
+withdrawal of the consent under Section 6 of the DSPE Act, the CBI via the defendant – Union of
+India can continue to register and investigate cases in its area in violation of the provisions of
+Section 6 of the DSPE Act. The same has been sought to be attacked by the defendant – Union of
+India by raising various contentions challenging the maintainability of the suit. In our considered
+opinion, the contentions raised by the defendant, do not merit acceptance and for the reasons given
+hereinbefore, are rejected. The preliminary objection is, therefore, rejected. However, we clarify that
+the aforesaid findings are for the purposes of deciding preliminary objection and will have no
+bearing on merits of the suit. The suit shall proceed in accordance with law on its own merits.
+
+85. List the suit on 13th August, 2024 for framing of issues.
+
+…….........................J. [B.R. GAVAI] …….........................J. [SANDEEP MEHTA] NEW DELHI;
+
+JULY 10, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/6397862/
+
+34
+
+

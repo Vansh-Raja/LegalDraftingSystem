@@ -1,0 +1,22 @@
+{
+  "case_number": "Criminal Appeal No. 252 of 2022",
+  "parties": {
+    "petitioner": "Babu Venkatesh and Others",
+    "respondent": "State of Karnataka and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-18",
+  "summary": "Appellants challenged the Karnataka High Court's order dismissing their petitions under Section 482 Cr.P.C. to quash FIRs based on allegations of cheating and forgery in property sale agreements. The dispute arose from delayed criminal complaints filed after civil suits for specific performance. The Supreme Court examined the timing and mala fide nature of the complaints, referencing State of Haryana v. Bhajan Lal to assess abuse of process. Key issues included mechanical recording of FIR under Section 156(3) Cr.P.C., civil dispute being converted into criminal proceedings, and absence of prima facie evidence. The Court emphasized that serious allegations must not be used vexatiously to harass parties engaged in civil litigation.",
+  "legal_provisions_cited": [
+    "Section 482 Cr.P.C.",
+    "Section 156(3) Cr.P.C.",
+    "Section 420 IPC",
+    "Section 464 IPC",
+    "Section 465 IPC",
+    "Section 468 IPC",
+    "Section 120-B IPC",
+    "Article 226 of the Constitution",
+    "State of Haryana v. Bhajan Lal, 1992 Supp (1) SCC 335"
+  ],
+  "final_judgment": "The appeals were allowed; the impugned orders of the High Court were set aside and the FIRs were quashed on grounds of abuse of process and absence of prima facie evidence warranting criminal investigation."
+}

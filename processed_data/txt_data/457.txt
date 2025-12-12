@@ -1,0 +1,1575 @@
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+2024 INSC 1024                                                       REPORTABLE
+
+                             IN THE SUPREME COURT OF INDIA
+                            CRIMINAL APPELLATE JURISDICTION
+
+                              CRIMINAL APPEAL NO. 5556 OF 2024
+                             (Arising out of SLP (Crl) No. 13133/2024)
+
+             BIJOY KUMAR MONI                                        …APPELLANT
+
+                                             VERSUS
+
+             PARESH MANNA & ANR.                                …RESPONDENT(S)
+
+                                          JUDGMENT
+
+J.B. PARDIWALA, J. :-
+
+For the convenience of exposition, the present judgment is divided into the following
+parts:
+
+I N D E X   A .
+  F A C T U A L   M A T R I X
+............................................................................................ 2 i. Proceedings before the
+Trial Court ..................................................................... 6 ii. Proceedings before the
+Sessions Court ............................................................. 11 iii. Proceedings before the
+High Court ................................................................... 16 B. SUBMISSIONS ON
+B E H A L F   O F   T H E   A P P E L L A N T   /   C O M P L A I N A N T
+............................................................................................................................... 19 C.
+SUBMISSIONS ON BEHALF OF THE RESPONDENT / ACCUSED ........ 20 D.
+ANALYSIS........................................................................................................... 22 i.
+Section 138 of the NI Act .................................................................................. 22 ii.
+Whether authorized signatory of a company falls within the ambit of the expression
+“drawer”?......................................................................................... 29 iii. Meaning of
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+1
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+the expression “on an account maintained by him” used in Section 138 of the NI Act
+............................................................................................... 34 iv. Scope of the
+expression “any debt or other liability” appearing in Section 138 of the NI Act
+.......................................................................................................... 40 v. Section 141 of
+the NI Act .................................................................................. 48 E. CONCLUSION
+.................................................................................................... 55
+
+1. Leave granted.
+
+2. This appeal arises from the judgment and order dated 19.03.2024 passed by the
+High Court at Calcutta in Criminal Revision No. 887 of 2019 by which the High Court
+allowed the criminal revision application preferred by the respondent herein (original
+accused) and thereby quashed and set aside the judgment and order of conviction
+passed by the Trial Court and affirmed by the Sessions Court for the offence
+punishable under Section 138 of the Negotiable Instruments Act, 1881 (for short, the
+“NI Act”).
+
+3. For the sake of convenience, the appellant herein shall be referred to as the
+complainant and the respondent herein shall be referred to as the accused.
+
+4. Since these proceedings arise from a private complaint, the respondent no.
+
+2, that is, the State of West Bengal, although represented by Mr. Kunal Chatterji, has no role to play.
+
+A. FACTUAL MATRIX
+
+5. The facts giving rise to this appeal may be summarised as under:
+
+a. The case of the complainant is plain and simple. According to him, for the purpose
+of operating his trade loan account, he would frequently visit the U.B.I.
+Raghunathpur Branch and it is during one such visit sometime in the month of
+January, 2006 that he came to be introduced to the accused by one Ashoke Mondal
+who was the Manager of the said branch. Thereafter, the accused maintained
+amicable relations with the complainant through telephonic conversations.
+
+b. In February 2006, the accused was in need of some financial assistance and in
+such circumstances, he approached the complainant with a request that a particular
+amount may be lent to him with a promise to repay on demand.
+
+c. Accordingly, the complainant issued a bearer cheque for an amount of
+Rs.7,00,000/- (Rupees Seven Lakh only) which indisputably was encashed by the
+accused.
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+2
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+d. Upon the complainant requesting the accused to repay the amount referred to
+above, he issued a cheque dated 28.04.2006 drawn on the Standard Chartered Bank,
+N.S. Road, Kolkata for the amount of Rs.8,45,000/- (Rupees Eight lakh forty five
+thousand only). It is the case of the complainant that Rs. 7,00,000/- was lent by him
+by way of a bearer cheque and Rs. 1,45,000/- was subsequently lent in cash.
+
+That is how the accused issued a cheque of Rs. 8,45,000/- for the purpose of
+discharging his debt towards the complainant.
+
+e. However, the said cheque was signed by him in his capacity as a Director of
+Shilabati Hospital Pvt. Ltd. and was drawn upon the bank account maintained in the
+name of the hospital.
+
+f. There is a stamp of Shilabati Hospital Pvt. Ltd. on the cheque and beneath the
+signature of the accused there is a stamp of the Director.
+
+g. It is not in dispute that the cheque in question came to be dishonoured for want of
+sufficient funds.
+
+h. In such circumstances, the complainant issued a statutory notice to the accused
+under Section 138 of the NI Act dated 14.08.2006 calling upon him to make the
+payment within 15 days of the receipt of the notice.
+
+6. The statutory notice referred to above is reproduced herein below:
+
+             “                                        DATE: 14/8/2006
+             To
+             Sri Paresh Manna
+             C/o SHILABATI HOSPITAL PVT. LTD.
+             P.O. CHATAL, Distt. Peschim Midnapur
+             Dear Sir,
+
+Under the instructions of my client Sri Bijay Kumar Moni son of Sri Mursrimohan Nond, resident of
+Raghunathpur, P.O./P.S. Raghunathpur, Distt. Purulia. I do hereby serve you this notice to the
+following effect.
+
+That my client had been introduced to you by Sri Achoke Mondal, Branch Manager United Bank of
+India, Raghunathpur Branch some time in the month of February, 2008.
+
+That my client was also informed by Sri Ashok Mondal that you are contemplating to start a
+-Nursing Home with huge investment at Raghunathpur.
+
+That taking advantage of the said introduction by Sri Ashok Mandal you - approached my client for
+a sum of Rs. 8,45,000/- (eight lakhs forty five thousand) only to be repaid within a very short
+period.
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+3
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+That my client very innocently acceded to your request and arranged to handover a sum of Rs.
+8,45,000/- (eight lakh forty five thousand) out of the said sum of Rs. 7,00,000/- (Seven lakhs) was
+given to you by my client through cheque No. 951764 on his trade loan A/C maintained with U.B.I.
+Raghunathpur Branch on 28.02.06 and the rest amount was paid by my client to you in cash.
+
+That you in discharge of your existing legal debts and outstanding liabilities had issued A/C. payee
+cheque No.997309 in favour of my client on 28.04.06 for Rs. 8,45,000/- (eight lakhs forty five
+thousand) against your account maintained in standard chartered Bank, 19, N.S. Road,
+Kolkata-700001. That as per your instruction my client had presented the said cheque for
+encashment through his banker, U.B.I. Raghunathpur Branch on 22.07.06.
+
+That my client had received back the cheque refused by you with the bank unpaid issue memo dated
+27.07.06 that the same has returned due to insufficient fund.
+
+That as per instruction of my client I am sending this demand notice to you with the intimation that
+you must pay back to my client the sum of 8,45,000/- (eight lakhs forty- five thousand) within 15
+days from the date of receipt of the notice, failing which my client will be constrained to take
+recourse to law without any further intimation. Thanking you, Yours faithfully, Sd/- Arun Kumar
+Moni Advocate Dt. 14-08-06”
+
+7. It is not in dispute that the accused upon receipt of the above notice failed to give any appropriate
+reply to the complainant.
+
+8. In such circumstances, the complainant was left with no other option but to file a private
+complaint in the Court of the A.C.J.M. at Raghunathpur, District Purulia for the offence punishable
+under Section 138 of the NI Act which came to be registered as Complaint Case No. 39 of 2006.
+
+i. Proceedings before the Trial Court
+
+9. As the facts of this case are little peculiar, we deem it necessary to reproduce the entire complaint
+as under:
+
+“In the Court of the A.C.J.M. at Raghunathpur, District Purulia.
+
+Complaint Case No. 39 of 2006.
+
+Bijoy Kumar Moni son of Sri Murari Mohan Moni, resident of Raghunathpur, P.O. &
+P.S. Raghunathpur, Dist. Purulia.
+
+…Complainant
+
+-Versus-
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+4
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+Paresh Manna son of not known c/o. Shilabati Hospital Pvt. Ltd., P.O. Chatal, P.S.
+Ghatal, District East Midnapur.
+
+…Accused Person Offence committed: U/s. 138 of Negotiable Instrument Act, 1881.
+
+Date of occurrence: Since August, 2006 onwards.
+
+Name of witnesses:
+
+1. Sri Ashoke Mondal s/o. Naba Kumar Mondal, Manager of U.B.I Raghunathpur
+Branch, Dist. Purulia.
+
+2. Sanjoy Ganguly s/o. Late Dhirendranath Ganguly.
+
+3. Shyamapada Kumbhakar, s/o. Late Gopal Chandra Kumbhakar both of
+Raghunathpur, P.O. & P.S. Raghunathpur, Dist. Purulia.
+
+The humble petition on behalf of the complainant Most respectfully showeth:
+
+1. That the complainant hails from a very respectable family of Raghunathpun,
+District Purulia and he has been engaged in construction enterprise and considering
+his credibility and goodwill the local U.B.I. Raghunathpur Branch has provided him
+with a trade loan account bearing A/C No. 9.
+
+2. That the complainant in operating his trade loan account has very often visits to
+the U.B.I. Raghunathpur Branch and thus a close tie grew up with the Branch
+Manager, Sri Ashoke Mondal.
+
+3. That sometime in the month of January, 2006 the complainant along with witness
+No. 2 had met the Branch Manager, U.B.I. Raghunathpur Branch and there he
+noticed the accused present in his chamber. Sri Ashoke Mondal introduced the
+accused to the complainant saying that the latter is an established personality in
+construction work at Raghunathpur and is a solvent party having trade loan A/C in
+his Branch. Sri Mondal also informed the complainant that he knows the accused
+personally and he is the owner of a renowned nursing home styled "Shilabati"
+Hospital Pvt. Ltd. of Ghatal, East Midnapur.
+
+Sri Mondal also apprised the complainant that the accused is contemplating to start a nursing home
+Project at Raghunathpur with huge investments.
+
+4. That the complainant innocently believed all the narration of Sri Mondal. Accused also taking
+advantage of such introduction grew familiar with the complainant and also apprised him in details
+his contemplated project at Raghunathpur and sought for complainant's co-operation in as much as
+he is a man of the locality. The Complainant was greatly impressed by the talking of the accused and
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+5
+
+assured to cooperate with him in all respect.
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+5. That the accused thereafter kept close contact with the complainant and over phone from Ghatal.
+On 28.02.2006 the complainant along with witnesses Nos. 2 and 3 had come to the U.B.I.
+Raghunathpur Branch and there the accused met him and informed that he is in dire need of Rs.
+7,00,000/- (Seven Lacs) only for a couple of months for incidental expenses relating to his
+contemplated project. Complainant innocently believed the accused and issued a cheque No. 951764
+on his trade loan A/C for Rs. 7,00,000/- in favour of the accused on 28.02.06.
+
+6. That the accused withdrew the sum of Rs. 7,00,000/- and shortly thereafter the accused again
+approached the complainant for another sum of Rs. 1,45,000/- (One Lac forty five thousand) in
+presence of the witnesses Nos. 2 and
+
+3. Complainant was hesitant to accede to such request of the accused but latter due to repeatedly
+insistence the complainant arranged for the sum on the promise of the accused to repay the entire
+sum very shortly.
+
+7. That the complainant accordingly paid Rs. 1,45,000/- to the accused in presence of Witnesses
+Nos. 2 and 3 in the early part of March, 2006.
+
+8. That the accused thereafter started avoiding the complainant. However, on 28.04.2006 the
+accused in discharge of his existing debt and liabilities issued in favour of the complainant at
+Raghunathpur a cheque bearing No. 997309 for Rs. 8,45,000/- (Eight Lac forty five thousand) on
+his A/C maintained in Chartered Bank, N.S. Road Kolkata. However the accused while handing over
+the said cheque requested the complainant not to present the same for encashment before third
+week of July, 2006.
+
+9. That the complainant as per the instructions of the accused presented the Cheque No. 997309
+dated 28.4.2006 for encashment on 22.07.2006 through his Banker U.B.I. Raghunathpur Branch.
+The said cheque bounced and the complainant received back the cheque along with unpaid item
+nemo, of standard chartered Bank dated 27.7.06 through his Banker on 03.08.2006 with the note
+"Insufficient funds.
+
+10. That the complainant thereupon through his Lawyer Sri Arun Kumar Moni of Raghunathpur
+Court had issued a demand notice to the accused dated 14.08.2006. It was sent under registered
+Post with A/D on 16.08.2006 and it was duly received on behalf of the accused on 19.08.2006 as per
+the endorsement appearing on the A/D card.
+
+11. That the accused even inspite of the receipt of the demand notice failed to pay Rs. 8,45,000/- to
+the Complainant. However he kept on giving false and frivolous excuses to the complainant over
+phone and through Sri Ashok Mondal Branch Manager, Raghunathpur U.B.I. Branch that he would
+repay the sum soon.
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+6
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+12. That the accused had with fraudulent intention prevailed! Accused had upon the complainant
+with the tacit support of Sri Ashoke Mondal to part with Rs. 8,45,000/- (Eight Lac forty five
+thousand) and he also with malafide intention issued the cheque knowing fully well that the same
+would never get cleared.
+
+13. That the accused has thus committed an offence U/s. 138 of the Negotiable Instrument Act, 1881
+and is liable to be prosecuted and punished in accordance with law.
+
+14. That the complainant is filing the Cheque No. 997309 along with unpaid item memo. issued by
+the Bank, Postal receipt A/D card and office copy of the demand notice. It is therefore most
+respectfully prayed that your Honour will be pleased to take cognisance of the offence and issue
+process against the accused to stand his trial in the court of law in accordance with law.
+
+AND For this act of kindness, your petitioner as in duty bound shall ever pray.
+
+Affidavit Sd/-illegible 28/8/2023”
+
+10.During the trial, the complainant entered the box and led oral evidence. He was cross examined
+by the defence counsel appearing for the accused. It appears that the accused also examined himself
+and as his witness the Branch Manager was also examined.
+
+11.In the further statement of the accused recorded under Section 313 of the Criminal Procedure
+Code, 1973 (for short “the Cr.P.C.”), the Trial Court put a specific question:
+
+“11; P.W.1 Sri Bijoy Kr Moni, has stated in his examination-in-chief that, since
+thereafter you started avoiding the complainant. However, on 28/04/06 you in
+discharge of your existing debts and liabilities issued a cheque bearing No. 997309
+for Rs. 8,45,000/- on your account maintained in chartered Bank. N.S Road. Kolkata.
+Do you have anything to say about this statement?”
+
+12.To the aforesaid Question No. 11, the accused replied that he had issued the cheque as a security
+towards a loan transaction.
+
+13.The Question No. 21 in the further statement of the accused reads thus:
+
+“21) Qus:- P.W.1 Sri Bijoy Kumar Moni, further stated during in his evidence that,
+you have prevailed upon the complainant by gaining his confidence took
+Rs.8,45,000/- and thereafter issued cheque no. 997309 to him with the knowledge
+that there is no sufficient fund in the account. What do you have to say about his
+statement?”
+
+14.To the aforesaid question, the answer of the accused was that the cheque was issued by the
+company as a security towards some mortgage.
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+7
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+15.Upon appreciation of the oral as well as documentary evidence, the Trial Court vide Judgment
+and Order dated 19.07.2017 held the accused guilty of the offence punishable under Section 138 of
+the NI Act. The operative part of the order passed by the Trial Court reads thus:
+
+“That the convict Paresh Manna is sentenced to suffer simple Imprisonment for one
+year. The convict is further sentenced to pay compensation amounting to Rs.
+10,00,000 (Ten lakhs only) to the complainant namely Bijoy Kumar Moni within two
+months from the date of this order, in default of payment of which the convict is
+liable to further suffer rigorous imprisonment for two months.” ii. Proceedings before
+the Sessions Court
+
+16.The accused, aggrieved by the order of conviction and sentence passed by the Trial Court, went in
+appeal before the Sessions Court. The Sessions Court affirmed the findings recorded by the Trial
+Court and dismissed the appeal vide Judgment and Order dated 22.02.2019. The operative part of
+the order passed by the Sessions Court reads thus:
+
+“Accordingly it is ordered that the Criminal appeal no 03/17 be and the same is
+dismissed on contest. The impugned judgment and order of conviction dt. 19.07.17
+passed by Ld. Judicial Magistrate, 1" Court, Raghunathpur in C.Case no. 39/06 (TR
+No. 315/06) is hereby affirmed.
+
+The stay of operation of judgment and order of conviction dt. 19.07.17 is thus vacated.
+
+The appellant is directed to surrender before the Trial Court to serve out the sentence as directed
+within a month from the date of delivery of judgment.”
+
+17.At this stage, we may also reproduce some of the findings recorded by the Sessions Court:
+
+“In the case in hand before the Trial Court according to the ocular version of DW 1,
+the appellant himself, he tried to convince that he did not take any money in his
+personal capacity. Now we find the clear picture about the transaction in respect of
+cheque no. 951764 from evidence of DW 2, the manager of UBI, Raghunathpur
+branch, the banker of the respondent/complainant, who was brought by the accused/
+appellant to adduce evidence on his behalf. In course of the ocular evidence the
+original cheque no. 951764 dt. 28.02.06 amounting to Rs. 7,00,000/- was identified
+and proved by DW 2 and he admitted at the time of cross examination that on
+28.02.06 the sum of Rs. 7,00,000/- was debited to the accused/ appellant.
+
+Throughout the trial the accused/appellant did not place any document or did not
+adduce any evidence that he, being the Director of Shilabati Hospital Private Ltd.,
+had joint account with the company and that was operated by him for any transaction
+with that company. Being questioned about getting the confidence of the
+respondent/complainant to get the entire amount of Rs. 8,45,000/- and subsequent
+issuance of cheque bearing no. 997309 in discharging the liability of repayment, the
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+8
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+accused/appellant took the plea that the said cheque was issued from the company as
+security of mortgage. But again to the utter surprise in course of trial no document of
+any mortgage was produced by him to establish the fact that the cheque bearing no.
+997309 was issued in discharging the liability as security and the company was liable
+a l s o   f o r   t h a t   g r o u n d .   T h e   a p p e l l a n t   t r i e d   t o   s h i f t   t h e   o n u s   u p o n   t h e
+respondent/complainant, but he could not succeed to that effect. In my considered
+opinion I am constrained to take into account the plea of the accused that the
+company was also the accused of that case ad thus the ruling relied upon by the
+accused/ appellant do not render any support to the contention of him.
+
+In this regard I would like to refer the observation of Hon'ble Apex Court as reported
+in 2010 AIR SCW 4616 and as relied upon by the side of respondent. It has been
+observed by Hon'ble Apex Court that: "Negotiable Instruments Act (26 of 1881), S.
+138- Dishonour of cheque Complaint- Tenable only against drawer of cheque-
+Cheque drawn by employee of appellant-company on his personal account- Even if it
+be for discharging dues of appellant- company and its Directors-Appellant-company
+and its Directors cannot be made liable under 5. 138."
+
+From a bare reading of S.138 of NI Act the first and foremost ingredient is that the
+person who is to be made liable should be the drawer of the cheque and should have
+drawn the cheque on an account maintained by him with a banker for payment of any
+amount of money to another person from out of that account for discharging whole
+or part, of any debt or any liability.
+
+At the time of his examination u/s 313 Cr.P.C when the memory of the appellant was
+shattered by putting question about issuance of cheque bearing no. 997309
+amounting to Rs. 8,45,000/- from his account maintained at Chattered Bank, NS
+Road, Kolkata, he admitted about such issuance of cheque but placed another story
+about such issuance of that cheque as loan security. As I have already held,
+throughout the trial the accused/ appellant never bothered to prove anything to
+substantiate his proposition that there was any agreement between him and the
+complainant/ respondent about his taking loan for any purpose or that he received
+the amount vide cheque no. 951764 on behalf of the company i.e. Shilabati Nursing
+Home Private Ltd.
+
+In this regard I would like to refer to the observation of Hon'ble Apex Court as
+reported in 2015 AIR SCW 4015 and as relied upon by the side of respondent. It has
+been observed by Hon'ble Apex Court that: "Negotiable Instruments Act (26 of 1881),
+S. 138- Dishonour of cheque- Liability Cheque drawn by respondent in his personal
+capacity and not by company of which he is Managing Director Company is not liable
+even if it is for discharging dues of company Respondent being drawer of cheque is
+alone liable for offence under S. 138," "Presumptions are devices by use of which the
+Courts are enabled and entitled to pronounce on an issue notwithstanding that there
+is no evidence or insufficient evidence. Under the Evidence Act all presumptions
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+9
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+must come under one or the other class of the three classes mentioned in the Act,
+namely, (1) 'may presume (rebuttable), (2) 'shall presume (rebuttable) and (3)
+'conclusive presumptions' (irrebuttable). The term 'presumptions' is used to
+designate inference, affirmative or dis-affirmative of the existence of a fact,
+conveniently called the 'presumed fact drawn by a judicial tribunal, by a process of
+probable reasoning from some matter of fact, either judicially noticed or admitted or
+established by legal evidence to the satisfaction of the tribunal. Presumptions literally
+means 'taking as true without examination or proof...." (2009) 2 SCC 513.
+
+To disprove the presumption, the accused should bring on record such facts and circumstances,
+upon consideration of which, the Court may either believe that the consideration and the debt did
+not exist or there non existence was so probable that a prudent man would under the circumstances
+of the case, act upon the plea that they did not exist. Something which is probable has to be brought
+on record for getting the burden of proof shifted to the complainant.
+
+In the present case in hand the appellant at the time of adducing evidence as DW 1, denied the fact
+of taking the cheque amount of Rs. 7,00,000/- and liquid cash of Rs. 1,45,000/- totaling Rs.
+8,45,000/- In his personal capacity, but by producing D.W 2, the branch manager of UBI,
+Raghunathpur branch, he tilted the entire case in support of the prosecution/complainant as
+because said DW 2 admitted on going through the documents (Exbt. C and Exbt. D) that on
+28.02.06 a sum of Rs. 7,00,000/- was debited to the appellant and that was the case of the
+complainant/ respondent that on 28.02.06 he issued the cheque bearing no. 951764 amounting to
+Rs. 7,00,000/- in favour of the appellant. During the course of trial the appellant/ accused failed to
+shift the burden of proof upon the respondent/ complainant that he was falsely implicated and the
+company was the essential party to face the trial also and thus I am of the view that the rulings relied
+upon by the appellant do not render any help and support to succeed with his contention.
+
+After perusal of the evidence on record and the entire judgment, I am constrained to hold that ld.
+Trial Court was wrong thereby observing the appellant guilty for the commission of offence u/s 138
+of NI Act, rather going through the entire judgment, I find that Id. Trial Court meticulously
+described the finding for holding the appellant guilty for commission of the offence and rightly
+passed the order of conviction, and thus I find that this Appellate Court has no scope to make any
+interference with the order of conviction.
+
+Upon my above observation the criminal appeal fails & is hereby dismissed.
+
+             C.F. paid is found correct.”
+
+   iii.      Proceedings before the High Court
+
+18.The accused being dissatisfied with the dismissal of his appeal by the Sessions Court invoked the
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+10
+
+revisional jurisdiction of the High Court under Section 401 read with Section 397 of the Cr.P.C.
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+19.The High Court allowed the revision application and acquitted the accused on the ground that the
+offence as alleged could be said to have been committed by the company, that is Shilabati Hospital
+Pvt. Ltd., which is a separate legal entity. It further observed that as the cheque was drawn by the
+accused for and on behalf of the company in his capacity as one of the Directors, he could have been
+held vicariously liable for the alleged offence in terms of Section 141 of the NI Act, but only if the
+company was made an accused and held guilty. According to the High Court, as the company was
+not arraigned as an accused person, the accused as a Director of the said company could not be held
+vicariously liable for the offence.
+
+20.The High Court placed reliance on the decision of this Court in Himanshu v. B. Shivamurthy and
+Another reported in (2019) 3 SCC 797 and held that in the absence of the company being arraigned
+as an accused, the complaint against the accused could not be held to be maintainable. It observed
+that although the complainant was entitled to the benefit of the presumption under Section 139 of
+the NI Act as the accused had failed in rebutting the presumption cast upon him, yet in the absence
+of compliance with the requirements necessary for the applicability of vicarious liability as provided
+under Section 141, the accused could not have been convicted as a sole accused in the absence of the
+company being arraigned as an accused and convicted as the principal offender first. The
+observations made by the High Court are reproduced hereinbelow:
+
+“27. The Company is neither a party nor was any notice served upon the Company of
+which the petitioner as director issued the cheque.
+
+28. The petitioner is the sole accused/opposite party in the complaint case, having
+signed the cheque as Director of the company, for and on its behalf.
+
+xxx xxx xxx
+
+30. The facts in the present case is very similar to the case, in Himanshu vs. B. Shivamurthy & Anr.
+(Supra).
+
+xxx xxx xxx
+
+31. In the present case:-
+
+a) The company has not been made an accused nor was any notice served upon the
+company, though the cheque was issued on behalf of the company.
+
+b) The petitioner has been made an accused as the person, who signed and issued the
+cheque.
+
+32. Therefore, in the absence of the company being arraigned as an accused, a complaint against the
+petitioner is not maintainable Himanshu vs. B. Shivamurthy & Anr. (supra).
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+11
+
+xxx xxx xxx
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+37. In the present case the presumption is clearly in favour of the complainant and the petitioner has
+not been able to rebut the said presumption under Section 139 N.I. Act. But there is no compliance
+under Section 141 N.I. Act and as such the proceedings in the present case is clearly not
+maintainable.”
+
+21.In view of the aforesaid, the High Court set aside the order of the Sessions Court which had
+upheld the order of conviction passed by the Trial Court. The operative part of the impugned order
+passed by the High Court is extracted hereinbelow:
+
+“40. The Judgment and Order dated February 22, 2019 passed by the Court of the
+Learned Additional Sessions Judge, Raghunathpur at Purulia, in connection with
+Criminal Appeal No. 03 of 2017 thereby affirming the Judgment and Order dated
+July 19, 2017 passed by the Learned Magistrate, 1 Court, Raghunathpur, Purulia in C.
+Case No. 39 of 2006 under Section 138 of the Negotiable Instruments Act, 1881
+thereby convicting the petitioner under Section 255(2) of the Code of Criminal
+Procedure, 1973 for Commission of offence punishable under Section 138 of the
+Negotiable Instruments Act, 1881 and sentencing the petitioner to suffer simple
+imprisonment for one year and to pay compensation of Rs. 10 lakhs to the Opposite
+Party no.2 within two months from the date of the Order, in default, to suffer
+rigorous imprisonment of further two months, is hereby set aside/quashed.”
+
+22.The complainant being dissatisfied with the judgment and order passed by the High Court
+acquitting the accused of the alleged offence, has come up before this Court with the present appeal.
+
+      B.   SUBMISSIONS ON BEHALF OF THE                        APPELLANT /
+
+           COMPLAINANT
+
+23.Mr. Uddyam Mukherjee, the learned counsel appearing for the complainant, vehemently
+submitted that the High Court committed an egregious error in acquitting the accused on the
+ground that he could not have been held vicariously liable for the offence said to have been
+committed by the company in the absence of the company being prosecuted and punished.
+
+24.According to the learned counsel, the transaction in question was between the accused and the
+complainant. The company was not at all in picture. He submitted that there is nothing on record to
+indicate that the accused had borrowed the amount for the company or on behalf of the company.
+
+25.He submitted that although the cheque in question might have been issued by the accused
+containing a stamp of the hospital on it and signed by him in his capacity as a Director of the
+company, yet the said cheque was issued in discharge of his personal debt.
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+12
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+26.He further submitted that even before the Trial Court, it was not the defence of the accused that
+he had issued the cheque to discharge the debt of the company. He led no evidence worth the name
+in this regard. On the contrary, his defence was that the cheque was issued by way of a security
+towards a loan transaction and the same had been misused by the complainant.
+
+27.In such circumstances, referred to above, the learned counsel prayed that there being merit in his
+appeal, the same be allowed and the impugned judgment and order passed by the High Court be set
+aside. C. SUBMISSIONS ON BEHALF OF THE RESPONDENT / ACCUSED
+
+28.On the other hand, Mr. Gaurav Kejriwal the learned counsel appearing for the accused, while
+opposing this appeal, submitted that no error not to speak of any error of law could be said to have
+been committed by the High Court in passing the impugned order.
+
+29.According to him, it is well-settled that if the accused is to be held vicariously liable for the
+offence alleged to have been committed by the company, then in the absence of company being
+prosecuted, no vicarious liability can be fastened on the Director of the company who is said to have
+drawn the cheque in question. He submitted that there is no possibility of any doubt arising as
+regards whether the cheque in question was drawn upon the account maintained by the company as
+the cheque was duly stamped with the stamp of the company. It was the responsibility of the
+complainant to exercise due diligence and issue a statutory notice to the drawer of the cheque, that
+is Shilabati Hospital Pvt. Ltd.
+
+30.He would submit that all throughout the defence of his client was that the cheque was issued by
+way of security towards a loan transaction and not in discharge of any legally enforceable debt.
+
+31.In such circumstances, referred to above, the learned counsel prayed that there being no merit in
+the appeal the same may be dismissed.
+
+D. ANALYSIS
+
+32.Having heard the learned counsel appearing for the parties and having gone through the
+materials on record, the only question that falls for our consideration is whether the High Court
+committed any error in passing the impugned order.
+
+i. Section 138 of the NI Act
+
+33.Section 138 of the NI Act is contained in the Chapter XVII which was inserted vide Section 4 of
+the Banking, Public Financial Institutions and Negotiable Instruments Laws (Amendment) Act,
+1988. Chapter XVII of the NI Act, which consists of Sections 138 to 147, inter alia provides for
+penalties in case of dishonour of certain cheques for insufficiency of funds in the accounts.
+Paragraph (xi) of the Statement of the Objects and Reasons specifies the legislative intent behind
+introduction of Chapter XVII to the NI Act in the following words:
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+13
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+“(xi) to enhance the acceptability of cheques in settlement of liabilities by making the
+drawer liable for penalties in case of bouncing of cheques due to insufficiency of
+funds in the accounts or for the reason that it exceeds the arrangements made by the
+drawer, with adequate safeguards to prevent harassment of honest drawers.”
+
+34.Section 138 of the NI Act reads as under:
+
+“138. Dishonour of cheque for insufficiency, etc., of funds in the account.— Where
+any cheque drawn by a person on an account maintained by him with a banker for
+payment of any amount of money to another person from out of that account for the
+discharge, in whole or in part, of any debt or other liability, is returned by the bank
+unpaid, either because of the amount of money standing to the credit of that account
+is insufficient to honour the cheque or that it exceeds the amount arranged to be paid
+from that account by an agreement made with that bank, such person shall be
+deemed to have committed an offence and shall, without prejudice to any other
+provision of this Act, be punished with imprisonment for a term which may be
+extended to two years’, or with fine which may extend to twice the amount of the
+cheque, or with both:
+
+Provided that nothing contained in this section shall apply unless—
+
+(a) the cheque has been presented to the bank within a period of six months from the
+date on which it is drawn or within the period of its validity, whichever is earlier;
+
+(b) the payee or the holder in due course of the cheque, as the case may be, makes a
+demand for the payment of the said amount of money by giving a notice; in writing,
+to the drawer of the cheque, within thirty days of the receipt of information by him
+from the bank regarding the return of the cheque as unpaid; and
+
+(c) the drawer of such cheque fails to make the payment of the said amount of money
+to the payee or, as the case may be, to the holder in due course of the cheque, within
+fifteen days of the receipt of the said notice.
+
+Explanation.—For the purposes of this section, “debt of other liability” means a legally enforceable
+debt or other liability.”
+
+35.This Court in Kusum Ingots & Alloys Ltd. v. Pennar Peterson Securities Ltd. and Others reported
+in (2000) 2 SCC 745 explained the ingredients which are to be satisfied for making out a case under
+Section 138 of the NI Act in the following manner:
+
+“10. On a reading of the provisions of Section 138 of the NI Act it is clear that the
+ingredients which are to be satisfied for making out a case under the provision are:
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+14
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+(i) a person must have drawn a cheque on an account maintained by him in a bank
+for payment of a certain amount of money to another person from out of that account
+for the discharge of any debt or other liability;
+
+(ii) that cheque has been presented to the bank within a period of six months from
+the date on which it is drawn or within the period of its validity, whichever is earlier;
+
+(iii) that cheque is returned by the bank unpaid, either because the amount of money
+standing to the credit of the account is insufficient to honour the cheque or that it
+exceeds the amount arranged to be paid from that account by an agreement made
+with the bank;
+
+(iv) the payee or the holder in due course of the cheque makes a demand for the
+payment of the said amount of money by giving a notice in writing, to the drawer of
+the cheque, within 15 days of the receipt of information by him from the bank
+regarding the return of the cheque as unpaid;
+
+(v) the drawer of such cheque fails to make payment of the said amount of money to
+the payee or the holder in due course of the cheque within 15 days of the receipt of the
+said notice.”
+
+36.In the case on hand, the cheque in question came to be signed by the accused, in his capacity as
+the Director and Authorised Signatory of the Company Shilabati Hospital Pvt. Ltd., on the account
+maintained by the Company with the Standard Chartered Bank. Hence, the question that falls for
+our determination is whether the accused could be said to be covered by the expression “account
+maintained by him” as it appears in Section 138 of the NI Act. In other words, could it be said that
+the accused was “maintaining” the bank account upon which the dishonoured cheque had been
+drawn.
+
+37. Section 6 of the NI Act inter alia defines a “cheque” as a bill of exchange drawn on a specified
+banker and not expressed to be payable otherwise than on demand. Section 7 defines the “drawer”
+as the maker of a bill of exchange or cheque and “drawee” as the person thereby directed to pay.
+Sections 30 and 31 of the NI Act respectively define the liability of the drawer and the drawee of a
+cheque as follows:
+
+“30. Liability of drawer.—The drawer of a bill of exchange or cheque is bound, in case
+of dishonour by the drawee or acceptor thereof, to compensate the holder, provided
+due notice of dishonour has been given to, or received by, the drawer as hereinafter
+provided.
+
+31. Liability of drawee of cheque.—The drawee of a cheque having sufficient funds of
+the drawer in his hands properly applicable to the payment of such cheque must pay
+the cheque when duly required so to do, and , in default of such payment, must
+compensate the drawer for any loss or damage caused by such default.”
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+15
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+38.The proviso (b) to Section 138 provides that the payee or the holder of the cheque which has been
+dishonoured must give a written notice to the drawer of the cheque within 30 days of the receipt of
+information from the bank that the cheque has been returned as unpaid. Further proviso (c)
+provides that if the drawer of the cheque makes the payment of the amount mentioned in the cheque
+within 15 days of receiving the notice mentioned in proviso (b), then he cannot be held liable under
+Section 138.
+
+39.What invariably follows from a perusal of the aforesaid provisions is that it is only the drawer of
+the cheque who can be held liable under Section
+
+138. Section 141 is an exception to this scheme of the NI Act and provides for vicarious liability of
+persons other than the drawer of the cheque in cases where the drawer of the cheque under Section
+138 is a corporate person.
+
+40.The question as to whether a person who was not the drawer of the cheque upon an account
+maintained by him could be held to be liable for an offence under Section 138 of the NI Act fell for
+the consideration of this Court in the case of P.J. Agro Tech Ltd. and Others v. Water Base Ltd.
+reported in (2010) 12 SCC 146. The Court construed the provision strictly and answered the
+question in the negative. The relevant observations are reproduced hereinbelow:
+
+“11. From the submissions made on behalf of the respective parties, it is quite
+apparent that the short point for decision in this appeal is whether a complaint under
+Section 138 of the 1881 Act would be maintainable against a person who was not the
+drawer of the cheque from an account maintained by him, which ultimately came to
+be dishonoured on presentation.
+
+xxx xxx xxx
+
+13. From a reading of the said section, it is very clear that in order to attract the
+provisions thereof a cheque which is dishonoured will have to be drawn by a person
+on an account maintained by him with the banker for payment of any amount of
+money to another person from out of that account for the discharge, in whole or in
+part of any debt or other liability. It is only such a cheque which is dishonoured which
+would attract the provisions of Section 138 of the above Act against the drawer of the
+cheque.
+
+14. In the instant case, the cheque which had been dishonoured may have been issued
+by Respondent 11 for discharging the dues of Appellant 1 Company and its Directors
+to Respondent 1 Company and the respondent Company may have a good case
+against Appellant 1 Company for recovery of its dues before other fora, but it would
+not be sufficient to attract the provisions of Section 138 of the 1881 Act. The appellant
+Company and its Directors cannot be made liable under Section 138 of the 1881 Act
+for a default committed by Respondent 11. An action in respect of a criminal or a
+quasi-criminal provision has to be strictly construed in keeping with the provisions
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+16
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+alleged to have been violated. The proceedings in such matters are in personam and
+cannot be used to foist an offence on some other person, who under the statute was
+not liable for the commission of such offence.” (Emphasis supplied)
+
+41.In Jugesh Sehgal v. Shamsher Singh Gogi reported in (2009) 14 SCC 683, this Court emphasised
+on the importance of the dishonoured cheque having been drawn by the accused person on an
+account held in his name for the offence to be made out and held thus:
+
+“22. As already noted hereinbefore, in Para 3 of the complaint, there is a clear
+averment that the cheque in question was issued from an account which was non-
+existent on the day it was issued or that the account from where the cheque was
+issued “pertained to someone else”. As per the complainant's own pleadings, the bank
+account from where the cheque had been issued, was not held in the name of the
+appellant and therefore, one of the requisite ingredients of Section 138 of the Act was
+not satisfied. Under the circumstances, continuance of further proceedings in the
+complaint under Section 138 of the Act against the appellant would be an abuse of the
+process of the court. In our judgment, therefore, the decision of the High Court
+cannot be sustained.” (Emphasis supplied)
+
+42.The aforesaid discussion makes it clear that as per the legislative scheme it is only the drawer of
+the cheque who is sought to be made liable for the offence punishable under Section 138 of the NI
+Act. Thus, the next question that requires consideration is whether a Director of a company, who is
+also the authorised signatory, to sign and issue cheques on its behalf could be said to be the drawer
+of a cheque drawn upon the bank account held in the name of the company. In other words, whether
+such an authorised signatory could be said to “maintain” the bank account upon which the
+dishonoured cheque has been drawn for the reason that such a person has the authority to enter into
+transactions using the bank account of the company and also look after the day-to-day functioning
+of the bank account of the company.
+
+ii. Whether authorized signatory of a company falls within the ambit of the expression “drawer”?
+
+43.This Court in one of its recent decisions in the case of Shri Gurudatta Sugars Marketing (P) Ltd.
+v. Prithviraj Sayajirao Deshmukh and Others reported in 2024 SCC OnLine SC 1800 had the
+occasion to consider the issue of whether the authorised signatory of a company who had signed a
+cheque drawn on the bank account of the company and which got dishonoured subsequently could
+be held to be liable for the payment of interim compensation under Section 143A of the NI Act. This
+Court while answering the issue in the negative, applied the doctrine of separate corporate
+personality and held that it is only the drawer of the cheque who could be held to be liable for the
+payment of interim compensation under Section 143A of the NI Act and the authorised signatory of
+a company cannot be said to be the drawer of the cheque. The relevant observations made by the
+Court are reproduced hereinbelow:
+
+“13. The appellant has challenged the judgment and order of the High Court dated
+March 29, 2023 as well as the relied upon judgment and order dated March 8, 2023.
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+17
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+The present appeal is filed assailing the correctness of these orders vis-a-vis the
+larger question of law, as framed by the High Court:
+
+“Whether the signatory of the cheque, authorised by the ‘company’, is the ‘drawer’
+and whether such signatory could be directed to pay interim compensation in terms
+of section 143A of the Negotiable Instruments Act, 1881 leaving aside the company?”
+xxx xxx xxx
+
+28. The High Court's interpretation of section 7 of the Negotiable Instruments Act,
+1881 accurately identified the “drawer” as the individual who issues the cheque. This
+interpretation is fundamental to understanding the obligations and liabilities under
+section 138 of the Negotiable Instruments Act, 1881, which makes it clear that the
+drawer must ensure sufficient funds in their account at the time the cheque is
+presented. The appellants’ argument that directors or other individuals should also
+be liable under section 143A misinterprets the statutory language and intent. The
+primary liability, as correctly observed by the High Court, rests on the drawer,
+emphasizing the drawer's responsibility for maintaining sufficient funds.
+
+29. The general rule against vicarious liability in criminal law underscores that
+individuals are not typically held criminally liable for acts committed by others unless
+specific statutory provisions extend such liability. Section 141 of the Negotiable
+Instruments Act, 1881 is one such provision, extending liability to the company's
+officers for the dishonour of a cheque. The appellants’ attempt to extend this
+principle to section 143A, to hold directors or other individuals personally liable for
+interim compensation, is unfounded. The High Court rightly emphasised that liability
+under section 141 arises from the conduct or omission of the individual involved, not
+merely their position within the company.
+
+30. The distinction between legal entities and individuals acting as authorized
+signatories is crucial. Authorised signatories act on behalf of the company but do not
+assume the company's legal identity. This principle, fundamental to corporate law,
+ensures that while authorised signatories can bind the company through their
+actions, they do not merge their legal status with that of the company. This
+distinction supports the High Court's interpretation that the drawer under section
+143A refers specifically to the issuer of the cheque, not the authorised signatories.
+
+31. The principle of statutory interpretation, particularly in relation to sections 143A
+and 148, was also correctly applied by the High Court. The court emphasised that
+when statutory language is clear and unambiguous, it should be given its natural and
+ordinary meaning. The legislative intent, as discerned from the plain language of the
+statute, aims to hold the drawer accountable. The appellants’ argument for a broader
+interpretation to include authorised signatories under section 143A contradicts this
+principle and would lead to an unjust extension of liability not supported by the
+statutory text.” (Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+18
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+44.In yet one another decision of this Court in the case of N. Harihara Krishnan v. J. Thomas
+reported in (2018) 13 SCC 663, while dealing with the issue of commission of an offence under
+Section 138 of the NI Act by a company, the Court observed that Section 138 only contemplates the
+drawer of the cheque to be responsible for the commission of the offence. It is only by virtue of
+Section 141 that certain persons other than the drawer of the cheque can be made liable for the
+offence in cases where the offence under Section 138 is committed by a company and not an
+individual person. The Court, in the facts of the case before it, further held that the identity of the
+drawer of the cheque was apparent from the cheque itself and thus it was not open to the
+payee/complainant to seek impleadment of the company, that is, the drawer of the cheque, at a
+belated stage by filing an impleadment application when it had instituted the complaint only against
+the authorised signatory who had signed the cheque on behalf of the company. The Court also held
+that the offence under Section 138 is person specific and in the absence of applicability of the
+principles of the Code of Criminal Procedure, 1973, the magistrate cannot take cognizance of the
+complaint unless it is made against the drawer of the cheque, as it is only the drawer who can be an
+accused under Section 138. The relevant observations are reproduced hereinbelow:
+
+“20. The offence under Section 138 of the Act is capable of being committed only by
+the drawer of the cheque. The logic of the High Court that since the offence is already
+taken cognizance of, there is no need to take cognizance of the offence against
+Dakshin is flawed. Section 141 stipulates the liability for the offence punishable under
+Section 138 of the Act when the person committing such an offence happens to be a
+company—in other words when the drawer of the cheque happens to be a company.
+[...] xxx xxx xxx
+
+22. The High Court failed to appreciate that the liability of the appellant (if any in the
+context of the facts of the present case) is only statutory because of his legal status as
+the Director of Dakshin. Every person signing a cheque on behalf of a company on
+whose account a cheque is drawn does not become the drawer of the cheque. Such a
+signatory is only a person duly authorised to sign the cheque on behalf of the
+company/drawer of the cheque. If Dakshin/drawer of the cheque is sought to be
+summoned for being tried for an offence under Section 138 of the Act beyond the
+period of limitation prescribed under the Act, the appellant cannot be told in view of
+the law declared by this Court in Aneeta Hada [Aneeta Hada v. Godfather Travels &
+Tours (P) Ltd., (2012) 5 SCC 661 : (2012) 3 SCC (Civ) 350 : (2012) 3 SCC (Cri) 241]
+that he can make no grievance of that fact on the ground that Dakshin did not make
+any grievance of such summoning. It is always open to Dakshin to raise the defence
+that the initiation of prosecution against it is barred by limitation. Dakshin need not
+necessarily challenge the summoning order. It can raise such a defence in the course
+of trial.
+
+xxx xxx xxx
+
+27. By the nature of the offence under Section 138 of the Act, the first ingredient constituting the
+offence is the fact that a person drew a cheque. The identity of the drawer of the cheque is
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+19
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+necessarily required to be known to the complainant (payee) and needs investigation and would not
+normally be in dispute unless the person who is alleged to have drawn a cheque disputes that very
+fact. The other facts required to be proved for securing the punishment of the person who drew a
+cheque that eventually got dishonoured is that the payee of the cheque did in fact comply with each
+one of the steps contemplated under Section 138 of the Act before initiating prosecution. Because it
+is already held by this Court that failure to comply with any one of the steps contemplated under
+Section 138 would not provide “cause of action for prosecution”. Therefore, in the context of a
+prosecution under Section 138, the concept of taking cognizance of the offence but not the offender
+is not appropriate. Unless the complaint contains all the necessary factual allegations constituting
+each of the ingredients of the offence under Section 138, the Court cannot take cognizance of the
+offence. Disclosure of the name of the person drawing the cheque is one of the factual allegations
+which a complaint is required to contain. Otherwise in the absence of any authority of law to
+investigate the offence under Section 138, there would be no person against whom a court can
+proceed. There cannot be a prosecution without an accused. The offence under Section 138 is person
+specific. Therefore, Parliament declared under Section 142 that the provisions dealing with taking
+cognizance contained in the CrPC should give way to the procedure prescribed under Section 142.
+Hence the opening of non obstante clause under Section 142. It must also be remembered that
+Section 142 does not either contemplate a report to the police or authorise the Court taking
+cognizance to direct the police to investigate into the complaint.
+
+(Emphasis supplied) iii. Meaning of the expression “on an account maintained by him” used in
+Section 138 of the NI Act
+
+45.It is of vital importance to understand the import of the expression “on an account maintained by
+him with a banker” used in Section 138 of the NI Act. The expression, in our considered opinion,
+describes the relationship between the account holder and the banker. This relationship is
+fundamental to the application of Section 138. The act of maintaining an account is exclusively tied
+to the account holder and does not extend to any third party whom the account holder may
+authorize to manage the account on its behalf. Therefore, any delegation of authority to manage the
+account does not alter the intrinsic relationship existing between the account holder and the banker
+as envisaged under the NI Act. Corporate persons like companies, which are mere legal entities and
+have no soul, mind or limb to work physically, discharge their functions through some human
+agency recognised under the law to work. Therefore, if some function is discharged by such human
+agency for and on behalf of the company it would be an act of the company and not attributable to
+such human agent. One such instance of discharge of functions could be the authority to manage the
+bank accounts of the company, issue and sign cheques on its behalf, etc. which may be delegated to
+an authorised signatory. However, such authorisation would not render the authorised signatory as
+the maker of those cheques. It is the company alone which would continue to be the maker of these
+cheques, and thus also the drawer within the meaning of Section 7 of the NI Act.
+
+46.The authorised signatory is merely the physical limb that signs and makes the cheque on behalf
+of the company’s incorporeal personality. The company, for all purposes, continues to remain the
+drawer of the cheques. If the interpretation as being canvassed by the complainant is accepted then
+even an employee of the Company, who on account of his being an authorized signatory signs a
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+20
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+cheque issued by the Company towards discharge of the debt or other liability of the Company,
+would be liable to prosecution and conviction under Section 138 of NI Act even after he resigns from
+the company and is no more in its employment. This certainly could not have been the intention of
+the legislature. Even the vicarious liability created under Section 138 of NI Act would not be
+attracted in respect of a Director or an employee of the Company who resigns and severs his
+connections with the company, unless the complainant is able to bring his case within the purview of
+sub-Section 2 of Section 141, by proving that the offence had been committed with his consent or
+connivance or was otherwise attributable to any neglect on his part.
+
+47.We would hasten to add that the above interpretation should not in any manner be misconstrued
+to affix liability upon the joint account holder of an account unless the cheque is shown to have been
+made/drawn jointly by such joint account holder. A company vis-à-vis its authorised signatory
+stands on a completely different footing as compared to account holders of a joint account. In the
+former, it is only the company which holds an account with the banker, whereas in the latter, each
+joint account holder can be said to hold an account with the banker. Thus, while in the case of a
+cheque drawn on the account of the company the authorised signatory cannot be held to be the
+drawer, in the case of a cheque drawn upon a joint account, each account holder affixing his
+signature to the cheque may be said to have drawn such a cheque. The position of law on this issue
+has been settled by this Court in the case of Aparna A. Shah v. Sheth Developers (P) Ltd. reported in
+(2013) 8 SCC 71, wherein it was observed thus:
+
+“28. We also hold that under Section 138 of the NI Act, in case of issuance of cheque
+from joint accounts, a joint account-holder cannot be prosecuted unless the cheque
+has been signed by each and every person who is a joint account-holder. The said
+principle is an exception to Section 141 of the NI Act which would have no application
+in the case on hand. The proceedings filed under Section 138 cannot be used as
+arm-twisting tactics to recover the amount allegedly due from the appellant. It cannot
+be said that the complainant has no remedy against the appellant but certainly not
+under Section 138. The culpability attached to the dishonour of a cheque can, in no
+case “except in case of Section 141 of the NI Act” be extended to those on whose
+behalf the cheque is issued. This Court reiterates that it is only the drawer of the
+cheque who can be made an accused in any proceeding under Section 138 of the Act.
+[...]” (Emphasis supplied)
+
+48.The expression “on an account maintained by him” has been construed by a learned Single Judge
+of the Kerala High Court in the case of P.N. Salim v. P.J. Thomas & Another reported in 2004 SCC
+Online Ker 269 to also include those cases where the cheque was issued by the drawer after the
+closure of the account maintained by him with the bank. The High Court said so having regard to
+the underlying object behind the enactment of Section 138. A similar view was taken by the Gujarat
+High Court in the case of Hashmikant M. Seth v. State of Gujarat & Anr. reported in 2004 SCC
+Online Guj 300. We are in agreement with both the High Courts on the understanding of the
+expression “on an account maintained by him”.
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+21
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+49.We are in seisin of the fact that in the case at hand, the accused had allegedly borrowed the
+amount from the complainant on the pretext that he was in need of financial help regarding some
+infrastructure development project he was undertaking. Nothing was brought on record during the
+course of the trial which would suggest that there was some sort of an understanding between the
+complainant and the accused that the debt of the accused would be discharged by the Shilabati
+Hospital Pvt. Ltd. A perusal of the notice issued by the complainant to the accused as well as a
+reading of the complaint filed by the complainant before the magistrate clearly brings out that the
+complainant was under the impression that the cheque was drawn by the accused in personal
+capacity upon a bank account maintained by him with the Standard Chartered Bank. Further, the
+defence that the bank account upon which the cheque was drawn was held in the name of Shilabati
+Hospital and not in the name of the accused was taken for the first time in the appeal filed by the
+accused before the Sessions Court. Although it can be understood that the complainant had no
+occasion to believe that the cheque was drawn upon the bank account of Shilabati Hospital as the
+debt was one which was taken by the accused in his personal capacity, yet a bare perusal of the
+cheque shows that the cheque was signed by the accused in the capacity of the Director of the
+Shilabati Hospital Pvt. Ltd. as the same bears both the stamp of the director as well as the hospital.
+
+50.A catena of decisions of this Court have settled the position of law that in case of a cheque issued
+on behalf of a company by its authorised signatory, prosecution cannot proceed against the such
+authorised signatory or other post-holders of the company as described under Section 141 of the NI
+Act, unless the company who is the drawer of the cheque is arraigned as an accused in the complaint
+case filed before the magistrate. Further, vicarious liability can only be affixed against the directors,
+authorised signatories, etc. of the company after the company is held liable for the commission of
+offence under Section 138.
+
+51.It is not the case of the complainant that the cheque in question was drawn by the accused on a
+bank account maintained by him, rather the case is that the cheque was issued in discharge of the
+personal liability of the accused towards the complainant, and hence there was no occasion for it to
+implead the company as an accused.
+
+iv. Scope of the expression “any debt or other liability” appearing in Section 138 of the NI Act
+
+52.Section 138 of the NI Act does not envisage that only those cases where a cheque issued towards
+the discharge of the personal liability of the drawer towards the payee gets dishonoured would come
+within the ambit of the provision. The expression “of any debt or other liability” appearing in
+Section 138 when read with the Explanation to the provision is wide enough to bring any debt or
+liability which is legally enforceable within its fold. Thus, the requirement under the provision is
+that the debt or any other liability has to be legally enforceable and the emphasis is not on the
+existence of such debt or other liability between the drawer and the payee. A number of decisions of
+this Court have clarified that even those cases where a person assumes the responsibility of
+discharging the debt of some other person, and in furtherance thereof draws a cheque on an account
+maintained by him, which subsequently gets dishonoured upon being presented before the drawee,
+would be covered by Section 138 if the payee is able to establish that there was some sort of an
+arrangement by way of which the debt was assumed by the drawer.
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+22
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+53.This Court in the case of Anil Sachar and Another v. Shree Nath Spinners Private Limited and
+Others reported in (2011) 13 SCC 148 observed thus:
+
+“15. Upon perusal of the record, we find that the complainants had established before
+the trial court that there was an understanding among the complainants and the
+accused that in consideration of supply of goods to M/s Shree Nath Spinners (P) Ltd.,
+M/s AT Overseas Ltd. was to make the payment. The aforestated understanding was
+on account of the fact that Directors in both the aforestated companies were common
+and the aforestated companies were sister concerns. In the circumstances, it can be
+very well said and it has been proved that in consideration of supply of goods to M/s
+Shree Nath Spinners (P) Ltd., M/s AT Overseas Ltd. had made the payment. In view
+of the above fact, in our opinion, the trial court was not right when it came to the
+conclusion that there was no reason for M/s AT Overseas Ltd. to give the cheques to
+the complainants.
+
+xxx xxx xxx
+
+17. The trial court materially erred while coming to a conclusion that in criminal law
+no presumption can be raised with regard to consideration as no goods had been
+supplied by the complainants to M/s AT Overseas Ltd. The trial court ought to have
+considered the provisions of Section 139 of the Act, which reads as under:
+
+“139.Presumption in favour of holder.—It shall be presumed, unless the contrary is
+proved, that the holder of a cheque received the cheque, of the nature referred to in
+Section 138 for the discharge, in whole or in part, of any debt or other liability.”
+
+18. According to the provisions of the aforestated section, there is a presumption with
+regard to consideration when a cheque has been paid by the drawer of the cheque. In
+the instant case, M/s AT Overseas Ltd. paid the cheque which had been duly signed
+by one of its Directors, namely, Munish Jain. Munish Jain is also a Director in M/s
+Shree Nath Spinners (P) Ltd. As stated hereinabove, both are sister concerns having
+common Directors. Extracts of books of accounts had been produced before the trial
+court so as to show that both the companies were having several transactions and the
+companies used to pay on behalf of each other to other parties or their creditors. The
+above fact strengthens the presumption to the effect that M/s AT Overseas Ltd. had
+paid the cheques to the complainants, which had been signed by Munish Jain, in
+consideration of goods supplies to M/s Shree Nath Spinners (P) Ltd. Of course, the
+presumption referred to in Section 139 is rebuttable. In the instant case, no effort was
+made by Munish Jain or any of the Directors of M/s AT Overseas Ltd. for rebuttal of
+the aforestated presumption and, therefore, the presumption must go in favour of the
+holder of the cheques. Unfortunately, the trial court did not consider the above facts
+and came to the conclusion that there was no consideration for the cheques which
+had been given by M/s AT Overseas Ltd. to the complainants.” (Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+23
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+54.In another judgment delivered by this Court in ICDS Ltd. v. Beena Shabeer and Another reported
+in (2002) 6 SCC 426, reference was made to the nature of liability which is incurred by the one who
+is a drawer of the cheque and observed that if the cheque is given towards any liability or debt which
+might have been incurred even by someone else, the person who is the drawer of the cheque can be
+made liable under Section 138 of the Act. The relevant observations made therein are reproduced
+hereinbelow:
+
+“10. The language, however, has been rather specific as regards the intent of the
+legislature. The commencement of the section stands with the words “Where any
+cheque”. The abovenoted three words are of extreme significance, in particular, by
+reason of the user of the word “any” — the first three words suggest that in fact for
+whatever reason if a cheque is drawn on an account maintained by him with a banker
+in favour of another person for the discharge of any debt or other liability, the
+highlighted words if read with the first three words at the commencement of Section
+138, leave no manner of doubt that for whatever reason it may be, the liability under
+this provision cannot be avoided in the event the same stands returned by the banker
+unpaid. The legislature has been careful enough to record not only discharge in whole
+or in part of any debt but the same includes other liability as well. This aspect of the
+matter has not been appreciated by the High Court, neither been dealt with or even
+referred to in the impugned judgment.
+
+11. The issue as regards the coextensive liability of the guarantor and the principal
+debtor, in our view, is totally out of the purview of Section 138 of the Act, neither the
+same calls for any discussion therein. The language of the statute depicts the intent of
+the law-makers to the effect that wherever there is a default on the part of one in
+favour of another and in the event a cheque is issued in discharge of any debt or other
+liability there cannot be any restriction or embargo in the matter of application of the
+provisions of Section 138 of the Act. “Any cheque” and “other liability” are the two
+key expressions which stand as clarifying the legislative intent so as to bring the
+factual context within the ambit of the provisions of the statute.
+
+Any contra-interpretation would defeat the intent of the legislature. The High Court, it seems, got
+carried away by the issue of guarantee and guarantor's liability and thus has overlooked the true
+intent and purport of Section 138 of the Act. The judgments recorded in the order of the High Court
+do not have any relevance in the contextual facts and the same thus do not lend any assistance to the
+contentions raised by the respondents.” (Emphasis supplied)
+
+55.A perusal of the above two decisions indicates that even if the cheque might have been issued for
+the discharge of personal liability of the accused towards the complainant, had the company
+Shilabati Hospital Pvt. Ltd.
+
+been arraigned as an accused in the complaint case before the Trial Court, it would have remained
+open to the complainant to establish with the aid of the presumption under Section 139 that the
+cheque issued by the company was in discharge of a legally enforceable debt. However, in the
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+24
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+absence of the drawer of the cheque having been arraigned as an accused, it was rightly held by the
+High Court that no prosecution could have proceeded against the accused in his personal capacity.
+The only way by which the accused could be held liable was under Section 141 of the NI Act, however
+the same could not have been done in the absence of the company being arraigned as an accused.
+This position of law has been explained by a number of decisions of this Court. A three-Judge Bench
+of this Court in Aneeta Hada v. Godfather Travels and Tours Private Limited reported in (2012) 5
+SCC 661 observed thus:
+
+“17. The gravamen of the controversy is whether any person who has been mentioned
+in Sections 141(1) and 141(2) of the Act can be prosecuted without the company being
+impleaded as an accused. To appreciate the controversy, certain provisions need to be
+referred to.
+
+xxx xxx xxx
+
+58. Applying the doctrine of strict construction, we are of the considered opinion that
+commission of offence by the company is an express condition precedent to attract
+the vicarious liability of others. Thus, the words “as well as the company” appearing
+in the section make it absolutely unmistakably clear that when the company can be
+prosecuted, then only the persons mentioned in the other categories could be
+vicariously liable for the offence subject to the averments in the petition and proof
+thereof.
+
+One cannot be oblivious of the fact that the company is a juristic person and it has its own
+respectability. If a finding is recorded against it, it would create a concavity in its reputation. There
+can be situations when the corporate reputation is affected when a Director is indicted.
+
+59. In view of our aforesaid analysis, we arrive at the irresistible conclusion that for maintaining the
+prosecution under Section 141 of the Act, arraigning of a company as an accused is imperative. The
+other categories of offenders can only be brought in the drag-net on the touchstone of vicarious
+liability as the same has been stipulated in the provision itself. We say so on the basis of the ratio
+laid down in C.V. Parekh [(1970) 3 SCC 491 :
+
+1971 SCC (Cri) 97] which is a three-Judge Bench decision. Thus, the view expressed
+in Sheoratan Agarwal [(1984) 4 SCC 352 : 1984 SCC (Cri) 620] does not correctly lay
+down the law and, accordingly, is hereby overruled. The decision in Anil Hada
+[(2000) 1 SCC 1 :
+
+2001 SCC (Cri) 174] is overruled with the qualifier as stated in para 51. The decision
+in Modi Distillery [(1987) 3 SCC 684 : 1987 SCC (Cri) 632] has to be treated to be
+restricted to its own facts as has been explained by us hereinabove.” (Emphasis
+supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+25
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+56.As specified in paragraph 59 of the aforesaid decision, the only exception to the
+general rule as laid above is embodied in the doctrine of lex non cogit ad impossibilia
+which means that the law doesn’t compel the impossible.
+
+Thus, it is only in those cases where the impleadment of the company is not possible due to some
+legal impediment that this general rule can be exempted. In the facts on hand, it cannot be said that
+there was any legal difficulty in impleading Shilabati Hospital Pvt. Ltd. as an accused in the
+complaint case filed by the complainant. Thus, even the benefit of the exception cannot be extended
+to the complainant in the present case.
+
+57. In Himanshu v. B. Shivamurthy (supra), the Court was examining the legality and validity of the
+order quashing a complaint passed by the High Court in exercise of its inherent powers under
+Section 482 of the CrPC in a case where the Director of the company was arraigned as the sole
+accused for the dishonour of a cheque drawn upon the bank account held in the name of the
+company. Reiterating the principles laid down in Aneeta Hada (supra), this Court upheld the
+decision of the High Court in quashing the complaint case.
+
+58.In yet another decision of this Court in Mainuddin Abdul Sattar Shaikh v. Vijay D. Salvi reported
+in (2015) 9 SCC 622, the facts interestingly were virtually opposite to the facts of the case on hand.
+In the said case, the accused, who was the Managing Director of a company had issued a cheque
+drawn on his personal account in discharge of the liability of the company. The cheque later came to
+be dishonoured and a private complaint was lodged against the accused under Section 138 of the NI
+Act. Both the trial court and the High Court acquitted the accused on the ground that the company
+was not made a party to the proceedings. However, this Court set aside the order of acquittal and
+held the accused liable for the offence under Section 138. It was observed by this Court that as the
+cheque was drawn by the accused on an account maintained by him, the Company or any of its
+directors could not be made liable for the offence, even if the cheque was issued by the accused
+towards the discharge of the debt of the company. The relevant observations made by the Court are
+reproduced hereinbelow:
+
+“10. In the present case, it is an admitted fact that the drawer of the cheque was the
+respondent, who had drawn the cheque, bearing No. 075073 for Rs 74,200 on a bank
+account maintained by him towards the refund of the booking amount. Therefore, he
+was the drawer of the cheque. The case of the appellant, apart from being supported
+by the provision of Section 138 of the NI Act, also gets buttressed by the judgment in
+P.J. Agro Tech Ltd. v. Water Base Ltd. [(2010) 12 SCC 146 : (2010) 4 SCC (Civ) 588 :
+(2011) 2 SCC (Cri) 164] , where this Court has dealt with the scope of Section 138 and
+held that : (SCC p. 150, para 13) “13. … it is very clear that in order to attract the
+provisions thereof a cheque which is dishonoured will have to be drawn by a person
+on an account maintained by him with the banker for payment of any amount of
+money to another person from out of that account for the discharge, in whole or in
+part of any debt or other liability. It is only such a cheque which is dishonoured which
+would attract the provisions of Section 138 of the above Act against the drawer of the
+cheque.”
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+26
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+11. About the liability under Section 138 of the NI Act, where the cheque drawn by the
+employee of the appellant Company on his personal account, even if it be for
+discharging dues of the appellant Company and its Directors, the appellant Company
+and its Directors cannot be made liable under Section 138. Thus, we observe that in
+the abovementioned case, the personal liability was upheld and the Company and its
+Directors were absolved of the liability. The logic applied was that the section itself
+makes the drawer liable and no other person. […]” (Emphasis supplied) v. Section 141
+of the NI Act
+
+59.In Aneeta Hada (supra), this Court fortified the view that criminal liability on account of
+dishonor of cheque primarily falls on the drawer company and then extends to its officers only when
+the conditions incorporated in Section 141 of the NI Act are satisfied. While explaining the import of
+the words “as well as the company” occurring in the provision, the Court observed that the
+commission of an offence by the company is an express condition precedent and only when the
+prosecution is maintainable against the Company that the persons mentioned in the other categories
+under Section 141 can be vicariously made liable for the offence committed under Section 138 of the
+NI Act. The relevant observations are reproduced hereinbelow:
+
+“53. It is to be borne in mind that Section 141 of the Act is concerned with the
+offences by the company. It makes the other persons vicariously liable for
+commission of an offence on the part of the company. As has been stated by us
+earlier, the vicarious liability gets attracted when the condition precedent laid down
+in Section 141 of the Act stands satisfied. There can be no dispute that as the liability
+is penal in nature, a strict construction of the provision would be necessitous and, in
+a way, the warrant.
+
+xxx xxx xxx
+
+58. Applying the doctrine of strict construction, we are of the considered opinion that
+commission of offence by the company is an express condition precedent to attract
+the vicarious liability of others. Thus, the words “as well as the company” appearing
+in the section make it absolutely unmistakably clear that when the company can be
+prosecuted, then only the persons mentioned in the other categories could be
+vicariously liable for the offence subject to the averments in the petition and proof
+thereof. One cannot be oblivious of the fact that the company is a juristic person and
+it has its own respectability. If a finding is recorded against it, it would create a
+concavity in its reputation. There can be situations when the corporate reputation is
+affected when a Director is indicted.” (Emphasis supplied)
+
+60.Following the rationale in Aneeta Hada (supra), this Court in Anil Gupta v. Star India Private
+Limited and Another reported in (2014) 10 SCC 373 held that the guilt for the offence under Section
+138 is only deemed upon the other persons who are connected with the Company as a consequence
+of Section 141 of the NI Act. Herein, since the complaint against the respondent Company was not
+maintainable, the High Court had quashed the summons issued by the trial court against the
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+27
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+respondent Company. This Court opined that since the Company was not a party to the proceedings
+under Section 138 read with Section 141 of the Act, the proceedings against the appellant Managing
+Director also could not be continued with. The relevant observations are reproduced hereinbelow:
+
+“13. In the present case, the High Court by the impugned judgment dated 13-8-2007
+[Visionaries Media Network v. Star India (P) Ltd., Criminal Misc. Case No. 2380 of
+2004, decided on 13-8-2007 (Del)] held that the complaint against Respondent 2
+Company was not maintainable and quashed the summons issued by the trial court
+against Respondent 2 Company. Thereby, the Company being not a party to the
+proceedings under Section 138 read with Section 141 of the Act and in view of the fact
+that part of the judgment referred to by the High Court in Anil Hada [Anil Hada v.
+Indian Acrylic Ltd., (2000) 1 SCC 1 : 2001 SCC (Cri) 174] has been overruled by a
+three-Judge Bench of this Court in Aneeta Hada [Aneeta Hada v. Godfather Travels
+and Tours (P) Ltd., (2012) 5 SCC 661 : (2012) 3 SCC (Civ) 350 :
+
+(2012) 3 SCC (Cri) 241] , we have no other option but to set aside the rest part of the
+impugned judgment [Visionaries Media Network v. Star India (P) Ltd., Criminal
+Misc. Case No. 2380 of 2004, decided on 13-8-2007 (Del)] whereby the High Court
+held that the proceedings against the appellant can be continued even in absence of
+the Company. We, accordingly, set aside that part of the impugned judgment dated
+13-8-2007 [Visionaries Media Network v. Star India (P) Ltd., Criminal Misc. Case No.
+2380 of 2004, decided on 13-8-2007 (Del)] passed by the High Court so far as it
+relates to the appellant and quash the summons and proceeding pursuant to
+Complaint Case No. 698 of 2001 qua the appellant.” (Emphasis supplied)
+
+61.This Court’s decision in Ashok Shewakramani and Others v. State of Andhra Pradesh and
+Another reported in (2023) 8 SCC 473 acknowledged the normal rule that there cannot be any
+vicarious liability under a penal provision but however, held that Section 141 of the NI Act is an
+exception to this rule. It further stated that vicarious liability would only be fastened when the
+person who is sought to be held vicariously liable was “in charge of” and “responsible to the
+Company” for the conduct of the business of the Company at the time when the offence under
+Section 138 was committed. In circumstances where such persons are indeed found vicariously
+liable, those persons as well as the Company shall be deemed to be guilty of the offence under
+Section 138 of the NI Act. The relevant observations made by the Court are reproduced hereinbelow:
+
+“21. Section 141 is an exception to the normal rule that there cannot be any vicarious
+liability when it comes to a penal provision. The vicarious liability is attracted when
+the ingredients of sub-section (1) of Section 141 are satisfied. The section provides
+that every person who at the time the offence was committed was in charge of, and
+was responsible to the Company for the conduct of business of the Company, as well
+as the Company shall be deemed to be guilty of the offence under Section 138 of the
+NI Act.” (Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+28
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+62.It follows from a conspectus of the aforesaid decisions that it is the drawer
+Company which must be first held to be the principal offender under Section 138 of
+the NI Act before culpability can be extended, through a deeming fiction, to the other
+Directors or persons in-charge of and responsible to the Company for the conduct of
+its business. In the absence of the liability of the drawer Company, there would
+naturally be no requirement to hold the other persons vicariously liable for the
+offence committed under Section 138 of the NI Act.
+
+63.Before we part with the matter, we deem it necessary to address the argument
+advanced by the counsel appearing for the accused that the object of Section 138 of
+the NI Act would be defeated if cases like the present one are held to be excluded
+from the ambit of the provision. The counsel placed reliance on a decision rendered
+by a learned Single Judge of the Madras High Court in the case of P. Sarvana Kumar
+v. S.P. Vijaya Kumar reported in 2022 SCC Online Mad 1387. The said decision was
+rendered in a petition filed under Section 482 of the Cr.P.C. for quashing of the
+private complaint filed against the petitioner therein for the offence under Section
+138 of the NI Act. The petitioner therein, who was arraigned as the second accused in
+the complaint, had filed the petition seeking quashing of the complaint qua him on
+the ground that the cheque, which came to be dishonoured, was signed by him in his
+capacity as an authorized signatory acting on behalf of the owner of a proprietorix
+concern, and thus he could not be said to have drawn the cheque on an account
+maintained by him, and the liability under Section 138 could only be affixed on the
+owner of the proprietorix concern. It was also contended by the petitioner therein
+that the provisions of Section 141 of the NI Act would have no applicability to a case
+involving a proprietorship concern as the same is not owned by a collection of
+individuals but a single person.
+
+64. The High Court while rejecting the contention of the petitioner therein, adverted
+to the object of Section 138 of the NI Act to hold that the authorized signatory could
+be said to be the drawer of the cheque as he was “maintaining” the account held in
+the name of the proprietorix concern and thus could be held liable under Section 138
+of the NI Act.
+
+65.We find it difficult to subscribe to the view taken by the High Court in the
+aforesaid decision. The High Court referred to an extract from the 11th Edition of the
+commentary on the NI Act by Bhashyam and Adiga wherein the liability of the
+principal for the acts of the agents has been discussed and erroneously relied upon it
+to attribute liability to the petitioner therein, who was the agent acting on behalf of
+the proprietorix concern.
+
+66.The position of law as has been settled by this Court and reiterated in a legion of
+decisions is that it is only the drawer of the cheque who can be held liable for an
+offence under Section 138 of the NI Act. Further, this Court has also declared through
+several pronouncements on the subject that an authorised signatory acting on behalf
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+29
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+of the principal cannot be said to be the “drawer” of the cheque “on an account
+maintained by him with a banker” under Section 138.
+
+67.It is also pertinent to note that the High Court in the aforesaid decision also
+referred to the decision of this Court in Raghu Lakshminarayanan v. Fine Tubes
+reported in (2007) 5 SCC 103 wherein it was categorically held by this Court that
+Section 141 of the NI Act will have no application to proprietorship concerns as they
+are owned by individuals and do not have a separate corporate identity. However, the
+High Court distinguished the said decision by holding that although the signatory of a
+cheque issued on behalf of a proprietorship concern cannot be said to be vicariously
+liable under Section 141 yet he could be held liable in his capacity as the drawer of the
+cheque under Section 138 of the NI Act.
+
+68.We find it difficult to approve the line of reasoning adopted by the High Court in
+relying upon the object behind the enactment of Section 138 of the Act to liberally
+interpret the language of Section 138 of the NI Act so as to include even an authorized
+signatory within its ambit. Section 138 of the NI Act being penal in nature has to be
+strictly construed and advertence to the object behind its enactment can only be
+made to supplement the language employed in the text of the statute and not to
+supplant it or render it overly broad and susceptible to misuse. This Court in P.J.
+Agro Tech (supra) noted as under:
+
+“14. … An action in respect of a criminal or a quasi- criminal provision has to be
+strictly construed in keeping with the provisions alleged to have been violated. The
+proceedings in such matters are in personam and cannot be used to foist an offence
+on some other person, who under the statute was not liable for the commission of
+such offence.” E. CONCLUSION
+
+69.As discussed above, in the case on hand, the accused was prosecuted in his
+individual capacity and not in his capacity of being the Director of the Shilabati
+Hospital Pvt. Ltd. Although it is undisputed that the accused signed the cheque in
+question, yet as the cheque was drawn not on an account maintained by him with a
+Banker but was issued on an account maintained by the hospital, the requirement of
+Section 138 of the Act cannot be said to have been complied with.
+
+70.It would have been altogether a different situation if the accused was prosecuted
+in his capacity as a Director of the Shilabati Hospital. In such a scenario, the cheque
+drawn by him on an account maintained by the Company would have satisfied the
+requirement of Section 138 of the Act but as the accused has been proceeded against
+for an offence under Section 138 of the Act in his individual capacity and inasmuch as
+the cheque dishonoured for insufficiency of funds was drawn on the account
+maintained by the Company, namely, Shilabati Hospital Pvt. Ltd., and not by the
+accused herein, no offence could be said to have been committed under Section 138
+of the Act. The High Court rightly held that in the absence of the principal offender
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+30
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+having been arraigned as an accused, prosecution for the commission of an offence
+under Section 138 of the NI Act could not have proceeded against the accused.
+
+71.As is evident from the discussion in the preceding parts of this judgment, the
+requirement of Section 138 of the NI Act is that for fastening criminal liability on the
+accused, the cheque which was dishonoured for insufficiency of funds etc., must have
+been drawn on an account maintained by the accused. The mere fact that the cheque
+signed by the accused in his capacity as a “Director” of the Company would in the
+normal course be honoured by the Bank to which it was presented does not satisfy
+the statutory requirement of Section 138 of the Act.
+
+72.Section 138 of the Act exposes the person who has drawn the cheque and which
+has been returned for insufficiency of funds to criminal liability. The provision,
+therefore, must be construed strictly. However, such a strict construction should not
+result in defeating the very purpose for which the provision has been enacted as held
+by this Court in the case of NEPC Micon Limited and Others v. Magma Leasing
+Limited reported in (1999) 4 SCC 253. At the same time, the statutory provisions
+creating penal liability cannot be stretched too far to embrace the persons and
+situations patently excluded from its purview as discernible from clear and
+unequivocal language used in the provision.
+
+73.Section 138 of the NI Act clearly postulates that the cheque returned for
+insufficiency of funds should have been drawn by a person on an account maintained
+by him. It will amount to doing violence to the language of the statute if Section 138
+of the Act is interpreted to mean that even if a person draws a cheque on an account
+not maintained by him, he shall be liable if the cheque is returned for insufficiency of
+funds. Such an interpretation will lead to absurd and wholly unintended results.
+
+74.However, the peculiar factual situation of the present case and the plight of the
+complainant is not lost upon us. We are conscious of the fact that the option of
+bringing civil action against the accused or the hospital will be of no avail to the
+complainant as the claims are hopelessly time barred.
+
+Further, it is also not open for the complainant to initiate proceedings under Section 138 of the NI
+Act afresh by impleading Shilabati Hospital Pvt. Ltd. as an accused as the time period prescribed for
+issuance of statutory notice under Section 138 has long expired.
+
+75.It is trite law that an act may constitute an offence under more than one statute. The encashment
+of the cheque for an amount of Rs 7,00,000/- issued by the complainant in favour of the accused
+stood proved during the course of the trial. Further, the conduct of the accused in not replying to the
+statutory notice of dishonour of cheque issued by the lawyer for the complainant and in not taking
+the plea of the cheque having been drawn on the account of the company in his capacity as a
+Director during the course of trial undoubtedly raises questions as regards his dishonest intention in
+not repaying the amount borrowed by him from the complainant.
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+31
+
+Bijoy Kumar Moni vs Paresh Manna on 20 December, 2024
+
+76.In such circumstances, although it is not possible to hold the accused liable for the offence under
+Section 138 of the NI Act, yet the possibility of him having committed the offence of cheating cannot
+be ruled out. Prima facie, the mens rea (guilty mind) of the accused speaks for itself.
+
+77.We leave it open to the complainant to approach the jurisdictional police station and lodge an
+appropriate FIR against the accused. If the complainant lodges an FIR, the concerned police officer
+in-charge of the police station shall investigate the same in accordance with law.
+
+78.In view of the above, the appeal fails and is hereby dismissed.
+
+79.Pending application(s), if any, stand disposed of.
+
+………………………………………J. (J.B. Pardiwala) ………………………………………J. (R. Mahadevan) NEW
+DELHI;
+
+20th December, 2024. .
+
+Indian Kanoon - http://indiankanoon.org/doc/195337301/
+
+32
+
+

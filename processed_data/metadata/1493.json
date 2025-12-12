@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 1860 of 2022",
+  "parties": {
+    "petitioner": "Shobha & Ors.",
+    "respondent": "The Chairman, Vithalrao Shinde Sahakari Sakhar Karkhana Ltd. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-11",
+  "summary": "The appellants, heirs of a deceased sugarcane cutter who died due to a snake bite, claimed compensation under the Employees' Compensation Act, 1923. The Commissioner awarded compensation with interest from the date of accident and imposed a penalty. The High Court upheld the compensation but modified interest to commence one month after the Commissioner's order and set aside the penalty. The Supreme Court found that Section 4A(3)(a) mandates interest from the date the compensation fell due—i.e., the date of death/accident—when payment is delayed beyond one month, and held that the High Court erred in not considering this. The appeal succeeded insofar as restoration of interest from the date of the incident was concerned.",
+  "legal_provisions_cited": [
+    "Section 4A(3)(a) of the Employees' Compensation Act, 1923",
+    "Section 4A(3)(b) of the Employees' Compensation Act, 1923"
+  ],
+  "final_judgment": "The impugned judgment of the High Court is quashed in part; interest @ 12% p.a. is restored from the date of the incident, i.e., 29.11.2009. The appeal is allowed without costs."
+}

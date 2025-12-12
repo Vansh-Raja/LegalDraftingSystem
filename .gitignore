@@ -1,6 +1,6 @@
 #Project Specific
-judgements/
-processed_data/
+# judgements/
+# processed_data/
 
 #AI-tools
 AGENTS.md

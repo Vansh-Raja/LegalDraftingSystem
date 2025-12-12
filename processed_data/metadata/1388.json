@@ -1,0 +1,19 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 808 OF 2022 @ SLP(CRL.) NO. 5102 OF 2019",
+  "parties": {
+    "petitioner": "Meena Devi",
+    "respondent": "The State of Uttar Pradesh and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-13",
+  "summary": "Appeal challenged High Court's grant of bail to respondent No. 2 (Shivraj Singh alias Lalla Babu) convicted in a murder case under Section 302 r/w 149 and 120B IPC. Petitioner, wife of deceased Narain Singh, argued bail order lacked reasoned analysis, ignored gravity of crime, accused's criminal history (25+ cases), and post-conviction threats to witnesses. Trial court found conspiracy from jail, upheld by evidence of three eyewitnesses and a jail letter. High Court granted bail cryptically, disregarding sentencing and witness intimidation risks. New FIR (No. 517 of 2019) showed accused threatened witness Hari Singh. State supported appeal, citing prior bail cancellation by Supreme Court in another case (Crl. App. No. 1456 of 2012). Issue: whether bail should be granted post-conviction without addressing severity, criminal antecedents, and witness safety.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 149 IPC",
+    "Section 120B IPC",
+    "Section 439 Cr.P.C.",
+    "Indian Penal Code",
+    "Criminal Procedure Code"
+  ],
+  "final_judgment": "Leave granted; appeal allowed in part. Bail granted by High Court to respondent No. 2 set aside. Respondent No. 2 directed to surrender to custody forthwith."
+}

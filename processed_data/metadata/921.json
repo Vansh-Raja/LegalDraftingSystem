@@ -1,0 +1,16 @@
+{
+  "case_number": "CIVIL APPEAL NO. 911 OF 2022",
+  "parties": {
+    "petitioner": "Income Tax Officer",
+    "respondent": "Vikram Sujitkumar Bhatia"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-06",
+  "summary": "Key issue: Whether the amendment to Section 153C of the Income Tax Act, 1961 by the Finance Act, 2015 applies retrospectively to searches conducted under Section 132 before 01.06.2015. The Gujarat High Court had quashed notices issued under Section 153C, holding the amended provision inapplicable to pre-amendment searches. The Supreme Court considered the retrospective application of the amendment, focusing on whether seized material (a hard-disk with an Excel sheet referencing the respondent) from a search conducted in 2013 could justify proceedings under amended Section 153C. The Court examined the conditions precedent for initiating assessment under Section 153C as they existed at the time of the search.",
+  "legal_provisions_cited": [
+    "Section 153C, Income Tax Act, 1961",
+    "Section 132, Income Tax Act, 1961",
+    "Finance Act, 2015"
+  ],
+  "final_judgment": "The appeal was disposed of in light of the limited question of law regarding the retrospective applicability of the amendment to Section 153C; detailed final disposition not explicitly stated in the provided text."
+}

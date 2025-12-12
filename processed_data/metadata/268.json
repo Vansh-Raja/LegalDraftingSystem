@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 3194 of 2014",
+  "parties": {
+    "petitioner": "Sahakarmaharshi Bhausaheb Thorat, Sahakari Sakhar Karkhana Ltd.",
+    "respondent": "Thyssen Krupp Industries India Pvt. Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-02-14",
+  "summary": "The appeal concerned a dispute over the supply of machinery for a continuous fermentation process, where the appellant claimed damages due to delayed delivery and failure to achieve the guaranteed alcohol yield of 280 litres per metric tonne of molasses. The Arbitral Tribunal initially awarded various damages, which were partially set aside by the Civil Judge and modified by the High Court. This Court previously restored the remand order, allowing the claim of Rs.107.54 lakhs to be adjudicated. The current issue focused on the rejection of Rs.68.15 lakhs in damages for loss due to non-performing machinery. The appellant argued that the claim was for actual loss under independent breach of warranty, while the respondent contended that liability was limited to liquidated damages under the contract and that the claim for Rs.68.15 lakhs was speculative. The Court examined clauses 15.2, 15.3, and 21 of the agreement and Section 74 of the Indian Contract Act, 1872.",
+  "legal_provisions_cited": [
+    "Section 30, Arbitration Act, 1940",
+    "Section 74, Indian Contract Act, 1872",
+    "Section 59, Sale of Goods Act",
+    "Madnani Construction Corporation (P) Ltd. v. Union of India & Ors., (2010) 1 SCC 549"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, setting aside the High Court's judgment to the extent it rejected the claim of Rs.68.15 lakhs, and restored the Arbitral Tribunal's second award. The Court held that the claim for Rs.68.15 lakhs represented actual damages arising from the failure of the machinery to perform and was not barred by the liquidated damages clauses, as the claims were based on independent breach of warranty. The respondent was directed to pay the awarded damages along with applicable interest."
+}

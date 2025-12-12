@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal No. ...... of 2022 (Arising Out of SLP (Crl) No. 7831 of 2021)",
+  "parties": {
+    "petitioner": "Som Dutt & Ors.",
+    "respondent": "The State of Himachal Pradesh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-04",
+  "summary": "The appellants challenged the dismissal of their criminal revision petition by the Himachal Pradesh High Court, which had upheld their conviction under Section 379 read with Section 34 IPC for theft. The prosecution case was that the appellants were found in possession of a tractor with mismatched registration documents during a police check. All lower courts upheld the conviction and sentence of three months' imprisonment and fine. While the Supreme Court upheld the concurrent findings of guilt, it considered the appellants' eligibility for probation. Noting no criminal antecedents and lenient sentencing, the Court invoked Section 361 Cr.P.C and Probation of Offenders Act, 1958 to release the appellants on probation, subject to furnishing personal bonds and undertaking to maintain good conduct for three years.",
+  "legal_provisions_cited": [
+    "Section 379 IPC",
+    "Section 34 IPC",
+    "Section 361 Cr.P.C.",
+    "Section 3 Probation of Offenders Act, 1958",
+    "Section 4 Probation of Offenders Act, 1958"
+  ],
+  "final_judgment": "Appeal allowed; conviction and sentence upheld but appellants released on probation of good conduct subject to furnishing bond and undertaking."
+}

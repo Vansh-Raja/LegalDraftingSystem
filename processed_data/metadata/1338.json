@@ -1,0 +1,30 @@
+{
+  "case_number": "Civil Appeal No. 689 of 2021",
+  "parties": {
+    "petitioner": "Kotak Mahindra Bank Limited",
+    "respondent": "A. Balakrishnan & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-30",
+  "summary": "The appeal challenged the NCLAT's decision that a Section 7 IBC application by Kotak Mahindra Bank was time-barred, based on Recovery Certificates issued under the Debt Recovery Act. The core issue was whether a Recovery Certificate constitutes a fresh cause of action enabling a financial creditor to initiate CIRP under Section 7 of the IBC within three years of its issuance. The petitioner relied on Dena Bank v. Shivakumar Reddy, arguing that a Recovery Certificate triggers a new limitation period. The respondents contended that the cause of action merged into the Recovery Certificate, making subsequent CIRP proceedings impermissible under res judicata and the doctrine of merger. They also argued that Recovery Certificates are not decrees for all purposes, especially after the IBC’s enforcement, and that the Dena Bank judgment was per incuriam for failing to consider key statutory provisions. The Court examined the interplay between the IBC, SARFAESI Act, and the Debt Recovery Act, focusing on definitions of 'financial creditor' and the legal fiction under Section 19(22A).",
+  "legal_provisions_cited": [
+    "Insolvency and Bankruptcy Code, 2016, Section 7",
+    "Insolvency and Bankruptcy Code, 2016, Section 3(14)",
+    "Insolvency and Bankruptcy Code, 2016, Section 5(8)",
+    "Insolvency and Bankruptcy Code, 2016, Section 6",
+    "Insolvency and Bankruptcy Code, 2016, Section 14(1)(a)",
+    "Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, Section 13(2), 13(4)",
+    "Recovery of Debts Due to Banks and Financial Institutions Act, 1993, Section 19(22), Section 19(22A)",
+    "Companies Act, 1956, Sections 433, 434",
+    "Limitation Act, 1963",
+    "Dena Bank vs. C. Shivakumar Reddy",
+    "Paramjeet Singh Patheja vs. ICDS Ltd.",
+    "State of U.P. vs. Nawab Hussain",
+    "Gulabchand Chhotalal Parikh vs. State of Bombay",
+    "Jignesh Shah vs. Union of India",
+    "Gaurav Hargovindbhai Dave vs. Asset Reconstruction Company (India) Limited",
+    "Nirmal Jeet Kaur vs. State of M.P.",
+    "Secretary to Govt. of Kerala vs. James Varghese"
+  ],
+  "final_judgment": "The Supreme Court set aside the NCLAT's judgment and restored the NCLT's order admitting the Section 7 application, holding that the filing of the application within three years of the Recovery Certificate's issuance was within limitation, and that a valid cause of action arose upon issuance of the Recovery Certificate, permitting initiation of CIRP under the IBC."
+}

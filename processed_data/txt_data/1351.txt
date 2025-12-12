@@ -1,0 +1,1337 @@
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions
+Private ... on 4 February, 2022
+
+Author: D.Y. Chandrachud
+
+Bench: Vikram Nath, Surya Kant, Dhananjaya Y Chandrachud
+
+Reportable
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+Civil Appeal No 2839 of 2020
+
+M/s Consolidated Construction Consortium Limited       …Appellant
+
+Versus
+
+M/s Hitro Energy Solutions Private Limited             …Respondent
+
+JUDGMENT Dr Justice Dhananjaya Y Chandrachud, J This judgement has been divided into the
+following sections to facilitate analysis:
+
+A    The Appeal
+
+B    Factual Background
+
+C    Submissions of counsel
+
+D    Whether the appellant is an operational creditor
+
+D.1   Statutory Provisions
+
+D.2   Legislative History
+
+D.3   Judicial Precedent
+
+D.4   Analysis
+
+E    Evidentiary value of respondent’s MOA
+
+1
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+F    Whether the application under Section 9 is barred by limitation
+
+G Conclusion
+
+(cid:12)                                                                               PART A
+
+A       The Appeal
+
+1       The present appeal under Section 62 of the Insolvency and Bankruptcy Code
+
+2016 1 arises from a judgment and order dated 12 December 2019 of the National Company Law
+Appellate Tribunal 2 by which it reversed the decision of the National Company Law Tribunal,
+Chennai 3 dated 6 December 2018. 2 By its judgment and order dated 6 December 2018, the NCLT
+admitted an application 4 filed by the appellant, Consolidated Construction Consortium Limited 5,
+under Section 9 of the IBC for the initiation of the Corporate Insolvency Resolution Process 6
+against the respondent, Hitro Energy Solutions Private Limited 7 . While admitting the application,
+the NCLT held that the respondent’s Memorandum of Association 8, without evidence to the
+contrary, proved that it took over a proprietary concern, Hitro Energy Solutions 9 , and that the
+Proprietary Concern did owe the appellant an outstanding operational debt. Further, the NCLT
+declared a moratorium under Section 14 of the IBC and appointed an Interim Resolution
+Professional 10. “IBC” “NCLAT” “NCLT” CP/708/(IB)/CB/2017 “Appellant”/“Operational Creditor”
+“CIRP” “Respondent”/“Corporate Debtor” “MOA” “Proprietary Concern” “IRP” PART A 3 In appeal
+11 , the NCLAT set aside the NCLT’s decision, dismissed the application of the appellant under
+Section 9 of the IBC and released the respondent from the ongoing CIRP. In support of its
+conclusions, it held: (i) the appellant was a ‘purchaser’, and thus did not come under the definition
+of ‘operational creditor’ under the IBC since it did not supply any goods or services to the
+Proprietary Concern/respondent; (ii) there is nothing on record to suggest that the respondent has
+taken over the Proprietary Concern; and (iii) in any case, the appellant cannot move an application
+under Sections 7 or 9 of the IBC since all purchase orders were issued on 24 June 2013 and advance
+cheques were issued subsequently. 4 While issuing notice by its order dated 18 November 2020, this
+Court stayed the operation of NCLAT’s judgment and order dated 12 December 2019. The following
+issues now arise before this Court in the present appeal:
+
+(i) Whether the appellant is an operational creditor under the IBC even though it was
+a ‘purchaser’;
+
+(ii) Whether the respondent took over the debt from the Proprietary Concern; and
+
+(iii) Whether the application under Section 9 of the IBC is barred by limitation.
+
+2
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+Company Appeal (AT) No 19 of 2019 PART B B Factual Background 5 The genesis of the appeal
+arises from a project which was being executed by the appellant with Chennai Metro Rail Limited
+12, in the course of which the latter placed an order for supply of light fittings. In turn, the appellant
+placed orders with the Proprietary Concern, which was the supplier of Thorn Lighting India Private
+Limited 13, through three purchase orders dated 24 June 2013. It was noted in these purchase
+orders that the delivery of the light fittings would strictly be in accordance with the schedule
+provided by the appellant.
+
+6 The Proprietary Concern requested the appellant for an advance payment of Rs 50,00,000. CMRL
+issued a cheque of Rs 50,00,000 in favor of the respondent, with the condition that the delivery of
+the light fittings should be in compliance with the schedule provided by the appellant.
+
+7 On 2 January 2014, CMRL informed the appellant that the project they had been working on stood
+terminated. According to the appellant, this information was communicated to the Proprietary
+Concern on the same day. However, this has been denied by the respondent.
+
+8 Thereafter, the Proprietary Concern deposited the cheque issued by CMRL and withdrew the
+amount of Rs 50,00,000. Since the project had been terminated, CMRL informed the appellant that
+the amount would be deducted from the dues “CMRL” “TLIPL” PART B payable to it unless the
+amount was returned. The appellant paid the amount of Rs 50,00,000 to CMRL and intimated this
+to the Proprietary Concern and requested them to make the payment.
+
+9 In the interim, the respondent was incorporated on 28 January 2014, on the basis of an MOA
+dated 24 January 2014. Under the MOA, one of the four main objects of the respondent was to take
+over the Proprietary Concern. It reads as follows:
+
+“(A) THE MAIN OBJECTS OF THE COMPANY TO BE PURSUED BY COMPANY ON
+ITS INCORPORATION:
+
+[…]
+
+4. To take over the existing Proprietorship firm Viz. M/S. Hitro Energy Solutions
+having its registered office at Chennai.”
+
+10 By its letter dated 23 July 2016, the appellant requested the Proprietary Concern to refund the
+amount of Rs 50,00,000 since the contract had been terminated and the amount had been returned
+by the appellant to CMRL. It noted that once the amount was released by the Proprietary Concern, it
+would indemnify them against any future claim from CMRL. The letter reads as follows:
+
+“This is in reference to the purchase order Nos. KH000115, KH000116, KH000117,
+dated 24.06.2013 towards the supply of light fittings for our CMRL project. The
+advance amount of Rs.50.00 Lakhs paid to you was directly released by our client,
+the CMRL at our request and the amount has already been debited to your account
+However, the contract with CMRL was terminated by us and it was intimated to you
+
+3
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+not to proceed with the supply or materials ordered under the aforesaid purchase
+orders. We, therefore, request you to pay PART B the advance amount of
+Rs.50,00,000/- to M/s. Thom Lighting India Pvt Ltd as agreed by you.
+
+We once again wish to state that the amounts paid to you by the CMRL have already
+been recovered from our payments and therefore, we assure that no liability shall be
+cast on you towards the same. Upon release of the aforesaid payment to M/s. Thom
+Light/rig Ind/a Pvt Ltd as agreed by you, the CCCL shall indemnify you against any
+claim from the CMRL towards the advances directly paid to you.”
+
+11 In its reply dated 25 July 2016, the Proprietary Concern stated that it would return the amount
+directly to CMRL, if it was insisted upon by them. It further noted that till date it had not received
+any letter from the appellant informing them that the contract had been terminated with CMRL, and
+that it had never agreed to return the amount. The letter notes:
+
+“This has reference your letter dt.23rd July 2016 wherein you are asking us to pay the
+amount of Rs.50,00,000/- which we had received from Chennai Metro Rail Limited
+(CMRL), to M/S.Thorn Lighting India Pvt. Ltd. Since, the amount has been received
+by us directly from CMRL, the said amount will be returned only to CMRL if they
+claim the same.
+
+We would like to inform you that we have not received any letter of communication
+from your organisation till date mentioning that the contract with CMRL is cancelled
+and it has never been agreed at any point of time to give the amount to M/s.Thron
+Lighting India Pvt. Ltd.”
+
+12 A joint meeting was held between the appellant, the Proprietary Concern and TLIPL on 4 August
+2016, where the appellant requested that the amount of Rs 50,00,000 be returned to TLIPL. To
+assuage the concerns of the Proprietary Concern, that CMRL may also try to recover the amount
+from them at a later date, PART B the representatives of the appellant agreed to provide an
+indemnity to the Proprietary Concern for the amount. However, this was refused by the Proprietary
+Concern, which instead asked for a bank guarantee of the same amount, which was refused by the
+appellant. Finally, the Proprietary Concern noted that the appellant should obtain a letter from
+CMRL stating that the advance paid by them to the Proprietary Concern belongs to the appellant,
+and will not be claimed by them in the future. The minutes of the meeting state as follows:
+
+“The following points were discussed during the meeting • RSK explained the reasons
+and procedure for the direct payment from CMRL to vendors of CCCL.
+
+• RSK requested NSR to return the advance paid to Hitro Energy to Thom Light.
+
+• NSR refused the same since the payment had been received from CMRL through
+cheque and can be returned to CMRL only if CMRL claim the same.
+
+4
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+• RSK explained that, CCCL requested CMRL to release this advance to Hitro and the
+amount already been deducted in CCCL payables by CMRL, hence this amount
+belongs to CCCL and can be returned.
+
+• NSR refused the same and asked CCCL to get a letter from CMRL stating that, the
+advance paid to Hitro belongs to CCCL and CMRL does not claim the same in future
+from Hitro.
+
+• SR asked NSR, that CCCL can provide a Indemnity Bond to Hitro to return the
+Advance, and NSR refused and asked BG For the same amount to return the
+Advance, CCCL refused the same.” PART B
+
+13 Thereafter, the appellant obtained a letter dated 27 December 2016 from CMRL where it noted
+that it had issued the cheque for Rs 50,00,000 only on the request of the appellant. The letter reads
+as follows:
+
+“With reference to your letter under reference above, it is to confirm that CMRL had
+issued a cheque of Rs.50,00,000/- (Rupees fifty lakhs only) bearing no. 991712 dt.
+7.11.2013, based on the request of M/s. Consolidated Construction Consortium Ltd.,
+to M/s. Hitro Energy Solutions, as a part of Special Advance to M/s. CCCL under EAS
+04, EAS 05 & EAS 06 contracts duly debiting CCCL's account.” This letter was sent by
+the appellant to the Proprietary Concern, but no payment was made.
+
+14 The appellant then sent a letter to the Proprietary Concern on 27 February 2017 and it demanded
+the return of the amount of Rs 50,00,000, along with interest calculated at 18 per cent per annum
+from 4 November 2013, on or before 4 March 2017. In its reply dated 2 March 2017, the Proprietary
+Concern refused and noted that they only became aware of the termination of the contract with
+CMRL by the appellant’s letter dated 23 July 2016. The light fittings were stated to be lying in their
+warehouse since then because they could not be re-sold as they had been made on customized
+specifications, leading to a loss. Further, it noted that CMRL’s letter dated 27 December 2016 did
+not provide that it will not attempt to recover the amount from the Proprietary Concern in the
+future. 15 On 18 July 2017, the appellant sent a Form-3 Demand Notice under Section 8 of the IBC
+to the respondent, where the amount of the debt is noted as Rs 83,13,973, inclusive of interest
+calculated at 18 per cent per annum from 7 PART B November 2013. In its response dated 28 July
+2017, the respondent denied that any debt was owed by them to the appellant. Thereafter, the
+appellant filed its application under Section 9 of the IBC read with Rule 6 of the Insolvency and
+Bankruptcy (Application to Adjudicating Authority) Rules 2016 14 on 1 November 2017 along with
+the supporting affidavits.
+
+16 By its judgment dated 6 December 2018, the NCLT admitted the application under Section 9 of
+the IBC, declared a moratorium under Section 14 of the IBC and appointed an IRP. The operative
+parts of the order are extracted below:
+
+5
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+“11. It has also been noted by this Authority that the Memorandum of Association
+being the constitutional document of the Corporate Debtor is not rebutted by other
+documentary evidence. In view of it, the objection raised by the Counsel for the
+Corporate Debtor stands rejected.
+
+12. It has been submitted by the Counsel for the Corporate Debtor that till date, the
+Proprietorship Firm is paying the income tax and also carrying on the business which
+is contrary to the Memorandum of Association of the Corporate Debtor viz., M/s.
+Hitro Energy Soluti9ns Private Limited. It seems that the Director of the Corporate
+Debtor viz., N. S. Rangachari may be making communications on behalf of
+Proprietorship Firm for the purpose of dubious transactions or Tax benefits but as
+per the Memorandum of Association, the same has been taken over by the Corporate
+Debtor of which there is no doubt at all. Thus, the Memorandum of Association being
+the constitutional document of the Corporate Debtor is an authentic documentary
+proof that the Proprietorship Firm has been taken over or converted into corporate
+entity.
+
+13. It has been submitted by the Counsel for the Corporate Debtor that in case the
+CMRL could have given a certificate that they would not claim Rs.50 Lakhs from M/s
+Hitro Energy Solutions then, the amount could have been paid by the “2016
+Application Rules” PART B Corporate Debtor to the Operational Creditor, to which
+the Counsel for the Operational Creditor has submitted that his client has always
+been ready and willing to give indemnity bond against any claim made by the CMRL,
+but the Counsel for Corporate Debtor did not any response with regard to the security
+offered.”
+
+17 The order of the NCLT was set aside by the NCLAT on 12 December 2019. The order notes:
+
+“7. However, there is nothing on the record to suggest that by any list prepared 'M/s.
+Hitro Energy Solutions Private Limited' has taken over 'M/s. Hitro Energy
+Solutions'… […]
+
+9. The 'Purchase Orders', which makes it clear that 'M/s.
+
+Consolidated Construction Consortium Limited' is a 'Purchaser' and do not come within the
+meaning of 'Operational Creditor' having not supplied any goods nor given any services to ‘M/s.
+Hitro Energy Solutions Private Limited'. In any case, whether 'M/s. Hitro Energy Solutions Private
+Limited' or 'M/s. Hitro Energy Solutions' all 'Purchase Orders' having issued on 24th June, 2013
+and advance cheques have been issued for subsequently such orders, 'M/s. Consolidated
+Construction Consortium Limited' cannot move application under Sections, 7 or 9 or the 'I&B
+Code'.” The appeal arises from the decision of the NCLAT.
+
+6
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+(cid:12)                                                                                  PART C
+
+C       Submissions of counsel
+
+18      Mr M P Parthiban, Counsel appearing on behalf of the appellant submitted
+
+that:
+
+(i)     The MOA of the respondent states that one of its four main objects is to take
+
+over the Proprietary Concern. Thus, the findings contained in paragraph 7 of the NCLAT’s
+judgment, that there is no list noting that the respondent has taken over the Proprietary Concern, is
+incorrect;
+
+(ii) The appellant made the payment of Rs 50,00,000 to CMRL, and it thus becomes due from the
+respondent to the appellant;
+
+(iii) The appellant is an operational creditor within the framework of the IBC since the purchase
+orders for light fittings were in relation to the operational requirements of the appellant; and
+
+(iv) The application under Section 9 of the IBC is not barred by limitation. 19 Mr K Parameshwar,
+Counsel appearing on behalf of the respondent submitted that:
+
+(i) The appellant’s dealings have only been with the Proprietary Concern and not the
+respondent. While the respondent’s MOA may have stated its intention to take over
+the Proprietary Concern, the respondent changed its intention through a subsequent
+Board resolution. Further, the Proprietary Concern exists till date and is an entity
+separate from the respondent. Thus, the respondent cannot be made liable for its
+debt;
+
+PART D
+
+(ii) There is no privity of contract between the appellant and the respondent, since the appellant’s
+contract was with the Proprietary Concern and the payment of the advance to the Proprietary
+Concern was made by CMRL;
+
+(iii) The appellant is not an operational creditor because:
+
+a. The appellant did not provide any goods or services to the respondent, but only
+availed of goods or services from the Proprietary Concern. Hence, the appellant will
+not be an operational creditor within the meaning of Section 5(20) of the IBC; and b.
+In any case, even if the debt exists, it is in the hands of CMRL, which has not legally
+
+7
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+transferred it to the appellant;
+
+(iv) The application is barred by limitation since it was filed on 1 November 2017,
+more than three years after the date of default, i.e., 7 November 2013; and
+
+(v) The appellant is seeking to misuse the present proceedings under the IBC for
+recovering its dues.
+
+20 The rival submissions will now be considered.
+
+D Whether the appellant is an operational creditor 21 The primary submission of the respondent,
+which was accepted by the NCLAT, is that the appellant is not an operational creditor within the
+ambit of the IBC, and therefore its application under Section 9 of the IBC was not maintainable.
+PART D In order to assess this claim, we shall have to consider the relevant provisions, rules and
+regulations, the legislative history of the IBC and precedents of this Court. D.1 Statutory Provisions
+22 Section 5(20) of the IBC defines “operational creditor” in the following terms:
+
+“(20) “operational creditor” means a person to whom an operational debt is owed
+and includes any person to whom such debt has been legally assigned or transferred;”
+Section 5(21) defines the meaning of “operational debt”. Section 5(21), as it stood at
+the relevant time, was as follows:
+
+“(21) “operational debt” means a claim in respect of the provision of goods or services
+including employment or a debt in respect of the re-payment of dues arising under
+any law for the time being in force and payable to the Central Government, any State
+Government or any local authority;” (emphasis supplied) An operational debt needs
+to involve a claim in respect of the provision of goods or services. The phrase “claim”
+is defined in Section 3(6) of IBC in the following terms:
+
+“(6) “claim” means—
+
+(a) a right to payment, whether or not such right is reduced to judgment, fixed,
+disputed, undisputed, legal, equitable, secured or unsecured;
+
+(b) right to remedy for breach of contract under any law for the time being in force, if
+such breach gives rise to a right to payment, whether or not such right is reduced to
+judgment, PART D fixed, matured, unmatured, disputed, undisputed, secured or
+unsecured;”
+
+23 Section 8 of the IBC explains the steps that the operational creditor needs to undertake prior to
+filing a claim of insolvency against the corporate debtor. At the relevant time, it stood as follows:
+
+“8. Insolvency resolution by operational creditor.—(1) An operational creditor may,
+on the occurrence of a default, deliver a demand notice of unpaid operational debtor
+
+8
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+copy of an invoice demanding payment of the amount involved in the default to the
+corporate debtor in such form and manner as may be prescribed.
+
+(2) The corporate debtor shall, within a period of ten days of the receipt of the
+demand notice or copy of the invoice mentioned in sub-section (1) bring to the notice
+of the operational creditor—
+
+(a) existence of a dispute, if any, and record of the pendency of the suit or arbitration
+proceedings filed before the receipt of such notice or invoice in relation to such
+dispute;
+
+(b) the repayment of unpaid operational debt—
+
+(i) by sending an attested copy of the record of electronic transfer of the unpaid
+amount from the bank account of the corporate debtor; or
+
+(ii) by sending an attested copy of record that the operational creditor has encashed a
+cheque issued by the corporate debtor.
+
+Explanation.—For the purposes of this section, a “demand notice” means a notice served by an
+operational creditor to the corporate debtor demanding repayment of the operational debt in
+respect of which the default has occurred.” In accordance with Section 8(1), an operational creditor
+can send a demand notice to the corporate debtor when a default occurs, and in the manner which
+may be PART D prescribed. “Default” has been defined under Section 3(12) of the IBC, and it stood
+as follows at the relevant time:
+
+“(12) “default” means non-payment of debt when whole or any part or instalment of
+the amount of debt has become due and payable and is not re-paid by the debtor or
+the corporate debtor, as the case may be;” When the corporate debtor receives the
+demand notice, it has two options available under Section 8(2) of the IBC: (i) to
+highlight a pre-existing dispute in relation to the debt under question; or (ii) to prove
+that the debt has already been paid.
+
+24 Rule 5 of the 2016 Application Rules provides the manner in which the demand notice under
+Section 8(1) has to be delivered. It provides thus:
+
+“5. Demand notice by operational creditor.—(1) An operational creditor shall deliver
+to the corporate debtor, the following documents, namely.-
+
+(a) a demand notice in Form 3; or
+
+(b) a copy of an invoice attached with a notice in Form 4.
+
+9
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+(2) The demand notice or the copy of the invoice demanding payment referred to in
+sub-section (2) of section 8 of the Code, may be delivered to the corporate debtor,
+
+( a )   a t   t h e   r e g i s t e r e d   o f f i c e   b y   h a n d ,   r e g i s t e r e d   p o s t   o r   s p e e d   p o s t   w i t h
+acknowledgement due; or
+
+(b) by electronic mail service to a whole time director or designated partner or key
+managerial personnel, if any, of the corporate debtor.
+
+(3) A copy of demand notice or invoice demanding payment served under this rule by
+an operational creditor shall also be filed with an information utility, if any.” PART D
+Thus, under sub-Rule (1) of Rule 5, an operational creditor can send the demand
+notice under Section 8(1) of the IBC through two methods: (i) a demand notice in
+Form 3; or (ii) a copy of an invoice attached with a notice in Form 4. Form 3 requires
+the operational creditor to provide the following information in relation to the
+operational debt:
+
+“2. Please find particulars of the unpaid operational debt below:
+
+PARTICULARS OF OPERATIONAL DEBT
+
+1. TOTAL AMOUNT OF DEBT, DETAILS OF TRANSACTIONS ON ACCOUNT OF
+WHICH DEBT FELL DUE, AND THE DATE FROM WHICH SUCH DEBT FELL
+DUE
+
+2. AMOUNT CLAIMED TO BE IN DEFAULT AND THE DATE ON WHICH THE
+DEFAULT OCCURRED (ATTACH THE WORKINGS FOR COMPUTATION OF
+DEFAULT IN TABULAR FORM)
+
+3. PARTICULARS OF SECURITY HELD, IF ANY, THE DATE OF ITS CREATION,
+ITS ESTIMATED VALUE AS PER THE CREDITOR.
+
+ATTACH A COPY OF A CERTIFICATE OF REGISTRATION OF CHARGE ISSUED BY THE
+REGISTRAR OF COMPANIES (IF THE CORPORATE DEBTOR IS A COMPANY)
+
+4. DETAILS OF RETENTION OF TITLE ARRANGEMENTS (IF ANY) IN RESPECT OF GOODS TO
+WHICH THE OPERATIONAL DEBT REFERS
+
+5. RECORD OF DEFAULT WITH THE INFORMATION UTILITY (IF ANY)
+
+6. PROVISION OF LAW, CONTRACT OR OTHER DOCUMENT UNDER WHICH DEBT HAS
+BECOME DUE
+
+10
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+7. LIST OF DOCUMENTS ATTACHED TO THIS APPLICATION IN ORDER TO PROVE THE
+EXISTENCE OF OPERATIONAL DEBT AND THE AMOUNT IN DEFAULT ” PART D In contrast,
+Form 4 provides:
+
+“[Name of operational creditor], hereby provides notice for repayment of the unpaid
+amount of INR [insert amount] that is in default as reflected in the invoice attached
+to this notice.” Hence, a demand notice for an operational debt by an operational
+creditor does not necessarily need to be accompanied by an invoice, but it may be
+sent where such debt arises under a “provision of law, contract or other document”
+and for which documents can be attached along with the demand notice.
+
+25 The above conclusion is also supported by the Insolvency and Bankruptcy Board
+of India (Insolvency Resolution Process for Corporate Persons) Regulations 2016 15.
+In relation to claims by operational creditors, Regulation 7, as it stood at the relevant
+time, provided thus:
+
+“7. Claims by operational creditors.
+
+(1) A person claiming to be an operational creditor, other than workman or employee
+of the corporate debtor, shall submit proof of claim to the interim resolution
+professional in person, by post or by electronic means in Form B of the Schedule:
+
+Provided that such person may submit supplementary documents or clarifications in
+support of the claim before the constitution of the committee.
+
+(2) The existence of debt due to the operational creditor under this Regulation may
+be proved on the basis of-
+
+(a) the records available with an information utility, if any; or
+
+(b) other relevant documents, including -
+
+“CIRP Regulations 2016” PART D
+
+(i) a contract for the supply of goods and services with corporate debtor;
+
+(ii) an invoice demanding payment for the goods and services supplied to the corporate debtor;
+
+(iii) an order of a court or tribunal that has adjudicated upon the non-payment of a debt, if any; or
+
+(iv) financial accounts.” Under Regulation 7(2), an operational creditor can prove their claim not
+only through “an invoice demanding payment for the goods and services supplied to the corporate
+debtor” (Regulation 7(2)(ii)) but also through “a contract for the supply of goods and services with
+corporate debtor” (Regulation 7(2)(i)). 26 Once the procedures under Section 8 of the IBC are
+
+11
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+completed by an operational creditor, it can file an application under Section 9 of the IBC to initiate
+the CIRP in relation to the corporate debtor. Section 9 provided as follows, at the relevant time:
+
+“9. Application for initiation of corporate insolvency resolution process by
+operational creditor.—(1) After the expiry of the period of ten days from the date of
+delivery of the notice or invoice demanding payment under sub-section (1) of Section
+8, if the operational creditor does not receive payment from the corporate debtor or
+notice of the dispute under sub-section (2) of Section 8, the operational creditor may
+file an application before the Adjudicating Authority for initiating a corporate
+insolvency resolution process.
+
+(2) The application under sub-section (1) shall be filed in such form and manner and
+accompanied with such fee as may be prescribed.
+
+(3) The operational creditor shall, along with the application furnish— PART D
+
+(a) a copy of the invoice demanding payment or demand notice delivered by the
+operational creditor to the corporate debtor;
+
+(b) an affidavit to the effect that there is no notice given by the corporate debtor
+relating to a dispute of the unpaid operational debt;
+
+(c) a copy of the certificate from the financial institutions maintaining accounts of the
+operational creditor confirming that there is no payment of an unpaid operational
+debt by the corporate debtor; and
+
+(d) such other information as may be prescribed.
+
+(4) An operational creditor initiating a corporate insolvency resolution process under
+this section, may propose a resolution professional to act as an interim resolution
+professional.
+
+(5) The Adjudicating Authority shall, within fourteen days of the receipt of the
+application under sub-section (2), by an order—
+
+(i) admit the application and communicate such decision to the operational creditor
+and the corporate debtor if,—
+
+(a) the application made under sub-section (2) is complete;
+
+(b) there is no repayment of the unpaid operational debt;
+
+(c) the invoice or notice for payment to the corporate debtor has been delivered by
+the operational creditor;
+
+12
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+(d) no notice of dispute has been received by the operational creditor or there is no
+record of dispute in the information utility; and
+
+(e) there is no disciplinary proceeding pending against any resolution professional
+proposed under sub-section (4), if any.
+
+(ii) reject the application and communicate such decision to the operational creditor
+and the corporate debtor, if—
+
+(a) the application made under sub-section (2) is incomplete;
+
+(b) there has been repayment of the unpaid operational debt;
+
+(c) the creditor has not delivered the invoice or notice for payment to the corporate
+debtor;
+
+PART D
+
+(d) notice of dispute has been received by the operational creditor or there is a record of dispute in
+the information utility; or
+
+(e) any disciplinary proceeding is pending against any proposed resolution professional:
+
+Provided that Adjudicating Authority, shall before rejecting an application under
+sub-clause (a) of clause (ii) give a notice to the applicant to rectify the defect in his
+application within seven days of the date of receipt of such notice from the
+Adjudicating Authority.
+
+(6) The corporate insolvency resolution process shall commence from the date of
+admission of the application under sub-section (5) of this section.” In accordance
+with Section 9(1), an operational creditor can file the application under Section 9
+after ten days from the date of delivery of the notice under Section 8, if no payment
+or notice of an existing dispute is received. Section 9(3)(a) requires the application to
+be accompanied by a copy of the invoice demanding payment or demand notice
+delivered by the operational creditor to the corporate debtor. This again highlights
+that it could be either one of the two, i.e., an invoice or a demand notice.
+
+27 Rule 6 of the 2016 Application Rules provides that the application under Section 9 has to be filed
+along with the details required in Form 5. Within Form 5, inter alia, the following details in relation
+to the operational debt are required to be provided:
+
+“Part-V PARTICULARS OF OPERATIONAL DEBT [DOCUMENTS, RECORDS AND
+EVIDENCE OF DEFAULT] PART D
+
+13
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+1. PARTICULARS OF SECURITY HELD, IF ANY, THE DATE OF ITS CREATION,
+ITS ESTIMATED VALUE AS PER THE CREDITOR. ATTACH A COPY OF A
+CERTIFICATE OF REGISTRATION OF CHARGE ISSUED BY THE REGISTRAR OF
+COMPANIES (IF THE CORPORATE DEBTOR IS A COMPANY)
+
+2. DETAILS OF RESERVATION/RETENTION OF TITLE ARRANGEMENTS (IF
+ANY) IN RESPECT OF GOODS TO WHICH THE OPERATIONAL DEBT REFERS
+
+3. PARTICULARS OF AN ORDER OF A COURT, TRIBUNAL OR ARBITRAL PANEL
+ADJUDICATING ON THE DEFAULT, IF ANY (ATTACH A COPY OF THE ORDER)
+
+4. RECORD OF DEFAULT WITH THE INFORMATION UTILITY, IF ANY (ATTACH
+A COPY OF SUCH RECORD)
+
+5. DETAILS OF SUCCESSION CERTIFICATE, OR PROBATE OF A WILL, OR
+LETTER OF ADMINISTRATION, OR COURT DECREE (AS MAY BE APPLICABLE),
+UNDER THE INDIAN SUCCESSION ACT, 1925 (10 OF 1925) (ATTACH A COPY)
+
+6. PROVISION OF LAW, CONTRACT OR OTHER DOCUMENT UNDER WHICH
+DEBT HAS BECOME DUE
+
+7. A STATEMENT OF BANK ACCOUNT WHERE DEPOSITS ARE MADE OR
+CREDITS RECEIVED NORMALLY BY THE OPERATIONAL CREDITOR IN
+RESPECT OF THE DEBT OF THE CORPORATE DEBTOR (ATTACH A COPY)
+
+8. LIST OF DOCUMENTS ATTACHED TO THIS APPLICATION IN ORDER TO
+PROVE THE EXISTENCE OF OPERATIONAL DEBT AND THE AMOUNT IN
+DEFAULT ” D.2 Legislative History
+
+28 Unlike other foreign jurisdictions, which usually differentiate between secured and unsecured
+creditors only, the IBC is unique because it provides for two different classes of creditors:
+operational creditors and financial creditors. To understand the PART D position of the former
+within the framework of the IBC, it is important to understand the distinction between these two
+classes.
+
+29 The primary source is Volume I of the Report of the Bankruptcy Law Reforms Committee 16. It
+notes that “[e]nterprises have financial creditors by way of loan and debt contracts as well as
+operational creditors such as employees, rental obligations, utilities payments and trade credit” 17.
+It provides that a corporate debtor will have financial and operational liabilities, and explains the
+difference as follows 18:
+
+“Liabilities fall into two broad sets: liabilities based on financial contracts, and
+liabilities based on operational contracts. Financial contracts involve an exchange of
+funds between the entity and a counterparty which is a financial firm or
+
+14
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+intermediary. This can cover a broad array of types of liabilities: loan contracts
+secured by physical assets that can be centrally registered; loan contracts secured by
+floating charge on operational cash flows; loan contracts that are unsecured; debt
+securities that are secured by physical assets, cash flow or are unsecured. Operational
+contracts typically involve an exchange of goods and services for cash. For an
+enterprise, the latter includes payables for purchase of raw-materials, other inputs or
+services, taxation and statutory liabilities, and wages and benefits to employees.”
+(emphasis supplied) Further, the Report also notes 19:
+
+“Here, the Code differentiates between financial creditors and operational creditors.
+Financial creditors are those whose relationship with the entity is a pure financial
+c o n t r a c t ,   s u c h   a s   “ B L R C   R e p o r t ”   P g   2 2 ,   a v a i l a b l e   a t
+<https://www.ibbi.gov.in/uploads/resources/BLRCReportVol1_04112015.pdf>
+accessed on 13 January 2022 Ibid, Pg 54 Ibid, Pg 77 PART D a loan or a debt security.
+Operational creditors are those whose liability from the entity comes from a
+transaction on operations. Thus, the wholesale vendor of spare parts whose spark
+plugs are kept in inventory by the car mechanic and who gets paid only after the
+spark plugs are sold is an operational creditor. Similarly, the lessor that the entity
+rents out space from is an operational creditor to whom the entity owes monthly rent
+on a three- year lease. The Code also provides for cases where a creditor has both a
+solely financial transaction as well as an operational transaction with the entity. In
+such a case, the creditor can be considered a financial creditor to the extent of the
+financial debt and an operational creditor to the extent of the operational debt.”
+(emphasis supplied)
+
+30 It is thus clear that operational creditors are those whose debt arises from operational
+transactions, i.e., transactions which are undertaken in relation to the operation of an enterprise. As
+the examples in the BLRC Report suggest, these generally include transactions involving goods or
+services which are considered necessary for the operational functioning of an entity. 31 The Joint
+Parliamentary Committee Report on the IBC differentiates between financial and operational
+creditors in the following terms 20:
+
+“Clause 21 appended with the Bill which states as under:-
+
+“The committee has to be composed of members who have the capability to assess
+the commercial viability of the corporate debtor and who are willing to modify the
+terms of the debt contracts in negotiations between the creditors and the corporate
+d e b t o r .   O p e r a t i o n a l   c r e d i t o r s   P g   1 4 ,   a v a i l a b l e   a t
+<https://www.ibbi.gov.in/uploads/resources/16_Joint_Committee_on_Insolvency_and_Bankruptcy_Code_2015_1.pdf
+> accessed on 13 January 2022 PART D are typically not able to decide on matters
+relating to commercial viability of the corporate debtor, nor are they typically willing
+to take the risk of restructuring their debts in order to make the corporate debtor a
+going concern. Similarly, financial creditors who are also operational creditors will be
+given representation on the committee of creditors only to the extent of their
+
+15
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+financial debts. Nevertheless, in order to ensure that the financial creditors do not
+treat the operational creditors unfairly, any resolution plan must ensure that the
+operational creditors receive an amount not less than the liquidation value of their
+debt (assuming the corporate debtor were to be liquidated).”” (emphasis supplied)
+
+32 This makes it clear that another point of difference between financial and operational creditors
+would be in the nature of their role in the Committee of Creditors 21, because it is assumed the
+operational creditors will be unwilling to take the risk of restructuring their debts in order to make
+the corporate debtor a going concern. Thus, their debt is not seen as a long-term investment in the
+going concern status of the corporate debtor, which would incentivize them to restructure it, but
+merely as a one-off transaction with the corporate debtor for certain goods or services.
+
+“CoC”
+
+(cid:12)                                                                                     PART D
+
+D.3       Judicial Precedent
+
+33        In Swiss Ribbons (P) Ltd. v. Union of India 22 (“Swiss Ribbons”), the
+
+constitutionality of certain provisions of the IBC was challenged, with the focus being on the
+difference of rights provided to the financial and operational creditors. After observing the
+difference in the methods through which financial creditors and operational creditors trigger a
+proceeding under the IBC, the two-judge Bench of the Court noted that there was an intelligible
+differentia between financial and operational creditors. The Court held:
+
+“50. According to us, it is clear that most financial creditors, particularly banks and
+financial institutions, are secured creditors whereas most operational creditors are
+unsecured, payments for goods and services as well as payments to workers not being
+secured by mortgaged documents and the like. The distinction between secured and
+unsecured creditors is a distinction which has obtained since the earliest of the
+Companies Acts both in the United Kingdom and in this country. Apart from the
+above, the nature of loan agreements with financial creditors is different from
+contracts with operational creditors for supplying goods and services. Financial
+creditors generally lend finance on a term loan or for working capital that enables the
+corporate debtor to either set up and/or operate its business. On the other hand,
+contracts with operational creditors are relatable to supply of goods and services in
+the operation of business. Financial contracts generally involve large sums of money.
+
+16
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+By way of contrast, operational contracts have dues whose quantum is generally less.
+In the running of a business, operational creditors can be many as opposed to
+financial creditors, who lend finance for the set-up or working of business. Also,
+financial creditors have specified repayment schedules, and defaults entitle financial
+creditors to recall a loan in totality. Contracts with operational creditors do not have
+any such stipulations. Also, the forum in which dispute (2019) 4 SCC 17 PART D
+resolution takes place is completely different. Contracts with operational creditors
+can and do have arbitration clauses where dispute resolution is done privately.
+
+Operational debts also tend to be recurring in nature and the possibility of genuine disputes in case
+of operational debts is much higher when compared to financial debts. A simple example will
+suffice. Goods that are supplied may be substandard. Services that are provided may be
+substandard. Goods may not have been supplied at all. All these qua operational debts are matters
+to be proved in arbitration or in the courts of law. On the other hand, financial debts made to banks
+and financial institutions are well documented and defaults made are easily verifiable.
+
+51. Most importantly, financial creditors are, from the very beginning, involved with assessing the
+viability of the corporate debtor. They can, and therefore do, engage in restructuring of the loan as
+well as reorganisation of the corporate debtor's business when there is financial stress, which are
+things operational creditors do not and cannot do. Thus, preserving the corporate debtor as a going
+concern, while ensuring maximum recovery for all creditors being the objective of the Code,
+financial creditors are clearly different from operational creditors and therefore, there is obviously
+an intelligible differentia between the two which has a direct relation to the objects sought to be
+achieved by the Code. […]
+
+75. Since the financial creditors are in the business of moneylending, banks and financial
+institutions are best equipped to assess viability and feasibility of the business of the corporate
+debtor. Even at the time of granting loans, these banks and financial institutions undertake a
+detailed market study which includes a techno-economic valuation report, evaluation of business,
+financial projection, etc. Since this detailed study has already been undertaken before sanctioning a
+loan, and since financial creditors have trained employees to assess viability and feasibility, they are
+in a good position to evaluate the contents of a resolution plan. On the other hand, operational
+creditors, who provide goods and services, are involved only in recovering amounts that are paid for
+such goods and services, and are typically unable to assess viability and feasibility of PART D
+business. The BLRC Report, already quoted above, makes this abundantly clear.” (emphasis
+supplied) 34 In Pioneer Urban Land and Infrastructure Ltd. v. Union of India 23 (“Pioneer Urban”),
+a three-judge Bench of this Court had to adjudicate upon a constitutional challenge to the
+amendments made to the IBC, through which allottees of real estate projects had been declared to
+be financial creditors. In highlighting the differences between home buyers and operational
+creditors, the Court noted that: first, generally operational creditors are suppliers of goods and
+services whereas the home buyer advances money to the developer, so that the debtor is the supplier
+(of the flat); second, an operational creditor has no interest in or stake in the corporate debtor,
+unlike a home buyer who is vitally concerned with the real estate project; and third, in an
+operational debt, there is no consideration for the time value of money since the consideration of the
+
+17
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+debt is the goods or services that are either sold or availed of from the operational creditor whereas
+in real estate projects, money is raised from the allottee, being raised against consideration for the
+time value of money. The Court held:
+
+“42. It is impossible to say that classifying real estate developers is not founded upon
+an intelligible differentia which distinguishes them from other operational creditors,
+nor is it possible to say that such classification is palpably arbitrary having no
+rational relation to the objects of the Code. It was vehemently argued by the learned
+counsel on behalf of the petitioners that if at all real estate developers were to be
+brought within the clutches of the Code, being like operational (2019) 8 SCC 416
+PART D debtors, at best they could have been brought in under this rubric and not as
+financial debtors. Here again, what is unique to real estate developers vis-à-vis
+operational debts, is the fact that, in operational debts generally, when a person
+supplies goods and services, such person is the creditor and the person who has to
+pay for such goods and services is the debtor. In the case of real estate developers, the
+developer who is the supplier of the flat/apartment is the debtor inasmuch as the
+home buyer/allottee funds his own apartment by paying amounts in advance to the
+developer for construction of the building in which his apartment is to be found.
+
+Another vital difference between operational debts and allottees of real estate projects is that an
+operational creditor has no interest in or stake in the corporate debtor, unlike the case of an allottee
+of a real estate project, who is vitally concerned with the financial health of the corporate debtor, for
+otherwise, the real estate project may not be brought to fruition. Also, in such event, no
+compensation, nor refund together with interest, which is the other option, will be recoverable from
+the corporate debtor. One other important distinction is that in an operational debt, there is no
+consideration for the time value of money—the consideration of the debt is the goods or services
+that are either sold or availed of from the operational creditor. Payments made in advance for goods
+and services are not made to fund manufacture of such goods or provision of such services.
+Examples given of advance payments being made for turnkey projects and capital goods, where
+customisation and uniqueness of such goods are important by reason of which advance payments
+are made, are wholly inapposite as examples vis-à-vis advance payments made by allottees. In real
+estate projects, money is raised from the allottee, being raised against consideration for the time
+value of money. Even the total consideration agreed at a time when the flat/apartment is
+non-existent or incomplete, is significantly less than the price the buyer would have to pay for a
+ready/complete flat/apartment, and therefore, he gains the time value of money. Likewise, the
+developer who benefits from the amounts disbursed also gains from the time value of money. The
+fact that the allottee makes such payments in instalments which are co-terminus with phases of
+completion of the real estate project does not any the less make such payments as payments
+involving “exchange” i.e. advances paid only in order to obtain a flat/apartment. What PART D is
+predominant, insofar as the real estate developer is concerned, is the fact that such instalment
+payments are used as a means of finance qua the real estate project. One other vital difference with
+operational debts is the fact that the documentary evidence for amounts being due and payable by
+the real estate developer is there in the form of the information provided by the real estate developer
+compulsorily under RERA. This information, like the information from information utilities under
+
+18
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+the Code, makes it easy for homebuyers/allottees to approach NCLT under Section 7 of the Code to
+trigger the Code on the real estate developer's own information given on its webpage as to delay in
+construction, etc. It is these fundamental differences between the real estate developer and the
+supplier of goods and services that the legislature has focused upon and included real estate
+developers as financial debtors. This being the case, it is clear that there cannot be said to be any
+infraction of equal protection of the laws.” (emphasis supplied) 35 In Innoventive Industries Ltd. v.
+ICICI Bank 24, a two judge Bench of this Court explained the framework of the IBC in relation to an
+operational creditor triggering the CIRP. The Court held:
+
+“29. The scheme of Section 7 stands in contrast with the scheme under Section 8
+where an operational creditor is, on the occurrence of a default, to first deliver a
+demand notice of the unpaid debt to the operational debtor in the manner provided
+in Section 8(1) of the Code. Under Section 8(2), the corporate debtor can, within a
+period of 10 days of receipt of the demand notice or copy of the invoice mentioned in
+sub- section (1), bring to the notice of the operational creditor the existence of a
+dispute or the record of the pendency of a suit or arbitration proceedings, which is
+pre-existing—i.e. before such notice or invoice was received by the corporate debtor.
+The moment there is existence of such a dispute, the operational creditor gets out of
+the clutches of the Code.” (2018) 1 SCC 407 PART D
+
+36 In Mobilox Innovations (P) Ltd. v. Kirusa Software (P) Ltd. 25 (“Mobilox Innovations”), a
+two-judge Bench of this Court explained the process for an operational creditor initiating CIRP in
+respect of a corporate debtor. The Court held:
+
+“33. The scheme under Sections 8 and 9 of the Code, appears to be that an
+operational creditor, as defined, may, on the occurrence of a default (i.e. on
+non-payment of a debt, any part whereof has become due and payable and has not
+been repaid), deliver a demand notice of such unpaid operational debt or deliver the
+copy of an invoice demanding payment of such amount to the corporate debtor in the
+form set out in Rule 5 of the Insolvency and Bankruptcy (Application to Adjudicating
+Authority) Rules, 2016 read with Form 3 or 4, as the case may be [Section 8(1)].
+Within a period of 10 days of the receipt of such demand notice or copy of invoice, the
+corporate debtor must bring to the notice of the operational creditor the existence of
+a dispute and/or the record of the pendency of a suit or arbitration proceeding filed
+before the receipt of such notice or invoice in relation to such dispute [Section
+8(2)(a)]. What is important is that the existence of the dispute and/or the suit or
+arbitration proceeding must be pre-existing i.e. it must exist before the receipt of the
+demand notice or invoice, as the case may be. In case the unpaid operational debt has
+been repaid, the corporate debtor shall within a period of the self-same 10 days send
+an attested copy of the record of the electronic transfer of the unpaid amount from
+the bank account of the corporate debtor or send an attested copy of the record that
+the operational creditor has encashed a cheque or otherwise received payment from
+the corporate debtor [Section 8(2)(b)]. It is only if, after the expiry of the period of
+the said 10 days, the operational creditor does not either receive payment from the
+
+19
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+corporate debtor or notice of dispute, that the operational creditor may trigger the
+insolvency process by filing an application before the adjudicating authority under
+Sections 9(1) and 9(2). This application is to be filed under Rule 6 of the Insolvency
+and Bankruptcy (Application to Adjudicating Authority) Rules, 2016 in Form 5,
+accompanied with documents and records that are required under the said form.
+
+(2018) 1 SCC 353 PART D Under Rule 6(2), the applicant is to dispatch by registered
+post or speed post, a copy of the application to the registered office of the corporate
+debtor. Under Section 9(3), along with the application, the statutory requirement is
+to furnish a copy of the invoice or demand notice, an affidavit to the effect that there
+is no notice given by the corporate debtor relating to a dispute of the unpaid
+operational debt and a copy of the certificate from the financial institution
+maintaining accounts of the operational creditor confirming that there is no payment
+of an unpaid operational debt by the corporate debtor. Apart from this information,
+the other information required under Form 5 is also to be given. Once this is done,
+the adjudicating authority may either admit the application or reject it. If the
+application made under sub-section (2) is incomplete, the adjudicating authority,
+under the proviso to sub-section (5), may give a notice to the applicant to rectify
+defects within 7 days of the receipt of the notice from the adjudicating authority to
+make the application complete. Once this is done, and the adjudicating authority
+finds that either there is no repayment of the unpaid operational debt after the
+invoice [Section 9(5)(i)(b)] or the invoice or notice of payment to the corporate
+debtor has been delivered by the operational creditor [Section 9(5)(i)(c)], or that no
+notice of dispute has been received by the operational creditor from the corporate
+debtor or that there is no record of such dispute in the information utility [Section
+9(5)(i)(d)], or that there is no disciplinary proceeding pending against any resolution
+professional proposed by the operational creditor [Section 9(5)(i)(e)], it shall admit
+the application within 14 days of the receipt of the application, after which the
+corporate insolvency resolution process gets triggered. On the other hand, the
+adjudicating authority shall, within 14 days of the receipt of an application by the
+operational creditor, reject such application if the application is incomplete and has
+not been completed within the period of 7 days granted by the proviso [Section
+9(5)(ii)(a)]. It may also reject the application where there has been repayment of the
+operational debt [Section 9(5)(ii)(b)], or the creditor has not delivered the invoice or
+notice for payment to the corporate debtor [Section 9(5)(ii)(c)]. It may also reject the
+application if the notice of dispute has been received by the operational creditor or
+there is a record of dispute in the information utility [Section 9(5)(ii)(d)]. Section
+9(5)(ii)(d) refers to the notice of an existing dispute that has so been received, as it
+must be read with Section 8(2)(a).
+
+Also, if any disciplinary proceeding is pending against any PART D proposed resolution
+professional, the application may be rejected [Section 9(5)(ii)(e)].” It further noted that when a
+notice is received by a corporate debtor under Section 8(2), it is enough that a dispute is pending
+and it is not necessary that a suit/arbitration also be pending:
+
+20
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+“38. It is, thus, clear that so far as an operational creditor is concerned, a demand
+notice of an unpaid operational debt or copy of an invoice demanding payment of the
+amount involved must be delivered in the prescribed form. The corporate debtor is
+then given a period of 10 days from the receipt of the demand notice or copy of the
+invoice to bring to the notice of the operational creditor the existence of a dispute, if
+any. We have also seen the notes on clauses annexed to the Insolvency and
+Bankruptcy Bill of 2015, in which “the existence of a dispute” alone is mentioned.
+Even otherwise, the word “and” occurring in Section 8(2)(a) must be read as “or”
+keeping in mind the legislative intent and the fact that an anomalous situation would
+arise if it is not read as “or”. If read as “and”, disputes would only stave off the
+bankruptcy process if they are already pending in a suit or arbitration proceedings
+and not otherwise. This would lead to great hardship; in that a dispute may arise a
+few days before triggering of the insolvency process, in which case, though a dispute
+may exist, there is no time to approach either an Arbitral Tribunal or a court. Further,
+given the fact that long limitation periods are allowed, where disputes may arise and
+do not reach an Arbitral Tribunal or a court for up to three years, such persons would
+be outside the purview of Section 8(2) leading to bankruptcy proceedings
+commencing against them. Such an anomaly cannot possibly have been intended by
+the legislature nor has it so been intended. We have also seen that one of the objects
+of the Code qua operational debts is to ensure that the amount of such debts, which is
+usually smaller than that of financial debts, does not enable operational creditors to
+put the corporate debtor into the insolvency resolution process prematurely or
+initiate the process for extraneous considerations. It is PART D for this reason that it
+is enough that a dispute exists between the parties.” (emphasis supplied) This
+observation of the Court led to the amendment of the IBC through Act 26 of 2018.
+
+37 The final observation of the Court in Mobilox Innovations (supra) has also been reiterated by
+another two-judge Bench of this Court in Kay Bouvet Engg. Ltd. v. Overseas Infrastructure Alliance
+(India) (P) Ltd. 26 (“Kay Bouvet”), where the Court observed:
+
+“19. It could thus be seen that this Court has held that one of the objects of IBC qua
+operational debts is to ensure that the amount of such debts, which is usually smaller
+than that of financial debts, does not enable operational creditors to put the
+corporate debtor into the insolvency resolution process prematurely or initiate the
+process for extraneous considerations. It has been held that it is for this reason that it
+is enough that a dispute exists between the parties.”
+
+38 The decisions of this Court in Mobilox Innovations (supra) and Kay Bouvet (supra) highlight its
+concern that operational creditors may initiate insolvency proceedings against corporate debtors for
+miniscule amounts of debt, which in turn could jeopardize the financial health of the corporate
+debtor. Indeed, in Swiss Ribbons (supra), this Court observed that the IBC was not akin to a
+recovery legislation for creditors, but is a legislation beneficial for the corporate debtor:
+
+21
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+(2021) 10 SCC 483 PART D “28. It can thus be seen that the primary focus of the
+legislation is to ensure revival and continuation of the corporate debtor by protecting
+the corporate debtor from its own management and from a corporate death by
+liquidation.
+
+The Code is thus a beneficial legislation which puts the corporate debtor back on its feet, not being a
+mere recovery legislation for creditors. The interests of the corporate debtor have, therefore, been
+bifurcated and separated from that of its promoters/those who are in management. Thus, the
+resolution process is not adversarial to the corporate debtor but, in fact, protective of its interests.
+The moratorium imposed by Section 14 is in the interest of the corporate debtor itself, thereby
+preserving the assets of the corporate debtor during the resolution process. The timelines within
+which the resolution process is to take place again protects the corporate debtor's assets from
+further dilution, and also protects all its creditors and workers by seeing that the resolution process
+goes through as fast as possible so that another management can, through its entrepreneurial skills,
+resuscitate the corporate debtor to achieve all these ends.” (emphasis supplied) D.4 Analysis 39 In
+the present case, there are few undisputed facts: (i) the appellant and the Proprietary Concern
+entered into a contract for supply of light fittings, since the appellant had been engaged for a project
+by CMRL; (ii) CMRL, on the appellant’s behalf, paid a sum of Rs 50 lakhs to the Proprietary
+Concern as an advance on its order with the appellant; (iii) CMRL cancelled its project with the
+appellant; (iv) the Proprietary Concern encashed the cheque for Rs 50 lakhs anyways; and (v) the
+appellant paid the sum of Rs 50 lakhs to CMRL.
+
+PART D 40 There is some factual controversy in relation to whether the appellant promptly
+informed the Proprietary Concern of the termination of its project with CMRL. The appellant alleges
+that they communicated it on the very same day (2 January 2014), while the respondent alleges that
+the Proprietary Concern only became aware of it through the appellant’s letter dated 23 July 2016.
+For the purposes of the present appeal, it is unnecessary to resolve this dispute. The Proprietary
+Concern has consistently maintained that they would be willing to refund the sum of Rs 50 lakhs if
+CMRL approached them directly. Thus, their ostensible dissatisfaction with the behavior of the
+appellant plays no part in the debt arising from the refund.
+
+41 We have to now consider the ‘debt’ in the present appeal. According to the appellant, it is the
+advance payment CMRL made on their behalf to the Proprietary Concern, which was encashed even
+though the project between CMRL and the appellant was terminated. On the other hand, the
+respondent has attempted to urge that there was no privity of contract between the appellant and
+the respondent, and that CMRL had not transferred the debt to the appellant. We reject both these
+submissions. It is amply clear from the facts that the debt arises from purchase orders between the
+appellant and the Proprietary Concern (which is the underlying contract), regardless of whether
+CMRL may have made the payment on behalf of the appellant. Thus, the ultimate dispute still
+remains between the appellant and the Proprietary Concern, and the debt arises from that. PART D
+42 It is then that we come to the core of the dispute – while the appellant has argued that the debt is
+in the nature of an operational debt which makes them an operational creditor, the respondent has
+opposed this submission. The respondent’s submission, which was accepted by the NCLAT, seeks to
+narrowly define operational debt and operational creditors under the IBC to only include those who
+
+22
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+supply goods or services to a corporate debtor and exclude those who receive goods or services from
+the corporate debtor. For reasons which shall follow, we reject this argument.
+
+43 First, Section 5(21) defines ‘operational debt’ as a “claim in respect of the provision of goods or
+services”. The operative requirement is that the claim must bear some nexus with a provision of
+goods or services, without specifying who is to be the supplier or receiver. Such an interpretation is
+also supported by the observations in the BLRC Report, which specifies that operational debt is in
+relation to operational requirements of an entity. Second, Section 8(1) of the IBC read with Rule 5(1)
+and Form 3 of the 2016 Application Rules makes it abundantly clear that an operational creditor can
+issue a notice in relation to an operational debt either through a demand notice or an invoice. As
+such, the presence of an invoice (for having supplied goods or services) is not a sine qua non, since a
+demand notice can also be issued on the basis of other documents which prove the existence of the
+debt. This is made even more clear by Regulation 7(2)(b)(i) and (ii) of the CIRP Regulations 2016
+which provides an operational creditor, seeking to claim an operational debt in a CIRP, an option
+between relying on a contract for the supply of PART D goods and services with the corporate debtor
+or an invoice demanding payment for the goods and services supplied to the corporate debtor. While
+the latter indicates that the operational creditor should have supplied goods or services to the
+corporate debtor, the former is broad enough to include all forms of contracts for the supply of
+goods and services between the operational creditor and corporate debtor, including ones where the
+operational creditor may have been the receiver of goods or services from the corporate debtor.
+Finally, the judgment of this Court in Pioneer Urban (supra), in comparing allottees in real estate
+projects to operational creditors, has noted that the latter do not receive any time value for their
+money as consideration but only provide it in exchange for goods or services. Indeed, the decision
+notes that “[e]xamples given of advance payments being made for turnkey projects and capital
+goods, where customisation and uniqueness of such goods are important by reason of which
+advance payments are made, are wholly inapposite as examples vis-à-vis advance payments made by
+allottees”. Hence, this leaves no doubt that a debt which arises out of advance payment made to a
+corporate debtor for supply of goods or services would be considered as an operational debt. 44 In
+Phoenix ARC (P) Ltd. v. Spade Financial Services Ltd. 27, a three-judge Bench of this Court
+purposively interpreted Section 21(2) of the IBC in order to understand who should be excluded
+from the CoC due to their being a “related party”. The Court held:
+
+(2021) 3 SCC 475 PART D “99. Accepting the submission of Mr Viswanathan would
+allow the statutory provision to be defeated by a related party of a corporate debtor
+creating commercial contrivances which have the effect of denuding its status as a
+related party, by the time that the CIRP is initiated. The true test for determining
+whether the exclusion in the first proviso to Section 21(2) applies must be formulated
+in a manner which would advance the object and purpose of the statute and not lead
+to its provisions being defeated by disingenuous strategies.
+
+[…]
+
+104. Hence, while the default rule under the first proviso to Section 21(2) is that only those financial
+creditors that are related parties in praesenti would be debarred from the CoC, those related party
+
+23
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+financial creditors that cease to be related parties in order to circumvent the exclusion under the
+first proviso to Section 21(2), should also be considered as being covered by the exclusion
+thereunder. Mr Kaul has argued, correctly in our opinion, that if this interpretation is not given to
+the first proviso of Section 21(2), then a related party financial creditor can devise a mechanism to
+remove its label of a “related party” before the corporate debtor undergoes CIRP, so as to be able to
+enter the CoC and influence its decision making at the cost of other financial creditors.” Thus, the
+Court struck a balance between the text of the statute and the purpose which it sought to achieve by
+excluding those related party financial creditors who ceased to be related parties only in order to
+circumvent the exclusion under the first proviso to Section 21(2).
+
+45 Similarly, in the present case, the phrase “in respect of” in Section 5(21) has to be interpreted in a
+broad and purposive manner in order to include all those who provide or receive operational
+services from the corporate debtor, which ultimately lead to an operational debt. In the present case,
+the appellant clearly sought an operational service from the Proprietary Concern when it contracted
+with them for PART E the supply of light fittings. Further, when the contract was terminated but the
+Proprietary Concern nonetheless encashed the cheque for advance payment, it gave rise to an
+operational debt in favor of the appellant, which now remains unpaid. Hence, the appellant is an
+operational creditor under Section 5(20) of the IBC. 46 In doing so, we are cognizant of the
+observations of this Court in judgments such as Swiss Ribbons (supra), that IBC proceedings should
+not become recovery proceedings. However, in the present case, the dispute is not in relation to the
+quality of the services provided by the Proprietary Concern but is entirely about the repayment of
+the advance amount paid to them, upon the cancellation of the underlying project.
+
+E     Evidentiary value of respondent’s MOA
+
+47    Having established that the appellant is an operational creditor, we must now
+
+analyze whether the debt owed to the appellant can actually be realized from the respondent. In the
+present case, it is uncontested that the appellant entered into a contract with the Proprietary
+Concern and continued communications with them till the very end, finally sending its notice under
+Section 8(1) of the IBC to the respondent.
+
+48 The dispute revolves around the MOA of the respondent, dated 24 January 2014, which states:
+
+PART E “(A) THE MAIN OBJECTS OF THE COMPANY TO BE PURSUED BY
+COMPANY ON ITS INCORPORATION:
+
+[…]
+
+4. To take over the existing Proprietorship firm Viz. M/S. Hitro Energy Solutions
+having its registered office at Chennai.” The NCLT understood this to be undeniable
+proof that the respondent had taken over the business and liabilities of the
+Proprietary Concern, while the NCLAT took a different position.
+
+24
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+49 We must first consider the relevant statutory provisions. Section 4 of the Companies Act 2013 28
+defines an MOA. Section 4(1) provides the relevant information that an MOA shall provide, which
+includes, in sub-Clause (c), that it should provide “the objects for which the company is proposed to
+be incorporated and any matter considered necessary in furtherance thereof”. 50 Section 10(1) of CA
+2013 elucidates the legal effect of an MOA in the following terms:
+
+“10. Effect of memorandum and articles.—(1) Subject to the provisions of this Act, the
+memorandum and articles shall, when registered, bind the company and the
+members thereof to the same extent as if they respectively had been signed by the
+company and by each member, and contained covenants on its and his part to
+observe all the provisions of the memorandum and of the articles.” “CA 2013” PART
+E
+
+51 Further, Section 13 provides the requirements for the alteration of an MOA. The relevant parts of
+Section 13 are as follows:
+
+“13. Alteration of memorandum.—(1) Save as provided in Section 61, a company may,
+by a special resolution and after complying with the procedure specified in this
+section, alter the provisions of its memorandum.
+
+[…] (6) Save as provided in Section 64, a company shall, in relation to any alteration
+of its memorandum, file with the Registrar—
+
+(a) the special resolution passed by the company under sub-
+
+section (1);
+
+(b) the approval of the Central Government under sub-section (2), if the alteration involves any
+change in the name of the company.
+
+[…] (9) The Registrar shall register any alteration of the memorandum with respect to the objects of
+the company and certify the registration within a period of thirty days from the date of filing of the
+special resolution in accordance with clause (a) of sub-section (6) of this section.
+
+(10) No alteration made under this section shall have any effect until it has been registered in
+accordance with the provisions of this section.
+
+[…]” Thus, for the alteration of the MOA of a company in relation to its objects, a Special Resolution
+has to be first passed under Section 13(1). It then has to be filed with the Registrar in accordance
+with Section 13(6)(a). Further, under Section 13(9), when the alteration is made to the objects in the
+MOA, the Registrar shall register it and certify it within a period of thirty days from the filing of the
+Special Resolution in PART E accordance with Section 13(6)(a). Finally, Section 13(10) provides that
+no alteration made under the Section shall have effect unless it is registered in accordance with the
+provisions of the Section.
+
+25
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+52 A company’s MOA is its charter and outlines the purpose for which the company has been
+created. Some of those purposes/objects have to then be placed in the MOA, in accordance with
+Section 4(1)(c) of the CA 2013. In the 19th edition of A Ramaiya’s Guide to the Companies Act, it has
+been stated 29:
+
+“[s 4.2.3] Objects for which the company is proposed to be incorporated and any
+matter considered necessary for the furtherance of its objectives […] It is pertinent to
+note that section 4(1)(c) speaks about ‘the objects for which the company is proposed
+to be incorporated’. This implies that the company contemplates to pursue its objects
+either immediately after incorporation or within a reasonable period of time. It is the
+duty of the registrar to verify whether the objects included in the draft memorandum
+are indeed the ones which the company proposes to pursue upon incorporation. He
+should satisfy himself on this score by verifying the documents/ information
+provided by the company.” The object clause in an MOA is considered to be
+representative of the purpose of a company and it is expected that the company will
+fulfill/attempt to fulfill the objects it has laid out in its MOA.
+
+53 In the present case, the MOA of the respondent unequivocally states that one of its main objects
+is to take over the Proprietary Concern. However, the respondent (LexisNexis, 2020) PART E has
+produced a resolution dated 1 September 2014 passed by its Board of Directors, purportedly
+resolving to not take over the Proprietary Concern. The resolution states:
+
+“CERTIFIED TRUE COPY OF THE RESOLUTION PASSED AT THE MEETING OF
+BOARD OF DIRECTORS HELD AT 10.00 AM ON 1st SEPTEMBER 2014 AT THE
+REGISTERED OFFICE OF THE COMPANY AT CHENNAI.
+
+"RESOLVED THAT the company do hereby decided not to take over the
+Proprietorship concern M/S.HITRO ENERGY SOLUTIONS as envisaged in clause 4
+of main objects of the Memorandum of Associations of the Company."” In support of
+the resolution, the respondent has also produced a certification from the banker of
+the Proprietary Concern, Indian Bank, Mylapore Branch, on 10 April 2018 and from
+the Chartered Accountants of the Proprietary Concern, K R Sarangapani and Co, on
+27 April 2018.
+
+54 Admittedly, there was no reference to the resolution in the counter-statement dated 18 January
+2018 and additional counter-statement dated 9 March 2018 filed by the respondent before the
+NCLT. However, in their appeal filed before the NCLAT, the respondent states that the resolution
+was, in fact, brought to the notice of the NCLT:
+
+“(xii). It is submitted that a Board resolution dt 01.09.2014 of M/s. Hitro Energy
+Solutions Pvt Ltd coupled with the Auditor Certificate dated 01.09.2014 was also
+placed on record and brought to the attention and Notice of the Learned NCLT
+Tribunal, Chennai in which it was resolved that clause 4 of the Memorandum of
+Association of the M/s. Hitro Energy Solutions Pvt Ltd i.e to take over the existing
+
+26
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+proprietorship concern i.e M/s. Hitro Energy Solutions will not be given effect PART
+E to and as such the Proprietorship concern namely M/s. Hitro Energy Solutions will
+continue. Thus M/s. Hitro Energy Solutions is continuing its business as a
+proprietary concern.” The NCLT in its judgment dated 6 December 2018 made no
+mention of this resolution or the auditor’s certificate. The conduct of the respondent
+in bringing up this resolution for the first time before the NCLAT would lead to an
+adverse inference against them for having suppressed this document earlier, if at all it
+was in existence.
+
+55 In any case, Section 13 of CA 2013 provides for the procedure which has to be followed when the
+MOA is to be amended. In cases where the object clause is amended, it requires the Registrar to
+register the Special Resolution filed by the company. However, the respondent has provided no
+proof that: (i) the purported resolution dated 1 September 2014 was a Special Resolution; (ii) it was
+filed before the Registrar; and (iii) that the Registrar ultimately did register it. Thus, in terms of
+Section 13(10) of CA 2013, the purported amendment to the MOA would not have any legal effect.
+
+56 Consequently, the MOA of the respondent still stands and the presumption will continue to be in
+favor of the appellant. Thus, it can be concluded that the respondent took over the Proprietary
+Concern and was liable to re-pay the debt to the appellant. Hence, the application under Section 9 of
+the IBC was maintainable. PART F F Whether the application under Section 9 is barred by
+limitation 57 The respondent urged that the application under Section 9 is barred by limitation. The
+respondent has argued that the date of default mentioned by the appellant is 7 November 2013,
+when the cheque was issued by CMRL to the Proprietary Concern. As such, the submission is that
+the limitation of three years under Article 137 of the Limitation Act 1963 30 would expire on 7
+November 2016, while the application under Section 9 was only filed on 1 November 2017. 58 In
+B.K. Educational Services (P) Ltd. v. Parag Gupta & Associates 31 (“B.K. Educational Services”), a
+two-judge Bench of this Court held that the Limitation Act would apply to applications filed under
+Sections 7 and 9 of the IBC. The Court held:
+
+“42. It is thus clear that since the Limitation Act is applicable to applications filed
+under Sections 7 and 9 of the Code from the inception of the Code, Article 137 of the
+Limitation Act gets attracted. “The right to sue”, therefore, accrues when a default
+occurs. If the default has occurred over three years prior to the date of filing of the
+application, the application would be barred under Article 137 of the Limitation Act,
+save and except in those cases where, in the facts of the case, Section 5 of the
+Limitation Act may be applied to condone the delay in filing such application.”
+
+59 The respondent’s submission that limitation commences from 7 November 2013 has to be
+rejected. In its application under Section 9, the appellant has mentioned this as the date on which
+the debt became due. However, as noted in “Limitation Act” (2019) 11 SCC 633 PART F B.K.
+Educational Services (supra), limitation does not commence when the debt becomes due but only
+when a default occurs. As noted earlier in the judgment, default is defined under Section 3(12) of the
+IBC as the non-payment of the debt by the corporate debtor when it has become due.
+
+27
+
+M/S Consolidated Construction ... vs M/S Hitro Energy Solutions Private ... on 4 February, 2022
+
+60 In the present case, CMRL issued the cheque of Rs 50,00,000 to the Proprietary Concern on 7
+November 2013. However, at that time, it was issued as an advance payment for the purchase order
+of the appellant. It was only on 2 January 2014 that CMRL terminated its project with the appellant,
+and it was after this that the Proprietary Concern encashed the cheque. Subsequently,
+correspondence was exchanged between the appellant and the Proprietary Concern in July 2016 in
+relation to the re-payment of the amount. Thereafter, a joint meeting was also held on 4 August
+2016. Till this point in time, both the parties were in negotiation in relation to the re-payment and
+the minutes of meeting show that the Proprietary Concern was willing to make the re-payment if
+CMRL issued a letter stating that they will not pursue a claim in the future or if the appellant
+provided a bank guarantee for the amount.
+
+PART G 61 A final letter was addressed by the appellant to the Proprietary Concern on 27 February
+2017, demanding the payment on or before 4 March 2017. The Proprietary Concern replied to this
+letter on 2 March 2017, finally refusing to make re-payment to the appellant. Consequently, the
+application under Section 9 will not be barred by limitation.
+
+G        Conclusion
+
+62       Therefore, we answer the three issues formulated earlier in the following
+
+terms:
+
+(i)      The appellant is an operational creditor under the IBC, since an ‘operational
+
+debt’ will include a debt arising from a contract in relation to the supply of goods or services from
+the corporate debtor;
+
+(ii) The respondent will be considered to have taken over the Proprietary Concern in accordance
+with its MOA; and
+
+(iii) The application under Section 9 of the IBC is not barred by limitation. 63 The appeal is allowed
+by setting aside the impugned judgment and order of the NCLAT dated 12 December 2019. Since the
+CIRP in respect of the respondent is ongoing due to this Court’s order dated 18 November 2020, no
+further directions are required.
+
+PART G 64 Pending application(s), if any, stand disposed of.
+
+… … … . … . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . J .   [ D r   D h a n a n j a y a   Y   C h a n d r a c h u d ]
+.…..….….....................................................J. [Surya Kant] .…..….….....................................................J.
+[Vikram Nath] New Delhi;
+
+February 04, 2022
+
+28

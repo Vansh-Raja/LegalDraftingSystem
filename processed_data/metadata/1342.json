@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 5909 of 2022 (arising out of SLP(C) No. 22443 of 2019)",
+  "parties": {
+    "petitioner": "Life Insurance Corporation of India",
+    "respondent": "Sanjeev Builders Private Limited & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-01",
+  "summary": "The appeal challenged the Bombay High Court's order permitting the plaintiffs to amend their plaint to enhance the claim for damages from ₹1.01 crore to ₹400.01 crore in a suit for specific performance of an agreement dated 08.06.1979. The appellant argued that the amendment was barred by limitation, violated Order II Rule 2 CPC, amounted to constructive res judicata, and was contrary to a prior Supreme Court order. The respondents contended that no legal error was committed, limitation was kept open, and no prejudice would arise since the suit remained undetermined. The Court reaffirmed that courts may allow amendments even after limitation if justice so requires, citing established principles from L.J. Leach & Co., T.N. Alloy Foundry, and Charan Das. It held that the High Court acted within its discretion in permitting the amendment, especially since the trial court could still decide the limitation issue and the defendant was allowed to file an additional written statement.",
+  "legal_provisions_cited": [
+    "Order II Rule 2, Civil Procedure Code, 1908",
+    "Section 21(5) proviso, Specific Relief Act, 1963",
+    "Section 22(2), Specific Relief Act, 1963",
+    "L.J. Leach & Co. Ltd. v. Jardine Skinner & Co., AIR 1957 SC 357",
+    "T.N. Alloy Foundry Co. Ltd. v. T.N. Electricity Board & Ors., (2004) 3 SCC 392",
+    "Charan Das & Ors. v. Amir Khan & Ors., AIR 1921 PC 50",
+    "Pirgonda Hongonda Patil v. Kalgonda Shidgonda Patil & 2 Ors., 1957 SCR 595",
+    "Life Insurance Corporation of India v. Sanjeev Builders Pvt. Ltd. & Ors., (2018) 11 SCC 722"
+  ],
+  "final_judgment": "Appeal dismissed"
+}

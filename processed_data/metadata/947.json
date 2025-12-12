@@ -1,0 +1,16 @@
+{
+  "case_number": "2023INSC871",
+  "parties": {
+    "petitioner": "Karnataka State Electronics Development Corporation Ltd.",
+    "respondent": "Kumaon Entertainment and Hospitalities Pvt. Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-10-05",
+  "summary": "The appeal challenged the Karnataka High Court's judgment confirming the execution of a sale deed in favor of the respondent at a tentative land rate of Rs. 1 crore per acre. The appellant argued that the final rate, as per a 2007 Board resolution, was Rs. 3.2 crores per acre (plus 40% for commercial use), and that reliance on internal audit communications was misplaced. The respondent claimed entitlement to the tentative rate, having complied with all conditions and paid additional charges. Issues included interpretation of lease cum sale terms, applicability of limitation, and protection of public revenue.",
+  "legal_provisions_cited": [
+    "Limitation Act, 1963, Section 5",
+    "Union of India vs. West Coast Paper Mill",
+    "Karnataka Industrial Development Board vs. M/s Prakash Dal Mill and Ors."
+  ],
+  "final_judgment": "Appeal allowed in part; sale deed to be executed at the final prevailing rate as per the 141st Board resolution, with 40% enhancement for commercial use, ensuring no loss to public exchequer."
+}

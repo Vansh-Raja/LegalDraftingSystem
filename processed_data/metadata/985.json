@@ -1,0 +1,18 @@
+{
+  "case_number": "CIVIL APPEAL NO.3606 of 2020",
+  "parties": {
+    "petitioner": "M/S Vistra Itcl (India) Limited & Ors.",
+    "respondent": "Mr. Dinkar Venkatasubramanian & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-04",
+  "summary": "The appeal challenged the NCLAT's dismissal of an application under Section 60(5) of the IBC, filed by the appellants seeking recognition as secured financial creditors based on a pledge of shares by Amtek Auto Ltd. The NCLAT rejected the claim, observing that the appellants did not lend money directly to the corporate debtor and their claim as secured creditors was rejected in 2017 without challenge. The Supreme Court considered arguments on the existence of a creditor-debtor relationship, the nature of security interest under Section 3(31) of the IBC, and whether there was a continuing cause of action. The appellants contended that the proceedings were ongoing and delay should not bar their claim, especially given the CIRP exceeded statutory timelines. The respondents argued the claim was time-barred and not legally sustainable as no financial debt was owed to the appellants by the corporate debtor.",
+  "legal_provisions_cited": [
+    "Insolvency & Bankruptcy Code, 2016, Section 3(31)",
+    "Insolvency & Bankruptcy Code, 2016, Section 7",
+    "Insolvency & Bankruptcy Code, 2016, Section 60(5)",
+    "Anuj Jain Interim Resolution Professional for Jaypee Infratech Limited vs. Axis Bank Limited (2020) 8 SCC 401",
+    "Phoenix ARC Private Limited vs. Ketulbhai Ramubhai Patel (2021) 2 SCC 799"
+  ],
+  "final_judgment": "The Supreme Court dismissed the appeal, affirming the NCLAT's decision that the appellants were not financial creditors under the IBC as they had not advanced any funds to the corporate debtor and their claim was belated and previously rejected without challenge."
+}

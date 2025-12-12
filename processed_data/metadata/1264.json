@@ -1,0 +1,25 @@
+{
+  "case_number": "Criminal Appeal No. 1768 of 2022",
+  "parties": {
+    "petitioner": "Devendra Nath Singh",
+    "respondent": "State of Bihar & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-12",
+  "summary": "The appeal challenged the Patna High Court's order directing further investigation under Section 173(8) CrPC against the appellant, Devendra Nath Singh, who was not named in the FIR or charge sheet. The High Court had observed that the appellant, as District Manager, was likely responsible for misappropriation, and the Class IV employee accused was made a scapegoat. The Supreme Court examined whether the High Court could issue such directions without hearing the appellant and whether it encroached upon the investigative agency's prerogative. It considered principles of natural justice, referencing that a person facing adverse judicial orders affecting substantial rights must have a hearing. The appeal contested the validity of court-directed investigations, citing precedents limiting court interference in investigative processes.",
+  "legal_provisions_cited": [
+    "Section 482 CrPC",
+    "Section 173(8) CrPC",
+    "Section 156(3) CrPC",
+    "Section 190(1)(c) CrPC",
+    "Indian Penal Code, Sections 409, 467, 468, 420",
+    "Dharam Pal v. State of Haryana and Anr. (2014) 3 SCC 306",
+    "Abhinandan Jha & Ors. v. Dinesh Mishra: (1967) 3 SCR 668",
+    "Vinubhai Haribhai Malaviya and Ors. v. State of Gujarat and Anr.: (2019) 17 SCC 1",
+    "Madan Mohan v. State of Rajasthan and Ors.: (2018) 12 SCC 30",
+    "Popular Muthiah v. State: (2006) 7 SCC 296",
+    "Divine Retreat Centre v. State of Kerala and Ors.: (2008) 3 SCC 542",
+    "Manharibhai Muljibhai Kakadia and Anr. v. Shaileshbhai Mohanbhai Patel and Ors.: (2012) 1 SCC"
+  ],
+  "final_judgment": "The appeal was allowed, and the impugned order of the Patna High Court directing further investigation against the appellant was set aside, holding that the High Court could not issue such directions without affording the appellant an opportunity of hearing and that court-ordered investigations affecting substantial rights must comply with principles of natural justice."
+}

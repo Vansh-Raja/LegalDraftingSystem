@@ -1,0 +1,19 @@
+{
+  "case_number": "CIVIL APPEAL NO. 6126 OF 2021 (@ SLP (C) NO. 13380 OF 2018)",
+  "parties": {
+    "petitioner": "The Commissioner of Income Tax 7",
+    "respondent": "M/s. Paville Projects Pvt. Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-06",
+  "summary": "Capital gains tax assessment; cost of improvement under s.55(1)(b) vs. shareholder settlement payment; family litigation settlement linked to property sale; AO accepted Rs.31.05 Crores as eligible deduction for discharge of encumbrances; CIT-7 invoked s.263 revision finding claim non-deductible as not capital expenditure or asset enhancement; ITAT set aside CIT order citing Malabar Industrial Co. precedent; High Court upheld ITAT; Supreme Court examined whether payment to shareholders constituted 'cost of improvement' or mere share settlement unrelated to asset; key issues: s.50A applicability for business-used asset component, erroneous assessment standard under s.263, validity of dual interpretations in tax computation; disposition hinged on whether disputed payment enhanced asset value or merely resolved internal corporate dispute.",
+  "legal_provisions_cited": [
+    "Income Tax Act s.263",
+    "Income Tax Act s.55(1)(b)",
+    "Income Tax Act s.50A",
+    "Malabar Industrial Co. Ltd. vs. CIT (2000) 2 SCC 718",
+    "CIT vs. Smt. Shakuntala Kantilal (1991) 190 ITR 56 (Bombay)",
+    "Chemosyn Ltd. vs. ACIT 2012 (25) Taxxman.com 325 (Bombay)"
+  ],
+  "final_judgment": "Appeal details not explicitly stated in provided text, but Court examined validity of ITAT/HC decisions upholding AO assessment allowing Rs.31.05 Crores as cost of improvement; judgment likely dismissed or allowed based on interpretation of s.55(1)(b) applicability to shareholder settlement payments."
+}

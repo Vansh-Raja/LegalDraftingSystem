@@ -1,0 +1,19 @@
+{
+  "case_number": "Writ Petition (Civil) No.1525 OF 2019",
+  "parties": {
+    "petitioner": "Gambhirdan K Gadhvi",
+    "respondent": "The State of Gujarat & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-03",
+  "summary": "Petitioner challenged the appointment of respondent No.4 as Vice Chancellor of Sardar Patel University under Article 32, invoking writ of quo warranto. Issue: whether UGC Regulations, 2010 and 2018 mandating 10 years' professorial experience for Vice Chancellors apply to state universities adopting the UGC pay revision scheme. Petitioner argued Gujarat adopted the Scheme, making UGC norms binding; respondent violated Regulation 7.3.0 as appointee lacked required experience. High Court previously held UGC norms non-binding absent state legislation amendment. Supreme Court had earlier disposed of SLP without decision, leaving legal questions open. Search Committee allegedly deviated from UGC norms, and eligibility criteria were diluted for reappointment. Challenge centered on legality of reappointment in violation of UGC standards and procedural irregularities.",
+  "legal_provisions_cited": [
+    "Article 32",
+    "UGC Regulations, 2010",
+    "UGC Regulations, 2018",
+    "Section 10(2)(b) of Sardar Patel University Act, 1955",
+    "Section 12(b) of UGC Act, 1956",
+    "6th Central Pay Commission Scheme"
+  ],
+  "final_judgment": "The appointment of respondent No.4 as Vice Chancellor was declared illegal and void ab initio for non-compliance with UGC Regulations, 2010 and 2018; notification dated 29.08.2019 quashed; writ of quo warranto issued; all consequential benefits to be recovered with retrospective effect."
+}

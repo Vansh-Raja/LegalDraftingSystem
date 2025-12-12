@@ -1,0 +1,26 @@
+{
+  "case_number": "Criminal Appeal No 1231 of 2022 (Arising out of SLP(Crl) No 7426 of 2022)",
+  "parties": {
+    "petitioner": "Shambhu Kharwar",
+    "respondent": "State of Uttar Pradesh & Anr"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-12",
+  "summary": "The appeal challenged the Allahabad High Court's dismissal of a Section 482 CrPC application seeking to quash an FIR and charge-sheet alleging rape under Section 376 IPC, based on a promise to marry. The key issue was whether sexual relations following a false promise to marry constitute rape under Section 375 IPC read with Section 90 IPC. The Supreme Court examined whether consent was vitiated by 'misconception of fact' due to a false promise, applying the standard that only a promise made with no intention of fulfilling it at the time it was made would vitiate consent. The Court emphasized that mere breach of a genuine promise to marry does not amount to rape. The High Court had declined to quash the proceedings, and the appeal was effectively dismissed as the Court found the allegations, if proven, could constitute an offence.",
+  "legal_provisions_cited": [
+    "Section 375 IPC",
+    "Section 376 IPC",
+    "Section 90 IPC",
+    "Section 482 CrPC",
+    "Section 161 CrPC",
+    "Section 164 CrPC",
+    "Section 173 CrPC",
+    "Neeharika Infrastructure v. State of Maharashtra",
+    "R.P. Kapur v. State of Punjab",
+    "State of Haryana v. Bhajan Lal",
+    "Dhruvaram Murlidhar Sonar v. State of Maharashtra",
+    "Pramod Suryabhan Pawar v. State of Maharashtra",
+    "Sonu @ Subhash Kumar v. State of Uttar Pradesh"
+  ],
+  "final_judgment": "Appeal dismissed; proceedings not quashed"
+}

@@ -1,0 +1,19 @@
+{
+  "case_number": "CIVIL APPEAL NO. 2912 OF 2022 [Arising out of Special Leave Petition (Civil) No.26855 of 2018]",
+  "parties": {
+    "petitioner": "Dental Council of India",
+    "respondent": "Biyani Shikshan Samiti & ANR."
+  },
+  "court_name": "SUPREME COURT OF INDIA",
+  "date_of_judgment": "2022-04-12",
+  "summary": "Challenge to Rajasthan High Court's invalidation of Dental Council of India's 2012 notification amending Regulation 6(2)(h) requiring minimum standards for dental colleges. Council argued amendment was within statutory authority under Dentists Act, 1948 to improve education standards; respondents claimed amendment violated Articles 14 and 19(1)(g) by restricting dental college establishment despite dentist shortage. Court examined Section 10A of Dentists Act regarding approval process and Section 16-A standards. High Court had struck down notification as ultra vires and unconstitutional, directing reconsideration of respondent's application under old regulation.",
+  "legal_provisions_cited": [
+    "Dentists Act, 1948, Section 10A",
+    "Dentists Act, 1948, Section 16-A",
+    "Dental Council of India (Establishment of New Dental Colleges, Opening of New or Higher Course of Studies or Training and Increase of Admission Capacity in Dental Colleges) Regulations, 2006",
+    "Article 14 of Constitution of India",
+    "Article 19(1)(g) of Constitution of India",
+    "Dental Council of India vs. Subharti K.K.B. Charitable Trust and Another (2001) 5 SCC 486"
+  ],
+  "final_judgment": "Appeal filed by Dental Council of India challenging High Court judgment that struck down its 2012 notification amending Regulation 6(2)(h)"
+}

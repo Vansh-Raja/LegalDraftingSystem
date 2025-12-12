@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 9006 of 2011",
+  "parties": {
+    "petitioner": "P. Daivasigamani",
+    "respondent": "S. Sambandan"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-12",
+  "summary": "The appeal challenged the Madras High Court's judgment allowing specific performance of a 1989 agreement for sale of immovable property. The Trial Court had dismissed the claim for specific performance for lack of proof of readiness and willingness, only awarding refund of earnest money with interest. The High Court reversed, holding that the plaintiff sufficiently proved readiness and willingness under Section 16(c) of the Specific Relief Act. The Supreme Court examined issues of limitation, time as essence in contracts for immovable property, and adequacy of proof of financial capacity. It upheld the High Court, finding that limitation began from date of refusal of performance, not execution of agreement, and that the respondent had timely issued notices and demonstrated willingness. The appeal was dismissed with costs.",
+  "legal_provisions_cited": [
+    "Article 54 of the Limitation Act, 1963",
+    "Section 16(c) of the Specific Relief Act"
+  ],
+  "final_judgment": "Appeal dismissed with costs"
+}

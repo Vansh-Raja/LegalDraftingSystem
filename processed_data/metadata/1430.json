@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 4252 of 2022, Civil Appeal No. 4253 of 2022, Civil Appeal No. 3480 of 2022",
+  "parties": {
+    "petitioner": "Pr. Commissioner Of Income Tax – I, Chandigarh",
+    "respondent": "M/S. ABC Papers Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-18",
+  "summary": "The key issue was determining the appropriate High Court for filing appeals under Section 260A of the Income Tax Act, 1961, against orders of the Income Tax Appellate Tribunal (ITAT) when assessment cases are transferred under Section 127 between Assessing Officers in different states. The Supreme Court considered conflicting views of the Punjab & Haryana High Court and the Delhi High Court on whether such a transfer changes the appellate jurisdiction. The Court held that appellate jurisdiction under Section 260A is determined by the location of the original Assessing Authority and cannot be altered by administrative transfer orders under Section 127. The principle from Seth Banarsi Dass Gupta was upheld, and the Delhi High Court's decisions in Sahara India Financial Corp. Ltd. and Aar Bee Industries Ltd. were reversed.",
+  "legal_provisions_cited": [
+    "Section 260A, Income Tax Act, 1961",
+    "Section 127, Income Tax Act, 1961",
+    "Section 132(1), Income Tax Act, 1961",
+    "Seth Banarsi Dass Gupta v. Commissioner of Income Tax",
+    "CIT v. Motorola India Ltd.",
+    "Commissioner of Income Tax (Central), Gurgaon v. M/s Parabolic Drugs Limited",
+    "CIT v. Sahara India Financial Corporation Ltd.",
+    "CIT v. Aar Bee Industries Ltd."
+  ],
+  "final_judgment": "The appeals were allowed in part; the Supreme Court ruled that the jurisdiction for appeal under Section 260A remains with the High Court within whose territorial jurisdiction the original Assessing Officer was situated, and such jurisdiction is not transferred by administrative orders under Section 127 of the Income Tax Act."
+}

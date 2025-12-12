@@ -1,0 +1,23 @@
+{
+  "case_number": "Writ Petition (Crl) No 49 of 2022",
+  "parties": {
+    "petitioner": "Ram Chander",
+    "respondent": "The State of Chhattisgarh & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-22",
+  "summary": "The petitioner, a life convict sentenced under Sections 302/149 IPC, sought premature release after serving over 14 years. The trial court and later the High Court upheld his conviction; his SLP was dismissed. He applied for remission under Rule 358 of Chhattisgarh Prisons Rules 1968 and Sections 432 and 433-A CrPC. The presiding judge opposed remission, citing the gravity of the offence. The state authorities denied relief, relying on the judge’s opinion. The petitioner argued that the government need not be bound by the judge’s opinion and cited factors for remission from Laxman Naskar and Sangeet. Respondents contended only Rule 358(3)(A) applied and that judicial opinion must be respected. The Court emphasized judicial discretion, reasoned decision-making, and consideration of conduct, antecedents, and reform, while noting Section 433-A mandates minimum 14 years.",
+  "legal_provisions_cited": [
+    "Section 302 read with Section 149 IPC",
+    "Section 432 CrPC",
+    "Section 433-A CrPC",
+    "Rule 358, Chhattisgarh Prisons Rules 1968",
+    "Union of India v. Sriharan @ Murugan",
+    "Sangeet v. State of Haryana",
+    "State of Haryana v. Mohinder Singh",
+    "Bhagwat Saran v. State of UP",
+    "State of Haryana v. Jagdish",
+    "Laxman Naskar v. Union of India"
+  ],
+  "final_judgment": "The Court remitted the matter to the appropriate government for reconsideration of the petitioner's release application under Section 432 CrPC, with a direction to consider all relevant factors including conduct in prison, potential for reoffending, and reform, and to record a reasoned order, without being strictly bound by the earlier adverse opinion of the presiding judge."
+}

@@ -1,0 +1,17 @@
+{
+  "case_number": "Criminal Appeal No. 1497 of 2022",
+  "parties": {
+    "petitioner": "Dashrathbhai Trikambhai Patel",
+    "respondent": "Hitesh Mahendrabhai Patel & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-11",
+  "summary": "The case involved a dispute over the dishonour of a cheque under Section 138 of the Negotiable Instruments Act, 1881. The key issue was whether an offence is committed when a cheque representing the full debt is dishonoured, despite part-payment having been made after the cheque was issued but before encashment. The appellant claimed the respondent defaulted on a loan of Rs. 20 lakhs, evidenced by a cheque that was dishonoured due to insufficient funds. The respondent argued that a part-payment of Rs. 4,09,315 had been made, reducing the legally enforceable debt, and that the cheque was issued as security. The trial court and High Court acquitted the respondent, holding the demand notice invalid for not reflecting part-payment. The Supreme Court upheld the acquittal, ruling that the legally enforceable debt at the time of encashment must govern liability under Section 138, and an omnibus demand for the full cheque amount, without adjusting for payments made, renders the notice invalid.",
+  "legal_provisions_cited": [
+    "Section 138, Negotiable Instruments Act, 1881",
+    "Explanation to Section 138",
+    "Section 56 of the Indian Contract Act",
+    "Indus Airways Private Limited v. Magnum Aviation Private Limited"
+  ],
+  "final_judgment": "Appeal dismissed; acquittal under Section 138 upheld"
+}

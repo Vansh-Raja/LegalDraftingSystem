@@ -1,0 +1,15 @@
+{
+  "case_number": "CIVIL APPEAL NOS. 2205-2206 OF 2022",
+  "parties": {
+    "petitioner": "Master Ayush",
+    "respondent": "The Branch Manager, Reliance General Insurance Co. Ltd. & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-29",
+  "summary": "The appeal challenged the High Court's reduction of compensation from Rs. 18,24,000 (awarded by Motor Accident Claims Tribunal) to Rs. 13,46,805 for a 5-year-old accident victim suffering 100% permanent physical impairment resulting in paraplegia. Key issues included adequacy of compensation for disability, medical expenses, future medical needs, attendant charges, conveyance, and loss of amenities. The Supreme Court reviewed medical evidence confirming lifelong dependency, use of ARGO braces, and inability to walk. Relying on Kajal v. Jagdish Chand, it emphasized liberal compensation in permanent disability cases. The Court recalculated future earnings using minimum wages for skilled workers in Karnataka (Rs. 3,700/month) plus 40% for future prospects, applying a multiplier of 18, resulting in loss of earnings at Rs. 11,18,880. It found the High Court's overall award inadequate and ordered recalculation with a more liberal approach, especially for pain, suffering, and future needs.",
+  "legal_provisions_cited": [
+    "Kajal v. Jagdish Chand and Others, (2020) 4 SCC 413",
+    "National Insurance Company Limited v. Pranay Sethi & Ors, (2017) 16 SCC 680"
+  ],
+  "final_judgment": "The appeal was allowed; the matter was remanded to the High Court for reconsideration of compensation with due regard to minimum wages, future prospects, and a liberal approach in line with settled precedent."
+}

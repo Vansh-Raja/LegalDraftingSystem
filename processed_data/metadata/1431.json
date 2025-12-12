@@ -1,0 +1,25 @@
+{
+  "case_number": "CIVIL APPEAL NO._________OF 2022 (@ SPECIAL LEAVE PETITION (CIVIL) NO. 672 OF 2020)",
+  "parties": {
+    "petitioner": "Pr. Commissioner Of Income Tax 6",
+    "respondent": "Khyati Realtors Pvt. Ltd."
+  },
+  "court_name": "SUPREME COURT OF INDIA",
+  "date_of_judgment": "2022-08-25",
+  "summary": "The Revenue appealed against the Bombay High Court's affirmation of ITAT's decision allowing Khyati Realtors Pvt. Ltd. to write off ₹10 crores as a bad debt. The assessee, engaged in real estate and financing, advanced ₹10 crores to C. Bhansali Developers Pvt. Ltd. in 2007 for commercial premises, which was written off in 2009 due to non-performance and lack of response from the builder. The Revenue argued insufficiency of evidence and inconsistency in claiming the amount as both advance and loan, asserting AO's right to scrutinize under Section 36(2). The assessee contended the write-off was in ordinary course of business and supported by precedent. Court examined requirements under Sections 36(1)(vii) and 36(2), as well as alternative claim under Section 37. Issue centered on whether the AO must accept write-offs if done in sound business judgment, especially post-1989 amendment.",
+  "legal_provisions_cited": [
+    "Section 36(1)(vii) of the Income Tax Act, 1961",
+    "Section 36(2) of the Income Tax Act, 1961",
+    "Section 37 of the Income Tax Act, 1961",
+    "Section 143(2)",
+    "Section 142(1)",
+    "Section 260A of the IT Act",
+    "Catholic Syrian Bank Ltd. v. Commissioner of Income Tax, Thrissur",
+    "T.R.F. Limited v. Commissioner of Income Tax, Ranchi",
+    "Commissioner of Income Tax v. Mysore Sugar Co. Ltd.",
+    "Mohan Meakin Ltd. v. Commissioner of Income Tax",
+    "Harshad J. Choksi v. Commissioner of Income Tax",
+    "IBM World Trade Corporation v. Commissioner of Income Tax"
+  ],
+  "final_judgment": "The appeal was dismissed. The Supreme Court upheld the ITAT and Bombay High Court's decision, allowing the assessee’s write-off of ₹10 crores as a bad debt under Section 36(1)(vii) read with Section 36(2) of the Income Tax Act, 1961, holding that the action was in the ordinary course of business and based on sound commercial judgment. The Court found no perversity or lack of evidence warranting interference."
+}

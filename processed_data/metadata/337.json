@@ -1,0 +1,19 @@
+{
+  "case_number": "2025 INSC 36",
+  "parties": {
+    "petitioner": "The Municipal Corporation Of Greater Mumbai & Ors.",
+    "respondent": "Century Textiles And Industries Limited & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-01-07",
+  "summary": "The appeal challenged the Bombay High Court's 2022 judgment directing the Municipal Corporation of Greater Mumbai (MCGM) to execute formal conveyance of Plot C.S. No.1546 in Lower Parel to Century Textiles. The dispute arose from a 1918 application under the City of Bombay Improvement Act, 1898, for worker housing, leading to a 1927 resolution modifying Scheme No. 51 and a 1928 lease of Block-A for 28 years. After the lease expired in 1955, Century Textiles remained in possession. In 2006, it claimed conveyance under the lease terms; redevelopment applications followed. MCGM opposed conveyance. In 2017, a writ petition was filed seeking mandamus for conveyance. The High Court ruled in favour of the respondent. Key issues: delay and laches, interpretation of the 1898 and 1925 Acts, vesting of title post-lease. The Supreme Court upheld the High Court’s decision, finding the respondent’s claim valid under the statutory scheme and lease terms, rejecting laches due to continuous possession and MCGM’s tacit acceptance.",
+  "legal_provisions_cited": [
+    "City of Bombay Improvement Act, 1898, Section 32B",
+    "City of Bombay Improvement Act, 1898, Section 32G",
+    "Bombay Improvement Trust Transfer Act, 1925, Section 37(2)",
+    "Mumbai Municipal Corporation Act, 1888, Section 527",
+    "Article 226 of the Constitution of India",
+    "The Bombay Improvement Trust Transfer Act, 1925, Section 51(2)"
+  ],
+  "final_judgment": "Appeal dismissed; affirming the Bombay High Court's order directing MCGM to execute conveyance of Plot C.S. No.1546 to Century Textiles and Industries Limited within eight weeks."
+}

@@ -1,0 +1,17 @@
+{
+  "case_number": "CIVIL APPEAL NO 5373 OF 2019; CIVIL APPEAL NO 6715 OF 2019",
+  "parties": {
+    "petitioner": "Hewlett Packard India Sales Pvt. Ltd.; Lenevo (India) Pvt. Ltd.",
+    "respondent": "Commissioner of Customs (Import), Nhava Sheva"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-17",
+  "summary": "Correct classification of All-in-One Desktop Computers under tariff headings 8471 30 10 (portable) vs 8471 50 00; dispute over 'portability' despite weight <10kg; considerations: external power requirement, non-foldable structure, 18.5+ inch display, fixed vertical usage; CESTAT confirmed portability based on weight alone; court examined legislative intent, dictionary vs technical meaning of 'portable'; key distinction: whether device requires external tethering or can function independently as laptops do; final determination required on whether goods belong under portable data machines or processing units category.",
+  "legal_provisions_cited": [
+    "Central Excise Tariff Act, 1985 First Schedule",
+    "Central Excise Act, 1944 s.4; s.4A",
+    "The Customs Tariff Act 1975 sch.1",
+    "Mathuram Agrawal v State of MP (1999) 8 SCC 667"
+  ],
+  "final_judgment": "Text appears to be truncated before final judgment section; based on available text no conclusive final order is stated - case likely remanded for further consideration on portability definition specific to ADP machines rather than general dictionary meaning."
+}

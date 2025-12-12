@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 4807 of 2022 (Arising out of SLP (Civil) No. 19886 of 2019)",
+  "parties": {
+    "petitioner": "Union of India & Ors.",
+    "respondent": "Mahendra Singh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-25",
+  "summary": "The case involved a challenge to the rejection of Mahendra Singh's candidature for a Constable post in the Railway Protection Force. The rejection was based on using different languages (English in application form, Hindi in OMR sheet) and discrepancies in handwriting and signatures. The High Court had earlier ruled in favor of the respondent, finding no proof of impersonation and attributing the language difference to the time gap between application and exam. The Supreme Court examined whether violation of the language condition in the advertisement was fatal to candidature. It held that while the condition existed to prevent impersonation, mere failure to use the same language did not imply fraud or impersonation, especially given expert opinion confirming the same person's handwriting across key documents. The appeal was dismissed, upholding the High Court’s decision to reinstate the respondent’s candidature.",
+  "legal_provisions_cited": [
+    "Employment Notice No. 1/2011",
+    "State of Tamil Nadu & Ors. v. G. Hemalathaa & Anr. (2020) 19 SCC 430",
+    "Ajay Kumar Mishra v. Union of India & Ors. (2016 SCC OnLine Del 6553)",
+    "Ram Kumar Gijroya v. Delhi Subordinate Services Selection Board & Anr. (2016) 4 SCC 754",
+    "Avtar Singh v. Union of India & Ors. (2016) 8 SCC 471"
+  ],
+  "final_judgment": "Appeal dismissed. Judgment of the Allahabad High Court upheld, directing reconsideration and acceptance of Mahendra Singh's candidature."
+}

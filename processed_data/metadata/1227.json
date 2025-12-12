@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal No. 714 of 2022 (Arising out of SLP(Crl.) No. 7887 of 2021)",
+  "parties": {
+    "petitioner": "Atbir",
+    "respondent": "State of NCT of Delhi"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-29",
+  "summary": "The appellant, Atbir, sentenced to life imprisonment for the remainder of his natural life without parole or remission after commutation of death sentence by the President of India, sought furlough under Delhi Prison Rules, 2018. His application was rejected by the Director General of Prisons and the rejection was upheld by the Delhi High Court, primarily on the ground that he is not entitled to any remission. The appellant contended that furlough is distinct from remission and that he satisfies the conduct requirements under Rule 1223(I) of the Delhi Prison Rules, 2018. The issue before the Supreme Court was whether denial of remission also bars entitlement to furlough. The Court examined the distinction between remission and furlough and the scope of executive powers under prison rules versus constitutional powers under Article 72.",
+  "legal_provisions_cited": [
+    "Article 72 of the Constitution of India",
+    "Section 302 of the Indian Penal Code",
+    "Section 432 of the Code of Criminal Procedure, 1973",
+    "Delhi Prison Rules, 2018, Rule 1223(I)",
+    "Chandra Kant Jha v. State of NCT of Delhi (W.P. (Crl.) No. 682 of 2019)"
+  ],
+  "final_judgment": "Leave granted; matter remanded for reconsideration of furlough application in accordance with law and rules, recognizing that furlough may not be automatically barred by ineligibility for remission."
+}

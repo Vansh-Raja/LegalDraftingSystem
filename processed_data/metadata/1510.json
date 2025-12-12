@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 9746 of 2011",
+  "parties": {
+    "petitioner": "State of Himachal Pradesh & Ors.",
+    "respondent": "Raj Kumar & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-20",
+  "summary": "The appeals challenged the High Court's direction to the State of Himachal Pradesh to fill vacancies for Labour Officers under the old recruitment rules (1966), which existed before the 2006 amendment introducing direct recruitment. The Supreme Court examined whether pre-amendment vacancies must be filled under old rules per Y.V. Rangaiah v. J. Sreenivasa Rao. The Court held that the broad principle in Rangaiah does not reflect the correct constitutional position and overruled its applicability. It emphasized that there is no vested right to promotion, only a right to consideration under then-current rules, and that policy considerations, including restructuring via rule amendments, govern appointments. The Court found no evidence of a conscious, reasoned decision to delay appointments and clarified the legal principles governing public service appointments.",
+  "legal_provisions_cited": [
+    "Article 309 of the Constitution of India",
+    "Y.V. Rangaiah v. J. Sreenivasa Rao (1983) 3 SCC 284",
+    "K. Ramulu v. Dr. S. Suryaprakash Rao (1997) 3 SCC 59",
+    "Deepak Agarwal v. State of U.P. (2011) 6 SCC 725",
+    "Union of India v. Krishna Kumar (2019) 4 SCC 319",
+    "D. Raghu v. R. Basaveswarudu (2020) SCC Online 124"
+  ],
+  "final_judgment": "The appeals were allowed. The judgment of the High Court was set aside, and the appointments made under the amended rules were upheld."
+}

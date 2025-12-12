@@ -1,0 +1,746 @@
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+Author: Sanjay Kumar
+
+Bench: Sanjay Kumar
+
+                                                                                               REPORTABLE
+2025 INSC 352
+
+                                                      IN THE SUPREME COURT OF INDIA
+
+                                                         CIVIL ORIGINAL JURISDICTION
+
+                                                   ARBITRATION PETITION NO.48 OF 2023
+
+                                DISORTHO S.A.S.                                      .....    PETITIONER(S)
+
+                                                              VERSUS
+
+                                MERIL LIFE SCIENCES PRIVATE LIMITED                  .....   RESPONDENT(S)
+
+                                                                 JUDGMENT
+
+SANJIV KHANNA, CJI.
+
+Disortho S.A.S,1 the petitioner before us, is a company incorporated in Bogota, Colombia. The
+respondent, Meril Life Science Private Limited,2 is a company incorporated in Gujarat, India.
+Disortho and Meril executed an International Exclusive Distributor Agreement,3 dated 16th May
+2016, for distribution of medical products in Colombia. Later, disputes emerged between the
+parties.
+
+2. Disortho has filed this petition under Section 11(6) of the Arbitration and Conciliation Act, 19964,
+for appointment of an arbitral panel in terms of 1 Hereinafter referred to as, “Disortho”.
+
+2 Hereinafter referred to as, “Meril”.
+
+3 Hereinafter referred to as, “Distributor Agreement”. 4 Hereinafter referred to as, “A&C Act”.
+
+Clauses 16.5 and 18 of the Distributor Agreement. Meril has opposed the petition on jurisdictional
+grounds, contending that these clauses do not grant Indian Courts jurisdiction to appoint
+arbitrators. The clauses 16.5 and 18 read:
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+1
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+“16. Miscellaneous 16.5. This Agreement shall be governed by and construed in
+accordance with the laws of lndia and all matter pertaining to this agreement or the
+matters arising as a consequence of this agreement with be subject to the jurisdiction
+of courts in Gujarat, India.
+
+18. Direct Settlement of Disputes The Parties mutually agree and pact that any
+dispute, controversy or claim arising during this Agreement related to subscription,
+execution, termination, breach, as well as non-
+
+contractual relationships, related to the clauses mentioned above; They may be submitted to
+conciliation in accordance with the Rules of Arbitration and Conciliation of the Chamber of
+Commerce of Bogota DC., or instead. of this city, where the Director of the Centre so determine.
+
+Similarly, the Parties mutually agree and pact that if the dispute or difference has not been settled in
+conciliation, or to the extent that has not been resolved; it will be committed to Arbitration by either
+party for final settlement in accordance with the Arbitration and Conciliation Center of the Chamber
+of Bogota DC. The Arbitral Tribunal shall consist of one (1) arbitrator in cases of minor or no value E
+according to the Rules of Conciliation and Arbitration Center of the Chamber of Commerce of
+Bogota DC. Also, in the event of greater amount, the Court of conformity shall comply with the
+Regulations of the Center for Conciliation and Arbitration of the Chamber of Commerce of Bogota
+DC., With three (3) arbitrators appointed by the Centre and by drawing lots. The arbitration will
+take place in Bogota DC. On the premises of Center for Conciliation and Arbitration of the Chamber
+of Commerce of Bogota DC., or at the place where the Director of the Centre as determined in this
+city. The award shall be in law and standard will be applicable Colombian law governing the mailer,
+Expenditure in the conciliation and arbitration proceedings shall be borne equally.”
+
+3. What initially appeared to be a straightforward question has, in fact, become a vexed one,
+primarily for two salient reasons. First, there exists a divergence of opinion, both internationally and
+domestically, on the appropriate test to determine jurisdiction in a case of trans-border arbitration.
+This divergence stems from the interaction between three distinct legal systems which come into
+play when a dispute occurs: (i) lex-contractus, the law governing the substantive contractual issues;
+(ii) lex arbitri, the law governing the arbitration agreement and the performance of this agreement;
+and (iii) lex-fori, the law governing the procedural aspects of arbitration. These legal systems may
+either differ or align, depending on the parties’ choices. Furthermore, there may be internal splits
+within these legal systems, such as for lex arbitri.5 Secondly, when contractual clauses conflict, as is
+the case here, the resolution becomes legalistic and complicated.
+
+4. In the interest of avoiding prolixity, we deem it unnecessary to separately address each argument
+raised or delve into the extensive body of jurisprudence surrounding the issue. It suffices to note
+that a similar, though not in pari materia, question was examined by this Court in M/s. Arif Azim
+Co. Ltd. v. M/s. Micromax Informatics Fze.6 This judgment 5 Lex arbitri might be split into two
+components if the parties so desire – (i) law governing the agreement to arbitrate or the proper law
+of arbitration and (ii) the law governing the arbitration. While the former relates to validity, scope
+and interpretation of the arbitration agreement, the later refers to the supervisory jurisdiction
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+2
+
+exercised by the courts. We will refer to this split later in this judgment. 6 (2024) INSC 850.
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+references earlier precedents of this Court on the subject, and we will discuss these judgments
+subsequently.
+
+5. We begin by referring to Redfern and Hunter’s Commentary on International Arbitration.7
+Chapter 7, titled “Agreement to Arbitrate”, emphasizes the cardinal importance of parties’ chosen
+law. It is stated that the law governing the arbitration agreement sets the rules and norms that
+determine the validity, scope, and interpretation of the agreement. This chosen law assumes
+paramount significance when disputes arise concerning the tribunal’s jurisdiction. For instance,
+disputes related to actions in rem may not be arbitrable in India but arbitrable in another
+jurisdiction. Additionally, it determines whether the arbitration agreement extends to third parties,
+such as parent or sister concerns.8 Equally, it plays a key role in determining the validity of the
+arbitration agreement itself—some national laws may render the agreement void or unenforceable,
+thereby affecting the arbitrability of the dispute, while others may uphold its enforceability. Finally,
+this law serves as a guiding principle when the dispute resolution mechanism is unclear,
+inconsistent or when conflicting dispute resolution clauses are bundled together in the same
+agreement.
+
+7 Blackaby KC, Nigel, Constantine Partasides, and Alan Redfern, Redfern and Hunter on
+International Arbitration, 7th Edition (2022), Oxford University Press. 8 See the Group of
+Companies Doctrine, Cox and Kings Ltd. v. SAP India Pvt. Ltd. and Another, 2023 INSC 1051.
+
+6. In our opinion, the law governing the arbitration may differ from both the lex contractus and the
+lex fori.9 This distinction was succinctly brought out in the recent English High Court decision of
+Melford Capital Partners (Holdings) LLP and Others v. Frederick John Wingfield Digby.10 This
+decision refers to the earlier decision of Paul Smith Ltd. v. H&S International Holdings Inc.,11 which
+dealt with two conflicting clauses. One clause provided for resolution of disputes through ICC
+arbitration, while the other designated the courts of England as having exclusive jurisdiction. The
+conflict between these provisions was resolved by the Steyn J. by adopted the following analysis:
+
+“Fortunately, there is a simple and straight forward answer to the suggestion that cll.
+13 and 14 are inconsistent. Clause 13 is a self-contained agreement providing for the
+resolution of disputes by arbitration. Clause 14 specifies the lex arbitri the curial law
+or the law governing the arbitration, which will apply to this particular arbitration.
+The law governing the arbitration is not to be confused with (1) the proper law of the
+contract, (2) the proper law of the arbitration agreement, or (3) the procedural rules
+which will apply in the arbitration. These three regimes depend on the choice,
+express or presumed, of the parties. In this case it is common ground that both the
+contract and the arbitration agreement are governed by English law. The procedural
+rules applicable to the arbitration are not rules derived from English law. On the
+contrary, the procedural regime is the comprehensive and sophisticated ICC rules
+which apply by virtue of the parties' agreement.
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+3
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+What then is the law governing the arbitration? It is, as Martin Hunter and Alan
+Redfern, International Commercial Arbitration, p. 53, trenchantly explain, a body of
+rules which sets a standard external to the arbitration agreement, and the wishes of
+the parties, for the conduct of the arbitration. The law governing the arbitration
+comprises the rules 9 This is assuming that the law governing the (i) agreement to
+arbitrate, and (ii) arbitration itself, are the same, which is most often the case. As
+explained earlier, the former relates to validity, scope, and interpretation of the
+arbitration agreement, while the later relates to inter alia the supervisory jurisdiction
+by national courts.
+
+10 [2021] EWHC 872 (Ch).
+
+11 [1991] 2 Lloyd’s Rep 127.
+
+governing interim measures (e.g. Court orders for the preservation or storage of goods), the rules
+empowering the exercise by the Court of supportive measures to assist an arbitration which has run
+into difficulties (e.g. filling a vacancy in the composition of the arbitral tribunal if there is no other
+mechanism) and the rules providing for the exercise by the Court of its supervisory jurisdiction over
+arbitrations (e.g. removing an , arbitrator for misconduct).
+
+(emphasis supplied)”
+
+7. This ratio distinguishes between four choices of law – (i) the law governing the arbitration, (ii) the
+proper law of arbitration agreement, (iii) the proper law of contract, and (iv) the procedural rules
+which apply in the arbitration. These choices are either expressly provided or implied by the parties
+involved. The passage also highlights the subtle distinction between the proper law of arbitration
+agreement (i.e., law governing the agreement to arbitrate) and the law governing the arbitration as a
+whole. The law governing the agreement to arbitrate determines the validity, scope, and
+interpretation of the agreement. In contrast, the law governing the arbitration itself is concerned
+with determining which court has supervisory jurisdiction over the arbitration. This jurisdictional
+framework pertains to the conduct of the arbitration, the rules governing interim measures, and the
+provisions under which the court may exercise its supervisory authority, such as in the removal of
+arbitrators.
+
+8. While parties may elect to differentiate between the lex arbitri — the law governing the agreement
+to arbitrate and the law governing the arbitration itself — such a distinction warrants caution. A
+distinction should not be readily drawn unless the parties intended to preserve such a distinction.
+Invariably, these concepts are subsumed in each other.
+
+They are inherently intertwined as a part and parcel of the lex arbitri. This is particularly apparent
+in matters such as the filling of vacancies within the arbitral tribunal or the removal of an arbitrator
+for misconduct. In these situations, the law governing the arbitration agreement and the law
+governing the arbitration overlap, as both are essential to the functioning and integrity of the
+arbitral process. Consequently, unless the parties have provided otherwise, it is prudent not to
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+4
+
+divide lex arbitri.
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+9. A more common distinction exists between the lex arbitri and the lex fori, that is the governing
+law of arbitration and the procedure of arbitration. The lex arbitri determines which court exercises
+supervisory jurisdiction. In Melford Capital (supra), it was held that both the contract and the
+arbitration agreement would be governed by English Law but the procedural rules shall be the rules
+of ICC.
+
+10. This position is also clear from the judgment of Christopher Clark, J. in Ace Capital Limited v.
+CMS Energy Corporation,12 which had examined Paul Smith (supra) to observe that the law
+governing the arbitration decides the extent of the court’s supervisory jurisdiction. Agreeing on the
+approach adopted in Ace Capital (supra), the judgment in Milford Capital (supra) states that it is the
+appropriate lodestar. 12 2008 EW SC 1843 Comm.
+
+11. We are of the view that matters such as filling vacancies on arbitral tribunals and the removal of
+an arbitrator through the exercise of supervisory jurisdiction, in the absence of a clear mechanism
+within the arbitration agreement, should be normally governed by the law applicable to the
+arbitration agreement itself, rather than by the procedural rules that govern the arbitration process.
+It is, after all, the lex arbitri that governs the arbitration and its associated processes. However, as
+noticed above, this may not be the position in all cases as the mutually agreed terms may stipulate
+otherwise.
+
+12. At this juncture, the pertinent question that arises is: how do we determine the law that governs
+the arbitration agreement?
+
+13. In Enka Insaat Ve Sanayi AS v. OOO Insurance Company Chubb,13 the UK Supreme Court
+examined this legal issue and divergent opinions surrounding it. One line of precedents suggest that
+the lex contractus should govern the arbitration agreement. Although the arbitration agreement is
+separable from the main contract, it is not completely detached from it. Conversely, there is case law
+indicating that the law of the seat of arbitration should typically govern the arbitration agreement.
+Enka Insaat (supra) follows the principles stipulated in Sulamérica Cia Nacional De Seguros S.A.
+and Others v. Enesa Engenharia S.A. and 13 2020 UK SC 38.
+
+Others,14 which it observes straddles both views. The Court ultimately establishes the following
+principles:
+
+“X Conclusions on applicable law
+
+170. It may be useful to summarise the principles which in our judgment govern the
+determination of the law applicable to the arbitration agreement in cases of this kind:
+
+i) Where a contract contains an agreement to resolve disputes arising from it by
+arbitration, the law applicable to the arbitration agreement may not be the same as
+the law applicable to the other parts of the contract and is to be determined by
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+5
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+applying English common law rules for resolving conflicts of laws rather than the
+provisions of the Rome I Regulation.
+
+ii) According to these rules, the law applicable to the arbitration agreement will be (a)
+the law chosen by the parties to govern it or (b) in the absence of such a choice, the
+system of law with which the arbitration agreement is most closely connected.
+
+iii) Whether the parties have agreed on a choice of law to govern the arbitration
+agreement is ascertained by construing the arbitration agreement and the contract
+containing it, as a whole, applying the rules of contractual interpretation of English
+law as the law of the forum.
+
+iv) Where the law applicable to the arbitration agreement is not specified, a choice of
+governing law for the contract will generally apply to an arbitration agreement which
+forms part of the contract.
+
+v) The choice of a different country as the seat of the arbitration is not, without more,
+sufficient to negate an inference that a choice of law to govern the contract was
+intended to apply to the arbitration agreement.
+
+vi) Additional factors which may, however, negate such an inference and may in some
+cases imply that the arbitration agreement was intended to be governed by the law of
+the seat are: (a) any provision of the law of the seat which indicates that, where an
+arbitration is subject to that law, the arbitration agreement will also be treated as
+governed by that country’s law; or (b) the existence of a serious risk that, if governed
+by the same law as the main contract, the
+
+14 [2012] EWCA Civ 638.
+
+arbitration agreement would be ineffective. Either factor may be reinforced by circumstances
+indicating that the seat was deliberately chosen as a neutral forum for the arbitration.
+
+vii) Where there is no express choice of law to govern the contract, a clause providing for arbitration
+in a particular place will not by itself justify an inference that the contract (or the arbitration
+agreement) is intended to be governed by the law of that place.
+
+viii) In the absence of any choice of law to govern the arbitration agreement, the arbitration
+agreement is governed by the law with which it is most closely connected. Where the parties have
+chosen a seat of arbitration, this will generally be the law of the seat, even if this differs from the law
+applicable to the parties’ substantive contractual obligations.
+
+ix) The fact that the contract requires the parties to attempt to resolve a dispute through good faith
+negotiation, mediation or any other procedure before referring it to arbitration will not generally
+provide a reason to displace the law of the seat of arbitration as the law applicable to the arbitration
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+6
+
+agreement by default in the absence of a choice of law to govern it.
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+(emphasis supplied)”
+
+14. The conclusions in Enka Insaat (supra) summarizes the tie breaker rules. Sub-paragraph (i)
+explains that the law governing the arbitration agreement may differ from the law governing the
+contract. The former should be determined through conflict of law rules. Sub-paragraph (ii) states
+that the law governing the arbitration agreement is the law chosen by the parties. If no such choice
+is made, the law most closely connected to the agreement applies. However, sub-paragraph (ii) must
+be read alongside sub-paragraph (iii), which clarifies that the law chosen for the arbitration
+agreement is determined by interpreting the agreement, and if necessary, the entire contract using
+rules of contractual interpretation. Sub-paragraph (iv) states that when the law governing the
+arbitration agreement is not specified, the law of the contract (lex contractus) usually applies.
+Sub-paragraph (v) highlights that selecting a country for the seat of arbitration does not
+automatically alter the presumption that lex contractus governs the arbitration agreement.
+Sub-paragraph (vi) outlines factors that may override this presumption. This can happen when the
+law of the seat mandates that the arbitration agreement must be governed by the law of that
+country. For instance, this becomes relevant in the context of the A&C Act. Section 2(2) of the A&C
+Act stipulates that Part I of the A&C Act applies to arbitrations seated in India.15 The second
+exception is when there is a serious risk that the agreement will become ineffective, or the dispute
+will become inarbitrable, if governed by the same law as that of the contract.16 Third factor is where
+the seat is deliberately chosen as a neutral forum. These factors will displace the presumption in
+favour of lex contractus governing the arbitration agreement. The factors mentioned in sub-para
+
+(vi) are not exhaustive and there may be other additional factors negating the presumption.
+Sub-para (vii) deals with cases where a particular place is chosen as the venue in contrast to the seat
+of arbitration. A place being chosen, does not by itself justify an inference that the arbitration
+agreement is intended to be governed by the law of this venue. Sub-para
+
+(viii) states that in the absence of any choice of law governing the arbitration agreement, the
+arbitration agreement will be governed by the 15 See Arif Azmi (supra) quoted in paragraph 25 post.
+16 See Anupam Mittal v. Westbridge Ventures II Investment Holdings, [2023] SGCA 1. law with
+which it is most closely connected. The close connection test applies only when the law governing
+the arbitration agreement cannot be ascertained even after applying the earlier paragraphs. In such
+a case, the law applicable to the seat of arbitration will be the law having the closest connection to
+the arbitration even if it differs from the parties’ contractual obligations.17 The closest connection
+test and a presumption in favour of seat in terms of sub-para (viii) will only apply when the contract
+does not stipulate the lex contractus. Sub-para (ix) states cases relating to attempt to resolve a
+dispute through good faith, negotiation, mediation, etc. will not generally provide reason to displace
+the law of the seat of arbitration18.
+
+15. We believe the above conclusions state the good and correct legal position, except on the aspects
+where the Courts in India have taken a different view. Consistency and uniformity in applying legal
+principles are crucial for ensuring fairness and comity in international commerce and dispute
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+7
+
+resolution mechanisms.
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+16. Earlier, Sulamérica Cia (supra) had laid down this three-fold test to determine the law governing
+the arbitration agreement:
+
+“25. Although there is a wealth of dicta touching on the problem, it is accepted that
+there is no decision binding on this court. However, the authorities establish two
+propositions that were not controversial but which provide the starting point for any
+enquiry into the proper law of an arbitration agreement. The first is that, even if the
+agreement forms part of a substantive contract (as is
+
+17 For the Indian Law relating to closest connection test see Arif Azmi (supra). 18 Recently enacted
+Arbitration Act, 2025, in the United Kingdom, which subject to significant exceptions takes a
+different position from that in Enka Insaat (supra). commonly the case), its proper law may not be
+the same as that of the substantive contract. The second is that the proper law is to be determined by
+undertaking a three-stage enquiry into (i) express choice, (ii) implied choice and (iii) closest and
+most real connection. As a matter of principle, those three stages ought to be embarked on
+separately and in that order, since any choice made by the parties ought to be respected, but it has
+been said on many occasions that in practice stage (ii) often merges into stage (iii), because
+identification of the system of law with which the agreement has its closest and most real connection
+is likely to be an important factor in deciding whether the parties have made an implied choice of
+proper law: see Dicey, Morris & Collins, op. cit. paragraph 32-006. Much attention has been paid in
+recent cases to the closest and most real connection, but, for the reasons given earlier, it is
+important not to overlook the question of implied choice of proper law, particularly when the parties
+have expressly chosen a system of law to govern the substantive contract of which the arbitration
+agreement forms part.
+
+(emphasis supplied)” Sulamérica Cia (supra) observes that the law governing the arbitration
+agreement may differ from the law of the contract. However, it is reasonable to presume that the
+parties intended for their entire relationship to be governed by the same system of law throughout
+the contract. In this context, a distinction is made between a stand-alone arbitration agreement and
+one that is embedded within a contract. In the former, a choice of seat of arbitration becomes highly
+significant, and the law of the seat would likely govern the arbitration agreement. However, when
+the arbitration agreement forms part of a contract, the express choice of a lex contractus strongly
+indicates the parties' intention. It would generally be inferred that the arbitration is governed by the
+same law as the substantive contract. However, this presumption is rebuttable as previously
+highlighted. Even when the arbitration agreement is part of the contract, the court must conduct a
+three-step inquiry: first, looking at the express choice of law; second, considering any implied
+choice; and third, determining the closest and most real connection. Second step is applied when the
+first step is negative, and the third step is applied when the first and second steps are negative.
+
+17. In BYC v. BCZ,19 the High Court of Singapore references Sulamérica Cia (supra) and notes
+sharply divided legal opinions. Some argue that the choice of law, often expressed in broad and
+general terms, would usually distinguish the main contract from the arbitration agreement. The
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+8
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+opposing view is that courts would require additional factors to apply a governing law different from
+that of the seat of arbitration. However, BCY (supra) favours the first view. The argument of
+severability, it was observed, would be ineffective. The doctrine simply ensures that the arbitration
+clause remains enforceable even if the main contract is found to be invalid. It is designed to prevent
+arbitration from being avoided by denying the existence of the underlying contract. This, however,
+does not mean that the arbitration clause is completely insulated or detached from the main
+contract.20
+
+18. BCY (supra) acknowledges that the seat of arbitration is chosen based on a desire for a neutral
+forum. The law of seat would govern the procedure of arbitration. However, it does not necessarily
+follow that the said law would govern the law of formation of the arbitration agreement, 19 [2016]
+SGHC 249.
+
+its validity, etc. Therefore, where the arbitration agreement is a part of the main contract, the lex
+contractus is a strong indicator of the law governing the arbitration agreement unless there are
+indications to the contrary. The choice of a seat different from the lex contractus is not, by itself,
+enough to displace this presumption.
+
+19. In BNA v. BNP and Another,21 the Singapore Court of Appeal noted each of the following may be
+distinct – a seat of arbitration, the arbitral institution, the arbitral rules and the governing law of
+arbitration agreement. It endorsed the three-step test from Sulamérica Cia (supra) and BCY (supra).
+In this case, the phrase "arbitration at Shanghai" was interpreted to indicate Shanghai as the seat of
+arbitration. This was based on a natural reading of the clause. Although Singapore International
+Arbitration Centre22 governed the procedural aspects of arbitration, the Court ruled that the
+implied choice of the law governing the arbitration agreement was the same as the seat and lex
+contractus— the law of the People’s Republic of China.
+
+20. In Enercon (India) Ltd. v. Enercon GmbH,23 this Court affirmed the principle that the parties
+may agree to hold arbitration in a particular place or country (Country X), but subject it to the
+procedural laws of another country (Country Y). The Court also distinguished between the venue
+and seat of arbitration. It accepted the notion that the parties could 21 [2019] SGCA 84.
+
+22 Hereinafter referred to as, “SIAC”.
+
+23 (2014) 5 SCC 1.
+
+agree on the law of one country to govern the arbitration, irrespective of where the arbitration takes
+place. Reference was made to Braes of Doune Wind Farm (Scotland) Ltd. v. Alfred McAlpine
+Business Services Ltd.,24 and the Court of Appeal’s decision in C v. D25. Reference was also made to
+Sulamérica Cia (supra), with which the court agreed. In that case, despite the venue of the
+arbitration proceedings being London, it was held that the seat of arbitration was not necessarily
+London. In international commercial arbitration, the venue can differ from the seat. The argument
+for concurrent jurisdiction was rejected.
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+9
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+21. In Arif Azim (supra), this Court has examined the arbitration regime change following the
+Constitution Bench judgment in BALCO v. Kaiser Aluminium Technical Services Inc26. Reference
+was made to the Court's decision in Bhatia International v. Bulk Trading S.A. and Another27. There
+is also a discussion on applicability of Section 9 of the A&C Act to international commercial
+arbitrations. It was observed that Part 1 of the A&C Act and its provisions apply when the arbitration
+takes place in India—i.e., (i) when the seat of arbitration is in India; or (ii) when the arbitration
+agreement is governed Indian law. The Court also referred to Sulamérica Cia (supra) and Roger
+Shashoua (1) v. Sharma28. 24 [2008] EWHC 426.
+
+25 [2007] EWCA Civ 1282.
+
+26 2016 (4) SCC 126.
+
+27 (2002) 4 SCC 105.
+
+28 [2009] EWHC 957 (Comm).
+
+22. In Mankastu Impex Private Limited v. Airvisual Limited,29 the agreement stipulated that all
+disputes arising out of the contract shall be referred to and finally resolved by arbitration
+administered in Hong Kong. The contract was to be governed by the laws of India and the courts in
+Delhi shall have jurisdiction. Clause 17 reads as under:
+
+“17. Governing law and dispute resolution 17.1 This MoU is governed by the laws of
+India, without regard to its conflicts of laws provisions and courts at New Delhi shall
+have the jurisdiction.
+
+17.2 Any dispute, controversy, difference or claim arising out of or relating to this
+MoU, including the existence, validity, interpretation, performance, breach or
+termination thereof or any dispute regarding non-contractual obligations arising out
+of or relating to it shall be referred to and finally resolved by arbitration administered
+in Hong Kong.” In the context of Clause 17(2), this Court refused to entertain an
+application for appointment of an arbitration panel. It stated that the parties must
+approach the courts of Hong Kong. Clearly a distinction was drawn between the law
+governing the arbitration agreement and the law governing the contract i.e., lex
+contractus. The lex contractus was Indian law, but the law applicable to the
+arbitration agreement had to be in terms of Hong Kong law. Thus it was held that, lex
+contractus, being different from lex arbitri, the Indian Courts lacked jurisdiction.
+
+23. In Roger Shashoua (2) and Others v. Mukesh Sharma and Others,30 this Court affirmed Roger
+Shashoua (1) (supra), leading to the 29 (2020) 5 SCC 399.
+
+30 [2009] EWHC 957 (Comm).
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+10
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+acceptance of the Shashoua principle. In that case, London was explicitly designated as the place of
+arbitration, with no alternative location as the seat. Given this, along with the application of a
+supranational body of arbitration rules, and the absence of any significant contrary indications,
+London was determined to be the juridical seat, with English law as the curial law.
+
+24. In Arif Azim (supra), the Shashoua principle was applied to the dispute resolution clause. The
+dispute resolution specified that any disputes or differences arising from the agreement, including
+its validity and applicability, would be referred to arbitration under the UAE Arbitration and
+Conciliation Rules. The venue for the arbitration was designated as Dubai, UAE. A separate clause
+related to law and jurisdiction stated that the agreement would be governed by and construed in
+accordance with the laws of the UAE, subject to the non-exclusive jurisdiction of the Dubai courts.
+In this factual background, it was held that the courts in Dubai, UAE, not Indian courts, would have
+the jurisdiction to appoint an arbitrator. The conclusions drawn by the Court are as follows:
+
+“E. CONCLUSION
+
+71. From the above exposition of law, the following position of law emerges: (i) Part I
+of the Act, 1996 and the provisions thereunder only applies where the arbitration
+takes place in India i.e., where either (I) the seat of arbitration is in India OR (II) the
+law governing the arbitration agreement are the laws of India.
+
+(ii) Arbitration agreements executed after 06.09.2012 where the seat of arbitration is outside India,
+Part I of the Act, 1996 and the provisions thereunder will not be applicable and would fall beyond
+the jurisdiction of Indian courts.
+
+(iii) Even those arbitration agreements that have been executed prior to 06.09.2012 Part I of the
+Act, 1996 will not be applicable, if its application has been excluded by the parties in the arbitration
+agreement either explicitly by designating the seat of arbitration outside India or implicitly by
+choosing the law governing the agreement to be any other law other than Indian law.
+
+(iv) The moment ‘seat’ is determined, it would be akin to an exclusive jurisdiction clause whereby
+only the jurisdictional courts of that seat alone will have the jurisdiction to regulate the arbitral
+proceedings. The notional doctrine of concurrent jurisdiction has been expressly rejected and
+overruled by this Court in its subsequent decisions.
+
+(v) The ‘Closest Connection Test’ for determining the seat of arbitration by identifying the law with
+which the agreement to arbitrate has its closest and most real connection is no longer a viable
+criterion for determination of the seat or situs of arbitration in view of the Shashoua Principle. The
+seat of arbitration cannot be determined by formulaic and unpredictable application of choice of law
+rules based on abstract connecting factors to the underlying contract. Even if the law governing the
+contract has been expressly stipulated, it does not mean that the law governing the arbitration
+agreement and by extension the seat of arbitration will be the same as the lex contractus.
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+11
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+(vi) The more appropriate criterion for determining the seat of arbitration in view of the subsequent
+decisions of this Court is that where in an arbitration agreement there is an express designation of a
+place of arbitration anchoring the arbitral proceedings to such place, and there being no other
+significant contrary indicia to show otherwise, such place would be the ‘seat’ of arbitration even if it
+is designated in the nomenclature of ‘venue’ in the arbitration agreement.
+
+(vii) Where the curial law of a particular place or supranational body of rules has been stipulated in
+an arbitration agreement or clause, such stipulation is a positive indicium that the place so
+designated is actually the ‘seat’, as more often than not the law governing the arbitration agreement
+and by extension the seat of the arbitration tends to coincide with the curial law.
+
+(viii) Merely because the parties have stipulated a venue without any express choice of a seat, the
+courts cannot sideline the specific choices made by the parties in the arbitration agreement by
+imputing these stipulations as inadvertence at the behest of the parties as regards the seat of
+arbitration. Deference has to be shown to each and every choice and stipulations made by the
+parties, after all the courts are only a conduit or means to arbitration, and the sum and substance of
+the arbitration is derived from the choices of the parties and their intentions contained in the
+arbitration agreement. It is the duty of the court to give weight and due consideration to each choice
+made by the parties and to construe the arbitration agreement in a manner that aligns the most with
+such stipulations and intentions.
+
+(ix) We do not for a moment say that, the Closest Connection Test has no application whatsoever,
+where there is no express or implied designation of a place of arbitration in the agreement either in
+the form of ‘venue’ or ‘curial law’, there the closest connection test may be more suitable for
+determining the seat of arbitration.
+
+(x) Where two or more possible places that have been designated in the arbitration agreement either
+expressly or impliedly, equally appear to be the seat of arbitration, then in such cases the conflict
+may be resolved through recourse to the Doctrine of Forum Non Conveniens, and the seat be then
+determined based on which one of the possible places may be the most appropriate forum keeping
+in mind the nature of the agreement, the dispute at hand, the parties themselves and their
+intentions. The place most suited for the interests of all the parties and the ends of justice may be
+determined as the ‘seat’ of arbitration.”
+
+25. We now turn our attention to the two clauses of the Distributor Agreement. Clause 16.5
+stipulates that the agreement shall be governed by and construed in accordance with laws of India.
+It further provides that all matters arising from the agreement shall be subject to the jurisdiction of
+the courts in Gujarat, India. Clause 18, which deals with the settlement of disputes, outlines both a
+conciliation and arbitration process. Should disputes or differences remain unresolved through
+conciliation, either party has the right to submit them to arbitration. The arbitration will be
+conducted by the Arbitration and Conciliation Centre at the Chambers of Commerce in Bogota. The
+arbitration will take place in Bogota, either at the Centre's premises or at a location determined by
+the Director of the Centre. The award shall be in law and in the standard as per the Colombian law
+governing the mailer (sic matter). The costs of arbitration and conciliation will be shared equally by
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+12
+
+the parties.
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+26. To decide the controversy, we will address the conflict between these clauses. Accordingly, we
+turn our attention to the conflict of law principles. Milford Capital Holdings (supra) states that to
+resolve conflicts between competing or inconsistent clauses, the court should read the contract as a
+whole, striving to give effect to all its provisions. One clause may influence the content of another,
+and a clause should not be rejected unless it is clearly inconsistent or repugnant to the rest of the
+agreement. Only when such a reconciliation is not possible will the court consider one clause to
+prevail over an incorporated standard. This approach marks a slight departure from the principle
+that prioritizes the first clause in the event of conflicting terms. While we do not need to explore
+these principles exhaustively, it is significant to note that a clause should not be dismissed as
+redundant unless it is manifestly inconsistent with or repugnant to the rest of the agreement. This is
+particularly important in the present case, as both parties have agreed to these clauses. We must
+seek to interpret the clauses in a manner that harmonizes their provisions, giving effect to each
+wherever possible.
+
+27. In Arnold v. Britton,31 the Supreme Court of United Kingdom observed as under:
+
+“When interpreting a written contract, the court is concerned to identify the intention
+of the parties by reference to “what a reasonable person having all the background
+knowledge which would have been available to the parties would have understood
+them to be using the language in the contract to mean”, to quote Lord Hoffmann in
+Chartbrook Ltd v Persimmon Homes Ltd [2009] AC 1101, para 14. And it does so by
+focussing on the meaning of the relevant words, in this case clause 3(2) of each of the
+25 leases, in their documentary, factual and commercial context. That meaning has to
+be assessed in the light of (i) the natural and ordinary meaning of the clause, (ii) any
+other relevant provisions of the lease, (iii) the overall purpose of the clause and the
+lease,
+
+(iv) the facts and circumstances known or assumed by the parties at the time that the
+document was executed, and (v) commercial common sense, but (vi) disregarding
+subjective evidence of any party’s intentions […].”
+
+28. The interpretation of a contract involves determining the meaning that a reasonable person,
+with all relevant background knowledge available to the parties at the time of the contract, would
+derive from the document. A similar principle is outlined in Chitty on Contracts,32 which, when
+discussing inconsistent terms, observes:
+
+“Where the different parts of an instrument are inconsistent, effect must be given to
+that part which is calculated to carry into effect the purpose of the contract as
+gathered from the instrument as a whole and the available background, and that part
+which would defeat it must be rejected. The old rule was, in such a case, that the
+earlier clause was to be received and the later rejected; but this rule was a mere rule
+of thumb, totally unscientific, and out of keeping with the modern construction of
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+13
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+documents. When considering how to interpret a contract in the case of alleged
+inconsistency, the courts distinguish between a case where the contract makes
+provision for the possibility of inconsistency and the case where there is no such
+provision. In the latter case the contract documents should as far as possible be read
+as complementing each other and therefore as expressing the parties’ intentions in a
+consistent and coherent manner.” 31 2015 AC 1619.
+
+32 Hugh Beale, Chitty on Contracts, Sweet and Maxwell, Vol. 1, 33rd Ed. (2019).
+
+29. Clause 16.5 is clear and unambiguous. It explicitly states that the entire agreement shall be
+governed by and construed in accordance with the laws of India, and all matters arising from the
+agreement shall fall under the jurisdiction of the courts in Gujarat, India. Given this, it is reasonable
+to assume that, when drafting this clause, the parties were fully aware of Clause 18, which provides
+for arbitration and conciliation under the Arbitration and Conciliation Centre of the Chambers of
+Commerce in Bogota. In our view, Bogota has been designated as the venue for conciliation and
+arbitration, while the courts in Gujarat, India, retain exclusive jurisdiction over disputes. This must,
+unless there is a divergence in lex arbitri, include jurisdiction over appointments and act as a
+conduit for the arbitration in Bogota, Colombia.
+
+30. The law governing the arbitration agreement, being Indian law, means that its validity, scope,
+and interpretation will be determined in accordance with Indian law. But which national
+courts—those in India or Colombia—exercise supervisory jurisdiction over the arbitration
+proceedings? Does the A&C Act apply to these arbitration proceedings? Upon a consistent reading of
+the Distributor Agreement, it is clear that only the courts in Gujarat, India, are referenced. While it
+is acknowledged that the venue for arbitration is Bogota, Colombia, and that the procedural rules of
+the Arbitration and Conciliation Centre at the Chambers of Commerce in Bogota are to apply, this
+does not diminish the supervisory powers of Indian courts, as explicitly outlined in Clause 16.5.
+
+31. While recording the above findings, we are also guided by the principles outlined above for
+locating the law governing the arbitration agreement. We begin by applying the three-step test
+developed by Sulamérica Cia (supra). First, neither Clause 16.5 nor Clause 18 explicitly stipulates the
+governing law of the arbitration agreement. Therefore, we proceed to the next step of the test, which
+involves identifying the parties' implied choice of law for the arbitration agreement. At this stage,
+there is a strong presumption that the lex contractus, i.e., Indian law, governs the arbitration
+agreement. As explained earlier, this presumption may be displaced if the arbitration agreement is
+rendered non-arbitrable under Indian law. But that is not the case here. Furthermore, the mere
+choice of ‘place’ is not sufficient, in the absence of other relevant factors, to override the
+presumption in favor of the lex contractus. In this case, it is important to note that no seat of
+arbitration has been explicitly chosen. In conclusion, at this second stage of the inquiry, we find that
+the parties have impliedly agreed that Indian law governs the arbitration agreement, and the
+controversy can be resolved accordingly.
+
+32. We reiterate that the use of the premises at the Centre, or any other location designated by the
+Director of the Centre in Bogota, does not imply that Colombian law governs the arbitration
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+14
+
+Disortho S.A.S vs Meril Life Sciences Pvt. Ltd on 18 March, 2025
+
+agreement. Although Clause 18 specifies that the award shall conform to Colombian law, this
+provision pertains solely to the arbitration proceedings or the award matters. It does not override or
+diminish the effect of Clause 16.5, which clearly stipulates that Indian law shall govern the
+agreement and the related disputes. The legal implications of this would include the applicability of
+the A&C Act, and the appointment jurisdiction of Indian courts. We do not interpret the final
+portion of Clause 18 as undermining the legal impact of Clause 16.5. Therefore, we affirm the
+applicability of the A&C Act under Section 11(6) of the Arbitration and Conciliation Act.
+
+33. In accordance with Clause 16.5 and 18, the procedural rules of the arbitration would be the rules
+of the Conciliation and Arbitration Centre of the Chamber of Commerce of Bogota DC, with Bogota
+DC as the venue of arbitration.
+
+34. However, during the course of the hearing, the learned counsel for both parties, Meril and
+Disortho, unanimously stated that, should the present application under Section 11(6) of the
+Arbitration and Conciliation Act, 1996, be allowed, the parties are agreeable to the arbitration being
+held in India. Furthermore, the parties have consented to the appointment of a sole arbitrator to
+adjudicate and decide the disputes in question.
+
+35. In view of this consensus, we appoint Mr. Justice S.P. Garg, retired judge of the High Court of
+Delhi, as the sole arbitrator. The venue of the arbitration shall be decided mutually by the parties
+and the learned arbitrator. The arbitration shall be governed by the rules applicable to the Delhi
+International Arbitration Centre attached to the High Court of Delhi.
+
+The fee schedule applicable to international arbitrations shall apply.
+
+36. The arbitration petition is allowed in the above terms and disposed of accordingly.
+
+......................................CJI.
+
+(SANJIV KHANNA) …......................................J. (SANJAY KUMAR) …......................................J.
+(K.V. VISWANATHAN) NEW DELHI;
+
+MARCH 18, 2025.
+
+Indian Kanoon - http://indiankanoon.org/doc/141741475/
+
+15
+
+

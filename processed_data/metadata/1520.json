@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 174 of 2021",
+  "parties": {
+    "petitioner": "Sudesh Chhikara",
+    "respondent": "Ramti Devi & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-06",
+  "summary": "The appeal challenged the High Court's confirmation of a Maintenance Tribunal's order declaring a 2008 release deed null and void under Section 23 of the Maintenance and Welfare of Parents and Senior Citizens Act, 2007. The Tribunal had ruled in favor of respondent Ramti Devi, claiming her daughters failed to maintain her. However, the Supreme Court found that the essential condition under Section 23(1)—that the transfer was made subject to the obligation of receiving basic amenities and physical needs—was not pleaded or proved. The Court emphasized that mere failure to maintain does not invoke Section 23(1) without such a condition being part of the transfer. The Tribunal did not conduct a proper inquiry, and the High Court failed to examine the legal requirements. Thus, the impugned orders were set aside.",
+  "legal_provisions_cited": [
+    "Section 23 of the Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+    "Section 7",
+    "Section 8"
+  ],
+  "final_judgment": "The appeal is allowed. The impugned judgment of the High Court and the order of the Maintenance Tribunal are set aside. The release deed dated 14th November 2008 stands upheld."
+}

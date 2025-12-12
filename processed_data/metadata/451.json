@@ -1,0 +1,17 @@
+{
+  "case_number": "Criminal Appeal No. 1699 of 2011",
+  "parties": {
+    "petitioner": "Bharti Arora",
+    "respondent": "The State of Haryana"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-12-13",
+  "summary": "The appeal challenges the High Court's dismissal of a criminal revision against an order by a Special Judge who placed an order in a sealed cover following the transfer of the judicial officer. The case involves allegations under Section 58 of the NDPS Act against the appellant, a former Superintendent of Police, for allegedly fabricating a false case by implicating an innocent person. Key issues included interpretation of NDPS Act and Cr.P.C. provisions, good faith of the public servant, and violation of principles of natural justice. The Court examined whether the Special Judge acted prematurely in proceeding ex parte and whether procedural fairness was upheld. It held that placing the order in a sealed cover was improper and interfered with the continuity of justice, especially after a transfer. The appeal was allowed, setting aside the impugned orders.",
+  "legal_provisions_cited": [
+    "Section 58 of the Narcotic Drugs and Psychotropic Substances Act, 1985",
+    "Section 173 of the Code of Criminal Procedure, 1973",
+    "Principles of Natural Justice",
+    "Article 21 of the Constitution of India"
+  ],
+  "final_judgment": "The appeal is allowed. The impugned judgment dated 14th October 2010 passed by the High Court and the order dated 30th May 2008 passed by the Special Judge are set aside. The matter is remanded to the successor Special Judge for fresh consideration in accordance with law."
+}

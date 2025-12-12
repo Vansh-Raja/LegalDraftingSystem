@@ -1,0 +1,21 @@
+{
+  "case_number": "CIVIL APPEAL Nos. 5062-5099 of 2024",
+  "parties": {
+    "petitioner": "Pernod Ricard India (P) Ltd.",
+    "respondent": "The State of Madhya Pradesh & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-04-19",
+  "summary": "The case concerned the applicability of penalty rules under the Madhya Pradesh Foreign Liquor Rules, 1996, where the appellant challenged imposition of penalty under the pre-amendment Rule 19 (imposing up to four times the duty) for violations during 2009-10, after the rule was substituted in 2011 to reduce the penalty to not exceeding the duty payable. The issue was whether the old or substituted rule applied to pending proceedings. The Supreme Court held that substitution amounts to repeal of the old rule and enforcement of the new, and that the substituted Rule 19 applies to all pending proceedings, emphasizing proportionality between offence and penalty and rejecting the notion that substantive penalties must follow the rule in force at the time of the violation.",
+  "legal_provisions_cited": [
+    "Madhya Pradesh Excise Act, 1915",
+    "Madhya Pradesh Foreign Liquor Rules, 1996, Rule 16",
+    "Madhya Pradesh Foreign Liquor Rules, 1996, Rule 19",
+    "State of Rajasthan v. Mangilal Pindwal",
+    "West U.P. Sugar Mills Association v. State of U.P.",
+    "Government of India v. Indian Tobacco Association",
+    "Koteswar Vittal Kamath v. K. Rangappa Baliga & Co.",
+    "Zile Singh v. State of Haryana"
+  ],
+  "final_judgment": "Appeal allowed. The substituted Rule 19 applies to pending proceedings. Penalties must be determined in accordance with the amended rule, which caps the penalty at the duty payable, not four times the duty."
+}

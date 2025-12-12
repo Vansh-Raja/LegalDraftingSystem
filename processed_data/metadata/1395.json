@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 5437 of 2022",
+  "parties": {
+    "petitioner": "Morgan Securities And Credits Pvt. Ltd.",
+    "respondent": "Videocon Industries Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-01",
+  "summary": "The key issue was whether an arbitrator has the discretion under Section 31(7)(b) of the Arbitration and Conciliation Act, 1996 to restrict post-award interest to the principal amount alone, or whether post-award interest must be awarded on the total sum awarded, including pre-award interest. The appellant argued that post-award interest should accrue on both principal and pre-award interest, relying on Hyder Consulting (UK) Ltd. v. Governor, State of Orissa, which overruled SL Arora to the extent it prohibited interest on interest. The respondent contended that the arbitral award was not silent on post-award interest and thus Section 31(7)(b) did not apply. The Court analyzed the language of Section 31(7), particularly the phrase 'unless the award otherwise directs', and examined the precedent value of SL Arora and Hyder Consulting. It determined that once an award specifies post-award interest—even if only on the principal—the statutory mandate under Section 31(7)(b) does not override the tribunal's direction. However, the discretion of the arbitrator is limited to rate and period; the 'sum' on which post-award interest is payable includes both principal and pre-award interest unless parties agree otherwise.",
+  "legal_provisions_cited": [
+    "Section 31(7)(b) of the Arbitration and Conciliation Act, 1996",
+    "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Hyder Consulting (UK) Limited v. Governor, State of Orissa, (2015) 2 SCC 189",
+    "State of Haryana v. S.L. Arora, (2010) 3 SCC 690"
+  ],
+  "final_judgment": "The appeal was allowed in part. The Court held that while the arbitrator has the discretion to set the rate and period of post-award interest, the 'sum' on which post-award interest must be calculated includes both the principal and any pre-award interest awarded, unless otherwise agreed by the parties. The award’s limitation of post-award interest to the principal amount was set aside. The respondent was directed to pay post-award interest at 18% per annum on the entire sum awarded, including pre-award interest, from the date of award until the date of payment."
+}

@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 1848 of 2022",
+  "parties": {
+    "petitioner": "Sri Biswanath Banik & Anr.",
+    "respondent": "Smt. Sulanga Bose & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-14",
+  "summary": "The appeal challenged the Calcutta High Court's decision to quash the trial court's order and reject the plaint under Order VII Rule 11 CPC on grounds of limitation and non-maintainability of a suit for declaration under Section 53A of the Transfer of Property Act. The Supreme Court emphasized that a plaint cannot be rejected under Order VII Rule 11(d) CPC based on a fragmented reading; the entire pleading must be considered. The Court found that the cause of action, as pleaded, arose in August 2010, and thus the suit was not barred by limitation on the face of it. It also held that maintainability of a declaration suit under Section 53A is a matter for trial, not ground for rejection at the threshold.",
+  "legal_provisions_cited": [
+    "Order VII Rule 11(d) CPC",
+    "Section 53A of the Transfer of Property Act",
+    "Article 59 of the Limitation Act, 1963",
+    "Ram Prakash Gupta Vs. Rajiv Kumar Gupta and Ors., (2007) 10 SCC 59",
+    "Delhi Motor Company Vs. U.A. Basrurkar, AIR 1968 SC 794"
+  ],
+  "final_judgment": "The appeal was allowed, the impugned judgment of the High Court was set aside, and the matter was remanded to the trial court for adjudication on merits."
+}

@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. …… of 2022 (Arising out of SLP (C) No. 12884/2020)",
+  "parties": {
+    "petitioner": "Gujarat State Civil Supplies Corporation Ltd.",
+    "respondent": "Mahakali Foods Pvt. Ltd. (Unit 2) & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-31",
+  "summary": "The appeals involve common questions regarding jurisdictional conflict between the MSMED Act, 2006 and the Arbitration and Conciliation Act, 1996. Key issues: whether Chapter-V of the MSMED Act overrides the Arbitration Act; whether an arbitration agreement bars reference to a Facilitation Council under Section 18; and whether a council conducting conciliation can act as arbitrator despite Section 80 of the Arbitration Act. The Court examined legislative intent of MSMED Act to protect micro, small enterprises, emphasized its overriding effect under Section 24, and upheld jurisdiction of Facilitation Councils even when arbitration agreements exist, but held councils cannot act as arbitrators if they conducted conciliation. Outcome: Facilitation Councils can adjudicate disputes under Section 18, but must refer arbitration to independent institutions.",
+  "legal_provisions_cited": [
+    "Section 18, MSMED Act, 2006",
+    "Section 80, Arbitration and Conciliation Act, 1996",
+    "Section 24, MSMED Act, 2006",
+    "Section 34, Arbitration and Conciliation Act, 1996",
+    "SBP & Co. vs. Patel Engineering Ltd., (2005) 8 SCC 618"
+  ],
+  "final_judgment": "Leave granted; appeals allowed in part. Facilitation Councils have jurisdiction under MSMED Act despite arbitration agreements, but cannot function as arbitrators if conciliation was conducted by them; disputes must be referred to independent arbitration institutions."
+}

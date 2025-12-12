@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 8281 of 2022",
+  "parties": {
+    "petitioner": "Registrar of Assurances & Anr.",
+    "respondent": "ASL Vyapar Private Ltd. & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-11-10",
+  "summary": "The case involved challenges to the imposition of deficit stamp duty and registration fees on properties purchased through court-ordered auctions. The Registrar of Assurances invoked Section 47A of the Indian Stamp Act, 1899 to assess market value for stamp duty, overriding court-approved sale values. The key issue was whether the transaction value determined through court-supervised auctions must be accepted for stamp duty purposes, or whether the authorities could independently assess higher market value. The Court examined the scope of Section 47A as amended in West Bengal, distinguishing it from other states, and considered prior decisions in Govt. of Andhra Pradesh v. P. Laxmi Devi, V.N. Devadoss v. Chief Revenue Control Officer, and Birendra Nath Manna v. State of West Bengal. The Court emphasized that bona fide court-confirmed auction sales should reflect true market value and that Section 47A cannot be invoked mechanically without evidence of undervaluation or fraud. The impugned High Court judgment had referred questions to a larger bench regarding the applicability of Section 47A to judicial auction sales.",
+  "legal_provisions_cited": [
+    "Section 47A, Indian Stamp Act, 1899",
+    "Section 35, Registration Act, 1908",
+    "Govt. of Andhra Pradesh v. P. Laxmi Devi",
+    "V.N. Devadoss v. Chief Revenue Control Officer",
+    "Birendra Nath Manna v. State of West Bengal"
+  ],
+  "final_judgment": "The Supreme Court held that where a property is sold in a public auction conducted under court supervision and the sale is confirmed by a judicial order, the consideration in such sale reflects the true market value and cannot be reassessed under Section 47A for higher stamp duty in the absence of evidence of fraud or collusion. The invocation of Section 47A is not warranted in cases of bona fide judicial auctions. The appeals were dismissed, upholding the principle that court-confirmed auction values are determinative for stamp duty purposes."
+}

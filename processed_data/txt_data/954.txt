@@ -1,0 +1,809 @@
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax
+Bangalore on 25 September, 2023
+
+Author: B.V. Nagarathna
+
+Bench: B.V. Nagarathna
+
+2023INSC855                                                                    REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO.9720 OF 2014
+
+KOTAK MAHINDRA BANK LIMITED                                   … APPELLANT(S)
+
+VS.
+
+COMMISSIONER OF INCOME TAX
+BANGALORE AND ANR.                                          ... RESPONDENT(S)
+
+JUDGMENT
+
+NAGARATHNA, J.
+
+This appeal has been filed assailing the judgment dated 06.07.2012, passed by the High Court of
+Karnataka at Bangalore, in Writ Appeal No. 2458 of 2010 whereby the judgment of the learned
+Single Judge dated 20.05.2010 passed in Writ Petition No. 12239 of 2008, remanding the matter to
+the Settlement Commission to determine afresh, the question as to immunity from levy of penalty
+and prosecution, was affirmed and the aforesaid Writ Appeal filed by the appellant herein, was
+dismissed.
+
+2. The facts giving rise to the present appeal, in a nutshell are that the appellant-assessee, Kotak
+Mahindra Bank Limited (formerly, “M/s ING Vysya Bank Limited”) is a Public Limited Company
+carrying on the 17:43:20 IST Reason:
+
+business of banking and is assessed to tax in Bangalore where its registered office is
+located. Apart from the business of banking, the appellant also carries out leasing
+business on receiving approval from the Reserve Bank of India (hereinafter “RBI” for
+short) vide Circular dated 19.02.1994. Thus, the appellant derives its income, inter
+alia, from banking activities as well as from leasing transactions. 2.1. The appellant
+filed its income tax returns for the assessment years 1994-1995 to 1999-2000 and
+assessment orders were passed up to assessment year 1997-1998 and the assessment
+for the subsequent years was pending. During the assessment proceedings for the
+
+1
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+assessment year 1997-1998, the Assessing Officer made certain additions and
+disallowances based on which the assessment already concluded for the assessment
+years 1994-1995 to 1996-1997 were proposed to be reopened. The Assessing Officer
+then passed an Assessment Order dated 30.03.2000 for the Assessment Year 1997-
+
+1998. The main issue pertained to the income in respect of the activity of leasing. As per the
+Assessment Order, the appellant had been accounting for lease rental received, by treating the same
+as a financial transaction. As a result, the lease rental was bifurcated into capital repayment portion
+and interest component. Only the interest component was offered to tax. In other words, the
+appellant treated such leases as loans granted to the "purported" lessees to purchase assets. In such
+cases, the ownership of the assets is vested with the lessees. However, the appellant claimed
+depreciation on those assets under Section 32 of the Income Tax Act, 1961 (hereinafter referred to as
+“the Act” for the sake of convenience) though the appellant was not the owner of the assets for the
+purpose of the said transactions. 2.2. On 09.06.2000 the Assessing Officer issued a notice under
+Section 148 of the Act for the reassessment of income for the aforesaid assessment years. The
+Assessing Officer also passed a penalty order dated 14.06.2000 levying a penalty under Section 271
+(1)(c) of the Act after being satisfied that the appellant had concealed its income as regards lease
+rental.
+
+2.3. While various proceedings, such as an appeal before the CIT (A) for the assessment year
+1997-1998, re-assessment proceedings for the assessment years 1994-1995 to 1996-1997 and regular
+assessment proceedings for the assessment years 1998-1999 and 1999-2000 were pending before
+various income tax authorities, the appellant, on 10.07.2000, approached the Settlement
+Commission at Chennai to settle its income tax liabilities under Section 245C (1) of the Act, by way
+of an application in Form No. 34B bearing No. 563/KNK-III/15/2000- IT. The appellant sought for
+determination of its taxable income for the assessment years 1994-1995 to 1999-2000, after
+considering the issues pertaining to the income assessable in respect of its leasing transaction;
+eligibility to avail depreciation in respect of leased assets; the quantum of allowable deduction under
+Section 80M and exemption under Section 10(15) and 10(23G); and depreciation on the
+investments portfolio of the bank classified as permanent investments.
+
+2.4. When matters stood thus, the concluded assessments for earlier assessment years were
+reopened by issuance of notices under Section 148 of the Act. The appellant filed returns under
+protest with respect to the said assessment years.
+
+2.5. Before the Settlement Commission, the Respondents-Revenue raised a preliminary objection
+contending that the appellant did not fulfil the qualifying criteria as contemplated under Section
+245C(1) and hence, the application filed by the appellant was not maintainable, as, under the said
+provision, the appellant was required to make an application in the prescribed manner containing
+full and true disclosure of its income which had not been disclosed before the Assessing Officer and
+also the manner in which such income had been derived. That unless there is a true and full
+disclosure there would be no valid application and the Settlement Commission will not be able to
+assume jurisdiction to proceed with the admission of the application. It was thus contended that the
+purported application made before the Settlement Commission was not an application as
+
+2
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+contemplated under section 245C (1) of the Act for the reason that the appellant had not made a full
+and true disclosure of its income which had not been disclosed before the Assessing Officer.
+
+2.6. After considering the contentions of both parties, the Settlement Commission passed an Order
+dated 11.12.2000 entertaining the application filed by the appellant under Section 245C and
+rejecting the preliminary objections raised by the Revenue. The Settlement Commission allowed the
+application filed by the appellant by way of a speaking order and permitted the appellant to pursue
+its claim under Section 245D. Thus, the application was proceeded further under Section 245D (1) of
+the Act.
+
+2.7. The Revenue challenged the Order dated 11.12.2000 passed by the Settlement Commission
+before the High Court of Karnataka at Bangalore by way of Writ Petition No. 13111 of 2001. The
+Revenue questioned the jurisdiction of the Settlement Commission in entertaining the application
+filed by the appellant under Section 245C(1) of the Act.
+
+2.8. The learned Single Judge of the High Court of Karnataka, after going through the legislative
+history of the provisions of Chapter-XIXA, accepted the argument advanced by the appellant that
+the proviso to Section 245C as it stood earlier, which enabled the Commissioner to raise an
+objection even at the threshold to entertain an application of this nature had been later shifted to
+sub-section (l)(A) of Section 245D and from the year 1991, it had been totally omitted and in the
+light of such legislative history, it was not open to the Revenue to raise any such preliminary
+objection regarding maintainability of the application itself. It was further held that the application
+can be proceeded with by the Settlement Commission for determination of the same on merits and it
+was not necessary that the Revenue should be permitted to raise a preliminary objection as to the
+maintainability of the application.
+
+The learned Single Judge disposed of the above Writ Petition by way of an Order dated 18.08.2005
+in favour of the appellant herein by holding that notwithstanding any preliminary finding, it was
+still open to the Commissioner to agitate or to apprise the Commission of all the aspects of the
+matter that he may find fit to be placed before the Commission. The Single Judge was of the view
+that it was not necessary to examine the legal position that may require an interpretation of
+provisions of Section 245C at that stage when the matter itself was still at large before the
+Settlement Commission as the very object of Chapter- XIXA was to settle cases and to reduce the
+disputes and not to prolong litigation. Thus, the High Court disposed of the Writ Petition holding
+that it was open to the parties to raise all their contentions before the Commission at the stage of
+disposal of the application and the Commission may, independent of the findings which it has given
+under the Order dated 11.12.2000, examine all the contentions and proceed to pass orders on merits
+in accordance with the provisions of the Act. 2.9. As a result of the Order dated 18.08.2005 passed
+by the High Court of Karnataka, the Settlement Commission heard both parties on merits as well as
+on the issue of maintainability. The Settlement Commission upheld the maintainability of the
+application filed by the appellant and passed an Order dated 04.3.2008 under Sections 245D(1) and
+245D(4), determining the additional income at Rs.196,36,06,201/-. As regards the issue of
+immunity from penalty and prosecution, the Commission, having regard to the fact that the
+appellant had co-operated in the proceedings before the Settlement Commission and true and full
+
+3
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+disclosure was made by the appellant before the Commission in paragraph 18.2 of its Order granted
+immunity under Section 245H(1) from the imposition of penalty and prosecution under the Act and
+the relevant sections of the Indian Penal Code. Further, the Settlement Commission annulled the
+penalty levied by the Assessing Officer under Section 271(1)(c) for the assessment year 1997- 1998 in
+respect of non-disclosure of lease rental income. The same was annulled considering that the
+non-disclosure was on account of RBI guidelines and subsequent disclosure on the part of the
+appellant, of additional income of the lease income before the Settlement Commission when the
+appellant realised the omission to disclose the same as per income tax law. The other pertinent
+finding of the Settlement Commission are as under:
+
+i. As regards the disclosure of income by the appellant, the Settlement Commission
+noted that the application had to be considered within the framework of law as on the
+date the application was filed i.e., 10.07.2000. On a reading of Section 245C (1), the
+Commission observed that many amendments have been made to Section 245C after
+its introduction in 1976 and what is clear from “the income disclosed before the
+Assessing Officer” is that it is the income disclosed in the return of income furnished
+and not income that could be computed on the basis of a scrutiny or interpretation of
+the documents accompanying the return. That one has to read the entire conspectus
+of the provisions of Sec 245C to interpret the true meaning of “income not disclosed
+before the Assessing Officer.” That the statute is clear that the said phrase simply
+means income not disclosed in the return and not something additionally by way of
+income discovered in scrutiny.
+
+ii. The Commission further noted that the appellant had realized while adhering to the RBI
+guidelines of accounting of lease income that there was an error in not disclosing the full lease rental
+receipts as per income tax law. Thus, the appellant offered additional income for tax under various
+heads, which were not considered by the Assessing Officer. Considering the nature and
+circumstances and the complexities of the investigation involved, the Commission was of the view
+that the application was to be proceeded with under Section 245D (1) of the Act and that
+prima-facie, a full and true disclosure of income not disclosed before the Assessing Officer had been
+made by the appellant.
+
+2.10. Being aggrieved by the Order dated 04.03.2008 passed by the Settlement Commission, the
+Respondent-Revenue preferred Writ Petition bearing No. 12239 of 2008 (T-IT) before the High
+Court of Karnataka assailing the said Order. The learned Single Judge of the High Court vide Order
+dated 20.05.2010 upheld the Order of the Settlement Commission as regards the jurisdiction to
+entertain the application and also as regards the correctness of the Order passed by the Settlement
+Commission in determining the tax liability, but found fault with the Commission in so far as
+granting immunity to the appellant from the levy of penalty and initiation of prosecution was
+concerned. The Single Judge was of the view that the reasoning of the Settlement Commission was
+vague, unsound and contrary to established principles and that the burden was on the appellant
+herein to prove that there was no concealment or wilful neglect on its part and in the absence of
+such evidence before the Settlement Commission, the Order granting immunity from penalty and
+prosecution was an illegal order. The learned Single Judge, thus, remanded the matter to the
+
+4
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+Settlement Commission for the limited purpose of reconsidering the question of immunity from levy
+of penalty and prosecution and the Order of the Assessing Officer levying penalty, after providing an
+opportunity to both parties.
+
+2.11. Being aggrieved by the remand order passed by the learned Single Judge, the appellant
+preferred Writ Appeal No. 2458 of 2018 before a Division Bench of the High Court, contending as
+under:
+
+i. That the reasoning given by the learned Single Judge to remand the matter for
+fresh consideration was erroneous and against the provisions of the Act. That the
+learned Single Judge failed to appreciate that the orders passed by the Settlement
+Commission are conclusive except as otherwise provided in Chapter XIX-A of the
+Act. The orders passed by the Settlement Commission are final as to the matters
+stated therein, subject to constitutional remedies. However, such constitutional
+remedies could be availed only when the orders passed by the Settlement
+Commission are contrary to the provisions of the Act or have prejudiced the
+Revenue/assessee or that they are vitiated by bias, fraud or malice. Thus, the learned
+Single Judge erred in finding fault with the validity of the order after having
+approved the jurisdiction and procedure followed by the Settlement Commission.
+
+ii. That the learned Single Judge ought to have appreciated that Section 245C
+contemplates full and true disclosure of income to be made before the Settlement
+Commission alone and to that extent the provisions of Section 245C are
+unambiguous and certain. The application to the Settlement Commission to be filed
+under Section 245C ought to contain full and true disclosure of income that was not
+disclosed in the returns/revised returns filed before the Assessing Officer. That the
+learned Single Judge misdirected himself in holding that there is a statutory
+requirement that concealment of particulars before the Assessing Officer would have
+a bearing while the Settlement Commission exercises its powers under Section 245H
+of the Act for grant of immunity from prosecution and penalty. That Section 245H
+bestows exclusively upon the Settlement Commission, the discretion to grant
+immunity to an applicant from prosecution for any offence under the Act or grant of
+immunity wholly or in part from the imposition of penalty under the Act. The only
+precondition for granting immunity to the applicant is that the applicant must have
+co-operated in the proceedings before the Settlement Commission and made full and
+true disclosure of his income and the manner in which such income has been derived
+before the Settlement Commission. Thus, the learned Single Judge erred in drawing
+reference to the possibility of concealment of income before the Assessing Officer. iii.
+That the learned Single Judge failed to appreciate the difference between the
+provisions of Section 245H and Section 27l(l)(c) of the Act. Section 245H does not
+contemplate offering of any explanation or evidence by an applicant to the
+satisfaction of the Settlement Commission. If the Settlement Commission is satisfied
+that an applicant has complied with the precondition specified therein, the
+Settlement Commission could exercise its discretion to grant immunity from
+
+5
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+prosecution and penalty. Therefore, there was no error committed by the Settlement
+Commission in granting immunity from prosecution and penalty.
+
+2.12. In the meanwhile, Revenue preferred Special Leave Petition (C) CC No. 19663 of
+2010 before this Court against the Order dated 20.05.2010 passed by the learned
+Single Judge in Writ Petition No. 12239 of 2008.
+
+On 06.01.2012, this Court directed the Special Leave Petition to stand over for eight weeks and
+directed the Settlement Commission to dispose of the matter remanded to it by the High Court. In
+pursuance of the Order dated 06.01.2012 passed by this Court, the Settlement Commission,
+Chennai, issued a notice in the remanded matter on 30.01.2012.
+
+On 10.02.2012 the appellant moved an application before this Court seeking modification of its
+Order dated 06.01.2012 by issuing a direction to the High Court to dispose of Writ Appeal No. 2458
+of 2010. It was contended that the filing of a Special Leave Petition against the order of the learned
+Single Judge was not proper as a writ appeal should have been filed. That admittedly, Writ Appeal
+No. 2458 of 2010 was pending before the High Court and the Revenue suppressed this vital
+information while filing the Special Leave Petition. This Court by way of an Order dated 21.02.2012
+recalled its earlier Order dated 06.01.2012 passed in SLP (C) CC No. 19663 of 2010 and directed the
+High Court to dispose of Writ Appeal No. 2458 of 2010 within a period of two months. 2.13.
+Following the same, a Division Bench of the High of Karnataka vide Order dated 06.07.2012
+dismissed the Writ Appeal preferred by the appellant and upheld the Order passed by the learned
+Single Judge. It was observed that the Order of the learned Single Judge remanding the matter to
+the Settlement Commission for adjudication did not suffer from any material irregularity or
+illegality. The pertinent observations of the Division Bench of the High of Karnataka are as under:
+
+i. On the question as to whether the Order dated 20.05.2010 passed by the learned
+Single Judge of the High Court in Writ Petition No. 12239 of 2008 would call for
+interference, on a reading of Section 245C (1) of the Act which governs the filing of an
+application by an assessee seeking settlement it was observed that the application
+made by an assessee, must contain full and true disclosure of his income which has
+not been disclosed before the Assessing Officer. Further, on perusal of Section 245H
+of the Act which discusses the Commission’s power to grant immunity from
+prosecution and penalty, it was observed that necessary ingredients for granting
+immunity from prosecution would be: (a) the assessee should have co-operated with
+the Settlement Commission in the proceedings before it; and (b) the assessee should
+have made a full and true disclosure of its income and the manner in which such
+income has been derived.
+
+ii. Under Section 245H (1), the Settlement Commission, if satisfied that any assessee
+who makes the application for settlement under Section 245C, has co-operated with
+the Commission in the proceedings before it and has made a full and true disclosure
+of its income and the manner in which such income has been derived, may grant
+immunity from prosecution and also from the imposition of penalty, either wholly or
+
+6
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+in part with respect to the case covered by the settlement. Thus, Section 245H (1)
+cannot be read in isolation as Section 245C is embedded in 245H (1), and hence, both
+the Sections must be read harmoniously. Further, if in a given case such immunity is
+not granted, the Revenue would proceed to prosecute the assessee in a jurisdictional
+court. Once prosecution is lodged, the presumption is that there was mens rea on the
+part of the assessee to conceal the income by a smoke screen and thereby to evade
+tax. The Settlement Commission will have to examine the application by lifting the
+veil to see as to whether there has been an intention to evade tax and then arrive at a
+conclusion and in the absence of such an exercise being undertaken by the
+Commission, the intention behind Section 245H (1) would become otiose.
+
+iii. The Division Bench noted that as per the provision of Section 245D then
+prevalent, the Settlement Commission on receipt of an application filed under
+Section 245C had to call for a report from the Commissioner and on the basis of the
+material contained in such report and having regard to the nature and circumstances
+of the case or the complexity of the investigation involved therein, the Settlement
+Commission was empowered to reject or allow the application to be proceeded with,
+within the prescribed period and it is in this background that the granting of
+immunity from prosecution ought to have been scrutinised by the Settlement
+Commission and the Single Judge in the instant case found that the same was not
+done, hence, the matter was rightly remanded. 2.14. Aggrieved by the Judgment
+dated 06.07.2012 in Writ Appeal No. 2458 of 2010, the appellant has preferred the
+instant Civil Appeal.
+
+Submissions:
+
+3. We have heard learned senior counsel Sri Shyam Divan, appearing on behalf of the
+appellant-assessee and learned Additional Solicitor General, Sri Balbir Singh, appearing on behalf of
+the respondents-Revenue and perused the materials placed on record. 3.1. Sri Shyam Divan at the
+outset submitted that the judgment of the learned Single Judge of the High Court, as affirmed by the
+Division Bench by the impugned order, proceeds on a misdirection in law, in light of the facts of the
+case and therefore, the same is liable to be set aside by this Court. It was further submitted as
+follows:
+
+i. That when, in the present case, the Settlement Commission rendered a positive
+finding that the appellant had extended cooperation and had made a true and full
+disclosure and thereafter, in exercise of power under Section 245H, the Commission
+granted immunity from prosecution and penalty to the appellant, the High Court
+ought not to have interfered with the decision of the Settlement Commission. That
+the Settlement Commission is the sole judge of the adequacy of and the nature of
+evidence placed before it and so long as there was cogent material and explanation
+which was furnished by the appellant-assessee, the High Court ought not to have
+interfered.
+
+7
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+ii. That the High Court ought to have appreciated that the Assessing Officer may
+make all kinds of additions and make claims of evasion of tax by an assessee.
+However, the Order of the Assessing Officer is by no means the last word. There are
+appellate remedies which provide remedies for an aggrieved assessee and until the
+assessment reaches finality, the conclusion of the Assessing Officer in the assessment
+Order is nothing but his own assertion. Such a stage had not been reached in the case
+of the appellant herein. iii. Concealment of particulars before the Assessing Officer
+would not have a bearing while the Settlement Commission exercises its powers
+under Section 245H of the Act for grant of immunity from prosecution and penalty.
+That if an assessee has disclosed in the return of income his true income and the
+disclosure of income is full and complete, there is no reason for him to go before the
+Settlement Commission. Section 245C contemplates full and true disclosure of
+income to be made before the Settlement Commission only.
+
+iv. That Section 245C does not contemplate any explanation or evidence that requires
+to be offered by an applicant to the satisfaction of the Settlement Commission and as
+such the Division Bench’s judgment was liable to be quashed. Section 245C
+contemplates full and true disclosure of income to be made before the Settlement
+Commission and the same was made by the assessee. That the learned Single Judge
+of the High Court committed an error in holding that there is a statutory requirement
+that concealment of particulars before the Assessing Officer would have a bearing on
+the application filed before the Settlement Commission, which is required to exercise
+its power under section 245H of the Act for granting immunity from prosecution and
+penalty.
+
+3.2. With the aforesaid submissions, it was prayed that the present appeal be allowed
+and the judgment of the learned Single Judge of the High Court, as affirmed by the
+Division Bench in the impugned judgment dated 06.07.2013, be set aside, thereby
+restoring the Order of the Settlement Commission dated 04.03.2008.
+
+3.3. Per contra, Sri Balbir Singh, learned Additional Solicitor General appearing on
+behalf of the respondents-Revenue submitted that the impugned judgment of the
+High Court is based on a correct appreciation of the law in the light of the facts of the
+present case and therefore, the same does not call for interference by this Court. It
+was further submitted as under:
+
+i. That it is only when the completed assessments were re-opened by the Revenue and
+when penalty proceedings were initiated that the application was filed by the
+appellant under Section 245C (1) before the Settlement Commission. That there is a
+marked difference between the terms "discovered" and "disclosed" in as much as
+what was "discovered" by the Assessing Officer during the course of assessment
+proceedings could not form part of what was "disclosed" by the assessee in the
+application filed before the Settlement Commission. However, in the present case,
+what has been "disclosed" in the application is the same as what was "discovered" by
+
+8
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+the Assessing Officer. The provisions of Section 245C being made applicable to an
+application filed by an assessee, the prime ingredient would be disclosure of such
+income which had not been disclosed in the return of income.
+
+ii. That the Settlement Commission on receipt of an application filed under Section
+245C had to call for a report from the Commissioner and on the basis of the material
+contained in such report, the Commission ought to have proceeded to consider the
+application filed by the assessee, as also the question of granting of immunity from
+penalty and prosecution. Since this procedure was not adhered to and the Settlement
+Commission, de hors any material to demonstrate that there was any wilful
+concealment on the part of the assessee to evade tax, went on to pass an order
+granting immunity under Section 245H (1) to the appellant-assessee from imposition
+of penalty and prosecution under the Act, the learned Single Judge rightly set aside
+the Order of the Commission to such extent only and remanded the said aspect of the
+matter for fresh consideration.
+
+iii. That concealment of income before the Assessing Officer would have a bearing on
+the result of the application filed before the Settlement Commission. That a perusal
+of Section 245H (1) would reveal that the same cannot be read in isolation as Section
+245C is embedded in 245H (1). Therefore, the two provisions would have to be read
+harmoniously and when so read, it would emerge that in order to qualify for
+immunity under Section 245H, the assessee must not only co-operate with the
+Settlement Commission, but must also disclose income which was not reflected in the
+return of income, vide Ajmera Housing Corporation vs. Commissioner of Income
+Tax, (2010) 8 SCC 739. However, in the present case, the assessee has not disclosed
+any income which was not reflected in the return of income, but has only brought to
+the notice of the commission the income that had escaped assessment, which was
+subsequently discovered by the Assessing Officer. iv. Reliance was placed on the
+decision of this Court in Commissioner of Income Tax vs. B.N. Bhattacharjee, (1979)
+4 SCC 121 to contend that the provisions of Chapter XIX-A of the Act, were to be
+construed as having legislative intent behind them. That the policy of law as disclosed
+in the said Chapter is not to provide a shelter for tax dodgers, to subsequently obtain
+immunity from facing the consequences of tax evasion by simply approaching the
+Settlement Commission. That the Commission would have to use its power under
+Section 245(C) read with Section 245H of the Act sparingly and only in cases where
+there was no intention on the part of the assessee to evade tax. However, in the
+present case, the Commission did not apply its mind to the issue as to, whether, the
+appellant-assessee had wilfully evaded tax, before proceeding to exercise its power
+under Section 245H of the Act. Hence, the matter was rightly remanded to the
+Commission to determine the issue as to grant of immunity to the assessee from levy
+of penalty and prosecution.
+
+v. Next, Sri Balbir Singh, Ld. ASG, referred to the judgment of this Court in
+Commissioner of Income Tax vs. Express Newspapers Ltd., (1994) 2 SCC 374 to
+
+9
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+contend that in a similar factual background, wherein the assessee had neither
+disclosed before the Settlement Commission any income which was not disclosed
+before the Assessing Officer, nor any details as to the manner in which such income
+was derived, this Court held that the conditions specified in Section 245C of the Act,
+were not complied with by the assessee and therefore, the Settlement Commission
+ought not to have entertained the application before it. In that context, it was
+submitted that the application in the present case also ought to have been dismissed
+in limine and the Commission ought not to have entertained the same.
+
+3.4. In the light of the aforesaid contentions, learned ASG, Sri Balbir Singh submitted
+that the present appeal be dismissed as being devoid of merit and the judgment of the
+learned Single Judge of the High Court, as affirmed by the Division Bench in the
+impugned judgment dated 06.07.2013, be upheld.
+
+Points for Consideration:
+
+4. Having heard the learned counsel for the respective parties and on perusal of the material on
+record, the following points would emerge for our consideration:
+
+i. Whether the Division Bench of the High Court was right in affirming the findings of
+the learned Single Judge, to the effect that the Settlement Commission ought not to
+have exercised discretion under Section 245H of the Act and granted immunity to the
+assessee de hors any material to demonstrate that there was no wilful concealment on
+the part of the assessee to evade tax and on that ground, remanding the matter to the
+Commission for fresh consideration?
+
+ii.        What order?
+
+Legal Framework:
+
+5. Before proceeding further, it would be useful to refer to the legal framework
+relevant to the issues which arise in this appeal.
+
+5.1. Chapter XIX-A of the Act was introduced by the Taxation Laws (Amendment) Act, 1975 w.e.f.
+01.04.1976 for quick settlement of cases so that the tax due to the Department is realized at the
+earliest, by approaching the Settlement Commission. Chapter XIX-A of the Act incorporates
+Sections 245A to 245M. Section 245C which is relevant for the purpose of this case provides the
+manner in which an application for settlement of cases is to be made before the Settlement
+Commission. An assessee seeking to settle a case with the Department is required under Section
+245C to make a full and true disclosure of his income which has not been disclosed before the
+Assessing Officer, the manner in which such income has been derived and the additional tax payable
+on such income.
+
+10
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+5.2. Section 245D deals with the procedure to be followed by the Commission on receiving an
+application for settlement under Section 245C. Sub-section (1) of Section 245C enables the
+Commission to call for a report from the Commissioner. On the basis of the Commissioner’s report
+and having regard to the nature and circumstances of the case or the complexity of the investigation
+involved therein, the Settlement Commission may either allow the application to be proceeded with
+or reject the same. Sub-section (4) of Section 245D empowers the Settlement Commission to pass an
+order after examination of the records and the report submitted by the Commissioner, after hearing
+the applicant and the Commissioner, or their authorized representatives and examining any further
+evidence before it. 5.3. Section 245H of the Act bestows upon the Settlement Commission, discretion
+to grant immunity to an applicant from prosecution for any offence under the Act or under the
+Indian Penal Code, or from the imposition of any penalty under the Act, with respect to the case
+covered by the settlement. The grant of such immunity is subject to such conditions which the
+Commission may think it fit to impose. The precondition for granting immunity is that the applicant
+must have co-operated in the proceedings before the Commission and made a ‘full and true
+disclosure’ of his income and the manner in which such income has been derived.
+
+5.4. For ready reference, the relevant provisions of Chapter XIX-A of the Act are extracted as under:
+
+“245H. Power of Settlement Commission to grant immunity from prosecution and
+penalty.—(1) The Settlement Commission may, if it is satisfied that any person who
+made the application for settlement under section 245C has co-operated with the
+Settlement Commission in the proceedings before it and has made a full and true
+disclosure of his income and the manner in which such income has been derived,
+grant to such person, subject to such conditions as it may think fit to impose for the
+reasons to be recorded in writing, immunity from prosecution for any offence under
+this Act or under the Indian Penal Code (45 of 1860) or under any other Central Act
+for the time being in force 2 and also (either wholly or in part) from the imposition of
+any penalty under this Act, with respect to the case covered by the settlement:
+
+Provided that no such immunity shall be granted by the Settlement Commission in
+cases where the proceedings for the prosecution for any such offence have been
+instituted before the date of receipt of the application under section 245C: Provided
+further that the Settlement Commission shall not grant immunity from prosecution
+for any offence under the Indian Penal Code (45 of 1860) or under any Central Act
+other than this Act and the Wealth-tax Act, 1957 (27 of 1957) to a person who makes
+an application under section 245C on or after the 1st day of June, 2007.
+
+(1A) An immunity granted to a person under sub-section (1) shall stand withdrawn if
+such person fails to pay any sum specified in the order of settlement passed under
+sub-section (4) of section 245D within the time specified in such order or within such
+further time as may be allowed by the Settlement Commission, or fails to comply with
+any other condition subject to which the immunity was granted and thereupon the
+provisions of this Act shall apply as if such immunity had not been granted.
+
+11
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+(2) An immunity granted to a person under sub-section (1) may, at any time, be
+withdrawn by the Settlement Commission, if it is satisfied that such person had, in
+the course of the settlement proceedings, concealed any particular material to the
+settlement or had given false evidence, and thereupon such person may be tried for
+the offence with respect to which the immunity was granted or for any other offence
+of which he appears to have been guilty in connection with the settlement and shall
+also become liable to the imposition of any penalty under this Act to which such
+person would have been liable, had not such immunity been granted.
+
+(3) On and from 1st day of February, 2021, the power of the Settlement Commission
+under this section shall be exercised by the Interim Board and the provisions of this
+section shall mutatis mutandis apply to the Interim Board as they apply to the
+Settlement Commission.” Analysis:
+
+6. On a close reading of the provisions extracted hereinabove, it emerges that under Section 245H(1)
+if the Settlement Commission is satisfied that any assessee who makes the application for settlement
+under Section 245C, has co-operated with the Settlement Commission in the proceedings before it
+and has made a full and true disclosure of its income and the manner in which such income has
+been derived, may grant immunity from prosecution or from the imposition of penalty, either wholly
+or in part with respect to the case covered by the settlement. The necessary ingredients for granting
+immunity from prosecution would be: (a) the assessee should have co-operated with the Settlement
+Commission in the proceedings before it; and (b) the assessee should have made a full and true
+disclosure of its income and the manner in which such income has been derived, to the satisfaction
+of the Commission. Therefore, what is of essence is that the assessee ought to have:
+
+(a) made full and true disclosure before the Commission, and
+
+(b) co-operated with the Commission in the proceedings before it.
+
+6.1. Upon being satisfied as to the said ingredients, the Commission may grant immunity from
+prosecution or from the imposition of penalty, either wholly or in part with respect to the case
+covered by the settlement.
+
+7. While Section 245C provides that the disclosures as to income “not disclosed before the Assessing
+Officer” must accompany the application filed before the Settlement Commission, Section 245H
+provides that if the assessee has co-operated with the Settlement Commission and has made “full
+and true disclosure of his income”, the Settlement Commission may grant immunity from
+prosecution and penalty. It is the case of the Revenue that Section 245H (1) cannot be read in
+isolation as Section 245C is embedded in 245H (1), and hence, both the Sections must be read
+harmoniously. That when so read, the requirement under Section 245H would be that disclosure of
+income “not disclosed before the Assessing Officer” must be made before the Commission.
+According to the Revenue, in the present case, what had been "disclosed" in the application was the
+same as what was "discovered" by the Assessing Officer and therefore, the application of the
+assessee ought not to have been entertained by the Commission, and further, immunity under
+
+12
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+Section 245H ought not to have been granted.
+
+7.1. In this regard, it is observed that even if the pre-conditions prescribed under Section 245C are to
+be read into Section 245H, it cannot be said that in every case, the material “disclosed” by the
+assessee before the Commission must be something apart from what was discovered by the
+Assessing Officer. What is of relevance is that the assessee offered to tax, income, in addition to the
+income recorded in the return of income. Section 245C read with Section 245H only contemplates
+full and true disclosure of income to be made before the Settlement Commission, regardless of the
+disclosures or discoveries made before/by the Assessing Officer. It is to be noted that the Order
+passed by Assessing Officer based on any discovery made, is not the final word, for, it is appealable.
+However, the assessee may accept the liability, in whole or in part, as determined in the assessment
+order. In such a case, the assessee may approach the Settlement Commission making ‘full and true
+disclosure’ of his income and the manner in which such income has been derived. Such a disclosure
+may also include the income discovered by the Assessing Officer.
+
+7.2. To say that in every case, the material “disclosed” by the assessee before the Commission must
+be something apart from what was “discovered” by the Assessing Officer, in our view, seems to be an
+artificial requirement. In every case, there may not even be additional income to offer, apart from
+what has been discovered by the Assessing Officer. The object of Chapter-XIXA is to settle cases and
+to reduce the disputes, and not to prolong litigation. Therefore, instead of preferring an appeal
+against the assessment order, the assessee may, by making a ‘full and true disclosure’ of income,
+approach the Settlement Commission and offer to tax income other than that disclosed in the return
+of income.
+
+7.3. It is further to be noted that the power vested with the Settlement Commission under Section
+245H is a discretionary power to be exercised if the Settlement Commission is satisfied that an
+applicant has complied with the preconditions specified therein. It is trite that any judicial,
+quasi-judicial or administrative authority must while exercising discretion, direct itself properly in
+law and consider all the facts and material that it is bound to consider while excluding from
+consideration irrelevant aspects of the matter. While exercising power under Section 245H, read
+with Section 245C of the Act the relevant facts and material which ought to be considered by the
+Commission are:
+
+i. the report which is to be submitted by the Commissioner, under Section 245D(1) of
+the Act;
+
+ii. the disclosures made by the applicant before the Commission as to income, and the
+source of such income;
+
+iii. any other relevant evidence let in by the assessee or the department.
+
+7.4. We find that in the present case, the Settlement Commission has rightly
+considered the relevant facts and material and, accordingly, decided to grant
+immunity to the appellant from prosecution and penalty. We arrive at this conclusion
+
+13
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+having regard to the following aspects of the matter, recorded by the Settlement
+Commission:
+
+i. The Commission in its order dated 04.03.2008, noted that the appellant had
+realized while adhering to the RBI guidelines of accounting of lease income that there
+was an error in not disclosing the full lease rental receipts as per income tax law.
+Thus, the appellant offered additional income under various heads, which were not
+considered by the Assessing Officer. Considering the nature and circumstances and
+the complexities of the investigation involved, the Commission was of the view that
+the application was to be proceeded with under Section 245D (1) of the Act and that
+prima-facie, a full and true disclosure of income not disclosed before the Assessing
+Officer had been made by the appellant. The findings of the Commission to this effect
+are usefully extracted as under:
+
+“4.3 We have considered the rival submissions. We are of the opinion that there is no
+bar for banking companies to approach the Commission. The disclosure of the
+material facts in the return of income or the documents accompanying return of
+income is not a bar for the applicant to approach the Commission. In view of this, we
+hold that the applicant is eligible to approach the Commission. 5.1 Finally we have
+carefully gone through the settlement application and the confidential annexures and
+are satisfied that the complexities of investigation as brought out in the application
+do exist. We have also considered the nature and circumstances of the case as
+explained by the applicant's representative.
+
+The applicant is an established scheduled bank with several branches. The applicant has realized
+that when adhering to RBI guidelines of accounting of lease income there was an error in not
+disclosing the full lease rental receipts as per income tax law. In addition the applicant has offered
+additional income under various heads not considered by the Assessing Officer. We are satisfied that
+the nature and circumstances and the complexities of investigation involved do warrant the
+application to be proceeded with u/s 245D(1) of the Act. We are also reasonably satisfied that, prima
+facie, a full and true disclosure of income not disclosed before the Assessing Officer has been made
+by the applicant. Additionally, taking a practical view of the case, we are also concerned by the time
+taken to dispose of this application, particularly in respect of a scheduled bank. We feel that the
+matters need to be given a quietus and brought to close as speedy collection of taxes is also an
+important function of the Settlement Commission. We therefore allow the application to be
+proceeded with u/s 245D(1) of the Act.” The aforesaid findings of the Settlement Commission,
+demonstrate that it had applied its mind to the aspect of whether there was wilful concealment of
+income by the assessee. Having noted that non-disclosure was on account of RBI guidelines, which
+required a different standard of disclosure, the Commission decided to grant immunity to the
+appellant from prosecution and penalty. Accrodingly, the Commission passed the following order:
+
+“TERMS OF SETTLEMENT:
+
+14
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+18.1 The computation of the undisclosed income and the tax payable thereon is
+furnished in the annexure 1 to 5 to this Order. Tax payable along with interest as per
+law shall be paid within 35 days of receipt of this order.
+
+18.2 Considering the co-operation extended by the applicant in the completion of the
+present settlement proceedings and the true and full disclosure made, we grant
+immunity u/s 245H(1) from the imposition of penalty and prosecution under the
+income-tax Act and relevant sections of IPC, relating to the matters covered in the
+present order. Penalty u/s 271(1)(c) was levied by the Assessing Officer for AY
+1997-98 in respect of non disclosure of lease rental as income.
+
+The penalty order is annulled considering that the non disclosure was on account of RBI guidelines
+and the subsequent disclosure of additional income of lease income before the Settlement
+Commission when the applicant realized the omission to disclose the same as per Income tax law.
+However, the immunity so granted shall be withdrawn, if it is subsequently found that the
+conditions prescribed in subsections 1(A)/(2) of Sec.245H are satisfied.
+
+18.3 The Settlement Order passed in the above case shall be declared void, if it is subsequently found
+by the Settlement Commission that it has been obtained by fraud or misrepresentation of facts.” ii.
+The Commission’s order further reveals that the appellant offered additional income and disclosed
+particulars of the income pertaining to the following transactions/activities:
+
+a) Two aspects of the appellant’s leasing activity, namely, undeclared lease rent liable
+to income tax; additional income on account of disallowance of depreciation on 26
+assets claimed to be leased.
+
+b) Treatment of bonus payments to employees.
+
+c) Treatment of share issue expenses.
+
+d) Treatment of depreciation on permanent assets and securities.
+
+iii. The Commission’s order dated 11.12.2000, makes multiple references to the Report of the
+Commissioner, as required under Section 245D (1). Therefore, we find no substance in the
+submission of the Ld. ASG appearing on behalf of the Revenue that the procedure contemplated
+under Section 245D was not followed and in the absence of a report, the Commission was not
+correct in entertaining the appellant’s application for settlement. 7.5. In the light of the aforesaid
+discussion, we are of the view that the learned Single Judge of the High Court was not right in
+holding that the reasoning of the Settlement Commission was vague, unsound and contrary to
+established principles. Division Bench was also not justified in affirming such view of the learned
+Single Judge. The Commission, in our view, adequately applied its mind to the circumstances of the
+case, as well as to the relevant law and accordingly exercised its discretion to proceed with the
+application for settlement and grant immunity to the assessee from penalty and prosecution. The
+Order of the Commission dated 04.03.2008 did not suffer from such infirmity as would warrant
+
+15
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+interference by the High Court, by passing an order of remand.
+
+8. It may be apposite at this juncture, to refer to the decision of this Court in Ashirvad Enterprises
+vs. State of Bihar, (2004) 3 SCC 624 wherein it was stated that whether immunity from prosecution
+and penalty should be granted in a given case, has to be decided by the Commission by exercising its
+discretion, in the light of the facts and circumstances of each case. There is no straight jacket
+formula that would universally apply in every case. Where the Commission is satisfied that the
+applicant (a) has made full and true disclosure of his income and the manner in which such income
+was derived, and (b) has co-operated with the Commission in the proceedings before it, immunity
+under Section 245H may be granted.
+
+9. In the present case, as noted above, we find that the appellant placed material and particulars
+before the Commission as to the manner in which income pertaining to certain activities was
+derived and has sought to offer such additional income to tax. Based on such disclosures and on
+noting that the appellant co-operated with the Commission in the process of settlement, the
+Commission proceeded to grant immunity from prosecution and penalty as contemplated under
+Section 245H of the Act. The High Court ought not to have sat in appeal as to the sufficiency of the
+material and particulars placed before the Commission, based on which the Commission proceeded
+to grant immunity from prosecution and penalty as contemplated under Section 245H of the Act.
+
+10. We are fortified in our view by the judgment of this Court in Jyotendrasinhji vs. S.I. Tripathi,
+1993 Supp (3) SCC 389, wherein it was observed that a Court, while exercising powers under
+Articles 32, 226 or 136 of the Constitution of India, as the case may be, may not interfere with an
+order of the Commission, passed in exercise of its discretionary powers, except on the ground that
+the order contravenes provisions of the Act or has caused prejudice to the opposite party.
+Interference may also be open on the grounds of fraud, bias or malice. Therefore, this Court has
+carved out a very narrow scope for judicial review of the Commission’s orders, passed in the exercise
+of its discretionary powers. Hence, we hold that sufficiency of the material and particulars placed
+before the Commission, based on which the Commission proceeded to grant immunity from
+prosecution and penalty as contemplated under Section 245H of the Act, are beyond the scope of
+judicial review, except under the circumstances set out in Jyotendrasinhji vs. S.I. Tripathi (supra).
+
+11. We find that the judgment of this Court in Express Newspapers Ltd. (supra), sought to be relied
+upon by the Respondents, would not come to their aid in the present case. It is to be noted that the
+said judgment turns on its own facts. In the said case, the income tax authorities had made extensive
+investigation and inquiry, whereby they had collected voluminous material demonstrating large
+scale concealment of income on the part of the assessee therein. In that background, this Court
+observed that the assessee, having merely offered a part of such concealed income before the
+Commission, the application for settlement ought to have been rejected.
+
+12. While we are mindful of the fact that the provisions of Chapter XIX-A of the Act are not to be
+employed so as to provide a shelter for tax dodgers to obtain immunity from facing the
+consequences of tax evasion by simply approaching the Settlement Commission, vide B.N.
+Bhattacharjee (supra), we are however of the view that in the present case, the Commission rightly
+
+16
+
+Kotak Mahindra Bank Limited vs Commissioner Of Income Tax Bangalore on 25 September, 2023
+
+exercised its discretion under Section 245H having regard to the bona fide conduct of the assessee of
+offering additional income for tax, apart from the income disclosed in the return of income.
+
+13. Before parting with the record, we may add that having regard to the legislative intent, frequent
+interference with the orders or proceedings of the Settlement Commission should be avoided. We
+have already indicated the limited grounds on which an order or proceeding of the Settlement
+Commission can be judicially reviewed. The High Court should not scrutinize an order or
+proceeding of a Settlement Commission as an appellate court. Unsettling reasoned orders of the
+Settlement Commission may erode the confidence of the bonafide assessees, thereby leading to
+multiplicity of litigation where settlement is possible. This larger picture has to be borne in mind.
+
+14. In light of the aforesaid discussion, we are of the view that the Order of the Settlement
+Commission dated 04.03.2008 was based on a correct appreciation of the law, in light of the facts of
+the case and the High Court ought not to have interfered with the same. Therefore, the judgment
+dated 06.07.2012, passed by the High Court of Karnataka at Bangalore in Writ Appeal No. 2458 of
+2010 whereby the judgment of the learned Single Judge dated 20.05.2010, passed in Writ Petition
+No. 12239 of 2008, remanding the matter to the Settlement Commission to determine afresh, the
+question as to immunity from levy of penalty and prosecution was affirmed, is hereby set aside.
+Consequently, the order of the learned Single Judge is also set aside. The Order of the Settlement
+Commission dated 04.03.2008 is restored. The appeal is allowed. Pending application (s), if any,
+stand disposed of in the aforesaid terms.
+
+No order as to costs.
+
+..………….……………J. (B.V. NAGARATHNA) ..………….……………J. (UJJAL BHUYAN) NEW DELHI;
+
+25th SEPTEMBER, 2023.
+
+17

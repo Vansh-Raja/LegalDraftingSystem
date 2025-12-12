@@ -1,0 +1,27 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 195 OF 2022 (arising out of S.L.P (Crl.) No. 6545 OF 2020)",
+  "parties": {
+    "petitioner": "Kahkashan Kausar @ Sonam & Ors.",
+    "respondent": "State of Bihar & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-08",
+  "summary": "The appeal challenged the Patna High Court's refusal to quash an FIR under Sections 341, 323, 379, 354, 498A read with Section 34 IPC, filed by the wife against her husband and in-laws for dowry harassment and threats to terminate her pregnancy. The appellants argued the allegations were general and retaliatory, citing prior dismissal of similar charges against in-laws in 2017. The State and complainant contended the FIR disclosed a fresh cause of action post-judicial assurance and was supported by investigation and charge-sheet. The Court examined whether allegations against in-laws were omnibus and liable to be quashed, referencing precedents on misuse of Section 498A IPC, but emphasized that serious allegations must be tested at trial unless patently absurd.",
+  "legal_provisions_cited": [
+    "Section 482 CrPC",
+    "Section 341 IPC",
+    "Section 323 IPC",
+    "Section 379 IPC",
+    "Section 354 IPC",
+    "Section 498A IPC",
+    "Section 34 IPC",
+    "Lalita Kumari Vs. Government of U.P. & Ors.",
+    "Social Action Forum for Manav Adhikar & Anr. Vs. Union of India & Ors.",
+    "Sushil Kumar Sharma v. Union of India and others",
+    "Rajesh Bajaj Vs. State of NCT of Delhi & Ors.",
+    "Rajesh Sharma and Ors. Vs. State of U.P. & Anr.",
+    "Arnesh Kumar Vs. State of Bihar and Anr.",
+    "Preeti Gupta & Anr. Vs. State of Jharkhand & Anr."
+  ],
+  "final_judgment": "The appeal was allowed in part; the Court declined to quash the FIR, holding that the allegations, though requiring scrutiny, warranted investigation and trial to determine their veracity, particularly given the serious nature of the accusations and the existence of a charge-sheet."
+}

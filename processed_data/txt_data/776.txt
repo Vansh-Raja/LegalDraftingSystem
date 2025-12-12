@@ -1,0 +1,2562 @@
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+Author: Dhananjaya Y Chandrachud
+
+Bench: Dhananjaya Y Chandrachud
+
+2024 INSC 754
+                                                                          Reportable
+                                  IN THE SUPREME COURT OF INDIA
+                              CIVIL APPELLATE/ORIGINAL JURISDICTION
+
+                                     Civil Appeal No 8629 of 2024
+
+             Union of India & Ors.                                    … Appellants
+
+                                               Versus
+
+             Rajeev Bansal                                            …Respondent
+
+WITH C.A. No. 10238/2024 C.A. No. 10239/2024 C.A. No. 10240/2024 13:18:27 IST Reason:
+
+t
+
+t
+
+r
+
+s
+
+c
+
+e
+
+g
+
+k
+
+o
+
+o
+
+u
+
+n
+
+n
+
+n
+
+  A .
+
+  B a
+
+C.A. No. 8843-8844/2024 T.P.(C) No. 2187-2194/2024 T.P.(C) No. 2714-2723/2023
+(Arising out of SLP(C) No. 23391/2024) (Diary No 24653/2023) C.A. No.
+8836-8837/2024 (Arising out of SLP(C) No. 17283/2024) (Arising out of SLP(C) No.
+17284/2024) (Arising out of SLP(C) No. 17286/2024) (Arising out of SLP(C) No.
+17287/2024) And With JUDGMENT Dr Dhananjaya Y Chandrachud, CJI Table of
+C
+d
+........................................................................................................35 i. Income Tax Act
+...............................................................................................35 ii. TOLA
+................................................................................................................39 iii. Finance
+Act 2021 ............................................................................................41 B.
+Issues..................................................................................................................50 C.
+Submissions ......................................................................................................51 D.
+Legal Background .............................................................................................55 i.
+Assessment as a quasi-judicial function ..................................................... 55 ii.
+Assessment as an issue of jurisdiction ....................................................... 59 iii.
+Principles of strict interpretation and workability ....................................... 63 iv.
+Principle of harmonious construction.......................................................... 66 E.
+Reading TOLA into the Income Tax Act ...........................................................70 i.
+First proviso to Section 149(1) of the new regime ...................................... 70 ii. TOLA
+can extend the time limit till 31 June 2021 ........................................ 75 a. Finance Act
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+1
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+2021 substituted the old regime ................................................ 75 b. Reading TOLA
+into Section 149 ....................................................................82 iii. Sanction of the
+specified authority ..............................................................86 F. Section 148 notices
+issued in June-September 2022..................................... 91 i. Scope of Article 142
+.......................................................................................91 ii. The scope of Ashish
+Agarwal extended to all the reassessment notices issued between 1 April 2021 and 30
+J u n e   2 0 2 1   u n d e r   t h e   o l d   r e g i m e   . . . . . .   9 6   i i i .   E f f e c t   o f   t h e   l e g a l   f i c t i o n
+................................................................................99 a. Third proviso to Section 149
+.......................................................................100 b. Interplay of Ashish Agarwal with
+T O L A   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   1 0 7   G .   C o n c l u s i o n s
+..................................................................................................... 110 PART A
+
+1. The present batch of appeals involves the interplay of three Parliamentary statutes:
+the Income Tax Act 1961 1, the Taxation and Other Laws (Relaxation and
+Amendment of Certain Provisions) Act 2020, 2 and the Finance Act 2021.
+
+The Income Tax Act was enacted to levy and collect tax on the income of assesses. 3 Sections 147 to
+151 of the Income Tax Act deal with the procedure of reassessment of income chargeable to tax
+which has escaped assessment. The TOLA was enacted in the backdrop of the COVID-19 pandemic
+to provide relaxation of time limits specified under the provisions of the Income Tax Act and certain
+other legislations as defined under Section 2(1)(b) of TOLA. The Finance Act 2021 amended the
+provisions dealing with the reassessment procedure under the Income Tax Act with effect from 1
+April 2021.
+
+A.        Background
+
+     i.    Income Tax Act
+
+2. Sections 147 to 151 deal with the procedure of reassessment. The scheme of reassessment under
+Sections 147 to 151 was substantially overhauled by the Finance Act 2021 with effect from 1 April
+2021. Under the old regime, Section 147 empowered the assessing officer 4 to reopen assessment
+“Income Tax Act” “TOLA” Section 2(7), Income Tax Act. [It defines an “assessee” to mean “a person
+by whom any tax or any other sum of money is payable under this Act, and includes –
+
+(a) every person in respect of whom any proceeding under this Act has been taken for the
+assessment of his income or assessment of fringe benefits or of the income of any other person in
+respect of which he is assessable, or of the loss sustained by him or by such other person, or of the
+amount of refund due to him or to such other person;
+
+(b) every person who is deemed to be an assessee under any provisions of this Act;
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+2
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+(c) every person who is deemed to be an assessee in default under any provision of this Act;”]
+Section 2(7A), Income Tax Act. [It defines an “assessing officer” to mean “the Assistant
+Commissioner or Deputy Commissioner or Assistant Director or Deputy Director or the Income-tax
+Officer who is vested with PART A proceedings if they had “reason to believe” that any income
+chargeable to tax has escaped assessment for the relevant assessment year. 5 Section 148 mandated
+the assessing officer to serve a notice on the assessee requiring them to submit a return of their
+income.6
+
+3. Section 149 7 prescribed the following time limits for issuing a notice under Section 148 for an
+assessment year:
+
+the relevant jurisdiction by virtue of directions or orders issued under sub-section (1)
+or sub-section (2) of section 120 or any other provision of this Act, and the Additional
+Commissioner or Additional Director or Joint Commissioner or Joint Director who is
+directed under clause (b) of sub-section (4) of that section to exercise or perform all
+or any of the powers or functions conferred on, or assigned to, an Assessing Officer
+under this Act.”] Section 147, Income Tax Act Section 148, Income Tax Act. [It read:
+
+“148.(1) Before making the assessment, reassessment or recomputation under section
+147, the Assessing Officer shall serve on the assessee a notice requiring him to furnish
+within such period, as may be specified in the notice, a return of his income or the
+income of any other person in respect of which he is assessable under this Act during
+the previous year corresponding to the relevant assessment year, in the prescribed
+form and verified in the prescribed manner and setting forth such other particulars
+as may be prescribed; and the provisions of this Act shall, so far as may be, apply
+accordingly as if such return were a return required to be furnished under section
+139:
+
+Provided that in a case –
+
+(a) where a return has been furnished during the period commencing on the 1st day
+of October, 1991 and ending on the 30th day of September, 2005 in response to a
+notice served under this section, and
+
+(b) subsequently a notice has been served under sub-section (2) of section 143 after
+the expiry of twelve months specified in the proviso to sub-section (2) of section 143,
+as it stood immediately before the amendment of said sub-section by the Finance Act,
+2002 (20 of 2002) but before the expiry of the time limit for making the assessment,
+re-assessment or recomputation as specified in sub-section (2) of section 153, every
+such notice referred to in this clause shall be deemed to be a valid notice: Provided
+further that in a case –
+
+(a) where a return has been furnished during the period commencing on the 1st day
+of October, 1991 and ending on the 30th day of September, 2005 in response to a
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+3
+
+notice served under this section, and
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+(b) subsequently a notice has been served under clause (ii) of sub-section (2) of
+section 143 after the expiry of twelve months specified in the proviso to sub-section
+(2) of section 143, as it stood immediately before the amendment of said sub-section
+by the Finance Act, 2002 (20 of 2002) but before the expiry of the time limit for
+making the assessment, re-assessment or recomputation as specified in sub-section
+(2) of section 153, every such notice referred to in this clause shall be deemed to be a
+valid notice.
+
+Explanation – For the removal of doubts, it is hereby declared that nothing contained in the first
+proviso or the second proviso shall apply to any return which has been furnished on or after the 1st
+day of October 2005 in response to a notice served under this section.
+
+(2) The Assessing Officer shall, before issuing any notice under this section, record his reasons for
+doing so.”] Section 149, Income Tax Act. [It reads:
+
+“149. Time limit for notice - (1) No notice under section 148 shall be issued for the
+relevant assessment year,—
+
+(a) if four years have elapsed from the end of the relevant assessment year, unless the
+case falls under clause (b) or clause (c);
+
+(b) if four years, but not more than six years, have elapsed from the end of the
+relevant assessment year unless the income chargeable to tax which has escaped
+assessment amounts to or is likely to amount to one lakh rupees or more for that
+year;
+
+PART A
+
+(i) four years from the end of the relevant assessment year;
+
+(ii) four years but not more than six years from the end of the relevant assessment year if the income
+chargeable to tax which has escaped assessment amounted to or was likely to amount to Rupees one
+lakh or more for that year; and
+
+(iii) four years but not more than sixteen years from the end of the relevant assessment year if the
+income in relation to any asset (including financial interest in any entity) located outside India and
+chargeable to tax has escaped assessment.
+
+4. Section 151 required the assessing officer to obtain the sanction of the specified authority before
+issuing a notice under Section 148.8 In case the notice was issued within four years, the sanctioning
+authority was the Joint
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+4
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+(c) if four years, but not more than sixteen years, have elapsed from the end of the relevant
+assessment year unless the income in relation to any asset (including financial interest in any entity)
+located outside India, chargeable to tax, has escaped assessment.
+
+Explanation.—In determining income chargeable to tax which has escaped assessment for the
+purposes of this sub-section, the provisions of Explanation 2 of section 147 shall apply as they apply
+for the purposes of that section.
+
+(2) The provisions of sub-section (1) as to the issue of notice shall be subject to the provisions of
+section
+
+151. (3) If the person on whom a notice under section 148 is to be served is a person treated as the
+agent of a non-resident under section 163 and the assessment, reassessment or recomputation to be
+made in pursuance of the notice is to be made on him as the agent of such non-resident, the notice
+shall not be issued after the expiry of a period of six years from the end of the relevant assessment
+year. Explanation.—For the removal of doubts, it is hereby clarified that the provisions of
+sub-sections (1) and (3), as amended by the Finance Act, 2012, shall also be applicable for any
+assessment year beginning on or before the 1st day of April, 2012.”] Section 151, Income Tax Act. [It
+read:
+
+151.(1) No notice shall be issued under section 148 by an Assessing Officer, after the
+expiry of a period of four years from the end of the relevant assessment year, unless
+the Principal Chief Commissioner or Chief Commissioner or Principal Commissioner
+or Commissioner is satisfied, on the reasons recorded by the Assessing Officer, that it
+is a fit case for the issue of such notice.
+
+(2) In a case other than a case falling under sub-section (1), no notice shall be issued under section
+148 by an Assessing Officer, who is below the rank of Joint Commissioner, unless the Joint
+Commissioner is satisfied, on the reasons recorded by such Assessing Officer, that it is a fit case for
+the issue of such notice. (3) For the purposes of sub-section (1) and sub-section (2), the Principal
+Chief Commissioner or the Chief Commissioner or the Principal Commissioner or the
+Commissioner or the Joint Commissioner, as the case may be, being satisfied on the reasons
+recorded by the Assessing Officer about fitness of a case for the issue of notice under section 148,
+need not issue such notice himself.] PART A Commissioner. 9 In case the notice was issued after the
+expiry of four years, the sanctioning authority was the Principal Chief Commissioner, 10 Chief
+Commissioner, 11 Principal Commissioner or Commissioner. 12 The authorities have a distinct
+meaning under the Income Tax Act. Following a decision of this Court in GKN Driveshafts (India)
+Ltd v. Income Tax Officer, 13 the assessing officer was also required to furnish reasons for reopening
+assessments and give an opportunity of hearing to the assessee.
+
+5. The Revenue had to follow the following procedure for reopening assessment under the old
+regime:
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+5
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+(i) Section 147 allowed the assessing officer to reassess any income chargeable to tax
+if the officer had “reasons to believe” that such income escaped assessment;
+
+(ii) The assessing officer had to ensure that the notice under Section 148 was issued
+within the time limits prescribed under Section 149;
+
+Section 2(28C) of the Income Tax Act defines Joint Commissioner to mean “a person appointed to
+be a Joint Commissioner of Income-tax or an Additional Commissioner of Income-tax under
+sub-section (1) of section 117.” Section 2(34-A) of the Income Tax Act defines Principal Chief
+Commissioner of Income tax to mean “a person appointed to be a Principal Chief Commissioner of
+Income-tax under sub-section (1) of section 117.” Section 2(15A) of the Income Tax Act defines a
+Chief Commissioner to mean “a person appointed to a Chief Commissioner of Income tax or a
+Director General of Income tax or a Principal Chief Commissioner of Income tax or a Principal
+Director General of Income-tax under sub-section (1) of Section 117.” Section 2(16) defines Principal
+Commissioner or Commissioner to mean “a person appointed to be a Principal Commissioner or
+Commissioner of Income tax or a Principal Director or Director of Income tax or a Principal
+Commissioner of Income tax or a Principal Director of Income tax under sub-section (1) of section
+
+117.” (2003) 1 SCC 72 [5]. It reads:
+
+“5. […] However, we clarify that when a notice under Section 148 of the Income Tax
+Act is issued, the proper course of action for the noticee is to file return and if he so
+desires, to seek reasons for issuing notices. The assessing officer is bound to furnish
+reasons within a reasonable time. On receipt of reasons, the noticee is entitled to file
+objections to issuance of notice and the assessing officer is bound to dispose of the
+same by passing a speaking order. In the instant case, as the reasons have been
+disclosed in these proceedings, the assessing officer has to dispose of the objections,
+if filed, by passing a speaking order, before proceeding with the assessment in respect
+of the abovesaid five assessment years.”] PART A
+
+(iii) The assessing officer had to obtain the sanction of the specified authority under
+Section 151 before issuing a reassessment notice;
+
+(iv) The assessing officer had to grant an opportunity of hearing to the assessee in
+terms of GKN Driveshafts (supra); and
+
+(v) The assessing officer was thereafter empowered to issue a notice of reassessment
+under Section 148.
+
+ii. TOLA
+
+6. On 24 March 2020, the Central Government announced “a complete lockdown for
+the entire nation” for twenty-one days to contain the spread of the COVID-19
+pandemic. 14 Following this, the Central Government sought to implement various
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+6
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+relief measures to redress the challenges faced by the taxpayers in meeting the
+statutory requirements due to the pandemic. 15 On 31 March 2020, the President of
+India promulgated the Taxation and Other Laws (Relaxation of Certain Provisions)
+Ordinance 202016 to extend time limits for completion or compliance of actions
+under the specified Acts falling for completion or compliance between 20 March
+2020 and 29 June 2020 till 30 June 2020. On 24 June 2020, the Central
+Government issued a notification under Section 3(1) of the TOLA Ordinance to
+extend the time limit for completion or compliance of actions under the specified
+Acts till 31 March 2021. 17 Press Information Bureau, PM calls for complete
+l o c k d o w n   o f   e n t i r e   n a t i o n   f o r   2 1   d a y s   ( 2 4   M a r c h   2 0 2 0 )
+https://pib.gov.in/Pressreleaseshare.aspx?PRID=1608009 Press Information
+Bureau, ‘Finance Minister announces several relief measures relating to Statutory
+and Regulatory compliance matters across Sectors in view of COVID-19 outbreak’ (24
+March 2020) available at:
+
+https://pib.gov.in/PressReleseDetail.aspx?PRID=1607942 “TOLA Ordinance” CBDT,
+Notification No. 35 of 2020, dated 24 June 2020.
+
+PART A
+
+7. On 29 September 2020, Parliament enacted TOLA, which came into force with
+retrospective effect from 31 March 2020. 18 Section 2(1)(b) defines “specified Act” to
+mean and include the Income Tax Act. Section 3(1) of TOLA extended the time limit
+for completion or compliance of actions under the “specified Act”, which fell for
+completion or compliance during the period from 20 March 2020 and 31 December
+2020, to 31 March 2021. The relevant part of Section 3 reads thus:
+
+“3(1) Where, any time-limit has been specified in, or prescribed or notified under, the
+specified Act which falls during the period from the 20th day of March, 2020 to the
+31st day of December, 2020, or such other date after the 31st day of December, 2020,
+as the Central Government, may, by notification, specify in this behalf, for the
+completion or compliance of such action as –
+
+(a) completion of any proceedings or passing of any order or issuance of any notice,
+intimation, notification, sanction or approval, or such other action, by whatever name
+called, by any authority, commission or tribunal, by whatever name called, under the
+provisions of the specified Act;
+
+[…] And where completion of compliance of such action has not been made within such time, then,
+the time-
+
+limit for completion or compliance of such action shall, notwithstanding anything contained in the
+specified Act, stand extended to the 31st day of March, 2021, or such other date after 31st day of
+March, 2021, as the Central Government may, by notification, specify in this behalf:” Section 1(2),
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+7
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+TOLA. [It reads: “(2) Save as otherwise provided, it shall be deemed to have come into force on the
+31st day of March, 2020.”] PART A
+
+8. Section 3(1) empowered the Central Government to extend the time limit beyond 31 March 2021
+by a notification. In pursuance of its powers, the Central Government issued the following
+notifications to extend the period of relaxation till 30 June 2021:
+
+a. Notification No. 93 of 2020 dated 31 December 2020 extended the end date to 30
+March 2021. Resultantly, TOLA covered the period between 20 March 2020 to 30
+March 2021;
+
+b. Notification No. 20 of 2021 dated 31 March 2021 specified that 31 April 2021 shall
+be the end date of the time period covered by TOLA. It extended the time limit for
+completion or compliance of actions under the Income Tax Act till 30 April 2021; and
+c. Notification No. 38 of 2021 dated 27 April 2021 extended the time limit for
+completion or compliance of actions till 30 June 2021.
+
+9. The effect of TOLA and the notifications issued under the legislation was that:
+
+(i) if the time prescribed for passing of any order or issuance of any notice, sanction,
+or approval fell for completion or compliance from 20 March 2020 to 31 March 2021;
+and (ii) if the completion or compliance of such action could not be made during the
+stipulated period, then the time limit for completion or compliance of such action
+was extended to 30 June 2021.
+
+iii. Finance Act 2021
+
+10. The Finance Act 2021 substituted the entire scheme of reassessment under
+Sections 147 to 151 of the Income Tax Act with effect from 1 April 2021.
+
+PART A Substantial changes were brought about by the new regime. Broadly speaking, they are
+summarized thus:
+
+(i) Section 148 19 mandates the assessing officer to initiate proceedings only based on
+prior information and with the prior approval of the specified authority;
+
+Section 148, Income Tax Act [It reads:
+
+[“148. Issue of notice where income has escaped assessment - Before making the
+assessment, reassessment or recomputation under section 147, and subject to the
+provisions of section 148A, the Assessing Officer shall serve on the assessee a notice,
+along with a copy of the order passed, if required, under clause (d) of section 148A,
+requiring him to furnish within such period, as may be specified in such notice, a
+return of his income or the income of any other person in respect of which he is
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+8
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+assessable under this Act during the previous year corresponding to the relevant
+assessment year, in the prescribed form and verified in the prescribed manner and
+setting forth such other particulars as may be prescribed; and the provisions of this
+Act shall, so far as may be, apply accordingly as if such return were a return required
+to be furnished under section 139:
+
+Provided that no notice under this section shall be issued unless there is information
+with the Assessing Officer which suggests that the income chargeable to tax has
+escaped assessment in the case of the assessee for the relevant assessment year and
+the Assessing Officer has obtained prior approval of the specified authority to issue
+such notice.
+
+Explanation 1.—For the purposes of this section and section 148A, the information
+with the Assessing Officer which suggests that the income chargeable to tax has
+escaped assessment means,—
+
+(i) any information flagged in the case of the assessee for the relevant assessment
+year in accordance with the risk management strategy formulated by the Board from
+time to time;
+
+(ii) any final objection raised by the Comptroller and Auditor General of India to the
+effect that the assessment in the case of the assessee for the relevant assessment year
+has not been made in accordance with the provisions of this Act.
+
+Explanation 2.—For the purposes of this section, where,—
+
+(i) a search is initiated under section 132 or books of account, other documents or any
+assets are requisitioned under section 132A, on or after the 1st day of April, 2021, in
+the case of the assessee; or
+
+(ii) a survey is conducted under section 133A, other than under sub-section (2A) or
+sub-section (5) of that section, on or after the 1st day of April, 2021, in the case of the
+assessee; or
+
+(iii) the Assessing Officer is satisfied, with the prior approval of the Principal
+Commissioner or Commissioner, that any money, bullion, jewellery or other valuable
+article or thing, seized or requisitioned under section 132 or section 132A in case of
+any other person on or after the 1st day of April, 2021, belongs to the assessee; or
+
+(iv) the Assessing Officer is satisfied, with the prior approval of Principal
+Commissioner or Commissioner, that any books of account or documents, seized or
+requisitioned under section 132 or section 132A in case of any other person on or
+after the 1st day of April, 2021, pertains or pertain to, or any information contained
+therein, relate to, the assessee, the Assessing Officer shall be deemed to have
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+9
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+information which suggests that the income chargeable to tax has escaped
+assessment in the case of the assessee for the three assessment years immediately
+preceding the assessment year relevant to the previous year in which the search is
+initiated or books of account, other documents or any assets are requisitioned or
+survey is conducted in the case of the assessee or money, bullion, jewellery or other
+valuable article or thing or books of account or documents are seized or requisitioned
+in case of any other person.
+
+PART A
+
+(ii) Section 148A 20 requires the assessing officer to provide an opportunity of being heard to the
+assessee before deciding to issue a reassessment notice under Section 148. Section 148A requires the
+assessing officer to:
+
+(a) conduct any enquiry, if required, with the prior approval of the specified
+authority;
+
+(b) provide an opportunity of hearing to the assessee by serving a show cause notice
+with the prior approval of the specified authority;
+
+Explanation 3.—For the purposes of this section, specified authority means the specified authority
+referred to in section 151.] Section 148A, Income Tax Act [It reads:
+
+“Section 148A. Conducting inquiry, providing opportunity before issue of notice
+under section 148. The Assessing Officer shall, before issuing any notice under
+section 148,—
+
+(a) conduct any enquiry, if required, with the prior approval of specified authority,
+with respect to the information which suggests that the income chargeable to tax has
+escaped assessment;
+
+(b) provide an opportunity of being heard to the assessee, with the prior approval of
+specified authority, by serving upon him a notice to show cause within such time, as
+may be specified in the notice, being not less than seven days and but not exceeding
+thirty days from the date on which such notice is issued, or such time, as may be
+extended by him on the basis of an application in this behalf, as to why a notice under
+section 148 should not be issued on the basis of information which suggests that
+income chargeable to tax has escaped assessment in his case for the relevant
+assessment year and results of enquiry conducted, if any, as per clause (a);
+
+(c) consider the reply of assessee furnished, if any, in response to the show-cause notice referred to
+in clause
+
+(b);
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+10
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+(d) decide, on the basis of material available on record including reply of the assessee, whether or
+not it is a Ct case to issue a notice under section 148, by passing an order, with the prior approval of
+specified authority, within one month from the end of the month in which the reply referred to in
+clause (c) is received by him, or where no such reply is furnished, within one month from the end of
+the month in which time or extended time allowed to furnish a reply as per clause (b) expires:
+
+Provided that the provisions of this section shall not apply in a case where,—
+
+(a) a search is initiated under section 132 or books of account, other documents or
+any assets are requisitioned under section 132A in the case of the assessee on or after
+the 1st day of April, 2021; or
+
+(b) the Assessing Officer is satisfied, with the prior approval of the Principal
+Commissioner or Commissioner that any money, bullion, jewellery or other valuable
+article or thing, seized in a search under section 132 or requisitioned under section
+132A, in the case of any other person on or after the 1st day of April, 2021, belongs to
+the assessee; or
+
+(c) the Assessing Officer is satisfied, with the prior approval of the Principal
+Commissioner or Commissioner that any books of account or documents, seized in a
+search under section 132 or requisitioned under section 132A, in case of any other
+person on or after the 1st day of April, 2021, pertains or pertain to, or any
+information contained therein, relate to, the assessee.
+
+Explanation.—For the purposes of this section, specified authority means the specified authority
+referred to in section 151.”] PART A
+
+(c) consider the reply furnished by the assessee in response to the show cause notice; and
+
+(d) decide on the basis of available material, including the reply of the assessee, whether or not it is a
+fit case to issue a notice under Section 148 by passing an order.
+
+(iii) The time limit under Section 149 has been reduced from four years to three years from the end
+of the relevant assessment year for all situations. 21 Assessments can be reopened beyond three
+years but within ten years from the end of the relevant assessment year if the income chargeable to
+tax which has escaped assessment amounts to or is likely to amount to Rupees fifty lakhs or more.
+However, the first Section 149, Income Tax Act. [It reads:
+
+149.Time limit for notice - (1) No notice under section 148 shall be issued for the relevant
+assessment year,—
+
+(a) if three years have elapsed from the end of the relevant assessment year, unless the case falls
+under clause (b);
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+11
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+(b) if three years, but not more than ten years, have elapsed from the end of the relevant assessment
+year unless the Assessing Officer has in his possession books of account or other documents or
+evidence which reveal that the income chargeable to tax, represented in the form of asset, which has
+escaped assessment amounts to or is likely to amount to fifty lakh rupees or more for that year:
+
+Provided that no notice under section 148 shall be issued at any time in a case for the
+relevant assessment year beginning on or before 1st day of April, 2021, if such notice
+could not have been issued at that time on account of being beyond the time limit
+specified under the provisions of clause (b) of sub-section (1) of this section, as they
+stood immediately before the commencement of the Finance Act, 2021:
+
+Provided further that the provisions of this sub-section shall not apply in a case,
+where a notice under section 153A, or section 153C read with section 153A, is
+required to be issued in relation to a search initiated under section 132 or books of
+account, other documents or any assets requisitioned under section 132A, on or
+before the 31st day of March, 2021:
+
+Provided also that for the purposes of computing the period of limitation as per this
+section, the time or extended time allowed to the assessee, as per show-cause notice
+issued under clause (b) of section 148A or the period during which the proceeding
+under section 148A is stayed by an order or injunction of any court, shall be excluded:
+
+Provided also that where immediately after the exclusion of the period referred to in
+the immediately preceding proviso, the period of limitation available to the Assessing
+Officer for passing an order under clause
+
+(d) of section 148A is less than seven days, such remaining period shall be extended
+to seven days and the period of limitation under this sub- section shall be deemed to
+be extended accordingly.
+
+Explanation.—For the purposes of clause (b) of this sub-section, "asset" shall include immovable
+property, being land or building or both, shares and securities, loans and advances, deposits in bank
+account. (2) The provisions of sub-section (1) as to the issue of notice shall be subject to the
+provisions of section
+
+151.] PART A proviso to Section 149 prohibits the issuance of a reassessment notice under the new
+regime if such notices have become time-barred under the old regime; and
+
+(iv) The sanctioning authorities specified under Section 151 of the new regime are different from
+those specified under the old regime.22 Section 151 of the new regime specifies the following
+authorities for Section 148 and 148A: (i) Principal Commissioner or Principal Director 23 or
+Commissioner or Director if three years or less have elapsed from the end of the relevant assessment
+year; and (ii) Principal Chief Commissioner or Principal Director General or Chief Commissioner or
+Director General if more than three years have elapsed from the end of the relevant assessment year.
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+12
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+11. The notifications dated 31 March 2021 and 27 April 2021 issued by the Central Government
+under Section 3(1) of TOLA contained an explanation declaring that the provisions under the old
+regime shall apply to the reassessment proceedings initiated under them.24 Thus, the notifications
+Section 151, Income Tax Act. [It reads:
+
+151. Sanction for issue of notice – Specified authority for the purposes of section 148
+and section 148A shall be, -
+
+(i) Principal Commissioner or Principal Director or Commissioner or Director, if
+three years or less than three years have elapsed from the end of the relevant
+assessment year;
+
+(ii) Principal Chief Commissioner or Principal Director General or where there is no
+Principal Chief Commissioner or Principal Director General, Chief Commissioner or
+Director General, if more than three years have elapsed from the end of the relevant
+assessment year.”] Section 2(21) of the Income Tax Act defines Principal Director
+General or Director General or Principal Director or Director to mean “a person
+appointed to be a Principal Director General or Director General of Income tax or a
+Principal Director General or Director General of Income tax or, as the case may be, a
+Principal Director or Director of Income tax or Principal Director of Income tax,
+under sub-section (1) of Section 117, and includes a person appointed under that
+sub-section to be an Additional Director of Income tax or a Joint Director of Income
+tax or as Assistant Director or Deputy Director of Income tax.” Notification No. 20 of
+2021 dt. 31 March 2021; Notification No. 38 of 2021 dt. 27 April 2021. [The
+explanation reads:
+
+“Explanation – For the removal of doubts, it is hereby clarified that for the purposes
+of issuance of notice under section 148 as per time-limit specified in section 149 or
+sanction under section 151 of the Income-tax Act, under this sub-clause, the
+provisions of section 148, section 149 and section 151 of the Income-tax Act, PART A
+directed the assessing officers to apply the provisions of the old regime for
+reassessment notices issued after 1 April 2021. The assessing officers accordingly
+issued reassessment notices between 1 April 2021 and 30 June 2021 by relying on the
+provisions under Section 148 of the old regime. These reassessment notices were
+challenged by the assesses before various High Courts. 25
+
+12. The High Courts allowed the writ petitions and quashed all the reassessment notices issued
+between 1 April 2021 and 30 June 2021 under the old regime on the ground that: (i) Sections 147 to
+151 stood substituted by Finance Act 2021 from 1 April 2021; 26 (ii) In the absence of any saving
+clause, the Revenue could initiate reassessment proceedings after 1 April 2021 only in accordance
+with the provisions of the new regime since they were remedial, beneficial, and meant to protect the
+rights and interests of the assesses;27 and (iii) the Central Government could not exercise its
+delegated authority to “re-activate the pre-existing law.” 28
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+13
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+13. In Union of India v. Ashish Agarwal, 29 this Court held that it was “in complete agreement with
+the view taken by various High Courts in holding” that “the benefit of the new provisions shall be
+made available even in respect as the case may be, as they stood as on the 31st day of March 2021,
+before the commencement of the Finance Act, 2021, shall apply.”] See: Ashok Kumar Agarwal v.
+Union of India, 2021 SCC OnLine All 799; Vellore Institute of Technology v. CBDT, 2022 SCC
+OnLine Mad 2213; Tata Communications Transformation Services Ltd v. ACIT, 2022 SCC OnLine
+Bom 664; Bagaria Properties and Investment Pvt Ltd v. Union of India, 2022 SCC OnLine Cal 1093;
+Mon Mohan Kohli v. ACIT, 2021 SCC OnLine Del 5250; Sudesh Taneja v. ITO, 2022 SCC OnLine
+Raj 937; Manoj Jain v. Union of India, 2022 SCC OnLine Cal 1369.
+
+Sudhesh Taneja (supra) [36] Ashok Kumar Agarwal (supra) [66]; Mon Mohan Kohli (supra) [66];
+Tata Communications Transformation Services (supra) [34] Ashok Kumar Agarwal (supra) [80];
+Sudesh Taneja (supra) [40]; Mon Mohan Kohli [49]; Tata Communications Transformation Services
+[49] (2023) 1 SCC 617 PART A of the proceedings relating to past assessment years, provided
+Section 148 notice has been issued on or after 1-4-2021.” However, the Court observed that the
+Revenue issued the reassessment notices under a “bona fide belief that the amendments may not yet
+have been enforced.” This Court exercised its discretionary jurisdiction under Article 142 in order to
+balance the interests of the Revenue and the assesses and directed that the reassessment notices
+issued under the old regime shall be deemed to have been issued under Section 148-A(b) of the new
+regime. This Court issued the following directions:
+
+“28. In view of the above and for the reasons stated above, the present appeals are
+allowed in part. The impugned common judgments and orders passed by the High
+Court of Judicature at Allahabad in WT No. 524 of 2021 and other allied tax
+appeals/petitions, is/are hereby modified and substituted as under:
+
+28.1. The impugned Section 148 notices issued to the respective assessees which were
+issued under unamended Section 148 of the IT Act, which were the subject-matter of
+writ petitions before the various respective High Courts shall be deemed to have been
+issued under Section 148-A of the IT Act as substituted by the Finance Act, 2021 and
+construed or treated to be show-cause notices in terms of Section 148-A(b). The
+assessing officer shall, within thirty days from today provide to the respective
+assessees information and material relied upon by the Revenue, so that the assessees
+can reply to the show-cause notices within two weeks thereafter.
+
+28.2. The requirement of conducting any enquiry, if required, with the prior approval
+of specified authority under Section 148-A(a) is hereby dispensed with as a one-time
+measure vis-à-vis those notices which have been issued under Section 148 of the
+unamended Act from 1-4-2021 till date, including those which have been quashed by
+the High Courts.
+
+PART A 28.3. Even otherwise as observed hereinabove holding any enquiry with the prior approval
+of specified authority is not mandatory but it is for the assessing officers concerned to hold any
+enquiry, if required.
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+14
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+28.4. The assessing officers shall thereafter pass orders in terms of Section 148-A(d) in respect of
+each of the assessees concerned; Thereafter after following the procedure as required under Section
+148-A may issue notice under Section 148 (as substituted).
+
+28.5. All defences which may be available to the assessees including those available under Section
+149 of the IT Act and all rights and contentions which may be available to the assessees concerned
+and Revenue under the Finance Act, 2021 and in law shall continue to be available.”
+
+14. On 11 May 2022, the Central Board of Direct Taxes issued an Instruction 30 for the
+implementation of the decision Ashish Agarwal (supra). The Instruction “clarified” that Ashish
+Agarwal (supra) will apply “to all cases where extended reassessment notices have been issued […]
+irrespective of the fact whether such notices have been challenged or not.” Paragraph 6.1 of the
+Instruction stated that the reassessment notices will “travel back in time to their original date when
+such notices were to be issued and then new section 149 of the Act is to be applied at that point.”
+Thus, the Instruction is based on the presumption that the notices issued under Section 148 of the
+new regime will travel back in time to their original dates, that is, the date when the Section 148
+notice under the old regime was issued.
+
+Instruction No. 01/2022 dt. 11 May 2022 PART A
+
+15. Paragraph 6.2 of the Instruction elaborated on the mechanism for issuing notices under Section
+148 of the new regime:
+
+“6.2 Based on the above, the extended assessment notices are to be dealt with as
+under:
+
+AY 2013-14, AY 2014-15 and AY 2015-16: Fresh notice under section 148 of the Act
+can be issued in these cases, with the approval of the specified authority, only if the
+case falls under clause (b) of sub-section (1) of section 149 as amended by the Finance
+Act, 2021 and reproduced in paragraph 6.1 above. Specified authority under section
+151 of the new law in this case shall be the authority prescribed under clause (ii) of
+that section.
+
+AY 16-17, AY 17-18: Fresh notice under Section 148 can be issued in these cases, with
+the approval of the specified authority, under clause (a) of sub-
+
+section (1) of new section 149 of the Act, since they are within the period of three
+years from the end of the relevant assessment year. Specified authority under section
+151 of the new law in this case shall be the authority prescribed under clause (i) of
+that section.”
+
+16. The assessing officers accordingly considered the replies furnished by the assesses and passed
+orders under Section 148A(d). Subsequently, notices under Section 148 of the new regime were
+issued to the assesses by the assessing officers between July and September 2022 for the assessment
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+15
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+years 2013-2014, 2014-2015, 2015-2016, 2016-2017, and 2017-2018. These notices were challenged
+before several High Courts. The High Courts declared the notices to be invalid on the ground that
+they were: (i) time-barred; and (ii) issued without the appropriate sanction of the specified
+authority. PART B
+
+17. In Ashish Agarwal (supra), this Court was called upon to decide whether the Revenue was correct
+in issuing the reassessment notices under the old regime when the new regime, which was beneficial
+to the assesses, was already in force. This Court resolved the issue by holding that all reassessment
+notices issued after 1 April 2021 should have been issued in accordance with the new regime.
+However, the Court construed the notices issued under Section 148 of the old regime by deeming
+them to be notices issued under Section 148A(b) of the new regime. In Ashish Agarwal (supra), this
+Court did not deal with the issue of whether or not the reassessment notices were issued within the
+time limits prescribed under the provisions of the Income Tax Act read with the relaxations
+provided under TOLA. This is the primary issue that comes up for our consideration in the present
+batch of appeals.
+
+B. Issues
+
+18. The present batch of appeals gives rise to the following issues:
+
+a. Whether TOLA and notifications issued under it will also apply to reassessment
+notices issued after 1 April 2021; and b. Whether the reassessment notices issued
+under Section 148 of the new regime between July and September 2022 are valid.
+
+(cid:12)                                                                             PART C
+
+C.    Submissions
+
+19. Mr N Venkataraman, learned Additional Solicitor General of India, made the
+following submissions on behalf of the Revenue:
+
+a. Parliament enacted TOLA as a free-standing legislation to provide relief and
+relaxation to both the assesses and the Revenue during the time of COVID-
+
+19. TOLA seeks to relax actions and proceedings that could not be completed or complied with
+within the original time limits specified under the Income Tax Act;
+
+b. Section 149 of the new regime provides three crucial benefits to the assesses: (i) the four-year
+time limit for all situations has been reduced to three years; (ii) the first proviso to Section 149
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+16
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+ensures that re-assessment for previous assessment years cannot be undertaken beyond six years;
+and
+
+(iii) the monetary threshold of Rupees fifty lakhs will apply to the re- assessment for previous
+assessment years;
+
+c. The relaxations provided under Section 3(1) of TOLA apply “notwithstanding anything contained
+in the specified Act.” Section 3(1), therefore, overrides the time limits for issuing a notice under
+Section 148 read with Section 149 of the Income Tax Act;
+
+d. TOLA does not extend the life of the old regime. It merely provides a relaxation for the
+completion or compliance of actions following the procedure laid down under the new regime;
+
+e. The Finance Act 2021 substituted the old regime for re-assessment with a new regime. The first
+proviso to Section 149 does not expressly bar the application of TOLA. Section 3 of TOLA applies to
+the entire Income Tax Act, PART C including Sections 149 and 151 of the new regime. Once the first
+proviso to Section 149(1)(b) is read with TOLA, then all the notices issued between 1 April 2021 and
+30 June 2021 pertaining to assessment years 2013-2014, 2014-2015, 2015-2016, 2016-2017, and
+2017-2018 will be within the period of limitation as explained in the tabulation below:
+
+Assessment        Within 3        Expiry of         Within six        Expiry of
+   Year            Years          Limitation         Years            Limitation
+                                  read with                           read with
+    (1)              (2)         TOLA for (2)             (4)        TOLA for (4)
+
+                                       (3)                                (5)
+
+2013-2014        31.03.2017        TOLA not         31.03.2020        30.06.2021
+                                  applicable
+2014-2015        31.03.2018        TOLA not         31.03.2021        30.06.2021
+                                  applicable
+2015-2016        31.03.2019        TOLA not         31.03.2022        TOLA not
+                                  applicable                          applicable
+2016-2017        31.03.2020       30.06.2021        31.03.2023        TOLA not
+                                                                      applicable
+2017-2018        31.03.2021       30.06.2021        31.03.2024        TOLA not
+                                                                      applicable
+
+f. The Revenue concedes that for the assessment year 2015-16, all notices issued on or after 1 April
+2021 will have to be dropped as they will not fall for completion during the period prescribed under
+TOLA;
+
+g. Section 2 of TOLA defines “specified Act” to mean and include the Income Tax Act. The new
+regime, which came into effect on 1 April 2021, is now part of the Income Tax Act. Therefore, TOLA
+continues to apply to the Income Tax Act even after 1 April 2021; and h. Ashish Agarwal (supra)
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+17
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+treated Section 148 notices issued by the Revenue between 1 April 2021 and 30 June 2021 as
+show-cause notices in terms of Section 148A(b). Thereafter, the Revenue issued notices under
+Section 148 PART C of the new regime between July and August 2022. Invalidation of the Section
+148 notices issued under the new regime on the ground that they were issued beyond the time limit
+specified under the Income Tax Act read with TOLA will completely frustrate the judicial exercise
+undertaken by this Court in Ashish Agarwal (supra).
+
+20. Mr Percy Pardiwalla, Mr V Sridharan, Mr Tushar Hemani, Mr Saurabh Soparkar, and Mr K
+Shivram, learned senior counsel, Mr Manish Shah, Mr Darshan Patel, Mr Suhrith Parthasarthy, Mr
+Dharan Gandhi, and Mr Ved Jain, learned counsel, made the following submissions on behalf of the
+respondents:
+
+a. TOLA applies only when the period of limitation expires between 20 March 2020
+and 31 March 2021. Finance Act 2021 was enacted after TOLA.
+
+Consequently, TOLA only held the field till the new regime came into effect from 1
+April 2021. The Revenue had to issue Section 148 notices in terms of the new regime
+without recourse to the extended timelines under TOLA;
+
+b. TOLA did not amend the erstwhile Section 149 but merely extended the specified
+time limits. The first proviso to Section 149(1)(b) only refers to the period of
+limitation under the erstwhile Section 149(1)(b);
+
+c. Notification No. 38 of 2021 was issued on 27 April 2021 to extend the time limits
+expiring under Section 149(1)(b) of the old regime till 30 June 2021.
+
+The notification was issued after 1 April 2021, when the old regime was repealed and
+substituted by a new regime. Therefore, this notification cannot be read into the new
+regime;
+
+d. The notices can be categorized into the following four categories:
+
+PART C i. First category: for assessment years 2013-2014 and 2014-2015, the six-year
+time limit in terms of Section 149 expired on 31 March 2020 and 31 March 2021
+respectively. However, the reassessment notices were issued after 1 April 2021 and
+would be barred by limitation;
+
+ii. Second category: for the assessment year 2015-2016, the issue pertains to whether
+the sanction of the appropriate authority was obtained by the assessing officers
+before issuing re-assessment notices under Section 148 of the old regime. For this
+category of cases, the four-year period expired on 31 March 2020. However, notices
+were issued after 31 March 2020 by obtaining sanction under Section 151(2) instead
+of Section 151(1) of the old regime;
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+18
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+iii. Third category: for assessment years 2016-2017 and 2017-2018, the three-year
+period in terms of the amended regime expired on 31 March 2020 and 31 March
+2021, respectively. The notices under Section 148 were issued after the expiry of three
+years, that is, after 1 April 2021. However, the sanctions were obtained under Section
+151(i) instead of Section 151(ii) of the new regime; and iv. The directions issued by
+this Court in Ashish Agarwal (supra) were not intended to apply to assesses who did
+not challenge the reassessment notices before the High Courts or this Court.
+Therefore, reassessment proceedings could not have been initiated for such assesses.
+
+e. The applicability of the first proviso to Section 149(1)(b) of the new regime has to be tested on the
+date of issuance of notice under Section 148 of the PART D new regime. Even if TOLA is read into
+the Income Tax Act, the time limits for completion or compliance of actions can be extended till 30
+June 2021. However, the notices under Section 148 of the new regime were issued by the Revenue
+from July to September 2022. The period of July to September 2022 is beyond the extended time
+limits stipulated under the Income Tax Act read with TOLA;
+
+f. Ashish Agarwal (supra) cannot be interpreted in a manner to exclude the entire period from April
+2021 to September 2022. The directions issued by this Court under Article 142 of the Constitution
+cannot contravene the substantive provisions contained in the Income Tax Act. Moreover, this Court
+in Ashish Agarwal (supra) expressly left open all the defences available to the assesses under the
+new regime, including the defence of limitation available under Section 149; and g. TOLA is only
+applicable to the provisions that specify time limits. Section 151 does not prescribe any time limit for
+the issuance of sanctions by the specified authorities. Therefore, TOLA does not apply to Section 151.
+
+D.         Legal Background
+
+     i.      Assessment as a quasi-judicial function
+
+21. The power to levy tax is an essential and inherent attribute of sovereignty.31 It is an inherent
+attribute because the government requires funds to discharge its governmental functions. 32
+Taxation is also a recognised fiscal tool to Jindal Stainless Ltd v. State of Haryana, (2017) 12 SCC 1
+[17]; [310] Amrit Banaspati Co. Ltd. v. State of Punjab, (1992) 2 SCC 411 [10]; Dena Bank v.
+Bhikhabhai Prabhudas Parekh & Co., (2000) 5 SCC 694 [8] PART D achieve fiscal and social
+objectives. 33 Although the power to levy taxes is plenary, it is subject to certain well-defined
+limitations. Article 265 of the Constitution provides that no tax shall be levied or collected except by
+authority of law. A taxing statute must be valid and conform to other provisions of the Constitution.
+34
+
+22. Article 265 makes a distinction between “levy” and “collection.” The expression “levy” has a
+wider connotation. It includes both the imposition of a tax as well as assessment. 35 The quantum of
+tax levied by a taxing statute, the conditions subject to which it is levied, and how it is sought to be
+recovered are all matters within the competence of the legislature.36 In a taxing statute, the
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+19
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+charging provisions are generally accompanied by a set of provisions for computing or assessing the
+levy. The character of assessment provisions bears a relationship to the nature of the charge. 37
+
+23. Thomas Cooley describes assessment as the most important of all the proceedings in taxation.
+He further describes the necessity of assessment thus:
+
+“An assessment, when taxes are to be levied upon a valuation, is obviously
+indispensable. It is required as the first step in the proceedings against individual
+subjects of taxation, and is the foundation of all which follow it. Without an
+assessment they have no support, and are nullities. The assessment is, therefore, the
+most important of all the proceedings in taxation, and the provisions to insure its
+accomplishing its office are commonly very full and particular. If there is no valid
+assessment, a tax on Elel Hotels & Investments Ltd v. Union of India, (1989) 3 SCC
+698 [20] Mafatlal Industries Ltd v. Union of India, (1997) 5 SCC 536 [25] CCE v.
+National Tobacco Co. of India Ltd., (1972) 2 SCC 560 [19] Rai Ramkrishna v. State of
+Bihar, (1963) SCC OnLine SC 31 [12] CIT v. B C Srinivasa Setty, (1981) 2 SCC 460
+[10] PART D sale of lands is a nullity. A want of assessment is not a mere irregularity
+remedied by a curative statute.
+
+On the other hand, no assessment is necessary where the statute itself prescribes the
+amount to be paid, and this can be recovered by suit. For instance, where a statute
+imposes a tax at a specified rate upon bank deposits, no other assessment other than
+that made by the statute itself is necessary.” 38
+
+24. The expression “assessment” comprehends the entire procedure for ascertaining and imposing
+liability upon taxpayers. 39 The process of assessment involves computation of the income of the
+assessees, determination of tax payable by them, and the procedure for collecting or recovering tax.
+40 An assessing officer is concerned with the assessment and collection of revenue. An assessing
+officer must administer the provisions of the Income Tax Act in the interests of the public revenue
+and to prevent evasion or escapement of tax legitimately due to the State.41
+
+25. In Province of Bombay v. Khushaldas S Advani, 42 Justice S R Das (as the learned Chief Justice
+then was), in his concurring opinion observed that if a statutory authority has the power to perform
+any act that will prejudicially affect the subject, then although there are no two parties apart from
+the authority and the contest is between the authority proposing to do the act and Thomas Cooley,
+The Law of Taxation (4th edn, 1924) 2116 Kalawati Devi Harlalka v. CIT, 1967 SCC OnLine SC 44;
+Addl ITO v. E Alfred, 1961 SCC OnLine SC 243 [7]; S Sankappa v. ITO, 1967 SCC OnLine SC 25 [3];
+CCE v. National Tobacco Co. of India, (1972) 2 SCC 560 [19] [“19. […] The term “assessment”, on the
+other hand, is generally used in this country for the actual procedure adopted in fixing liability to
+pay a tax on account of particular goods of property or whatever may be the object of the tax in a
+particular case and determining its amount.”] Bhopal Sugar Industries Ltd v. State of Madhya
+Pradesh, (1979) 3 SCC 792 [12] M M Ipoh v. CIT, 1967 SCC OnLine SC 40 [14] 1950 SCC OnLine SC
+26 [80]; Also see Express Newspaper (P) Ltd. v. Union of India, 1958 SCC OnLine SC 23 [111] PART
+D the subject opposing it, the final determination of the authority will be quasi- judicial provided the
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+20
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+authority is required by the statute to act judicially. A quasi-judicial authority is under an obligation
+to act judicially. 43
+
+26. An assessment acquires finality on the making of an assessment order by the assessing officer.
+44 It creates a vested right in favour of the assessee. 45 Section 2(8) of the Income Tax Act defines
+“assessment” to include reassessment. Reassessment is nothing but a fresh assessment. 46 The
+effect of reopening the assessment is to vacate or set aside the order of assessment and to substitute
+in its place the order of reassessment. 47 The procedure of reassessment of tax is quasi-judicial
+because it prejudicially affects the vested rights 48 of the assessee. In CIT v. Simon Carves Ltd.,49
+Justice H R Khanna, speaking for a Bench of three Judges, explained the quasi-judicial function
+performed by the assessing officers during the process of assessment and reassessment thus:
+
+“10. […] The taxing authorities exercise quasi- judicial powers and in doing so they
+must act in a fair and not a partisan manner. Although it is part of their duty to
+ensure that no tax which is legitimately due from an assessee should remain
+unrecovered they must also at the same time not act in a manner as might indicate
+that scales are weighted against the assessee. We are wholly unable to subscribe to
+the view that unless those authorities exercise the power in a manner most beneficial
+to the revenue and consequently most adverse to the assessee, they Gullapalli
+Nageswara Rao v. State of A P, 1959 SCC OnLine SC 53 [6] Indian & Eastern
+Newspaper Society v. CIT, (1979) 4 SCC 248 [5]; K T Moopil Nair v. State of Kerala,
+1960 SCC OnLine SC 7 [9] CED v. M A Merchant, 1989 Supp (1) SCC 499 [8] CST v.
+H M Esufali, H M Abdali, (1973) 2 SCC 137 [17] Deputy Commissioner of Commercial
+Taxes v. H R Sri Ramulu, (1977) 1 SCC 703 [7] See Income Tax Officer v. S K
+Habibullah, 1962 SCC OnLine SC 58 [7] (1976) 4 SCC 435 PART D should be deemed
+not to have exercised it in a proper and judicious manner.”
+
+27. Since the assessing officers perform a quasi-judicial function during reassessment, the powers
+vested in them are regulated by law. 50 The process of reassessment is generally preceded by
+administrative proceedings, which require the assessing officer to obtain the sanction of the
+specified authorities. 51 The taxing statutes generally lay down the procedure for issuance of notice
+to the proposed assessee in respect of income or property proposed to be taxed. It also prescribes
+the authority and procedure for hearing any objections to the liability for taxation. 52 ii. Assessment
+as an issue of jurisdiction
+
+28. Jurisdiction is defined as the power of a court, tribunal, or authority to hear and determine a
+cause or exercise any judicial power concerning such cause. 53 The Revenue officers must have
+requisite jurisdiction to perform their functions and responsibilities following the provisions of the
+Income Tax Act. Under the Income Tax Act 1922, 54 Section 34 allowed an Income Tax Officer to
+reassess income that escaped assessment for a relevant assessment year. Section 34 provided that a
+reassessment notice could not be issued beyond the prescribed time limit (which was generally
+within eight years from the end Supdt. of Taxes v. Onkarmal Nathmal Trust, (1976) 1 SCC 766 [37];
+S Narayanappa v. CIT, 1966 SCC OnLine SC 173 [4] [“4. […] The proceedings for assessment or re-
+assessment under Section 34(1)(a) of the Income Tax Act start with the issue of a notice and it is
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+21
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+only after the service of the notice that the assessee, whose income in sought to be assessed or
+re-assessed, becomes a party to those proceedings. The earlier stage of the proceeding for recording
+the reasons of the Income Tax Officer and for obtaining the sanction of the Commissioner are
+administrative in character and are not quasi-judicial.] K T Moopil Nair v. State of Kerala, 1960 SCC
+OnLine SC 7 [9] In Re: Interplay between Arbitration Agreements under the Arbitration and
+Conciliation Act 1996 and the Indian Stamp Act 1899, 2023 INSC 1066 [125] “Income Tax Act 1922”
+PART D of the relevant assessment year). Thus, Section 34 conferred jurisdiction on Income Tax
+Officers to reopen an assessment subject to the issuance of notice within the prescribed time limits.
+55 In Ahmedabad Manufacturing and Calico Printing Co. Ltd. v. S G Mehta, ITO,56 Justice M
+Hidayatullah (as the learned Chief Justice then was), writing for himself and Justice Raghubar
+Dayal, observed:
+
+“It must be remembered that if the Income-tax Act prescribes a period during which
+the tax due in any particular assessment year may be assessed, then on the expiry of
+that period the department cannot make an assessment. Where no period is
+prescribed that assessment can be completed at any time but once completed it is
+final. Once a final assessment has been made, it can only be reopened to rectify a
+mistake apparent from the record (section 35) or to reassess where there has been an
+escapement of assessment of income for one reason or another (section 34). Both
+these sections which enable reopening of back assessments provide their own periods
+of time for action but all these periods of time, whether for the first assessment or for
+rectification, or for reassessment, merely create a bar when that time passed against
+the machinery set up by the Income-tax Act for the assessment and levy of the tax.
+They do not create an exemption in favour of the assessee or grant an absolution on
+the expiry of the period. The liability is not enforceable but the tax may again become
+exigible if the bar is removed and the taxpayer is brought within the jurisdiction of
+the said machinery by reasons of a new power. This is, of course, subject to the
+condition that the law must say that such is the jurisdiction, either expressly or by
+clear implication. If the language of the law has that clear meaning, it must be given
+that effect and where the language expressly so declares or clearly implies it, the
+retrospective R K Upadhyaya v. Shanabhai Patel, (1987) 3 SCC 96 [2] 1962 SCC
+OnLine SC 73 PART D operation is not controlled by the commencement clause.”
+
+29. In S S Gadgil v. Lal & Co., a three-Judge Bench of this Court held that the period prescribed
+under Section 34 of the Income Tax Act 1922 “is not a period of limitation.” 57 It was further
+observed that Section 34 “imposes a fetter upon the power of the Income Tax Officer to bring to tax
+escaped income” by prescribing “different periods in different classes of cases for enforcement of the
+right of the States to recover tax.”58 Under Section 34, Income Tax Officers were statutorily barred
+from issuing a notice of assessment or reassessment after the expiry of the statutory time limit
+prescribed under the Income Tax Act. Consequently, reassessment notices issued by the Revenue
+beyond the prescribed time limits were declared invalid for being time-barred.59 Assessment
+proceedings that have attained finality under existing law due to a time bar cannot be held to be
+open for revival unless the amended provision is given retrospective effect to allow upsetting the
+legal proceedings.60
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+22
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+30. If a statute expressly confers a power or imposes a duty on a particular authority, then such
+power or duty must be exercised or performed by that authority itself. 61 Further, when a statute
+vests certain power in an authority to be exercised in a particular manner, then that authority has to
+exercise its power following the prescribed manner.62 Any exercise of power by statutory 1964 SCC
+OnLine SC 112 [10] S S Gadgil (supra) [10] CIT v. Robert J Sas, (1963) 48 ITR 177; CIT v. Thayaballii
+Mulla Jeevaji Kapasi, 1967 SCC OnLine SC
+
+352. CIT v. Onkarmal Meghraj, (1974) 3 SCC 349 [11]; K M Sharma v. ITO, (2002) 4 SCC 339 [14];
+M A Merchant (supra) [8] Dr Premchandran Keezhoth v. Chancellor, Kannur University, 2023 SCC
+OnLine SC 1592 [73] CIT v. Anjum M.H. Ghaswala, (2002) 1 SCC 633 [27]; State of U P v. Singhara
+Singh, 1963 SCC OnLine SC 23 [8] PART D authorities inconsistent with the statutory prescription
+is invalid. 63 Section 34 of the Income Tax Act 1922 prescribed a duty on Income Tax Officers to
+seek prior approval of the Commissioner before issuing a reassessment notice. In CIT v. Maharaja
+Pratapsingh Bahadur of Gidhaur, 64 a three-Judge Bench of this Court held that a notice issued
+under Section 34 without prior approval of the Commissioner was invalid.
+
+31. The Income Tax Act 1961 also mandates assessing officers to fulfil certain pre-conditions before
+issuing a notice of reassessment. Section 149 requires assessing officers to issue a notice of
+reassessment under Section 148 within the prescribed time limits. Further, Section 151 requires
+assessing officers to obtain sanction of the specified authority before issuing notice under Section
+
+148. In Chhugamal Rajpal v. S P Chaliha, a three-Judge Bench of this Court held that Section 151
+must be strictly adhered to because it contains “important safeguards.” 65
+
+32. A statutory authority may lack jurisdiction if it does not fulfil the preliminary conditions laid
+down under the statute, which are necessary to the exercise of its jurisdiction. 66 There cannot be
+any waiver of a statutory requirement or provision that goes to the root of the jurisdiction of
+assessment. 67 An order passed without jurisdiction is a nullity. Any consequential order passed or
+action taken will also be invalid and without jurisdiction. 68 Thus, the power of Tata Chemicals Ltd.
+v. Commissioner of Customs, (2015) 11 SCC 628 [18] 1960 SCC OnLine SC 55 [6] (1971) 1 SCC 453
+[5] Chhotobhai Jethabhai Patel v. Industrial Court, Maharashtra, (1972) 2 SCC 46 [16]
+Superintendent of Taxes v. Onkarmal Nathmal Trust, (1976) 1 SCC 766 [28] Dwarka Prasad Agarwal
+v. B D Agarwal, (2003) 6 SCC 230 [37] PART D assessing officers to reassess is limited and based on
+the fulfilment of certain preconditions. 69 iii. Principles of strict interpretation and workability
+
+33. The dominant purpose in interpreting a taxing statute is to ascertain the intention of the
+legislature to impose a charge. 70 A literal rule of construction requires the language of a statute to
+be construed according to its literal and grammatical meaning, whatever the result may be. 71 In
+comparison, a strict interpretation of a statute does not encompass strict literalism, which leads to
+absurdity or goes against the express legislative intent. 72 The principle of strict interpretation
+requires the courts to interpret and decipher the meaning of the words of the statute in their usual
+sense. 73
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+23
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+34. Taxing statutes are interpreted by following the principles of strict interpretation.74 While
+interpreting a taxing statute, there is no room for any intendment. 75 A taxing statute must be
+construed by having regard to the strict letter of the law. 76 In a taxing statute, it is not possible to
+assume any intention or governing purpose more than what is stated in the plain language. A taxing
+statute can successfully impose liability on persons or property only if it frames appropriate
+provisions to that end. The courts cannot plug in a loophole in a taxing statute “by a strained
+construction in reference to the CIT v. Kelvinator of India Ltd, (2010) 2 SCC 723 [6]. [“6. […]
+Reassessment has to be based on the fulfilment of certain precondition […]”] Banarsi Debi v. ITO,
+1964 SCC OnLine SC 48 [6] Punjab Land Development and Reclamation Corporation Ltd. v.
+Presiding Officer, Labour Court (1990) 3 SCC 682 [67] Commissioner of Customs v. Dilip Kumar &
+Co., (2018) 9 SCC 1 [28] State of Gujarat v. Mansukhbhai Kanjibhai Shah, (2020) 20 SCC 360 [24]
+G P Singh, Principles of Statutory Interpretation (15th edn, 2023) 616. Cape Brandy Syndicate v.
+Inland Revenue Commissioners, (1921) KB 64, 71 A V Fernandes v. State of Kerala, 1957 SCC
+OnLine SC 23 PART D supposed intention of the Legislature.”77 Further, the considerations of
+equity or justice are not relevant in interpreting a taxing statute. 78
+
+35. It is a well-accepted rule of construction that in situations where the interpretation of taxing
+legislation is ambiguous or leads to two possible interpretations, the interpretation most beneficial
+to the subject of the tax should be adopted.79 It would not be an unjust result if a taxpayer escapes
+the tax net on account of the legislature’s failure to express itself clearly.80
+
+36. In a taxing statute, the charging section has to be construed strictly, but the machinery
+provisions must be interpreted in accordance with the ordinary rules of statutory interpretation.81
+The purpose is to give effect to the clear intention of the legislature. In Murarilal Mahabir Prasad v.
+B R Vad, 82 this Court held that:
+
+“29. […] There is no equity about a tax in the sense that a provision by which a tax is
+imposed has to be construed strictly, regardless of the hardship that such a
+construction may cause either to the treasury or to the taxpayer. If the subject falls
+squarely within the letter of law he must be taxed, howsoever inequitable the
+consequences may appear to the judicial mind. If the Revenue seeking to tax cannot
+bring the subject within the letter of law, the subject is free no matter that such a
+construction may cause serious prejudice to the Revenue. In other words, though
+what is called equitable construction may be admissible in relation to other statutes
+or other provisions of a taxing statute, such a construction is Muralilal Mahabir
+Prasad v. B R Vad, (1975) 2 SCC 736 [28] ITO v. T S Devinatha Nadar, 1967 SCC
+OnLine SC 52 [30] Central India Spinning and Waving Co. Ltd. v. Municipal
+Committee, 1957 SCC OnLine SC 18 [5]; CIT v. Shahzada Nand & Sons, 1966 SCC
+OnLine SC 24 [10]; T S Devinatha Nadar (supra) [25]; Voltas Ltd. v. State of Gujarat,
+(2015) 7 SCC 527 [24] CIT v. Jargaon Electric Supply Co. Ltd., 1960 SCC OnLine SC
+105 [7]; State of W B v. Kesoram Industries Ltd., (2004) 10 SCC 201 [106] Mahim
+Patram (P) Ltd. v. Union of India, (2007) 3 SCC 668 [25] (1975) 2 SCC 736 [29]
+PART D not admissible in the interpretation of a charging or taxing provision of a
+taxing statute.”
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+24
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+37. A statute is designed to be workable. A statutory provision must be construed in a manner to
+make it workable to achieve the purpose of the legislation. 83 A construction that fails to achieve the
+manifest purpose of legislation or reduces the statutory provisions to futility should be avoided. 84
+The machinery provisions must be construed to effectuate the object and purpose of a statute and
+not defeat them. In J K Synthetics Ltd. v. CTO, 85 a Constitution Bench of this Court observed:
+
+“16. It is well-known that when a statute levies a tax it does so by inserting a charging
+section by which a liability is created or fixed and then proceeds to provide the
+machinery to make the liability effective. It, therefore, provides the machinery for the
+assessment of the liability already fixed by the charging section, and then provides
+the mode for the recovery and collection of tax, including penal provisions meant to
+deal with defaulters. Provision is also made for charging interest on delayed
+payments, etc. Ordinarily the charging section which fixes the liability is strictly
+construed but that rule of strict construction is not extended to the machinery
+provisions which are construed like any other statute. The machinery provisions
+must, no doubt, be so construed as would effectuate the object and purpose of the
+statute and not defeat the same.” (emphasis supplied) K P Mohammed Salim v. CIT,
+(2008) 11 SCC 573 [14];
+
+Mohan Kumar Singhania v. Union of India, 1992 Supp (1) SCC 594 [52]; CIT v.
+Hindustan Bulk Carriers, (2003) 3 SCC 57 [17] (1994) 4 SCC 276 PART D
+
+38. The provisions in a taxing statute dealing with machinery for assessment have to be construed in
+accordance with the intention of the legislature to make the charge levied effective. 86 While
+interpreting provisions that set up the machinery of assessment, the rule is that construction should
+be preferred which makes the machinery workable 87 and furthers the intention of the legislature.
+88 In CIT v. Sun Engineering Works (P) Ltd., 89 a two-Judge Bench of this Court observed that the
+provision dealing with reassessment contained in Section 147 of the Income Tax Act was for the
+benefit of the Revenue:
+
+“40. Although, Section 147 is part of a taxing statute, it imposes no charge on the
+subject but deals merely with the machinery of assessment and in interpreting a
+provision of that kind, the rule is that construction should be preferred which makes
+the machinery workable. Since the proceedings under Section 147 of the Act are for
+the benefit of the Revenue and not an assessee and are aimed at gathering the
+‘escaped income’ of an assessee, the same cannot be allowed to be converted as
+‘revisional’ or ‘review’ proceedings at the instance of the assessee, thereby making the
+machinery unworkable.” iv. Principle of harmonious construction
+
+39. The legislature is presumed to enact a consistent and harmonious body of laws in deference to
+the rule of law. 90 In case of any apparent conflict within a provision or between two provisions of
+the same statute, the courts must read the provisions harmoniously. 91 The principle of harmonious
+construction Gursahai Saigal v. CIT, (1963) 48 ITR (SC) 1 [9] CIT v. Mahaliram Ramjidas, AIR 1940
+PC 124;
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+25
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+Gursahai Saigal (supra) [13] (1992) 4 SCC 363 [40] MCD v. Shiv Shanker, (1971) 1 SCC 442 [5]
+Sultana Begum v. Prem Chand Jain, (1997) 1 SCC 373 [15] PART D requires courts to bring about a
+reconciliation between seemingly conflicting provisions to give effect to both. An interpretation
+which reduces one of the provisions to a “dead letter” is not a harmonious construction. The
+principle of harmonious construction also applies to reconcile two seemingly conflicting provisions
+of different statutes. 92
+
+40. A legislature often appends a non obstante clause to a provision to give it an overriding effect
+over provisions contained in the same statute or a separate statute. 93 The purpose of incorporating
+a non obstante clause in a provision is to prohibit the operation and effect of all contrary provisions.
+94 In Chadavarkar Sita Ratna Rao v. Ashalata S Guram, 95 Justice Sabyasachi Mukharji (as the
+learned Chief Justice then was) explained the purpose of a non obstante clause thus:
+
+“67. A clause beginning with the expression “notwithstanding anything contained in
+this Act or in some particular provision in the Act or in some particular Act or in any
+law for the time being in force, or in any contract” is more often than not appended to
+a section in the beginning with a view to give the enacting part of the section in case
+of conflict an overriding effect over the provision of the Act or the contract mentioned
+in the non obstante clause. It is equivalent to saying that in spite of the provision of
+the Act or any other Act mentioned in the non obstante clause or any contract or
+document mentioned the enactment following it will have its full operation or that
+the provisions embraced in the non obstante clause would not be an impediment for
+an operation of the enactment.” In re: Interplay between Arbitration Agreements
+under the Arbitration and Conciliation Act 1996 and the Indian Stamp Act 1899,
+2023 INSC 1066 [165] State of Bihar v. Bihar Rajya MSESKK Mahasangh, (2005) 9
+SCC 129 [45] Union of India v. G M Kokil, 1984 Supp SCC 196 [11] (1986) 4 SCC 447
+PART D
+
+41. A non-obstante clause must be given effect to the extent Parliament intended and not beyond. 96
+In construing a provision containing a non obstante clause, courts must determine the purpose and
+object for which the provision was enacted. 97 The courts are also required to find out the extent to
+which the legislature intended to give one provision overriding effect over another provision. 98 In
+case of a clear inconsistency between two enactments, a provision containing a non obstante clause
+can be given an overriding effect over a provision contained in another statute.
+
+42. Another principle of interpretation is that when two laws are inconsistent or repugnant, the later
+legislation is interpreted as having impliedly repealed the earlier legislation. The principle
+underlying implied repeal is that there is no need for the later enactment to state in express words
+that the earlier enactment has been repealed if the legislative intent to supersede the earlier law is
+manifested through the provisions of the later enactment.99 In MCD v. Shiv Shanker, 100 this Court
+culled out the following principles applicable to the implied repeal of legislation:
+
+a. A subsequent legislation may not be too readily presumed to effectuate a repeal of
+existing statutory laws in the absence of express or at least unambiguous indication
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+26
+
+to that effect;
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+b. Courts must lean against implying a repeal unless the two provisions are so plainly
+repugnant to each other that they cannot stand together and it is not ICICI Bank Ltd
+v. SIDCO Leathers Ltd, (2006) 10 SCC 452 [37] SIDCO Leathers Ltd (supra) [34];
+Geeta v. State of U P, (2010) 13 SCC 678 [45] A G Varadarajulu v. State of Tamil
+Nadu, (1998) 4 SCC 231 [16] State of Orissa v. M A Tulloch, 1963 SCC OnLine SC 18
+[20] (1971) 1 SCC 442 [5] PART D possible on any reasonable hypothesis to give
+effect to both at the same time;
+
+c. It is necessary to closely scrutinise and consider the true meaning and effect of both the earlier
+and the later statute; and d. If the objects of the two statutory provisions are different and the
+language of each statute is restricted to its objects or subject, then they are generally intended to rule
+in parallel lines without meeting and there would be no real conflict.
+
+43. The principle on which the rule of implied repeal rests is that if the subject-
+
+matter of a later legislation is identical to that of an earlier legislation so that they both cannot stand
+together, then the earlier legislation is impliedly repealed by the later legislation. 101 The courts
+have to determine whether the legislature intended the two sets of provisions to be applied
+simultaneously. 102 The presumption against implied repeal is based on the theory that the
+legislature knows the existing laws and does not intend to create any confusion by retaining two
+conflicting provisions or statutes. 103 The test to be applied for the construction of implied repeal is
+whether the new or subsequent law is inconsistent with or repugnant to the old law. The
+inconsistency or repugnancy should clearly and manifestly reveal an intention to repeal the existing
+laws. 104 The inconsistency or repugnancy must be such that the two statutes cannot be reconciled
+on reasonable construction or Zaverbhai Amaidas v. State of Bombay, (1954) 2 SCC 345 [16] Ratan
+Lal Adukia v. Union of India, (1989) 3 SCC 537 [18] Pradeep S Wodeyar v. State of Karnataka,
+(2021) 19 SCC 62 [69] Municipal Council Palai v. T J Joseph, 1963 SCC OnLine SC 55 [10] PART E
+hypothesis. To determine whether a later statute repeals by implication an earlier statute, it is
+necessary to examine the scope and object of the two enactments by comparison of their provisions.
+105 Implied repeal should be avoided, if possible, where both the statutes can stand together.106
+
+44. We now proceed to analyse the issues given the broad legislative and judicial background
+discussed above.
+
+E.         Reading TOLA into the Income Tax Act
+
+      i.    First proviso to Section 149(1) of the new regime
+
+45. The first proviso to Section 149(1)(b) provides thus:
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+27
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+“149. (1) No notice under section 148 shall be issued for the relevant assessment year,
+-
+
+(a) If three years have elapsed from the end of the relevant assessment year, unless
+the case falls under clause (b);
+
+(b) If three years, but not more than ten years, have elapsed from the end of the
+relevant assessment year unless the Assessing Officer has in possession of books of
+account or other documents or evidence which reveal that the income chargeable to
+tax, represented in the form of asset, which has escaped assessment amounts to or is
+likely to amount to fifty lakh rupees or more for that year:
+
+Provided that no notice under section 148 shall be issued at any time in a case for the
+relevant assessment year beginning on or before 1st day of April 2021, if such notice
+could not have been issued at that time on account of being State of M P v. Kedia
+Leather & Liquor Ltd., (2003) 7 SCC 389 [15] Harshad S Mehta v. State of
+Maharashtra, (2001) 8 SCC 257 [31] PART E immediately beyond the time limit
+specified under the provisions of clause (b) of sub-section (1) of this section, as they
+stood immediately before the commencement of the Finance Act, 2021:” (emphasis
+supplied)
+
+46. The ingredients of the proviso could be broken down for analysis as follows:
+
+(i) no notice under Section 148 of the new regime can be issued at any time for an
+assessment year beginning on or before 1 April 2021; (ii) if it is barred at the time
+when the notice is sought to be issued because of the “time limits specified under the
+provisions of” 149(1)(b) of the old regime. Thus, a notice could be issued under
+Section 148 of the new regime for assessment year 2021-2022 and before only if the
+time limit for issuance of such notice continued to exist under Section 149(1)(b) of
+the old regime.
+
+47. In CTO v. Biswanath Jhunjhunwalla, 107 the Bengal Sales Tax Rules 1941 empowered the
+Commissioner to revise any assessment within four years from the date of assessment.
+Subsequently, the State Government issued a notification following the law to extend the time limit
+from four years to six years from the date of assessment. The extension of the time limit was
+challenged by the respondents on the ground that the assessments which had attained finality
+because of the expiry of the period of four years could not be reassessed. This Court observed that it
+was the clear intention of the notification to permit the Commissioner to revise any assessment
+made or order passed, provided the assessment had not been made before six years. (1996) 5 SCC
+626 PART E It was held that if the legislative intention is clear and the language is unambiguous,
+full effect must be given to the legislative intention by reading the notification as applying not only
+to the incomplete assessments but also to assessments that had reached finality because of lapse of
+the earlier prescribed period. The principle that emanates from Biswanath Jhunjhunwalla (supra) is
+that the courts should give full effect to the legislative intention of granting reassessment powers to
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+28
+
+assessing officers unless the legislature, by express provision, states otherwise.
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+48. Notices have to be judged according to the law existing on the date the notice is issued. Section
+149 of the old regime primarily provided two time limits: (i) four years for all situations and (ii)
+beyond four years and within six years if the income chargeable to tax which escaped assessment
+amounted to Rupees one lakh or more. After 1 April 2021, the time limits prescribed under the new
+regime came into force. The ordinary time limit of four years was reduced to three years. Therefore,
+in all situations, reassessment notices could be issued under the new regime if not more than three
+years have elapsed from the end of the relevant assessment year. For example, for assessment year
+2018-2019, the four year period would have expired on 31 March 2023 under the old regime.
+However, if the notice is issued after 1 April 2021, the three year time limit prescribed under the new
+regime will be applicable. The three year time limit will expire on 31 March 2022.
+
+49. The first proviso to Section 149(1)(b) requires the determination of whether the time limit
+prescribed under Section 149(1)(b) of the old regime continues to exist for the assessment year
+2021-2022 and before. Resultantly, a notice PART E under Section 148 of the new regime cannot be
+issued if the period of six years from the end of the relevant assessment year has expired at the time
+of issuance of the notice. This also ensures that the new time limit of ten years prescribed under
+Section 149(1)(b) of the new regime applies prospectively. For example, for the assessment year
+2012-2013, the ten year period would have expired on 31 March 2023, while the six year period
+expired on 31 March 2019. Without the proviso to Section 149(1)(b) of the new regime, the Revenue
+could have had the power to reopen assessments for the year 2012- 2013 if the escaped assessment
+amounted to Rupees fifty lakhs or more. The proviso limits the retrospective operation of Section
+149(1)(b) to protect the interests of the assesses.
+
+50. Another important change under Section 149(1)(b) of the new regime is the increase in the
+monetary threshold from Rupees one lakh to Rupees fifty lakhs. The old regime prescribed a time
+limit of six years from the end of the relevant assessment year if the income chargeable to tax which
+escaped assessment was more than Rupees one lakh. In comparison, the new regime increases the
+time limit to ten years if the escaped assessment amounts to more than Rupees fifty lakhs. This
+change could be summarized thus:
+
+             Regime                   Time limit          Income chargeable to
+                                                              tax which has
+                                                          escaped assessment
+           Old regime            Four years but not         Rupees one lakh or
+                                 more than six years               more
+           New regime            Three years but not        Rupees fifty lakhs or
+                                 more than ten years               more
+
+(cid:12)                                                                           PART E
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+29
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+51. Given Section 149(1)(b) of the new regime, reassessment notices could be issued after three years
+only if the income chargeable to tax which escaped assessment is more than Rupees fifty lakhs. The
+proviso to Section 149(1)(b) limits the retrospectivity of that provision with respect to the time limits
+specified under Section 149(1)(b) of the old regime.
+
+52. In Ashish Agarwal (supra), this Court held that the benefit of the new regime must be provided
+for the reassessment conducted for the past periods. The increase of the monetary threshold from
+Rupees one lakh to Rupees fifty lakh is beneficial for the assesses. Mr Venkataraman has also
+conceded on behalf of the Revenue that all notices issued under the new regime by invoking the six
+year time limit prescribed under Section 149(1)(b) of the old regime will have to be dropped if the
+income chargeable to tax which has escaped assessment is less than Rupees fifty lakhs.
+
+53. The position of law which can be derived based on the above discussion may be summarized
+thus: (i) Section 149(1) of the new regime is not prospective. It also applies to past assessment years;
+(ii) The time limit of four years is now reduced to three years for all situations. The Revenue can
+issue notices under Section 148 of the new regime only if three years or less have elapsed from the
+end of the relevant assessment year; (iii) the proviso to Section 149(1)(b) of the new regime
+stipulates that the Revenue can issue reassessment notices for past assessment years only if the time
+limit survives according to Section 149(1)(b) of the old regime, that is, six years from the end of the
+relevant assessment year; and (iv) all notices issued invoking the time limit under Section 149(1)(b)
+of the old regime will have to be dropped if PART E the income chargeable to tax which has escaped
+assessment is less than Rupees fifty lakhs.
+
+ii. TOLA can extend the time limit till 31 June 2021
+
+54. The proviso to Section 149(1)(b) of the new regime uses the expression “beyond the time limit
+specified under the provisions of clause (b) of sub- section (1) of this section, as they stood
+immediately before the commencement of the Finance Act, 2021.” Thus, the proviso specifically
+refers to the time limits specified under Section 149(1)(b) of the old regime. The Revenue accepts
+that without application of TOLA, the time limit for issuance of reassessment notices after 1 April
+2021 expires for assessment years 2013-2014, 2014-2015, 2015-2016, 2016-2017, and 2017-2018 in
+the following manner:
+
+(i) for the assessment years 2013-2014 and 2014-2015, the six year period expires on
+31 March 2020 and 31 March 2021 respectively; and
+
+(ii) for the assessment years 2016-2017 and 2017-2018, the three year period expires
+on 31 March 2020 and 31 March 2021 respectively.
+
+a. Finance Act 2021 substituted the old regime
+
+55. In Shamrao V Parulekar v. District Magistrate, Thana, 108 a Constitution Bench of this Court
+was called upon to decide the validity of the detention of the petitioner under the Preventive
+Detention Amendment Act 1950. 109 The Detention Act 1950 was due to expire on 1 April 1951, but
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+30
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+the legislation was (1952) 2 SCC 1 “Detention Act 1950” PART E amended to prolong its life by
+another year till 1 April 1952. The petitioner was detained on 15 November 1951 and his detention
+would have expired on 1 April 1952 with the expiration of the enactment. However, the Detention
+Act 1950 was amended in 1952, further prolonging its application for six months till 1 October 1952.
+The issue before this Court was whether the prolonging of the Detention Act 1950 also prolonged the
+detention of the petitioner.
+
+56. Justice Vivian Bose, writing for the Constitution Bench, held that the detention continued until
+the expiry of the Detention Act 1950 on 1 October 1952. The learned Judge further observed:
+
+“7. The rule is that when a subsequent Act amends an earlier one in such a way as to
+incorporate itself, or a part of itself, into the earlier, then the earlier Act must
+thereafter be read and construed (except where that would lead to a repugnancy,
+inconsistency or absurdity) as if the altered words had been written into the earlier
+Act with pen and ink and the old words scored out so that thereafter there is no need
+to refer to the amending Act at all. […] Bearing this in mind it will be seen that the
+1950 Act remains the 1950 Act all the way through even with its subsequent
+amendments.
+
+Therefore, the moment the 1952 Act was passed and Section 2 came into operation,
+the Act of 1950 meant the 1950 Act as amended by Section 2, that is to say, the 1950
+Act now due to expire on 1-10-1952.” (emphasis supplied) The principle which
+emanates from Shamrao V Parulekar (supra) is that after an amendment, the
+legislation has to be read along with the amended provisions.
+
+PART E
+
+57. The legislative practice of amendment by substitution is often used by the legislatures. The
+process of substitution of a statutory provision generally involves two steps: first, the existing rule is
+deleted; and second, the new rule is brought into existence in its place. 110 The deletion effectively
+repeals the existing provision. 111 Thus, an amendment by substitution results in the repeal of an
+earlier provision and its replacement by a new provision. 112 The repealed provision will cease to
+operate from the date of repeal and the substituted provision will commence operation from the
+date of its substitution. 113 After the substitution, the legislation must be read and construed as if
+the altered words have been written into the legislation “with pen and ink and the old words scored
+out.” 114 Therefore, after amendment by substitution any reference to a legislation must be
+construed as the legislation as amended by substitution.
+
+58. In Shyam Sunder v. Ram Kumar, 115 a Constitution Bench of this Court was called upon to
+decide the extent of retrospective operation of an amendment by substitution. In that case, the
+Haryana Amendment Act 1995 substituted Section 15 of the Punjab Pre-emption Act by taking away
+the right of a co- sharer to pre-empt a sale during the pendency of an appeal. This Court Koteswar
+Vittal Kamath v. K Rangappa Baliga & Co., (1969) 1 SCC 255 [8] Bhagat Ram Sharma v. Union of
+India, 1988 Supp SCC 30 [17] State of Rajasthan v. Mangilal Pindwal, (1996) 5 SCC 60 [9] Pernod
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+31
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+Ricard India (P) Ltd v. State of Madhya Pradesh, 2024 SCC OnLine SC 566 [13] G V Krishnamraju v.
+Union of India, (2019) 17 SCC 590 [18]; Ram Narain v. Simla Banking & Industrial Co. Ltd, 1956
+SCC OnLine SC 1. [It was observed: 7. […] whenever an amended Act has to be applied subsequent
+to the date of the amendment the various unamended provisions of the Act have to be read along
+with the amended provisions as though they are part of it. This is for the purpose of determining
+what the meaning of any particular provision of the Act as amended is, whether it is in the
+unamended part or in the amended part. But this is the not the same thing as saying that the
+amendment itself must be taken to have been in existence as from the date of the earlier Act. That
+would be imputing to the amendment retrospective operation which could only be done if such
+retrospective operation is given by the amending Act either expressly or by necessary implication.”]
+(2001) 8 SCC 24 PART E observed that according to Order 20 Rule 14(1) of the Code of Civil
+Procedure 1908, the right of pre-emption becomes a vested right and can only be taken away by a
+known method of law. As regards the retrospective operation of a substituted provision, it was held
+that “where a repeal of provisions of enactment is followed by fresh legislation by an amending Act,
+such legislation is prospective in operation and does not affect substantive or vested rights of the
+parties unless made retrospective either expressly or by necessary intendment.” 116 This Court held
+that the language used by the legislature indicated that it was introduced with prospective effect and
+could not affect the accrued rights of the co-sharers. The decision of this Court in Shyam Sunder
+(supra) is an authority for the proposition that an amendment by substitution can have a
+retrospective effect and affect the vested rights of the parties if the provision is made retrospective
+either expressly or by necessary intendment.
+
+59. Parliament has often used the legislative process of amendment by substitution in the context of
+reassessment provisions under the Income Tax Act. In S C Prashar v. Vasantsen Dwarkadas, 117 a
+Constitution Bench of this Court had to decide on the validity of the notices issued under Section 34
+of the Income Tax Act 1922. In 1948, Section 34 of the Income Tax Act 1922 was substituted by a
+new provision which provided the following time limits: (i) eight years from the end of the year if
+there was omission or failure on the part of an assessee to make a return or disclose fully and truly
+all material Shyam Sunder (supra) [28] (1964) 1 SCR 29 PART E facts necessary for assessment; and
+(ii) four years for all other cases. Justice M Hidayatullah (as the learned Chief Justice then was),
+writing for himself and Justice Raghubar Dayal, observed that the substituted provision was meant
+to enable the reassessment of income which had escaped assessment for past periods. It was further
+observed that the substituted provision “meant to operate retrospectively eight years in some cases
+and four years in others.”118 Justice A K Sarkar (as the learned Chief Justice then was) also
+observed that no notice could be issued under the 1948 amendment “for a year from the end of
+which eight years had expired.”119
+
+60. The above principles can be applied as follows to the factual situation in the present appeals: (i)
+The Finance Act 2021 substituted Sections 147 to 151 of the Income Tax Act with effect from 1 April
+2021; (ii) Sections 147 to 151 of the old law ceased to operate from 1 April 2021; (iii) After 1 April
+2021, any reference to the Income Tax Act means the Income Tax Act as amended by the Finance
+Act 2021; (iv) The time limits prescribed for issuing reassessment notices under Section 149 operate
+retrospectively for three years for all situations and six years in case the escaped assessment
+amounts to or is likely to amount to more than Rupees fifty lakhs.
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+32
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+61. TOLA is a legislation enacted by Parliament. The assesses have neither challenged the legislative
+competence of Parliament to enact TOLA nor have they challenged the vires of the legislation.
+Section 3(1) of TOLA provides for the relaxation of “any time limit” prescribed under the specified
+Acts for SC Prashar (supra) 107 SC Prashar (supra) 86 PART E completion or compliance of “any
+proceeding or passing of any order or issuance of any sanction, intimation, notification, sanction, or
+approval.” The expression “any” has been interpreted by this Court to mean “all” or “every”.120 The
+context in which the word “any” appears has to be construed after taking into consideration the
+scheme and the purpose of the enactment.121
+
+62. The purpose of Section 3(1) of TOLA is to provide relaxation of time limits prescribed under the
+specified Acts, which fell for completion or compliance from 20 March 2020 to 31 March 2021.
+TOLA was enacted in the backdrop of the COVID-19 pandemic, which impeded the functioning of
+the government at all levels. The imposition of national and local lockdowns created difficulties for
+the common people, including litigants and assesses, to comply with their legal obligations. The
+COVID-19 pandemic and the ensuing lockdowns required legislatures across the world to
+dynamically adapt their laws and policies to redress the difficulties faced by persons, entities, and
+governmental authorities. 122 The World Bank identified that persons and business entities faced
+severe financial situations characterised by a lack of cash or easily convertible-to-cash assets. It
+suggested that this would impact revenue collection because individuals and entities would not be in
+a position to pay the assessed taxes. Therefore, the World Bank advised deferral of tax filings and
+payment deadlines to allow individuals and business entities to LDA v. M K Gupta, (1994) 1 SCC 243
+[4]; Raj Kumar Shivhare v. Directorate of Enforcement, (2010) 4 SCC 772 [24];
+
+Vivek Narayan Sharma v. Union of India, (2023) 3 SCC 1 [132] Cary Coglianese and Neysun
+Mahboubi, ‘Administrative Law in a Time of Crisis: Comparing National Responses to COVID-19’
+(2021) 73(1) Administrative Law Review 1, 10. PART E cope with the crisis. 123 Many countries
+across the world have extended deadlines for filing tax returns. 124
+
+63. TOLA extended the time limits for completion or compliance of certain actions under the
+specified Act, which fell for completion during the COVID-19 outbreak. The use of the expression
+“any” in Section 3(1) indicates that the relaxation applies to “all” or “every” action whose time limit
+falls for completion from 20 March 2020 to 31 March 2021. Section 3(1) is only concerned with the
+performance of actions contemplated under the provisions of the specified Acts. Consequently, the
+amendment or substitution of a provision under the specified Acts will not affect the application of
+TOLA, so long as the action contemplated under the provision falls for completion during the period
+specified by TOLA, that is, 20 March 2020 to 31 March 2021.
+
+64. When enacting a statute, the legislature often endeavours to ensure that the provisions of one
+legislation do not conflict with provisions of another legislation. 125 The purpose of the Income Tax
+Act is to levy tax on income and raise revenues for the functioning of the Government. On the other
+hand, the purpose of TOLA is to provide relaxation of the time for completion of any actions or
+proceedings falling for completion within a particular period. Thus, the two enactments operate in
+separate and distinct fields. This Court must Cebreiro Gomez, et al, COVID-19: Revenue
+Administration Implications – Potential Tax Administration and Customs Measures to Respond to
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+33
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+the Crisis, World Bank Group (2022) 19 See International Monetary Fund, Policy Responses to
+COVID-19 https://www.imf.org/en/Topics/imf-and- covid19/Policy-Responses-to-COVID-19 In
+Re: Interplay between Arbitration Agreements under the Arbitration and Conciliation Act 1996 and
+the Indian Stamp Act 1899, 2023 INSC 1066 [159] PART E ensure that the provisions of the two
+enactments are interpreted harmoniously unless there is an irreconcilable conflict between them. b.
+Reading TOLA into Section 149
+
+65. Section 3(1) of TOLA applies to the action of “issuance of any notice” under the Income Tax Act.
+The relaxation provided under Section 3(1) of TOLA will apply to the issuance of a reassessment
+notice under Section 148 of the Income Tax Act. TOLA did not amend the time limits of four years
+and six years from the end of the relevant assessment years as specified under the Income Tax Act.
+It merely provided a relaxation of the time period for issuance of a reassessment notice under
+Section 148. TOLA has no application in situations where the time limit specified under Section 149
+expired before 20 March 2020. The effect of TOLA is that at the time of issuance of a reassessment
+notice under Section 148, the Revenue has to determine two things: (i) the time limit specified under
+Section 149; and (ii) the extent of relaxation provided by TOLA and its notifications for issuance of
+notices. Thus, although TOLA did not amend Section 149 of the Income Tax Act, it has to be read
+with Section 149 to determine the time limit for issuance of a notice. This was the legislative intent
+behind the enactment of TOLA. For instance, the six year time limit for assessment year 2013-2014
+under Section 149(1)(b) of the old regime expired on 31 March 2020. TOLA extended the period for
+issuing notice until 30 June 2021, given the difficulties that arose because of the COVID-19
+pandemic.
+
+66. Section 3(1) of TOLA allowed the Central Government to specify by notification “such other date
+after the 31st day of March, 2021” as the time limit PART E for completion or compliance of any
+action under the specified Acts. The provision also empowered the Central Government to specify
+different dates for completion or compliance of different actions. The notifications dated 31 March
+2021 and 27 April 2021 extend the operation of TOLA by providing an extended time limit for
+completing actions under the Income Tax Act till 30 June 2021.
+
+67. Section 2(1)(b)(ii) of TOLA defines ‘specified Act’ to include the Income Tax Act. After 1 April
+2021, Section 2(1)(b)(ii) must be read to mean the Income Tax Act as amended by the Finance Act
+2021. The substitution of Sections 147 to 151 will not affect the purpose of TOLA, which is, to
+provide relaxation of the time limit for completion or compliance of any actions falling for
+completion between 20 March 2020 and 31 March 2021. TOLA will continue to apply to the Income
+Tax Act after 1 April 2021 if any action or proceeding specified under the substituted provisions of
+the Income Tax Act falls for completion between 20 March 2020 and 31 March 2021.
+
+68. After 1 April 2021, the Income Tax Act has to be read along with the substituted provisions. The
+substituted provisions apply retrospectively for past assessment years as well. On 1 April 2021,
+TOLA was still in existence, and the Revenue could not have ignored the application of TOLA and its
+notifications. Therefore, for issuing a reassessment notice under Section 148 after 1 April 2021, the
+Revenue would still have to look at: (i) the time limit specified under Section 149 of the new regime;
+and (ii) the time limit for issuance of notice as extended by TOLA and its notifications. The Revenue
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+34
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+cannot extend the operation of the old law under TOLA, but it can certainly PART E benefit from the
+extended time limit for completion of actions falling for completion between 20 March 2020 and 31
+March 2021.
+
+69. For instance, Section 149(1)(a) of the new regime specified the time limit of three years from the
+end of the relevant assessment year for reopening of the assessment. For assessment year
+2017-2018, the three year period expired on 31 March 2021. The expiry of time fell within the time
+period contemplated by Section 3 of TOLA read with its notifications. Resultantly, the Revenue had
+time until 30 June 2021 to issue a reassessment notice for assessment year 2017-2018 under Section
+149(1)(a). This harmonious reading gives effect to the legislative intention of both the Income Tax
+Act and TOLA. Moreover, Sections 147 to 151 are machinery provisions. Therefore, they must be
+given an interpretation that is consistent with the object and purpose of the Income Tax Act.
+
+70. In Income-tax Officer v. Vikram Sujitkumar Bhatia, 126 a two-Judge Bench of this Court had to
+decide whether Section 153C of the Income Tax Act, as amended by the Finance Act 2015, would
+apply to searches conducted before 1 June 2015 (the date of coming into force of the amendment).
+This Court observed that since Section 153C is a machinery provision, it should be interpreted in a
+manner to effectuate the object and purpose of the statute. It was observed that the object and
+purpose of Section 153C was the assessment of the income of any other person. It was held that if
+the amended (2023) 453 ITR 417 PART E provision is made applicable prospectively, it will
+frustrate the object and purpose of Section 153C.
+
+71. Section 3(1) of TOLA contains a non obstante clause: “notwithstanding anything contained in the
+specified Act.” The legislative intention of including the non obstante clause is to remove any
+obstacles which may come in the way of the operation of the extension of the time limit till 31 March
+2021 or such other date after 31 March 2021 specified by the Central Government. The purpose is to
+ensure that the full benefit of the relaxation should be provided to both the assesses and the
+Revenue to tide over the difficulties caused by the COVID-19 pandemic.
+
+72. The non obstante clause in Section 3(1) has to be read as controlling the provisions of the
+specified Acts, including the provisions of the Income Tax Act. 127 In the context of the issuance of a
+reassessment notice, the non obstante clause will override the provisions of the Income Tax Act in
+case of any direct conflict or inconsistency. Section 3(1) overrides Section 149 only to the extent of
+relaxing the time limit for issuance of reassessment notice under Section 148. The time limit for
+issuance of a reassessment notices, which fall for completion between 20 March 2020 and 31 March
+2021, has been extended till 30 June 2021. However, the non obstante clause under Section 3(1) of
+TOLA will operate neither to extend the time limit of three years from the end of the relevant
+assessment year under Section 149(1)(a) of the new regime nor to extend the time limit of six years
+from the end of the relevant assessment years under Section 149(1)(b) of the old regime. The M P V
+Sundararamier v. State of Andhra Pradesh, 1958 SCC OnLine SC 22 PART E non obstante clause
+ensures that the Revenue has additional time beyond the statutory stipulated time limit to complete
+or comply with the formalities given the administrative difficulties that arose due to the COVID-19
+pandemic.
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+35
+
+iii. Sanction of the specified authority
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+73. Section 151 imposes a check upon the power of the Revenue to reopen assessments. The
+provision imposes a responsibility on the Revenue to ensure that it obtains the sanction of the
+specified authority before issuing a notice under Section 148. The purpose behind this procedural
+check is to save the assesses from harassment resulting from the mechanical reopening of
+assessments. 128 A table representing the prescription under the old and new regime is set out
+below:
+
+                Regime             Time limits               Specified authority
+
+Section 151(2) of the Before expiry of four         Joint Commissioner
+
+        old regime            years from the end of
+                              the           relevant
+                              assessment year
+
+Section 151(1) of the After expiry of four          Principal         Chief
+
+        old regime            years from the end of         Commissioner or Chief
+                              the           relevant        Commissioner         or
+                              assessment year               Principal
+                                                            Commissioner         or
+                                                            Commissioner
+
+Section 151(i) of the Three years or less           Principal
+
+        new regime            than three years from         Commissioner         or
+                              the end of the relevant       Principal Director or
+                              assessment year               Commissioner         or
+                                                            Director
+
+Section 151(ii) of the More than three years        Principal         Chief
+        new regime             have elapsed from the        Commissioner         or
+                               end of the relevant          Principal      Director
+                               assessment year              General    or     Chief
+                                                            Commissioner         or
+                                                            Director General
+
+      Srikrishna Private Ltd v. ITO, (1996) 9 SCC 534 [4]
+
+(cid:12)                                                                             PART E
+
+74. The above table indicates that the specified authority is directly co-related to the time when the
+notice is issued. This plays out as follows under the old regime:
+
+(i) If income escaping assessment was less than Rupees one lakh: (a) a reassessment
+notice could be issued under Section 148 within four years after obtaining the
+approval of the Joint Commissioner; and (b) no notice could be issued after the
+expiry of four years; and
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+36
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+(ii) If income escaping was more than Rupees one lakh: (a) a reassessment notice
+could be issued within four years after obtaining the approval of the Joint
+Commissioner; and (b) after four years but within six years after obtaining the
+approval of the Principal Chief Commissioner or Chief Commissioner or Principal
+Commissioner or Commissioner.
+
+75. After 1 April 2021, the new regime has specified different authorities for granting sanctions
+under Section 151. The new regime is beneficial to the assesse because it specifies a higher level of
+authority for the grant of sanctions in comparison to the old regime. Therefore, in terms of Ashish
+Agarwal (supra), after 1 April 2021, the prior approval must be obtained from the appropriate
+authorities specified under Section 151 of the new regime. The effect of Section 151 of the new regime
+is thus:
+
+(i) If income escaping assessment is less than Rupees fifty lakhs: (a) a reassessment
+notice could be issued within three years after obtaining PART E the prior approval
+of the Principal Commissioner, or Principal Director or Commissioner or Director;
+and (b) no notice could be issued after the expiry of three years; and
+
+(ii) If income escaping assessment is more than Rupees fifty lakhs: (a) a reassessment
+notice could be issued within three years after obtaining the prior approval of the
+Principal Commissioner, or Principal Director or Commissioner or Director; and (b)
+after three years after obtaining the prior approval of the Principal Chief
+Commissioner or Principal Director General or Chief Commissioner or Director
+General.
+
+76. Grant of sanction by the appropriate authority is a precondition for the assessing officer to
+assume jurisdiction under Section 148 to issue a reassessment notice. Section 151 of the new regime
+does not prescribe a time limit within which a specified authority has to grant sanction. Rather, it
+links up the time limits with the jurisdiction of the authority to grant sanction. Section 151(ii) of the
+new regime prescribes a higher level of authority if more than three years have elapsed from the end
+of the relevant assessment year. Thus, non-compliance by the assessing officer with the strict time
+limits prescribed under Section 151 affects their jurisdiction to issue a notice under Section 148.
+
+77. Parliament enacted TOLA to ensure that the interests of the Revenue are not defeated because
+the assessing officer could not comply with the pre- conditions due to the difficulties that arose
+during the COVID-19 pandemic. Section 3(1) of TOLA relaxes the time limit for compliance with
+actions that fall for completion from 20 March 2020 to 31 March 2021. TOLA will PART E
+accordingly extend the time limit for the grant of sanction by the authority specified under Section
+151. The test to determine whether TOLA will apply to Section 151 of the new regime is this: if the
+time limit of three years from the end of an assessment year falls between 20 March 2020 and 31
+March 2021, then the specified authority under Section 151(i) has an extended time till 30 June 2021
+to grant approval. In the case of Section 151 of the old regime, the test is: if the time limit of four
+years from the end of an assessment year falls between 20 March 2020 and 31 March 2021, then the
+specified authority under Section 151(2) has time till 31 March 2021 to grant approval. The time
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+37
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+limit for Section 151 of the old regime expires on 31 March 2021 because the new regime comes into
+effect on 1 April 2021.
+
+78. For example, the three year time limit for assessment year 2017-2018 falls for completion on 31
+March 2021. It falls during the time period of 20 March 2020 and 31 March 2021, contemplated
+under Section 3(1) of TOLA. Resultantly, the authority specified under Section 151(i) of the new
+regime can grant sanction till 30 June 2021.
+
+79. Under Finance Act 2021, the assessing officer was required to obtain prior approval or sanction
+of the specified authorities at four stages:
+
+a. Section 148A(a) – to conduct any enquiry, if required, with respect to the
+information which suggests that the income chargeable to tax has escaped
+assessment;
+
+b. Section 148A(b) – to provide an opportunity of hearing to the assessee by serving
+upon them a show cause notice as to why a notice under Section 148 should not be
+issued based on the information that suggests that PART E income chargeable to tax
+has escaped assessment. It must be noted that this requirement has been deleted by
+the Finance Act 2022; 129 c. Section 148A(d) – to pass an order deciding whether or
+not it is a fit case for issuing a notice under Section 148; and d. Section 148 – to issue
+a reassessment notice.
+
+80. In Ashish Agarwal (supra), this Court directed that Section 148 notices which were challenged
+before various High Courts “shall be deemed to have been issued under Section 148-A of the Income
+Tax Act as substituted by the Finance Act, 2021 and construed or treated to be show-cause notices in
+terms of Section 148-A(b).” Further, this Court dispensed with the requirement of conducting any
+enquiry with the prior approval of the specified authority under Section 148A(a). Under Section
+148A(b), an assessing officer was required to obtain prior approval from the specified authority
+before issuing a show cause notice. When this Court deemed the Section 148 notices under the old
+regime as Section 148A(b) notices under the new regime, it impliedly waived the requirement of
+obtaining prior approval from the specified authorities under Section 151 for Section 148A(b). It is
+well established that this Court while exercising its jurisdiction under Article 142, is not bound by
+the procedural requirements of law. 130
+
+81. This Court in Ashish Agarwal (supra) directed the assessing officers to “pass orders in terms of
+Section 148-A(d) in respect of each of the assesses concerned.” Further, it directed the assessing
+officers to issue a notice under Section 45, Finance Act 2022 Allahabad High Court Bar Association
+v. State of U P, (2024) 6 SCC 267 [27.3] PART F Section 148 of the new regime “after following the
+procedure as required under Section 148-A.” Although this Court waived off the requirement of
+obtaining prior approval under Section 148A(a) and Section 148A(b), it did not waive the
+requirement for Section 148A(d) and Section 148. Therefore, the assessing officer was required to
+obtain prior approval of the specified authority according to Section 151 of the new regime before
+passing an order under Section 148A(d) or issuing a notice under Section 148. These notices ought
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+38
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+to have been issued following the time limits specified under Section 151 of the new regime read with
+TOLA, where applicable.
+
+F.         Section 148 notices issued in June-September 2022
+
+      i.    Scope of Article 142
+
+82. Article 142 empowers this Court to pass such decree or make such order as is necessary for doing
+complete justice in any cause or matter pending before it. 131 The discretionary jurisdiction
+exercised by this Court under Article 142 is of the widest amplitude. 132 The Constitution has left it
+to the judicial discretion of this Court to decide the scope and limits of its jurisdiction to render
+substantial justice in matters coming before it. 133 The expression “any cause or matter” mentioned
+under Article 142 includes every kind of proceeding pending before this Court. 134 Article 142 allows
+this Court to give precedence Article 142, Constitution. [It reads:
+
+“142(1) The Supreme Court in the exercise of its jurisdiction may pass such decree or
+make such order as is necessary for doing complete justice in any cause or matter
+pending before it, and any decree so passed or order so made shall be enforceable
+throughout the territory of India in such manner as may be prescribed by or under
+any law made by Parliament and, until provision in that behalf is so made, in such
+manner as President may by order prescribe.” Jose Da Costa v. Bascora Sadasiva
+Sinai Narcornim, (1976) 2 SCC 917 [37] Ganga Bishan v. Jai Narain, (1986) 1 SCC 75
+[5] Delhi Judicial Service Association v. State of Gujarat, (1991) 4 SCC 406 [50] PART
+F to equity over law, provided the exercise of the discretion is consistent with
+constitutional provisions and after due consideration of substantive provisions in
+statutory law. 135
+
+83. In Prem Chand Garg v. The Excise Commissioner, 136 Justice P B Gajendragadkar (as the
+learned Chief Justice then was), speaking for the majority, observed that the order made by this
+Court under Article 142 “must not only be consistent with the fundamental rights guaranteed by the
+Constitution, but it cannot even be inconsistent with the substantive provisions of the relevant
+statutory laws.” However, in Union Carbide Corpn. Ltd. v. Union of India, 137 Justice
+Venkatachaliah (as the learned Chief Justice then was), speaking for the majority, clarified Prem
+Chand Garg (supra) by observing that ordinary laws cannot limit the constitutional powers of this
+Court under Article 142. The learned Judge further observed that in exercising its jurisdiction under
+Article 142, this Court will “take note of the express prohibitions in any substantive statutory
+provision based on some fundamental principles of public policy and regulate the exercise of its
+power and discretion accordingly.”
+
+84. In Supreme Court Bar Association v. Union of India,138 a Constitution Bench held that the
+powers under Article 142 cannot be exercised to supplant Shilpa Sailesh v. Varun Sreenivasan, 2023
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+39
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+SCC OnLine SC 544 [12] 1962 SCC OnLine SC 37 (1991) 4 SCC 584 [83] 138 (1998) 4 SCC 409 [47.
+[…] It, however, needs to be remembered that the powers conferred on the Court by Article 142
+being curative in nature cannot be construed as powers which authorise the Court to ignore the
+substantive rights of a litigant while dealing with a cause pending before it. This power cannot be
+used to “supplant” substantive law applicable to the case or cause under consideration of the Court.
+Article 142, even with the width of its amplitude, cannot be used to build a new edifice where none
+existed earlier, by ignoring express statutory provisions dealing with a subject and thereby to
+achieve something indirectly which cannot be achieved directly.] PART F substantive law applicable
+to the matter pending before this Court. In Allahabad High Court Bar Association v. State of Uttar
+Pradesh, 139 a Constitution Bench laid down the following parameters for the exercise of the
+jurisdiction under Article 142:
+
+“27.1. The jurisdiction can be exercised to do complete justice between the parties
+before the Court. It cannot be exercised to nullify the benefits derived by a large
+number of litigants based on judicial orders validly passed in their favour who are not
+parties to the proceedings before this Court;
+
+27.2. Article 142 does not empower this Court to ignore the substantive rights of the
+litigants; and 27.3. While exercising the jurisdiction under Article 142 of the
+Constitution of India, this Court can always issue procedural directions to the courts
+for streamlining procedural aspects and ironing out the creases in the procedural
+laws to ensure expeditious and timely disposal of cases. This is because, while
+exercising the jurisdiction under Article 142, this Court may not be bound by
+procedural requirements of law. However, while doing so, this Court cannot affect the
+substantive rights of those litigants who are not parties to the case before it. The right
+to be heard before an adverse order is passed is not a matter of procedure but a
+substantive right.” (emphasis supplied)
+
+85. In M Siddiq v. Suresh Das, 140 a Constitution Bench observed that Article 142
+embodies the concept of justice, equity, and good conscience. This Court (2024) 6
+SCC 267 (2020) 1 SCC 1 [1023] PART F further observed that Article 142 empowers
+the court to pass an order which accords with justice:
+
+“1026. The extraordinary constitutional power to pass any decree or an order which,
+in the opinion of this Court is necessary for doing complete justice embodies the idea
+that a court must, by necessity, be empowered to craft outcomes that ensure a just
+outcome. When a court is presented before it with hard cases, they follow an
+interpretation of the law that best fits and justifies the existing legal landscape — the
+Constitution, statutes, rules, regulations, customs and common law.
+
+Where exclusive rule-based theories of law and adjudication are inadequate to
+explain either the functioning of the system or create a relief that ensures complete
+justice, it is necessary to supplement such a model with principles grounded in
+equitable standards. The power under Article 142 however is not limitless. It
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+40
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+authorises the Court to pass orders to secure complete justice in the case before it.
+Article 142 embodies both the notion of justice, equity and good conscience as well as
+a supplementary power to the Court to effect complete justice.” (emphasis supplied)
+
+86. The exercise of the jurisdiction under Article 142 is meant to supplement the
+existing legal framework to do complete justice between the parties.141 In a given
+circumstance, this Court can supplement a legal framework to craft a just outcome
+when strict adherence to a source of law and exclusive rule-
+
+based theories create inequitable results. 142
+
+87. The directions issued by this Court under Article 142 cannot be considered as a ratio because
+they are issued based on the peculiar facts and Vinay Chandra Mishra, In re, (1995) 2 SCC 584 [46];
+Delhi Development Authority v. Skipper Construction Co. (P) Ltd., (1996) 4 SCC 622 [16] M Siddiq
+(supra) [1019]; [1026] PART F circumstances of the cause or matter before this Court. 143 In State
+v. Kalyan Singh, 144 this Court observed that a judgment has two components: (a) declaration of
+law; and (b) directions. In Bir Singh v. Mukesh Kumar, 145 it was held that what is binding on all
+courts under Article 141 146 is the declaration of law, and not the directions issued under Article
+142.147
+
+88. This Court has exercised its jurisdiction under Article 142 in tax matters where the actions of the
+Revenue are not in accordance with the law. 148 In Whirlpool of India Ltd. v. CIT,149 this Court
+directed the Income Tax Officer to give effect to the order of the Income Tax Appellate Tribunal by
+disallowing a particular deduction. In CIT v. Greenworld Corporation,150 the issue before this Court
+was whether a Commissioner of Income Tax 151 appropriately issued directions under Section 263
+of the Income Tax Act to an assessing officer to reopen assessments. It was held that the facts of the
+case did not merit the CIT to issue directions to the assessing officer. Consequently, this Court J & K
+Public Service Commission v. Narinder Mohan, (1994) 2 SCC 630 [11]. (2017) 7 SCC 444. [22. […] It
+is important to notice that Article 142 follows upon Article 141 of the Constitution, in which it is
+stated that the law declared by the Supreme Court shall be binding on all courts within the territory
+of India. Thus, every judgment delivered by the Supreme Court has two components — the law
+declared which binds courts in future litigation between persons, and the doing of complete justice
+in any cause or matter which is pending before it.] (2019) 4 SCC 197 [30] Article 141, Constitution of
+India. [It reads:
+
+“141. Law declared by Supreme Court to be binding on all courts – The law declared
+by the Supreme Court shall be binding on all courts within the territory of India.”]
+Also see State of Punjab v. Rafiq Masih, (2014) 8 SCC 883 [12]. [12. […] The Court
+has compartmentalized and differentiated the relief in the operative portion of the
+judgment by exercise of powers under Article 142 of the Constitution as against the
+law declared. The directions of the Court under Article 142 of the Constitution, while
+moulding the relief, that relax the application of law or exempt the case in hand from
+the rigour of the law in view of the peculiar facts and circumstances do not comprise
+the ratio decidendi and therefore lose its basic premise of making it a binding
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+41
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+precedent. This Court in the qui vive has expanded the horizons of Article 142 of the
+Constitution by keeping it outside the purview of Article 141 of the Constitution and
+declaring it a direction of the Court that changes its complexion with the peculiarity
+in the facts and circumstances of the case.”] See Prashanti Medical Services &
+Research Foundation v. Union of India, (2020) 14 SCC 785 [30] (2000) 9 SCC 62
+(2009) 7 SCC 69 “CIT” PART F termed the reassessment notice issued by the
+assessing officer to be illegal and exercised its jurisdiction under Article 142 to direct
+the reopening of the assessment by an appropriate assessing authority.
+
+ii. The scope of Ashish Agarwal extended to all the reassessment notices issued between 1 April 2021
+and 30 June 2021 under the old regime
+
+89. In Ashish Agarwal (supra), this Court: (i) upheld the judgments of the High Courts; and (ii)
+deemed the notices issued under Section 148 of the old regime as show cause notices issued under
+Section 148A(b) of the new regime. By agreeing with the judgments of the High Courts, this Court
+laid down the law that the provisions of the new regime will be applicable for all the reassessment
+notices issued under Section 148 after 1 April 2021. As a result of this holding, all the reassessment
+notices issued in terms of Section 148 of the old regime would have been declared invalid. Therefore,
+this Court deemed the reassessment notices issued under the old regime after 1 April 2021 as show
+cause notices issued under Section 148A(b) of the new regime.
+
+90. In Ashish Agarwal (supra), this Court rendered its decision on the premise that the Revenue
+issued approximately ninety thousand notices under the old regime and all of them were the subject
+matter of writ petitions before the High Courts:
+
+“4. At this stage, it is required to be noted that approximately 90,000 such
+reassessment notices under Section 148 of the unamended Income Tax Act were
+issued by the Revenue after 1-4-2021, which were the subject-matter of more than
+9000 writ petitions before various High Courts across the country and by different
+judgments and orders, the particulars of which are as above, the High Courts PART F
+have taken a similar view and have set aside the respective reassessment notices
+issued under Section 148 on similar grounds.” Further, this Court directed that its
+directions “shall be applicable PAN INDIA”:
+
+“29. The present order shall be applicable PAN INDIA and all judgments and orders
+passed by the different High Courts on the issue and under which similar notices
+which were issued after 1-4-2021 issued under Section 148 of the Act are set aside
+and shall be governed by the present order and shall stand modified to the aforesaid
+extent. The present order is passed in exercise of powers under Article 142 of the
+Constitution of India so as to avoid any further appeals by the Revenue on the very
+issue by challenging similar judgments and orders, with a view not to burden this
+Court with approximately 9000 appeals. We also observe that the present order shall
+also govern the pending writ petitions, pending before various the High Courts in
+which similar notices under Section 148 of the Act issued after 1-4-2021 are under
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+42
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+challenge.” (emphasis supplied) The purpose of this Court in deeming the
+reassessment notices issued under the old regime as show cause notices under the
+new regime was two-fold: (i) to strike a balance between the rights of the assesses
+and the Revenue which issued approximately ninety thousand reassessment notices
+after 1 April 2021 under the old regime; and (ii) to avoid any further appeals before
+this Court by the Revenue on the same issue by challenging similar judgments and
+orders of the High Courts (arising from approximately nine thousand writ petitions).
+
+91. Ashish Agarwal (supra) was primarily concerned with the validity of the reassessment notices
+issued between 1 April 2021 and 30 June 2021 under PART F the old regime. The scope of the
+directions in Ashish Agarwal (supra) applied PAN INDIA, including all the ninety thousand
+reassessment notices issued under the old regime during the period 1 April 2021 and 30 June 2021,
+as is evident from the following observation of this Court:
+
+“26. There is a broad consensus on the aforesaid aspects amongst the learned ASG
+appearing on behalf of the Revenue and the learned Senior Advocates/learned
+counsel appearing on behalf of the respective assessees. We are also of the opinion
+that if the aforesaid order is passed, it will strike a balance between the rights of the
+Revenue as well as the respective assessees as because of a bona fide belief of the
+officers of the Revenue in issuing approximately 90,000 such notices, the Revenue
+may not suffer as ultimately it is the public exchequer which would suffer.” (emphasis
+supplied)
+
+92. This Court specifically mentioned that its directions would also apply to three categories: (i) the
+judgment and order passed by the High Court of Judicature at Allahabad; (ii) all judgments and
+orders passed by the different High Court on the issue where notices issued under Section 148 of the
+old regime after 1 April 2021 were set aside; and (iii) writ petitions pending before various High
+Courts in which notices under Section 148 of the old regime issued after 1 April 2021 are under
+challenge. 152 The Court mentioned the above three categories to clarify that the general nature of
+its directions will also give a quietus to the matters that have already been adjudicated or are
+pending adjudication before judicial forums. The operation of the directions cannot be Ashish
+Agarwal (supra) [27] and [29] PART F limited to the above three categories, especially when this
+Court has specifically held that “the present order shall be applicable PAN INDIA.”
+
+93. In Ashish Agarwal (supra), this Court was aware of the fact that it could not have used its
+jurisdiction under Article 142 to affect the vested rights of the assesses by deeming Section 148
+notices under the old regime as Section 148 notices under the new regime. Hence, it deemed the
+reassessment notices issued under the old regime as show cause notices under Section 148A(b) of
+the new regime. Further, the Court directed the Revenue to provide all the relevant material or
+information to the assesses and thereafter allowed the assesses to respond to the show cause notice
+by availing all the defences, including those available under Section 149. Thus, the Court balanced
+the equities between the Revenue and the assesses by giving effect to the legislative scheme of
+reassessment as contained under the new regime. It supplemented the existing legal framework of
+the procedure of reassessment under the Income Tax Act with a remedy grounded in equitable
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+43
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+standards.
+
+iii. Effect of the legal fiction
+
+94. Before we proceed, we need to bear in mind three important periods:
+
+i. The period up to 30 June 2021 – this period is covered by the provisions of the
+Income Tax Act read with TOLA;
+
+ii. The period from 1 July 2021 to 3 May 2022 – the period before the decision of this
+Court in Ashish Agarwal (supra); and iii. The period after 4 May 2022 – the period
+after the decision of this Court in Ashish Agarwal (supra). This period is covered by
+the directions issued by PART F this Court in Ashish Agarwal (supra) and the
+provisions of the Income Tax Act read with TOLA.
+
+a. Third proviso to Section 149
+
+95. The third proviso to Section 149 reads thus:
+
+“Provided also that for the purposes of computing the period of limitation as per this
+section, the time or extended time allowed to the assessee, as per show-cause notice
+issued under clause (b) of section 148A or the period during which the proceeding
+under section 148A is stayed by an order or injunction of any court, shall be
+excluded.”
+
+96. The third proviso excludes the following periods to calculate the period of limitation: (i) the time
+allowed to the assessee under Section 148A(b); and (ii) the period during which the proceedings
+under Section 148A are “stayed by an order or injunction of any court.”
+
+97. A legal fiction is a supposition of law that a thing or event exists even though, in reality, it does
+not exist. 153 The word “deemed” is used to treat a thing or event as something, which otherwise it
+may not have been, with all the attendant consequences. 154 The effect of a legal fiction is that “a
+position which otherwise would not obtain is deemed to obtain under the circumstances.” 155 In K
+Prabhakaran v. P Jayarajan, 156 Chief Justice R C Lahoti, speaking for the majority, observed that:
+
+“39. […] While pressing into service a legal fiction it should not be forgotten that legal
+fictions are created only for some definite purpose and the fiction is to be Gajraj
+Singh v. STAT, (1997) 1 SCC 650 [22] CIT v. Calcutta Stock Exchange, 1959 SCC
+OnLine SC 126 [5]; Sudha Rani Garg v. Jagdish Kumar, (2004) 8 SCC 329 [11] Gajraj
+Singh (supra) [22] (2005) 1 SCC 754 PART F limited to the purpose for which it was
+created and should not be extended beyond that legitimate field.
+
+A legal fiction presupposes the existence of the state of facts which may not exist and then works out
+the consequences which flow from that state of facts.
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+44
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+Such consequences have got to be worked out only to their logical extent having due regard to the
+purpose for which the legal fiction has been created.
+
+Stretching the consequences beyond what logically flows amounts to an illegitimate extension of the
+purpose of the legal fiction.”
+
+98. A legal fiction is created for a definite purpose and it should be limited to the purpose for which
+it is enacted or applied. It is a well-established principle of interpretation that the courts must give
+full effect to a legal fiction by having due regard to the purpose for which the legal fiction is created.
+157 The consequences that follow the creation of the legal fiction “have got to be worked out to their
+logical extent.” 158 The court has to assume all the facts and consequences that are incidental or
+inevitable corollaries to giving effect to the fiction. 159
+
+99. In Ashish Agarwal (supra), this Court created a legal fiction by deeming the Section 148 notices
+issued under the old regime as show cause notices under Section 148A(b) of the new regime. The
+purpose of the legal fiction was to enable the Revenue “to proceed further with the reassessment
+proceedings as per the substituted provisions” of the Income Tax Act. Accordingly, all the
+reassessment notices issued under the old regime were deemed to always have been show cause
+notices issued under Section 148A(b) of the new regime. The fiction replaced Section 148 notices
+with Section 148A(b) notices State of Maharashtra v. Laljit Rajshi Shah, (2000) 2 SCC 699 [6].
+Bengal Immunity Company Ltd v. State of Bihar, 1955 SCC OnLine SC 2 Industrial Supplies (P) Ltd.
+v. Union of India, (1980) 4 SCC 341 [25] PART F with effect from the date when the notices under
+Section 148 of the old regime were issued between 1 April 2021 and 30 June 2021, as the case may
+be. This ensured the continuance of the reassessment process initiated by the Revenue from 1 April
+2021 to 30 June 2021 under the old regime.
+
+100. Importantly, this Court in Ashish Agarwal (supra) did not quash the reassessment notices
+issued under Section 148 of the old regime. In Shree Chamundi Mopeds Ltd. v. Church of South
+India Trust Association, 160 a three-Judge Bench of this Court explained the distinction between
+quashing an order and staying the operation of an order thus:
+
+“10. […] Quashing of an order results in the restoration of the position as it stood on
+the date of the passing of the order which has been quashed. The stay of operation of
+an order does not, however, lead to such a result. It only means that the order which
+has been stayed would not be operative from the date of the passing of the stay order
+and it does not mean that the said order has been wiped out from existence.” The
+reassessment proceedings erroneously initiated by the Revenue under the old regime
+were not wiped out from existence. Consequently, the Revenue was not required to
+start the procedure of reassessment afresh after the decision of this Court in Ashish
+Agarwal (supra).
+
+101. Under Section 148A(b), the assessing officer has to comply with two requirements: (i) issuance
+of a show cause notice; and (ii) supply of all the relevant information which forms the basis of the
+show cause notice. The supply of the relevant material and information allows the assessee to (1992)
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+45
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+3 SCC 1 PART F respond to the show cause notice. The deemed notices were effectively incomplete
+because the other requirement of supplying the relevant material or information to the assesses was
+not fulfilled. The second requirement could only have been fulfilled by the Revenue by an actual
+supply of the relevant material or information that formed the basis of the deemed notice.
+
+102. While creating the legal fiction in Ashish Agarwal (supra), this Court was cognizant of the fact
+that the assessing officers were effectively inhibited from performing their responsibility under
+Section 148A until the requirement of supply of relevant material and information to the assesses
+was fulfilled. This Court lifted the inhibition by directing the assessing officers to supply the assesses
+with the relevant material and information relied upon by the Revenue within thirty days from the
+date of the judgment. Thus, during the period between the issuance of the deemed notices and the
+date of judgment in Ashish Agarwal (supra), the assessing officers were deemed to have been
+prohibited from proceeding with the reassessment proceedings.
+
+103. In VLS Finance Limited v. Commissioner of Income Tax, 161 a two-Judge Bench of this Court
+was called upon to interpret Explanation 1 to Section 158BE of the Income Tax Act. Section 158BE
+provides the time limit for completion of block assessments. Explanation 1 to the provision excludes
+“period during which the assessment proceedings is stayed by an order or injunction of any court”
+from the period of limitation. This Court held that the (2016) 12 SCC 32 PART F exclusion of the
+period of limitation has to be computed “rationally and practically” in the following terms:
+
+“18. As a general rule, therefore, when there is no stay of the assessment proceedings
+passed by the court, Explanation 1 to Section 158-BE of the Act may not be attracted.
+However, this general statement of legal principle has to be read subject to an
+exception in order to interpret it rationally and practically. In those cases where stay
+of some other nature is granted than the stay of the assessment proceedings but the
+effect of such stay is to prevent the assessing officer from effectively passing
+assessment order, even that kind of stay order may be treated as stay of the
+assessment proceedings because of the reason that such stay order becomes an
+obstacle for the assessing officer to pass an assessment order thereby preventing the
+assessing officer to proceed with the assessment proceedings and carry out
+appropriate assessment.” (emphasis supplied)
+
+104. Section 11-A of the Land Acquisition Act 1894 mandated the Collector to make an award under
+Section 11 within two years from the date of publication of the declaration. The explanation to the
+provision allowed exclusion of “the period during which any action or proceeding to be taken in
+pursuance of the said declaration is stayed by an order of a court.” This Court has consistently
+interpreted the phrase “stay of action or proceedings” to mean any type of order passed by a court,
+which, in one way or another, prohibits or prevents the authorities from passing an award. 162
+Therefore, any order of a court that Abhey Ram v. Union of India, (1997) 5 SCC 421 [9]; Indore
+Development Authority v. Manoharlal, (2020) 4 SCC (Civ) 496 [301]; Maharashtra Vidarbha
+Irrigation Development Corporation v. Mahesh, (2022) 2 SCC 772 [39].
+
+PART F prevents or prohibits an authority from passing an order can be treated as a stay order.
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+46
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+105. A direction issued by this Court in the exercise of its jurisdiction under Article 142 is an order of
+a court. The third proviso to Section 149 of the new regime provides that the period during which
+the proceedings under Section 148A are stayed by an order or injunction of any court shall be
+excluded for computation of limitation. During the period from the date of issuance of the deemed
+notice under Section 148A(b) and the date of the decision of this Court in Ashish Agarwal (supra),
+the assessing officers were deemed to have been prohibited from passing a reassessment order.
+Resultantly, the show cause notices were deemed to have been stayed by order of this Court from the
+date of their issuance (somewhere from 1 April 2021 till 30 June 2021) till the date of decision in
+Ashish Agarwal (supra), that is, 4 May 2022.
+
+106. In Ashish Agarwal (supra), this Court directed the assessing officers to provide relevant
+information and materials relied upon by the Revenue to the assesses within thirty days from the
+date of the judgment. A show cause notice is effectively issued in terms of Section 148A(b) only if it
+is supplied along with the relevant information and material by the assessing officer. Due to the
+legal fiction, the assessing officers were deemed to have been inhibited from acting in pursuance of
+the Section 148A(b) notice till the relevant material was supplied to the assesses. Therefore, the
+show cause notices were deemed to have been stayed until the assessing officers provided the
+relevant information or material to the assesses in terms of the direction issued in Ashish Agarwal
+(supra). To summarize, the combined effect of the PART F legal fiction and the directions issued by
+this Court in Ashish Agarwal (supra) is that the show cause notices that were deemed to have been
+issued during the period between 1 April 2021 and 30 June 2021 were stayed till the date of supply
+of the relevant information and material by the assessing officer to the assessee. After the supply of
+the relevant material and information to the assessee, time begins to run for the assesses to respond
+to the show cause notices.
+
+107. The third proviso to Section 149 allows the exclusion of time allowed for the assesses to respond
+to the show cause notice under Section 149A(b) to compute the period of limitation. The third
+proviso excludes “the time or extended time allowed to the assessee.” Resultantly, the entire time
+allowed to the assessee to respond to the show cause notice has to be excluded for computing the
+period of limitation. In Ashish Agarwal (supra), this Court provided two weeks to the assesses to
+reply to the show cause notices. This period of two weeks is also liable to be excluded from the
+computation of limitation given the third proviso to Section 149. Hence, the total time that is
+excluded for computation of limitation for the deemed notices is: (i) the time during which the show
+cause notices were effectively stayed, that is, from the date of issuance of the deemed notice between
+1 April 2021 and 30 June 2021 till the supply of relevant information or material by the assessing
+officers to the assesses in terms of the directions in Ashish Agarwal (supra); and (ii) two weeks
+allowed to the assesses to respond to the show cause notices.
+
+(cid:12)                                                                                                 PART F
+
+      b.     Interplay of Ashish Agarwal with TOLA
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+47
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+108. The Income Tax Act read with TOLA extended the time limit for issuing reassessment notices
+under Section 148, which fell for completion from 20 March 2020 to 31 March 2021, till 30 June
+2021. All the reassessment notices under challenge in the present appeals were issued from 1 April
+2021 to 30 June 2021 under the old regime. Ashish Agarwal (supra) deemed these reassessment
+notices under the old regime as show cause notices under the new regime with effect from the date
+of issuance of the reassessment notices. The effect of creating the legal fiction is that this Court has
+to imagine as real all the consequences and incidents that will inevitably flow from the fiction. 163
+Therefore, the logical effect of the creation of the legal fiction by Ashish Agarwal (supra) is that the
+time surviving under the Income Tax Act read with TOLA will be available to the Revenue to
+complete the remaining proceedings in furtherance of the deemed notices, including issuance of
+reassessment notices under Section 148 of the new regime. The surviving or balance time limit can
+be calculated by computing the number of days between the date of issuance of the deemed notice
+and 30 June 2021.
+
+109. If this Court had not created the legal fiction and the original reassessment notices were validly
+issued according to the provisions of the new regime, the notices under Section 148 of the new
+regime would have to be issued within the time limits extended by TOLA. As a corollary, the
+reassessment notices to be issued in pursuance of the deemed notices must also be within the time
+East End Dwellings Co. Ltd. v. Finsbury Borough Council, [1952] AC 109. [Lord Asquith, in his
+concurring opinion, observed: “If you are bidden to treat an imaginary state of affairs as real, you
+must surely, unless prohibited from doing so, also imagine as real the consequences and incidents
+which, if the putative state of affairs had in fact existed, must inevitably have flowed from or
+accompanied it.”] PART F limit surviving under the Income Tax Act read with TOLA. This
+construction gives full effect to the legal fiction created in Ashish Agarwal (supra) and enables both
+the assesses and the Revenue to obtain the benefit of all consequences flowing from the fiction.164
+
+110. The effect of the creation of the legal fiction in Ashish Agarwal (supra) was that it stopped the
+clock of limitation with effect from the date of issuance of Section 148 notices under the old regime
+[which is also the date of issuance of the deemed notices]. As discussed in the preceding segments of
+this judgment, the period from the date of the issuance of the deemed notices till the supply of
+relevant information and material by the assessing officers to the assesses in terms of the directions
+issued by this Court in Ashish Agarwal (supra) has to be excluded from the computation of the
+period of limitation. Moreover, the period of two weeks granted to the assesses to reply to the show
+cause notices must also be excluded in terms of the third proviso to Section 149.
+
+111. The clock started ticking for the Revenue only after it received the response of the assesses to
+the show causes notices. After the receipt of the reply, the assessing officer had to perform the
+following responsibilities: (i) consider the reply of the assessee under Section 149A(c); (ii) take a
+decision under Section 149A(d) based on the available material and the reply of the assessee; and
+(iii) issue a notice under Section 148 if it was a fit case for reassessment. Once the clock started
+ticking, the assessing officer was See State of A P v. A P Pensioners Association, (2005) 13 SCC 161
+[28]. [This Court observed that the “legal fiction undoubtedly is to be construed in such a manner so
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+48
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+as to enable a person, for whose benefit such legal fiction has been created, to obtain all
+consequences flowing therefrom.”] PART F required to complete these procedures within the
+surviving time limit. The surviving time limit, as prescribed under the Income Tax Act read with
+TOLA, was available to the assessing officers to issue the reassessment notices under Section 148 of
+the new regime.
+
+112. Let us take the instance of a notice issued on 1 May 2021 under the old regime for a relevant
+assessment year. Because of the legal fiction, the deemed show cause notices will also come into
+effect from 1 May 2021. After accounting for all the exclusions, the assessing officer will have
+sixty-one days [days between 1 May 2021 and 30 June 2021] to issue a notice under Section 148 of
+the new regime. This time starts ticking for the assessing officer after receiving the response of the
+assessee. In this instance, if the assessee submits the response on 18 June 2022, the assessing officer
+will have sixty-one days from 18 June 2022 to issue a reassessment notice under Section 148 of the
+new regime. Thus, in this illustration, the time limit for issuance of a notice under Section 148 of the
+new regime will end on 18 August 2022.
+
+113. In Ashish Agarwal (supra), this Court allowed the assesses to avail all the defences, including
+the defence of expiry of the time limit specified under Section 149(1). In the instant appeals, the
+reassessment notices pertain to the assessment years 2013-2014, 2014-2015, 2015-2016, 2016-2017,
+and 2017-2018. To assume jurisdiction to issue notices under Section 148 with respect to the
+relevant assessment years, an assessing officer has to: (i) issue the notices within the period
+prescribed under Section 149(1) of the new regime read with TOLA; and (ii) obtain the previous
+approval of the authority PART G specified under Section 151. A notice issued without complying
+with the preconditions is invalid as it affects the jurisdiction of the assessing officer. Therefore, the
+reassessment notices issued under Section 148 of the new regime, which are in pursuance of the
+deemed notices, ought to be issued within the time limit surviving under the Income Tax Act read
+with TOLA. A reassessment notice issued beyond the surviving time limit will be time- barred.
+
+G. Conclusions
+
+114. In view of the above discussion, we conclude that:
+
+a. After 1 April 2021, the Income Tax Act has to be read along with the substituted
+provisions;
+
+b. TOLA will continue to apply to the Income Tax Act after 1 April 2021 if any action
+or proceeding specified under the substituted provisions of the Income Tax Act falls
+for completion between 20 March 2020 and 31 March 2021;
+
+c. Section 3(1) of TOLA overrides Section 149 of the Income Tax Act only to the extent
+of relaxing the time limit for issuance of a reassessment notice under Section 148;
+
+d. TOLA will extend the time limit for the grant of sanction by the authority specified
+under Section 151. The test to determine whether TOLA will apply to Section 151 of
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+49
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+the new regime is this: if the time limit of three years from the end of an assessment
+year falls between 20 March 2020 and 31 March PART G 2021, then the specified
+authority under Section 151(i) has extended time till 30 June 2021 to grant approval;
+
+e. In the case of Section 151 of the old regime, the test is: if the time limit of four years
+from the end of an assessment year falls between 20 March 2020 and 31 March 2021,
+then the specified authority under Section 151(2) has extended time till 31 March
+2021 to grant approval;
+
+f. The directions in Ashish Agarwal (supra) will extend to all the ninety thousand
+reassessment notices issued under the old regime during the period 1 April 2021 and
+30 June 2021;
+
+g. The time during which the show cause notices were deemed to be stayed is from
+the date of issuance of the deemed notice between 1 April 2021 and 30 June 2021 till
+the supply of relevant information and material by the assessing officers to the
+assesses in terms of the directions issued by this Court in Ashish Agarwal (supra),
+and the period of two weeks allowed to the assesses to respond to the show cause
+notices; and h. The assessing officers were required to issue the reassessment notice
+under Section 148 of the new regime within the time limit surviving under the
+Income Tax Act read with TOLA. All notices issued beyond the surviving period are
+time barred and liable to be set aside;
+
+115. The judgments of the High Courts rendered in Union of India v. Rajeev Bansal, 165 Keenara
+Industries Pvt. Ltd. v. ITO, Surat, 166 J M Financial and Investment Consultancy Services Pvt. Ltd.
+v. ACIT, 167 Siemens Financial Writ Tax No. 1086 of 2022 (Allahabad High Court) R/Special CA
+No. 17321 of 2022 (High Court of Gujarat) WP No. 1050 of 2022 (High Court of Judicature at
+Bombay) PART G Services Pvt. Ltd. v. DCIT, 168 Geeta Agarwal v. ITO,169 Ambika Iron and Steel
+Pvt Ltd v. PCIT, 170 Twylight Infrastructure Pvt Ltd v. ITO,171 Ganesh Dass Khanna v. ITO, 172 and
+other judgments of the High Courts which relied on these judgments, are set aside to the extent of
+the observations made in this judgment.
+
+116. The appeals filed by the Revenue are accordingly allowed. The appeals filed by the assesses will
+be governed by reasons discussed in this judgment.
+
+117. The transfer petitions are disposed of.
+
+118. Pending application(s), if any, stand disposed of.
+
+. . … . … … . … … … … … … … … … … … … … … C J I   [ D r   D h a n a n j a y a   Y   C h a n d r a c h u d ]
+…….……………………………………………J [J B Pardiwala] …….……………………………………………J [Manoj
+Misra] New Delhi;
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+50
+
+Union Of India vs Rajeev Bansal on 3 October, 2024
+
+October 03, 2024 [2023] 457 ITR 647 (High Court of Judicature at Bombay) DB Civil Writ Petition
+No. 14794 of 2022 (High Court of Judicature at Rajasthan) WP(C) No. 20919 of 2021 (High Court of
+Orissa) WP(C) No. 16524/2022 (High Court of Delhi) [2024] 460 ITR 546 (High Court of Delhi)
+
+Indian Kanoon - http://indiankanoon.org/doc/116531705/
+
+51
+
+

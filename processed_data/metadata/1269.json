@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 8037 of 2022",
+  "parties": {
+    "petitioner": "Dr. NTR University of Health Sciences",
+    "respondent": "Dr. Yerra Trinadh & Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-11-04",
+  "summary": "The University challenged the Andhra Pradesh High Court's order directing re-evaluation of answer scripts in a post-graduate diploma examination, arguing that no statutory provision permits re-evaluation. The High Court had ordered re-evaluation due to non-compliance with prior evaluation directions and lack of proper digital evaluation. The Supreme Court noted prior decisions holding that re-evaluation cannot be ordered absent a specific provision, referencing Pramod Kumar Srivastava and Vikesh Kumar Gupta. While affirming that results based on re-evaluation (already declared and degrees issued) would not be disturbed, the Court examined the legal question of whether courts can mandate re-evaluation under Article 226 in absence of enabling rules.",
+  "legal_provisions_cited": [
+    "Article 226 of the Constitution of India",
+    "Pramod Kumar Srivastava v. Chairman, Bihar Public Service Commission, Patna & Others, (2004) 6 SCC 714",
+    "Vikesh Kumar Gupta & Another v. State of Rajasthan & Others, (2021) 2 SCC 309",
+    "Maharashtra State Board of Secondary and Higher Secondary Education v. Paritosh Bhupeshkumar Sheth, (1984) 4 SCC 27"
+  ],
+  "final_judgment": "The appeal raises the question of whether re-evaluation can be directed by the High Court in absence of a provision for it; the results already declared pursuant to re-evaluation are not to be disturbed."
+}

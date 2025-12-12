@@ -1,0 +1,23 @@
+{
+  "case_number": "CIVIL APPEAL NO. 6681 OF 2022",
+  "parties": {
+    "petitioner": "Pharmacy Council of India",
+    "respondent": "Rajeev College of Pharmacy and Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-15",
+  "summary": "The Pharmacy Council of India (PCI) appealed against judgments of the High Courts of Karnataka, Delhi, and Chhattisgarh that struck down a moratorium imposed by PCI on opening new pharmacy colleges from 2020–2021 for five years. The moratorium, issued on 17th July 2019 and modified on 9th September 2019, exempted government institutions, institutions in the North East, and states with fewer than 50 pharmacy colleges. PCI argued the moratorium was necessary to prevent unregulated growth and unemployment among pharmacists, asserting its regulatory authority under the Pharmacy Act, 1948. Respondents claimed the moratorium violated their fundamental right under Article 19(1)(g) and was arbitrary due to exemptions. The Supreme Court examined whether PCI had the power to impose such a moratorium and whether it was reasonable and in public interest.",
+  "legal_provisions_cited": [
+    "Pharmacy Act, 1948, Sections 3, 10, 12",
+    "Constitution of India, Article 13",
+    "Constitution of India, Article 19(1)(g)",
+    "Madhya Bharat Cotton Association Ltd. vs. Union of India, AIR 1954 SC 634",
+    "Star India Private Limited vs. Department of Industrial Policy and Promotion, (2019) 2 SCC 104",
+    "Jawaharlal Nehru Technological University Registrar vs. Sangam Laxmi Bai Vidyapeet, (2019) 17 SCC 729",
+    "Jigya Yadav (Minor) vs. CBSE, (2021) 7 SCC 535",
+    "T.M.A. Pai Foundation vs. State of Karnataka, (2002) 8 SCC 481",
+    "Islamic Academy of Education vs. State of Karnataka, (2003) 6 SCC 697",
+    "P.A. Inamdar vs. State of Maharashtra, (2005) 6 SCC 537"
+  ],
+  "final_judgment": "Leave granted in all Special Leave Petitions; matter remanded for further consideration of the validity and reasonableness of the moratorium in light of regulatory powers and fundamental rights."
+}

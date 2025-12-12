@@ -1,0 +1,16 @@
+{
+  "case_number": "Criminal Appeal No. 2290 of 2022 (arising out of S.L.P. (Criminal) No. 4629 of 2021)",
+  "parties": {
+    "petitioner": "R. Nagender Yadav",
+    "respondent": "The State of Telangana and Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-15",
+  "summary": "The appeal challenged the High Court's refusal to quash criminal proceedings under Section 482 CrPC in a case involving alleged forgery and criminal conspiracy related to a property sale deed. The Supreme Court found the police investigation to be perfunctory, noting absence of handwriting analysis and lack of inquiry into payment of sale consideration. The Court observed that the civil suit challenging the validity of the sale deed was already pending, and allowing the criminal prosecution to proceed would amount to abuse of process. The criminal complaint alleged offences under Sections 120-B, 420, 468, and 471 IPC, but the investigating agency had dropped other accused, undermining the conspiracy theory. The Court held that the dispute was essentially civil in nature, now pending before the civil court, and that criminal proceedings should not be permitted to proceed simultaneously on the same issue.",
+  "legal_provisions_cited": [
+    "Section 482 of the Code of Criminal Procedure (CrPC)",
+    "Section 156(3) CrPC",
+    "Indian Penal Code Sections 120-B, 420, 468, 471"
+  ],
+  "final_judgment": "Appeal allowed; impugned order of the High Court set aside; criminal proceedings in Criminal Complaint No. 1029 of 2015 quashed."
+}

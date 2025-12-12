@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. _________ of 2022 (Arising out of SLP(C) No. 4960 of 2021)",
+  "parties": {
+    "petitioner": "Union of India & Others",
+    "respondent": "Bharat Forge Ltd. & Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-16",
+  "summary": "The case involved a challenge to a High Court direction requiring the procurement authority to specify the correct HSN Code and applicable GST rate in tender documents to ensure a level playing field. Bharat Forge Ltd., a domestic manufacturer, contended that bidders quoting lower GST rates (5%) instead of the correct 18% gained an unfair advantage, distorting competition and undermining the 'Make in India' policy. The High Court held that specifying the HSN Code is essential for transparency and fair evaluation, as GST impacts total price and inter se ranking. The Supreme Court examined the tender clauses and found that while bidders were responsible for declaring taxes, the authority must clarify the HSN Code to prevent arbitrary evaluation and ensure rationality in the procurement process.",
+  "legal_provisions_cited": [
+    "Article 19(1)(g) of the Constitution of India",
+    "Reliance Energy Ltd. and another v. Maharashtra State Road Development Corpn. Ltd. and others (2007) 8 SCC 1"
+  ],
+  "final_judgment": "The Supreme Court upheld the High Court's direction that the procurement authority must clarify the applicable HSN Code in the tender document to ensure uniformity, fairness, and a level playing field, affirming that such clarification is necessary for rational and non-arbitrary evaluation of bids."
+}

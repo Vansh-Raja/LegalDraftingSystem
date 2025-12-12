@@ -1,0 +1,1452 @@
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income
+Tax on 7 February, 2025
+
+Author: Sanjay Karol
+
+Bench: Sanjay Karol
+
+2025 INSC 155                                                REPORTABLE
+
+                            IN THE SUPREME COURT OF INDIA
+
+                            CIVIL APPELLATE JURISDICTION
+
+                             CIVIL APPEAL NO. 1977 OF 2025
+
+        (ARISING OUT OF SPECIAL LEAVE PETITION (C) NO. 20519 OF 2024)
+
+             VINUBHAI MOHANLAL DOBARIA                         …APPELLANT
+
+                                        VERSUS
+
+             CHIEF COMMISSIONER OF INCOME TAX & ANR.           …RESPONDENTS
+
+                                     JUDGMENT
+
+J.B. PARDIWALA, J.:
+
+For the convenience of exposition, this judgement is divided into the following parts:
+
+INDEX A. FACTUAL MATRIX ..................................................................................2 B.
+SUBMISSIONS ON BEHALF OF THE APPELLANT .......................13 C.
+SUBMISSIONS ON BEHALF OF THE RESPONDENTS ..................15 D. ISSUES
+F O R   C O N S I D E R A T I O N   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 9   E .
+ANALYSIS.................................................................................................20 i. Section
+276CC of the Income Tax Act, 1961 .....................................20 ii. Provisions pertaining
+to compounding of offences .............................36 iii. Guidelines for Compounding of
+O f f e n c e s   u n d e r   D i r e c t   T a x   L a w s ,
+  2 0 1 4
+......................................................................................................41 F. CONCLUSION
+..........................................................................................57
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+1
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+1. Leave granted.
+
+2. This appeal arises from the judgment and order passed by the High Court of
+Gujarat dated 21.03.2017 in Special Civil Application No. 5386 of 2017 (hereinafter
+referred to as “the impugned order”) by which the High Court rejected the writ
+petition filed by the appellant herein and thereby upheld the order of the Chief
+Commissioner of Income Tax, Vadodara (“Respondent No. 1”) dated 14.02.2017
+rejecting the application preferred by the appellant-assessee for compounding of the
+offence under Section 276CC of the Income Tax Act, 1961 (hereinafter referred to as
+“the Act”).
+
+A. FACTUAL MATRIX
+
+3. The appellant is an individual earning income by way of salary and also by way of share of profit
+of partnership firm engaged in the business of chemicals. He filed his income tax returns for the AY
+2011-12 and 2013-14 on 04.03.2013 and 29.11.2014 respectively declaring his income to be Rs
+49,79,700/- and Rs 31,87,420/- respectively. The due dates for the filing of returns for AY 2011-12
+and 2013-14 were 30.09.2011 and 31.10.2013 respectively and as such there was delay on the part of
+the appellant in filing the return of income for the said assessment years.
+
+4. On 27.10.2014, a show cause notice was issued to the appellant by the Commissioner of Income
+Tax - III, Baroda alleging violation of Section 276CC of the Act for the AY 2011-12. The notice stated
+that although the due date for filing the income tax return for the AY 2011-12 was 01.08.2011 yet the
+appellant had filed the same with delay on 04.03.2013. The notice further stated that after allowing
+for the credit of prepaid taxes, the appellant was liable to pay self-assessment tax of Rs. 0/- which
+however remained unpaid by the due date prescribed for the filing of return of income. In the last,
+the appellant was called upon to show cause as to why proceedings under Section 276CC of the Act
+should not be initiated against him. The contents of the said notice are extracted hereinbelow:
+
+“Office of the Commissioner of Income Tax III 2nd floor, Aayakar Bhavan, Race
+C o u r s e   C i r c l e ,   B a r o d a   3 9 0   0 0 7   N o . B R D / C I T - I I I / H Q / P r o s / 1 7 / 2 0 1 4 - 1 5
+Date.27.10.2014 To, Shri Vinubhai Mohanbhai Dobaria B-2/203, Subhlaxmi Coop.
+Housing Society Ankleshwar PAN ACIPD4420D Sir/Sirs, Sub: Launching of
+prosecution under section 276CC of the income Tax Act, 1961 Chapter XXII of the
+I.T.Act 1961 regd.
+
+On examination of records, it is seen that you have furnished your return of income
+for the assessment year 2011-12 declaring total income of Rs.49,79,700/- on
+4.3.2013. Further, after allowing credit of prepaid taxes, you were liable to pay self
+assessment tax of Rs.0/- by due date of filing of return. Later, your return of income
+was processed under section 143(1) of the Act 20.3.2013 determining demand of
+Rs0/- out of which Rs.0 is still pending.
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+2
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+2. In this context, take notice and show cause as to why proceedings under section
+276CC of the Act should not be initiated against you for failure to furnish returns of
+income after the expiry of the assessment year. You may attend either personally or
+through representative duly authorized on 11.11.2014 at 12.30 p.m. If you fail to
+attend, it would be presumed you have nothing to say in the matter and this office
+shall proceed in the matter accordingly.
+
+Yours faithfully Sd/- S.R. Malik Commissioner of Income Tax- III, Baroda”
+
+5. The appellant replied to the aforesaid show cause notice along with the application for
+compounding in accordance with the Guidelines for Compounding of Offence, 2008 (hereinafter
+referred to as “the 2008 guidelines”). The application, along with application for compounding the
+delay in filing of return of income for two other years came to be allowed by the Respondent No. 1
+vide order dated 11.11.2014.
+
+6. Thereafter, on 12.03.2015, the appellant received another show cause notice as regards launching
+of prosecution under Section 276CC of the Act for the AY 2013-2014 issued by the Commissioner of
+Income Tax, Vadodara - III. The notice stated that the appellant had furnished the return of income
+for AY 2013-14 declaring a total income of Rs. 31,87,420/- on 29.11.2014 and after allowing for the
+credit of prepaid taxes the appellant was liable to pay self-assessment tax of Rs. 2,78,740/-. The
+notice further called upon the appellant to show cause as to why proceedings under Section 276CC
+of the Act should not be initiated against him as he had filed his return of income after the expiry of
+the due date. The contents of the said notice are extracted hereinbelow:
+
+“Office of the Commissioner of Income Tax, Vadodara -3 Vadodara 2nd floor Aayakar
+Bhavan Race Course Circle, Vadodara 7 No. BRD/CIT-3/HQ/Pros/17-B/2014-15
+Date.12.3.2015 To, Shri Vinubhai Mohanbhai Dobaria 303/C/16, Tulsi Kunj Society,
+Near Marathi School, GIDC, Ankleshwar PAN ACIPD4420D Sir/Sirs Sub: Launching
+of prosecution under section 276CC of the Income Tax Act, 1961 Chapter XXII of the
+I.T.Act, 1961 A.Y.2013-14 reg.
+
+On examination of records, it is seen that you have furnished your return of income
+for the assessment year 2013-14 declaring total income of Rs.31,87,420/- on
+29.11.2014. Further, after allowing credit of prepaid taxes, you were liable to ay self
+assessment tax of Rs.2,78,740/- by due date of filing of return. Later, your return of
+income was processed under section 143(1) of the Act on 5.1.2015.
+
+2. In this context, take notice and show cause as to why proceedings under section
+276CC of the Act should not be initiated against you for failure to furnish returns of
+income before expiry of the assessment year. You may attend either personally or
+through representative duly authorized on 19.3.2015 at 11.30 a.m. If you fail to
+attend, it would be presumed that you have nothing to say in the matter and this
+office shall proceed in the matter accordingly.
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+3
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+Yours faithfully Dr. Banwari Lal Commissioner of Income Tax Vadodara -3 Vadodara”
+
+7. The appellant replied to the aforesaid notice along with an application for compounding as per the
+Guidelines for Compounding of Offence, 2014 (hereinafter referred to as “the 2014 guidelines”). In
+his reply, the appellant stated that he had filed the return of income belatedly because necessary
+funds were not available with him to enable him to pay the assessed amount of tax. He further stated
+that the delay in filing of the return of income was neither deliberate nor wilful.
+
+8. By an order dated 14.02.2017 passed under Section 279(2) of the Act, the Respondent No. 1
+rejected the compounding application of the appellant. The Respondent No. 1 took the view that the
+case of the appellant was not fit for compounding as a committee comprising of Principal CCIT
+Gujarat, CCIT Vadodara, DGIT (Investigation) Ahmedabad and the CCIT - II Ahmedabad in the
+minutes recorded of the meeting dated 25.01.2017 had opined that the assessee had filed his return
+of income for AY 2013-14 after the show cause notice for the offence under Section 276CC for
+offence during AY 2011-12 had already been issued. Therefore, as per the committee, the offence
+committed by the appellant under Section 276CC for the AY 2013-14 would not be covered by the
+expression “first offence” as defined in the 2014 guidelines. The relevant part of the said order is
+extracted hereinbelow:
+
+“The case is not found to be fit case for compounding as the Committee comprising of
+Pr. CCIT Gujarat and CCIT, Vadodara DGIT (Investigation) Ahmedabad and the
+CCIT 2 Ahmedabad, competent to consider the assessee's petition, in its minutes of
+the meeting held at Ahmedabad on 25.1.2017 found that the Pr. CIT-3, Vadodara had
+issued show cause notice for initiating proceedings under section 276CC of the Act on
+27.10.2014 for the AY.2011-
+
+12. The assessee filed his return of income for the A.Y.2013-14 on 29.11.2014 as
+against the due date for filing of return on 31.10.2013, after issuance of such show
+cause notice for A.Y. 2011-12. Accordingly, taking into consideration the definition of
+"First Offence" as specified in the Board's guidelines for compounding offence dated
+2 3 . 1 1 . 2 0 1 4 ,   a s   w e l l   a s   t h e   o p i n i o n   o b t a i n e d   f r o m   t h e   B o a r d   v i d e
+F.No.285/20/2014-IT (Inv.)/340 dated 15.9.2014 in the case of Chandra Knee Clinic
+P. Ltd. the committee unanimously opined that, the offence of similar nature
+committed by the assessee for A.Y.2013-14 cannot be compounded, as it does not fall
+within the definition of "First Offence". Thus, the committee rejected compounding
+petition for A.Y.2013-14.
+
+In view of the above facts, compounding petition filed by the assessee for A.Y.2013-14 is rejected.”
+
+9. The appellant challenged the aforesaid order passed by the Respondent No. 1 before the High
+Court of Gujarat by way of Special Civil Application No. 5386 of 2017. The appellant, who was the
+petitioner before the High Court, contended that his compounding application had been rejected by
+Respondent No. 1 solely on the ground that the offence alleged to have been committed by the
+appellant of belated filing of the return of income for AY 2013-14 was not covered by the expression
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+4
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+“first offence” as defined in the 2014 guidelines. The appellant further submitted that the show
+cause notice for the initiation of prosecution issued under Section 276CC of the Act for AY 2013–14
+was issued on 12.02.2015 whereas he had already filed the return of income for the said assessment
+year on 29.11.2014, that is, much before the issuance of show cause notice on 12.02.2015 and
+therefore it could not be said that it was not the first offence. It was also contended by the appellant
+that the respondent had erroneously computed the date of issuance of show cause notice for AY
+2011-12 for the purpose of holding that the appellant had committed the offence post that date.
+Lastly, it was argued by the appellant that the 2014 guidelines are only general guidelines and are
+not in the nature of strict law and thus are to be construed accordingly. The appellant submitted that
+the general nature of the guidelines was also suggested by the heading “offences generally not to be
+compounded” used in the said Guidelines.
+
+10. However, the High Court rejected the Special Civil Application of the appellant vide the
+impugned judgment and order dated 21.03.2017 taking the view that the contention of the appellant
+was based on a misreading of the Clause 8(ii) of the 2014 guidelines. The High Court held that
+although the show-cause notice for AY 2011-12 was issued on 27.10.2014, yet the appellant filed the
+return of income for the AY 2013-14 on 29.11.2014 and thus could be said to have committed the
+offence under Section 276CC of the Act for the AY 2013-14 after the show cause notice for the AY
+2011-12 had already been issued. It was further observed by the High Court that the circumstances
+surrounding the delay in the filing of return of income by the appellant were not required to be
+considered in detail by the compounding authority and the same would be considered during the
+course of the trial. The relevant observations made by the High Court are extracted hereinbelow:
+
+“4.0 [...] However, on the other hand, it is the case on behalf of the petitioner assesee
+that for AY 2013-14 the show cause notice under Section 276 CC of the Act was issued
+on 12.03.2015 and prior thereto the return of income for AY 2013-14 was already filed
+on 29.11.2014 and therefore, the same can be said to be "first offence"
+
+even as per the clause 8(ii) of the Guidelines. The submission on behalf of the
+assessee cannot be accepted. The aforesaid submission on behalf of the assessee is
+absolutely on misreading of clause 8(ii). On true interpretation of clause 8(ii), in case
+the offence is committed prior to date of issuance of any show cause notice for
+prosecution, in that case, it can be said to be the "first offence". Therefore, in case for
+any prior assessment year, the show c(cid:132)use notice has been issued for prosecution and
+despite the same, in the subsequent year, the offence is committed by not filing the
+return, the same cannot be said to be "first offence". The submission on behalf of the
+petitioner assessee that in the present case the show cause notice for prosecution for
+AY 2013-14 was issued on 12.03.2015 and prior thereto the return of income was filed
+for AY 2013-14 on 29.11.2014 and therefore, the same can to be said to be first
+offence, cannot be accepted. What is required to be considered is whether for any
+prior year any show cause notice for prosecution is issued and served upon the
+petitioner or not. If the contention on behalf of the petitioner is accepted, in that case,
+it will be contrary to the clause 8(ii) of the Guidelines. In the present case, for AY
+2011-12, the show cause notice was already issued under Section 276 CC of the Act on
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+5
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+27.10.2014 for non filing of return before due date (for AY 2011-12) and despite the
+same for the subsequent years i.e. for AY 2013-14 the assessee did not file return of
+income before due date of filing of return. Therefore, again the petitioner -assessee
+committed the offence for AY 2013-14. Thus, it cannot be said that in AY 2013-14 it
+can be said to be the "first offence" committed by the assessee. Under the
+circumstances, the respondent no.1 has rightly rejected the compounding application
+submitted by the petitioner. Rejection of the compounding application submitted by
+the petitioner is absolutely in consonance with the Guidelines, 2014.
+
+5.0. Now, so far as submission on behalf of the petitioner that while rejecting the
+compounding application submitted by the petitioner, respondent no.1 has not
+properly appreciated and / or considered the reason for not filing the return of
+income by petitioner before due date is concerned, at the outset, it is required to be
+noted that it has nothing to do with the compounding application. It is required to be
+noted that while considering the application for compounding, merits is not required
+to be considered as is to be considered in trial.
+
+6.0. Now, so far as reliance placed upon the decision of the Madras High Court in the
+case of K. Inba Sagaran (supra) relied upon by the learned advocate for the
+petitioner-assessee is concerned, the said decision shall not be applicable to the facts
+of the case on hand, more particularly, while considering the compounding
+application. In the case before the Madras High Court, three different complaints for
+the offence under Section 276CC of the Act for AY 1991-92, 1992-93 and 1993-94
+though were filed and numbered separately, were clubbed together in one case and
+the learned Magistrate passed the orders holding the accused guilty under Section
+276CC on three counts. The question arose whether the offence for which accused
+was charged were distinct or separate and not in any way inter-related and when each
+offence had no connection with other, joinder of charges would become bad in law or
+not and to that it has been observed and held by the Madras High Court that framing
+of charge was defective and violative of Sections 218 and 219 of the Code of Criminal
+Procedure and as judgment was rendered only in one case and there was no finding
+of guilt recorded as regards two other cases, the Madras High Court has observed
+that error committed by the trial Court was of such grave nature that it had caused
+prejudice to accused and therefore, in that view of the matter, conviction and
+sentence passed by the lower Court has to be set aside. Therefore, the said decision
+shall not be applicable to the facts of the case on hand.
+
+7.0. Now, so far as reliance placed upon the decision of the Delhi High Court in the case of Sport
+Infratech (P) Ltd (supra) relied upon by the learned advocate for the petitioner is concerned, the
+said decision also shall not be applicable to the facts of the case on hand.
+
+8.0. Even the learned advocate for the petitioner has requested not to observe anything on merits
+and therefore, we refrain from observing anything on merits, more particularly, the reasons given by
+the petitioner assessee for not filing return of income before due date, even for AY 2013-14.
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+6
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+9.0. In view of the above and for the reasons stated above, the impugned order passed by the
+respondent no.1 rejecting the compounding application submitted by the petitioner cannot be said
+to be either illegal or contrary to the Guidelines, we see no reason to interfere with the same. In view
+of the above and for the reasons stated above, present petition fails and same deserve to be
+dismissed and is accordingly dismissed.”
+
+11. In such circumstances referred to above, the appellant is here before this Court with the present
+appeal.
+
+B. SUBMISSIONS ON BEHALF OF THE APPELLANT
+
+12. Mr. Tushar Hemani, the learned Senior Counsel appearing for the appellant, submitted that an
+offence as contemplated under Section 276CC of the Act is committed upon the failure of the
+assessee in furnishing the return of income within the due date as contemplated under Section
+139(1) of the Act. He submitted that whether the assessee had filed a belated return of income, that
+is, after the expiry of the due date or not, is immaterial and the point in time when the offence under
+Section 276CC is committed is the date immediately following the due date for furnishing the return
+of income as prescribed under Section 139(1) of the Act. Thus, for the AY 2013-14, the appellant
+could be said to have committed the offence on the date immediately following the due date for
+filing of returns for the AY 2013-14. Hence the date for commission of the offence under Section
+276CC for the AY 2013-14 would be 01.11.2013 as the due date for filing the returns for AY 2013- 14
+was 31.10.2023. He emphasised on the fact that the actual date of filing the belated return is of no
+consequence for the purpose of an offence under Section 276CC as otherwise an assessee who has
+missed filing the return before the due date for a given assessment year would never file a belated
+return and the offence would never be committed.
+
+13. He further submitted that as per the 2014 guidelines, the expression “first offence” means
+offence committed prior to the issuance of show cause notice seeking to initiate prosecution as that
+is the earliest point in time when the assessee is put to notice about the offence alleged to have been
+committed by him. Once an assessee is put to notice, all offences alleged to have been committed
+thereafter are not compoundable. However, offences committed prior to the date when the assessee
+is put to notice, would be treated as constituting the “first offence” and hence would be
+compoundable. He submitted that in the facts of the present case, two show cause notices were
+issued against the appellant by the respondent authorities, one for AY 2011-12 issued on 27.10.2014
+and the other for AY 2013-14 issued on 12.03.2015. He argued that the High Court erroneously
+relied upon the actual date of filing of return of income for the AY 2013-14 to hold that the offence
+for the said assessment year was committed after the first show cause notice in respect of AY
+2011-12 had already been received. He submitted that it is not the date of actual filing of the belated
+return of income but the date immediately following the due date for filing of return for the given
+assessment year which should be considered while determining whether the offence is a “first
+offence” as per the 2014 guidelines.
+
+14. After explaining the factual position as aforesaid, he submitted that as the offence under Section
+276CC of the Act could be said to have been committed on 01.11.2013, therefore, it could be said that
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+7
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+the same was committed before the first show cause notice seeking to initiate prosecution for the AY
+2011-12 was issued against the appellant. Thus, even for the AY 2013-14, the offence committed by
+the accused under Section 276CC would come within the scope of the expression “first offence” as it
+is defined in the 2014 guidelines.
+
+15. In such circumstances referred to above, the counsel prayed that there being merit in his appeal,
+the impugned order passed by the High Court be set aside and the respondent authorities be
+directed to accept the compounding application moved by the appellant.
+
+C. SUBMISSIONS ON BEHALF OF THE RESPONDENTS
+
+16. Mrs. Monica Benjamin, the learned counsel appearing for the Revenue, submitted that the
+offence under a particular provision of the Act, for a specific assessment year, can only be
+committed once for that assessment year. She further submitted that the objective of the 2014
+guidelines has never been to compound the same offence every year with no limit on the number of
+years for which it may be compounded.
+
+17. Referring to Clause 8 of the 2014 guidelines, she submitted that the said Clause prescribes a limit
+after which both category of offences, that is, A and B, are not to be generally compounded, by laying
+down that Category A offences will not be generally compounded after the third offence and
+Category B offences will not be generally compounded after the first offence.
+
+18. In response to the contention of the appellant that more than one offence under Section 276CC
+of the Act can be compounded if all such offences were committed before the issuance of the first
+show cause notice for prosecution in relation to any of those offences, she submitted that if the
+aforesaid submission is accepted then it would defeat the very intent and purpose of the 2014
+guidelines, as the said Guidelines are not meant to benefit habitual and repeat offenders intending
+to circumvent the provisions of the Act.
+
+19. She further submitted that the issuance of a show cause notice is not a prerequisite for
+recognising a first offence under the 2014 guidelines. As per the meaning of the expression “first
+offence” as defined in the 2014 guidelines, a first offence can also be said to have been committed
+when such an offence has not been detected by the Department but has been voluntarily disclosed
+by the applicant by filing a compounding application. In view of this, the counsel argued that the
+issuance of a show cause notice could not be said to be a prerequisite for the recognition of a first
+offence.
+
+20. In furtherance of the aforesaid submission, she submitted that the appellant could be said to
+have disclosed the commission of offence for both AY 2011-12 and 2013-14 by belatedly filing his
+returns on 04.03.2013 and 29.11.2014 respectively for both the years, that is, after the due dates
+prescribed for filing the returns for these years had expired. She submitted that it was only after
+such a late filing of returns by the appellant that the Department became aware of both the offences
+and issued the respective show cause notices for the same. Thus, merely because a show cause notice
+was not issued by the Department due to non-detection that an offence under Section 276CC had
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+8
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+been committed, the same cannot be construed as absolving the assessee from the fact that he had
+already committed an offence and disclosed the same by filing the return of income belatedly.
+
+21. She submitted that by virtue of delayed filing of the return of income for AY 2011-12, the
+appellant had disclosed the commission of his first offence prior to the due date of filing return for
+AY 2013-14. Therefore, as the offence under Section 276CC of the Act for the AY 2013-14 was
+committed after the disclosure of the offence under Section 276CC for the AY 2011-12, hence the
+offence for the AY 2013-14 could not be said to be covered within the meaning of the expression
+“first offence” as defined in the 2014 guidelines.
+
+22. Placing emphasis on a letter dated 29.09.2017, she submitted that in the said letter the appellant
+had admitted committing the second offence and having made such an admission, he cannot be
+permitted to retract from it at this stage.
+
+23. The counsel further submitted that Clause 4 of the 2014 guidelines stipulates that compounding
+of offences is not a matter of right and therefore a hyper-technical view should not be taken by the
+Court while interpreting the 2014 guidelines and only such an interpretation which furthers the
+underlying intention behind the guidelines should be adopted.
+
+24. She further submitted that the appellant’s reading of the definition of the expression “first
+offence” under Clause 8 of the 2014 guidelines could be termed as erroneous for the reason that it
+conveniently overlooks the latter part of the definition which provides that the offences that have
+gone undetected by the Department but have been voluntarily disclosed by the applicant would also
+be covered under the definition of the expression “first offence”.
+
+25. In the last, the counsel prayed that this Court may not allow the appellant to take advantage of
+his own wrongs. She prayed that the impugned judgment of the High Court may not be disturbed
+and the appeal be dismissed.
+
+D. ISSUES FOR CONSIDERATION
+
+26. Having heard the learned counsel appearing for the parties and having gone through the
+materials on record, the following questions fall for our consideration:
+
+a. Whether an offence under Section 276CC of the Income Tax Act, 1961 could be said
+to have been committed on the actual date of filing of return of income or on the day
+immediately after the due date for filing of returns as per Section 139(1) of the Act?
+
+b. What is the meaning of the expression “first offence” appearing in Clause 8 of the
+2014 guidelines?
+
+c. What amounts to voluntary disclosure for the purpose of Clause 8 of the 2014
+guidelines?
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+9
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+d. Whether the 2014 guidelines are mandatory or directory in nature?
+
+    E.      ANALYSIS
+
+      i.    Section 276CC of the Income Tax Act, 1961
+
+27. Chapter XXII of the Act deals with offences and prosecutions and consists of Sections 275A to
+280D. Section 276CC of the Act inter-alia provides that if a person fails to furnish the return of
+income which he is required to furnish under sub-section (1) of Section 139 of the Act, then he shall
+be punishable with:
+
+a. Rigorous imprisonment for a term ranging between six months to seven years
+along with fine in cases where the amount of tax which would have been evaded if the
+failure of the person had not been discovered is more than twenty-five hundred
+thousand rupees; and b. Rigorous imprisonment for a term ranging between three
+months to two years and with fine - in any other case.
+
+28. Section 276CC of the Act as it stood at the relevant point in time is reproduced hereinbelow:
+
+“276CC. Failure to furnish returns of income.— If a person wilfully fails to furnish in
+due time the return of fringe benefits which he is required to furnish under
+sub-section (1) of section 115WD or by notice given under sub-section (2) of the said
+section or section 115WH or the return of income which he is required to furnish
+under sub- section (1) of section 139 or by notice given under clause
+
+(i) of sub-section (1) of section 142 or section 148 or section 153A, he shall be
+punishable,—
+
+(i) in a case where the amount of tax, which would have been evaded if the failure had
+not been discovered, exceeds twenty-five hundred thousand rupees, with rigorous
+imprisonment for a term which shall not be less than six months but which may
+extend to seven years and with fine;
+
+(ii) in any other case, with imprisonment for a term which shall not be less than three
+months but which may extend to two years and with fine:
+
+Provided that a person shall not be proceeded against under this section for failure to
+furnish in due time the return of fringe benefits under sub-section (1) of section
+115WD or return of income under sub-section (1) of section 139—
+
+(i) for any assessment year commencing prior to the 1st day of April, 1975; or
+
+(ii) for any assessment year commencing on or after the 1st day of April, 1975, if—
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+10
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+(a) the return is furnished by him before the expiry of the assessment year; or
+
+(b) the tax payable by such person, not being a company, on the total income
+determined on regular assessment, as reduced by the advance tax, if any, paid, and
+any tax deducted at source, does not exceed three thousand rupees.”
+
+29. Sub-clause (b) of clause (ii) of the proviso to Section 276CC was substituted by the Act No. 23 of
+2019 with effect from 01.04.2020. The said sub-clause, as it stands after the amendment, is
+reproduced hereinbelow:
+
+“(b) the tax payable by such person, not being a company, on the total income
+determined on regular assessment, as reduced by the advance tax or self-assessment
+tax, if any, paid before the expiry of the assessment year. and any tax deducted or
+collected at source, does not exceed ten thousand rupees.”
+
+30. The proviso to the aforesaid provision prescribes certain cases in which proceedings under the
+provision would not be initiated and inter alia stipulates that for the assessment years commencing
+after 1st day of April, 1975, no proceedings under Section 276CC shall lie against any person for the
+failure to furnish return of income in due time if the return is furnished by him before the expiry of
+the said assessment year. It further provides that for the assessment years commencing from
+01.04.1975, no proceedings shall be initiated under the provision if the tax payable by the person,
+not being a company, does not exceed ten thousand rupees.
+
+31. Section 276CC punishes the wilful failure by the assessee in furnishing the following types of
+returns in due time:
+
+a. Return of fringe benefits which he is required to furnish under sub-section (1) of
+section 115WD or by notice given under sub-
+
+section (2) of the said section or section 115WH; or b. Return of income which he is
+required to furnish under sub-
+
+section (1) of section 139 or by notice given under clause (i) of sub-section (1) of
+section 142 or section 148 or section 153A.
+
+32. In the case at hand, we are only concerned with the failure of a person in furnishing, in due time,
+the return of income which he is required to furnish under Section 139. Hence, it is also necessary to
+advert to the relevant portions of Section 139 of the Act as well and they are reproduced below:
+
+“139. Return of income.—(1) Every person,—
+
+(a) being a company or a firm; or
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+11
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+(b) being a person other than a company or a firm, if his total income or the total
+income of any other person in respect of which he is assessable under this Act during
+the previous year exceeded the maximum amount which is not chargeable to
+income-tax, shall, on or before the due date, furnish a return of his income or the
+income of such other person during the previous year, in the prescribed form and
+verified in the prescribed manner and setting forth such other particulars as may be
+prescribed :
+
+xxx xxx xxx (4) Anyperson who has not furnished a return within the time allowed to
+him under sub-section (1), may furnish the return for any previous year at any time
+before the end of the relevant assessment year or before the completion of the
+assessment, whichever is earlier.
+
+xxx xxx xxx
+
+8) (a) Where the return under sub-section (1) or sub- section (2) or sub-section (4) for an
+assessment year is furnished after the specified date, or is not furnished, then whether or not the
+Assessing Officer has extended the date for furnishing the return under sub-section (1) or sub-
+section (2), the assessee shall be liable to pay simple interest at fifteen per cent per annum, reckoned
+from the day immediately following the specified date to the date of the furnishing of the return or,
+where no return has been furnished, the date of completion of the assessment under section 144, on
+the amount of the tax payable on the total income as determined on regular assessment, as reduced
+by the advance tax, if any, paid, and any tax deducted at source: Provided that the Assessing Officer
+may, in such cases and under such circumstances as may be prescribed, reduce or waive the interest
+payable by any assessee under this sub-section.
+
+Explanation 1.—For the purposes of this sub-section, “specified date”, in relation to a return for an
+assessment year, means,—
+
+(a) in the case of every assessee whose total income, or the total income of any person in respect of
+which he is assessable under this Act, includes any income from business or profession, the date of
+the expiry of four months from the end of the previous year or where there is more than one
+previous year, from the end of the previous year which expired last before the commencement of the
+assessment year or the 30th day of June of the assessment year, whichever is later;
+
+(b) in the case of every other assessee, the 30th day of June of the assessment year. [...]”
+
+33. Section 139(1) inter alia provides that every person shall, on or before the due date, furnish a
+return of his income during the previous year, in the prescribed form and verified in the prescribed
+manner and setting forth such other particulars as may be prescribed. Sub-section (4) of Section 139
+provides that if a person has failed to furnish the return of income within due time prescribed under
+sub-section (1), then he may furnish the return for any previous year at any time before the end of
+the relevant assessment year or before the completion of the assessment, whichever is earlier.
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+12
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+34. To fully understand the import of Section 276CC of the Act, it is necessary to understand the
+meaning of the expressions “wilfully fails” and “in due time” used in the said provision respectively.
+This Court in Prakash Nath Khanna v. CIT reported in (2004) 9 SCC 686 was called upon to look
+into the scope and meaning of the expression “in due time” appearing in Section 276CC of the Act
+and whether it refers to the time period referred to in Section 139(1) or the time period referred to in
+Section 139(4). This Court, after discussing the various methods of statutory interpretation, took the
+view that the legislative intent behind Section 276CC, undoubtedly, was to restrict the meaning of
+the expression “in due time” used in the said provision to the time period referred to in Section
+139(1) and not to the time period referred to in Section 139(4). Explaining the meaning of the
+expression “wilful failure”, the Court observed that the same has to be adjudicated factually by the
+trial court dealing with the prosecution of the case. The Court further observed that by virtue of
+Section 278E, the trial court has to presume the existence of culpable mental state and it would be
+open to the accused to plead the absence of the same in his defence. The relevant observations made
+by the Court are reproduced hereinbelow:
+
+“13. It is a well-settled principle in law that the court cannot read anything into a
+statutory provision which is plain and unambiguous. A statute is an edict of the
+legislature. The language employed in a statute is the determinative factor of
+legislative intent. The first and primary rule of construction is that the intention of
+the legislation must be found in the words used by the legislature itself. The question
+is not what may be supposed and has been intended but what has been said. “Statutes
+should be construed, not as theorems of Euclid”, Judge Learned Hand said, “but
+words must be construed with some imagination of the purposes which lie behind
+them”. (See Lenigh Valley Coal Co. v. Yensavage [218 FR 547] .) The view was
+reiterated in Union of India v. Filip Tiago De Gama of Vedem Vasco De Gama [(1990)
+1 SCC 277 : AIR 1990 SC 981] and Padma Sundara Rao v. State of T.N. [(2002) 3 SCC
+533]
+
+14. In D.R. Venkatachalam v. Dy. Transport Commr.
+
+[(1977) 2 SCC 273] it was observed that courts must avoid the danger of a priori determination of
+the meaning of a provision based on their own preconceived notions of ideological structure or
+scheme into which the provision to be interpreted is somewhat fitted. They are not entitled to usurp
+legislative function under the disguise of interpretation.
+
+15. While interpreting a provision the court only interprets the law and cannot legislate it. If a
+provision of law is misused and subjected to the abuse of process of law, it is for the legislature to
+amend, modify or repeal it, if deemed necessary. (See Rishabh Agro Industries Ltd. v. P.N.B. Capital
+Services Ltd. [(2000) 5 SCC 515] ) The legislative casus omissus cannot be supplied by judicial
+interpretative process.
+
+16. Two principles of construction — one relating to casus omissus and the other in regard to
+reading the statute as a whole — appear to be well settled. Under the first principle a casus omissus
+cannot be supplied by the court except in the case of clear necessity and when reason for it is found
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+13
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+in the four corners of the statute itself but at the same time a casus omissus should not be readily
+inferred and for that purpose all the parts of a statute or section must be construed together and
+every clause of a section should be construed with reference to the context and other clauses thereof
+so that the construction to be put on a particular provision makes a consistent enactment of the
+whole statute. This would be more so if literal construction of a particular clause leads to manifestly
+absurd or anomalous results which could not have been intended by the legislature. “An intention to
+produce an unreasonable result”, said Danckwerts, L.J., in Artemiou v. Procopiou [(1966) 1 QB 878 :
+(1965) 3 All ER 539 : (1965) 3 WLR 1011 (CA)] (All ER p. 544 I), “is not to be imputed to a statute if
+there is some other construction available”. Where to apply words literally would “defeat the obvious
+intention of the legislation and produce a wholly unreasonable result”, we must “do some violence to
+the words” and so achieve that obvious intention and produce a rational construction. [Per Lord
+Reid in Luke v. IRC [1963 AC 557 : (1963) 1 All ER 655 : (1963) 2 WLR 559 (HL)] where at AC p. 577
+he also observed : (All ER p. 664 I) “This is not a new problem, though our standard of drafting is
+such that it rarely emerges.”]
+
+17. The heading of the section or the marginal note may be relied upon to clear any doubt or
+ambiguity in the interpretation of the provision and to discern the legislative intent. In CIT v.
+Ahmedbhai Umarbhai and Co.
+
+[1950 SCC 94 : AIR 1950 SC 134] after referring to the view expressed by Lord Macnaghten in Balraj
+Kunwar v. Jagatpal Singh [ILR (1904) 26 All 393 : 31 IA 132 : 1 All LJ 384 (PC)] it was held that
+marginal notes in an Indian statute, as in an Act of Parliament cannot be referred to for the purpose
+of construing the statute. Similar view was expressed in Board of Muslim Wakfs, Rajasthan v. Radha
+Kishan [(1979) 2 SCC 468] and Kalawatibai v. Soiryabai [(1991) 3 SCC 410 : AIR 1991 SC 1581] .
+Marginal note certainly cannot control the meaning of the body of the section if the language
+employed there is clear. (See Nandini Satpathy v. P.L. Dani [(1978) 2 SCC 424 : 1978 SCC (Cri) 236 :
+AIR 1978 SC 1025] .) In the present case as noted above, the provisions of Section 276-CC are in
+clear terms. There is no scope for trying to clear any doubt or ambiguity as urged by learned counsel
+for the appellants. Interpretation sought to be put on Section 276- CC to the effect that if a return is
+filed under sub-section (4) of Section 139 it means that the requirements of sub- section (1) of
+Section 139 would stand complied with cannot be accepted for more reasons than one.
+
+18. One of the significant terms used in Section 276-CC is “in due time”. The time within which the
+return is to be furnished is indicated only in sub-section (1) of Section 139 and not in sub-section (4)
+of Section 139. That being so, even if a return is filed in terms of sub-section (4) of Section 139 that
+would not dilute the infraction in not furnishing the return in due time as prescribed under sub-
+section (1) of Section 139. Otherwise, the use of the expression “in due time” would lose its relevance
+and it cannot be said that the said expression was used without any purpose. Before substitution of
+the expression “clause
+
+(i) of sub-section (1) of Section 142” by the Direct Tax Laws (Amendment) Act, 1987 w.e.f. 1-4-1989,
+the expression used was “sub-section (2) of Section 139”. At the relevant point of time the assessing
+officer was empowered to issue a notice requiring furnishing of a return within the time indicated
+therein. That means the infractions which are covered by Section 276-CC relate to non-furnishing of
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+14
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+return within the time in terms of sub- section (1) or indicated in the notice given under sub-
+
+section (2) of Section 139. There is no condonation of the said infraction, even if a return is filed in
+terms of sub- section (4). Accepting such a plea would mean that a person who has not filed a return
+within the due time as prescribed under sub-section (1) or (2) of Section 139 would get benefit by
+filing the return under Section 139(4) much later. This cannot certainly be the legislative intent.
+
+19. Another plea which was urged with some amount of vehemence was that the provisions of
+Section 276-CC are applicable only when there is discovery of the failure regarding evasion of tax. It
+was submitted that since the return under sub-section (4) of Section 139 was filed before the
+discovery of any evasion, the provision has no application. The case at hand cannot be covered by
+the expression “in any other case”. This argument though attractive has no substance.
+
+20. The provision consists of two parts. First relates to the infractions warranting penal
+consequences and the second, measure of punishment. The second part in turn envisages two
+situations. The first situation is where there is discovery of the failure involving the evasion of tax of
+a particular amount. For the said infraction stringent penal consequences have been provided.
+Second situation covers all cases except the first situation elaborated above.
+
+21. The term of imprisonment is higher when the amount of tax which would have been evaded but
+for the discovery of the failure to furnish the return exceeds one hundred thousand rupees. If the
+plea of the appellants is accepted, it would mean that in a given case where there is infraction and
+where a return has not been furnished in terms of sub- section (1) of Section 139 or even in response
+to a notice issued in terms of sub-section (2), the consequences flowing from non-furnishing of
+return would get obliterated. At the relevant point of time Section 139(4)(a) permitted filing of
+return where return has not been filed within sub-section (1) and sub-section (2). The time-limit was
+provided in clause (b). Section 276-CC refers to “due time” in relation to sub-sections (1) and (2) of
+Section 139 and not to sub-section (4). Had the legislature intended to cover sub-section (4) also,
+use of the expression “Section 139” alone would have sufficed. It cannot be said that the legislature
+without any purpose or intent specified only sub-sections (1) and (2) and the conspicuous omission
+of sub-section (4) has no meaning or purpose behind it. Sub- section (4) of Section 139 cannot by
+any stretch of imagination control operation of sub-section (1) wherein a fixed period for furnishing
+the return is stipulated. The mere fact that for purposes of assessment and carrying forward and to
+set off losses it is treated as one filed within sub-section (1) or (2) cannot be pressed into service to
+claim it to be actually one such, though it is factually and really not by extending it beyond its
+legitimate purpose.
+
+22. Whether there was wilful failure to furnish the return is a matter which is to be adjudicated
+factually by the court which deals with the prosecution case. Section 278-E is relevant for this
+purpose and the same reads as follows:
+
+“278-E. Presumption as to culpable mental state.— (1) In any prosecution for any
+offence under this Act which requires a culpable mental state on the part of the
+accused, the court shall presume the existence of such mental state but it shall be a
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+15
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+defence for the accused to prove the fact that he had no such mental state with
+respect to the act charged as an offence in that prosecution.
+
+Explanation.—In this sub-section, ‘culpable mental state’ includes intention, motive or knowledge of
+a fact or belief in, or reason to believe, a fact.
+
+(2) For the purposes of this section, a fact is said to be proved only when the court believes it to exist
+beyond reasonable doubt and not merely when its existence is established by a preponderance of
+probability.”
+
+23. There is a statutory presumption prescribed in Section 278-E. The court has to presume the
+existence of culpable mental state, and absence of such mental state can be pleaded by an accused as
+a defence in respect to the act charged as an offence in the prosecution. Therefore, the factual
+aspects highlighted by the appellants were rightly not dealt with by the High Court. This is a matter
+for trial. It is certainly open to the appellants to plead absence of culpable mental state when the
+matter is taken up for trial.” (Emphasis supplied)
+
+35. What is discernable from the aforesaid decision is that an offence under Section 276CC could be
+said to have been committed as soon as there is a failure on the part of the assessee in furnishing the
+return of income within the due time as prescribed under Section 139(1) of the Act. Subsequent
+furnishing of the return of income by the assessee within the time limit prescribed under
+sub-section (4) of Section 139 or before prosecution is initiated does not have any bearing upon the
+fact that an offence under Section 276CC has been committed on the day immediately following the
+due date for furnishing return of income.
+
+36. Thus, the appellant is right in his contention that the point in time when the offence under
+Section 276CC could be said to be committed is the day immediately following the due date
+prescribed for filing of return of income under Section 139(1) of the Act, and the actual date of filing
+of the return of income at a belated stage would not affect in any manner the determination of the
+date on which the offence under Section 276CC of the Act was committed.
+
+37. This can also be discerned from Section 139(8) of the Act which reads as follows:
+
+“Where the return under sub-section (1) or sub-section (2) or sub-section (4) for an
+assessment year is furnished after the specified date, or is not furnished, then
+whether or not the Assessing Officer has extended the date for furnishing the return
+under sub-section (1) or sub-section (2), the assessee shall be liable to pay simple
+interest at fifteen per cent per annum, reckoned from the day immediately following
+the specified date to the date of the furnishing of the return or, where no return has
+been furnished, the date of completion of the assessment under section 144, on the
+amount of the tax payable on the total income as determined on regular assessment,
+as reduced by the advance tax, if any, paid, and any tax deducted at source:
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+16
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+Provided that the Assessing Officer may, in such cases and under such circumstances
+as may be prescribed, reduce or waive the interest payable by any assessee under this
+sub- section.”
+
+38. A perusal of the aforesaid provision makes it clear that irrespective of whether the return of
+income is filed by an assessee after the specified date or is not furnished at all, the assessee shall be
+liable to pay simple interest at the rate 15% reckoned from the day immediately following the
+specified date notwithstanding the fact that the Assessing Officer has extended the date for
+furnishing of return.
+
+39. Accepting the contention of the respondents would mean that the commission of an offence
+under Section 276CC is made contingent upon the filing of the actual belated return by an assessee.
+This could never have been the intention of the legislature in enacting the provision as such a
+reading would mean that no assessee would file a return of income after the due date has expired
+and despite such failure would be able to escape any liability under Section 276CC of the Act.
+
+40. Having discussed the scope of Section 276CC and the ingredients required to constitute an
+offence under the said provision, the next question that falls for us is whether the appellant could be
+said to have committed an offence under Section 276CC of the Act and if yes, then whether the
+appellant is entitled to the benefit of compounding of the offence under the relevant compounding
+guidelines.
+
+41. The due-date for filing the return of income for the AY 2011-12 was 30.09.2011. The appellant
+filed his return with delay on 04.03.2013. Hence, as the return was filed beyond the due date for
+filing the return, an offence under Section 276CC could be said to have been committed by the
+appellant prima facie.
+
+42. Similarly, the due date for filing the return of income for the AY 2013- 14 was 31.10.2013,
+whereas the appellant filed the return for the said year on 29.11.2014. Hence, the appellant once
+again breached the requirement of Section 276CC and thus committed an offence as defined under
+the said provision.
+
+43. Even otherwise, it has not been disputed by the appellant that an offence under Section 276CC
+was committed by him for AYs 2011-12 and 2013-14 respectively, and he had preferred
+compounding applications for both the assessment years. While his compounding application for
+the AY 2011-12 came to be allowed, his compounding application for the AY 2013-14 was rejected by
+Respondent no. 1 and the rejection was upheld by the High Court vide the impugned order.
+
+44. In view of the dictum laid in Prakash Nath Khanna (supra), the date for commission of both of
+these offences would be the day falling immediately next to the due date for filing of return, that is
+01.10.2011 for AY 2011-12 and 01.11.2013 for the AY 2013-14.
+
+45. The pertinent question that now arises is whether the offences committed by the appellant under
+Section 276CC of the Act could be said to be compoundable under the relevant provision of the Act
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+17
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+read with the appropriate compounding guidelines issued from time to time.
+
+At the outset it is important to ascertain the compounding guidelines which would be applicable for
+the purpose of adjudication of the compounding application made by the appellant.
+
+46. The 2014 guidelines superseded the 2008 guidelines and came into effect from 01.01.2015.
+Clause 2 of the 2014 guidelines provided that all compounding applications received on or after
+01.01.2015 shall be decided in accordance with the 2014 guidelines whereas all applications received
+prior to 01.01.2015 would be governed by the 2008 guidelines which came into effect on
+16.05.2008.
+
+47. In the case at hand, the compounding application for the AY 2011-12 was made on 11.11.2014 and
+thus would be governed by the 2008 guidelines. As the compounding application for the AY 2013-14
+was preferred by the appellant on 19.03.2015, hence it would be governed by the 2014 guidelines.
+Since the present appeal is only concerned with the compounding application for the AY 2013-14,
+hence we are limiting our discussion to the 2014 guidelines. However, as the compounding
+guidelines are framed to guide the exercise of power of compounding conferred upon the CCIT and
+DGIT under Section 279(2) of the Act, hence we deem it appropriate to first examine the provisions
+of the Act before discussing the guidelines.
+
+ii. Provisions pertaining to compounding of offences
+
+48. Section 279 of the Act is reproduced hereinbelow:
+
+“279. Prosecution to be at instance of Principal Chief Commissioner or Chief
+Commissioner or Principal Commissioner or Commissioner.— (1) A person shall not
+be proceeded against for an offence under section 275A, section 275B, section 276,
+section 276A, section 276B, section 276BB, section 276C, section 276CC, section
+276D, section 277, section 277A or section 278 except with the previous sanction of
+the Principal Commissioner or Commissioner or Commissioner (Appeals) or the
+appropriate authority:
+
+Provided that the Principal Chief Commissioner or Chief Commissioner or, as the
+case may be, Principal Director General or Director General may issue such
+instructions or directions to the aforesaid income-tax authorities as he may deem fit
+for institution of proceedings under this sub- section.
+
+Explanation.—For the purposes of this section, “appropriate authority” shall have the
+same meaning as in clause (c) of section 269UA.
+
+(1A) A person shall not be proceeded against for an offence under section 276C or
+section 277 in relation to the assessment for an assessment year in respect of which
+the penalty imposed or imposable on him under section 270A or clause (iii) of
+sub-section (1) of section 271 has been reduced or waived by an order under section
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+18
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+273A.
+
+(2) Any offence under this Chapter may, either before or after the institution of
+proceedings, be compounded by the Principal Chief Commissioner or Chief
+Commissioner or a Principal Director General or Director General.
+
+(3) Where any proceeding has been taken against any person under sub-section (1),
+any statement made or account or other document produced by such person before
+any of the income-tax authorities specified in clauses (a) to (g) of section 116 shall not
+be inadmissible as evidence for the purpose of such proceedings merely on the
+ground that such statement was made or such account or other document was
+produced in the belief that the penalty imposable would be reduced or waived, under
+section 273A or that the offence in respect of which such proceeding was taken would
+be compounded.
+
+Explanation.—For the removal of doubts, it is hereby declared that the power of the Board to issue
+orders, instructions or directions under this Act shall include and shall be deemed always to have
+included the power to issue instructions or directions (including instructions or directions to obtain
+the previous approval of the Board) to other income-tax authorities for the proper composition of
+offences under this section.”
+
+49. Sub-section (1) of Section 279 of the Act provides that any prosecution for the commission of an
+offence under Sections 275A, 275B, 276, 276A, 276B, 276BB, 276C, 276CC, 276D, 277, 277A or 278
+of the Act respectively cannot be launched except with the previous sanction of the Principal
+Commissioner or Commissioner or Commissioner (Appeals) or the appropriate authority. The
+proviso to Sub-section (1) of Section 279 empowers the Principal Chief Commissioner or the Chief
+Commissioner or the Principal Director General or Director General to issue appropriate directions
+to the authorities specified in sub-Section (1) for the initiation of prosecution.
+
+50. Sub-section (2) of Section 279 empowers the Principal Chief Commissioner, the Chief
+Commissioner, the Principal Director General and the Director General to compound any offence
+defined under Chapter XXII of the Act, either before or after the initiation of proceedings.
+
+51. While interpreting the nature of the power conferred upon the Principal Chief Commissioner
+under Section 279, this Court in Union of India v. Banwari Lal Agarwal reported in (1998) 7 SCC 652
+held that sub- section (2) of the provision is enabling in nature and cannot be construed as allowing
+the assessee to demand compounding as a matter of right. The relevant observations are reproduced
+hereinbelow:
+
+“7. We further find that sub-section (2) of Section 279 is a provision which enables
+the Chief Commissioner or the Director General to compound any offence either
+before or after the institution of proceedings. There is no warrant in interpreting this
+sub-section to mean that before any prosecution is launched, either a show-cause
+notice should be given or an opportunity afforded to compound the matter. The
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+19
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+enabling provision cannot give a right to a party to insist on the Chief Commissioner
+or the Director General to make an offer of compounding before the prosecution is
+launched.”
+
+52. The effect and scope of the Explanation to Section 279, which was inserted vide the Finance Act,
+1991 (Act 2 of 1991) was explained by this Court in the case of Y.P. Chawla v. M.P. Tiwari reported in
+(1992) 2 SCC 672. It was observed therein that the Explanation serves as a proviso to Section 279(2)
+of the Act, meaning thereby that the exercise of power under this section by the Commissioner must
+adhere to the periodically issued instructions by the Board. The Explanation grants the Board the
+authority to issue orders, instructions, or directions concerning the proper composition of offences
+under Section 279(2) and explicitly allows for directives requiring prior approval from the Board.
+The Court observed that when Section 279(2) is read alongside the Explanation, it becomes clear
+that the Commissioner must follow the instructions given by the Board when exercising discretion
+under this section. The relevant observations made therein are reproduced hereinbelow:
+
+“2. Whether the Central Board of Direct Taxes, (the Board) under Section 119 of the
+Income Tax Act, 1961 (the Act) can issue instructions to control the discretion of the
+Commissioner of Income Tax under Section 279(2) of the Act, to compound the
+offences, is the short question for our consideration.
+
+xxx xxx xxx
+
+9. This Court in Navnitlal C. Javeri v. K.K. Sen, Appellant Assistant C.I.T. [(1965) 1 SCR 909 : AIR
+1965 SC 1375 :
+
+(1965) 56 ITR 198] , Ellerman Lines Ltd. v. C.I.T. [(1972) 4 SCC 474 : 1974 SCC (Tax)
+304] and in K.P. Varghese v. ITO [(1981) 4 SCC 173 : 1981 SCC (Tax) 293] has held
+that circulars issued by the Central Board of Direct Taxes under Section 119(1) of the
+Act are binding on all officers and persons employed in the execution of the Act even
+if they deviate from the provisions of the Act. The High Court has discussed these
+judgments in detail and has distinguished them on plausible grounds. It is not
+necessary for us to go into this question because the legal position has altered to the
+advantage of the Revenue by the introduction of an Explanation to Section 279 of the
+Act by the Finance Act (2 of 1991) which has been made operative with effect from
+April 1, 1962. The Explanation is as under:— “Explanation.— For the removal of
+doubts, it is hereby declared that the power of the Board to issue orders, instructions,
+or directions under this Act shall include and shall be deemed always to have
+included the power to issue instructions or directions (including instructions or
+directions to obtain the previous approval of the Board) to other Income Tax
+authorities for the proper composition of offences under this section.”
+
+10. The Explanation is in the nature of a proviso to Section 279(2) of the Act with the result that the
+exercise of power by the Commissioner under the said section has to be subject to the instructions
+issued by the Board from time to time. The Explanation empowers the Board to issue orders,
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+20
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+instructions or directions for the proper composition of the offences under Section 279(2) of the Act
+and further specifically provides that directions for obtaining previous approval of the Board can
+also be issued. Reading Section 279(2) along with the Explanation, there is no manner of doubt that
+the Commissioner has to exercise the discretion under Section 279(2) of the Act in conformity with
+the instructions issued by the Board from time to time.” iii. Guidelines for Compounding of Offences
+under Direct Tax Laws, 2014
+
+53. The Guidelines for Compounding of Offences under Direct Tax Laws, 2014 were issued by the
+Central Board of Direct Taxes, Department of Revenue, Government of India in supersession of the
+previous guidelines which were issued on 16.05.2008. These guidelines were one in line of many
+guidelines which were issued by the Central Board of Direct Taxes from time to time to provide
+guiding principles for the exercise of the power conferred by section 279(2) of the Act which allows
+compounding of offences by the Principal Chief Commissioner or Chief Commissioner or Principal
+Director General or Director General either before or after the institution of proceedings.
+
+54. Paragraph 2 of the 2014 guidelines specifies the date from which the guidelines would come into
+force and also the applications which would be governed by it. Paragraph 3 stipulates the authorities
+who are authorised to compound the offences in exercise of the power conferred under Section
+279(2).
+
+55. Paragraph 4 of the 2014 guidelines provides that compounding of offences is not a matter of
+right of the assessee. However, the offences may be compounded by the competent authority upon
+satisfaction that the eligibility conditions prescribed in the 2014 guidelines are being fulfilled and
+keeping in view factors like the conduct of the assessee, nature and magnitude of the offence, and of
+course the facts and circumstances of each case. Thus, what can be discerned from Paragraph 4 is
+that while it stipulates that the eligibility conditions prescribed in the guidelines are to be satisfied
+necessarily, the ultimate discretion to compound the offence(s) or not has to be guided by factors
+which include the conduct of assessee, nature and magnitude of the offence and the unique facts of
+each case.
+
+56. Paragraph 5 of the 2014 guidelines provides that the guidelines would not be applicable for the
+compounding of any prosecution initiated under the Indian Penal Code, 1860 and the same can only
+be withdrawn under Section 321 of the Code of Criminal Procedure, 1973.
+
+57. Paragraph 6 of the guidelines provides two categories of offences which can be compounded -
+category A and category B offences. Category A offences include the offences defined under Sections
+276, 276B 276BB, 276DD, 276E, 277 and 278 of the Act respectively. Whereas Category B offences
+include the offences defined under Sections 275A, 275B, 276, 276A, 276AA, 276AB, 276C(1),
+276C(2), 276CC, 276CCC, 276D, 277, 277A, 278 of the Act respectively. Thus, the offence involved in
+the case at hand being one under Section 276CC of the Act would be governed by the rules
+applicable to the compounding of Category B offences.
+
+58. Paragraph 7 of the 2014 guidelines prescribes certain eligibility conditions which have to be
+satisfied by the applicant before his application for compounding can be accepted by the competent
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+21
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+authority. The conditions, as prescribed under the guidelines, are reproduced hereinbelow:
+
+“7. Eligibility Conditions for compounding:
+
+The following conditions should be satisfied for considering compounding of an
+offence :-
+
+i. The person makes an application to the CCIT/DGIT having jurisdiction over the
+case for compounding of the offence(s) in the prescribed format (Annexure-1) ii. The
+person has paid the outstanding tax, interest, penalty and any other sum due, relating
+to the offence for which compounding has been sought.
+
+iii. The person undertakes to pay the compounding charges including the
+compounding fee, the prosecution establishment expenses and the litigation
+expenses including counsel's fee, if any, determined and communicated by the
+CCIT/DGIT concerned.
+
+iv. The person undertakes to withdraw appeal filed by him, if any, in case the same
+has a bearing on the offence sought to be compounded. In case such appeal has
+mixed grounds, some of which may not be related to the offence under consideration,
+the undertaking may be taken for appropriate modification in grounds of such
+appeal.”
+
+59. Paragraph 8 of the guidelines prescribes offences which are generally not to be compounded
+under the compounding guidelines. It provides that a Category A offence which is sought to be
+compounded by an applicant in whose case compounding was allowed in the past in an offence
+under the same section for which the present compounding application has been made on three
+occasions or more shall not be compounded. Secondly, it prescribes that category B offences will not
+be generally compounded other than the first offence as defined in the guidelines. A “first offence”
+has been defined by Paragraph 8 as follows:
+
+“First offence means offence under any of the Direct Tax Laws committed prior to (a)
+the date of issue of any show- cause notice for prosecution or (b) any intimation
+relating to prosecution by the Department to the person concerned or (c) launching
+of any prosecution, whichever is earlier;
+
+OR Offence not detected by the department but voluntarily disclosed by a person
+prior to the filing of application for compounding of offence in the case under any
+Direct Tax Acts. For this purpose, offence is relevant if it is committed by the same
+entity. The first offence is to be determined separately with reference to each section
+of the Act under which it is committed.”
+
+60. A perusal of the reproduced portion of Paragraph 8 shows that the expression “first offence” has
+been defined under the compounding guidelines as any offence committed:
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+22
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+a. Prior to the date of issuance of any show cause notice for prosecution in relation to
+the said offence; or b. Prior to any intimation relating to prosecution by the
+department to the person concerned or prior to the launching of any prosecution,
+whichever is earlier.
+
+61. Further, the expression “first offence” is also defined to include any offence which has not been
+detected by the Department, but has been voluntarily disclosed by a person prior to the filing of an
+application for compounding of offence in the case under any direct tax Acts. Clause 8 further
+clarifies that the first offence would be determined separately with reference to each section of the
+Act under which it is committed and it would be relevant only if it is committed by the same entity.
+
+62. Paragraph 8 further prescribes certain additional categories of offences which are generally not
+to be considered for compounding. They are reproduced hereinbelow:
+
+“iii. Offences committed by a person who, as a result of investigation conducted by
+any Central or State agency and as per information available with the CCIT/DGIT
+concerned, has been found involved, in any manner, in anti-national/terrorist
+activity.
+
+iv. Offences committed by a person who, was convicted by a court of law for an
+offence under any law, other than the Direct Taxes laws, for which the prescribed
+punishment was imprisonment for two years or more, with or without fine, and
+which has a bearing on the offence sought to be compounded.
+
+v. Offences committed by a person which, as per information available with the
+CCIT/DGIT concerned, have a bearing on a case under investigation (at any stage
+including enquiry, filing of FIR/complaint) by Enforcement Directorate, CBI, Lokpal,
+Lokayukta or any other Central or State agency.
+
+vi. Offences committed by a person for which he was convicted by a court of law
+under Direct Taxes laws.
+
+vii. Offences committed by a person for which complaint was filed with the
+competent court 12 months prior to receipt of the application for compounding.
+
+viii. Offences committed by a person whose application for 'plea-bargaining' under
+Chapter XXI-A of 'Code of Criminal Procedure' is pending in a Court or a Court has
+recorded that a 'mutually satisfactory disposition of such an application is not worked
+out'.
+
+ix. Any other offence, which the CCIT/DGIT concerned considers not fit for
+compounding in view of its nature and magnitude.”
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+23
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+63. Paragraph 9 of the 2014 guidelines empowers the Minister of Finance to relax the restrictions
+stipulated in Paragraph 8 of the guidelines for the purposes of compounding in a deserving case
+upon the consideration of a report from the Board on a petition made by an applicant.
+
+64. Paragraph 10 of the 2014 guidelines prescribes the competent authority for the purpose of
+compounding an offence under the guidelines. Paragraph 11 provides for the compounding
+procedure.
+
+65. Paragraph 12 provides for the compounding fee which would be applicable to the compounding
+of offences committed under specific provisions of the Act. Paragraph 12.4 prescribes the
+compounding fee applicable to offences committed under Section 276CC and is reproduced
+hereinbelow:
+
+“12.4 Section 276CC- Failure to furnish returns of income.
+
+12.4.1 2% per month or part of a month of the tax and interest determined on
+assessment or reassessment, in relation to return of income that was required to be
+furnished under section 139(1) or section 142(1) or section 148 or section 153A/153C
+as the case may be, existing on the date of conveyance of compounding charges to the
+applicant, determined after rectification u/s 154 of the Act, if any and as reduced by
+the tax deducted at source and advance tax, if any, paid during the financial year
+immediately preceding the assessment year, reckoned from the date immediately
+following the date on which the return of income was due to be furnished to the date
+of furnishing of the return or where no return was furnished, to the date of
+completion of the assessment.
+
+12.4.2 Where, before the date of furnishing of the return or where no return was
+furnished before the date of completion of assessment, any tax is paid by the person
+u/s 140A, compounding fee shall be calculated in the manner prescribed above up-to
+the date on which the tax is so paid; and thereafter, the fee shall be calculated at the
+aforesaid rate on the amount of tax and interest determined on the assessment or
+re-assessment as the case may be, determined after rectification u/s 154 of the Act, if
+any, as reduced by the TDS, TCS, advance tax and tax paid u/s 140A before filing of
+the return of income or where no return was furnished from the date of completion of
+assessment or reassessment.” (Emphasis supplied)
+
+66. A perusal of Paragraph 12.4 of the 2014 guidelines as reproduced hereinabove shows that the
+compounding fee to be levied in the case of an offence under Section 276CC is to be reckoned from
+the date immediately following the date on which return was due. This is in consonance with Section
+139(8) of the Act and further fortifies the argument of the appellant that it is not the date of actual
+filing of belated return, but the date immediately following the due date for filing of return which is
+to be considered as the date of commission of the offence.
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+24
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+67. Paragraph 8 of the 2014 guidelines provides that a category B offence will generally not be
+compounded except when it is the first offence committed by the applicant. As discussed aforesaid,
+the offence committed by the applicant would be covered by the expression “first offence” if it is
+committed prior to:
+
+a. Issuance of any show-cause notice for prosecution; or b. Intimation relating to any
+prosecution by the Department to the applicant; or c. Launch of any prosecution,
+whichever is earlier.
+
+68. In the case at hand, the show cause notice for the initiation of prosecution for the AY 2011-12
+was the earliest in time and hence what falls for our determination is whether the offence under
+Section 276CC for the AY 2013-14 could be said to have been committed before the show cause
+notice for initiation of prosecution for the AY 2011-12 was issued by the Department.
+
+69. As discussed above, the show cause notice for the AY 2011-12 was issued to the appellant on
+27.10.2014. However, the offence under Section 276CC of the Act could be said to have been
+committed on the dates immediately following the due date for furnishing the return of income for
+both these assessment years respectively. Thus, the offence for the AY 2011-12 could be said to have
+been committed on 01.10.2011 and the offence for the AY 2013-14 could be said to have been
+committed on 01.11.2013.
+
+70. Therefore, it can be said without a cavil of doubt that both the offences under Section 276CC of
+the Act were committed prior to the date of issue of any show cause notice for prosecution.
+
+71. It was submitted by the respondents that even if the offences committed by the appellant for AY
+2011-12 and AY 2013-14 could be said to have been committed before the issuance of the show cause
+notice dated 27.10.2014, the appellant would still be covered by the subsequent part of the definition
+of “first offence” as the appellant had voluntarily disclosed the commission of the offences for the AY
+2011-12 and 2013- 14 respectively by filing belated return of income for the said assessment years. In
+other words, the respondents contended that the very act of filing belated return of income by the
+appellant amounts to voluntary disclosure of commission of offence for the purpose of Paragraph 8
+of the 2014 guidelines which defines the expression “first offence”. The latter part of the definition of
+the expression “first offence” reads as follows:
+
+“Offence not detected by the department but voluntarily disclosed by a person prior
+to the filing of application for compounding of offence in the case under any Direct
+Tax Acts. For this purpose, offence is relevant if it is committed by the same entity.
+The first offence is to be determined separately with reference to each section of the
+Act under which it is committed.”
+
+72. We find it difficult to agree with the contention advanced by the respondents that
+even if the appellant is not covered by the first part of the definition of the expression
+“first offence”, he will still be covered by the latter half which is reproduced in the
+preceding paragraph.
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+25
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+Paragraph 8 of the 2014 guidelines has defined a “first offence” in two different manners:
+
+a. First, all those offences which are committed by the assessee prior to a formal
+intimation of his liability for being prosecuted by the Department are to be treated as
+“first offence” and it shall be open to the assessee to pray for the compounding of
+such offences subject to other requirements being fulfilled.
+
+b. Second, any offence which is voluntarily disclosed by the assessee before its
+detection by the Department would also be treated as a “first offence”.
+
+73. The scheme that permeates Paragraph 8 of the 2014 guidelines allows only those
+offences to be treated as the “first offence” which are committed by the assessee
+either prior to a notice that he is liable to prosecution under the Act for the
+commission of such offences or those offences which are voluntarily disclosed by the
+assessee to the Department before they come to be detected. The latter part of the
+definition of the expression “first offence” is not to curtail the scope of the first half
+but to expand its ambit by including those cases where the assessee comes forward on
+his own initiative and discloses the commission of the offence. The meaning as
+sought to be given by the respondents to Paragraph 8 of the 2014 guidelines would
+turn the very purpose of having a two-fold definition of “first offence” on its head and
+thus cannot be accepted for it would take away the incentive of coming forward and
+voluntarily disclosing the commission of offences from erring-assessees.
+
+74. Voluntary disclosure for the purpose of Paragraph 8 of the 2014 guidelines has to
+be construed in a manner which ensures that such disclosure on part of the assessee
+saves the Department from the trials and tribulations of having to detect the
+commission of offence by the assessee by setting into motion its own machinery of
+detection of offences. Neither the filing of belated return of income by the assessee
+nor the making of an application for compounding of offence after a show cause
+notice has already been issued to the assessee fulfills this underlying idea of saving
+the Department from the inconvenience of detecting the offence. Even after a belated
+return of income is filed, the Department is still required to process the return,
+identify the cases wherein offences have been committed, issue show cause notices to
+the defaulting assessees and thereafter prosecute the offenders to recover the dues
+and punish the offenders. A voluntary disclosure by the assessee before the stage of
+detection by the Department besides being economically viable also saves time and
+efforts on part of the Department and also ensures that the dues are recovered
+promptly.
+
+75. The primary purpose of the prosecution provisions enshrined in Chapter XXII of
+the Act is to ensure the penalization of offenders adjudged guilty of tax evasion and
+other tax-related offenses, while simultaneously instilling a deterring effect in the
+minds of those who might contemplate circumventing the payment of lawful taxes.
+When an assessee voluntarily discloses the commission of an offence, he cannot be
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+26
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+said to have the intention of evading payment of taxes.
+
+76. The appellant submitted that the 2014 guidelines are directory in nature and the
+respondents could not have solely relied upon the guidelines to reject his application
+for compounding without taking into account the attendant extraordinary
+circumstances pointed out by the him as the cause for the commission of the
+offences. The appellant placed reliance on a decision of the Delhi High Court
+delivered in the case of Sports Infratech P. Ltd. & Anr. v. Deputy Commissioner of
+Income-tax reported in 2017 SCC OnLine Del 6543 in support of his submission.
+
+77. In Sports Infratech (supra), the petitioner therein assailed the order rejecting its
+application for compounding of the offence under Section 276B of the Act. The
+application was rejected on the ground that the petitioner did not fulfil the criteria for
+consideration of its application as per the guidelines issued by the CBDT. Allowing
+the writ petition, the High Court observed that an application for compounding of an
+offence cannot be rejected without having regard to the specific facts of the case.
+
+The Court highlighted that the guidelines do not limit the authorities from exercising their
+discretion and therefore the authorities, while exercising their power under Section 279, are
+required to consider the objective facts in the application before it. The relevant observations from
+the said decision are reproduced hereinbelow:
+
+“6. The learned counsel for the Revenue urges that the binding nature of the Board's
+instructions and guidelines is apparent from Explanation to section 279(3) which
+clarifies that the power to grant or refuse compounding is essentially discretionary
+and actually administrative. Therefore, the guidelines framed for its exercise under
+section 279 are binding upon all Revenue authorities including the Chief
+Commissioner. Learned counsel relied upon the Supreme Court decision in Asst. CIT
+v. Velliappa Textiles Ltd. (2003) 263 ITR 550 (SC) to highlight that compounding
+application cannot be concluded to as a matter of right but rather is subject to
+exercise of discretion. There is no quarrel with the proposition that power to accept a
+plea for compounding or refusal is essentially discretionary. The exercise, however, in
+each case is dependent upon the authority who has to apply his or her mind
+judiciously to the circumstances of each case. The rejection of the petitioner's
+application in this case is entirely routed on the Chief Commissioner's understanding
+of the conditions of ineligibility of para.
+
+8(v) apply. In this court's opinion, that view was based upon an erroneous
+understanding of law. Whilst guidelines no doubt are to be kept in mind specially
+while exercising jurisdiction, they cannot blind the authority from considering the
+objective facts before it. In the present case the petitioner's failure to deposit the
+amount collected was beyond its control and was on account of seizure of books of
+account and documents, etc. But for such seizure, the petitioner would quite
+reasonably be expected to deposit the amount within the time prescribed or at least
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+27
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+within the reasonable time. Instead of considering these factors on their merits and
+examining whether indeed they were true or not, the Chief Commissioner felt
+compelled by the text of para. 8(v). That condition, no doubt is important and has to
+be kept in mind, cannot be only determining. In the present case, the material on
+record in the form of a letter by the Superintendent of CBI also shows that a closure
+report was in fact filed before the competent court. Having regard to all these facts,
+this court is of the opinion that the refusal to consider and accept the petitioner's
+application under section 279(2) cannot be sustained. The impugned order is hereby
+set aside.”
+
+78. As we have discussed in the preceding parts of this judgment, Paragraph 4 of the
+2014 guidelines specifies that compounding is not a matter of right of the assessee
+and the competent authority may allow the compounding application upon being
+satisfied that the applicant fulfills the eligibility conditions and keeping in mind the
+conduct of the applicant, nature and magnitude of the offence and the facts and
+circumstances of each case. Further, Paragraph 7 of the guidelines prescribes the
+eligibility conditions and Paragraph 8 provides those cases which are generally not to
+be compounded. Paragraph 9 carves out an exception and empowers the Minister of
+Finance to relax the conditions laid down in Paragraph 8 of the 2014 guidelines and
+allow compounding in a deserving case.
+
+79. A plain reading of the 2014 guidelines reveals that while it is mandatory that the
+eligibility conditions prescribed under Paragraph 7 are to be satisfied, the restrictions
+laid down in Paragraph 8 have to be read along with Paragraph 4 of the Act which
+provides that the exercise of discretion by the competent authority is to be guided by
+the facts and circumstances of each case, the conduct of the appellant and nature and
+magnitude of offence. Seen thus, it becomes clear that the restrictions laid down in
+Paragraph 8 of the guidelines are although required to be generally followed, the
+guidelines do not exclude the possibility that in a peculiar case where the facts and
+circumstances so require, the competent authority cannot make an exception and
+allow the compounding application.
+
+80. We have also had the benefit of looking at the Guidelines for Compounding of
+Offences under Direct Tax Laws, 2019 and the Guidelines for Compounding of
+Offences under Direct Tax Laws, 2022 issued by the CBDT. In both the said
+Guidelines, the offence under Section 276CC has been made a Category A offence
+instead of a Category B offence and is compoundable up to three occasions.
+
+Although this would not have any direct implication on the case at hand since the same is governed
+by the 2014 guidelines, yet what this indicates is that there is a clear shift in the policy of the
+Department when it comes to the compounding of offences under Section 276CC in particular and
+in making the compounding regime more flexible and liberal in particular.
+
+F. CONCLUSION
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+28
+
+Vinubhai Mohanlal Dobaria vs Chief Commissioner Of Income Tax on 7 February, 2025
+
+81. For all the aforesaid reasons, we have reached the conclusion that the High Court fell in error in
+rejecting the writ petition filed by the appellant against the order passed by the Chief Commissioner
+of Income Tax, Vadodara rejecting the application for compounding. The offence as alleged to have
+been committed by the appellant under Section 276CC of the Act for the AY 2013-14 is, without a
+doubt, covered by the expression “first offence” as defined under the 2014 guidelines and thus the
+compounding application preferred by the appellant could not have been rejected by Respondent
+no. 1 on this ground alone.
+
+82. The impugned order passed by the High Court as well as the order passed by the Chief
+Commissioner of Income Tax, Vadodara dated 14.02.2017 rejecting the compounding application of
+the appellant are hereby set aside.
+
+83. The appellant shall prefer a fresh application for compounding before the competent authority
+within two weeks from the date of this judgment and the same shall be adjudicated by the
+competent authority having regard to the conduct of the appellant, the nature of the offence and the
+facts and circumstances of the case within a period of four weeks from the date on which the
+application is filed by the appellant.
+
+84. The proceedings pending before the Trial Court shall remain stayed pending the decision of the
+competent authority on the compounding application of the appellant.
+
+85. In the event the fresh compounding application of the appellant is accepted by the competent
+authority, the proceedings pending before the Trial Court shall stand abated. If the compounding
+application is rejected by the competent authority, then the trial shall continue and be brought to its
+logical conclusion.
+
+86. The appeal is disposed of in the aforesaid terms.
+
+87. Pending application(s), if any, shall stand disposed of.
+
+………………………………………J. (J.B. Pardiwala) ………………………………………J. (Sanjay Karol) New
+Delhi;
+
+February 07th, 2025
+
+Indian Kanoon - http://indiankanoon.org/doc/128219437/
+
+29
+
+

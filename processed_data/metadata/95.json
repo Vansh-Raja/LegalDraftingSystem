@@ -1,0 +1,19 @@
+{
+  "case_number": "2025 INSC 305",
+  "parties": {
+    "petitioner": "Hari Nandan Singh",
+    "respondent": "State of Jharkhand"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-02-11",
+  "summary": "The appellant challenged the dismissal of his criminal miscellaneous petition seeking to quash criminal proceedings, including orders of the Magistrate and High Court. The FIR arose from an incident where the appellant allegedly abused and used criminal force against a public servant delivering RTI-related documents, including uttering words hurting religious sentiments. The prosecution alleged offences under Sections 353, 298, 504, 506, and 323 IPC. The Magistrate found sufficient grounds to frame charges under Sections 353, 298, and 504 IPC, which the High Court upheld. The appellant contended no prima facie case existed, especially under Section 353, and cited his age (80 years) as a mitigating factor. The Supreme Court considered the ingredients of the alleged offences, particularly focusing on whether there was sufficient evidence of criminal force or assault against a public servant in discharge of duty (Section 353 IPC), intentional insult to provoke breach of peace (Section 504 IPC), and deliberate wounding of religious feelings (Section 298 IPC), along with procedural safeguards under Sections 227 and 228 CrPC.",
+  "legal_provisions_cited": [
+    "Section 353 IPC",
+    "Section 298 IPC",
+    "Section 504 IPC",
+    "Section 227 Cr.P.C.",
+    "Section 228 Cr.P.C.",
+    "Section 482 Cr.P.C."
+  ],
+  "final_judgment": "Leave granted; matter remanded for further consideration of whether the ingredients of the alleged offences, particularly Section 353 IPC, are prima facie satisfied based on the evidence and complaint."
+}

@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 11397 of 2016",
+  "parties": {
+    "petitioner": "Shrikant G. Mantri",
+    "respondent": "Punjab National Bank"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-22",
+  "summary": "The appellant, a stockbroker, challenged the NCDRC's dismissal of his consumer complaint on the ground that he was not a 'consumer' under Section 2(1)(d) of the Consumer Protection Act, 1986, as services were availed for commercial purposes. The appellant argued that the overdraft facility was used exclusively for self-employment and thus qualified under the exception to commercial purpose. The respondent Bank contended that allowing commercial entities as consumers would undermine the Act’s purpose. The Court examined whether availing banking services for business purposes falls under 'earning livelihood by self-employment' and considered precedents interpreting 'consumer' in similar contexts.",
+  "legal_provisions_cited": [
+    "Section 2(1)(d) of The Consumer Protection Act, 1986",
+    "Internet and Mobile Association of India vs. Reserve Bank of India (2020) 10 SCC 274",
+    "Lilavati Kirtilal Mehta Medical Trust vs. Unique Shanti Developers and others (2020) 2 SCC 265",
+    "Paramount Digital Colour Lab and others vs. AGFA India Private Limited and others (2018) 14 SCC 81",
+    "Sunil Kohli and another vs. Purearth Infrastructure Limited (2020) 12 SCC 235",
+    "CBI, AHD, Patna vs. Braj Bhushan Prasad and others (2001) 9 SCC 432"
+  ],
+  "final_judgment": "The appeal was allowed, and the appellant was held to be a 'consumer' under Section 2(1)(d) of the Consumer Protection Act, 1986, as the banking services were availed exclusively for earning livelihood through self-employment as a stockbroker. The impugned order of the NCDRC was set aside, and the matter was remanded for adjudication on merits."
+}

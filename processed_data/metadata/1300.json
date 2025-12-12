@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal Nos. 837-838 of 2022",
+  "parties": {
+    "petitioner": "Indian Oil Corporation Ltd.",
+    "respondent": "M/s Shree Ganesh Petroleum Rajgurunagar"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-01",
+  "summary": "The dispute arose from a lease and dealership agreement between Indian Oil Corporation Ltd. (IOCL) and Shree Ganesh Petroleum for operating a retail petrol outlet. IOCL leased land from the respondent for 29 years and appointed them as dealer under a 15-year dealership agreement. Disputes were referred to arbitration as per the lease deed, which designated IOCL's Managing Director as sole arbitrator. The Bombay High Court partly allowed the respondent's arbitration appeal, invalidating the arbitration clause for being one-sided. The Supreme Court examined the validity of the arbitration clause under the Arbitration Act, 1940, and the principle of equality in appointment. It held that an arbitration clause favoring one party in appointing the sole arbitrator is contrary to the principles of natural justice and not enforceable. The appeals were allowed, setting aside the High Court’s judgment and restoring the arbitration award in favor of IOCL.",
+  "legal_provisions_cited": [
+    "Arbitration Act, 1940",
+    "Petroleum Act, 1934",
+    "Explosives Act, 1884"
+  ],
+  "final_judgment": "Appeals allowed; High Court's decision set aside and Arbitration Award in favor of Indian Oil Corporation Ltd. is restored."
+}

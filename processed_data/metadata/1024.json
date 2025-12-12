@@ -1,0 +1,16 @@
+{
+  "case_number": "CIVIL APPEAL No. 4778 of 2022",
+  "parties": {
+    "petitioner": "NTPC LTD.",
+    "respondent": "M/S SPML INFRA LTD."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-10",
+  "summary": "Challenge to High Court's order allowing arbitration petition under Section 11(6) of Arbitration Act; dispute arose over Bank Guarantees following Settlement Agreement dated 27.05.2020; petitioner alleged accord and satisfaction while respondent claimed coercion; High Court appointed arbitrator; Supreme Court analyzed pre-referral jurisdiction scope; held Section 11(6) applications require limited scrutiny to ascertain prima facie arbitrability; no determination on merits of settlement validity or economic duress at referral stage; affirmed High Court's limited review approach.",
+  "legal_provisions_cited": [
+    "Arbitration and Conciliation Act, 1996 Section 11(6)",
+    "Arbitration and Conciliation Act, 1996 Section 11(6A)",
+    "Constitution of India Article 226"
+  ],
+  "final_judgment": "Appeal dismissed; High Court's order allowing arbitration petition upheld; arbitration proceedings permitted to continue."
+}

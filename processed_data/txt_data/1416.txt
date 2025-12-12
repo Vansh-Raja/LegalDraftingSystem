@@ -1,0 +1,206 @@
+Oriental Bank Of Commerce vs Prabodh Kumar Tewari on 16 August, 2022
+
+Oriental Bank Of Commerce vs Prabodh Kumar Tewari on 16
+August, 2022
+
+Author: D.Y. Chandrachud
+
+Bench: A S Bopanna, Dhananjaya Y Chandrachud
+
+Crl.A.1260/2022
+1
+
+Reportable
+
+IN THE SUPREME COURT OF INDIA
+CRIMINAL APPELLATE JURISDICTION
+
+Criminal Appeal No 1260 of 2022
+(Arising out of SLP (Crl) No 9836 of 2019)
+
+Oriental Bank of Commerce                                                      …Appellant
+
+Versus
+
+Prabodh Kumar Tewari                                                         …Respondent
+
+JUDGMENT
+
+Dr Justice Dhananjaya Y Chandrachud, J
+
+1. Leave granted.
+
+2. This appeal arises from a judgment dated 24 July 2019 of a Single Judge of the High Court of
+Delhi.
+
+3. The appellant is the complainant in proceedings under Section 138 of the Negotiable Instruments
+Act 18811. He seeks to question the order of a Single Judge by which the respondents were
+permitted to engage a hand-writing expert to seek an opinion on whether “the authorship on the
+questioned writings” (the disputed cheque) can be attributed to the respondents.
+
+4. The respondent admits that he signed and handed over a cheque to the appellant. According to
+the respondent a signed blank cheque was handed over by him. The question which arises in the
+
+1
+
+Oriental Bank Of Commerce vs Prabodh Kumar Tewari on 16 August, 2022
+
+appeal is whether the High Court was correct in permitting the respondent to engage a hand-writing
+expert to determine whether the details that were filled in the cheque were in the hand of the
+respondent. For the reasons set out below, we have allowed this appeal against the order of the High
+Court for the reason that Section 139 of the NI Act raises a presumption that a drawer handing over
+a cheque signed by him is liable unless it is proved by adducing evidence at the trial that the cheque
+was not in discharge of a debt or liability. The evidence of a hand-writing expert on whether the
+respondent had filled in the details in the cheque would be immaterial to determining the purpose
+for which the cheque was handed over. Therefore, no purpose is served by allowing the application
+for adducing the evidence of the hand-writing expert.
+
+5. The appellant is a body corporate constituted under the Banking Companies (Acquisition and
+Transfer of Undertakings) Act 1980. According to the “NI Act” appellant, a consortium of five
+companies, namely, (i) Century Communications Ltd, (ii) Pixion Media Pvt Ltd, (iii) Pearl Studios
+Pvt Ltd, (iv) Pixion Vision Pvt Ltd and (v) Pearl Vision Pvt Ltd availed of credit facilities from the
+appellant. The total outstanding dues of the consortium are alleged to be in excess of Rs 1200 crores
+as on the date of the institution of these proceedings. It has been alleged that the first respondent
+(A-2 before the Trial Court) handed over a cheque - bearing number 387172 dated 26 December
+2011 from the account of Century Communications Ltd in the amount of Rs 5.57 crores drawn on
+Indian Overseas Bank, Defense Colony Branch, New Delhi - towards the dues of the above five
+companies. According to the appellant, this was accompanied by a letter of the same date, bearing
+reference number CCL/OBC/036/2011, with a request to present the cheque at the end of the
+second week of January. The cheque was presented for encashment, but was returned on 25 May
+2012 with the remarks “insufficient funds”.
+
+6. After issuing a legal notice on 5 June 2012, the appellant instituted a criminal complaint, being
+CC No 3065 of 2012, before the Court of the Additional Chief Metropolitan Magistrate, Dwarka
+Courts, New Delhi for an offence punishable under Section 138 of the NI Act. Notices were framed
+against the first and second respondent under Section 251 of the Code of Criminal Procedure 19732.
+
+7. During the course of the trial, on 12 February 2018, the Metropolitan Magistrate “CrPC” recorded
+the statements of the first and second respondents under Section 313 CrPC. The first respondent has
+stated that he is a director in all the five companies; he was an authorized signatory; and a blank
+signed cheque was given by him towards security. Therefore, there is no dispute that the cheque
+bears the signature of the first respondent.
+
+8. The first and second respondents filed an application before the Trial Judge seeking to have the
+cheque in question, the specimen signature and handwriting of the first respondent examined by a
+government hand-writing expert. The application was dismissed by the Trial Judge on 21 February
+2019.
+
+9. The first and second respondents appealed to the High Court. The High Court by the impugned
+order dated 24 July 2019 held that there was no occasion to allow the examination of a government
+hand-writing expert. However, the Single Judge nonetheless allowed the petition filed by the
+respondents to the extent that they have been permitted to engage a hand-writing expert for the
+
+2
+
+purpose of examining the disputed „writings(cid:132).
+
+Oriental Bank Of Commerce vs Prabodh Kumar Tewari on 16 August, 2022
+
+10. We have heard Mr Amar Qamaruddin, counsel for the appellant and Mr Madhav Khuran,
+counsel for the respondents.
+
+11. During the course of the hearing, it is not in dispute that the first respondent has admitted to
+having signed the cheque.
+
+12. The submission which has been urged on behalf of the appellant is that even assuming, as the
+first respondent submits, that the details in the cheque were not filled in by the drawer, this would
+not make any difference to the liability of the drawer.
+
+13. Section 139 of the NI Act states:
+
+139. Presumption in favour of holder. - It shall be presumed, unless the contrary is
+proved, that the holder of a cheque received the cheque of the nature referred to in
+section 138 for the discharge, in whole or in part, of any debt or other liability.
+
+14. In Bir Singh v. Mukesh Kumar,3 after discussing the settled line of precedent of this Court on
+this issue, a two-Judge Bench held:
+
+33. A meaningful reading of the provisions of the Negotiable Instruments Act
+including, in particular, Sections 20, 87 and 139, makes it amply clear that a person
+who signs a cheque and makes it over to the payee remains liable unless he adduces
+evidence to rebut the presumption that the cheque had been issued for payment of a
+debt or in discharge of a liability. It is immaterial that the cheque may have been
+filled in by any person other than the drawer, if the cheque is duly signed by the
+drawer. If the cheque is otherwise valid, the penal provisions of Section 138 would be
+attracted.
+
+34. If a signed blank cheque is voluntarily presented to a payee, towards some
+payment, the payee may fill up the amount and other particulars. This in itself would
+not invalidate the cheque. The onus would still be on the accused to prove that the
+cheque was not in discharge of a debt or liability by adducing evidence.
+
+[…]
+
+36. Even a blank cheque leaf, voluntarily signed and handed over by the accused,
+which is towards some payment, would attract presumption under Section 139 of the
+Negotiable Instruments Act, in the absence of any cogent evidence to show that the
+cheque was not issued in discharge of a debt.
+
+(emphasis supplied) (2019) 4 SCC 197 The above view was recently reiterated by a three-Judge
+Bench of this Court in Kalamani Tex v. P. Balasubramanian.4
+
+3
+
+Oriental Bank Of Commerce vs Prabodh Kumar Tewari on 16 August, 2022
+
+15. A drawer who signs a cheque and hands it over to the payee, is presumed to be liable unless the
+drawer adduces evidence to rebut the presumption that the cheque has been issued towards
+payment of a debt or in discharge of a liability. The presumption arises under Section 139.
+
+16. In Anss Rajashekar v. Augustus Jeba Ananth,5 a two Judge Bench of this Court, of which one of
+us (D.Y. Chandrachud J.) was a part, reiterated the decision of the three-Judge Bench of this Court
+in Rangappa v. Sri Mohan6 on the presumption under Section 139 of the NI Act. The court held:
+
+12. Section 139 of the Act mandates that it shall be presumed, unless the contrary is
+proved, that the holder of a cheque received it, in discharge, in whole or in part, of a
+debt, or liability.
+
+The expression “unless the contrary is proved” indicates that the presumption under Section 139 of
+the Act is rebuttable. Terming this as an example of a “reverse onus clause” the three-Judge Bench
+of this Court in Rangappa held that in determining whether the presumption has been rebutted, the
+test of proportionality must guide the determination. The standard of proof for rebuttal of the
+presumption under Section 139 of the Act is guided by a preponderance of probabilities. This Court
+held thus:
+
+“28. In the absence of compelling justifications, reverse onus clauses usually impose
+an evidentiary burden and not a persuasive burden. Keeping this in view, it is a
+settled position that when an accused has to rebut the (2021) 5 SCC 283 (2020) 15
+SCC 348 (2010) 11 SCC 441 presumption under Section 139, the standard of proof for
+doing so is that of “preponderance of probabilities”. Therefore, if the accused is able
+to raise a probable defence which creates doubts about the existence of a legally
+enforceable debt or liability, the prosecution can fail. As clarified in the citations, the
+accused can rely on the materials submitted by the complainant in order to raise such
+a defence and it is conceivable that in some cases the accused may not need to adduce
+evidence of his/her own.” (emphasis supplied)
+
+17. For such a determination, the fact that the details in the cheque have been filled up not by the
+drawer, but by some other person would be immaterial. The presumption which arises on the
+signing of the cheque cannot be rebutted merely by the report of a hand-writing expert. Even if the
+details in the cheque have not been filled up by drawer but by another person, this is not relevant to
+the defense whether cheque was issued towards payment of a debt or in discharge of a liability.
+
+18. Undoubtedly, it would be open to the respondents to raise all other defenses which they may
+legitimately be entitled to otherwise raise in support of their plea that the cheque was not issued in
+pursuance of a pre-existing debt or outstanding liability.
+
+19. In the circumstances, the appeal is allowed and the impugned order of the Single Judge of the
+Delhi High Court dated 24 July 2019 is set aside. The report which has been received in pursuance
+of the impugned order dated 24 July 2019 shall not be taken into consideration during the course of
+trial.
+
+4
+
+Oriental Bank Of Commerce vs Prabodh Kumar Tewari on 16 August, 2022
+
+20. The application filed by the respondent for the examination of a hand-writing expert shall in the
+circumstances stand dismissed. The present order shall not affect the merits of the trial or the rights
+and contentions of the respective parties during the course of the trial.
+
+21. Pending applications, if any, stand disposed of.
+
+… … . . . . . . … . . . … . . . . . . . … … … … … … . . . . . . . . J .   [ D r   D h a n a n j a y a   Y   C h a n d r a c h u d ]
+….........…...….......………………........J. [A S Bopanna] New Delhi;
+
+August 16, 2022 CKB
+
+5

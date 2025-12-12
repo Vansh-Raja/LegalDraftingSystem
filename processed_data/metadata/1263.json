@@ -1,0 +1,17 @@
+{
+  "case_number": "CIVIL APPEAL NO.5766 of 2021",
+  "parties": {
+    "petitioner": "Devas Multimedia Private Limited",
+    "respondent": "Antrix Corporation Ltd. & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-17",
+  "summary": "The appeal challenged the winding up order of Devas Multimedia Private Limited under Section 271(c) of the Companies Act, 2013, initiated by Antrix Corporation Ltd. The NCLT admitted the petition and appointed a provisional liquidator, later directing winding up which was confirmed by NCLAT. The appellants raised grounds including breach of mandatory advertisement requirements, limitation, estoppel, violation of natural justice, erroneous findings on fraud, and incorrect standard of proof. The company had entered into a 2005 agreement with Antrix for satellite capacity, terminated in 2011 citing government policy; subsequent arbitration awards favored Devas. Investigations by CBI and ED followed allegations of fraud and corruption. The constitutional validity of Section 272(1)(e) was challenged but dismissed by the Karnataka High Court with costs. The Supreme Court examined the grounds but ultimately upheld the winding up based on findings of fraud and abuse of process.",
+  "legal_provisions_cited": [
+    "Section 271(c), Companies Act, 2013",
+    "Section 272(1)(e), Companies Act, 2013",
+    "Section 420 read with Section 120B IPC",
+    "Section 13(1)(d) read with Section 13(2) of the Prevention of Corruption Act, 1988"
+  ],
+  "final_judgment": "Dismissed the appeals and upheld the winding up order of Devas Multimedia Private Limited."
+}

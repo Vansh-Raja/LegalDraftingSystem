@@ -1,0 +1,21 @@
+{
+  "case_number": "2025 INSC 152",
+  "parties": {
+    "petitioner": "M/S S.R.S. Travels By Its Proprietor K.T. Rajashekar",
+    "respondent": "The Karnataka State Road Transport Corporation Workers & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-02-06",
+  "summary": "The appeals challenged the Karnataka High Court's 2011 judgment concerning the constitutional validity of the 2003 Repeal Act (which repealed the 1976 Karnataka Contract Carriages Acquisition Act) and the delegation of permit-granting powers under the Motor Vehicles Act, 1988. The High Court had struck down Rules 55 and 56 of the Karnataka Motor Vehicles Rules, 1989, barring delegation of quasi-judicial permit-granting functions to STA/RTA Secretaries, and held the 2003 Repeal Act unconstitutional for lacking Presidential assent. The Supreme Court considered whether the State Legislature could unilaterally repeal a previously upheld Act and whether permit powers could be delegated to a single officer. The Court upheld the Legislature's plenary power to repeal the 1976 Act without fresh Presidential assent, affirming that legislative repeal does not overrule judicial decisions. However, it agreed with the High Court that permit-granting under Chapter V of the MV Act is a quasi-judicial function requiring collective decision-making, thus invalidating unilateral delegation to the Secretary.",
+  "legal_provisions_cited": [
+    "Entry 42, List III, Seventh Schedule, Constitution of India",
+    "Article 39(b) and (c), Constitution of India",
+    "Motor Vehicles Act, 1988, Section 2(7), Section 2(40), Section 68",
+    "Karnataka Motor Vehicles Rules, 1989, Rules 55 and 56",
+    "Karnataka Contract Carriages (Acquisition) Act, 1976",
+    "Karnataka Motor Vehicles Taxation and Certain Other Law (Amendment) Act, 2003",
+    "State of Karnataka v. Ranganatha Reddy, AIR 1978 SC 215",
+    "Vijayakumar Sharma v. State of Karnataka, AIR 1990 SC 2072"
+  ],
+  "final_judgment": "Appeal allowed in part; the 2003 Repeal Act is upheld as constitutionally valid, but the delegation of permit-granting powers to the Secretary of STA/RTA is struck down as ultra vires the Motor Vehicles Act, 1988."
+}

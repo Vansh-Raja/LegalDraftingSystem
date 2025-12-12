@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal No(s). 2764 of 2024",
+  "parties": {
+    "petitioner": "Raghuveer Sharan",
+    "respondent": "District Sahakari Krishi Gramin Vikas Bank & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-09-10",
+  "summary": "The appellant challenged the High Court's dismissal of his revision petition, which affirmed the trial court's order summoning him as an accused under Section 319 Cr.P.C. based on witness testimony alleging forgery in bank records. The key issue was whether the appellant was entitled to protection under Section 132 of the Indian Evidence Act, 1872, given his earlier statement as a witness. The Court held that while Section 132 protects a witness from self-incrimination, it does not bar prosecution when independent evidence (such as testimony from PW-1) establishes a prima facie case. The protection under Section 132 is not absolute when other material supports summoning an accused.",
+  "legal_provisions_cited": [
+    "Section 319 Code of Criminal Procedure, 1973",
+    "Section 132 Indian Evidence Act, 1872",
+    "Article 20(3) of the Constitution of India",
+    "R. Dinesh Kumar alias Deena v. State",
+    "Sashi Jena and Others v. Khadal Swain and another"
+  ],
+  "final_judgment": "The appeal was dismissed; the appellant's invocation of Section 132 did not bar his summoning as an accused where independent evidence supported the prosecution."
+}

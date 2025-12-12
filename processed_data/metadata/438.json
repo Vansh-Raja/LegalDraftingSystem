@@ -1,0 +1,23 @@
+{
+  "case_number": "Criminal Appeal No. 3216 of 2024",
+  "parties": {
+    "petitioner": "Baccarose Perfumes and Beauty Products Pvt. Ltd",
+    "respondent": "Central Bureau of Investigation & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-09-06",
+  "summary": "The appellant company challenged the Gujarat High Court's dismissal of its criminal revision against the rejection of its discharge application in a case involving alleged evasion of Countervailing Duty (CVD) by paying CVD on invoice value instead of MRP. The allegations stemmed from clearances made between 2001–2004, leading to an FIR in 2005 under IPC 120B, 420 and PCA 1998. The company claimed immunity granted by the Settlement Commission in 2007 and reliance on prior appellate orders affirming its compliance. Despite a closure report in 2008, the Special Judge ordered prosecution. The Supreme Court considered issues of discharge, applicability of immunity, jurisdictional questions under PCA 1998, and whether prosecution could proceed without sanction under Section 197 CrPC when co-accused were public servants. The case also involved interpretation of CVD assessment under customs and excise laws.",
+  "legal_provisions_cited": [
+    "Section 397 CrPC",
+    "Section 401 CrPC",
+    "Section 120B IPC",
+    "Section 420 IPC",
+    "Section 13(1)(d) PCA 1998",
+    "Section 197 CrPC",
+    "Section 3(2) Customs Tariff Act 1975",
+    "Section 4A Central Excise Act 1944",
+    "Rule 29 SWM (Packaged Commodities) Rules 1977",
+    "Standards of Weights and Measures Act 1976"
+  ],
+  "final_judgment": "The proceedings before the Trial Court were stayed by order dated 16.10.2023; the appeal is pending consideration on merits."
+}

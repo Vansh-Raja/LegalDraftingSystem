@@ -1,0 +1,33 @@
+{
+  "case_number": "Criminal Appeal No. 658 of 2022 and Criminal Appeal No. 659 of 2022",
+  "parties": {
+    "petitioner": "Imran",
+    "respondent": "Mohammed Bhava & Anr; Mohammed Musthafa & Anr"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-22",
+  "summary": "The appeals challenge the High Court of Karnataka's grant of anticipatory and regular bail to two accused, Mohammed Bhava and Mohammed Musthafa, in a heinous premeditated murder case under IPC sections 143, 147, 148, 302, 307, 395, and 149. The appellant, son of the deceased, argued that the High Court mechanically granted bail without considering gravity, witness testimony, and threat to witnesses. The respondents claimed lack of involvement and reliance on bail jurisprudence favoring liberty. The Supreme Court examined whether bail was granted without proper application of mind and noted that bail can be cancelled not only for supervening circumstances but also if relevant material or gravity of offence was ignored. Precedents on bail discretion and cancellation were analyzed.",
+  "legal_provisions_cited": [
+    "Section 143 IPC",
+    "Section 147 IPC",
+    "Section 148 IPC",
+    "Section 302 IPC",
+    "Section 307 IPC",
+    "Section 341 IPC",
+    "Section 395 IPC",
+    "Section 149 IPC",
+    "Section 114 IPC",
+    "Section 109 IPC",
+    "Section 120B IPC",
+    "Section 161 Cr.P.C.",
+    "Ram Govind Upadhyay Vs. Sudarshan Singh and Others (2002) 3 SCC 598",
+    "Arnab Manoranjan Goswami Vs. State of Maharashtra & Ors. (2021) 2 SCC 427",
+    "Daulat Ram and Others v. State of Haryana (1995) 1 SCC 349",
+    "State (Delhi Admn) v. Sanjay Gandhi (1978) 2 SCC 411",
+    "Kashmira Singh v. Duman Singh (1996) 4 SCC 693",
+    "CBI v. Subramani Gopalkrishnan (2011) 5 SCC 296",
+    "X v. State of Telangana (2020) 16 SCC 511",
+    "Vipan Kumar Dhir Vs. State of Punjab and Anr. 2021 SCC OnLine SC 854"
+  ],
+  "final_judgment": "The Court remanded the matter to the High Court for reconsideration of bail orders with proper application of mind, taking into account the gravity of the offence, material on record, and threat to witnesses, in light of the principles discussed."
+}

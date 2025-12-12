@@ -1,0 +1,23 @@
+{
+  "case_number": "Criminal Appeal Nos. 1200-1202 of 2022",
+  "parties": {
+    "petitioner": "Khema @ Khem Chandra etc.",
+    "respondent": "State of Uttar Pradesh etc."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-10",
+  "summary": "The appeals challenged the Allahabad High Court's dismissal of the appellants' appeals and confirmation of their conviction under Sections 302/149, 307/149, and 148 IPC. The prosecution relied on testimonies of Omveer (PW-1) and Inder (PW-2), both relatives of the deceased, and recoveries under Section 27 of the Evidence Act. The trial and High Court relied on these to convict. The appellants argued false implication, unreliability of witnesses, contradictions in medical and injury timing, non-examination of key witnesses (Kripa, Omwati, Vijay Singh), and suppression of station diary entries. The prosecution defended the credibility of ocular witnesses and corroborative recoveries. The Supreme Court noted Omveer did not witness the incident, as held even by the trial court. Inder, as an injured witness, had greater evidentiary value under Jarnail Singh and Abdul Sayeed. However, inconsistencies in testimony and lack of corroboration raised doubts. The Court re-examined evidence due to possible error in concurrent findings.",
+  "legal_provisions_cited": [
+    "Section 302 read with Section 149 IPC",
+    "Section 307 read with Section 149 IPC",
+    "Section 148 IPC",
+    "Section 147 IPC",
+    "Section 25 of the Arms Act, 1959",
+    "Section 4/25 of the Arms Act, 1959",
+    "Section 27 of the Evidence Act, 1872",
+    "Jarnail Singh and Others v. State of Punjab (2009) 9 SCC 719",
+    "Abdul Sayeed v. State of Madhya Pradesh (2010) 10 SCC 259",
+    "Smt. Dalbir Kaur and Others v. State of Punjab (1976) 4 SCC 158"
+  ],
+  "final_judgment": "The appeal was allowed, the judgments of the High Court and trial court were quashed, and the appellants were acquitted due to insufficient reliable evidence and material contradictions in the prosecution case, despite the evidentiary weight of injured witness testimony."
+}

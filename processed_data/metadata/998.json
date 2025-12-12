@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 5769 of 2022",
+  "parties": {
+    "petitioner": "Mansarovar Commercial Pvt. Ltd.",
+    "respondent": "Commissioner of Income Tax, Delhi"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-10",
+  "summary": "Key issues: (1) Jurisdiction of assessing officer to issue notices under Section 148 of the Income Tax Act, 1961 to companies registered in Sikkim; (2) Validity of service of notices through chartered accountant not designated as 'Principal Officer'; (3) Residential status of assessees under Section 6(3) of the Act; (4) Taxability of income earned by Sikkim-registered companies prior to full applicability of the Income Tax Act in Sikkim. Standards applied: Interpretation of Section 2(35), Section 6(3), and Section 148 of the Income Tax Act; validity of substituted service under Rule 20, Order V, CPC; jurisdictional principles post-Article 371-F. Reasoning: High Court held that control and management of the companies was in New Delhi, making them residents in India; service via CA justified due to central role in management; ITAT's findings on jurisdiction and residence reversed as perverse. Outcome: High Court allowed Revenue's appeals, set aside ITAT orders, restored AO assessments.",
+  "legal_provisions_cited": [
+    "Section 6(3) of the Income Tax Act, 1961",
+    "Section 148 of the Income Tax Act, 1961",
+    "Section 2(35) of the Income Tax Act, 1961",
+    "Article 371-F of the Constitution of India",
+    "Rule 20 of Order V of CPC",
+    "Finance Act, 1989, Section 26"
+  ],
+  "final_judgment": "Supreme Court dismissed the appeals, affirming the High Court's decision to allow the Revenue's appeals, quash ITAT orders, and uphold the assessment proceedings and tax liabilities for AYs 1987-88, 1988-89, and 1989-90."
+}

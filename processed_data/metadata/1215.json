@@ -1,0 +1,18 @@
+{
+  "case_number": "CIVIL APPEAL NOS. 11473−11474 OF 2018",
+  "parties": {
+    "petitioner": "Amarendra Kumar Pandey",
+    "respondent": "Union of India & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-14",
+  "summary": "The appellant, a former Rifleman in the Assam Rifles, was discharged in 2004 based on four 'Red Ink entries' for disciplinary issues. The Guwahati High Court's Single Judge set aside the discharge, holding that discretion must be exercised rationally and the order must be speaking; however, the Division Bench reversed this, holding that reasons need not be recorded in the discharge order under the applicable rules. The Supreme Court examined whether the discharge order, lacking reasoned grounds, violated principles of fairness and natural justice, particularly given that discretion under Clause 5 of ROI 1/2004 must be exercised reasonably. Consideration included distinction between minor and major misconducts and the necessity for a speaking order in administrative decisions affecting service rights.",
+  "legal_provisions_cited": [
+    "Assam Rifles Act, 1941, Sec 4(a)",
+    "Assam Rifles Manual, Para 24, Chapter VIII",
+    "Record Office Instruction (ROI) No. 4/99, Para 6",
+    "Record Office Instruction (ROI) No. 1/2004, Clause 5",
+    "Balwant Singh Vs. Union of India & Ors., 2011 (5) GLT 640"
+  ],
+  "final_judgment": "The appeal was allowed; the Supreme Court set aside the Division Bench's judgment and restored the Single Judge's order, remanding the matter for reconsideration of the discharge decision with a speaking order in accordance with the principles laid down in Balwant Singh and rules of natural justice."
+}

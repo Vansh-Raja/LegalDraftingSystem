@@ -1,0 +1,678 @@
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September,
+2023
+
+Author: Dhananjaya Y Chandrachud
+
+Bench: Dhananjaya Y Chandrachud
+
+Reportable
+
+2023INSC864
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+Civil Appeal No 5968 of 2023
+(Arising out of SLP (C) No 18100 of 2023)
+
+BTL EPC Ltd                                                                         …Appellant
+
+Versus
+
+Macawber Beekay Pvt Ltd and Others                                                  …Respondents
+
+WITH
+
+Civil Appeal No 5969 of 2023
+(Arising out of SLP (C) No 18574 of 2023)
+&
+Civil Appeal No 5970 of 2023
+(Arising out of SLP (C) No 19227 of 2023)
+
+JUDGMENT
+
+Dr Dhananjaya Y Chandrachud, CJI
+
+1. Leave granted.
+
+2. These appeals arise from a judgment dated 27 July 2023 of a Division Bench of the High Court of
+Karnataka. The High Court set aside a judgment of a Single Judge, in a writ appeal 1. As a
+consequence of the impugned judgment, a Letter of Intent 2 which was issued by Bharat Heavy
+
+1
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+Electricals Limited 3, in favour of the appellant has been quashed and BHEL has been directed to
+consider the bid submitted by the first respondent in terms of a Notice Inviting Tenders dated 24
+June 2022.
+
+3. BHEL was awarded a contract for setting up the 5x800 MW Yadadri Thermal Power Station. A
+part of the work was sought to be subcontracted. BHEL invited bids for undertaking the work of
+design, engineering, manufacturing, supply and other related works pertaining to an Ash Handling
+Plant. The appellant submitted its bid. On 29 September 2022, a letter of intent was issued to the
+appellant for a total contract value of Rs 378.64 crores.
+
+4. The controversy in the present case turns on the pre-qualification requirement for bidders,
+notified by BHEL. Clause 01.00.00 deals with the technical criteria. Clauses 01.01.01, 01.01.02, and
+01.01.03 are material in the present case. Clause 01.01.01 contains certain specific requirements that
+bidders had to fulfill. It read as follows:
+
+“The bidder should have executed at least one (1) number Ash Handling Plant (AHP)
+in India/abroad for a thermal power station using sea water/plain water involving
+design, engineering, manufacture, procurement, supply, erection & commissioning
+(or supervision of erection & commissioning) comprising the following systems
+which should be in successful operation for at least (1) year as on date of submission
+of the bid:
+
+1Writ Appeal No 1169 of 2022 (GM-TEN) 2“LoI” 3“BHEL” (the second respondent)
+a. Bottom ash handling system comprising jet pump system in conjunction with
+water impounded bottom ash hopper designed from minimum 50 TPH (on dry ash
+basis) capacity or more for pulverized coal fired boilers.
+
+AND b. First stage fly ash handling system for conveying fly ash from ESP hoppers to
+Intermediate Surge Hopper (ISH) by vacuum conveying system designed for
+minimum 30 TPH capacity (dry ash basis) per stream.
+
+AND c. Second stage fly ash handling system for conveying fly ash from Intermediate Surge Hopper
+(ISH) to Fly ash silos by pressure conveying system designed from minimum 20 TPH capacity (dry
+ash basis) per line for a distance not less than 500 mtrs.
+
+AND d. High Concentration Ash Slurry Disposal (HCSD) System for minimum 40 TPH capacity (dry
+ash basis) per line.
+
+The above Clauses 01.01.01 (a), (b), (c) and (d) can be in one single plant or in a combination of
+plants.”
+
+5. Clause 01.01.02 stipulated that a bidder who is a supplier of a bulk material handling system, but
+does not fulfill the requirements under clause 01.01.01 could also participate, subject to certain
+stipulations. The clause is extracted below:
+
+2
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+“Bidder who is a supplier of bulk material handling system but does not meet the
+requirements under clause 01.01.01 above in part or in full can also participate
+provided he has executed at least the following systems design, engineering,
+manufacture, supply, erection & commissioning (or supervision of erection &
+commissioning):
+
+a. Fly Ash Handling System for conveying Fly Ash from ESPs in dry form (vacuum
+conveying or pressure conveying system) or in wet slurry mode OR b. Bulk material
+handling system, comprising of bell conveyors having a minimum design capacity of
+800 TPH The systems mentioned at 01.01.02 (a) or (b) above should be in successful
+operation in at least two (2) plants for at least two (2) years as on date of submission
+of bid and should have been installed for pulverized coal fired boiler units in
+India/abroad generating not less than 40 TPH of Ash per boiler.
+
+AND Collaborate(s)/Associate(s) with party(ies) who meet(s) either the total requirement under
+01.01.01
+
+(a), (b) and (c) above or any of the above requirement under 01.01.01 (a), (b) and (c), which the
+bidder himself is not able to meet.
+
+In such a case, the Bidder shall be required to furnish consortium agreement jointly executed by the
+Bidder and the collaborator(s)/Associate(s) and each executant, shall be jointly and severally liable
+to employer for successful performance of the relevant system, as per the format (Annexure -A)
+enclosed along with bid. The collaboration agreement should be submitted along with the bid.
+
+In such a case, each Collaborator/Associate shall be required to furnish a bank guarantee at the time
+of placement of order as follows:
+
+i.    INR 10 Lakh (Rupees Ten Lakh) for
+Collaborator/Associate for Jet pumping
+system
+
+(cid:12)                    ii.    INR 25 Lakh (Rupees Twenty Five Lakh) for
+Collaborator/Associate   for    Vaccum
+conveying system
+
+iii.   INR 25 Lakh (Rupees Twenty Five Lakh) for
+Collaborator/Associate   for     Pressure
+Transportation system
+AND
+
+3
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+Collaborate(s)/Associate(s) with party who meets the requirement under 01.01.01 (d) above which
+the bidder himself is not able to meet.
+
+In such a case, the Bidder shall be required to furnish Agreement of Support jointly executed by the
+Bidder and the collaborator/Associate for successful performance of the HCSD system as per the
+format (Annexure-B) enclosed along with bid. The Agreement of Support should be submitted along
+with the bid.
+
+In case bidder collaborates/associates for more than one system with a party, then the
+Collaborators/Associate shall be required to furnish a bank guarantee for an amount arrived at by
+adding up the amounts for the relevant systems as above.”
+
+6. Clause 01.01.03 then provided as follows:
+
+“The activity of design and engineering under 01.01.01 (a), (b) and (c) should have
+been carried out by the bidder and not through any external design agency/agencies.
+The activity of design and engineering under 01.01.01 (d) should have been carried
+out by the bidder or through any external design agency having experience of HCSD
+system.
+
+For design and engineering activity referred under paras 01.01.02 the activity should have been
+carried out by either the bidder or through design agency/agencies having experience for reference
+systems. In case of collaborator(s)/associate(s) meeting the balance part of total requirement under
+clause 01.01.01 (a), (b), (c) and (d) the activity of design and engineering for the reference systems
+should have been carried out by them.
+
+Bidders qualifying under Sl No.01.01.02 and collaborating/associating with party(s) meeting
+total/balance part of 01.01.01 (a), (b), (c) and (d) shall follow the following for supply and
+manufacturing of equipment. Bidder shall manufacture from their manufacturing set up based on
+collaborator(s)/associate(s) drawing for the clause which bidder himself is not meeting the
+requirement but the collaborator(s)/associate(s) is meeting the requirement, then the
+collaborator(s)/associate(s) shall approve bidder’s manufacturing facilities and manufacturing
+quality standards. Also after the manufacture of the items, the product shall be inspected by the
+respective collaborator(s)/associate(s) and furnish certificate of conformance (COC) for the product.
+
+Also, BHEL/Customer shall approve manufacturing facilities of the equipment of the vendor’s self-
+
+manufacturing items in case the items are being
+manufactured        by       bidder     as   per
+collaborator(s)/associate(s)      design    and
+manufacturing drawing.”
+
+7. These clauses were followed by the documents which were required to be furnished.
+
+4
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+Among them, if the bidder had entered into a consortium agreement in order to meet the
+requirements of clause 01.01.01 as permitted by clause 01.01.02, a copy of the consortium
+agreement was to be submitted along with the tender documents. If the bidder was a foreign party,
+there was a mandatory requirement of having a collaboration/consortium agreement with an Indian
+agency for erection and commissioning at site.
+
+8. Clause 01.01.02 permitted a bidder who did not meet the criteria specified in 01.01.
+
+01, to enter into a consortium agreement. Accordingly, the appellant entered into a consortium
+agreement with a Chinese company by the name of Fujian Longking Company Limited, the fourth
+respondent. Annexure 1 of the agreement specified the rights and responsibilities of the appellant on
+the one hand and the Chinese company on the other in the following terms:
+
+“1. The first party (M/s BTL EPC Ltd. Kolkata) shall undertake complete works as
+detailed in NIT which includes detailed design & engineering, manufacturing, supply,
+erection, testing, commissioning, trial run, demonstration of PG test and handing
+over for complete ash handling plant.
+
+2. The second party (M/s Fujian Longking, China) shall undertake basic design,
+vetting of detail engineering, Support in manufacturing, Support/Supervision of
+erecting, commissioning & PG test for complete AHP (excluding HCSD system).”
+
+9. On 23 July 2020, the Public Procurement Division in the Department of Expenditure of the
+Union Ministry of Finance issued an Order imposing certain restrictions under Rule 144(xi) of the
+General Financial Rules 2017, whereby a prospective bidder from a country that shares a land
+border with India, would be eligible to bid, only if such bidder is registered with the Competent
+Authority. The Order, which is described as “Public Procurement No 1” specified a requirement of
+registration in the following terms:
+
+“Requirement of registration 1 Any bidder from a country which shares a land border
+with India will be eligible to bid in any procurement whether of goods, services
+(including consultancy services and non-
+
+consultancy services) or works (including turnkey projects) only if the bidder is registered with the
+Competent Authority, specified in Annex I. 2 This Order shall not apply to (i) cases where orders
+have been placed or contract has been concluded or letter/notice of award/acceptance (LoA) has
+been issued on or before the date of this order; and (ii) cases falling under Annex II.”
+
+10. Clause (6) of the Order defined a “bidder” as follows:
+
+“Bidder” for the purpose of this Order (including the term ‘tenderer’, ‘consultant’,
+‘vendor’ or ‘service provider’ in certain contexts) means any person or firm or
+company, including any member of a consortium or joint venture (that is an
+association of several persons, or firms or companies), every artificial juridical person
+
+5
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+not falling in any of the descriptions of bidders stated hereinbefore, including any
+agency, branch or office controlled by such person, participating in a procurement
+process.”
+
+11. Similarly, clause (8) contains a definition of the expression “bidder from a country which shares
+a land border with India” in the following terms:
+
+“Bidder from a country which shares a land border with India” for the purpose of this
+Order means
+
+a) An entity incorporated, established or registered in such a country; or
+
+b) A subsidiary of an entity incorporated, established or registered in such a country;
+or
+
+c) An entity substantially controlled through entities incorporated, established or
+registered in such a country; or
+
+d) An entity whose beneficial owner is situated in such a country; or
+
+e) An Indian (or other) agent of such an entity; or
+
+f) A natural person who is a citizen of such a country; or
+
+g) A consortium or joint venture where any member of the consortium or joint
+venture falls under any of the above.”
+
+12. The first respondent instituted a writ petition 4 under Article 226 of the Constitution before the
+High Court of Karnataka contending that the award of the contract to the appellant was in breach of
+the conditions which were imposed in the Order dated 23 July 2020 of the Union Ministry of
+Finance. The contention was that the Chinese company which had entered into a consortium
+agreement with the appellant so as to enable the appellant to fulfill the eligibility conditions under
+the tender floated by BHEL was required to be registered with the competent authority, according to
+the Public Procurement Order dated 23 July 2020. It was urged that in the absence of such
+registration, the tender submitted by the appellant did not meet the technical requirements and
+could not have been considered by BHEL.
+
+13. The Single Judge of the Karnataka High Court dismissed the writ petition by a judgement dated
+2 November 2022. The Single Judge held that
+
+(i) Entering into a consortium agreement was permissible under the terms of the tender;
+
+(ii) The submission of the tender by the appellant, along with the copy of the agreement, was proper;
+
+6
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+(iii) On the issue of mandatory registration under the Public Procurement Order, a clarification
+dated 8 February 2021 stated that a bidder can procure raw material, as opposed to finished goods,
+from an entity such as the fourth respondent even if the latter was not registered with the competent
+authority; 4Writ Petition No 20333 of 2022 (GM-TEN)
+
+(iv) Since the appellant was not even procuring raw materials but only sought support for design,
+erection and commissioning requirements, the bid did not violate the procurement order;
+
+(v) The Court’s scrutiny was limited to the decision-making process;
+
+(vi) The financial bid of the appellant was Rs 58 crores lower in value than the financial bid
+submitted by the first respondent; and
+
+(vii) The decision-making process was not arbitrary and did not merit interference, in line with the
+principle of limited judicial scrutiny of the discretion vested in a tendering authority.
+
+14. The judgment of the Single Judge was carried in appeal.
+
+15. The Division Bench of the High Court reversed the decision of the Single Judge and allowed the
+writ appeal. The respondent (who was the appellant before the Division Bench) argued that
+
+(i) The consortium agreement between the appellant and the Chinese entity was meant to confer
+eligibility on the appellant, which did not possess the requisite qualifications on its own;
+
+(ii) Thus, by way of the consortium agreement, a bidding consortium was created where the Chinese
+entity was a joint bidder;
+
+(iii) As such, according to the Public Procurement Order the Chinese company was required to
+register with the competent authority in order to participate in the tender process; and
+
+(iv) In the absence of registration, the bidding consortium comprising the appellant and the Chinese
+Company did not meet the technical criteria of the tender.
+
+16. The appellant on the other hand, maintained that
+
+(i) The agreement was not a consortium agreement in the technical sense (clause 7 of the
+pre-qualification requirements);
+
+(ii) It was called a consortium agreement only because it was styled in accordance with the template
+for a consortium agreement, appended to the tender document;
+
+(iii) If it were actually a consortium agreement in the strict sense, the Chinese company would have
+contributed to the bid and had a share in the profits as well;
+
+7
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+(iv) the nature of the agreement was more like a service contract than like a consortium agreement
+strictly speaking;
+
+(v) The Chinese company was a mere associate who was providing services in relation to the designs
+under the terms of the agreement; it did not contribute to the bid and was not entitled to any profits
+that accrued in favor of the appellant;
+
+(vi) The bid was submitted and awarded in favour of the appellant as a standalone bidder and not as
+a part of a bidding consortium; and
+
+(vii) Considering the nature of the contract and the Chinese company’s limited role, the
+non-registration under the Procurement Order was inconsequential.
+
+17. By its impugned judgment dated 27 July 2023, the Division Bench reversed the decision of the
+Single Judge. The Division Bench observed that
+
+(i) The agreement between the appellant and the Chinese Company is an undertaking to the
+tendering authority as to the due performance of the contract;
+
+(ii) The agreement is central to the appellant’s bid and is thus a consortium agreement;
+
+(iii) The bid was thus made on behalf of the bidding consortium;
+
+(iv) According to the Single Judge, the requirement of registration was not applicable in view of the
+clarification by the subsequent Office Memorandum dated 23 July 2020; this subsequent
+clarification applied in respect of import of raw material and whether the goods procured would be
+considered raw material or finished goods was relevant only after the award of the contract;
+
+(v) The requirement of mandatory registration had not been done away with by the clarification
+contained in the Office Memorandum dated 23 July 2020;
+
+(vi) The Chinese company, as a part of the bidding consortium was required to register in the
+absence of which the bidding consortium was ineligible to participate in the tender process; and
+
+(vii) BHEL, in awarding the tender, had overlooked this violation and wrongly based its decision
+only on the financial bid.
+
+18. The Division Bench thus, set aside the Single Judge’s decision. The LoI which was awarded to
+the appellant has been set aside with the consequential direction to process the bids submitted by
+the first respondent in terms of the Notice Inviting Tenders. In the meantime, albeit in pursuance of
+interim directions to the effect that no equities would be created in favour of the successful bidder,
+work has proceeded apace. The stage of the work and the impact, if any, it should have on the
+outcome of these proceedings would be considered subsequently.
+
+8
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+19. Besides this appeal which has been filed by the successful party to whom the contract was
+awarded by BHEL, a companion Special Leave Petition has been filed before this Court by BHEL
+and by the Telangana State Power Generation Company Limited. The latter had awarded the
+contract for the construction of a 5x800 MW Thermal Power Station to BHEL and in its submission,
+the project is likely to get affected by the orders which have been passed by the High Court in
+relation to the setting up of the Ash Handling Plant.
+
+20. We have heard Mr Mukul Rohatgi, Mr Gaurab Banerjee and Mr V Giri, senior counsel appearing
+on behalf of the appellants in support of the appeals. Mr Harish N Salve and Mr Neeraj Kishan Kaul,
+senior counsel have appeared on behalf of the original petitioner before the High Court, namely, the
+first respondent. For convenience of reference, the parties as they appear in the lead appeal are
+referred to in these proceedings.
+
+21. The controversy in the present case lies in a narrow frame. Clause 01.01.01 stipulates four
+requirements that each bidder has to fulfill. All the requirements are cumulative as is indicated by
+the use of the word “and” after sub-clauses (a), (b) and (c). Evidently, it is not in dispute that the
+appellant did not fulfill the technical requirements specified in clause 01.01.01. However, this was
+not the end of the matter for the reason that clause 01.01.02 specifically contemplated such an
+eventuality. This clause stipulates that a bidder which is a supplier of bulk material handling
+systems, but does not meet the requirements under clause 01.01.01 in part or in full, could also
+participate provided such a bidder had executed at least the systems design, engineering,
+manufacture, supply, erection and commissioning of projects of the nature described in either (a) or
+(b). Apart from having experience of the projects that were specified under clause 01.01.02, there
+was an additional condition which was that such a bidder must collaborate/associate with a party or
+parties who meet all the requirements of sub-clauses (a), (b), and (c) of clause 01.01.01. In other
+words, though the bidder itself was not able to meet the requirements of clause 01.01.01, such
+non-compliance would be obviated if the bidder collaborated or associated with an entity that met
+the requirements of sub-clauses (a), (b) and (c) either individually or in conjunction with the bidder
+himself. In that case, the bidder was required to furnish a consortium agreement jointly executed
+with the collaborator/associate so as to accept joint and several responsibilities towards the
+tendering authority. Clause 01.01.03 contains certain stipulations in regard to the activity of design
+and engineering under clause 01.01.01.
+
+22. Clause 7.2 of the pre-qualification requirements contains specific stipulations in regard to the
+nature of the bidding consortium. Clause 7.2 is in the following terms:
+
+“The members of bidding Consortium should have entered into a Memorandum of
+Association (MOA) between themselves. One of the members of Consortium, holding
+at least 51% of the equity/ownership stake shall be authorized and nominated as the
+‘Lead member’ (Lead Member) to act and represent all the members of the
+Consortium for bidding and implementation of the Project.”
+
+23. The agreement between the appellant and the Chinese company, it is common ground, did not
+involve an equity, stake, or ownership of the Chinese company. This aspect has not been disputed.
+
+9
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+The issue which fell for determination before the High Court was whether the bid submitted by the
+appellant was liable to be rejected on the ground that the Chinese company with whom it had
+entered into a consortium agreement was not registered with the competent authority in terms of
+the Public Procurement Order dated 23 July 2020.
+
+24. At this stage, it would be material to note that the Procurement Order dated 23 July 2020 has
+been clarified by an OM dated 8 February 2021. The OM stipulates that in terms of paragraph 11 of
+the Order dated 23 July 2020, in the case of a works contract including a turnkey contract, the
+contractor shall not be allowed to sub- contract the work to any contractor from a country that
+shares a land boundary with India unless the contractor is registered with the competent authority.
+The OM clarifies the earlier order by stipulating that:
+
+“However, no such restriction is stipulated in the Order regarding other
+procurements i.e. procurement of Goods, Services, etc.”
+
+25. The High Court went on to decide whether the registration requirement applied even after the
+clarification and whether the absence of such registration vitiated the bid and the decision to award
+the contract to the appellant.
+
+26. The submissions which have been urged on behalf of the appellant are that:
+
+(i) The appellant was at all material times the sole bidder to whom a LoI was awarded
+by BHEL on 29 September 2022;
+
+(ii) There was no bidding consortium within the meaning of clause 7.2 of the pre-
+
+qualification requirements;
+
+(iii) The Chinese company with whom a consortium agreement was entered into by the appellant
+had no equity in the project which was being contracted for by the appellant;
+
+(iv) The Procurement Order dated 23 July 2020 with the clarification which was issued thereafter
+on 8 February 2021 requires only a registration and does not impose a disqualification; and
+
+(v) As a matter of public interest, the High Court ought not to have interfered consistently with
+settled legal principles since a large part of the work has already been completed.
+
+27. These submissions have been opposed on behalf of the respondents who have urged that:
+
+(i) The appellant did not qualify under clause 01.01.01 and could bid for the project
+only in pursuance of the experience of the Chinese entity with whom a collaboration
+agreement was entered into;
+
+10
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+(ii) The consortium agreement with the Chinese company specifically stated that the
+appellant did not qualify in terms of clause 01.01.01;
+
+(iii) The definition of the expression ‘bidder’ in the OM dated 23 July 2020 is broad
+enough so as to encompass a consortium agreement;
+
+(iv) The above position would be amplified by the responses submitted by the
+appellant in the course of the queries that were raised in the tendering process;
+
+(v) Clause 52 of the Special Conditions of Contract specifically emphasizes the
+conditions that were set out in the OM;
+
+(vi) The responses which were furnished by the appellant to the pre-
+
+qualification requirements contain a specific statement that the appellant had entered into a
+consortium agreement with the Chinese company; and
+
+(vii) Likewise, the Chinese company in its letter dated 18 July 2023 clarified that it had entered into
+a consortium agreement in pursuance of which it was undertaking joint and several liability towards
+BHEL.
+
+28. The bid which was submitted by the appellant was lower than the bid submitted by the first
+respondent in the vicinity of Rs 58 crores. During the course of the hearing, it has been submitted on
+behalf of the first respondent that the first respondent would be willing to match the bid which was
+submitted by the appellant and if the contract is awarded to it in pursuance of the impugned
+judgment of the Division Bench of the High Court, it would take over the contract from the stage
+where it was left by the appellant. However, BHEL and Telangana State Power Generation Company
+have stated that since the ongoing work is design intensive, substituting a new entity would require
+redesigning of the whole project at a significant cost to the exchequer.
+
+29. In assessing the validity of the rival submissions, it needs to be noted that the Procurement
+Order issued by the Union Ministry of Finance on 23 July 2020 imposes a requirement of
+registration where a bidder shares a land border with India. The order specifies that such a bidder
+would be eligible to bid in any procurement of goods, services (including consultancy and
+non-consultancy services), or works, including turnkey projects if the bidder is registered with the
+competent authority as set out in Annexure I. The expression ‘bidder’ is defined in clause (6) in
+broad terms so as to encompass any member of a consortium or joint venture. Similarly, clause (8)
+also incorporates a consortium or joint venture.
+
+30. Clause 11 of the Order contains the following provision in relation to the sub- contracting of
+works contracts in the following terms:
+
+“In works contracts, including turnkey contracts, contractors shall not be allowed to
+sub-contract works to any contractor from a country which shares a land border with
+
+11
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+India unless such contractor is registered with the Competent Authority. The
+definition of “contractor from a country which shares a land border with India” shall
+be as in paragraph 8 above. This shall not apply to sub-contracts already awarded on
+or before the date of this Order.”
+
+31. The above requirement in clause 11 was subsequently clarified in the OM of the Union Ministry
+of Finance dated 8 February 2021 so as to exclude from its ambit the procurement of goods and
+services. According to the appellant, the relaxation which was granted on 8 February 2021 would
+enure to its benefit. At this stage, it would be material to note that clause 01.01.02 of the
+pre-qualification requirements enables bidders who otherwise do not fulfill the requirements of
+clause 01.01.01 to submit a bid so long as they fulfill the requirements of having experience in the
+commissioning of projects as spelt out in the paragraph and in addition, they would have to have a
+collaborator or an associate who meets the requirements of clause 01.01.01. In such a case, the
+bidder is required to furnish a consortium agreement jointly executed with the collaborator or
+associate. It was in pursuance of the above requirement that the appellant submitted a consortium
+agreement with the Chinese company.
+
+32. Clause 7 of the bid documents stipulates that a bidder may collaborate or tie up in any legal form
+with other parties. As part of this requirement, clause 7.2 envisages that a Memorandum of
+Association should be executed between the members of a bidding consortium in which one of the
+members holding at least 50% of the equity/ownership stake would be treated as a lead member to
+act for and represent all the members of the consortium. The agreement between the appellant and
+the Chinese company does not fall within the description of clause 7.2 since the Chinese company
+has no ownership or equity in the project, no MoU as required by the clause was executed between
+the appellant and the Chinese entity and it has no contribution in the bid. The agreement was pure
+and simple, an agreement in terms of the requirements that were imposed by clause 01.01.02.
+
+33. Neither Telangana State Power Generation Company Limited nor for that matter BHEL raised
+any dispute in regard to the eligibility of the appellant to bid for the contract. The challenge was
+addressed by the first respondent who is a competing bidder whose bid was admittedly higher than
+the bid which was submitted by the successful bidder by approximately Rs 58 crores. The
+Procurement Order dated 23 July 2020 imposes a registration requirement and also states that the
+bidder would not be eligible unless it is registered in the event that it belongs to a country that
+shares a land border with India. The primary decision on whether the appellant meets the technical
+requirements of the tender on account of its collaborator/associate being a Chinese company that
+was not registered had to be determined by BHEL. BHEL has not found that there was a breach of
+the OM dated 23 July 2020 which, as noted earlier, has been relaxed by the subsequent OM dated 8
+February 2021. In this context, it has been submitted on behalf of the appellant that out of a total
+contract value of Rs 378.64 crores in the contract between BHEL and the appellant, the Chinese
+sub-contract for carrying out design and other related aspects of the Ash Handling Plant is to the
+extent of US dollars 95,000 corresponding approximately to Rs 78 lakhs, which is only 0.2% of the
+entire contract value. BHEL and the Telangana State Power Generation Company found that the
+agreement with the Chinese company was in the nature of a service agreement and not a
+“consortium” under clause 7.2 of the pre-qualification requirements. The bid was made by the
+
+12
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+appellant as a standalone entity and not in a consortium comprising the unregistered Chinese entity.
+It was neither a joint bid nor a bid made by a bidding consortium. Thus, the registration
+requirement did not apply. Further, in accordance with the pre- qualification requirements, the
+appellant’s manufacturing facilities were duly examined and approved by BHEL, and the bid was
+approved after due consideration and satisfaction of BHEL, the tendering authority. The Union
+Government by its subsequent OM dated 8 February 2021 has diluted the rigours of the earlier
+Procurement Order dated 23 July 2020 by stipulating that the earlier order shall not affect the
+procurement of goods and services per se.
+
+34. In this view of the matter, we are of the considered view that the Division Bench which was
+considering an appeal against a judgment of a Single Judge rejecting the writ petition ought to have
+proceeded with circumspection.
+
+35. It is settled law that in contracts involving complex technical issues, the Court should exercise
+restraint in exercising the power of judicial review. Even if a party to the contract is ‘State’ within the
+meaning of Article 12 of the Constitution, and as such, is amenable to the writ jurisdiction of the
+High Court or the Supreme Court, the Court should not readily interfere in commercial or
+contractual matters. This principle has been reiterated in a recent judgment of this Court. Justice J
+B Pardiwala, speaking for the Bench in Tata Motors Limited v. BEST held:
+
+“48. This Court being the guardian of fundamental rights Is duty- bound to Interfere
+when there Is arbitrariness, irrationality, mala fides, and bias However, this Court
+has cautioned time and again that courts should exercise a lot of restraint while
+exercising their powers of judicial review In contractual or commercial matters This
+Court Is normally loathe to Interfere In contractual matters unless a clear-cut case of
+arbitrariness or mala fides or bias or Irrationality Is made out One must remember
+that today many public sector undertakings compete with the private industry The
+contracts entered Into between private parties are not subject to scrutiny under writ
+jurisdiction. No doubt, the bodies which are State within the meaning of Article 12 of
+the Constitution are bound to act fairly and are amenable to the writ jurisdiction of
+superior courts but this discretionary power must be exercised with a great deal of
+restraint and caution. The courts must realise their limitations and the havoc which
+needless Interference in commercial matters can cause. In contracts Involving
+technical issues the courts should be even more reluctant because most of us in
+Judges' robes do not have the necessary expertise to adjudicate upon technical Issues
+beyond our domain. The courts should not use a magnifying glass while scanning the
+tenders and make every small mistake appear like a big blunder. In fact, the courts
+must give fair play In the Joints' to the government and public sector undertakings In
+matters of contract. Courts must also not Interfere where such interference will cause
+unnecessary loss to the public exchequer. 5”
+
+36. The Court ought to defer to the discretion of the tender inviting authority which, by reason of
+having authored the tender documents, is best placed to interpret their terms. The Courts ought not
+to sit as courts of appeal but review the decision-making process and examine arbitrariness or mala
+
+13
+
+fides, if any. 6
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+37. Even in a writ appeal, it is well settled that the Division Bench would ordinarily not interfere
+with the judgment of a Single Judge unless it suffers from perversity or error. 5 Tata Motors Limited
+vs Brihan Mumbai Electric Supply & Transport Undertaking (BEST) and Others, 2023 SCC OnLine
+SC 671.
+
+6 Monte Carlo Limited vs National Thermal Power Corporation Limited, (2016) 15 SCC 272.
+
+38. Hence, having considered the rival submissions, and for the above reasons, we are of the view
+that the interference of the Division Bench in the judgment of the Single Judge was not warranted.
+That apart, during the course of the hearing, it has emerged before this Court that the contract is
+under implementation. Paragraphs 39 and 40 of the affidavit which was filed before the High Court
+by BHEL are extracted below:
+
+39. Of the total Project work, 80% of the civil work, 72% of the structural work and 65% of the
+supply work of the Project in totality has been completed. BTL has completed around 80% of the
+mechanical engineering, supply and work worth about INR 50,00,00,000 so far.
+
+40. Further, 99% of the Engineering for the Wet Ash system has been completed by BTL. Moreover,
+50% of the Civil and Structural Works of the Power station, being completed by BHEL, is already in
+place”
+
+39. At this stage, the High Court has, while setting aside the award of the contract to the appellant,
+directed that the bid which was submitted by the first respondent shall be considered in terms of the
+Notice Inviting Tenders. Though during the course of the hearing, the first respondent has made a
+statement through senior counsel that it would match the bid which was submitted by the appellant,
+there can be no gainsaying the fact that this will cause insuperable difficulties in the implementation
+of the contract since the work under the contract has progressed. While the appellant was placed on
+notice that this would not create any special equities in its favour, there is apart from the interest of
+the appellant which is a private entity, the interest of both the Telangana State Power Generation
+Company Limited and of BHEL, both of which are public entities which have invested funds for the
+realization of the project involving the setting up of the 5x800 MW thermal power plant.
+
+40. For the above reasons, we allow the appeals and set aside the judgment of the Division Bench of
+the High Court of Karnataka. The judgment of the Single Judge dismissing the writ petition shall
+stand restored. There shall be no order as to costs.
+
+41. The civil appeals are accordingly allowed.
+
+42. Pending applications, if any, stand disposed of.
+
+…….……....…...….......…………………..CJI.
+
+14
+
+Btl Epc Ltd. vs Macawber Beekay Pvt. Ltd. on 18 September, 2023
+
+[Dr Dhananjaya Y Chandrachud] …………......…........……………….…........J. [J B Pardiwala]
+....……….....…........……………….…........J. [Manoj Misra] New Delhi;
+
+September 18, 2023 CKB
+
+15

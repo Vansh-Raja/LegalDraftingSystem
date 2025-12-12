@@ -1,0 +1,21 @@
+{
+  "case_number": "Criminal Appeal No. 1503 of 2022 (Arising out of SLP (Crl.) No. 9141 of 2019)",
+  "parties": {
+    "petitioner": "Shiv Kumar",
+    "respondent": "The State of Madhya Pradesh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-07",
+  "summary": "The appeal challenged the conviction of Shiv Kumar under Section 411 IPC for receiving stolen property. The High Court had affirmed the trial court's conviction based on seizure of looted goods and sale at cheaper rates. The appellant contended that knowledge of the property being stolen was not proved. The prosecution relied on disclosure statements of co-accused and circumstantial evidence. The Court examined the necessity of proving 'knowledge' or 'reason to believe' under Section 411 IPC and considered whether conviction could be sustained solely on recovery and sale at reduced prices. It emphasized that mere possession or低价 sale, without more, cannot conclusively establish knowledge that property was stolen, and reiterating the need for independent evidence to satisfy mens rea under Section 411.",
+  "legal_provisions_cited": [
+    "Section 411 IPC",
+    "Section 24 IPC",
+    "Section 114 Evidence Act",
+    "Article 136 Constitution of India",
+    "Haricharan Kurmi & Anr. Vs. State of Bihar",
+    "Sambhu Das alias Bijoy Das & Anr. v. State of Assam",
+    "Nagappa Dondiba Kalal v. State of Karnataka",
+    "Dr. Vimla v. Delhi Administration"
+  ],
+  "final_judgment": "The appeal was allowed, and the conviction of the appellant under Section 411 IPC was set aside due to insufficient evidence to prove knowledge that the property was stolen, though the findings on recovery were acknowledged."
+}

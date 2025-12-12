@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal No(s). 4402 of 2024",
+  "parties": {
+    "petitioner": "Ramratan@Ramswaroop & Anr.",
+    "respondent": "The State of Madhya Pradesh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-10-25",
+  "summary": "The appellants challenged the High Court's bail conditions requiring them to remove a wall and surrender possession of disputed property to the complainant. The Supreme Court examined whether such conditions exceeded the court's jurisdiction under Sections 437 and 439 CrPC. It held that bail conditions must be reasonable and directly related to securing the accused's presence during trial, not adjudicating civil disputes or affecting property rights. The High Court's directions interfered with an ongoing civil suit and prejudiced the State's rights, amounting to an overreach of bail jurisdiction. Conditions unrelated to bail objectives were struck down.",
+  "legal_provisions_cited": [
+    "Section 437(3) CrPC",
+    "Section 439 CrPC",
+    "Parvez Noordin Lokhandwalla v. State of Maharashtra and Another",
+    "Sumit Mehta v. State (NCT of Delhi)",
+    "Dilip Singh v. State of Madhya Pradesh and Another"
+  ],
+  "final_judgment": "The appeal was allowed to the extent of setting aside the onerous conditions imposed by the High Court regarding removal of the wall and delivery of possession; the bail order was otherwise upheld."
+}

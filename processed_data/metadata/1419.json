@@ -1,0 +1,22 @@
+{
+  "case_number": "Criminal Appeal No(s). of 2022 [@ Special Leave Petition (Crl.) No(s). 9288 of 2022]",
+  "parties": {
+    "petitioner": "P. Ponnusamy",
+    "respondent": "The State of Tamil Nadu"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-11-07",
+  "summary": "The appeal challenged the Madras High Court's order dated 14.09.2022, which declined to direct the State to produce documents not relied upon by the prosecution but seized during investigation. The Supreme Court upheld the rejection of the appeal but clarified that accused persons have a right to receive a list of all materials, including those not relied upon, under Section 207/208 CrPC, as part of fair trial rights under Article 21. This right stems from the Supreme Court's earlier suo motu initiative (Suo Motu WP (Crl.) No. 1 of 2017), which resulted in Draft Rules of Criminal Practice, 2021, mandating disclosure. The Court emphasized that non-reliance by prosecution does not negate the accused's right to access exculpatory material, citing precedents like Manu Sharma, Manoj, and Manjeet Singh Khera. The judgment reinforces fair trial safeguards and uniform criminal practice.",
+  "legal_provisions_cited": [
+    "Section 207 CrPC",
+    "Section 208 CrPC",
+    "Section 173 CrPC",
+    "Article 21 of the Constitution of India",
+    "Siddharth Vasisht @ Manu Sharma v. State of NCT Delhi",
+    "Manoj & Ors. v. State of Madhya Pradesh",
+    "Manjeet Singh Khera v. State of Maharashtra",
+    "V.K. Sasikala v. State",
+    "Draft Rules of Criminal Practice, 2021"
+  ],
+  "final_judgment": "Appeal rejected, but observations clarified regarding the accused's right to access all investigation materials, including those not relied upon by the prosecution, as part of a fair trial under Article 21."
+}

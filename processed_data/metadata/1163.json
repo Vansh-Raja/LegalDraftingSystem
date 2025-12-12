@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 6500 of 2008",
+  "parties": {
+    "petitioner": "The State of Tripura & Anr.",
+    "respondent": "Chandan Deb & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-24",
+  "summary": "The case involved a challenge to the validity of Rule 3A(2) of the Tripura Sales Tax Rules, 1976, which mandated 4% tax deduction at source on transfer of the right to use goods. The High Court had declared the rule ultra vires the Tripura Sales Tax Act, 1976, and absolved suppliers from liability under Section 3AA. The State of Tripura appealed, arguing that Rule 3A(2) was a valid machinery provision for tax recovery, did not alter tax liability, and was within delegated rule-making power under Section 44. The Supreme Court considered whether the rule was ultra vires despite an express proviso in Section 3(1) for taxing such transfers. Key issues included statutory interpretation, delegation of legislative power, and the distinction between charging and machinery provisions in tax law.",
+  "legal_provisions_cited": [
+    "Section 3A, Tripura Sales Tax Act, 1976",
+    "Section 3AA, Tripura Sales Tax Act, 1976",
+    "Section 44, Tripura Sales Tax Act, 1976",
+    "Rule 3A(2), Tripura Sales Tax Rules, 1976",
+    "PILCOM vs. CIT, (2020) 19 SCC 409",
+    "CIT vs. Eli Lilly & Co. (India) (P) Ltd., (2009) 15 SCC 1",
+    "CCE & Customs vs. Larsen & Toubro Ltd., (2016) 1 SCC 170"
+  ],
+  "final_judgment": "Pending final reasoning in the judgment text; ultimate disposition not fully stated in provided excerpt."
+}

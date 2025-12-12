@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 10662 of 2024",
+  "parties": {
+    "petitioner": "M/s. Ultra Tech Cement Limited",
+    "respondent": "Mast Ram & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-09-20",
+  "summary": "The appeal challenges the Himachal Pradesh High Court's order directing Ultra Tech Cement Ltd. to pay additional compensation determined in a supplementary award for land acquired under the Land Acquisition Act, 1894. The High Court held that the appellant must pay initially, with liberty to recover from JAL, relying on Clause 7.1 of the Scheme of Arrangement. The appellant contended that contingent liabilities, including unresolved claims like this, remained JAL's responsibility under the Scheme approved by NCLT. The dispute centers on interpretation of the Scheme and allocation of liability for delayed compensation arising from post-acquisition awards.",
+  "legal_provisions_cited": [
+    "Section 4, 17(4), 11(1), Section 24(1)(a) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+    "Companies Act, 1956, Sections 391-394",
+    "Article 300-A of the Constitution of India"
+  ],
+  "final_judgment": "Leave granted. The case remanded for determination of liability based on the Scheme of Arrangement and nature of contingent obligations."
+}

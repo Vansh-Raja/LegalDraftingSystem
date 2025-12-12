@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 765 of 2023 (Arising out of SLP(C) No. 2542 of 2023)",
+  "parties": {
+    "petitioner": "Shyam Kumar Gupta & Ors.",
+    "respondent": "Shubham Jain"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-02-02",
+  "summary": "The appeal was filed by legal representatives of the deceased defendant against the High Court's refusal to interfere with the trial court's rejection of an application to set aside an ex parte decree for rent recovery and ejectment. The core issue was non-compliance with Section 17 of the Provincial Small Cause Courts Act, 1887, which mandates deposit of the full amount due under the decree when filing an application under Order IX Rule 13 CPC. The Trial and High Courts held the application incompetent due to failure to deposit mesne profits and municipal tax. The Supreme Court, noting the appellants’ belated deposit of Rs. 1,90,000 towards arrears and profits, examined the mandatory nature of Section 17 and precedents on judicial discretion in such cases.",
+  "legal_provisions_cited": [
+    "Section 17, Provincial Small Cause Courts Act, 1887",
+    "Order IX Rule 13, Code of Civil Procedure, 1908",
+    "Section 5, Limitation Act, 1963",
+    "Article 227, Constitution of India",
+    "Kedarnath v. Mohan Lal Kesarwari and Ors., 2002 ALL CJ 145 [= (2002) 2 SCC 16]"
+  ],
+  "final_judgment": "The appeal was allowed with the condition that the appellants had deposited Rs. 1,90,000 in compliance with the decree, and the trial court was directed to decide the application under Order IX Rule 13 CPC on merits, considering the belated compliance and relevant legal principles."
+}

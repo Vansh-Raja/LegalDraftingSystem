@@ -1,0 +1,18 @@
+{
+  "case_number": "2025 INSC 288",
+  "parties": {
+    "petitioner": "The Chief Manager, Central Bank of India & Ors.",
+    "respondent": "M/s Ad Bureau Advertising Pvt. Ltd. & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-02-28",
+  "summary": "The main issue was whether a borrower of a project loan qualifies as a 'consumer' under the Consumer Protection Act, 1986. The National Consumer Disputes Redressal Commission (NCDRC) held that the bank was deficient in service for wrongly reporting the respondent as a defaulter to CIBIL despite accepting a one-time settlement and issuing a no-dues certificate, causing reputational and financial harm, including loss of an advertising tender. The NCDRC awarded ₹75 lakhs in compensation and directed the bank to issue a clarification certificate. The Supreme Court considered arguments on the definition of 'consumer', particularly whether the loan was for commercial purposes, and examined precedent on business-to-business transactions and dominant intention of profit generation.",
+  "legal_provisions_cited": [
+    "Consumer Protection Act, 1986, Section 2(1)(d)(ii)",
+    "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002",
+    "Recovery of Debts Due to Banks and Financial Institutions Act, 1993, Section 19(1)",
+    "National Insurance Company Limited vs. Harsolia Motors & Ors. (2023) 8 SCC 362",
+    "Lilavati Kirtilal Mehta Medical Trust vs. Unique Shanti Developers (2020) 2 SCC 265"
+  ],
+  "final_judgment": "Pending final determination of the appeals, the Supreme Court upheld the NCDRC's finding of deficiency in service due to incorrect reporting of the respondent as a defaulter, affirming the compensation and directions for corrective action by the bank, subject to the ongoing legal examination of consumer status under the Act."
+}

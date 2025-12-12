@@ -1,0 +1,28 @@
+{
+  "case_number": "Criminal Appeal No. 840 of 2022",
+  "parties": {
+    "petitioner": "State of Uttar Pradesh & Anr.",
+    "respondent": "Akhil Sharda & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-11",
+  "summary": "The State of Uttar Pradesh and the original informant challenged the Allahabad High Court's order quashing criminal proceedings under Section 482 Cr.P.C. arising from FIR No. 260 of 2018 (Sections 406, 420 IPC) related to the disappearance of two trucks carrying beer consignment. The appellants argued that the High Court erred in quashing proceedings without considering a larger conspiracy, interconnected FIRs, and serious allegations of data tampering and organized syndicate involvement. They contended that the High Court conducted a 'mini trial' and exceeded its jurisdiction. The respondents defended the quashing, asserting that ingredients of Sections 406 and 420 IPC were not satisfied and that the decision aligned with Ch. Bhajan Lal principles.",
+  "legal_provisions_cited": [
+    "Section 482 Cr.P.C.",
+    "Section 406 IPC",
+    "Section 420 IPC",
+    "Section 467 IPC",
+    "Section 468 IPC",
+    "Section 471 IPC",
+    "Section 120-B IPC",
+    "Ch. Bhajan Lal vs. State of Haryana, 1992 Supp (1) SCC 335",
+    "Odisha vs. Pratima Mohanty, 2021 SCC Online SC 1222",
+    "CBI vs. Thommandru, 2021 SCC Online SC 923",
+    "Rajeev Kourav vs. Baisahab, (2020) 3 SCC 317",
+    "Neeharika Infrastructure vs. Maharashtra, 2021 SCC Online SC 315",
+    "Rajiv Thapar vs. Madan Lal Kapoor, (2013) 3 SCC 330",
+    "Divine Retreat vs. Kerala, (2008) 3 SCC 542",
+    "Anil Rai vs. State of Bihar, (2001) 7 SCC 318"
+  ],
+  "final_judgment": "The appeal was allowed, the impugned judgment of the High Court quashing the criminal proceedings was set aside, and the criminal proceedings in FIR No. 260 of 2018 were restored for further investigation and trial."
+}

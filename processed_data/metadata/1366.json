@@ -1,0 +1,24 @@
+{
+  "case_number": "Civil Appeal No. 296 of 2020",
+  "parties": {
+    "petitioner": "M/S Tech Sharp Engineers Pvt. Ltd.",
+    "respondent": "Sanghvi Movers Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-19",
+  "summary": "The appeal challenged the NCLAT's order setting aside the NCLT's rejection of an insolvency application under Section 9 of the IBC as time-barred. The core issue was limitation under Article 137 of the Limitation Act: whether the right to apply accrues at the date of default or from the enforcement of the IBC. The Supreme Court ruled that limitation begins from the date of default, not the IBC's commencement. The respondent's delay in filing was not condoned as pendency of winding-up proceedings did not constitute sufficient cause. The NCLAT erred in holding that the application was within limitation from 2016.",
+  "legal_provisions_cited": [
+    "Section 8(1), Insolvency and Bankruptcy Code, 2016",
+    "Section 9, Insolvency and Bankruptcy Code, 2016",
+    "Section 62, Insolvency and Bankruptcy Code, 2016",
+    "Article 137, Limitation Act, 1963",
+    "Section 5, Limitation Act, 1963",
+    "Sections 433(e), 434, 439, Companies Act, 1956",
+    "B.K. Educational Services Pvt. Ltd. v. Parag Gupta and Associates",
+    "Radha Export (India) Private Ltd. v. K.P. Jayaram and Anr.",
+    "Babulal Vardharji Gurjar v. Veer Gurjar Aluminium Industries Private Ltd. and Anr.",
+    "Ramlal, Motilal & Chhotelal v. Rewa Coalfields Ltd.",
+    "Krishna v. Chathappan"
+  ],
+  "final_judgment": "The appeal is allowed. The judgment and order of the NCLAT dated 23rd July 2019 setting aside the NCLT's order is set aside. The order dated 2nd January 2019 passed by the NCLT rejecting the application under Section 9 of the IBC as barred by limitation is restored."
+}

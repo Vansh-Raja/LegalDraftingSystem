@@ -1,0 +1,20 @@
+{
+  "case_number": "Special Leave Petition (Crl.) No. 2953 of 2022",
+  "parties": {
+    "petitioner": "Ramveer Upadhyay & Anr.",
+    "respondent": "State of U.P. & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-20",
+  "summary": "The petition challenged the High Court's dismissal of an application under Section 482 CrPC, which sought to quash the cognizance order dated 17th September 2021 by the Additional District and Sessions Judge, Hathras, in a case registered under Section 365 read with Section 511 IPC and Section 3(1)(Dha) of the SC/ST (Prevention of Atrocities) Act. The petitioner alleged political animosity behind the complaint filed by Respondent No. 2, linked to opposition leader Devendra Agarwal. The key issue was whether cognizance could be validly taken by a regular Sessions Judge instead of a Special Judge under the Atrocities Act. The Supreme Court considered the jurisdictional question under Section 14 of the Atrocities Act, referring to Shantaben Bhurabhai Bhuriya v. Anand Athabhai Chaudhari, and examined the legislative intent post-amendment. It held that the cognizance taken by the Sessions Judge was not invalid merely due to lack of designation as Special Judge, as the second proviso to Section 14 permits trial by designated courts after committal, upholding the validity of proceedings.",
+  "legal_provisions_cited": [
+    "Section 482 of the Code of Criminal Procedure, 1973",
+    "Section 365 read with Section 511 of the Indian Penal Code",
+    "Section 3(1)(Dha) of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+    "Section 14 of the Atrocities Act",
+    "Section 156(3) CrPC",
+    "Section 200 CrPC",
+    "Section 202 CrPC"
+  ],
+  "final_judgment": "Petition dismissed."
+}

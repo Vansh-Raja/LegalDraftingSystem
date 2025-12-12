@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal No. 1098 of 2024",
+  "parties": {
+    "petitioner": "Nirmal Premkumar & Anr.",
+    "respondent": "State Rep. by Inspector Of Police"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-03-11",
+  "summary": "The appeal challenged the Madras High Court's dismissal of a criminal appeal against the conviction of two school teachers under the POCSO Act and IPC. The Special Court had convicted A-1 under Section 12 of the POCSO Act and A-2 under Section 506 IPC, based on alleged incidents of sexual harassment involving a 13-year-old student. The appellants argued that the prosecution failed to prove the case beyond reasonable doubt, citing inconsistencies in the victim's testimony and lack of independent witnesses. The respondent emphasized the duty of teachers and the societal impact of such offences. The Supreme Court examined the reliability of the victim's testimony, referencing precedents on when such testimony requires corroboration. It assessed whether the evidence was sufficient to sustain conviction, particularly focusing on the presence of sexual intent. The final ruling disposed of the appeal after evaluating the evidentiary standards.",
+  "legal_provisions_cited": [
+    "Section 12, Protection of Children from Sexual Offences Act",
+    "Section 506, Indian Penal Code",
+    "Section 374(2), Code of Criminal Procedure",
+    "Section 173(2), Cr.P.C.",
+    "Section 313, Cr.P.C.",
+    "Ganesan v. State",
+    "Rai Sandeep v. State (NCT of Delhi)"
+  ],
+  "final_judgment": "The appeal was disposed of after examining the evidence and legal principles, with the Court determining whether the conviction of the appellants should be upheld or set aside."
+}

@@ -1,0 +1,16 @@
+{
+  "case_number": "Criminal Appeal No.1586 of 2022 (arising out of SLP (Criminal) No. 9811 of 2021)",
+  "parties": {
+    "petitioner": "S.P. Mani and Mohan Dairy",
+    "respondent": "Dr. Snehalatha Elangovan"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-16",
+  "summary": "The appeal challenged the Madras High Court's order quashing criminal proceedings under Section 138 r/w Section 141 of the Negotiable Instruments Act, 1881, against the respondent, a partner in a firm that issued a dishonored cheque. The key issue was whether vicarious liability could be imposed on the respondent under Section 141 despite the firm's alleged prior dissolution. The appellant argued that the complaint contained specific averments about the respondent's active role and knowledge of the cheque issuance, sufficient to proceed to trial. The respondent contended that bald allegations were insufficient to invoke Section 141 and relied on prior judgments requiring detailed pleading. The Court examined the statutory notice and complaint, emphasizing that at the threshold, the pleading must sufficiently demonstrate the accused's role in the firm’s management.",
+  "legal_provisions_cited": [
+    "Section 138 of the Negotiable Instruments Act, 1881",
+    "Section 141 of the Negotiable Instruments Act, 1881",
+    "Section 482 of the Code of Criminal Procedure"
+  ],
+  "final_judgment": "The Supreme Court set aside the impugned order of the Madras High Court and restored the criminal proceedings against the respondent, holding that the complaint contained sufficient averments to proceed to trial under Section 141 of the NI Act."
+}

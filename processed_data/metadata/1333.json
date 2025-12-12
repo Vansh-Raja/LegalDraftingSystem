@@ -1,0 +1,22 @@
+{
+  "case_number": "Civil Appeal No(s). 6406-6407 of 2010",
+  "parties": {
+    "petitioner": "Kattukandi Edathil Krishnan & Anr.",
+    "respondent": "Kattukandi Edathil Valsan & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-06-13",
+  "summary": "The appeals challenged the Kerala High Court's judgment setting aside a partition decree, based on its finding that the first plaintiff was the son of Damodaran but not a legitimate son due to lack of proof of marriage between Damodaran and Chiruthakutty. The Supreme Court examined whether long cohabitation between Damodaran and Chiruthakutty raised a presumption of marriage under Section 114 of the Indian Evidence Act, 1872. The Trial Court had recognized the plaintiffs' share based on such cohabitation, but the High Court rejected legitimacy due to insufficient documentary evidence. The Supreme Court emphasized that cohabitation over long years raises a rebuttable presumption of marriage, with burden on detractors to disprove it, citing precedents favoring legitimacy over bastardy.",
+  "legal_provisions_cited": [
+    "Section 114 of the Indian Evidence Act, 1872",
+    "Andrahennedige Dinohamy and Anr. v. Wijetunge Liyanapatabendige Balahamy and Ors. (AIR 1927 PC 185)",
+    "Mohabbat Ali Khan v. Mohd. Ibrahim Khan (AIR 1929 PC 135)",
+    "Badri Prasad v. Dy. Director of Consolidation and Others (1978) 3 SCC 527",
+    "S.P.S. Balasubramanyam v. Suruttayan alias Andali Padayachi and Others (1994) 1 SCC 460",
+    "Tulsa and Others v. Durghatiya and Others (2008) 4 SCC 520",
+    "Challamma v. Tilaga and Others (2009) 9 SCC 299",
+    "Madan Mohan Singh and Others v. Rajni Kant and Another (2010) 9 SCC 209",
+    "Indra Sarma v. V.K.V. Sarma (2013) 15 SCC 755"
+  ],
+  "final_judgment": "The appeals were allowed, restoring the Trial Court’s preliminary decree for partition, recognizing the presumption of marriage due to long cohabitation and holding that the defendants failed to rebut it."
+}

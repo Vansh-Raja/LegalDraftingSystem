@@ -1,0 +1,21 @@
+{
+  "case_number": "2024 INSC 289; CIVIL APPEAL NO. 4615 OF 2023, CIVIL APPEAL NO. 4716 OF 2023",
+  "parties": {
+    "petitioner": "Karikho Kri",
+    "respondent": "Nuney Tayang and another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-04-09",
+  "summary": "Electoral non-disclosure of assets; ownership of dependent family members' vehicles; registration-based ownership standard per Motor Vehicles Act; failure to disclose electricity dues for prior government accommodation; incomplete tax liability disclosure; corrupt practice u/s 123(2) RP Act; nomination invalidity triggers election voidance u/s 100(1)(d)(i); substantiality of omission assessed via voter information rights; procedural compliance prioritized over materiality requirement; interim stay allowed candidate contesting fresh election; High Court finding of void election upheld.",
+  "legal_provisions_cited": [
+    "Representation of the People Act, 1951 s.100(1)(b)",
+    "Representation of the People Act, 1951 s.100(1)(d)(i)",
+    "Representation of the People Act, 1951 s.100(1)(d)(iv)",
+    "Representation of the People Act, 1951 s.116A",
+    "Representation of the People Act, 1951 s.116B(2)",
+    "Representation of the People Act, 1951 s.123(2)",
+    "Conduct of Elections Rules, 1961 Form No.26",
+    "Motor Vehicles Act, 1988"
+  ],
+  "final_judgment": "Appeals allowed in part; High Court judgment set aside on tax disclosure issue; upheld on vehicle ownership and electricity dues; election declared void; respondent not declared elected due to lack of evidence against second candidate."
+}

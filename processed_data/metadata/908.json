@@ -1,0 +1,20 @@
+{
+  "case_number": "CRIMINAL APPEAL NO.108 OF 2012",
+  "parties": {
+    "petitioner": "Guna Mahto",
+    "respondent": "State of Jharkhand"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-16",
+  "summary": "Murder conviction under IPC s.302 based on circumstantial evidence reversed; prosecution failed to establish conclusive chain of evidence; non-examination of investigating officer critical; ocular testimonies lacked corroboration, vague; undue reliance on hearsay statements; standard: reasonable doubt not met; High Court erred in affirming conviction on unproven facts; last-seen presumption insufficient without supporting evidence; benefit of doubt granted.",
+  "legal_provisions_cited": [
+    "Indian Penal Code, 1860 s.302",
+    "Indian Penal Code, s.201",
+    "Sharad Birdhichand Sarda v. State of Mahrashtra (1984) 4 SCC 116",
+    "Venkatesh v. State of Karnataka (2022)",
+    "Shatrughna Baban Meshram v. State of Maharashtra (2021)",
+    "Pappu v. State of Uttar Pradesh (2022)",
+    "Hanumant Govind Nargundkar v. State of M.P. (1952)"
+  ],
+  "final_judgment": "Appeal allowed; conviction under s.302 and s.201 IPC set aside; accused acquitted; benefit of doubt granted; High Court judgment reversed."
+}

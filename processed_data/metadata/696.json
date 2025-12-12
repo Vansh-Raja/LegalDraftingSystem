@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 8067 of 2019",
+  "parties": {
+    "petitioner": "S.V. Samudram",
+    "respondent": "State of Karnataka & Anr"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-01-04",
+  "summary": "The appeal challenged the Karnataka High Court's confirmation of a modification to an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996, which reduced the awarded amount. The key issues were delay in site handover, supply of drawings and materials, and cost escalation claims. The Arbitrator had awarded compensation for delays attributable to the State, but the Civil Judge modified the award, reducing the amount on grounds of lack of evidence and alleged arbitrariness. The High Court upheld the modification, holding that the shift in site was minor, delays were not fully substantiated, and the escalation claim was disproportionate. The Supreme Court considered whether the lower courts' interference was justified under Section 34. Issue: whether the arbitral award was properly set aside or modified.",
+  "legal_provisions_cited": [
+    "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Section 37(1) of the Arbitration and Conciliation Act, 1996"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, set aside the impugned judgments of the High Court and the Civil Judge, and restored the original arbitral award with interest as awarded by the Arbitrator."
+}

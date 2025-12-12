@@ -1,0 +1,17 @@
+{
+  "case_number": "Criminal Appeal No. 957 of 2023",
+  "parties": {
+    "petitioner": "Central Bureau of Investigation",
+    "respondent": "Vikas Mishra @ Vikash Mishra"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-10",
+  "summary": "The CBI appealed against the Calcutta High Court's order granting statutory/default bail to Vikas Mishra under Section 167(2) Cr.P.C. due to delayed filing of the charge sheet. The accused was arrested on 16.04.2021, remanded to police custody, but hospitalized and later granted interim bail. Bail was cancelled on 08.12.2021 for non-cooperation, and he was rearrested. The charge sheet was filed on 19.07.2022, beyond the 90-day limit. The High Court granted default bail, prompting the CBI's appeal. The CBI sought residual police custody for interrogation, arguing the accused frustrated the process by hospitalization. The respondent contended that police custody beyond 15 days of arrest is impermissible and that he was hospitalized due to genuine medical conditions. The Supreme Court considered whether residual police custody could be granted after default bail was ordered.",
+  "legal_provisions_cited": [
+    "Section 167(2) Cr.P.C.",
+    "Section 437(5) Cr.P.C.",
+    "Central Bureau of Investigation v. Anupam J. Kulkarni, (1992) 3 SCC 141",
+    "Budh Singh v. State of Punjab, (2000) 9 SCC 266"
+  ],
+  "final_judgment": "The appeal was dismissed. The Supreme Court upheld the High Court's order granting default bail, holding that the charge sheet was filed beyond the statutory period and no valid extension was granted. The CBI's request for residual police custody was denied as custody beyond 15 days is not permissible under Cr.P.C., and the accused had already been granted default bail as a matter of right."
+}

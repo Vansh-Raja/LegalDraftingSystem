@@ -1,0 +1,17 @@
+{
+  "case_number": "Criminal Appeal Nos.1636-1637 of 2023 (Arising out of SLP(Crl.) Nos.11009-11010/2015)",
+  "parties": {
+    "petitioner": "Prakash Nishad @ Kewat Zinak Nishad",
+    "respondent": "State of Maharashtra"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-19",
+  "summary": "The appeal challenged the conviction and death sentence awarded to the appellant for offences under Sections 302, 376, 377, and 201 IPC based on circumstantial evidence, including a disclosure statement and DNA analysis. Key issues: (1) Whether recording the appellant's disclosure statement in a language unknown to him, without explaining it, caused prejudice; (2) Whether DNA evidence alone can sustain a conviction; (3) Whether the prosecution circumstances exclusively point to the appellant’s guilt. The Court found serious irregularities in the recording of the disclosure statement, as it was not in a language the appellant understood, nor read over to him. While DNA evidence linked the appellant to the crime (semen on victim's undergarments and vaginal smear, victim's blood on appellant's vest), the Court emphasized that scientific evidence must be corroborated and cannot be the sole basis for conviction in absence of reliable supporting circumstances. The prosecution failed to conclusively rule out other possibilities, and the chain of circumstances was not complete. Thus, conviction was unsafe.",
+  "legal_provisions_cited": [
+    "Indian Penal Code, 1860, Sections 302, 376, 377, 201",
+    "Code of Criminal Procedure, Section 27",
+    "State of Maharashtra v. Damu (2000) 6 SCC 269",
+    "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116"
+  ],
+  "final_judgment": "The appeals were allowed. The judgment and order of the High Court and Trial Court were set aside. The appellant was acquitted of all charges and released if not required in any other case."
+}

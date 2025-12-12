@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal No.764 of 2021",
+  "parties": {
+    "petitioner": "Mahendra Singh and Ors.",
+    "respondent": "State of M.P."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-06-03",
+  "summary": "The appeals challenged the Madhya Pradesh High Court's dismissal of the appellants' appeal, affirming their conviction under Sections 148 and 302 read with Section 149 IPC for participating in a mob assault that resulted in the death of Bhagat Singh. The conviction primarily rested on the testimony of Amol Singh (P.W.6), the brother of the deceased, with corroboration sought from the post-mortem report. The appellants contested the reliability of Amol Singh's testimony, arguing it was uncorroborated and inherently suspect due to familial relationship and inconsistencies, citing Vadivelu Thevar. The State defended reliance on the witness, invoking Indian evidentiary principles rejecting 'falsus in uno' and emphasizing the separation of truth from inconsistencies. The Court examined whether the witness fell into the category of 'wholly unreliable' or required corroboration.",
+  "legal_provisions_cited": [
+    "Section 148 IPC",
+    "Section 302 IPC",
+    "Section 149 IPC",
+    "Vadivelu Thevar vs. The State of Madras",
+    "Shakila Abdul Gafar Khan vs. Vasant Raghunath Dhoble",
+    "State of Andhra Pradesh vs. Pullagummi Kasi Reddy Krishna Reddy",
+    "Rupinder Singh Sandhu vs. State of Punjab"
+  ],
+  "final_judgment": "The appeals were disposed of, with the Supreme Court upholding the conviction of the appellants based on the testimony of Amol Singh (P.W.6), which it found not wholly unreliable and sufficiently corroborated by medical evidence, thereby affirming the life sentence and fine under Section 302 read with Section 149 IPC and one year rigorous imprisonment under Section 148 IPC."
+}

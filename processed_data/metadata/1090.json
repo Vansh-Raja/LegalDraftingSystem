@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 1669 of 2020",
+  "parties": {
+    "petitioner": "Sabarmati Gas Limited",
+    "respondent": "Shah Alloys Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-04",
+  "summary": "Operational creditor's Section 9 IBC application dismissed as time-barred; exclusion of limitation period during SICA suspension disputed; Sick Industrial Companies Act Section 22(1) moratorium on coercive proceedings but no cause of action suspension; pre-existing dispute over gas supply shortfall and disconnection losses; demand notice and application discrepancies on debt quantum and default date; IBC applicability post-SICA repeal; three-year limitation period under Limitation Act Article 137 applied.",
+  "legal_provisions_cited": [
+    "Insolvency and Bankruptcy Code, 2016 s.7; s.8; s.9; s.62",
+    "Sick Industrial Companies (Special Provisions) Act, 1985 s.22(1); s.22(5); s.16; s.17",
+    "Limitation Act, 1963 Art.137"
+  ],
+  "final_judgment": "Appeal dismissed; NCLAT judgment upholding time-barred Section 9 application and existence of pre-existing dispute confirmed."
+}

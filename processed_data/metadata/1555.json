@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 3116 of 2022",
+  "parties": {
+    "petitioner": "State of Rajasthan & Ors.",
+    "respondent": "Chetan Jeff"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-11",
+  "summary": "The case involved the State of Rajasthan challenging the High Court's decision to direct consideration of Chetan Jeff for appointment as Constable despite suppression of criminal antecedents in his application. The respondent had not disclosed FIR No.458/2007 at the time of application, and subsequent FIRs were registered during litigation. The High Court upheld his candidature noting trivial nature of offences, reliance on Avtar Singh v. Union of India, and precedent from Bhanja Ram case. The Supreme Court examined whether suppression of material facts and ongoing criminal cases disqualify a candidate for a role requiring integrity. Issues included honesty in application, post-trial events, and suitability for law enforcement.",
+  "legal_provisions_cited": [
+    "Section 143, 341, 336, 147, 148, 149, 452, 380, 352, 427, 323, 34 IPC",
+    "Probation of Offenders Act, 1958",
+    "Article 136 of the Constitution of India",
+    "Avtar Singh v. Union of India (2016) 8 SCC 471",
+    "Daya Shankar Yadav v. Union of India (2010) 14 SCC 103"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, set aside the High Court orders, and upheld the rejection of the respondent's candidature due to suppression of criminal antecedents and lack of honesty, deeming him unsuitable for appointment as a constable."
+}

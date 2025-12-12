@@ -1,0 +1,20 @@
+{
+  "case_number": "CIVIL APPEAL NO(S). 4658 OF 2023",
+  "parties": {
+    "petitioner": "M/S HINDUSTAN CONSTRUCTION COMPANY LIMITED",
+    "respondent": "M/S NATIONAL HIGHWAYS AUTHORITY OF INDIA"
+  },
+  "court_name": "SUPREME COURT OF INDIA",
+  "date_of_judgment": "2023-08-24",
+  "summary": "Dispute over interpretation of contract clause regarding measurement method for embankment construction using soil and pond ash. Contractor argued for composite cross-section measurement under BOQ Item 2.02(b) and MoRTH TS Clause 305.8; NHAI and supervising engineer advocated separate measurement. Arbitral tribunal supported contractor's view; single judge upheld award. Division Bench of Delhi High Court set aside the award, finding implausible interpretation. Supreme Court examined scope of judicial interference under Arbitration Act, 1996, emphasizing limited review. Issue centered on whether measurement should be by composite section or segregated by material, with reference to technical specifications, BOQ, and expert interpretations.",
+  "legal_provisions_cited": [
+    "Arbitration and Conciliation Act, 1996, Section 34",
+    "Arbitration and Conciliation Act, 1996, Section 37",
+    "MoRTH Technical Specifications Clause 305.8",
+    "BOQ Item 2.02",
+    "IRC SP:58 - 2001 Clause 4.7.1",
+    "Associate Builders v Delhi Development Corporation",
+    "BOC India Ltd. vs. Bhagwati Oxygen Ltd"
+  ],
+  "final_judgment": "The appeal was allowed, setting aside the judgment of the Division Bench of the Delhi High Court and restoring the arbitral award in favor of the contractor, reaffirming the principle of minimal judicial interference in arbitral awards and upholding the tribunal's plausible interpretation of the contract."
+}

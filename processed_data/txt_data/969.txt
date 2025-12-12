@@ -1,0 +1,579 @@
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+M/S Hindustan Construction Company ... vs M/S National
+Highways Authority Of ... on 24 August, 2023
+
+Author: S. Ravindra Bhat
+
+Bench: Aravind Kumar, S. Ravindra Bhat
+
+1
+
+2023INSC768                                                                        REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO(S). 4658 OF 2023
+
+M/S HINDUSTAN CONSTRUCTION
+COMPANY LIMITED                                                  …APPELLANT(S)
+
+VERSUS
+
+M/S NATIONAL HIGHWAYS
+AUTHORITY OF INDIA                                              …RESPONDENT(S)
+
+WITH
+
+CIVIL APPEAL NO(S). 4659 OF 2023
+
+CIVIL APPEAL NO(S). 4660 OF 2023
+
+CIVIL APPEAL NO(S). 4661 OF 2023
+
+CIVIL APPEAL NO(S). 4662 OF 2023
+
+JUDGMENT
+
+S. RAVINDRA BHAT, J.
+
+1. All these appeals involve decision on a common question, with respect to the interpretation of a
+contract condition, which required the measurement of quantities used for payment for
+embankment construction with soil or with pond ash. The claimants (hereafter “the contractors”)
+contended that the measure is one and the same, which is by taking a composite cross section as a
+whole of the embankment and determining the volume by the average end area method. However,
+the supervising engineer (hereafter “EE”) adopted a method, whereby the area of the cross section
+was bifurcated to account for the area occupied by soil and pond ash for the determination of
+
+1
+
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+quantum of the embankment in two different items. The contractor urged that this was contrary to
+the technical specification (hereafter “TS”) clause 305.8; the National Highways Authority of India
+(hereafter “NHAI”) justified the EE’s interpretation. Since there have been different outcomes in all
+these appeals, and the impugned judgments in some of them have relied upon the judgment of the
+Division Bench of the Delhi High Court, in CA 4658/20231 (hereafter referred to as “the main
+judgment”) the facts and decisions, in that appeal would be alluded to.
+
+2. NHAI awarded, to the contractor the work of construction of the Allahabad by-pass project in
+U.P. by agreement dated 02.06.2004. The project was completed. However, certain disputes arose
+inter se the parties with reference to different areas of the contract; these were referred to
+arbitration. NHAI has an inbuilt resolution mechanism, i.e., a Dispute Resolution Board (“DRB”)
+consisting of technical experts in the field, to which matters are first referred to. Since the contractor
+was not satisfied with the opinion of the DRB, in terms of the agreement, it could and, did invoke
+the arbitration. The disputes in the present case culminated in a reference to the arbitration of three
+technical persons, who Arising out of SLP No. 38162/2012, which was directed against the judgment
+of the Division Bench of the Delhi High Court dated 08.11.2012 in FAO (OS) No. 48/ 2012. after
+considering the rival viewpoints and the materials before them, made the award2. The award was
+unanimous on most questions while, on others, there was a dissenting view of one of the arbitrators.
+
+3. The contractor, aggrieved by both the unanimous view and the majority view preferred objections
+under Section 34 of the Arbitration and Conciliation Act, 1996 (“the Act”). A learned single judge
+rejected the petition3. The single judge was of the considered opinion that as far as measurement
+aspects were concerned, the tribunal’s majority opinion reflected a plausible and reasonable view
+that did not call for interference:
+
+"26. As regards non-payment for, executed work of embankment which forms the
+subject matter of Disputes 2 and 4, this is purely a question of fact based on the
+measurement. There is no dispute in relation to the construction of the embankment
+that is covered under item 2. 02 (a) of the BOQ. In fact, NHAI has already paid HCC
+for the said construction. Clause 305.8 of the MORTHTS provides for measurement
+of the cross section of the embankment as one whole composite section and paid
+under item No.2.02(b). The decision of the majority members of the Arbitral
+Tribunal based on an analysis of the material before them was a possible view to take.
+Merely because another view as evidenced by the dissenting opinion is possible
+interference by this Court under Section 34 of the Act is not warranted. “
+
+4. NHAI appealed to the Division Bench, which set aside the decision of the learned single judge,
+and held that the tribunal’s majority view, and award, were based on an implausible interpretation
+of the contract. It was held, in the impugned order that:
+
+Award dated 30.03.2010 By the order dated 30.11.2011 “[..] On a conjoint reading of
+BOQ item No.2.02 and clause 305.8 of the technical specification, to us, it is clear
+that the cross sections have to be taken in respect of the different materials used, i.e.
+soil and pond ash. Pertinently, it is not the case of the respondents that the two are
+
+2
+
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+mixed into a mixture and then used. Soil and pond ash are used separately. Thus, the
+cross sections are to be taken at intervals. We cannot permit the respondent to
+contend that it is not possible to compute the volumes of the two materials in the
+cross section, when for 30 months both the appellant and the respondent were
+actually making measurements accordingly. The respondent itself made the IPCs and
+submitted for payments which were duly paid by the appellant. Such measurements
+were made on the basis of actual utilization of the two materials. We fail to appreciate
+how the arbitral tribunal could have come to a conclusion that the mode of
+measurement of the two items separately was not in accordance with the contract.
+The majority view, after having noticed the principles of consensus ad idem, seems to
+have failed to appreciate this vital issue.[..]” Contentions of parties
+
+5. On behalf of the appellant/contractors, Dr. Abhishek Manu Singhvi, Mr. V. Giri, and Mr. Anil Airi,
+learned senior counsels, Mr. Sameer Parekh and Mr. George Thomas learned counsel made
+submissions. It was argued that the impugned judgment goes far beyond the scope of the
+jurisdiction under Section 34 /Section 37 of the Act. The Division Bench while interfering with the
+award on the grounds that it did, transgressed the extremely narrow scope of interference under
+Section 37 of the Act. It was argued that this court in a plethora of cases has held that the intent of
+the Act is to restrict the grounds of challenge to an arbitral award to the barest minimum. It is
+submitted that this court has time and again held that the general approach of the courts should be
+to uphold the award and the arbitral award and not to sit with a meticulous legal eye endeavouring
+to pick holes, inconsistencies and faults in the award.
+
+6. It was argued that contractual conditions relating to a method of measurement are dependent
+heavily on technical understanding and cannot be read and interpreted like the general provision of
+a contract. They have meanings developed over time based on the views and the courts should defer
+to the finding by the technical experts. It was argued that the specific point of dispute was whether
+any outstanding amount “on account of 'construction of embankment' with pond ash in accordance
+with BOQ Item No. 2.02 (b) read with clause 305.2.2.3 of the Technical Specifications” was payable
+to the contractor. This was a pure question of fact, over which the findings in the award had to be
+left alone. Counsel also highlighted that in many appeals, the DRB constituted an internal
+mechanism by NHAI, comprised entirely of technical personnel, nominated by it (NHAI) had also
+endorsed the opinion, which favoured the contractors’ interpretation. Given this background and
+the further like interpretation given in arbitration, by the tribunal, which again comprised of
+experts, there was no scope for interference.
+
+7. Learned counsel submitted that the impugned judgment failed to or overlooked that there are two
+kinds of embankments- one with soil and the other, with fly ash and soil. Therefore, the contractor
+had quoted rates for these two kinds of embankment.
+
+8. It was highlighted that Clause 305 of MoRTH4 technical specifications read together with the
+project specific amendments contained in additional technical specifications provides the formation
+of embankment with two types, viz. embankment with soil and embankment with pond ash, the
+material requirements for each of the above two types have been specified in clauses 305.2.2.2 (for
+
+3
+
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+soil) and 305.2.2.3 (for pond ash) of additional technical specifications.
+
+9. Counsel submitted, that furthermore, the impugned judgment overlooked that the TS clause 305
+of MoRTH dealt only with embankment with soil; therefore a project specific sub-clause 305.2.2.3.2
+of the construction operations, was included in the contract which specifies the various operations
+(viz., setting out, stripping and storing of top soil, compacting ground supporting embankment,
+spreading material, compaction, finishing, quality control, a measurement for payment etc) to be
+followed by the contractor for embankment with pond ash. It was submitted that clause 305.2.2.3.2
+further provides, "the work shall conform to clause 4.7.l of IRC SP:58 - 2001". It was highlighted
+that the contract contemplated payment for 'construction of earth embankment with soil' in BOQ5
+item 2.02(a) and 'construction of Pond ash embankment with pond ash' in BOQ item No. 2.02. It
+was also contended that BOQ pertains to the execution and completion of the entire item of work in
+compliance with the contract Ministry of Road Transport and Highways Bill of Quantities
+requirements and does not relate only to any individual material/ consumables used in the
+execution of the work.
+
+10. It was argued that the contract conditions and stipulations are to be read as a whole; thus,
+technical specifications, drawings and other documents form part of the contract which cannot be
+considered in isolation. The counsel also emphasized that the preamble to the BOQ and the
+technical specifications read together also mandate that the rates given in BOQ item 2.02 (a) and (b)
+are for the construction of embankment i.e., soil embankment and pond ash embankment and not
+for the usage of materials in an embankment. It was highlighted that the applicable test for
+interference with awards was clearly enunciated in Associate Builders v Delhi Development
+Corporation (“hereafter, “Associate Builders”)6 and was ignored by the impugned judgment.
+Counsel also relied on BOC India Ltd. vs. Bhagwati Oxygen Ltd7 and urged that since the tribunal
+had relied on a plausible view on interpretation of the contract, it was not open to the court to set
+aside the award.
+
+11. Ms. Aishwarya Bhati learned Additional Solicitor General (ASG) appeared for NHAI and urged
+the court not to interfere with the impugned judgment of the High Court and other decisions which
+followed it, which are the subject matter of all these appeals. She contended that the Division
+Bench’s interference with the award was justified and warranted. Learned counsel highlighted the
+2014 [13] SCR 895 2007 [3] SCR 915 difference in the stipulations as they existed in the contract as
+opposed to what was cited in the majority award which is the subject matter of appeal in the
+impugned judgment. It was contended that the clause was wrongly reproduced and consequently,
+not only vitiated by incorrect interpretation but rather a case of rewriting the terms of the contract
+by the tribunal. This meant that the tribunal acted beyond the terms of the contract. Learned
+counsel, emphasized that such rewriting was sufficient justification for the Division Bench to
+interfere with the award. This aspect had been lost sight of – even overlooked by the learned Single
+Judge.
+
+12. It was argued next that the interpretation by the contractors and the tribunal, if accepted, will
+lead to absurd results so far as the ratio of soil and pond ash used in an embankment is concerned.
+These components or materials vary from case to case. Therefore, it would be illogical and rather
+
+4
+
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+unfair to cast a liability upon the NHAI to pay at one rate regardless of the soil and pond ash used
+for the work. Learned counsel highlighted that embankment construction can involve varied ratios
+of such materials – ranging from 9:1 to 3:2 at different locations. Therefore, the Division Bench
+correctly held that it would not be justified to cast this liability upon the NHAI.
+
+13. It was also highlighted that the tribunal and the learned Single Judge erred in improperly
+analyzing the stipulations and conditions in the contract. Clauses 2.02(a) and (b) reveal that there is
+only BOQ Item, i.e., embankment. The separate treatment in the stipulation only meant that the
+embankment could be constructed one way, where the soil was used and second, where both soil
+and pond ash was used. Learned counsel submitted that in terms of clause 305.8 of the technical
+specifications, cross-sections had to be quantified proportionately. The ASG further highlighted that
+for two years, separate measurements were taken and consequently it was incorrect to contend that
+separate measurements for both the materials were not possible. It was further argued that
+embankment work with pond ash and soil is completed by layering wherever concerned materials
+are necessary and easily capable of measurement. Further, she argued that separate quantities were
+expressly notified and mentioned in the concerned conditions which the parties at the relevant time
+intended to give meaning to. This aspect was highlighted by the dissenting award of one member of
+the tribunal, who upheld the EE’s decision to reject the claim based on such interpretation.
+Therefore, wherever soil was used it had to be paid as per Clause 2.02(a) and wherever pond ash
+was used, payment had to be as per Clause 2.02 (b) read with TS 305.2.2.3. Lastly, it was contended
+that the intention of the draftsman was clear as any reference to technical specification was avoided
+but a mention was made of IRC:SP:58.201 and instead it was only TS 305 and TS 305.2.2.3 were
+used. These did not deal with or describe embankments to be constructed with fly ash or even they
+ought to be designed in a composite manner.
+
+14. The ASG relied on Indian Oil Corporation v Shree Ganesh Petroleum Rajgurunagar8; PSA SICAL
+Terminals Pvt. Ltd. v. Board of Trustees of V.O. Chidambranar Port Trust9; South East Asia Marine
+Engineering and Constructions Limited (SEAMEC Ltd) v Oil India Ltd10 and other decisions, in
+support of NHAI’s argument that if the interpretation adopted by a tribunal is unsupported by law,
+or wholly incorrect, in the given facts of a case, the award can be interfered with. It was submitted
+that so long as the interpretation of contractual terms is reasonable and possible, awards should not
+be interfered with. However, if awards do not adopt such an interpretation, and adopt one, which
+results in unreasonable expansion of any express contractual term, they can and should be
+interfered with. Learned counsel submitted that the occasion for exercise of such discretion was
+exercised rightly, by the impugned judgment. Analysis and Conclusions
+
+15. Before dealing with the merits, it is essential to extract the relevant contract stipulations. The
+main judgment which involved the contract for works Allahabad Bypass Project of a road from KM
+158 to KM 198 (except Ganga Bridge) was concerned with the following clauses:
+
+Item Description Unit Est. Qty. Units Rate Amount INR (INR) In words In In words
+In figures figu res 2.02 Construction of embankment with 2022 (16) SCR 450 2021
+(5) SCR. 408 2020 (4) SCR 254 approved material complete as per Technical
+Specifications Clause 305 with all leads and lifts
+
+5
+
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+a) With Soil CuM 1198000 Rs. One 102 Rupees twelve 122,196,000 hundred crore,
+twenty and two one lakhs ninety only. six thousand only
+
+b) With Pond CuM 3252000 Rs. Two 252 Rupees eighty 819,504,000 Ash hundred
+one crore ninety and fifty five lakhs four two only thousand only
+
+16. For pond ash embankment under BOQ item No. 2.02(b), the relevant stipulation for
+measurement and payment are Clause 305.8 and Clause 305.2.2.3.3 of additional technical
+specifications, respectively. The said clauses are extracted below. The MoRTH specification reads as
+follows:
+
+“305.8 Measurements of Payment Earth embankment/subgrade construction shall
+be measured separately by taking cross sections at intervals in the original position
+before the work starts and after its completion and computing the volumes of
+earthworks in cubic metres by the method of average end areas…….” Clause
+305.2.2.3.3- relatable to Item No. 2.02(b) reads as under:
+
+“Measurement for payment: Same as Clause 305.8 of MoRTH specifications.” The
+relevant stipulation for contract rate units for different items in rate contracts is
+clause 114.1; it reads as follows:
+
+“ 114.1. - For item rate contracts, the contract unit rates for different items of work
+shall be payment in full for completing the work to the requirements of the
+specifications including full compensation for all the operations detailed in the
+relevant sections of these specifications under "Rates". In the absence of any
+directions to the contrary, the rates are to be considered as full inclusive rate for
+finished work covering all labour, materials, wastage.... Arising out of General
+Conditions of Contract.".
+
+17. The majority award, in the main judgment (from which CA 4658/2023 arises)
+listed why the members in the majority found for the contractor:
+
+“i) It is contemplated in the contract to construct two types of embankments. One
+with the soil alone, and the second one with the combination of soil pond ash.
+
+ii) The embankment with pond ash alone cannot be constructed, as the pond ash is
+susceptible for erosion. Hence, the soil cover is provided for protection of the
+embankment.
+
+iii) The composite cross section of the embankment comprising of soil and pond ash
+together is as the collectively termed embankment construction with pond ash under
+BOQ item No. 2.02(b)
+
+6
+
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+iv) The method of measurement to be adopted for payment for the embankment
+construction with soil or with pond ash is one and the same, which is by taking
+composite cross section as a whole of the embankment and determining the volume
+by average end area method.
+
+v) The method of measurement adopted by the Engineer, where in, the area of the
+cross section has been bifurcated to account for area occupied by the soil and pond
+ash for determination of quantum of the embankment in two different items if
+contrary to the technical specification Clause 305.8.
+
+vi) Clause 114.1 of MORTH specification specifically states that the rates are for the
+finished work in all respects. The pond ash embankment comprising of soil and pond
+ash is composite and complete finished item of work. It cannot be separated into two
+different items as having been done by the Engineer.
+
+vii) The contention of the claimant that the whole cross section of the pond ash
+embankment shall be measured as one cross section for determination of the work
+under Item No. 2.02 (b) is fully supported by the contract conditions.” The member
+of the tribunal, who dissented, inter alia, recorded that a reading of the specifications:
+
+“clearly shows that wherever soil is used it will be measured 2.02
+
+(a) with whenever pond ash is used it will be measured under 2.02(b) with TS
+305.2.2.3.
+
+13.3.7 I agree with the view taken by the Engineer while rejecting claim, as the view of the Engineer
+is strictly as per contract/BOQ provision as in this particular Contract embankment with soil and
+pond ash appear under one item and are · very conspicuously bifurcated for different materials.
+
+13.3.8 · I analyse that claimant has flawed under and after thought to claim even soil as fly ash
+under item No.2.02 (b). of BOQ. 13.3.9 Thus I draw firm conclusion that the provision made in the
+BOQ item 2.02 (a) and 2.02 (b) are for different material i.e. 2.02
+
+(a) is for soil and 2.02 (b)is for pond ash and is for type of material to be used in the respective
+items.”
+
+18. A reasoning similar to the majority award, which was in issue in the main judgment, was
+adopted in awards, rendered by tribunals of other contractors, such as CEC -HCC(JV)11; Sunway
+Construction12; Patel KNR JV13; and Oriental Structural Engineers (P) Ltd (hereafter, “Oriental
+Structures”)14. In some cases, the stipulation was for the construction of an “embankment with
+approved materials from borrow areas” in terms of TS clause 305, and also the construction of an
+embankment “with fly ash obtained from coal or lignite burning thermal power station” (CA
+4659/2023); likewise, fly ash or lignite burning thermal station as waste material (CA 4660/2020);
+“all types of soil” and “with fly ash obtained from coal or lignite burning thermal power station” (CA
+
+7
+
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+4661/2023) and pond ash (CA 4662/2023).
+
+19. In some cases, the DRP (or DRB) set up departmentally, with three experts (in CA 4659/2023)
+expressed its view in the following terms:
+
+“4.1.5...The above contract stipulation clearly means that the Embankment 6 or
+Subgrade, as the case may be, shall be measured separately by taking cross sections
+at intervals before the Embankment work starts and after its completion. The use of
+phrase 'taking cross sections ....... before the Embankment work starts and The
+appellant in CA 4659/2023;
+
+after its completion' means nothing but measurement of embankment as o whole. In
+other words what is to be measured is an embankment and such measurement shall
+be by taking cross sections at suitable intervals before the start of Embankment work
+and after completion of Embankment of work. In other words the volume of the
+entire embankment formed by flyash and Soil as per Additional Technical
+Specifications Clause A-14 is to be measured. Had the intention of the contract been
+measuring soil separately then it would be necessary to take cross sections repeatedly
+of every intermediate layer at the junction of the core fly ash with soil side cover and
+also at top of fly ash layer before covering it with 1m soil layer, which is not stipulated
+so in the mode of measurement for payment in the Contract. […] 4.1.8 The item is for
+construction of embankment with fly ash.
+
+The words “with Fly Ash” are the adjective qualifying the type of Embankment. Thus, if is necessary
+to measure embankment as a whole and not the individual materials comprising embankment. Had
+the item been described as “Providing fly ash for embankment” then it would have been appropriate
+to measure fly ash material only. The intention of contract is to measure the embankment. This is
+also corroborated from the description of BoQ item no.2.02(a), which is only in one type of material
+i.e. approved material; the phrase used in description is “construction of embankment with
+approved materials”. Here too embankment as an item and the words approved material is the
+adjective qualifying the type of embankment.” In other appeals too, the DRP gave similar directions
+and instructions. In Oriental Structures’ (supra) appeal (CA 4662/2023), the DRB’s decision, inter
+alia, was that:
+
+“The decision of DRB is to measure the soil cover & Pond Ash together for Pond Ash
+embankment& be paid under BOQ item 2.02
+
+(b). The final quantity under BOQ item 2.02(b) are with Engineer & shall be
+submitted to Employer & to be paid at the rates approved after the Arbitration in
+vogue as on the days after allowing the rebate provided by Contractor in his offer.”
+
+20. It is quite evident that in most cases, the view of DRPs and tribunals, and in two cases, majority
+awards of tribunals, favoured the arguments of contractors, that composite embankment
+construction took place, as a result of which measurement was to be done in a composite, or unified
+
+8
+
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+manner. Dissenting or minority views, wherever expressed, were premised on separate
+measurements. This opinion was of technical experts constituted as arbitrators, who were versed in
+contractual interpretation of the type of work involved; they also had first hand experience as
+engineers who supervised such contracts. When the predominant view of these experts pointed to
+one direction, i.e., a composite measurement, the question is what really is the role of the court
+under Section 34 the Act.
+
+21. This court, in M/s. Voestalpine Schienen GmbH v DMRC15 commenting on the value of having
+expert personnel as arbitrators, emphasized that “technical aspects of the dispute are suitably
+resolved by utilising their expertise when they act as arbitrators.” Such an approach was
+commended also in Delhi Airport Metro Express (P) Ltd v DMRC16 wherein this court held that:
+
+“The members of the Arbitral Tribunal, nominated in accordance with the agreed
+procedure between the parties, are engineers and their award is not meant to be
+scrutinized in the same manner as one prepared by legally trained minds. In any
+event, it cannot be said that the view of the Tribunal is perverse. Therefore, we do not
+concur with the High Court’s opinion that the award of the Tribunal on the legality of
+the termination notice is vitiated due to the vice of perversity.”
+
+22. The prevailing view about the standard of scrutiny- not judicial review, of an award, by persons
+of the disputants’ choice being that of their decisions to stand- and not interfered with, [save a small
+area where it is established that such a view is premised on patent illegality or their interpretation of
+the facts or terms, 2017 (1) SCR 798 2021 (5) SCR 984 perverse, as to qualify for interference, courts
+have to necessarily chose the path of least interference, except when absolutely necessary]. By
+training, inclination and experience, judges tend to adopt a corrective lens; usually, commended for
+appellate review. However, that lens is unavailable when exercising jurisdiction under Section 34 of
+the Act. Courts cannot, through process of primary contract interpretation, thus, create pathways to
+the kind of review which is forbidden under Section 34. So viewed, the Division Bench’s approach, of
+appellate review, twice removed, so to say [under Section 37], and conclusions drawn by it, resulted
+in displacing the majority view of the tribunal, and in many cases, the unanimous view, of other
+tribunals, and substitution of another view. As long as the view adopted by the majority was
+plausible- and this court finds no reason to hold otherwise (because concededly the work was
+completed and the finished embankment was made of composite, compacted matter, comprising
+both soil and fly ash), such a substitution was impermissible.
+
+23. For a long time, it is the settled jurisprudence of the courts in the country that awards which
+contain reasons, especially when they interpret contractual terms, ought not to be interfered with,
+lightly. The proposition was placed in State of UP v Allied Constructions17:
+
+“[..] It was within his jurisdiction to interpret Clause 47 of the Agreement having
+regard to the fact-situation obtaining therein. It is submitted that an award made by
+an arbitrator may be wrong either on law or on fact and error of law on the face of it
+could not nullify an award. The award is a speaking one. The arbitrator has assigned
+sufficient and cogent reasons in support thereof.
+
+9
+
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+2003 Supp (2) SCR 55 Interpretation of a contract, it is trite, is a matter for arbitrator
+to determine (see M/s. Sudarsan Trading Co. v. The Government of Kerala, AIR
+(1989) SC 890). Section 30 of the Arbitration Act, 1940 providing for setting aside an
+award is restrictive in its operation. Unless one or the other condition contained in
+Section 30 is satisfied, an award cannot be set aside. The arbitrator is a Judge chosen
+by the parties and his decision is final. The Court is precluded from reappraising the
+evidence. Even in a case where the award contains reasons, the. interference
+therewith would still be not available within the jurisdiction of the Court unless, of
+course, the reasons are totally perverse or the judgment is based on a wrong
+proposition of law”
+
+24. This enunciation has been endorsed in several cases (Ref McDermott International Inc. v. Burn
+Standard Co. Ltd18). In MSK Projects (I) (JV) Ltd v State of Rajasthan19 it was held that an error in
+interpretation of a contract by an arbitrator is “an error within his jurisdiction”. The position was
+spelt out even more clearly in Associate Builders (supra), where the court said that:
+
+“[..] if an arbitrator construes a term of the contract in a reasonable manner, it will
+not mean that the award can be set aside on this ground. Construction of the terms of
+a contract is primarily for an arbitrator to decide unless the arbitrator construes the
+contract in such a way that it could be said to be something that no fair minded or
+reasonable person could do.”
+
+25. Before ending the discussion, it would be also necessary to highlight one aspect which is likely to
+arise in some arbitration proceedings, especially when it involves adjudication by multi-member
+tribunals. This aspect was highlighted in Russel on Arbitration, where the relevance of a dissenting
+opinion was explained as follows [as quoted in Dakshin Haryana Bijli Vitran Nigam Ltd. v. Navigant
+Technologies (P) Ltd (hereafter, “Dakshin Haryana Bijli Vitran Nigam Ltd”) 20]:
+
+2006 Suppl. (2) SCR 409 2011 (9) SCR 402 2021 (1) SCR 1135 “6-058. Dissenting
+opinions.—Any member of the Tribunal who does not assent to an award need not
+sign it but may set out his own views of the case, either within the award document or
+in a separate “dissenting opinion”. The arbitrator should consider carefully whether
+there is good reason for expressing his dissent, because a dissenting opinion may
+encourage a challenge to the award. This is for the parties' information only and does
+not form part of the award, but it may be admissible as evidence in relation to the
+procedural matters in the event of a challenge or may add weight to the arguments of
+a party wishing to appeal against the award.”.21 This court also quoted Gary B. Born’s
+commentary on International Commercial Arbitration22 opinion:
+
+“Even absent express authorization in national law or applicable institutional rules
+(or otherwise), the right to provide a dissenting or separate opinion is an appropriate
+concomitant of the arbitrator's adjudicative function and the Tribunal's related
+obligation to make a reasoned award. Although there are legal systems where
+dissenting or separate opinions are either not permitted, or not customary, these
+
+10
+
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+domestic rules have little application in the context of party-nominated
+co-arbitrators, and diverse Tribunals. Indeed, the right of an arbitrator to deliver a
+dissenting opinion is properly considered as an element of his/her adjudicative
+mandate, particularly in circumstances where a reasoned award is required. Only
+clear an explicit prohibition should preclude the making and publication to the
+parties of a dissenting opinion, which serves an important role in the deliberative
+process, and can provide a valuable check on arbitrary or indefensible decision
+making. [.] […] There is nothing objectionable at all about an arbitrator
+“systematically drawing up a dissenting opinion, and insisting that it be
+communicated to the parties”. If an arbitrator believes that the Tribunal is making a
+seriously wrong decision, which cannot fairly be reconciled with the law and the
+evidentiary record, then he/she may express that view. There is nothing wrong — and
+on the contrary, much that is right — with such a course as part of the adjudicatory
+process in which the Tribunal's conclusion is expressed in a reasoned manner. And, if
+the arbitrator considers that the award's conclusions require a “systematic”
+discussion, that is also entirely appropriate; indeed, it is implied in the adjudicative
+process, and the requirement of a reasoned award.” David St. John Sutton, Judith
+Gill and Matthew Gearing QC, Russel on Arbitration, 24th Edn. (Sweet & Maxwell),
+p. 313.
+
+Gary Born, International Commercial Arbitration, Wolters Kluwer, Edn. 2009, Vol.
+II, p. 2466 & 2469.
+
+[…] … the very concept of a reasoned award by a multi-member Tribunal permits a
+statement of different reasons — if different members of the Tribunal in fact hold
+different views. This is an essential aspect of the process by which the parties have an
+opportunity to both, present their case, and hear the reasons for the Tribunal's
+decision; not hearing the dissent deprives the parties of an important aspect of this
+process.”
+
+26. In Dakshin Haryana Bijli Vitran Nigam Ltd, the court recollected the previous holding in
+Ssangyong Engg. & Construction Co. Ltd. v. NHAI (hereafter, “Ssangyong Engg. & Construction Co.
+Ltd.”)23, wherein the court had set aside the majority award, but issued consequential directions in
+the peculiar facts of the case:
+
+“In Ssangyong [Ssangyong Engg. & Construction Co.
+
+Ltd. v. NHAI, (2019) 7 SCR 522], this Court upheld the view taken by the dissenting arbitrator in
+exercise of its powers under Article 142 of the Constitution, in order to do complete justice between
+the parties. The reason for doing so is mentioned in para 77 i.e. the considerable delay which would
+be caused if another arbitration was to be held. This Court exercised its extraordinary power in
+Ssangyong [Ssangyong Engg. & Construction Co. Ltd. v. NHAI,] keeping in mind the facts of the
+case, and the object of expeditious resolution of disputes under the Arbitration Act.” However, the
+court did not, in Dakshin Haryana Bijli Vitran Nigam Ltd (supra) direct the dissenting opinion to be
+
+11
+
+M/S Hindustan Construction Company ... vs M/S National Highways Authority Of ... on 24 August, 2023
+
+treated as an award. In the opinion of this court, that approach is correct, because there appears to
+be a slight divergence in thinking between Russel and Gary Born. The former, Russel is careful to
+point out that a dissenting opinion is not per se an award, but “is for the parties' information only
+and does not form part of the award, but it may be admissible 2019 [7] SCR 522 as evidence in
+relation to the procedural matters in the event of a challenge.” However, Gary Born does not
+expressly say that the opinion is not a part of the award. That author yet clarifies that “This is an
+essential aspect of the process by which the parties have an opportunity to both, present their case,
+and hear the reasons for the Tribunal's decision; not hearing the dissent deprives the parties of an
+important aspect of this process.”
+
+27. It is, therefore, evident that a dissenting opinion cannot be treated as an award if the majority
+award is set aside. It might provide useful clues in case there is a procedural issue which becomes
+critical during the challenge hearings. This court is of the opinion that there is another dimension to
+the matter. When a majority award is challenged by the aggrieved party, the focus of the court and
+the aggrieved party is to point out the errors or illegalities in the majority award. The minority
+award (or dissenting opinion, as the learned authors point out) only embodies the views of the
+arbitrator disagreeing with the majority. There is no occasion for anyone- such as the party
+aggrieved by the majority award, or, more crucially, the party who succeeds in the majority award,
+to challenge the soundness, plausibility, illegality or perversity in the approach or conclusions in the
+dissenting opinion. That dissenting opinion would not receive the level and standard of scrutiny
+which the majority award (which is under challenge) is subjected to. Therefore, the so-called
+conversion of the dissenting opinion, into a tribunal’s findings, [in the event a majority award is set
+aside] and elevation of that opinion as an award, would, with respect, be inappropriate and
+improper.
+
+28. In view of the findings recorded earlier, this court is of the opinion that all the appeals have to
+succeed. Therefore, C. A. No. 4658/2023, C. A. No. 4659/2023; C. A. No. 4660/2023; C. A. No.
+4661/2023 and C. A. No. 4662/2023 are allowed; all judgments of the Delhi High Court, which were
+the subject matter of challenge in those appeals are set aside. The awards, which were the subject
+matter of challenge, and to the extent they were set aside, are hereby upheld and restored. The
+direction in the awards, to the extent they required compounded monthly interest payments, are
+modified. Instead, the NHAI shall pay uniform interest on the amounts due, on the head concerned,
+i.e., construction of embankment, to the extent of 12% from the date of award to the date of
+payment, within eight weeks from today. All the above appeals are allowed in these terms. There
+shall be no direction to pay costs.
+
+............................................J. [S. RAVINDRA BHAT] ............................................J. [ARAVIND
+KUMAR] NEW DELHI, AUGUST 24, 2023.
+
+12

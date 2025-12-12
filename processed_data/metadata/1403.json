@@ -1,0 +1,17 @@
+{
+  "case_number": "Criminal Appeal No. 900 of 2017",
+  "parties": {
+    "petitioner": "Nanjundappa & Anr.",
+    "respondent": "The State of Karnataka"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-17",
+  "summary": "The appeal challenged the Karnataka High Court's confirmation of conviction under Section 304A read with Section 34 IPC for causing death by negligence. The prosecution relied on circumstantial evidence alleging that the appellants' negligent handling of a telephone wire caused it to contact an 11KV power line, leading to electrocution of the deceased. The Supreme Court found the evidence unconvincing, noting the improbability of a telephone wire carrying 11KV without melting, lack of technical expert report, and absence of eyewitnesses. It held that the chain of circumstances did not unerringly point to guilt and that the prosecution failed to establish a direct nexus between negligence and death. The conviction was set aside due to benefit of doubt.",
+  "legal_provisions_cited": [
+    "Section 304A IPC",
+    "Section 34 IPC",
+    "Syad Akbar Vs. State of Karnataka, MANU/SC/0275/1979",
+    "S.L. Goswami Vs. State of M.P., 1972 CriLJ 511 (SC)"
+  ],
+  "final_judgment": "Appeal allowed; conviction and sentence set aside; appellants discharged from bail bonds."
+}

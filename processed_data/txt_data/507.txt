@@ -1,0 +1,1685 @@
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October,
+2024
+
+Author: Dhananjaya Y Chandrachud
+
+Bench: Dhananjaya Y Chandrachud
+
+                                                                               Reportable
+2024 INSC 811
+
+                                IN THE SUPREME COURT OF INDIA
+                                 CIVIL APPELLATE JURISDICTION
+
+                                   Civil Appeal No. 9986 of 2024
+
+             GLAS Trust Company LLC                                        …Appellant
+
+                                              Versus
+
+             BYJU Raveendran & Ors.                                        …Respondents
+
+And With Special Leave Petition (C) No. 21023 of 2024 JUDGMENT Dr Dhananjaya Y
+C h a n d r a c h u d ,   C J I   T a b l e   o f   C o n t e n t s   A .   B a c k g r o u n d
+................................................................................................... 5 i. Parties before this
+Court........................................................................... 5 ii. Proceedings before the US Courts
+.......................................................... 6 iii. Insolvency proceedings against the first respondent
+........................ 8 iv. Settlement between the parties and proceedings before the NCLAT .. 9 v.
+Impugned Judgement ............................................................................. 14 vi. Proceedings before this
+C o u r t   a n d   t h e   D e l a w a r e   C o u r t   . . . . . . . . . . . . . . . . . . . . . .   1 6   B .   I s s u e s
+....................................................................................................... 18 C. Submissions
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   1 8   D .   L e g a l
+Background....................................................................................... 23 i. Legal context and
+fundamental principles ............................................ 23 a. General principles underlying the
+IBC.................................................... 23 b. Nature of the proceedings after admission of the
+application ................ 27 ii. Legal framework for withdrawal and settlement of claims.................. 31
+a. Evolution of the legal framework ............................................................ 31 b. Insights from the
+evolution of the legal framework ................................. 44 iii. Scope of ‘Inherent Powers’ under Rule
+1 1   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4 9   E .   A p p l i c a t i o n   t o   t h e   i n s t a n t   c a s e
+.................................................................. 51 i. Locus of the appellant before this Court
+.............................................. 52 ii. Approach of the NCLAT in the Impugned Judgement
+......................... 54 iii. Decisions of this Court cited in the Impugned Judgement ............. 57 F.
+Conclusion ............................................................................................... 60
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+1
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+1. This appeal arises from a judgment of the National Company Law Appellate Tribunal, Chennai1
+dated 2 August 2024.2 The National Company Law Tribunal, Bengaluru,3 admitted the application
+instituted by the second respondent under Section 9 of the Insolvency and Bankruptcy Code4 and
+initiated the corporate insolvency resolution process5 against the third respondent. In the exercise
+of its powers under Rule 11 of the National Company Law Appellate Tribunal Rules, 20166, the
+NCLAT approved a settlement in relation to the dues payable to the third respondent by the second
+respondent and set aside the order of the NCLT.
+
+2. The appellant, who claims to be a Financial Creditor, had moved an application before the NCLAT
+objecting to the approval of the settlement and questioned the source of the funds for the
+settlement. The objections of the appellant were rejected by the NCLAT in the Impugned
+Judgement. The present appeal raises substantial questions about the legal framework governing
+the withdrawal of a CIRP; the settlement of claims after the admission of an application instituted
+by a debtor; and the scope of the inherent powers vested in the NCLAT under Rule 11 of the NCLAT
+Rules.
+
+“NCLAT” “Impugned Judgement” “NCLT” “IBC” “CIRP” “NCLAT Rules” PART A A. Background i.
+Parties before this Court
+
+3. The third respondent, Think and Learn Pvt Ltd, a company engaged in the business of providing
+online educational services, is the Corporate Debtor.7 The first respondent, Byju Raveendran and
+his brother, Riju Raveendran are former directors of the Corporate Debtor.
+
+4. The second respondent, the Board of Control for Cricket in India (BCCI) is an Operational
+Creditor who executed a ‘Team Sponsor Agreement’ dated 25 July 2019 with the Corporate Debtor,
+which relates to the sponsorship of the Indian National Cricket Team.
+
+5. The Corporate Debtor has a 100% owned subsidiary, Byju’s Alpha Inc. – a company incorporated
+in the United States of America. Byju’s Alpha Inc. availed a loan facility aggregating to
+approximately USD 1,200,000,000 under a credit and guarantee agreement dated 24 November
+2021.8 The Appellant, GLAS Trust Company LLC, is the ‘Administrative Agent’ of all the lenders
+under this agreement and the ‘Collateral Agent’ for the secured parties. Under the terms of the
+Credit Agreement, the Corporate Debtor acted as a guarantor and issued a guarantee deed dated 24
+November 2021 in favour of the appellant.
+
+    “Corporate Debtor”
+
+    “Credit Agreement”
+
+(cid:12)                                                                                 PART A
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+2
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+      ii.     Proceedings before the Delaware Court
+
+6. On account of an alleged default under the Credit Agreement, the appellant enforced the security
+in respect of the loan and took a series of steps that resulted in the removal of all pre-existing
+directors of Byju’s Alpha Inc., including Riju Raveendran and the appointment of a new sole
+director. The appellant contends that despite these measures, defaults persisted in payment of the
+principal outstanding amount and the interest accrued under the Credit Agreement.
+
+7. Accordingly, the appellant, acting as the Administrative Agent of the lenders, issued a notice of
+demand dated 6 December 2023 to the Corporate Debtor, invoking the guarantee deed and
+demanding that the Corporate Debtor pay the requisite amount. However, it is the case of the
+appellant, that the Corporate Debtor too defaulted in its capacity as the guarantor under the Credit
+Agreement.
+
+8. It is contended that a series of wire transfers were carried out in April and July 2022 by Byju’s
+Alpha Inc., allegedly at the behest of the Corporate Debtor, fraudulently transferring approximately
+USD 533 million to a hedge fund based in the United States. A motion for preliminary injunctive
+relief to protect this amount was moved before the United States Bankruptcy Court, District of
+Delaware9.
+
+“Delaware Court” PART A
+
+9. On 18 March 2024, the Delaware Court issued a preliminary injunction inter alia restraining Riju
+Raveendran, another wholly owned subsidiary of the Corporate Debtor, the concerned hedge fund,
+and other similarly placed persons from taking any steps to spend, transfer, exchange, convert,
+dissipate, liquidate, or otherwise move or modify any rights related to the USD 533 million
+transferred from Byju’s Alpha Inc to the hedge fund. The operative directions of the order passed by
+the Delaware Court read as follows:
+
+“Defendants Riju Ravindran, Inspilearn LLC ("Inspilearn"), Camshaft Capital Fund
+LP, Camshaft Capital Advisors, LLC, Camshaft Capital Management, LLC; and any of
+such parties' officers, agents, servants, employees, and attorneys, and any other
+persons who are in active concert or participation with the foregoing, including, Byju
+Raveendran and Divya Gokulnath (collectively, the "Enjoined Parties") are
+immediately enjoined, upon entry of this Order, from taking any steps to spend,
+transfer, exchange, convert, dissipate, liquidate, or otherwise move or modify any
+rights related to: (i) the funds that in the approximate amount of $533,000, I00.00
+transferred from the Debtor to Camshaft Capital Fund, LP in April and July 2022, (ii)
+the funds (or other assets) transferred to and/or redeemed by a non-U.S. trust on
+behalf of lnspilearn on or about February 1 , 2024, and (iii) the funds (or other assets)
+that were purportedly subsequently transferred to a "non-US based 100% subsidiary
+of BYJU'S,"
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+3
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+along with any associated accrued interest or proceeds, in each case ((i), (ii), and (iii)
+collectively, the "Alpha Funds").” (emphasis supplied)
+
+10. On 28 May 2024, the Delaware Court passed an order finding that Riju Raveendran was in
+contempt of the above preliminary injunction order dated 18 March 2024. The Delaware Court
+directed that “full discovery shall immediately commence concerning Mr Ravindran's financial
+situation, PART A including, but not limited to, the location and amounts of his assets wherever and
+however held, including (i) how much money he has, including funds in his personal bank
+account(s), and (ii) what other assets he holds” and posted the case to a later date to determine the
+financial penalties to be imposed on Riju Raveendran. Eventually, on 31 July 2024, the Delaware
+Court imposed financial penalties of USD 10,000 per day on Riju Raveendran, which is payable
+until the contempt is ”purged by him”.
+
+iii. Insolvency proceedings against the first respondent
+
+11. On 23 September 2023, the second respondent moved a petition under Section 9 of the IBC, in
+respect of an operational debt of approximately Rs 158 crore payable by the Corporate Debtor under
+the Team Sponsor Agreement.10 The NCLT admitted the petition on 16 July 2024 and initiated
+CIRP. 11 A moratorium under Section 14 of IBC was imposed and an Interim Resolution
+Professional,12 was appointed.
+
+12. Separately, the appellant also filed a petition under Section 7 of the IBC against the Corporate
+Debtor on 22 January 2024.13 On 16 July 2024, the NCLT disposed of the Section 7 petition, in view
+of the order passed on the same day admitting the Section 9 petition filed by the second
+respondent.14 The appellant was granted liberty to file their claims before the IRP appointed
+pursuant to the Company Petition (IB) No. 149/BB/2023 (“Section 9 Petition”) “Section 9 Order”
+“IRP” Company Petition (IB) No. 55/BB/2024 (“Section 7 Petition”) “Section 7 Order” PART A
+Section 9 Order. Significantly, the NCLT also granted liberty to the appellant to seek a revival of its
+Section 7 petition, “depending on the subsequent developments at the appellate level, if any.” The
+NCLT directed as follows:
+
+“3. In view of the order passed today i.e., 16.07.2024 by this Adjudicating Authority
+in another Company petition bearing C.P (IB) No.149/BB/2023 which is filed by The
+Board and Control for Cricket in India under Section 9of the I & B Code 2016 r/w
+Rule 6 of the Insolvency & Bankruptcy (Application to Adjudicating Authority) Rules
+2016, against the same Corporate Debtor herein i.e., Think & Learn Private Limited
+and since the Corporate Insolvency Resolution Process (CIRP) has been initiated in
+respect of the Corporate Debtor therein by appointing the IRP, the instant C.P is
+disposed of by granting liberty to the Petitioner herein to put-forth their claim before
+the IRP appointed in C.P (IB) No. 149/BB/2023 in accordance with the provisions of
+the IBC 2016 and the Regulation made thereunder.
+
+4. However, at the request of the Learned Senior Counsel for the Petitioner, we hereby grant liberty
+to the Petitioner to seek restoration/revival of the said petition bearing C.P (IB) No.55/BB/2024
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+4
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+depending on the subsequent developments in the matter at the Appellate level; if any.” (emphasis
+supplied)
+
+13. The IRP made a public pronouncement on 17 July 2024 and the appellant filed its claim in the
+prescribed format on 25 July 2024.
+
+iv. Settlement between the parties and proceedings before the NCLAT
+
+14. Both the appellant and the first respondent moved the NCLAT in appeal against the respective
+orders of the NCLT. The first respondent challenged the admission of the Section 9 petition by the
+NCLT.15 On the other hand, the CA (AT) (CH) (Ins) No. 262 of 2024.
+
+PART A appellant challenged the order disposing of the Section 7 petition.16 The appellant also
+moved an application before the NCLAT for impleadment in the appeal filed by the first respondent,
+seeking to be heard before any relief was granted.17
+
+15. The appeal instituted by the first respondent was placed before the NCLAT for the first time on
+30 July 2024 and adjourned on a request made by the senior counsel for the second respondent. On
+the next date of the hearing, i.e. 31 July 2024, it was recorded, based on the submissions by the
+counsel for the first and second respondents, that a sum of INR 50 crore had been transferred to the
+second respondent as part of a settlement. The counsel for the first respondent further submitted,
+before the NCLAT, that another sum of Rs 25 crore would be paid by 2 August 2024, and the
+balance amount of Rs 83 crore would be paid thereafter, on or before 9 September 2024.18
+
+16. The payment was purportedly made pursuant to a settlement offer extended by Riju Raveendran,
+in his personal capacity, to the second respondent by an email dated July 30, 2024. He proposed to
+clear the operational debt of Rs 158 crore in three tranches on 30 July 2024,19 2 August 2024 and 9
+August 2024, respectively. The second respondent agreed to take steps for withdrawal of the CA
+(AT) (CH) (Ins) No. 274 of 2024.
+
+I.A. No. 727 of 2024.
+
+Impugned Judgement, paras 9-11.
+
+The settlement offer inadvertently stated “30 June 2024”, which was clarified to be a typographical
+error for 30 July 2024.
+
+PART A petition upon receipt of full payment of the operational debt. Relevant excerpts of the email
+are as follows:
+
+“1.(cid:134) (cid:134)We undertake to pay INR. 50 crores upfront today i.e. 30 June 2024, by way of
+RTGS from the account of its promoter, Mr. Riju Ravindran. We shall forward the
+UTR details of the same shortly.
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+5
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+2.(cid:134) (cid:134)We further undertake to pay INR. 25 crores on 02 August 2024 through RTGS.
+
+3.(cid:134) (cid:134)The total dues are approximately INR. 158 crores.
+
+4.(cid:134) (cid:134)The balance amount of INR. 83 crores to complete the figures of INR. 158 crores
+shall be paid on or before 09 August 2024.
+
+5.(cid:134) (cid:134)We shall also hand over post-dated cheques to the tune of INR. 83 crores drawn
+in favour of “Board of Control for Cricket in India” payable on 09 August 2024.
+
+6.(cid:134) (cid:134)In view of the aforesaid proposed settlement, the parties shall jointly request the
+Hon’ble NCLAT on 31 July 2024 to suspend the order of admission of Think & Learn
+Pvt. Ltd passed by the NCLT until 09 August 2024.
+
+7.(cid:134) (cid:134)Further, once the payment of complete INR. 158 crores to BCCI is made, BCCI
+shall make statement to withdraw the Company Petition and take necessary steps
+towards the same.”
+
+17. It is common ground that on 31 July 2024, when the parties sought to place the settlement on
+record, although CIRP had been initiated and an IRP had been appointed, the CoC had not been
+constituted. Before the NCLAT, the second respondent stated that in view of the money being
+generated in India and coming through a banking channel, it shall be accepted and was in favour of
+the withdrawal of CIRP. The appellant, however, raised several objections, including inter alia that
+the alleged payment made by Riju Raveendran would constitute a preferential payment to an
+operational creditor. Further, the appellant contended that the source of the funds is not clear, and
+the amount being offered by Riju Raveendran to settle the debt of the second respondent PART A
+would constitute an act of round-tripping. The appellant apprehended that the funds of Byjus’s
+Alpha Inc. were being offered to settle dues in India, in contravention of the preliminary injunction
+issued by the Delaware Court on 18 March 2024.
+
+18. On 1 August 2024, an affidavit was filed along with an undertaking by Riju Raveendran. The
+affidavit of Riju Raveendran could purportedly not be filed in time as he was not in India and thus,
+the undertaking was filed through an authorized representative. In the undertaking, Riju
+Raveendran affirmed that (i) the money being offered for settlement between the Corporate Debtor
+and the second respondent was being paid from his personal funds, including the sale of shares held
+by him in the Corporate Debtor; (ii) the money was generated in India and is not linked to the
+money involved in the proceedings pending in the Delaware Court; (iii) the first respondent (Byju
+Raveendran) has not transferred any money or extended any security towards raising the sums for
+payment of the settlement amount. The undertaking reads as follows:
+
+“…
+
+3. I state and confirm that no part of the Settlement Amount is being paid in violation
+of any order passed by any court or tribunal, including orders passed by the Delaware
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+6
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+Bankruptcy Court.
+
+4. I have not received any portion of the USD 533 million that are the subject matter
+of the proceedings before the Delaware Bankruptcy Court and, accordingly, no part of
+those funds have been, or will be, used to pay the BCCI. In fact, the funds forming
+part of the Settlement Amount are being paid out of my personal funds, as explained
+in paragraph 8 below.
+
+5. To clarify, under the terms of the Credit Agreement dated 24 November 2021 (the
+"Credit Agreement"), a group of lenders represented by PART A GLAS Trust LLC
+(GLAS) disbursed an amount of USD 1.2 billion to Byju's Alpha, Inc. (a step-down
+subsidiary of Think & Learn Pvt. Ltd. (TLPL)). Under the Credit Agreement, monies
+disbursed thereunder could not be brought into India. Therefore, none of the monies
+disbursed under the Credit Agreement (of which the USD 533 million forms a part)
+has ever been brought into India. Indeed, the allegation that I have received any sum
+of monies disbursed under the Credit Agreement has never been made by GI.AS in
+any proceeding whatsoever, including the proceeding under Section 7 of the IBC filed
+by it before the NCLT.
+
+6. I specifically confirm that there has been no violation of the Order dated 18 March
+2024 passed by the Delaware Bankruptcy Court, and I have not taken any steps in
+contravention of the same. I also confirm that I have not directly, indirectly or in any
+form or manner received any sum of money from disbursements made under the
+Credit Agreement. In fact, the foreign remittance received by me since execution of
+the Credit Agreement is from two secondary sales of my shareholding in TLPL in
+January and November 2022 totalling approximately USD 109 million, as
+demonstrated by the SH-4 annexed hereto …
+
+7. I further confirm that Byju Raveendran has not transferred any money or extended
+any security of his assets towards raising the sums for payment of the Settlement
+Amount to the BCCI.
+
+8. I further state and confirm that the Settlement Amount comprises funds raised by
+me personally:
+
+a. from the sale and the gains/income on such sale of shares held personally by me in
+TLPL between May 2015 and January 2022. By way of these sales, I had accumulated
+approximately INR 3600 crores. The forms SH-4 evidencing these sales are hereto
+annexed and marked Exhibit A. Out of the aforementioned amount, approximately
+INR 1050 crores was paid as income tax. The IT returns filed by me over the relevant
+period and which would reflect these amounts are hereto annexed and marked
+Exhibit B. The remaining amounts of approximately INR 2600 crores was infused
+back into TLPL due to its operational needs and to ensure that TLPL continues to
+carry on business PART A as a going concern, including paying salaries to its 27000
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+7
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+employees and sustaining the platform which has over 150 million students
+worldwide (which is a matter of record). The amounts that remained with me were
+used to pay the first tranche of the Settlement Amount (in the amount of INR 50
+crores) to BCCI on 30 June 2024; and b. from liquidation of personal assets in India,
+which will be used to pay the balance amount of the Settlement Amount.”
+
+19. In view of these developments, on 1 August 2024, the NCLAT passed an interim order staying
+the constitution of the CoC.
+
+v. Impugned Judgement
+
+20. Before the NCLAT, the appellant contended that (i) Section 12A of the IBC and Regulation 30A
+of the CIRP Regulations 2016 deal with the settlement of claims after CIRP is initiated, both before
+and after the CoC is constituted. The first respondent should have, thus, approached the NCLT as
+mandated by Rule 30A instead of invoking the inherent powers of the NCLAT under Rule 11; (ii)
+NCLAT should not exercise its discretionary power under Rule 11 of the NCLAT Rules because the
+directors of the Corporate Debtor and its allied entities are fugitives, living abroad; have defaulted
+on government dues; Enforcement Directorate proceedings are pending, look out notices have been
+issued; and there has been a significant drop in the valuation of the Corporate Debtor; and
+
+(iii) the interests of all creditors must be considered while accepting a settlement, including the
+appellant who has a substantial interest with regard to the Corporate Debtor.
+
+PART A
+
+21. On 2 August 2024, the NCLAT delivered the Impugned Judgement. After recording the factual
+background and submissions of the parties before it, the NCLAT outlined its reasoning and analysis
+in paras 44 to 50 of the Impugned Judgement. The NCLAT held the affidavit and undertaking filed
+by Riju Raveendran made it clear that the money was generated by Riju Raveendran from his own
+sources; income tax had been paid on the sales of shares from which the amount was generated; and
+there was no violation of the Order dated 18 March 2024 passed by the Delaware Court either
+directly or indirectly. Therefore, NCLAT held that in the absence of any evidence to the contrary,
+there was no reason to believe that the money that was being offered by Riju Raveendran was linked
+to the money disbursed to Byju’s Alpha Inc. under the Credit Agreement or from the coffers of the
+Corporate Debtor.
+
+22. Further, it was held that the law regarding the settlement of disputes between the parties is in
+the process of evolution, and this Court has approved the invocation of Rule 11 of the NCLAT Rules
+to allow such settlements. Reliance was placed on the decisions of this Court in Abhishek Singh vs
+Huhtamaki PPL Limited20 and Kamal K. Singh v. Dinesh Gupta21, in addition to decisions of the
+NCLAT on the point. Further, it was held that the NCLT had granted the appellant the liberty to
+revive its Section 7 petition, in case of any adverse developments in the appellate proceedings in the
+Section 9 petition and thus, the right of the applicant to enforce its claims was well protected. 2023
+SCC Online SC 349 (2022) 8 SCC 330.
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+8
+
+PART A
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+23. Accordingly, the settlement between the parties was approved and the order of the NCLT
+admitting the Section 9 petition was set aside. The NCLAT directed that in case of a breach of the
+undertaking and affidavit, the Section 9 Order would automatically be revived. The operative
+directions are extracted below:
+
+“51. Thus, in view of the aforesaid facts and circumstances, in view of the undertaking
+given and affidavit filed, the settlement between the parties is hereby approved and
+as a result thereof, the present appeal succeeds and the impugned order is set aside,
+however, with a caveat that in case there is a breach in the undertaking given and the
+affidavit filed, the order dated 16.07.2024 passed against the present Appellant, shall
+automatically revive.” vi. Proceedings before this Court and the Delaware Court
+
+24. On 1 August 2024, Byju’s Alpha Inc. and the appellant instituted a motion before the Delaware
+Court seeking a temporary restraining order against Riju Raveendran, inter alia restraining him
+from using his personal assets to satisfy the dues of the second respondent. Before the Delaware
+Court, the appellant contended that fraudulent payments were being made by Riju Raveendran to
+pay the operational debt due to the second respondent and dismiss insolvency proceedings against
+the Corporate Debtor, which is “his older brother’s crumbling business enterprise in India”. On 8
+August 2024, the Delaware Court passed an order rejecting the motion.
+
+25. The appellant instituted the present Civil Appeal before this Court, challenging the Impugned
+Judgement of the NCLAT. By an Order dated 14 August 2024, this Court issued notice on the appeal
+and directed that there would be a stay PART A on the operation of the Impugned Judgment. The
+second respondent was directed to maintain the amount of Rs 158 crores, which has been realized in
+pursuance of the settlement, in a separate escrow account, to abide by further directions of this
+Court.
+
+26. In view of the above directions of this Court granting an interim stay on the Impugned
+Judgement, the CIRP proceedings resumed. On 19 August 2024, the IRP addressed a letter to the
+appellant noting that the CIRP had revived, verified the claim submitted by the appellant and
+admitted the appellant as a financial creditor. Accordingly, the IRP constituted the CoC, which
+consisted of four financial creditors, including the appellant.
+
+27. Subsequently, by a letter dated 1 September 2024, the IRP sought to reconstitute the CoC and
+reclassify the claim of the appellant as ‘contingent’. The IRP stated that the reclassification of the
+claim as ‘contingent’ was on account of purported disqualification notices issued by the Corporate
+Debtor to certain lenders of the loan, which allegedly disqualified more than sixty percent of the
+lenders and therefore, the appellant no longer had the requisite authorization. From the record and
+submissions before us, it appears that the first meeting of the CoC took place on 3 September 2024.
+
+28. On 26 September 2024, this Court reserved its judgment and directed that the IRP maintain the
+status quo and not hold any meeting of the CoC until the judgment is pronounced.
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+9
+
+PART B & C B. Issues
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+29. In view of the above background, the following issues arise for our consideration:
+
+a. Whether the appellant, who is not a party to the settlement between the second
+respondent and the Corporate Debtor, has locus in the proceedings before this Court;
+
+b. Whether the NCLAT erred in invoking its inherent powers under Rule 11 of the
+NCLAT Rules 2016 in the presence of a prescribed procedure for withdrawal of CIRP
+and settlement of claims between parties; and c. Without prejudice to the above,
+whether the NCLAT adequately addressed the objections raised by the appellant,
+while exercising its discretionary power under Rule 11 of the NCLAT Rules 2016.
+
+C. Submissions
+
+30. Mr Kapil Sibal and Mr Shyam Divan, Senior Counsel appearing for the appellant broadly
+advanced the following submissions:
+
+a. NCLAT should have refrained from exercising its discretionary power under Rule
+11 of the NCLAT Rules to sanction the settlement when there is a prescribed
+procedure for withdrawal and settlement under Section 12A of the IBC read with
+Regulation 30A of the CIRP Regulations 2016;
+
+b. The powers conferred on the NCLAT under Rule 11 of the NCLAT Rules are
+discretionary and should not be exercised mechanically in cases where the
+withdrawal of the application would prejudice other stakeholders and PART C may
+result in numerous other creditors filing insolvency actions against the Corporate
+Debtors on account of their unpaid dues;
+
+c. NCLAT failed to deal with the objections raised by the appellant about the source of
+the funds and the conduct of the first respondent and his brother, Mr Riju
+Raveendran. Facts such as – the purported fraudulent transfer of USD 533 million to
+a hedge fund in the United States; the orders of the US Court restraining the brothers
+from transferring or dissipating the amount;
+
+the contempt proceedings against Mr Riju Raveendran; the ongoing investigation by
+the Enforcement Directorate against the first respondent and the Corporate Debtor;
+attempts by the Corporate Debtor to dissipate assets – were not adequately dealt with
+in the Impugned Judgement;
+
+d. There are clear indications that the Corporate Debtor cannot service its
+outstanding debts to its financial creditors. There has been a 99% drop in the
+valuation of the Corporate Debtor, defaults in paying employees’ salaries, the exit of
+key managerial persons, failure to file financial statements, and oppression and
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+10
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+mismanagement petitions by the shareholders against the promoters, all of which
+indicate that insolvency proceedings are inevitable;
+
+e. Setting aside the CIRP merely because one of the creditors has recovered its dues
+by way of a settlement agreement, runs contrary to the settled position that the IBC
+cannot be used as a recovery mechanism. Upon initiation of insolvency, third-party
+rights are created in all creditors of the corporate debtor; and PART C f. Riju
+Raveendran failed to provide the details of the source of funds by way of an affidavit.
+His undertaking was accompanied by an affidavit of a third party who claims to be a
+power of attorney holder of Riju Raveendran. The declaration in the undertaking is
+ambiguous and the figures mentioned do not add up so as to enable him to make
+payments under the settlement agreement.
+
+31. Dr Abhishek Manu Singhvi and Mr Neeraj Kishan Kaul, Senior Counsel for the first respondent
+advanced the following submissions:
+
+a. The inherent powers of the NCLAT, under Rule 11 of the NCLAT Rules, include the
+power to pass orders permitting the withdrawal of the CIRP. In several judgements,
+after Section 12A was inserted in the IBC, the NCLAT has invoked Rule 11 to permit
+the withdrawal of CIRP;
+
+b. The appellant has no locus to maintain the present proceedings before this Court.
+In a case of settlement between a corporate debtor and an individual creditor, there is
+no scope for hearing any third-party creditor, as such a creditor is free to adopt other
+remedies for its claims;
+
+c. Despite liberty being granted to the appellant to revive its Section 7 petition, the
+appellant has failed to do so, because a revival would lead to scrutiny of the
+maintainability of the Section 7 petition. As the appellant has a weak case on
+maintainability, it is seeking to piggyback on the Section 9 NCLT Order and is
+opposing the settlement;
+
+d. The appellant is indulging in forum shopping. Despite specific liberty to revive its
+Section 7 petition, the appellant chose to move an appeal against PART C the order of
+disposal and intervened in the proceedings before the NCLAT instituted by the
+second respondent. In parallel, the appellant also initiated proceedings before the
+Delaware Bankruptcy Court to stall the settlement;
+
+e. The Corporate Debtor is an ed-tech services business, whose revenue is generated
+from its intellectual property and subscriptions from students.
+
+Revenues are likely to be hit with each day that the Corporate Debtor continues into
+insolvency, which could lead to classes shutting down, disruption of services, teachers
+resigning, and students dropping out; and f. The Corporate Debtor is a solvent
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+11
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+company with a running business of 27,000 employees and 150 million students. A
+viable company capable of repaying its debts must not be admitted into CIRP.
+
+32. Mr Tushar Mehta, the learned Solicitor General appearing for the second respondent, supported
+the arguments of the first respondent in support of the Impugned Judgement and also advanced the
+following submissions:
+
+a. The IBC aims to prevent the economic death of entities, which involves
+encouraging settlement between the parties. NCLAT passed the Impugned
+Judgement after hearing all concerned parties. Thus, there was no infirmity in
+invoking inherent powers under Rule 11 of the NCLAT Rules 2016;
+
+b. Regulation 30A was a statutory response to the decision of this Court in Swiss
+Ribbons (P) Ltd. v. Union of India22 and the intent is to encourage settlement. The
+provision is directory as no consequence of non-
+
+compliance is stipulated. It does not contemplate adjudication about the (2019) 4
+SCC 17.
+
+PART C factum of settlement, the mode/method of settlement or any specific legal ground by the
+NCLT;
+
+c. Regulation 30A, even if applicable can have no application when the settlement is made using
+personal funds and not the funds of the corporate debtor; and d. The payment to BCCI does not
+prejudice other creditors or stakeholders of the Corporate Debtor as it is not made from the possible
+insolvency estate that would be created if the Corporate Debtor goes through CIRP.
+
+33. We also had an opportunity to hear the learned Senior Counsel who appeared for the
+intervenors. Mr Gopal Sankarnarayan appeared for an entity that claims to be another Operational
+Creditor. Another intervention application was moved by several shareholders of the Corporate
+Debtor, who purportedly hold 16.75% of its issued and the paid-up share capital. These shareholders
+have also instituted proceedings under Sections 241, 242 and 244 of the Companies Act 2013 for
+oppression and mismanagement against the erstwhile management of the Corporate Debtor,
+including the first respondent and Riju Raveendran. The counsel for the intervenors advanced
+submissions broadly on the same lines as the appellant. They assailed the acceptance of the
+settlement agreement by the NCLAT and contended that insolvency proceedings against the
+Corporate Debtor are inevitable.
+
+(cid:12)                                                                             PART D
+
+D. Legal Background
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+12
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+   i.       Legal context and fundamental principles
+
+        a. General principles underlying the IBC
+
+34. Before delving into the provisions which constitute the legal framework for the withdrawal of
+CIRP, it is crucial to delineate some of the underlying aims and objectives which guide the IBC.
+These principles will assume relevance while analyzing the locus of the appellant and the course of
+action adopted by the NCLAT in the Impugned Judgement.
+
+35. The Statement of Objects and Reasons for the IBC reads as follows:
+
+“Statement of Objects and Reasons.—There is no single law in India that deals with
+insolvency and bankruptcy. Provisions relating to insolvency and bankruptcy for
+companies can be found in the Sick Industrial Companies (Special Provisions) Act,
+1985, the Recovery of Debts Due to Banks and Financial Institutions Act, 1993, the
+Securitisation and Reconstruction of Financial Assets and Enforcement of Security
+Interest Act, 2002 and the Companies Act, 2013. These statutes provide for creation
+of multiple fora such as Board of Industrial and Financial Reconstruction (BIFR),
+Debts Recovery Tribunal (DRT) and National Company Law Tribunal (NCLT) and
+their respective Appellate Tribunals.
+
+Liquidation of companies is handled by the High Courts. Individual bankruptcy and insolvency is
+dealt with under the Presidency Towns Insolvency Act, 1909, and the Provincial Insolvency Act,
+1920 and is dealt with by the courts. The existing framework for insolvency and bankruptcy is
+inadequate, ineffective and results in undue delays in resolution, therefore, the proposed legislation.
+
+2.The objective of the Insolvency and Bankruptcy Code, 2015 is to consolidate and amend the laws
+relating to reorganisation and insolvency resolution PART D of corporate persons, partnership firms
+and individuals in a time-bound manner for maximisation of value of assets of such persons, to
+promote entrepreneurship, availability of credit and balance the interests of all the stakeholders
+including alteration in the priority of payment of government dues and to establish an Insolvency
+and Bankruptcy Fund, and matters connected therewith or incidental thereto. An effective legal
+framework for timely resolution of insolvency and bankruptcy would support development of credit
+markets and encourage entrepreneurship. It would also improve Ease of Doing Business, and
+facilitate more investments leading to higher economic growth and development.
+
+[…]
+
+5. The Code seeks to achieve the above objectives.’”
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+13
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+36. The long title of the IBC provides that it is “an Act to consolidate and amend the laws relating to
+reorganisation and insolvency resolution of corporate persons, partnership firms and individuals in
+a time bound manner for maximisation of value of assets of such persons, to promote
+entrepreneurship, availability of credit and balance the interests of all the stakeholders including
+alteration in the order of priority of payment of Government dues and to establish an Insolvency
+and Bankruptcy Board of India, and for matters connected therewith or incidental thereto.”
+
+37. The objectives discernible from the long title and the Statement of Objects and Reasons of the
+IBC were discussed in a decision of a two-judge bench of this Court in Swiss Ribbons (P) Ltd. v.
+Union of India.23 This Court observed that (2019) 4 SCC 17.
+
+PART D the IBC is a beneficial legislation which attempts to put the Corporate Debtor back on its
+feet. According to this Court, this would involve considering the interests of all concerned
+stakeholders rather than viewing the IBC as a mere recovery legislation for individual creditors. This
+Court, speaking through Justice RF Nariman, observed as follows:
+
+“28. It can thus be seen that the primary focus of the legislation is to ensure revival
+and continuation of the corporate debtor by protecting the corporate debtor from its
+own management and from a corporate death by liquidation. The Code is thus a
+beneficial legislation which puts the corporate debtor back on its feet, not being a
+mere recovery legislation for creditors. The interests of the corporate debtor have,
+therefore, been bifurcated and separated from that of its promoters/those who are in
+management. Thus, the resolution process is not adversarial to the corporate debtor
+but, in fact, protective of its interests. The moratorium imposed by Section 14 is in
+the interest of the corporate debtor itself, thereby preserving the assets of the
+corporate debtor during the resolution process. The timelines within which the
+resolution process is to take place again protects the corporate debtor's assets from
+further dilution, and also protects all its creditors and workers by seeing that the
+resolution process goes through as fast as possible so that another management can,
+through its entrepreneurial skills, resuscitate the corporate debtor to achieve all these
+ends.” (emphasis supplied)
+
+38. A two-judge Bench of this Court, speaking through one of us (DY Chandrachud, J), in Arun
+Kumar Jagatramka v Jindal Steel & Power Ltd24 also had occasion to observe the quantum change
+in corporate governance and the rule of law brought in by the enactment of the IBC. This Court
+observed as follows:
+
+(2021) 7 SCC 474.
+
+PART D “41. … First and foremost, the IBC perceives good corporate governance, respect for and
+adherence to the rule of law as central to the resolution of corporate insolvencies. Second, the IBC
+perceives corporate insolvency not as an isolated problem faced by individual business entities but
+places it in the context of a framework which is founded on public interest in facilitating economic
+growth by balancing diverse stakeholder interests.
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+14
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+Third, the IBC attributes a primacy to the business decisions taken by creditors acting as a collective
+body, on the premise that the timely resolution of corporate insolvency is necessary to ensure the
+growth of credit markets and encourage investment. Fourth, in its diverse provisions, the IBC
+ensures that the interests of corporate enterprises are not conflated with the interests of their
+promoters; the economic value of corporate structures is broader in content than the partisan
+interests of their managements. These salutary objectives of the IBC can be achieved if the integrity
+of the resolution process is placed at the forefront. Primarily, the IBC is a legislation aimed at
+reorganisation and resolution of insolvencies. Liquidation is a matter of last resort. These objectives
+can be achieved only through a purposive interpretation which requires courts, while infusing
+meaning and content to its provisions, to ensure that the problems which beset the earlier regime do
+not enter through the backdoor through disingenuous stratagems.” (emphasis supplied)
+
+39. From the above, the following guiding principles emerge, which we must keep in mind while
+determining the issues raised in the present appeal:
+
+a. A significant change brought about by the IBC was the consolidation of the
+pre-existing fragmented insolvency framework, The aim was to eliminate parallel
+proceedings by various creditors before different fora, given that all creditors would
+be a part of a single insolvency process under the IBC;
+
+b. The above consolidation also sought to implement the principle of ‘collective
+distribution’, where the interests of all stakeholders were considered. The PART D
+CIRP envisaged by the IBC is premised on the principle that each creditor of the same
+class should receive a share that is proportionate to the debt owed to him;
+
+c. IBC must not be used as a tool for coercion and debt recovery by individual
+creditors. Improper use of the IBC mechanism by a creditor includes using insolvency
+as a substitute for debt enforcement or attempting to obtain preferential payments by
+coercing the debtor using insolvency proceedings.
+
+That the mechanism under the IBC must not be used as a money recovery
+mechanism has been reiterated in a consistent line of precedent by this Court;25 and
+d. The interests of the corporate debtor must be detached from those of its
+promoters/those who are in management. A “recalcitrant management”26 must be
+prevented from taking advantage of undue delays and preventing an inevitable
+insolvency. In other words, as noted by this Court in Arun Kumar Jagatramka
+(supra), the economic value of corporate structures is broader than the partisan
+interests of their management.
+
+b. Nature of the proceedings after admission of the application
+
+40. Chapter II of the IBC provides that CIRP can be invoked in three ways: (i) by a financial creditor
+under Section 7; (ii) by an operational creditor under Section 9; and (iii) by a corporate debtor itself
+under Section 10.27 Section 5(11) of the Swiss Ribbons, para 28;
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+15
+
+Mobilox, para 36.
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+Section 6, IBC reads: “6. Persons who may initiate corporate insolvency resolution process. – Where
+any corporate debtor commits a default, a financial creditor, an operational creditor or the corporate
+debtor PART D IBC defines the “initiation date” as the date on which the financial creditor,
+operational creditor or corporate applicant makes an application to the NCLT for initiating
+insolvency proceedings, including CIRP. This is distinct from the “insolvency commencement date”
+which is defined in Section 5(12) of the IBC as the date of admission of an application for initiating
+CIRP by the NCLT under Sections 7, 9 or 10, as the case may be.
+
+41. Once the application is admitted, the CIRP commences and the NCLT inter alia declares a
+moratorium; issues a public pronouncement of the initiation of CIRP and a call for submission of
+claims; and appoints an IRP.28 Once an IRP is appointed, the affairs of the corporate debtor are
+managed by the IRP,29 who inter alia receives and collates all the claims submitted by the creditors
+pursuant to the public announcement of the CIRP.30 After the collation of claims received itself may
+initiate corporate insolvency resolution process in respect of such corporate debtor in the manner as
+provided under this Chapter.” Sections 13, 14, 15, 16, IBC.
+
+Section 17, IBC reads “17. Management of affairs of corporate debtor by interim resolution
+professional. - (1) From the date of appointment of the interim resolution professional, -
+
+(a) the management of the affairs of the corporate debtor shall vest in the interim resolution
+professional;
+
+(b) the powers of the board of directors or the partners of the corporate debtor, as the case may be,
+shall stand suspended and be exercised by the interim resolution professional;
+
+(c) the officers and managers of the corporate debtor shall report to the interim resolution
+professional and provide access to such documents and records of the corporate debtor as may be
+required by the interim resolution professional;
+
+(d) the financial institutions maintaining accounts of the corporate debtor shall act on the
+instructions of the interim resolution professional in relation to such accounts and furnish all
+information relating to the corporate debtor available with them to the interim resolution
+professional. (2) The interim resolution professional vested with the management of the corporate
+debtor, shall-
+
+(a) act and execute in the name and on behalf of the corporate debtor all deeds, receipts, and other
+documents, if any;
+
+(b)take such actions, in the manner and subject to such restrictions, as may be specified by the
+Board;
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+16
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+(c)have the authority to access the electronic records of corporate debtor from information utility
+having financial information of the corporate debtor;
+
+(d)have the authority to access the books of account, records and other relevant documents of
+corporate debtor available with government authorities, statutory auditors, accountants and such
+other persons as may be specified; and
+
+(e) be responsible for complying with the requirements under any law for the time being in force on
+behalf of the corporate debtor.” Section 18(b), IBC.
+
+PART D and the determination of the financial position of the corporate debtor, the IRP shall
+constitute a CoC, which consists of all the financial creditors of the corporate debtor.31 The CoC
+appoints a Resolution Professional32 and the CIRP process continues, as prescribed.
+
+42. From this scheme of Chapter II of the IBC, it appears that the admission of an application is a
+significant event that alters the nature of the proceedings, and the stakeholders involved. Initially,
+when the petition is filed by the financial creditor, operational creditor or corporate applicant, as the
+case may be, the proceedings are in personam and the only relevant stakeholders are the applicant
+creditor and the corporate debtor. However, once the petition is admitted and CIRP is initiated,
+several significant changes take place, including the transfer of the management of the affairs of the
+corporate debtor to the IRP, the declaration of the moratorium, and the collation of the claims
+against the corporate debtor. Therefore, the proceedings now change character – they become in
+rem and are no longer the preserve of only the applicant creditor and the corporate debtor and even
+creditors who were not the original applicants, become necessary stakeholders.
+
+43. A three-judge Bench of this Court in Indus Biotech (P) Ltd. v. Kotak India Venture (Offshore)
+Fund33 adjudicated on the question of the stage at which the proceedings under the IBC attain the
+status of in rem and create third-party Section 21, IBC.
+
+“RP” (2021) 6 SCC 436.
+
+PART D rights for all creditors. This Court held that the trigger point is not the filing of the
+application, but the admission of the application, and observed as follows:
+
+“17. The procedure contemplated will indicate that before the adjudicating authority
+is satisfied as to whether the default has occurred or not, in addition to the material
+placed by the financial creditor, the corporate debtor is entitled to point out that the
+default has not occurred and that the debt is not due, consequently to satisfy the
+adjudicating authority that there is no default. In such exercise undertaken by the
+adjudicating authority if it is found that there is default, the process as contemplated
+under sub- section (5) of Section 7 of IB Code is to be followed as provided under
+sub-section (5)(a); or if there is no default the adjudicating authority shall reject the
+application as provided under sub-section (5)(b) to Section 7 of IB Code. In that
+circumstance if the finding of default is recorded and the adjudicating authority
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+17
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+proceeds to admit the application, the corporate insolvency resolution process
+commences as provided under sub-section (6) and is required to be processed
+further. In such event, it becomes a proceeding in rem on the date of admission and
+from that point onwards the matter would not be arbitrable. The only course to be
+followed thereafter is the resolution process under IB Code. Therefore, the trigger
+point is not the filing of the application under Section 7 of IB Code but admission of
+the same on determining default.
+
+26. […] On admission, third-party right is created in all the creditors of the corporate
+debtors and will have erga omnes effect. The mere filing of the petition and its
+pendency before admission, therefore, cannot be construed as the triggering of a
+proceeding in rem. Hence, the admission of the petition for consideration of the
+corporate insolvency resolution process is the relevant stage which would decide the
+status and the nature of the pendency of the proceedings and the mere filing cannot
+be taken as the triggering of the insolvency process.” PART D
+
+44. In summary, the scheme of the IBC under Chapter II gives rise to two significant principles:
+
+a. Once the petition is admitted, the proceedings are no longer the preserve of the
+applicant creditor and the debtor. They now become in rem and all creditors of the
+corporate debtor become stakeholders in the process; and b. Once the petition is
+admitted, the management of the affairs of the corporate debtor is vested in the IRP
+and eventually, in the RP. Thus, the corporate debtor no longer exists in the form that
+it did, before the admission of the petition. Once CIRP is initiated, the interests of the
+erstwhile management of the corporate debtor must be distinguished from the
+interests of the corporate debtor.
+
+ii. Legal framework for withdrawal and settlement of claims a. Evolution of the legal
+framework
+
+45. Introduced less than a decade ago, the IBC and the various rules and regulations promulgated
+under the Act constitute a relatively nascent legal framework. On several occasions, the legislature
+and the executive have responded to the lacunae in the framework identified by this Court and
+sought to fill the gaps by legislating, in the form of amendments to the IBC or promulgating rules or
+regulations, if necessary. The evolution of the legal framework in relation to the withdrawal of CIRP
+after the admission of an application moved by a creditor is a classic example of this delicate
+coordination.
+
+PART D
+
+46. Under Rule 8 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules,
+201634, the NCLT may permit the withdrawal of applications made by a creditor (under Sections 7,
+9 or 10) on a request by the applicant before the admission of the application.35 When the IBC was
+originally enacted in 2016, it did not contain any provisions, in the text of the Act or its allied rules
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+18
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+and regulations, for the withdrawal of CIRP after the application had been admitted. Although there
+was no express provision in this regard, in several instances, this Court invoked its powers under
+Article 142 of the Constitution and permitted withdrawal of the CIRP on account of a settlement
+between the creditor and the corporate debtor after the application had been admitted by the
+NCLT.36
+
+47. In one such decision of this Court, namely, Lokhandwala Kataria Construction (P) Ltd. v. Nisus
+Finance and Investment Managers LLP,37 a two-judge bench of this Court invoked its power under
+Article 142 to record the settlement of the parties and allow the compromise between the creditor
+and the corporate debtor after the admission of the concerned application. While doing so, this
+Court also prima facie agreed with the proposition that in view of Rule 8 of the CIRP Rules, the
+NCLAT cannot use its inherent powers under Rule 11 of the NCALT Rules 2016 to allow a settlement
+or withdrawal after the admission of the application.
+
+“CIRP Rules” “8. Withdrawal of application. —The Adjudicating Authority may permit withdrawal of
+the application made under rules 4, 6 or 7, as the case may be, on a request made by the applicant
+before its admission.” Mothers Pride Dairy India Private Limited v. Portrait Advertising and
+Marketing Private Limited, 2017 SCC OnLine SC 1789; Uttara Foods & Feeds (P) Ltd. v. Mona
+Pharmachem, (2018) 15 SCC 587. (2018) 15 SCC 589.
+
+PART D
+
+48. The above position was followed by the same Bench of this Court in Uttara Foods & Feeds (P)
+Ltd. v. Mona Pharmachem,38 while allowing another settlement between the parties under Article
+142. However, on this occasion, the bench also observed that instead of all such orders coming to
+this Court to utilize its powers under Article 142, the relevant rules may be amended to account for
+cases where an agreement has been reached after admission of the application. This Court observed
+as follows:
+
+“2. … this Bench had observed that in view of Rule 8 of the Insolvency and
+Bankruptcy (Application to Adjudicating Authority) Rules, 2016, the National
+Company Law Appellate Tribunal prima facie could not avail of the inherent powers
+recognised by Rule 11 of the National Company Law Appellate Tribunal Rules, 2016
+to allow a compromise to take effect after admission of the insolvency petition. We
+are of the view that instead of all such orders coming to the Supreme Court as only
+the Supreme Court may utilise its powers under Article 142 of the Constitution of
+India, the relevant Rules be amended by the competent authority so as to include
+such inherent powers. This will obviate unnecessary appeals being filed before this
+Court in matters where such agreement has been reached. On the facts of the present
+case, we take on record the settlement between the parties and set aside the NCLT
+order …”
+
+49. Against this backdrop, the Ministry of Corporate Affairs of the Government of India set up the
+Insolvency Law Committee,39 to address the early teething challenges arising from the
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+19
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+implementation of the IBC.40 The ILC Report, submitted on 26 March 2018, also dealt with the
+issue of withdrawal of CIRP proceedings and discussed the existing practice of this Court of granting
+(2018) 15 SCC 587.
+
+“ILC” “ILC Report” PART D “judicial permission” for withdrawal of CIRP after the admission of the
+application of the creditor. In this context, the report discussed the objectives of the IBC, drawing
+from the report of the Bankruptcy Law Reforms Committee which preceded the enactment of the
+IBC, and concluded that:
+
+“29.1 …it was agreed that once the CIRP is initiated, it is no longer a proceeding only
+between the applicant creditor and the corporate debtor but is envisaged to be a
+proceeding involving all creditors of the debtor. The intent of the Code is to
+discourage individual actions for enforcement and settlement to the exclusion of the
+general benefit of all creditors.” (emphasis supplied)
+
+50. The ILC Report found that in several cases, a settlement may be reached amongst “all creditors
+and the debtor” for withdrawal, and not only between the individual applicant creditor and the
+debtor. In light of this, the ILC unanimously agreed that the relevant rules may be amended to
+provide for withdrawal post- admission if the CoC approved of such an action by a voting share of
+ninety per cent. Significantly, the report states that the ILC specifically discussed and concluded that
+Rule 11 of the NCLAT Rules, 2016 may not be adopted for withdrawal of CIRP, and instead Rule 8 of
+the CIRP Rules may be appropriately amended. The observations in the ILC Report on this aspect
+are as follows:
+
+“29.2. On a review of the multiple NCLT and NCLAT judgments in this regard, the
+consistent pattern that emerged was that a settlement may be reached amongst all
+creditors and the debtor, for the purpose of a withdrawal to be granted, and not only
+the applicant creditor and the debtor. On this basis read with the intent of the Code,
+the Committee unanimously agreed that the relevant rules may be amended to
+provide for withdrawal post admission if the CoC approves of such action by a voting
+share of ninety per cent. It was specifically discussed that PART D rule 11 of the
+National Company Law Tribunal Rules, 2016 may not be adopted for this aspect of
+CIRP at this stage (as observed by the Hon’ble Supreme Court in the case of Uttara
+Foods and Feeds Private Limited v. Mona Pharmacem) and even otherwise, as the
+issue can be specifically addressed by amending rule 8 of the CIRP Rules.”
+
+51. Accepting the recommendation of the ILC, the legislature introduced Section 12A in the IBC by
+the Insolvency and Bankruptcy (Second Amendment) Act, 2018 with effect from 6 June 2018.41. It
+reads as follows:
+
+“12A. Withdrawal of application admitted under section 7, 9 or 10. – The
+Adjudicating Authority may allow the withdrawal of application admitted under
+section 7 or section 9 or section 10, on an application made by the applicant with the
+approval of ninety per cent. voting share of the committee of creditors, in such
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+20
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+manner as may be specified.” (emphasis supplied)
+
+52. The provision provides for the withdrawal of an application under Sections 7, 9 and 10 after it
+has been admitted, with the approval of ninety-percent voting share of the CoC. Evidently, Section
+12A was made more stringent in comparison to Section 30(4) of the IBC, which pertains to approval
+of the Resolution Plan by the CoC. Whereas under Section 30(4) of the IBC, the voting share of the
+CoC for approving the Resolution Plan is sixty-six percent, the requirement under Section 12A of the
+IBC for withdrawal of CIRP is ninety percent. The reason for this divergence and high threshold
+appears to be rooted in the reasoning provided in the ILC report that once an application is
+admitted it is no longer a proceeding only between the applicant creditor and the Act No. 26 of 2018.
+
+PART D corporate debtor but is a proceeding involving all creditors of the debtor. Significantly, the
+text of Section 12A only details the procedure for the withdrawal of the application after the
+formation of the CoC (with ninety percent of the voting share), but is silent about the withdrawal of
+an application after the application is admitted, but before the CoC is formed.
+
+53. With the introduction of Section 12A in the IBC, the CIRP Regulations were also amended to
+include Regulation 30A which delineated the detailed procedure to withdraw an application under
+Section 12A.42 At the time of its introduction, the regulation read as follows:
+
+“30-A. Withdrawal of application.— (1) An application for withdrawal under Section
+12-A shall be submitted to the interim resolution professional or the resolution
+professional, as the case may be, in Form FA of the Schedule before issue of invitation
+for expression of interest under Regulation 36-A. (2) The application in
+sub-regulation (1) shall be accompanied by a bank guarantee towards estimated cost
+incurred for purposes of clauses (c) and (d) of Regulation 31 till the date of
+application. (3) The committee shall consider the application made under
+sub-regulation (1) within seven days of its constitution or seven days of receipt of the
+application, whichever is later.
+
+(4) Where the application is approved by the committee with ninety per cent voting
+share, the resolution professional shall submit the application under sub-regulation
+(1) to the adjudicating authority on behalf of the applicant, within three days of such
+approval.
+
+(5) The adjudicating authority may, by order, approve the application submitted
+under sub-
+
+regulation (4).” IBBI (CIRP) (Third Amendment) Regulations, 2018 vide Notification No.
+IBBI/2018-19/GN/REG031, dated 3rd July, 2018, w.e.f. 04.07.2018.
+
+PART D
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+21
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+54. Regulation 30A(1), as it stood originally, required that an application for withdrawal shall be
+submitted to the IRP or the RP in the prescribed form, before the invitation for expression of
+interest under Regulation 30A. It did not provide the procedure for withdrawal after the invitation
+of expression of interest had been issued. Regulation 30A(2) provided that the application for
+withdrawal shall be accompanied by a bank guarantee towards the specified estimated costs.
+Regulation 30A(3) mandated that the CoC must consider the application within seven days of its
+constitution or the receipt of the application, whichever is later. Finally, Regulation 30A(4) provided
+that once the CoC approved the application with ninety percent voting share, the RP shall submit
+the application to the NCLT on behalf of the applicant, within three days of the approval. Finally,
+under Regulation 30A(5), the NCLT could approve the application submitted by an order.
+
+55. Notably, akin to Section 12A, Regulation 30A in its original form, was silent about withdrawal in
+cases where the application had been admitted, but the CoC had not been formed. Similarly,
+Regulation 30A(1) only spoke of withdrawal before the invitation of expression of interest had been
+issued and there was no provision which provided for withdrawal after it had been issued. Both
+these gaps were identified in subsequent judgements of this Court.
+
+56. In Brilliant Alloy Private Limited vs S Rajagopal and Ors43, a two-judge bench of this Court
+observed that the requirement in Regulation 30A, as it stood (2022) 2 SCC 544.
+
+PART D then, that the application must be made before the issuance of an invitation for expression
+of interest was only directory. The regulation, it was held, has to be read along with Section 12A,
+which does not contain any bar on withdrawal after the issuance of an invitation for expression of
+interest.
+
+57. The constitutional validity of various provisions of the IBC, including Section 12A was challenged
+before this Court. In Swiss Ribbons (supra), a two-judge bench of this Court, speaking through
+Justice Rohinton Fali Nariman, inter alia upheld the constitutionality of Section 12A. One of the
+questions that arose before this Court, in this context, was what happens if withdrawal is sought
+after admission of the application, but before the CoC is constituted. This Court observed:
+
+“82. It is clear that once the Code gets triggered by admission of a creditor's petition
+under Sections 7 to 9, the proceeding that is before the adjudicating authority, being
+a collective proceeding, is a proceeding in rem. Being a proceeding in rem, it is
+necessary that the body which is to oversee the resolution process must be consulted
+before any individual corporate debtor is allowed to settle its claim. A question arises
+as to what is to happen before a Committee of Creditors is constituted (as per the
+timelines that are specified, a Committee of Creditors can be appointed at any time
+within 30 days from the date of appointment of the interim resolution professional).
+We make it clear that at any stage where the Committee of Creditors is not yet
+constituted, a party can approach NCLT directly, which Tribunal may, in exercise of
+its inherent powers under Rule 11 of NCLT Rules, 2016, allow or disallow an
+application for withdrawal or settlement. This will be decided after hearing all the
+parties concerned and considering all relevant factors on the facts of each case.
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+22
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+PART D
+
+83. The main thrust against the provision of Section 12-A is the fact that ninety per
+cent of the Committee of Creditors has to allow withdrawal. This high threshold has
+been explained in the ILC Report as all financial creditors have to put their heads
+together to allow such withdrawal as, ordinarily, an omnibus settlement involving all
+creditors ought, ideally, to be entered into. This explains why ninety per cent, which
+is substantially all the financial creditors, have to grant their approval to an
+individual withdrawal or settlement. In any case, the figure of ninety per cent, in the
+absence of anything further to show that it is arbitrary, must pertain to the domain of
+legislative policy, which has been explained by the Report (supra). Also, it is clear,
+that under Section 60 of the Code, the Committee of Creditors do not have the last
+word on the subject. If the Committee of Creditors arbitrarily rejects a just settlement
+and/or withdrawal claim, NCLT, and thereafter, NCLAT can always set aside such
+decision under Section 60 of the Code. For all these reasons, we are of the view that
+Section 12-A also passes constitutional muster.” (emphasis supplied)
+
+58. From the above observations of this Court in Swiss Ribbons (supra), the following positions of
+law may be deduced:
+
+a. Once the petition instituted by a creditor is admitted, the proceedings before the
+NCLT become a ‘collective proceeding’ or a proceeding in rem. Thus, the body which
+oversees the resolution process, i.e. CoC must be consulted before allowing the claim
+to be settled;
+
+b. This Court recognized that there was a lacuna in relation to cases where the CoC
+had not been formed. Accordingly, it was held that, in such cases, the party can
+approach the NCLT directly, and the NCLT may exercise its inherent powers under
+Rule 11 to allow or disallow the application for settlement/withdrawal. However,
+given the in rem nature of the PART D proceedings, such an application must be
+decided only after hearing all the parties concerned and considering the relevant
+factors in the case;
+
+c. This high threshold of a ninety-percent voting share of the CoC is not arbitrary. The
+idea is that the financial creditors have to put their heads together to allow such
+withdrawal; and d. Under Section 60 of the IBC, the decision of the CoC to reject or
+accept the settlement claim can be challenged before the NCLT and then, the NCLAT.
+
+59. In response to the lacunae identified by this Court in Swiss Ribbons (supra) and Brilliant Alloy
+Private Limited (supra), an amendment was made to Regulation 30A of the CIRP Regulations.44
+This amendment came into effect on 25 July 2019 and Regulation 30A in its present form reads as
+follows:
+
+“30A. Withdrawal of application.
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+23
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+(1) An application for withdrawal under section 12A may be made to the Adjudicating
+Authority –
+
+(a) before the constitution of the committee, by the applicant through the interim
+resolution professional;
+
+(b) after the constitution of the committee, by the applicant through the interim
+resolution professional or the resolution professional, as the case may be:
+
+Provided that where the application is made under clause (b) after the issue of
+invitation for expression of interest under regulation 36A, the applicant shall state
+the reasons justifying withdrawal after issue of such invitation.
+
+(2) The application under sub-regulation (1) shall be made in Form FA of the
+Schedule-I accompanied by a bank guarantee-
+
+(a) towards estimated expenses incurred on or by the interim resolution professional
+for purposes of regulation 33, till the date of filing of the application under clause (a)
+of sub- regulation (1); or Notification No. IBBI/2019-20/GN/REG048, dated 25th
+July, 2019 (w.e.f. 25-07-2019) PART D
+
+(b) towards estimated expenses incurred for purposes of clauses (aa), (ab), (c) and (d)
+of regulation 31, till the date of filing of the application under clause (b) of
+sub-regulation (1).
+
+(3) Where an application for withdrawal is under clause (a) of sub-regulation (1), the
+interim resolution professional shall submit the application to the Adjudicating
+Authority on behalf of the applicant, within three days of its receipt.
+
+(4) Where an application for withdrawal is under clause (b) of sub-regulation (1), the
+committee shall consider the application, within seven days of its receipt.
+
+(5) Where the application referred to in sub-
+
+regulation (4) is approved by the committee with ninety percent voting share, the resolution
+professional shall submit such application along with the approval of the committee, to the
+Adjudicating Authority on behalf of the applicant, within three days of such approval.
+
+(6) The Adjudicating Authority may, by order, approve the application submitted under sub-
+
+regulation (3) or (5).
+
+(7) Where the application is approved under sub-
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+24
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+regulation (6), the applicant shall deposit an amount, towards the actual expenses incurred for the
+purposes referred to in clause (a) or clause (b) of sub-regulation (2) till the date of approval by the
+Adjudicating Authority, as determined by the interim resolution professional or resolution
+professional, as the case may be, within three days of such approval, in the bank account of the
+corporate debtor, failing which the bank guarantee received under sub-
+
+regulation (2) shall be invoked, without prejudice to any other action permissible against the
+applicant under the Code.”
+
+60. Regulation 30A (1) now provides for the procedure to make an application for withdrawal before
+the NCLT under Section 12A, both before and after the constitution of the CoC. Sub-clause (a) of
+Regulation 30A (1) states that in PART D cases where the CoC has not been constituted, the
+applicant may place an application for withdrawal before the NCLT, through the IRP. Similarly, sub-
+clause (b) of Regulation 30A (1) states that in cases where the CoC is constituted, the applicant may
+place an application for withdrawal before the NCLT, through the IRP or the RP, as the case may be.
+In essence, at both stages – before and after the constitution of the CoC – the application for
+withdrawal may only be made through the person appointed to oversee the insolvency proceedings,
+i.e. the IRP or the RP.
+
+61. The proviso to Regulation 30A (1) provides that when the application is made after the CoC has
+been constituted and after the invitation for expression of interest has been issued, the applicant
+shall state the reasons for withdrawal at this stage. In essence, the regulation in its amended form,
+deviates from its earlier form by also responding to the decision of this Court in Brilliant Alloy
+Private Limited (supra). Unlike the unamended regulation, the regulation acknowledges the
+possibility of withdrawal even after the invitation for expression has been issued. However, it
+mandates that an application for withdrawal in such cases must be accompanied by reasons. PART
+D
+
+62. Regulation 30A (2) provides that the application must be made in the manner prescribed in
+Form FA of Schedule-I,45 and must be accompanied by a bank guarantee towards the specified
+expenses. Regulation 30A(3) provides that in cases where the application for withdrawal is moved
+before the constitution of the CoC, the IRP shall submit the application to the NCLT on behalf of the
+applicant within three days of receipt. Regulations 30A (4) and (5) deal with the situation where the
+CoC has already been constituted. They provide that the CoC shall consider the application within
+seven days of receipt, and subsequently, if the application is approved by the CoC with a
+ninety-percent voting share, the RP must submit the application with the approval to the NCLT
+within three days of the approval. Finally, regulation 30A(6) provides that on the receipt of the
+application under both mechanisms (before the CoC and after), PART D the NCLT may pass an
+order approving the application submitted by the RP or IRP, as the case may be.
+
+b. Insights from the evolution of the legal framework
+
+63. In essence, after a series of deliberations by the legislature, the executive and nudges by this
+Court, the framework created by Rule 8 of the NCLT Rules and Section 12A of the IBC read with
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+25
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+Rule 30A of the CIRP Regulations lays down an exhaustive procedure for the withdrawal of an
+application filed by creditors under Sections 7, 9, or 10 of the IBC. Withdrawal may be sought at four
+stages, all of which have a procedure prescribed under the existing framework. These may be
+summarized as follows:
+
+i. Before the application under Sections 7, 9 or 10 is admitted by the NCLT: Such
+cases are squarely covered by Rule 8 of the NCLT Rules, which requires that the
+applicant approach the NCLT directly. The NCLT may then pass an order permitting
+the withdrawal of the application. At this stage, as the CIRP process has not been
+initiated, the proceedings are still in personam, as between the applicant creditor and
+the corporate debtor.
+
+Therefore, while approving the withdrawal at this stage, the NCLT may restrict its
+enquiry to only hear the applicant creditor and corporate debtor, and other potential
+creditors are not stakeholders at this stage.
+
+ii. After an application under Sections 7, 9, or 10 is admitted, but before the CoC has
+been constituted: Although Section 12A continues to be PART D silent on this aspect,
+after the decision in Swiss Ribbons (supra), Regulation 30A was amended to provide
+for this eventuality. An application for withdrawal in such cases may be made by the
+applicant through the IRP.46 The IRP will then place the application before the
+NCLT, which may pass an order either approving or rejecting the application. As
+noted above, once the application has been admitted, the proceedings are no longer
+the sole preserve of the applicant creditor and the corporate debtor. They are now in
+rem and at this stage, the NCLT must hear the concerned parties and consider all
+relevant factors before approving or rejecting the application for withdrawal. The
+NCLT being a quasi-judicial body, must not act as a mere post office, which stamps
+and approves every settlement agreement, without application of judicial mind.
+
+iii. After an application under Section 7, 9 or 10 is admitted, the CoC has been
+constituted and the invitation for expression of interest has not been issued: Section
+12A read with Regulation 30A provides exhaustively for this scenario. In such cases,
+the application for withdrawal is to be placed before the NCLT, through the IRP or
+the RP. The application is first placed before the CoC and after ascertaining approval
+with a ninety percent voting share, the RP shall submit the application to the NCLT.
+
+iv. After an application under Section 7, 9 or 10 is admitted, the CoC has been formed
+and the invitation for expression of interest has been Regulation 30A (1), CIRP
+Regulations, 2016.
+
+PART D issued: The procedure is the same as that detailed in (iii) above, with the
+added requirement stemming from the proviso to Regulation 30A (1). in such cases,
+the applicant must state the reasons for withdrawal at this belated stage.
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+26
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+64. Not only is there an exhaustive framework to deal with withdrawal and settlement, but the
+evolution of the law and the creation of an comprehensive framework indicates an attempt to reduce
+reliance on discretionary powers. As detailed above, the IBC and the allied rules and regulations, in
+their original form did not provide any procedure for the settlement/withdrawal of claims after
+admission of the application by the creditor. This Court was compelled to invoke Article 142 in
+decisions such as Lokhandwala Kataria Construction (supra) and Uttara Foods & Feeds (P) Ltd.
+(supra). To reduce reliance on Article 142, Section 12A and Regulation 30A were introduced to
+provide a detailed procedure for such cases. In fact, the ILC report which led to the inclusion of
+Section 12A specifically discussed and rejected the proposition that Rule 11 can instead be used for
+this purpose. Next, this Court in Swiss Ribbons (supra) held that since there was no prescribed
+framework to allow settlement/withdrawal of claims after admission of the application but before
+the CoC was constituted, Rule 11 of the NCLT Rules may be invoked. In response to this, to reduce
+reliance on the inherent powers under Rule 11 and provide certainty, necessary amendments were
+made to Regulation 30A. There is now a detailed procedure to deal with withdrawal or settlement at
+both stages post admission – before and after the CoC is constituted. In view of this detailed PART
+D framework, the requirement to invoke discretionary power such as Rule 11 of the NCLT Rules, or
+Rule 11 of the NCLAT Rules or even the power of this Court under Article 142 no longer arises.
+
+65. Mr Tushar Mehta, Senior Counsel for the second respondent, has sought to contend that the
+requirement under Regulation 30A (1) to move an application before the NCLT through the IRP, in
+cases where the CoC is not constituted, is a mere technicality which can be dispensed with. The logic
+he advances is that the regulation does not require adjudication by the NCLT about the factum of
+the settlement, the mode of settlement or adjudication on any other ground. His submission is that
+Regulation 30A (1) only requires that the withdrawal application be submitted to the IRP in the
+prescribed Form FA, which is then forwarded to the NCLT to mechanically approve the settlement.
+At this stage, according to him, the NCLT is not required to hear any other parties, but only approve
+the application and thus, whether the application is submitted through the IRP or whether it is
+before the NCLT or the NCLAT, is a mere technicality.
+
+66. We do not concur with the above understanding for two broad reasons. a. Firstly, that the
+application is to be submitted by the IRP rather than the parties themselves is not a distinction
+without difference. As noted above, once the application is admitted and CIRP is initiated, it is the
+IRP who takes charge of the affairs of the corporate debtor. The proceedings become collective
+proceedings and the interests of the former management of the corporate debtor, become disjunct
+from the interest of the corporate debtor. PART D Therefore, the parties (such as the former
+management of the corporate debtor) must submit their application for withdrawal through the IRP
+who is now the person in control of the insolvency proceedings. To subvert this requirement would
+run contrary to the scheme of the IBC and the underlying principles discussed in this judgment; and
+b. Secondly, the NCLT cannot be considered a post office that merely puts a stamp on the
+withdrawal application submitted by the parties through the IRP. The ILC Report, in response to
+which, the parent provision, i.e. Section 12A was introduced in the IBC specifically discussed the
+possibility of the creditors, apart from the applicant creditor agreeing to a settlement as the
+underlying reason to permit withdrawal even after initiation of the CIRP. It was never fathomed by
+the ILC that withdrawal of claims would remain a unilateral process, even though the application is
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+27
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+admitted and CIRP has been initiated. Similarly, this Court in Swiss Ribbons (supra), in response to
+which Regulation 30A was amended, specifically observed that in cases where withdrawal is sought
+after initiation of CIRP, but before the CoC is constituted, the NCLT must decide on the application
+after “hearing all the parties concerned and considering all relevant factors on the facts of each
+case.” Therefore, the NCLT does conduct an adjudicatory exercise when the application for
+withdrawal is placed before it, and the procedure is not a mere technicality.
+
+(cid:12)                                                                                PART D
+
+      iii.    Scope of ‘Inherent Powers’ under Rule 11
+
+67. Section 151 of the Code of Civil Procedure47 reads as follows:
+
+“151. Saving of inherent powers of Court.— Nothing in this Code shall be deemed to
+limit or otherwise affect the inherent power of the Court to make such orders as may
+be necessary for the ends of justice or to prevent abuse of the process of the Court.”
+
+68. Rule 11 of the NCLT Rules 2016 and Rule 11 of the NCLAT Rules 2016, which preserve the
+inherent powers of the NCLT and the NCLAT respectively, mirror Section 151 of the CPC and read as
+follows:
+
+“11. Inherent powers.- Nothing in these rules shall be deemed to limit or otherwise
+affect the inherent powers of the Appellate Tribunal to make such orders or give such
+directions as may be necessary for meeting the ends of justice or to prevent abuse of
+the process of the Appellate Tribunal.”
+
+69. In a consistent line of precedent, this Court has held that ‘inherent powers’ may be exercised in
+cases where there is no express provision under the legal framework. However, such powers cannot
+be exercised in contravention of, conflict with or in ignorance of express provisions of law. We may
+helpfully refer to the observations of a two-judge bench of this Court in one such case. In Ram
+Chand and Sons Sugar Mills (P) Ltd. v. Kanhayalal Bhargava,48 a two-judge bench of this Court,
+speaking through Justice K Subba Rao (as the learned chief Justice then was), opined:
+
+“5. … Having regard to the said decisions, the scope of the inherent power of a court
+under Section 151 of the Code may be defined thus: The inherent “CPC” 1966 SCC
+OnLine SC 215.
+
+PART D power of a court is in addition to and complementary to the powers
+expressly conferred under the Code. But that power will not be exercised if its
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+28
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+exercise is inconsistent with, or comes into conflict with, any of the powers expressly
+or by necessary implication conferred by the other provisions of the Code. If there are
+express provisions exhaustively covering a particular topic, they give rise to a
+necessary implication that no power shall be exercised in respect of the said topic
+otherwise than in the manner prescribed by the said provisions. Whatever limitations
+are imposed by construction on the provisions of Section 151 of the Code, they do not
+control the undoubted power of the Court conferred under Section 151 of the Code to
+make a suitable order to prevent the abuse of the process of the Court.” (emphasis
+supplied)
+
+70. When a procedure has been prescribed for a particular purpose exhaustively, no power shall be
+exercised otherwise than in the manner prescribed by the said provisions. In such cases, the court
+must be circumspect in invoking its ‘inherent powers’ to deviate from the prescribed procedure. If
+such deviation is made, the court must justify why this was necessary to “prevent the abuse of the
+process of the Court”.
+
+71. The need to be circumspect while invoking “inherent powers”, when there is an exhaustive legal
+framework is amplified in the context of a legislation like the IBC. In Ebix Singapore (P) Ltd. vs.
+Educomp Solutions Ltd. (CoC),49 a two- judge bench of this Court, speaking through one of us (DY
+Chandrachud, J), affirmed this position and observed as follows:
+
+“Any claim seeking an exercise of the adjudicating authority’s residuary powers under
+Section 60(5)(c) IBC, NCLT’s inherent powers under Rule 11 of the NCLT Rules or
+even the powers of this Court under (2022) 2 SCC 401.
+
+PART E Article 142 of the Constitution must be closely scrutinized for broader compliance with the
+insolvency framework and its underlying objective. The adjudicating mechanisms which have been
+specifically created by the statute, have a narrowly defined role in the process and must be
+circumspect in granting reliefs that may run counter to the timeliness and predictability that is
+central to the IBC. Any judicial creation of a procedural or substantive remedy that is not envisaged
+by the statute would not only violate the principle of separation of powers, but also run the risk of
+altering the delicate coordination that is designed by the IBC framework and have grave
+implications on the outcome of the CIRP, the economy of the country and the lives of the workers
+and other allied parties who are statutorily bound by the impact of a resolution or liquidation of a
+Corporate Debtor.” (emphasis supplied) E. Application to the instant case
+
+72. In the preceding section, we have analyzed the law with regard to (i) the principles governing
+IBC relevant to contextualize the consequences of withdrawing CIRP; (ii) the nature of the
+proceedings after admission of an application by a creditor; (iii) the evolution of the legal framework
+for the withdrawal of CIRP or settlement of claims; and (iv) the scope of Rule 11 of the NCLAT Rules
+2016. We will now apply the above discussion to the specific issues before this Court in the present
+factual context, namely, the locus of the appellant to institute the present proceedings and the
+approach of the NCLAT in the Impugned Judgment.
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+29
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+(cid:12)                                                                                            PART E
+
+     i.     Locus of the appellant before this Court
+
+73. The counsel for the respondents sought to argue that the appellant does not have the locus to
+maintain the present proceedings before this Court. They contend that in a case for settlement
+between the Corporate Debtor and the second respondent, there is no scope for hearing any other
+creditors, such as the appellant. We do not find merit in this submission.
+
+74. Section 62 of the IBC governs statutory appeals to the Supreme Court from the orders of the
+NCLAT. The provision reads as follows:
+
+“62. Appeal to Supreme Court – (1) Any person aggrieved by an order of the National
+Company Law Appellate Tribunal may file an appeal to the Supreme Court on a
+question of law arising out of such order under this Code within forty-five days from
+the date of receipt of such order.
+
+(2) The Supreme Court may, if it is satisfied that a person was prevented by sufficient
+cause from filing an appeal within forty-five days, allow the appeal to be filed within a
+further period not exceeding fifteen days.” (emphasis supplied)
+
+75. The provision stipulates that “any person” who is aggrieved by the order of the NCLAT may file
+an appeal before the Supreme Court within the prescribed limitation period. Similar language is
+used in Section 61 of the IBC, which provides for appeals to NCLAT from orders of the NCLT.50 The
+use of the phrase “any person aggrieved” indicates that there is no rigid locus requirement “61.
+Appeals and Appellate Authority.-
+
+(1) Notwithstanding anything to the contrary contained under the Companies Act 2013 (18 of 2013),
+any person aggrieved by the order of the Adjudicating Authority under this part may prefer an
+appeal to the National Company Law Appellate Tribunal.
+
+[…]” PART E to institute an appeal challenging an order of the NCLT, before the NCLAT or an order
+of the NCLAT, before this Court. Any person who is aggrieved by the order may institute an appeal,
+and nothing in the provision restricts the phrase to only the applicant creditor and the corporate
+debtor. As noted above, once the CIRP is initiated, the proceedings are no longer restricted to the
+individual applicant creditor and the corporate debtor but rather become collective proceedings (in
+rem), where all creditors, such as the appellant, are necessary stakeholders. The appellant is not an
+unrelated party to the CIRP, but is in fact, an entity whose claims had been verified by the IRP vide
+letter 19 August 2024. The appellant who claims to be a Financial Creditor, has expressed
+reasonable apprehensions about the prejudice it would face if there were roundtripping of the funds,
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+30
+
+and the prioritization of the debts of the second respondent, an operational creditor.
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+76. In any event, the appellant had moved an application before the NCLAT seeking impleadment as
+a respondent and the objections of the appellant were specifically recorded and addressed in the
+Impugned Judgement. Therefore, there is no doubt that the appellant falls within the ambit of the
+phrase “any person aggrieved” and has the locus standi to institute the present Civil Appeal before
+this Court.
+
+PART E ii. Approach of the NCLAT in the Impugned Judgement
+
+77. The appellant contends that the NCLAT erred in invoking its inherent powers under Rule 11 of
+the NCLAT Rules in the presence of a prescribed procedure dealing with the withdrawal of CIRP.
+The respondent, on the other hand, contends that at the time of executing the settlement agreement,
+the CoC was not formed and in such situations, Rule 11 of the NCLAT Rules may be invoked to allow
+the settlement. In view of the detailed discussion in Part D of this judgement, we find considerable
+force in the submissions of the appellant on this point.
+
+78. In paragraph 63 of this judgement, we identified the four stages at which a procedure for the
+withdrawal of CIRP or settlement of claims is contemplated in the existing legal framework. The
+situation before the NCLAT in the present case fell within serial number (ii), that is, when the
+application of a creditor has been admitted and CIRP has been initiated, however, the CoC has not
+been formed. When settlement was sought by the first respondent before the NCLAT, the Section 9
+petition had been admitted and the Section 7 petition had also been disposed of on that basis.
+However, admittedly, on this date, i.e. 31 July 2024, the CoC had not been constituted and the
+NCLAT subsequently stayed the formation of the CoC.
+
+79. In such cases, the legal framework mandates that an (i) application for withdrawal be moved; (ii)
+the application has to be moved through the IRP; and
+
+(iii) it be placed before the NCLT for approval. None of these requirements were PART E met in the
+present case. First and foremost, there was no formal application instituted to seek the withdrawal
+of the CIRP. The settlement agreement was taken on record and approved by the NCLAT based on
+the submissions and assurances of the counsel before it and the affidavits/undertakings filed by the
+parties. Further, the first respondent, who is a former director of the Corporate Debtor, did not
+move the application through the IRP and instead approached the NCLAT directly. Finally, the
+request to approve the settlement was moved before the NCLAT during appellate proceedings,
+instead of being placed before the NCLT. Despite these grave deviations, the NCLAT still proceeded
+with approving the settlement and setting aside the CIRP by invoking its inherent power under Rule
+11 of the NCLAT Rules.
+
+80. We are of the view that recourse to Rule 11 of the NCLAT Rules was not warranted in the present
+circumstances. As noted above, ‘inherent powers’ cannot be used to subvert legal provisions, which
+exhaustively provide for a procedure. To permit the NCLAT to circumvent this detailed procedure by
+invoking its inherent powers under Rule 11 would run contrary to the carefully crafted procedure for
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+31
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+withdrawal. In the Impugned Judgement, the NCLAT does not provide any reasons for deviating
+from this procedure or the urgency to approve the settlement without following the procedure. The
+correct course of action by the NCLAT would have been to stay the constitution of the CoC and
+direct the parties to follow the course of action in Section 12A read with Regulation 30A of the CIRP
+Regulations 2016. This legal framework for such PART E withdrawal was formulated after giving
+due consideration to the appropriate procedure for withdrawal and balancing it with the objectives
+of the IBC.
+
+81. Even if the procedural infirmity is kept aside, once the CIRP was admitted, the proceedings
+became collective, and all creditors of the Corporate Debtor became stakeholders. As noted in Swiss
+Ribbons (supra), even while invoking Rule 11 to allow withdrawal, the NCLT must hear all the
+concerned parties and consider all relevant factors on the facts of each case. The appellant raised
+detailed objections before the NCLAT to the source of the funds for the settlement and a reasonable
+apprehension that there was round tripping of funds, in violation of the order passed by the
+Delaware Court on 18 March 2024. These objections were summarily dismissed by the NCLAT,
+relying solely on the undertaking filed by Riju Raveendran. The only finding in this regard is found
+in paragraph 44. The NCLAT relies entirely on the undertaking filed by Riju Raveendran and states
+that “although, the Applicant is not satisfied about the undertaking but the Applicant has also not
+brought on record any evidence to the contrary that the money which is being offered has actually
+been brought by Riju Raveendran from the money disbursed to the borrower in terms of credit
+agreement or has been taken out of the coffers of the CD.” Alleged facts such as the fraudulent
+transfer of USD 533 million to a hedge fund in the United States; the orders of the US Court
+restraining the brothers from transferring or dissipating the amount; the contempt proceedings
+against Mr Riju Raveendran; the ongoing investigation by the Enforcement Directorate against the
+first respondent and the Corporate Debtor; and other attempts by the Corporate Debtor to dissipate
+assets, were not adequately addressed by the NCLAT. PART E iii. Decisions of this Court cited in the
+Impugned Judgement
+
+82. The respondents relied on the decisions of this Court in Ashok G. Rajani v.
+
+Beacon Trusteeship Ltd.51, and Abhishek Kumar (supra) to argue that before the CoC is formed, the
+proceedings are between the applicant creditor and the debtor and thus, Rule 11 can be invoked to
+allow the settlement. In the Impugned Judgement too, the NCLAT relies on the decisions of this
+Court in Abhishek Kumar (supra) and Kamal K Singh (supra), to justify the invocation of Rule 11 of
+the NCLAT Rules and observe that there has been “a change in the law on settlement”. The
+respondents are correct to contend that each of these decisions was rendered after Section 12A was
+inserted and Regulation 30A was amended. However, it is important to understand the context in
+which this Court upheld the invocation of Rule 11 of the NCLAT Rules and whether these decisions
+considered the prescribed procedure under Section 12A and the amended Regulation 30A. We are of
+the considered view that these judgements do not advance the case of the respondents.
+
+83. In Kamal Singh (supra), a two-judge bench of this Court passed a brief order setting aside an
+order of the NCLT, which dismissed an application filed under Rule 11 of the NCLT Rules 2016 for
+withdrawal of CIRP based on a settlement arrived at before the constitution of the CoC. This Court
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+32
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+relied on the observations in para 82 of Swiss Ribbons (supra) referred to above, wherein this Court
+stated that at the stage when the CoC has not been constituted, the 2022 SCC OnLine SC 1275.
+
+PART E NCLT may exercise its inherent powers under Rule 11 to allow or disallow an application for
+withdrawal or settlement. It may be noted that there is no reference in this order to the prescribed
+procedure under Section 12A read with Regulation 30A, although the proceedings took place well
+after their insertion. As noted above, in response to the decision of this Court in Swiss Ribbons
+(supra), there was a change in the legal framework and Regulation 30A was amended to specifically
+provide for a procedure for withdrawal before the CoC is constituted. The intention was to account
+for the lacuna identified in Swiss Ribbons (supra) and at the same time, reduce the reliance on
+‘inherent powers’ by prescribing a procedure for withdrawal at this stage. In our view, as the order
+overlooks the relevant legal provisions and fails to even refer to the existing legal framework under
+Regulation 30A, it would be per incuriam and is not binding on this Court.
+
+84. The same infirmity is found in Ashok G. Rajani (supra), a judgement rendered by a two-judge
+bench of this Court. In this case, too, the petition filed by a creditor against a corporate debtor had
+been admitted, but the CoC had not been constituted. The decision refers to Section 12A of the IBC
+but fails to even acknowledge the amendment to Regulation 30A, which specifically provided for
+such an eventuality. Instead, this Court proceeded to hold while Section 12A of the IBC permits
+withdrawal after admission of the application by the creditor, it only provides for the procedure for
+withdrawal after the CoC has been constituted, without laying down a bar on withdrawal before the
+constitution of the CoC. According to the two-judge bench, the question of approval of the CoC by
+the requisite percentage of votes can only arise after the CoC is constituted PART E and thus, Rule 11
+must be invoked to allow withdrawal. This observation was made without as much as a passing
+reference to Regulation 30A, which specifically governs such a situation.
+
+85. The decision of this Court in Abhishek Kumar (supra) rendered by a two-judge bench of this
+Court speaking through Justice Vikram Nath, correctly identifies the legal framework. However, it is
+distinguishable from the present factual situation and the findings of this Court do not support the
+case of the respondents. The facts are comparable vis-à-vis the stage of the proceedings – the
+petition had been admitted, but the CoC had not been constituted. However, in that case, the IRP
+had moved an application under Regulation 30A of the CIRP Regulations. Instead of adjudicating
+upon the application under Regulation 30A, the NCLT took the view that Regulation 30A is a mere
+directory provision and dismissed the application. The NCLT vacated the stay on the constitution of
+the CoC and directed that the application under 12A be decided directly (i.e. including for
+compliance with the requirement of a ninety-percent voting share of the CoC). This Court set aside
+the order of the NCLT on the ground that Regulation 30A provides a complete mechanism for
+dealing with the applications filed under such a provision, and it is not necessary to get the approval
+of a ninety percent voting share of the CoC if the application for withdrawal is moved before the
+constitution of the CoC. On the other hand, in the present case, there was no application filed
+through the IRP before the NCLT under Regulation 30A at all. Therefore, this decision is not
+applicable to the present case.
+
+PART F F. Conclusion
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+33
+
+Glas Trust Company Llc vs Byju Raveendran on 23 October, 2024
+
+86. For the above reasons, we allow the present appeal and set aside the impugned judgment of the
+NCLAT dated 2 August 2024 in the above terms. At this stage, it would not be appropriate for this
+Court to adjudicate on the objections of the appellant to the settlement agreement on merits. The
+issues raised are the subject matter of several litigations in different fora, including the Delaware
+Court and investigation by various authorities, including the Enforcement Directorate, which are
+pending.
+
+87. During the course of the proceedings before this Court, the CoC has been constituted. The
+parties are at liberty to invoke their remedies, to seek a withdrawal or settlement of claims, in
+compliance with the legal framework governing the withdrawal of CIRP. Nothing in this judgment
+should be construed as a finding on the conduct of any of the parties or other stakeholders involved
+in the insolvency proceedings.
+
+88. The amount of Rs 158 crore, along with accrued interest, if any, which has been maintained in a
+separate escrow account pursuant to the Order of this Court dated 14 August 2024, is to be
+deposited with the CoC. The CoC is directed to maintain this amount in an escrow account until
+further developments and to abide by the further directions of the NCLT.
+
+89. The civil appeal and special leave petition shall stand disposed of accordingly. PART F
+
+90. Pending applications, if any, stand disposed of.
+
+. . … . … … . … … … … … … … … … … … … … … C J I   [ D r   D h a n a n j a y a   Y   C h a n d r a c h u d ]
+…….……………………………………………J [J B Pardiwala] …….……………………………………………J [Manoj
+Misra] New Delhi;
+
+October 23, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/161799516/
+
+34
+
+

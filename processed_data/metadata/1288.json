@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal Nos. of 2022 (Arising out of SLP(C) Nos.16631-16632/2018)",
+  "parties": {
+    "petitioner": "Haryana State Industrial and Infrastructure Development Corporation Ltd. & Ors.",
+    "respondent": "Mr. Deepak Aggarwal & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-28",
+  "summary": "The key issue involved the interpretation of the term 'initiated' under Section 24(1) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, in relation to proceedings under the Land Acquisition Act, 1894. The appellants contended that issuance and publication of a Notification under Section 4(1) of the 1894 Act constitutes initiation of acquisition, while the respondents argued that further steps like enquiry under Section 5A or possession under Section 16 were necessary. The Court examined legislative intent and precedents to determine whether acquisition proceedings were 'initiated' under the old law to decide applicability of the 2013 Act's compensation regime.",
+  "legal_provisions_cited": [
+    "Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, Section 24(1)",
+    "Land Acquisition Act, 1894, Section 4(1)",
+    "Land Acquisition Act, 1894, Section 5A",
+    "Land Acquisition Act, 1894, Section 16",
+    "Indore Development Authority v. Manoharlal"
+  ],
+  "final_judgment": "The Court held that for the purposes of Section 24(1) of the 2013 Act, land acquisition proceedings are not deemed 'initiated' under the 1894 Act unless a notification under Section 4(1) has been followed by substantial action such as a Section 5A notice or taking of possession. Merely issuing a Section 4(1) notification without further steps does not constitute initiation, thus triggering the applicability of the 2013 Act's compensation framework."
+}

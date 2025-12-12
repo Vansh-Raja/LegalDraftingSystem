@@ -1,0 +1,25 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 871 OF 2021",
+  "parties": {
+    "petitioner": "Sanjeet Kumar Singh @ Munna Kumar Singh",
+    "respondent": "The State Of Chhattisgarh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-30",
+  "summary": "Appellant challenged conviction under Section 20(b)(ii)(C) of NDPS Act for possession of 47.370 kg ganja recovered from car dickey, confirmed by High Court. Prosecution relied on testimony of DSP (PW-7) as informant and IO, supported by procedural compliance under Sections 42, 43, 49, 50 NDPS Act. Independent witnesses (CW-1, CW-2) denied presence, creating non-corroboration. Co-accused Reena Das acquitted due to lack of evidence linking her to contraband. Appellant argued bias from informant-IO overlap, lack of corroboration, and inconsistent documents. State contended procedural compliance, irrelevance of Section 50 for vehicle search, and presumption of guilt under Section 54. Courts below upheld conviction based on DSP's credible testimony and documentary consistency. Issue: whether lack of independent witness corroboration and procedural discrepancies vitiate conviction.",
+  "legal_provisions_cited": [
+    "Section 20(b)(ii)(C) of the Narcotic Drugs and Psychotropic Substances Act, 1985",
+    "Section 42 NDPS Act",
+    "Section 43 NDPS Act",
+    "Section 49 NDPS Act",
+    "Section 50 NDPS Act",
+    "Section 54 NDPS Act",
+    "Ajmer Singh vs. State of Haryana",
+    "Mohinder Singh vs. State of Punjab",
+    "Mukesh Singh vs. State (Narcotic Branch of Delhi)",
+    "Dharampal Singh vs. State of Punjab",
+    "Rizwan Khan vs. State of Chhattisgarh",
+    "State of Punjab vs. Baljinder Singh and Ors."
+  ],
+  "final_judgment": "Appeal dismissed. Conviction and sentence of 10 years rigorous imprisonment with Rs.1 lakh fine upheld. Concurrent findings of Special Court and High Court sustained based on credible testimony of PW-7 and compliance with mandatory procedures under NDPS Act, despite hostile independent witnesses."
+}

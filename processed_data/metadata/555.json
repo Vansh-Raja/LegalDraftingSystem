@@ -1,0 +1,15 @@
+{
+  "case_number": "Criminal Appeal No. 622 of 2013",
+  "parties": {
+    "petitioner": "Kalinga @ Kushal",
+    "respondent": "State of Karnataka By Police Inspector Hubli"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-02-20",
+  "summary": "The case involves the murder of 2.5-year-old Hrithik, whose body was discovered in a well following an extra-judicial confession by the appellant, Kalinga @ Kushal. The Trial Court acquitted all accused due to lack of eyewitnesses, inconsistencies in PW-1's testimony, and uncorroborated confession. The High Court reversed the acquittal of the appellant, convicting him under Sections 302, 201, 363, 364 IPC, while upholding the acquittal of co-accused. The appellant challenged this before the Supreme Court, citing material contradictions in prosecution evidence, non-examination of key witnesses (mother and wife of PW-1), discrepancies in clothing and sequence of events, and improper reliance on an uncorroborated confession. The State defended the High Court's decision, emphasizing the voluntariness of the confession and its role in leading to the recovery of the body.",
+  "legal_provisions_cited": [
+    "Sections 201, 302, 363, 364 read with 34 IPC",
+    "Sansar Chand v. State of Himachal Pradesh"
+  ],
+  "final_judgment": "The appeal was allowed by the Supreme Court, setting aside the conviction by the High Court and restoring the acquittal of the appellant, holding that the High Court erred in reappreciating evidence without sufficient reason and that the prosecution failed to prove guilt beyond reasonable doubt."
+}

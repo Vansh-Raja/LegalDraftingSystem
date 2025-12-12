@@ -1,0 +1,20 @@
+{
+  "case_number": "CRIMINAL APPEAL NO(S). 573 OF 2023",
+  "parties": {
+    "petitioner": "Wadla Bheemaraidu",
+    "respondent": "State of Telangana"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-12-03",
+  "summary": "Appeal challenging uphold of conviction for murder, kidnapping, extortion; prosecution case reliant on circumstantial evidence including DNA match; High Court affirmed trial court's conviction of appellant while acquitting co-accused; appellant argued fabricated case, absence of motive evidence, unreliable recovery process, improper use of confessional statement; contested admissibility of Section 27 Evidence Act disclosures; challenged DNA evidence reliability; issues around abduction-killing at Raichur railway station, concealment of body remains.",
+  "legal_provisions_cited": [
+    "Indian Penal Code s.302",
+    "s.364",
+    "s.384",
+    "s.201",
+    "s.109",
+    "Code of Criminal Procedure s.313",
+    "Indian Evidence Act s.27"
+  ],
+  "final_judgment": ""
+}

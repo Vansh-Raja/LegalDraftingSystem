@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 7046 of 2022",
+  "parties": {
+    "petitioner": "K. Ramya & Ors.",
+    "respondent": "National Insurance Co. Ltd. & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-30",
+  "summary": "The appeal challenged the High Court's reduction of compensation from Rs. 4.29 crore to Rs. 57.9 lakh in a motor vehicle accident claim, where liability was admitted. The key issue was the quantum of compensation, specifically the 'loss of income'. The Tribunal had relied on the deceased's income tax returns and audit reports, finding active business involvement. The High Court held that income was from capital assets, not personal skill, and applied notional income. The Supreme Court emphasized that the Motor Vehicles Act is a welfare statute requiring 'just, fair and reasonable' compensation, to be determined liberally. It held that income tax returns and audit reports are reliable for assessing actual income, especially when supported by evidence of active involvement in business. The High Court erred in disregarding actual income evidence and applying a notional salary.",
+  "legal_provisions_cited": [
+    "Section 168, Motor Vehicles Act, 1988",
+    "National Insurance Co. Ltd. v Pranay Sethi (2017) 16 SCC 680",
+    "Rani Gupta v United India Insurance Limited (2009) 13 SCC 498",
+    "Yadava Kumar v Divisional Manager, National Insurance Co. Ltd (2010) 10 SCC 341"
+  ],
+  "final_judgment": "The Supreme Court set aside the impugned judgment of the Madras High Court, restored the award of the Motor Accident Claims Tribunal, and held that compensation should be based on actual income evidenced by income tax returns and audit reports, not on notional income."
+}

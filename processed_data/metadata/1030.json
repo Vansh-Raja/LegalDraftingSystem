@@ -1,0 +1,19 @@
+{
+  "case_number": "CRIMINAL APPEAL NO(S). 309 OF 2023",
+  "parties": {
+    "petitioner": "P.V. Nidhish & Ors.",
+    "respondent": "Kerala State Wakf Board & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-28",
+  "summary": "The appellants challenged the Kerala High Court's dismissal of their Section 482 Cr.PC petition seeking to quash a criminal complaint under Section 52A of the Waqf Act, 1995, as amended in 2013. The complaint alleged they were 'encroachers' for continuing occupation after lease termination. The appellants argued that applying Section 52A retrospectively violated fundamental principles of criminal law, as their possession dated back to 1916, long before the enactment. The key issue was whether the 2013 amendment could criminalize continued possession under pre-existing tenancies. The High Court had held that post-amendment, the appellants qualified as 'encroachers' under Section 3(ee), making prosecution under Section 52A valid if ingredients were proved, and that cognizance was properly taken via a Board-filed complaint. The Supreme Court considered arguments on the retrospective application of penal laws and the legislative intent behind the 2013 amendments.",
+  "legal_provisions_cited": [
+    "Section 3(ee), Waqf Act, 1995",
+    "Section 52A, Waqf Act, 1995",
+    "Section 482, Criminal Procedure Code",
+    "Order 39, Rules 1 and 2, Code of Civil Procedure",
+    "Section 1(2), Waqf Act, 1995",
+    "Section 54, Waqf Act, 1995"
+  ],
+  "final_judgment": "The Supreme Court set aside the criminal prosecution initiated under Section 52A of the Waqf Act against the appellants, holding that the amended penal provisions could not be applied retrospectively to penalize possession lawfully commenced before the amendment and governed by pre-existing civil tenancy disputes. The appeal was allowed."
+}

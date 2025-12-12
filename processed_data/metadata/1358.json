@@ -1,0 +1,15 @@
+{
+  "case_number": "CA 814/2022",
+  "parties": {
+    "petitioner": "M/s Mongia Realty and Buildwell Private Limited",
+    "respondent": "Manik Sethi"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-31",
+  "summary": "The appeal challenged the dismissal of a summary suit for recovery of Rs 1.11 crore with 18% interest, which was dismissed as time-barred. The trial court and High Court held the suit, filed on 31 March 2017, was beyond the three-year limitation period from the last payment date (24 October 2013). The appellant argued the loan was repayable by 9 April 2014 per oral agreement, making the suit within limitation. It also contended that the running account issue required a full trial. The Supreme Court held that where facts relating to limitation are disputed—particularly the nature of transactions and repayment terms—limitation cannot be decided summarily without evidence. Reliance was placed on Order XIV Rule 2 CPC, which permits preliminary determination only on issues of law arising from admitted facts. Since the nature of the transaction (loan vs. commission) was contested, the issue required a full trial. The judgment emphasized that disputed factual issues cannot be resolved solely on oral arguments.",
+  "legal_provisions_cited": [
+    "Order 14 Rule 2, Code of Civil Procedure, 1908",
+    "Article 1, Limitation Act"
+  ],
+  "final_judgment": "The appeal was allowed, setting aside the lower courts' dismissal of the suit on limitation grounds, and remitting the matter for a full trial on merits."
+}

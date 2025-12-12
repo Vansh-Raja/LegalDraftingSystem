@@ -1,0 +1,15 @@
+{
+  "case_number": "2023 INSC 850; CIVIL APPEAL NO. 1968 OF 2012",
+  "parties": {
+    "petitioner": "Batliboi Environmental Engineers Ltd.",
+    "respondent": "Hindustan Petroleum Corporation Ltd. And Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-09-21",
+  "summary": "Contractual disputes in sewage plant construction; delay attribution to HPCL for obstruction; arbitration award allowed BEEL's claims for overhead, profit, machinery idling, extra work; High Court quashed award under s.37 Arbitration Act; SC found award lacking reasoned analysis on delay causation; computational error in 10% profit/overhead awards; failure to examine contractual clauses; award set aside for non-compliance with s.31(3) Arbitration Act; remanded to decide on fresh evidentiary basis.",
+  "legal_provisions_cited": [
+    "Arbitration and Conciliation Act, 1996 s.31(3)",
+    "Arbitration and Conciliation Act, 1996 s.37"
+  ],
+  "final_judgment": "Arbitral award set aside; matter remanded to High Court for fresh consideration with proper reasoning on delay causation and contract terms."
+}

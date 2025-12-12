@@ -1,0 +1,21 @@
+{
+  "case_number": "Criminal Appeal No. 1584 of 2021 (@SLP (CRL.) No. 11816 of 2019)",
+  "parties": {
+    "petitioner": "Jasdeep Singh @ Jassu",
+    "respondent": "The State of Punjab"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-07",
+  "summary": "The appeals concern conviction under Section 304 Part I IPC (culpable homicide not amounting to murder) with life sentence for accused 3 and 4, while the de facto complainant seeks enhancement to Section 302 IPC (murder). The incident occurred in 2011 at a dhaba in Jalandhar following a prior raid, leading to a confrontation where the deceased was shot. The trial court and High Court held no premeditation, invoking Exception 4 to Section 300 IPC due to sudden fight in heat of passion. Key witnesses turned hostile; PW6's statement improved under Section 161 CrPC alleging instigation. The Supreme Court examined applicability of Section 34 IPC (common intention), noting amendment history adding 'in furtherance of common intention'. It assessed credibility of evidence, presence of common intention, and sufficiency of proof for joint liability. The courts below were upheld.",
+  "legal_provisions_cited": [
+    "Section 304 Part I IPC",
+    "Section 302 IPC",
+    "Section 34 IPC",
+    "Exception 4 to Section 300 IPC",
+    "Section 25 Arms Act",
+    "Section 27 Arms Act",
+    "Section 161 CrPC",
+    "Queen v. Gorachand Gope, (1866) SCC OnLine Cal 16"
+  ],
+  "final_judgment": "Appeals dismissed; conviction under Section 304 Part I IPC with life sentence upheld for accused 3 and 4; enhancement to Section 302 IPC denied."
+}

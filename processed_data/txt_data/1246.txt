@@ -1,0 +1,859 @@
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+Author: D.Y. Chandrachud
+
+Bench: D.Y. Chandrachud, Surya Kant, Pamidighantam Sri Narasimha
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+Civil Appeal No. 3872 of 2022
+
+Canara Bank                                      ...Appellant
+
+Versus
+
+G S Jayarama                                     ...Respondent
+
+JUDGMENT Dr Dhananjaya Y Chandrachud, J This judgment has been divided into sections to
+facilitate analysis. They are:
+
+A Introduction...................................................................................................... 3 B
+Submissions of Counsel .................................................................................. 6 C
+Analysis ........................................................................................................... 8 C.1
+Legislative Framework of Legal Services Act 1987 .................................. 8 C.2
+Mandatory nature of conciliation proceedings ........................................ 22 C.3
+Whether Permanent Lok Adalat has adjudicatory functions ................... 25 D
+Conclusion..................................................................................................... 29 PART A
+A Introduction 1 This appeal arises from a judgment dated 6 March 2021 of a
+Division Bench of the High Court of Karnataka. The Single Judge by a judgment
+dated 3 July 2019 allowed the writ petition1 instituted by the respondent, and set
+aside an award of the Permanent Lok Adalat dated 19 November 2014. The Division
+Bench dismissed the writ appeal2 by the appellant and upheld the judgment of the
+Single Judge.
+
+2 The dispute arises from an application3 filed by the Syndicate Bank4 on 31
+December 2012 before the Permanent Lok Adalat at Mangalore under Section 22-
+
+C(1) of the Legal Services Authorities Act 19875. The application had been filed against the
+
+1
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+respondent and his guarantor, in regard to credit facilities in the value of Rs 2,40,583 availed by the
+respondent from the appellant. The appellant alleged that the amount of Rs 2,40,583 along with
+interest had become due on 1 October 2012, but the respondent had not repaid it, in spite of
+multiple notices and requests. Hence, the appellant prayed for the recovery of Rs 2,40,583 with
+interest at the rate of 15.75 per cent and costs from the respondent and his guarantor. 3 Notice was
+issued by the Permanent Lok Adalat to the respondent on 10 January 2013, which was allegedly not
+claimed by the respondent. Hence, on 12 March 2013, the Permanent Lok Adalat held the service to
+be complete in respect of Writ Petition No 27778 of 2019 (GM-RES) Writ Appeal No 514 of 2020
+(GM-RES) PLD No 69 of 2013 With effect from 1 April 2020, it has since been merged with the
+appellant through a notification dated 4 March 2020 issued by the Central Government in
+consultation with Reserve Bank of India in exercise of its powers under Section 9 of Banking
+Companies (Acquisition & Transfer of Undertakings) Act 1970. Hence, it is also referred to as
+―appellant(cid:129) in this judgment.
+
+―LSA Act(cid:129) PART A the respondent and adjourned the case to 6 June 2013 for reporting of
+settlement. Thereafter, allegedly on 22 August 2013, a counsel filed a memo of appearance on behalf
+of the respondent and matter was adjourned to allow filing of vakalatnama and objections on behalf
+of the respondent. On 6 February 2014, another counsel is alleged to have filed a vakalatnama on
+behalf of the respondent, and the case was adjourned once again.
+
+4 Since no one thereafter participated in the proceedings on behalf of the respondent, the appellant
+filed its final affidavit on 17 November 2014, when the Permanent Lok Adalat reserved the matter
+for its award. In its award dated 19 November 2014, the Permanent Lok Adalat noted that the
+respondent ―appeared through an advocate, but did not participate in the proceedings(cid:129) while his
+guarantor ―though served with notices…did not participate in the proceedings(cid:129). Further, it also
+noted that no conciliation was reported. Hence, the Permanent Lok Adalat allowed the application
+filed by the appellant based on the documentary evidence adduced by them and directed the
+respondent and his guarantor to pay the appellant an amount of Rs 2,40,583 with interest at the
+rate of 9 per cent till the date of realization. The appellant filed a petition6 for execution of the
+award of the Permanent Lok Adalat before the Civil Judge and Judicial Magistrate First Class,
+Sullia, Dakshina Kannada.
+
+5 While the appellant’s execution petition was pending and upon the issuance of an arrest notice,
+the respondent filed a writ petition under Article 226 of the Ex No 9 of 2019 PART A Constitution
+before the Karnataka High Court on 1 July 2019, for challenging the award of the Permanent Lok
+Adalat dated 19 November 2014. The Single Judge allowed the writ petition by a judgment dated 3
+July 2019, without issuing notice to the appellant. While setting aside award dated 19 November
+2014, the Single Judge held:
+
+―6. In view of the fact that the Lok Adalath (sic) has no adjudicatory function as per
+the [Legal Services Authorities Act, 1987], the impugned order dated 19.11.2014 is
+hereby quashed and set aside.
+
+2
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+7. Accordingly, the writ petition is disposed of with a liberty to the respondent to take
+recourse to such remedy as may be available to them under the law.(cid:129)
+
+6 Relying upon the judgment of the Single Judge of Karnataka High Court dated 3 July 2019, the
+appellant’s execution petition was dismissed on 22 July 2019. The appellant alleges that this is when
+they became aware of the Single Judge’s judgment, and thereafter filed a writ appeal.
+
+7 By its impugned judgment dated 6 March 2021, the Division Bench of the Karnataka High Court
+dismissed the writ appeal. While dismissing the writ appeal, the Division Bench held:
+
+―9. The aforesaid provisions make it clear that in case the parties reach at an
+agreement on the settlement of the dispute they shall sign the settlement agreement
+and the Permanent Lok Adalat shall pass an award in terms thereof and furnish a
+copy of the same to each of the parties concerned at the first instance and it is only
+after where the parties fail to reach at an agreement under sub-Section (7), the
+Permanent Lok Adalat can pass an award keeping in view the facts and circumstances
+of the case. In the present case, PART B no such procedure was followed at all. There
+was no conciliation proceedings between the parties. As they did not appear, the
+question of signing the agreement does not arise. The Lok Adalat could not have
+acted as a regular civil Court in adjudicating the proceedings. Therefore, the learned
+Single Judge was justified in allowing the writ petition. This Court finds no reason to
+interfere with the order passed by the learned Single Judge.(cid:129) Thus, the Division
+Bench dismissed the writ appeal on two grounds: first, that the procedure for
+conciliation under Section 22-C of the LSA Act was not followed, and hence, the
+award under Section 22-C(8) was a nullity; and second, the Permanent Lok Adalat
+could not have acted as a regular civil court in adjudicating the proceedings.
+
+B          Submissions of Counsel
+
+8          Mr Rajesh Kumar Gautam, learned counsel appearing on behalf of the
+
+appellant has made the following submissions:
+
+(i) The impugned judgement is contrary to the provisions contained in Chapter –
+VI-A of the LSA Act and the decision of this Court in Bar Council of India v.
+
+Union of India7 in as much as the High Court held that Permanent Lok Adalats have no
+adjudicatory function;
+
+(ii) Sufficient opportunity was given to the respondent to participate in the conciliation proceedings;
+
+(2012) 8 SCC 243 (―Bar Council of India(cid:129)) PART B
+
+3
+
+(iii) If the parties fail to participate in the conciliation proceedings, the Permanent Lok Adalat has
+no option but to proceed to decide the dispute and pass an award under Section 22-C of the LSA Act;
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+(iv) Under Section 22-E of the LSA Act, an award passed by the Permanent Lok Adalat is deemed to
+be a decree of a civil court and such award is final and cannot be called into question in any original
+suit, application or execution proceedings;
+
+(v) The object and purpose behind introducing Chapter VI-A to the LSA Act would be frustrated if
+the Permanent Lok Adalat is denied the power of adjudicating a dispute if a party deliberately avoids
+appearing and participating in the conciliation proceedings, even after receipt of notice from the
+Permanent Lok Adalat and after having appeared through an advocate on a previous occasion; and
+
+(vi) The conclusion of the conciliation proceedings is not a condition precedent to the exercise of
+Permanent Lok Adalat’s adjudicatory function if a party fails to appear for the conciliation
+proceedings.
+
+9 Notice was served upon the respondent by the usual mode of service as well as Dasti. While an AD
+card duly signed by the respondent was received by the Supreme Court’s Registry, no one entered an
+appearance on behalf of the respondent.
+
+(cid:12)                                                                                                           PART C
+
+C        Analysis
+
+10       Two issues arise in the present appeal:
+
+(i) Whether under Section 22-C of the LSA Act conciliation proceedings are mandatory; and
+
+(ii) Whether the Permanent Lok Adalats have adjudicatory functions under the LSA Act.
+
+C.1 Legislative Framework of Legal Services Act 1987 11 To address these issues, it is important to
+understand the statutory framework of the LSA Act. Chapter VI of the LSA Act is titled ―Lok
+Adalats(cid:129). Section 198  ―19. Organisation of Lok Adalats.—(1) Every State Authority or District
+Authority or the Supreme Court Legal Services Committee or every High Court Legal Services
+Committee or, as the case may be, Taluk Legal Services Committee may organise Lok Adalats at
+such intervals and places and for exercising such jurisdiction and for such areas as it thinks fit.
+
+(2) Every Lok Adalat organised for an area shall consist of such number of—
+
+4
+
+(a) serving or retired judicial officers; and
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+(b) other persons, of the area as may be specified by the State Authority or the District Authority or
+the Supreme Court Legal Services Committee or the High Court Legal Services Committee, or, as the
+case may be, the Taluk Legal Services Committee, organising such Lok Adalat.
+
+(3) The experience and qualifications of other persons referred to in clause (b) of sub-section (2) for
+Lok Adalats organised by the Supreme Court Legal Services Committee shall be such as may be
+prescribed by the Central Government in consultation with the Chief Justice of India. (4) The
+experience and qualifications of other persons referred to in clause (b) of sub-section (2) for Lok
+Adalats other than referred to in sub-section (3) shall be such as may be prescribed by the State
+Government in consultation with the Chief Justice of the High Court.
+
+(5) A Lok Adalat shall have jurisdiction to determine and to arrive at a compromise or settlement
+between the parties to a dispute in respect of—
+
+(i) any case pending before; or PART C provides the framework on the basis of which Lok Adalats
+are to be organised. Specifically, Section 19(5) provides that Lok Adalats shall have the jurisdiction
+to arrive at a compromise and settlement between the parties in respect of a matter: (i) pending
+before a court for which the Lok Adalat is organised; or (ii) not pending before a court for which the
+Lok Adalat is organised but falling within its jurisdiction. The proviso notes that the Lok Adalat shall
+have no jurisdiction in respect of a matter relating to an offence not compoundable under any law.
+12 Section 209 outlines the type of cases whose cognisance can be taken by the Lok Adalats. Section
+20(1) provides that when a case is pending before a court (in
+
+(ii) any matter which is falling within the jurisdiction of, and is not brought before, any court for
+which the Lok Adalat is organised:
+
+Provided that the Lok Adalat shall have no jurisdiction in respect of any case or
+matter relating to an offence not compoundable under any law.(cid:129) ―20. Cognizance of
+cases by Lok Adalats.—(1) Where in any case referred to in clause (i) of sub-section
+(5) of Section 19,
+
+(i) (a) the parties thereof agree; or
+
+(b) one of the parties thereof makes an application to the court, for referring the case
+to the Lok Adalat for settlement and if such court if prima facie satisfied that there
+are chances of such settlement; or
+
+(ii) the court is satisfied that the matter is an appropriate one to be taken cognizance
+of by the Lok Adalat, the court shall refer the case to the Lok Adalat:
+
+Provided that no case shall be referred to the Lok Adalat under sub-clause (b) of
+clause (i) or clause (ii) by such court except after giving a reasonable opportunity of
+
+5
+
+being heard to the parties.
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+(2) Notwithstanding anything contained in any other law for the time being in force,
+the Authority or Committee organising the Lok Adalat under sub-section (1) of
+Section 19 may, on receipt of an application from any one of the parties to any matter
+referred to in clause (ii) of sub-section (5) of Section 19 that such matter needs to be
+determined by a Lok Adalat, refer such matter to the Lok Adalat, for determination:
+
+Provided that no matter shall be referred to the Lok Adalat except after giving a
+reasonable opportunity of being heard to the other party.
+
+(3) Where any case is referred to a Lok Adalat under sub-section (1) or where a
+reference has been made to it under sub-section (2) the Lok Adalat shall proceed to
+dispose of the case or matter and arrive at a compromise or settlement between the
+parties.
+
+PART C accordance with Section 19(5)(i)), the court can refer the case to a Lok Adalat for settlement
+if: (i) the parties agree; (ii) one party makes an application; or (iii) the court is satisfied that the
+matter is appropriate for a Lok Adalat. The proviso stipulates that in scenario (ii) and (iii), the court
+shall only make its decision after giving the parties a reasonable opportunity of being heard. Section
+20(2) provides that when an Authority or a Committee organising a Lok Adalat receives an
+application (in accordance with Section 19(5)(ii)), it shall determine whether to refer it to the Lok
+Adalat. The proviso stipulates that it shall only make its determination after giving parties a
+reasonable opportunity of being heard. Section 20(3) indicates that when a case is referred to a Lok
+Adalat under Section 20(1) and (2), it shall proceed to dispose of the case and arrive at a
+compromise or settlement between the parties. Section 20(4) provides that in disposing of a case,
+the Lok Adalat shall be guided by the principles of justice, equity, fair play and other legal principles.
+In case the Lok Adalat is unable to reach a settlement between the parties and no award is made, it
+shall: (i) return the case to the court if it was received under Section 20(1) (in accordance with
+Section 20(5)), which shall resume hearing it from the stage where it was referred to the Lok Adalat
+(in accordance with Section 20(7)); (4) Every Lok Adalat shall, while determining any reference
+before it under this Act, act with utmost expedition to arrive at a compromise or settlement between
+the parties and shall be guided by the principles of justice, equity, fair play and other legal
+principles.
+
+(5) Where no award is made by the Lok Adalat on the ground that no compromise or settlement
+could be arrived at between the parties, the record of the case shall be returned by it to the court,
+from which the reference has been received under sub-section (1) for disposal in accordance with
+law. (6) Where no award is made by the Lok Adalat on the ground that no compromise or settlement
+could be arrived at between the parties, in a matter referred to in sub-section (2), that Lok Adalat
+shall advise the parties to seek remedy in a court.
+
+(7) Where the record of the case is returned under sub-section (5) to the court, such court shall
+proceed to deal with such case from the stage which was reached before such reference under
+
+6
+
+sub-section (1).(cid:129) PART C or (ii) advise the parties to approach the court if it was received under
+Section 20(2) (in accordance with Section 20(6)).
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+13 Section 2110 stipulates that the awards of Lok Adalats shall be deemed to be a decree of a civil
+court or, as the case may be, an order of any other court. These awards shall be final and binding on
+all the parties to the dispute, and no appeal shall lie to any court against the award. Further, when a
+settlement is arrived at by a Lok Adalat in a case referred to it under Section 20(1), the parties shall
+be refunded their court fee.
+
+14 Section 22 outlines the powers of the Lok Adalats and Permanent Lok Adalats. Section 22 is
+extracted below:
+
+―22. Powers of Lok Adalats.—(1) The Lok Adalat or Permanent Lok Adalat shall, for
+the purposes of holding any determination under this Act, have the same powers as
+are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908) while
+trying a suit in respect of the following matters, namely:—
+
+(a) the summoning and enforcing the attendance of any witness and examining him
+on oath;
+
+(b) the discovery and production of any document;
+
+(c) the reception of evidence on affidavits;
+
+(d) the requisitioning of any public record or document or copy of such record or
+document from any court or office; and
+
+(e) such other matters as may be prescribed.
+
+―21. Award of Lok Adalat.—(1) Every award of the Lok Adalat shall be deemed to be a decree of a
+civil court or, as the case may be, an order of any other court and where a compromise or settlement
+has been arrived at, by a Lok Adalat in a case referred to it under sub-section (1) of Section 20, the
+court-fee paid in such case shall be refunded in the manner provided under the Court Fees Act, 1870
+(7 of 1870). (2) Every award made by a Lok Adalat shall be final and binding on all the parties to the
+dispute, and no appeal shall lie to any court against the award.(cid:129) PART C (2) Without prejudice to
+the generality of the powers contained in sub-section (1), every Lok Adalat or Permanent Lok Adalat
+shall have the requisite powers to specify its own procedure for the determination of any dispute
+coming before it.
+
+(3) All proceedings before the Lok Adalat or Permanent Lok Adalat shall be deemed to be judicial
+proceedings within the meaning of Sections, 193, 219 and 228 of the Indian Penal Code (45 of 1860)
+and every Lok Adalat shall be deemed to be a civil court for the purpose of Section 195 and Chapter
+XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).(cid:129) Sub-Section (1) of Section 22 stipulates
+that Lok Adalats and Permanent Lok Adalats shall have the same power as civil courts under the
+
+7
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+Civil Procedure Code 190811 for making their determination under the LSA Act. Sub-Section (2),
+without prejudice to sub-Section (1), provides the Lok Adalats and Permanent Lok Adalats with the
+power to specify their own procedure. Sub-Section (3) states that proceedings before the Lok
+Adalats and Permanent Lok Adalats shall be deemed to be judicial proceedings.
+
+15 These provisions demonstrate that the power of the Lok Adalat is limited, even though it may
+have some powers of the civil courts and the proceedings before it have some trappings of a judicial
+proceeding. A Lok Adalat shall only attempt to reach a compromise or settlement between the
+parties whose case is before it. If a compromise or settlement is reached, the Lok Adalat shall issue it
+as its award, and the statute deems it to be equivalent to the decree of a court, against which no
+appeal shall lie. On the other hand, if it fails to reach a compromise or settlement, ―CPC(cid:129) PART C
+the Lok Adalat shall return the case to the court or advise the parties to approach the court.
+
+16 On the other hand, Permanent Lok Adalats are constituted under Chapter VI- A of the LSA Act
+titled ―Pre-Litigation Conciliation and Settlement(cid:129). The chapter was added to the LSA Act by The
+Legal Services Authorities (Amendment) Act 2002 12. It is necessary to analyse the rationale for
+introducing such an institutional mechanism for resolving disputes when Lok Adalats constituted
+under Section 19 of the LSA Act were already in existence. The Statement of Objects and Reasons of
+the LSA Amendment Act reads as follows:
+
+―(1) The Legal Services Authorities Act, 1987 was enacted to constitute legal services
+authorities for providing (sic) and competent legal services to the weaker sections of
+the society to ensure that opportunities for securing justice were not denied to any
+citizen by reason of economic or other disabilities and to organise Lok Adalats to
+ensure that the operation of the legal system promoted justice on a basis of equal
+opportunity. The system of Lok Adalat, which is an innovative mechanism for
+alternate dispute resolution, has proved effective for resolving disputes in a spirit of
+conciliation outside the courts.
+
+(2) However, the major drawback in the existing scheme of organisation of the Lok
+Adalats under Chapter VI of the said Act is that the system of Lok Adalats is mainly
+based on compromise or settlement between the parties.
+
+If the parties do not arrive at any compromise or settlement, the case is either returned to the court
+of law or the parties are advised to seek remedy in a court of law. This causes unnecessary delay in
+the dispensation of justice. If Lok Adalats are given power to decide the cases on merits in case
+parties fail to arrive at any compromise or settlement, this problem can be tackled to a great extent.
+Further, the cases which arise in relation to public utility services such as Mahanagar Telephone
+Nigam Act 37 of 2002 (―LSA Amendment Act(cid:129)) PART C Limited, Delhi Vidyut Board, etc. need to
+be settled urgently so that people get justice without delay even at pre-litigation stage and thus most
+of the petty cases which ought not to go in the regular courts would be settled at the pre-litigation
+stage itself which would result in reducing the workload of the regular courts to a great extent. It is,
+therefore, proposed to amend the Legal Services Authorities Act, 1987 to set up Permanent Lok
+Adalats for providing compulsory pre-
+
+8
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+litigative mechanism for conciliation and settlement of cases relating to public utility services.(cid:129)
+(emphasis supplied) The Statement of Objects and Reasons indicates that Chapter VI-A was
+introduced to the LSA Act to primarily create alternative dispute resolution bodies, in the form of
+Permanent Lok Adalats, to decide disputes on merits if the parties fail to arrive at a compromise or
+settlement.
+
+17 Section 22-B of the LSA Act provides for the establishment of Permanent Lok Adalats. Section
+22-B stipulates thus:
+
+―22-B. Establishment of Permanent Lok Adalats.—(1) Notwithstanding anything
+contained in Section 19, the Central Authority or, as the case may be, every State
+Authority shall, by notification, establish Permanent Lok Adalats at such places and
+for exercising such jurisdiction in respect of one or more public utility services and
+for such areas as may be specified in the notification.
+
+(2) Every Permanent Lok Adalat established for an area notified under sub-section
+(1) shall consist of—
+
+(a) a person who is, or has been, a district Judge or additional district Judge or has
+held judicial office higher in rank than that of a district Judge, shall be the Chairman
+of the Permanent Lok Adalat; and
+
+(b) two other persons having adequate experience in public utility service to be
+nominated by the Central Government or, as the case may be, the State Government
+on the PART C recommendation of the Central Authority or, as the case may be, the
+State Authority, appointed by the Central Authority or, as the case may be, the State
+Authority, establishing such Permanent Lok Adalat and the other terms and
+conditions of the appointment of the Chairman and other persons referred to in
+clause (b) shall be such as may be prescribed by the Central Government.(cid:129)
+Sub-Section (1) of Section 22-B stipulates that the Central or State Authority under
+the LSA Act shall establish Permanent Lok Adalats in respect of one or more public
+utility services (defined under Section 22-A(b)13) and for specific areas. Sub-Section
+(2) provides the membership of the Permanent Lok Adalat to be appointed by the
+Central or State Authority, which shall include: (i) its Chairperson, who is a person
+who is, or has been, a District Judge or an Additional District Judge or has held
+judicial office higher in rank than that of a District Judge; and (ii) two other persons
+who have adequate experience in the public utility services, to be nominated by
+Central or State Government on the recommendation of Central or State Authority,
+as the case maybe.
+
+―22-A. Definitions.—In this Chapter and for the purposes of Sections 22 and 23, unless the context
+otherwise requires,— […]
+
+(b) ―public utility service(cid:129) means any—
+
+9
+
+(i) transport service for the carriage of passengers or goods by air, road or water; or
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+(ii) postal, telegraph or telephone service; or
+
+(iii) supply of power, light or water to the public by any establishment; or
+
+(iv) system of public conservancy or sanitation; or
+
+(v) service in hospital or dispensary; or
+
+(vi) insurance service, and includes any service which the Central Government or the State
+Government, as the case may be, may, in the public interest, by notification, declare to be a public
+utility service for the purposes of this Chapter.(cid:129) PART C 18 Section 22-C of the LSA Act stipulates
+the instances in which Permanent Lok Adalats can take cognisance of cases. Section 22-C provides
+as follows:
+
+―22-C. Cognizance of cases by Permanent Lok Adalat.— (1) Any party to a dispute
+may, before the dispute is brought before any court, make an application to the
+Permanent Lok Adalat for the settlement of dispute:
+
+Provided that the Permanent Lok Adalat shall not have jurisdiction in respect of any
+matter relating to an offence not compoundable under any law:
+
+Provided further that the Permanent Lok Adalat shall also not have jurisdiction in the
+matter where the value of the property in dispute exceeds ten lakh rupees:
+
+Provided also that the Central Government, may, by notification, increase the limit of
+ten lakh rupees specified in the second proviso in consultation with the Central
+Authority.
+
+(2) After an application is made under sub-section (1) to the Permanent Lok Adalat,
+no party to that application shall invoke jurisdiction of any court in the same dispute.
+
+(3) Where an application is made to a Permanent Lok Adalat under sub-section (1),
+it—
+
+(a) shall direct each party to the application to file before it a written statement,
+stating therein the facts and nature of dispute under the application, points or issues
+in such dispute and grounds relied in support of, or in opposition to, such points or
+issues, as the case may be, and such party may supplement such statement with any
+document and other evidence which such party deems appropriate in proof of such
+facts and grounds and shall send a copy of such statement together with a copy of
+such document and other evidence, if any, to each of the parties to the application;
+
+10
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+(b) may require any party to the application to file additional statement before it at
+any stage of the conciliation proceedings;
+
+(c) shall communicate any document or statement received by it from any party to
+the application to the other party, to enable such other party to present reply thereto.
+
+(4) When statement, additional statement and reply, if any, PART C have been filed
+under sub-section (3), to the satisfaction of the Permanent Lok Adalat, it shall
+conduct conciliation proceedings between the parties to the application in such
+manner as it thinks appropriate taking into account the circumstances of the dispute.
+
+(5) The Permanent Lok Adalat shall, during conduct of conciliation proceedings
+under sub-section (4), assist the parties in their attempt to reach an amicable
+settlement of the dispute in an independent and impartial manner.
+
+(6) It shall be the duty of every party to the application to cooperate in good faith
+with the Permanent Lok Adalat in conciliation of the dispute relating to the
+application and to comply with the direction of the Permanent Lok Adalat to produce
+evidence and other related documents before it.
+
+(7) When a Permanent Lok Adalat, in the aforesaid conciliation proceedings, is of
+opinion that there exist elements of settlement in such proceedings which may be
+acceptable to the parties, it may formulate the terms of a possible settlement of the
+dispute and give to the parties concerned for their observations and in case the
+parties reach at an agreement on the settlement of the dispute, they shall sign the
+settlement agreement and the Permanent Lok Adalat shall pass an award in terms
+thereof and furnish a copy of the same to each of the parties concerned.
+
+(8) Where the parties fail to reach at an agreement under sub-section (7), the
+Permanent Lok Adalat shall, if the dispute does not relate to any offence, decide the
+dispute.(cid:129) Sub-Section (1) of Section 22-C provides that any party to a dispute
+(covered under the jurisdiction of the Permanent Lok Adalat in accordance with
+Section 22-B) can approach the Permanent Lok Adalat before approaching a court.
+The proviso notes two exceptions to this: (i) the dispute shall not be in respect of any
+matter relating to an offence not compoundable under any law; and (ii) the value of
+the property in dispute shall not exceed Rs 10 lakhs. However, the third proviso
+stipulates that the Central Government may, in consultation with the Central
+Authority, increase this PART C amount through a notification. Indeed, by a
+notification dated 20 March 201514 this amount has been since raised to Rs 1 crore.
+Under sub-Section (2), once an application is made to the Permanent Lok Adalat
+under sub-Section (1) in respect of a dispute, no court shall have jurisdiction over it.
+In accordance with sub-Section (3), once the Permanent Lok Adalat receives an
+application under sub-Section (1), it can direct both parties to file detailed
+submission outlining their factual submissions, issues raised and arguments
+
+11
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+advanced. To support their submissions, the parties will be permitted to attach
+documentary evidence. Further, the Permanent Lok Adalat can direct the parties to
+file additional submissions. It shall also communicate any submissions or documents
+received by one party to the other, in order to enable them to respond. Once the
+procedure under sub-Section (3) is completed, the Permanent Lok Adalat, in
+accordance with sub-Section (4), shall conduct conciliation proceedings between
+parties in a manner it sees fit keeping in mind the nature of the dispute. During the
+conciliation proceedings under sub-Section (4), sub-Section (5) imposes a duty on
+the Permanent Lok Adalat to assist the parties in reaching an amicable resolution to
+their dispute in an independent and impartial manner. On the other hand,
+sub-Section (6) imposes a duty on the parties to cooperate with the Permanent Lok
+Adalat in good faith and produce any evidence/documents required for the resolution
+of the dispute. Sub-Section (7) empowers the Permanent Lok Adalat, when it is of the
+opinion that a settlement exists between the parties, to ―Noti. No. S.O. 803(E), dated
+March 20, 2015.—In exercise of the powers conferred by the third proviso to sub-
+
+section (1) of Section 22-C of the Legal Services Authorities Act, 1987 (39 of 1987) and in
+supersession of the Government of India, Ministry of Law and Justice (Department of Legal Affairs),
+Notification Number S.O. 2083(E), dated the 15th September, 2011, published in the Gazette of
+India, Extraordinary, Part II, Section 3, sub-section (ii), dated the 15th September, 2011, the Central
+Government, in consultation with the Central Authority, hereby increases the limit of the value of
+the property in dispute for the purpose of determining the jurisdiction of Permanent Lok Adalat to
+―one crore rupees(cid:129) with effect from the date of publication of this notification in the Official
+Gazette.(cid:129) PART C formulate the terms of such settlement and present it to the parties. If the parties
+are agreeable to the terms of the settlement, the Permanent Lok Adalat shall pass an award
+incorporating those terms and provide a copy to each party. Finally, if the parties fail to reach an
+agreement under sub-Section (7), the Permanent Lok Adalat can decide the dispute on merits under
+sub-Section (8), if the dispute does not relate to any offence.
+
+19 Section 22-D15 stipulates that while conducting conciliation proceedings or deciding the dispute
+on its merits, the Permanent Lok Adalat shall ―be guided by the principles of natural justice,
+objectivity, fair play, equity and other principles of justice(cid:129) and shall not be bound by the CPC and
+the Indian Evidence Act 1872. 20 Section 22-E relates to the award of the Permanent Lok Adalat,
+and provides that:
+
+―22-E. Award of Permanent Lok Adalat to be final.—(1) Every award of the
+Permanent Lok Adalat under this Act made either on merit or in terms of a
+settlement agreement shall be final and binding on all the parties thereto and on
+persons claiming under them.
+
+(2) Every award of the Permanent Lok Adalat under this Act shall be deemed to be a
+decree of a civil court.
+
+12
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+(3) The award made by the Permanent Lok Adalat under this Act shall be by a
+majority of the persons constituting the Permanent Lok Adalat.
+
+(4) Every award made by the Permanent Lok Adalat under this Act shall be final and
+shall not be called in question in any original suit, application or execution
+proceeding.
+
+―22-D. Procedure of Permanent Lok Adalat.—The Permanent Lok Adalat shall, while conducting
+conciliation proceedings or deciding a dispute on merit under this Act, be guided by the principles of
+natural justice, objectivity, fair play, equity and other principles of justice, and shall not be bound by
+the Code of Civil Procedure, 1908 (5 of 1908) and the Indian Evidence Act, 1872 (1 of 1872).(cid:129) PART
+C (5) The Permanent Lok Adalat may transmit any award made by it to a civil court having local
+jurisdiction and such civil court shall execute the order as if it were a decree made by that court.(cid:129)
+Sub-Section (1) of Section 22-E stipulates that the award of the Permanent Lok Adalat, whether
+arising out of a settlement agreement or after deciding the merits of the dispute, shall be final and
+binding on all parties and any persons claiming under them. Sub-Section (2) provides that the
+award of the Permanent Lok Adalat shall be deemed to be a decree of a civil court. Sub-Section (3)
+provides that every award of the Permanent Lok Adalat shall be decided by a majority of its
+constituent members. Sub-Section (4) reiterates that the award shall be final and shall not be called
+in question in any original suit, application or execution proceeding. Finally, sub- Section (5)
+stipulates that the Permanent Lok Adalat may transmit an award made by it to a civil court having
+local jurisdiction, and such civil court shall execute the order as if it were a decree made by that
+court.
+
+21 The above survey of the provisions of the LSA Act indicates that there are similarities between
+Lok Adalats and Permanent Lok Adalats: (i) they can both attempt conciliation proceedings with the
+parties before them, and can pass awards recording the terms of settlement agreed upon by the
+parties (Section 20(3) and 22- C(7)); (ii) in doing do, they are both bound by principles of justice,
+equity, fair play and other legal principles (Section 20(4) and 22-D); and (iii) their awards, deemed
+to be decrees of courts, will be final and cannot be challenged in an appeal (Section 21 PART C and
+22-E). Yet, despite these similarities, there are crucial differences under the statute.
+
+22 While the jurisdiction of the Permanent Lok Adalat is limited to disputes regarding public utility
+services, crucially, its powers are wider than the Lok Adalat in many respects:
+
+(i) Parties can approach Permanent Lok Adalats directly under Section 22-C(1), while
+Lok Adalats are sent their cases by courts where the dispute is pending (under
+Section 20(1)) or by the Authority or Committee organising the Lok Adalat under
+Section 19(1) after they receive it from the parties (under Section 20(2)). Indeed, an
+application made to the Permanent Lok Adalat ousts the jurisdiction of a civil court
+(under Section 22-C(2));
+
+(ii) Permanent Lok Adalats can direct the parties to submit written submissions,
+replies, evidence and documents (Section 22-C(3));
+
+13
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+(iii) Other then attempting conciliation with parties, the Permanent Lok Adalats can
+also decide a dispute on its merits if the settlement fails (Section-C(7));
+
+and
+
+(iv) Permanent Lok Adalats can transmit an award made to a civil court having local jurisdiction,
+and such civil court shall execute the order as if it were a decree made by that court (Section
+22-E(5)).
+
+The entrustment of wider powers to the Permanent Lok Adalat is supported by its membership,
+comprising of a District Judge or Additional District Judge or someone PART C who has held
+judicial office higher in rank than that of a District Judge (as compared to only judicial officers in
+Lok Adalats).
+
+C.2    Mandatory nature of conciliation proceedings
+
+23     We must now address the first issue, i.e., whether the conciliation
+
+proceedings before the Permanent Lok Adalats are mandatory before it can decide a dispute on its
+merits.
+
+24 This issue is clearly resolved from a bare reading of Section 22-C. Section 22- C provides a
+step-by-step scheme on how a matter is to proceed before the Permanent Lok Adalat. The first step
+is the filing of the application which ousts the jurisdiction of other civil courts, in accordance with
+sub-Sections (1) and (2). The second step is the parties filing requisite submissions and documents
+before the Permanent Lok Adalat, in accordance with sub-Section (3). On the completion of the
+third step to its satisfaction, the Permanent Lok Adalat can move to the fourth step of attempting
+conciliation between the parties, in accordance with sub-Sections (4), (5) and (6). Subsequently, in
+the fifth step in accordance with sub-Section (7), the Permanent Lok Adalat has to draw up terms of
+settlement on the basis of the conciliation proceedings, and propose them to the parties. If the
+parties agree, the Permanent Lok Adalat has to pass an award on the basis of the agreed upon terms
+of settlement. Only if the parties fail to reach an agreement on the fifth step, can the Permanent Lok
+Adalat proceed to the final step and decide the dispute on its merits. PART C 25 Such an
+interpretation is also supported by the decision of a two-Judge Bench of this Court in Bar Council of
+India (supra), where the constitutionality of Chapter VI-A of the LSA Act was upheld. Speaking for
+the Bench, Justice R M Lodha highlighted that the Permanent Lok Adalats would proceed to
+adjudication of a dispute on its merits only after attempting and failing to generate a settlement
+between the parties:
+
+―22. Chapter VI-A inserted by the 2002 Amendment Act in the 1987 Act, as its title
+suggests, provides for pre-litigation conciliation and settlement procedure…The
+disputes in relation to public utility service need urgent attention with focus on their
+resolution at the threshold by conciliation and settlement and if for any reason such
+
+14
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+effort fails, then to have such disputes adjudicated through an appropriate
+mechanism as early as may be possible…
+
+23. The Statement of Objects and Reasons itself spells out the salient features of
+Chapter VI-A. By bringing in this law, the litigation concerning public utility service
+is sought to be nipped in the bud by first affording the parties to such dispute an
+opportunity to settle their dispute through the endeavours of the Permanent Lok
+Adalat and if such effort fails then to have the dispute between the parties
+adjudicated through the decision of the Permanent Lok Adalat… […]
+
+26. It is necessary to bear in mind that the disputes relating to public utility services have been
+entrusted to Permanent Lok Adalats only if the process of conciliation and settlement fails. The
+emphasis is on settlement in respect of disputes concerning public utility services through the
+medium of Permanent Lok Adalat. It is for this reason that sub-section (1) of Section 22-C states in
+no unambiguous terms that any party to a dispute may before the dispute is brought before any
+court make an application to the Permanent Lok Adalat for settlement of dispute. Thus, settlement
+of dispute between the parties in matters of public utility services is the main theme. However,
+where despite the endeavours and efforts of the Permanent Lok PART C Adalat the settlement
+between the parties is not through and the parties are required to have their dispute determined and
+adjudicated, to avoid delay in adjudication of disputes relating to public utility services, Parliament
+has intervened and conferred power of adjudication upon the Permanent Lok Adalat.(cid:129) (emphasis
+supplied) 26 The appellant’s argument, however, is that if the opposite party does not appear before
+the Permanent Lok Adalat, it can dispense with the conciliation proceedings and straightaway
+adjudicate the dispute under Section 22-C(8). We are unable to accept this submission. Even if the
+opposite party does not appear, the Permanent Lok Adalat is still bound to follow the step-by-step
+procedure laid down by Section 22-C. Under Section 22-C(3), it would require the party before it to
+file their submissions and documents, and make the best efforts to communicate them to the
+opposite party for their response. If it is satisfied that no response is forthcoming from the absent
+opposite party, the Permanent Lok Adalat shall still attempt to settle the dispute through settlement
+under Section 22-C(4). It is important to remember that Section 22-C(5) imposes a duty upon the
+Permanent Lok Adalat to be independent and impartial in attempting to amicably settle the dispute,
+while Section 22-C(6) imposes a duty upon the party present before the Permanent Lok Adalat to
+cooperate in good faith and assist the Permanent Lok Adalat. Thereafter, the Permanent Lok Adalat,
+based on the materials before it, shall propose terms of settlement and communicate them to both
+parties, regardless of whether they participated in the proceedings. If the party present before the
+Permanent Lok Adalat does not agree or if the absent party does not respond in a PART C sufficient
+period of time, only then can the Permanent Lok Adalat adjudicate the dispute on its merits under
+Section 22-C(8). Keeping in mind the principles enshrined in Section 22-D, the Permanent Lok
+Adalat shall once again notify the absent party of its decision to adjudicate the dispute on its merits,
+in case it wishes to join the proceedings at that stage.
+
+27 Section 22-C(8) is amply clear that it only comes into effect once an agreement under Section
+22-C(7) has failed. The corollary of this is that the proposed terms of settlement under Section
+22-C(7), and the conciliation proceedings preceding it, are mandatory. If Permanent Lok Adalats are
+
+15
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+allowed to bypass this step just because a party is absent, it would be tantamount to deciding
+disputes on their merit ex parte and issuing awards which will be final, binding and will be deemed
+to be decrees of civil courts. This was simply not the intention of the Parliament when it introduced
+the LSA Amendment Act. Its main goal was still the conciliation and settlement of disputes in
+relation to public utilities, with a decision on merits always being the last resort. Therefore, we hold
+that conciliation proceedings under Section 22-C of the LSA Act are mandatory in nature. C.3
+Whether Permanent Lok Adalat has adjudicatory functions 28 The second issue which is in
+contention before this Court is whether the Permanent Lok Adalat has any adjudicatory function. As
+highlighted in the Objects and Reasons accompanying the LSA Amendment Act, its introduction led
+to the PART C creation of two different types of Lok Adalats. The first is a Lok Adalat constituted
+under Section 19 of the LSA Act, having no adjudicatory power, which can only conduct conciliatory
+proceedings. The second is a Permanent Lok Adalat, established under Section 22-B(1) of the LSA
+Act in respect of public utility services, which can carry out both conciliatory and adjudicatory
+functions, subject to the procedure to be followed under Section 22-C of the LSA Act. The scheme of
+the LSA Act makes clear the distinction between the two types of Lok Adalats. Section 20 of the LSA
+Act provides that the Lok Adalat shall aim to arrive at a compromise or settlement between the
+parties. If no such compromise or settlement is arrived at, then the record of the case is returned to
+the court from which the Lok Adalat had received the reference. The court would then proceed to
+adjudicate the dispute. On the other hand, Section 22-C of the LSA Act provides that a party to a
+dispute, prior to bringing a dispute before the court, i.e., at the pre-litigation stage, can make an
+application to a Permanent Lok Adalat for the settlement of a dispute. The Permanent Lok Adalat
+would first conduct conciliation proceedings and attempt to reach an amicable settlement of the
+dispute. However, if the parties fail to reach an agreement, it shall decide the dispute, as long as the
+dispute does not relate to an offence. Section 22-D further indicates that the Permanent Lok Adalat
+is empowered to decide the dispute between the parties on merits.
+
+29 In United India Assurance Co. Ltd. v. Ajay Sinha & Ors.16, this Court held that the Permanent
+Lok Adalat performs an adjudicatory role if the conciliation (2008) 7 SCC 454 PART C between the
+parties fails. Elucidating on the power of the Permanent Lok Adalat, this Court observed as follows:
+
+―25. Chapter VI-A stands independently. Whereas the heading of the Chapter talks of
+pre-litigation, conciliation and settlement, Section 22-C(8) of the Act speaks of
+determination. It creates another adjudicatory authority, the decision of which by a
+legal fiction would be a decision of a civil court. It has the right to decide a case. The
+term ―decide(cid:129) means to determine; to form a definite opinion; to render judgment.
+(See Advanced Law Lexicon, 3rd Edn., 2005 at p. 1253.) Any award made by the
+Permanent Lok Adalat is executable as a decree. No appeal thereagainst shall lie. The
+decision of the Permanent Lok Adalat is final and binding on the parties. Whereas on
+the one hand, keeping in view the parliamentary intent, settlement of all disputes
+through negotiation, conciliation, mediation, Lok Adalat and judicial settlement are
+required to be encouraged, it is equally well settled that where the jurisdiction of a
+court is sought to be taken away, the statutory provisions deserve strict construction.
+A balance is thus required to be struck. A court of law can be created under a statute.
+It must have the requisite infrastructure therefor. Independence and impartiality of
+
+16
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+Tribunal being a part of human right is required to be taken into consideration for
+construction of such a provision. When a court is created, the incumbents must be
+eligible to determine the lis.
+
+[…] …the Permanent Lok Adalat does not simply adopt the role of an arbitrator
+whose award could be the subject-matter of challenge but also the role of an
+adjudicator. Parliament has given the authority to the Permanent Lok Adalat to
+decide the matter. It has an adjudicating role to play.(cid:129) Likewise, in Inter Globe
+Aviation v. N Satchidanand17, this Court observed that the Permanent Lok Adalat’s
+role mutates from that of a conciliatory body to an (2011) 7 SCC 463, paragraph 27
+PART C adjudicatory body, if the parties fail to reach an agreement, where it can
+decide the dispute between the parties.
+
+30 In Bar Council of India (supra), this Court held that the power of the Permanent Lok Adalat to
+adjudicate disputes at a pre-litigation stage in terms of Section 22-C(8) is constitutional. This Court
+observed thus:
+
+―26. It is necessary to bear in mind that the disputes relating to public utility services
+have been entrusted to Permanent Lok Adalats only if the process of conciliation and
+settlement fails. The emphasis is on settlement in respect of disputes concerning
+public utility services through the medium of Permanent Lok Adalat. It is for this
+reason that sub-section (1) of Section 22-C states in no unambiguous terms that any
+party to a dispute may before the dispute is brought before any court make an
+application to the Permanent Lok Adalat for settlement of dispute. Thus, settlement
+of dispute between the parties in matters of public utility services is the main theme.
+However, where despite the endeavours and efforts of the Permanent Lok Adalat the
+settlement between the parties is not through and the parties are required to have
+their dispute determined and adjudicated, to avoid delay in adjudication of disputes
+relating to public utility services, Parliament has intervened and conferred power of
+adjudication upon the Permanent Lok Adalat.
+
+27. Can the power conferred on Permanent Lok Adalats to adjudicate the disputes between the
+parties concerning public utility service up to a specific pecuniary limit, if they do not relate to any
+offence, as provided under Section 22-C(8), be said to be unconstitutional and irrational? We think
+not. It is settled law that an authority empowered to adjudicate the disputes between the parties and
+act as a tribunal may not necessarily have all the trappings of the court. What is essential is that it
+must be a creature of statute and should adjudicate the dispute between the parties before it after
+giving reasonable opportunity to them consistent with the principles of fair play and natural justice.
+It is not a constitutional right of any person to have the dispute adjudicated by means of a court
+only. Chapter VI-A has PART D been enacted to provide for an institutional mechanism, through the
+establishment of Permanent Lok Adalats for settlement of disputes concerning public utility service
+before the matter is brought to the court and in the event of failure to reach any settlement,
+empowering the Permanent Lok Adalat to adjudicate such dispute if it does not relate to any
+offence.(cid:129) (emphasis supplied) 31 We reiterate that the powers of the Lok Adalat constituted under
+
+17
+
+Canara Bank vs G.S. Jayarama on 19 May, 2022
+
+Section 19 of the LSA Act are to be distinguished from the nature of powers granted to a Permanent
+Lok Adalat established under Section 22-B of the LSA Act. It is in the context of interpreting the
+jurisdiction of Lok Adalats constituted under Section 19 of the LSA Act, that this Court has held that
+the Lok Adalat cannot perform any adjudicatory function in terms of Section 20 of the LSA Act18.
+
+D       Conclusion
+
+32      The Single Judge of the Karnataka High Court in the order dated 3 July 2019
+
+observed that the Permanent Lok Adalat has no adjudicatory function. This finding of the Single
+Judge was upheld by the Division Bench of the Karnataka High Court in its impugned judgement
+dated 6 March 2021 where it observed that the Permanent Lok Adalat cannot act as a regular civil
+court in adjudicating the dispute between the parties. Based on our analysis of the LSA Act and
+precedents of this Court, such an Life Insurance Corporation of India v. Suresh Kumar (2011) 7 SCC
+491; State of Punjab v. Jalour Singh & Ors. (2008) 2 SCC 660; Estate Officer v. Colonel HV
+Mankotia (2021) SCC OnLine SC 898; and New Okhla Industrial Development Authority v. Yunus
+and Ors. (2022) SCC OnLine SC 138 PART D understanding is clearly incorrect. Therefore, we hold
+that these observations of the Single Judge and Division Bench of the Karnataka High Court were
+incorrect. 33 At the same time, the Division Bench in its impugned judgement also noted that the
+Permanent Lok Adalat failed to follow the mandatory conciliation proceedings in the present case.
+This observation is correct since the award of the Permanent Lok Adalat does not indicate any
+attempt made by it to propose terms of settlement to the parties and their rejection. It states that
+once the respondent and his guarantor did not appear, it adjudicated the dispute on merits in favour
+of the respondent. For the reasons mentioned earlier in this judgment, the Permanent Lok Adalat
+could not have done so. Therefore, on this point only, we uphold the final judgment of the Division
+Bench setting aside the award dated 19 November 2014 of the Permanent Lok Adalat.
+
+34 Consequently, we hold that the observations of the Division Bench in the impugned judgment in
+respect of the adjudicatory powers of the Permanent Lok Adalats were incorrect, while upholding its
+ultimate conclusion since the Permanent Lok Adalat failed to follow the mandatory conciliation
+proceedings in the present case. We make it clear that we have not made any observations on the
+merits of the dispute between the parties, and all rights and contentions of the parties are kept open.
+
+PART D 35 In the circumstances of the case, there shall be no order as to costs. 36 Pending
+application(s), if any, stand disposed of.
+
+. . … … … … . . . … . . . … . . . . . . . … … … … … … . . . . . . . . J .   [ D r   D h a n a n j a y a   Y   C h a n d r a c h u d ]
+…...…..…....…........……………….…........J. [Pamidighantam Sri Narasimha] New Delhi;
+
+May 19, 2022
+
+18

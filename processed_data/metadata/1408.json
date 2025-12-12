@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal No. 1669 of 2009",
+  "parties": {
+    "petitioner": "Neeraj Dutta",
+    "respondent": "State (Govt. of N.C.T. of Delhi)"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-15",
+  "summary": "The case involves a reference to a Constitution Bench to resolve a conflict in legal precedent regarding the evidentiary requirements for conviction under Sections 7 and 13(1)(d) of the Prevention of Corruption Act, 1988. The key issue is whether, in the absence of direct or primary evidence from the complainant (due to death or hostility), inferential deductions can be used to establish the demand for illegal gratification. The Court examined conflicting judgments including P. Satyanarayana Murthy and M. Narsinga Rao, focusing on whether a conviction can be sustained based on circumstantial evidence when the complainant is unavailable. It emphasized that proof of demand is essential to trigger the presumption under Section 20 of the Act, and mere acceptance or recovery of money without proof of demand is insufficient for conviction.",
+  "legal_provisions_cited": [
+    "Prevention of Corruption Act, 1988, Sections 7, 13(1)(d), 13(2), and Section 20",
+    "Indian Evidence Act (relevant provisions on inference and burden of proof)",
+    "P. Satyanarayana Murthy vs. District Inspector of Police, State of Andhra Pradesh and another, (2015) 10 SCC 152",
+    "M. Narsinga Rao vs. State of A.P., (2001) 1 SCC 691",
+    "Kishan Chand Mangal vs. State of Rajasthan, (1982) 3 SCC 466",
+    "Hazari Lal vs. State (Delhi Administration), (1980) 2 SCC 390",
+    "B. Jayaraj vs. State of Andhra Pradesh, (2014) 13 SCC 55"
+  ],
+  "final_judgment": "The case was referred to a Constitution Bench of five judges to settle the legal question concerning the permissibility of drawing inferential deductions to establish guilt under the Prevention of Corruption Act in the absence of direct evidence from the complainant."
+}

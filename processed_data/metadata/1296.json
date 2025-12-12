@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 3072 of 2022",
+  "parties": {
+    "petitioner": "Ibrat Faizan",
+    "respondent": "Omaxe Buildhome Private Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-13",
+  "summary": "The key issue was whether a writ petition under Article 227 of the Constitution is maintainable against an order of the National Consumer Disputes Redressal Commission (NCDRC) in an appeal under Section 58(1)(a)(iii) of the Consumer Protection Act, 2019. The High Court had held such jurisdiction to be maintainable, and the appellant challenged this, arguing that Article 227 jurisdiction is barred when alternate remedies exist. The respondent contended that no statutory appeal lies to the Supreme Court under Section 67 against NCDRC appellate orders, rendering Article 227 jurisdiction valid. The Court examined the interplay between statutory remedies and constitutional jurisdiction, referencing Associated Cement Companies Ltd. v. P.N. Sharma and L. Chandra Kumar v. Union of India.",
+  "legal_provisions_cited": [
+    "Article 227 of the Constitution of India",
+    "Section 58(1)(a)(iii) of the Consumer Protection Act, 2019",
+    "Section 67 of the Consumer Protection Act, 2019",
+    "AIR 1965 SC 1595",
+    "1997 3 SCC 261"
+  ],
+  "final_judgment": "The Supreme Court reserved its decision on the maintainability of writ petitions under Article 227 against NCDRC orders in appeals under Section 58(1)(a)(iii) of the 2019 Act, pending further examination of statutory exclusivity and constitutional jurisdiction."
+}

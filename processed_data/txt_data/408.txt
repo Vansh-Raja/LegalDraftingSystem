@@ -1,0 +1,1401 @@
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+Airports Economic Regulatory ... vs Delhi International Airport
+Ltd on 18 October, 2024
+
+Author: Dhananjaya Y Chandrachud
+
+Bench: Dhananjaya Y Chandrachud
+
+                                                                               Reportable
+2024 INSC 791
+
+                                IN THE SUPREME COURT OF INDIA
+                                 CIVIL APPELLATE JURISDICTION
+
+                                Civil Appeal Nos. 3098-3099 of 2023
+
+             Airports Economic Regulatory Authority of India            …Appellant
+
+                                               Versus
+
+             Delhi International Airport Ltd. & Ors.                   …Respondents
+
+With Civil Appeal Nos.1798-1799 of 2021 With Civil Appeal No.1806 of 2021 With Civil Appeal Nos.
+10668-10670 of 2024 With Civil Appeal Nos. 3697-3698 of 2022 With With With 14:43:55 IST
+Reason:
+
+Civil Appeal Nos.10691-10692 of 2024 With With And With JUDGMENT Dr
+D h a n a n j a y a   Y   C h a n d r a c h u d ,   C J I   I N D E X   A .   S t a t u t o r y   B a c k g r o u n d
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4   B .
+Submissions................................................................................................ 11 C. Issues
+....................................................................................................... 14 D. Analysis
+....................................................................................................... 15 i. Authorities
+e x e r c i s i n g   ‘ a d j u d i c a t o r y   f u n c t i o n s ’   c a n n o t   d e f e n d   t h e i r   o r d e r s   i n
+appeal.............................................................................................. 15 ii. Necessary and
+proper parties in regulatory proceedings ................... 21 iii. The test of quasi-judicial
+functions: A misnomer................................. 29 iv. The test for determining an
+‘ a d j u d i c a t o r y   f u n c t i o n ’ :   E x p l o r i n g   S i t a r a m   S u g a r
+............................................................................................................... 36 v. Whether
+t a r i f f   d e t e r m i n a t i o n   i s   a n   a d j u d i c a t o r y   f u n c t i o n :   P T C   a n d   G R I D C O
+........................................................................................................... 39 vi. Tariff
+determination for aeronautical services by AERA is a regulatory function
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+1
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+........................................................................................................... 43 vii.
+Interpretation of Sections 18 and 31 of the AERA Act ...................... 49 E. Conclusion
+.................................................................................................. 53 PART A
+
+1. Airports Economic Regulatory Authority1 has instituted proceedings under Section
+31 of the Airport Economic Regulatory Authority of India Act 20082 for challenging
+the judgments of the Telecom Disputes Settlement and Appellate Tribunal3. TDSAT
+is the Appellate Tribunal for the purposes of the AERA Act and it has the competence
+to hear appeals against orders of AERA. The respondents have raised a preliminary
+objection to the maintainability of the appeals on the ground that AERA, which is a
+quasi-judicial body, cannot file an appeal against the judgment of TDSAT. This
+judgment disposes of the preliminary issue of whether the appeals filed by AERA
+under Section 31 of the AERA Act are maintainable.
+
+A. Statutory Background
+
+2. The long title of the AERA Act provides that it is an Act to establish AERA and to a) regulate tariff
+and other charges for aeronautical services rendered at airports; (b) monitor performance standards
+of airports; and (c) for other incidental and connected matters.4 The Act applies to all airports
+where air transport services are operated or are intended to be operated, other than airports in the
+control of the Armed Forces or paramilitary forces of the Union.5 “AERA” “AERA Act” “TDSAT” “An
+Act to provide for the establishment of an Airports Economic Regulatory Authority to regulate tariff
+and other charges for the aeronautical services rendered at airports and to monitor performance
+standards of airports and for matters connected therewith or incidental thereto.” AERA Act; Section
+1(3)(a) PART A The Act also applies to all private and leased airports6, all civil enclaves7 and all
+major airports8.
+
+3. Section 3 of the AERA Act stipulates that the Central Government must, by a notification,
+establish AERA within three months from the date of commencement of the Act. By a notification
+dated 12 May 2009, the Central Government established AERA. Section 13 of the AERA Act
+prescribes the functions of AERA. AERA must perform the following functions in respect of major
+airports:
+
+a. Determine tariff for aeronautical services [Section 13(1)(a)]; b. Determine the
+amount of development fees [Section 13(1)(b)]; c. Determine the passengers service
+fee levied under Rule 88 of the Aircraft Rules 1937 notified under the Aircraft Act
+1934 [Section 13(1)(c)];
+
+d. Monitor the performance standards relating to quality, continuity and reliability of
+service as specified by the Central Government or any other authority authorised by it
+[Section 13(1)(d)]; e. Call for information necessary to determine the tariff [Section
+13(1)(e)]; and f. Perform such other functions relating to tariff which may be
+entrusted to it by the Central Government or which may be necessary to carry out the
+provisions of the Act [Section 13(1)(f)].
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+2
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+AERA Act; Section 1(3)(b) AERA Act; Section 1(3)(c) AERA Act; Section 1(3)(d)
+PART A
+
+4. Section 13(1)(a) also prescribes the factors which AERA must take into consideration to
+“determine” tariff. The following are the seven factors provided by the provision:
+
+a. The capital expenditure incurred and timely investment in improvement of airport
+facilities;
+
+b. The service provided, its quality and other relevant factors; c. The cost of
+improving efficiency;
+
+d. Economic and viable operation of major airports; e. Revenue received from
+services other than aeronautical services; f. The concession offered by the Central
+Government in any agreement or memorandum of understanding or otherwise; and
+g. Any other factor which may be relevant for the purposes of this Act. The proviso to
+Section 13(1)(a) provides that different tariff structures may be determined for
+different airports, having regard to all or any of the considerations stipulated in the
+provision.
+
+5. Section 13(2) provides that AERA must determine the tariff once in five years and may amend the
+tariff at any time within the five years in public interest.9 Section 13 (1A) provides that
+notwithstanding anything in Clauses (1) and (2) of Section 13, AERA will not determine the tariff or
+the structure of tariff or the development fees if it is incorporated in the bidding document which is
+the basis for award of operatorship.10 However, the proviso to Section 13(1A)  13(2): “The Authority
+shall determine the tariff once in every five years and may if so considered appropriate and in public
+interest, amend, from time to time during the said period of five years, the tariff so determined.”
+AERA Act; Section 13(1A) PART A requires AERA to be “consulted” in advance regarding the tariff
+or development fee which is proposed to be included in the bidding document and such fee is
+required to be notified in the Official Gazette.11 Section 13(3) provides that AERA is required to act
+in the interest of the sovereignty and integrity of India, the security of the State, friendly relations
+with foreign states, public order, decency or morality while discharging its functions.12 Section
+13(4) provides that AERA while discharging its functions must ensure transparency by, inter alia, (a)
+holding due consultations with all stake-holders with the airport; (b) allowing all stake-holders to
+make submissions before it; and (c) making all decisions of the Authority fully documented and
+explained.
+
+6. Section 2(a) defines “aeronautical service” as the service provided for the following:
+
+a. For navigation, surveillance and supportive communication for air traffic
+management;
+
+b. For the landing, housing or parking of an aircraft or any other ground facility
+offered in connection with aircraft operations at an airport; c. For ground safety
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+3
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+services at an airport;
+
+d. For ground handling services relating to aircraft, passengers and cargo at an
+airport;
+
+e. For the cargo facility at an airport;
+
+f. For supplying fuel to the aircraft at an airport; and g. For stake holder at an airport.
+
+AERA Act; proviso to Section 13(1A) AERA Act; Section 13(3) PART A
+
+7. Section 14 confers AERA with the power to call for an information and conduct investigation
+regarding the activities of a service provider. The provision confers it with the power to do the
+following by an order in writing:
+
+a. Call upon the service provider to furnish in writing such information or
+explanation relating to its functions to access the performance of the service
+provider;
+
+b. Appoint persons to inquire into the affairs of a service provider; c. Direct the
+inspection of book of accounts or other documents of any service provider; and d.
+Issue directions to monitor the performance of service providers.
+
+8. The service provider is bound to produce all books of account and documents relating to the
+subject matter of the inquiry and furnish such statement or information. Section 15 confers AERA
+with the power to issue directions to service providers to discharge its functions under the Act.13
+
+9. Section 17 provides that TDSAT established under the Telecom Regulatory Authority of India Act
+1997 will be the Appellate Tribunal for the purposes of the AERA Act. TDSAT exercises original
+jurisdiction and appellate jurisdiction under the Act. Section 17(a) confers TDSAT with the original
+jurisdiction to adjudicate any dispute that arises between (a) service providers; or (b) service
+providers and consumers. The proviso to the Clause states that TDSAT can obtain the opinion of
+AERA on any matter relating the above “15. Power of Authority to issue directions.- The Authority
+may, for the purpose of discharge of its functions under this Act, issue, from time to time to the
+service providers, such directions, as it may consider necessary.” PART A disputes. Section 17(b)
+confers TDSAT with appellate jurisdiction over “any direction, decision or order” of AERA.14
+
+10. Section 18 of the AERA Act deals with the procedure for settlement of disputes and appeals to
+the Appellate Tribunal. Sub-sections (1) and (2) of Section 18 provide that the Central Government,
+the State Government, a Local Authority or any person may make an application for adjudication of
+a dispute covered by Section 17(a) or prefer an appeal against the order of AERA. Section 18(4)
+stipulates that TDSAT must pass orders after giving the “parties to the dispute or the appeal” the
+opportunity of being heard. Section 18(5) provides that TDSAT must send a copy of the order to the
+parties to the dispute or the appeal and the Authority, “as the case may be”:
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+4
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+“(5) The Appellate Tribunal shall send a copy of every order made by it to the parties
+to the dispute or the appeal and to the Authority, as the case may be.” (emphasis
+supplied) “Appellate Tribunal.- The Telecom Disputes Settlement and Appellate
+Tribunal established under section 14 of the Telecom Regulatory Authority of India
+Act, 1997 (24 of 1997) shall, on and from the commencement of Part XIV of Chapter
+VI of the Finance Act, 2017 (7 of 2017), be the Appellate Tribunal for the purposes of
+this Act and the said Appellate Tribunal shall exercise the jurisdiction, powers and
+authority conferred on it by or under this Act] to—
+
+(a) adjudicate any dispute—
+
+(i) between two or more service providers;
+
+(ii) between a service provider and a group of consumer:
+
+Provided that the Appellate Tribunal may, if considers appropriate, obtain the
+opinion of the Authority on any matter relating to such dispute:
+
+Provided further that nothing in this clause shall apply in respect of matters—
+
+(i) relating to the monopolistic trade practice, restrictive trade practice and unfair
+trade practice which are subject to the jurisdiction of the Monopolies and Restrictive
+Trade Practices Commission established under sub-section (1) of section 5 of the
+Monopolies and Restrictive Trade Practices Act, 1969 (54 of 1969);
+
+(ii) relating to the complaint of an individual consumer maintainable before a
+Consumer Disputes Redressal Forum or a Consumer Disputes Redressal Commission
+or the National Consumer Redressal Commission established under section 9 of the
+Consumer Protection Act, 1986 (68 of 1986);
+
+(iii) Which are within the purview of the Competition Act, 2002 (12 of 2003);
+
+(iv) relating to an order of eviction which is appealable under section 28K of the
+Airports Authority of India Act, 1994 (55 of 1994).
+
+(b) hear and dispose of appeal against any direction, decision or order of the
+Authority under this Act.
+
+PART A
+
+11. In terms of sub-section (6), TDSAT must endeavour to dispose the application or the appeal
+within ninety days of the receipt of it. It must record reasons in writing if it is unable to dispose the
+application within the specified period. Sub-section (7) provides that TDSAT may call for the records
+relevant to disposing the appeal or application15.
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+5
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+12. Section 31(1) provides that notwithstanding anything contained in the Code of Civil Procedure
+190816 or any other law, an appeal will lie against the order of the Tribunal to the Supreme Court on
+one or more of the grounds stipulated in Section 100 of CPC.17 “18. Application for settlement of
+disputes and appeals to Appellate Tribunal.—(1) The Central Government or a State Government or
+a local authority or any person may make an application to the Appellate Tribunal for adjudication
+of any dispute as referred to in clause (a) of section 17. (2) The Central Government or a State
+Government or a local authority or any person aggrieved by any direction, decision or order made by
+the Authority may prefer an appeal to the Appellate Tribunal. (3) Every appeal under sub-section (2)
+shall be preferred within a period of thirty days from the date on which a copy of the direction or
+order or decision made by the Authority is received by the Central Government or the State
+Government or the local authority or the aggrieved person and it shall be in such form, verified in
+such manner and be accompanied by such fee as may be prescribed:
+
+Provided that the Appellate Tribunal may entertain any appeal after the expiry of the
+said period of thirty days if it is satisfied that there was sufficient cause for not filing
+it within that period. (4) On receipt of an application under sub-section (1) or an
+appeal under sub-section (2), the Appellate Tribunal may, after giving the parties to
+the dispute or the appeal an opportunity of being heard, pass such orders thereon as
+it thinks fit.
+
+(5) The Appellate Tribunal shall send a copy of every order made by it to the parties
+to the dispute or the appeal and to the Authority, as the case may be. (6) The
+application made under sub-section (1) or the appeal preferred under sub-section (2)
+shall be dealt with by it as expeditiously as possible and endeavour shall be made by
+it to dispose of the application or appeal finally within ninety days from the date of
+receipt of application or appeal, as the case may be:
+
+Provided that where any such application or appeal could not be disposed of within
+the said period of ninety days, the Appellate Tribunal shall record its reasons in
+writing for not disposing of the application or appeal within that period.
+
+(7) The Appellate Tribunal may, for the purpose of examining the legality or propriety
+or correctness, of any dispute made in any application under sub-section (1), or of
+any direction or order or decision of the Authority referred to in the appeal preferred
+under sub-section (2), on its own motion or otherwise, call for the records relevant to
+disposing of such application or appeal and make such orders as it thinks fit.” “CPC”
+“31. Appeal to Supreme Court.—(1) Notwithstanding anything contained in the Code
+of Civil Procedure, 1908 (5 of 1908) or in any other law, an appeal shall lie against
+any order, not being an interlocutory order, of the Appellate Tribunal to the Supreme
+Court on one or more of the grounds specified in section 100 of that Code.” PART B
+B. Submissions
+
+13. Mr K K Venugopal, Dr Abhishek Manu Singhvi, Mr Arvind Datar and Mr Prashanto Chandra
+Sen, Senior Counsel, and Ms Neelam Rathore, counsel appeared for the respondents. They
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+6
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+submitted that the appeal filed by AERA is not maintainable for the following reasons:
+
+a. AERA which is a tariff fixing authority, cannot be an “aggrieved party” at any stage
+of the proceedings. Since it cannot file an appeal before TDSAT, it also cannot file an
+appeal before this Court under Section 31 of the Act assailing the order of TDSAT.
+Section 18(2) provides that “any person” aggrieved by any direction, decision or order
+made by the Authority may prefer an appeal to TDSAT. AERA will not be covered by
+the expression “any person” since that would amount to AERA challenging its own
+order;
+
+b. AERA cannot defend its own actions in the appeal against its order since tariff determination is a
+quasi-judicial function:
+
+i. Numerous judgments of this Court have held that tariff determination is a
+quasi-judicial exercise (see PTC India v. Central Electricity Regulatory
+Commission18, BSES Rajdhani Power Limited v. Delhi Electricity Regulatory
+Commission19, Sitaram Sugar Co. Ltd v. Union of India20 (2010) 4 SCC 603 (2023)
+4 SCC 788 (1990) 3 SCC 223 PART B and GRIDCO v. Western Electricity Supply
+Company of Orissa Limited21);
+
+ii. The procedure followed by AERA while fixing tariff elucidates that it is a quasi-judicial exercise.
+Section 13(4) requires AERA to follow principles of natural justice before determining the tariff of
+aeronautical services;
+
+c. The AERA Act does not expressly provide that AERA must be impleaded as a respondent to the
+appeal against its order before TDSAT;
+
+d. The interests of affected parties will be safeguarded even if AERA does not file an appeal against
+the order of TDSAT under Section 31. Section 18(2) permits any aggrieved person or even the
+Central Government who may act as a parens patriae to prefer an appeal against the order of AERA,
+and by extension the order of TDSAT; e. Section 31 does not expressly empower AERA to file an
+appeal against the order of TDSAT, unlike Section 53T of the Competition Act 200222 which
+empowers the Competition Commission to prefer an appeal before the Supreme Court against an
+order of the Appellate Tribunal;
+
+2023 SCC Online 1249 “Competition Act” PART B f. Section 18(5) provides that TDSAT must send a
+copy of all its orders to (a) parties to the dispute or appeal; and (b) the Authority. The provision by
+specifying the Authority separately from the parties to the dispute or appeal clarifies that it cannot
+be a party to the dispute or appeal, and consequently cannot prefer an appeal; and g. TDSAT or this
+Court may have to remand matters back to AERA for redetermination of tariff. AERA cannot be
+both a contesting party and also redetermine tariff. It would result in the possible operation of bias.
+
+14. Mr Venkataramani, Attorney General for India and Mr Tushar Mehta, Solicitor General
+appearing for the Union Government, and Mr N Venkataraman, Additional Solicitor General
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+7
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+appearing for AERA made the following submissions:
+
+a. An association representing the passengers may not necessarily prefer appeals in
+every case. While stakeholders may be allowed to make submissions before AERA in
+terms of Section 13(4), there is no statutory obligation on them to contest disputes or
+maintain appeals. AERA is concerned with the outcome of the decision by TDSAT on,
+inter alia, ‘tariff determination’ in its own interest as a regulatory body and in the
+interest of the general public;
+
+b. AERA will always be a contesting respondent when an appeal against its order or
+direction is filed before TDSAT. It will be covered by the expression “parties to the
+appeal” in Section 18(5). However, it will not be a party to the dispute. It is to cover
+such situations that the PART C “Authority” has been separately referred. This is
+evident from the expression “as the case may be” in the provision; c. AERA is not a
+quasi-judicial authority. It is a regulator which performs multiple functions other
+than determination of tariff; d. Even assuming that AERA is a quasi-judicial
+authority, the embargo that applies to judicial authorities, that they cannot contest an
+appeal against their own orders, need not always apply to quasi-judicial authorities;
+
+e. A comparison cannot be made with Section 53T of the Competition Act. Section
+53T identifies the parties that can file an appeal, as opposed to Section 31 of the
+AERA Act which only mandates that “an appeal shall lie against any order, not being
+an interlocutory order of the Appellate Tribunal to the Supreme Court”; and f.
+Institutional bias is not recognised in Indian jurisprudence. An institution or
+authority is independent of its officers who act under it. C. Issues
+
+15. The following issues arise for the consideration of this Court:
+
+a. Whether AERA has a right to contest an appeal against its order determining tariff
+for aeronautical services before TDSAT, and then consequently prefer an appeal
+against the order of TDSAT before this Court under Section 31 of the AERA Act; and
+PART D b. Even if AERA does not have a right to contest an appeal against its order
+determining tariff for aeronautical services before TDSAT, does it have a right to
+prefer an appeal against the order of TDSAT before this Court in terms of Section 31
+of the AERA Act. D. Analysis i. Authorities exercising ‘adjudicatory functions’ cannot
+defend their orders in appeal
+
+16. The respondents referred to judgments of this Court and of various High Courts for the
+proposition that statutory authorities exercising quasi-judicial functions cannot defend their orders
+in appeal. Before we proceed to determine if AERA is a quasi-judicial authority, it is necessary that
+we first clarify the contours of this proposition.
+
+17. The judicial principle that a judicial or quasi-judicial authority must not be impleaded as a party
+to an appeal against its order is premised on two reasons, both rooted in constitutional philosophy.
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+8
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+The first reason is that with the impleadment of the judicial or quasi-judicial authorities as
+respondents, they will be required to justify their decision before the Appellate Court. This is
+contrary to the established principle that Judges only speak through their judgments. Any dilution
+of this principle would lead to a situation where every judicial authority would be called upon to
+justify their decisions in the Court of appeal. This would break down the entire edifice of the judicial
+system. PART D
+
+18. In Savitri Devi v. District Jugde, Gorakhpur23, a civil suit for maintenance was filed in the Court
+of the Munsif, Gorakhpur. The plaintiff filed a revision in the Court of the District Judge, Gorakhpur
+which was dismissed. The order of the District Judge was challenged in a writ petition before the
+High Court which was also dismissed. A Special Leave Petition was instituted assailing the order of
+the High Court. In the writ petition before the High Court and the Special Leave Petition before this
+Court, the District Judge, Gorakhpur and the 4th Additional Civil Judge (Junior Division) were
+impleaded as respondents and contesting respondents respectively. A three-Judge Bench of this
+Court deprecated the practice of impleading judicial officers who had disposed of “the matter in a
+civil proceeding”:
+
+“14. We do not approve of the course adopted by the petitioner which would cause
+unnecessary disturbance to the functions of the judicial officers concerned. They
+cannot be in any way equated to the officials of the Government. It is high time that
+the practice of impleading judicial officers disposing of civil proceedings as parties to
+writ petitions under Article 226 of the Constitution of India or special leave petitions
+under Article 136 of the Constitution of India was stopped. We are strongly
+deprecating such a practice.”
+
+19. In Md. Omer v. S Noorudin24, an appeal was preferred against an order of the Registrar of Trade
+Marks before the High Court of Bombay. The Solicitor General of India put an appearance for the
+Registrar. The Solicitor General submitted that “he appeared to help the Court by pointing out
+certain errors in (1999) 2 SCC 577 AIR 1952 Bom 165 PART D the judgment of the lower Court.” The
+Division Bench of the High Court of Judicature at Bombay held that though there are certain cases
+in which the Registrar should appear, this was not one such case. Chief Justice Chagla, writing for
+the Division Bench observed that the Solicitor General made a startling proposition by which the
+Judge of the Court of first instance appears before the Court of second appeal to argue that his
+judgment was correct and the judgment of the Court of the first appeal was wrong. The Bench
+observed that: (a) there may be cases in which the Registrar could be a contesting respondent; and
+(b) the Registrar acting as a Court of first instance cannot appear before the second appellate Court
+“merely” to point the errors in the judgment of the Court of first appeal.25
+
+20. The second reason for this principle is that the impleadment of the judicial authority as a
+respondent would contravene one of the primary tenets of natural justice, that an adjudicating
+authority must not be biased. It is in deviation of the principle that an authority exercising
+adjudicatory functions is required to be a ‘neutral arbitrator’ which does not have a ‘personal
+interest’ in the matter. In Jindal Therma Power Company Ltd. v. Karnataka Power “14. […] I have
+never heard of a Judge of first instance briefing counsel in a Court of appeal in order to point out
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+9
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+that the judgment of the lower appellate Court was wrong and his judgment was right. If this were
+the true principle, then every time we hear a second appeal we should look to being guided by the
+Judge of the trial Court appearing by counsel and telling us what the mistakes in the judgment of the
+lower Court are. We take it that this Court is sufficiently competent to find out for itself, with the
+guidance of the counsel of parties, as to what errors, if any, have been committed by the lower Court.
+We, therefore, think that it was entirely wrong on the part of the Registrar in this case to have
+appeared merely for the purpose of elucidating his own judgment and pointing out the errors in the
+judgment of the Court below. That is not the proper function of the Court of first instance, and in
+this case the Registrar is nothing else except the Court of first instance. […] But, as I said before, this
+Court neither needs illumination nor guidance from the Judge of the first instance as to what are the
+errors in the judgment of the lower appellate Court.” [emphasis supplied]; Also see the judgments of
+the Delhi High Court in Union Public Service Commission v. Shiv Shambhu25 and SBI v. Mohd.
+Shahjahan25 in which the impleadment of the Competition Commission of India as a respondent in
+writ petitions filed challenging its orders was reprimanded. PART D Transmission Corporation
+Ltd.26, an appeal under Section 41 of the Karnataka Electricity Reforms Act 1999 was preferred
+before the High Court against the orders passed by the Karnataka Electricity Regulatory
+Commission by which the Power Purchase agreement between the appellant and the respondent
+was modified27. One of the issues before the High Court was whether the Electricity Regulatory
+Commission was either a necessary or a proper party to the appeal. The High Court held that the
+Electricity Regulatory Commission was neither a proper nor a necessary party in the appeal. The
+Court observed that an Authority must not take sides when an appeal is filed against its
+quasi-judicial order because if it exhibits an abnormal interest in the appeal “normally unknown to
+statutory authorities performing quasi-judicial function” it would give the impression that it is more
+of an “affected party”.28
+
+21. Hari Vishnu Kamath v. Syed Ahmad Ishaque29 was one of the first judgments in which this
+Court held that a Tribunal was not required to be impleaded as a respondent in an appeal against its
+order. In that judgment, a seven-Judge Bench of this Court heard an appeal against the decision of
+the High Court on a writ of certiorari for quashing the decision of the Election Tribunal. One of the
+issues before this Court was whether the High Court 2004 SCC OnLine Kar 204 “Electricity
+Regulatory Commission” 2004 SCC OnLine Kar 204 [31, 33] “33. We also find considerable force in
+the contention of Dr. Singhvi that if ultimately this Court decides to remand the proceedings to the
+Commission for fresh consideration in exercise of its appellate jurisdiction, the Commission having
+contested the matter before this Court with abnormal interest and psyche of a private contesting
+litigant, cannot be fair enough to decide the issue with impartiality and disinterestedness required of
+it and that the confidence reposed by the appellant on the impartiality of the Commission will be
+lost. It is true if this Court in exercise of its appellate jurisdiction remands the proceedings to the
+Commission for reconsideration of evidence, there will be likelihood of the appellant entertaining
+apprehension that the Commission is not impartial in the decision making…” (1954) 2 SCC 881
+PART D could not have issued a writ of certiorari because the Election Tribunal was an ad hoc body
+which became functus officio, having served its purpose, upon the pronouncement of the decision. It
+was contended that there would be no authority against which the writ could be issued if the
+Tribunal had become functus officio. This Court rejected the argument and held that the fact that
+the Tribunal had become functus officio did not affect the jurisdiction of the Court to quash the
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+10
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+order because the presence of the Election Tribunal, though proper, was not necessary.30
+
+22. However, in Udit Narain Singh Malpaharia v. Additional Member Board of Revenue31, a
+four-Judge Bench of this Court drew a fine line of distinction between an appeal against a decree
+and a writ of certiorari to quash the order of the Tribunal. Justice K Subba Rao (as the learned Chief
+justice then was), writing for the Bench observed that the Tribunal is a necessary party if a writ of
+certiorari is filed to quash its order because: (a) otherwise the order of quashing could be ignored;
+and (b) a writ of certiorari is filed to quash orders of the Tribunal which are outside their
+jurisdiction as opposed to a regular appeal where the Court decides if the order is erroneous.32
+(1954) 2 SCC 881 [13] AIR 1963 SC 786 “8. […] But there is an essential distinction between an
+appeal against a decree of a subordinate court and a writ of certiorari to quash the order of a
+tribunal or authority: in the former, the proceedings are regulated by the Code of Civil Procedure
+and the court making the order is directly subordinate to the appellate court and ordinarily acts
+within its bounds, though sometimes wrongly or even illegally, but in the case of the latter, a writ of
+certiorari is issued to quash the order of a tribunal which is ordinarily outside the appellate or
+revisional jurisdiction of the court and the order is set aside on the ground that the tribunal or the
+authority acted without or in excess of jurisdiction. If such a tribunal or authority is not made a
+party to the writ, it can easily ignore the order of the High Court quashing its order, for not being a
+party, it will not be liable to contempt. In these circumstances whoever else is a necessary party or
+not the authority or tribunal is certainly a necessary party to such a proceeding. In this case, the
+Board of Revenue and the Commissioner of Excise were rightly made parties in the writ petition.”
+(emphasis supplied) PART D
+
+23. In Jogendrasinhji Vijaysinghji v. State of Gujarat33, a two-Judge Bench of this Court culled out
+the following principles on the impleadment of Tribunals and Courts as parties in appeals against
+their orders after analysing the above three judgments. Justice Dipak Misra (as the learned Chief
+Justice then was) writing for the Bench made the following observations:34 a. Civil Courts are
+“courts in the strictest sense of the term”. The Court and the judicial officer do not contest the order.
+The High Court in its revisional jurisdiction can call for the records (if required) without impleading
+the court or the presiding officer as a party; and b. Many Tribunals only adjudicate and have nothing
+to do with the “lis”. Tribunals must be impleaded as a necessary party if in law they are entitled to
+defend the order passed by them.
+
+24. It is clear from the above judgments that the principle that a judicial or quasi-
+
+judicial authority cannot be a respondent in the appeal is circumscribed by certain other factors. The
+first factor applied by this Court is based on the relief sought. A judicial or a quasi-judicial authority
+may be required to be impleaded as a party in a challenge against its order if it is necessary as in
+case of a writ of certiorari. Second, this Court has consistently drawn a distinction between Courts in
+the “strictest sense” and Tribunals because the former are nearly never involved in a ‘lis’ and
+perform a purely adjudicatory function. However, a statutory authority may be entrusted with the
+(2015) 9 SCC 1 (2015) 9 SCC 1 [41] PART D performance of both adjudicatory and regulatory
+functions. This Court has held that while it need not be impleaded as a respondent in an appeal
+against an adjudicatory order, it may be made a contesting party in an appeal against an order
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+11
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+issued in exercise of its regulatory functions because then it may have a vital interest in the ‘lis’
+bearing on matters of public interest.
+
+25. However, it must be noted that the judgment in Jogendrasinhji Vijaysinghji (supra) also holds
+that a Tribunal is entitled to defend the order in the appeal only if it is provided by law. That leads us
+to the subsequent question of whether the statute establishing the Authority and conferring it with
+powers and functions must expressly stipulate that it must be impleaded as a respondent in an
+appeal or it can be inferred by necessary implication. ii. Necessary and proper parties in regulatory
+proceedings
+
+26. In Syed Yakoob v. KS Radhakrishnan35, the State Transport Authority36 constituted under the
+Motor Vehicles Act 1988 and the State Transport Appellate Tribunal37 were impleaded as
+respondents in the appeal against the judgment of the High Court. The High Court held that the STA
+and STAT had overlooked material considerations while issuing transport permits. The counsel who
+appeared for STA and STAT before this Court asked for costs. Rejecting the argument, Justice PB
+Gajendragadkar writing for the majority of the Constitution Bench, observed that though STA and
+STAT were proper and necessary parties in the proceedings, it is unusual for them to be 1963 SCC
+OnLine SC 24 “STA” “STAT” PART D represented by counsel unless allegations are made against
+them for which they need to respond because “they are not interested in the merits of the dispute”:
+
+“19. […] It may be that in such proceedings, the Authority and the Appellate Tribunal
+are proper and necessary parties, but unless allegations are made against them which
+need a reply from them, it is not usual for the authorities to be represented by
+lawyers in Court. In ordinary cases, their position is like that of court or other
+Tribunals against whose decisions writ proceedings are filed; they are not interested
+in the merits of the dispute in any sense, and so, their representation by lawyers in
+such proceedings is wholly unnecessary and even inappropriate.” (emphasis
+supplied)
+
+27. In State Transport Authority Tribunal and Regional Transport Authority, Meerut v. Mohd.
+Lucman Shariff38, this Court refused to entertain an appeal filed by the Transport Authorities
+against the judgment of the High Court because they were not “aggrieved parties”. In Bar Council of
+Maharashtra v. MV Dabholkar39, the issue before a seven-Judge Bench of this Court was whether
+the State Bar Council was an ‘aggrieved party’ to maintain an appeal under Section 38 of the
+Advocates Act 196140. Section 38 provides that “any aggrieved person” may prefer an appeal before
+this Court against the order made by the Disciplinary Committee of the Bar Council of India. Chief
+Justice A N Ray, writing the opinion for the majority held that the State Bar Council was an
+aggrieved person for the following reasons:
+
+(1975) 2 SCC 702 “Advocates Act” PART D a. Under the provisions of the Advocates
+Act, the State Bar Council may initiate disciplinary proceedings either on its own or
+upon the receipt of information. Thus, there was no ‘lis’ in the proceedings before the
+Disciplinary Committee like there is in a suit between parties;41 and b. The
+expression “person aggrieved” must be interpreted widely in terms of the purpose
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+12
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+and the provisions of the enactment. The test to be applied to interpret the
+expression “person aggrieved” is whether “a person has a genuine grievance because
+an order has been made which prejudicially affects his interests”.42 The interest need
+not be personal or pecuniary. The Advocates Act confers the Bar Council a statutory
+interest in the rights and privileges of the advocates and the purity and dignity of the
+profession.43
+
+28. Justice Bhagwati, in his concurring opinion agreed with the conclusions in the opinion of Chief
+Justice Ray but diverged on the limited point of whether there was a ‘lis’ between the delinquent
+advocates and the Bar Council. The learned Judge distinguished between the executive functions
+(ensuring professional conduct of advocates) and adjudicatory functions of the Bar Council (acting
+through the Disciplinary Committee).44 Irrespective of the divergence on whether this dispute
+could be termed as a ‘lis’, it is clear that this Court was of the uniform view that a statutory authority
+can be impleaded as an interested party.
+
+(1975) 2 SCC 702 [25] (1975) 2 SCC 702 [28] (1975) 2 SCC 702 [29] (1975) 2 SCC 702 [40] PART D
+
+29. In Competition Commission of India v. Steel Authority of India45, this Court has in detail dealt
+with the issue that concerns us. In that case, Jindal Steels and Powers invoked the provisions of
+Section 19 read with Section 26(1) of the Competition Act by providing information to allege that
+SAIL had abused its dominant position by entering into an exclusive supply agreement with Indian
+Railways. The Competition Commission of India rejected the application for extension of time by
+SAIL. It held that a prima facie case was made out against SAIL and directed the Director General to
+make an investigation. SAIL challenged the above order before the Competition Appellate Tribunal.
+The Commission filed an application for impleadment before the Competition Appellate Tribunal on
+the ground that it was a necessary and proper party. Emphasis was placed on Section 18 of the
+Competition Act to contend that the powers, functions and duties of the Commission required it to
+be impleaded as a party in the appeals filed before the Tribunal. The Tribunal dismissed the
+application for impleadment. An appeal was preferred against this order. This issue framed by this
+Court was : “whether the Commission would be a necessary or at least a proper party in the
+proceedings before the Tribunal in an appeal preferred by a party”.46 A three-Judge Bench of this
+Court held that the Commission was a necessary party in cases where it initiated a suo moto inquiry
+and that it was a proper party in all other proceedings before the Competition Tribunal:
+
+“31(3). The Commission, in cases where the inquiry has been initiated by the
+Commission suo moto, shall be a necessary party and in all other cases the (2010) 10
+SCC 744 (2010) 10 SCC 744 [30.3] PART D Commission shall be a proper party in the
+proceedings before the Competition Tribunal. The presence of the Commission
+before the Tribunal would help in complete adjudication and effective and
+expeditious disposal of matters. Bring an expert body, its views would be of
+appropriate assistance to the Tribunal. Thus, the Commission in the proceedings
+before the Tribunal would be a necessary or a proper party, as the case may be.”
+
+30. While arriving at this conclusion, this Court relied on the following aspects:
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+13
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+a. Section 53-S(3) of the Competition Act provides that the Commission may
+authorise one or more Chartered Accountants, Company Secretaries, Cost
+Accountants or legal practitioners to present the case of the Commission with respect
+to any appeal before the Appellate Tribunal.47 The Commission’s legal right to
+representation before the Appellate tribunal would be diluted if the Commission was
+absent;48 b. The Competition Commission can initiate suo moto proceedings in
+terms of Section 19 read with Section 26 of the Competition Act. Principles of fairness
+require that such a party be heard by the Tribunal before any orders “adverse to it are
+passed”. Thus, the Competition Commission is a necessary party in cases where an
+appeal is preferred against orders or directions in proceedings initiated suo moto by
+it since it is a dominus litus in such proceedings;49 The Competition Act 2002;
+Section 53S; Also see the Competition Commission of India (General) Regulations
+2009; Regulation 51 (2010) 10 SCC 744 [104] (2010) 10 SCC 744 [105,112] PART D c.
+The Competition Commission is a proper party in other matters for the following
+reasons:
+
+i. The Commission is an expert body and discharges regulatory functions50. The
+assistance rendered by the Commission would be useful for a complete and effective
+adjudication;51 and ii. Regulations 24 to 26 of the Competition Commission of India
+(General) Regulations 200952 define the powers of the Commission to join or
+substitute parties in proceedings, allow persons or enterprises to take part in
+proceedings and to strike out unnecessary parties. The 2009 Regulations stipulate
+that the person or enterprise to be impleaded must have a substantial interest in the
+outcome of the proceedings and/or that it must be necessary in public interest.53
+This principle must be extended to the exercise of jurisdiction by the Tribunal. The
+Competition Commission has a substantial interest in the outcome of the proceedings
+in most cases as the judgments of the Tribunal: (i) will be binding on it; (ii) provide
+guidelines for determining various matters of larger public interest; and (iii) affect
+the economic policy of the country.
+
+See Brahm Dutt v. Union of India, AIR 2005 SC 730 (2010) 10 SCC 744 [106] “2009
+Regulation” The Competition Commission of India (General) Regulations 2009;
+Regulation 25(1) PART D
+
+31. The Competition Act, unlike the AERA Act, expressly provides the statutory authority with the
+right to present its case before the Appellate Tribunal.54 Section 52T of the Competition Act also
+expressly grants the Competition Commission the right to file an appeal before this Court against an
+order of the Appellate Tribunal.55 The judgment of this Court in Competition Commission of India
+(supra), however, does not hinge only on the express stipulations in the Competition Act. This Court
+drew a functional analysis of the role of the Competition Commission. This Court by creating a
+distinction between proceedings initiated by the Competition Commission suo moto and others, in
+effect made a classification between matters in which the Commission is an “interested party” and
+the ones in which it would assist in “effective adjudication”. When the Commission initiates
+proceedings suo motu, it is discharging its duty to: (a) eliminate practices having an adverse effect
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+14
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+on competition; (b) promote and sustain competition; (c) protect the interests of consumers; and (d)
+ensure the freedom of trade by other participants in markets in India. Thus, when it initiates a suo
+moto proceeding, it is discharging its function as a party vitally interested in the elimination of
+anti-competitive practices. In appeals against the orders of the Commission in inquiries initiated
+otherwise (on receipt of information or on a reference made to it by the Central Government or a
+State Government or a statutory Competition Commission of India Act 2002; Section 53S(2)  “53T.
+Appeal to Supreme Court.- The Central Government or any State Government or the Commission or
+any statutory authority or any local authority or any enterprise or any person aggrieved by any
+decision or order of the Appellate Tribunal may file an appeal to the Supreme Court within sixty
+days from the date of communication of the decision or order of the Appellate Tribunal to them:
+
+Provided that the Supreme Court may, if it is satisfied that the applicant was
+prevented by sufficient cause from filing the appeal within the said period, allow it to
+be filed after the expiry of the said period of sixty days.” [emphasis supplied] PART D
+authority56), the representation of the Commission is seen as necessary for the
+effective adjudication in view of its expertise in the field. Thus, the Competition
+Commission of India (supra) lays down the clear proposition of law that a statutory
+authority can be impleaded as a respondent in an appeal against its order even if the
+statute does not provide for it. It can be read by necessary implication based on the
+role conferred upon the authority by the statute.
+
+32. Order 1 Rule 10 of CPC grants the Court the power to strike out or add parties.
+
+The Rule provides that the Court may either with or without the application of the party, add the
+name of the party who ought to have been joined or whose presence before the Court may be
+necessary for the Court to effectively adjudicate upon the questions involved in the suit.57 This
+Court has sufficiently dealt with proper and necessary parties referable to Order 1 Rule 10 of CPC. A
+necessary party is defined as someone who is indispensable to the suit and without whom the suit
+cannot effectively proceed. A proper party, on the other hand, is a party who has an interest in the
+adjudication of the suit though they may not be a person in whose favour or against whom a decree
+ought to be made.58 This Court has further held that a party would not become a necessary party
+merely because she has an interest in the correct solution of The Competition Act, 2002; Section
+19(1)  Order 1 Rule 10(2): “Court may strike out or add parties.- The Court may at any stage of the
+proceedings, either upon or without the application of either party, and on such terms as may
+appear to the Court to be just, order that the name of any party improperly joined, whether as
+plaintiff or defendant, be struck out, and that the name of any person who ought to have been
+joined, whether as plaintiff or defendant, or whose presence before the Court may be necessary in
+order to enable the Court effectually and completely to adjudicate upon and settle all the questions
+involved in the suit, be added. See Vidus Impex & Traders Ltd. v. Tosh Apartments Pvt. Ltd. (2012)
+8 SCC 384; Thomson Press (India) Ltd. v. Nanak Builders & Investors P. Ltd. (2013) 5 SCC 397
+PART D the question involved. She would be a necessary party only when she would be bound by
+the result of the action and has a direct or a legal interest in the proceeding.59 In view of the
+judgments of this Court in Competition Commission of India (supra) and Dabholkar (supra), a
+statutory authority would have a legal interest in appeals against orders made by it in discharge of
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+15
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+its regulatory duty.
+
+33. In view of the above discussion, the following principles emerge:
+
+a. An authority (either a judicial or quasi-judicial authority) must not be impleaded in
+an appeal against its order if the order was issued solely in exercise of its
+“adjudicatory function”; b. An authority must be impleaded as a respondent in the
+appeal against its order if it was issued in exercise of its regulatory role since the
+authority would have a vital interest in ensuring the protection of public interest; and
+c. An authority may be impleaded as a respondent in the appeal against its order
+where its presence is necessary for the effective adjudication of the appeal in view of
+its domain expertise. iii. The test of quasi-judicial functions: A misnomer
+
+34. The next issue is whether AERA is undertaking an adjudicatory function in determining tariff
+under Section 13(1)(a) of the AERA Act. We have already in See Ramesh Hirachand Kundanmal v.
+Municipal Corporation of Greater Bombay (1992) 2 SCC 524(14); Also see karthuri v.
+Uyyamperumal (2005) 6 SCC 733 PART D the preceding section clarified that the test to be adopted
+is whether the authority was undertaking an adjudicatory exercise. However, before we proceed with
+this analysis, we deem it necessary to deal with the concept of ‘quasi-judicial’ functions since
+judgments of larger Benches have approached the issue of whether an authority can contest an
+appeal against its order based on whether it was issued in exercise of its quasi-judicial functions.
+
+35. The respondents placed reliance on certain observations of the Constitution Bench of this Court
+in Express Newspaper Pvt. Ltd. v. Union of India60 on the tests to be adopted to determine whether
+an administrative body is exercising a quasi-judicial function. One of the issues before this Court in
+that case was whether the functions performed by the Wage Board constituted under the Working
+Journalists (Conditions of Service) and Miscellaneous Provisions Act 1955 are administrative,
+judicial, quasi-judicial or legislative in character. This Court had to determine this question to
+decide if the decisions of the Wage Board were open to judicial view and whether the principle of
+audi alteram partem applied to the proceedings before the Wage Boards.61 The Constitution Bench
+laid down the following test to determine if an administrative body is exercising a quasi-judicial
+function:
+
+“112. In order, therefore, to determine whether an administrative body is exercising a
+quasi-judicial function, it would be necessary to examine in the first instance,
+whether it has to decide on evidence between a proposal and an opposition and
+secondly, whether it under a duty to act judicially in the matter of arriving at its
+decision.” 1959 SCR 12 1959 SCR 12 [93] PART D
+
+36. In the subsequent section, we will refer to the meaning of the phase “quasi-
+
+judicial” and its legal underpinnings. We will explain how the test of the duty to act ‘judicially’ was a
+standard that was evolved to ensure the compliance of the principles of natural justice and how it is
+no more relevant in view of the constitutionalising of the principles of natural justice.
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+16
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+37. In the 1950s, a functional distinction was drawn between executive and judicial62 actions and
+between an action that deprives rights and an action that deprives privileges63 for deciding the
+applicability of the principles of natural justice.64 It was presumed that only a judicial body must
+act ‘judicially’ by following the principles of natural justice. Numerous judgments of this Court
+(similar to the judgment in Express Newspaper (supra) discussed above) speak of the ‘duty to act
+judicially’. To act ‘judicially’ meant to comply with the principles of natural justice. Courts began
+diluting the distinction between quasi-judicial and administrative actions to ensure that
+administrative actions or proceedings by authorities which are not Courts in a strict sense also
+comply with the principles of natural justice. The term “quasi-judicial” came into vogue to describe
+the exercise of power which though administrative in some respects was required to be exercised
+judicially, that is, in accordance with the principles of natural justice because of its impact on the
+rights of persons affected.65 The King v. Inspector of Leman Street Police Station, Ex Parte Venicoff,
+(1920) 3 K.B. 72 Nakkuda Ali v. MF De S Jayaratne, [1951] AC 66 id Wade & Forsyth’s
+Administrative Law (12th ed. Oxford University Press) 393 PART D
+
+38. In R v. ex p London Electricity Joint Committee Co. (1920) Ltd.66, Lord Atkin laid down the
+following three components of a “quasi-judicial order”: (a) there must be a legal authority; (b) the
+authority must determine questions affecting rights of subjects; and (c) the authority must have a
+duty to act judicially. This test has been applied by this Court in Province of Bombay v. Khushaldas S
+Advani67, Shivji Nathubhai v. Union of India68 and Indian National Congress (I)69 to determine if
+a function is quasi-judicial.
+
+39. In Khushaldas S Advani (supra), the issue before a four-Judge Bench of this Court was whether
+an order requisitioning a flat under Section 3 of the Bombay Land Requisition Ordinance70 was
+quasi-judicial. Section 3 of the Ordinance stipulated that the Provincial Government may by an
+order in writing requisition any land for a public purpose provided that it is necessary or expedient
+to do so. Sections 10 and 11 of the Ordinance stipulated that the Provincial Government may obtain
+information, enter and inspect land. One of the arguments was that a decision is quasi-judicial
+whenever there is a determination of a fact which affects the rights of parties.71
+
+40. Chief Justice Harilal Kania held that the test to be applied to determine if a decision is
+quasi-judicial is if the law under which the authority is making a decision itself requires a
+quasi-judicial approach. The learned Chief Justice considered two factors in arriving at the
+conclusion that Section 3 of the (1924) 1 KB 171 (CA) 1950 SCR 621 AIR 1960 SC 606 (2002) 5 SCC
+685.
+
+“Ordinance” 1950 SCR 621 [11] PART D Ordinance did not confer a quasi-judicial power: first,
+whether the opinion can be revised by another authority or whether it can only be challenged on the
+grounds on which legislative actions are challenged72; and second, Sections 10 and 11 of the
+Ordinance which conferred the Provincial Government with the power to inspect and make inquires,
+were not mandatorily required to be followed. Justice Fazl Ali in his concurring opinion observed
+that an order will be quasi-judicial or judicial if issued by a person or an authority who is “legally
+bound to or authorised to act as if he was a court or a Judge.”73 The learned Judge further expanded
+that to act as a Judge or a Court included the following: (a) right to representation; and (b) inquiry,
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+17
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+hearing and weighing of evidence. Justice SR Das in his concurring opinion, made a crucial
+observation. The learned Judge held that an action will be quasi-judicial even if there was no lis
+between two parties, provided the statutory authority has the power to do an act which will
+prejudicially affect the subject:74 “81. In other words, while the presence of two parties besides the
+deciding authority will prima facie, and in the absence of any other factor impose upon the authority
+the duty to act judicially, the absence of two such parties is not decisive in taking the act of the
+authority out of the category of quasi-judicial act if the authority is nevertheless required by the
+statute to act judicially.”
+
+41. In Ridge v. Baldwin75, Lord Reid observed that the judicial character of the duty must be
+inferred from the nature of the duty itself. Since the decision in Ridge (supra), Courts have inferred
+the duty to act judicially, that is, in 1950 SCR 621 [14] 1950 SCR 621 [21] 1950 SCR 621 [80.2]
+[1964] A.C 40 PART D compliance with the principles of natural justice based on whether the
+decision adversely affects legal rights. Over time, Courts have abandoned the classification between
+quasi-judicial and administrative functions because the duty to act fairly, in compliance with the
+principles of natural justice has been read into administrative actions as well.76 MP Jain and SN
+Jain in their treatise on Administrative law elucidate the reasons for the blurring of this
+distinction77:
+
+“Differentiation between quasi-judicial and administrative seems to be merely an artificial formality,
+as many a time such a distinction is elusive and mostly a manner of judicial policy. Also, since the
+functions of the Administration have been expanding adversely affecting the rights and interests of
+individuals, the courts are convinced that it is essential to concede the right of hearing on a broader
+scale, but, at the same time, it may be artificial to call a function as quasi-judicial as it may have no
+judicial element involved. Or, in a situation, the court may feel that the function of the
+Administration is such that it is susceptible to the application of only a few but not all the elements
+of natural justice. […] Further, when a proceeding is characterised as administrative, the person
+whose interests are adversely affected thereby may be left with no effective means of redress of his
+grievances as he could claim no procedural safeguards. To overcome these difficulties, the new trend
+has emerged. The advantage is that procedural fairness can be imposed on a large number of
+decision-
+
+making bodies without having to characterise their functions as quasi-judicial. This approach has
+resulted in applying hearing procedure to a large chunk of administrative process. The nexus
+between hearing and quasi-judicial no longer exists in administrative process. This approach does
+away with the conceptual approach of calling a function as quasi-judicial when not much of judicial
+element is discernible there. […] The emphasis is now placed on the element of injury to the
+concerned person by the administrative See In r HK (An Infant), (1967) 1 All ER 226 MP Jain & SN
+Jain, “Principles of Administrative Law” (7th ed. Vol I, LexisNexis) 352 PART D action in question
+to concede hearing to the affected person.” (emphasis supplied)
+
+42. In AK Kraipak v. Union of India,78 a Constitution Bench renounced the distinction between
+quasi-judicial and administrative functions for the purpose of a compliance of the principles of
+natural justice. Relying on the judgment of the Queen’s Bench Division in In re H.K (An Infant)79
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+18
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+and the constitutional imperative of the rule of law80, the Constitution Bench held that the
+principles of natural justice will apply even to administrative decisions.81 The judgment of the
+Constitution Bench in Maneka Gandhi v. Union of India82 has cemented this interpretation.83
+
+43. The above discussion elucidates that the exercise of power by Authorities and Tribunals was
+described as “quasi-judicial’ to ensure that the principles of natural justice were complied with.
+However, with the evolution of the doctrine of fariness and reasonableness, all administrative
+actions (even if there is (1969) 2 SCC 262 (1967) 2 QB 617; “But at the same time, I myself think that
+even if an immigration officer is not in a judicial or a quasi-judicial capacity, he must at any rate give
+the immigrant an opportunity of satisfying him of the matters in the sub-section, and for that
+purpose let the immigrant know what his immediate impression is so that the immigrant can
+disabuse him.” In this context, also see the observations of Lord Parker C.J., in Reginal v. Criminal
+Injuries Compensation Board Ex parte Lain, (1967) 2 QB 684: “With regard to Mr Bridge’s second
+point, I cannot think that Atkin L.J., intended to confine his principle to cases in which the
+determination affected rights in the sense of enforceable rights. Indeed, in the Electricity
+Commissioners case the rights determined were at any rate not immediately enforceable rights. […]
+the remedy is available even though the decision is merely a step as a result of which legally
+enforceable rights may be affected.” (1969) 2 SCC 262 [13] “20. […] If the purpose of the rules of
+natural justice is to prevent miscarriage of justice one fails to see why those rules should be made
+inapplicable to administrative enquiries. Often times it is not easy to draw the line that demarcates
+administrative enquiries from quasi-judicial enquires. […] Arriving at a just decision I the aim of
+both quasi-judicial enquiries as well as administrative enquiries.” [emphasis supplied] AIR 1978 SC
+597 “The law must, therefore, now be taken to be well settled that even in an administrative
+proceeding, which involved civil consequences, the doctrine of natural justice must be held to be
+applicable.” Also see SL Kapoor v. Jagmohan, AIR 1981 SC 136 PART D nothing ‘judicial (or
+adjudicatory)’ about them) are required to comply with the principles of natural justice. The
+evolution of the fairness doctrine has transcended many boundaries. Thus, the reason for which the
+expression ‘quasi-judicial’ came into vogue is no longer relevant. Neither are the tests to identify
+them because the functions of an authority no more need to have any semblance to ‘judicial
+functions’ for it to act judicially (that is, comply with the principles of natural justice).
+
+44. The observations in judgments of this Court that a quasi-judicial authority must not be
+impleaded as a party in an appeal against its order must be interpreted in view of the doctrinal
+expansion of the principle of fairness. The substitution of the standard of whether the Authority
+undertakes a quasi- judicial function with the test of adjudication is thus, not an aberration. It is a
+standard which is true to the purpose of the principle and which accounts for the subsequent
+constitutional developments.
+
+iv. The test for determining an ‘adjudicatory function’: Exploring Sitaram Sugar
+
+45. Before we proceed to determine if tariff-determination by AERA is an adjudicatory function, we
+must answer a more preliminary question: what are the tests to identify if a function is an
+adjudicatory one?
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+19
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+46. In Sitaram Sugar (supra), the constitutional validity of notifications issued under Section 3(3C)
+of the Essential Commodities Act 1995 was before a Constitution Bench of this Court. Section 3(3C)
+provides that where producers are required to sell sugar, they must be paid an amount calculated
+with PART D reference to the price of sugar determined by the Central Government. The provision
+also lays down the factors which must be considered by the Central Government while determining
+the price of sugar.84 The provision further provides that different prices may be determined from
+time to time for (a) different areas or; (b) for different factories; or (c) for different kinds of sugar.
+This Court distinguished between legislation and adjudication. The Constitution Bench held that the
+former affects the rights of individuals in an abstract manner while adjudication operates “upon
+individuals in their individual capacity.”85 Relying on the following observations of this Court in
+Union of India v. Cynamide India Ltd.86, the Bench held that price fixation is usually a legislative
+measure and that it may occasionally take an adjudicatory character when it relates to an individual:
+
+“A price fixation measure does not concern itself with the interests of an individual
+manufacturer or producer. It is generally in relation to a particular commodity or
+class of commodities or transactions. It is a direction of a general character, not
+directed against a particular situation. It is intended to operate in the future. It is
+conceived in the interests of the general consumer public. Viewed from whatever
+angle, the angle of general application, the prospectiveness of its effect, the public
+interest served, and the rights and obligations flowing therefrom, there can be no
+question that price fixation is ordinarily a legislative activity.” “Price fixation may
+occasionally assume an administrative or quasi-judicial character when it relates to
+acquisition or requisition of goods or property from individuals and it becomes
+
+(a) the minimum price, if any, fixed for sugarcane by the Central Government under
+this section;
+
+(b) the manufacturing cost of sugar;
+
+(c) the duty or tax, if any, paid or payable thereon;
+
+(d) the securing of a reasonable return on the capital employed in the business of
+manufacturing sugar, (1990) 3 SCC 223 [34] (1987) 2 SCC 729 PART D necessary to
+fix the price separately in relation to such individuals. Such situations may arise
+when the owner of property or goods is compelled to sell his property or goods to the
+government or its nominee and the price to be paid is directed by the legislature to be
+determined according to the statutory guidelines laid down by it. In such situations
+the determination of price may acquire a quasi-judicial character”.
+
+(emphasis supplied)
+
+47. On the facts of the case, the Bench held that price fixation is of a legislative character but the
+amount determined based on the price is adjudicatory because the former applies generally to a
+class of commodities while the latter is decided after taking individual aspects into consideration.
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+20
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+This Court also held that price fixation can be of a legislative character even if it is based on an
+objective criteria87. 88
+
+48. Two principles are deducible from the judgment of this Court in Sitaram Sugar (supra). The first
+is that one of the factors to determine if an order was issued in exercise of an adjudicatory function,
+is whether it was specific to an individual or of general application. The second is that it is not
+necessary that a legislative action must always be ‘subjective’ and an adjudicatory function
+‘objective’. The Constitution Bench repudiated this distinction by observing that a legislative action
+can also be based on an objective set of factors. (1990) 3 SCC 223 [41]; See Saraswati Industrial
+Syndicate Ltd. v. Union of India, (1974) 2 SCC 630 “41. The impugned orders, duly published in the
+official gazettes notifying the prices determined for sugar of various grades and produced in various
+zones, and applicable to all producers of such sugar, can, in our view, be legitimately characterised
+as legislative. These orders are required by sub-section (6) to be laid before both Houses of
+Parliament. The notified prices are applicable without exception to all persons falling within well
+defined groups. The prices are determined in accordance with the norms postulated in the sub-
+section. It is with reference to such predetermined prices of sugar that the “amount” payable to each
+producer, who has sold sugar in compliance with an order made with reference to clause (f) of
+sub-section (2), is calculated. The calculation of such amount is, in contradistinction to the
+determination of “price of sugar”, a non-legislative act.” PART D v. Whether tariff determination is
+an adjudicatory function: PTC and GRIDCO
+
+49. In PTC (supra), a Constitution Bench of this Court made certain observations on the fixation of
+tariff by the Electricity Commission under the provisions of the Electricity Act 200389. Section 61 of
+the Electricity Act provides that the Appropriate Commission (which is defined under the Act to
+mean Central Regulatory Commission, State Regulatory Commission or Joint Commission) must,
+subject to the provisions of the Electricity Act, specify the terms and conditions for the
+determination of tariff. The provision also stipulates factors that the Appropriate Commission must
+be guided by. Section 62 deals with the “determination of tariff”. The provision confers the
+Appropriate Commission with the power to determine tariff for supply, transmission, wheeling and
+retail sale of electricity. Section 63 deals with “determination of tariff by bidding process”. The
+provision provides that notwithstanding Section 62, the Appropriate Commission must adopt the
+tariff determined through a transparent bidding process. Section 64 of the Electricity Act prescribes
+the procedure to determine tariff under Section 62 which includes filing an application and
+provision for suggestions and objections. Referring to these provisions, the Constitution Bench
+made the following observations:
+
+“ 26. The term “tariff” is not defined in the 2003 Act. The term “tariff” includes
+within its ambit not only the fixation of rates but also the rules and regulations
+relating to it. If one reads Section 61 with Section 62 of the 2003 Act, it becomes clear
+that the appropriate Commission shall determine the actual tariff in accordance with
+the provisions of the Act, including the terms and conditions which may be specified
+by the appropriate Commission under Section 61 of the “Electricity Act” PART D said
+Act. Under the 2003 Act, if one reads Section 62 with Section 64, it becomes clear
+that although tariff fixation like price fixation is legislative in character, the same
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+21
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+under the Act is made appealable vide Section 111. These provisions, namely, Sections
+61, 62 and 64 indicate the dual nature of functions performed by the Regulatory
+Commissions viz. decision-making and specifying terms and conditions for tariff
+determination.
+
+49. On the above analysis of various sections of the 2003 Act, we find that the
+decision-making and regulation-making functions are both assigned to CERC. Law
+comes into existence not only through legislation but also by regulation and
+litigation. Laws from all three sources are binding. According to Professor Wade,
+“between legislative and administrative functions we have regulatory functions”. A
+statutory instrument, such as a rule or regulation, emanates from the exercise of
+delegated legislative power which is a part of administrative process resembling
+enactment of law by the legislature whereas a quasi-judicial order comes from
+adjudication which is also a part of administrative process resembling a judicial
+decision by a court of law. (See Shri Sitaram Sugar Co.
+
+Ltd. v. Union of India [(1990) 3 SCC 223] .)
+
+50. Applying the above test, price fixation exercise is really legislative in character, unless by the
+terms of a particular statute it is made quasi-judicial as in the case of tariff fixation under Section 62
+made appealable under Section 111 of the 2003 Act, though Section 61 is an enabling provision for
+the framing of regulations by CERC. If one takes “tariff” as a subject-matter, one finds that under
+Part VII of the 2003 Act actual determination/fixation of tariff is done by the appropriate
+Commission under Section 62 whereas Section 61 is the enabling provision for framing of
+regulations containing generic propositions in accordance with which the appropriate Commission
+has to fix the tariff. This basic scheme equally applies to the subject-matter “trading margin” in a
+different statutory context as will be demonstrated by discussion hereinbelow.” (emphasis supplied)
+PART D
+
+50. The observations of the Constitution Bench are analysed below:
+
+a. Tariff-fixation, like price fixation is generally of a legislative character; b.
+Tariff-fixation is of an adjudicatory or quasi-judicial character if it is made so by the
+statute which confers the Authority with the power to determine tariff;
+
+c. The Electricity Act confers the Appropriate Commission with both regulatory and
+adjudicatory/decision-making powers, even with respect to tariff. Section 61 which
+confers the Appropriate Commission with the power to specify terms and conditions
+for the determination of tariff, is of legislative character while the power to determine
+tariff in terms of Sections 62 and 64 is an adjudicatory function;
+
+d. Though the decision does not expressly make a distinction between powers that
+are general in nature and powers that are specific/individual in nature, such an
+inference can be drawn from paragraph 50 which specifically applies the tests
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+22
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+formulated in Sitaram Sugar (supra); and e. The fact that the order of the
+Appropriate Commission determining tariff was subject to appeal was also one of the
+factors that weighed with this Court.
+
+51. The respondents have relied on PTC (supra) to contend that tariff determination by an Authority
+constituted under any statute is an adjudicatory PART D function. Such an interpretation of the
+judgment in PTC (supra), in our opinion is erroneous. This Court in PTC (supra) expressly noted
+that tariff fixation, like price fixation is generally of a legislative character. The judgment in PTC
+(supra) is an authority only for the proposition that the question of whether determination of tariff
+is a legislative or an adjudicatory function must be determined upon an analysis of the provisions of
+the statute conferring the power. That was the test that was propounded in Sitaram Sugar (supra) as
+well.
+
+52. In GRIDCO (supra), this Court was hearing appeals arising out of the decisions of the Appellate
+Tribunal for Electricity constituted under Section 110 of the Electricity Act 2003 which arose from
+orders issued by the Orissa Electricity Regulatory Commission determining tariff. Relying on the
+judgment in PTC (supra), a two-Judge Bench of this Court held that tariff determination being a
+quasi-judicial function, the Commission could not have preferred an appeal against the order of the
+Appellate Tribunal.90 The judgment of the two- Judge Bench in GRIDCO (supra) also dealt with the
+nature of function of the Appropriate Commission under Section 62 of the Electricity Act which was
+already settled by the judgment of the Constitution Bench in PTC (supra) that it was adjudicatory.
+
+“31. There is one more aspect of the matter. As held by the Constitution Bench [PTC (India) Ltd. v.
+CERC, (2010) 4 SCC 603] , under Section 62, the Commission exercises quasi-judicial powers. There
+are appeals preferred by the Commission against the orders of the Appellate Tribunal in appeals
+under Section 111 of the Electricity Act. The Appellate Tribunal in appeals has dealt with the legality
+and validity of the decisions of the Commission rendered in the exercise of quasi-judicial power. In
+short, the Appellate Tribunal has tested the correctness of the orders of the Commission. The
+Commission is bound by the orders of the Appellate Tribunal. Therefore, we have serious doubt
+about the propriety and legality of the act of the Commission of preferring appeals against the
+orders of the Appellate Tribunal in appeal by which its own orders have been corrected. The
+Commission cannot be the aggrieved party except possibly in one appeal where the issue was about
+the non-compliance by the Commission of the orders of the Appellate Tribunal. If the Commission
+was exercising legislative functions, the position would have been different.” PART D vi. Tariff
+determination for aeronautical services by AERA is a regulatory function
+
+53. The question that falls for our consideration is whether AERA in exercise of its power under
+Section 13(1)(a) of the AERA Act is discharging an adjudicatory function. The issue of whether
+AERA is a necessary or a proper party must be determined based on whether the AERA is an
+aggrieved/interested party or merely an expert body whose views would be necessary for the
+effective adjudication of the appeal.
+
+54. A simplistic conclusion that AERA regulates tariff and does not adjudicate it cannot be arrived at
+merely because the long title to the AERA Act states that AERA is established to, inter alia, “regulate
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+23
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+tariff”. An analysis of the statutory provisions must indicate the regulatory character of tariff
+determination by AERA.
+
+55. Before we proceed to analyse the statutory provisions of the AERA Act, we deem it appropriate
+to refer to the reasons for creating an independent Airport Economic Regulatory Authority. On 30
+November 2003, the Committee on a Road Map for the Civil Aviation Section published a report
+which highlighted the underlying economic rationale for establishing an Airport Economic
+Authority. The Report noted that an independent economic regulator must be established to prevent
+the abuse of monopoly power in airport activities. The Report further notes that the Airport
+Authority of India acts both as an operator and regulator of airports and thus, there is an inherent
+conflict of interest. It is PART D to ensure that there was no such conflict of interest that an
+Independent Authority was sought to be established.
+
+56. On 22 December 2009, AERA issued a White Paper to ensure transparency in the process
+leading up to the framing of appropriate procedures/systems for economic regulation. The White
+Paper dealt with various issues relating to economic regulation of airports and air navigation
+services. On 16 February 2010, AERA issued a consultation paper after considering the responses
+received on the White Paper. On 2 August 201091, AERA laid down “its philosophy and approach
+for economic regulation of services” at major airports. In exercise of its powers under Section 15 of
+the AERA Act, AERA issued the Airports Economic Regulatory Authority of India (Terms and
+Conditions for Determination of Tariff for Services Provided for Cargo Facility, Ground Handling
+and Supply of Fuel to the Aircraft) Guidelines 201192. Clause 3 of the 2011 Guidelines lays down a
+three-stage procedure to regulate services by assessing (a) materiality; (b) competition; and (c) the
+reasonableness of the existing user agreement.93
+
+57. It may be argued by relying on the judgment in PTC (supra) that the 2011 Guidelines issued in
+exercise of the power under Section 15 is a regulatory function while the determination of tariff
+under Section 13(1)(a) is adjudicatory by relying on the distinction between ‘general’ and ‘specific’ as
+highlighted above. In PTC (supra), this Court drew a distinction between Section 61 of Order
+No.05/2010-11 dated 1 August 2010 “2011 Guidelines” 2011 Guidelines; Clause 3 PART D the
+Electricity Act which grants the Appropriate Commission the power to issue specific terms and
+conditions for determination of tariff and Section 62 which grants the power to determine tariff. The
+crucial test that has been consistently applied by this Court in drawing the distinction is to
+determine if the function is discharged in the capacity of a regulator or an adjudicator. Now, it may
+be possible that certain statutes create a clear distinction between the regulatory and adjudicatory
+roles with respect to the same function. When such a distinction is created, the Authority does not
+put on the hat of a regulator while undertaking the adjudicatory function. On the other hand, certain
+other statutes may require the Authority to ‘determine’ something in its capacity as a regulator. In
+such cases, a clear distinction between the adjudication and regulatory functions cannot be drawn.
+
+58. On an analysis of the statutory provisions, it can be reasonably concluded that AERA is
+performing a regulatory function while determining tariff under Section 13(1)(a) of the AERA Act.
+The reasons for this conclusion are summarised below:
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+24
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+a. It cannot be concluded that AERA is performing an adjudicatory function merely
+because Section 13(1)(a) uses the phrase “determine” with respect to tariff. This
+would amount to a formalistic interpretation. The Court ought to make an
+assessment by undertaking a holistic analysis;
+
+b. Section 13(1)(a) lays down seven factors which must be considered by AERA for
+determining the tariff of aeronautical services. To recall, PART D the Constitution
+Bench in Sitaram Sugar (supra) has held that the function can be regarded as
+legislative even if objective guidelines are prescribed for the exercise of the function.
+Further, the provision only prescribes broad guidelines that AERA must “take into
+consideration”. AERA still has sufficient discretion to adapt to circumstances and
+various concerns while determining tariff. The Act does not prescribe the weightage
+that must be provided to each of the factors. That is well within the discretion of
+AERA. This is also evident from Section 13(1)(a)(viii) which provides that AERA may
+consider “any other factor which may be relevant for the purposes of the Act”;
+
+c. The factors which are required to be considered by AERA indicate the underlying
+policy considerations of the assessment.94 The factors, inter alia, include the cost of
+efficiency and economic and viable operation of major airports;
+
+d. Section 13(1A) requires that AERA be consulted regarding tariff and tariff
+structures which are proposed to be incorporated in bidding documents. This
+provision elucidates that even if AERA does not in a strict sense, “determine” tariff in
+terms of Section 13(1)(a), it will always be interested in the economic viability of
+airports and in that sense is a regulator of tariff. Thus, the considerations of AERA
+while determining tariff will be those of a regulator concerned with public See
+Express Newspaper (Private) Ltd. v. Union of India, 1958 SCC OnLine SC 23 [111]
+PART D and economic interests, which are purely non-adjudicatory considerations;
+
+e. Section 13(2) by enabling AERA to amend the tariff structure even before the
+completion of the prescribed five year period in “public interest” is clearly indicative
+of its regulatory role in the regulatory sphere entrusted to it; and f. The “overarching”
+limitations placed on AERA’s functions by Section 13(3) resemble the grounds for
+reasonable restrictions prescribed by Article 19 of the Constitution. These grounds
+are limitations on the broad policy considerations that AERA undertakes while
+determining tariffs.
+
+59. The respondents have relied on two clauses of Section 13 to argue that tariff determination is an
+adjudicatory function. The first is the proviso to Section 13(1)(a) which provides that different tariff
+structures may be determined for different airports. This, it is argued, is a specific/individualistic
+component which is an indicator of the adjudicatory function. It is true that this Court in Sitaram
+Sugar (supra) held that one of the factors to assess if a function is adjudicatory is by determining if it
+has a specific or a general application. However, the observations cannot be interpreted to mean
+that it is an overarching consideration in the determination of whether the function is adjudicatory.
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+25
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+Neither can it be interpreted to mean that the factor must be considered de hors the context. The
+consideration of the factors while exercising the function is equally and if not more important as a
+factor. As the PART D judgment in Sitaram Sugar (supra) notes, “judicial decisions are made
+according to law while administrative decisions emanate from administrative policy.”95 As held
+above, the factors to be considered by AERA in terms of Section 13(1)(a) are purely ‘policy’ factors.
+Further, the function of AERA to determine tariff must be read in the context of the role of the
+Authority as a ‘regulator’ as has been highlighted above. Modern constitutional governance requires
+that legislation is not general but context specific. Over-emphasising the distinction between general
+and specific provisions to determine if a function is regulatory or adjudicatory would be to
+completely ignore the jurisprudential developments governing both the regulatory domain and
+Article 14.
+
+60. The second provision that the respondents relied on was Section 13(4) of the AERA Act which
+requires AERA to follow certain principles of natural justice to ensure transparency in discharging
+its functions. There is no doubt that Section 13(4) incorporates some of the principles of natural
+justice. It requires holding consultations and allowing stakeholders to make submissions, and
+reasoned decisions to obviate the influence of bias in them. However, as explained above, that in
+itself is not sufficient to conclude that the AERA’s determination of tariffs for aeronautical services
+is an adjudicatory function. In the previous section, we have in detail explained that principles of
+natural justice are not just a requirement for ‘judicial’ actions. They are required to be complied with
+even in the exercise of administrative actions. Thus, the (1990) 3 SCC 223 [32] PART D requirement
+of the principles of natural justice does not render the determination, an adjudication.
+
+vii. Interpretation of Sections 18 and 31 of the AERA Act
+
+61. The respondents made the following submissions based on Section 18 to argue that AERA cannot
+be impleaded as a party to the proceedings before TDSAT:
+
+a. Section 18 of the AERA Act does not expressly provide that TDSAT must hear
+AERA before passing any order. Clause (4) of Section 18 provides that TDSAT may
+pass an order “after giving the parties to the dispute or appeal” an opportunity of
+being heard; and b. Section 18(5) expressly excludes AERA as a party in the appeal
+before TDSAT because it provides that a copy of every order of TDSAT must be
+provided “to the parties to the dispute or appeal and to the Authority, as the case may
+be”. There is disagreement over whether the expression “as the case may be” takes
+after “dispute or appeal” or “Authority”. If the expression takes after the former, it
+means that Authority is not subsumed within “parties to dispute or appeal”. If the
+expression takes after the latter, it could mean that a copy of the order must be given
+to AERA if it is not a party to the dispute or the appeal.
+
+PART D
+
+62. We have already, in the previous section of this judgment after an analysis of the precedent,
+concluded that the Authority can be impleaded as a respondent in an appeal against its order even if
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+26
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+the provisions of the statute do not provide for it. This power can be read by necessary implication
+based on the role conferred on the Authority by the statute. To recall, Section 17(1)(a) grants TDSAT
+the jurisdiction to adjudicate any dispute between two parties, either between two service providers
+or a service provider or a consumer. There is clearly a lis before TDSAT in such cases. However, the
+proviso to the section recognises the expertise of AERA in the economic regulation of airports by
+providing TDSAT with the discretion to “obtain the opinion of the Authority on any matter relating
+to the dispute”. This is referable to the role of AERA as a proper party in the proceedings, where its
+expertise may be required for the effective adjudication of the dispute.
+
+63. However, when it comes to appeals against the tariff orders issued by AERA, it is not just acting
+as an ‘expert body’ but as a regulator interested in the outcome of the proceedings. AERA has a
+statutory duty to regulate tariff upon a consideration of multiple factors to ensure that airports are
+run in an economically viable manner without compromising on the interests of the public. This
+statutory role is evident, inter alia, from the factors that AERA must consider while determining
+tariff and the power to amend tariff from time to time in public interest as discussed above. When
+AERA determines the tariff for aeronautical services in terms of Section 13(1)(a) of the AERA Act, it
+is acting as a regulator and an interested party. It is interested not in a personal capacity. Its interest
+lies in ensuring that the concerns of public PART D interest which animate the statute and the
+performance of its functions by AERA are duly preserved. Thus, AERA is a necessary party in the
+appeal against its tariff order before TDSAT and it must be impleaded as a respondent.
+
+64. Section 18(5) refers to parties in a dispute or appeal. AERA is not a party to the lis when TDSAT
+adjudicates a dispute between two or more service providers, or a service provider and a consumer
+in terms of Section 17(1)(a). For disputes adjudicated by TDSAT under Section 17(a), AERA may be
+included as a party in terms of the proviso to the provision. If the expression “as the case may be” is
+interpreted to refer to “dispute or appeal”, thereby excluding AERA as a party to either the dispute
+or the appeal, it would amount to reading down the proviso to Section 17(1)(a).
+
+65. It may be recalled that determination of tariff for aeronautical services is merely one of the
+functions discharged by AERA. Section 17(1)(b) grants TDSAT the jurisdiction to “hear and dispose
+of appeal against any direction, decision or order of the Authority under this Act.” Section 18(5) by
+using the expression “as the case may be” accounts for such a situation and requires that a copy of
+the order to be provided to AERA even if it is not a party to the appeal. Thus, the expression “as the
+case may be” in Section 18(5) must be read to mean that a copy of the order of TDSAT must be given
+to AERA even if it is not a party to the appeal or the dispute. The expression cannot be interpreted to
+impliedly exclude AERA as a respondent in the appeals against its orders before TDSAT.
+
+PART D
+
+66. Section 31 does not expressly confer AERA with the right to file an appeal against the order of
+TDSAT before this Court. In fact, it does not confer that power to any party expressly. As Mr Datar
+put it, there are three ways in which provisions dealing with statutory appeal are drafted. First, the
+provision may not prescribe who can file an appeal such as Section 31 of the AERA Act. Second, the
+provision may provide that an appeal may be preferred by a ‘person aggrieved’ such as under the
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+27
+
+Airports Economic Regulatory ... vs Delhi International Airport Ltd on 18 October, 2024
+
+Electricity Act96, the Major Port Authorities Act 202197, the Securities and Exchange Board of India
+Act 199298 and the Pension Fund Regulatory and Development Authority Act 201299. The third
+category is where the statute confers ‘any party’ with the right to file an appeal as under the
+Companies Act 2013.100 With respect to the first of the three categories, at a minimum the parties
+to the appeal before first appellate body (in this case TDSAT) will have a right to file an appeal
+before this Court. AERA can file an appeal under Section 31 in view of our conclusion that it is a
+necessary party in the appeals against the tariff orders issued by it. “Section 125. Any person
+aggrieved by any decision or order of the Appellate Tribunal, may, file an appeal to the Supreme
+Court…” “Section 60(2). Any party aggrieved by any decision or order of the Adjudicating Board,
+may file an appeal …” “Section 15Z. Any person aggrieved by any decision or order of the Securities
+Appellate Tribunal may file an appeal…” “Section 38. Any person aggrieved by any decision or order
+of the Securities Appellate Tribunal…” See Companies Act 2013; Section 242 PART E E. Conclusion
+
+67. In view of the discussion above, the appeals filed by AERA against orders of TDSAT under
+Section 31 of the AERA Act are maintainable. The Registry shall list the matters before the Regular
+Bench for adjudication of the appeals on merits.
+
+… … . … … … … … … … … … … … … … … C J I   [ D r   D h a n a n j a y a   Y   C h a n d r a c h u d ]
+….….………………………………………J [J B Pardiwala] ..….…………………………………………J [Manoj Misra]
+New Delhi;
+
+October 18, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/40813274/
+
+28
+
+

@@ -1,0 +1,17 @@
+{
+  "case_number": "WRIT PETITION (CIVIL) NO. 753/2023 WITH WRIT PETITION (CIVIL) NO. 921/2023",
+  "parties": {
+    "petitioner": "Sushil Kumar Pandey & Ors.",
+    "respondent": "The High Court of Jharkhand & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-02-01",
+  "summary": "The petition challenged the legality of the District Judge selection process in Jharkhand (2022), where only 13 out of 22 vacancies were filled despite a select list of 66 candidates. The High Court's Full Court resolution introduced a new qualifying criterion of securing at least 50% aggregate marks in main examination and viva-voce, excluding 9 candidates from recommendation. The issue centered on whether this additional criterion was consistent with the Jharkhand Superior Judicial Service Rules, 2001 and the 2017 Regulation. The court examined Rule 21 (30% viva-voce minimum) versus Regulation 2017 para 12 (20 marks minimum in viva-voce), noting discrepancy but accepting the 20-mark standard as per advertisement. The court found that introducing a 50% aggregate cut-off post-examination was impermissible as it altered selection criteria unilaterally and violated fairness. Reliance was placed on the principle that once selection rules are notified, the authority cannot introduce new norms mid-process. The exclusion of candidates solely on the basis of not meeting the 50% threshold was held arbitrary and ultra vires the 2001 Rules.",
+  "legal_provisions_cited": [
+    "Jharkhand Superior Judicial Service (Recruitment, Appointment and Conditions of Service) Rules, 2001",
+    "Rule 11, Rule 14, Rule 18, Rule 21, Rule 22, Rule 23, Rule 30 of the 2001 Rules",
+    "Jharkhand Superior Judicial Service (Recruitment, Appointment and Conditions of Service) Regulation, 2017, para 12",
+    "SNEHA DAS Case"
+  ],
+  "final_judgment": "The petition is allowed. The resolution of the Full Court dated 23.03.2023 introducing the 50% aggregate criterion is quashed. The respondents are directed to consider the names of the 9 excluded candidates from the select list for appointment, in accordance with law and the applicable rules, as no additional qualifying criteria can be imposed beyond those notified in the advertisement and the 2001 Rules."
+}

@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 2661 of 2015",
+  "parties": {
+    "petitioner": "State of Uttarakhand",
+    "respondent": "Sudhir Budakoti & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-07",
+  "summary": "The appeal challenged the Uttarakhand High Court's decision allowing pay scale revision for Respondent No. 1 (Sudhir Budakoti), a Registrar, based on UGC recommendations meant for Central Universities. The State argued that the circulars applied only to teaching staff, not administrative staff like Registrars, and that pay parity cannot be claimed across different qualifications and roles. The Court emphasized that classification under Article 14 must have intelligible differentia and rational relation to the object; differential treatment based on policy, economic considerations, and expert recommendations does not violate equality if not arbitrary. The High Court was found to have erred in extending lecturer pay revisions to administrative officers without basis.",
+  "legal_provisions_cited": [
+    "Article 14 of the Constitution of India",
+    "Transport & Dock Workers Union v. Mumbai Port Trust, (2011) 2 SCC 575"
+  ],
+  "final_judgment": "Appeal allowed; impugned judgment set aside. The State not obligated to extend Central University pay scales to Registrars in State Universities. No pay parity granted."
+}

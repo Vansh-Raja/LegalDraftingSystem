@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal 432 of 2022 (Arising out of SLP (Civil) No. 21711 of 2019)",
+  "parties": {
+    "petitioner": "Sunil Kumar Maity",
+    "respondent": "State Bank of India and Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-21",
+  "summary": "The case arose from a dispute where the appellant, Sunil Kumar Maity, deposited a cheque of Rs. 3,00,000 in an account mistakenly assigned to him by SBI, which belonged to another customer, Sunil Maity. The Consumer Forum and State Commission ruled in favour of the appellant, holding SBI liable due to negligence. The National Commission allowed SBI's revision petition, relying on a post-litigation report from SBI, and dismissed the complaint. The Supreme Court held that the National Commission exceeded its revisional jurisdiction by relying on new evidence not available to lower fora and failing to consider reasoned findings. It found SBI negligent for not preventing the mix-up between two accounts with similar names at the same branch.",
+  "legal_provisions_cited": [
+    "Section 21(b) of the Consumer Protection Act, 1986",
+    "Section 5 of the Limitation Act, 1963",
+    "Order 41 Rule 27 of the Code of Civil Procedure"
+  ],
+  "final_judgment": "The appeal was allowed, and the impugned judgment of the National Commission was set aside. The orders of the State Commission and Consumer Forum were restored."
+}

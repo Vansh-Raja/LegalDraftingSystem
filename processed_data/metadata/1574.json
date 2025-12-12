@@ -1,0 +1,23 @@
+{
+  "case_number": "Civil Appeal No. 5783 of 2022 [@ SLP (C) No. 2784/2020]",
+  "parties": {
+    "petitioner": "Union of India & Anr.",
+    "respondent": "M/s. Ganpati Dealcom Pvt. Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-23",
+  "summary": "The case centers on whether the Benami Transactions (Prohibition) Amendment Act, 2016 has retrospective effect. The High Court of Calcutta held that the 2016 Act cannot be applied retrospectively to transactions before its commencement on 01.11.2016, relying on Article 20(1) of the Constitution and the principle that substantive amendments require explicit retroactive language. The Union of India argued that the 2016 Act is procedural and consolidatory, allowing retrospective application, and that confiscation under the Act is civil, not penal, thus not violating Article 20(1). The respondent contended that the 2016 Act substantially alters the scope of 'benami transaction' and creates new liabilities, making it prospective only.",
+  "legal_provisions_cited": [
+    "Prohibition of Benami Property Transactions Act, 1988",
+    "Benami Transactions (Prohibition) Amendment Act, 2016",
+    "Article 20(1) of the Constitution of India",
+    "Section 1(3) of the 1988 Act",
+    "Section 24(1), 24(4)(b)(i), 27(3) of the 2016 Act",
+    "Rao Shiv Bahadur Singh vs. State of Vindhya Pradesh, AIR 1953 SC 394",
+    "Yogendra Kumar Jaiswal v. State of Bihar, (2016) 3 SCC 183",
+    "Mithilesh Kumari v. Prem Behari Khare, (1989) 2 SCC 95",
+    "R. Rajagopal Reddy v. Padmini Chandrasekharan, (1995) 2 SCC 630",
+    "Mangathai Ammal v. Rajeswari, (2020) 17 SCC 496"
+  ],
+  "final_judgment": "The Supreme Court upheld the impugned judgment of the Calcutta High Court, affirming that the 2016 Amendment Act does not have retrospective operation and cannot be applied to transactions occurring prior to its enforcement on 01.11.2016."
+}

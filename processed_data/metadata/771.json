@@ -1,0 +1,38 @@
+{
+  "case_number": "2024 INSC 452; CRIMINAL APPEAL NOS. 2715-2719 OF 2024",
+  "parties": {
+    "petitioner": "Union Of India",
+    "respondent": "Barakathullah Etc."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-05-22",
+  "summary": "Bail appeal by Union of India against High Court order releasing PFI members; High Court failed to apply UAPA Section 43D standard; 'prima facie case' under UAPA requires broad probabilities, not detailed inquiry; weapon-training allegations (knives, swords, beer-bottle bombing) constitute preparation for terrorist acts under Section 15; reliance on protected witnesses' statements proper; High Court wrongly trivialized evidence; bail improperly granted.",
+  "legal_provisions_cited": [
+    "UAPA s.6(5)",
+    "UAPA s.8",
+    "UAPA s.13",
+    "UAPA s.15",
+    "UAPA s.17",
+    "UAPA s.18",
+    "UAPA s.18A",
+    "UAPA s.18B",
+    "UAPA s.38",
+    "UAPA s.39",
+    "IPC s.120B",
+    "IPC s.121A",
+    "IPC s.122",
+    "IPC s.153A",
+    "IPC s.153AA",
+    "IPC s.505(1)(b)",
+    "IPC s.505(1)(c)",
+    "IPC s.505(2)",
+    "Cr.P.C. s.43D",
+    "Cr.P.C. s.161",
+    "Cr.P.C. s.164",
+    "Supreme Court Rules 2013 O.XXII R.2(2)",
+    "Supreme Court Rules 2013 O.XXII R.2(3)",
+    "Gurwinder Singh vs State of Punjab",
+    "NIA vs Zahoor Ahmad Shah Watali"
+  ],
+  "final_judgment": "Appeal allowed; High Court bail order set aside; respondents to surrender within 7 days."
+}

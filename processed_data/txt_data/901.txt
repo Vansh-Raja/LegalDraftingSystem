@@ -1,0 +1,1791 @@
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ...
+on 20 April, 2023
+
+Author: B.R. Gavai
+
+Bench: B.R. Gavai, Vikram Nath, Sanjay Karol
+
+REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO.11095 OF 2018
+
+GMR WARORA ENERGY LIMITED            ...APPELLANT (S)
+
+VERSUS
+CENTRAL ELECTRICITY REGULATORY
+COMMISSION (CERC) & ORS.       ...RESPONDENT (S)
+
+WITH
+
+CIVIL APPEAL NOS.11910-11911 OF 2018
+
+CIVIL APPEAL NOS.12055-12056 OF 2018
+
+CIVIL APPEAL NO.3123 OF 2019
+
+CIVIL APPEAL NO.5372 OF 2019
+
+CIVIL APPEAL NO. 6641 OF 2019
+
+CIVIL APPEAL NOS. 2935-2936 OF 2020
+
+CIVIL APPEAL NOS. 4628-4629 OF 2021
+
+CIVIL APPEAL NOS. 5583-5584 OF 2021
+
+CIVIL APPEAL NO. 39 OF 2021
+
+CIVIL APPEAL NO. 5005 OF 2022
+Signature Not Verified
+
+CIVIL APPEAL NO. 4089 OF 2022
+Digitally signed by
+Narendra Prasad
+Date: 2023.04.20
+11:59:43 IST
+Reason:
+
+1
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+1
+(cid:12)                                        Index
+I.     INTRODUCTION……………………………………………..                               Paras 1 to 5
+II.     BRIEF FACTS AND SUBMISSIONS……………………..                         Paras 6 to 91
+III.     ADDITIONAL ISSUES………………………………………                              Para 92
+IV.      CONSIDERATION……………………………………………                                Paras 93 to 130
+V.      CONCLUSION…………………………………………………                                 Paras 131 to 168
+VI.      EPILOGUE……………………………………………………..                                Paras 169 to 184
+
+List of abbreviations:
+
+1.      APTEL  -    Appellate Tribunal for Electricity
+2.      CEA    -    Central Electricity Authority
+3.      CERC   -    Central Electricity Regulatory Commission
+4.      CIL    -    Coal India Limited
+5.      COD    -    Commercial Operation Date
+6.      CSA    -    Coal Supply Agreement
+7.      DISCOMS -   Distribution Companies
+8.      ECL    -    Eastern Coalfield Limited
+9.      EFC    -    Evacuation Facility Charges
+10.     FSA    -    Fuel Supply Agreement
+11.     GCV    -    Gross Calorific Value
+12.     LoA    -    Letter of Assurance
+13.     LPS    -    Late Payment Surcharge
+14.     MAT    -    Minimum Alternate Tax
+15.     MCL    -    Mahanadi Coalfield Limited
+16.     MERC   -    Maharashtra Electricity Regulatory Commission
+17.     MoC    -    Ministry of Coal
+18.     MoP    -    Ministry of Power
+19.     MSEDCL -    Maharashtra State Electricity Distribution Company Limited
+20.     NCDP   -    New Coal Distribution Policy
+21.     PPAs   -    Power Purchase Agreements
+22.     RFP    -    Request for Proposal
+23.     SBAR   -    State Bank Advance Rate
+24.     SECL   -    South Eastern Coal Limited
+25.     SHAKTI -    Scheme for Harnessing and Allocating Koyala (Coal) Transparently in India
+26.     SHR    -    Station Heat Rate
+27.     TANGEDCO-   Tamil Nadu Generation and Distribution Corporation
+28.     UHV    -    Useful Heat Value
+
+2
+(cid:12)                           JUDGMENT
+B.R. GAVAI, J.
+
+I. INTRODUCTION
+
+2
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+1. When we heard this batch of Electricity appeals, it was agreed between all the parties that this
+Court should first decide Civil Appeal No. 684 of 2021 (Maharashtra State Electricity Distribution
+Company Limited v. Adani Power Maharashtra Limited & Ors.1) [“MSEDCL v. APML & Ors.” for
+short] and Civil Appeal No. 6927 of 2021 (Maharashtra State Electricity Distribution Company
+Limited v. GMR Warora Energy Ltd. & ors.), inasmuch as three of the issues involved in all the
+appeals in the batch were common. It was submitted that those two appeals could be decided by
+deciding the three common issues. However, insofar as the other appeals are concerned, it was
+submitted that, in addition to the three common issues, certain 2023 SCC OnLine 233 additional
+issues were also involved and it was agreed that after those two appeals are decided, the other
+appeals should be heard for considering these additional issues.
+
+2. The said three common issues are thus:
+
+(i) Whether ‘Change in Law’ relief on account of New Coal Distribution Policy, 2013
+(“NCDP 2013” for short) should be on ‘actuals’ viz. as against 100% of normative coal
+requirement assured in terms of New Coal Distribution Policy, 2007 (“NCDP 2007”
+for short) OR restricted to trigger levels in NCDP 2013 viz. 65%, 65%, 67% and 75%
+of ACQ?
+
+(ii) Whether for computing ‘Change in Law’ relief, the operating parameters should
+be considered on ‘actuals’ OR as per technical information submitted in bid?
+
+(iii) Whether ‘Change in Law’ relief compensation is to be granted from 1st April 2013
+(start of Financial Year) or 31st July 2013 (date of NCDP 2013)?
+
+3. After extensively hearing all the learned counsel for the parties, vide the judgment and order
+dated 3rd March 2023 in the case of MSEDCL v. APML & Ors. (supra), this Court decided those two
+appeals after considering the aforesaid three issues.
+
+4. The first issue was answered by this Court, holding that the ‘Change in Law’ relief for domestic
+coal shortfall should be on ‘actuals’, i.e. as against 100% of normative coal requirement assured in
+terms of the NCDP, 2007. Insofar as the second issue is concerned, it was held that the Station Heat
+Rate (“SHR” for short) and Auxiliary consumption should be considered as per the Regulations or
+actuals, whichever is lower. The third issue was answered holding that the Start date for the ‘Change
+in Law’ event for the NCDP, 2013 is 1st April 2013.
+
+5. After we decided those appeals, we have heard the present appeals in which some of the issues
+which were decided by us vide the said judgment in the case of MSEDCL v. APML & Ors. (supra)
+also arose for consideration along with other issues. However, most of the issues in all these appeals
+are overlapping and, therefore, we propose to decide these appeals by this common judgment.
+
+II. BRIEF FACTS AND SUBMISSIONS Civil Appeal No. 11095 of 2018 and Civil Appeal Nos. 11910-
+11911 of 2018
+
+3
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+6. These cross appeals challenge the common judgment and order dated 14th August 2018 passed by
+the learned Appellate Tribunal for Electricity, New Delhi (hereinafter referred to as “APTEL”) in
+Appeal No. 111 of 2017 & I.A. No.450 of 2018 and in Appeal No.290 of 2017 & I.A. No.519 of 2017.
+
+7. Civil Appeal No.11095 of 2018 is filed by GMR Warora Energy Ltd. (hereinafter referred to as
+“GWEL”/”Generator”) to the extent it was denied compensatory benefits on certain components on
+the ground of ‘Change in Law’.
+
+8. Civil Appeal Nos. 11910-11911 of 2018 have been filed by DNH Power Distribution Co. Ltd.
+(DPDCL) (hereinafter referred to as “DNH-DISCOM”), being aggrieved by the order of the learned
+APTEL accepting the claim of GWEL on certain issues and holding the same to be ‘Change in Law’.
+
+9. The facts, in brief, giving rise to these appeals are as under:
+
+10. GWEL had set up a Thermal Power Station at Warora, District Chandrapur in the State of
+Maharashtra with an installed capacity of 600 MW (2 x 300 MW). The Commercial Operation Date
+(“COD” for short) of Unit 1 was 19th March 2013 and that of Unit 2 was 1st September 2013.
+
+11. GWEL had entered into long term Power Purchase Agreements (“PPAs” for short) with
+DNH-DISCOM for supply of 200 MW power to Maharastra State Electricity Distribution Company
+Limited (“MSEDCL” for short) on 17th March 2010 [“MSEDCL PPA”) and for supply of 200 MW
+power on 21st March 2013 (“DNH PPA”), after it emerged as the successful bidder for supply of
+power to MSEDCL/ DNH-DISCOM. The Scheduled delivery date under the MSEDCL PPA was 17th
+March 2014, whereas under the DNH PPA, it was 1st April 2013. GWEL is also supplying 150 MW
+power from its power plant to Tamil Nadu Generation and Distribution Corporation (“TANGEDCO”
+for short) by way of back-to-back arrangement with trading company GMR Energy Trading Limited,
+for which purpose, a PPA was signed on 27th November 2013 (“TANGEDCO PPA”).
+
+12. In terms of the PPAs, the cut-off date, which is 7 days prior to the bid deadline, is to be
+considered for the purpose of claims under ‘Change in Law’. Following are the cut-off dates under
+the said PPAs.
+
+DNH PPA       MSEDCL PPA        TANGEDCO PPA
+
+Cut-off date     1.6.2012       31.7.2009          27.2.2013
+
+13. Certain ‘Change in Law’ events occurred with regard to MSEDCL PPA and DNH PPA after the
+cut-off date. The same were notified by GWEL to MSEDCL/ DNH-DISCOM.
+
+14. GWEL filed Petition No. 8/MP/2014 before the Central Electricity Regulatory Commission
+(hereinafter referred to as “CERC”) seeking relief for ‘Change in Law’.
+
+4
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+15. Vide Order dated 1st February 2017, certain claims were allowed and certain claims were
+disallowed by the CERC.
+
+16. The claims which were allowed by the CERC are thus:
+
+“i.     Increase in CVD from 8% to 10%
+and 10% to 12%;
+
+ii.     Increase in Excise Duty;
+
+iii.    Increase in Service Tax;
+
+iv.     Increase in other taxes [Work
+Contract Tax (WCT), VAT, CST];
+
+v.      Change in Excise Duty on coal;
+
+vi.     Increase in the rate of Royalty on
+coal;
+
+vii.    Levy of Clean Energy Cess by
+Government of India (Gol);
+
+viii.   Increase   in    service  tax    on
+transportation of goods by IR;
+
+ix.     Levy of Swachh Bharat Cess.”
+
+17. The claims which were disallowed by the CERC are thus:
+
+“i. Withdrawal of deemed export benefit by DGFT;
+
+(cid:12)          ii.    Design changes in Coal Handling
+Plant (CHP);
+
+iii.   Increase in the rate of Minimum
+Alternate Tax (MAT);
+
+iv.    Increase in Busy Season Surcharge
+and Development surcharge on
+transportation of coal by Indian
+Railways (IR);
+
+v.     Increase in sizing charges and
+surface transportation charges by
+Coal India Ltd. (CIL);
+
+vi.    Increase in operating cost on
+account of specification of coal
+quality to be used for the TPS;
+
+5
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+vii.   Change from UHV to GCV based
+pricing of coal;
+
+viii. Incremental increase in Interest on Working Capital (IWC) on account of
+increase in Project costs.”
+
+18. Being aggrieved by the judgment and order passed by the CERC, cross-appeals were filed by both
+GWEL and DNH- DISCOM.
+
+19. Vide the impugned judgment, the learned APTEL, while concurring with the view of CERC on
+the claims allowed by it, further allowed the claims on the ground of ‘Change in Law’ on the
+following components:
+
+(i) Busy Season Surcharge and Development Surcharge;
+
+(ii) Ministry of Environment and Forest (“MoEF”) Notification on coal quality; and
+
+(iii) Change in NCDP and Carrying Cost.
+
+20. However, the rest of the claims were disallowed by the learned APTEL, concurring with the view
+taken by the CERC. Insofar as the appeal filed by DNH-DISCOM is concerned, the same was
+dismissed by the learned APTEL. Hence, these cross- appeals.
+
+21. We have heard Mr. Vishrov Mukherjee, learned counsel appearing on behalf of the GWEL and
+Mr. Samir Malik, learned counsel appearing on behalf of MSEDCL and Mr. M.G. Ramachandran,
+learned Senior Counsel appearing on behalf of the DNH-DISCOM.
+
+22. Mr. Vishrov Mukherjee submits that the learned APTEL has erred in disallowing the claim on
+the following items:
+
+(i) Withdrawal of Deemed Export Benefit by way of Circular dated 28th December
+2011 and Notification dated 28th December 2011 issued by the Directorate General of
+Foreign Trade (“DGFT”) and amendment to the Foreign Trade Policy dated 21st
+March 2012;
+
+(ii) Imposition of Crushing/Sizing charges and Surface Transportation Charges by
+Notification dated 15th October 2009;
+
+(iii) Change in system of classification of coal by Coal India Limited (“CIL” for short)
+from Useful Heat Value (“UHV” for short) to Gross Calorific Value (“GCV” for short)
+system of pricing by way of Notification dated 30th December 2011;
+
+6
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+(iv) Increase in levy of Minimum Alternate Tax (“MAT” for short) pursuant to
+amendment of Section 115JB of the Income Tax Act, 2012;
+
+(v) Design changes in Coal Handling Plant in terms of letter issued by the Central
+Electricity Authority (“CEA” for short) dated 19th April 2011;
+
+(vi) Increase in working capital.
+
+2 3 .   I t   i s   s u b m i t t e d   t h a t   a l l   t h e s e   c h a n g e s   h a v e   t a k e n   p l a c e   o n   a c c o u n t   o f   t h e
+Notifications/Orders/Circulars issued by the instrumentalities of the State and as such, the learned
+APTEL ought to have allowed the claim for compensation on account of ‘Change in Law’ on the
+aforesaid items also.
+
+24. It is submitted that the compensation on account of the ‘Change in Law’ is based on the principle
+of restitution so as to put back the party to the same economic position it was in, had the ‘Change in
+Law’ event not taken place. However, this has not been considered in the correct perspective by the
+learned APTEL.
+
+25. Learned counsel appearing on behalf of the DNH-DISCOM and MSEDCL, on the contrary,
+submit that the learned APTEL has erred in considering the Busy Season Surcharge and
+Development Surcharge, MoEF Notification on coal quality, Change in NCDP and Carrying Cost as
+‘Change in Law’ events. He submits that when the Generator had submitted its bid, it was aware that
+there was a likelihood of variations on certain payments to be made and the same were factored in
+while submitting the bid. It is, therefore, submitted that the learned APTEL erred in granting
+‘Change in Law’ benefits on the said issues.
+
+Civil Appeal Nos. 4628-4629 of 2021
+
+26. These appeals have been filed by Uttar Haryana Bijli Vitran Nigam Limited and Dakshin
+Haryana Bijli Vitran Nigam Limited (hereinafter referred to as “Haryana Discoms”) challenging the
+common judgment and order dated 7th June 2021 passed by the learned APTEL in Appeal No.158 of
+2017 & I.A. No.575 of 2018 and Appeal No. 316 of 2017. Appeal No.158 of 2017 & I.A. No.575 of 2018
+were filed by Adani Power (Mundra) Limited (hereinafter referred to as “AP(M)L”), being aggrieved
+by the order passed by the CERC dated 6th February 2017, whereby the CERC had denied certain
+claims for compensation on certain components on account of ‘Change in Law’, whereas Appeal
+No.316 of 2017 was filed by Haryana Discoms challenging grant of claim of compensation on certain
+components on the ground of ‘Change in Law’.
+
+27. The Chart of claims which were allowed and disallowed by the CERC is as under:
+
+“107. Based on the above analysis and decisions, the summary of our decision under
+the Change in Law during the operating period of the project is as under:
+
+Components                               Change in
+Law Event
+
+7
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+Change in Rate of Royalty
+Allowed
+Levy of Central Excise Duty subject
+Allowed
+to directions in para 32 of the order
+
+Levy of Clean Energy Cess
+Allowed
+Levy of Customs Duty on energy
+Allowed
+removed from SEZ to DTA
+
+Increase in Busy Season Surcharge        Not Allowed
+on transportation of coal
+
+(cid:12)Increase in Development Surcharge
+Not Allowed
+on transportation of coal
+
+Levy    of    Service         Tax   on
+Allowed
+transportation of coal
+
+Levy of Green Energy Cess in Liberty granted Gujarat to approach after Hon`ble
+Supreme Court’s Decision Increase in Sizing Charges of coal Not Allowed Increase in
+Surface Transportation Not Allowed Change in pricing of coal from UHV Not Allowed
+to GCV basis Change in class from 140 to 150 for Railway freight for coal for trainload
+Not Allowed movement Levy of Minimum Alternate Tax on Not Allowed plants
+situated in SEZ Linking railway tariff revision with Not Allowed movement in cost of
+fuel Imposition of Swachh Bharat Cess Allowed Payment to National Mineral
+Allowed Exploration Trust Payment to District Mineral Allowed Foundation
+Installation of FGD as per Environmental clearance dated 20.5.2010 Not decided
+Auxiliary consumption due to FGD and liberty installation affecting capacity granted
+charges Additional operating expenditure on FGD Carrying cost Not Allowed .”
+
+28. Being aggrieved by the order of the CERC, cross-appeals were filed by AP(M)L so also by
+Haryana Discoms before the learned APTEL. The Haryana Discoms challenged that part of the
+order of the CERC which allowed claim on components on the ground of ‘Change in Law’, whereas
+AP(M)L challenged that part of the order of the CERC which disallowed its claim on various
+components.
+
+29. Though AP(M)L had sought ‘Change in Law’ compensation on various components, the same
+was allowed by the learned APTEL by the impugned order only on the ground of:
+
+8
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+(i) ‘Busy Season Surcharge and Developmental Surcharge on transportation of coal’,
+and
+
+(ii) ‘Carrying Cost’.
+
+30. The claim of AP(M)L pertaining to increase in Surface Transportation Charges so also Sizing
+Charges of coal were denied by the learned APTEL, concurring with the view taken by the CERC.
+
+31. Being aggrieved by the orders passed by the CERC and the learned APTEL allowing ‘Change in
+Law’ on certain components, the Haryana Discoms have approached this Court.
+
+32. We have heard Ms. Poorva Saigal, learned counsel appearing on behalf of the Haryana Discoms
+and Dr. A.M. Singhvi, learned Senior Counsel appearing on behalf of AP(M)L.
+
+33. Ms. Poorva Saigal submits that the learned APTEL grossly erred in reversing the well-reasoned
+findings of the CERC on the issue of Busy Season Surcharge and Developmental Surcharge on
+transportation of coal. She, therefore, submits that the finding of the learned APTEL with regard to
+the same needs to be set aside.
+
+34. Dr. A.M. Singhvi, on the contrary, submits that the Busy Season Surcharge as well as the
+Developmental Surcharge are revised as per the Notifications/Circulars issued by the Ministry of
+Railways and as such, they would come within the definition of ‘Change in Law’.
+
+Civil Appeal Nos. 12055-12056 of 2018
+
+35. These appeals, filed by Jaipur Vidyut Vitran Nigam Ltd., Ajmer Vidyut Vitaran Nigam Ltd. and
+Jodhpur Vidhyut Vitaran Nigam Ltd. (hereafter referred to as “Rajasthan Discoms”), challenge the
+common judgment and order dated 14th August 2018, passed by the learned APTEL in Appeal No.
+119 of 2016 & I.A. Nos. 668 and 674 of 2016 and in Appeal No.277 of 2016 & I.A. No.572 of 2016.
+
+36. Appeal No. 119 of 2016 & I.A. Nos. 668 & 674 of 2016 were filed by M/s Adani Power Rajasthan
+Ltd. (“APRL” for short), being aggrieved by the judgment and order dated 15th March 2016, passed
+by the Rajasthan Electricity Regulatory Commission (hereinafter referred to as “State Commission”)
+thereby disallowing some of its claims on account of ‘Change in Law’, whereas Appeal No. 277 of
+2016 and I.A. No.572 of 2016 were filed by the Rajasthan Discoms, being aggrieved by the order of
+the State Commission of the same date vide which some of the ‘Change in Law’ claims were allowed
+by the CERC.
+
+37. The ‘Change in Law’ claims which were allowed by the State Commission are as under:
+
+i. Change in Rate of Royalty Payable on Domestic Coal;
+
+ii. Levy of Service Tax on Transportation of Goods by Indian Railways (IR); and iii.
+Increase in Fee for ‘Consent to Operate’.
+
+9
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+38. The ‘Change in Law’ claims which were not allowed by the State Commission are thus:
+
+1. Change in Pricing Mechanism of Coal from Useful Heat Value (UHV) Basis to
+Gross Calorific Value Basis (GCV)
+
+2. Increase in Sizing Charges for coal charged by Coal India Ltd. (CIL)
+
+3. Increase in Surface Transportation Charges
+
+4. Increase in Busy Season Surcharge on Transportation of Coal by Indian Railways
+
+5. Increase in Development Surcharge levied on Transportation of Coal by Railways
+
+6. Levy of Fuel Adjustment Component
+
+7. Levy of Port Congestion Surcharge
+
+8. Levy of Forest Tax
+
+9. Change in Classification of Coal for Train Load Movement
+
+39. Vide the impugned judgment, the learned APTEL dismissed the appeal of the Rajasthan
+Discoms and partly allowed the appeal of APRL allowing its claims on the ground of ‘Busy Season
+Surcharge’, ‘Development Surcharge’, ‘Port Congestion Surcharge, ‘Forest Tax’ and ‘Carrying Cost’.
+Being aggrieved thereby, the Rajasthan Discoms have approached this Court.
+
+40. We have heard Mr. V. Giri, learned Senior Counsel appearing on behalf of the Rajasthan
+Discoms and Dr. A.M. Singhvi, learned Senior Counsel appearing on behalf of the APRL.
+
+41. Mr. V. Giri submits that clause 10 in the PPA is referable only to taxes under Article 268 of the
+Constitution of India. He submits that the learned APTEL has, therefore, erred in allowing ‘Change
+in Law’ benefits on the issues related to Busy Season Surcharge, Development Surcharge, Port
+Congestion Charges, Forest Tax and Carrying Cost which are not taxes referable to Article 268 of the
+Constitution.
+
+42. Dr. Singhvi made arguments on similar lines as have been made in the other appeals.
+
+Civil Appeal Nos. 2935-2936 of 2020
+
+43. These appeals have been filed by the Rajasthan Discoms and Rajasthan Urja Vikas Nigam Ltd.
+challenging the common judgment and order dated 29th January 2020, passed by the learned
+APTEL in Appeal no.284 of 2017 and Appeal No. 09 of 2018.
+
+10
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+44. Appeal No. 284 of 2017 was filed by APRL challenging the order dated 8th June 2017 passed by
+the State Commission, being aggrieved by the disallowance of its claim on some components on the
+ground of ‘Change in Law’ and carrying cost, whereas Appeal No.9 of 2018 was filed by Rajasthan
+Discoms being aggrieved by the claims which were allowed by the State Commission.
+
+45. The list of the components which were allowed and which were not allowed on the ground of
+‘Change in Law’ is thus:
+
+“Sr.                                         Decision of the
+Change in Law's items
+No.                                           Commission
+Levies on Royalty
+(i) National Mineral Exploration
+Trust effective from 14.08.2015
+A                                              Allowed
+(ii) District Mineral Foundation
+effective from 12.01.2015
+
+Levy of Swachh Bharat Cess (SBC)
+B                                              Allowed
+along with Service Tax for rail
+
+(cid:12)    transportation    effective   from
+15.11.2015
+
+Levy of Swachh Bharat Cess @0.5%
+along with Service Tax - Operation
+C                                         Not Allowed
+Period effective from 15.11.2015
+
+Levy of Krishi Kalyan Cess (KKC)
+along with Service Tax and Swachh
+D   Bharat Cess for rail transportation    Allowed
+from lst June 2016
+
+Levy of Krishi Kalyan Cess @0.5%
+along with Service Tax and Swachh
+Not Allowed
+E   Bharat Cess - Operation Period
+from 1st June 2016.
+
+Amendment       to   Environmental
+F   (Protection) Rules 1986               Not Allowed
+
+Levy of Coal Terminal Surcharge
+Not Allowed
+G   (CTS) effective from 22.08.2016
+
+11
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+Utilization of Fly Ash generated
+H   from coal and lignite based thermal
+Not Allowed
+power projects
+
+CG Paryavaran Upkar
+I                                         Not Allowed
+CG Vikas Upkar
+J                                         Not Allowed
+Service Tax on transportation of
+goods by a vessel from a place
+K                                         Not Allowed
+outside India up to the custom
+station of clearance in India
+
+(cid:12)   L       Carrying Cost                       Not Allowed”
+
+46. As stated above, being aggrieved by that part of the order which disallowed its claim, APRL
+preferred the aforesaid Appeal before the learned APTEL, whereas the Rajasthan Discoms, being
+aggrieved by that part of the order which allowed claims on certain components, also filed an Appeal
+before the learned APTEL.
+
+47. The learned APTEL, while dismissing the appeal of the Rajasthan Discoms, partly allowed the
+appeal of the APRL by allowing compensation on certain other components on the ground of
+‘Change in Law’.
+
+48. The components on which ‘Change in Law’ benefits were granted by the learned APTEL are
+thus:
+
+(i)     Coal Terminal Surcharge;
+
+(ii)    Chhattisgarh Paryavaran Upkar;
+
+(iii)   Chhattisgarh Vikas Upkar;
+
+(iv) Change in Swacch Bharat Cess at the rare of 0.5% on Service Tax for Operation Period;
+
+(v) Change in Krishi Kalyan Cess at the rate 5% on Service Tax for Operation Period;
+
+12
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+49. In addition to grant of relief on the ground of ‘Change in Law’, the learned APTEL also granted
+‘Carrying Cost’.
+
+50. Arguments similar to the ones advanced in Civil Appeal No. 12055-12056 of 2018 were advanced
+by Mr. V. Giri, learned Senior Counsel appearing on behalf of the Rajasthan Discoms, as well as by
+the learned counsel for the respondents. Civil Appeal No. 3123 of 2019 and Civil Appeal No.5372 of
+
+51. These are cross appeals. Civil Appeal No.3123 of 2019 has been filed by Bihar State Power
+(Holding) Company Ltd. (hereinafter referred to as “Bihar Discoms”) and Civil Appeal No.5372 of
+2019 has been filed by GMR Kamalanga Energy Limited and GMR Energy Limited (hereinafter
+referred to as “GKEL”), challenging the judgment and order dated 21st December 2018 passed by
+the learned APTEL in Appeal No.193 of 2017 & I.A. No. 449 of 2018.
+
+52. Appeal No.193 of 2017 & I.A. No.449 of 2018 were filed by GKEL challenging the order of the
+CERC dated 7th April 2017, aggrieved by the denial of its claims on certain components on the
+ground of ‘Change in Law’. The Bihar Discoms have challenged that part of the order of the learned
+APTEL which allowed claims of GKEL on the ground of ‘Change in Law’.
+
+53. By the impugned order, the learned APTEL granted claims on the ground of:
+
+(i) Change in NCDP (cancellation of Captive Block vis-à-vis tapering linkage),
+
+(ii) busy season surcharge and developmental surcharge,
+
+(iii) carrying cost; and
+
+(iv) add on premium price.
+
+54. We have heard Mr. Vishrov Mukerjee, learned counsel appearing on behalf of the
+GKEL/Generator and Ms. Anushree Bardhan, learned Counsel appearing on behalf of the Bihar
+Discoms.
+
+55. Mr. Vishrov Mukerjee submits that the learned APTEL as well as the CERC have grossly erred in
+rejecting the claim for compensation on the ground of:
+
+(i) change in source of coal from Mahanadi Coalfields Ltd.
+
+(“MCL” for short) to Eastern Coalfields Ltd. (“ECL” for short) vide Notification dated 26th February
+2014 issued by the CIL;
+
+(ii) change in mode of transportation from rail to road vide Notification dated 29th September 2014
+issued by MCL;
+
+(iii) increase in levy of Minimum Alternate Tax (“MAT” for short); and
+
+13
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+(iv) interest on working capital.
+
+56. Learned counsel submitted that change in source of coal from MCL to ECL was on account of the
+notification issued by the CIL, which is an instrumentality of the State. Similarly, he submitted that
+the change in mode of transportation from rail to road was on account of the notification issued by
+the MCL. Learned counsel submits that, since, on account of these notifications, the cost of
+transportation of coal increased, applying the restitutionary principle, the CERC as well as the
+learned APTEL ought to have granted claims on the basis of ‘Change in Law’. He further submits
+that increase in levy of MAT has also been increased by the Union of India and, as such, the same
+would also amount to ‘Change in Law’. It is further submitted that interest on working capital was
+also increased on account of the orders of the instrumentalities of the State and, as such,
+compensation also ought to have been granted for the same.
+
+57. Learned counsel for the Bihar Discoms submits that the CERC as well as the learned APTEL
+have grossly erred in allowing claims on certain components on the ground of ‘Change in Law’.
+
+58. This appeal filed by GKEL arises out of the judgment and order dated 27th May 2019, passed by
+the learned APTEL in Appeal No.195 of 2016, thereby partly allowing the appeal.
+
+59. GKEL filed Petition No.79/MP/2013 before the CERC claiming compensation on various
+component on the ground of ‘Change in Law’ events.
+
+60. The CERC, vide order dated 3rd February 2016, disallowed compensation for the following
+components:
+
+(a) Change from UHV to GCV based pricing of coal pursuant to notification issued by
+the Government of India;
+
+(b) Increase/revision in the railway freight charges pursuant to notifications issued
+by Ministry of Railways and Ministry of Finance;
+
+(c) Increase in the rate of Minimum Alternate Tax (“MAT”) rates;
+
+(d) Increase in Value Added Tax in the State of Odisha;
+
+(e) Increase in water charges pursuant to notifications issued by the Government of
+Odisha;
+
+(f) Incremental increase in interest on working capital on account of increase in costs
+during the operating period.
+
+61. Being aggrieved thereby, Appeal No.195 of 2016. was preferred by GKEL. As stated above, the
+learned APTEL partly allowed the appeal and held that GKEL was entitled to compensation on
+following grounds.
+
+14
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+(i) Increase/revision in the railway freight charges in terms of notifications issued by the Ministry of
+Railways and Ministry of Finance on account of imposition of development surcharge, busy season
+surcharge and service tax;
+
+(ii) VAT rate enhancement from 4% to 5% from 30.03.2012 onwards;
+
+(iii) Carrying cost/interest on compensation on the above items after ascertainment of the same by
+computation, which shall be assessed from the date of respective notification/circular/order from
+the concerned Ministry/Department/Governmental instrumentality till payment is made.
+
+62. Appellant-GKEL, being unsatisfied with the same, has approached this Court praying for a
+direction that it is also entitled to compensation on various other components, viz.,
+
+(i) Increase in Water Charges;
+
+(ii) Shift from UHV to GCV methodology of pricing of coal;
+
+(iii) Increase in rate of MAT; and
+
+(iv) Interest on working capital.
+
+63. Arguments similar to the ones advanced in Civil Appeal No. 3123 of 2019 and Civil Appeal
+No.5372 of 2019 were advanced by the learned counsel for the parties.
+
+Civil Appeal Nos. 5583-5584 of 2021
+
+64. These appeals, filed by Bihar Discoms, arise out of the judgment and order dated 6th August
+2021, passed by the learned APTEL in Appeal No. 423 of 2019 and in Appeal No.173 of 2021.
+
+65. In the said case, the learned APTEL, vide order dated 21st December 2018, had allowed the
+following claims as ‘Change in Law’ and remanded the matter back to the CERC to determine
+compensation due to GKEL:
+
+(a) Shortfall in linkage coal and deviation in NCDP;
+
+(b) Cancellation of captive coal block;
+
+(c) Imposition of Busy Season Surcharge and Development Surcharge;
+
+(d) Levy of Add-On Premium over and above the notified price of coal; and
+
+(e) Carrying Cost.
+
+15
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+66. Upon remand, the CERC passed order dated 16th September 2019, thereby granting
+compensation on certain components on the ground of ‘Change in Law’ including carrying cost.
+
+67. Contending that the order passed by the CERC did not give effect to the ‘Change in Law’
+components as directed by the learned APTEL, an appeal being Appeal No. 423 of 2019 came to be
+preferred by GKEL before the learned APTEL.
+
+68. Bihar Discoms had also filed an appeal being Appeal No.173 of 2021, before the learned APTEL,
+being aggrieved by the benefits which were granted by the CERC.
+
+69. By the impugned order, the learned APTEL held that the GKEL was entitled to recover
+expenditure involved in procurement of alternate coal due to shortfall in domestic coal supply
+corresponding to scheduled generation pertaining to the obligations under the Bihar PPA. The
+learned APTEL held that this was required to be done in order to restore the appellant- GKEL to the
+same economic position as before as if no ‘Change in Law’ event had occurred.
+
+70. We have heard Ms. Anushree Bardhan, learned counsel appearing on behalf of the
+appellant-Bihar Discoms and Mr. Maninder Singh, learned Senior Counsel appearing on behalf of
+GKEL.
+
+71. Ms. Anushree Bardhan submits that the learned APTEL ought to have granted benefit of ‘Change
+in Law’ restricting it to shortfall for only 894.5 MW, which was the amount specified in the PPA, and
+not for the entire 1050 MW, which is the installed capacity. She further submits that the learned
+APTEL had also erred in granting add on premium on account of extension of tapering linkage by
+three years.
+
+72. Shri Maninder Singh, learned Senior Counsel submits that insofar as the first issue with regard
+to shortfall of coal supply is concerned, the same is squarely covered by the judgments of this Court
+in the cases of Energy Watchdog v. Central Electricity Regulatory Commission and others2, Jaipur
+Vidyut Vitaran (2017) 14 SCC 80 Nigam Ltd. and others v. Adani Power Rajasthan Limited and
+another3 (hereinafter referred to as “Adani Rajasthan case”) and MSEDCL v. APML & Ors. (supra).
+
+73. He further submits that the delay in operationalization of the captive mines was not on account
+of any reason attributable to GKEL. He submits that, since the allotment of coal blocks was
+cancelled on account of the judgment of this Court in the case of Manohar Lal Sharma v. The
+Principal Secretary & Ors.4, GKEL was also entitled for the benefit for the said period.
+
+74. Insofar as Busy Season Surcharge is concerned, he submits that there is a concurrent finding of
+fact. He submits that, in any case, the said charges are issued by the Railway Board by issuing
+Notifications/Circulars. He submits that since the Railway is an instrumentality of the State, both
+the CERC and the learned APTEL have concurrently held that the Generator would be entitled to
+compensation on the ground of ‘Change in Law’. 2020 SCC Online SC 697 (2014) 9 SCC 516 and
+2014 (9) SCC 614
+
+16
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+75. This appeal filed by the DNH-DISCOM arises out of the judgment and order dated 13th October
+2020, passed by the learned APTEL in Appeal No.283 of 2019 & I.A. Nos. 2188 & 1229 of 2019,
+thereby dismissing the said appeal arising out of the judgment and order passed by the CERC dated
+16th May 2019.
+
+76. The DNH-DISCOM had initiated a competitive bidding process through issuance of a Request
+for Proposal (“RFP” for short) in March 2012 for procurement of power on Long Term Basis under
+Case-1 bidding procedure. As per the RFP, the cut- off date was 1st June 2012.
+
+77. The respondent-GWEL emerged as the successful bidder for supplying Aggregated Contracted
+Capacity of 200 MW at a levelized tariff of Rs.4.618 per Unit.
+
+78. Accordingly, Letter of Intent (LoI) was issued by DNH- DISCOM on 14th August 2012. An
+application/petition being Petition No.87/2012 came to be filed before the Joint Electricity
+Regulatory Commission (hereinafter referred to as “Joint Commission”) for approval of the PPA and
+adoption of tariff. GWEL was also joined as a co-petitioner in the said Petition. The Joint
+Commission, vide order dated 19th February 2013, approved the PPA. Accordingly, the PPA came to
+be executed on 21st March 2013.
+
+79. GWEL filed Petition No. 8/MP/2014 before the CERC seeking compensation on certain
+components on the ground of ‘Change in Law’. The same was decided by the CERC vide order dated
+1 s t   F e b r u a r y   2 0 1 7 .   A g g r i e v e d   t h e r e b y ,   b o t h   t h e   a p p e l l a n t -   D N H - D I S C O M   a n d   t h e
+respondent-GWEL filed appeals before the learned APTEL. In appeal, the learned APTEL remanded
+the matter to the CERC vide order dated 14th August 2018 for considering certain issues. Being
+aggrieved by the order dated 14th August 2018, the appellant-DNH-DISCOM filed an appeal, being
+Civil Appeal No.11910 of 2018, before this Court. The said appeal is also being decided in the present
+batch of appeals, by this common judgment.
+
+80. On remand, the CERC passed an order dated 16th May 2019 and allowed the claim of
+GWEL/Generator on the ground of ‘Change in Law’ occurring on account of the enforcement of the
+‘Scheme for Harnessing and Allocating Koyala (Coal) Transparently in India’ (“SHAKTI Policy” for
+short). Being aggrieved thereby, DNH-DISCOM had filed an appeal before the learned APTEL. As
+stated herein above, the same was dismissed by the learned APTEL vide the impugned judgment.
+
+81. We have heard Mr. C.A. Sundaram, learned Senior Counsel appearing on behalf of the
+DNH-DISCOM and Mr. Niranjan Reddy, learned Senior Counsel appearing on behalf of the
+respondent-GWEL.
+
+82. Mr. C.A. Sundaram submits that, from the presentation which was given by the GWEL, it was
+apparent that it was given on the basis that coal supply would be restricted only to 65%. He submits
+that, as such, the grant of benefit on account of ‘Change in Law’ on the ground that there was 100%
+assurance by CIL is not permissible. He, therefore, submits that the judgment and order of the
+learned APTEL deserves to be set aside to that extent.
+
+17
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+83. Mr. Niranjan Reddy, on the contrary, submits that the bid of GWEL was submitted on 8th June
+2012, on which date NCDP 2007 was in force. He submits that, subsequently, the NCDP 2007 was
+modified on 31st July 2013 and thereafter SHAKTI Policy has come into effect on 22nd May 2017
+and, as such, judgment and order of the learned APTEL warrants no interference.
+
+Civil Appeal No. 5005 of 2022 and Civil Appeal No. 4089 of
+
+84. These appeals challenge the common judgment and order dated 22nd March 2022 passed by the
+learned APTEL in Appeal No. 118 of 2021 and 40 of 2022, filed by Rattan India Power Limited
+(hereinafter referred to as “Rattan India”) and Adani Power Maharashtra Limited (for short,
+“APML”) respectively, thereby challenging the orders dated 1st January 2019 and 3rd August 2018,
+passed by Maharashtra Electricity Regulatory Commission (hereinafter referred to as ‘MERC’) in
+Case No. 227 of 2018 and Case No. 124 of 2018 respectively.
+
+85. The facts in brief giving rise to the present appeals are as under:
+
+Rattan India has entered into PPAs dated 22nd April 2010 and 5th June 2010 with
+MSEDCL for supply of 1200 MW aggregate power at levelized tariff of Rs.3.260 KWH
+for a period of 25 years. It filed a petition before MERC, being Case No. 227 of 2018,
+claiming compensation on the ground of ‘Change in Law’ occurring on account of the
+circular dated 19th December 2017 issued by CIL, vide which it levied the Evacuation
+Facility Charges (for short, “EFC”). The same was rejected by MERC, vide order dated
+1st January 2019. A similar petition being Case No. 124 of 2018 was also filed by
+APML, raising a similar claim before MERC, which was also rejected by MERC, vide
+its earlier order dated 3rd August 2018.
+
+86. Being aggrieved thereby, Rattan India had filed an Appeal No. 118 of 2021 and APML had
+preferred an Appeal No. 40 of 2022. By the impugned order, the learned APTEL had held EFC
+imposed by CIL vide Circular dated 19th December 2017 to be a ‘Change in Law’ event and,
+accordingly, held the Generators to be entitled to compensation on the said ground. Being aggrieved
+thereby, the MSEDCL has preferred these appeals.
+
+87. We have heard Shri Balbir Singh, learned Additional Solicitor General (for short, “ASG”) and
+Shri G. Saikumar, learned counsel appearing on behalf of the appellant and Shri Sajan Poovayya,
+learned Senior Counsel for the respondents in Civil Appeal No. 5005 of 2022 and Shri Vishrov
+Mukherjee, learned counsel appearing on behalf of the respondents in Civil Appeal No. 4089 of
+2022.
+
+88. Shri Balbir Singh, relying on Clause 9.1 of the Coal Supply Agreement (for short, “CSA”) dated
+28th December 2012 entered into between Southeastern Coalfields Limited and APML, submitted
+that CSA defines as to what shall be the base price of coal. He submitted that Clause 9.2 of the said
+CSA specifically provides for other charges which are permissible. Relying on Clause 9.4 of the CSA,
+he submitted that in all cases, the entire freight charges, irrespective of the mode of transportation
+of coal supplied, shall be borne by the purchaser. The learned ASG submitted that the EFC does not
+
+18
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+partake the character of a statutory levy. However, he submitted that, in any case, it does not have
+the force of law. He, therefore, submitted that APTEL has grossly erred in holding the circular of CIL
+dated 19th December 2017 to qualify as ‘Change in Law’.
+
+89. Shri Singh further submitted that the direction to pay the carrying cost at the rate provided for
+Late Payment Surcharge (for short, “LPS”) is also not permissible in law. He submitted that this
+Court, in Adani Rajasthan case (supra), has directed the carrying cost to be paid at the rate of 9%
+and as such, in the present case, it ought to have been directed to be paid at the same rate.
+
+90. Shri Singh also relies on the judgment of this Court in the case of Ashoka Smokeless Coal India
+(P) Limited and Others v. Union of India and Others5 in support of the proposition that CIL is free
+to fix the price of coal and that the Union of India has no control over it.
+
+91. Shri Poovayya, on the contrary, submitted that the levy is mandatory in nature. Unless the said
+levies are paid, the coal would not be supplied. He further submitted that since the CIL is an
+instrumentality of the Government, the order issued by it would amount to a law within the
+definition of “Law” as defined in the PPA. He further submitted that insofar as the carrying cost is
+concerned, there is a specific provision in the PPA in Article 11.8.3, which is binding on the parties.
+He submitted that on account of non-payment of the dues of the generating companies by
+DISCOMS, the generating companies are required to borrow the funds at the market rate and as
+such, applying the restitutionary principle, it is entitled to carrying cost as provided under the
+agreement.
+
+(2007) 2 SCC 640
+
+(cid:12)III.      ADDITIONAL ISSUES
+
+92. After hearing the learned counsel for the parties at length, we find that, apart from the three
+issues that were already decided by this Court in the case of MSEDCL v. APML & Ors. (supra), the
+issues as to whether the following components could be considered as ‘Change in Law’ events fall for
+consideration herein:
+
+(i) Busy Season Surcharge & Development Surcharge and Port Congestion Surcharge;
+
+(ii) MoEF Notification on coal quality;
+
+19
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+(iii) Shortfall in linkage coal due to Change in NCDP;
+
+(iv)     Forest Tax;
+
+(v)      Add on Premium price.
+
+(vi)     Evacuation Facility Charges (EFC).
+
+Apart   from    that,   another   question   that   requires
+
+consideration is, as to whether various taxes/charges imposed by various State
+Governments would also fall under ‘Change in Law’ events or not.
+
+The other question that requires considerations is, as to whether at what rate the Generators would
+be entitled to ‘carrying cost’.
+
+IV. CONSIDERATION
+
+93. For appreciating the rival submissions, we will have to construe the term “Law”, which has been
+defined in the PPAs, which reads thus:
+
+““Law” means, in relation to this Agreement, all laws including Electricity Laws in
+force in India and any statute, ordinance, regulation, Notification or code, rule, or
+any interpretation of any of them by an Indian Governmental Instrumentality and
+having force of law and shall further include all applicable rules, regulations, orders,
+Notifications by an Indian Governmental Instrumentality pursuant to or under any of
+them and shall include all rules, regulations, decisions and orders of the CERC and
+the MERC.”
+
+94. Perusal of the definition of the term “Law” itself would clearly show that the term “Law” would
+mean all laws including Electricity Laws in force in India and any statute, ordinance, regulation,
+Notification or code, rule, or any interpretation of any of them by an Indian Governmental
+Instrumentality and having force of law. It would further reveal that the term “Law” shall also
+include all applicable rules, regulations, orders, Notifications by an Indian Governmental
+Instrumentality and shall also include all rules, regulations, decisions and orders of the CERC and
+the MERC.
+
+95. In any case, the issue as to what would amount to “Law” is no more res integra. This Court, in
+the case of Energy Watchdog (supra), has observed thus:
+
+“57. Both the letter dated 31-7-2013 and the revised Tariff Policy are statutory
+documents being issued under Section 3 of the Act and have the force of law. This
+being so, it is clear that so far as the procurement of Indian coal is concerned, to the
+extent that the supply from Coal India and other Indian sources is cut down, the PPA
+read with these documents provides in Clause 13.2 that while determining the
+
+20
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+consequences of change in law, parties shall have due regard to the principle that the
+purpose of compensating the party affected by such change in law is to restore,
+through monthly tariff payments, the affected party to the economic position as if
+such change in law has not occurred. Further, for the operation period of the PPA,
+compensation for any increase/decrease in cost to the seller shall be determined and
+be effective from such date as decided by the Central Electricity Regulation
+Commission. This being the case, we are of the view that though change in
+Indonesian law would not qualify as a change in law under the guidelines read with
+the PPA, change in Indian law certainly would.”
+
+96. The aforesaid view of this Court taken in the case of Energy Watchdog (supra) has been
+approved by a Bench of three learned Judges of this Court in Adani Rajasthan case (supra) and also
+followed by this Court when the two linked matters out of this batch of appeals were decided by this
+Court in the case of MSEDCL v. APML & Ors. (supra). It cannot be denied that CIL is an
+instrumentality of the Government of India and its orders, insofar as price of fuel are concerned, are
+binding on all its subsidiaries.
+
+97. It will further be relevant to refer to Clause 9.0 of the CSA, which reads thus:
+
+“9.0 PRICE OF COAL:
+
+The “As Delivered Price of Coal” for the Coal supplies pursuant to this Agreement
+shall be the sum of Base Price, Other Charges and Statutory Charges, as applicable at
+the time of delivery of Coal.” It is thus clear that price of coal includes the sum of base
+price, other charges and statutory charges as applicable at the time of delivery of coal.
+
+98. As discussed herein above, the term ‘Law’ would also include all applicable rules, regulations,
+orders, Notifications issued by an Indian Governmental Instrumentality.
+
+99. It would thus be clear that all such additional charges which are payable on account of orders,
+directions, Notifications, Regulations, etc., issued by the instrumentalities of the State, after the
+cut-off date, will have to be considered to be ‘Change in Law’ events. The Generators would be
+entitled to compensation on the restitutionary principle on such changes occurring after the cut-off
+date.
+
+100. Having held thus, we will now consider some of the components which are common in most of
+these appeals. Busy Season Surcharge, Development Surcharge And Port Congestion Surcharge
+
+101. Insofar as increase in Busy Season Surcharge, Development Surcharge on transportation of
+coal, and Port Congestion Surcharge by the Indian Railways are concerned, the learned APTEL had
+found that the Indian Railways is an instrumentality of the State. It has been found that the Busy
+Season Surcharge, Development Surcharge and Port Congestion Surcharge were increased from
+time to time vide Circulars/Notifications issued by the Ministry of Railways, through the Railway
+Board.
+
+21
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+102. A Constitution Bench of this Court, in the case of Railway Board, Government of India v. M/s
+Observer Publications (P) Ltd.6, has held the Railway Board to be a State within the meaning of
+Article 12 of the Constitution of India. (1972) 2 SCC 266
+
+103. As such, no error could be found in the finding of the learned APTEL that the revision of
+charges to be paid on Busy Season Surcharge, Development Surcharge and Port Congestion Charges
+from time to time by the ‘Railway Board’ would come within the ambit of ‘Change in Law’.
+
+MoEF Notification on Coal Quality
+
+104. Insofar as MoEF notification on coal quality is concerned, the MoEF, vide Notification dated
+2nd January 2014, i.e. subsequent to the particular cut-off date, i.e. 1st June 2012, has mandated
+power projects to use beneficiated coal with ash content lower than 34%. The draft notification of
+MoEF dated 11th July 2012 culminated into the final Notification dated 2nd January 2014. By no
+stretch of imagination, can it be said that MoEF is not an instrumentality of the State.
+
+105. By the said Notification, MoEF has mandated power projects to use beneficiated coal with ash
+content lower than 34%. Admittedly, prior to the cut-off date, the same was not a requirement. It is
+thus clear that the said Notifications dated 11th July 2012 and 2nd January 2014 would amount to
+“Change in Law’. As such, no fault can be found with the finding of the learned APTEL that the same
+would amount to ‘Change in Law’. Shortfall in Linkage Coal due to Change in NCDP
+
+106. Insofar as shortfall in linkage coal due to changes in the NCDP issued by the Ministry of Coal
+(“MoC” for short) is concerned, the issue is no more res integra. This Court in the case of Energy
+Watchdog (supra) so also in Adani Rajasthan case (supra) and recently in MSEDCL v. APML & Ors.
+(Supra) has held that the change in NCDP would amount to ‘Change in Law’.
+
+Forest Tax
+
+107. Insofar as Forest Tax is concerned, perusal of the material placed on record would reveal that,
+as on the cut-off date, there was no Forest Tax applicable on coal mined and transported from South
+Eastern Coalfields Limited (“SECL” for short) mines located in Forest area. For the first time, vide
+Notification of the Chhattisgarh State Government, Department of Forest, under the provisions of
+Chhattisgarh Transit (Forest Produce Rule) 2001, a fee at the rate of Rs.7 per ton was levied.
+Undisputedly, the said Notification is issued by the Forest Department of the Government of
+Chhattisgarh, which is an instrumentality of the State. As such, no error can be found with the
+finding of the learned APTEL in that regard.
+
+Add on Premium Price
+
+108. Insofar as ‘Add on premium price’ is concerned, undisputedly, ‘add on premium’ was required
+to be paid on account of cancellation of captive coal blocks and inordinate delay on account of
+Go-No-Go policy. As such, it cannot be said that the reasoning adopted by the learned APTEL is
+perverse and arbitrary.
+
+22
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+Evacuation Facility Charges (EFC)
+
+109. Undisputedly, EFC was imposed by CIL vide its Circular dated 19th December 2017.
+
+110. As already discussed herein above, CIL is an instrumentality of the State. It is thus clear that, on
+the cut-off date, there was no requirement of EFC, which has been brought into effect only on 19th
+December 2017. As such, the circular of CIL dated 19th December 2017 would also amount to
+‘Change in Law’.
+
+111. As discussed herein above, it is also not in dispute that EFC has been paid by the generators
+while paying the base price, other charges and statutory charges at the time of delivery of coal. As
+such, no interference would be warranted with the said finding.
+
+112. That leaves us with the issue with regard to carrying cost. Carrying Cost
+
+113. This is the issue on which there is a serious contest between the DISCOMS and the Generators.
+
+114. On one hand, it is the submission of the DISCOMS that since there is no description of the same
+in the PPAs, the rate for granting carrying cost should be a reasonable rate. On the contrary, it is the
+submission of the Generators that there is a specific provision in the PPAs, which provides that the
+carrying cost has to be paid at the rate as per the rate specified for late payment surcharge. It is
+submitted that this is provided in the PPA so as to give effect to the restitutionary principle.
+
+115. For considering the rival submissions, it will be apposite to refer to the following Articles, which
+are almost common in most of the PPAs.
+
+“11. Billing and payment.— *** 11.3. Payment of monthly bills.— *** 11.3.4. In the event of delay in
+payment of a monthly bill by any procurer beyond its due date, a late payment surcharge shall be
+payable by the procurer to the seller at the rate of two (2) per cent in excess of the applicable SBAR
+per annum, on the amount of outstanding payment, calculated on a day to day basis (and
+compounded with monthly rest), for each day of the delay.
+
+*** 11.8. Payment of supplementary bill.— 11.8.1. Either party may raise a bill on the other party
+(“supplementary bill”) for payment on account of:
+
+(i) Adjustments required by the Regional Energy Account (if applicable);
+
+(ii) Tariff payment for change in parameters, pursuant to provisions in Schedule 5; or
+
+(iii) Change in law as provided in Article 13 and such Bill shall be paid by the other
+party.
+
+*** 11.8.3. In the event of delay in payment of a supplementary bill by either party beyond one
+month from the date of billing, a late payment surcharge shall be payable at same terms applicable
+
+23
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+to the monthly bill in Article 11.3.4.”
+
+116. A perusal of Article 11.3.4 of the PPA would reveal that in the event of delay in payment of a
+monthly bill by any procurer beyond its due date, a late payment surcharge shall be payable by the
+procurer to the seller at the rate of 2% in excess of the applicable State Bank Advance Rate (“SBAR”
+for short) per annum, on the amount of outstanding payment, calculated on a day to day basis (and
+compounded with monthly rest), for each day of the delay. Article 11.8 of the PPA deals with
+Payment of Supplementary Bill. It enables either party to raise a supplementary bill on the other
+party for payment on account of certain events. Clause (iii) of Article 11.8.1 of the PPA deals with
+‘Change in Law’ as provided in Article 13. It requires the bill to be paid by the other party. Article
+11.8.3 of the PPA also provides that in the event of delay in payment of a supplementary bill by
+either party beyond one month from the date of billing, a late payment surcharge shall be payable at
+same terms applicable to the monthly bill in Article 11.3.4.
+
+117. This Court in the case of Uttar Haryana Bijli Vitran Nigam Limited (UNHVNL) and another v.
+Adani Power Limited and others7, after considering the provisions of Article 11, which deals with
+‘Billing’ and Article 13, which deals with ‘Change in Law’, has observed thus:
+
+“9. It will be seen that Article 13.4.1 makes it clear that adjustment in monthly tariff
+payment on account of change in law shall be effected from the date of the change in
+law [see sub-clause
+
+(i) of clause 4.1], in case the change in law happens to be by way of adoption,
+promulgation, amendment, re-enactment or repeal of the law or change in law. As
+opposed to this, if the change in law is on account of a change in interpretation of law
+by a judgment of a Court or Tribunal (2019) 5 SCC 325 or governmental
+instrumentality, the case would fall under sub-clause (ii) of clause 4.1, in which case,
+the monthly tariff payment shall be effected from the date of the said order/judgment
+of the competent authority/Tribunal or the governmental instrumentality. What is
+important to notice is that Article 13.4.1 is subject to Article 13.2 of the PPAs.
+
+10. Article 13.2 is an in-built restitutionary principle which compensates the party affected by such
+change in law and which must restore, through monthly tariff payments, the affected party to the
+same economic position as if such change in law has not occurred. This would mean that by this
+clause a fiction is created, and the party has to be put in the same economic position as if such
+change in law has not occurred i.e. the party must be given the benefit of restitution as understood
+in civil law. Article 13.2, however, goes on to divide such restitution into two separate periods. The
+first period is the “construction period” in which increase/decrease of capital cost of the project in
+the tariff is to be governed by a certain formula. However, the seller has to provide to the procurer
+documentary proof of such increase/decrease in capital cost for establishing the impact of such
+change in law and in the case of dispute as to the same, a dispute resolution mechanism as per
+Article 17 of the PPA is to be resorted to. It is also made clear that compensation is only payable to
+either party only with effect from the date on which the total increase/decrease exceeds the amount
+stated therein.
+
+24
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+11. So far as the “operation period” is concerned, compensation for any increase/decrease in
+revenues or costs to the seller is to be determined and effected from such date as is decided by the
+appropriate Commission. Here again, this compensation is only payable for increase/decrease in
+revenue or cost to the seller if it is in excess of an amount equivalent to 1% of the Letter of Credit in
+aggregate for a contract year. What is clear, therefore, from a reading of Article 13.2, is that
+restitutionary principles apply in case a certain threshold limit is crossed in both sub-clauses (a) and
+(b).
+
+There is no dispute that the present case is covered by sub-clause (b) and that the aforesaid
+threshold has been crossed.
+
+The mechanism for claiming a change in law is then set out by Article 13.3 of the PPA.”
+
+118. It could thus be seen that this Court has held that insofar as the “operation period” is
+concerned, compensation for any increase/decrease in revenues or costs to the seller is to be
+determined and effected from such date as is decided by the appropriate Commission. It has further
+been held that the compensation is only payable for increase/decrease in revenue or cost to the
+seller if it is in excess of an amount equivalent to 1% of the Letter of Credit in aggregate for a
+contract year. It has been held that restitutionary principles apply in case a certain threshold limit is
+crossed. It has been held that an in-built restitutionary principle compensates the party affected by
+such ‘Change in Law’ and the affected party must be restored through monthly tariff payment to the
+same economic position as if such ‘Change in Law’ had not occurred.
+
+119. From the perusal of paragraph 9, it would also be clear that in case the ‘Change in Law’ happens
+to be by way of adoption, promulgation, amendment, re-enactment or repeal of the law or ‘Change
+in Law’, it has to be effected from the date on which such change occurs.
+
+120. In this respect, it will also be apposite to refer to the following observations of this Court in the
+case of Maharashtra State Electricity Distribution Company Limited v. Maharashtra Electricity
+Regulatory Commission and Others8:
+
+“173. The APTEL correctly found that:
+
+(Maharashtra Pradesh Electricity Regulatory Commission case [Maharashtra State
+Electricity Distribution Co. Ltd. v. Maharashtra Pradesh Electricity Regulatory
+Commission, 2021 SCC OnLine APTEL 13] , SCC OnLine APTEL para 13) “13. … On
+the contrary, there is a conscious exclusion regarding any suo motu change in the rate
+to be applied while calculating LPS, it being incorrect to argue on the assumption that
+the contract permits automatic change in system.” (emphasis supplied) (2022) 4 SCC
+657
+
+174. This Court is unable to accept Mr Singh's submission that the conclusion of
+APTEL that LPS is not tariff is erroneous.
+
+25
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+The meaning of the expression tariff has to be considered, and has rightly been considered by
+APTEL in the context of the relevant provision of the power purchase agreements. The dictionary
+meaning of tariff may be charge. However, in Article 13 of the Stage 1 and Article 10 of the Stage 2
+power purchase agreements, tariff means monthly tariff and tariff adjustment consequential to
+change in law, is of monthly tariff in respect of supply of electricity.
+
+175. As argued by the respondent power generating companies appearing through Mr Rohatgi, Mr
+Singhvi, Mr Mukherjee and Ms Anand respectively, LPS is only payable when payment against
+monthly bills is delayed and not otherwise.
+
+176. The object of LPS is to enforce and/or encourage timely payment of charges by the procurer i.e.
+the appellant. In other words, LPS dissuades the procurer from delaying payment of charges. The
+rate of LPS has no bearing or impact on tariff. Changes in the basis of the rates of LPS do not affect
+the rate at which power was agreed to be sold and purchased under the power purchase agreements.
+The principle of restitution under the change in law provisions of the power purchase agreements
+are attracted in respect of tariff.
+
+177. LPS cannot be equated with carrying cost or actual cost incurred for the supply of power. The
+appellant has a contractual obligation to make timely payment of the invoices raised by the power
+generating companies, subject, of course, to scrutiny and verification of the same. Mr Mukul
+Rohatgi has a point that if the funding cost was so much lesser than the rate of LPS, as contended by
+the appellant, the appellant could have raised funds at a lower rate of interest, made timely payment
+of the invoices raised by the power generating companies, and avoided LPS.
+
+178. The proposition that courts cannot rewrite a contract mutually executed between the parties, is
+well settled. The Court cannot, through its interpretative process, rewrite or create a new contract
+between the parties. The Court has to simply apply the terms and conditions of the agreement as
+agreed between the parties, as observed by this Court in Shree Ambica Medical Stores v. Surat
+People's Coop.
+
+Bank [Shree Ambica Medical Stores v. Surat People's Coop. Bank Ltd., (2020) 13 SCC 564, para 20]
+, cited by Ms Divya Anand. This appeal is an attempt to renegotiate the terms of the PPA, as argued
+by Ms Divya Anand as also other counsel. It is well settled that courts cannot substitute their own
+view of the presumed understanding of commercial terms by the parties, if the terms are explicitly
+expressed. The explicit terms of a contract are always the final word with regard to the intention of
+the parties, as held by this Court in Nabha Power Ltd. v. Punjab SPCL [Nabha Power Ltd. v. Punjab
+SPCL, (2018) 11 SCC 508, paras 45 and 72 : (2018) 5 SCC (Civ) 1], cited by Ms Anand.”
+
+121. This Court has clearly held that the DISCOMS have a contractual obligation to make timely
+payment of the invoices raised by the power generating companies, subject to scrutiny and
+verification of the same. This Court has rejected the contention that the funding cost was much
+lesser than the rate of LPS. This Court has reiterated the proposition that the courts cannot rewrite a
+contract which is executed between the parties. This Court has emphasized that it cannot substitute
+its own view of the presumed understanding of commercial terms by the parties, if the terms are
+
+26
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+explicitly expressed. It has been held that the explicit terms of a contract are always the final word
+with regard to the intention of the parties.
+
+122. As already discussed hereinabove, Article 11.8 of the PPA entitles either party to raise a
+supplementary bill on the other party on account of ‘Change in Law’ as provided in Article 13 and
+such bills are required to be paid by the either party. Article 11.8.3 of the PPA specifically provides
+that in the event of delay in payment of a supplementary bill by either party beyond one month from
+the date of billing, a late payment surcharge shall be payable at the same terms applicable to the
+monthly bill in Article 11.3.4. Article 11.3.4 of the PPA specifically provides a late payment surcharge
+to be paid by the procurer to the seller at the rate of 2% in excess of the applicable SBAR per annum
+on the amount of outstanding payment calculated on day to day basis (and compounded with
+monthly rest), for each day of the delay.
+
+123. Recently, this Court, in the case of Uttar Haryana Bijli Vitran Nigam Limited and Another v.
+Adani Power (Mundra) Limited and Another9, had an occasion to consider the similar issue. The
+Court observed thus:
+
+“20. It is clear that the restitutionary principles encapsulated in Article 13.2 would
+take effect for computing the impact of change in law. We see no reason to interfere
+with the impugned judgment [Adani Power (Mundra) Ltd. v. CERC, 2021 SCC
+OnLine APTEL 67] , wherein it has been held by the Appellate Tribunal that
+Respondent 1 Adani Power had started claiming change in law event compensation in
+respect of installation of FGD unit along with carrying cost, right from the year 2012
+and that it has approached several fora to get this claim settled. Respondent 1 Adani
+Power finally succeeded in getting compensation towards FGD unit only on
+28-3-2018, but the carrying cost claim was denied. The relief relating to carrying cost
+was granted to Respondent 1 Adani Power by the Appellate Tribunal vide order dated
+13-4-2018 [Adani Power Ltd. v. CERC, 2018 SCC OnLine APTEL 5] which was duly
+tested by this Court and upheld on 25-2-2019 [Uttar Haryana Bijli Vitran Nigam Ltd.
+v. Adani Power Ltd., (2019) 5 SCC 325 : (2019) 2 SCC (Civ) 657] . Once carrying cost
+has been granted in favour of Respondent 1 Adani Power, it cannot be urged by the
+appellants that interest on carrying cost should be calculated on simple interest basis
+instead of (2023) 2 SCC 624 compound interest basis. Grant of compound interest on
+carrying cost and that too from the date of the occurrence of the change in law event
+is based on sound logic.
+
+The idea behind granting interest on carrying cost is not far to see, it is aimed at restituting a party
+that is adversely affected by a change in law event and restore it to its original economic position as
+if such a change in law event had not taken place.
+
+xxx xxx xxx
+
+23. We are not persuaded by the submission made on behalf of the appellants that since no fault is
+attributable to them for the delay caused in determination of the amount, they cannot be saddled
+
+27
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+with the liability to pay interest on carrying cost; nor is there any substance in the argument sought
+to be advanced that there is no provision in the PPAs for payment of compound interest from the
+date when the change in law event had occurred.
+
+24. The entire concept of restitutionary principles engrained in Article 13 of the PPAs has to be read
+in the correct perspective. The said principle that governs compensating a party for the time value
+for money, is the very same principle that would be invoked and applied for grant of interest on
+carrying cost on account of a change in law event.
+
+Therefore, reliance on Article 11.3.4 read with Article 11.8.3 on the part of the appellants cannot take
+their case further.
+
+Nor does the decision in Priya Vart case [Priya Vart v. Union of India, (1995) 5 SCC 437] have any
+application to the facts of the present case as the said case relates to payment of compensation
+under the Land Acquisition Act and the interest that would be payable in case of delayed payment of
+compensation.”
+
+124. It is thus clear that this Court has reiterated that once carrying cost has been granted, it cannot
+be urged that interest on carrying cost should be calculated on simple interest basis instead of
+compound interest basis. It has been held that grant of compound interest on carrying cost and that
+too from the date of the occurrence of the ‘Change in Law’ event is based on sound logic. It has been
+held that it is aimed at restituting a party that is adversely affected by a ‘Change in Law’ event and
+restore it to its original economic position as if such a ‘Change in Law’ event had not taken place.
+
+125. The argument that there is no provision in the PPAs for payment of compound interest from the
+date when the ‘Change in Law’ event had occurred, has been specifically rejected by this Court.
+
+126. In view of this consistent position of law and application of restitutionary principles and privity
+of contractual obligations between the parties as contained in the PPAs, we do not find that the view
+taken by the learned APTEL with regard to carrying cost warrants interference.
+
+Concurrent Finding of Fact
+
+127. Apart from the aforesaid issues, there is one another common thread in all these appeals. Many
+of these appeals arise out of concurrent findings recorded by the Central/State Electricity
+Regulatory Commissions and the learned APTEL.
+
+128. This Court, in the case of MSEDCL v. APML & Ors. (supra), after considering the statutory
+provisions in the Electricity Act, 2003, held that the CERC, SERCs and the learned APTEL are
+bodies consisting of experts in the field.
+
+129. This Court, in the said case, observed thus:
+
+28
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+“120. It could thus be seen that two expert bodies i.e. the CERC and the learned
+APTEL have concurrently held, after examining the material on record, that the
+factors of SHR and GCV should be considered as per the Regulations or actuals,
+whichever is lower. The CERC as well as the State Regulatory bodies, after extensive
+consultation with the stakeholders, had specified the SHR norms in respective Tariff
+Regulations. In addition, insofar as GCV is concerned, the CEA has opined that the
+margin of 85-100 kcal/kg for a non-pit head station may be considered as a loss of
+GCV measured at wagon top till the point of firing of coal in boiler.
+
+121. In this respect, we may refer to the following observations of this Court in the
+case of Reliance Infrastructure Limited v. State of Maharashtra [(2019) 3 SCC 352].
+
+“38. MERC is an expert body which is entrusted with the duty and function to frame regulations,
+including the terms and conditions for the determination of tariff. The Court, while exercising its
+power of judicial review, can step in where a case of manifest unreasonableness or arbitrariness is
+made out. Similarly, where the delegate of the legislature has failed to follow statutory procedures or
+to take into account factors which it is mandated by the statute to consider or has founded its
+determination of tariffs on extraneous considerations, the Court in the exercise of its power of
+judicial review will ensure that the statute is not breached. However, it is no part of the function of
+the Court to substitute its own determination for a determination which was made by an expert
+body after due consideration of material circumstances.
+
+39. In Assn. of Industrial Electricity Users v. State of A.P. [Assn. of Industrial Electricity Users v.
+State of A.P., (2002) 3 SCC 711] a three-Judge Bench of this Court dealt with the fixation of tariffs
+and held thus : (SCC p. 717, para 11) “11. We also agree with the High Court [S. Bharat Kumar v.
+State of A.P., 2000 SCC OnLine AP 565 : (2000) 6 ALD 217] that the judicial review in a matter with
+regard to fixation of tariff has not to be as that of an appellate authority in exercise of its jurisdiction
+under Article 226 of the Constitution.
+
+All that the High Court has to be satisfied with is that the Commission has followed the proper
+procedure and unless it can be demonstrated that its decision is on the face of it arbitrary or illegal
+or contrary to the Act, the court will not interfere. Fixing a tariff and providing for cross-subsidy is
+essentially a matter of policy and normally a court would refrain from interfering with a policy
+decision unless the power exercised is arbitrary or ex facie bad in law.” xxx xxx xxx
+
+123. Recently, the Constitution Bench of this Court in the case of Vivek Narayan Sharma v. Union of
+India [2023 SCC OnLine SC 1] has held that the Courts should be slow in interfering with the
+decisions taken by the experts in the field and unless it is found that the expert bodies have failed to
+take into consideration the mandatory statutory provisions or the decisions taken are based on
+extraneous considerations or they are ex facie arbitrary and illegal, it will not be appropriate for this
+Court to substitute its views with that of the expert bodies.”
+
+130. As is indicated in the aforesaid judgments, this Court should be slow in interfering with the
+concurrent findings of fact unless they are found to be perverse, arbitrary and either in ignorance of
+
+29
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+or contrary to the statutory provisions. V. CONCLUSION
+
+131. In the light of our aforesaid findings, we will now consider each of the appeals independently.
+
+Civil Appeal No. 11095 of 2018 and Civil Appeal Nos. 11910- 11911 of 2018
+
+132. In these batch of appeals, insofar as the appeal of DNH- DISCOM is concerned, they are
+aggrieved by the order of the learned APTEL allowing Busy Season Surcharge and Development
+Surcharge, MoEF Notification on coal quality and Change in NCDP. They are also aggrieved by the
+finding of the learned APTEL with regard to carrying cost.
+
+133. Insofar as the compensation on the ground of Change in NCDP is concerned, as already
+discussed, the same is squarely covered by the judgment of this Court in the case of MSEDCL v.
+APML & Ors. (supra)
+
+134. Insofar as the Busy Season Surcharge and Development Surcharge are concerned, they are
+issued under the Circulars/Notifications of Indian Railways. The notification on coal quality is
+issued by MoEF. All these are the instrumentalities of the State, and these would, therefore, amount
+to ‘Change in Law’.
+
+135. Insofar as rest of the claims, which are concurrently allowed and disallowed by both the CERC
+and the learned APTEL, are concerned, in view of the judgments of this Court on this issue, as stated
+above, we do not find any reason to interfere with the same, not noticing any perversity,
+arbitrariness and/or any contravention of the statutory provisions. The appeals of both the
+Generator and the DNH-DISCOM are, therefore, liable to be dismissed.
+
+Civil Appeal Nos.4628-4629 of 2021
+
+136. The learned APTEL allowed the claim of the Generator only on the ground of Busy Season
+Surcharge and Development Surcharge on transportation of coal, and the Carrying Cost.
+
+137. In view of our finding on the issues as above, no error can be found with the finding of the
+learned APTEL in that regard. We find no merit in the appeals. The appeals are, accordingly, liable
+to be dismissed.
+
+Civil Appeal Nos. 12055-12056 of 2018
+
+138. The issue of Busy Season Surcharge, Development Surcharge and Port Congestion Surcharge
+have already been considered by us herein above. All these are charges under the Notifications
+issued by the Indian Railways, through the Railway Board. As such, no error can be found with the
+finding of the learned APTEL that they would amount to ‘Change in Law’ events.
+
+139. Insofar as levy of ‘Forest Tax’ is concerned, the same is levied by the State Government under
+the statutory provisions.
+
+30
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+140. The issue with regard to ‘Carrying Cost’ has also been discussed by us herein above.
+
+141. In that view of the matter, we do not find any reason to interfere with the order of the learned
+APTEL. The appeals are, accordingly, liable to be dismissed.
+
+Civil Appeal Nos. 2935-2936 of 2020
+
+142. In addition to the ‘Change in Law’ benefits granted by the State Commission, ‘Coal Terminal
+Surcharge’, ‘Chhattisgarh Paryavaran Upkar’ and ‘Chhattisgarh Vikas Upkar’ were also considered
+to be ‘Change in Law’ events by the learned APTEL.
+
+143. The ‘Coal Terminal Surcharge’ was levied by the Indian Railways subsequent to the cut-off date.
+Similarly, the Government of Chhattisgarh, under Section 8 of the Chhattisgarh Adhosanrachna
+Vikas Evam Paryavaran Upkar Adhiniyam, 2005, vide Notification dated 16th June 2015, which is
+admittedly after the cut-off date, introduced ‘Chhattisgarh Paryavaran Upkar’ and ‘Chhattisgarh
+Vikas Upkar’. Even the Change in Swacch Bharat Cess at the rate of 0.5% on Service Tax for
+Operation Period and Change in Krishi Kalyan Cess at the rate of 5% on Service Tax for Operation
+Period, which had been granted concurrently by the State Commission and the learned APTEL, were
+notified by the Union of India after the cut-off date.
+
+144. It could thus be seen that all these additional taxes or cesses were introduced by the
+instrumentalities of the Government of India or by the Government of Chhattisgarh. The same are
+issued under the provisions of the concerned statutes, rules, notifications, orders, etc. It is thus clear
+that they would amount to ‘Law’ within the meaning of the term ‘Law’ as defined in the PPAs. As
+such, no error can be found with the order of the learned APTEL.
+
+145. We, therefore, find no merit in the appeals. The appeals are, accordingly, liable to be dismissed.
+
+Civil Appeal No. 3123 of 2019 and Civil Appeal No.5372 of
+
+146. In the present matter, in addition to the claims granted by the CERC, the learned APTEL also
+granted the following claims:
+
+(i) Change in NCDP (cancellation of Captive Block vis-à-vis tapering linkage),
+
+(ii) Busy Season Surcharge and Developmental Surcharge,
+
+(iii) Carrying Cost; and
+
+(iv) Add on Premium Price.
+
+147. Insofar as the issue with regard to change in NCDP is concerned, this Court in the case of
+Energy Watchdog (supra) so also in Adani Rajasthan case (supra) and recently in MSEDCL v. APML
+& Ors. (Supra) has held that the change in NCDP would amount to ‘Change in Law’. As such, the
+
+31
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+finding in that regard warrants no interference.
+
+148. Insofar as Busy Season Surcharge and Development Surcharge are concerned, we have already
+discussed hereinabove as to how it would amount to ‘Change in Law’.
+
+149. Insofar as ‘Add on premium price’ is concerned, undisputedly, ‘add on premium’ was required
+to be paid on account of cancellation of captive coal blocks and inordinate delay on account of
+Go-No-Go policy. As such, it cannot be said that the reasoning adopted by the learned APTEL is
+perverse and arbitrary.
+
+150. Insofar as the issue with regard to ‘carrying cost’ is concerned, we have already discussed the
+issue at length in the foregoing paragraphs. As such, no interference is warranted on that finding
+also.
+
+151. Insofar as other claims which were concurrently allowed and disallowed by the CERC and the
+learned APTEL are concerned, in view of the concurrent findings, we are not inclined to interfere
+with the same.
+
+152. The appeals of both DISCOMS as well as Generating Companies are, therefore, liable to be
+dismissed.
+
+153. This appeal is filed by GKEL, being aggrieved by the concurrent denial of benefits on certain
+components.
+
+154. As already discussed herein above by us, in view of the concurrent findings recorded by the
+CERC as well as the learned APTEL for disallowing the claims, we are not inclined to interfere with
+the same. The appeal is, accordingly, liable to be dismissed. Civil Appeal Nos. 5583-5584 of 2021
+
+155. In the present case, the benefit is granted on following grounds:
+
+(i) Shortfall in domestic coal on account of Change in NCDP;
+
+(ii) Add on premium on account of existing tapering linkage by three years;
+
+(iii) Busy Season Surcharge
+
+156. The first issue sands covered by the judgments of this Court in the cases of Energy Watchdog
+(supra), Adani Rajasthan case (supra) and MSEDCL v. APML & Ors. (supra) and as such, no
+interference is warranted.
+
+157. Insofar as Busy Season Surcharge is concerned, apart from there being concurrent findings of
+facts, we have already given reasons herein above as to how the same would amount to ‘Change in
+Law’.
+
+32
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+158. We do not find any merit in the appeals. The same are, accordingly, liable to be dismissed.
+
+159. The CERC has granted benefit on the following grounds. i. Shortfall in linkage coal on account
+of NCDP 2013 and SHAKTI Policy;
+
+ii. Change in coal quality pursuant to amendment of the Environment (Protection) Rules, 1986;
+
+iii. Increase in Busy Season Surcharge and Development Surcharge on transportation of coal by
+Indian Railways; and iv. Carrying cost on allowed ‘Change in Law’ claims.
+
+160. The view taken by the CERC has been affirmed by the learned APTEL. As such, the appeal
+arises out of the concurrent findings of fact.
+
+161. Insofar as first issue with regard to benefit of ‘Change in Law’ event on account of NCDP 2013 is
+concerned, the same is squarely covered by the judgments of this Court in the cases of Energy
+Watchdog (supra), Adani Rajasthan case (supra) and MSEDCL v. APML & Ors. (supra).
+
+162. Insofar as the benefit of ‘Change in Law’ on account of SHAKTI Policy is concerned, it is
+covered by the judgment and order of the even date of this Court in the case of Civil Appeal No.
+5684 of 202110 and in the case of Civil Appeal Nos. 677-678 of 202111.
+
+163. The other components, i.e. change in coal quality pursuant to amendment of the Environment
+(Protection) Rules, 1986, and increase in Busy Season Surcharge and Development Surcharge on
+transportation of coal by Indian Railways, have already been considered by us herein to amount to
+‘Change in Law’ events. We have also considered the issue regarding ‘Carrying Cost’. As such, no
+interference is warranted in the concurrent findings by the learned APTEL, especially in view of the
+judgments of this Court. The appeal is, accordingly, liable to be dismissed. Uttar Haryana Bijli
+Vitran Nigam Limited and another v. Adana Power (Mundra) Limited and another Maharashtra
+State Electricity Distribution Company Limited v. Adani Power Maharashtra Limited and another
+Civil Appeal No. 5005 of 2022 and Civil Appeal No. 4089 of
+
+164. The appeals are filed being aggrieved by the order of the learned APTEL granting compensation
+on account of ‘EFC’ and ‘carrying cost’.
+
+165. Undisputedly, the EFC was imposed by CIL vide its Circular dated 19th December 2017.
+
+166. As discussed herein above, it is not in dispute that EFC has been paid by the Generators while
+paying the base price, other charges and statutory charges at the time of delivery of coal. As such, no
+interference is warranted with the said finding.
+
+167. Insofar as ‘carrying cost’ is concerned, we have elaborately discussed the said issue herein
+above. As such, no interference, therefore, is warranted on the said issue also.
+
+168. We do not find any merit in the appeals. The same are, accordingly, liable to be dismissed.
+
+33
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+VI. EPILOGUE
+
+169. Before we part with the judgment, we must note that we have come across several appeals in
+the present batch which arise out of concurrent findings of fact arrived at by two statutory bodies
+having expertise in the field. We have also found that in some of the matters, the appeals have been
+filed only for the sake of filing the same. We also find that several rounds of litigation have taken
+place in some of the proceedings.
+
+170. Recently, this Court, in the case of MSEDCL v. APML & Ors. (supra), has noted that one of the
+reasons for enacting the Electricity Act, 2003 was that the performance of the Electricity Boards had
+deteriorated on account of various factors. The Statement of Objects and Reasons of the Electricity
+Act, 2003 would reveal that one of the main features for enactment of the Electricity Act was
+delicensing of generation and freely permitting captive generation. In the said judgment, we have
+recorded the statement of the learned Attorney General made in the case of Energy Watchdog
+(supra) that the electricity sector, having been privatized, had largely fulfilled the object sought to be
+achieved by the Electricity Act. He had stated that delicensed electricity generation resulted in
+production of far greater electricity than was earlier produced. The learned Attorney General had
+further urged the Court not to disturb the delicate balance sought to be achieved by the Electricity
+Act, i.e. that the producers or generators of electricity, in order that they set up power plants, be
+entitled to a reasonable margin of profit and a reasonable return on their capital, so that they are
+induced to set up more and more power plants. At the same time, the interests of the end consumers
+also need to be protected.
+
+171. However, we find that, in spite of this position, litigations after litigations are pursued. Though
+the concurrent orders of statutory expert bodies cannot be said to be perverse, arbitrary or in
+violation of the statutory provisions, the same are challenged.
+
+172. It will be relevant to note the following observations of the CERC in its judgment and order
+dated 16th May 2019, passed in Petition No. 8/MP/2014, which falls for consideration in Civil
+Appeal No. 39 of 2021 before this Court:
+
+“(d) Approaching the Commission every year for allowance of compensation for such
+Change in Law is a time-consuming process. Accordingly, the mechanism prescribed
+above may be adopted for payment of compensation due to Change in Law events
+allowed as per PPA for the subsequent period as well.”
+
+173. It will also be relevant to refer to some of the observations of the learned APTEL in its order
+dated 21st December 2021, which falls for consideration in Civil Appeal No.2908 of 2022 before this
+Court, which read thus:
+
+“115. The Standing Committee of Parliament in its Report (dated 07.03.2018) on
+Energy titled ‘Stressed/ Non-Performing Assets in Electricity Sector’ has recognized
+the financial stress faced by generating companies on account of delay in recovery of
+Change in Law compensations and has recommended thus:
+
+34
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+“The Committee, therefore, recommend that appropriate steps should be taken to
+ensure that there should be consistency and uniformity with regard to orders
+emanating from the status of change in law. Provisions should also be made for
+certain percentage of payments of regulatory dues to be paid by Discoms in case the
+orders of regulators are being taken to APTEL/ higher judiciary for their
+consideration and decision”
+
+116. The Report lays stress on the obligation of the distribution companies to pay the
+approved Change in Law compensation even while Regulatory Commission’s orders
+are challenged. The Policy directive dated 27.08.2018 issued in terms of Section 107
+of the Electricity Act, 2003 by the Ministry of Power (MoP) to the CERC emphasized
+on the need to ensure expeditious recovery of Change in Law compensation. The
+desirability of this was recognized by this tribunal in its judgment dated 14.09.2019
+in Jaipur Vidyut Vitran Nigam Limited vs. RERC & Ors, 2019 SCC Online APTEL 98.
+It is against such backdrop that Electricity (Timely Recovery of Costs due to Change
+in Law) Rules, 2021, notified by MoP on 22.10.2021, providing for timely recovery of
+compensation on account of occurrence of Change in Law events have been framed.
+The MoP, vide notification dated 09.11.2021, put in public domain the policy
+directive on “Automatic pass through of the fuel and power procurement cost in tariff
+for ensuring the viability of the power” recognizing that in order to ensure that the
+power sector does not face any constraints in maintaining assured power supply to
+meet the demand, all the stakeholders in the value chain of power sector must ensure
+that there is timely recovery of cost. This involves the cost pass through by the
+generating companies to the distribution companies.
+
+117. In sharp contrast, it is seen from the factual narrative of the events leading to the appeal at hand
+that the appellants (Haryana Utilities) have been adopting dilatory tactics which not only defeats the
+public policy but also has the undesirable fall-out of adding to the burden of the end-consumers they
+profess to serve on account of increasing Carrying Cost.
+
+118. Concededly, in compliance with the Taxes and Duties Order dated 06.02.2017, the appellants
+paid to the generator the taxes and duties for certain period but, thereafter, unilaterally withheld
+such claims, raising issues (found merit-less) regarding IPT of coal for first time in January 2018. It
+is after the impugned order was passed that the appellants are stated to have started complying, to
+an extent, by making payments. It is the case of the first respondent that the appellants have
+withheld past payments including towards taxes and duties its entitlement to recover corresponding
+Late Payment Surchage (“LPS”) being over and above the same to be computed after discharge of
+the former liability. We agree that such withholding is in violation of Articles 11.3.2 and 11.6.9 of the
+PPAs (quoted earlier) which cast a specific mandate on the procurer (Haryana Utilities) to honor the
+invoices raised, irrespective of dispute, and impose a specific bar against unilateral
+deductions/setting off.
+
+119. We find the dilatory conduct of the Haryana Utilities, to delay the implementation of the
+binding orders concerning compensation on account of coal shortfall and corresponding taxes and
+
+35
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+duties, detrimental to the interest of end consumers since it burdens the consumers with
+incremental LPS for delay in making payments to the generator. This cannot be countenanced, given
+the earlier dispensation on the subject by the statutory regulator and appellate forum(s), since it
+smacks of approach that is designed to frustrate the legislative command, and extant State policy, as
+indeed constitutes abject indiscipline infringing the rule of law. Borrowing THE WORDS OF
+Hon’ble Supreme Court in SEBI vs. Sahara India Real Estate Corpn. Ltd., (2014) 5 SCC 429
+“non-compliance with the orders passed … shakes the very foundation of our judicial system and
+undermines the rule of law” which this tribunal is also duty-bound to “honour and protect”, so
+essential “to maintain faith and confidence of the people of this country in the judiciary”.” [emphasis
+supplied]
+
+174. It could thus be seen that even the Standing Committee of Parliament, in its report, has
+recommended that there should be consistency and uniformity with regard to orders emanating
+from the status of ‘Change in Law’. It has also recommended that the provisions should also be
+made for certain percentage of payments of regulatory dues to be paid by DISCOMS in case the
+orders of regulators are being taken to learned APTEL/higher judiciary for their consideration and
+decision. The learned APTEL has also referred to the Policy Directive dated 27th August 2018 issued
+in terms of Section 107 of the Electricity Act, 2003 by the MoP to the CERC, where it emphasized
+the need to ensure expeditious recovery of ‘Change in Law’ compensation. The learned APTEL has
+also referred to the Electricity (Timely Recovery of Costs due to Change in Law) Rules, 2021,
+notified by MoP on 22nd October 2021, which provide for timely recovery of compensation on
+account of occurrence of ‘Change in Law’ events. The learned APTEL found that the Haryana
+Utilities have been adopting dilatory tactics, which not only defeat the public policy but also have
+the undesirable fallout of adding to the burden of the end-consumers they profess to serve on
+account of increasing ‘Carrying Cost’. The learned APTEL further found that withholding of past
+payments, including towards taxes and duties by the DISCOMS, is in violation of the provisions of
+the PPAs, which casts a specific mandate on the procurer to honour the invoices raised, irrespective
+of dispute, and impose a specific bar against unilateral deductions/setting off.
+
+175. It is further to be noted that this Court, in the case of Uttar Haryana Bijli Vitran Nigam Limited
+(UNHVNL) and another v. Adani Power Limited and others12, has specifically observed that the
+‘Change in Law’ events will have to accrue from the date on which Rules, Orders, Notifications are
+issued by the instrumentalities of the State. Even in spite of this finding, the DISCOMS are pursuing
+litigations after litigations.
+
+176. We find that, when the PPA itself provides a mechanism for payment of compensation on the
+ground of ‘Change in Law’, unwarranted litigation, which wastes the time of the Court as well as
+adds to the ultimate cost of electricity consumed by the end consumer, ought to be avoided.
+Ultimately, the huge cost of litigation on the part of DISCOMS as well as the Generators adds to the
+cost of electricity that is supplied to the end consumers.
+
+177. We further find that non-quantification of the dues by the Electricity Regulatory Commissions
+and the untimely payment of the dues by the DISCOMS is also detrimental to the interests of the
+end consumers. If timely payment is not made by DISCOMS, (2019) 5 SCC 325 under the clauses in
+
+36
+
+Gmr Warora Energy Limited vs Central Electricity Regulatory ... on 20 April, 2023
+
+the PPA, they are required to pay late payment surcharges, which are much higher. Even in case of
+‘Change in Law’ claims, the same procedure is required to be followed.
+
+178. Ultimately, these late payment surcharges are added to the cost of electricity supplied to the
+end consumers. It is, thus, the end consumers who suffer by paying higher charges on account of the
+DISCOMS not making timely payment to the Generators.
+
+179. It is further to be noted that the appeal to this Court under Section 125 of the Electricity Act,
+2003 is only permissible on any of the grounds as specified in Section 100 of the Code of Civil
+Procedure, 1908. As such, the appeal to this Court would be permissible only on substantial
+questions of law. However, as already observed herein, even in cases where well-reasoned
+concurrent orders are passed by the Electricity Regulatory Commissions and the learned APTEL, the
+same are challenged by the DISCOMS as well as the Generators. On account of pendency of
+litigation, which in some of the cases in this batch has been more than 5 years, non-payment of dues
+would entail paying of heavy carrying cost to the Generators by the DISCOMS, which, in turn, will
+be passed over to the end consumer. As a result, it will be the end consumer who would be at
+sufferance. We are of the opinion that such unnecessary and unwarranted litigation needs to be
+curbed.
+
+180. To a pointed query, the learned counsel for the DISCOMS fairly conceded the position that the
+prices at which the electricity is purchased from the ‘Independent Power Producers’ is substantially
+lesser than the power purchased from the ‘State Generating Companies’.
+
+181. We, therefore, appeal to the Union of India through Ministry of Power (“MoP” for short) to
+evolve a mechanism so as to ensure timely payment by the DISCOMS to the Generating Companies,
+which would avoid huge carrying cost to be passed over to the end consumers.
+
+182. The Union of India, through MoP, may also evolve a mechanism to avoid unnecessary and
+unwarranted litigation, the cost of which is also passed on to the ultimate consumer.
+
+183. Before we part with the judgment, we place on record our appreciation for the valuable
+assistance rendered by Mr. Balbir Singh, learned Additional Solicitor General, Dr. A. M. Singhvi, Mr.
+V. Giri, Mr. M.G. Ramachandran, Mr. C.A. Sundaram, Mr. Maninder Singh, Mr. Sajan Poovayya and
+Mr. Niranjan Reddy, learned Senior Counsel, and Mr. Vishrov Mukerjee, Ms. Poorva Saigal, Ms.
+Anushree Bardhan, and Ms. Poonam Sengupta, learned counsel.
+
+184. In view of the above, all the appeals are dismissed. No costs.
+
+…….........................J. [B.R. GAVAI] …….........................J. [VIKRAM NATH] NEW DELHI;
+
+APRIL 20, 2023
+
+37

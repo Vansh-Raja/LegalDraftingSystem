@@ -1,0 +1,795 @@
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25
+April, 2024
+
+Author: Abhay S. Oka
+
+Bench: Pankaj Mithal, Abhay S. Oka
+
+2024 INSC 340
+
+                                                                              Reportable
+
+                                          IN THE SUPREME COURT OF INDIA
+                                           CIVIL APPELLATE JURISDICTION
+
+                                            CIVIL APPEAL NO. 1143 OF 2022
+
+                            GLOBAL CREDIT CAPITAL LIMITED
+                            & ANR.                                       … APPELLANTS
+
+                                                       versus
+
+                            SACH MARKETING PVT. LTD. & ANR.            … RESPONDENTS
+
+                                                      with
+                                       CIVIL APPEAL NOS.6991-6994 OF 2022
+
+                                                   JUDGMENT
+
+ABHAY S. OKA, J.
+
+1. These appeals take exception to the separate impugned judgments and orders dated 7th October
+2021 and 29th October 2021 passed by the National Company Law Appellate Tribunal (for short,
+‘the NCLAT’). In Civil Appeal no.1143 of 2022, the issue involved is whether the first respondent is a
+financial creditor within the meaning of sub-section (7) of Section 5 of the Insolvency and
+Bankruptcy Code, 2016 (for short, ‘the IBC’). The corporate debtor, in this case, is M/s. Mount
+Shivalik Industries Limited. The impugned judgment respondent is a financial creditor. As far as
+Civil Appeal ASHISH KONDLE Date: 2024.04.25 17:00:27 IST Reason:
+
+nos.6991-6994 of 2022 are concerned, the issue is whether the 1st to 4th respondents
+therein are financial creditors of the same corporate debtor - M/s. Mount Shivalik
+Industries Limited. The impugned judgment dated 29th October 2021 follows the
+impugned judgment in Civil Appeal no.1143 of 2022.
+
+FACTUAL ASPECTS
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+1
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+2. A brief reference to the factual aspects of Civil Appeal no.1143 of 2022 must be made to
+understand the controversy. There were two agreements of 1st April 2014 and 1st April 2015
+between the corporate debtor and the first respondent. The agreements were in the form of letters
+addressed by the corporate debtor to the first respondent. By the agreement/letter dated 1st April
+2014, the corporate debtor appointed the first respondent as a ‘Sales Promoter’ to promote beer
+manufactured by the corporate debtor at Ranchi (Jharkhand) for twelve months. One of the
+conditions incorporated by the corporate debtor in the said letter/agreement was that the first
+respondent should deposit a minimum security of Rs.53,15,000/- with the corporate debtor, which
+will carry interest @21% per annum. The letter provided that the corporate debtor will pay the
+interest on Rs.7,85,850/- @21% per annum. The terms of the agreement/letter dated 1st April 2015
+are identical. The only difference is that under the second agreement/letter, the corporate debtor
+was to pay the interest on Rs.32,85,850/- @21% per annum.
+
+3. The Oriental Bank of Commerce invoked the provisions of Section 7 of the IBC against the
+corporate debtor. The National Company Law Tribunal (for short, ‘the NCLT’) admitted the
+application under Section 7 of the IBC by the order dated 12th June 2018. It imposed a moratorium
+under Section 14 of the IBC. The second respondent was appointed as the Interim Resolution
+Professional. Initially, the first respondent filed a claim with the second respondent as an
+operational creditor. The claim was withdrawn, and on 19th September 2018, the first respondent
+filed a claim with the second respondent as a financial creditor. By a communication dated 7th
+October 2018, the second respondent informed the first respondent that the first respondent's claim
+was accepted partly as an operational debt and partly as a financial debt. After the first respondent
+submitted Form-B, the second respondent rejected the claim on the ground that the first respondent
+could not be considered a financial creditor. Therefore, an application was moved before the NCLT
+under sub-section (5) of Section 60 of the IBC by the first respondent seeking a direction to the
+second respondent to admit the first respondent's claim as a financial creditor. During the pendency
+of the said application before the NCLT, the Committee of Creditors approved a resolution plan
+submitted by M/s. Kals Distilleries Pvt. Ltd. The second respondent applied to the NCLT to approve
+the resolution plan based on the approval. On 18th January 2021, the NCLT rejected the application
+made by the first respondent. Aggrieved by the said order, the first respondent preferred an appeal
+before the NCLAT. By the impugned judgment and order dated 7th October 2021, the NCLAT held
+that the first respondent was a financial creditor and not an operational creditor. The NCLT, on 13th
+October 2021 approved the resolution plan of M/s. Kals Distilleries Pvt. Ltd. (Respondent no.6 in
+Civil Appeal nos.6991-6994 of 2022) in the CIRP of the corporate debtor.
+
+4. In Civil Appeal nos.6991-6994 of 2022, the second respondent is the resolution professional. The
+corporate debtor is the same as in the other appeal. The fifth respondent had provided financial
+assistance to the corporate debtor of Rs.75,00,000/-. The fourth respondent provided financial
+assistance to the corporate debtor of Rs.1,62,00,000/-. The first respondent advanced a sum of
+Rs.25,00,000/- to the corporate debtor. The third respondent advanced a sum of Rs.1,00,000/- to
+the corporate debtor. The Resolution Professional rejected the claims of the four creditors as
+financial creditors. Therefore, they filed separate applications before the NCLT by invoking
+sub-section (5) of Section 60 of the IBC. The NCLT rejected the applications. In the appeals
+preferred by them before the NCLAT, the NCLAT allowed the appeals by relying upon its judgment,
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+2
+
+which is the subject matter of challenge in Civil Appeal no.1143 of 2022.
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+SUBMISSIONS
+
+5. The learned senior counsel appearing for the appellants in support of Civil Appeal no. 1143 of
+2022 submitted that the first respondent is an operational creditor going by the agreements dated
+1st April 2014 and 1st April 2015. The reason is that the agreements indicate that the corporate
+debtor appointed the first respondent to render services to promote the beer manufactured by the
+corporate debtor. He relied upon the definition of “operational debt” under sub- section (21) of
+Section 5 of the IBC. He submitted that both the agreements provided for paying a minimum
+security deposit by the first respondent as a condition for being appointed as Sales Promoter of the
+corporate debtor. He submitted that there was no intention on the part of the corporate debtor to
+avail any financial facility from the first respondent. He submitted that the amount paid towards the
+security deposit is not the money disbursed to the corporate debtor towards financial facilities
+availed by the corporate debtor. He submitted that the security deposit paid by the first respondent
+would not qualify as a financial debt defined under sub-section (8) of Section 5 of the IBC. The
+learned senior counsel relied upon a decision of this Court in the case of Swiss Ribbons Private
+Limited and Anr. v. Union of India & Ors.1. He also relied upon a decision of this Court in the case of
+Pioneer Urban Land and Infrastructure Ltd. & Anr. v. Union of India & Ors.2. He submitted that the
+NCLAT was unnecessarily impressed by the acknowledgement of liability and booking of interest
+component towards the security deposit, despite the fact that it cannot be given the overriding effect
+over the law. He relied upon the decisions of this Court in the cases of Tuticorin Alkali Chemicals &
+(2019) 4 SCC 17 (2019) 8 SCC 416 Fertilisers Ltd., Madras v. Commissioner of Income Tax, Madras3
+and Consolidated Construction Consortium Limited v. Hitro Energy Solutions Private Limited4. He
+submitted that booking or payment of interest is not the only criterion for ascertaining whether the
+debt is a financial debt. The learned senior counsel, therefore, urged that the view taken by the
+NCLAT in the impugned judgment is entirely fallacious. He submitted that the NCLAT has virtually
+rewritten the concepts of financial and operational debts incorporated in the IBC.
+
+6. On facts, the learned senior counsel submitted that the payment of the security deposit by the first
+respondent is a condition precedent for being appointed as a Sales Promoter of the corporate
+debtor. The intent of the agreements is to appoint the first respondent as the Sales Promoter and not
+to avail any financial facilities from the first respondent. The amount paid by the first respondent
+does not constitute financial facilities extended to the corporate debtor. There was no intention to
+raise finance from the first respondent, who was appointed as a Sales Promoter. The learned senior
+counsel also relied upon the decisions of this court in the cases of Anuj Jain, Interim Resolution
+Professional for Jaypee Infratech Limited v. Axis Bank Limited & Ors.5, Phoenix ARC Private
+Limited v. Spade Financial Services Limited & Ors.6 and New Okhla Industrial Development (1997)
+6 SCC 117 (2022) 7 SCC 164 (2020) 8 SCC 401 (2021) 3 SCC 475 Authority v. Anand Sonbhadra7.
+Lastly, it is submitted that in the case of an invoice involving any transaction, the delay in payment
+attracts interest liability. Therefore, the payment of interest is not the sole criterion for ascertaining
+whether a debt is a financial debt. He would, thus, submit that the appeals deserve to be allowed.
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+3
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+7. The learned senior counsel appearing for the first respondent submitted that the true nature of
+the agreements will have to be examined for deciding the nature of the debt. He pointed out several
+factual aspects, including the corporate debtor's acknowledgement of the liability of payment of
+interest on security deposit for the Financial Years 2014-2015, 2015-2016, 2016-2017 and
+2017-2018. The corporate debtor deducted TDS on the interest payable to the first respondent for
+three financial years. He submitted that the three criteria, namely, disbursal, time value of money
+and commercial effect of borrowing, are satisfied in the case of the present transaction. He also
+relied upon the decision of this Court in the case of Anuj Jain, Interim Resolution Professional for
+Jaypee Infratech Limited5. He submitted that it was very clear from the terms of the agreement that
+the money was repayable after a fixed tenure without a deduction or provision for forfeiture. An
+interest @21% per annum was the consideration for the time value of money. The learned counsel
+submitted that the NCLAT was right in going into the issue of the true nature and effect of the
+transaction reflected in the agreements. Relying upon the decision of this Court in (2023) 1 SCC 724
+the case of Pioneer Urban Land and Infrastructure Ltd2, the learned counsel submitted that clause
+(f) of sub-section (8) of Section 5 of the IBC is a “catch all” and “residuary” provision which includes
+any transaction having the commercial effect of borrowing and any transaction which is used as a
+tool for raising finance.
+
+8. The learned senior counsel submitted that the agreements entered into were the tools for raising
+finance, and no actual services have ever been rendered to the first respondent or other lenders.
+Therefore, in view of the law laid down by this Court in the case of V.E.A. Annamalai Chettiar & Ors.
+v. S.V.V.S. Veerappa Chettiar & Ors.8, the true effect of the transaction has been taken into
+consideration. It is pointed out that the corporate debtor has established a practice of raising finance
+through private entities in the garb of security deposit under various services agreements. The
+learned counsel, therefore, submitted that no fault can be found with the impugned judgment.
+
+9. The learned counsel appearing for the second respondent-Resolution Professional, supported the
+appellants by contending that the money advanced by the first respondent cannot be categorised as
+a financial debt. Therefore, the first respondent was an operational creditor. He relied upon the
+definition of “operational debt” under sub- section (21) of Section 5 of the IBC. He submitted that
+the security deposit was not meant to reorganize the corporate AIR 1956 SC 12 debtor's debts. He
+submitted that the agreements are service agreements by which the corporate debtor agreed to take
+services from the first respondent for consideration. Therefore, the security deposit was obviously to
+ensure the performance of the terms of the agreements by the first respondent. He submitted that
+accounting treatment cannot override the law and the definition of “operational debt” under the
+IBC. He submitted that none of the ingredients of clauses
+
+(a) to (f) of sub-section (8) of Section 5 are present in the case at hand. In this case, there is no
+disbursal of debt. He submitted that there was no financial contract between the corporate debtor
+and the first respondent. Lastly, he submitted that in view of the judgment dated 29th September
+2018 of the NCLAT on an application filed by M/s. New View Consultants Pvt. Ltd., the second
+respondent categorised the first respondent as operational creditor. He would, therefore, submit
+that the view taken by the NCLAT was not correct.
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+4
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+CONSIDERATION OF SUBMISSIONS ON THE CONCEPT OF FINANCIAL AND OPERATIONAL
+DEBT
+
+10. Sub-section (11) of Section 3 of the IBC defines ‘debt’, which reads thus:
+
+“3. In this Code, unless the context otherwise requires,-
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+(11) “debt” means a liability or obligation in respect of a claim which is due from any
+person and includes a financial debt and operational debt;
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+.. .” Thus, a debt has to be a liability or obligation in respect of a claim that is due from any person.
+Sub-section (11) uses the words “means” and “includes”. Financial debt and operational debt are
+included in the definition of debt. Thus, financial debt or operational debt must arise out of a
+liability or obligation in respect of a claim.
+
+11. “Claim” is defined under sub-section (6) of Section 3 of the IBC, which reads thus:
+
+“3. In this Code, unless the context otherwise requires,-
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .
+
+(6) “claim” means –
+
+(a) a right to payment, whether or not such right is reduced to judgment, fixed,
+disputed, undisputed, legal, equitable, secured, or unsecured;
+
+(b) right to remedy for breach of contract under any law for the time being in force, if
+such breach gives rise to a right to payment, whether or not such right is reduced to
+judgment, fixed, matured, unmatured, disputed, undisputed, secured or unsecured;
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .” Clause (a) shows that every right to receive payment is a
+claim, whether or not such right is reduced to a judgment. A right to receive payment is a claim,
+even if disputed, undisputed, secured, or unsecured. The right to receive payment can be either legal
+or equitable. Clause (b) includes the right to remedy for a breach of contract under any law for the
+time being in force. Thus, a liability or obligation is not covered by the definition of “debt” unless it
+is in respect of a claim covered by sub-section (6) of Section 3 of the IBC.
+
+12. Sub-section (8) of Section 5 of the IBC defines “financial debt”, which reads thus:
+
+“5. In this Part, unless the context otherwise requires,-
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+5
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+(8) “financial debt” means a debt alongwith interest, if any, which is disbursed
+against the consideration for the time value of money and includes–
+
+(a) money borrowed against the payment of interest;
+
+(b) any amount raised by acceptance under any acceptance credit facility or its
+dematerialised equivalent;
+
+(c) any amount raised pursuant to any note purchase facility or the issue of bonds,
+notes, debentures, loan stock or any similar instrument;
+
+(d) the amount of any liability in respect of any lease or hire purchase contract which
+is deemed as a finance or capital lease under the Indian Accounting Standards or
+such other accounting standards as may be prescribed;
+
+(e) receivables sold or discounted other than any receivables sold on non-
+
+recourse basis;
+
+(f) any amount raised under any other transaction, including any forward sale or purchase
+agreement, having the commercial effect of a borrowing;
+
+[Explanation. -For the purposes of this sub-clause,-
+
+(i) any amount raised from an allottee under a real estate project shall be deemed to be an amount
+having the commercial effect of a borrowing; and
+
+(ii) the expressions, “allottee” and “real estate project” shall have the meanings respectively assigned
+to them in clauses (d) and (zn) of section 2 of the Real Estate (Regulation and Development) Act,
+2016 (16 of 2016);]
+
+(g) any derivative transaction entered into in connection with protection against or benefit from
+fluctuation in any rate or price and for calculating the value of any derivative transaction, only the
+market value of such transaction shall be taken into account;
+
+(h) any counter-indemnity obligation in respect of a guarantee, indemnity, bond, documentary letter
+of credit or any other instrument issued by a bank or financial institution;
+
+(i) the amount of any liability in respect of any of the guarantee or indemnity for any of the items
+referred to in sub-
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+6
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+clause (a) to (h) of this clause.” (emphasis added) The definition incorporates the expression “means
+and includes”. The first part of the definition, which starts with the word “means”, provides that
+there has to be a debt along with interest, if any, which is disbursed against the consideration for the
+time value of money. The word “and” appears after the word “money”. Before the words “and
+includes”, the legislature has not incorporated a comma. After the word “includes”, the legislature
+has incorporated categories (a) to (i) of financial debts. Hence, the cases covered by categories (a) to
+(i) must satisfy the test laid down by the earlier part of the sub-section (8). The test laid down
+therein is that there has to be a debt along with interest, if any, and it must be disbursed against the
+consideration for the time value of money. This Court had an occasion to deal with the definition of
+“financial debt” in its various decisions. The first decision is in the case of Anuj Jain, Interim
+Resolution Professional for Jaypee Infratech Limited5. Paragraphs 46 to 50 read thus:
+
+“The essentials for financial debt and financial creditor
+
+46. Applying the aforementioned fundamental principles to the definition occurring
+in Section 5(8) of the Code, we have not an iota of doubt that for a debt to become
+“financial debt” for the purpose of Part II of the Code, the basic elements are that it
+ought to be a disbursal against the consideration for time value of money. It may
+include any of the methods for raising money or incurring liability by the modes
+prescribed in clauses (a) to (f) of Section 5(8); it may also include any derivative
+transaction or counter-indemnity obligation as per clauses (g) and (h) of Section
+5(8); and it may also be the amount of any liability in respect of any of the guarantee
+or indemnity for any of the items referred to in clauses (a) to
+
+(h). The requirement of existence of a debt, which is disbursed against the
+consideration for the time value of money, in our view, remains an essential part even
+in respect of any of the transactions/dealings stated in clauses (a) to (i) of Section
+5(8), even if it is not necessarily stated therein. In any case, the definition, by its very
+frame, cannot be read so expansive, rather infinitely wide, that the root requirements
+of “disbursement” against “the consideration for the time value of money” could be
+forsaken in the manner that any transaction could stand alone to become a financial
+debt.
+
+In other words, any of the transactions stated in the said clauses (a) to (i) of Section
+5(8) would be falling within the ambit of “financial debt” only if it carries the
+essential elements stated in the principal clause or at least has the features which
+could be traced to such essential elements in the principal clause. In yet other words,
+the essential element of disbursal, and that too against the consideration for time
+value of money, needs to be found in the genesis of any debt before it may be treated
+as “financial debt” within the meaning of Section 5(8) of the Code.
+
+This debt may be of any nature but a part of it is always required to be carrying, or corresponding to,
+or at least having some traces of disbursal against consideration for the time value of money.
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+7
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+47. As noticed, the root requirement for a creditor to become financial creditor for the purpose of
+Part II of the Code, there must be a financial debt which is owed to that person. He may be the
+principal creditor to whom the financial debt is owed or he may be an assignee in terms of extended
+meaning of this definition but, and nevertheless, the requirement of existence of a debt being owed
+is not forsaken.
+
+48. It is also evident that what is being dealt with and described in Section 5(7) and in Section 5(8) is
+the transaction vis-à-vis the corporate debtor.
+
+Therefore, for a person to be designated as a financial creditor of the corporate debtor, it has to be
+shown that the corporate debtor owes a financial debt to such person. Understood this way, it
+becomes clear that a third party to whom the corporate debtor does not owe a financial debt cannot
+become its financial creditor for the purpose of Part II of the Code.
+
+49. Expounding yet further, in our view, the peculiar elements of these expressions “financial
+creditor” and “financial debt”, as occurring in Sections 5(7) and 5(8), when visualised and compared
+with the generic expressions “creditor” and “debt” respectively, as occurring in Sections 3(10) and
+3(11) of the Code, the scheme of things envisaged by the Code becomes clearer. The generic term
+“creditor” is defined to mean any person to whom the debt is owed and then, it has also been made
+clear that it includes a “financial creditor”, a “secured creditor”, an “unsecured creditor”, an
+“operational creditor”, and a “decree-holder”. Similarly, a “debt” means a liability or obligation in
+respect of a claim which is due from any person and this expression has also been given an extended
+meaning to include a “financial debt” and an “operational debt”.
+
+49.1. The use of the expression “means and includes” in these clauses, on the very same principles of
+interpretation as indicated above, makes it clear that for a person to become a creditor, there has to
+be a debt i.e. a liability or obligation in respect of a claim which may be due from any person. A
+“secured creditor” in terms of Section 3(30) means a creditor in whose favour a security interest is
+created; and “security interest”, in terms of Section 3(31), means a right, title or interest or claim of
+property created in favour of or provided for a secured creditor by a transaction which secures
+payment for the purpose of an obligation and it includes, amongst others, a mortgage. Thus, any
+mortgage created in favour of a creditor leads to a security interest being created and thereby, the
+creditor becomes a secured creditor. However, when all the defining clauses are read together and
+harmoniously, it is clear that the legislature has maintained a distinction amongst the expressions
+“financial creditor”, “operational creditor”, “secured creditor” and “unsecured creditor”. Every
+secured creditor would be a creditor; and every financial creditor would also be a creditor but every
+secured creditor may not be a financial creditor. As noticed, the expressions “financial debt” and
+“financial creditor”, having their specific and distinct connotations and roles in insolvency and
+liquidation process of corporate persons, have only been defined in Part II whereas the expressions
+“secured creditor” and “security interest” are defined in Part I.
+
+50. A conjoint reading of the statutory provisions with the enunciation of this Court in Swiss
+Ribbons [Swiss Ribbons (P) Ltd. v. Union of India, (2019) 4 SCC 17] , leaves nothing to doubt that in
+the scheme of the IBC, what is intended by the expression “financial creditor” is a person who has
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+8
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+direct engagement in the functioning of the corporate debtor; who is involved right from the
+beginning while assessing the viability of the corporate debtor; who would engage in restructuring of
+the loan as well as in reorganisation of the corporate debtor's business when there is financial stress.
+In other words, the financial creditor, by its own direct involvement in a functional existence of
+corporate debtor, acquires unique position, who could be entrusted with the task of ensuring the
+sustenance and growth of the corporate debtor, akin to that of a guardian. In the context of
+insolvency resolution process, this class of stakeholders, namely, financial creditors, is entrusted by
+the legislature with such a role that it would look forward to ensure that the corporate debtor is
+rejuvenated and gets back to its wheels with reasonable capacity of repaying its debts and to attend
+on its other obligations.
+
+Protection of the rights of all other stakeholders, including other creditors, would obviously be
+concomitant of such resurgence of the corporate debtor.
+
+50.1. Keeping the objectives of the Code in view, the position and role of a person having only
+security interest over the assets of the corporate debtor could easily be contrasted with the role of a
+financial creditor because the former shall have only the interest of realising the value of its security
+(there being no other stakes involved and least any stake in the corporate debtor's growth or
+equitable liquidation) while the latter would, apart from looking at safeguards of its own interests,
+would also and simultaneously be interested in rejuvenation, revival and growth of the corporate
+debtor. Thus understood, it is clear that if the former i.e. a person having only security interest over
+the assets of the corporate debtor is also included as a financial creditor and thereby allowed to have
+its say in the processes contemplated by Part II of the Code, the growth and revival of the corporate
+debtor may be the casualty. Such result would defeat the very objective and purpose of the Code,
+particularly of the provisions aimed at corporate insolvency resolution.
+
+50.2. Therefore, we have no hesitation in saying that a person having only security interest over the
+assets of corporate debtor (like the instant third- party securities), even if falling within the
+description of “secured creditor” by virtue of collateral security extended by the corporate debtor,
+would nevertheless stand outside the sect of “financial creditors” as per the definitions contained in
+sub-sections (7) and (8) of Section 5 of the Code.
+
+Differently put, if a corporate debtor has given its property in mortgage to secure the debts of a third
+party, it may lead to a mortgage debt and, therefore, it may fall within the definition of “debt” under
+Section 3(10) of the Code.
+
+However, it would remain a debt alone and cannot partake the character of a “financial debt” within
+the meaning of Section 5(8) of the Code.” (emphasis added) A Bench of three Hon’ble Judges of this
+Court in the case of Phoenix ARC Private Limited6 dealt with the issue in greater detail. It also dealt
+with the concept of the time value of money. In paragraphs 44 to 47 of the said decision, this Court
+held thus:
+
+“44. Section 5(8) IBC provides a definition of “financial debt” in the following terms:
+
+                                            XXX      XXX XXX
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+9
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+                                G.3.2. Financial        creditor      and
+                                financial debt
+
+45. Under Section 5(7) IBC, a person can be categorised as a financial creditor if a
+financial debt is owed to it.
+
+Section 5(8) IBC stipulates that the essential ingredient of a financial debt is disbursal against
+consideration for the time value of money. This Court, speaking through Rohinton F. Nariman, J., in
+Swiss Ribbons (P) Ltd. v. Union of India [Swiss Ribbons (P) Ltd. v. Union of India, (2019) 4 SCC 17]
+has held :
+
+(SCC p. 64, para 42) “42. A perusal of the definition of “financial creditor” and
+“financial debt” makes it clear that a financial debt is a debt together with interest, if
+any, which is disbursed against the consideration for time value of money. It may
+further be money that is borrowed or raised in any of the manners prescribed in
+Section 5(8) or otherwise, as Section 5(8) is an inclusive definition. On the other
+hand, an “operational debt” would include a claim in respect of the provision of goods
+or services, including employment, or a debt in respect of payment of dues arising
+under any law and payable to the Government or any local authority.” (emphasis
+supplied)
+
+46. In this context, it would be relevant to discuss the meaning of the terms
+“disburse” and “time value of money” used in the principal clause of Section 5(8) IBC.
+This Court has interpreted the term “disbursal” in Pioneer Urban Land &
+Infrastructure Ltd. v. Union of India [Pioneer Urban Land & Infrastructure Ltd. v.
+Union of India, (2019) 8 SCC 416 : (2019) 4 SCC (Civ) 1] in the following terms : (SCC
+p. 511, paras 70-71) “70. The definition of “financial debt” in Section 5(8) then goes
+on to state that a “debt” must be “disbursed” against the consideration for time value
+of money. “Disbursement” is defined in Black's Law Dictionary (10th Edn.) to mean:
+
+‘1. The act of paying out money, commonly from a fund or in settlement of a debt or
+account payable. 2. The money so paid; an amount of money given for a particular
+purpose.’
+
+71. In the present context, it is clear that the expression “disburse” would refer to the
+payment of instalments by the allottee to the real estate developer for the particular
+purpose of funding the real estate project in which the allottee is to be allotted a
+flat/apartment. The expression “disbursed” refers to money which has been paid
+against consideration for the “time value of money”. In short, the “disbursal” must be
+money and must be against consideration for the “time value of money”, meaning
+thereby, the fact that such money is now no longer with the lender, but is with the
+borrower, who then utilises the money.”
+
+47. The report of the Insolvency Law Committee dated 26-3-2018 has discussed the
+interpretation of the term “time value of money” and stated:
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+10
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+“1.4. The current definition of “financial debt” under Section 5(8) of the Code uses the
+words “ [Ed. : The matter between two asterisks has been emphasised in original.]
+includes [Ed. : The matter between two asterisks has been emphasised in original.] ”,
+thus the kinds of financial debts illustrated are not exhaustive. The phrase “ [Ed. :
+The matter between two asterisks has been emphasised in original.] disbursed
+against the consideration for the time value of money [Ed. : The matter between two
+asterisks has been emphasised in original.] ” has been the subject of interpretation
+only in a handful of cases under the Code. The words “time value” have been
+interpreted to mean compensation or the price paid for the length of time for which
+the money has been disbursed. This may be in the form of interest paid on the
+money, or factoring of a discount in the payment.” (emphasis added)” In the case of
+Pioneer Urban Land and Infrastructure Ltd. & Anr2, this issue was dealt with in
+paragraphs 76 and 77, which read thus:
+
+“76. Sub-clause (f) Section 5(8) thus read would subsume within it amounts raised
+under transactions which are not necessarily loan transactions, so long as they have
+the commercial effect of a borrowing. We were referred to Collins English Dictionary
+& Thesaurus (2nd Edn., 2000) for the meaning of the expression “borrow” and the
+meaning of the expression “commercial”. They are set out hereinbelow:
+
+“borrow.—vb 1. to obtain or receive (something, such as money) on loan for
+temporary use, intending to give it, or something equivalent back to the lender. 2. to
+adopt (ideas, words, etc.) from another source;
+
+appropriate. 3. Not standard. to lend. 4. (intr) Golf. To putt the ball uphill of the direct path to the
+hole:make sure you borrow enough.” *** “commercial.—adj. 1. of or engaged in commerce. 2.
+
+sponsored or paid for by an advertiser: commercial television.
+
+3. having profit as the main aim:
+
+commercial music. 4.(of chemicals, etc.) unrefined and produced in bulk for use in industry. 5. a
+commercially sponsored advertisement on radio or television.”
+
+77. A perusal of these definitions would show that even though the petitioners may be right in
+stating that a “borrowing” is a loan of money for temporary use, they are not necessarily right in
+stating that the transaction must culminate in money being given back to the lender. The expression
+“borrow” is wide enough to include an advance given by the homebuyers to a real estate developer
+for “temporary use” i.e. for use in the construction project so long as it is intended by the agreement
+to give “something equivalent” to money back to the homebuyers. The “something equivalent” in
+these matters is obviously the flat/apartment. Also of importance is the expression “commercial
+effect”. “Commercial” would generally involve transactions having profit as their main aim.
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+11
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+Piecing the threads together, therefore, so long as an amount is “raised” under a real estate
+agreement, which is done with profit as the main aim, such amount would be subsumed within
+Section 5(8)(f) as the sale agreement between developer and home buyer would have the
+“commercial effect” of a borrowing, in that, money is paid in advance for temporary use so that a
+flat/apartment is given back to the lender. Both parties have “commercial” interests in the
+same—the real estate developer seeking to make a profit on the sale of the apartment, and the
+flat/apartment purchaser profiting by the sale of the apartment. Thus construed, there can be no
+difficulty in stating that the amounts raised from allottees under real estate projects would, in fact,
+be subsumed within Section 5(8)(f) even without adverting to the Explanation introduced by the
+Amendment Act.” (emphasis added) FINDINGS ON FACTUAL ASPECTS
+
+13. In light of the interpretation put by this Court to the definition of financial debt, it is necessary to
+come back to the facts of the case. The relevant agreements for our consideration are in the form of
+letters dated 1 st April 2014 and 1st April 2015. The corporate debtor addressed the letters to the
+first respondent. The relevant part of the agreement/letter dated 1st April 2014 reads thus:
+
+“.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+SACH MARKETING PVT LTD JHARKHAND Dear Sir, We are pleased to appoint
+you as our SALES PROMOTER for promotion of Beer at Ranchi (Jharkhand) on the
+following terms and conditions:
+
+1. You will be allowed Rs.4,000/- per month for your promote work.
+
+2. You will be working in close coordination with company's Marketing Manager for
+the aforementioned area, who shall convey the instructions in writing to you.
+
+3. The selling rates of our beer shall be decided by the company from time to time
+and you will not change them without prior confirmation from the company. Further,
+you shall not commit to any party about any rebate or any discount etc without prior
+authorization from us.
+
+4. The appointment shall be w.e.f. 1st April, 2014 for a period of 12 months ending
+31st March, 2015.
+
+5. The settlement of commission as stated above in point no.1 shall be on quarterly
+basis.
+
+6. Notwithstanding anything provided above this appointment in terms hereof may
+be terminated by us during the term of appointment aforesaid by giving to you thirty
+days notice in writing in this behalf from the date of dispatch of notice.
+
+7. You shall not be entitled upon termination of this agreement or appointment
+within the terms hereof to claim any damages or compensation from the company for
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+12
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+such termination or consequent thereupon or otherwise relative thereto against the
+other.
+
+8. Forthwith upon determination of this agreement appointment you shall cease all
+dealings on behalf of the company and shall deliver custody of all premises, stock,
+cash negotiable instruments, papers and documents and other items and things of
+the company coming into the custody of these presents.
+
+9. The company reserve the right to appoint any, other party as Sales Promoter for,
+areas mentioned above.
+
+10. You have to deposit minimum security of Rs.53,15,000/- with the Company
+which will carry interest @21% p.a. We will provide you interest on Rs.7,85,850/-
+@21% per annum.
+
+Please acknowledge receipt and as a token of your acceptance of above terms conditions.
+
+Please sign duplicate copy of this letter and return the same to us for our records.
+
+Thanking you, .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+.. .” (emphasis added) As seen from clause (4), the agreement was only for twelve months ending on
+31st March 2015. Therefore, on 1st April 2015, another letter was issued by the corporate debtor to
+the first respondent, incorporating identical terms and conditions. The only difference is that the
+agreement's duration was up to 31st March 2016. Clause (10) of the agreement/letter dated 1st April
+2015 reads thus:
+
+“.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+#10 You have to deposit minimum security of Rs.53,15,000/- with the Company
+which will carry interest @21% per annum.
+
+We will provide you interest on Rs.32,85,850/- @21% per annum. Please
+acknowledge receipt and as a token of your acceptance of above terms and
+conditions.
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .”
+
+14. Where one party owes a debt to another and when the creditor is claiming under a written
+agreement/arrangement providing for rendering 'service', the debt is an operational debt only if the
+claim subject matter of the debt has some connection or co-relation with the ‘service’ subject matter
+of the transaction. The written document cannot be taken for its face value. Therefore, it is necessary
+to determine the real nature of the transaction on a plain reading of the agreements. What is
+surprising is that for acting as a Sales Promoter of the beer manufactured by a corporate debtor,
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+13
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+only a sum of Rs.4,000/- per month was made payable to the first respondent. Apart from the sum
+of Rs.4,000/- per month, there is no commission payable to the first respondent on the quantity of
+sales. Clause (6) provides for termination of the appointment by giving thirty days’ notice. Though
+clause (10) provides for the payment of the security deposit by the first respondent, it is pertinent to
+note that there is no clause for the forfeiture of the security deposit. The amount specified in clause
+(10) has no correlation whatsoever with the performance of the other conditions of the contract by
+the first respondent. As there is no clause regarding forfeiture of the security deposit or part thereof,
+the corporate debtor was liable to refund the security deposit after the period specified therein was
+over with interest @21% per annum. Since the security deposit payment had no correlation with any
+other clause under the agreements, as held by the NCLAT, the security deposit amounts represent
+debts covered by sub- section (11) of Section 3 of the IBC. The reason is that the right of the first
+respondent to seek a refund of the security deposit with interest is a claim within the meaning of
+sub- section (6) of Section 3 of the IBC as the first respondent is seeking a right to payment of the
+deposit amount with interest. Therefore, there is no manner of doubt that there is a debt in the form
+of a security deposit mentioned in the said two agreements.
+
+15. Sub-section (21) of Section 5 defines “operational debt”, which reads thus:
+
+“5. In this Part, unless the context otherwise requires,-
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+(21) “operational debt” means a claim in respect of the provision of goods or services
+including employment or a debt in respect of the payment of dues arising under any
+law for the time being in force and payable to the Central Government, any State
+Government or any local authority;
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .” The second part of the definition which deals with the
+payment of dues arising under any law, will not apply. However, for the applicability of the first part,
+the claim must be concerning the provisions of goods or services. Therefore, in the case of a contract
+of service, there must be a correlation between the service as agreed to be provided under the
+agreement and the claim. The reason is that the definition uses the phraseology “a claim in respect
+of the provision of goods or services”. Assuming that both the agreements are genuine in the sense
+that they reflect the true nature of the transaction, the only claim under the agreements which will
+have any connection with the services rendered by the first respondent will be the claim of
+Rs.4,000/- per month as provided in clause (1) of both the agreements. Only this claim can be said
+to be concerning the provision of services. Therefore, by no stretch of imagination, the debt claimed
+by the first respondent can be an operational debt. We are conscious of the fact that the provision
+for payment of interest by the corporate debtor by itself is not the only material factor in deciding
+the nature of the debt. But, in the facts of the case, the payment of the amount mentioned in clause
+(10) of the letter has no relation with the service supposed to be rendered by the first respondent.
+
+16. Now, coming back to the definition of a financial debt under sub-section (8) of Section 5 of the
+IBC, in the facts of the case, there is no doubt that there is a debt with interest @21% per annum.
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+14
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+The provision made for interest payment shows that it represents consideration for the time value of
+money. Now, we come to clause (f) of sub-section (8) of Section 5 of the IBC. The first condition of
+applicability of clause (f) is that the amount must be raised under any other transaction. Any other
+transaction means a transaction which is not covered by clauses (a) to (e). Clause (f) covers all those
+transactions not covered by any of these sub-clauses of sub-section (8) that satisfy the test in the
+first part of Section
+
+8. The condition for the applicability of clause (f) is that the transaction must have the commercial
+effect of borrowing. “Transaction” has been defined in sub-section (33) of Section 3 of the IBC,
+which includes an agreement or arrangement in writing for the transfer of assets, funds, goods, etc.,
+from or to the corporate debtor. In this case, there is an arrangement in writing for the transfer of
+funds to the corporate debtor. Therefore, the first condition incorporated in clause (f) is fulfilled.
+
+17. To decide whether the second condition had been fulfilled, it is necessary to refer to the factual
+findings recorded in the impugned judgment. The NCLAT has referred to the letter dated 26th
+October 2017 addressed by the corporate debtor to the first respondent. We have perused a copy of
+the said letter annexed to the counter. By the said letter, the corporate debtor informed the first
+respondent that for the year 2016-2017, the corporate debtor had provided the interest amounting
+to Rs.18,06,000/- in the books of the corporate debtor and that the sum will be credited to the
+account of the first respondent on the date of payment of TDS. In paragraph 21 of the impugned
+judgment, it is held that the financial statement of the first respondent for the Financial Year
+2017-2018 shows revenue from the interest on the security deposit. It is also held that the amounts
+were treated as long-term loans and advances in the financial statement of the corporate debtor for
+the Financial Year 2015- 2016. Moreover, in the financial statement of the corporate debtor for the
+Financial Year 2016-17, the amounts paid by the first respondent were shown as “other long-term
+liabilities”. Therefore, if the letter mentioned above and the financial statements of the corporate
+debtor are considered, it is evident that the amount raised under the said two agreements has the
+commercial effect of borrowing as the corporate debtor treated the said amount as borrowed from
+the first respondent.
+
+CONCLUSION
+
+18. Therefore, we have no hesitation in concurring with the NCLAT's view that the amounts covered
+by security deposits under the agreements constitute financial debt. As it is a financial debt owed by
+the first respondent, sub-section (7) of Section 5 of the IBC makes the first respondent a financial
+creditor.
+
+19. The contracts subject matter of the Civil Appeal Nos. 6991 to 6994 of 2022 are in the form of
+letters, which provide for similar clauses as in the case of agreements subject matter of Civil Appeal
+No. 1143 of 2022.
+
+SUMMARY
+
+20. Subject to what is held above, we summarize our legal conclusions:
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+15
+
+Global Credit Capital Limited vs Sach Marketing Pvt. Ltd. on 25 April, 2024
+
+a. There cannot be a debt within the meaning of sub-
+
+section (11) of section 5 of the IB Code unless there is a claim within the meaning of
+sub-section (6) of section 5 of thereof;
+
+b. The test to determine whether a debt is a financial debt within the meaning of
+sub-section (8) of section 5 is the existence of a debt along with interest, if any, which
+is disbursed against the consideration for the time value of money. The cases covered
+by categories (a) to (i) of sub-section (8) must satisfy the said test laid down by the
+earlier part of sub-section (8) of section 5;
+
+c. While deciding the issue of whether a debt is a financial debt or an operational debt arising out of
+a transaction covered by an agreement or arrangement in writing, it is necessary to ascertain what is
+the real nature of the transaction reflected in the writing; and d. Where one party owes a debt to
+another and when the creditor is claiming under a written agreement/ arrangement providing for
+rendering 'service', the debt is an operational debt only if the claim subject matter of the debt has
+some connection or co- relation with the ‘service’ subject matter of the transaction.
+
+OPERATIVE PART
+
+21. For the reasons recorded earlier, we hold that the view taken by the NCLAT under the impugned
+judgments and orders is correct and will have to be upheld. Therefore, we confirm the impugned
+judgments and dismiss the appeals with no order as to costs. The Resolution Professional shall
+continue with the CIRP process in accordance with the impugned judgments.
+
+….…………………….J. (Abhay S. Oka) …..…………………...J. (Pankaj Mithal) New Delhi;
+
+April 25, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/167991363/
+
+16
+
+

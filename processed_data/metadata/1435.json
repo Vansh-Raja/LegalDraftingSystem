@@ -1,0 +1,24 @@
+{
+  "case_number": "Civil Appeal No. ___ of 2022 (Arising out of SLP (C) No. 4063 of 2020)",
+  "parties": {
+    "petitioner": "Principal Commissioner of Income Tax (Central)-2",
+    "respondent": "M/S Mahagun Realtors (P) Ltd"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-05",
+  "summary": "The case involved tax assessment proceedings against M/S Mahagun Realtors Pvt Ltd (MRPL), which had amalgamated with Mahagun India Pvt Ltd (MIPL) effective 01.04.2006. The revenue initiated proceedings under Section 153A of the Income Tax Act, 1961 in the name of MRPL, a company that ceased to exist post-amalgamation. The ITAT quashed the assessment order, holding it unsustainable as the assessee did not exist on the date of the order, relying on Spice Infotainment Ltd v. CIT and Dimension Apparel Pvt. Ltd. The Delhi High Court affirmed this. The revenue argued that the defect was curable under Section 292B and that both companies' names were mentioned, distinguishing Maruti Suzuki India Ltd where only the amalgamating company was named. The respondent contended that an assessment in the name of a defunct company is void ab initio under Section 170(2) and cannot be cured by subsequent participation or acknowledgment by the amalgamated entity. The core issue was the validity of assessment in the name of a non-existent entity post-amalgamation.",
+  "legal_provisions_cited": [
+    "Income Tax Act, 1961, Section 2(31)",
+    "Income Tax Act, 1961, Section 143(2)",
+    "Income Tax Act, 1961, Section 153A",
+    "Income Tax Act, 1961, Section 170(2)",
+    "Income Tax Act, 1961, Section 276CC",
+    "Income Tax Act, 1961, Section 292B",
+    "Companies Act, 1956, Section 394",
+    "Spice Infotainment Ltd v. CIT, 247 ITR 500 (Del)",
+    "CIT v. Dimension Apparel Pvt. Ltd, 370 ITR 288 (Del)",
+    "Principal Commissioner of Income Tax v. Maruti Suzuki India Limited",
+    "Saraswati Industrial Syndicate v. Commissioner of Income Tax"
+  ],
+  "final_judgment": "The Supreme Court dismissed the revenue's appeal, affirming that an assessment order passed in the name of a company that had ceased to exist due to amalgamation is invalid and cannot be sustained, even if participated in by the amalgamated entity, relying on the principle from Maruti Suzuki and earlier Delhi High Court decisions."
+}

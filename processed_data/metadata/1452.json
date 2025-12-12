@@ -1,0 +1,19 @@
+{
+  "case_number": "Criminal Appeal No. 1066 of 2010",
+  "parties": {
+    "petitioner": "Ram Sharan Chaturvedi",
+    "respondent": "The State of Madhya Pradesh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-25",
+  "summary": "The appeal challenged the High Court's confirmation of the appellant's conviction under Sections 201, 380, 435, 457, 477, and 120B IPC for bank theft and related offences. The appellant, a head cashier, was convicted based on conspiracy under Section 120B due to his exclusive custody of one set of dual-lock system keys, despite no direct evidence or recovery of stolen property from him. The prosecution relied on circumstantial evidence and witness testimonies confirming unauthorized access and theft of Rs. Six Lakhs, with incineration of some notes. The Supreme Court upheld the conviction, finding the conspiracy established by the misuse of key access, and rejected the argument that no theft occurred due to recovery of funds.",
+  "legal_provisions_cited": [
+    "Section 120B IPC",
+    "Section 201 IPC",
+    "Section 380 IPC",
+    "Section 435 IPC",
+    "Section 457 IPC",
+    "Section 477 IPC"
+  ],
+  "final_judgment": "Appeal dismissed. Conviction and sentence confirmed."
+}

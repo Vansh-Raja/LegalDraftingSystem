@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 1661 of 2020",
+  "parties": {
+    "petitioner": "State Tax Officer (1)",
+    "respondent": "Rainbow Papers Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-06",
+  "summary": "The appeal concerned the priority of tax dues under the Gujarat Value Added Tax (GVAT) Act, 2003 over insolvency proceedings governed by the Insolvency and Bankruptcy Code (IBC), 2016. The appellant, State Tax Officer, claimed that tax dues constituted a first charge on the corporate debtor's property under Section 48 of the GVAT Act. The issue was whether Section 48 of the GVAT Act could prevail over Section 53 of the IBC, which prescribes a waterfall mechanism for distribution of assets, placing government dues in a lower priority. The NCLAT and subsequently the Supreme Court held that Section 53 of the IBC prevails over Section 48 of the GVAT Act, and government tax claims cannot be treated as secured debts. Additionally, the claim was filed belatedly after approval of the resolution plan, and the Resolution Professional rightly rejected it. The Court upheld the primacy of IBC’s creditor hierarchy.",
+  "legal_provisions_cited": [
+    "Section 48, Gujarat Value Added Tax Act, 2003",
+    "Section 53, Insolvency and Bankruptcy Code, 2016",
+    "Section 30, Insolvency and Bankruptcy Code, 2016",
+    "Section 31, Insolvency and Bankruptcy Code, 2016",
+    "Section 3(30), Insolvency and Bankruptcy Code, 2016",
+    "Section 3(31), Insolvency and Bankruptcy Code, 2016",
+    "Section 5(21), Insolvency and Bankruptcy Code, 2016"
+  ],
+  "final_judgment": "Appeal dismissed. The provisions of Section 53 of the IBC override Section 48 of the GVAT Act. Government tax dues do not constitute a first charge in insolvency proceedings and are not classified as secured debts. Late claims by operational creditors after approval of a resolution plan are not maintainable."
+}

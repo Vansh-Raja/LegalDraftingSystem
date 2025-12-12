@@ -1,0 +1,18 @@
+{
+  "case_number": "CIVIL APPEAL NO. OF 2024 [@ SPECIAL LEAVE PETITION (CIVIL) NO. OF 2024]",
+  "parties": {
+    "petitioner": "Md. Rahim Ali @ Abdur Rahim",
+    "respondent": "The State of Assam & ORS."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-07-11",
+  "summary": "The appeal challenges the Gauhati High Court's dismissal of a writ petition that sought to quash a Foreigners Tribunal order declaring the appellant a foreigner. The Tribunal had held the appellant failed to discharge the burden of proving he was not a foreigner under Section 9 of the Foreigners Act, 1946. The appellant argued he suffered from serious health issues preventing timely appearance, was denied a fair hearing, and that discrepancies in documents were minor (e.g., spelling, date of birth). The State justified the burden of proof on the alleged foreigner, citing threats from illegal migration and precedents like Sarbananda Sonowal I. Despite prior directions for a fresh hearing, the Tribunal reaffirmed its foreigner declaration. The appellant contended this was perverse given his familial and residential ties in India.",
+  "legal_provisions_cited": [
+    "Section 9, Foreigners Act, 1946",
+    "Section 6-A(1)(d), Citizenship Act",
+    "Article 355, Constitution of India",
+    "Sarbananda Sonowal v Union of India, (2005) 5 SCC 665",
+    "Abdul Kuddus v Union of India, (2019) 6 SCC 604"
+  ],
+  "final_judgment": "Leave granted."
+}

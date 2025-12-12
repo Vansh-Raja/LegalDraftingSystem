@@ -1,0 +1,1116 @@
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan
+Bankatlal Malu on 19 April, 2024
+
+Author: B.R. Gavai
+
+Bench: B.R. Gavai
+
+ 2024 INSC 319
+
+                                                                               REPORTABLE
+                                            IN THE SUPREME COURT OF INDIA
+                                           CRIMINAL APPELLATE JURISDICTION
+                                           CRIMINAL APPEAL NO.3851 OF 2023
+
+                         INSOLVENCY AND BANKRUPTCY BOARD
+                         OF INDIA                        ...APPELLANT (S)
+
+                                                          VERSUS
+                         SATYANARAYAN BANKATLAL MALU
+                         & ORS.                                          ...RESPONDENT (S)
+
+                                                           INDEX
+
+                                I.    FACTUAL BACKGROUND                        Paras 1 to 2
+                               II.    SUBMISSIONS                               Paras 3 to 17
+                              III.    CONSIDERATION OF STATUTORY PROVISIONS     Paras 18 to 25
+                              IV.     CONSIDERATION OF PRECEDENTS               Paras 26 to 40
+                               V.     CONCLUSION                                Paras 41 to 49
+
+                                                       JUDGMENT
+
+B.R. GAVAI, J.
+
+I. FACTUAL BACKGROUND
+
+1. This appeal challenges the judgement and order dated 14th February 2022, passed by the learned
+Single Judge of the High Court of Judicature at Bombay in Writ Petition No.2592 of 2021, thereby
+allowing the petition filed by Satyanarayan Bankatlal Malu and Ramesh Satyanarayan Malu, the
+Ex-Directors of M/s. SBM Paper Mills Pvt. Ltd. (hereinafter referred to as ‘the Respondents’)
+challenging the order dated 17th March 2021 passed by the learned Additional Sessions Judge, 58th
+Court in Special Case No.853 of 2020 (‘learned Sessions Judge’ for short). The learned Sessions
+Judge had directed issuance of process against the Respondents on account of a Complaint filed by
+the Insolvency and Bankruptcy Board of India (hereinafter referred to as ‘the Appellant-Board’)
+under Section 236 of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as “the
+Code”) read with Sections 190, 193 and 200 of the Code of Criminal Procedure, 1973 (“Cr.P.C.) for
+the offences punishable under Section 73(a) and Section 235A of the Code.
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+1
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+2. The facts in brief, giving rise to the present appeal are as under:
+
+2.1 M/s. SBM Paper Mills Private Limited (hereinafter referred to as “the Corporate
+Debtor”) filed a petition on 4th September 2017 under Section 10 of the Code for
+initiation of the Corporate Insolvency Resolution Process (hereinafter referred to as
+“CIRP”) of itself vide CP/1362/I&BC/NCLT/MB/MAH/2017. The National Company
+Law Tribunal, Mumbai Bench (hereinafter referred to as “the NCLT”) vide order
+dated 17th October 2017, admitted the Petition and directed the moratorium to
+commence as prescribed under Section 14 of the Code and directed certain statutory
+steps to be taken as a consequence thereof. Vide the said order, the NCLT also
+appointed Mr. Amit Poddar as the Interim Resolution Professional (hereinafter
+referred to as “RP”) to carry out the functions as prescribed under the provisions of
+the Code.
+
+2.2 In the meanwhile, Mr. Satyanarayan Malu, i.e., the Respondent/Ex-Director of
+the Corporate Debtor filed an application being M.A. No. 1396/2018 before the NCLT
+under Section 12A of the Code for the withdrawal of the aforesaid petition under
+Section 10 in light of a One Time Settlement (“OTS” for short) entered into with the
+sole Financial Creditor, i.e., Allahabad Bank. On the other hand, the RP had also filed
+an application being M.A. No. 827/2018 for the approval of the Resolution Plan. The
+NCLT vide order dated 20th December 2018 allowed the M.A. No. 1396/2018 filed by
+the Respondent while observing the consent for withdrawal of the petition by the sole
+Financial Creditor vide letter dated 27th November 2018.
+
+2.3 However, on account of non-compliance of the terms of the OTS by the
+Respondents, the NCLT issued a Show-Cause Notice against them vide order dated
+11th March 2019. The NCLT further found it to be a fit case to propose the
+prosecution of the Respondents vide order dated 20th August 2019 while hearing an
+application filed by the sole Financial Creditor being M.A. 494 and 495 of 2019
+thereby seeking prosecution of the Respondents.
+
+2.4 Thereafter, on 22nd September 2020, the Appellant-Board filed a Complaint
+against the Respondents before the Sessions Judge in Special Case No. 853/2020
+under the aforementioned provisions and for offences punishable under Section
+73(a) and 235A of the Code for the non-compliance of the terms of the OTS and for
+not having filed the M.A. 1396/2018 under Section 12A of the Code through the RP.
+The Sessions Judge vide Order dated 17th March 2021 directed issuance of process
+against the Respondents and further directed them to be summoned on the next date
+of hearing.
+
+2.5 Being aggrieved thereby, the Respondents filed a Writ Petition No. 2592 of 2021
+before the High Court of Judicature at Bombay, praying for the quashing and setting
+aside of the order dated 17th March 2021 passed by the Sessions Judge for the want
+of jurisdiction. The High Court vide impugned judgement and order dated 14th
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+2
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+February 2022 allowed the Writ Petition No. 2592 of 2021 filed by the Respondents.
+
+2.6 Hence, this Appeal.
+
+II. SUBMISSIONS
+
+3. We have heard Shri S.V. Raju, learned Additional Solicitor General of India (“ASG” for short)
+appearing for the Appellant- Board and Shri Amir Arsiwala, Advocate on Record, appearing for the
+Respondents/Ex-Directors of the Corporate Debtor.
+
+4. Shri S.V. Raju, learned ASG submitted that the learned Single Judge of the High Court has grossly
+erred in quashing the proceedings. Shri Raju submitted that the learned Single Judge of the High
+Court has grossly erred in holding that, in view of the Companies (Amendment) Act, 2017 (which
+came into effect from 7th May 2018), only the offences committed under the Companies Act can be
+tried by Special Court consisting of Sessions Judge or Additional Sessions Judge. He submitted that
+the reasoning given by the learned Single Judge that the offences other than the Companies Act
+cannot be tried by the Special Court consisting of Sessions Judge or Additional Sessions Judge is
+totally in ignorance of the provisions of sub-section (1) of Section 236 of the Code.
+
+5. Learned ASG submitted that sub-section (1) of Section 236 of the Code provides that the offences
+under the Code shall be tried by the Special Court established under Chapter XXVIII of the
+Companies Act, 2013. He submits that the legislative intent is clear. There is no general reference to
+the provisions of the Companies Act. He submits that what has been done by sub- section (1) of
+Section 236 of the Code is that the offences punishable under the Code are required to be tried by
+the Special Court established under Chapter XXVIII of the Companies Act, 2013.
+
+6. Shri Raju further submitted that the legislative intent is clear. A specific provision of the
+Companies Act, 2013 has been incorporated in sub-section (1) of Section 236 of the Code. It is
+submitted that, if the legislative intent was that of legislation by reference, then a general reference
+could have been made in sub- section (1) of Section 236 of the Code to Chapter XXVIII of the
+Companies Act. Learned ASG therefore submitted that, if the reference made to the Special Court
+established under Chapter XXVIII of the Companies Act, 2013 is held to be legislation by
+incorporation, then the subsequent amendments to the Companies Act, 2013 would not be
+applicable to the Code. He submitted that since the Code has come into effect on 28th May, 2016,
+the provisions of Section 435, as it existed in Chapter XXVIII of the Companies Act, 2013 then,
+would only be applicable. Learned ASG in this respect refers to the judgments of this Court in the
+cases of Bolani Ores Ltd. vs State of Orissa1 and Mahindra and Mahindra Ltd. vs Union of India and
+another2.
+
+(1974) 2 SCC 777 (1979) 2 SCC 529
+
+7. Learned ASG further submits that the Code has been held to be a complete Code in itself in a
+catena of judgments of this Court. In this respect, he relied on the judgments of this Court in the
+cases of Ebix Singapore Private Limited vs Committee of Creditors of Educomp Solutions Limited
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+3
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+and another3, Embassy Property Developments Private Limited vs State of Karnataka and others4,
+and Bharti Airtel Ltd. and another vs Vijaykumar V. Iyer and others5.
+
+8. Learned ASG submits that, if a statute is a complete Code in itself, then normally a reference to
+the provisions of the prior statute referred to in a subsequent statute would only have a restrictive
+operation. In such a case, it would be a ‘legislation by incorporation’ and not a ‘legislation by
+reference’. In this respect, he relied on the judgments of this Court in the case of Girnar Traders (3)
+vs. State of Maharashtra and others6.
+
+9. Learned ASG further submits that the Statement of Objects and Reasons (SOR) to the Companies
+(Amendment) Act, 2017, (2022) 2 SCC 401 (2020) 13 SCC 308 2024 SCC OnLine SC 4 (2011) 3 SCC
+1 amending the Companies Act, 2013 clearly shows that the amendment is for the purposes of
+restricting only to the Companies Act and not for any other purpose. He therefore submits that the
+finding of the learned Single Judge of the High Court that in view of the Companies (Amendment)
+Act, 2017, the Special Court consisting of Sessions Judge or Additional Sessions Judge will not have
+the jurisdiction to entertain the complaint in question is totally erroneous.
+
+10. Learned ASG submits that, in any event, the learned Single Judge of the High Court has erred in
+quashing the complaint. It is submitted that, in the event the learned Single Judge found that the
+Special Court consisting of Sessions Judge or Additional Sessions Judge did not have jurisdiction
+and it is the Special Court of Metropolitan Magistrate or Judicial Magistrate First Class which has
+jurisdiction, then it should have returned the complaint for presentation of the same before the
+competent court having jurisdiction.
+
+11. Shri Amir Arsiwala, learned Advocate on Record appearing for the Respondents raises a
+preliminary objection. He submits that the point with regard to ‘legislation by incorporation’ was
+not argued before the learned Single Judge of the High Court and therefore the said contention
+cannot be permitted to be raised for the first time in this Court.
+
+12. Shri Arsiwala submits that the judgment of this Court in the case of Bolani Ores Ltd. (supra)
+would not be applicable in the facts of the present case inasmuch as, in the said case what was
+incorporated in the subsequent statute was a definition of ‘motor vehicles’ as found in the earlier
+statute i.e. Motor Vehicles Act, 1939. It is therefore submitted that, the definition cannot be in a
+state of flux subject to the mercy of amendments to the Central Act.
+
+13. Similarly, he submits that the judgment of this Court in the case of Mahindra and Mahindra Ltd.
+(supra) would not be applicable to the facts of the present case inasmuch as, in the said case what
+was referred in Section 55 of the Monopolies and Restrictive Trade Practices Act, 1969 was a right to
+file an appeal on any of the grounds mentioned in Section 100 of the Code of Civil procedure, 1908
+(“CPC” for short). He submitted that in the said case, this Court was considering a provision which
+provided a substantive right to file an appeal. As such, a reference to Section 100 of the CPC was
+held amounting to be an ‘incorporation’ as the substantive right of appeal could not be left at the
+mercy of subsequent amendments to the CPC.
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+4
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+14. Insofar as the judgment of this Court in the case of Girnar Traders (supra) is concerned, learned
+counsel submits that rather than the said judgment supporting the case of the Appellant-Board, if
+the test laid down in the said case is applied to the facts of the present case, it will lead to a
+conclusion that the present case is that of ‘legislation by reference’.
+
+15. Relying on the judgments of this Court in the cases of Collector of Customs, Madras vs Nathella
+Sampathu Chetty and Anr.7, New Central Jute Mills Co. Ltd. vs. Assistant Collector of Central
+Excise, Allahabad & Ors.8, and Ujagar Prints and others vs Union of India and others9, he submits
+that what has to be taken into consideration is the plain language (1962) 3 SCR 786 (1970) 2 SCC
+820 (1989) 3 SCC 488 used by the legislation in the statute to which a reference is made by the
+subsequent statute. Learned counsel submits that in the present case, a general reference is made to
+Chapter XXVIII of the Companies Act. It is therefore submitted that, since a general reference is
+made, the present case would not be a case of ‘legislation by incorporation’ but would be a case of
+‘legislation by reference’.
+
+16. Learned counsel submits that in any case, the Respondents Nos.1 and 2 have a good case on
+merits. He submits that the learned Single Judge of the High Court has not considered the merits of
+the matter and in the event this Court holds that the learned Single Judge was not justified in
+quashing the proceedings, the matter be remitted to the learned Single Judge of the High Court for
+deciding it afresh on merits.
+
+17. Shri Vikas Mehta, learned Advocate on Record for the Appellant-Board, in rejoinder, reiterated
+the submissions made by Shri S.V. Raju, learned ASG. He submits that the legislative intent is clear.
+If the legislature wanted to take out the offences punishable under the Code from the ambit of
+Chapter XXVIII of the Companies Act, 2013, nothing prevented it from making an amendment to
+the Code itself.
+
+III. CONSIDERATION OF STATUTORY PROVISIONS
+
+18. For considering the rival submissions, it will be necessary to refer to Section 236(1) of the Code,
+which reads thus:
+
+236. Trial of offences by Special Court.—(1) Notwithstanding anything in the Code of
+Criminal Procedure, 1973 (2 of 1974), offences under of this Code shall be tried by the
+Special Court established under Chapter XXVIII of the Companies Act, 2013 (18 of
+2013).
+
+19. It can thus be seen that Section 236(1) of the Code begins with a non-obstante clause. It provides
+that the offences under the Code shall be tried by the Special Court established under Chapter
+XXVIII of the Companies Act, 2013. Chapter XXVIII of the Companies Act, 2013 deals with ‘Special
+Courts’.
+
+20. For appreciating the rival submissions, it will also be necessary to refer to Section 435 of the
+Companies Act, 2013, as it was originally enacted; Section 435 after the amendment in 2015 by the
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+5
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+Companies (Amendment) Act, 2015, which came into effect from 29th May 2015 (hereinafter
+referred to as “the 2015 Amendment”); and Section 435 as it existed after the amendment by the
+Companies (Amendment) Act, 2017 with effect from 7th May 2018 (hereinafter referred to as “the
+2018 Amendment”), which reads thus:
+
+Section 435 (originally enacted) “435. Establishment of Special Courts.—(1) The
+Central Government may, for the purpose of providing speedy trial of offences
+punishable under this Act, by notification, establish or designate as many Special
+Courts as may be necessary.
+
+(2) A Special Court shall consist of a Single Judge who shall be appointed by the
+Central Government with the concurrence of the Chief Justice of the High Court
+within whose jurisdiction the judge to be appointed is working. (3) A person shall not
+be qualified for appointment as a Judge of a Special Court unless he is, immediately
+before such appointment, holding office of a Sessions Judge or an Additional
+Sessions Judge.” Section 435 (after the 2015 Amendment) “435. Establishment of
+Special Courts.—(1) The Central Government may, for the purpose of providing
+speedy trial of offences punishable under this Act with imprisonment of two years or
+more, by notification, establish or designate as many Special Courts as may be
+necessary.
+
+Provided that all other offences shall be tried, as the case may be, by a Metropolitan Magistrate or a
+Judicial Magistrate of the First Class having jurisdiction to try any offence under this Act or under
+any previous company law.
+
+(2) A Special Court shall consist of a Single Judge who shall be appointed by the Central
+Government with the concurrence of the Chief Justice of the High Court within whose jurisdiction
+the judge to be appointed is working.
+
+(3) A person shall not be qualified for appointment as a Judge of a Special Court unless he is,
+immediately before such appointment, holding office of a Sessions Judge or an Additional Sessions
+Judge.” Section 435 (after the 2018 Amendment) “435. Establishment of Special Courts.—(1) The
+Central Government may, for the purpose of providing speedy trial of offences under this Act, except
+under section 452, by notification, establish or designate as many Special Courts as may be
+necessary.
+
+(2) A Special Court shall consist of—
+
+(a) a single judge holding office as Session Judge or Additional Session Judge, in case of offences
+punishable under this Act with imprisonment of two years or more; and
+
+(b) a Metropolitan Magistrate or a Judicial Magistrate of the First Class, in the case of other
+offences, who shall be appointed by the Central Government with the concurrence of the Chief
+Justice of the High Court within whose jurisdiction the judge to be appointed is working.”
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+6
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+21. It could thus be seen that as per Section 435(3) of the Companies Act, 2013, as it existed on the
+date on which the Code came into effect (i.e. after the 2015 Amendment), a person to be qualified for
+appointment as a Judge of a Special Court was required to hold office of a Sessions Judge or an
+Additional Sessions Judge immediately before his appointment as a Judge of a Special Court.
+
+22. After Section 435 of the Companies Act, 2013 suffered an amendment in the year 2015 by the
+2015 Amendment (Act No. 21 of 2015), with effect from 29th May, 2015, sub-section (1) thereof
+provided that the Central Government may, for the purpose of providing speedy trial of offences
+punishable under the said Act with imprisonment of two years or more, by notification, establish or
+designate as many Special Courts as may be necessary. It further provided that all other offences
+shall be tried either by a Metropolitan Magistrate or a Judicial Magistrate of the First Class having
+jurisdiction to try any offence under the said Act or under any previous company law; meaning
+thereby, the offences under the Companies Act punishable with imprisonment of two years or more
+were to be tried by Special Courts comprising of Sessions Judge or Additional Sessions Judge,
+whereas all other offences punishable with imprisonment of less than two years, were to be tried by
+the Courts of Metropolitan Magistrate or Judicial Magistrate First Class having jurisdiction to try
+such offences. Insofar as sub-sections (2) and (3) are concerned, there was no change and as such,
+for being a person to be eligible for appointment as a Judge of a Special Court it was necessary that
+he occupied the office of a Sessions Judge or an Additional Sessions Judge prior to his appointment.
+
+23. Another amendment to Section 435 of the Companies Act, 2013 was effected by the Companies
+(Amendment) Act, 2017 (i.e. Act No. 1 of 2018), with effect from 7th May, 2018. Vide the said
+amendment, two classes of Special Courts were constituted. Firstly, a Special Court presided by a
+single judge holding office as Session Judge or Additional Session Judge, in case of offences
+punishable with imprisonment of two years or more under the Companies Act, 2013; and the second
+being presided by a Metropolitan Magistrate or a Judicial Magistrate of the First Class in the case of
+other offences, i.e., offences punishable with imprisonment of less than two years.
+
+24. It is thus clear that Section 435 of the Companies Act, 2013 as it originally existed, provided for
+only one class of Special Courts i.e. a person holding office of a Sessions Judge or an Additional
+Sessions Judge and all offences under the Companies Act, 2013 were required to be tried by such
+Special Courts. The 2015 Amendment to Section 435 also provided for only one class of Special
+Courts i.e. a person holding the rank of a Sessions Judge or an Additional Sessions Judge. The
+change that was brought out was that, only offences punishable under the Companies Act, 2013 with
+imprisonment of two years or more were to be tried by the Special Courts, whereas all other offences
+i.e. offences punishable with imprisonment of less than two years were to be tried by the
+jurisdictional Metropolitan Magistrate or the Judicial Magistrate of the First Class. By the 2018
+Amendment, two classes of Special Courts were established. The first class of Special Courts
+comprised of an officer holding the office as Sessions Judge or Additional Sessions Judge, whereas
+the second class of Special Courts comprised of Metropolitan Magistrate or a Judicial Magistrate of
+the First Class. The offences punishable under the Companies Act with imprisonment of two years
+or more were required to be tried by a Special Court comprising of Sessions Judge or Additional
+Sessions Judge, whereas all other offences i.e. the offences punishable with imprisonment of less
+than two years were to be tried by a Special Court comprising of Metropolitan Magistrate or the
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+7
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+Judicial Magistrate of the First Class.
+
+25. The question that requires to be considered is, as to whether the Special Court under the Code
+would be as provided under Section 435 of the Companies Act as it existed at the time when the
+Code came into effect, or it would be as provided under Section 435 of the Companies Act after the
+2018 Amendment. The answer to that question would depend upon as to whether the reference to
+‘Special Court established under Chapter XXVIII of the Companies Act, 2013’ in Section 236(1) of
+the Code is a ‘legislation by incorporation’ or a ‘legislation by reference’. If it is held that it is a
+‘legislation by incorporation’, then the subsequent amendments would not have any effect on the
+Code and the Special Court would continue to be as provided under Section 435 of the Companies
+Act, as it existed when the Code came into effect. Per contra, if it is held that it is a ‘legislation by
+reference’ then the subsequent amendments would also be applicable to the Code and the Special
+Courts would be as provided under Section 435 of the Companies Act after its amendment by the
+2018 Amendment.
+
+IV. CONSIDERATION OF PRECEDENTS
+
+26. A Constitution Bench of this Court in the case of Collector of Customs, Madras vs Nathella
+Sampathu Chetty and Anr. (supra) has considered the distinction between ‘legislation by reference’
+and ‘legislation by incorporation’. It will be apposite to refer to the following observations of this
+Court in the said case:
+
+“………To consider that the decision of the Privy Council has any relevance to the
+construction of the legal effect of the terms of Section 23-A of the Foreign Exchange
+Regulation Act is to ignore the distinction between a mere reference to or a citation of
+one statute in another and an incorporation which in effect means the bodily lifting of
+the provisions of one enactment and making it part of another so much so that the
+repeal of the former leaves the latter wholly untouched. In the case, however, of a
+reference or a citation of one enactment by another without incorporation, the effect
+of a repeal of the one “referred to” is that set out in Section 8(1) of the General clauses
+Act:
+
+“8. (1) Where this Act, or any Central Act or Regulation made after the
+commencement of this Act, repeals and re-enacts, with or without modification, any
+provision of a former enactment, then references in any other enactment or in any
+instrument to the provision so repealed shall, unless a different intention appears: be
+construed as references to the provision so re-enacted.” On the other hand, the effect
+of incorporation is as stated by Brett, L.J. in Clarke v. Bradlaugh [1881 8 QBD 63] :
+
+“Where a statute is incorporated, by reference, into a second statute the repeal of the
+first statute by a third does not affect the second.” This is analogous to, though not
+identical with the principle embodied in Section 6-A of the General Clauses Act
+enacted to define the effect of repeals effected by repealing and amending Acts which
+runs in these terms:
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+8
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+“6-A. Where any Central Act or Regulation made after the commencement of this Act
+repeals any enactment by which the text of any Central Act or Regulation was
+amended by the express omission, insertion or substitution of any matter, then,
+unless a different intention appears, the repeal shall not affect the continuance of any
+such amendment made by the enactment so repealed and in operation at the time of
+such repeal.” We say “not identical” because in the class of cases contemplated by
+Section 6-A of the General clauses Act, the function of the incorporating legislation is
+almost wholly to effect the incorporation and when that is accomplished, they die as
+it were a natural death which is formally effected by their repeal. In cases, however,
+dealt with by Brett, L.J. the legislation from which provisions are absorbed continue
+to retain their efficacy and usefulness and their independent operation even after the
+incorporation is effected.”
+
+27. It could thus be seen that the effect of incorporation means the bodily lifting of the provisions of
+one enactment and making it part of another so much so that the repeal of the former leaves the
+latter wholly untouched. However, in the case of a reference or a citation of the provisions of one
+enactment into another without incorporation, the amendment or repeal of the provisions of the
+said Act referred to in a subsequent Act will also bear the effect of the amendment or repeal of the
+said provisions.
+
+28. In the case of Bolani Ores Ltd. (supra), this Court was considering the question as to what would
+be the effect of amendment of the definition of ‘motor vehicles’ for the purposes of Bihar and Orissa
+Motor Vehicles Taxation Act, 1930 (for short “the Orissa Taxation Act”). The Orissa Taxation Act
+had adopted the definition of ‘motor vehicles’ as provided in the Motor Vehicles Act, 1939 for the
+purposes of taxation. The definition at the time of adoption brought the motor vehicle under the
+ambit of the said definition. It excluded the ‘motor vehicles’ used solely upon the premises of the
+owner. However, the said enactment suffered an amendment in the year 1956 and specifically
+excluded vehicles of special type adapted for use only in a factory or in any other enclosed premises.
+It was sought to be urged on behalf of the State of Orissa that the definition of ‘motor vehicles’ as
+adopted in Section 2(c) of the Orissa Taxation Act was not the definition by ‘incorporation’ but a
+definition by ‘reference’ and therefore amendment to the said definition would also be applicable for
+the purposes of taxation under the Orissa Taxation Act.
+
+29. Rejecting the said contention and referring to various earlier judgments, this Court observed
+thus:
+
+“29. The question then remains as to whether these vehicles though registrable under
+the Act are motor vehicles for the purpose of the Taxation Act. It has already been
+pointed out that before the amendment vehicles used solely upon the premises of the
+owner, though they may be mechanically propelled vehicles adapted for use upon
+roads were excluded from the definition of ‘motor vehicle’. If this definition which
+excludes them is the one which is incorporated by reference under Section 2(c) of the
+Taxation Act, then no tax is leviable on these vehicles under the Taxation Act. Shri
+Tarkunde for the State of Orissa contends that the definition of ‘motor vehicle’ in
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+9
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+Section 2(c) of the Taxation Act is not a definition by incorporation but only a
+definition by reference, and as such the meaning of ‘motor vehicle’ for the purpose of
+Section 2(c) of the Taxation Act would be the same as defined from time to time
+under Section 2(18) of the Act. In ascertaining the intention of the legislature in
+adopting the method of merely referring to the definition of ‘motor vehicle’ under the
+Act for the purpose of the Taxation Act, we have to keep in mind its purpose and
+intendment as also that of the Motor Vehicles Act. We have already stated what these
+purposes are and having regard to them the registration of a motor vehicle does not
+automatically make it liable for taxation under the Taxation Act. The Taxation Act is a
+regulatory measure imposing compensatory taxes for the purpose of raising revenue
+to meet the expenditure for making roads, maintaining them and for facilitating the
+movement and regulation of traffic. The validity of the taxing power under Entry 57
+List II of the Seventh Schedule read with Article 301 of the Constitution depends
+upon the regulatory and compensatory nature of the taxes. It is not the purpose of the
+Taxation Act to levy taxes on vehicles which do not use the roads or in any way form
+part of flow of traffic on the roads which is required to be regulated. The regulations
+under the Motor Vehicles Act for registration and prohibition of certain categories of
+vehicles being driven by persons who have no driving licence, even though those
+vehicles are not plying on the roads, are designed to ensure the safety of passengers
+and goods etc. etc. and for that purpose it is enacted to keep control and check on the
+vehicles. Legislative power under Entry 35 of List III (Concurrent List) does not bar
+such a provision. But Entry 57 of List II is subject to the limitations referred to above,
+namely, that the power of taxation thereunder cannot exceed the compensatory
+nature which must have some nexus with the vehicles using the roads viz. public
+roads. If the vehicles do not use the roads, notwithstanding that they are registered
+under the Act, they cannot be taxed. This very concept is embodied in the provisions
+of Section 7 of the Taxation Act as also the relevant sections in the Taxation Acts of
+other States, namely, that where a motor vehicle is not using the roads and it is
+declared that it will not use the roads for any quarter or quarters of a year or for any
+particular year or years, no tax is leviable thereon and if any tax has been paid for any
+quarter during which it is not proposed to use the motor vehicle on the road, the tax
+for that quarter is refundable. If this be the purpose and object of the Taxation Act,
+when the motor vehicle is defined under Section 2(c) of the Taxation Act as having
+the same meaning as in the Motor Vehicles Act, 1939, then the intention of the
+Legislature could not have been anything but to incorporate only the definition in the
+Motor Vehicles Act as then existing, namely, in 1943, as if that definition was bodily
+written into Section 2(c) of the Taxation Act. If the subsequent Orissa Motor Vehicles
+Taxation (Amendment) Act, 1943, incorporating the definition of ‘motor vehicle’
+referred to the definition of ‘motor vehicle’ under the Act as then existing, the effect
+of this legislative method would, in our view, amount to an incorporation by
+reference of the provisions of Section 2(18) of the Act in Section 2(c) of the Taxation
+Act. Any subsequent amendment in the Act or a total repeal of the Act under a fresh
+legislation on that topic would not affect the definition of ‘motor vehicle’ in Section
+2(c) of the Taxation Act. This is a well-accepted interpretation both in this country as
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+10
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+well as in England which has to a large extent influenced our law. This view is further
+reinforced by the use of the word ‘has’ in the expression “has the same meaning as in
+the Motor Vehicles Act, 1939” in Section 2(c) of the Taxation Act, which would
+perhaps further justify the assumption that the Legislature had intended to
+incorporate the definition under the Act as it then existed and not as it may exist
+from time to time. This method of drafting which adopts incorporation by reference
+to another Act whatever may have been its historical justification in England in this
+country does not exhibit an activists draftsmanship which would have adopted the
+method of providing its own definition.
+
+Where two Acts are complimentary or interconnected, legislation by reference may be an easier
+method because a definition given in the one Act may be made to do as the definition in the other
+Act both of which being enacted by the same Legislature. At any rate, Lord Esher, M.R. dealing with
+legislation by incorporation, in In re. Wood's Estate [(1886) 31 Ch D 607] said at p. 615:
+
+“If a subsequent Act brings into itself by reference some of the clauses of a former
+Act, the legal effect of that, as has often been held, is to write those sections into the
+new Act just as if they had been actually written in it with the pen, or printed in it,
+and, the moment you have these clauses in the later Act, you have no occasion to
+refer to the former Act at all.” The observations in Clarke v. Bradlaugh [(1881) 8 QBD
+63 607] are also to the same effect. Brett, L.J. in that case had said at p. 69:
+
+“… there is a rule of construction that, where a statute is incorporated by reference
+into a second statute, the repeal of the first statute by a third statute does not affect
+the second.”
+
+30. In Secretary of State for India in Council v. Hindusthan Cooperative Insurance Society Ltd. [AIR
+1931 PC 149 :
+
+132 IC 748 : LR 58 IA 259] the Privy Council was considering a case where the
+incorporation effected in the statute viz.
+
+the Calcutta Improvement Trust Act, 1911 — referred to by their Lordships as the “Local Act” — was
+in express terms and in the form illustrated by 54 and 55 Vict., Ch.
+
+19. The “Local Act” in dealing with the acquisition of land for the purposes designated by it, made
+provision for the acquisition under the Land Acquisition Act, and the provisions of the Land
+Acquisition Act were subjected to numerous modifications which were set out in the Schedule, so
+that in effect the “Local Act” was held to be the enactment of a Special Law for the acquisition of
+land for the special purpose. It was in the context of these and several other provisions which
+pointed to the absorption of certain of the provisions of the Land Acquisition Act into the “Local
+Act” with vital modifications that Privy Council observed at p. 266:
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+11
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+“But Their Lordships think that there are other and perhaps more cogent objections
+to this contention of the Secretary of State, and their Lordships are not prepared to
+hold that the sub- section in question, which was not enacted till 1921, can be
+regarded as incorporated in the Local Act of 1911. It was not part of the Land
+Acquisition Act when the Local Act was passed, nor in adopting the provisions of the
+Land Acquisition Act is there anything to suggest that the Bengal Legislature
+intended to bind themselves to any future additions which might be made to that Act.
+It is at least conceivable that new provisions might have been added to the Land
+Acquisition Act which would be wholly unsuitable to the local code. Nor again, does
+Act 19 of 1921 contain any provision that the amendments enacted by it are to be
+treated as in any way retrospective, or are to be regarded as affecting any other
+enactment than the Land Acquisition Act itself. Their Lordships regard the Local Act
+as doing nothing more than incorporating certain provisions from an existing Act,
+and for convenience of drafting doing so by reference to that Act, instead of setting
+out for itself at length the provisions which it was desired to adopt.” It was further
+observed at p. 267:
+
+“In this country it is accepted that where a statute is incorporated by reference into a
+second statute, the repeal of the first statute does not affect the second: see the cases
+collected in Craies on Statute Law, 3rd Edn. pp. 349-50. This doctrine finds
+expression in a common-form section which regularly appears in the amending and
+repealing Acts which are passed from time to time in India …. The independent
+existence of the two Acts is therefore recognized; despite the death of the parent Act,
+its off-spring survives in the incorporating Act. Though no such saving clause appears
+in the General Clauses Act, their Lordships think that the principle involved is as
+applicable in India as it is in this country.
+
+It seems to be no less logical to hold that where certain provisions from an existing
+Act have been incorporated into a subsequent Act, no addition to the former Act,
+which is not expressly made applicable to the subsequent Act, can be deemed to be
+incorporated in it, at all events if it is possible for the subsequent Act to function
+effectually without the addition.” This Court in the Collector of Customs, Madras v.
+Nathella SampathuChetty [AIR 1962 SC 316 : (1962) 3 SCR 786, 830-833 : (1962) 1
+Cr LJ 364] considered the Privy Council decision in the Hindustan Cooperative
+Insurance Society Ltd. and distinguished that case and held the principle inapplicable
+to the facts of that case.
+
+31. In State of Bihar v. S.K. Roy [AIR 1966 SC 1995 : 1966 Supp SCR 259 : (1966) 2
+LLJ 759] this Court was considering the definition of “employer” in Section 2(e) of
+the Coal Mines Provident Fund and Bonus Schemes Act, 1948, where that expression
+was defined to mean “the owner of a coal mine as defined in clause (g) of Section 3 of
+the Indian Mines Act, 1923”. The Indian Mines Act, 1923, had been repealed and
+substituted by the Mines Act, 1952 (Act 35 of 1952). In the latter Act the word
+“owner” had been defined in clause (1) of Section 2.
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+12
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+The question was whether by virtue of Section 8 of the General Clauses Act, the definition of the
+word “employer” in clause
+
+(e) of Section 2 of the Coal Mines Provident Fund and Bonus Schemes Act should be construed with
+reference to the definition of the word, “owner” in clause (1) of Section 2 of Act 35 of 1952, which
+repealed the earlier Act and re-enacted it. It may be mentioned that according to Section 2(1) of Act
+35 of 1952 the word “owner”, when used in relation to a mine, means “any person who is the
+immediate proprietor or lessee or occupier of the mine or of any part thereof and in the case of a
+mine the business whereof is being carried on by a liquidator or receiver, such liquidator or
+receiver….” The expression “coal mine” is separately defined in clause (b) of Section 2 of the Coal
+Mines Provident Fund and Bonus Schemes Act, 1948. Ramaswami, J. speaking for the Court
+observed at p.
+
+261:
+
+“As a matter of construction it must be held that all works, machinery, tramways and
+sidings, whether above or below ground, in or adjacent to a coal mine will come
+within the scope and ambit of the definition only when they belong to the coal mine.
+In other words, the word or occurring before the expression ‘belonging to a coal mine’
+in the main definition has to be read to mean ‘and’.” This case, as well as the decision
+in New Central Jute Mills Co. Ltd. v. Assistant Collector of Central Excise, Allahabad
+[(1970) 2 SCC 820 : (1971) 2 SCR 92] are distinguishable on the facts and legislation
+which this Court was considering. In the New Central Jute Mills Co. Ltd. case, the
+Privy Council decision in the Hindusthan Cooperative Insurance Society Ltd. case
+was referred to and distinguished. It is, however, contended by the learned Solicitor
+General that both in Nathella Sampathu Chetty case as well as the New Central Jute
+Mills Co. Ltd. case this Court was considering the effects of the two Acts which were
+made by Parliament by Central legislation and it is, therefore, not strictly a case of
+incorporation because the Central Legislature is deemed to have, while making the
+latter enactment, kept in view the provisions of the former Act. In our view this may
+not be conclusive.
+
+32. In Ram Sarup v. Munshi [AIR 1963 SC 553 : (1963) 3 SCR 858] a judgment of the
+Bench of five Judges of this Court held that the repeal of the Punjab Alienation of
+Land Act, 1900, had no effect on the continued operation of the Punjab Pre-
+
+emption Act, 1913, and that the expression “agricultural land” in the later Act had to be read as if the
+definition of the Alienation of Land Act had been bodily transposed into it. After referring to the
+observations of Brett, L.J. in Clarke case, Rajagopala Ayyangar, J. speaking for the Court observed at
+pp. 868-69:
+
+“Where the provisions of an Act are incorporated by reference in a later Act the repeal
+of the earlier Act has, in general, no effect upon the construction or effect of the Act in
+which its provisions have been incorporated. *** In the circumstances, therefore, the
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+13
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+repeal of the Punjab Alienation of Land Act of 1900 has no effect on the continued
+operation of the Pre-emption Act and the expression ‘agricultural land’ in the later
+Act has to be read as if the definition in the Alienation of Land Act had been bodily
+transposed into it.” The above decision of this Court is more in point and supports
+our conclusion. In our view, the intention of Parliament for modifying the Motor
+Vehicles Act has no relevance in determining the intention of the Orissa Legislature
+in enacting the Taxation Act.” [Emphasis supplied]
+
+30. It is thus clear that this Court found that, if the vehicles do not use the roads,
+notwithstanding that they are registered under the Motor Vehicles Act, they cannot
+be taxed under the Orissa Taxation Act. This Court held that the intention of the
+Legislature could not have been anything but to incorporate only the definition in the
+Motor Vehicles Act, as it existed in 1943, as if that definition was bodily written into
+Section 2(c) of the Orissa Taxation Act. It further held that, if the subsequent Orissa
+Motor Vehicles Taxation (Amendment) Act, 1943, incorporating the definition of
+‘motor vehicle’ referred to the definition of ‘motor vehicle’ under the Motor Vehicles
+Act, as it existed at the time of enactment of the subsequent Act; the effect of this
+legislative method would amount to an incorporation by reference to the provisions
+of Section 2(18) of the Motor Vehicles Act in Section 2(c) of the Orissa Taxation Act.
+It was further held that, any subsequent amendment in the Motor Vehicles Act or a
+total repeal of the Motor Vehicles Act under a fresh legislation on that topic would
+also not affect the definition of ‘motor vehicle’ in Section 2(c) of the Orissa Taxation
+Act.
+
+31. This Court unequivocally held that the intention of Parliament for modifying the
+Motor Vehicles Act had no relevance in determining the intention of the Orissa
+Legislature in enacting the Orissa Taxation Act. This Court held that the dumpers and
+rockers, which were used by the miners in their premises though registrable under
+the Motor Vehicles Act were not taxable under the Orissa Taxation Act as long as they
+were working solely within the premises of the respective owners.
+
+32. In the case of Mahindra and Mahindra Ltd. (supra), Section 55 of the Monopolies
+and Restrictive Trade Practices Act, 1969 (“MRTP Act, 1969” for short) provided that
+any person aggrieved by an order made by the Commission under Section 13 may
+prefer an appeal to the Supreme Court on ‘one or more of the grounds specified in
+Section 100 of the CPC’. Section 100 of the CPC at the time of the incorporation of the
+MRTP Act specified three grounds on which a second appeal could be brought to the
+High Court and one of the grounds was that the decision appealed against was
+contrary to law. However, by the Code of Civil Procedure (Amendment) Act, 1976
+with effect from February 1, 1977, it was provided that a second appeal shall lie to the
+High Court only if the High Court is satisfied that the case involves a substantial
+question of law. It was sought to be argued that substitution of the new Section 100
+amounted to repeal and re-
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+14
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+enactment of the former Section 100 and therefore the reference in Section 55 of the MRTP Act,
+1969 to Section 100 of CPC must be construed as reference to the new Section 100 and the appeal
+would be tenable only on ground specified in the new Section 100 of CPC i.e., on a substantial
+question of law.
+
+33. Rejecting the said contention, this Court observed thus:
+
+“8. The first question that arises for consideration on the preliminary objection of the
+respondents is as to what is the true scope and ambit of an appeal under Section 55.
+That section provides inter alia that any person aggrieved by an order made by the
+Commission under Section 13 may prefer an appeal to this Court on “one or more of
+the grounds specified in Section 100 of the Code of Civil Procedure, 1908”. Now at
+the date when Section 55 was enacted, namely, December 27, 1969, being the date of
+coming into force of the Act, Section 100 of the Code of Civil Procedure specified
+three grounds on which a second appeal could be brought to the High Court and one
+of these grounds was that the decision appealed against was contrary to law. It was
+sufficient under Section 100 as it stood then that there should be a question of law in
+order to attract the jurisdiction of the High Court in second appeal and, therefore, if
+the reference in Section 55 were to the grounds set out in the then existing Section
+100, there can be no doubt that an appeal would lie to this Court under Section 55 on
+a question of law. But subsequent to the enactment of Section 55, Section 100 of the
+Code of Civil Procedure was substituted by a new section by Section 37 of the Code of
+Civil Procedure (Amendment) Act, 1976 with effect from February 1, 1977 and the
+new Section 100 provided that a second appeal shall lie to the High Court only if the
+High Court is satisfied that the case involves a substantial question of law. The three
+grounds on which a second appeal could lie under the former Section 100 were
+abrogated and in their place only one ground was substituted which was a highly
+stringent ground, namely, that there should be a substantial question of law. This was
+the new Section 100 which was in force on the date when the present appeal was
+preferred by the appellant and the argument of the respondents was that the
+maintainability of the appeal was, therefore, required to be judged by reference to the
+ground specified in the new Section 100 and the appeal could be entertained only if
+there was a substantial question of law. The respondents leaned heavily on Section
+8(1) of the General Clauses Act, 1897 which provides:
+
+“Where this Act or any Central Act or Regulation made after the commencement of
+this Act, repeals and re-enacts, with or without modification, any provision of a
+former enactment, then references in any other enactment or in any instrument to
+the provision so repealed shall, unless a different intention appears, be construed as
+references to the provision so re- enacted.” and contended that the substitution of the
+new Section 100 amounted to repeal and re-enactment of the former Section 100
+and, therefore, on an application of the rule of interpretation enacted in Section 8(1),
+the reference in Section 55 to Section 100 must be construed as reference to the new
+Section 100 and the appeal could be maintained only on ground specified in the new
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+15
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+Section 100, that is, on a substantial question of law. We do not think this contention
+is well founded. It ignores the distinction between a mere reference to or citation of
+one statute in another and an incorporation which in effect means bodily lifting a
+provision of one enactment and making it a part of another. Where there is mere
+reference to or citation of one enactment in another without incorporation. Section
+8(1) applies and the repeal and re-
+
+enactment of the provision referred to or cited has the effect set out in that section and the reference
+to the provision repealed is required to be construed as reference to the provision as re-enacted.
+Such was the case in Collector of Customs v. Nathella Sampathu Chetty [AIR 1962 SC 316 :
+
+(1962) 3 SCR 786] and New Central Jute Mills Co. Ltd. v. Assistant Collector of
+Central Excise [(1970) 2 SCC 820 : AIR 1971 SC 454 : (1971) 2 SCR 92]. But where a
+provision of one statute is incorporated in another, the repeal or amendment of the
+former does not affect the latter. The effect of incorporation is as if the provision
+incorporated were written out in the incorporating statute and were a part of it.
+Legislation by incorporation is a common legislative device employed by the
+legislature, where the legislature for convenience of drafting incorporates provisions
+from an existing statute by reference to that statute instead of setting out for itself at
+length the provisions which it desires to adopt. Once the incorporation is made, the
+provision incorporated becomes an integral part of the statute in which it is
+transposed and thereafter there is no need to refer to the statute from which the
+incorporation is made and any subsequent amendment made in it has no effect on
+the incorporation statute.
+
+Lord Esher, M.R., while dealing with legislation in incorporation in In re Wood's Estate [(1886) 31
+Ch D 607] pointed out at p. 615:
+
+“If a subsequent Act brings into itself by reference some of the clauses of a former
+Act, the legal effect of that, as has often been held, is to write those sections into the
+new Act just as if they had been actually written in it with the pen, or printed in it,
+and, the moment you have those clauses in the later Act, you have no occasion to
+refer to the former Act at all.” Lord Justice Brett, also observed to the same effect in
+Clarke v. Bradlough [(1881) 8 QBD 63, 69] :
+
+“.… there is a rule of construction that, where a statute is incorporated by reference
+into a second statute, the repeal of the first statute by a third statute does not affect
+the second.” This was the rule applied by the Judicial Committee of the Privy Council
+in Secretary of State for India in Council v. Hindustan Cooperative Insurance Society
+Ltd. [58 IA 259] The Judicial Committee pointed out in this case that the provisions
+of the Land Acquisition Act, 1894 having been incorporated in the Calcutta
+Improvement Act, 1911 and become an integral part of it, the subsequent amendment
+of the Land Acquisition Act, 1894 by the addition of sub-section (2) in Section 26 had
+no effect on the Calcutta Improvement Act, 1911 and could not be read into it. Sir
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+16
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+George Lowndes delivering the opinion of the Judicial Committee observed at p. 267:
+
+“In this country it is accepted that where a statute is incorporated by reference into a
+second statute, the repeal of the first statute does not affect the second: see the cases
+collected in Craies on Statute Law, 3rd Edn. pp. 349, 350 ... The independent
+existence of the two Acts is, therefore, recognised; despite the death of the parent Act,
+its offspring survives in the incorporating Act.
+
+It seems to be no less logical to hold that where certain provisions from an existing
+Act have been incorporated into a subsequent Act, no addition to the former Act,
+which is not expressly made applicable to the subsequent Act, can be deemed to be
+incorporated in it, at all events if it is possible for the subsequent Act to function
+effectually without the addition.” So also in Ram Sarup v. Munshi [AIR 1963 SC 553 :
+(1963) 3 SCR 858] it was held by this Court that since the definition of “agricultural
+land” in the Punjab Alienation of Land Act, 1900 was bodily incorporated in the
+Punjab Pre-emption Act, 1913, the repeal of the former Act had no effect on the
+continued operation of the latter. Rajagopala Ayyangar, J., speaking for the Court
+observed at p. 868-69 of the Report:
+
+“Where the provisions of an Act are incorporated by reference in a later Act the repeal
+of the earlier Act has, in general, no effect upon the construction or effect of the Act in
+which its provisions have been incorporated.
+
+In the circumstances, therefore, the repeal of the Punjab Alienation of Land Act of
+1900 has no effect on the continued operation of the Pre-emption Act and the
+expression ‘agricultural land’ in the later Act has to be read as if the definition in the
+Alienation of Land Act, 1900, had been bodily transposed into it.” The decision of this
+Court in Bolani Ores Ltd. v. State of Orissa [(1974) 2 SCC 777 : AIR 1975 SC 17 :
+(1975) 2 SCR 138] also proceeded on the same principle. There the question arose in
+regard to the interpretation of Section 2(c) of the Bihar and Orissa Motor Vehicles
+Taxation Act, 1930 (hereinafter referred to as “the Taxation Act”). This section when
+enacted adopted the definition of “motor vehicle” contained in Section 2(18) of the
+Motor Vehicles Act, 1939. Subsequently, Section 2(18) was amended by Act 100 of
+1956 but no corresponding amendment was made in the definition contained in
+Section 2(c) of the Taxation Act. The argument advanced before the Court was that
+the definition in Section 2(c) of the Taxation Act was not a definition by
+incorporation but only a definition by reference and the meaning of “motor vehicle”
+in Section 2(c) must, therefore, be taken to be the same as defined from time to time
+in Section 2(18) of the Motor Vehicles Act, 1939. This argument was negatived by the
+Court and it was held that this was a case of incorporation and not reference and the
+definition in Section 2(18) of the Motor Vehicles Act, 1939 as then existing was
+incorporated in Section 2(c) of the Taxation Act and neither repeal of the Motor
+Vehicles Act, 1939 nor any amendment in it would affect the definition of “motor
+vehicle” in Section 2(c) of the Taxation Act. It is, therefore, clear that if there is mere
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+17
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+reference to a provision of one statute in another without incorporation, then, unless
+a different intention clearly appears, Section 8(1) would apply and the reference
+would be construed as a reference to the provision as may be in force from time to
+time in the former statute. But if a provision of one statute is incorporated in another,
+any subsequent amendment in the former statute or even its total repeal would not
+affect the provision as incorporated in the latter statute. The question is to which
+category the present case belongs.” [Emphasis supplied]
+
+34. This Court therefore held that if there was mere reference to a provision of one statute in
+another without incorporation, then, unless a different intention clearly appears, Section 8(1) of the
+General Clauses Act would apply and the reference would be construed as a reference to the
+provision in the former statute, as may be in force from time to time. However, if a provision of one
+statute was incorporated in another statute, then any subsequent amendment in the former statute
+or even its total repeal would not affect the provision as incorporated in the latter statute.
+
+35. In the case of Girnar Traders (3) (supra), this Court was considering the question, as to whether
+the provisions of the Land Acquisition Act, 1894, with particular reference to Section 11-A, can be
+read into and treated as part of the Maharashtra Regional and Town Planning Act, 1966 (“MRTP
+Act, 1966” for short) on the principle of either ‘legislation by reference’ or ‘legislation by
+incorporation’?
+
+36. It will be relevant to refer to the following observations of this Court in the said case:
+
+“86. At the very outset, we may notice that in the preceding paragraphs of the
+judgment, we have specifically held that the MRTP Act is a self-contained code. Once
+such finding is recorded, application of either of the doctrines i.e. “legislation by
+reference” or “legislation by incorporation”, would lose their significance particularly
+when the two Acts can coexist and operate without conflict.
+
+87. However, since this aspect was argued by the learned counsel appearing for the
+parties at great length, we will proceed to discuss the merit or otherwise of this
+contention without prejudice to the above findings and as an alternative plea. These
+principles have been applied by the courts for a considerable period now. When there
+is general reference in the Act in question to some earlier Act but there is no specific
+mention of the provisions of the former Act, then it is clearly considered as legislation
+by reference.
+
+In the case of legislation by reference, the amending laws of the former Act would normally become
+applicable to the later Act; but, when the provisions of an Act are specifically referred and
+incorporated in the later statute, then those provisions alone are applicable and the amending
+provisions of the former Act would not become part of the later Act. This principle is generally called
+legislation by incorporation. General reference, ordinarily, will imply exclusion of specific reference
+and this is precisely the fine line of distinction between these two doctrines. Both are referential
+legislations, one merely by way of reference and the other by incorporation. It, normally, will
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+18
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+depend on the language used in the later law and other relevant considerations. While the principle
+of legislation by incorporation has well-defined exceptions, the law enunciated as of now provides
+for no exceptions to the principle of legislation by reference. Furthermore, despite strict application
+of doctrine of incorporation, it may still not operate in certain legislations and such legislation may
+fall within one of the stated exceptions.
+
+xxx xxx xxx
+
+121. These are the few examples and principles stated by this Court dealing with both the doctrines
+of legislation by incorporation as well as by reference.
+
+Normally, when it is by reference or citation, the amendment to the earlier law is accepted to be
+applicable to the later law while in the case of incorporation, the subsequent amendments to the
+earlier law are irrelevant for application to the subsequent law unless it falls in the exceptions stated
+by this Court in M.V. Narasimhan case [State of M.P. v. M.V. Narasimhan, (1975) 2 SCC 377 : 1975
+SCC (Cri) 589] . It could well be said that even where there is legislation by reference, the Court
+needs to apply its mind as to what effect the subsequent amendments to the earlier law would have
+on the application of the later law. The objective of all these principles of interpretation and their
+application is to ensure that both the Acts operate in harmony and the object of the principal statute
+is not defeated by such incorporation. Courts have made attempts to clarify this distinction by
+reference to various established canons. But still there are certain grey areas which may require the
+court to consider other angles of interpretation.
+
+122. In Maharashtra SRTC [(2003) 4 SCC 200] the Court was considering the provisions of the
+MRTP Act as well as the provisions of the Land Acquisition Act. The Court finally took the view by
+adopting the principle stated in U.P. Avas Evam Vikas Parishad [(1998) 2 SCC 467] and held that
+there is nothing in the MRTP Act which precludes the adoption of the construction that the
+provisions of the Land Acquisition Act as amended by Central Act 68 of 1984, relating to award of
+compensation would apply with full vigour to the acquisition of land under the MRTP Act, as
+otherwise it would be hit by invidious discrimination and palpable arbitrariness and consequently
+invite the wrath of Article 14 of the Constitution. While referring to the principle stated in
+Hindusthan Coop.
+
+Insurance Society Ltd. [(1930-31) 58 IA 259 : AIR 1931 PC 149] and clarifying the distinction
+between the two doctrines, the Court declined to apply any specific doctrine and primarily based its
+view on the plea of discrimination but still observed: (Maharashtra SRTC case [(2003) 4 SCC 200] ,
+SCC p. 208, para 11) “11. … The fact that no clear-cut guidelines or distinguishing features have been
+spelt out to ascertain whether it belongs to one or the other category makes the task of identification
+difficult. The semantics associated with interpretation play their role to a limited extent. Ultimately,
+it is a matter of probe into legislative intention and/or taking an insight into the working of the
+enactment if one or the other view is adopted. The doctrinaire approach to ascertain whether the
+legislation is by incorporation or reference is, on ultimate analysis, directed towards that end. The
+distinction often pales into insignificance with the exceptions enveloping the main rule.”
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+19
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+123. In the case in hand, it is clear that both these Acts are self-contained codes within themselves.
+The State Legislature while enacting the MRTP Act has referred to the specific sections of the Land
+Acquisition Act in the provisions of the State Act. None of the sections require application of the
+provisions of the Land Acquisition Act generally or mutatis mutandis. On the contrary, there is a
+specific reference to certain sections and/or content/language of the section of the Land Acquisition
+Act in the provisions of the MRTP Act.” [Emphasis supplied]
+
+37. This Court has held that once a finding is recorded that an Act is a self-contained code, then the
+application of either of the doctrines i.e. “legislation by reference” or “legislation by incorporation”
+would lose their significance particularly when the two Acts can coexist and operate without conflict.
+
+38. This Court further held that, in case of general reference in the Act in question to an earlier Act
+but there being no specific mention of the provisions of the former Act, then it would clearly be
+considered as ‘legislation by reference’. In such a case, the amending laws of the former Act would
+become applicable to the later Act. However, when the provisions of an Act are specifically referred
+and incorporated in the later statute, then those provisions alone are applicable and the amending
+provisions of the former Act would not become part of the later Act.
+
+39. This Court in the case of Girnar Traders (supra) held that, if the legislature intended to apply the
+provisions of the Land Acquisition Act generally and wanted to make a general reference, it could
+have said that the provisions of the Land Acquisition Act would be applicable to the MRTP Act,
+1966. This Court observed that such expression was conspicuous by its very absence. This Court held
+that both these Acts i.e. Land Acquisition Act and the MRTP Act, 1966 are self-contained codes
+within themselves. This Court observed that the State Legislature while enacting the MRTP Act,
+1966 has referred to the specific sections of the Land Acquisition Act in the provisions of the State
+Act. This Court further observed that none of the sections require application of the provisions of
+the Land Acquisition Act generally or mutatis mutandis. On the contrary, there was a specific
+reference to certain sections and/or content/language of the section of the Land Acquisition Act in
+the provisions of the MRTP Act, 1966.
+
+40. It will also be relevant to note that this Court in a catena of cases has held that the Code is a
+self-contained Code. Reference in this respect could be made to the following judgments of this
+Cout:
+
+(i) Innoventive Industries Limited vs ICICI Bank and another10;
+
+(ii) Principal Commissioner of Income Tax vs Monnet Ispat and Energy Limited11;
+
+(iii) E.S. Krishnamurthy and others vs Bharath Hi-Tech Builders Private Limited12;
+
+(iv) Pratap Technocrats Private Limited and others vs Monitoring Committee of
+Reliance Infratel Limited and another13;
+
+(2018) 1 SCC 407 (2018) 18 SCC 786 (2022) 3 SCC 161 (2021) 10 SCC 623
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+20
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+(v) V. Nagarajan vs. SKS Ispat and Power Limited and others14;
+
+(vi) Embassy Property Developments Private Limited vs State of Karnataka and
+others (supra); and
+
+(vii) Bharti Airtel Ltd. and another vs Vijaykumar V. Iyer and others (supra).
+
+V. CONCLUSION
+
+41. Applying these legal principles, we will have to analyze the provisions of Section
+236(1) of the Code. Under Section 236(1) of the Code, reference is “offences under
+this Code shall be tried by the Special Court established under Chapter XXVIII of the
+Companies Act, 2013”.
+
+42. It can thus be seen that the reference is not general but specific. The reference is
+only to the fact that the offences under the Code shall be tried by the Special Court
+established under Chapter XXVIII of the Companies Act.
+
+43. Applying the principle as laid down by this Court in various judgments, since the
+reference is specific and not general, it will (2022) 2 SCC 244 have to be held that the
+present case is a case of ‘legislation by incorporation’ and not a case of ‘legislation by
+reference’. The effect would be that the provision with regard to Special Court has
+been bodily lifted from Section 435 of the Companies Act, 2013 and incorporated in
+Section 236(1) of the Code. In other words, the provision of Section 435 of the
+Companies Act, 2013 with regard to Special Court would become a part of Section
+236(1) of the Code as on the date of its enactment. If that be so, any amendment to
+Section 435 of the Companies Act, 2013, after the date on which the Code came into
+effect would not have any effect on the provisions of Section 236(1) of the Code. The
+Special Court at that point of time only consists of a person who was qualified to be a
+Sessions Judge or an Additional Sessions Judge.
+
+44. It is further to be noted that the Code has also suffered two subsequent
+amendments i.e. the 2015 Amendment and the 2018 Amendment. If the legislative
+intent was to give effect to the subsequent amendments in the Companies Act to
+Section 236(1) of the Code, nothing prevented the legislature from amending Section
+236(1) of the Code. The legislature having not done that, the provision with regard to
+the reference in Section 236(1) of the Code pertaining to Special Court as mentioned
+in Section 435 of the Companies Act, 2013 stood frozen as on the date of enactment
+of the Code. As such, the learned Judge of the High Court has erred in holding that in
+view of the subsequent amendment, the offences under the Code shall be tried only
+by a Metropolitan Magistrate or a Judicial Magistrate of the First Class.
+
+45. We further find that the reasoning of the learned single judge of the High Court
+that in view of the 2018 Amendment only the offences under the Companies Act
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+21
+
+Insolvency And Bankruptcy Board Of ... vs Satyanarayan Bankatlal Malu on 19 April, 2024
+
+would be tried by a Special Court of Sessions Judge or Additional Sessions Judge and
+all other offences including under the Code shall be tried by a Metropolitan
+Magistrate or a Judicial Magistrate of the First Class is untenable. For a moment,
+even if it is held that the reference in Section 236(1) of the Code is a ‘legislation by
+reference’ and not ‘legislation by incorporation’, still the offences punishable under
+the Code having imprisonment of two years or more will have to be tried by a Special
+Court presided by a Sessions Judge or an Additional Sessions Judge. Whereas the
+offences having punishment of less than two years will have to be tried by a Special
+Court presided by a Metropolitan Magistrate or a Judicial Magistrate of the First
+Class.
+
+46. In any case, the learned single Judge of the High Court has grossly erred in
+quashing the complaint only on the ground that it was filed before a Special Court
+presided by a Sessions Judges.
+
+At the most, the learned single judge of the High Court could have directed the complaint to be
+withdrawn and presented before the appropriate court having jurisdiction.
+
+47. Shri Amir Arsiwala, learned Advocate-on-record for the respondent Nos.1 and 2, had submitted
+that in the event this Court holds that the Special Courts presided by a Sessions Judge or an
+Additional Sessions Judge will have jurisdiction to try the complaint under the Code, this Court
+should remand the matter to the High Court for deciding the matter afresh on merits. It is submitted
+that the respondents have a good case on merits and there has been no adjudication on merits of the
+matter.
+
+48. In the result, we allow the appeal. The impugned judgment and order dated 14th February 2022,
+passed by the learned Single Judge of the High Court of Judicature at Bombay in Writ Petition
+No.2592 of 2021 is quashed and set aside. It is held that the Special Court presided by a Sessions
+Judge or an Additional Sessions Judge will have jurisdiction to try the complaint under the Code.
+However, since the learned single judge of the High Court has not considered the merits of the
+matter, the matter is remitted to the learned single judge of the High Court for considering the
+petition of the respondents afresh on merits.
+
+49. We place on record our deep appreciation for the valuable assistance rendered by Shri S.V. Raju,
+learned ASG as well as Shri Amir Arsiwala and Shri Vikas Mehta, learned counsel for the appearing
+parties.
+
+…….........................J. [B.R. GAVAI] …….........................J. [SANDEEP MEHTA] NEW DELHI;
+
+APRIL 19, 2024
+
+Indian Kanoon - http://indiankanoon.org/doc/146154138/
+
+22
+
+

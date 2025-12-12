@@ -1,0 +1,27 @@
+{
+  "case_number": "Civil Appeal No. 7697 of 2021",
+  "parties": {
+    "petitioner": "Ellora Paper Mills Limited",
+    "respondent": "The State of Madhya Pradesh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-04",
+  "summary": "The appellant sought termination of the mandate of the originally constituted Arbitral Tribunal (Stationery Purchase Committee comprising officers of the respondent) and appointment of a new arbitrator under Section 14 read with Sections 11 and 15 of the Arbitration and Conciliation Act, 1996. The High Court dismissed the application, holding that Section 12(5) and the Seventh Schedule, inserted by the 2015 Amendment Act, do not have retrospective application to arbitrations commenced earlier. The appellant contended that the officers of the respondent are ineligible under Section 12(5) read with the Seventh Schedule, relying on TRF Ltd. v. Energo Engineering and Jaipur Zila Dugdh Utpadak Sahkari Sangh Ltd. v. Ajay Sales & Suppliers. It was argued that no valid arbitration proceedings had commenced due to a prolonged stay from 2001 to 2017. The respondent countered that the 2015 amendments do not apply retrospectively and that the appellant had obstructed proceedings. The Court examined the applicability of the 2015 amendments and the doctrine of functus officio in continuing arbitrators.",
+  "legal_provisions_cited": [
+    "Section 11, Arbitration and Conciliation Act, 1996",
+    "Section 12(5), Arbitration and Conciliation Act, 1996",
+    "Section 14, Arbitration and Conciliation Act, 1996",
+    "Section 15, Arbitration and Conciliation Act, 1996",
+    "Seventh Schedule, Arbitration and Conciliation Act, 1996",
+    "TRF Limited v. Energo Engineering Projects Limited, (2017) 8 SCC 377",
+    "Jaipur Zila Dugdh Utpadak Sahkari Sangh Limited v. Ajay Sales & Suppliers, 2021 SCC OnLine SC 730",
+    "Aravali Power Co. Ltd. v. Era Infra Engineering, (2017) 15 SCC 32",
+    "Indian Oil Corporation Ltd. v. Raja Transport Pvt. Ltd., (2009) 8 SCC 520",
+    "ACE Pipeline Contracts (P) Ltd. v. Bharat Petroleum Corpn. Ltd., (2007) 5 SCC 304",
+    "Union of India v. M.P. Gupta, (2004) 10 SCC 504",
+    "Union of India v. Parmar Construction Company, (2019) 15 SCC 682",
+    "Union of India v. Pradeep Vinod Construction Company, (2020) 2 SCC 464",
+    "S.P. Singla Constructions Pvt. Ltd. v. State of Himachal Pradesh, (2019) 2 SCC 488"
+  ],
+  "final_judgment": "The appeal was allowed, and the matter was remanded with direction to constitute a neutral and independent arbitral tribunal in accordance with Section 11 of the Arbitration and Conciliation Act, 1996, considering the ineligibility of the officers of the respondent under Section 12(5) read with the Seventh Schedule, despite the prior constitution of the Stationery Purchase Committee."
+}

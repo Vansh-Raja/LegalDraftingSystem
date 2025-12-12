@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal Nos. 6615-6616 of 2022",
+  "parties": {
+    "petitioner": "Airport Authority of India",
+    "respondent": "Centre for Aviation Policy, Safety & Research (CAPSR) & Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-30",
+  "summary": "The Airport Authority of India (AAI) challenged the Delhi High Court's judgment which struck down certain eligibility criteria in its tender process for ground handling services at Group D-1 airports. The High Court had invalidated region-wise clustering of 49 airports, the requirement of 36 months' experience in handling scheduled aircraft, and the minimum annual turnover of INR 18 crores, deeming them arbitrary and discriminatory. The Supreme Court considered issues of locus standi of the petitioner NGO, judicial review of tender conditions, and applicability of MSME procurement orders. It examined whether the impugned conditions were based on sound commercial wisdom and not arbitrary, and whether the High Court overstepped its jurisdiction under Article 226 in interfering with contractual policy decisions.",
+  "legal_provisions_cited": [
+    "Article 226 of the Constitution of India",
+    "MSME Order of 2012",
+    "MSME Order of 2018",
+    "Anand Sharadchandra Oka v. University of Mumbai, (2008) 5 SCC 217",
+    "Maa Binda Express Carrier v. North-East Frontier Railway, (2014) 3 SCC 760",
+    "Directorate of Education v. Educomp Datamatics Limited, (2004) 4 SCC 19",
+    "Meerut Development Authority v. Assn. of Management Studies, (2009) 6 SCC 171",
+    "Michigan Rubber (India) Limited v. State of Karnataka, (2012) 8 SCC 216"
+  ],
+  "final_judgment": "The appeal was allowed to the extent of setting aside the impugned judgment of the Delhi High Court, holding that the tender conditions were formulated based on commercial wisdom and were not arbitrary or discriminatory; the conditions regarding region-wise clustering, experience in scheduled flights, and annual turnover were upheld as valid and within AAI's discretion."
+}

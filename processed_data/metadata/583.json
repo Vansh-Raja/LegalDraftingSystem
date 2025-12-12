@@ -1,0 +1,25 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 1659-1660 OF 2024",
+  "parties": {
+    "petitioner": "M/S. KARNATAKA EMTA COAL MINES LIMITED AND ANOTHER",
+    "respondent": "CENTRAL BUREAU OF INVESTIGATION"
+  },
+  "court_name": "SUPREME COURT OF INDIA",
+  "date_of_judgment": "2024-08-23",
+  "summary": "The appeals challenged orders framing charges against the appellants in a CBI case related to coal block allocation. The key issues included whether the CBI primarily relied on the CAG audit report, the legal sanctity of such a report, denial of sanction for prosecution by authorities, liability concerning coal rejects, and the requirement to set up a coal washery. The Court examined precedents on the limitations of audit reports in criminal liability, the necessity of proper sanction under the Prevention of Corruption Act, and whether failure to utilize coal rejects could constitute criminal breach. The judgment analyzed the factual and legal backdrop, including agreements, correspondence, and mining plans, before determining the vires of the charges.",
+  "legal_provisions_cited": [
+    "Section 120-B IPC",
+    "Sections 409/420 IPC",
+    "Sections 13(1)(d)/13(2) Prevention of Corruption Act, 1988",
+    "Section 482 Cr.P.C",
+    "Article 136 of the Constitution of India",
+    "Section 277 CrPC",
+    "Coal Mines (Nationalization) Act, 1973",
+    "Mines and Minerals (Development & Regulation) Act, 1957",
+    "Comptroller and Auditor General (Duties, Powers and Conditions of Service) Act, 1971",
+    "CBI vs. S.M. Jaamdar & Others",
+    "M.L. Sharma v. The Principal Secretary and Others (2014) 9 SCC 614",
+    "Girish Kumar Suneja v. CBI (2017) 14 SCC 809"
+  ],
+  "final_judgment": "The appeals were allowed, and the impugned orders framing charges were set aside due to lack of proper sanction for prosecution and the insufficiency of evidence to support criminal charges, particularly reliance on non-convertible audit objections and absence of mens rea or deliberate misconduct."
+}

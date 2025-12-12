@@ -1,0 +1,17 @@
+{
+  "case_number": "2024 INSC 413; Criminal Appeal Nos 2481-2482 of 2024",
+  "parties": {
+    "petitioner": "Rajendra Bhagwanji Umraniya",
+    "respondent": "State of Gujarat"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-05-09",
+  "summary": "Challenge to High Court's modification reducing IPC s.325 sentence from 5 to 4 years with conditional suspension on deposit of Rs 5 lakh compensation; validity of substituting sentence reduction with compensation under CrPC s.357; distinction between fine-based compensation and substantive sentence; reliance on Ankush Shivaji Gaikwad (2013) SCC scrutinized; Court finds High Court conflated compensation order with sentence execution.",
+  "legal_provisions_cited": [
+    "IPC s.147, s.148, s.149, s.323, s.325, s.329, s.384, s.387, s.427, s.506(2)",
+    "Gujarat Police Act s.135",
+    "CrPC s.357",
+    "Maru Ram vs Union of India (1981)"
+  ],
+  "final_judgment": "Appeal allowed; High Court's conditional suspension of sentence set aside; respondents to serve reduced 4-year sentence without compensation substitution."
+}

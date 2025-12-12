@@ -1,0 +1,22 @@
+{
+  "case_number": "Civil Appeal No(s). 614 of 2023",
+  "parties": {
+    "petitioner": "Pr. Commissioner Of Income Tax (Exemptions) Delhi",
+    "respondent": "Servants Of People Society"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-31",
+  "summary": "The revenue challenged the exemption granted to the respondent society under Section 11 of the Income Tax Act, arguing that its operation of a printing press and newspaper involving substantial advertisement revenue constituted 'trade, commerce or business' under Section 2(15). The assessee contended that such activities were incidental and necessary for charitable objectives. The Court applied the test from CIT v. Ahmedabad Urban Development Authority, requiring that commercial activity must be connected to public utility and not exceed 20% of total receipts. The Appellate Commissioner, ITAT, and High Court had upheld the exemption, but the Supreme Court considered whether those decisions followed correct legal principles after the statutory amendments.",
+  "legal_provisions_cited": [
+    "Section 2(15), Income Tax Act",
+    "Section 11(4A), Income Tax Act",
+    "Section 12AA, Income Tax Act",
+    "Section 80G, Income Tax Act",
+    "Section 13(8), Income Tax Act",
+    "Seventeenth proviso to Section 10(23C), Income Tax Act",
+    "Third proviso to Section 143(3), Income Tax Act",
+    "CIT v. Ahmedabad Urban Development Authority",
+    "India Trade Promotion Organisation v. Director General of Income Tax (Exemption)"
+  ],
+  "final_judgment": "The appeal was heard finally with special leave granted; the Court reserved its decision for detailed consideration of whether the revenue derived from newspaper and advertisement activities exceeded permissible limits under Section 2(15), with judgment reserved."
+}

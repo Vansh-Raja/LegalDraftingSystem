@@ -1,0 +1,15 @@
+{
+  "case_number": "Criminal Appeal No. 1708 of 2022",
+  "parties": {
+    "petitioner": "Sushanta Kumar Banik",
+    "respondent": "State of Tripura & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-30",
+  "summary": "The appellant, Sushanta Kumar Banik, detained under Section 3(1) of the PIT NDPS Act, challenged the validity of his detention order before the Supreme Court after the Tripura High Court upheld it. The detention was based on his alleged involvement in two NDPS cases involving heroin and yaba tablets, with authorities labeling him a 'kingpin' in drug trafficking. The grounds included continued illicit activity despite prior arrest, threat to public health, and the need for preventive action. The Supreme Court examined compliance with procedure, including representation rights and Advisory Board provisions, and assessed sufficiency of grounds for preventive detention.",
+  "legal_provisions_cited": [
+    "Section 3(1), Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Act, 1988",
+    "Chapter-V(A), NDPS Act"
+  ],
+  "final_judgment": "The appeal was disposed of, affirming the constitutional validity of the detention order subject to the detenu's right to make representation and be heard by the Advisory Board; the court upheld the detention while emphasizing procedural safeguards."
+}

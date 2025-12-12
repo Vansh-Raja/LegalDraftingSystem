@@ -1,0 +1,25 @@
+{
+  "case_number": "Criminal Appeal Nos. 430-431 of 2015, 450-451 of 2015, and 959 of 2015",
+  "parties": {
+    "petitioner": "Jafarudheen & Ors.",
+    "respondent": "State of Kerala"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-22",
+  "summary": "Convictions and acquittals from a 2002 political clash between CPI(M) and NDF members were challenged. The deceased was attacked by 16 accused linked to NDF; eyewitnesses and forensic evidence supported convictions. Trial court acquitted A-10 to A-13 due to inconsistent testimonies; High Court reversed acquittals of A-10 to A-13 but upheld A-14 to A-16's acquittal. Supreme Court examined reliability of eyewitness accounts, recovery evidence, and medical reports. Key issues: identification of accused, evidentiary value of recoveries, credibility of alibi. Outcome: upheld High Court's confirmation of convictions under IPC and Explosives Substances Act.",
+  "legal_provisions_cited": [
+    "Section 143 IPC",
+    "Section 147 IPC",
+    "Section 148 IPC",
+    "Section 302 r/w 149 IPC",
+    "Section 427 IPC",
+    "Section 452 IPC",
+    "Section 460 IPC",
+    "Section 120-B IPC",
+    "Section 3, Explosives Substances Act",
+    "Section 5, Explosives Substances Act",
+    "Section 161 Cr.P.C.",
+    "Section 313 Cr.P.C."
+  ],
+  "final_judgment": "Convictions of A-2, A-4, A-5, A-8, A-9, A-10, A-11, A-12, and A-13 upheld; acquittals of A-14 to A-16 upheld; appeals disposed accordingly."
+}

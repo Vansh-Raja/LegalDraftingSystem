@@ -1,0 +1,18 @@
+{
+  "case_number": "CIVIL APPEAL NO. 4081 OF 2022 (ARISING OUT OF SLP (CIVIL) NO. 25046 OF 2019)",
+  "parties": {
+    "petitioner": "Principal Director of Income Tax (Investigation) & Ors.",
+    "respondent": "Laljibhai Kanjibhai Mandalia"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-13",
+  "summary": "The Revenue challenged the Gujarat High Court's decision to quash a search authorization under Section 132 of the Income Tax Act, 1961, issued against the respondent. The Revenue alleged that the respondent's transaction with M/s Goan Recreation Clubs Pvt. Ltd.—a loan of Rs. 10 crores—was part of a pattern resembling 'entry operator' activity to legitimize unaccounted money, citing lack of business history, absence of market goodwill, and rapid repayment. The High Court held the search invalid for lacking sufficient grounds. The Supreme Court examined whether conditions precedent under Section 132 were met, including existence of material justifying belief that undisclosed income existed. It emphasized courts should not interfere unless authorization was arbitrary or mala fide, but found that in this case, the chain of events justified the investigative action. Issue: Whether the warrant under Section 132 was validly issued. Standard: Whether there was credible material supporting the belief required under Section 132(1). Reasoning: The investment pattern and borrower's financial profile raised legitimate suspicion; established precedents support non-interference in bona fide investigations. Outcome: Restoration of the search authorization and setting aside the High Court’s quashing order.",
+  "legal_provisions_cited": [
+    "Section 132 of the Income Tax Act, 1961",
+    "Section 143(3) of the Income Tax Act, 1961",
+    "Explanation to Section 132(1) inserted by Finance Act, 2017",
+    "Vodafone International Holdings BV v. Union of India",
+    "Iqbal Ahmed v. State of Kerala"
+  ],
+  "final_judgment": "The appeal is allowed. The judgment and order of the Gujarat High Court quashing the warrant of authorization dated 07.08.2018 under Section 132 of the Income Tax Act, 1961, is set aside. All proceedings pursuant to the warrant shall proceed in accordance with law."
+}

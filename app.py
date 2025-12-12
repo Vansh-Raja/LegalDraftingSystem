@@ -15,8 +15,13 @@ from dotenv import load_dotenv
 
 from langchain_core.chat_history import InMemoryChatMessageHistory
 from langchain_core.messages import BaseMessage, HumanMessage, SystemMessage
-from langchain_ollama import ChatOllama
-from langchain_openai import ChatOpenAI
+from models import (
+    DEFAULT_MODEL_ID,
+    build_chat_model,
+    get_model_config,
+    get_prompt,
+    list_chat_models,
+)
 
 # Import RAG components for document retrieval and processing
 from rag import (
@@ -32,17 +37,8 @@ from rag import (
     interleave_docs_by_case,
     enforce_case_diversity,
 )
-MODEL_CONTEXT_WINDOWS = {
-    "gpt-5-nano-2025-08-07": 400000,
-    "openai/gpt-oss-120b": 131072,
-    "openai/gpt-oss-20b": 131072,
-    "meta-llama/llama-4-scout": 327700,
-    "qwen/qwen3-235b-a22b": 40960,
-    "qwen/qwen3-14b": 40960,
-    "qwen3:latest": 32768,
-}
-
 # Reserve some headroom for the model's completion tokens so we don't exceed total context
+MODEL_CONTEXT_WINDOWS = {cfg.id: cfg.context_window for cfg in list_chat_models()}
 RESERVED_COMPLETION_TOKENS = {
     "gpt-5-nano-2025-08-07": 20000,
     "openai/gpt-oss-120b": 8192,
@@ -51,7 +47,18 @@ RESERVED_COMPLETION_TOKENS = {
     "qwen/qwen3-235b-a22b": 16000,
     "qwen/qwen3-14b": 16000,
     "qwen3:latest": 16000,
+    "llama3-70b-8192": 4000,
+    "mixtral-8x7b-32768": 6000,
+    "gemma3:27b-cloud": 20000,
+    "gpt-4o-mini-cloud": 20000,
 }
+
+
+def _ctx_limit(model_name: str) -> int:
+    try:
+        return get_model_config(model_name).context_window
+    except Exception:
+        return 32768
 from st_debug import debug as sdebug
 from orchestrator import (
     process_query,
@@ -95,7 +102,7 @@ def _init_models():
         query_sort_mode = st.selectbox(
             "Query sorting mode",
             ["Manual (no general law)", "Auto (allow general law)"],
-            index=0,
+            index=1,
             key="query_sort_mode",
             help="Manual: force retrieval (new/followup). Auto: allow general-law routing for very broad queries.",
         )
@@ -133,60 +140,24 @@ def _init_models():
 
     # Create sidebar controls for chat model selection
     with st.sidebar.expander("Chat LLM", expanded=True):
-        models = [
-            "gpt-5-nano-2025-08-07",            # OpenAI (Responses API via LangChain)
-            "qwen3:latest",                     # Ollama local
-            # OpenRouter models (via OpenAI-compatible API)
-            "openai/gpt-oss-120b",
-            "openai/gpt-oss-20b",
-            "meta-llama/llama-4-scout",
-            "qwen/qwen3-235b-a22b",
-            "qwen/qwen3-14b",
-        ]
-        model = st.selectbox("Model", models, index=0, key="chat_model_select")
-    
+        available = list_chat_models()
+        option_ids = [m.id for m in available]
+        default_idx = option_ids.index(DEFAULT_MODEL_ID) if DEFAULT_MODEL_ID in option_ids else 0
+        model = st.selectbox(
+            "Model",
+            option_ids,
+            index=default_idx,
+            key="chat_model_select",
+            format_func=lambda mid: f"{mid} [{get_model_config(mid).provider}]",
+        )
+        st.caption("Configure providers and models in models.py")
+
     # Initialize the chat language model based on user selection
-    openrouter_models = {
-        "openai/gpt-oss-120b",
-        "openai/gpt-oss-20b",
-        "meta-llama/llama-4-scout",
-        "qwen/qwen3-235b-a22b",
-        "qwen/qwen3-14b",
-    }
-    provider_name = "openai"
-    if model == "gpt-5-nano-2025-08-07":
-        api_key = os.getenv("OPENAI_KEY")
-        if not api_key:
-            st.sidebar.warning("OPENAI_KEY not set; falling back to qwen3:latest")
-            llm = ChatOllama(model="qwen3:latest", temperature=0, streaming=True, num_ctx=40000)
-            provider_name = "ollama"
-        else:
-            llm = ChatOpenAI(model="gpt-5-nano-2025-08-07", temperature=0, streaming=True, api_key=api_key)
-            provider_name = "openai"
-    elif model in openrouter_models:
-        or_key = os.getenv("OPENROUTER_API_KEY")
-        if not or_key:
-            st.sidebar.warning("OPENROUTER_API_KEY not set; falling back to qwen3:latest")
-            llm = ChatOllama(model="qwen3:latest", temperature=0, streaming=True, num_ctx=40000)
-            provider_name = "ollama"
-        else:
-            # Use OpenRouter via OpenAI-compatible LangChain client
-            chat_kwargs = {
-                "model": model,
-                "temperature": 0,
-                "streaming": True,
-                "api_key": or_key,
-                "base_url": "https://openrouter.ai/api/v1",
-            }
-            if model == "meta-llama/llama-4-scout":
-                chat_kwargs["model_kwargs"] = {
-                    "extra_body": {"provider": {"only": ["deepinfra/fp8"]}}
-                }
-            llm = ChatOpenAI(**chat_kwargs)
-            provider_name = "openrouter"
-    else:
-        llm = ChatOllama(model="qwen3:latest", temperature=0, streaming=True, num_ctx=40000)
-        provider_name = "ollama"
+    try:
+        llm, provider_name = build_chat_model(model)
+    except Exception as exc:
+        st.sidebar.error(str(exc))
+        st.stop()
     
     # Parse statute filters from comma-separated text
     # Sidebar filters removed; planner handles filtering via rewrite
@@ -406,13 +377,7 @@ def _handle_general_chat(user_input: str, llm) -> str:
             return f"You mentioned earlier that your name is {known_name}. I'm ready whenever you want to discuss a legal question."
         return "I don't think you've shared your name yet. Tell me your legal question and I'll do my best to help."
 
-    chat_system = (
-        "You are a friendly assistant for the Legal Drafting System. "
-        "When the user is not asking for legal help, reply briefly (no more than three sentences), "
-        "stay positive, and encourage them to share any legal question if appropriate. "
-        "You may answer general knowledge queries directly without mentioning legal content. "
-        "If the user steers back toward legal matters, gently invite them to provide more details so we can help."
-    )
+    chat_system = get_prompt("general_chat")
 
     context_notes = []
     if known_name:
@@ -713,7 +678,7 @@ def _execute_case_probe(
     except Exception as exc:
         _append_debug(f"[DEBUG][CaseProbe][guard_error] {exc}")
 
-    ctx_limit = MODEL_CONTEXT_WINDOWS.get(model_name, 32768)
+    ctx_limit = _ctx_limit(model_name)
     headroom = RESERVED_COMPLETION_TOKENS.get(model_name, 8000)
     budget_override = max(4000, min(20000, ctx_limit - headroom))
 
@@ -1441,7 +1406,7 @@ def main():
                 
                     # Step 5: Context Assembly - Build final context from plan
                     # Effective budget: use model context window minus reserved completion headroom
-                    ctx_limit = MODEL_CONTEXT_WINDOWS.get(model_name, 32768)
+                    ctx_limit = _ctx_limit(model_name)
                     headroom = RESERVED_COMPLETION_TOKENS.get(model_name, 8000)
                     budget_override = max(4000, ctx_limit - headroom)
                     context, _, dbg = assemble_context_from_plan(
@@ -1494,7 +1459,7 @@ def main():
                         ctx_tokens = dbg.get("est_tokens", 0)
                     except Exception:
                         ctx_tokens = 0
-                    limit_tokens = MODEL_CONTEXT_WINDOWS.get(model_name, 32768)
+                    limit_tokens = _ctx_limit(model_name)
                     fit_note = "within limit" if ctx_tokens <= limit_tokens else "exceeds limit"
                     _debug_section(
                         "Assembler",
@@ -1532,14 +1497,7 @@ def main():
                 # Step 6: Answer Generation - Generate response using LLM
                 if 'qp' in locals() and getattr(qp, 'type', '') == 'general_law':
                     # General legal knowledge - no document constraints
-                    system_prefix = (
-                        "You are the primary advisory voice for an Indian legal assistant. "
-                        "Deliver empathetic, actionable guidance grounded in Indian law unless the user specifies another jurisdiction. "
-                        "Structure your reply under the heading 'General Guidance'. "
-                        "Explain key rights, immediate steps, procedural options, and statutory hooks (e.g., IPC, CrPC, PC Act) relevant to the scenario. "
-                        "Keep the focus on universal principles—do not cite specific cases or rely on any precedent context, because a separate module will append case-based insights. "
-                        "Flag uncertainties, urge the user to consult a qualified lawyer, and avoid definitive promises about outcomes."
-                    )
+                    system_prefix = get_prompt("general_law")
                     persona_note = _persona_prompt_note()
                     if persona_note:
                         system_prefix += f" {persona_note}"
@@ -1549,132 +1507,7 @@ def main():
                     ]
                 else:
                     # RAG mode - must use only provided context
-                    system_prefix = (
-                        "You are a **legal research and drafting assistant** within a Retrieval-Augmented Generation (RAG) system. "
-                        "You will be given a user query and a context drawn exclusively from retrieved case-law or statutory materials. "
-                        "Answer **only** from the provided context; never use outside knowledge, inference, or speculation.\n\n"
-                        "========================\n"
-                        "### CORE DIRECTIVES\n"
-                        "========================\n"
-                        "1. **Case-first routing** — If the query refers to a specific case (by party names, citation, date, or case number), "
-                        "focus on that case. Use other retrieved materials only if they directly clarify or support a relevant point.\n\n"
-                        "2. **Topic synthesis** — If the question is thematic (e.g., about a statute, doctrine, or principle), "
-                        "you may synthesize across multiple retrieved documents.\n\n"
-                        "3. **Filename-visible headers (MANDATORY)** — Every case you summarize must appear under a header of the form:\n"
-                        "      `[Case: <Case Name> | File: <N.txt>]`\n"
-                        "   If multiple chunks from the same file are used, include chunk numbers when available.\n\n"
-                        "4. **Precision and attribution** — Be concise, text-anchored, and well-reasoned. "
-                        "Short quotes (≤2 sentences) are permitted if followed by in-text citations like "
-                        "“(Case Name — file N.txt, chunk X)”. Never fabricate or generalize unsupported facts.\n\n"
-                        "5. **Verification discipline** — Ensure silently that every factual statement is supported by the text. "
-                        "If uncertain, omit or qualify using 'the record here does not clarify...'.\n\n"
-                        "6. **Insufficient data fallback** — If the materials do not allow you to answer, respond exactly: "
-                        "'I'm sorry — I don't know based on the provided documents.'\n\n"
-                        "7. **Tone and structure** — Use a formal, analytical tone similar to a judicial summary or bench memo. "
-                        "Organize your response logically: brief overview → reasoning → conclusion.\n\n"
-                        "8. **Source listing (MANDATORY)** — End every answer with a 'Sources:' line that lists the file names actually used "
-                        "(e.g., `Sources: 1.txt, 2.txt`). You may optionally include case names beside them.\n\n"
-                        "9. **Formatting discipline** — Use structured headings and concise paragraphs. "
-                        "Avoid conversational or speculative phrasing. Use plain text formatting with consistent sectioning.\n\n"
-                        "========================\n"
-                        "### OUTPUT FORMATTING RULES\n"
-                        "========================\n"
-                        "- Always include file identifiers in case headers.\n"
-                        "- Prefer short labeled paragraphs (e.g., Issue, Held, Reasoning, Disposition).\n"
-                        "- Avoid overuse of bullets; favor narrative clarity.\n"
-                        "- Do not invent paragraph numbers or citations not present in the input.\n"
-                        "- Maintain clean, professional spacing.\n\n"
-                        "========================\n"
-                        "### TEMPLATE A — MULTIPLE CASE SUMMARIES (Parallel Summaries)\n"
-                        "========================\n"
-                        "[Overall Overview]\n"
-                        "One or two sentences summarizing the user’s query and how the retrieved cases relate to it.\n\n"
-                        "[Case: <Case Name> | File: <N.txt>]\n"
-                        "Court / Date / Citation (if present)\n"
-                        "Issue: …\n"
-                        "Held: …\n"
-                        "Key Reasons:\n"
-                        "  • Point 1 — short explanation or quote (Case — file N.txt, chunk X)\n"
-                        "  • Point 2 — …\n"
-                        "Controlling Provisions: (only those explicitly cited)\n"
-                        "Outcome: (appeal allowed / dismissed / remand / directions)\n"
-                        "Notes or Limits: (if context shows any restrictions)\n\n"
-                        "[Case: <Case Name> | File: <M.txt>]\n"
-                        "Court / Date / Citation\n"
-                        "Issue: …\n"
-                        "Held: …\n"
-                        "Key Reasons:\n"
-                        "  • …\n"
-                        "Outcome: …\n\n"
-                        "[Synthesis / Comparison]\n"
-                        "Two–five lines drawing together or contrasting the holdings based only on the retrieved text.\n\n"
-                        "Sources: N.txt, M.txt\n\n"
-                        "Example:\n"
-                        "[Overall Overview]\n"
-                        "The question concerns limitation for IBC appeals before NCLAT. The retrieved judgments clarify the strict 30+15 day rule.\n\n"
-                        "[Case: A Rajendra v. Gonugunta Madhusudhan Rao | File: 2.txt]\n"
-                        "SC (4 Apr 2025) — 2025 INSC 447\n"
-                        "Issue: Whether NCLAT can condone delay beyond the outer 45-day period under Section 61(2) IBC.\n"
-                        "Held: Appeals barred; limitation runs from pronouncement; no condonation beyond 45 days.\n"
-                        "Key Reasons:\n"
-                        "  • Delay beyond 15 days beyond initial 30 days is jurisdictionally barred (file 2.txt).\n"
-                        "  • Certified copy requirement under Limitation Act §12(3) applies only if application filed (file 2.txt).\n"
-                        "Outcome: Appeals dismissed; NCLAT order upheld.\n\n"
-                        "Sources: 2.txt\n\n"
-                        "========================\n"
-                        "### TEMPLATE B — SINGLE CASE DEEP ANALYSIS (In-Depth)\n"
-                        "========================\n"
-                        "[Case: <Case Name> | File: <N.txt>]\n"
-                        "Court / Date / Citation\n\n"
-                        "Overview / Holding (2–3 sentences)\n"
-                        "A concise statement of the ruling and key principle.\n\n"
-                        "Facts (essential only)\n"
-                        "• …\n"
-                        "• …\n\n"
-                        "Issues\n"
-                        "• …\n\n"
-                        "Held / Disposition\n"
-                        "• … (appeal allowed / dismissed / directions / etc.)\n\n"
-                        "Reasoning (text-supported)\n"
-                        "1) … — short quote if relevant (Case — file N.txt, chunk X)\n"
-                        "2) …\n"
-                        "3) …\n\n"
-                        "Rule / Ratio\n"
-                        "• …\n\n"
-                        "Statutes / Provisions Cited\n"
-                        "• …\n\n"
-                        "Limits / Caveats\n"
-                        "• …\n\n"
-                        "Practical Takeaways\n"
-                        "• …\n\n"
-                        "Sources: N.txt\n\n"
-                        "Example:\n"
-                        "[Case: A. John Kennedy etc. v. State of Tamil Nadu & Ors. | File: 1.txt]\n"
-                        "SC (24 Mar 2025) — 2025 INSC 443\n\n"
-                        "Overview / Holding:\n"
-                        "Supreme Court continued its environmental mandamus, ordering a Central Empowered Committee survey "
-                        "to restore the Agasthyamalai forest landscape, while deferring rehabilitation issues.\n\n"
-                        "Facts:\n"
-                        "• Tea estate leases in reserve forest; competing claims between displaced workers and conservation authorities.\n"
-                        "• High Court closed PILs without concrete restoration plan (file 1.txt).\n\n"
-                        "Issue:\n"
-                        "• How to ensure forest restoration and biodiversity protection while handling workers’ rehabilitation claims.\n\n"
-                        "Held / Disposition:\n"
-                        "• Directed a scientific survey using satellite imagery and geo-mapping within 12 weeks; matter relisted for follow-up; "
-                        "rehabilitation issue to be heard separately (file 1.txt).\n\n"
-                        "Reasoning:\n"
-                        "1) Ecocentric over anthropocentric approach — forest protection is constitutional necessity.\n"
-                        "2) Ongoing Godavarman line of cases supports continued judicial oversight.\n\n"
-                        "Rule / Ratio:\n"
-                        "• Critical tiger habitats demand the highest level of protection; restoration orders may proceed through continuing mandamus (file 1.txt).\n\n"
-                        "Statutes Cited:\n"
-                        "• Wildlife (Protection) Act, 1972; Forest (Conservation) Act, 1980; Tamil Nadu Forests Act, 1882.\n\n"
-                        "Limits:\n"
-                        "• No final ruling on individual worker claims in this order.\n\n"
-                        "Takeaways:\n"
-                        "• Forest restoration given primacy over economic rehabilitation; court retains seisin pending report.\n\n"
-                        "Sources: 1.txt\n"
-                    )
+                    system_prefix = get_prompt("rag")
                     prompt = f"{system_prefix}\n\nQUESTION: {user_q}\n\nCONTEXT:\n{context}"
             
                 # Generate response (branch for general-law vs RAG)
@@ -2037,7 +1870,7 @@ def main():
 
                     # Stage 4: Assembly
                     tracker.stage_running("assembly", "Assembling petition context…")
-                    ctx_limit = MODEL_CONTEXT_WINDOWS.get(model_name, 32768)
+                    ctx_limit = _ctx_limit(model_name)
                     headroom = RESERVED_COMPLETION_TOKENS.get(model_name, 8000)
                     budget_override = max(4000, ctx_limit - headroom)
                     draft_context, _, dbg = assemble_context_from_plan(

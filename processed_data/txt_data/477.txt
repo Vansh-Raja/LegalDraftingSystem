@@ -1,0 +1,259 @@
+Commissioner Of Trade And Taxes vs Femc Pratibha Joint Venture on 1 May, 2024
+
+Commissioner Of Trade And Taxes vs Femc Pratibha Joint
+Venture on 1 May, 2024
+
+Author: Pamidighantam Sri Narasimha
+
+Bench: Pamidighantam Sri Narasimha, Aravind Kumar
+
+2024 INSC 364                                                            REPORTABLE
+
+                                    IN THE SUPREME COURT OF INDIA
+                                     CIVIL APPELLATE JURISDICTION
+
+                                     CIVIL APPEAL NO. 3940 OF 2024
+
+             COMMISSIONER OF TRADE AND TAXES                          ...APPELLANT(S)
+
+                                                   VERSUS
+
+             FEMC PRATIBHA JOINT VENTURE                            …RESPONDENT(S)
+
+                                              JUDGMENT
+
+PAMIDIGHANTAM SRI NARASIMHA, J.
+
+1. The issue for consideration before us is whether the timeline for refund under Section 38(3) of the
+Delhi Value Added Tax Act, 2004 1 must be mandatorily followed while recovering dues under the
+Act by adjusting them against the refund amount.
+
+2. The brief facts relevant for our purpose are as follows. The respondent is a joint venture engaged
+in the execution of works contracts for the Delhi Metro Rail Corporation and makes purchases for
+this purpose. It claimed refund of excess tax credit 1 Hereinafter ‘the Act’.
+
+amounting to Rs. 17,10,15,285/- for the 4th quarter of 2015-16 through revised return filed on
+31.03.2017 and Rs. 5,44,39,148/- for the 1st quarter of 2017-18 through return filed on 29.03.2019,
+along with applicable interest under Section 42 of the Act. The appellant did not pay the refund even
+until 2022, pursuant to which the respondent sent a letter dated 09.11.2022 for the consideration of
+their refund. The Value Added Tax Officer passed an adjustment order dated 18.11.2022 to adjust
+the respondent’s claims for refund against dues under default notices dated 30.03.2020,
+23.03.2021, 30.03.2021, and 26.03.2022. The respondent then filed a writ petition before the Delhi
+High Court for quashing the adjustment order and the default notices.
+
+Indian Kanoon - http://indiankanoon.org/doc/76488359/
+
+1
+
+Commissioner Of Trade And Taxes vs Femc Pratibha Joint Venture on 1 May, 2024
+
+3. By judgment dated 21.09.2023, impugned herein, the High Court quashed the adjustment order
+and directed refund of Rs. 17,10,15,285/- for the 4th quarter of 2015-16 and Rs. 5,44,39,148/- for the
+1st quarter of 2017-18, along with interest as per Section 42 till the date of realisation. 2 In respect of
+the default notices, the High Court gave liberty to the respondent to avail statutory appeal under
+Section 74 of the Act. 2 WP (C) 2491/2023, judgment dated 21.09.2023 (‘Impugned judgment’).
+
+4. The present appeal is restricted to the issue of quashing the adjustment order. The High Court
+placed reliance on the Delhi High Court’s judgment in Flipkart India Private Limited v. Value Added
+Tax Officer, Ward 300 3 to summarise the law on refund under Section 38. It held that the
+department must scrupulously adhere to the time limit for processing and issuing the refunds under
+Section 38. Whenever the department seeks to obtain necessary information under Section 59 of the
+Act, it must take steps within the time limit envisaged under the Act. Further, the refund amount
+can be adjusted only when an enforceable demand in the nature of tax or duty is pending against the
+assessee. The department does not have any legal right or justification to retain the amount beyond
+the time limit prescribed under Section 38. 4 In the facts of the present case, it was held that the
+mandate of the Act has not been followed and hence the adjustment order is not maintainable. 5
+
+5. We have heard the learned ASG for the department and Mr. Rajesh Jain, learned counsel for the
+respondent-assessee. The learned ASG has submitted that the timelines specified in Section 3 2023
+SCC OnLine Del 5201.
+
+4 Impugned judgment, para 10.
+
+5 ibid, para 11.
+
+38(3) are only to ensure that interest is paid if the refund is delayed beyond the statutorily
+prescribed period. However, he has argued, the timeline cannot be used to denude the power to
+adjust refund amounts against outstanding dues under Section 38(2). The refund can be adjusted as
+long as outstanding dues exist at the time when the refund is processed, even if it is beyond the
+stipulated timeline. The learned counsel for the assessee has supported the reasoning of the High
+Court and has placed reliance on several judgments of the Delhi High Court that affirm this position
+of law.6
+
+6. We find no reason to interfere with the impugned judgment, which follows the view that has been
+consistently adopted by the High Court. 7 The finding of the High Court is based on the plain
+language of Section 38 of the Act, which reads as follows:
+
+“38. Refunds (1) Subject to the other provisions of this section and the rules, the
+Commissioner shall refund to a person the amount of tax, penalty and interest, if any,
+paid by such person in excess of the amount due from him.
+
+6 Swarn Darsan Impex v. Commissioner, Value Added Tax, 2010 SCC OnLine Del 4697; Nucleus
+Marketing and Communication v. Commissioner of Delhi Value Added Tax, 2016 SCC OnLine Del
+3941; Rockwell Industries v. Commissioner of Trade and Taxes, 2019 SCC OnLine Del 8432;
+
+Indian Kanoon - http://indiankanoon.org/doc/76488359/
+
+2
+
+Commissioner Of Trade And Taxes vs Femc Pratibha Joint Venture on 1 May, 2024
+
+ITD-ITD CEM JV v. Commissioner of Trade and Taxes, 2019 SCC OnLine Del 9568; Ramky
+Infrastructure Ltd v. Commissioner of Trade and Taxes, 2023 SCC OnLine Del 4236; Commissioner
+of Trade and Taxes v. Corsan Corviam Construction S.A. Sadbhav Engineering Ltd JV, 2023 SCC
+OnLine Del 1900; Flipkart India (supra). ibid.
+
+(2) Before making any refund, the Commissioner shall first apply such excess towards the recovery
+of any other amount due under this Act, or under the CST Act, 1956 (74 of 1956).
+
+(3) Subject to sub-section (4) and sub-section (5) of this section, any amount remaining after the
+application referred to in sub-section (2) of this section shall be at the election of the dealer, either –
+
+(a) refunded to the person, –
+
+(i) within one month after the date on which the return was furnished or claim for the refund was
+made, if the tax period for the person claiming refund is one month;
+
+(ii) within two months after the date on which the return was furnished or claim for the refund was
+made, if the tax period for the person claiming refund is a quarter; or
+
+(b) carried forward to the next tax period as a tax credit in that period. (4) Where the Commissioner
+has issued a notice to the person under section 58 of this Act advising him that an audit,
+investigation or inquiry into his business affairs will be undertaken or sought additional information
+under section 59 of this Act, the amount shall be carried forward to the next tax period as a tax
+credit in that period. (5) The Commissioner may, as a condition of the payment of a refund, demand
+security from the person pursuant to the powers conferred in section 25 of this Act within fifteen
+days from the date on which the return was furnished or claim for the refund was made. (6) The
+Commissioner shall grant refund within fifteen days from the date the dealer furnishes the security
+to his satisfaction under sub- section (5).
+
+(7) For calculating the period prescribed in clause (a) of sub- section (3), the time taken to –
+
+(a) furnish the security under sub-section (5) to the satisfaction of the Commissioner; or
+
+(b) furnish the additional information sought under section 59; or
+
+(c) furnish returns under section 26 and section 27; or
+
+(d) furnish the declaration or certificate forms as required under Central Sales Tax Act, 1956, shall
+be excluded (8) Notwithstanding anything contained in this section, where –
+
+(a) a registered dealer has sold goods to an unregistered person; and
+
+(b) the price charged for the goods includes an amount of tax payable under this Act;
+
+Indian Kanoon - http://indiankanoon.org/doc/76488359/
+
+3
+
+Commissioner Of Trade And Taxes vs Femc Pratibha Joint Venture on 1 May, 2024
+
+(c) the dealer is seeking the refund of this amount or to apply this amount under clause (b) of
+sub-section (3) of this section;
+
+no amount shall be refunded to the dealer or may be applied by the dealer under clause (b) of
+sub-section (3) of this section unless the Commissioner is satisfied that the dealer has refunded the
+amount to the purchaser.
+
+(9) Where –
+
+(a) a registered dealer has sold goods to another registered dealer; and
+
+(b) the price charged for the goods expressly includes an amount of tax payable under this Act, the
+amount may be refunded to the seller or may be applied by the seller under clause (b) of sub-section
+(3) of this section and the Commissioner may reassess the buyer to deny the amount of the
+corresponding tax credit claimed by such buyer, whether or not the seller refunds the amount to the
+buyer.
+
+(10) Where a registered dealer sells goods and the price charged for the goods is expressed not to
+include an amount of tax payable under this Act the amount may be refunded to the seller or may be
+applied by the seller under clause (b) of sub-section (3) of this section without the seller being
+required to refund an amount to the purchaser. (11) Notwithstanding anything contained to the
+contrary in sub- section (3) of this section, no refund shall be allowed to a dealer who has not filed
+any return due under this Act.”
+
+7. Sub-section (1) provides that any amount of tax, penalty and interest that is in excess of the
+amount due from a person shall be refunded to him by the Commissioner. Sub-section (2) permits
+the Commissioner to first apply such excess to recover any other amount that is due under the Act or
+the Central Sales Tax Act, 1956. Sub-section (3), which is relevant for our purpose, provides the
+assessee with the option of getting the refund or carrying it forward to the next tax period as a tax
+credit. In case of refund, Section 38(3)(a) provides the timeline for refund from the date on which
+the return is furnished or claim for refund is made as: (i) within one month, if the period for refund
+is one month; (ii) within two months, if the period for refund is a quarter. Sub-section (4) provides
+that if notice has been issued under Section 58 or additional information has been sought under
+Section 59, then the amount shall be carried forward to the next tax period as tax credit.
+Sub-sections (5) and (6) pertain to security. Sub-section (7) provides certain exclusions while
+calculating the period under sub-section (3). Sub-sections (8)-(10) pertain to refund in cases of sale
+to registered and unregistered dealers. Lastly, sub-section (11) provides that the refund shall not be
+allowed to a dealer who has not filed any return that is due under the Act.
+
+8. The language of Section 38(3) is mandatory and the department must adhere to the timeline
+stipulated therein to fulfil the object of the provision, which is to ensure that refunds are processed
+and issued in a timely manner.
+
+Indian Kanoon - http://indiankanoon.org/doc/76488359/
+
+4
+
+Commissioner Of Trade And Taxes vs Femc Pratibha Joint Venture on 1 May, 2024
+
+9. In the present case, Section 38(3)(a)(ii) is relevant as both the refunds in the present case pertain
+to quarter tax periods. Therefore, as per Section 38(3)(a)(ii), the refund should have been processed
+within two months from when the returns were filed (31.03.2017 and 29.03.2019), which comes up
+to 31.05.2017 and 29.05.2019. The default notices are dated 30.03.2020, 23.03.2021, 30.03.2021,
+and 26.03.2022. It is therefore evident that the default notices were issued after the period within
+which the refund should have been processed. Sub-section (2) only permits adjusting amounts
+towards recovery that are “due under the Act”. By the time when the refund should have been
+processed as per the provisions of the Act, the dues under the default notices had not crystallised
+and the respondent was not liable to pay the same at the time. The appellant-department is
+therefore not justified in retaining the refund amount beyond the stipulated period and then
+adjusting the refund amount against the amounts due under default notices that were issued
+subsequent to the refund period.
+
+10. Further, the learned ASG’s contention that the purpose of the timeline provided under
+sub-section (3) is only for calculation of interest under Section 428 would defeat the object of the
+provision. The relevant portion of Section 42 reads:
+
+“42. Interest (1) A person entitled to a refund under this Act, shall be entitled to
+receive, in addition to the refund, simple interest at the annual rate notified by the
+Government from time to time, computed on a daily basis from the later of –
+
+(a) the date that the refund was due to be paid to the person; or
+
+(b) the date that the overpaid amount was paid by the person, until the date on which
+the refund is given.
+
+Such an interpretation would effectively enable the department to retain refundable amounts for
+long durations for the purpose of adjusting them on a future date. This would go against the object
+and purpose of the provision. This contention is hence rejected.
+
+11. In view of the above, we dismiss the present appeal and affirm the impugned judgment directing
+the refund of amounts along with interest as provided under Section 42 of the Act.
+
+12. Pending applications, if any, are disposed of.
+
+……………………………….J. [PAMIDIGHANTAM SRI NARASIMHA] ……………………………….J.
+[PRASANNA BHALACHANDRA VARALE] NEW DELHI;
+
+MAY 01, 2024 PROVIDED that the interest shall be calculated on the amount of refund due after
+deducting therefrom any tax, interest, penalty or any other dues under this Act, or under the Central
+Sales Tax Act, 1956 (74 of 1956):
+
+PROVIDED FURTHER that if the amount of such refund is enhanced or reduced, as
+the case may be, such interest shall be enhanced or reduced accordingly.
+
+Indian Kanoon - http://indiankanoon.org/doc/76488359/
+
+5
+
+Commissioner Of Trade And Taxes vs Femc Pratibha Joint Venture on 1 May, 2024
+
+Explanation.- If the delay in granting the refund is attributable to the said person,
+whether wholly or in part, the period of the delay attributable to him shall be
+excluded from the period for which the interest is payable.”
+
+Indian Kanoon - http://indiankanoon.org/doc/76488359/
+
+6
+
+

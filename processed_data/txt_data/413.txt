@@ -1,0 +1,583 @@
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+All India Bank Officers Confederation vs The Regional Manager
+Central Bank Of ... on 7 May, 2024
+
+Author: Dipankar Datta
+
+Bench: Dipankar Datta
+
+                                                                                              REPORTABLE
+2024 INSC 389
+                                                     IN THE SUPREME COURT OF INDIA
+
+                                                      CIVIL APPELLATE JURISDICTION
+
+                                                       CIVIL APPEAL NO. 7708 OF 2014
+
+                             ALL INDIA BANK OFFICERS’ CONFEDERATION                .....       APPELLANT
+
+                                                           VERSUS
+
+                             THE REGIONAL MANAGER,
+                             CENTRAL BANK OF INDIA, AND OTHERS                     .....    RESPONDENTS
+
+                                                                    WITH
+
+                                                      CIVIL APPEAL NO. 18459 OF 2017
+
+                                                      CIVIL APPEAL NO. 18460 OF 2017
+
+                                                      CIVIL APPEAL NO. 18462 OF 2017
+
+                                                      CIVIL APPEAL NO. 18463 OF 2017
+
+                                                      CIVIL APPEAL NO. 18461 OF 2017
+
+                                                      CIVIL APPEAL NO. 18464 OF 2017
+
+                                                 CIVIL APPEAL NOS. 18465-18466 OF 2017
+
+                                                 CIVIL APPEAL NOS. 18457-18458 OF 2017
+
+                                                                    AND
+
+                                                      CIVIL APPEAL NO. 18467 OF 2017
+
+                                                             JUDGMENT
+
+SANJIV KHANNA, J.
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+1
+
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+officers’ associations of various banks, impugning judgments which dismiss their writ petitions,
+where the vires of Section 17(2)(viii) of the Income Tax Act, 19611 or Rule 3(7)(i) of the Income Tax
+Rules, 19622, or both, were challenged.
+
+2. Section 17(2)(viii) of the Act includes in the definition of ‘perquisites’ 3, ‘any other fringe benefit
+or amenity’, ‘as may be prescribed’.4 Rule 3 of the Rules prescribes additional ‘fringe benefits’ or
+‘amenities’, taxable as perquisites, pursuant to Section 17(2)(viii). It also prescribes the method of
+valuation of such perquisites for taxation purposes. Rule 3(7)(i) of the Rules stipulates that
+interest-free/concessional loan benefits provided by banks to bank employees shall be taxable as
+‘fringe benefits’ or ‘amenities’ if the interest charged by the bank on such loans is lesser than the
+interest charged according to the Prime Lending Rate5 of the State Bank of India6.
+
+3. Section 17(2)(viii) and Rule 3(7)(i) are challenged on the grounds of excessive and unguided
+delegation of essential legislative function to the Central Board of Direct Taxes7. Rule 3(7)(i) is also
+challenged as arbitrary and violative of Article 14 of the Constitution insofar as it treats the PLR of
+SBI as the 1 For short, “Act”.
+
+2 For short, “Rules”.
+
+3 Section 17(2) of the Act defines perquisites. It specifies a list of benefits/advantages, incidental to
+employment, and received in excess of salary, which are made taxable as perquisites. Section
+17(2)(viii) is a residuary clause that authorizes a subordinate rule-making authority to prescribe ‘any
+other fringe benefits or amenities’ that are liable to taxation as ‘perquisites’. 4 Before amendments
+brought in by Finance (No.2) Act, 2009, with effect from 01.04.2010, Section 17(2)(vi) of the Act
+read: “(vi) the value of any other fringe benefit or amenity (excluding the fringe benefits chargeable
+to tax under Chapter XIIH) as may be prescribed”. Post the amendment, Section 17(2)(viii), in effect
+contains the same stipulations as erstwhile Section 17(2)(vi), with some modifications. It states:
+“(viii) the value of any other fringe benefit or amenity as may be prescribed.” Thus, the present
+Section 17(2)(viii) contains similar stipulations as erstwhile Section 17(2)(vi), reference to Chapter
+XIIH only being deleted. To retain uniformity, we will be referring to it as Section 17(2)(viii).
+
+5 For short, “PLR”.
+
+6 For short, “SBI”.
+
+7 For short, “CBDT”.
+
+benchmark instead of the actual interest rate charged by the bank from a customer on a loan.
+
+4. Sections 15 to 17 of the Act relate to income tax chargeable on salaries.
+
+(cid:132) Section 15 stipulates incomes that are chargeable to income tax as ‘salaries’.
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+2
+
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+(cid:132) Section 16 prescribes deductions allowable under ‘salaries’. (cid:132) Section 17 defines the expressions
+‘salary’, ‘perquisites’ and ‘profits in lieu of salary’ for Sections 15 and 16.
+
+5. Section 17(1) includes in the definition of ‘salary’: wages, annuity or pension, gratuity, fee,
+commission, perquisites, or profits in lieu of or in addition to salary or wages, advance of salary,
+payments received by an employee in respect of leave not availed, annual accretion to the balance at
+the credit of the employee participating in a recognised provident fund, etc.
+
+6. Section 17(2) relates to ‘perquisites’ and reads:8 “(2) “Perquisite” includes—
+
+(i) the value of rent-free accommodation provided to the assessee by his employer computed in such
+manner as may be prescribed;
+
+(ii) the value of any accommodation provided to the assessee by his employer at a concessional rate.
+
+Explanation.— For the purposes of this sub-clause, it is clarified that accommodation shall be
+deemed to have been provided at a concessional rate, if the value of accommodation computed in
+such manner as may be prescribed, exceeds the rent recoverable from, or payable by, the assessee;
+
+(iii) the value of any benefit or amenity granted or provided free of cost or at concessional rate in
+any of the following cases— 8 Post 01.04.2010.
+
+(a) by a company to an employee who is a director thereof;
+
+(b) by a company to an employee being a person who has a substantial interest in the company;
+
+(c) by any employer (including a company) to an employee to whom the provisions of paragraphs (a)
+and (b) of this sub-clause do not apply and whose income under the head “Salaries” (whether due
+from, or paid or allowed by, one or more employers), exclusive of the value of all benefits or
+amenities not provided for by way of monetary payment, exceeds fifty thousand rupees:
+
+Explanation.—For the removal of doubts, it is hereby declared that the use of any
+vehicle provided by a company or an employer for journey by the assessee from his
+residence to his office or other place or work, or from such office or place to his
+residence, shall not be regarded as a benefit or amenity granted or provided to him
+free of cost or at concessional rate for the purposes of this sub-clause;
+
+(iv) any sum paid by the employer in respect of any obligation which, but for such
+payment, would have been payable by the assessee; and
+
+(v) any sum payable by the employer, whether directly or through a fund, other than
+a recognised provident fund or an approved superannuation fund or a Deposit-
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+3
+
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+linked Insurance Fund established under Section 3- G of the Coal Mines Provident Fund and
+Miscellaneous Provisions Act, 1948 (46 of 1948), or, as the case may be, Section 6-C of the
+Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952), to effect an
+assurance on the life of the assessee or to effect a contract for an annuity;
+
+(vi) the value of any specified security or sweat equity shares allotted or transferred, directly or
+indirectly, by the employer, or former employer, free of cost or at concessional rate to the assessee.
+
+Explanation.— For the purposes of this sub-
+
+clause,—
+
+(a) “specified security” means the securities as defined in clause (h) of Section 2 of the Securities
+Contracts (Regulation) Act, 1956 (42 of 1956) and, where employees' stock option has been granted
+under any plan or scheme therefor, includes the securities offered under such plan or scheme;
+
+(b) “sweat equity shares” means equity shares issued by a company to its employees or directors at a
+discount or for consideration other than cash for providing know-how or making available rights in
+the nature of intellectual property rights or value additions, by whatever name called;
+
+(c) the value of any specified security or sweat equity shares shall be the fair market value of the
+specified security or sweat equity shares, as the case may be, on the date on which the option is
+exercised by the assessee as reduced by the amount actually paid by, or recovered from the assessee
+in respect of such security or shares;
+
+(d) “fair market value” means the value determined in accordance with the method as may be
+prescribed;
+
+(e) “option” means a right but not an obligation granted to an employee to apply for the specified
+security or sweat equity shares at a predetermined price;
+
+(vii) the amount or the aggregate of amounts of any contribution made to the account of the assessee
+by the employer—
+
+(a) in a recognised provident fund;
+
+(b) in the scheme referred to in sub-section (1) of Section 80-CCD; and
+
+(c) in an approved superannuation fund, to the extent it exceeds seven lakh and fifty thousand
+rupees in a previous year;
+
+(viia) the annual accretion by way of interest, dividend or any other amount of similar nature during
+the previous year to the balance at the credit of the fund or scheme referred to in sub-clause (vii) to
+the extent it relates to the contribution referred to in the said sub-clause which is included in total
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+4
+
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+income under the said sub- clause in any previous year computed in such manner as may be
+prescribed; and
+
+(viii) the value of any other fringe benefit or amenity as may be prescribed:
+
+                                xx                xx               xx”
+
+                                                            (emphasis supplied)
+
+7.      Rule 3(7)(i) of the Rules9 reads:
+
+“(7) In terms of provisions contained in Sub-Clause (vi) of Sub-Section (2) of Section 17,10 the
+following other fringe benefits or amenities are hereby prescribed and the value thereof shall be
+determined in the manner provided hereunder:
+
+(i) the value of the benefit to the assessee resulting from the provision of interest-free
+or concessional loan for any purpose made available to the employee or any member
+of
+
+9 As it stands after amendment vide Income Tax (First Amendment) Rules, 2004, with effect from
+01.04.2004.
+
+10 See supra note 4.
+
+his household during the relevant previous year by the employer or any person on his behalf shall be
+determined as the sum equal to the simple interest computed at the rate charged per annum by the
+State Bank of India Act, 1955 (23 of 1955), as on the 1st day of the relevant previous year in respect
+of loans for the same purpose advanced by it on the maximum outstanding monthly balance as
+reduced by the interest, if any, actually paid by him or any such member of his household.
+
+However, no value would be charged if such loans are made available for medical treatment in
+respect of diseases specified in Rule 3A of these Rules or where the amount of loans are petty not
+exceeding in the aggregate of Rs.20,000:
+
+Provided that where the benefits relates to the loans made available for medical
+treatment referred to above, the exemption so provided shall not apply to so much of
+the loan as has been reimbursed to the employee under any medical insurance
+scheme." 11
+
+8. Section 17(1), provides a broad and inclusive definition of ‘salary’. It states that
+salary, inter alia, includes wages as well as other payments paid to employees like
+perquisites. Thus, perquisites paid by the employer to the employee are taxable as
+‘salary’.
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+5
+
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+9. ‘Perquisite’ has been defined in Section 17(2) for clarity, and also, to include and
+widen its scope. Clauses (i) to (viiia) to Section 17(2) make the following taxable as
+‘perquisites’:
+
+(cid:132) Clause (i) - rent-free accommodation by employer. (cid:132) Clause (ii) - accommodation at
+a concessional rate by employer. (cid:132) Clause (iii) - benefit of amenity provided free of
+cost/at a concessional rate, in specified cases.
+
+11 It is relevant to state here that the appellants have not challenged Rule 3(7)(i) as it existed for the
+period 01.04.2001 to 31.03.2004, that is, prior to the amendment vide the Income Tax (First
+Amendment) Rules, 2004, with effect from 01.04.2004. We are thus referring to the said Rule. (cid:132)
+Clause (iv) - sum paid by the employer for an obligation.
+
+(cid:132) Clause (v) – sum payable by the employer through a fund (barring specified exceptions) to effect
+an assurance on the life of the assessee or to effect a contract for annuity.
+
+(cid:132) Clause (vi) – specified security or sweat equity shares allotted/transferred by employer at
+concessional rate/free of cost. (cid:132) Clause (vii) – specified amounts contributed to assessees’ account
+by employer such as provident fund, superannuation fund etc. (cid:132) Clause (viia) – annual accretion by
+way of interest, dividend or other similar amounts with respect to clause (vii).
+
+10. After specifically stipulating what is included and taxed as ‘perquisite’, clause
+
+(viii) to Section 17(2), as a residuary clause, deliberately and intentionally leaves it to the
+rule-making authority to tax ‘any other fringe benefit or amenity’ by promulgating a rule. The
+residuary clause is enacted to capture and tax any other ‘fringe benefit or amenity’ within the ambit
+of ‘perquisites’, not already covered by clauses (i) to (viia) to Section 17(2).
+
+11. In terms of the power conferred under Section 17(2)(viii), CBDT has enacted Rule 3(7)(i) of the
+Rules. Rule 3(7)(i) states that interest-free/concessional loan made available to an employee or a
+member of his household by the employer or any person on his behalf, for any purpose, shall be
+determined as the sum equal to interest computed at the rate charged per annum by SBI, as on the
+first date of the relevant previous year in respect of loans for the same purpose advanced by it on the
+maximum outstanding monthly balance as reduced by interest, if any, actually paid. However, the
+loans made available for medical treatment in respect of diseases specified in Rule 3A or loans
+whose value in aggregate does not exceed Rs.20,000/- , are not chargeable.
+
+12. The effect of the rule is twofold. First, the value of interest-free or concessional loans is to be
+treated as ‘other fringe benefit or amenity’ for the purpose of Section 17(2)(viii) and, therefore,
+t a x a b l e   a s   a   ‘ p e r q u i s i t e ’ .   S e c o n d l y ,   i t   p r e s c r i b e s   t h e   m e t h o d   o f   v a l u a t i o n   o f   t h e
+interest-free/concessional loan for the purposes of taxation.
+
+13. While enacting laws, the legislature can and does delineate the meaning of terms through explicit
+definitions. Specific meanings are assigned for precision, to distinguish words/expressions from
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+6
+
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+loose or popular meanings, expand or restrict the scope of words or expressions, or to designate
+‘terms of art’, that is, words or phrases with specialized meanings. Explicit definitions are useful, but
+it is wrong to state that all words or expressions must be explicitly defined. Defining each word or
+expression that is part of normal or commercial vocabulary is neither possible nor expedient. It
+would be a superfluous exercise, and make statutes voluminous. Instead, popular meaning makes
+the statute simpler and easier for the common people. After all, it is the common person who is
+concerned with the ramifications of a statute, and thus, the common man’s understanding is the
+definitive index of the legislative intent. The reason is simple. The legislature is assumed to be aware
+of the well-understood meaning attributed to the word/expression, and by necessary implication the
+legislature by not prescribing a fixed and exact definition, ascribes the prevalent meaning assigned
+to the word/expression in common parlance or commercial usage. This would include meaning
+assigned to technical words in a particular trade, business or profession, etc. when the legislation is
+concerning a particular trade, business or transaction. This rule equally applies to construing words
+or expressions in a taxation statute.
+
+14. In the present case, Section 17(2(viii) is a residuary clause, enacted to provide flexibility. Since it
+is enacted as an enabling catch-within-domain provision, the residuary clause is not iron-cast and
+exacting. A more pragmatic and commonsensical approach can be adopted by locating the prevalent
+meaning of ‘perquisites’ in common parlance and commercial usage.
+
+15. The expression ‘perquisite’ is well-understood by a common person who is conversant with the
+subject matter of a taxing statute. New International Webster’s Comprehensive Dictionary defines
+‘perquisites’ as any incidental profit from service beyond salary or wages; hence, any privilege or
+benefit claimed due.12 ‘Fringe benefit’ is defined as any of the various benefits received from an
+employer apart from salary, such as insurance, pension, vacation, etc. Similarly, Black’s Law
+Dictionary defines ‘fringe benefit’ as a benefit (other than direct salary or compensation) received by
+an employee from the employer, such as insurance, a company car, or a tuition allowance.13 The
+Major Law Lexicon has elaborately defined the words ‘perquisite’ and ‘fringe benefit’.14
+
+16. ‘Perquisites’ has also been interpreted as an expression of common parlance in several decisions
+of this Court. For example, ‘perquisite’ was interpreted in Arun Kumar v. Union of India15, with
+respect to Section 17(2) of the Act. The 12 The New International Webster’s Comprehensive
+Dictionary, p.941. 13 Black’s Law Dictionary, p.188 (10th Edition).
+
+14 Perquisite means something gained by a place or office beyond the regular salary or fee. It is a
+gain or profit incidentally made from employment. P. Ramanatha Aiyar The Major Law Lexicon,
+Vol. 5, p. 5059-5069 (4th Edition).
+
+Fringe benefit is a term embracing a variety of employees’ benefits, paid by the employers and
+supplementing the workers’ basic wage or salary. P. Ramanatha Aiyarm The Major Law Lexicon,
+Vol. 3 (4th Edition).
+
+15 (2007) 1 SCC 732.
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+7
+
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+Court referenced its dictionary meanings and held that ‘perquisites’ were a privilege, gain or profit
+incidental to employment and in addition to regular salary or wages. This decision refers to the
+observations of the House of Lords in Owen v. Pook16, where the House observed that ‘perquisite’
+has a known normal meaning, namely, a personal advantage. However, the perquisites do not mean
+the mere reimbursement of a necessary disbursement. Reference was also made to Rendell v.
+Went17, wherein the House held that ‘perquisite’ would include any benefit or advantage, having a
+monetary value, which a holder of an office derives from the employer’s spending on his behalf.
+
+17. Similarly, in Additional Commissioner of Income Tax v. Bharat V. Patel18, this Court held that
+‘perquisite’, in the common parlance relates to any perk or benefit attached to an employee or
+position besides salary or remuneration. It usually includes non-cash benefits given by the employer
+to the employee in addition to the entitled salary or remuneration.
+
+18. Thus, ‘perquisite’ is a fringe benefit attached to the post held by the employee unlike ‘profit in
+lieu of salary’, which is a reward or recompense for past or future service. It is incidental to
+employment and in excess of or in addition to the salary. It is an advantage or benefit given because
+of employment, which otherwise would not be available.
+
+19. From this perspective, the employer’s grant of interest-free loans or loans at a concessional rate
+will certainly qualify as a ‘fringe benefit’ and ‘perquisite’, as understood through its natural usage in
+common parlance. 16 (1969) 2 WLR 775 (HL).
+
+17 (1964) 1 WLR 650 (HL).
+
+18 (2018) 15 SCC 670.
+
+20. Two issues arise for consideration now: (I) Does Section 17(2)(viii) and/or Rule 3(7)(i) lead to a
+delegation of the ‘essential legislative function’ to the CBDT?; and (II) Is Rule 3(7)(i) arbitrary and
+violative of Article 14 of the Constitution insofar as it treats the PLR of SBI as the benchmark?
+
+I. Does Section 17(2)(viii) and/or Rule 3(7)(i) lead to a delegation of the ‘essential legislative
+function’ to the CBDT?
+
+21. A Constitution Bench of Seven Judges of this Court in Municipal Corporation of Delhi v. Birla
+Cotton, Spinning and Weaving Mills, Delhi and Another19, has held that the legislature must retain
+with itself the essential legislative function. ‘Essential legislative function’ means the determination
+of the legislative policy and its formulation as a binding rule of conduct. Therefore, once the
+legislature declares the legislative policy and lays down the standard through legislation, it can leave
+the remainder of the task to subordinate legislation. In such cases, the subordinate legislation is
+ancillary to the primary statute. It aligns with the framework of the primary legislation as long as it
+is made consistent with it, without exceeding the limits of policy and standards stipulated by the
+primary legislation. The test, therefore, is whether the primary legislation has stated with sufficient
+clarity, the legislative policy and the standards that are binding on subordinate authorities who
+frame the delegated legislation.
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+8
+
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+22. In our opinion, the subordinate authority’s power under Section 17(2)(viii), to prescribe ‘any
+other fringe benefit or amenity’ as perquisite is not boundless. It is demarcated by the language of
+Section 17 of the Act. Anything made taxable by the rule-making authority under Section 17(2)(viii)
+should be a ‘perquisite’ 19 (1968) SCC OnLine SC 13.
+
+in the form of ‘fringe benefits or amenity’. In our opinion, the provision clearly reflects the
+legislative policy and gives express guidance to the rule-making authority.
+
+23. Section 17(2) provides an ‘inclusive’ definition of ‘perquisites’. Section 17(2)(i) to (vii)/(viia)
+provides for certain specific categories of perquisites. However, these are not the only kind of
+perquisites. Section 17(2)(viii) provides a residuary clause that includes ‘any other fringe benefits or
+amenities’ within the definition of ‘perquisites’, as prescribed from time to time. The express
+delineation does not take away the power of the legislature, as the plenary body, to delegate the
+rule-making authority to subordinate authorities, to bring within the ambit of ‘perquisites’ any other
+‘fringe benefit’ or annuities’ as ‘perquisite’. The legislative intent, policy and guidance is drawn and
+defined. Pursuant to such demarcated delegation, Rule 3(7)(i) prescribes interest- free/loans at
+concessional rates as a ‘fringe benefit’ or ‘amenity’, taxable as ‘perquisites’. This becomes clear once
+we view the analysis undertaken in Birla Cotton 7J (supra) viz. the ‘essential legislative function’
+test.
+
+24. Birla Cotton 7J (supra) refers to In Re.: The Delhi Laws Act 191220, wherein this Court held that
+an unlimited right of delegation is not inherent in the legislative power itself. The legitimacy of
+delegation depends upon its usage as an ancillary measure, which the legislature considers
+necessary for the complete and effective exercise of legislative powers. Provided that the legislative
+policy is enunciated with sufficient clearness or a standard is laid down, the courts should not
+interfere with the discretion that undoubtedly rests 20 1951 SCC 568.
+
+with the legislature itself in determining the extent of delegation necessary in a particular case.
+
+25. Birla Cotton 7J (supra) refers to Raj Narain Singh v. Chairman, Patna Administration
+Committee21, wherein this Court held that an executive authority can be authorised by a statute to
+modify either existing or future laws but not in any essential feature. What constitutes an essential
+feature cannot be enunciated in exact terms. However, it was held that modification could not
+include a change in policy, since the ‘essential legislative function’ consists of the determination of
+legislative policy and its formulation as a binding rule of conduct. In the context of Section
+17(2)(viii) and Rule 3(7)(i), we are of the opinion that main legislation does not fall foul of the
+essential feature test. They do not modify an essential feature nor do they violate the condition of
+determining legislative policy or a binding rule of conduct.
+
+26. Birla Cotton 7J (supra) also refers to Hari Shankar Bagla v. State of Madhya Pradesh22, where
+the majority held that the legislature must declare the policy of law and legal principles which are to
+control any given cases and thereby provide a standard of guidance to the executive, empowered to
+execute laws.
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+9
+
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+27. In Western India Theatres Limited v. Municipal Corporation of the City of Poona23, referred by
+Birla Cotton 7J (supra), the issue related to the power of the municipality to levy “any other tax to
+the nature and object of which the approval of the Governor-in-Council shall have been obtained
+prior to the selection contemplated”. The delegated legislation was upheld on the ground 21 (1955) 1
+SCR 290.
+
+22 (1955) 1 SCR 380.
+
+23 AIR 1959 SC 586.
+
+that municipality was authorised by the principal enactment to impose the tax.
+
+The enactment defined the obligations and functions cast upon the municipality. The taxes could
+only be levied for implementing those specific purposes and not for any other purpose. Further, the
+section in the enactment laid down the procedure that the municipality had to follow for imposing
+the tax. Thus, the legislature had not abdicated its function in favour of the municipality. Same is
+true in the present case.
+
+28. In Birla Cotton 7J (supra), the assessee had challenged a resolution passed by the municipal
+corporation to levy three taxes, including a levy of tax on consumption or sale of electricity. The
+challenge was that the levy of tax by the Corporation was by way of excessive delegation and was
+therefore ultra vires. This Court relied upon the judgment in Pandit Banarsi Das Bhanot v. State of
+Madhya Pradesh24, to uphold the levy. In Pandit Banarsi (supra), this Court had observed that a
+delegated legislation is not unconstitutional when the legislature leaves it to the executive to
+determine details relating to the working of taxation laws, such as selection of persons on whom the
+tax has to be levied, the rates at which it is to be charged in respect of different classes of goods and
+the like. The principal legislature, it was held, has not given unqualified power to fix the rate of tax
+without guidance, control or safeguard.
+
+29. Pandit Banarsi Das (supra) also refers to Powell v. Apollo Candle Company Ltd.25 which had
+upheld the power of delegation to levy duties by observing that there was complete guidance in the
+manner of fixing the rate of duty and 24 1959 SCR 427.
+
+25 8 AC 282.
+
+finally the order passed by the Governor had to be laid before both Houses of the Parliament
+without unnecessary delay.
+
+30. In Devidas Gopal Krishnan v. State of Punjab26, this Court distinguished its earlier decision in
+Corporation of Calcutta v. Liberty Cinema27 where the majority upheld the fixation of tax on cinema
+shows, albeit the Calcutta Municipal Act, 1951 had failed to prescribe a limit to which tax could go.
+The majority in Liberty Cinema (supra) had referred to Pandit Banarsi Das (supra) and held that
+there is no in-principle distinction between delegation of power to fix rates of taxes to be charged on
+different classes of goods and power to fix rates simpliciter; if power to fix rates in some cases can be
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+10
+
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+delegated then equally the power to fix rates generally can be delegated. The Court held that if the
+power to decide who is to pay the tax is not an essential part of legislation, neither would the power
+to decide the rate of tax be so. The Court thus held that fixation of tax rate was not unqualified as the
+legislature had stipulated the maximum rate. The guidance rule was held as satisfied.
+
+31. We are of the opinion that the enactment of subordinate legislation for levying tax on interest
+free/concessional loans as a fringe benefit is within the rule- making power under Section 17(2)(viii)
+of the Act. Section 17(2)(viii) itself, and the enactment of Rule 3(7)(i) is not a case of excessive
+delegation and falls within the parameters of permissible delegation. Section 17(2) clearly delineates
+the legislative policy and lays down standards for the rule-making authority. Accordingly, Rule
+3(7)(i) is intra vires Section 17(2)(viii) of the Act. 26 AIR (1967) SC 1895.
+
+27 (1965) 2 SCR 477.
+
+Section 17(2)(viii) does not lead to an excessive delegation of the ‘essential legislative function’.
+
+II. Is Rule 3(7)(i) arbitrary and violative of Article 14 of the Constitution insofar as it treats the PLR
+of SBI as the benchmark?
+
+32. Rule 3(7)(i) posits SBI’s rate of interest, that is the PLR, as the benchmark to determine the
+value of benefit to the assessee in comparison to the rate of interest charged by other individual
+banks. The fixation of SBI’s rate of interest as the benchmark is neither an arbitrary nor unequal
+exercise of power. The rule-making authority has not treated unequal as equals. The benefit enjoyed
+by bank employees from interest-free loans or loans at a concessional rate is a unique
+benefit/advantage enjoyed by them. It is in the nature of a ‘perquisite’, and hence is liable to
+taxation.
+
+33. Rule 3(7)(i), it can be hardly argued, is arbitrary or irrational for the reason it benchmarks
+computation of the perquisite with reference to the SBI’s PLR. SBI is the largest bank in the country
+and the interest rates fixed by them invariably impact and affect the interest rates being charged by
+other banks. By fixing a single clear benchmark for computation of the perquisite or fringe benefit,
+the rule prevents ascertainment of the interest rates being charged by different banks from the
+customers and, thus, checks unnecessary litigation. Rule 3(7)(i) ensures consistency in application,
+provides clarity for both the assessee and the revenue department, and provides certainty as to the
+amount to be taxed. When there is certainty and clarity, there is tax efficiency which is beneficial to
+both the tax payer and the tax authorities. These are all hallmarks of good tax legislation. Rule
+3(7)(i) is based on an uniform approach and yet premised on a fair determining principle which
+aligns with constitutional values.
+
+34. It is also apposite to note that when it comes to uniform approach the laws relating to fiscal or
+tax measures enjoy greater latitude than other statutes. 28 The Legislature should be allowed some
+flexibility in such matters and this Court would be more inclined to give judicial deference to
+legislative wisdom.29 Commercial and tax legislations tend to be highly sensitive and complex as
+they deal with multiple problems and are contingent. This Court would not like to interfere with the
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+11
+
+All India Bank Officers Confederation vs The Regional Manager Central Bank Of ... on 7 May, 2024
+
+legislation in question, which prevents possibilities of abuse and promotes certainty. It is not
+iniquitous, draconian or harsh on the taxpayers. A complex problem has been solved through a
+straitjacket formula, meriting judicial acceptance. To hold otherwise, would lead to multiple
+problems/issues and override the legislative wisdom. The universal test in the present case is
+pragmatic, fair and just. Therefore, Rule 3(7) is held to be intra vires Article 14 of the Constitution of
+India.
+
+35. We, accordingly, dismiss the appeals and uphold the impugned judgments of the High Courts of
+Madras and Madhya Pradesh. No order as to costs.
+
+......................................J. (SANJIV KHANNA) ......................................J. (DIPANKAR DATTA) NEW
+DELHI;
+
+MAY 07, 2024.
+
+28 Govt. of A.P. v. P. Laxmi Devi, (2008) 4 SCC 720.
+
+29 Swiss Ribbons (P) Ltd. v. Union of India, (2019) 4 SCC 17.
+
+Indian Kanoon - http://indiankanoon.org/doc/170460967/
+
+12
+
+

@@ -1,0 +1,23 @@
+{
+  "case_number": "Civil Appeal Nos. 2752-2753 of 2022",
+  "parties": {
+    "petitioner": "Asset Reconstruction Company (India) Limited",
+    "respondent": "S.P. Velayutham & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-04",
+  "summary": "The appeal challenged the Madras High Court's reversal of a Single Judge's order declaring the registration of a sale deed by S.P. Velayutham in favor of his son null and void. The key issues were whether the Asset Reconstruction Company could invoke writ jurisdiction under Article 226 to challenge the Registering Authority's action, despite pending civil suits and a prior direction to approach civil court. The Supreme Court examined compliance with registration provisions under the Registration Act, 1908, particularly Sections 32–35, and whether the Registrar failed to verify the executant's authority under the Power of Attorney. The respondents argued that title disputes must be resolved in civil suits, especially given fraud findings in a prior CBI case and an existing bar from this Court directing recourse to civil court under Section 145 Cr.P.C. proceedings. The Court emphasized that disputed title and fraud allegations render writ jurisdiction inappropriate.",
+  "legal_provisions_cited": [
+    "Section 19, Recovery of Debts Due to Banks and Financial Institutions Act, 1993",
+    "Section 13(2) and 13(4), Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002",
+    "Section 32 to 35, Registration Act, 1908",
+    "Section 33(1), Registration Act, 1908",
+    "Article 226, Constitution of India",
+    "Entry 6, List III, Seventh Schedule, Constitution of India",
+    "Section 120B read with Sections 420, 467, 471 IPC",
+    "Section 13(1)(c) and (d), Prevention of Corruption Act, 1988",
+    "Rajni Tandon vs. Dulal Ranjan Ghosh Dastidar & Anr",
+    "(2009) 14 SCC 782"
+  ],
+  "final_judgment": "The appeal was dismissed. The Supreme Court held that the writ jurisdiction under Article 226 was not maintainable as the appellant was challenging title and registration based on disputed questions of fact and fraud, which ought to be determined by a civil court. The prior direction in Section 145 Cr.P.C. proceedings to approach the civil court and the pendency of civil suits rendered the writ petition barred. The High Court's decision upholding maintainability of civil remedies over writ relief was upheld."
+}

@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal No. 1021 of 2022",
+  "parties": {
+    "petitioner": "Varsha Garg",
+    "respondent": "The State of Madhya Pradesh & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-08",
+  "summary": "The appellant, spouse of a murdered advocate, challenged the High Court's rejection of her Section 482 CrPC petition which sought to compel the trial court to summon the decoding register of cellular companies to trace the mobile location of the accused. The trial court had dismissed the prosecution's Section 311 CrPC application for the decoding register, holding it was not part of the investigation and was belatedly filed. The High Court upheld this, but separately directed production of certain CDRs. The appellant argued the decoding register was vital for linking accused to crime location, that Section 311 allows post-closure applications, and no prejudice was caused. Respondents argued evidence was closed, witnesses already examined, and further process would violate the right to speedy trial under Article 21. The Court addressed the legality of post-closure evidence under Section 311 and balanced interests of justice between prosecution and accused.",
+  "legal_provisions_cited": [
+    "Section 311 CrPC",
+    "Section 482 CrPC",
+    "Section 91 CrPC",
+    "Section 301 CrPC",
+    "Section 65B Indian Evidence Act",
+    "Article 21 of the Constitution of India",
+    "Swapan Kumar Chatterjee v. Central Bureau of Investigation"
+  ],
+  "final_judgment": "The appeal was allowed to the extent of permitting the prosecution to file a fresh application under Section 311 CrPC for summoning the decoding register, subject to the trial court recording special reasons for its admissibility at this stage, balancing the interests of justice and the right to a fair and speedy trial."
+}

@@ -1,0 +1,600 @@
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+Author: Abhay S. Oka
+
+Bench: Abhay S Oka
+
+2025 INSC 197                                                                  REPORTABLE
+
+                                            IN THE SUPREME COURT OF INDIA
+                                             CIVIL APPELLATE JURISDICTION
+
+                                              CIVIL APPEAL NO. 2536 OF 2019
+            Sukhdev Singh                                                       … Appellant
+
+                                                         versus
+
+            Sukhbir Kaur                                                    … Respondent
+
+                                                          with
+
+                                               CIVIL APPEAL NO. 5726 Of 2019
+
+                                                     JUDGMENT
+
+ABHAY S. OKA, J.
+
+ISSUE REFERRED
+
+1. The reference to a Bench of the three Hon’ble Judges has been made by the order dated 22nd
+August 2024 of this Court, which reads thus:
+
+“Learned counsel appearing for the parties state at the Bar that these matters need to
+be considered by a Three Judge Bench combination as there are conflicting views on
+the applicability of Sections 24 and 25 of the Hindu Marriage Act, 1955, whether
+alimony can be granted where marriage has been declared void.
+
+Following are the judgments in favour of granting alimony :-
+
+Sl.        CITATION         TITLED
+                                          No.
+
+                                          1.       (1993) 3 SCC   Chand   Dhawan
+   ASHISH KONDLE
+   Date: 2025.02.12
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+1
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+   16:28:58 IST
+                                                   406            Vs.Jawaharlal
+                                                                  Dhawan
+   Reason:
+
+(cid:12)                           2.       (2005) 2 SCC 33    Rameshchandra
+                                                       Rampratapji Daga
+                                                       Vs. Rameshwari
+                                                       Rameshchandra
+                                                       Daga
+
+Following are the judgments against granting alimony :-
+
+AIR 1999 AP 19     Abbayolla Reddy
+
+Sl.         CITATION             TITLED
+                           No.
+                           1.       (1988) 1 SCC 530   Yamunabai
+                                                       Anantrao Adhav
+                                                       Vs.       Anantrao
+                                                       Shivram Adhav &
+                                                       Another
+                           2.
+                                                       Vs. Padmamma
+                           3.
+                                                       Dilraj Singh
+                           4.       (2004) AIR Bom.    Bhausaheb        @
+                                    283(FB)            Sandhu        S/o
+                                                       Raguji Magar Vs.
+                                                       Leelabai      W/o
+                                                       Bhausaheb Magar
+                           5.       (2005) 3 SCC 636   Savitaben
+                                                       Somabhai
+                                                       Bhatiya Vs. State
+                                                       of    Gujarat    &
+                                                       Others
+
+(2003) 1 HLR 100   Navdeep Kaur Vs.
+
+Accordingly, let the papers be placed before Hon’ble the Chief Justice of India for
+passing appropriate orders.” RELEVANT PROVISIONS OF LAW
+
+2. Before we refer to the submissions made across the Bar, it will be necessary to briefly refer to the
+provisions of the Hindu Marriage Act, 1955 (for short, ‘the 1955 Act’). Section 5 deals with the
+conditions for a Hindu marriage, which reads thus:
+
+“5. Conditions for a Hindu marriage.—A marriage may be solemnized between any
+two Hindus, if the following conditions are fulfilled, namely:—
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+2
+
+(i) neither party has a spouse living at the time of the marriage;
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+(ii) at the time of the marriage, neither party—
+
+(a) is incapable of giving a valid consent to it in consequence of unsoundness of
+mind; or
+
+(b) though capable of giving a valid consent, has been suffering from mental disorder
+of such a kind or to such an extent as to be unfit for marriage and the procreation of
+children; or
+
+(c) has been subject to recurrent attacks of insanity;
+
+(iii) the bridegroom has completed the age of twenty-one years and the bride, the age
+of eighteen years at the time of the marriage;
+
+(iv) the parties are not within the degrees of prohibited relationship unless the
+custom or usage governing each of them permits of a marriage between the two;
+
+(v) the parties are not sapindas of each other, unless the custom or usage governing
+each of them permits of a marriage between the two;” (emphasis added)
+
+3. The 1955 Act deals with void marriages and voidable marriages. Section 11, which deals with void
+marriages, reads thus:
+
+“11. Void marriages.— Any marriage solemnised after the commencement of this Act
+shall be null and void and may, on a petition presented by either party thereto against
+the other party, be so declared by a decree of nullity if it contravenes any one of the
+conditions specified in clauses (i), (iv) and (v) of section 5.”
+
+4. The 1955 Act contemplates the filing of the following categories of petitions for grant of different
+reliefs:
+
+a. A petition seeking relief of restitution of conjugal rights in accordance with Section
+9;
+
+b. A petition seeking relief of judicial separation in accordance with Section 10;
+
+c. A petition seeking a declaration that a marriage is void in accordance with Section
+11;
+
+d. A petition for annulment of a marriage on the ground that it is voidable in
+accordance with Section 12;
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+3
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+e. A petition seeking a divorce in accordance with Section 13; and f. A petition seeking
+divorce by mutual consent in accordance with Section 13B.
+
+5. We are called upon to interpret Sections 24 and 25 of the 1955 Act, which read thus:
+
+“24. Maintenance pendente lite and expenses of proceedings.—Where in any
+proceedings under this Act it appears to the court that either the wife or the husband,
+as the case may be, has no independent income sufficient for her or his support and
+the necessary expenses of the proceeding, it may, on the application of the wife or the
+husband, order the respondent to pay to the petitioner the expenses of the
+proceeding, and monthly during the proceeding such sum as, having regard to the
+petitioner's own income and the income of the respondent, it may seem to the court
+to be reasonable:
+
+Provided that the application for the payment of the expenses of the proceeding and
+such monthly sum during the proceeding shall, as far as possible, be disposed of
+within sixty days from the date of service of notice on the wife or the husband, as the
+case may be.”
+
+25. Permanent alimony and maintenance.—(1) Any court exercising jurisdiction
+under this Act may, at the time of passing any decree or at any time subsequent
+thereto, on application made to it for the purpose by either the wife or the husband,
+as the case may be, order that the respondent shall pay to the applicant for her or his
+maintenance and support such gross sum or such monthly or periodical sum for a
+term not exceeding the life of the applicant as, having regard to the respondent's own
+income and other property, if any, the income and other property of the applicant,
+the conduct of the parties and other circumstances of the case, it may seem to the
+court to be just, and any such payment may be secured, if necessary, by a charge on
+the immovable property of the respondent.
+
+(2) If the court is satisfied that there is, a change in the circumstances of either party at any time
+after it has made an order under sub-section (1), it may at the instance of either party, vary, modify
+or rescind any such order in such manner as the court may deem just.
+
+(3) If the court is satisfied that the party in whose favour an order has been made under this section
+has remarried or, if such party is the wife, that she has not remained chaste, or, if such party is the
+husband, that he has had sexual intercourse with any woman outside wedlock, it may at the instance
+of the other party vary, modify or rescind any such order in such manner as the court may deem
+just.” (emphasis added)
+
+6. The following questions arise for our consideration:
+
+(i)Whether a spouse of a marriage declared as void by a competent Court under
+Section 11 of the 1955 Act is entitled to claim permanent alimony and maintenance
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+4
+
+under Section 25 of the 1955 Act?
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+(ii)Whether in a petition filed seeking a declaration under Section 11 of the 1955 Act, a spouse is
+entitled to seek maintenance pendente lite under Section 24 of the 1955 Act?
+
+SUBMISSIONS
+
+7. The learned counsel appearing for the appellant-husband relied upon five decisions mentioned in
+the order dated 22nd August 2024. We have already reproduced the said order in this judgment.
+The learned counsel has taken us through the relevant paragraphs of the five decisions. He urged the
+Court to reconsider the two decisions mentioned in the order dated 22nd August 2024, which
+support the proposition that a spouse of a declared void marriage is entitled to seek maintenance
+under Section 25 of the 1955 Act.
+
+8. The learned counsel pointed out that there can be void marriages between father and daughter,
+brother and sister and grandfather and granddaughter. He questioned whether, in the case of such
+marriages, after the same are declared void, the Court can exercise the power under Section 25 of
+the 1955 Act to grant maintenance. He submitted that there would be cases where parties to void
+marriages are conscious of the fact that their marriage would be bigamous. There would be cases
+where the wife may be responsible for concealing her first marriage which is in subsistence, and
+induce the husband to marry. There may be cases where both parties may be unaware that they are
+solemnising a void marriage. He submitted that it is absurd to include a decree declaring a marriage
+as void in the expression “any decree” used in Section 25 of the 1955 Act. He submitted that to that
+extent, the view taken by this Court in the case of Chand Dhawan v. Jawaharlal Dhawan1 and
+Rameshchandra Rampratapji Daga v. Rameshwari Rameshchandra Daga2 is incorrect.
+
+9. He submitted that a marriage declared void under Section 11 is void ab initio, which does not
+exist. Therefore, a wife whose marriage is declared void cannot claim to be a spouse within the
+meaning of Section 25 of the 1955 Act. He relied upon a decision of the Full Bench of the Bombay
+High Court in the case of Bhausaheb @ Sandhu s/o Raghuji Magar v. Leelabai w/o Bhausaheb
+Magar3. He relied upon the observations made therein that an illegitimate wife cannot be equated to
+a divorced wife. He would, therefore, submit that Section 25 of the 1955 Act cannot apply to a spouse
+whose marriage is declared void.
+
+10. The learned senior counsel appearing for the respondent-wife has made detailed submissions.
+She supported the decisions in the cases of Chand Dhawan1 and Rameshchandra Rampratapji
+Daga2 and submitted that the view taken therein is correct. She relied upon Article 15(3) of the
+Constitution of India and submitted that Section 25 is a special provision enacted for women. The
+learned senior counsel also tried to argue on facts of the case. However, we are not concerned with
+the facts of the case.
+
+OUR VIEW ON THE QUESTION (i)
+
+11. If Section 5 is read in conjunction with Section 11, the following categories of marriages are void:
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+5
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+(1993) 3 SCC 406 (2005) 2 SCC 33 AIR 2004 Bom 283 a. If one or both the parties to
+the marriage have a spouse living at the time of marriage;
+
+b. The parties to the marriage are within the degrees of prohibited relationship unless the custom or
+usage governing each of them permits of a marriage between the two and c. The parties are sapindas
+of each other, unless the custom or usage governing each of them permits of a marriage between the
+two.
+
+12. A marriage is void when either of the parties to the marriage has a spouse living, and the
+marriage with the spouse is subsisting. If any of the spouses of the marriage had an earlier marriage
+dissolved by a decree of divorce before their marriage, clause (a) above will not apply. As far as
+clause (b) regarding prohibited relationships is concerned, the degrees of prohibited relationships
+have been specified in clause (g) of Section 3. Regarding the third category of sapinda relationship,
+clause
+
+(f) of Section 3 defines what is a sapinda relationship.
+
+13. Section 11 provides for the grant of a declaration of a marriage as null and void. The marriages
+covered by the categories (a), (b) or (c) mentioned above become void at the inception. Therefore,
+such marriages are void ab initio. Such marriage does not exist at all in the eyes of the law.
+
+14. Now, we come to Section 25 of the 1955 Act. We have already reproduced Section 25. It confers a
+power on the matrimonial court to grant permanent alimony “at the time of passing any decree or at
+any time subsequent thereto”. The issue is about the meaning of the decree contemplated by Section
+25. A cause of action arises for the spouses to apply for permanent alimony and maintenance when
+any decree is passed by any court exercising its jurisdiction under the 1955 Act.
+
+15. Section 23 has the title “decree in proceedings”. Section 23 of the 1955 Act reads thus:
+
+“23. Decree in proceedings.— (1) In any proceeding under this Act, whether defended
+or not, if the court is satisfied that
+
+(a) any of the grounds for granting relief exists and the petitioner except in cases
+where the relief is sought by him on the ground specified in sub-clause (a), sub-clause
+(b) or sub-clause
+
+(c) of clause (ii) of section 5 is not in any way taking advantage of his or her own
+wrong or disability for the purpose of such relief, and
+
+(b) where the ground of the petition is the ground specified in clause (i) of
+sub-section (1) of section 13, the petitioner has not in any manner been accessory to
+or connived at or condoned the act or acts complained of, or where the ground of the
+petition is cruelty the petitioner has not in any manner condoned the cruelty, and
+(bb) when a divorce is sought on the ground of mutual consent, such consent has not
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+6
+
+been obtained by force, fraud or undue influence, and
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+(c) the petition (not being a petition presented under section 11) is not presented or
+prosecuted in collusion with the respondent, and
+
+(d) there has not been any unnecessary or improper delay in instituting the
+proceeding, and
+
+(e) there is no other legal ground why relief should not be granted, then, and in such
+a case, but not otherwise, the court shall decree such relief accordingly.
+
+(2) Before proceeding to grant any relief under this Act, it shall be the duty of the
+court in the first instance, in every case where it is possible so to do consistently with
+the nature and circumstances of the case, to make every endeavour to bring about
+reconciliation between the parties:
+
+Provided that nothing contained in this sub- section shall apply to any proceeding
+wherein relief is sought on any of the grounds specified in clause (ii), clause (iii),
+clause (iv), clause (v), clause (vi) or clause (vii) of sub-section (1) of section 13.
+
+(3) For the purpose of aiding the court in bringing about such reconciliation, the
+court may, if the parties so desire or if the court thinks it just and proper so to do,
+adjourn the proceedings for a reasonable period not exceeding fifteen days and refer
+the matter to any person named by the parties in this behalf or to any person
+nominated by the court if the parties fail to name any person, with directions to
+report to the court as to whether reconciliation can be and has been, effected and the
+court shall in disposing of the proceeding have due regard to the report.
+
+(4) In every case where a marriage is dissolved by a decree of divorce, the court
+passing the decree shall give a copy thereof free of cost to each of the parties.”
+(emphasis added) Clause (a) of Section 23(1) applies to a case where a decree of
+annulment is sought under Section 12. Only clause (d) of Section 23(1) is applicable
+when a decree of nullity is sought. The decree of nullity cannot be passed if there has
+been unnecessary and improper delay in instituting the petition seeking a declaration
+of nullity.
+
+16. The following are the decrees which may be passed under the 1955 Act:
+
+a. A decree under Section 9 of restitution of conjugal rights;
+
+b. A decree under Section 10 of judicial separation;
+
+c. A decree under Section 11 declaring a marriage as void;
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+7
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+d. A decree under Section 12 of annulment of a marriage on the ground that it is
+voidable; and e. A decree of divorce under Sections 13 and 13B.
+
+17. An order of dismissal of a suit will be a decree, provided the conditions in Section 2(2) of the
+Code of Civil Procedure, 1908 are satisfied. However, a decree in proceedings contemplated by
+Section 23 of the 1955 Act is a narrower concept. It can only be a decree granting one of the reliefs
+under Sections 9 to 13 of the 1955 Act. The decree referred to in Section 25 of the 1955 Act is the
+decree as contemplated by Section 23, which has the title ‘decree in proceedings’. On plain reading
+thereof, the decree contemplated by Section 23 is a decree granting relief under the 1955 Act.
+Section 23 deals with only the decrees granting reliefs under Sections 9 to 13 of the 1955 Act.
+Considering the language employed in Section 23, the ‘decrees in proceedings’ will not include the
+decisions dismissing the petitions seeking reliefs under Sections 9 to 13. The decrees passed under
+Sections 11 to 13 bring about a change of status of the parties to the marriage. Even a decree of
+restitution of conjugal rights brings about a change of status of the parties in case there is no
+restitution of conjugal rights within one year of a decree. That is a ground for passing a decree of
+divorce under Section 13(1A)(ii). Even a decree of judicial separation under Section 10 brings about
+a change of status in the sense that a spouse who has got such a decree is no longer under an
+obligation to cohabit with his or her spouse. If the separation from the date of the decree continues
+for a period of one year, it becomes a ground for passing a decree of divorce by invoking Section
+13(1A)(i).
+
+18. While enacting Section 25(1), the legislature has made no distinction between a decree of divorce
+and a decree declaring marriage as a nullity. Therefore, on a plain reading of Section 25(1), it will
+not be possible to exclude a decree of nullity under Section 11 from the purview of Section 25(1) of
+the 1955 Act.
+
+19. In the case of Chand Dhawan1, the issue arose regarding the meaning of ‘decree’ referred to
+under Section 25 of the 1955 Act. In paragraph 25 of the said decision, this Court observed thus:
+
+“25. We have thus, in this light, no hesitation in coming to the view that when by
+court intervention under the Hindu Marriage Act, affectation or disruption to the
+marital status has come by, at that juncture, while passing the decree, it undoubtedly
+has the power to grant permanent alimony or maintenance, if that power is invoked
+at that time. It also retains the power subsequently to be invoked on application by a
+party entitled to relief. And such order, in all events, remains within the jurisdiction
+of that court, to be altered or modified as future situations may warrant. In contrast,
+without affectation or disruption of the marital status, a Hindu wife sustaining that
+status can live in separation from her husband, and whether she is living in that state
+or not, her claim to maintenance stands preserved in codification under Section 18(1)
+of the Hindu Adoptions and Maintenance Act. The court is not at liberty to grant
+relief of maintenance simpliciter obtainable under one Act in proceedings under the
+other. As is evident, both the statutes are codified as such and are clear on their
+subjects and by liberality of interpretation inter- changeability cannot be permitted
+so as to destroy the distinction on the subject of maintenance.” (emphasis added) In
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+8
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+the case of Rameshchandra Rampratapji Daga2, the same view was taken relying
+upon the decision in the case of Chand Dhawan1. In paragraphs 18 to 20, this Court
+held thus:
+
+“18. In the present case, on the husband's petition, a decree declaring the second
+marriage as null and void has been granted. The learned counsel has argued that
+where the marriage is found to be null and void — meaning non-existent in the eye of
+the law or non est, the present respondent cannot lay a claim as wife for grant of
+permanent alimony or maintenance. We have critically examined the provisions of
+Section 25 in the light of conflicting decisions of the High Court cited before us. In
+our considered opinion, as has been held by this Court in Chand Dhawan case [(1993)
+3 SCC 406 : 1993 SCC (Cri) 915] , the expression used in the opening part of Section
+25 enabling the “court exercising jurisdiction under the Act” “at the time of passing
+any decree or at any time subsequent thereto” to grant alimony or maintenance
+cannot be restricted only to, as contended, decree of judicial separation under Section
+10 or divorce under Section
+
+13. When the legislature has used such wide expression as “at the time of passing of
+any decree”, it encompasses within the expression all kinds of decrees such as
+restitution of conjugal rights under Section 9, judicial separation under Section 10,
+declaring marriage as null and void under Section 11, annulment of marriage as
+voidable under Section 12 and divorce under Section 13.
+
+19. Learned counsel for the husband has argued that extending the benefit of Section
+25 to even marriages which have been found null and void under Section 11 would be
+against the very object and purpose of the Act to ban and discourage bigamous
+marriages.
+
+20. It is a well-known and recognised legal position that customary Hindu law like
+Mohammedan law permitted bigamous marriages which were prevalent in all Hindu
+families and more so in royal Hindu families. It is only after the Hindu law was
+codified by enactments including the present Act that bar against bigamous
+marriages was created by Section 5(i) of the Act. Keeping in consideration the present
+state of the statutory Hindu law, a bigamous marriage may be declared illegal being
+in contravention of the provisions of the Act but it cannot be said to be immoral so as
+to deny even the right of alimony or maintenance to a spouse financially weak and
+economically dependent. It is with the purpose of not rendering a financially
+dependent spouse destitute that Section 25 enables the court to award maintenance
+at the time of passing any type of decree resulting in breach in a marriage
+relationship.” (emphasis added) When a decree is sought under Sections 9 to 13 and
+is declined by the court, the remedy under Section 18 of the Hindu Adoption and
+Maintenance Act, 1956, remains available to the wife. Even the remedy under Section
+125 of the Code of Criminal Procedure, 1973 (for short, ‘the CrPC’) or Section 144 of
+the Bhartiya Nagrik Suraksha Sanhita, 2023 (for short, ‘the BNSS’) continues to be
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+9
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+available. The view taken in both cases on the interpretation of the words ‘any
+decree” used in Section 25 is consistent with what we have held above.
+
+20. But in the case of Rameshchandra Rampratapji Daga , this Court observed that as a bigamous
+marriage cannot be said to be immoral, the right to claim maintenance under Section 25 is not taken
+away. The real question involved was whether a decree of nullity was a decree within the meaning of
+section 25. If a decree of nullity is covered by Section 25, the issue of whether a bigamous marriage
+is immoral is irrelevant. The entitlement under Section 25 does not depend on whether the
+bigamous marriage is moral or immoral.
+
+21. Now, we come to the decision relied upon by the appellant- husband. In the first decision in the
+case of Yamunabai Anantrao Adhav v. Anantrao Shivram Adhav & Anr. 4, this Court was dealing
+with an application under Section 125 of the CrPC. This Court held that when a marriage is nullity
+by Section 25 of the 1955 Act, the spouse of such marriage is not entitled to get the benefit of Section
+125 of the CrPC. Section 125 of the CrPC operates altogether in a different field. It is a quick and
+efficacious remedy made available to a wife or a child to seek maintenance. The proceedings under
+Section 125 of the CrPC are of a summary nature. While deciding the applications under Section 125
+of the CrPC, a summary procedure is required to be followed, and a detailed adjudication of the
+rights of the parties cannot be made. The same is the legal position as regards the corresponding
+remedy under Section 144 of the BNSS. Hence, the decision in the case of Yamunabai6 will have no
+application to Section 25.
+
+22. The remedy under Section 25 of the 1955 Act is completely different from the remedy under
+Section 125 of the CrPC. It confers rights on the spouses of the marriage declared as void under
+Section 11 of the 1955 Act to claim maintenance from the other spouse. The remedy is available to
+both husband and wife. The principles which (1988) 1 SCC 530 apply to Section 125 of the CrPC
+cannot be applied to Section 25 of the 1955 Act. The relief under Section 125 of the CrPC can be
+granted to wife or child and not to husband.
+
+23. Now, we come to the decision in the case of Abbayolla Reddy v. Padmamma5. The Andhra
+Pradesh High Court’s view is based on the right of a spouse to claim maintenance under Section 18
+of the Hindu Adoptions and Maintenance Act, 1956. This is a specific provision for the grant of
+maintenance to the wife. The right under Section 25 of the 1955 Act is different. The right is created
+in favour of both spouses once there is a decree passed under Sections 9 to 13 of the 1955 Act. The
+third decision is in the case of Navdeep Kaur v. Dilraj Singh6. In paragraph 10 of the said decision,
+the Himachal Pradesh High Court gave a very narrow meaning to the ‘decree in proceedings’ under
+the 1955 Act by holding that the expression “husband and wife” used in Section 23 must mean
+legally wedded husband and wife. This view is entirely contrary to the view taken in the case of
+Chand Dhawan1.
+
+24. The Bombay High Court, in the case of Leelabai3, dealt with the reference made to the Full
+Bench of the three Hon’ble Judges. The issue referred to Full Bench was the same one we are dealing
+with. The Full Bench of the Bombay High Court relied upon the decision in the case of Yamunabai6.
+In paragraph 18 of the judgment, the Full Bench has coined the term “illegitimate wife”. Calling the
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+10
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+wife of a marriage declared as void as an illegitimate wife is very inappropriate. It affects the dignity
+of the concerned woman. Unfortunately, the Bombay High Court went to the extent of using the
+words “illegitimate wife”. Shockingly, in paragraph 24, the High Court described such a wife as a
+“faithful mistress”. It is pertinent to note that the High Court has not AIR 1999 AP 19 (2003) 1 HLR
+100 : 2002 SCC OnLine P&H 498 used similar adjectives in the case of husbands of void marriages.
+Under Section 21 of the Constitution of India, every person has a fundamental right to lead a
+dignified life. Calling a woman an “illegitimate wife” or “faithful mistress” will amount to a violation
+of the fundamental rights of that woman under Article 21 of the Constitution of India. Describing a
+woman by using these words is against the ethos and ideals of our Constitution. No one can use such
+adjectives while referring to a woman who is a party to a void marriage. Unfortunately, we find that
+such objectionable language is used in a judgment of the Full Bench of a High Court. The use of such
+words is misogynistic. The law laid by the Full Bench of the Bombay High Court is obviously not
+correct.
+
+25. Then comes the decision in the case of Savitaben Somabhai Bhatiya v. State of Gujarat & Ors7.
+We must note here that in this decision, this Court was dealing with the proceedings under Section
+125 of the CrPC which is of a summary nature. This Court dealt with the eligibility of a spouse to
+claim maintenance under Section 125 of the CrPC. Therefore, none of these decisions support the
+stand taken by the appellant-husband.
+
+26. An apprehension is the expression by the learned counsel for the appellant that if it is held that
+Section 25 of the 1955 Act also applies to void marriages, it will lead to a ridiculous result. He gave
+an example of a wife whose first marriage is subsisting, inducing another man to marry her. He also
+gave an example of a daughter getting married to her father. We must note that Sub-Section 1 of
+Section 25 uses the word “may". A grant of a decree under Section 25 of the 1955 Act is
+discretionary. If the conduct of the spouse who applies for maintenance is such that the said spouse
+is not entitled to discretionary relief, the Court can always turn down the prayer for the grant of
+permanent (2005) 3 SCC 636 alimony under Section 25 of the 1955 Act. Equitable considerations do
+apply when the Court considers the prayer for maintenance under Section 25. The reason is that
+Section 25 lays down that while considering the prayer for granting relief under Section 25, the
+conduct of the parties must be considered.
+
+OUR VIEW ON THE QUESTION (ii)
+
+27. Section 24 confers a power on a matrimonial Court to grant interim maintenance in pending
+proceedings seeking a decree contemplated under the 1955 Act. The power is to be exercised
+pending the proceedings for a grant of a decree under Sections 9 to 13 of the 1955 Act. The
+conditions for applicability of Section 24 are:
+
+(i) There must be a proceeding under the 1955 Act pending and
+
+(ii) the court must come to a conclusion that either the wife or the husband, as the
+case may be, has no independent income sufficient for her or his support and the
+necessary expenses of the proceeding.
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+11
+
+Sukhdev Singh vs Sukhbir Kaur on 12 February, 2025
+
+26. Even if, prima facie, the matrimonial court finds the marriage between the parties is void or
+voidable, the court is not precluded from granting maintenance pendente lite provided the
+conditions mentioned above are satisfied. The grant of relief under Section 24 is discretionary as the
+Section uses the word ‘may’. While deciding the prayer for interim relief under Section 24, the Court
+will always consider the conduct of the party seeking the relief. It provides for issuing a direction to
+pay a reasonable amount.
+
+28. Accordingly, we answer the questions as follows:
+
+a. A spouse whose marriage has been declared void under Section 11 of the 1955 Act is
+entitled to seek permanent alimony or maintenance from the other spouse by
+invoking Section 25 of the 1955 Act. Whether such a relief of permanent alimony can
+be granted or not always depends on the facts of each case and the conduct of the
+parties. The grant of relief under Section 25 is always discretionary; and b. Even if a
+court comes to a prima facie conclusion that the marriage between the parties is void
+or voidable, pending the final disposal of the proceeding under the 1955 Act, the
+court is not precluded from granting maintenance pendente lite provided the
+conditions mentioned in Section 24 are satisfied. While deciding the prayer for
+interim relief under Section 24, the Court will always take into consideration the
+conduct of the party seeking the relief, as the grant of relief under Section 24 is
+always discretionary.
+
+We direct the Registry to place these appeals before the appropriate Bench for the
+decision on merits.
+
+..………......………………….J. (Abhay S Oka) .……….....…………………...J. (Ahsanuddin
+Amanullah) .………….…………………...J. (Augustine George Masih) New Delhi;
+
+February 12, 2025.
+
+Indian Kanoon - http://indiankanoon.org/doc/138104701/
+
+12
+
+

@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal Nos. 2049-2050 of 2022",
+  "parties": {
+    "petitioner": "The State of Uttar Pradesh and Ors.",
+    "respondent": "Rajit Singh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-22",
+  "summary": "The case involves a challenge to the High Court's dismissal of a writ petition against a Tribunal order that quashed disciplinary action taken against respondent Rajit Singh, a Junior Engineer, for financial irregularities causing a government loss of Rs. 22,48,964.42. The Tribunal and High Court relied on the Doctrine of Equality—citing exoneration of other officers—and breach of natural justice due to non-supply of charge sheet documents. The Supreme Court held that the Doctrine of Equality cannot override individual misconduct proven through enquiry, rejecting 'negative equality'. It further ruled that a violation of natural justice requires remand for fresh enquiry from the point of infirmity, not outright reinstatement, citing settled precedent.",
+  "legal_provisions_cited": [
+    "Chairman, Life Insurance Corporation of India and Ors. Vs. A. Masilamani, (2013) 6 SCC 530",
+    "ECIL v. B. Karunakar, (1993) 4 SCC 727",
+    "Hiran Mayee Bhattacharyya v. S.M. School for Girls, (2002) 10 SCC 293",
+    "U.P. State Spg. Co. Ltd. v. R.S. Pandey, (2005) 8 SCC 264",
+    "Union of India v. Y.S. Sadhu, (2008) 12 SCC 30"
+  ],
+  "final_judgment": "The appeals are allowed. The impugned judgments of the High Court and the Tribunal are set aside. The matter is remanded to the Disciplinary Authority to proceed with the departmental enquiry from the stage of violation of natural justice, i.e., after furnishing the documents mentioned in the charge sheet to the respondent and allowing him a proper opportunity to defend himself."
+}

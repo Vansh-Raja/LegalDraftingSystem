@@ -1,0 +1,17 @@
+{
+  "case_number": "CIVIL APPEAL NOS. ________________ OF 2022 (Arising out of SLP (C) Nos. 4609-4610 OF 2021)",
+  "parties": {
+    "petitioner": "M.P. POWER MANAGEMENT COMPANY LIMITED, JABALPUR",
+    "respondent": "M/S. SKY POWER SOUTHEAST SOLAR INDIA PRIVATE LIMITED & OTHERS"
+  },
+  "court_name": "SUPREME COURT OF INDIA",
+  "date_of_judgment": "2022-11-16",
+  "summary": "The appellant challenged the High Court's judgment quashing the termination of a Power Purchase Agreement (PPA) with the first respondent due to delay in fulfilling conditions subsequent, including land acquisition and regulatory clearances. The High Court had set aside the initial termination order dated 11.08.2017, citing precedent in Renew Clean Energy Private Limited v. MP Power Management Co. Ltd., and directed a fresh decision. A second termination order dated 07.07.2018 was also quashed. The review was dismissed. The Supreme Court considered whether delays in fulfilling conditions subsequent warranted termination under Article 2.5.1(d) of the PPA and examined reliance on CEIG approval obtained after the deadline. The Court noted binding precedent preventing supplementation of reasons for termination and upheld the impugned orders invalidating the termination.",
+  "legal_provisions_cited": [
+    "Article 2.1, 2.5.1(d) of the PPA",
+    "Regulation 32, Central Electricity Authority (Measures relating to safety and electricity supply) Regulations, 2010",
+    "Section 162 of the Electricity Act",
+    "Mohinder Singh Gill v. Chief Election Commissioner, (1978) 1 SCC 405"
+  ],
+  "final_judgment": "The appeals were dismissed, upholding the High Court's judgment quashing the termination of the PPA and dismissal of the review petition."
+}

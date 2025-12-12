@@ -1,0 +1,19 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 190 OF 2012",
+  "parties": {
+    "petitioner": "State of Madhya Pradesh",
+    "respondent": "Jogendra & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-11",
+  "summary": "The case involved an appeal by the State of Madhya Pradesh against the High Court's decision to acquit Jogendra and Badri Prasad of charges under Sections 304-B and 306 IPC, while upholding Jogendra's conviction under Section 498-A IPC with sentence reduced to period already undergone. The death of Geeta Bai, who died by burns during pregnancy, was alleged to be linked to dowry-related harassment. The prosecution claimed that monetary demands for house construction and land purchase constituted dowry demands. The High Court held that such demands did not amount to dowry under Section 304-B and found insufficient evidence for abetment to suicide. The Supreme Court examined witness testimony, particularly of P.W.-1 (maternal uncle), and considered whether financial demands for household purposes qualify as dowry. The central issue was interpretation of 'dowry' under Section 304-B and evidence of cruelty and abetment.",
+  "legal_provisions_cited": [
+    "Section 304-B IPC",
+    "Section 306 IPC",
+    "Section 498-A IPC",
+    "K. Prema S. Rao and Another v. Yadla Srinivasa Rao and Others (2003) 1 SCC 217",
+    "Saro Rana and Others v. State of Jharkhand 2005 Crl.L.J. 65",
+    "Appasaheb and Another v. State of Maharashtra (2007) 9 SCC 721"
+  ],
+  "final_judgment": "Pending determination of whether demand for money for construction of a house amounts to 'dowry' under Section 304-B IPC; matter likely remanded or reconsidered in light of precedents and factual analysis."
+}

@@ -1,0 +1,15 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 1741 OF 2010",
+  "parties": {
+    "petitioner": "Udayakumar",
+    "respondent": "The State Of Tamil Nadu"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-16",
+  "summary": "Conviction based solely on single eyewitness testimony; identification parade invalidated due to prior exposure of accused to witness; no corroborating evidence linking appellant to murder; conspiracy theory rejected by High Court; prosecution fails to meet beyond reasonable doubt standard; circumstantial evidence chain incomplete; reliance on Anil Phukan (1993) on single witness reliability; Suresh case (2000) on identification parade purpose; Gireesan Nair (2023) on pre-parade exposure rendering identification inconsequential; appeal allowed despite concurrent trial and high court findings; miscarriage of justice avoided by granting benefit of doubt.",
+  "legal_provisions_cited": [
+    "Indian Penal Code s.302",
+    "Indian Penal Code s.120-B"
+  ],
+  "final_judgment": "Appeal allowed; conviction and life sentence for Section 302 IPC set aside; appellant acquitted."
+}

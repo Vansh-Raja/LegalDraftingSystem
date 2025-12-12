@@ -1,0 +1,582 @@
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July,
+2024
+
+Author: Pamidighantam Sri Narasimha
+
+Bench: Aravind Kumar, Pamidighantam Sri Narasimha
+
+                                                                                                              REPORTABLE
+2024 INSC 547
+
+                                        IN THE SUPREME COURT OF INDIA
+                                         CIVIL APPELLATE JURISDICTION
+
+                                         CIVIL APPEAL NO. 1024 OF 2014
+
+            M/S NAVAYUGA ENGINEERING CO. LTD.                                                         ...APPELLANT(S)
+
+                                                                   VERSUS
+
+            UNION OF INDIA & ANR.                                                                  …RESPONDENT(S)
+
+                                                          Table of Contents
+            1. Introduction: ........................................................................................................ 2
+            2. Facts: ................................................................................................................... 3
+            3. Sections 11 and 12 of the Act:............................................................................ 6
+            4. Section 28 of the Act: .......................................................................................... 7
+            5. Confiscation of goods under Chapter XIV of the Act: ...................................... 8
+            6. Section 125 of the Act: ........................................................................................ 9
+            7. Issues: ............................................................................................................... 11
+            8. Re: Whether there is a liability to pay customs duty, when the confiscated
+               goods are redeemed after payment of fine under section 125 of the Act? ..... 11
+            9. Re: What is the true and correct ratio of the decision in Jagdish Cancer
+               case?.................................................................................................................. 18
+            10. Re: Whether the liability to pay such duty will include the liability to pay
+                interest on delayed payment under section 28AB of the Act? ........................ 21
+            11.Conclusion:. ........................................................................................................ 22
+
+   Signature Not Verified
+
+   Digitally signed by
+   Indu Marwah
+   Date: 2024.07.23
+   17:54:17 IST
+   Reason:
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+1
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+                                                                                                                                         1
+(cid:12)                                    JUDGMENT
+
+PAMIDIGHANTAM SRI NARASIMHA, J.
+
+1. Introduction: “The following two questions arose for our consideration; i) Whether there is a
+liability to pay customs duty when the confiscated goods are redeemed after payment of fine under
+Section 125 of the Customs Act, 19621? ii) Whether, the liability to pay such duty will include the
+liability to pay interest on delayed payment under Section 28AB of the Act? Adjudication of these
+questions brought to light certain seemingly contradictory decisions on this question, and this
+requires us to reflect on the correct ratio of the decision of this Court in Commr. of Customs
+(Import) v. Jagdish Cancer and Research Centre2. Therefore, the third question that fell for our
+consideration is; iii) What is the true and correct ratio of the decision in Jagdish Cancer case?” 1.1.
+For the reasons to follow, we have held that the owner of goods has a liability to pay customs duty,
+even after confiscated goods are redeemed after payment of fine under Section 125 of the Act.
+Furthermore, when confiscation proceedings are initiated under Section 124 of the Act, the
+obligation to pay duty and other charges under Section 125 will arise only when the owner of goods
+exercises 1 Hereinafter referred to as ‘the Act’.
+
+2 (2001) 6 SCC 483, hereinafter referred to as Jagdish Cancer case. the option to pay fine for
+redemption of goods and the Department accepts it. Liability to pay customs duty in such
+confiscation proceedings under Section 125(2) is distinct from the assessment and determination of
+duty, which can rise only under Section 28. The duty liability arising under Section 125(2) must be
+assessed under Section 28. Thus, we answered the second question by holding that once Section 28
+applies for determination of duty, interest on delayed payment of duty under Section 28AB follows.
+We have also clarified that Jagdish Cancer case is not an authority for the proposition that when the
+liability to pay customs duty arises under Section 125(2), the calculation, determination or the
+assessment of such duty cannot be made under Section 28.
+
+1.2. The facts relevant for consideration of the issues are as follows.
+
+2. Facts: Between 30.11.2003 to 18.04.2007, the appellant availed the benefit of exemption from
+payment of customs duty under a notification dated 01.03.2002, as per which certain self-propelled
+hydraulic piling rigs were to be utilised exclusively for the construction of roads, bridges etc. for
+NHAI3 and PWD4. When investigations revealed that the appellant has violated the import
+conditions, even before a show-cause notice was issued, the 3 National Highways Authority of India.
+
+4 Public Works Department.
+
+appellant deposited Rs.16,29,22,282/- and interest of Rs. 1,84,39,696/- between May, 2007 to
+August, 2007. Thereafter, a show-cause notice 5 was issued on 23.01.2008 proposing confiscation
+under Section 111(o) with respect to goods that were valued at Rs. 48.55 crores involving duty
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+2
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+liability of Rs. 17,37,57,039/- under Section 28, interest under Section 28AB and penalties under
+Sections 112(a) and (b) and 114A of the Act. The appellant filed an application under Section 127B of
+the Act before the Settlement Commission claiming that it has not violated any condition of the
+notification dated 01.03.2002 and further claimed that in order to avoid prolonged litigation, they
+had accepted the liability subject to further adjustments as may be approved by the Settlement
+Commission. The appellant also asserted that the claim for interest under Section 28AB is
+impermissible as the proceedings were initiated with show cause notice under Section 124 and not
+under Section 28.
+
+2.1. The Settlement Commission upheld the duty liability and directed it to be recovered. The
+penalty and fine were waived in full in view of the finding that this is not a case of brazen defiance of
+law and also that there is no contumacious conduct such as 5 The show cause notice is purportedly
+issued under Section 124 read with Section 28 of the Act.
+
+misdeclaration or manipulation of documents to evade payment of duty. On payment of interest
+under Section 28AB, the Settlement Commission held that, for violation of post-importation
+conditions, imported goods become liable for confiscation but are redeemable on payment of fine in
+lieu of confiscation and the duty becomes payable under Section 125(2). Following the decision of
+this Court in Jagdish Cancer case, the Commission held that as Section 28 is inapplicable in
+confiscation proceedings, Section 28AB will also not be attracted. The interest deposited by the
+appellant was, therefore, directed to be refunded.
+
+2.2. The writ petitions filed by the Customs Department were allowed by the order impugned before
+us. The High Court held that i) interest can be levied only when there is a substantive provision
+enabling it,
+
+ii) Section 125 has no such enabling provision, not even the procedure to assess duty, therefore, iii)
+assessment of duty must necessarily be done under Section 28 and iv) once Section 28 procedure is
+adopted, application of Section 28AB is inevitable. The High Court, therefore, distinguished Jagdish
+Cancer case and held that interest under Section 28AB is payable even for proceedings under
+Section 125 and remanded the matter to the Settlement Commission to calculate and recover
+interest under Section 28AB. 2.3. Ms. Charanya Lakshmikumaran and Mr. V C Bharathi appeared
+for the Appellant and the Custom Department respectively. They have not only enhanced our
+understanding of the subject and the issue, but have elevated the debate.
+
+3. Sections 11 and 12 of the Act: Section 11 of the Customs Act 6 vests the power in the Central
+Government to prohibit absolutely or subject to such conditions, as may be specified in the
+notification, the import or export of goods into or out of India. Under Section 45 of the Act, all
+imported goods unloaded in a customs area shall remain in the custody of the customs authorities.
+The importer shall present a bill of entry under Section 46 and self-assess the duty under Section 17.
+Alternatively, under Section 47 the goods are provisionally assessed by the authority under Section
+18 and cleared for home consumption. Goods are cleared for home consumption only after the
+customs officer is satisfied that the goods are not prohibited for home consumption and the import
+duty is paid. Duties of customs shall be levied under Section 127 on goods that are 6 Section 11:
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+3
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+Power to prohibit importation or exportation of goods.—(1) If the Central Government is satisfied
+that it is necessary so to do for any of the purposes specified in sub- section (2), it may, by
+notification in the Official Gazette, prohibit either absolutely or subject to such conditions (to be
+fulfilled before or after clearance) as may be specified in the notification, the import or export of
+goods of any specified description. (2) … (3) … 7 Section 12: Dutiable goods.—(1) Except as
+otherwise provided in this Act, or any other law for the time being in force, duties of customs shall
+be levied at such rates as may be specified under [the Customs Tariff Act, 1975 (51 of 1975)], or any
+other law for the time being in force, on goods imported into, or exported from, India. imported into
+or exported from India at such rates as are specified under the Customs Tariffs Act, 1975.
+
+4. Section 28 of the Act: If duties are, i) not levied, ii) not paid, iii) short levied, iv) short paid, v)
+erroneously refunded, vi) interest not paid, vii) interest, part paid or viii) interest erroneously
+refunded, a distinct procedure is provided in Section 28 of the Act. This very section provides a
+slightly varied procedure for recovery in sub-Section (4) for instances, where duties are not paid due
+to,
+
+i) collusion, ii) wilful misstatement or iii) suppression of facts. The distinction in the procedure
+includes different periods of limitation for initiation of recovery process. Section 28 to the extent, it
+is relevant for us is as under:
+
+“Section 28. Recovery of duties not levied or not paid or short-levied or short-paid or
+erroneously refunded.—(1) Where any [duty has not been levied or not paid or has
+been short-levied or short-paid] or erroneously refunded, or any interest payable has
+not been paid, part- paid or erroneously refunded, for any reason other than the
+reasons of collusion or any wilful mis-statement or suppression of facts,—
+
+(a) the proper officer shall, within [two years] from the relevant date, serve notice on
+the person chargeable with the duty or interest which has not been so levied [or paid]
+or which has been short-levied or short-paid or to whom the refund has erroneously
+been made, requiring him to show cause why he should not pay the amount specified
+in the notice:
+
+[Provided that before issuing notice, the proper officer shall hold pre-notice
+consultation with the person chargeable with duty or interest in such manner as may
+be prescribed;] [(2) The provisions of sub-section (1) shall apply in respect of all
+goods belonging to Government as they apply in respect of goods not belonging to
+Government.]
+
+(b) the person chargeable with the duty or interest, may pay before service of notice
+under clause (a) on the basis of,—
+
+(i) his own ascertainment of such duty; or
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+4
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+(ii) the duty ascertained by the proper officer, the amount of duty along with the
+interest payable thereon under section 28AA or the amount of interest which has not
+been so paid or part-paid.
+
+[Provided that the proper officer shall not serve such show cause notice, where the amount involved
+is less than rupees one hundred.] (2) […] (3) […] (4) Where any duty has not been [levied or not paid
+or has been short-levied or short-paid] or erroneously refunded, or interest payable has not been
+paid, part-paid or erroneously refunded, by reason of,—
+
+(a) collusion; or
+
+(b) any wilful mis-statement; or
+
+(c) suppression of facts, by the importer or the exporter or the agent or employee of the importer or
+exporter, the proper officer shall, within five years from the relevant date, serve notice on the person
+chargeable with duty or interest which has not been [so levied or not paid] or which has been so
+short-levied or short-paid or to whom the refund has erroneously been made, requiring him to show
+cause why he should not pay the amount specified in the notice.”
+
+5. Confiscation of goods under Chapter XIV of the Act: The third circumstance where duty is
+collected is when goods are improperly imported into or exported out of India. Chapter XIV of the
+Act provides for confiscation of such goods and imposition of penalties under Sections 1118 to 114.
+Section 111(o) is the specific instance 8 Section 111.Confiscation of improperly imported goods,
+etc.—The following goods brought from a place outside India shall be liable to confiscation:—
+
+(a) …(n)
+
+(o) any goods exempted, subject to any condition, from duty or any prohibition in respect of the
+import thereof under this Act or any other law for the time being in force, in respect of which the
+condition is not observed unless the non-observance of the condition was sanctioned by the proper
+officer; for confiscation of goods for violation of conditions of exemption from payment of duty after
+the importation. These goods were not subjected to levy and collection of duty as they enjoyed the
+benefit of exemption. Upon detection of a violation, the legal consequences must and will follow and
+Chapter XIV provides for confiscations and penalties.
+
+5.1. Confiscation of goods is appropriation of property by the revenue. The right, title and interest in
+the property, if any, is transferred and vested in the state under Section 126. Considering the serious
+consequences of such an action, authority and process of law mandated Article 300A9, Parliament
+prescribed the procedure under Section 122A, adjudicatory authority under Section 122, obligated
+issuance of a show-cause notice under Section 124 before confiscation.
+
+6. Section 125 of the Act: Alternatively, there is also the option of redemption of the confiscated
+goods under Section 125, the statute specifically empowers the owner of the goods to exercise an
+option of legitimising the importation by paying fine, duty and other charges. The procedure
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+5
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+prescribed is simple; i) confiscation must be authorised, ii) those goods should not be prohibited
+goods, iii) the 9 Article 300A. Persons not to be deprived of property save by authority of law.— No
+person shall be deprived of his property save by authority of law. officer shall give an option to
+redeem the goods in lieu of fine, iv) the owner or the possessor must exercise the option and v) pay
+the fine
+
+vi) within 120 days. The purpose and object of Section 125 is to enable a transition from ‘illegality’ to
+‘compliance’ of laws. It grants an opportunity to the owner or possessor of the confiscated goods to
+regularise the transaction by payment of fine. This provision is based on a public policy
+consideration that balances crime and punishment and achieves the twin objectives of enabling a
+citizen to remain on the right side of law by adopting a prescribed measure and amicable settlement
+of disputes through resolution. Section 125 is extracted herein below for ready reference:
+
+“Sec 125. Option to pay fine in lieu of confiscation.
+
+(1) Whenever confiscation of any goods is authorised by this Act, the officer
+adjudging it may, in the case of any goods, the importation or exportation whereof is
+prohibited under this Act or under any other law for the time being in force, and
+shall, in the case of any other goods, give to the owner of the goods [or, where such
+owner is not known, the person from whose possession or custody such goods have
+been seized,] an option to pay in lieu of confiscation such fine as the said officer
+thinks fit.
+
+Provided that where the proceedings are deemed to be concluded under the proviso to sub-section
+(2) of section 28 or under clause (i) of sub-section (6) of that section in respect of the goods which
+are not prohibited or restricted, the provisions of this section shall not apply:
+
+[Provided further that], without prejudice to the provisions of the proviso to
+sub-section (2) of section 115, such fine shall not exceed the market price of the goods
+confiscated, less in the case of imported goods the duty chargeable thereon.
+
+[(2) Where any fine in lieu of confiscation of goods is imposed under sub-section (1),
+the owner of such goods or the person referred to in sub-section (1), shall, in
+addition, be liable to any duty and charges payable in respect of such goods.] [(3)
+Where the fine imposed under sub-section (1) is not paid within a period of one
+hundred and twenty days from the date of option given thereunder, such option shall
+become void, unless an appeal against such order is pending. Explanation.—……”]
+
+7. Issues: It is in the above referred ‘context’ that we will now interpret the ‘text’ of
+Section 125 to examine the following issues:
+
+i) Whether there is a liability to pay customs duty when confiscated goods are
+redeemed after payment of fine under Section 125 of the Act?
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+6
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+ii) Whether, the liability to pay such duty will include the liability to pay interest on
+delayed payment under Section 28AB of the Act?
+
+7.1 While answering these questions, we will have to explain the decision of this court in Jagdish
+Cancer case as it is argued to have ruled that duty in confiscation proceedings is payable only under
+Section 125 and not under Section 28, and if Section 28 does not apply, Section 28AB also will not
+apply. Therefore, the third question is:
+
+iii) What is the true and correct ratio of the decision in Jagdish Cancer case?
+
+8. Re: Whether there is a liability to pay customs duty, when the confiscated goods are redeemed
+after payment of fine under section 125 of the Act?
+
+8.1. This issue is no more res integra. The uncertainty about the liability to impose and collect duties
+in confiscation proceedings was resolved in 1976 by a decision of this court in Union of India v. M/s
+Security and Finance (P) Ltd.10 while interpreting identical provisions, as they stood under the Sea
+Customs Act, 1878. In this case, the court was dealing with confiscation of goods that were imported
+without a proper license which was and is prohibited by law. Though the goods were confiscated,
+they were released to the importer, who exercised the option to redeem them under Section 183 of
+the repealed Act. Consequently, Customs Department sought to collect the duty payable on such
+goods. The High Court accepted the importer’s challenge to imposition and collection of duty on the
+ground that Section 183 proceedings authorised only a fine and not customs duty. This court
+allowed the appeal of the Custom Departments by drawing a distinction between the power to
+impose or recover duty under Section 20 (Section 12/28 of our Act) on one hand, and the power to
+impose penalty and/or fine under Section 183 (Section 125 of our Act). This Court held that they are
+distinct and operate independently. The relevant portion of the judgement is as under:
+
+“5. Does the order under Section 183 preclude him from levying duty under Section
+20? This is the short issue before (1976) 1 SCC 166, hereinafter referred to as Security
+Finance case.
+
+us. A close study of the scheme of the relevant provisions, powers and levies discloses a clear
+dichotomy which has escaped the attention of the High Court. Import/Export duty is an obligation
+cast by Section 20 of the Act. It is a tax, not a penalty; it is an innocent levy once the exigible event
+occurs; it is not a punitive impost for a contravention of the law. Confiscation, penalty and fine
+provided for under Sections 167 (item 8) and 183 are of the species of punishment for violation of
+the scheme of prohibition and control. Once this distinction and duality are remembered, the
+interpretative process simplifies itself.
+
+8. ….In the present case, the Deputy Collector, the competent authority, has chosen to give the
+owner of the goods, the respondent, option to pay, in lieu of confiscation, a fine. He has not
+confiscated the goods and, therefore, Section 184 is not operational in this context. In short, the
+obligation under Section 20 is independent of the liability under Section 183. The order, dual in
+character, although clubbed together in a single document, is therefore valid in entirety. Even so, the
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+7
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+confusion has been caused by the Deputy Collector failing to keep distinct the two powers and the
+two liabilities and thereby leading to avoidable jumbling.
+
+10. However, we are prepared to gather from the order under attack two levies imposed in exercise
+of two distinct powers, as earlier explained. The import duty has been made a condition for the
+clearance of the goods. This is right and it is impossible to say that the said payment is not justified
+by Section 20. Likewise, the authority when it imposed a fine, was exercising its power under
+Section 183. We can readily see that he did not mean to confiscate the goods. He only proposed to
+confiscate and proceeded to fix a fine in lieu thereof. Non-felicitous and inept expressions used in
+the order are perhaps apt to mislead, but the intendment is clear that what was done was not
+confiscation but giving an option to pay a quantified fine in place of confiscation. The order was a
+composite one, when read in the sense we have explained, and is quite legal. Therefore, we reach the
+conclusion that the appellant is entitled to win and the High Court was in error.” 8.2. The Act must
+always be read as a whole. Once the liability of confiscation is withdrawn after the option to pay fine
+is exercised and the goods are redeemed, it is natural for the goods to be subjected to duty. The
+power and the machinery provisions for imposition and collection of duty liability exist only under
+Section 12 and/or Section 28 and not under Section 125. The essence of the judgment in Security
+Finance case is in the following sentence: “The import duty has been made a condition for the
+clearance of the goods. This is right and it is impossible to say that the said payment is not justified
+by Section 20”.
+
+8.3. The scope of enquiry in this judgement was limited to answering whether there is a liability to
+pay customs duty in confiscation proceedings when goods are redeemed upon payment of fine. This
+judgment is not concerned with instances like in the present case where goods are imported without
+payment of duty under an exemption notification.
+
+8.4. The above referred judicial interpretation has attained statutory recognition in 1985 when the
+Parliament introduced subsection (2) to Section 125 to clarify and declare that the owner of goods,
+in addition to payment of fine, shall also be liable to pay duty and other charges upon exercising the
+option to pay fine to redeem goods. Thus, the owner of goods has a liability to pay customs duty,
+even after confiscated goods are redeemed after payment of fine and other charges under Section
+125 of the Act. This is the first principle. 8.5. In our view, this position gleaned from Security
+Finance case has remained consistent with amendments introduced to Section 125 in the year 1985.
+The customs duty obligation on once exempted goods, liable to be confiscated for violation of
+conditions, arises only after the option to redeem them is exercised under Section 125. Once the
+option is exercised, the acceptance is subject to the conditions specified in Section 125. The primary
+condition is payment of fine in lieu of confiscation. Thus, this duty obligation is inextricably
+connected to the option to redeem the confiscated goods. In other words, it is a precondition for
+redemption.
+
+8.6. The decision of this court in Fortis Hospital Ltd v. Commr. of Customs, Import11 affirms this
+position. In Fortis Hospital case, the owner of the confiscated goods chose not to exercise the option
+under Section 125. However, the revenue sought to recover the duty payable under Section 28 of the
+Act. Holding that this is impermissible, the court held that:
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+8
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+“9…… It may be seen from the bare reading of the aforesaid Section that under
+Section 125(1) of the Act, option is given to the importer whose goods are confiscated,
+to pay the fine in lieu of confiscation and redeem the confiscated goods. Before this
+action is taken, show-cause notice is to be issued under the provision of Section 124
+of the said Act. This provision pertains to confiscation of goods and provides
+procedural safeguards inasmuch as there cannot be any order of confiscating any
+goods or imposing any penalty on any person without complying with the procedure
+contained in Section 124. Section 124 mandates issuance of the show- 11 (2015) 12
+SCC 715, hereinafter referred to as Fortis Hospital case.
+
+cause notice before passing any such order and contemplates two actions: first, relating to
+confiscating of the goods and second, pertaining to imposition of penalty. Pertinently, this action
+does not deal with payment of import duty at all.
+
+10. It is not in dispute that show-cause notice in the instant case was issued under Section 124 of the
+Act. Once such a show-cause notice was issued and as can be seen from the proposed action which
+was contemplated in this provision (as has been taken note of above), it was also confined to
+confiscation of the imported machinery and imposition of penalty. Nothing was stated about the
+payment of duty. However, in spite of the fact that show- cause notice was limited to confiscation of
+the goods and imposition of penalty, the final order which was passed included the direction to pay
+the customs duty as well. It is clear that when such an action was not contemplated, which even
+otherwise could not be done while exercising the powers under Section 124 of the Act, in the final
+order there could not have been direction to pay the duty.
+
+11. Notwithstanding the aforesaid position, as pointed out above, the Department is taking shelter
+under the provisions of sub-section (2) of Section 125 of the Act. However, on a plain reading of the
+said provision, we are of the view that such a provision would not apply in case where option to pay
+fine in lieu of confiscation is not exercised by the importer. Trigger point is the exercise of a positive
+option to pay the fine and redeem the confiscated goods. Only when this contingency is met, the
+duty becomes payable. In the present case, admittedly, such an option was not exercised and the
+confiscated machinery was not redeemed by the Institute. As a matter of fact, thus, no fine has been
+paid.” 8.7. This judgment also explains the position when the Customs Department wants to recover
+duty through ways, other than confiscation at the Chapter XIV. Explaining the alternative modes of
+recovery of customs duty, the court observed as follows;
+
+“16. It is not that the Department is without any remedy. We have gone through the provisions of
+notification No. 64 of 1988 dated 01.03.1988. As pointed out above, importer would be exempted
+from payment of import duty on hospital equipment only when the conditions contained in the said
+notification are satisfied. Some of the conditions, as pointed out above, are to be fulfilled in future. If
+that is not done and the importer is found to have violated those conditions, show-cause notice
+could always be given under the said notification on payment of duty, independent of the action
+which is permissible under Section 124 and Section 125 of the Act. It is also important to mention
+that under certain circumstances mentioned in the notification, the importer can be asked to
+execute a bond as well. In those cases, action can be taken under the said bond when the conditions
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+9
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+contained therein are violated. Therefore, if the Department wanted the Institute to pay the duty,
+which may have become payable, it could have taken independent action; de hors Section 124 of the
+Act, for payment of duty, simultaneously with the notice under Section 124 of the Act or by issuing
+composite notice for such an action. No doubt, it could have waited for option to be exercised by the
+Institute under Section 125(1) of the Act as well and in that eventuality, duty would have
+automatically become payable under Section 125(2) of the Act. But when such an option was not
+exercised, it could have taken separate and independent action by issuing a show-cause notice to the
+effect that the Institute had violated the terms of exemption notification and therefore, was liable to
+pay duty.” 8.8. We can thus conclude the second principle that, when confiscation proceedings are
+initiated under Section 124 of the Act, the obligation to pay duty and other charges under Section
+125(2) will arise only when the owner of goods exercises the option to pay fine for redemption of
+goods and the Department accepting it. 8.9. An important principle that needs to be recognised is
+that, the customs duty obligation in confiscation proceedings does not occasion either under Section
+12 or 28. It has arisen because of the option available and exercised under Section 125. This
+obligation should not be confused with the method and procedure by which that customs duty is
+assessed and determined, which is provided under Section 28. It is in this context that we need to
+consider and explain the decision of this court in Jagdish Cancer case.
+
+9. Re: What is the true and correct ratio of the decision in Jagdish Cancer case?
+
+9.1. The real contest in this case is about the correct ratio of the judgement in Jagdish Cancer case.
+According to the appellant, as this judgment holds that duty liability in confiscation proceedings
+arises because of Section 125 and not Section 28, there is no liability to pay interest on delayed
+payments under Section 28AB. The facts of this case are necessary to be recounted for a clear
+understanding of the ratio of this decision. In this case, the department issued a show- cause notice
+under Section 124 of the Customs Act demanding customs duty and proposed confiscation under
+Section 111(o) and penalty under Section 112.
+
+9.2. The importer contended that as there is no notice under Section 28, the demand and collection
+of duty are impermissible. We will extract the submission as recorded by this court in para 9 of the
+judgment, as it is important to know what was argued and what was decided:
+
+“9. […] Section 28 of the Act which falls in Chapter V provides for notice for payment
+of duties which has been demanded by the notice in this case. Therefore, it is
+submitted on behalf of the Centre that demand of customs duty and the order for
+payment of the same is relatable to only Section 28(1) of the Customs Act, as also
+found by the CEGAT. That being the position, the notice was beyond time and not by
+a competent officer authorised to issue the same. The argument, as advanced, though
+seems to be attractive but on scrutiny, we find no merit in it […]” 9.3. On the other
+hand, the Department defended its position by submitting as follows:
+
+“8. […] It is submitted that the copy of the notice, as annexed, does not mention
+Section 28(1) of the Customs Act, in any case if it is taken to be there, as contended,
+that would make no difference. The submission is that sub- section (2) of Section 125
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+10
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+of the Customs Act provides that where any fine in lieu of confiscation of goods is
+imposed, the importer shall also, in addition, be liable to any duty and charges
+payable in respect of such goods.” 9.4. It is in the context of the above-referred
+submissions, that the court considered the fact that an option under Section 125 was
+given and it was in fact exercised. Thus, the liability to pay customs duty arose under
+Section 125(2) and therefore, the court held that the separate notice under Section 28
+is not required. This is exactly what the court ruled by holding:
+
+“12. Whenever an order confiscating the imported goods is passed, an option, as
+provided under sub-section (1) of Section 125 of the Customs Act, is to be given to the
+person to pay fine in lieu of the confiscation and on such an order being passed
+according to sub-section (2) of Section 125, the person “shall in addition be liable to
+any duty and charges payable in respect of such goods” […]”.
+
+9.5. Again, in the same paragraph, the court notes that the occasion, origin, or the
+circumstance in which the liability to pay duty arose in the confiscation proceedings
+under Section 125 (2). In this case, the court was considering and rejecting the
+submission made on a misplaced premise that the proceedings have originated under
+Section 28. Payment of customs duty has not arisen either under Section 12 or
+Section 28, it has arisen because of Section 125(2).
+
+Therefore, a notice under Section 28 is not necessary. This is how the judgment needs to be
+understood, and it is in this perspective that the court has in fact rejected the importer’s objection to
+the payment of duty.
+
+“12. Whenever an order confiscating the imported goods is passed, an option, as provided under
+sub-section (1) of Section 125 of the Customs Act, is to be given to the person to pay fine in lieu of
+the confiscation and on such an order being passed according to sub-section (2) of Section 125, the
+person “shall in addition be liable to any duty and charges payable in respect of such goods.” A
+reading of sub-section (1) and (2) of Section 125 together makes it clear that liability to pay duty
+arises under sub-section (2) in addition to the fine under sub-section (1). Therefore, where an order
+is passed for payment of customs duty along with an order of imposition of fine in lieu of
+confiscation of goods, it shall only be referable to sub-section (2) of Section 125 of the Customs Act.
+It would not attract Section 28(1) of the Customs Act which covers the cases of duty not levied,
+short- levied or erroneously refunded etc. The order for payment of duty under Section 125(2) would
+be an integral part of proceedings relating to confiscation and consequential orders thereon, on the
+ground as in this case that the importer had violated the conditions of notification subject to which
+exemption of goods was granted, without attracting the provisions of Section 28(1) of the Customs
+Act.” 9.6. We conclude by holding that Jagdish Cancer case is not an authority for the proposition
+that when the liability to pay customs duty has occasioned under Section 125, the calculation,
+determination or the assessment of such duty cannot be made under Section 28.
+
+10. Re: Whether the liability to pay such duty will include the liability to pay interest on delayed
+payment under section 28AB of the Act? 10.1. The text of Section 125(2) clearly provides that, where
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+11
+
+M/S Navayuga Engineering Co.Ltd vs Union Of India on 23 July, 2024
+
+any fine in lieu of confiscation of goods is imposed under sub-Section (1), the owner of such goods
+shall be ‘liable to any duty and charges payable with respect to such goods’. The sub-section provides
+that the liability to any duty and charges, that are payable, shall be paid in addition to the fine. We
+have held that Section 28 would come into operation for assessing and determining the duty and
+other charges payable with respect to goods redeemed under Section 125(2). Once Section 28
+applies for determination of duty obligation arising under Section 125(2), the interest on delayed
+payment of duty arises under Section 28AB. The said provision obligates payment of interest in
+addition to the duty. We thus answer the last issue by holding that the interest liability under
+Section 28 AB is also attracted.
+
+11. Conclusion: For the reasons mentioned hereinabove, we uphold the decision of the High Court in
+Writ Petition Lodging No. 1387 of 2009 dated 29.08.2009 and dispose of the present Civil Appeal
+No. 1024 of 2014. No order as to costs.
+
+………………………………....J. [PAMIDIGHANTAM SRI NARASIMHA] ………………………………....J.
+[ARAVIND KUMAR] NEW DELHI;
+
+JULY 23, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/90755213/
+
+12
+
+

@@ -1,0 +1,27 @@
+{
+  "case_number": "Criminal Appeal No. 143 of 2022",
+  "parties": {
+    "petitioner": "The State of Uttarakhand",
+    "respondent": "Sachendra Singh Rawat"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-04",
+  "summary": "The case involved the conviction of respondent for killing Virendra Singh. The trial court held it as murder under Section 302 IPC and sentenced to life imprisonment. The High Court allowed the appeal, reclassified the offence as culpable homicide not amounting to murder under Exception IV to Section 300 IPC, citing sudden fight in heat of passion during a wedding ceremony and use of a 'Phakadiyat' (wooden stick) as weapon. The State appealed to the Supreme Court, arguing that multiple blows on the head, use of force causing skull fracture, and chasing the victim negated the plea of sudden fight. The respondent defended the High Court's finding of absence of premeditation.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 300 IPC (Exception IV)",
+    "Section 313 Cr.P.C.",
+    "Virsa Singh vs. State of Punjab, AIR 1958 SC 465",
+    "Stalin vs. State, (2020) 9 SCC 524",
+    "Mahesh Balmiki vs. State of M.P., (2000) 1 SCC 319",
+    "Dhirajbhai Gorakhbhai Nayak vs. State of Gujarat, (2003) 9 SCC 322",
+    "Pulicherla Nagaraju vs. State of A.P., (2006) 11 SCC 444",
+    "Singapagu Anjaiah vs. State of A.P., (2010) 9 SCC 799",
+    "State of Rajasthan vs. Kanhaiya Lal, (2019) 5 SCC 639",
+    "Arun Raj v. Union of India, (2010) 6 SCC 457",
+    "Ashokkumar Magabhai Vankar vs. State of Gujarat, (2011) 10 SCC 604",
+    "State of Rajasthan vs. Leela Ram, (2019) 13 SCC 131",
+    "Bavisetti Kameswara Rao vs. State of A.P., (2008) 15 SCC 725"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, set aside the High Court's judgment, and restored the trial court's conviction under Section 302 IPC with life imprisonment sentence, holding that the case did not fall within Exception IV to Section 300 IPC due to presence of intention to cause death based on nature and number of injuries and the conduct of the accused."
+}

@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal No. 2646 of 2024",
+  "parties": {
+    "petitioner": "The State of Karnataka",
+    "respondent": "Chandrasha"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-11-26",
+  "summary": "The appeal challenged the Karnataka High Court's acquittal of Chandrasha, a government servant convicted for demanding and accepting Rs. 2,000 as illegal gratification for passing a bill under official influence. The prosecution relied on recorded demand, recovery during a trap, and witness testimony. The High Court acquitted, citing no pending work by the accused on the trap date. The State argued that demand itself suffices for culpability under Section 7, and the presumption under Section 20(1) of the Prevention of Corruption Act applies. The respondent claimed the money was a loan. Key issues: applicability of Section 7 when no official act was pending; burden of proof under Section 20(1); reliability of prosecution evidence. The appeal examined whether the High Court erred in acquitting despite sufficient evidence and legal presumption.",
+  "legal_provisions_cited": [
+    "Section 7, Prevention of Corruption Act, 1988",
+    "Section 13(1)(d) r/w Section 13(2), Prevention of Corruption Act, 1988",
+    "Section 20(1), Prevention of Corruption Act, 1988",
+    "Swatantar Singh v. State of Haryana",
+    "Krishna Ram v. State of Rajasthan"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, set aside the High Court's acquittal, and restored the trial court's conviction of the respondent under Sections 7 and 13(1)(d) r/w Section 13(2) of the Prevention of Corruption Act, 1988."
+}

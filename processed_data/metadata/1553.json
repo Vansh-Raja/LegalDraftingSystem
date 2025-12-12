@@ -1,0 +1,18 @@
+{
+  "case_number": "CIVIL APPEAL NO(S). 5861 OF 2009",
+  "parties": {
+    "petitioner": "STATE OF PUNJAB & OTHERS",
+    "respondent": "MEHAR DIN"
+  },
+  "court_name": "SUPREME COURT OF INDIA",
+  "date_of_judgment": "2022-03-02",
+  "summary": "The case involves the cancellation of an auction sale of sub-urban land in Malerkotla, Punjab, where Mehar Din was the highest bidder. The State cancelled the bid citing inadequate publicity and possible collusion, but subsequent appeals led to the High Court directing confirmation of the sale. The Supreme Court examined whether the cancellation by the Financial Commissioner was justified, focusing on adherence to auction procedures under the Punjab Package Deal Properties (Disposal) Rules, 1976. It held that mere conjecture about higher potential value or possible collusion, without concrete evidence, cannot vitiate a properly conducted auction where the bid exceeded the prior auction price and no procedural illegality was shown. The High Court’s restoration of the sale was upheld.",
+  "legal_provisions_cited": [
+    "Section 18 of the Punjab Package Deal Properties(Disposal) Act, 1976",
+    "Section 10 of the Punjab Package Deal Properties(Disposal) Act, 1976",
+    "Section 15(1) of the Punjab Package Deal Properties(Disposal) Act, 1976",
+    "Rule 8 of the Punjab Package Deal Properties (Disposal) Rules, 1976",
+    "Articles 226 and 227 of the Constitution of India"
+  ],
+  "final_judgment": "Appeal dismissed. The judgment of the High Court dated 13th August, 2008 directing confirmation of the auction sale in favor of Mehar Din was upheld. The order of the Financial Commissioner dated 24th August, 2006 cancelling the bid was set aside."
+}

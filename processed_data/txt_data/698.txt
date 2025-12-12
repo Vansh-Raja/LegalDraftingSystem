@@ -1,0 +1,1282 @@
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November,
+2024
+
+Author: Dhananjaya Y. Chandrachud
+
+Bench: Dhananjaya Y. Chandrachud
+
+2024 INSC 848                                                                          REPORTABLE
+
+                                        IN THE SUPREME COURT OF INDIA
+                                          CIVIL ORIGINAL JURISDICTION
+
+                                         WRIT PETITION (C) NO. 715 OF 2024
+
+             IN THE MATTER OF: -
+
+             KIRLOSKAR FERROUS INDUSTRIES LIMITED & ANR …PETITIONER(S)
+
+                                                          VERSUS
+
+             UNION OF INDIA & ORS.                                               …RESPONDENT(S)
+
+                                                     JUDGMENT
+
+J.B. PARDIWALA, J.:
+
+1. The petitioners have invoked the jurisdiction of this Court under Article 32 of the
+Constitution inter-alia seeking to challenge the validity of the Explanation to Rule 38
+of the Mineral (Other than Atomic and Hydrocarbons Energy Minerals) Concession
+Rules, 2016 (for short, the “MCR, 2016”) and the Explanation to Rule 45(8)(a) of the
+Mineral Conservation and Development Rules, 2017 (for short, the “MCDR, 2017”)
+that stipulates the computation of royalty to be levied for the extraction or
+consumption of mined ores.
+
+SANJAY KUMAR Date: 2024.11.08 16:02:39 IST Reason:
+
+A. BRIEF FACTUAL MATRIX
+
+2. The petitioner no.1 herein is a mining leasehold company inter-alia engaged in the extraction of
+pig iron and the manufacturing and sale of its byproducts by way of a mining lease for iron ores in
+the State of Karnatak in terms of the provisions and procedure envisaged under the Mineral
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+1
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+(Development and Regulation) Amendment Act, 2015 (for short the “2015 Amendment Act”). The
+petitioner no.2 herein is one of the shareholders in the petitioner no.1 company. The respondent no.
+1 herein is the Union of India through the Secretary, Ministry of Mines, whereas the respondent no.
+2 herein is the Indian Bureau of Mines.
+
+3. As per Section 9 of the Mines and Minerals (Development and Regulation) Act, 1957 (for short,
+the (“MMDR, Act”), the revenue required to be paid for any mineral removed or consumed from the
+leasehold area would be in the form of royalty and mandates the mining leaseholder to pay such
+royalty as may be specified in the Second Schedule in respect of any minerals removed or consumed
+in the leased area allotted to him. Section 9 sub-section (3) of the MMDR Act further empowers the
+Central Government to enhance or reduce the rate of royalty payable by the leaseholders by way of a
+notification once every 3-years. The aforesaid provision reads as under: -
+
+“9. Royalties in respect of mining leases. – (1) The holder of a mining lease granted
+before the commencement of this Act shall, notwithstanding anything contained in
+the instrument of lease or in any law in force at such commencement, pay royalty in
+respect of any mineral removed or consumed by him or by his agent, manager,
+employee, contractor or sub-lessee from the leased area after such commencement,
+at the rate for the time being specified in the Second Schedule in respect of that
+mineral.
+
+(2) The holder of a mining lease granted on or after the commencement of this Act
+shall pay royalty in respect of any mineral removed or consumed by him or by his
+agent, manager, employee, contractor or sub-lessee from the leased area at the rate
+for the time being specified in the Second Schedule in respect of that mineral.
+
+( 2 A )   T h e   h o l d e r   o f   a   m i n i n g   l e a s e ,   w h e t h e r   g r a n t e d   b e f o r e   o r   a f t e r   t h e
+commencement of the Mines and Minerals (Regulation and Development)
+Amendment Act, 1972 (56 of 1972) shall not be liable to pay any royalty in respect of
+any coal consumed by a workman engaged in a colliery provided that such
+consumption by the workman does not exceed one-third of a tonne per month.
+
+(3) The Central Government may, by notification in the Official Gazette, amend the
+Second Schedule so as to enhance or reduce the rate at which royalty shall be payable
+in respect of any mineral with effect from such date as may be specified in the
+notification:
+
+Provided that the Central Government shall not enhance the rate of royalty in respect
+of any mineral more than once during any period of three years.”
+
+4. Section(s) 13 and 18 of the MMDR Act respectively further empowers the Central Government to
+frame Rules for regulating the grant of mineral concession and for the conservation and systematic
+development of minerals respectively. Pursuant to the above provisions, the Central Government
+enacted the Mineral Concession Rules, 1960 (for short, the “MCR, 1960”) which later came to be
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+2
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+replaced by the MCR, 2016 for the computation and payment of royalty in terms of Section 9 read
+with Schedule II of the MMDR, Act.
+
+5. The erstwhile MCR, 1960, more particularly Rule 64D that was inserted vide Notification bearing
+no. GSR 883(E) dated 10.12.2009, stipulated that the royalty to be paid for all non-atomic and
+non-fuel minerals would be computed on the basis of the State-wise sale price of different minerals
+as published by the Indian Bureau of Mines / the respondent no. 2. The said provision reads as
+under: -
+
+" 64 D. Manner of payment of royalty on minerals on ad valorem basis:
+
+(1) Every mine owner, his agent, manager, employee, contractor or sub-lessee shall
+compute the amount of royalty on minerals where such royalty is charged on ad
+valorem basis as follows:
+
+(i) for all non-atomic and non fuel minerals sold in the domestic market or consumed
+in captive plants or exported by the mine owners (other than bauxite and laterite
+despatched for use in alumina and metallurgical industries, copper, lead, zinc, tin,
+nickel, gold, silver and minerals specified under Atomic Energy Act), the State-wise
+sale prices for different minerals as published by Indian Bureau of Mines shall be the
+sale price for computation of royalty in respect of any mineral produced any time
+during a month in any mine in that State, and the royalty shall be computed as per
+the formula given below:
+
+Royalty = Sale price of mineral (grade wise and State-wise) published by IBM X Rate
+of royalty (in percentage) X Total quantity of mineral grade produced/ dispatched:
+
+Provided that if for a particular mineral, the information for a State for a particular
+month is not published by the Indian Bureau of Mines, the latest information
+available for that mineral in the State shall be referred, failing which the latest
+information for All India for the mineral shall be referred.
+
+(ii) for the grades of minerals produced for captive consumption (other than bauxite
+and laterite despatched for use in alumina and metallurgical industries, copper, lead,
+zinc, tin, nickel, gold and silver) and those not despatched for sale in domestic
+market or export, the sale price published by the Indian Bureau of Mines shall be
+used as the benchmark price for computation of royalty.
+
+(iii) for primary gold, silver, copper, nickel, tin, lead and zinc, the total contained
+metal in the ore or concentrate produced during the period for which the royalty is
+computed and reported in the statutory monthly returns under Mineral Conservation
+and Development Rules, 1988 or recorded in the books of the mine owners shall be
+considered for the purposes of computing the royalty in the first place and then the
+royalty shall be computed as the percentage of the average metal prices published by
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+3
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+the Indian Bureau of Mines for primary gold, silver, copper, nickel, tin, lead and zinc
+during the period of computation of royalty as follows:
+
+Royalty = sale price X rate of royalty in percentage where sale price = Average price
+of metal as published by Indian Bureau of Mines during the month X Total contained
+metal in ore or concentrate produced X Rupee or Dollar exchange rate selling as on
+the last date of the month of computation of royalty:
+
+Provided that in case of by-product gold and silver the royalty shall be based on the
+total quantity of metal produced and such royalty shall be calculated as follows:
+
+Royalty = Sale price X rate of royalty in percentage Explanation - For the purpose of
+this sub-clause sale price means, average price of metal as published by Indian
+Bureau of Mines during the month X Total byproduct metal actually produced X
+Rupee or Dollar Exchange rate selling as on the last date of the month of computation
+of royalty.
+
+(iv) For bauxite or laterite ore despatched for use in alumina and aluminium metal
+extraction or despatched to alumina or aluminium metal extraction industry within
+India, the total contained alumina in the bauxite or laterite ore on dry basis produced
+during the period for which the royalty is computed and reported in the statutory
+monthly returns under Mineral Conservation and Development Rules, 1988 or
+recorded in the books of the mine owners shall be considered for the purpose of
+computing the royalty in the first place and then the royalty shall be computed as the
+percentage of the average monthly price for the contained aluminium metal in the
+said alumina content of the ore published by the Indian Bureau of Mines, on the
+following basis namely:-
+
+Royalty =
+
+52. X Percentag X Average X Rupee/ X Rate of 9 e of Al2O3 monthly dollar royalty
+(in 100 in the price of exchange percentag bauxite on aluminiu rate e) dry basis m as
+(selling) as (as published on the last reported in by the date of the the IBM period of
+the Statutory computation Monthly of royalty return under MCDR) Provided that for
+computing the royalty for bauxite or laterite despatched for end use other than
+alumina and aluminium metal extraction and for exports provisions of this clause
+shall not apply.
+
+(2) In case of metallic ores based on metal contained in ore and metal prices based on benchmark
+prices, the royalty shall be charged on dry basis, and the mine owner shall establish suitable
+facilities for collection of sample and its analysis on dry basis at the mine site."
+
+6. A bare perusal of the aforesaid provision makes it clear that for computing the royalty that may be
+payable both the i) grade-wise and State wise sale price of mineral as published by IBM and the ii)
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+4
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+rate of royalty were being factored along with the quantity of mineral that is produced or dispatched
+in order to determine the ultimate royalty that may be payable.
+
+7. Thereafter, the Central Government by way of the aforesaid 2015 Amendment Act inter-alia
+inserted Section(s) 9B and 9C into the MMDR Act whereby contributions were required to be paid
+to the District Mineral Foundation (“DMF”), a non-profit body established to work for the interest
+and benefit of persons and areas affected by mining related operation and to the National Mineral
+Exploration Trust (“NMET”) a non-profit autonomous body for the purposes of regional and
+detailed exploration.
+
+8. As per Section 9B sub-section (5) of the MMDR Act, the contributions towards the DMF were
+computed as a percentage of the royalty paid by the mining leaseholder that could extend upto a
+sum equivalent to a maximum of one-third of such royalty. Thereafter, the Mines and Minerals
+(Contribution to District Mineral Foundation) Rules, 2015 ("DMF Rules") came to be enacted, Rule
+2(a) of which stipulated that the contributions towards DMF shall be computed as ten percent of the
+royalty paid in accordance with the Second Schedule. On the other hand, the contributions towards
+the NMET under Section 9C of the MMDR Act, were calculated as a sum equivalent to two percent
+of the royalty paid.
+
+9. On 04.03.2016, the Central Government vide Notification no. GSR 278(E) enacted and notified
+the MCR, 2016 rules replacing the erstwhile rules of MCR, 1960, in order to revamp the entire
+mechanism inter-alia for the calculation of royalty on minerals and the grant of concessions.
+
+10.Rule 38 of the MCR, 2016 defines the term ‘Sale Value’ as the gross amount payable as per the
+sale invoice where the sale transaction is on an arms’ length basis and such price is the sole
+consideration for the sale excluding taxes. The Explanation appended to the said rule further
+provides that for computation of ‘Sale Value’ there shall no deduction in respect of royalty,
+payments or contributions towards DMF and NMET. The relevant provision reads as under: -
+
+“38. Sale Value. – Sale value is the gross amount payable by the purchaser as
+indicated in the sale invoice where the sale transaction is on an arms' length basis
+and the price is the sole consideration for the sale, excluding taxes, if any.
+
+Explanation - For the purpose of computing sale value no deduction from the gross
+amount will be made in respect of royalty, payments to the District Mineral
+Foundation and payments to the National Mineral Exploration Trust.” (Emphasis
+supplied)
+
+11.Rule 39 sub-rule (3) of the MCR, 2016 further provides how royalty is to be paid and the manner
+in which it is to be computed. It stipulates that royalty in respect of any mineral is to be paid on an
+Ad valorem basis. It further provides that royalty shall be calculated at the specified percentage of
+the ‘average sale price’ of such mineral for the month of removal / consumption as published by the
+Indian Bureau of Mines.
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+5
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+12.Rule 42 of the MCR, 2016 provides the manner in which the ‘average sale price’ shall be
+computed. Rule 42 sub-rule (1) stipulates that the average sale price of mineral grade / concentrate
+shall be computed on the basis of its ‘ex- mine price’. Rule 42 sub-rule (3) further provides that the
+‘average sale price’ shall be the weighted average of the ‘ex-mine price’ as computed in terms of
+sub-rule (2) of Rule 42. Rule 42 sub-rule (2)(b) provides that the ‘ex-mine price’ shall be computed
+as the sale value of the mineral less the actual expenditure incurred where the sale takes place
+domestically but beyond the mining lease area. The said provision reads as under: -
+
+“42. Computation of average sale price.
+
+(1) The ex-mine price shall be used to compute average sale price of mineral
+grade/concentrate.
+
+(2) The ex-mine price of mineral grade or concentrate shall be:
+
+(a) where export has occurred, the free-on-board (F.O.B) price of the mineral less the
+actual expenditure incurred beyond the mining lease area towards transportation
+charges by road, loading and unloading charges, railway freight (if applicable), port
+handling charges/export duty, charges for sampling and analysis, rent for the plot at
+the stocking yard, handling charges in port, charges for stevedoring and trimming,
+any other incidental charges incurred outside the mining lease area as notified by the
+Indian Bureau of Mines from time-to-time, divided by the total quantity exported.
+
+(b) where domestic sale has occurred, sale value of the mineral less the actual
+expenditure incurred towards transportation loading, unloading, rent for the plot at
+the stocking yard, charges for sampling and analysis and any other charges beyond
+mining lease area as notified by the Indian Bureau of Mines from time-to-time,
+divided by the total quantity sold.
+
+(c) where sale has occurred, between related parties and/or where the sale is not on
+arms’ length basis, then such sale shall not be recognized as a sale for the purpose of
+this rule and in such case, sub-clause (d) shall be applicable.
+
+(d) where sale has not occurred, the average sale price published monthly by the
+Indian Bureau of Mines for that mineral grade / concentrate for a particular State:
+
+Provided that if for a particular mineral grade / concentrate, the information for a
+State for a particular month is not published by the Indian Bureau of Mines, the last
+available information published for that mineral grade / concentrate for that
+particular State by the Indian Bureau of Mines in the last six months previous to the
+reporting month shall be used, failing which the latest information for All India for
+the mineral grade / concentrate, shall be used.
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+6
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+(3) The average sale price of any mineral grade/concentrate in respect of a month
+shall be the weighted average of the ex-mine prices of the non-captive mines,
+accordance with computed the in above provisions, the weight being the quantity
+dispatched from the mining lease area of mineral grade I concentrate relevant to each
+ex-mine price."
+
+13.In other words, Rule 39(3) of the MCR, 2016 provides that royalty would be calculated as the
+percentage of the average of the ‘Sale Value’. The Sale Value of any graded mineral / concentrate for
+the purposes of these rules in terms of Rule 38 is the gross amount payable as per the sale invoice
+including the royalty, DMF and NEMT paid. This Sale Value minus the actual expenditure incurred
+(without deducting the royalty, DMF and NEMT in terms of the Explanation to Rule 38) would be
+the ex-mine price of such mineral grade / concentrate. The weighted average of this ‘ex-mine price’
+shall be the ‘Average Sale Price’ for the purposes of calculating royalty.
+
+14.Similarly, under the Mineral Conservation and Development Rules, 2017 (for short, the “MCDR,
+2017”) that was enacted by the Central Government for the conservation and systematic
+development of minerals in exercise of its powers under Rule 18 of the MMDR Act, Rule 45(8)(b)
+provides that the ‘Sale Value’ for the purposes of the said rules is the gross amount payable without
+any deduction in respect of royalty, DMF and NEMT paid. The said rule reads as under: -
+
+“45. Monthly and annual returns – (8) In case of mining of minerals by the holder of
+a mining lease, the –
+
+(b) ex-mine price of mineral grade or concentrate shall be,– (I) where export has
+occurred, the total of, sale value on free-on-
+
+board (F.O.B) basis, less the actual expenditure incurred beyond the mining lease area towards –
+
+(i) transportation charges by road;
+
+(ii) loading and unloading charges;
+
+(iii) railway freight (if applicable);
+
+(iv) port handling charges or export duty;
+
+(v) charges for sampling and analysis;
+
+(vi) rent for the plot at the stocking yard;
+
+(vii) handling charges in port;
+
+(viii) charges for stevedoring and trimming;
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+7
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+(ix) any other incidental charges incurred outside the mining lease area as notified by the Indian
+Bureau of Mines from time-to-time, divided by the total quantity exported; (II) where domestic sale
+of mineral has occurred, the total of sale value of the mineral, less the actual expenditure incurred
+towards loading, unloading, transportation, rent for the plot at the stocking yard, charges for
+sampling and analysis and any other charges beyond mining lease area as notified by the Indian
+Bureau of Mines from time-to-time, divided by the total quantity sold; (III) where sale has occurred,
+between related parties and is not on arms’ length basis, then such sale shall not be recognised as a
+sale for the purposes of this rule and in such case, sub-clause shall be applicable;
+
+(IV) where the sale has not occurred, the average sale price published monthly by the Indian Bureau
+of Mines for that mineral grade or concentrate for a particular State:
+
+Provided that if for a particular mineral grade or concentrate, the information for a
+State for a particular month is not published by the Indian Bureau of Mines, the last
+available information published for that mineral grade or concentrate for that
+particular State by the Indian Bureau of Mines in the last six months previous to the
+reporting month shall be referred, failing which the latest information for all India
+for the mineral grade or concentrate, shall be referred;
+
+(V) the per unit cost of production in case of captive mines.”
+
+15.It is the case of the petitioners that, in view of the Explanation(s) appended to the definition of
+‘Sale Value’ in Rule 38 of the MCR, 2016 and Rule 45 of the MCDR, 2017, royalty which has already
+been paid in the previous month is again being factored for the purposes of computation of royalty
+to be paid for the subsequent months. Thus, it is the contention of the petitioners that this
+“compounding” of royalty by virtue of the aforesaid Explanations is manifestly arbitrary inasmuch
+as it has led to a cascading effect within the fold of determination of the rate of royalty under Section
+9 sub-section (3) of the MMDR Act.
+
+16.However, when it comes to computation of royalty in respect of coal, it was submitted by the
+petitioners that the Central Government has remedied the aforesaid anomaly by excluding the
+previously paid royalty and contributions towards DMF and NMET in its calculation, by way of an
+amendment vide Notification No. GSR 445(E) by inserting an Explanation in Entry A, Item 10 in the
+Second Schedule of the MMDR Act. The relevant provision reads as under: -
+
+"Explanation:- For the purposes of this sub entry –
+
+(iii)
+
+(iv) Actual price means the sale invoice value of coal, net of statutory dues including
+taxes, · contribution to levies, · royalty, National Mineral Exploration Trust and
+District Mineral Foundation ... "
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+8
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+17.The petitioners have contended that for the purposes of computation of royalty there exists no
+intelligible differentia between coal and iron ore and thus, the exclusion of royalty, DMF and NMET
+contributions for computation of sale value for coal but not for other minerals such as iron is
+manifestly arbitrary and the aforesaid Explanation(s) to Rule 38 of the MCR, 2016 and Rule 45 of
+the MCDR, 2017 is in consequence of violation of Article 14 of the Constitution and liable to be
+struck down.
+
+18.During the course of hearing, our attention was also drawn to the fact that on 25.05.2021, a
+notice was issued by a committee of the Ministry of Mines inviting comments and suggestions from
+all stakeholders on this issue of double calculation of royalty for computation of the ‘average sale
+price’, and that after receiving the responses, a report dated 31.01.2022 was submitted by the said
+committee to the Ministry of Mines giving its recommendations on the incidence of compounding
+royalty.
+
+19.Although the aforesaid report has not been made publicly available, yet the Ministry of Mines
+pursuant to the aforesaid report has issued a Notice dated 25.05.2022 for public consultation on
+amending the MMDR Act to bring reforms in the mining sector by inter-alia proposing amendment
+to the relevant rules for removing the cascading impact of royalty on royalty in the calculation of the
+‘average sale price’. The relevant portion of the aforesaid notice reads as under: -
+
+“1. Calculation of ASP: Removing the cascading impact of royalty on royalty
+
+(iv) A committee was constituted by the Ministry of Mines under chairmanship by
+Shri Praveen Kumar, /AS (Retd.) with members from Ministry of Mines, NIT/ Aayog,
+Ministry of Steel, Indian Bureau of Mines (IBM) and Indian Statistical Institute to
+examine the incidence of double calculation of royalty. The committee concluded that
+since the sale value already includes royalty, DMF and NMET, the Jessee pays royalty
+on royalty, DMF and NMET.
+
+Due to this, there is an additional charge on the miners under the current methodology.
+
+(vi) Accordingly, it is proposed to (i) introduce new section in the MMDR Act regarding ASP; (ii) the
+provision shall specifically provide that ex-mine price for determination of ASP shall exclude GST,
+export duty, royalty. DMF & NMET & such other levies as may be prescribed; (iii) the change will be
+applicable for all the MLs, whether auctioned/ granted before or after the commencement of the
+proposed MMDR Amendment Act, for the minerals removed or consumed from the leased area after
+the commencement of the said Act; and (iv) adoption of new formula only for the future dues for
+existing MLs arising after the amendment"
+
+20.The petitioners on the strength of the aforesaid notices issued by the Ministry of
+Mines have contended that although the respondents themselves have acknowledged
+the compounding of royalty in the computation of ‘average sale price’ yet no action or
+amendment has been made to the MMDR Act and the relevant rules thereunder in
+this regard.
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+9
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+21.In such circumstances referred to above, the petitioners have come up before this
+Court with the present writ petition.
+
+B. SUBMISSIONS OF THE PETITIONER
+
+22.Dr. A.M. Singhvi, the learned senior counsel for the petitioners presented the
+statutory background to us in his submissions. He submitted that Section 9(2) of the
+MMDR Act contemplates payment of royalty at the rates specified in the Second
+Schedule to the MMDR Act and that Section 9(3) of the MMDR Act affords revision
+of the rates, but with a proviso restricting it to once every 3 years.
+
+23.Dr. Singhvi apprised us of the fact that Section 13 of the MMDR Act empowers the
+Government of India to make rules, inter alia, with respect to the manner in which
+royalty shall be payable and consequent to such powers, the MCR, 2016 have been
+enacted. He submitted that Rule 39(3) of the MCR, 2016 provides that where royalty
+is to be paid on ad valorem basis, it shall be calculated as a specified percentage of the
+A S P   a s   p u b l i s h e d   b y   t h e   I n d i a n   B u r e a u   o f   M i n e s   f o r   t h e   m o n t h   o f
+removal/consumption. Moreover, he underlined that Rule 42 provides for the
+manner of computation of the ASP, and sub-rule (2)(b) thereof excludes the actual
+expenditure incurred from the sale value, in its prescriptions of the manner of
+computation.
+
+24.We were further apprised of the fact that the method to compute ASP is in turn
+governed by Rule 38 of the MCR, 2016 which defines the term “sale value” and the
+Explanation thereto which stipulates that the royalty as well as the contributions
+made to DMF and NMET will not be deducted while computing the “sale value”. He
+pointed out a similar method of computation in Rule 45(8)(a) of the MCDR, 2017
+which prescribes the manner of filing of monthly and annual returns.
+
+25.He submitted that the present petition seeks to challenge the Explanation to Rule
+38 of the MCR, 2016 and Explanation to Rule 45(8)(a) of the MCDR, 2017 as they
+mandate the non-exclusion of royalty and the contributions made to DMF and
+NMET, in the computation of the “sale value”.
+
+26.The learned senior counsel contended that the Impugned Explanations lead to a
+situation where the royalty as well as payments to DMF and NMET made previously,
+are included in the ASP, which, in turn, is used as the basis to compute royalty for the
+next month. Such method of computation of ASP effectively results in the payment of
+royalty as well as DMF and NMET contributions not only on the value of the
+ore/mineral, but also on the royalty, DMF and NMET contributions paid in the
+previous month. Thus, there is an imposition of royalty on a royalty. It was contended
+that the Impugned Explanations create a twin charge on royalty: first, a charge on the
+value of the mineral before payment of royalty at the prescribed rate; and, secondly, a
+re-charge of royalty on royalty at a prescribed rate. It was submitted that such
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+10
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+re-charge of royalty on royalty is ultra vires to the scope of Section 9(3) of the MMDR
+Act.
+
+27.The learned senior counsel contended that the Impugned Explanations are
+manifestly arbitrary for the following reasons:
+
+(i) The present methodology for computing royalty leads to a compounding or
+cascading effect as it creates a charge of royalty on previous month’s royalty.
+
+(ii) It has been held by a 9-Judge Bench of this Court in Mineral Area Development
+Authority & Anr. v. Steel Authority of India Limited & Anr. reported in 2024 SCC
+OnLine SC 1974 that royalty is a consideration for extracting minerals. Therefore,
+such consideration cannot be compounded every month.
+
+(iii) Rule 42(2)(b) of the MCR, 2016 excludes actual expenditure incurred towards
+transportation, loading, unloading, rent for the plot at the stocking yard, charges for
+sampling and analysis and any other charges beyond mining lease area. However, the
+impugned Explanations do not exclude royalty, DMF and NMET contributions from
+such actual expenditure. It was contended that royalty is also an expense as it has
+been excluded from the category of taxes, therefore, it is illogical to not exclude the
+same from the ex-mine price.
+
+28. The learned senior counsel referred to the following judgments pronounced by this Court to
+submit that manifest arbitrariness is a well-recognized ground to challenge the validity of a
+legislation and the same has been acknowledged as a facet of Article 14:
+
+• Manish Kumar v. Union of India reported in (2021) 5 SCC 1;
+
+• Dy. Commissioner of Income Tax & Anr. v. Pepsi Foods Limited reported in (2021)
+7 SCC 413.
+
+29. Dr. Singhvi also submitted that there is no statutory prescription for the inclusion of royalty,
+DMF and NMET contributions while computing ASP. It is only the Impugned Explanations which
+save these payments from being excluded thereby resulting in a compounding or cascading effect.
+
+30. We were informed by the learned senior counsel that this anomaly has been noticed by the
+Government of India in a report of a committee set up by the Ministry of Mines and a public notice
+dated 25.05.2022 has been published to call for suggestions in this regard. He submitted that the
+Ministry of Mines is charged with administering the MMDR Act. Therefore, the Consultation Paper
+of 2022, published by it is contemporeo exposito and is a valid aid of construction of the relevant
+Rules and the Impugned Explanations as per the dictum of this Court in K.P. Varghese v. ITO
+reported in (1981) 4 SCC 173.
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+11
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+31. Furthermore, such anomaly was remedied by the Ministry of Coal with respect to only coal by
+effecting an amendment to Schedule II of the MMDR Act, which defined “actual price” for the
+purpose of imposing royalty at ad valorem rates, to mean the sale invoice value of coal, net of
+statutory dues including taxes, levies, royalty, contribution to National Mineral Exploration Trust
+and District Mineral Foundation. The learned senior counsel submitted that remedying such
+anomaly for coal but not for iron ore creates a classification which has no intelligible differentia and
+is in violation of Article 14.
+
+32. It was also submitted that lessees such as the petitioner herein, who have secured a mine in an
+auction, also pay a premium in terms of Rules 8 and 13(2) of the Mineral (Auction) Rules, 2015
+respectively which is calculated on the basis of the flawed definition of ASP.
+
+33. Dr. Singhvi while countering the submissions of the learned senior counsel for the Union of
+India, submitted that the compounding or cascading effect occurring every single month cannot
+come within the fold of determination of the rate of royalty under Section 9(3) of the MMDR Act, as
+it would be in contravention to the proviso thereto which prohibits a change of rate of royalty for
+three years.
+
+C. SUBMISSIONS OF THE RESPONDENT
+
+34.Mr. Shailesh Madiyal, the learned ASG appearing on behalf of the Union of India presented the
+scheme of the MMDR Act and the MCR, 2016 in relation to the computation of royalty and
+submitted that Section 9(1) of the MMDR Act requires the holder of a mining lease to pay royalty in
+respect of the mineral being mined from the lease area at the rate specified in Schedule II of the
+MMDR Act. He apprised us of the fact that Section 9(3) permits the Government of India to issue
+notifications to amend Schedule II to increase or reduce the rate at which royalty is payable. He
+informed that the rate of royalty for iron ore at present is 15% of average sale price on ad valorem
+basis.
+
+35.The learned ASG submitted that the computation of the ASP is to be done on a monthly basis and
+as per Rule 42(3), the ASP of any mineral grade/concentrate for a particular month shall be the
+weighted average of the ex-mine prices of the non-captive mine. He submitted that the ASP with
+respect to a particular month is unrelated to the ASP of the previous month and there can be no
+cumulative effect on the royalty charged.
+
+36.It was submitted that Rule 42(2)(b) of the MCR, 2016 provided that where domestic sale has
+occurred, the ex-mine price of a mineral grade or concentrate is the “sale value” of the mineral less
+the actual expenditure incurred towards transportation, loading and unloading, etc. divided by the
+total quantity sold.
+
+37.The learned senior counsel then proceeded to submit that the term “sale value” is defined in Rule
+38 of the MCR, 2016 and the Explanation thereto provides that no deduction from the gross amount
+will be made in respect of royalty, payments to the DMF and NMET.
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+12
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+38.Mr. Madiyal submitted that the writ petition, challenging the Impugned Explanations, has been
+filed under Article 32 of the Constitution of India and therefore, is not maintainable as the petitioner
+ought to have approached the High Court under Article 226.
+
+39.The learned senior counsel referred to the decision of a 5-Judge Bench of this Court in the case of
+Natural Resources Allocation, In Re: Special Reference No. 1 of 2012 reported in (2012) 10 SCC 1 to
+submit that the methodology pertaining to disposal of natural resources is an economic policy
+entailing intricate economic choices. Therefore, the manner of computation of royalty is a matter of
+policy and must be left to the discretion of the executive and legislative authorities, as the case may
+be.
+
+40.The learned ASG that the petitioner’s challenge to the Impugned Explanations does not meet the
+threshold of ‘manifest arbitrariness’ that is, whether an action was done or legislation was enacted
+capriciously, irrationally and/or without adequate determining principle, and cannot be excessive
+and disproportionate. He vehemently argued that no evidence or data was provided by the
+petitioner to show that the Impugned Explanations result in an endless monthly cumulative
+exaction of royalty. He submitted that the ASP for a succeeding month could in fact be lower than
+that of the previous month and no consistent monthly cumulative effect was possible.
+
+41.Mr. Madiyal also contended that at the time of the auction of mining leases, the bids submitted
+are taking into consideration the existing legal regime, which includes Rule 38 of the MCR, 2016 as
+well as the Explanation thereto, and the bidders are aware that royalty and auction premium is
+calculated on the basis of the sale value which is inclusive of the royalty and contributions to DMF
+and NMET of the previous month. He submitted that the revenue of a State comprises of the royalty
+collected from such mining leases. Changing the methodology of calculation of “sale value” by
+excluding the royalty payable for mining leases which have already been auctioned would therefore,
+result in loss of revenue to the States as estimated at the beginning of the auctioning process. It was
+submitted that it is important that the revenue of the state Governments should be protected.
+
+42.He further submitted that there is no legal bar on the imposition of royalty on royalty and cannot
+be adjudged on the same footing as a case of “tax on tax”, in light of this Court’s decision in Mineral
+Area Development Authority (supra)wherein it was held that royalty is not a tax.
+
+43.On the status of public consultations, Mr. Madiyal submitted that the Committee constituted by
+the Ministry of Mines has received the views & suggestions from various stakeholders as well as
+from the State Governments. However, the issue is under consideration and no decision yet has
+been taken on the matter. The learned ASG apprised us of the fact that the Committee is
+deliberating on the question of the amendment of the Rules and the impact of such amendment on
+the determination of royalty and auction premium payable in respect of mining leases auctioned
+prior to the amendment, if any carried out in the future.
+
+D. ISSUE FOR DETERMINATION
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+13
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+44.Having heard the learned counsel appearing for the parties and having gone through the
+materials on record, the pivotal question of law that falls for our consideration: -
+
+I. Whether, the Explanation(s) appended to Rule 38 of the MCR, 2016 and Rule 45 of
+the MCDR, 2017 respectively are unreasonable and manifestly arbitrary and in
+consequence of violation of Article 14 of the Constitution?
+
+E. ANALYSIS
+
+45.Before, we proceed with the analysis, it is necessary to understand the case of the
+petitioners in the present litigation as discernible from their pleadings. The argument
+of the petitioners in sum is twofold: -
+
+(i) First, that the very inclusion of the royalty, and contributions towards DMF and
+NMET paid previously for the purpose of computation of the requisite royalty for
+subsequent months is manifestly arbitrary. The said mechanism of computation of
+royalty has a cascading effect on the rate of royalty for every subsequent month.
+
+(ii) Secondly, the exclusion of the royalty, and contributions towards DMF and
+NMET paid previously for coal but not for other minerals such as iron ore for
+computation of royalty is unreasonable and manifestly arbitrary. There exists no
+intelligible differentia between coal and iron ore or any other similar mineral and
+thus the act of the legislature in excluding the royalty, and contributions towards
+DMF and NMET for one but not for the other i.e., for coal but not for iron is in
+violation of Article 14 of the Constitution and thus, the Explanation(s) to Rule 38 of
+the MCR, 2016 and Rule 45 of the MCDR, 2017 is liable to be struck down.
+
+i. Whether the manner or mechanism of computation of royalty under the MCR, 2016 and MCDR,
+2017 is manifestly arbitrary?
+
+46.In M.P. Oil Extraction & Anr. v. State of Madhya Pradesh & Ors, reported in (1997) 7 SCC 592,
+this Court held that policy decisions are the domain of the executive authority of the State and that
+the courts should not embark on the unchartered ocean of public policy and should not question the
+efficacy or otherwise of such policy so long the same does not offend any provision of the stature or
+the Constitution of India. It further observed that unless the policy framed is absolutely capricious
+or not informed by reasons, the court cannot and should not outstep its limit and tinker with the
+policy decision of the executive functionary of the State. The relevant observations read as under: -
+
+"41. After giving our careful consideration to the facts and circumstances of the case
+and to the submissions made by the learned counsel for the parties, it appears to us
+that the Industrial Policy of 1979 which was subsequently revised from time to time
+cannot be held to be arbitrary and based on no reason whatsoever but founded on
+mere ipse dixit of the State Government of M.P. The executive authority of the State
+must be held to be within its competence to frame a policy for the administration of
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+14
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+the State. Unless the policy framed is absolutely capricious and, not being informed
+by any reason whatsoever, can be clearly held to be arbitrary and founded on mere
+ipse dixit of the executive functionaries thereby offending Article 14 of the
+Constitution or such policy offends other constitutional provisions or comes into
+conflict with any statutory provision, the Court cannot and should not outstep its
+limit and tinker with the policy decision of the executive functionary of the State. This
+Court, in no uncertain terms, has sounded a note of caution by indicating that policy
+decision is in the domain of the executive authority of the State and the Court should
+not embark on the unchartered ocean of public policy and should not question the
+efficacy or otherwise of such policy so long the same does not offend any provision of
+the stature or the Constitution of India. The supremacy of each of the three organs of
+the State i.e. legislature, executive and judiciary in their respective fields of operation
+needs to be emphasised. The power of judicial review of the executive and legislative
+action must be kept within the bounds of constitutional scheme so that there may not
+be any occasion to entertain misgivings about the role of judiciary in outstepping its
+limit by unwarranted judicial activism being very often talked of in these days. The
+democratic set-up to which the polity is so deeply committed cannot function
+properly unless each of the three organs appreciate the need for mutual respect and
+supremacy in their respective fields.” (Emphasis supplied)
+
+47.Similarly, in Premium Granites & Anr. v. State of Tamil Nadu & Ors. reported in (1994) 2 SCC
+691, this Court observed that it is not the domain of the courts to consider as to whether a particular
+policy is wise or that a better public policy can be evolved, and that such matters must be left to the
+discretion of the executive and legislature. The relevant observations read as under: -
+
+“54. It is not the domain of the Court to embark upon unchartered ocean of public
+policy in an exercise to consider as to whether the particular public policy is wise or a
+better, public policy can be evolved. Such exercise must be left to the discretion of the
+executive and legislative authorities as the case may be. …” (Emphasis supplied)
+
+48.In yet one another decision of this Court in Delhi Science Forum and Others v. Union of India
+and Another reported in (1996) 2 SCC 405 it was observed that the courts should not express
+opinion as to whether a particular policy should be adopted or not, and no such direction can be
+given unless they pertain to the implementation of any policy as a result of which there is a violation
+or infringement of any constitutional or statutory provision. The relevant observations read as
+under: -
+
+"7. What has been said in respect of legislations is applicable even in respect of
+policies which have been adopted by Parliament. They cannot be tested in Court of
+Law. The courts cannot express their opinion as to whether at a particular juncture or
+under a particular situation prevailing in the country any such national policy should
+have been adopted or not. There may be views and views, opinions and opinions
+which may be shared and believed by citizens of the country including the
+representatives of the people in Parliament. But that has to be sorted out in
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+15
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+Parliament which has to approve such policies. Privatisation is a fundamental
+concept underlying the questions about the power to make economic decisions. What
+should be the role of the State in the economic development of the nation? How the
+resources of the country shall be used? How the goals fixed shall be attained? What
+are to be the safeguards to prevent the abuse of the economic power? What is the
+mechanism of accountability to ensure that the decision regarding privatisation is in
+public interest? All these questions have to be answered by a vigilant Parliament.
+Courts have their limitations because these issues rest with the policy- makers for the
+nation. No direction can be given or is expected from the courts unless while
+implementing such policies, there is violation or infringement of any of the
+constitutional or statutory provision. The new Telecom policy was placed before
+Parliament and it shall be deemed that Parliament has approved the same. This Court
+cannot review and examine as to whether the said policy should have been adopted.
+Of course, whether there is any legal or constitutional bar in adopting such policy can
+certainly be examined by the Court".
+
+(Emphasis supplied)
+
+49.In Balco Employees’ Union v. Union of India reported in (2002) 2 SCC 333 this Court held that it
+is not for the courts to consider the relative merits of different economic policies and consider
+whether a better policy may be evolved. It further held that when it comes to policy decisions on
+economic matters, the courts ought to be very circumspect in disturbing such conclusions unless
+there is an illegality in the decision itself. The relevant observations read as under: -
+
+“93. Wisdom and advisability of economic policies are ordinarily not amenable to
+judicial review unless it can be demonstrated that the policy is contrary to any
+statutory provision or the Constitution. In other words, it is not for the Courts to
+consider relative merits of different economic policies and consider whether a wiser
+or better one can be evolved. For testing the correctness of a policy, the appropriate
+forum is the Parliament and not the Courts.
+
+xxx xxx xxx
+
+98. In the case of a policy decision on economic matters, the Courts should be very
+circumspect in conducting any enquiry or investigation and must be most reluctant to
+impugn the judgement of the experts who may have arrived at a conclusion unless
+the Court is satisfied that there is illegality in the decision itself.” (Emphasis supplied)
+
+50.It is possible that at the relevant time in respect of some of the minerals, royalty was being
+computed without inclusion of the royalty, DMF and NEMT contributions previously paid, however,
+that does not mean that the Central Government’s power is restricted and that the Central
+Government cannot alter the mode of computation of royalty. Merely, because the methodology or
+formula for computation of royalty has been altered from what it was under
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+16
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+the erstwhile MCR, 1960 will not make the new mechanism or methodology
+unreasonable or arbitrary and liable to be struck down.
+
+51.From the above conspectus of decisions referred to by us, it is clear that the whether a particular
+policy is wise or that a better public policy can be evolved is purely the domain of the executive of
+the state. Matters such as computation of royalty or the levy of such royalty on different minerals is
+entirely a matter of policy making which is beyond the expertise and domain of the courts. It is no
+longer res-integra, that a question as regards the validity of a particular policy is concerned with
+reviewing not the merits of such decision or policy, but the very policy making process itself. The
+duty of the courts is to confine itself to the question of legality and its concern should be whether a
+policymaking authority exceeded its powers, whether it committed an error of law or committed a
+breach of the rules of natural justice or reached a decision which no reasonable authority would
+have reached or whether it has abused its powers.
+
+52.In a constitutional democracy, each branch of government—executive, legislative, and judiciary
+— has a defined role and operates within its designated boundaries. This separation of powers
+ensures that one branch does not encroach upon the functions of the others, preserving a system of
+checks and balances crucial to democratic governance. Within this framework, courts are primarily
+responsible for interpreting and upholding the law, while the executive and legislature hold the
+mandate to formulate and implement policy. This division is essential, as it aligns with the principle
+that policy-making, particularly in areas requiring specialized knowledge, foresight, and discretion,
+should remain within the domain of the elected representatives and those with the requisite
+expertise.
+
+53.Judicial restraint is rooted in the understanding that courts should respect the decisions made by
+the legislative and executive branches, provided these decisions are legally sound and
+constitutionally valid. By adhering to judicial restraint, courts avoid overstepping their
+constitutional role and thereby prevent potential conflicts with the executive and legislative
+branches. The principle of separation of powers supports the idea that each branch has a unique
+role, and mutual respect between these branches is essential for the proper functioning of
+government. The courts are to ensure that laws and policies do not infringe upon citizens' rights or
+exceed the authority granted by law. However, this role does not extend to evaluating whether a
+policy is “wise” or whether a better one could be devised, and rather this process is entrusted to the
+legislature and executive, which have the expertise to make these determinations.
+
+54.The doctrine of judicial restraint, which is central to this discussion, emphasizes that courts
+should exercise caution and avoid involvement in policy decisions, as these are complex judgments
+that require a balancing of diverse and often competing interests. Policies are crafted based on
+thorough analysis of social, economic, and political factors, considerations beyond the court’s
+purview. The court is tasked with ensuring that policies do not breach constitutional provisions or
+statutory limits; however, they should not replace policymakers' judgments with their own unless
+absolutely necessary.
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+17
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+55.Policy decisions often require the expertise of professionals and specialists in fields such as
+economics, public health, national security, and environmental science. These domains involve
+specialized knowledge that judges, as generalists in legal matters, may lack. For instance, in
+economic policy, the executive may decide on trade tariffs or subsidies based on extensive data and
+projections that aim to balance domestic industry support with global trade commitments. The
+courts, lacking the same level of economic expertise and without the authority to make trade-offs
+among competing policy objectives, is typically not equipped to second-guess these kinds of
+decisions.
+
+56.While courts have the power of judicial review to ensure that executive actions and legislative
+enactments comply with the Constitution, this power is not absolute. Judicial review is meant to act
+as a safeguard against actions that overstep legal boundaries or infringe on fundamental rights, but
+it does not entail a comprehensive re-evaluation of the policy’s wisdom. The judicial review of policy
+decisions is limited to assessing the legality of the decision- making process rather than the
+substantive merits of the policy itself. For example, if a government policy infringes on fundamental
+rights or discriminates against a particular group, the courts have a duty to strike down such
+policies. However, in the absence of constitutional or legal violations, the courts should respect the
+policy choices made by the executive or legislature.
+
+57.The duty of the court in policy-related cases is primarily to determine whether the policy falls
+within the scope of the authority granted to the relevant body. If the policy decision is within the
+executive's legal authority and has been made following proper procedures, the courts should defer
+to the expertise and discretion of the policy-makers, even if the policy appears unwise or imprudent.
+This restraint ensures that the courts do not impose its own perspective on policy matters that are
+rightly the responsibility of other branches.
+
+58.Economic and social policies often involve significant redistribution of resources, prioritization
+of interests, and balancing of public needs, which requires careful consideration by those with
+specialized knowledge and broad perspectives. In the realm of economic policy, for instance,
+questions regarding the allocation of subsidies, fiscal deficits, or budget allocations are best
+managed by the executive, which has access to economic data and is accountable to the public for its
+financial management. Judicial interference in such areas risks creating disruptions in the economic
+balance that policy- makers are trying to achieve.
+
+59.Courts should assume that policy-makers act in good faith unless there is clear evidence to the
+contrary. As long as the policy does not contravene the Constitution or violate statutory provisions,
+it is not the role of the courts to question the wisdom or fairness of such policy.
+
+60.While judicial restraint is essential in respecting the boundaries of each branch of government, it
+does not mean that courts abdicate their responsibility to protect constitutional rights. The courts
+must still intervene if a policy infringes on fundamental rights, discriminates unfairly, or breaches
+statutory provisions. The role of the court in such instances is to protect individuals and groups
+from unlawful actions while maintaining the overall integrity of the policy-making process. This
+balance ensures that while courts do not interfere in matters of policy wisdom, they remain vigilant
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+18
+
+guardians of constitutional rights.
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+61.In the present case, there is no doubt that the mechanism for computation of royalty in terms of
+Rule 38 of the MCR, 2016 and Rule 45 of the MCDR, 2017 devised by the respondents might have
+onerous implications in monetary terms on the mining leaseholders inasmuch as there is a
+compounding effect on the rate of royalty for every subsequent month. However, this Court in the
+absence of anything to show that such policy is in excess of the powers or domain of the respondents
+herein or in breach of any statutory provision, cannot strike down the same.
+
+62.It was argued by the petitioners, that here is no statutory prescription for the inclusion of royalty,
+DMF and NMET contributions while computing ASP. In other words, but for these Explanations,
+there would be no compounding or cascading effect in the computation of royalty.
+
+63.This Court in State of Punjab v. Principal Secretary to the Governor of Punjab & Anr. reported in
+2023 INSC 1017 it was held that a proviso may be in the form of an exception or in the form of an
+explanation or in addition to the substantive provision of a statute. The relevant observations read
+as under:
+
+-
+
+“22. A proviso, as is well settled, may fulfil the purpose of being an exception.
+Sometimes, however, a proviso may be in the form of an explanation or in addition to
+the substantive provision of a statute. [...]”
+
+64.Similarly in State of U.P. v. Achal Singh, reported in (2018) 17 SCC 578 this Court reiterated that
+an Explanation becomes part of the main section and can be read as proviso and be understood as
+explaining the scope of the main provision. The relevant observations read as under: -
+
+“19. Reliance was also placed on the decision rendered by this Court in State of
+Bombay v. United Motors (India) Ltd. [State of Bombay v. United Motors (India)
+Ltd., (1953) 1 SCC 514 : AIR 1953 SC 252] and Bengal Immunity Co. Ltd. v. State of
+Bihar [Bengal Immunity Co. Ltd. v. State of Bihar, AIR 1955 SC 661] , in which it has
+been observed that Explanation can be read as proviso and it explains the scope of
+the main provision and the Explanation becomes part of the main section. There is no
+dispute with the aforesaid proposition. The Explanation in the Rules in question has
+to be applied to both the situations as contemplated in Rule 56(c) and is applicable to
+both the exigencies not only when the Government decides to retire an employee, but
+also applicable where voluntary retirement is sought by an employee. It cannot be
+said that no further restriction by Explanation has been added in a case where an
+employee has decided to obtain voluntary retirement. The public interest is the prime
+consideration on which authority has to decide such a prayer as per the rules
+applicable in the State of Uttar Pradesh.” (Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+19
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+65.What can be discerned from the above is that an Explanation must be read so as to harmonise
+with and clear up any ambiguity in the main section. It should not be so construed as to widen the
+ambit of the section. An explanation does not enlarge the scope of the original section that it is
+supposed to explain. It is axiomatic that an explanation only explains and does not expand or add to
+the scope of the original section. The purpose of an explanation is, however, not to limit the scope of
+the main provision. The construction of the explanation must depend upon its terms, and no theory
+of its purpose can be entertained unless it is to be inferred from the language used. An 'explanation'
+must be interpreted according to its own tenor. Sometimes an explanation is appended to stress
+upon a particular thing which ordinarily would not appear clearly from the provisions of the section.
+The proper function of an explanation is to make plain or elucidate what is enacted in the
+substantive provision and not to add or subtract from it. Thus, an explanation does not either
+restrict or extend the enacting part; it does not enlarge or narrow down the scope of the original
+section that it is supposed to explain. The Explanation must be interpreted according to its own
+tenor; that it is meant to explain and not vice versa. Explanation added to a statutory provision is
+not a substantive provision in any sense of the term but as the plain meaning of the word itself
+shows it is merely meant to explain or clarify certain ambiguities which may have crept in the
+statutory provision.
+
+66.Merely because the Explanation(s) to Rule 38 of the MCR, 2016 and Rule 45 of the MCDR, 2017
+provides that there shall be no deduction of royalty, payments to the District Mineral Foundation
+and payments to the National Mineral Exploration Trust from the gross amount for the purpose of
+computing sale value does not in any manner makes the aforesaid Explanation in derogation of the
+main provision. The aforesaid Explanation(s) are merely clarificatory in nature inasmuch as it
+explains the ambiguities in the main provisions of Rule 38 of the MCR, 2016 and Rule 45 of the
+MCDR, 2017, and thus, they cannot be said to exceed the ambit of the main provisions or in
+contravention of the statutory scheme.
+
+ii. Whether the exclusion of royalty, and contributions towards DMF and NMET paid previously for
+coal but not for other minerals is unreasonable and manifestly arbitrary?
+
+67.In R.K. Garg v. Union of India reported in (1981) 4 SCC 675, this Court observed that laws
+relating to economic activities should be viewed with greater latitude and the legislature should be
+allowed some play in the joints, because it has to deal with complex problems which do not admit of
+solution through any doctrinaire or strait-jacket formula. The relevant observations read as under: -
+
+“8. Another rule of equal importance is that laws relating to economic activities
+should be viewed with greater latitude than laws touching civil rights such as freedom
+of speech, religion, etc. It has been said by no less a person than Holmes, J. that the
+legislature should be allowed some play in the joints, because it has to deal with
+complex problems which do not admit of solution through any doctrinaire or
+strait-jacket formula and this is particularly true in case of legislation dealing with
+economic matters, where, having regard to the nature of the problems required to be
+dealt with, greater play in the joints has to be allowed to the legislature. The court
+should feel more inclined to give judicial deference to legislative judgment in the field
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+20
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+of economic regulation than in other areas where fundamental human rights are
+involved.” (Emphasis supplied)
+
+68.Similarly in State of Tamil Nadu and Anr. v. National South Indian River Interlinking
+Agriculturist Association reported in (2021) 15 SCC 534 it was held that courts should show a higher
+degree of deference to matters concerning economic policy. The relevant observations read as
+under: -
+
+“11. … It is also settled that the Courts would show a higher degree of deference to
+matters concerning economic policy, compared to other matters of civil and political
+rights. …”
+
+69.While examining the challenge to the validity of laws relating to economic activities, the courts
+must be slow and circumspect. A higher degree of deference needs to be shown in such matters, and
+sufficient flexibility should be given to the legislature and the executive in dealing with economic
+matters. Complex issues of economic and fiscal nature cannot be construed by any strait-jacket
+formula or unidirectional approach. This Court has time and again recognised that a judicial
+hands-off approach must be followed qua economic legislation and that the legislature is to be
+allowed wide latitude in experimenting with economic legislation, by virtue of it being an extension
+of the Government’s economic policy.
+
+70.Since the MMDR Act and the rules thereunder pertain to the extraction, disposal and sale of
+natural resources which is an economic policy that entails intricate economic choices and have a
+direct effect on the macroeconomics, we are of the considered opinion that when it comes to
+computation of royalty the legislature must have greater play in the joints.
+
+71.The exclusion of royalty, and contributions towards DMF and NMET paid previously for coal but
+not for other minerals cannot be termed as arbitrary or unreasonable, merely because the
+computation for one differs from the other in certain aspects. Deference needs to be shown to the
+legislature in deciding how royalty must be computed in respect of different mineral grades /
+concentrates.
+
+72.However, the present petition particularly the challenge to the validity of the Explanation(s) to
+Rule 38 of the MCR, 2016 and Rule 45 of the MCDR, 2017 is unique in its own way. While there is
+nothing to show that such policy is in excess of the powers or domain of the respondents herein or in
+breach of any statutory provision, at the same time, we should not ignore or overlook the fact that
+the legislature itself has acknowledged the anomaly in compounding of royalty etc. for the purpose
+of computation of average sale price.
+
+73.Similarly, though the discretion to exclude previously paid royalty and contributions for coal but
+not for other minerals cannot be approached in a rigid manner and it would be incorrect to import
+policies framed and tailored by the executive for one particular subject-area and blanketly apply it to
+other related subject-areas, as it is the executive which is best suited to determine the fine
+distinctions existing between interlacing or seemingly similar domains and formulate distinct
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+21
+
+policies to best factor in the dissimilarities.
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+74.However, this Court in Tata Steel Ltd. v. Union of India, reported in (2015) 6 SCC 193 while
+examining Rule 64B of the erstwhile MCR, 1960 has observed that the aforesaid rules were general
+in nature and applicable to types of minerals including coal. This Court rejected the categorization of
+coal on a different pedestal from other minerals under the MMDR Act for the purpose of levy of
+royalty. The relevant observations read as under: -
+
+“70. There is nothing to indicate in Rule 64-B and Rule 64-C of the MCR that coal has
+been put on a different pedestal from other minerals mentioned in the MMDR Act
+read with the Second Schedule thereto. It is, therefore, difficult to accept the view
+canvassed by the Union of India that these Rules “may not be particularly applicable
+on coal minerals”. That apart, the stand of the Union of India is not definite or
+categorical (“may not be”). In any event, we are not bound to accept the
+interpretation given by the Union of India to Rule 64-B and Rule 64-C of the MCR as
+excluding only coal. On the contrary, in NMDC [National Mineral Development
+Corpn. Ltd. v. State of M.P., (2004) 6 SCC 281] this Court has observed that these
+Rules are general in nature, applicable to all types of minerals, which includes coal.
+The expression of opinion by the Union of India is contrary to the observations of this
+Court.
+
+71. Therefore, on a plain reading of Rule 64-B and Rule 64-C of the MCR, we are of
+the opinion that with effect from 25-9-2000 when these Rules were inserted in the
+MCR, royalty is payable on all minerals including coal at the stage mentioned in these
+Rules, that is, on removal of the mineral from the boundaries of the leased area. For
+the period prior to that, the law laid down in Central Coalfields Ltd. [Central
+Coalfields Ltd. v. State of Jharkhand, Civil Appeal No. 8395 of 2001 decided by three
+learned Judges on 24-9-2003. Ed. : Now reported at (2015) 6 SCC
+
+220.] will operate, as far as coal is concerned, from 10-8-1998 when SAIL [State of
+Orissa v. SAIL, (1998) 6 SCC 476] was decided, though for different reasons.”
+(Emphasis supplied)
+
+75.Even the respondents herein appear to have acknowledged that the differing
+mechanism for computation of royalty for coal and other minerals is not based on
+any fine distinction between the two, but rather an anomaly in the MCR, 2016 and
+MCDR, 2017, which is why it constituted a committee to look into the same and has
+proposed amendments for rectifying the same.
+
+76.In view of the fact that the appropriate authorities are actively considering the
+issue of compounding royalties in the computation of average sale price for all other
+minerals, and the fact that a notice for public consultation on amending the MMDR
+Act to inter-alia address the aforementioned issue, we may not say anything further
+as regards whether the Explanation(s) to Rule 38 of the MCR, 2016 and Rule 45 of
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+22
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+the MCDR, 2017 are manifestly arbitrary or not. Although, the computation of royalty
+for different minerals is purely a matter of policy yet we should not just shut our eyes
+to the prima-facie anomaly that exists both in the very computation mechanism of
+average sale price for minerals in terms of the aforesaid provisions and the
+perplexing stance of exclusion of only coal from such mechanism despite the general
+nature and application of the aforesaid rules.
+
+77.However, we intend to grant one last opportunity to the respondents herein to
+seriously consider the mechanism of computation of average sale for the purposes of
+determining the rate of royalty for all other minerals in terms of the Explanation(s) to
+Rule 38 of the MCR, 2016 and Rule 45 of the MCDR, 2017. We direct the respondents
+to conclude the process of public consultation in respect of the compounding of
+royalties and take a well-meaning decision keeping in mind the representations made
+by the petitioners herein.
+
+78.We may remind the respondents that, it cannot continue to keep the aforesaid
+issue in limbo on the pretext of ongoing process of public consultation process.
+
+In this regard, we may refer to the decision in State of Jharkhand v. Brahmputra Metallics Ltd.,
+reported in (2023) 10 SCC 634, wherein the following observations of this Court are significant: -
+
+“50. It is one thing for the State to assert that the writ petitioner had no vested right
+but quite another for the State to assert that it is not duty-bound to disclose its
+reasons for not giving effect to the exemption notification within the period that was
+envisaged in the Industrial Policy, 2012. Both the accountability of the State and the
+solemn obligation which it undertook in terms of the policy document militate
+against accepting such a notion of State power. The State must discard the colonial
+notion that it is a sovereign handing out doles at its will. Its policies give rise to
+legitimate expectations that the State will act according to what it puts forth in the
+public realm. In all its actions, the State is bound to act fairly, in a transparent
+manner. This is an elementary requirement of the guarantee against arbitrary State
+action which Article 14 of the Constitution adopts. A deprivation of the entitlement of
+private citizens and private business must be proportional to a requirement grounded
+in public interest. This conception of State power has been recognised by this Court
+in a consistent line of decisions. As an illustration, we would like to extract this
+Court's observations in National Buildings Construction Corpn. [National Buildings
+Construction Corpn. v. S. Raghunathan, (1998) 7 SCC 66 : 1998 SCC (L&S) 1770] :
+(SCC p. 75, para 18) “18. … The Government and its departments, in administering
+the affairs of the country, are expected to honour their statements of policy or
+intention and treat the citizens with full personal consideration without any iota of
+abuse of discretion. The policy statements cannot be disregarded unfairly or applied
+selectively.
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+23
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+Unfairness in the form of unreasonableness is akin to violation of natural justice.”” (Emphasis
+supplied)
+
+79.We may also remind the respondents of one another decision of this Court in Ramana Dayaram
+Shetty v. International Airport Authority of India & Ors. reported in AIR 1979 SC 1628 wherein it
+was held that an executive authority must be rigorously held to the standard by which it professes its
+actions to be judged. The relevant observations read as under: -
+
+“10. [...] It is a well-settled rule of administrative law that an executive authority must
+be rigorously held to the standards by which it professes its actions to be judged and
+it must scrupulously observe those standards on pain of invalidation of an act in
+violation of them. [...]” (Emphasis supplied)
+
+80.Once the respondents have themselves initiated a public consultation process for amending the
+MMDR Act to inter-alia address the aforementioned anomaly in computation of royalty, they must
+take a prompt decision in this regard. Merely because it has the discretion to take such policy
+decision does not mean that it can endlessly keep on prolonging the decision-making process
+whereby the very discretion is rendered ad-lib and the issue in itself a forgone conclusion.
+
+81.Before, we close this matter, we must make a reference to the decision in Narottam Kishore Deb
+Varman v. Union of India, reported in (1964) 7 SCR 55 wherein this Court was called upon to decide
+a batch of petitions challenging the validity of Section 87B of the Code of Civil Procedure, 1908. In
+the said decision, although this Court stopped short from holding the provision as unconstitutional
+yet it called upon the government to examine if the provision was to be allowed to continue for all
+times to come. It further observed that the considerations on which the validity of the provision is
+founded will wear out with the passage of time and may later become open to a serious challenge.
+The relevant observations read as under: -
+
+“11. Before we part with this matter, however, we would like to invite the Central
+Government to consider seriously whether it is necessary to allow Section 87-B to
+operate prospectively for all time. The agreements made with the Rulers of Indian
+States may, no doubt, have to be accepted and the assurances given to them may have
+to be observed. But considered broadly in the light of the basic principle of the
+equality before law, it seems somewhat odd that Section 87-B should continue to
+operate for all time. For past dealings and transactions, protection may justifiably be
+given to Rulers of former Indian States; but the Central Government may examine
+the question as to whether for transactions subsequent to 26th of January, 1950, this
+protection need or should be continued. If under the Constitution all citizens are
+equal, it may be desirable to confine the operation of Section 87- B to past
+transactions and not to perpetuate the anomaly of the distinction between the rest of
+the citizens and Rulers of former Indian States. With the passage of time, the validity
+of historical considerations on which Section 87-B is founded will wear out and the
+continuance of the said section in the Code of Civil Procedure may later be open to
+serious challenge.” (Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+24
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+82.Similarly in H.H. Shri Swamiji of Shri Amar Mutt v. Commr., Hindu Religious and
+Charitable Endowments Deptt., reported in (1979) 4 SCC 642, this Court was called
+upon to determine the constitutionality of application of the Madras Hindu Religious
+Charitable Endowments Act to South Kanara District. This Court observed that even
+after the passage of 23 years, no serious attempts were made to remove the inequality
+that was being caused in the South Kanara District by the said Act. However, this
+Court while refraining itself from declaring the law as inapplicable, called upon the
+legislature look into the issue in the hope that it would act promptly, lest the said Act
+suffer a serious and successful challenge in the not-so-distant future. The relevant
+observations read as under: -
+
+“31. But that is how the matter stands today. Twenty-three years have gone by since
+the States Reorganisation Act was passed but unhappily, no serious effort has been
+made by the State Legislature to introduce any legislation — apart from two abortive
+attempts in 1963 and 1977 — to remove the inequality between the temples and Mutts
+situated in the South Kanara Disrict and those situated in other areas of Karnataka.
+Inequality is so clearly writ large on the face of the impugned statute in its application
+to the district of South Kanara only, that it is perilously near the periphery of
+unconstitutionality. We have restrained ourselves from declaring the law as
+inapplicable to the district of South Kanara from today but we would like to make it
+clear that if the Karnataka Legislature does not act promptly and remove the
+inequality arising out of the application of the Madras Act of 1951 to the district of
+South Kanara only, the Act will have to suffer a serious and successful challenge in
+the not distant future. We do hope that the Government of Karnataka will act
+promptly and move an appropriate legislation, say, within a year or so. A
+comprehensive legislation which will apply to all temples and Mutts in Karnataka,
+which are equally situated in the context of the levy of fee, may perhaps afford a
+satisfactory solution to the problem. This, however, is a tentative view-point because
+we have not investigated whether the Madras Act of 1951, particularly Section 76(1)
+thereof, is a piece of hostile legislation of the kind that would involve the violation of
+Article 14. Facts in regard thereto may have to be explored, if and when occasion
+arises.” (Emphasis supplied)
+
+83.In view of the decisions referred to above, we may only say that since the
+respondents herein are already in seisin of the anomaly in computation of royalty and
+the policy is being reconsidered on the grounds raised by the petitioners herein, we
+do not say anything further as regards the provisions in question other than what we
+have observed. We clarify that this decision shall not preclude the petitioners from
+challenging the final policy decision that the respondents may take on completion of
+the ongoing consultation process.
+
+F. CONCLUSION
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+25
+
+Salitho Ores Pvt. Ltd vs The Captain Of Ports on 7 November, 2024
+
+84.In view of the aforesaid, we grant the respondents a period of 2-months from the
+date of pronouncement of this judgment to conclude the public consultation process
+undertaken for amending the MMDR Act initiated pursuant to the Notice dated
+25.05.2022 and take a final decisive call in regard to the cascading impact of royalty
+on royalty in the calculation of the ‘average sale price’ by virtue of the Explanation(s)
+to Rule 38 of the MCR, 2016 and Rule 45 of the MCDR, 2017.
+
+85. The challenge to the validity of Explanation(s) appended to Rule 38 of the MCR,
+2016 and Rule 45 of the MCDR, 2017 is answered accordingly.
+
+86.The Registry shall notify this matter before an appropriate Bench after a period of
+two months from the date of pronouncement of this judgment to report compliance
+of our directions.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   C J I .   ( D r .   D h a n a n j a y a   Y .   C h a n d r a c h u d )
+.......................................................... J.
+
+(J.B. Pardiwala) .......................................................... J.
+
+(Manoj Misra) New Delhi:
+
+November 7, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/80874097/
+
+26
+
+

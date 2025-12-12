@@ -1,0 +1,22 @@
+{
+  "case_number": "CIVIL APPEAL NO. 7593 OF 扫黑除",
+  "parties": {
+    "petitioner": "Manusha Sreekumar & Ors.",
+    "respondent": "The United India Insurance Co. Ltd."
+  },
+  "court_name": "SUPREME COURT OF INDIA",
+  "date_of_judgment": "2022-10-17",
+  "summary": "The case involved a dispute over quantum of compensation awarded following the death of Sreekumar in a motor accident. The Motor Accidents Claims Tribunal awarded Rs. 32,39,000, which the Kerala High Court reduced to Rs. 19,70,000, primarily by lowering the notional income for loss of dependency and disallowing 'loss of love and affection' claims. The appellants challenged the reduction, citing documentary evidence of the deceased’s income and entitlement under Kerala’s fair wage norms. The Supreme Court examined whether the High Court erred in reducing income from Rs.17,500 to Rs.10,000 monthly due to insufficient evidence and whether awarding compensation under 'non-conventional' heads like 'loss of love and affection' was permissible. The Court emphasized reliance on evidence for income assessment and revisited precedents on non-pecuniary damages.",
+  "legal_provisions_cited": [
+    "Section 166, Motor Vehicles Act, 1988",
+    "Section 168, Motor Vehicles Act, 1988",
+    "Ramachandrappa v. Manager, Royal Sundaram Alliance Insurance Company Ltd.",
+    "Syed Sadiq and Ors. v. Divisional Manager, United India Insurance Co. Ltd.",
+    "National Insurance Co. Ltd. v. Pranay Sethi and Ors.",
+    "Cholamandalam M/s General Insurance Company Ltd. v. Aarifa & Ors.",
+    "The New India Assurance Co. Ltd. v. Somwati & Ors.",
+    "Kerala Motor Transport Workers’ Payment of Fair Wages Act, 1971",
+    "G.O. (Ms.) No. 123/2015/LBR dated 04.09.2015"
+  ],
+  "final_judgment": "The appeal was allowed in part. The Supreme Court restored the Tribunal's calculation of notional income at Rs.17,500 per month, finding sufficient documentary support, thereby increasing compensation for loss of dependency. However, it upheld the High Court’s refusal to award compensation under the head of 'loss of love and affection', aligning with precedent that such non-conventional heads are not independently compensable under the Motor Vehicles Act."
+}

@@ -1,0 +1,24 @@
+{
+  "case_number": "Criminal Appeal No. 627 of 2022",
+  "parties": {
+    "petitioner": "Kamatchi",
+    "respondent": "Lakshmi Narayanan"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-13",
+  "summary": "The appeal challenged the Madras High Court's dismissal of domestic violence proceedings on limitation grounds. The appellant sought relief under Sections 17 and 18 of the Protection of Women from Domestic Violence Act, 2005, citing physical and emotional abuse by the husband and in-laws, including dowry demands and obstruction of court-ordered restitution. The High Court quashed proceedings against in-laws due to delay, viewing the application as an abuse of process, relying on limitation under Section 468 CrPC and the one-year rule. The Supreme Court considered whether limitation under Section 468 CrPC applies to applications under Section 12 of the DV Act, noting that no express limitation exists for filing such applications. It examined whether the cause of action is the initial violence or subsequent breach of protection orders under Section 31 of the Act. The Court also assessed whether prolonged separation and delayed filing vitiated the proceedings.",
+  "legal_provisions_cited": [
+    "Section 12, Protection of Women from Domestic Violence Act, 2005",
+    "Section 17, Protection of Women from Domestic Violence Act, 2005",
+    "Section 18, Protection of Women from Domestic Violence Act, 2005",
+    "Section 31, Protection of Women from Domestic Violence Act, 2005",
+    "Section 468, Code of Criminal Procedure, 1973",
+    "Section 482, Code of Criminal Procedure, 1973",
+    "Section 28, Protection of Women from Domestic Violence Act, 2005",
+    "Rule 15(6), Protection of Women from Domestic Violence Rules, 2006",
+    "Inderjit Singh Grewal vs. State of Punjab & Anr.",
+    "Sarah Mathew v. Institute of Cardio Vascular Diseases",
+    "Dr. P. Padmanathan & Ors. v. Tmt. V. Monica & Anr."
+  ],
+  "final_judgment": "The Supreme Court set aside the High Court's order dismissing the proceedings as barred by limitation and restored the domestic violence application under Section 12 of the Act, holding that no time limit under Section 468 CrPC applies to initial applications for relief under the DV Act; the appeal was allowed."
+}

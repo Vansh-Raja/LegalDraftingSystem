@@ -1,0 +1,1357 @@
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+Author: S. Ravindra Bhat
+
+Bench: Dipankar Datta, S. Ravindra Bhat
+
+1
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO(S). 290 OF 2023
+
+UNION OF INDIA & ORS.                                     ...APPELLANT(S)
+
+VERSUS
+
+COSMO FILMS LIMITED                                     ...RESPONDENT(S)
+
+WITH
+
+CIVIL APPEAL NO(S). 298 OF 2023
+
+CIVIL APPEAL NO(S). 303 OF 2023
+
+CIVIL APPEAL NO(S). 297 OF 2023
+
+CIVIL APPEAL NO(S). 296 OF 2023
+
+CIVIL APPEAL NO(S). 295 OF 2023
+
+CIVIL APPEAL NO(S). 294 OF 2023
+
+CIVIL APPEAL NO(S). 293 OF 2023
+
+CIVIL APPEAL NO(S). 292 OF 2023
+
+TRANSFER PETITION (CIVIL) NO(S). 1526 OF 2020
+Signature Not Verified
+
+Digitally signed by
+NEETA SAPRA
+Date: 2023.04.28
+
+1
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+17:08:23 IST
+Reason:
+(cid:12)                                            2
+
+JUDGMENT
+
+S. RAVINDRA BHAT, J.
+
+1. These appeals are directed against a judgment and order of the Gujarat High Court,1 wherein
+mandatory fulfilment of a ‘pre-import condition’2 incorporated in the Foreign Trade Policy of
+2015-2020 (“FTP”) and Handbook of Procedures 2015-2020 (“HBP”) by Notification No. 33 /
+2015-20 and Notification No. 79 / 2015-Customs, both dated 13.10.2017, was set aside. According to
+the High Court, such fulfilment in order to claim exemption of Integrated Goods and Services Tax
+(“IGST”)3 and GST compensation cess4 on input imported into India for the production of goods to
+be exported from India, on the strength of an advance authorization5 (“AA”) was arbitrary and
+unreasonable.
+
+I. Background
+
+2. In terms of the Foreign Trade (Development & Regulation) Act, 1992 (“FTDRA”) the Central
+Government (“Union”) had been framing, from time to time, Export-Import Policies (or FTPs) for
+the development, regulation and control of imports and exports in the country. The Union
+announced duty M/s Shri Jagdamba Polymers Ltd. & Ors. v Union of India & Ors., Special Civil
+Application No. 19324 of 2018.
+
+Paragraph 4.13 of FTP, read with the HBP.
+
+Leviable under Section 3(7) of The Customs Tariff Act, 1975. Leviable under Section 3(9) of The
+Customs Tariff Act, 1975. Paragraph 4.03 of FTP.
+
+exemption schemes as well. One among these was the AA. To regulate and guide the procedure to be
+followed for implementing the provisions of the FTP and the rules framed thereunder, the Director
+General of Foreign Trade (“DGFT”) notified the HBP, chapter 4 of which prescribed the procedure
+for availing duty exemption / remission schemes. By paragraph 4.27, exports in “anticipation of
+authorisation” were permitted, so as not to create hindrances and delays in execution of export
+orders. At the time, Notification No. 18 / 2015-Customs dated 1.04.2015 exempted payment of basic
+customs duty (“BCD”), additional duty (countervailing duty (“CVD”), special additional duty
+(“SAD”)), safeguard duty and anti-dumping duty on inputs imported against a valid AA.
+
+3. The GST regime was introduced with effect from 01.07.2017. However, no amendment was made
+to Notification No. 18 / 2015-Customs with respect to IGST and compensation cess, resulting in the
+collection of these levies for the inputs imported into India against AAs.
+
+4. On 13.10.2017, six existing notifications were amended. Notification No. 79 / 2017-Customs
+amended Notification No. 18 / 2015-Customs by granting IGST and compensation cess exemption,
+
+2
+
+subject to the following two conditions:
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+“Provided further that notwithstanding anything contained hereinabove for the said
+authorisations where the exemption from integrated tax and the goods and services
+tax compensation cess leviable thereon under sub-section (7) and sub-section (9) of
+section 3 of the said Customs Tariff Act, has been availed, the export obligation shall
+be fulfilled by physical exports only.”6 Proviso to clause (viii), as contained in
+Notification No. 79 / 2017.
+
+*** “That the exemption from integrated tax and the goods and services tax
+compensation cess leviable thereon under sub-section (7) and sub- section (9) of
+section 3 of the said Customs Tariff Act shall be subject to pre-import condition”7
+(emphasis supplied) At the same time, Notification No. 33 / 2015-2020 was issued,
+amending various provisions of the FTP, whereby this ‘pre-import condition’ was
+incorporated in paragraph 4.14 thereof with effect from 13.10.2017. The writ
+petitioners before the High Court / respondents herein claimed that they were
+unaware about this condition, and continued exports in anticipation of grant of AA,
+and consequently expected exemption from all custom duty levies, including IGST
+and compensation cess.
+
+5. The Directorate of Revenue Intelligence (“DRI”) Kolkata noticed the above
+amendments and thereupon, initiated investigation and issued summons to various
+manufacturers located across the country importing goods against AAs.
+
+The respondents were of the view that the scope of ‘pre-import condition’ was unclear, whereas the
+DRI officers conducting the inquiry and investigation, however, were of the view that ‘pre-import
+condition’ meant that goods had to be imported first, and then the final products manufactured with
+such imported goods were to be exported. When it was established that goods imported against a
+particular AA were used in relation to manufacture of finished goods exported Addition of clause
+(xii), as contained in Notification No. 79 / 2017. for fulfilment of export obligation of that particular
+authorisation, the ‘pre-import condition’ stood satisfied.
+
+6. In view of this development, the exemption granted by Notification No. 18 / 2015-Customs was
+inadmissible where manufacturer-exporters, who undertook manufacturing and export of goods in a
+continuous cycle, could not prove the above. Exemption was also not admissible when goods
+manufactured were exported in anticipation of licence / authorisation, since they were exports made
+first, with duty-free import against the authorisation having been undertaken later. Consequently,
+the manufacturer-exporters aggrieved by this interpretation approached the High Court.
+
+II. Arguments of the Revenue before the High Court
+
+7. The Revenue contended that exemption from paying duty was not a matter of right, and was
+granted by the State keeping in mind general public interest. The criterion for determination of
+legality of any notification was always whether the authority acted within its jurisdiction while
+
+3
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+issuing such notification or not, and not if the Union benefitted from the same. The Revenue
+contended that exporters were free to export first and import at a later stage in terms of paragraphs
+4.27 and 4.28 of the HBP. Those provisions however did not offer absolute freedom to the importers
+to regulate their imports and exports without complying with other conditions imposed in the policy
+and the relevant customs notification. The provisions were an exception, to keep the option open for
+willing exporters, subject to the condition that it would be availed at their risk. Further, exercising
+the option was available only when either of the ‘pre-import conditions’ was not fixed in the SION8,
+or exporters were willing to first fulfil their export obligation. As the process of fixing norms was
+time consuming, the provisions granted an opportunity to importers to export in advance, at the risk
+of not being considered towards discharge of export obligation.
+
+8. The Revenue submitted that before the introduction of the GST regime, imports allowed under
+AAs were exempt from payment of many duties.9 Thereafter, CVD and SAD were subsumed in
+IGST. Under Section 3 of the Customs Tariff Act, 1975, IGST was made payable at specified rates
+upon imports. However, a major change that was brought into the policy was to not allow exemption
+from payment of IGST directly at the time of import under AA. Such exemption was allowed
+indirectly by allowing refund of IGST paid at the time of imports under AA within a specified time.
+The importers, therefore, started paying IGST on goods imported under AA with effect from
+1.7.2017, and were getting outright exemption from BCD, ADD, safeguard duty, etc., and IGST paid
+was refunded. The legislative intent was clear in imposing IGST on all imports made under AAs, on
+or after 1.7.2017, without differentiating between the status of such authorisations, whether or not it
+was issued prior to or after Standard Input Output Norms, which are standard norms which define
+the number of input/inputs required to manufacture units of output for export purposes. They are
+applicable differently for different products.
+
+Supra, para 2.
+
+introduction of GST. It was a policy decision, which could have been reversed or altered only by the
+GST Council. The Revenue also pointed out that due to problems in Goods and Service Tax Network
+(GSTN)10, the committed refund of IGST was getting delayed. This resulted in blocking of working
+capital for many business houses. To obviate this problem, the GST Council allowed exemption from
+IGST when imported under AAs. The Directorate General of Foreign Trade (“DGFT”) accordingly,
+issued Notification No. 33/2015-20 dated 13.10.2017 which was backed by Customs Notification No.
+79/2017 dated 13.10.2017, issued by the Department of Revenue, amending the Notification No. 18 /
+2015- Customs, dated 1.4.2015. The Revenue further urged that exemption from the IGST leviable
+under Section 3 (7) was available and subject to two specific conditions. The conditions were (i)
+export obligation was to be fulfilled through physical exports only; and (ii) the exemption was
+subject to ‘pre-import condition’, which implied that only after the import of the goods commenced,
+were they required to be used for manufacture of export goods, which were ultimately exported.
+
+9. According to the Revenue, a cut-off date could have been declared, and only AAs issued after
+13.10.2017 could have been declared eligible for such benefits, but the same was not done. It was
+kept open-ended to extend benefit to Which provides shared IT infrastructure and service to both
+central and state governments including taxpayers and other stakeholders. The registration front
+
+4
+
+end services, returns, and payments to all taxpayers were provided by GSTN.
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+the importers, who followed those two conditions, even in respect of the AAs issued to them earlier.
+A cut-off date would have made exporters ineligible for the benefit. Therefore, policy makers, in
+their own wisdom, kept the door open for the eligible importers, to enjoy the benefit, irrespective of
+the date / period of issuance of AA, subject to compliance with the conditions imposed.
+
+10. The Revenue further stated that paragraph 4.13 of the FTP had been in existence under different
+paragraphs in different policy periods for years. Since 2003, all drug companies had been importing
+their raw materials sourced from unregistered sources, under the ‘pre-import condition’. Silk in any
+form, raw sugars, natural rubbers, tea, spices and precious metals etc., were allowed to be imported
+under ‘pre-import condition’ only. The ‘pre-import condition’ was in- built within the AA scheme
+itself under paragraph 4.03 of the policy.
+
+11. Additionally, the AA scheme was not a replenishment scheme. Were it so, the DGFT would not
+have launched other schemes like ‘Duty-Free Incentive Scheme’, which allowed exports prior to
+import, and transferable licences under the FTP. To prevent cash blockage of exporters due to
+upfront payment of IGST and compensation cess on imports of inputs, the exemption from their
+payment was granted, subject to ‘pre-import condition’. In case of replenishment imports after
+exports, the issue of cash blockage did not arise. Since exports had already taken place and GST
+legislation provided for complete zero-rating, extending IGST exemption on replenishment imports
+would imply double benefit to the authorisation holder. Therefore, the AA holders were not
+adversely affected and not prejudiced by the impugned notifications. The IGST paid on
+replenishment material could be availed as input tax credit for payment of GST.
+
+III. Findings of the High Court
+
+12. The High Court, after considering the notifications and taking into account the exporters’
+submissions, held that paragraph 4.27 of the FTP envisaged exports in anticipation of authorisation,
+in terms of the cycle of import-manufacture- export carried out, including delivery time of 3-4
+months allowed normally by overseas buyers, within minimum six months’ time for completion of
+the cycle. The court considered this to be an unfeasible condition:
+
+“Considering the above interpretation of the condition of physical export and
+pre-import put forth by the DRI, it is more or less impossible to make any exports
+under an Advance Authorisation without violating the condition of pre-import. In
+effect and substance, what is given by one hand is taken away by the other. In other
+words, in the light of the condition of pre-import, the benefit of exemption from levy
+of integrated tax and GST compensation cess becomes more or less illusory.”11
+
+13. It was noted that while the ‘pre-import condition’ was levied on duties collected under Sections 3
+(7) and (9) of the Customs Tariff Act, 1975, in respect of the levies under Sections 3 (1), (3) and (5)
+no ‘pre-import condition’ was imposed. The result was that if the importer wanted benefit of
+exemption from the levy of integrated tax and compensation cess, the fact that other levies were not
+
+5
+
+subject to ‘pre-import condition’ was immaterial because the same inputs Supra note 1, para 27.
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+were subject to it. This resulted in inputs being subject to ‘pre-import condition’ in respect of all the
+levies. The High Court then took note of the objects of the FTDRA and the FTP, and the subsequent
+Notification No. 01/2019-Cus dated 10- 01-2019, whereby condition (xii) was omitted. The court
+held that the Union found it to be in public interest not to continue with the ‘pre-import condition’,
+for availing exemption from IGST and compensation cess leviable on material imported against an
+AA. This, according to the impugned judgment, vindicated the exporter/respondents’ stand. It was
+held accordingly that:
+
+“The condition of pre-import militates against the Advance Authorisation Scheme
+and therefore, the impugned condition (xii) in Notification No. 18/2015-Cus dated 1st
+April, 2015 introduced vide Notification No. 79/2017 : MANU/CUST/0095/2017
+dated 13th October, 2017 as well as the amendment in paragraph 4.14 of the Foreign
+Trade Policy made vide Notification No. 33/2015-2020 dated 13th October, 2017, to
+the extent the same imposes a "pre-import condition" in case of imports under
+Advance Authorisation for physical export for exemption from the whole of the
+integrated tax and GST compensation cess leviable under sub-section (7) and
+sub-section (9) respectively, of section 3 of the Customs Tariff Act, do not meet with
+the test of reasonableness and are also not in consonance with the scheme of Advance
+Authorisation”.12
+
+14. The court also concluded that though paragraph 4.27 of HBP clearly permitted exports in
+anticipation of authorisation by endorsing the file number or authorisation number to establish
+co-relation of export/supplies with authorisation issued, the Revenue wished to treat such
+permissible imports made in anticipation of authorisation as replenishment. This was despite the
+fact that for the purpose of exemption from the other levies imposed under Sections 3(1),  Supra
+note 1.
+
+3(3) and 3(5) of the Customs Tariff Act, 1975 for decades the procedure was permitted, and
+continued to be permitted, (for the purpose of exemption from levy of IGST and compensation cess),
+yet, such imports were “suddenly” treated as “replenishment imports” which was held to be
+“incomprehensible”.13 The court held that that the impugned exemption notification and paragraph
+4.14 of the FTP, to the extent they were impugned did not meet with the test of reasonableness and
+were held to be ultra vires the scheme of the FTP.
+
+IV. The Union’s Contentions before this Court
+
+15. Mr. N. Venkatraman, learned Additional Solicitor General (“ASG”) appearing for the Union,
+urged that the essence of the AA was that the exporters were expected to import duty-free materials
+first, and use them for the purpose of manufacture of products to be exported out of India or be
+supplied under deemed export, if allowed by the FTP or the customs notifications. This aspect of
+physical incorporation of input materials in the export goods was covered under paragraph 4.03 of
+the FTP, which specifically demanded physical incorporation of imported materials in export goods
+
+6
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+which was possible only if imports were made prior to export. Therefore, such authorizations
+principally had an inbuilt ‘pre-import condition’ which had to be followed. Paragraph 4.27 of the
+HBP for the relevant period allowed exports / supplies in anticipation of an authorization. This was
+an exception, to meet requirement in case of exigencies. However, importers and Supra note 1.
+
+exporters were availing the benefit of that provision without exception and the export goods were
+made out of domestically or otherwise procured materials and duty-free imported goods were used
+for purposes other than for the manufacture of the export goods. Paragraph 4.27 (d) of the HBP
+barred benefit of export in anticipation of authorization for the inputs with ‘pre-import condition’.
+The ASG contested the exporters’ argument that there was no change in paragraph 4.27 of HBP and
+that it merely imposed conditions in terms of paragraph 4.14 of the FTP by way of ‘pre-import
+condition’.
+
+16. It was stated that under paragraph 4.27(d), exports / supplies made in anticipation of
+authorisation were not eligible for inputs with ‘pre-import condition’. That meant that the moment
+input materials were subject to ‘pre- import condition’, they were ineligible for export in anticipation
+of authorization, by virtue of paragraph 4.27 (d). Therefore, the respondent pleaded based on wrong
+notion and understanding and knowledge of the relevant provisions, and the High Court
+erroneously relied upon such an incorrect submission.
+
+17. It was argued that paragraph 4.27 (a) & (b), i.e., export in anticipation of authorization and the
+‘pre-import condition’ on the input materials were mutually exclusive and could not go hand in
+hand. The impugned order did not take into consideration this aspect of paragraph 4.27(d).
+Therefore, holding ‘pre-import condition’ as unreasonable as the same was in contrast with
+paragraph 4.27 (a) and also that the Government did not take enough care to eradicate such
+apparent paradox, was based on the wrong set of facts, and was contrary to the provisions of the law.
+
+18. It was argued that the High Court erred in setting aside paragraph 4.14 of the FTP and the
+corresponding provisions of the customs notifications, that imposed ‘pre-import’ and ‘physical
+export’ conditions, and held that the contention of physical incorporation of the duty-free materials
+under paragraph 4.03 of the FTP was contrary to paragraph 4.27 of the HBP which specifically
+allowed imports in anticipation of authorization. The observation of the court was without merit.
+The court erroneously granted primacy to paragraph 4.27 of the HBP over paragraph 4.03 of the
+FTP, when infact the FTP had pre-eminence over the HBP for laying down the procedures to be
+followed by an exporter or importer in terms of paragraph 1.03 of the FTP. Therefore, provision of
+the HBP could not override the FTP in case of a conflict. It was argued that paragraph 4.27(d)
+limited and confined the scope of paragraph 4.27(a). The moment paragraph 4.27(d) came into
+picture, paragraph 4.27(a) became inoperative.
+
+19. It was also urged that there was no conflict between paragraph 4.03 of the FTP and that of
+4.27(a) of the HBP. The scope and field of operation of individual paragraphs were completely
+different. Paragraph 4.03(a) of the FTP provided that:
+
+7
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+“(a) Advance Authorisation is issued to allow duty free import of input, which is
+physically incorporated in export product (making normal allowance for wastage). In
+addition, fuel, oil, catalyst which is consumed / utilized in the process of production
+of export product, may also be allowed.”14
+
+20. The object and spirit of the AA scheme to allow duty free import of input, which was to be
+physically incorporated in export product, was clear. The relevant customs notifications too,
+referred to paragraph 4.03, which provided that the AA was issued in terms of its provision for
+extending exemption. The provision of physical incorporation of the inputs in the export goods, was
+necessary for the purpose of the scheme, for two reasons. One, that input materials actually
+imported were to be physically incorporated in the export goods and two, that the goods physically
+incorporated in the export goods only could be imported as input. As far as the first situation was
+concerned, there was no question of replenishment, because the inputs imported became part of the
+exports. Such goods were to be imported prior to the commencement of export to enable the
+importer to manufacture finished goods from them. Therefore, for one had to follow the ‘pre-import
+condition’ and at the same time they could not avail the benefit of export in anticipation of
+authorization. In the second situation however, the importer could use materials procured
+otherwise, instead of duty-free materials to manufacture export goods, but the nature of materials
+(so procured) had to be identical in all respects with the input materials to be imported. In other
+words, materials which were to be used in export goods could only be allowed for import. In this
+case, there was no need to follow the ‘pre-import condition’ -
+
+Paragraph 4.03(a) of the FTP.
+
+the importer could avail the benefit of export in anticipation of authorization. The Revenue
+contended that therefore paragraph 4.03 of FTP was not in conflict with paragraph 4.27 of the HBP.
+In the absence of 4.27(d), these two provisions were considered as complementary rather than in
+conflict. By inserting 4.27 (d), the intent was clarified that the importer had to follow the provision
+of paragraph 4.03 of the FTP.
+
+21. It was urged that the High Court erred in holding that ‘pre-import condition’ had to be in respect
+of inputs, mentioned in paragraph 4.13 of the FTP, which was not so in the present case. The court’s
+insistence that pre-import goods were to be specifically mentioned under paragraph 4.13 of the FTP,
+it was submitted, was misplaced. The Revenue pointed out that paragraph 4.13 (1) itself left the issue
+of which inputs was to be subjected to ‘pre import condition’ open to the DGFT to notify:15 "DGFT
+may, by Notification, impose pre-import condition for inputs under this Chapter."
+
+The provision clearly left open, the scope of imposing ‘pre-import condition’ on any goods which
+could have been covered by the said Chapter 4 of the Policy. Therefore, imposing, such condition
+across the board for all goods imported under AA was well within the competence and authority of
+the policy makers. It was argued that the High Court failed to notice that DGFT was duly
+empowered to issue Notification No.33/2015-20 dated 13.10.2017. This notification was Paragraph
+4.13(1) of FTP.
+
+8
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+general in nature and did not exclude any goods from its purview. The only condition was that
+wherever the importer wanted to avail the benefit of IGST and compensation cess exemption, the
+‘pre-import condition’ had to be satisfied. In absence of any negative list containing specific mention
+of a set of goods, which were not to be covered by the said provision, all goods were covered by the
+said notification and subject to a uniform condition. It was also urged that it was neither practicable
+nor possible to specify each conceivable item for that purpose. In absence of any negative list in the
+notification, such ‘pre-import condition’ was applicable for all goods to be imported.
+
+22. The ASG urged that the High Court erred in construing the purpose of Appendix 4J- issued in
+tandem with paragraph 4.22 of the FTP during the material period (under paragraph 4.42 of the
+HBP), which stated the export obligation period with respect to various goods that were allowed to
+be imported. Paragraph 4.22 was a general provision, specifying 18 months as the export obligation
+period in general. It also provided that such a period was different for a set of goods mentioned in
+Appendix-4J. Therefore, Appendix-4J was a part of paragraph 4.22 and not a part of paragraph
+4.13. Further, Appendix-4J was a negative list for the purpose of paragraph 4.22, which specified a
+set of goods for which export obligation period was different from the general provision. In addition,
+in respect of those items additionally the ‘pre-import condition’ was applicable. The heading of
+Appendix-4J ("Export Obligation Period for Specified Inputs") clearly referred to paragraph 4.22 of
+the FTP and paragraph 4.42 of the HBP. It was clear that its purpose was to define export obligation
+period of specified goods. It was submitted that merely because Appendix-4J provided for
+compliance of ‘pre-import condition’, that did not mean that it became the list meant for only goods
+on which the ‘pre-import condition’ was applicable.
+
+23. It was argued that there was no conflict between paragraph 4.14 of the HBP and paragraph 4.13
+of the FTP because paragraph 4.14 imposed ‘pre-import condition’ even in case of inputs not falling
+within the ambit of paragraph 4.13. This conclusion was drawn based on an erroneous
+understanding that only limited items covered under Appendix-4J were covered by paragraph 4.13.
+All articles intended to be imported under AA, availing exemption from payment of IGST, were
+covered by the Notification No. 33 / 2015-20 dated 13.10.2017, issued in terms of paragraph 4.13 of
+the FTP. By virtue of the said notification, the moment any manufacturer decided to import any
+item under AA availing IGST benefit, the ‘pre-import’ requirement, as enumerated under paragraph
+4.14, was attracted. The notification acted as a bridge between paragraph 4.13 and 4.14 of the FTP.
+They were in harmony with the spirit of the FTP.
+
+24. The learned ASG urged that the notifications interpreted by the High Court amended the
+conditions for granting exemption from the levy of certain taxes. The respondent exporters had not
+challenged the power to impose the levies; their only argument was that the ‘pre-import’ condition,
+which was introduced for the first time in the notification, was burdensome. They also contend that
+these conditions were contradictory and made business cumbersome. The ASG submitted that once
+the power to levy was undisputed, the conditions under which such levies were imposed, and the
+manner in which they were collected, were within the domain of the legislature or Parliament.
+Unless it was shown that the statute imposed a method of collection that was capricious, or
+arbitrary, the courts ought not to interfere with the levy. Similarly, a levy could fail if there was no
+mechanism for assessment and collection. Reliance was placed on the decisions reported as
+
+9
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+Khandige Sham Bhat v Agricultural Income Tax Officer16; Assistant Commissioner of Urban Land
+Tax v Buckingham & Carnatic Co Ltd.17; R.K. Garg v Union of India18; Union of India v VKC
+Footsteps India (P) Ltd19. It was submitted that the courts ought to be circumspect while
+interpreting any fiscal legislation, and not hold either the provisions or terms of exemptions, or
+conditions imposed by the law, or through delegated legislation, as unreasonable, or arbitrary. The
+learned ASG urged that being a new legislation, the Union had to take into account divergent views
+and norms, and refashioning of the entire indirect tax spectrum was called for.
+
+25. It was lastly urged that the introduction of Notification No. 01/2019-Cus dated 10-01-2019 by
+the Union, whereby, condition (xii) requiring the ‘pre- import condition’, was omitted, could not be
+a ground to say that for the period such a condition existed, it could be disregarded. It was argued
+that the said latter 1963 (3) SCR 809.
+
+1970 (1) SCR 268.
+
+1981 (1) SCR 947.
+
+2022 (2) SCC 603.
+
+notification could not by a process of judicial reasoning, be given retrospective effect to, as even the
+substantive provisions of FTDRA did not permit subordinate retrospective legislation.
+
+V. Contentions of the Respondent-Exporters
+
+26. Ms. Meenakshi Arora, learned senior counsel, argued that an AA under the FTP could be issued
+either to a manufacturer-exporter or a merchant exporter tied with a supporting manufacturer with
+past export performance (in at least the preceding two financial years). The entitlement in terms of
+CIF value of imports provided was up to 300% of the FOB value of the physical export and / or FOB
+value of deemed export in preceding financial year or (cid:132) 1 crore, whichever was higher. On fulfilment
+of the conditions prescribed under paragraph 4.03 of the FTP, respondents were issued AA licenses.
+
+27. Upon notification of the levy IGST, the benefits of upfront exemption granted to exporters
+through AA in the erstwhile FTP regime were rescinded through the amendment introduced in the
+scheme by Notification No. 26 / 2017-Customs dated 29 June 2017 (“Amending GST Notification”).
+
+28. It was submitted that the AA scheme was operating without hitch or misuse, from its inception
+since 1986, without any ‘pre-import condition’. It had been successfully operating even from
+10.01.2019 onwards when the Central Government deleted the ‘pre-import condition’ in public
+interest. Thus, there was no rationale or justification in imposing the ‘pre-import condition’ only for
+a limited period from 13.10.2017 to 09.01.2019 to a scheme operating successfully without any such
+condition.
+
+29. It was urged that the ‘pre-import condition’ was made applicable for such limited period only for
+exemption from IGST and compensation cess, whereas other import duties, namely, BCD, ADD,
+
+10
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+Safeguard Duty etc. were exempt even during this period of about 13 months without the
+‘pre-import condition’.
+
+30. It was submitted that no reason or justification was provided for subjecting IGST and
+compensation cess to this ‘pre-import condition’, and not applying this condition for other types of
+import duties. If ‘pre-import condition’ was applicable for AA, then the whole scheme would be
+nullified because it was impossible for any manufacturer-importer to satisfy the ‘pre-import
+condition’ when the export orders were to be executed by supplying the final products within a short
+period of 4 weeks to 8 weeks after receiving the purchase orders from overseas customers. In a
+typical case, the manufacturer- exporter could export goods only after more than six months from
+receiving the purchase orders, if the ‘pre-import condition’ was to be satisfied. Consequently, the
+delivery schedule of about 4 to 8 weeks from receiving purchase orders could not have been fulfilled.
+It was additionally argued that all imports under an authorization were subject to "actual user
+condition". Therefore, manufacturer exporters were not allowed to sell or dispose of input raw
+materials imported free of duties against any authorization. Regular exporters conducted their
+business in a cycle, i.e., by importing input-raw materials free of duties against several
+authorizations granted to them, and utilizing such goods for manufacturing final products for export
+with reference to those several authorizations. Consequently, there could be no ‘one to one’
+correlation between import of a consignment of inputs against one particular authorization and
+utilization of such inputs for manufacturing final products for export against those particular
+authorizations only – such a scenario was not possible for regular manufacturer-exporters. On
+realizing that the ‘pre-import condition’ did not serve any purpose, the Union deleted the condition
+on 10.01.2019, which vindicated the exporters’ stand that the condition was irrelevant to the
+scheme, and that condition had no nexus with the objectives of the AA scheme.
+
+31. It was submitted that the ‘pre-import condition’ violated Article 14, which permitted reasonable
+classification to achieve specific ends. The respondents relied on Laxmi Khandsari vs. State of Uttar
+Pradesh20; State of Haryana v Jai Singh21; Welfare Association ARP v Ranjit P. Gohil22; and urged
+that for classification to be reasonable, it should fulfil the two tests. One, it should not be arbitrary,
+artificial or evasive, and should be based on intelligible differentia, some real and substantial
+distinction, which distinguished persons or things grouped together in the class from others left out
+of it. Two, the differentia 1981(3) SCR 92.
+
+2003 (9) SCC 114.
+
+2003 (9) SCC 358.
+
+adopted as the basis of classification must have a rationale or reasonable nexus with the object
+sought to be achieved by the statute in question.
+
+32. Counsel argued that the High Court concluded, correctly, that the introduction of the
+‘pre-import condition’ was an instance of class legislation. The Union meted out differential
+treatment to the same class of license holders by enabling only certain class of license holders to
+avail the IGST benefit. This was because those who fulfilled the export obligation before importing
+
+11
+
+the goods were denied the opportunity to avail the benefit of IGST exemption.
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+33. The imposition of ‘pre-import condition’ on AAs issued prior to 13.10.2017 placed the
+exporter-respondents in the shoes of any importer who did not hold any license. The respondents
+had imported the goods after fulfilling the corresponding export obligation. It was impossible to
+fulfil the ‘pre-import condition’ mandated for old AAs through a retrospective application of an
+amendment in the impugned notifications, even though the respondents could demonstrate that all
+imported goods were subsequently used for manufacturing export products.
+
+34. Learned counsel for the respondents highlighted that there was no reason for differential
+treatment of BCD and IGST under the AA scheme. When the levy of IGST on imported goods was
+treated like the levy of BCD, there was no reason why the unconditional exemption of BCD granted
+to license holders under the scheme could not be extended to the IGST exemption available for
+goods imported under the same scheme. This differential treatment meted out to the IGST benefit
+when compared to the BCD exemption under the original Notification No. 18 / 2015-Customs was
+not justified and failed the test of reasonable classification under Article 14 of the Constitution.
+There was no intelligible differentia between the two in denying the benefit for IGST while granting
+exemption for BCD. There was also no rationale behind the classification IGST and BCD for
+exemption, at par with the objectives under the scheme.
+
+35. Learned counsel for the respondents relied on Union of India (UOI) and Ors. vs. N.S. Rathnam
+& Sons23 which held that grant of different exemption based on unintelligible differentia between
+two categories of assesses for payment of customs duty was discriminatory and unreasonable.
+Learned counsel also cited MRF Ltd., Kottayam v. Asst. Commissioner (Assessment) Sales Tax &
+Ors.24 to submit that imposing the ‘pre-import’ stipulation in respect of two levies was arbitrary and
+unreasonable.
+
+36. Reliance was also placed upon the decision of this court in the case of Vasu Dev Singh v. Union
+of India25, for the proposition that the nature of delegated legislation could be broadly classified as
+rule- making power and grant of exemption from the operation of a statute. In the latter category,
+the scope of judicial review would be wider as the statutory authority while exercising its statutory
+power must show that the same had not only been done within the 2015 (8) SCR 751.
+
+2006 Supp (6) SCR417.
+
+2006 Supp (9) SCR 565.
+
+four corners thereof but otherwise fulfilled the criteria laid down by this court in P. J. Irani v. State
+of Madras26. The court held that if by a notification, the Act was effaced, it was liable to be struck
+down.
+
+37. It was submitted that the entire AA scheme was effaced by virtue of the ‘pre-import condition’
+and therefore, such condition was required to be struck down. Reliance was placed upon Laxmi
+Khandsari (supra), where the court held that in imposing restrictions, the State ought to adopt an
+
+12
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+objective standard amounting to social control by restricting the rights of the citizens ·where the
+necessities of the situation demand. When the validity of a law placing restrictions upon the exercise
+of fundamental rights in Article 19(1)(g) is challenged, the onus of proving to the satisfaction of the
+court that the restriction is reasonable lies upon the State. It was submitted that this is not a case of
+first- time exemption. As the Union sought to place restrictions, it had to show that the conditions
+were remedial and necessary. It was hence contended that as there was no rationale behind
+introducing the ‘pre-import condition’ (which had no nexus with the object sought to be achieved by
+the AA scheme), it violated Article 19(1)
+
+(g) of the Constitution, and was accordingly set aside.
+
+VI. Analysis and Findings
+
+38. The AA scheme is a duty exemption scheme introduced by the Union, under the FTP. Under the
+scheme, exemption from the payment of import duties 1962 (2) SCR 169 is given to raw materials /
+inputs required for the manufacture of export products i.e., one can import raw materials or inputs
+at zero customs duty for production of export products. The purpose of this scheme is to ensure
+competitiveness of India’s products in the global market. When duties paid on raw materials are
+saved, it reduces the cost of the final export product. In terms of the scheme, the exporter can
+import raw materials duty-free.27 These inputs either can be in a raw / natural / unrefined /
+unmanufactured or manufactured state. Advance Licenses are issued to allow duty-free import of
+inputs, which are then physically incorporated in export goods (after making normal allowance for
+wastage). In addition to this, fuel, oil, the catalyst which is consumed / utilized in the process of
+production of export product, may also be allowed. Imports under an AA were exempted from the
+payment of Basic Customs Duty (BCD), Additional Customs Duty, Education Cess, Anti-dumping
+Duty, Countervailing Duty (CVD), Safeguard Duty, and Transition Product Specific Safeguard Duty,
+wherever applicable.
+
+39. The principal challenge before the High Court, was to the ‘pre-import condition’ in paragraph
+4.14 of FTP inserted by Notification No. 33/2015-2020 dated 13.10.2017 and the ‘pre-import
+condition’ introduced by clause (xii) in Notification No. 18/2015-Cus dated 01.04.2015 by
+Notification 79/2017- Customs dated 13.10.2017.
+
+As per Chapter 9 of FTP paragraph 9.44, “Raw material” is input(s) required for manufacturing of
+goods.
+
+40. Chapter IV of the FTP provides for "Duty Exemption/Remission Schemes". One of the duty
+exemption schemes is the AA. Paragraph 4.03 of the policy makes provision for AA and reads thus:
+
+"4.03 Advance Authorisation
+
+(a) Advance Authorisation is issued to allow duty free import of input, which is
+physically incorporated in export product (making normal allowance for wastage). In
+addition, fuel, oil, catalyst which is consumed/utilized in the process of production of
+
+13
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+export product, may also be allowed.
+
+(b) Advance Authorisation is issued for inputs in relation to resultant product, on the
+following basis:
+
+(i) As per Standard Input Output Norms (SION) notified (available in Hand Book of
+Procedures);
+
+OR
+
+(ii) On the basis of self declaration as per paragraph 4.07 of Handbook of
+Procedures."28
+
+41. The other relevant provisions of the FTP for purposes of this case, are paragraphs 4.13, 4.14 and
+4.16, which, as they stood at the relevant time when FTP 2015-2020 was introduced, read as follows:
+
+"4.13 "pre-import condition" in certain cases
+
+(i) DGFT may, by Notification, impose "pre-import condition" for inputs under this
+Chapter.
+
+(ii) Import items subject to "pre-import condition" are listed in Appendix 4-J or will
+be as indicated in Standard Input Output Norms (SION).
+
+(iii) Import of drugs from unregistered sources shall have pre-import condition."
+
+4.14 Details of Duties exempted Imports under Advance Authorisation are exempted from payment
+of Basic Customs Duty, Additional Customs Duty, Education Cess, Anti- dumping Duty,
+Countervailing Duty, Safeguard Duty, Transition Product Specific Safeguard Duty, wherever
+applicable. Import against supplies covered under paragraph 7.02 (c), (d) and (g) of FTP will not be
+exempted from payment of applicable Anti-dumping Duty, Countervailing Duty, Safeguard Duty
+and Transition Product Specific Safeguard Duty, if any.
+
+************** Paragraph 4.03 of the FTP.
+
+4.16 Actual User Condition for Advance Authorisation
+
+(i) Advance Authorisation and/or material imported under Advance Authorisation shall be subject
+to 'Actual User' condition. The same shall not be transferable even after completion of export
+obligation. However, Authorisation holder will have option to dispose of product manufactured out
+of duty free input once export obligation is completed.
+
+(ii) In case where CENVAT/input tax credit facility on input has been availed for the exported goods,
+even after completion of export obligation, the goods imported against such Advance Authorisation
+
+14
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+shall be utilized only in the manufacture of dutiable goods whether within the same factory or
+outside (by a supporting manufacturer). For this, the Authorisation holder shall produce a
+certificate from either the jurisdictional Customs Authority or Chartered Accountant, at the option
+of the exporter, at the time of filing application for Export Obligation Discharge Certificate to
+Regional Authority concerned.
+
+(iii) Waste/Scrap arising out of manufacturing process, as allowed, can be disposed off on payment
+of applicable duty even before fulfillment of export obligation."
+
+42. Exercising powers conferred under paragraph 1.03 of FTP, the DGFT notified the HBP by a
+Public Notice dated 01.04.2015. Paragraph 4.27 (a) provides for "Exports in Anticipation of
+Authorisation" which is extracted below:
+
+"4.27 Exports in Anticipation of Authorisation Exports/supplies made from the date
+of EDI generated file number for an Advance Authorisation, may be accepted towards
+discharge of EO. Shipping/Supply document(s) should be endorsed with File Number
+or Authorisation Number to establish co-relation of exports/supplies with
+Authorisation issued.
+
+(b) If application is approved, authorisation shall be issued based on input / output
+norms in force on the date of receipt of application by Regional Authority. If in the
+intervening period (i.e from date of filing of application and date of issue of
+authorisation) the norms get changed, the authorization will be issued in proportion
+to provisional exports / supplies already made till any amendment in norms is
+notified.
+
+For remaining exports, Policy / Procedures in force on date of issue of authorisation shall be
+applicable.
+
+(c) The export of SCOMET items shall not be permitted against an Authorisation until and unless
+the requisite SCOMET Authorisation is obtained by the applicant.”
+
+43. The provision permitted exports in anticipation of authorisation and permits exports towards
+discharge of export obligation on the basis of the file number even prior to the grant of AAs. The
+High Court held that this condition had not been modified and export in anticipation of
+authorisation was permitted.
+
+44. By the Notification No. 18/2015-Cus dated 01.04.2015, issued in exercise of powers under
+Section 25 (1) of the Customs Act, 1962, goods imported into India against valid AAs were exempted
+from the whole of the duty of customs leviable thereon which was specified in the First Schedule to
+the Customs Tariff Act, 1975 and from the whole of the additional duty, safeguard duty, transitional
+product specific safeguard duty and anti-dumping duty leviable thereon, respectively, under
+Sections 3, 8B, 8C and 9A of the Act. The GST regime came into force with effect from 01-07-2017.
+However, no corresponding amendment was carried out to this notification but Section 3 of the
+
+15
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+Customs Tariff Act, 1975 was amended by substituting Sections 3 (7) and (9), whereby levy of
+integrated tax [under Section 5 of the Integrated Goods and Services Tax Act, 2017 and levy of
+Goods and Service Tax compensation cess leviable under Section 8 of the GST Act (Compensation to
+States) Cess Act, 2017] was incorporated:
+
+"(7) Any article which is imported into India shall, in addition, be liable to integrated
+tax at such rate, not exceeding 40% as is leviable under section 5 of the Integrated
+Goods and Services Tax Act, 2017 on a like article on its supply in India, on the value
+of the imported article as determined under sub-section (8).
+
+********* **************** (9) Any article which is imported into India shall, in
+addition, be liable to the Goods and Services Tax compensation cess at such rate, as is
+leviable under section 8 of the Goods and Services Tax (Compensation to States) Cess
+Act, 2017 on a like article on its supply in India, on the value of the imported article
+as determined under sub-section (10)."
+
+45. Section 3 of the Customs Tariff Act, 1975 as amended after the coming into force of the GST
+regime, provided for levy of the following additional duties:
+
+(1) levy of a duty (referred to as additional duty) equal to the excise duty for the time
+being leviable on a like article if produced or manufactured in India [Section 3 (1)
+CTA];
+
+(2) levy of such additional duty as would counter-balance the excise duty leviable on
+any raw materials, components, and ingredients of the same nature as, or similar to
+those, used in the production or manufacture of such article [Section 3 (3) CTA];
+
+(3) levy of additional duty as would counter-balance the sales tax, value added tax,
+local tax or any other charges for the time being leviable on a like article on its sale,
+purchase or transportation in India [SAD, under Section 3 (5) CTA];
+
+(4) levy of integrated tax as leviable under section 5 of the Integrated Goods and
+Services Tax Act, 2017; [under Section 3 (7) CTA] and; (5) levy of GST compensation
+cess at such rate as is leviable under section 8 of the Goods and Services Tax
+(Compensation to States) Cess Act, 2017 [SAD, under Section 3 (9) CTA].
+
+46. As there was no corresponding notification exempting the additional duties leviable under
+Sections 3 (7) and (9) CTA, exporters had to pay IGST and compensation cess and seek input tax
+credit as applicable under the GST Rules. Import under AA, however, continued to be exempt from
+payment of basic customs duty and additional customs duty specified in subsections (1), (3) and (5)
+of section 3 of the CTA, education cess, anti-dumping duty, safeguard duty and transition product
+specific safeguard duty, wherever applicable.
+
+16
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+47. Since IGST and compensation cess was levied against AAs, they were apparently challenged
+before the Delhi High Court in several petitions, wherein interim relief was granted. Because of the
+initial problems relating to GST, the committed refund of IGST got delayed, resulting in blocking of
+working capital for many businesses. The Union then issued an amending notification dated 13-
+10-2017 in exercise of powers under Section 25 (1) of the Customs Act, 1962 (Notification 79/2017 -
+dated 13.10.2017) inter alia amending the opening paragraph of Notification 18 / 2015 (dated
+1.4.2015) whereby goods imported into India were exempted from the whole of the duty of customs
+leviable thereon, specified in the First Schedule to the Customs Tariff Act, 1975 and from the whole
+of the additional duty leviable thereon under sub-sections (1), (3) and (5) of Section 3, IGST leviable
+thereon under sub-section (7) of section 3 and compensation cess leviable under sub-section (9) of
+section 3. The amending notification also introduced a proviso in condition (viii), after the proviso
+which reads thus:
+
+"Provided further that notwithstanding anything contained hereinabove for the said
+authorisations where the exemption from integrated tax and the goods and services
+tax compensation cess leviable thereon under sub-section (7) and sub-section (9) of
+section 3 of the Customs Tariff Act, has been availed, the export obligation shall be
+fulfilled by physical exports only."
+
+The said notification also inserted condition (xii) which reads thus:
+
+"(xii) that the exemption from integrated tax and the goods and services tax
+compensation cess leviable thereon under sub-section (7) and sub-
+
+section (9) of section 3 of the Customs Tariff Act shall be subject to pre- import condition."
+
+48. Thus, exemption from levy of IGST under Section 3 (7) and compensation cess leviable under
+Section 3 (9) of Customs Tariff Act, 1975 were subject to the conditions that the export obligation
+shall be fulfilled by physical exports only and shall also be subject to ‘pre-import condition’.
+Together with the amendment of the exemption notification, by Notification No. 33/2015-2020
+(dated 13-10- 2017), paragraph 4.14 of the FTP was also amended to read as follows:
+
+"4.14: Details of Duties exempted.
+
+Imports under Advance Authorisation are exempted from payment of Basic Customs
+Duty, Additional Customs Duty, Education Cess, Anti- dumping Duty, Countervailing
+Duty, Safeguard Duty, Transition Product Specific Safeguard Duty, wherever
+applicable. Import against supplies covered under paragraph 7.02 (c), (d) and (g) of
+FTP will not be exempted from payment of applicable Anti-dumping Duty,
+Countervailing Duty, Safeguard Duty and Transition Product Specific Safeguard
+Duty, if any. However, imports under Advance Authorisation for physical exports are
+also exempt from whole of the integrated tax and Compensation Cess leviable under
+sub-section (7) and sub-section (9) respectively, of section 3 of the Customs Tariff
+Act, 1975 (51 of 1975), as may be provided in the notification issued by Department of
+
+17
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+Revenue, and such imports shall be subject to pre-import condition."
+
+49. It is important to notice, at this stage, that exporters were made aware of the changes brought
+about due to the introduction of GST, through a trade notice, (Trade Notice 11/2017, dated
+30-06-2017). To the extent it is relevant to the present case, is extracted below:
+
+Subject: Important FTP provisions in the context of the implementation of the GST
+regime applicable w.e.f 01.07.2017 Under the GST regime, no exemption from
+payment of integrated GST and Compensation Cess would be available for imports
+under Advance Authorisation.
+
+The chapter wise provisions of the FTP 2015-20:
+
+General Provision:
+
+************                                          *************
+Chapter 4
+
+Under the GST regime, no exemption from payment of integrated GST and
+Compensation Cess would be available for imports under Advance Authorisation.
+
+Importers would need to pay IGST and take input tax credit as applicable under GST
+rules.
+
+However, imports under Advance Authorisation would continue to be exempted from
+payment of Basic Customs Duty, Additional Customs Duty specified under Section 3(
+l), 3(3) and 3(5) of the Customs Tariff Act, Education Cess, Anti-dumping Duty,
+Safeguard Duty and Transition Product Specific Safeguard Duty, wherever
+applicable.
+
+Applicable GST would need to be paid white making local procurement, using an
+invalidation letter of Advance Authorisation IDFIA. Recipient of goods can take Input
+Tax Credit CITC) of the GST paid on such local procurement.
+
+This Input Tax Credit can be utilized as per GST rules.
+
+Advance Release Order facility shall not be available for procurement of inputs
+11nder Advance Authorization scheme except for inputs listed in Schedule 4 of
+Central Excise Act, 1944 read with The Taxation Laws (Amendment) Act 2017 No 18
+of 2017, with effect from July l, 2017. RAs are directed not to issue ARO except for
+Schedulc-4 items as stated above.
+
+Imports/exports under the replenishment schemes for the Gems and Jewellery sector
+covered under chapter 4 of FTP and HBP shall be subject to Customs Notification
+issued/ to be issued in this regard.”
+
+18
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+50. The public notice clearly forewarned that AAs and their utilisation would not continue in the
+same manner as the AA scheme was operating hitherto. This trade notice has escaped the attention
+of the High Court, since there is no advertence to it in the impugned order, or a discussion about it.
+Likewise, the HBP was amended, and paragraph 4.27 (d) was inserted, which stated that duty free
+authorisation for inputs subject to ‘pre-import condition’ could not be issued. The said clause is as
+follows:
+
+“(iv) No Duty Free Import Authorisation shall be issued for an input which is
+subjected to pre-import condition.”
+
+51. By virtue of the trade notice, exporters were made aware of the fact that under the GST regime,
+no exemption from payment of IGST and compensation cess would be available for imports under
+AA. Importers had to pay IGST and take input tax credit as applicable under GST rules.
+
+52. It is a matter of law that FTPs are statutory and are framed by the Union, exercising its powers
+under Section 5 of the FTRA 29. On the other hand, the HBP does not have the status of rules or
+regulations. It merely contains guidelines. In Hindustan Granites v Union of India30 this court
+observed that:
+
+“Handbook of Procedure merely implements the policy. It does not prevent the
+Central Government from changing the policy.”
+
+53. The facts in Hindustan Granites were that on 01.04.2004, FTP 2004-2009 came into force. The
+said FTP permitted Domestic Tariff Area (“DTA”) sales by units, “other than gems and jewellery
+units”, up to 50% of FOB value of exports subject to fulfilment of positive Net Foreign Exchange
+Earnings (“NFE”) on payment of concessional duties. Paragraph 6.8 (h) stated that:
+
+“(h) EOU/EHTP/STP/BTP units may sell finished products, which are freely
+importable under the Policy in the DTA under intimation to the Development
+Commissioner against payment of full duties provided they have achieved the
+positive NFE.” Union of India v. Asian Food Industries, (2006) Supp (8) SCR 485.
+
+2007 (4) SCR 743.
+
+54. By a notification paragraph 6.8(a) and paragraph 6.8(h) of the said FTP were amended,
+preventing EOUs from making DTA sales of the finished marble made from imported rough marble,
+with immediate effect. The change was made a few months after renewal of letter of permission to
+the unit, authorizing it to manufacture and export marble tiles for 5 years, subject to a specified
+monetary limit. The contention that the FTP could not have been amended, was negatived, by this
+court.
+
+55. The impugned judgment, in the present case, is premised broadly on the reasoning that the
+amendment by Notification 79/2017 dated 13.10.2017 to the extent it required payment of duty, and,
+in the case of advance authorizations, the fulfilment of ‘pre-import conditions’ was unreasonable
+
+19
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+and arbitrary. It was concluded that the amendment is contrary to the objective of the FTP. Further,
+it has been held that ‘pre-import conditions’ are in respect of specific goods and, the notifications
+impugned, inasmuch as they apply ‘pre-import condition’ to all goods, is contrary to the provision.
+Further, the absence of ‘pre-import conditions’ in respect of basic customs duty, and other levies,
+where in anticipation of AAs, duty free imports can be made, in contradistinction with the need to
+follow such ‘pre-import conditions’ in respect of IGST and compensation cess, rendered the AAs
+worthless. Lastly, it was held that exporters, who have to import inputs, would face impossibility in
+fulfilling the ‘pre-import condition’, because the normal cycle of import of inputs and export of
+finished products would be for a period of six months, whereas the period, which the regime
+permits, would work out to three months.
+
+56. It would be necessary to first analyse the introduction of the ‘pre-import condition’. The FTP,
+inter alia, facilitated AAs for duty-free import of input, which is physically incorporated in export
+product, making normal allowance for wastage (paragraph 4.03 of the FTP). No doubt, the rationale
+or object behind this was to smoothen and facilitate export trade, ensuring that finished goods,
+meant for export, did not suffer a competitive price disadvantage. However, the concept of
+‘pre-import condition’ was not alien – Appendix-4J (mentioned in paragraph 4.13 (ii) of the FTP)
+listed several articles, such as spices, penicillin and its salts, tea, coconut oil, silk, drugs from
+unregistered sources, precious metals, etc. as articles for which the ‘pre-import condition’ was
+applicable, prior to the GST regime. Furthermore, by paragraph 4.13 of the FTP, the DGFT could
+impose ‘pre-import conditions’ on articles other than those specified:
+
+“(i) DGFT may, by Notification, impose "pre-import condition" for inputs under this
+Chapter.”
+
+57. The retention of the power to impose ‘pre-import conditions’ on articles other than those
+specified in Appendix-4J, meant that the DGFT could exercise it, in relation to any goods. The High
+Court has not discussed this aspect, and proceeded on the assumption that only specified goods
+were subject to the ‘pre- import condition’. The existence of paragraph 4.13 (i) reserving the power
+to insist upon the ‘pre-import condition’, meant that the policy was capable of change, depending on
+the exigencies of the time. This omission, together with the High Court’s failure to notice paragraph
+4.27 (d) of the HBP are serious infirmities in the impugned judgment.
+
+58. Now, coming to the notifications dated 13.10.2017 (No. 79/2017, issued under the Customs Act,
+1962) and No. 33 (issued in exercise of Section 5 of the FTDRA read with Para 1.02 of the FTP) the
+exemption from payment of IGST at the time of import of input materials under AA was granted.
+The exemption was, however, not absolute. The conditions incorporated in the Notification (No.
+79/2017), were one, that the exemption could only be extended so long as exports made under the
+AAs were physical exports in nature and the other that to avail such benefit, one was to follow the
+‘pre-import condition’.
+
+59. ‘Physical export’ is defined in paragraph 4.05(c) and paragraph 9.20 of the FTP read with
+Section 2(e) of the FTDRA as follows:
+
+20
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+(e) "import" and 'export" means respectively bringing into, or taking out of, India ang
+goods by land, sea or air” Essentially, therefore, export involves taking goods out of
+India. AAs can be issued either to a manufacturer exporter or merchant exporter tied
+to supporting manufacturer (as per paragraph 4.05). However, paragraph 4.05 of the
+FTP defines categories for which AAs can be issued, somewhat expansively and
+prescribes that – “(c) Advance Authorization shall be issued for:
+
+(i) Physical export (including export to SEZ);
+
+(ii) Intermediate supply; and/ or
+
+(iii) Supply of goods to the categories mentioned in paragraph 7.02 (b),
+
+(c), (e), (f) (g) and (h) of this FTP.
+
+(iv) Supply of 'stores' on board of foreign going vessel / aircraft, subject to condition
+that there is specific Standard Input Output Norms in respect of item supplied.” The
+definition extends in specific terms (under Chapter 4 of FTP) - supplies made to SEZ
+are considered as ‘physical exports’ despite not being an event in which goods are
+being taken out of India. The other three categories defined under (c)
+
+(ii), (iii) & (iv) are ineligible as ‘physical exports’. Supplies of intermediate goods are
+covered by letter of invalidation, whereas supplies covered under Chapter 7 of the
+FTP are considered as ‘deemed exports’. These supplies are ineligible for being
+considered ‘physical exports’. Therefore, any category of supply, be it under letter of
+invalidation and/or to EOU and/or under International Competitive Bidding (ICB)
+and/or to Mega Power Projects, other than actual exports to other country and supply
+to SEZ, cannot be considered as ‘physical exports’. One of the objects behind the
+impugned notifications was to ensure that the entire exports made under AAs
+towards discharge of export orders were physical exports. In case the entire exports
+were not physical exports, the AAs were automatically ineligible for exemption.
+
+60. The introduction of the GST regime resulted in a substantial and fundamental overhaul of the
+indirect tax structure, at the State and Central levels. The GST regime is based on the idea of
+removing cascading effect of the taxes. The cascading effect of taxes mean levy of tax on tax. The
+GST is levied on the net value added portion and not on the entire transaction value as the taxpayer
+would enjoy input tax credit. Barring few indirect taxes, all the major indirect taxes levied by the
+Central and State governments are subsumed into the GST. Consequently, taxpayers and suppliers
+are untroubled about paying multiple indirect taxes under different laws. In the GST framework,
+simple rules have been prescribed to utilize the cross-sectional credit of input taxes. A trader who
+could not claim credit of tax paid on services, can seek and get credit on goods as well as services.
+This framework of seamless credit was introduced to safeguard that taxes on supplies are paid to the
+extent of value additions and net liability- and to avoid double taxation.
+
+21
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+61. The introduction of GST meant considerable legislative exercise in the form of repeal of several
+enactments (in the wake of the 101st Amendment to the Constitution, introducing Articles 246A,
+269A, 279A, amendment to Articles 286 and 366, besides amending List I, II and III of the Seventh
+Schedule) and enactment of an entirely new set of laws. In this scheme, the new levies were IGST
+and compensation cess. These were not part of the original Notification No. 18/2015, and
+necessitated its amendment. Since the entire GST universe, so to say, is dependent on a
+comprehensive input credit and refund system, the policy makers (which in this case, were tax
+administrators and the DGFT) were of the opinion that since countervailing duty (CVD) and special
+additional duty (SAD), which were subsumed under the GST regime and the other levy
+(compensation cess), the previous regime of permitting AAs to govern import of duty free articles, as
+inputs, should continue, but that for the new levies, the system of input credit, and refunds should
+prevail.
+
+62. In this court’s opinion, the introduction of the ‘pre-import condition’ may have resulted in
+hardship to the exporters, because even whilst they fulfilled the physical export criteria, they could
+not continue with their former business practices of importing inputs, after applying for AAs, to
+fulfil their overseas contractual obligations. The new dispensation required them to pay the two
+duties, and then claim refunds, after satisfying that the inputs had been utilized fully (wastage
+excluded) for producing the final export goods. The re-shaping of their businesses caused
+inconvenience to them. Yet, that cannot be a ground to hold that the insertion of the ‘pre-import
+condition’, was arbitrary, as the High Court concluded. It was held, in Rohitash Kumar & Ors. v Om
+Prakash Sharma & Ors31 that inconvenience or hardship is not a ground for the court to interpret
+the plain language of the statute differently, to give relief.
+
+“In Mysore SEB v. Bangalore Woolen Cotton & Silk Mills Ltd. AIR 1963 SC 1128 a Constitution
+Bench of this Court held that, "inconvenience is not" a decisive factor to be considered while
+interpreting a statute. In Martin Burn Ltd. V. Corpn. Of Calcutta AIR 1966 SC 529, this Court, while
+dealing with the same issue observed as under: (AIR p. 535, para 14) "14. . A result flowing from a
+statutory provision is never an evil. A Court has no power to ignore that provision to relieve what is
+considers a distress resulting from its operation. A statute must of course be given effect to whether
+a court likes the result or not."
+
+26. Therefore, it is evident that the hardship caused to an individual, cannot be a ground for not
+giving effective and grammatical meaning to every word of the provision, if the language used
+therein is unequivocal."
+
+(2013) 11 SCC 451.
+
+Again, in State of Madhya Pradesh v Rakesh Kohli32 it was observed that the court is not concerned
+with the wisdom or unwisdom, the justice or injustice of the law as Parliament and State
+Legislatures and that “hardship is not relevant in pronouncing on the constitutional validity of a
+fiscal statute or economic law.”
+
+22
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+63. The respondents had relied on some decisions, notably Laxmi Khandsari (supra) which dealt
+with the general theory of reasonableness; the court observed that imposition of reasonable
+restrictions and its extent would depend upon the object which the law or policy seeks to serve. It
+was held that it was difficult to lay down any hard and fast rule of universal application but in
+imposing such restrictions the State must adopt an objective standard amounting to a social control.
+In Ranjit P. Gohil (supra) the court in fact held that:
+
+“It is difficult to expect the Legislature carving out a classification which may be
+scientifically perfect or logically complete or which may satisfy the expectations of all
+concerned, still the court would respect the classification dictated by the wisdom of
+Legislature and shall interfere only on being convinced that the classification would
+result in pronounced inequality or palpable arbitrariness on the touchstone of Article
+14.”
+
+64. The decision reported in MRF Ltd., Kottayam (supra) was relied upon to say that withdrawal of
+exemptions or tax benefits cannot be resorted to. Facially, this court’s observations with respect to
+withdrawal of tax exemption appear to be favourable to the respondents. Yet, what weighed with
+this court was that the power of withdrawal of exemption was not retrospective:
+
+“Thus while Sub-section (1) authorizes the grant of an exemption or reduction in rate
+with retrospective effect in respect of any tax payable 2012 (6) SCR 661.
+
+under the Act, Sub-section (3) does not provide for any cancellation or variation
+retrospectively.” In the circumstances, this decision has no application to the facts of
+this case, because the facility of AA without ‘pre import condition’ was introduced
+prospectively.
+
+65. The respondents had alleged discrimination on two counts: one, that for purposes of
+classification, all exporters who were granted AAs were to be treated alike; and two, that insisting on
+the ‘pre-import condition’ in respect to exemption from two levies only, while granting that benefit
+in respect of other AAs, was discriminatory. As far as the first aspect is concerned, the impugned
+judgment, in this court’s opinion, is on a misreading of the FTP. As noted earlier, paragraph 4.13 (i)
+itself empowered the DGFT to include articles, which are not specified in Appendix-4J. The
+existence of this discretion means that there is flexibility in regard to the nature of policies to be
+adopted, having regard to the state of export trade, and concessions to be extended in the trade and
+tax regime. Thus, the indication of a few items by virtue of paragraph 4.13 (ii) per se never meant
+that other articles could not be subjected to ‘pre import conditions’. Clearly, therefore, all AA
+holders were never treated alike. On the second aspect, what hurt the respondents was not
+classification of AAs per se, but their differentiation in the newly introduced tax regimes, so far as
+two new levies are concerned. If one keeps in mind that there cannot be a blanket right to claim
+exemption, and that such a relief is dependent on the assessment of the State and tax
+administrators, as well as the state of the economy and above all, the mechanism for its
+administration, clearly the argument of discriminatory treatment of the two levies on the one hand,
+and the other taxes on the other, has to fail. The exemption from the requirement of pre import
+
+23
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+conditions continues in respect of the old levies, which are, even as on date, not part of the GST
+regime. That clearly sets them apart from the new levies, the payment of which is insisted (after
+which refund can be sought) as a part of a unified system of levy, assessment, collection, payment,
+and refund.
+
+66. This court has held, on previous occasions, that when reform by way of new legislation is
+introduced, the doctrine of classification cannot be applied strictly, and that some allowance for
+experimentation, to observe the effect of the law, is available to the executive or legislature. This was
+emphasized in State of Gujarat v Shri Ambica Mills33 “55. A classification is under-inclusive when
+all who are included in the class are tainted with the mischief but there are others also tainted whom
+the classification does not include. In other words, a classification is bad as under-inclusive when a
+State benefits or burdens persons in a manner that furthers a legitimate purpose but does not confer
+the same benefit or place the same burden on others who are similarly situated. A classification is
+over-inclusive when it includes not only those who are similarly situated with respect to the purpose
+but others who are not so situated as well. In other words, this type of classification imposes a
+burden upon a wider range of individuals than are included in the class of those attended with
+mischief at which the law aims. Herod ordering the death of all male children born on a particular
+day because one of them would some day bring about his downfall employed such a classification.
+
+56. The first question, therefore, is, whether the exclusion of establishments carrying on business or
+trade and employing less than 1974 (3) SCR 760.
+
+50 persons makes the classification under-inclusive, when it is seen that all factories employing 10
+or 20 persons, as the case may be, have been included and that the purpose of the law is to get in
+unpaid accumulations for the welfare of the labour. Since the classification does not include all who
+are similarly situated with respect to the purpose of the law, the classification might appear, at first
+blush, to be unreasonable. But the Court has recognised the very real difficulties under which
+legislatures operate - difficulties arising out of both the nature of the legislative process and of the
+society which legislation attempts perennially to reshape - and it has refused to strike down
+indiscriminately all legislation embodying classificatory inequality here under consideration. Mr.
+Justice Holmes, in urging tolerance of under-inclusive classifications, stated that such legislation
+should not be disturbed by the Court unless it can clearly see that there is no fair reason for the law
+which would not require with equal force its extension to those whom it leaves untouched.
+
+*************** *********
+
+64. Laws regulating economic activity would be viewed differently from laws which touch and
+concern freedom of speech and religion, voting, procreation, rights with respect to criminal
+procedure, etc. The prominence given to the equal protection Clause in many modern opinions and
+decisions in America all show that the Court feels less constrained to give judicial deference to
+legislative judgment in the field of human and civil rights than in that of economic Regulation and
+that it is making a vigorous use of the equal protection Clause to strike down legislative action in the
+area of fundamental human rights. [See "Developments Equal Protection", 32 Harv, Law Rev 1065,
+1127]
+
+24
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+65. The question whether, Under Article 14, a classification is reasonable or unreasonable must, in
+the ultimate analysis depend upon the judicial approach to the problem. The great divide in this area
+lies in the difference between emphasising the actualities or the abstractions of legislation. The more
+complicated society becomes, the greater the diversity of its problems and the more does legislation
+direct itself to the diversities.
+
+66. That the legislation is directed to practical problems, that the economic mechanism is highly
+sensitive and complex, that many problems are singular and contingent that laws are not abstract
+propositions and do not relate to abstract units and are not to be measured by abstract symmetry,
+that exact wisdom and nice adaption of remedies cannot be required, that judgment is largely a
+prophecy based on meagre and uninterpreted experience, should stand as reminder that in this area
+the Court does not take the equal protection requirement in a pedagogic manner [See "General
+theory of law and state"
+
+The same idea was echoed in Ajoy Kumar Banerjee & Ors. v. Union of India & Ors34
+“...Article 14 does not prevent legislature from introducing a reform i.e. by applying
+the legislation to some institutions or objects or areas only according to the exigency
+of the situation and further classification of selection can be sustained on historical
+reasons or reasons of administrative exigency or piecemeal method of introducing
+reforms. The law need not apply to all the persons in the sense of having a universal
+application to all persons. A law can be sustained if it deals equally with the people of
+well-defined class-employees of insurance companies as such and such a law is not
+open to the charge of denial of equal protection on the ground that it had no
+application to other persons.” Likewise, Javed v. State of Haryana35 observed that
+there is no constitutional compulsion that a law or policy should be implemented all
+at once:
+
+“16. A uniform policy may be devised by the Centre or by a State. However, there is
+no constitutional requirement that any such policy must be implemented at one go.
+Policies are capable of being implemented in a phased manner. More so, when the
+policies have far- reaching implications and are dynamic in nature, their
+implementation in a phased manner is welcome for it receives gradual willing
+acceptance and invites lesser resistance.”
+
+67. Therefore, there is no constitutional compulsion that whilst framing a new law, or policies under
+a new legislation – particularly when an entirely different set of fiscal norms are created,
+overhauling the taxation structure, concessions hitherto granted or given should necessarily be
+continued in the same fashion as they were in the past. When a new set of laws are enacted, the
+legislature’s effort is to on the one hand, assimilate- as far as practicable, the past regime. On the
+other hand, the object of the new law is creation of new rights and obligations, 1984 (3) SCR 252.
+
+(2003) 8 SCC 369.
+
+25
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+with new attendant conditions. Inevitably, this process is bound to lead to some disruption. In this
+case, the disruption is in the form of exporters needing to import inputs, pay the two duties, and
+claim refunds. Yet, this inconvenience is insufficient to trump the legislative choice of creating an
+altogether new fiscal legislation, and insisting that a section of assessees order their affairs, to be in
+accord with the new law. Therefore, the exclusion of benefit of imports in anticipation of AAs, and
+requiring payment of duties, under Sections 3 (7) and (9) of Customs Tariff Act, 1975, with the
+‘pre-import condition’, cannot be characterized as arbitrary or unreasonable.
+
+68. This court had also observed in State of Madhya Pradesh v Nandlal Jaiswal36 that “in complex
+economic matters every decision is necessarily empiric, and it is based on experimentation” and that
+the court, while considering the validity of executive action relating to economic matters grant a
+certain measure of freedom or 'play in the joints' to the executive.” The Court crucially emphasized
+that:
+
+“The Court cannot strike down a policy decision taken by the State Government
+merely because it feels that another policy decision would have been fairer or wiser or
+more scientific or logical. The Court can interfere only if the policy decision is
+patently arbitrary, discriminatory or mala fide.” In R.K. Garg (supra) this court
+similarly spelt out the circumscribed role that the court has, in considering the
+validity or constitutionality of fiscal laws, or economic measures, stating that “the
+court should feel more inclined to give 1987 (1) SCR 01.
+
+judicial deference to legislative judgment in the field of economic Regulation than in
+other areas where fundamental human rights are involved.” Likewise, in Ashirwad
+Films v. Union of India37 this court observed:
+
+“The power of the Legislature to classify is of wide range and flexibility so that it can
+adjust its system of taxation in all proper and reasonable ways. Even so, large latitude
+is allowed to the State for classification upon a reasonable basis and what is
+reasonable is a question of practical details and a variety of factors which the Court
+will be reluctant and perhaps ill- equipped to investigate….”
+
+69. The object behind imposing the ‘pre-import condition’ is discernible from paragraph 4.03 of
+FTP and Annexure-4J of the HBP; that only few articles were enumerated when the FTP was
+published, is no ground for the exporters to complain that other articles could not be included for
+the purpose of ‘pre-import condition’; as held earlier, that is the import of paragraph 4.03 (i). The
+numerous schemes in the FTP are to maintain an equilibrium between exporters’ claims, on the one
+hand and on the other hand, to preserve the Revenue’s interests. Here, what is involved is
+exemption and postponement of exemption of IGST, a new levy altogether, whose mechanism was
+being worked out and evolved, for the first time. The plea of impossibility to fulfil ‘pre-import
+conditions’ under old AAs was made, suggesting that the notifications retrospectively mandated new
+conditions. The exporter respondents’ argument that there is no rationale for differential treatment
+of BCD and IGST under AA scheme is without merit. BCD is a customs levy at the point of import.
+At that stage, there is no question of (2007) 6 SCC 624, credit. On the other hand, IGST is levied at
+
+26
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+multiple points (including at the stage of import) and input credit gets into the stream, till the point
+of end user. As a result, there is justification for a separate treatment of the two levies. IGST is levied
+under the IGST Act, 2017 and is collected, for convenience, at the customs point through the
+machinery under the Customs Act, 1962. The impugned notifications, therefore, cannot be faulted
+for arbitrariness or under classification.
+
+70. The High Court was persuaded to hold that the subsequent notification of 10.01.2019 withdrew
+the ‘pre-import condition’ meant that the Union itself recognized its unworkable and unfeasible
+nature, and consequently the condition should not be insisted upon for the period it existed, i.e.,
+after 13.10.2017. This court is of the opinion that the reasoning is faulty. It is now settled that the
+FTPRA contains no power to frame retrospective regulations. Construing the later notification of
+10.01.2019 as being effective from 13.10.2017 would be giving effect to it from a date prior to the
+date of its existence; in other words the court would impart retrospectivity. In Director General of
+Foreign Trade & Ors. v Kanak Exports & Ors38 this court held that:
+
+“Section 5 of the Act does not give any such power specifically to the Central
+Government to make rules retrospective. No doubt, this Section confer powers upon
+the Central Government to 'amend' the policy which has been framed under the
+aforesaid provisions. However, that by itself would not mean that such a provision
+empowers the Government to do so retrospective.” 2015 (15) SCR 287.
+
+71. To give retrospective effect, to the notification of 10.01.2019 through
+interpretation, would be to achieve what is impermissible in law. Therefore, the
+impugned judgment cannot be sustained on this score as well.
+
+72. This court recollects its recent decision, on the question of entitlement to refund,
+under the old tax regime, which was subsumed and resulted in some businesses being
+affected. Negativing the challenge to constitutionality of the provisions of GST, it was
+held, in Union of India (UOI) & Ors. v VKC Footsteps India Pvt. Ltd39. that:
+
+“A claim to refund is governed by statute. There is no constitutional entitlement to
+seek a refund. Parliament has in Clause (i) of the first proviso allowed a refund of the
+unutilized ITC in the case of zero-rated supplies made without payment of tax. Under
+Clause (ii) of the first proviso, Parliament has envisaged a refund of unutilized ITC,
+where the credit has accumulated on account of the rate of tax on inputs being higher
+than the rate of tax on output supplies. When there is neither a constitutional
+guarantee nor a statutory entitlement to refund, the submission that goods and
+services must necessarily be treated at par on a matter of a refund of unutilized ITC
+cannot be accepted. Such an interpretation, if carried to its logical conclusion would
+involve unforeseen consequences, circumscribing the legislative discretion of
+Parliament to fashion the rate of tax, concessions and exemptions. If the judiciary
+were to do so, it would run the risk of encroaching upon legislative choices, and on
+policy decisions which are the prerogative of the executive.”
+
+27
+
+Union Of India vs Cosmo Films Limited on 28 April, 2023
+
+73. In this court’s opinion, what applies to refunds, (the right to which can be
+curtailed legitimately) applies equally to exemptions. It has been held in Bannari
+Amman Sugars Ltd. vs. Commercial Tax Officer & Ors40 that if there is any tax
+concession, it “can be withdrawn at any time and no time limit should be insisted
+upon before it was withdrawn”.
+
+2021 (15) SCR 169.
+
+2004 (6) Suppl. SCR 264.
+
+74. Commentators and economists have spoken about how introduction of GST was one of the most
+significant tax reforms undertaken by India. It was preceded by a series of meetings and
+negotiations, whereby concerns of the states, and various other agencies were accommodated. It has
+ushered a unified market driven by a single tax, converting different markets in states, with different
+tariffs and governing principles. It has smoothened movement of goods between different states.
+Before the advent of GST, the Union taxed production of goods and supply of services; and the states
+taxed sale of goods. With GST, both the Union and the states are entitled to share the taxes of the
+full value chain of goods and services. Such a transformation cannot be painless; disruptions –
+especially in the beginning will be felt. Yet, that in the process of unification, if a certain section of
+the business is inconvenienced, and would have to pay taxes (which exist as levies, newly
+introduced) and conditions are imposed upon their ability to freely import inputs (for the purpose of
+export), this alone cannot lead the court to conclude that such a change is unreasonable or arbitrary.
+
+75. For the foregoing reasons, this court holds that the Revenue has to succeed. The impugned
+judgment and orders of the Gujarat High Court are hereby set aside. However, since the
+respondents were enjoying interim orders, till the impugned judgments were delivered, the Revenue
+is directed to permit them to claim refund or input credit (whichever appliable and/or wherever
+customs duty was paid). For doing so, the respondents shall approach the jurisdictional
+commissioner, and apply with documentary evidence within six weeks from the date of this
+judgment. The claim for refund/credit, shall be examined on their merits, on a case-by-case basis.
+For the sake of convenience, the revenue shall direct the appropriate procedure to be followed,
+conveniently, through a circular, in this regard.
+
+76. The Revenue’s appeals are allowed, subject to the above terms.
+
+...............................................J. [S. RAVINDRA BHAT] ...............................................J. [DIPANKAR
+DATTA] NEW DELHI;
+
+APRIL 28, 2023.
+
+28

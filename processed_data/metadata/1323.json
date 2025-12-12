@@ -1,0 +1,19 @@
+{
+  "case_number": "Criminal Appeal No. 261 of 2022 (Arising out of SLP (Criminal) No. 7182 of 2019)",
+  "parties": {
+    "petitioner": "K. Shanthamma",
+    "respondent": "The State of Telangana"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-21",
+  "summary": "The appellant, a Commercial Tax Officer, was convicted under Sections 7 and 13(1)(d) read with Section 13(2) of the Prevention of Corruption Act, 1988, for demanding and accepting a bribe of Rs.2,000/- to issue a final assessment order. The High Court upheld the conviction. The prosecution relied on the testimony of PW1, who alleged continuous demands for bribe and the recovery of tainted currency from the appellant’s diary in her locked drawer. The appellant contested the demand and acceptance, arguing the recovery was not proven, sodium carbonate test was negative, and the assessment had already exempted the society from tax, making the bribe demand illogical. The Court emphasized that proof of demand is essential for conviction under Section 7, citing P. Satyanarayana Murthy v. District Inspector of Police. Given that the society had already been informed of tax exemption by 15th March 2000, the demand for bribe on 23rd March 2000 appeared highly doubtful. The Court found the prosecution failed to conclusively prove the demand, a sine qua non for conviction.",
+  "legal_provisions_cited": [
+    "Section 7 of the Prevention of Corruption Act, 1988",
+    "Section 13(1)(d) and Section 13(2) of the Prevention of Corruption Act, 1988",
+    "Section 20 of the Prevention of Corruption Act, 1988",
+    "Section 313 of the Code of Criminal Procedure, 1973",
+    "Article 136 of the Constitution of India",
+    "P. Satyanarayana Murthy v. District Inspector of Police, State of Andhra Pradesh and another (2015) 10 SCC 152"
+  ],
+  "final_judgment": "The appeal is allowed. The conviction and sentence of the appellant are set aside. The appellant is discharged on the basis of benefit of doubt."
+}

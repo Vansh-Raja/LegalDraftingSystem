@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 1878 of 2024",
+  "parties": {
+    "petitioner": "North Delhi Municipal Corporation",
+    "respondent": "M/S S.A. Builders Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-12-17",
+  "summary": "The appeal concerned the interpretation of post-award interest under Section 31(7) of the Arbitration and Conciliation Act, 1996. The dispute arose from an arbitral award dated 16.12.1997, which granted simple interest @18% per annum from 01.04.1990 until payment. The respondent sought clarification from the arbitrator in 2005, who clarified that interest should include compound interest on both principal and pre-award interest. The executing court set aside this clarification, holding the arbitrator functus officio. The High Court upheld this, relying on S.L. Arora's case, which prohibited compound interest under the 1996 Act. This Court, following its earlier decision in M/s. Hyder Consulting (UK) Ltd. v. Governor, State of Orissa, overruled the application of S.L. Arora in this context, affirming that compound interest is permissible under Section 31(7)(a) if not contrary to contract. The matter was remanded to determine quantum of amount payable in accordance with Hyder Consulting.",
+  "legal_provisions_cited": [
+    "Arbitration and Conciliation Act, 1996, Section 31(7)",
+    "Arbitration and Conciliation Act, 1996, Section 32",
+    "Arbitration and Conciliation Act, 1996, Section 34",
+    "Arbitration and Conciliation Act, 1996, Section 36",
+    "Arbitration and Conciliation Act, 1996, Section 37",
+    "M/s. Hyder Consulting (UK) Ltd. v. Governor, State of Orissa",
+    "State of Haryana v. S.L. Arora",
+    "Ircon International Ltd. v. Budhiraja Mining & Construction Ltd."
+  ],
+  "final_judgment": "Appeal allowed in part; matter remanded to the Trial Court to decide the quantum of amount payable in accordance with the law laid down in M/s. Hyder Consulting (UK) Ltd. v. Governor, State of Orissa."
+}

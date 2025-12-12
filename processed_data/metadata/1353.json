@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 1689 of 2022",
+  "parties": {
+    "petitioner": "M/S Frost International Limited",
+    "respondent": "M/S Milan Developers And Builders (P) Limited & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-01",
+  "summary": "The appeal challenged the High Court's order remanding for reconsideration an application under Order VII Rule 11 CPC to reject the plaint. The plaintiff sought declarations regarding a security cheque, alleging collusion between the defendants and wrongful encashment attempt after licence cancellation. The trial court had refused to reject the plaint; the revisional court reversed and rejected it, but the High Court set aside that order, holding the revisional court exceeded jurisdiction. The main issue was whether the suit was maintainable under Section 41 of the Specific Relief Act and whether the revisional court acted within its powers under Section 115 CPC. The Court examined the maintainability of the suit and jurisdictional limits of revisional courts.",
+  "legal_provisions_cited": [
+    "Order VII Rule 11, Code of Civil Procedure, 1908",
+    "Section 115, Code of Civil Procedure, 1908",
+    "Section 41, Specific Relief Act, 1963",
+    "Section 138, Negotiable Instruments Act, 1881"
+  ],
+  "final_judgment": "Appeal allowed in part; the order of the High Court set aside, and the revisional court's order rejecting the plaint under Order VII Rule 11 CPC reinstated, holding the suit not maintainable under Section 41 of the Specific Relief Act."
+}

@@ -1,0 +1,17 @@
+{
+  "case_number": "2024 INSC 148",
+  "parties": {
+    "petitioner": "Bharti Cellular Limited (Now Bharti Airtel Limited)",
+    "respondent": "Assistant Commissioner of Income Tax, Circle 57, Kolkata and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-02-28",
+  "summary": "The issue was whether cellular service providers are liable to deduct tax at source under Section 194-H of the Income Tax Act, 1961 on payments made to franchisees/distributors. The Revenue contended such payments were commission or brokerage, triggering TDS liability. The assessees argued they did not employ agents or pay commissions. The Court interpreted Section 194-H and Explanation (i), holding that 'commission or brokerage' includes payments to a person acting on behalf of another in buying/selling goods or related transactions, excluding professional services and securities. The requirement of principal-agent relationship was not strictly enforceable; focus was on substance of payment and whether it falls under the statutory definition. The Court emphasized practical construction of tax provisions, urged the CBDT to clarify ambiguity prospectively, and resolved conflicting High Court rulings.",
+  "legal_provisions_cited": [
+    "Section 194-H, Income Tax Act, 1961",
+    "Section 204, Income Tax Act, 1961",
+    "Explanation (i) to Section 194-H",
+    "Foreign Exchange Management Act, 1999"
+  ],
+  "final_judgment": "Appeals allowed in part; issue remitted for CBDT to issue clear prospective guidelines on applicability of Section 194-H to franchise/distributor payments, ensuring uniformity and avoiding retrospective imposition."
+}

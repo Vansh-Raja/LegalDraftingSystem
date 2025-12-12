@@ -1,0 +1,21 @@
+{
+  "case_number": "Criminal Appeal No. 1834/2022",
+  "parties": {
+    "petitioner": "Sumitha Pradeep",
+    "respondent": "Arun Kumar C.K & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-21",
+  "summary": "Mother of 12-year-old victim challenged anticipatory bail granted to maternal uncle accused of sexual assault under POCSO Act and IPC. Allegations include inappropriate touching, kissing, attempted disrobing, and lewd comments. High Court granted conditional bail; Special Judge opposed bail citing gravity, relationship, and prima facie evidence. Delay in reporting explained by trauma and counseling disclosure. Court considered Section 29 POCSO presumption, victim’s mental health, and accused's influence as factors against bail.",
+  "legal_provisions_cited": [
+    "Section 354A IPC",
+    "Section 354 IPC",
+    "Sections 7, 8, 9, 11 POCSO Act",
+    "Section 164 CrPC",
+    "Section 29 POCSO Act",
+    "Joy v. State of Kerala (2019) 1 KLT 935",
+    "State of Bihar v. Rajballav Prasad",
+    "Siddharam Satlingappa Mhetre v. State of Maharashtra"
+  ],
+  "final_judgment": "Leave granted; matter remanded for reconsideration of bail in light of POCSO safeguards, victim welfare, and presumption under Section 29."
+}

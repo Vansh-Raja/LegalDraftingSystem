@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal Nos. 84-85 of 2020",
+  "parties": {
+    "petitioner": "Asset Reconstruction Company (India) Limited",
+    "respondent": "Tulip Star Hotels Limited & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-01",
+  "summary": "The appeal concerned whether the corporate insolvency application filed by the financial creditor, Asset Reconstruction Company (India) Limited, against V. Hotels Limited was barred by limitation. The NCLAT had allowed appeals by the corporate debtor and its shareholders, holding the claim time-barred. The Supreme Court examined settlement agreements, acknowledgments of debt, and intermittent payments extending the limitation period. It held that acknowledgments in financial statements and repeated extensions of repayment time under Section 18 of the Limitation Act, 1963, revived the limitation. The Court found the Section 7 application under IBC filed in 2018 was within limitation due to acknowledgment of liability as late as 2017.",
+  "legal_provisions_cited": [
+    "Section 62 of the Insolvency and Bankruptcy Code, 2016",
+    "Section 7(2) of IBC",
+    "Section 13(2) and (4) of SARFAESI Act, 2002",
+    "Section 18 of the Limitation Act, 1963",
+    "Sections 128, 129, 134 of Companies Act, 2013",
+    "Sections 210, 211, 215, 216, 217 of Companies Act, 1956"
+  ],
+  "final_judgment": "The appeals were allowed. The judgment of the NCLAT holding the application barred by limitation was set aside. The order of the NCLT admitting the insolvency application was upheld."
+}

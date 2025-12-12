@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 3892 of 2022",
+  "parties": {
+    "petitioner": "State of Madhya Pradesh through Principal Secretary & Ors.",
+    "respondent": "Seema Sharma"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-12",
+  "summary": "Dispute over applicability of UGC pay scale to librarian in Ayurvedic college under Ayush Department. Respondent claimed UGC pay scale under 1990 Rules, but court found those rules inapplicable as her post was governed by 1987 Recruitment Rules under Public Health (ISM&H) Department. Key distinctions in eligibility, pay scale, and administrative control established. Precedent in Ramesh Chandra Bajpai (2009) applied: no entitlement to UGC scale for Ayush employees. Doctrine of equal pay for equal work not applicable due to differing qualifications and recruitment criteria. High Court's order directing UGC pay scale set aside.",
+  "legal_provisions_cited": [
+    "Madhya Pradesh Education Service (Collegiate Branch), Recruitment Rules, 1990",
+    "Madhya Pradesh Public Health (Indian System of Medicine and Homeopathy), Class-III, Clerical and Non-Clerical Services Recruitment Rules, 1987",
+    "State of Madhya Pradesh & Ors. vs. Ramesh Chandra Bajpai, (2009) 13 SCC 635"
+  ],
+  "final_judgment": "Appeal allowed. Impugned judgment of High Court set aside. Respondent not entitled to UGC pay scale."
+}

@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No 2839 of 2020",
+  "parties": {
+    "petitioner": "M/s Consolidated Construction Consortium Limited",
+    "respondent": "M/s Hitro Energy Solutions Private Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-04",
+  "summary": "The appeal concerned whether the appellant, a purchaser in a supply chain, qualified as an 'operational creditor' under the Insolvency and Bankruptcy Code (IBC); whether the respondent, incorporated after the underlying transaction, assumed liability of a proprietary concern; and whether the Section 9 application was barred by limitation. The Court examined statutory provisions, legislative history, judicial precedent, and the evidentiary value of the respondent's Memorandum of Association (MOA), which expressly stated an object to take over the proprietary concern. It held that the appellant qualified as an operational creditor due to the financial relationship arising from advance payment, the respondent assumed the debt based on the MOA and conduct, and the application was within limitation as the cause of action accrued upon repudiation of liability.",
+  "legal_provisions_cited": [
+    "Insolvency and Bankruptcy Code, 2016, Section 5(21), Section 8, Section 9, Section 62",
+    "Insolvency and Bankruptcy Code, 2016, Section 14",
+    "Limitation Act, 1963"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, set aside the NCLAT's judgment, and restored the NCLT's order admitting the Section 9 application, thereby reinstating the corporate insolvency resolution process against the respondent."
+}

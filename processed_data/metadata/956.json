@@ -1,0 +1,22 @@
+{
+  "case_number": "Criminal Appeal No. 1380 of 2023 (@ Special Leave  Petition (Criminal) No. 11673/2019)",
+  "parties": {
+    "petitioner": "Kunti and Anr.",
+    "respondent": "State of Uttar Pradesh and Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-03",
+  "summary": "The appeal challenged the Allahabad High Court's dismissal of a petition to quash an FIR filed under Sections 406, 420, 467, 468, 417, and 418 of the IPC, arising from a dispute over a property sale agreement. The appellants argued the agreement was void ab initio under Section 157(A) of the Uttar Pradesh Zamindari Abolition & Land Reforms Act, 1950, and forged. The Supreme Court held the dispute was essentially civil in nature, emphasizing that breach of contract does not automatically constitute cheating unless dishonest intention is proven from the outset. Relying on precedents like Sarabjit Kaur and Indian Oil Corp., the Court ruled against the misuse of criminal process in civil disputes and set aside the impugned order.",
+  "legal_provisions_cited": [
+    "Section 482 CrPC",
+    "Section 157(A), Uttar Pradesh Zamindari Abolition & Land Reforms Act, 1950",
+    "Sections 406, 420, 467, 468, 417, 418 IPC",
+    "V. Ravi Kumar v. State (2018 SCC OnLine SC 2811)",
+    "Sarabjit Kaur v. State of Punjab and Anr. (2023 SCC OnLine 210)",
+    "ARCI v. Nimra Cerglass Technics (P) Ltd. ((2016) 1 SCC 348)",
+    "Vijay Kumar Ghai v. State of W.B ((2022) 7 SCC 124)",
+    "G. Sagar Suri v. State of U.P. ((2000) 2 SCC 636)",
+    "Indian Oil Corpn. v. NEPC India Ltd. ((2006) 6 SCC 736)"
+  ],
+  "final_judgment": "The impugned judgment of the Allahabad High Court is set aside; the criminal appeal is allowed and the FIR and proceedings are quashed. Civil remedies remain available to Respondent No. 2."
+}

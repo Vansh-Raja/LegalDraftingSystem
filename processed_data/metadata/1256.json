@@ -1,0 +1,23 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 1124 OF 2022 (ARISING OUT OF SPECIAL LEAVE PETITION (CRIMINAL) NO. 2481 OF 2022)",
+  "parties": {
+    "petitioner": "Dauvaram Nirmalkar",
+    "respondent": "State of Chhattisgarh"
+  },
+  "court_name": "IN THE SUPREME COURT OF INDIA",
+  "date_of_judgment": "2022-08-02",
+  "summary": "Appellant convicted under Section 302 IPC for murdering brother Dashrath Nirmalkar. Key evidence included appellant's police confession (partially admissible under Sections 27/8 Evidence Act), bloodstained pick-axe discovered through disclosure, and testimonies from family witnesses. Courts rejected third-party involvement defense. Murder conviction reduced to culpable homicide under Exception 1 to Section 300 IPC due to alcohol-fueled quarrel constituting grave and sudden provocation.",
+  "legal_provisions_cited": [
+    "Section 302 of the Indian Penal Code, 1860",
+    "Section 25 of the Indian Evidence Act, 1872",
+    "Section 27 of the Evidence Act",
+    "Section 8 of the Evidence Act",
+    "Section 313 of the Code of Criminal Procedure, 1973",
+    "Section 309 IPC",
+    "Section 106 of the Evidence Act",
+    "Exception 1 to Section 300 IPC",
+    "Exception 4 of Section 300 IPC",
+    "K.M. Nanavati v. State of Maharashtra"
+  ],
+  "final_judgment": "Conviction under Section 302 IPC set aside; reduced to culpable homicide not amounting to murder under Exception 1 to Section 300 IPC; life sentence commuted to period already served."
+}

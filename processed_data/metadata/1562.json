@@ -1,0 +1,22 @@
+{
+  "case_number": "Criminal Appeal No. 436 of 2022",
+  "parties": {
+    "petitioner": "The State of Uttar Pradesh",
+    "respondent": "Subhash @ Pappu"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-01",
+  "summary": "The State of Uttar Pradesh appealed the Allahabad High Court's acquittal of Subhash @ Pappu of offences under Sections 302 and 148 IPC. The High Court acquitted him due to contradictions between the FIR (alleging a knife blow by accused) and dying declaration (stating accused hit with hockey stick), and because co-accused were acquitted, leaving insufficient members for an unlawful assembly. The State argued that the dying declaration established the accused's participation in the unlawful assembly with common object under Section 149 IPC, permitting conviction for murder and rioting. Reliance was placed on Rohtas v. State of Haryana and other precedents affirming conviction based on active participation even without direct infliction of fatal injury. The respondent contended the acquittal was justified due to lack of corroborative evidence and material contradictions.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 148 IPC",
+    "Section 147 IPC",
+    "Section 149 IPC",
+    "Section 313 Cr.P.C.",
+    "Rohtas Vs. State of Haryana, (2020) 14 SCALE 14",
+    "Fainul Khan Vs. State of Jharkhand, (2019) 9 SCC 549",
+    "Annareddy Sambasiva Reddy Vs. State of Andhra Pradesh, (2009) 12 SCC 546",
+    "Alister Anthony Pareira Vs. State of Maharashtra, (2012) 2 SCC 648"
+  ],
+  "final_judgment": "The appeal was dismissed, upholding the High Court's acquittal of Subhash @ Pappu of charges under Sections 302 and 148 IPC due to insufficient evidence and lack of proof of common object under Section 149 IPC."
+}

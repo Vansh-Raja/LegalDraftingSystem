@@ -1,0 +1,1049 @@
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And
+Motors Ltd on 8 August, 2024
+
+Author: Pamidighantam Sri Narasimha
+
+Bench: Aravind Kumar, Pamidighantam Sri Narasimha
+
+2024 INSC 593                                                             REPORTABLE
+
+                                    IN THE SUPREME COURT OF INDIA
+                                     CIVIL APPELLATE JURISDICTION
+
+                                     CIVIL APPEAL NO. 7702 OF 2019
+
+             DLF LTD. (FORMERLY KNOWN AS
+             DLF UNIVERSAL LTD) AND ANR.                                ...APPELLANT(S)
+
+                                                   VERSUS
+
+             KONCAR GENERATORS AND MOTORS LTD. …RESPONDENT(S)
+
+                                               JUDGMENT
+
+PAMIDIGHANTAM SRI NARASIMHA, J.
+
+1. The issue arising in the present appeal relates to enforcement of an arbitral award expressed in
+foreign currency. In this context, two questions arise for consideration. First, what is the correct and
+appropriate date to determine the foreign exchange rate for converting the award amount expressed
+in foreign currency to Indian rupees. Second, what would be the date of such conversion, when the
+award debtor deposits some amount before the court during the pendency of proceedings
+challenging the award. Two uncertainties have a direct bearing on the question to be answered, the
+time lapse between the date of the award and its enforceability- Date: 2024.08.08 17:41:47 IST
+Reason:
+
+a local factor, and the ever-fluctuating exchange rates- a global factor.
+
+1.1 Taking into account these two factors and the statutory provisions, coupled with
+the decisions of this Court, we have formulated twin principles: First, following the
+principle in Forasol v. Oil and Natural Gas Commission1, the date when the arbitral
+award becomes enforceable shall be the date for conversion. Under the Arbitration
+and Conciliation Act, 19962 this date is when the objections against the award are
+dismissed, and award attains finality. Second, in the event that the award amount or
+part of it is deposited in court pending objections, enabling withdrawal by the decree
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+1
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+holder, that date of such deposit shall be the relevant date for conversion as per the
+principle in Renusagar Power Co Ltd v.
+
+General Electric Co3. Before we consider the submissions of the counsels representing the parties,
+followed by our reasons and decision, we will refer to the relevant facts of the case.
+
+2. Facts: The relevant facts are that the appellants are Indian companies and the respondent is a
+Croatian company. The parties entered a contract for the design, engineering, manufacturing, and
+1984 Supp SCC 263.
+
+Hereinafter ‘the Act’.
+
+1994 Supp (1) SCC 644.
+
+supply of two generators by the respondent. Certain disputes arose between them that were referred
+to arbitration before the International Chamber of Commerce4, Paris. The three-member arbitral
+tribunal passed its award dated 12.05.2004 in favour of the respondent-claimant and held the
+appellants to be jointly and severally liable to pay Euros 10,93,989, along with interest, as follows:
+
+i. Euros 9,60,308.41 with interest of 5% p.a. starting on 31.10.1999 until final
+repayment;
+
+ii. Euros 18,411.40 for the storage and maintenance of the goods with interest of 5% p.a. starting
+from the date of the award;
+
+iii. Euros 5,545.40 relating to lawyer expenses of the claimant, euros 99,482.70 relating to
+arbitration fees paid to the ICC, euros 3,389.57 as guaranty expenses relating to the repayment of
+the appellants’ arbitration fee to the ICC, euros 6,852 relating to the arbitration costs in Paris, all
+these amounts with interest of 5% p.a. from the date of the award.
+
+Hereinafter “ICC”.
+
+2.1 The respondent filed for execution of the award in 2004, while the appellants filed a petition
+under Section 34 of the Act, which was dismissed on 28.04.2010. In 2010, the appellants then filed
+objections against the award under Section 48 of the Act and also filed a Section 37 appeal against
+the Section 34 order. The High Court dismissed the appeal by its order dated 15.10.2010, the terms
+of which are important for our purpose and are hence extracted:
+
+“After arguing for some time learned counsel have reached a consensus on the
+present appeal. It has been agreed by learned counsel for the appellants that the
+appeal as well as the application under Section 34 of the Arbitration and Conciliation
+Act, 1996 would be dismissed as withdrawn. It has been further agreed that the
+appellants would deposit an amount of Rs.7.5 Crores before the Executing Court on
+or before 08.11.2010.
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+2
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+It has been agreed by learned counsel for the respondent that the application under
+Section 48 which has been filed by the appellants would be decided on its own merits
+without being influenced by any findings or observations in the order on the
+application under Section 34 dated 28.04.2010. It has further been agreed by learned
+counsel for the respondent that the amount of Rs. 7.5 Crores which would be
+deposited by the appellants would be released to it only consequent to furnishing a
+bank guarantee of a scheduled bank of India in the amount of Rs. 7.5 Crores in favour
+of the Executing Court and the said bank guarantee would be kept alive during the
+proceedings under Section 48 and for a period of 60 days thereafter. The final order
+thereon would obviously be passed by the Executing Court after the conclusion of the
+proceedings under Section 48.” 2.2 In accordance with the above, the appellants
+deposited Rs. 7.5 crores with the Executing Court on 22.10.2010. 2.3 The Trial Court
+dismissed the objections filed under Section 48 by order dated 02.04.2011. The
+appellants filed a revision, which the High Court admitted by order dated 03.06.2011.
+By this order, the High Court also stayed the operation of the Trial Court order
+dismissing objections, subject to the appellants depositing a further amount of Rs. 50
+lakhs, in addition to Rs. 7.5 crores, with the Executing Court. The Court directed that
+the amount shall be disbursed to the successful party on the final adjudication of this
+lis. It also rejected the respondent’s prayer for deposit of the amount in euros.
+Pursuant to this order, the appellants deposited Rs. 50 lakhs on 15.07.2011.
+
+Subsequently, the revision came to be dismissed by the High Court on 01.07.2014, by which the
+award attained finality as this order was not challenged any further.
+
+2.4 In the execution proceedings, the Trial Court by order dated 24.08.2016 permitted the
+respondent to withdraw the entire deposit of Rs. 8 crores as per the direction of the High Court. On
+10.10.2016, the respondent received Rs. 11,60,12,100, including the interest that had accrued on the
+deposited amount. 2.5 The execution petition was allowed by the Trial Court by its order dated
+03.02.2017, wherein it was held that the relevant date to convert the award amount expressed in
+euros to Indian rupees (the foreign exchange rate) is 01.07.2014, i.e., the date on which all the
+objections against the award were finally decided as it is only on such date that the award is deemed
+to be a decree. The Trial Court accepted the calculation as submitted by the respondent.
+
+2.6 The appellants filed a revision petition against this order, which was dismissed by the High
+Court by order dated 26.02.20185, which is impugned herein. The High Court rejected the
+appellant’s reliance on this Court’s decision in Forasol (supra) to submit that the date of decree shall
+be deemed as the relevant date for conversion and since the award dated 12.05.2004 is a deemed
+decree under the Act, the exchange rate as on the date of the award should be applied. The Court
+reasoned that this Court’s judgment in Forasol (supra) was passed under the Arbitration Act, 1940
+and hence, does not apply in the present case. Instead, the High Court referred to the Delhi High
+Court’s decision in Progetto Grano S.P.A. v. Shri Lal Mahal Limited6, against which this Court
+dismissed the SLP7, where it was held that the relevant date for In CR No. 1827 of 2017 (O&M),
+Punjab and Haryana High Court (hereinafter “impugned judgment”). 2014 SCC OnLine Del 3348.
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+3
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+SLP No. 27041/2014, order dated 21.11.2014.
+
+conversion is when the objections filed under Section 48 are finally decided. Further, the Court
+referred to Section 49 of the Act 8 that provides that the foreign arbitral award shall be deemed to be
+a decree of the court when it is satisfied that it is enforceable under Part II, Chapter I of the Act. It
+reasoned that such satisfaction required under Section 49 is complete only when the objections filed
+under Section 48 are finally decided, which was on 01.07.2014 in the present case (when the High
+Court dismissed the revision). It also observed that the appellants delayed execution of the award by
+initially filing under Section 34, despite such application not being maintainable and then filing an
+appeal against this order and subsequently withdrawing it. The appellants cannot be permitted to
+benefit from the fluctuation in exchange rates when the delay is attributable to them. Therefore, the
+relevant date for conversion is 01.07.2014.
+
+2.7 While issuing notice on the special leave petition filed by the appellant on 10.09.20189, this
+Court confined the issue to Section 49 of the Act reads:
+
+“49. Enforcement of foreign awards.—Where the Court is satisfied that the foreign
+award is enforceable under this Chapter, the award shall be deemed to be a decree of
+that Court.” By order 10.09.2018, this Court ordered: “Issue notice, returnable within
+four weeks, limited to the conversion rate that would be applicable on 15.10.2010
+insofar as the deposit of Rs. 7.5 Crores is concerned. The same will apply to the
+further deposit of Rs. 50,00,000/-.” determining whether the foreign exchange rate
+as on 15.10.2010 would apply to the deposit of Rs. 8 crores.
+
+3. Submissions: Learned senior counsel Mr. Pinaki Mishra appeared on behalf of the appellants.
+Initially, he submitted that 01.07.2014 would not be the relevant date for conversion for the entire
+amount and argued for using the exchange rate on 02.04.2011, when the Trial Court dismissed
+objections under Section 48. However, he later restricted his submissions to the exchange rate that
+applies when the amount of Rs. 8 crores was deposited by the appellants on 22.10.2010 as per the
+order dated 15.10.2010. The crux of his argument is that the deposited amount stands converted as
+on the date of its deposit, and this amount then cannot be converted again as per the exchange rate
+prevailing on 01.07.2014. He has submitted that the High Court passed an order dated 15.10.2010
+directing the appellants to deposit Rs. 7.5 crores on the consent of both parties, and also permitted
+the respondent to withdraw this amount on furnishing a bank guarantee in Indian rupee for the
+entire amount, to which the respondent had agreed at the time. He further submitted that the
+appellants cannot be faulted for the respondent not withdrawing the amount when it was deposited.
+In response to the respondent’s contention regarding their inability to furnish a bank guarantee of a
+scheduled Indian bank, he submitted that the respondent had agreed to this condition when the
+order was passed, and in any case, it could have applied for a modification but did not do so. Since
+the respondent consented to the deposit of Rs. 7.5 crores and it was also permitted to withdraw the
+same, the amount stood converted as on the date of its deposit on 22.10.2010. The exchange rate on
+this date was 1 euro = Rs. 59.17. While the arbitral award along with interest was euros 16,73,469.07,
+the deposited amount of Rs. 7.5 crores gets converted to euros 12,67,534.22 at that exchange rate,
+and the balance of the award would be euros 4,05,934.85 that remained pending as on this date.
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+4
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+Subsequently, pursuant to the High Court’s interim order dated 03.06.2011 in revision against the
+Trial Court dismissing the objections petition, the appellant deposited an additional amount of Rs.
+50 lakhs on 15.07.2011. As on this date, the amount of arbitral award including interest pending
+payment was euros 4,17,278.78, i.e., after converting and adjusting the earlier deposit against the
+award. Using the prevailing exchange rate of 1 euro = Rs. 62.89 as on 15.07.2011, the appellant’s
+deposit amounts to euros 79,503.90. Therefore, a balance of euros 3,37,774.88, along with interest,
+remains pending for which the exchange rate as on 01.07.2014 would apply. 3.1 Mr. Mishra
+concluded by submitting that the appellants would be required to pay only Rs. 3.19 crores if their
+calculation is accepted. On the other hand, if the impugned judgment is upheld, they would be
+required to be pay more than double the amount, i.e., Rs. 6.48 crores.
+
+3.2 Mr. Abhay Mahajan, learned counsel, appearing for the respondent submitted that the exchange
+rate on 01.07.2014 would apply to the entire award amount. He submitted that the respondent had
+not consented to the deposit of Rs. 7.5 crores and that the High Court did not convert the amount
+but only directed deposit of a lump sum amount. He relied on this Court’s decision in P.S.L.
+Ramanathan Chettiar v. O.R.M.P.R.M. Ramanathan Chettiar10 where it was held that the judgment
+debtor depositing a sum in court during the pendency of the appeal does not pass the title and vest
+the money with the decree-holder. The decree-holder may withdraw the amount only on furnishing
+security, which means that the payment is not in satisfaction of the decree. Further, the judgment
+debtor can proceed against the security in (1968) 3 SCR 367.
+
+case he succeeds in the appeal. Rather, the purpose of the deposit is to obtain a stay of execution and
+to put the money beyond the reach of the parties pending the disposal of the appeal. On this basis,
+Mr. Mahajan submitted that the deposit of Rs. 8 crores during the pendency of the objections under
+Section 48 does not pass the title of this amount to the respondent and such deposit was not under
+the arbitral award as the award can be deemed to be a decree only on 01.07.2014 when all the
+objections to the award stood dismissed. Hence, this is the relevant date for conversion.
+
+3.3 As per the calculation sheet submitted by the respondent, the exchange rate as on this date is 1
+euro = Rs. 82.21 and this rate must be used for converting the entire arbitral award and interest. The
+amount of Rs. 11.6 crores withdrawn by the respondent on 10.10.2016 must first be appropriated
+towards interest and then towards the principal sum. After adjusting this amount and after
+accounting for interest, the respondent submits that it is entitled to Rs. 6,57,62,057 from the
+appellants.
+
+4. Analysis – Statutory Scheme: It is important to first set out the statutory scheme for the
+enforcement of foreign arbitral awards in India. Under the Act, Part II deals with the enforcement of
+certain foreign arbitral awards. Chapter I deals with awards under the New York Convention.
+Section 45 provides for the power of a court to refer parties to arbitration.11 Section 46 provides that
+a foreign award which is enforceable under this Chapter shall be treated as binding for all purposes
+on the persons between whom it is made.12 Section 47 provides for the evidentiary requirements for
+enforcement of a foreign award.13 Section 48 sets out various grounds on which the court may
+refuse the enforcement of a foreign award.14 Section 49 provides that where the court is Section 45
+reads:
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+5
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+“45. Power of judicial authority to refer parties to arbitration.—Notwithstanding
+anything contained in Part I or in the Code of Civil Procedure, 1908 (5 of 1908), a
+judicial authority, when seized of an action in a matter in respect of which the parties
+have made an agreement referred to in section 44, shall, at the request of one of the
+parties or any person claiming through or under him, refer the parties to arbitration,
+[unless it prima facie finds] that the said agreement is null and void, inoperative or
+incapable of being performed.” Section 46 reads:
+
+“46. When foreign award binding.—Any foreign award which would be enforceable
+under this Chapter shall be treated as binding for all purposes on the persons as
+between whom it was made, and may accordingly be relied on by any of those
+persons by way of defence, set off or otherwise in any legal proceedings in India and
+any references in this Chapter to enforcing a foreign award shall be construed as
+including references to relying on an award.” Section 47 reads:
+
+“47. Evidence.—(1) The party applying for the enforcement of a foreign award shall,
+at the time of the application, produce before the court—
+
+(a) the original award or a copy thereof, duly authenticated in the manner required
+by the law of the country in which it was made;
+
+(b) the original agreement for arbitration or a duly certified copy thereof; and
+
+(c) such evidence as may be necessary to prove that the award is a foreign award. (2)
+If the award or agreement to be produced under sub-section (1) is in a foreign
+language, the party seeking to enforce the award shall produce a translation into
+English certified as correct by a diplomatic or consular agent of the country to which
+that party belongs or certified as correct in such other manner as may be sufficient
+according to the law in force in India.
+
+[Explanation.—In this section and in the sections following in this Chapter, “Court” means the High
+Court having original jurisdiction to decide the questions forming the subject-matter of the arbitral
+award if the same had been the subject-matter of a suit on its original civil jurisdiction and in other
+cases, in the High Court having jurisdiction to hear appeals from decrees of courts subordinate to
+such High Court.]” Section 48 reads:
+
+“48. Conditions for enforcement of foreign awards.—(1) Enforcement of a foreign
+award may be refused, at the request of the party against whom it is invoked, only if
+that party furnishes to the court proof that— satisfied that a foreign award is
+enforceable under this Chapter, it shall be deemed to be a decree of that court.
+Section 50 provides for appeal against certain orders, i.e., orders refusing to refer
+parties to arbitration under Section 45 and orders refusing to enforce a foreign award
+under Section 48.15 Finally, Section 5116 is
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+6
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+(a) the parties to the agreement referred to in section 44 were, under the law
+applicable to them, under some incapacity, or the said agreement is not valid under
+the law to which the parties have subjected it or, failing any indication thereon, under
+the law of the country where the award was made; or
+
+(b) the party against whom the award is invoked was not given proper notice of the
+appointment of the arbitrator or of the arbitral proceedings or was otherwise unable
+to present his case; or
+
+(c) the award deals with a difference not contemplated by or not falling within the
+terms of the submission to arbitration, or it contains decisions on matters beyond the
+scope of the submission to arbitration:
+
+Provided that, if the decisions on matters submitted to arbitration can be separated
+from those not so submitted, that part of the award which contains decisions on
+matters submitted to arbitration may be enforced; or
+
+(d) the composition of the arbitral authority or the arbitral procedure was not in
+accordance with the agreement of the parties, or, failing such agreement, was not in
+accordance with the law of the country where the arbitration took place; or
+
+(e) the award has not yet become binding on the parties, or has been set aside or
+suspended by a competent authority of the country in which, or under the law of
+which, that award was made. (2) Enforcement of an arbitral award may also be
+refused if the Court finds that—
+
+(a) the subject-matter of the difference is not capable of settlement by arbitration
+under the law of India; or
+
+(b) the enforcement of the award would be contrary to the public policy of India.
+
+[Explanation 1.—For the avoidance of any doubt, it is clarified that an award is in conflict with the
+public policy of India, only if,—
+
+(i) the making of the award was induced or affected by fraud or corruption or was in violation of
+section 75 or section 81; or
+
+(ii) it is in contravention with the fundamental policy of Indian law; or
+
+(iii) it is in conflict with the most basic notions of morality or justice. ] [Explanation 2.—For the
+avoidance of doubt, the test as to whether there is a contravention with the fundamental policy of
+Indian law shall not entail a review on the merits of the dispute.] (3) If an application for the setting
+aside or suspension of the award has been made to a competent authority referred to in clause (e) of
+sub-section (1) the Court may, if it considers it proper, adjourn the decision on the enforcement of
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+7
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+the award and may also, on the application of the party claiming enforcement of the award, order
+the other party to give suitable security.” Section 50 reads:
+
+“50. Appealable orders.—(1) [Notwithstanding anything contained in any other law
+for the time being in force, an appeal] shall lie from the order refusing to—
+
+(a) refer the parties to arbitration under section 45;
+
+(b) enforce a foreign award under section 48, to the court authorised by law to hear
+appeals from such order.
+
+(2) No second appeal shall lie from an order passed in appeal under this section, but
+nothing in this section shall affect or take away any right to appeal to the Supreme
+Court.” Section 51 reads:
+
+“51. Saving.—Nothing in this Chapter shall prejudice any rights which any person
+would have had of enforcing in India of any award or of availing himself in India of
+any award if this Chapter had not been enacted.” a savings clause and Section 5217
+provides that Chapter II of Part II shall not apply to awards governed under this
+Chapter. 4.1 From the statutory scheme, it is clear that a foreign arbitral award is
+binding between the parties when it is enforceable under Part II, Chapter I of the Act
+(Section 46). The enforceability of the award can be challenged under Section 48, and
+the order passed on such an application can be appealed under Section 50 only if it is
+allowed and the court refuses enforcement of the award.
+
+Therefore, a foreign award can be enforced when the objections against it are finally decided and
+dismissed. At this point, the award is deemed to be a decree of the court as per Section 49.18 Unlike
+under the Arbitration Act, 1940, there is no requirement for a separate decree by a court for making
+the award a rule of the court.19
+
+5. Case-law on Relevant Date for Conversion: Now, we will discuss the case-law on the relevant date
+of conversion, both in the context of arbitral awards and judgments where the decretal amount is
+expressed in a foreign currency. The seminal case that first decided this question was Forasol v.
+ONGC (supra). Forasol Section 52 reads:
+
+“52. Chapter II not to apply.—Chapter II of this Part shall not apply in relation to
+foreign awards to which this Chapter applies.” See Fuerst Day Lawson v. Jindal
+Exports Limited, (2001) 6 SCC 356, paras 30 and 31. ibid.
+
+was a French company that was awarded a tender for structural drilling of oil for
+exploration by ONGC. Pursuant to certain disputes that arose between the parties,
+the matter was referred to arbitration and on 21.12.1974, an arbitral award was
+passed in Forasol’s favour where the amount was expressed in French francs. This
+award was made under the Arbitration Act, 1940. The Court held that the award can
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+8
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+be enforced either in foreign currency or in Indian rupee. The principles for
+determining conversion to Indian rupee are as follows:
+
+5.1 Where the contract provides for a rate of exchange, the same must be used to
+convert the amount in accordance with the wording of the contractual clause. In this
+case, article IX-3.1 of the contract provided for the exchange rate of FF 1.033 = Re.
+1.000, which the Court held as applying to only 20% of the fees and charges
+computed in French francs based on contractual interpretation.20 Further, the
+arbitral award provided for an enhanced rate of conversion of FF 1.000 = Rs. 1.5178
+as applicable to payments in Indian rupee on or after 30.11.1966 as the Indian rupee
+was depreciated at this time. The Court interpreted the arbitral award and held this
+exchange rate to apply in place of what Forasol (supra), para 16.
+
+was provided in article IX-3.1 to the extent of payments made in Indian rupee on and after
+30.11.1966.21 5.2 For the remaining amount that still required to be converted to Indian rupee for
+which no exchange rate was provided in the contract or the arbitral award, the Court considered six
+possible dates as the proper date for fixing the rate of exchange22:
+
+i. the date when the amount became due and payable;
+
+     ii.      the date of the commencement of the action;
+
+     iii.     the date of the decree;
+
+     iv.      the date when the court orders execution to issue;
+
+     v.       the date when the decretal amount is paid or realised;
+
+     vi.      and in cases where a decree is passed by the court in terms
+
+of an arbitral award in foreign currency, the date of the award.
+
+5.3 After an extensive discussion of English jurisprudence on the point, the Court
+noted the position of law in England at the time.23 Briefly stated, the position is as
+follows: Both courts and arbitrators in England have the jurisdiction to make a
+judgment/ award in foreign currency in certain circumstances. In the ibid, paras
+17-22.
+
+ibid, paras 24-25.
+
+ibid, para 39.
+
+Jugoslavenska case24, the Court of Appeal held that in cases of arbitral awards, the date of award is
+the relevant date for determining the exchange rate. This was a departure from the ‘breach date
+rule’, i.e., the conversion must be as per the exchange rate on the date when the debt was payable,
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+9
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+which principle was laid down by the House of Lords in the Havana case25. Subsequently, in the
+Schorsch Meier case26 (this was not a case of arbitration but a claim for payment of price of goods
+in a foreign currency filed before English courts), the Court of Appeal held that the date of
+conversion should be the date of payment, i.e., the date on which the court authorises enforcement
+of the judgment in terms of sterling. Finally, in the Miliangos case27, the House of Lords also held
+that the date of conversion should be the date when the court authorises enforcement of the
+judgment in terms of sterling pound. While Jugoslavenska (supra) was not expressly overruled by
+the House of Lords, its correctness was doubted. 5.4 The Court held that there is no bar on courts in
+India to pass a decree for a sum expressed in foreign currency. However, for the purpose of payment
+of such amount, the limitations and Jugoslavenska Oseanska Plovidba v. Castle Investment Co. Inc.,
+[1973] 3 All E.R. 498. In re United Railways of the Havana and Regia Warehouses, Ltd.,[1959] 1 All
+E.R. 214 (CA). Schorsch Meier GmbH v. Hennin, [1975] 1 All E.R. 152 Miliangos v. George Prank
+(Textiles) Ltd., 1976 AC 443. restrictions under the Foreign Exchange Regulation Act, 1973 (that was
+in force at the time) must be considered. If permission is not granted by the authorities to pay the
+decretal amount in foreign currency, the amount would have to be converted to Indian rupees for
+payment of an equivalent amount. The date of conversion becomes relevant here, as the “court must
+select a date which puts the plaintiff in the same position in which he would have been had the
+defendant discharged his obligation when he ought to have done, bearing in mind that the rate of
+exchange is not a constant factor but fluctuates, and very often violently fluctuates, from time to
+time.”28 These are the guiding principles and considerations for the Court to determine the relevant
+date, which are apposite even today.
+
+5.5 The Court then undertook a detailed examination of each of the 6 dates that it set out earlier and
+held that the date of the decree (the third option) is the most appropriate amongst them. The Court
+adopted the approach of eliminating other possible dates, on the following grounds:
+
+i. The date when the amount becomes due and payable does not have the same effect
+of putting the plaintiff in the same Forasol (supra), para 40.
+
+position that he would have been in if the defendant had discharged his obligation.
+Due to the fluctuations in exchange rate, using this date could result in the decree-
+holder only receiving a fraction of or a lot more than what he is entitled to.29 ii. The
+second date – when the action or suit commenced – was rejected for the same reason
+as above, considering that there is usually a large period of time between the filing of
+the suit, the decree by the Trial Court, subsequent appeals, revisions, and reviews,
+and the final decision.30 iii. The Court favourably discussed the third option, i.e., the
+date of the decree or judgment. It held that the decree crystallises the amount
+payable to the decree-holder. To account for appeals and revisions, the date when the
+action is finally disposed of and when the decree becomes final and binding on both
+parties, after exhausting all remedies, can be used. However, it observed that the only
+objection to be considered against this date is that there is ibid, para 41.
+
+ibid, para 42.
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+10
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+a significant lapse of time between the decree and its execution.31 iv. The Court
+rejected the fourth date, i.e., the date of court order for execution, despite the same
+being used in English law as per the decision in Miliangos (supra). It noted that the
+process of execution in India is a lengthy one that may require attachment of
+property, deciding third party claims to such property, proclamation with particulars,
+and auction sale. Moreover, multiple applications for execution may be required if
+the initial attachment and sale does not cover the decretal amount. Hence, it may
+lead to a situation where there are multiple execution orders, meaning multiple
+exchange rates would have to be considered. Another difficulty is that the execution
+application itself requires the amount to be expressed in Indian currency.32 v. The
+date of payment was also rejected as the proper date due to practical and procedural
+difficulties of having to pay court fees on a determined amount in Indian rupee; the
+pecuniary limit of the jurisdiction of courts would depend ibid, para 43.
+
+ibid, paras 44-46.
+
+on the amount claimed, which must again be in Indian rupee; and execution is for a
+specific sum expressed in Indian rupee. For these reasons, the Court held that the
+conversion of the amount to the domestic currency cannot be left to the date of
+payment as the legal procedures in India require the amount to be determined in
+domestic currency before that.33 vi. Among the remaining dates, the Court was of the
+opinion that the date of the judgment/decree is the most appropriate.34 It rejected
+the date of the arbitral award as the proper date while observing that the
+Jugoslavenska case (supra), where this date was used, was doubted even by the
+House of Lords in Miliangos (supra). If the law laid down in Miliangos (supra) were
+to be applied to arbitral awards, the date of conversion would be when the court
+grants leave under Section 26(1) of the Arbitration Act, 1950 (UK) to enforce such
+award in the same manner as a judgment or to the same effect.35 Further, noting the
+differences between the statutory scheme for enforcement ibid, paras 47-52.
+
+ibid, para 53.
+
+ibid, paras 61-62.
+
+of foreign arbitral awards in the UK and in India, it held that the Jugoslavenska case
+(supra) will not apply in the Indian context considering the procedure under Section
+17 is different from the procedure under English law.36 Section 17 of the Arbitration
+Act, 194037 required a judgment and decree to give an award the status of a decree,
+i.e., making it a rule of court, for the award to become enforceable. On the other
+hand, English law38 did not require a judgment to be passed in all cases and it was
+sufficient for the court to grant leave to enforce the award in the same manner as a
+judgment. In Indian law, it was not the arbitral award but only the decree of the court
+that could be enforced by an application for execution.39 Hence, the Court found that
+rather than the date of the arbitral award, the date of the judgment and decree under
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+11
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+Section 17 is the most appropriate one to determine the conversion ibid, paras 63-65.
+
+Section 17 reads:
+
+“17. Judgment in terms of award.—Where the Court sees no cause to remit the award
+or any of the matters referred to arbitration for reconsideration or to set aside the
+award, the Court shall, after the time for making an application to set aside the award
+has expired, or such application having been made, after refusing it, proceed to
+pronounce judgment according to the award, and upon the judgment so pronounced
+a decree shall follow and no appeal shall lie from such decree except on the ground
+that it is in excess of, or not otherwise in accordance with, the award.” See Section
+26(1) of the Arbitration Act, 1950, which provides:
+
+“26. Enforcement of award.—(1) An award on an arbitration agreement may, by leave
+of the High Court or a Judge thereof, be enforced in the same manner as a judgment
+or order to the same effect, and where leave is so given, judgment may be entered in
+terms of the award…” Forasol (supra) paras 65-66.
+
+rate as it was only then that the arbitral award became enforceable.
+
+6. The above extensive discussion on Forasol (supra) is necessary to understand the principles set
+out by this Court to determine the relevant date for conversion. The law laid down in this case was
+subsequently affirmed by a 3-judge bench of this Court in Renusagar Power Co. Ltd v. General
+Electric Co40 in the context of the Foreign Awards (Recognition and Enforcement) Act, 1961. A
+foreign arbitral award in favour of the respondent- claimant, which is an American company, was
+passed where the amount was expressed in US dollars. The respondent then filed for enforcement of
+this award before the Bombay High Court under the Foreign Awards (Recognition and
+Enforcement) Act, 1961 as the appellant was an Indian company. Both the single judge and division
+bench of the High Court allowed the enforcement of the award and dismissed Renusagar’s
+objections under Section 7 of this Act. The matter was then appealed to this Court, which dealt with
+several issues on objections to the enforceability of foreign awards, including the scope of inquiry
+under Section 7 and the meaning of ‘public policy’. The most relevant issues framed by the
+Renusagar (supra), see paras 131-133.
+
+Court, for our purpose, are which law would govern the rate of exchange for conversion in
+proceedings for enforcement of a foreign arbitral award and whether Forasol (supra) required
+reconsideration. The Court held that the applicable law to determine the proper date for conversion
+is the lex fori41, which would be Indian law. After extensively discussing the principles under
+English law as well as the reasoning in Forasol (supra), the Court rejected the contention that
+Forasol (supra) required reconsideration42.
+
+7. The law laid down in Forasol (supra) has also been used in other cases though they do not pertain
+to arbitration but involved an issue of a debt expressed in foreign currency that required to be
+converted to Indian rupee. United India Insurance Co. Ltd. v. Kantika Colour Lab43 involved a
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+12
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+consumer complaint for payment of an insurance claim due to the damage of a printer in transit.
+This Court did not cite Forasol (supra) but used the date of its judgment as the proper date for
+conversion of the cost of the printer that was expressed in Singaporean dollars. In Meenakshi
+Saxena v. ECGC Limited44, again was a consumer complaint for ibid, paras 107-108.
+
+ibid, para 133.
+
+(2010) 6 SCC 449.
+
+(2018) 7 SCC 479.
+
+payment under an insurance contract for loss suffered during export of goods, the Court noted that
+the contract provided for a date on which the exchange rate must be determined and followed
+Forasol (supra) to hold that this is the proper date. 7.1 In certain other cases, the principle in Forasol
+(supra) has been considered but not applied due to the peculiar facts of those cases. For example, in
+cases of motor accident deaths where the deceased was earning in foreign currency, the Court has
+refused to use the date of the judgment as the proper date and has instead used the date of filing the
+claim as the claims in these cases were filed in Indian rupee and the Tribunal also decided the cases
+in Indian rupee. Hence, it was held that the amount already stood converted in the claim itself.45
+Similarly, in Triveny Kodkany v. Air India Limited46 involving claim for compensation due to the
+death of an airline passenger, the Court considered Forasol (supra) and Renusagar (supra) but did
+not apply them. It differentiated the facts in those cases as in both of them, the award holders were
+foreign companies. However, in this case, the claimants seeking compensation were residing in
+India. Further, like in motor See United India Insurance Co. Ltd v. Patricia Jean Mahajan, (2002) 6
+SCC 281; Jiju Kuruvila v. Kunjujamma Mohan, (2013) 9 SCC 166.
+
+(2021) 19 SCC 214.
+
+accident cases, it found that the claim for payment was itself in Indian rupees and interest was also
+provided on such amount. Hence, it found that the date of filing the complaint is the proper date for
+conversion.
+
+8. It is therefore clear from the above-referred analysis of judicial determinations that the principle
+and law laid down in Forasol (supra) has been widely considered and followed by this Court in
+various types of matters. There is no impediment for us to apply this decision to cases under the
+1996 Act, even though it was decided under the Arbitration Act, 1940. We therefore disagree with
+the High Court that Forasol (supra) does not apply to cases under the 1996 Act.
+
+9. The Delhi High Court has also relied on Forasol (supra) in several cases on the enforcement of
+domestic and foreign arbitral awards where the amount is expressed in foreign currency:
+
+9.1 In Fuerst Day Lawson v. Jindal Exports Ltd47, the High Court relied on Forasol
+(supra) and analogised that the date on which the objections to the enforcement of
+the award are finally rejected and the foreign award becomes enforceable would be
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+13
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+the 2012 SCC OnLine Del 5647.
+
+date that it is deemed to be a decree under Section 49. Hence, this would be the relevant conversion
+date.
+
+9.2 This case was followed in Progetto (supra), where the relevant date was held to be when this
+Court dismissed the SLP in the objections petition. The award debtor herein had deposited the
+entire amount only after the dismissal of the SLP by using the exchange rate as on the date of
+deposit, which was higher than the rate as on date of dismissal of SLP. Hence, the High Court while
+deciding the execution petition directed refund of the excess amount by using the date of this
+Court’s order as the relevant date. In so far as the present appeal is concerned, we have already
+mentioned that the respondent was permitted to withdraw 7.5 crores during the pendency of the
+proceedings. 9.3 Similarly, in Trammo AG v. MMTC Limited48, the date of dismissal of review by
+this Court in the proceedings to set aside the award was held to be the relevant date.
+
+9.4 In Voith Hydro v. NTPC Limited49, the award debtor had paid some part of the arbitral award
+amount during the pendency of proceedings to set aside the award. It paid 75% of the amount on
+06.11.2018, against bank guarantees by the award holder, in 2019 SCC OnLine Del 7337.
+
+2021 SCC OnLine Del 1325.
+
+accordance with a Niti Aayog Circular. Subsequently, this Court dismissed the SLP in the
+22.09.2020. The High Court held that the exchange rate as on 06.11.2018 would apply insofar as
+75% of the deposit is concerned as the claimant had received this part- payment and the exchange
+rate on 22.09.2020 was higher than on 06.11.2018. Relying on Forasol (supra), Renusagar (supra),
+and Fuerst Day Lawson (supra), it held that the exchange rate on 22.09.2020 would apply to the
+remaining amount. 9.5 In Karamchand Thapar & Bros. (Coal Sales) Ltd. v. MMTC Ltd.50, the date
+on which the arbitral award attained finality (when the SLP in the Sections 34 and 37 proceedings
+was dismissed) was determined as the relevant date for the exchange rate. Here, the award debtor
+had deposited an amount subsequent to the dismissal of the SLP at the exchange rate as on date of
+deposit, which was higher than the exchange rate when the SLP was dismissed. The High Court
+therefore also directed the award holder to refund the excess amount paid by the award debtor. This
+case does not involve deposit during the pendency of the objections.
+
+2022 SCC OnLine Del 949.
+
+10. Applying the Principle in Forasol under the 1996 Act: The reason that this Court in Forasol
+(supra) determined the date of the decree under Section 17 of the 1940 Act as the proper date is that
+it is only then that the arbitral award becomes enforceable. However, as set out earlier, the statutory
+scheme under the 1996 Act does not require such a judgment or decree to be passed for a foreign
+award to be enforceable. Rather, the enforceability of a foreign award is automatic and deemed
+under Section 49 after the objections against such an award under Section 48 are finally decided
+and disposed of. At this point, the award is enforceable as a decree of a court (Section 49). Hence,
+the date on which the objections are finally decided and dismissed would be the proper date for
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+14
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+determining the exchange rate to convert an amount expressed in foreign currency.
+
+10.1 In the present case, this date is 01.07.2014 – when the High Court dismissed the revision
+petition against the Trial Court order dismissing the appellants’ objections. No further appeal was
+preferred from this order and hence, it attained finality. While the learned counsels have not
+contested this issue, it was necessary for us to delve into the reason and principle behind selecting
+this date and to settle the position of law on the applicability of Forasol (supra) under the 1996 Act.
+
+11. Conversion of Deposited Amounts: The primary contention by the learned counsels was
+regarding the proper date to determine the exchange rate to the extent of Rs. 8 crores that was
+deposited in the court pursuant to certain orders. The learned counsels have both referred to
+decisions by the Delhi High Court on this point. Mr. Mishra heavily relied on Voith Hydro (supra),
+where the arbitral award was partly paid against bank guarantees under a Niti Ayog circular, before
+the objections were finally decided. The High Court here held that the paid amount stood converted
+as on the date of payment as it was received by the award-holder and the exchange rate increased by
+the time the objections were finally decided. On the other hand, Mr. Mahajan has relied on Karam
+Chand Thapar (supra), where again a deposit of some part of the amount was made, albeit after the
+final decision on objections. Here the High Court held that the date on which the SLP in the
+objections was dismissed would be the proper date.
+
+11.1 In the present case, it is important to note the terms on which the two deposits of Rs. 7.5 crores
+and Rs. 50 lakhs were made. From the order of the High Court dated 15.10.2010, it is clear that such
+order for deposit of Rs. 7.5 crores and for furnishing a bank guarantee of an Indian bank for the
+release of the deposit was made in accordance with the consent of the parties. Mr. Mahajan’s
+submission that the respondent did not consent to the deposit hence cannot be accepted. The
+further deposit of Rs. 50 lakhs was made pursuant to an interim order of the High Court dated
+03.06.2011, which stayed the Trial Court order dated 02.04.2011 and directed the deposit. However,
+unlike the previous order, neither was this order passed on the consent of the parties nor did it
+permit the respondent to withdraw the money during the pendency of the proceedings. Rather, it
+directed that the amount shall be deposited in a fixed deposit receipt and shall be disbursed to the
+successful party on the final adjudication of the objections.
+
+11.2 We will first deal with the deposit of Rs. 7.5 crores. Despite being permitted to withdraw this
+amount by furnishing a bank guarantee, the respondent did not do so until 2016. Mr. Mahajan
+contended that being a foreign company, it was unable to obtain a bank guarantee from an Indian
+bank. However, the order of 15.10.2010 clearly records the respondent’s consent to this condition.
+Further, when it was unable to comply with the same, it also did not apply for a modification or
+removal of the condition. Hence, the respondent, in its own discretion, did not withdraw Rs. 7.5
+crores when it was deposited in 2010. 11.3 A similar situation arose in this Court’s decision in
+Renusagar (supra) as well. This Court was deciding an appeal against the dismissal of Renusagar’s
+objections under Section 7 of the Foreign Awards Act, 1961. During the pendency of the appeal, by
+order dated 21.02.1990, this Court stayed the operation of the High Court order subject to deposit of
+one-half of the decretal amount calculated as on date. General Electric was permitted to withdraw
+the deposited amount by furnishing security by way of bank guarantee for the sum to be withdrawn
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+15
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+in excess of Rs. 4 crores. It also directed that 10% interest p.a. would be payable by Renusagar on
+the balance of the decretal amount in case the appeal is dismissed, and the same interest would be
+payable by General Electric on the amount withdrawn by it if the appeal is allowed. Pursuant to this
+order, Renusagar deposited Rs. 9.69 crores on 20.03.1990, which was withdrawn by the respondent
+on furnishing necessary bank guarantee. In a subsequent order, this Court directed a further deposit
+of Rs. 1 crore and bank guarantee of Rs. 1.92 crores to be furnished by Renusagar. The deposit was
+made on 03.12.1990, which was also withdrawn51. However, General Electric contended that it was
+unable to use a large part of this amount as it had not received permission from the Reserve Bank of
+India to convert the same into US dollars due to the pendency of the appeals.
+
+11.4 After rejecting various submissions by the appellant regarding the enforceability of the award,
+this Court decided the question of the amount in Indian rupee that was to be paid. The relevant
+portion on this point is extracted:
+
+“141. As indicated earlier, in pursuance to the orders of this Court dated February 21,
+1990, Renusagar deposited a sum of Rs 9,69,26,590 on March 20, 1990 and a further
+amount of Rs 1,00,00,000 was deposited by Renusagar in pursuance to the order
+dated November 6, 1990 on December 3, 1990. These amounts have been withdrawn
+by General Electric. The question is how and at what rate the said amount should be
+adjusted against the decretal amount. It is not disputed that on the date when the
+said deposits were made by Renusagar and were withdrawn by General Electric,
+rupee-dollar exchange rate was Rs 17 per dollar. Shri Shanti Bhushan has, however,
+submitted that although General Electric had withdrawn the amount deposited by
+Renusagar, it was not able to use the same because the Reserve Bank of India did not
+grant the permission to General Electric to remit the amount by converting the same
+into U.S. dollars on account of the pendency of these appeals in this Court… Shri
+Shanti Bhushan has, therefore, submitted that the amounts deposited by Renusagar
+should be converted from Indian rupees into U.S. dollars at the exchange rate
+prevalent on the date of the judgment of this Court and not on the basis of the rate of
+exchange prevalent at the time of the said payments by Renusagar. We are unable to
+agree with this submission. The convertibility into U.S. dollars of money paid by
+Renusagar in Indian rupees is not the condition for discharge of the decree and as
+laid down in Forasol case the decree can be discharged by payment in Indian rupees
+and it is for General Electric to obtain the necessary permission from the Reserve
+Bank of India for such conversion of Indian rupees to U.S. Renusagar (supra), para
+18.
+
+dollars and the transfer thereof to the United States. If General Electric were finding
+a difficulty in such transfer on account of the pendency of these appeals in this Court
+they could have moved this Court and obtained necessary clarification in this regard.
+They did not choose to do so. In these circumstances, the amount of Rs 10,69,26,590
+which has been paid by Renusagar in pursuance to the orders dated February 21,
+1990 and November 6, 1990 has to be converted into U.S. dollars on the basis of the
+rupee-dollar exchange rate of Rs 17.00 per dollar prevalent at the time of such
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+16
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+payment and calculated on that basis the said amount comes to US $ 6,289,800.00.
+
+142. The judgment of the High Court passing a decree in terms of the award is,
+therefore, affirmed… The amount paid by Renusagar during the pendency of these
+appeals will have to be adjusted against the said decretal amount and the present
+liability of Renusagar under this decision has to be determined accordingly.
+Calculating on this basis the amount payable by Renusagar under the decree in terms
+of U.S. dollars is:
+
+Amount awarded by the Arbitral : 12,215,622.14 Tribunal Interest on US $
+2,716,914.72 : 117,733.00 (the total amount awarded under item Nos. 1, 3 and 5) @
+8% per annum from 1-4-1986 to 15-10-
+
+ 1986 in terms of the award
+                                                       12,333,355.14
+ Less: Amount paid by Renusagar                        6,289,800.00
+ in pursuance of the orders dated
+ 21-2-1990 and 6-11-1990 during
+ the pendency of the appeals in
+ this Court
+                                                       6,043,555.14
+
+143. In accordance with the decision in Forasol case the said amount has to be
+converted into Indian rupees on the basis of the rupee-dollar exchange rate
+prevailing at the time of this judgment. As per information supplied by the Reserve
+Bank of India, the Rupee-Dollar Exchange (Selling) Rate as on October 6, 1993 was
+Rs 31.53 per dollar.” 11.5 From the above, it is clear that the Court adjusted the
+amounts deposited during the pendency of the proceedings and against security by
+converting them to US dollars as on the date of their deposit. It applied the date of its
+own judgment only for converting the remaining portion of the award in accordance
+with Forasol’s (supra) ruling that the date of decree or judgment, after exhausting all
+remedies, is the proper date. It rejected the respondent’s argument regarding its
+inability to convert the amount on the grounds that a decree in foreign currency can
+be validly satisfied by payment in Indian rupee and the respondent did not move the
+Court for necessary clarification.
+
+12. The facts in this case are similar to Renusagar (supra) for an analogy to be drawn.
+Here as well, the deposit was made during the pendency of the proceedings under the
+objections petition. It was permitted to be withdrawn against a bank guarantee of an
+Indian bank. Here the respondent was entirely unable to withdraw the amount, while
+the issue there was that it was only unable to convert the amount to US dollars.
+However, in both cases, the respondent failed to move the Court for necessary orders
+to be able to receive and utilise the amount. In this case, there is the added fact that
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+17
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+the respondent consented to the deposit and the condition requiring security. In light
+of these similarities, it is appropriate for us to adopt the Court’s approach in
+Renusagar (supra).
+
+13. We therefore hold that the deposit of Rs. 7.5 crores stands converted as on the
+date of deposit (22.10.2010), when the rate of exchange as submitted by the
+appellants is 1 euro = Rs. 59.17. We also reject the submission by Mr. Mahajan that
+the respondent was unable to furnish a bank guarantee of an Indian bank. This
+argument is only to serve its own interest to be able to benefit from a higher exchange
+rate but does not address the principle that operates while enforcing a sum expressed
+in foreign currency.
+
+14. It is important to appreciate the consequence and effect of deposit during the
+pendency of proceedings to understand the need to convert this amount on that date.
+Through a deposit, the award debtor parts with the money on that date and provides
+the benefit of that amount to the award holder. Provided that the award holder is
+permitted to withdraw this amount, it can convert, utilise, and benefit from the same
+at that point in time.
+
+Considering that the deposited amount inures to the benefit of the award holder, it would be
+inequitable and unjust to hold that the amount does not stand converted on the date of its deposit.
+
+15. A similar logic underscores the statutory provisions in Order 21, Rule 1 and Order 24 of the Code
+of Civil Procedure, 1908 52 to determine whether interest will continue to operate on an amount
+deposited before a court. It would be relevant for us to briefly discuss the law on this point:
+
+15.1 A constitution bench of this Court in Gurpreet Singh v.
+
+Union of India53 extensively discussed the rules governing interest calculation when the defendant/
+judgment-debtor deposits some part of the amount. Order 24 governs deposits at the pre-decretal
+stage and Order 21, Rule 1 at the post-decretal stage.54 The essence of these provisions is that on
+any amount deposited into the court, interest shall cease to run from the date when the depositor
+serves a notice to the plaintiff/decree-holder. Similarly, when payment is tendered to the
+decree-holder outside the court, interest ceases on such amount even if the payment is refused.55
+15.2 Order 21, Rule 1 embodies a rule of prudence that once the amount is tendered to the
+decree-holder by the judgment- debtor, whether in the form of a court deposit or other forms of
+Hereinafter “CPC”.
+
+(2006) 8 SCC 457.
+
+ibid, para 14.
+
+ibid, paras 15, 25 and 26.
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+18
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+payment such as demand draft or cheque, the judgment-debtor cannot be made liable to then pay
+interest on such amount.56 15.3 The rationale for this rule has been explained in Nepa Limited v.
+Manoj Kumar Agrawal57 through a similar logic of the decree-holder being able to benefit from the
+deposited amount. In this case, the award-debtor deposited 50% of the awarded amount before the
+executing court to obtain a stay on the execution proceedings of the arbitral award during the
+pendency of appeal under Section 37 of the 1996 Act. This amount was withdrawn by the award
+holder, and the issue before this Court was whether interest is payable on the deposited amount
+even after the date of deposit. The Court held as follows:
+
+“21. In the present case, the appellate court, on the appeal preferred under Section 37
+of the Act did grant stay, subject to the condition that the appellant would deposit
+50% of the amount. Rs. 7,78.280/- was deposited by the appellant on 05.11.2001. The
+stay, therefore, only operated for the balance amount. On the balance amount,
+certainly, the appellant would be liable to pay interest @ the rate of 18% per annum
+t i l l   t h e   d a t e   o f   a c t u a l   p a y m e n t .   H o w e v e r ,   o n   R s .   7 , 7 8 , 2 8 0 / -   p a i d ,   a f t e r
+adjusting/appropriating payment due on the interest accrued, on the balance
+principal amount paid to the respondent, interest would not be payable.
+
+24. The respondent submits that the payment of Rs. 7,78,280/- being conditional, the
+respondent would have been under an obligation to refund the said amount in case
+the appellant had succeeded in the appeal under Section 37 of the Act, 1996. This
+argument does not impress, as in the event the appellant had succeeded in their
+appeal, the entire amount paid would have been refundable. The undertaking was not
+onerous, and was to operate only if the amount of Rs.
+
+7,78,280/- was not refunded by the respondent. The respondent had KL Suneja v. Dr Manjeet Kaur
+Monga, (2023) 6 SCC 722, para 36. 2022 SCC OnLine SC 1736.
+
+obviously used and utilized the money. The appellant did not have any right on the money paid to
+the respondent, who could use it in a manner and way he wanted. There was no charge. Money is
+fungible and would have gotten mixed up with the other amounts available with the respondent.
+Right to restitution would not make the payment conditional. Interest has been jurisprudentially
+defined as the price paid for money borrowed, or retained, or not paid to the person to whom it is
+due, generally expressed as a percentage of amount in one year. It is in the nature of the
+compensation allowed by law or fixed by parties, for use or forbearance or damage for its detention.
+In the context of the present case, interest would be the compensation payable by the appellant to
+the respondent, for the retention or deprivation of use of money. Therefore, once the money was
+paid to the respondent, interest as compensation for deprivation of use of money will not arise.”
+(emphasis supplied) 15.4 Therefore, the ability of the decree-holder to access and use the money in a
+manner he deems fit was considered by this Court while deciding the issue.
+
+15.5 Here, the Court also differentiated P.S.L. Ramanathan Chettiar (supra), which has also been
+relied on by the respondent in the present matter, and another decision by this Court in Delhi
+Development Authority v. Bhai Sardar Singh and Sons58. P.S.L. Ramanathan Chettiar (supra) holds
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+19
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+that a deposit is only a way to obtain a stay on execution and does not pass title to the decree-
+holder, and hence, is not in satisfaction of a decree. The decree- holder in Delhi Development
+Authority (supra) was not permitted to withdraw the deposited amount and hence, interest was
+calculated on the same. The Court in Nepa Limited (supra) however held that C.A. 3867 of 2010.
+
+these cases do not apply in its facts as the respondent here was permitted to withdraw the deposited
+sum and did so. Hence, the Court instead relied on the ability of the respondent to use the deposited
+money as it deems fit.
+
+16. These cases demonstrate that once there is a deposit by the award debtor and the award holder is
+permitted to withdraw the same, even if such withdrawal is conditional and subject to the final
+decision in the matter, the court must consider that the award holder could access and benefit from
+such deposit. It is then the burden of the award holder to furnish security, as required by the court’s
+orders, to utilise the amount or to make an application for modification of the condition if it is
+unable to fulfil the same.
+
+17. In furtherance of the above, we therefore reiterate that the deposit of Rs. 7.5 crores must be
+converted as on the date of such deposit, i.e., 22.10.2010, when the rate of exchange as submitted by
+the appellants was 1 euro = Rs. 59.17.
+
+18. The second deposit of Rs. 50 lakhs pursuant to the High Court order dated 03.06.2011 stands on
+a different footing from the first deposit. This order did not permit the respondent to withdraw this
+amount till the completion of the proceedings. Hence, the amount cannot be converted as on the
+date of deposit as the respondent could not have benefitted from the same. This amount could be
+withdrawn only in 2016, pursuant to the Executing Court’s order dated 24.08.2016. The respondent
+withdrew the entire deposit of Rs. 8 crores, along with the interest that accrued on this amount, on
+10.10.2016.
+
+19. From the above discussion on the first deposit, it is clear that the exchange rate on 22.10.2010
+would apply to that extent and non-withdrawal by the respondent of Rs. 7.5 crores was in its own
+discretion and inaction. However, since the order of 03.06.2011 permits withdrawal of Rs. 50 lakhs
+on the completion of the proceedings, that would be the appropriate date for determining the
+exchange rate. Here, the revision proceedings were complete on 01.07.2014. Hence, it would be
+appropriate to apply the exchange rate as on this date to convert the deposit of Rs. 50 lakhs.
+
+20. Our conclusions from this judgment can be summarised as follows:
+
+i. The statutory scheme of the Act makes a foreign arbitral award enforceable when
+the objections against it are finally decided. Therefore, as per the Act and the
+principle in Forasol (supra), the relevant date for determining the conversion rate of
+foreign award expressed in foreign currency is the date when the award becomes
+enforceable. ii. When the award debtor deposits an amount before the court during
+the pendency of objections and the award holder is permitted to withdraw the same,
+even if against the requirement of security, this deposited amount must be converted
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+20
+
+Dlf Ltd. (Formerly Known As Dlf ... vs Koncar Generators And Motors Ltd on 8 August, 2024
+
+as on the date of the deposit.
+
+iii. After the conversion of the deposited amount, the same must be adjusted against
+the remaining amount of principal and interest pending under the arbitral award.
+This remaining amount must be converted on the date when the arbitral award
+becomes enforceable, i.e., when the objections against it are finally decided.
+
+21. As per these conclusions, the first deposit of Rs. 7.5 crores must be converted as on the date of
+deposit being 22.10.2010. The second deposit of Rs. 50 lakhs as well as the remaining amount due
+under the award must be converted when the objections proceedings attained finality on 01.07.2014.
+The Executing Court, being the Additional District Judge cum Commercial Court, must determine
+the amount payable by taking into account the exchange rate as on 01.07.2014.
+
+22. In light of the above, we partly allow the appeal, and set aside the findings of the High Court in
+the impugned judgment to the extent that Forasol (supra) does not apply under the 1996 Act and
+that the exchange rate on 01.07.2014 must be used for converting the entire arbitral award and
+interest.
+
+23. Pending applications, if any, stand disposed of.
+
+24. No order as to costs.
+
+………………………………....J. [PAMIDIGHANTAM SRI NARASIMHA] ………………………………....J.
+[ARAVIND KUMAR] NEW DELHI;
+
+AUGUST 08, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/175703366/
+
+21
+
+

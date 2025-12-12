@@ -1,0 +1,19 @@
+{
+  "case_number": "Writ Petition (Civil) No. 104 of 2015",
+  "parties": {
+    "petitioner": "Anoop Baranwal",
+    "respondent": "Union of India"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-02",
+  "summary": "The petitioners challenged the executive-centric appointment process of Election Commissioners under Article 324(2) of the Constitution, arguing it undermines the independence of the Election Commission. Key issues included the lack of an independent appointment mechanism, inadequate removal protections for Election Commissioners compared to the Chief Election Commissioner, absence of an independent secretariat, and insufficient rule-making powers. The Court examined Constituent Assembly debates, historical practices, and judicial precedents like S.S. Daula and T.N. Seshan to determine the scope of Article 324. It emphasized that while Parliament may legislate on appointments, no law currently exists, leaving the process to executive discretion. The petitioners sought mandamus for a transparent, collegium-based appointment system and enhanced institutional independence.",
+  "legal_provisions_cited": [
+    "Article 324(2)",
+    "Article 326",
+    "Article 329(b)",
+    "Article 14",
+    "Article 32",
+    "Article 145(3)"
+  ],
+  "final_judgment": "The Court recognized the need for reform and directed the Union Government to consider establishing a committee for recommending appointments to the Election Commission to ensure transparency and independence, but did not mandate a specific mechanism, leaving legislative initiative to Parliament."
+}

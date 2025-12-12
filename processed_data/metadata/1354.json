@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. ___ of 2022 (Arising out of S.L.P.(C) No. 13941 of 2021)",
+  "parties": {
+    "petitioner": "M/S Garment Craft",
+    "respondent": "Prakash Chand Goel"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-11",
+  "summary": "The appellant, M/S Garment Craft, challenged the High Court's exercise of power under Article 227 of the Constitution to set aside an order allowing an application under Order IX Rule 13 of the CPC, which had restored defense evidence after an ex-parte decree. The respondent filed a recovery suit for Rs.81,24,786.23p. The appellant's sole proprietor, Shailendra Garg, was imprisoned from October 2015 to May 2017, hindering participation. The trial court closed defense evidence ex parte in November 2016 due to non-appearance. After release, Garg filed an Order IX Rule 13 application, which was allowed by the trial court in July 2018, setting aside the decree. The High Court set aside this order under Article 227. The Supreme Court examined whether such interference was warranted, noting that the trial court had correctly found sufficient cause for non-appearance due to incarceration, and that the decree was effectively ex parte. It held that the High Court erred in interfering under Article 227 where the trial court exercised proper judicial discretion.",
+  "legal_provisions_cited": [
+    "Article 227 of the Constitution of India",
+    "Order IX Rule 13 of the Code of Civil Procedure, 1908"
+  ],
+  "final_judgment": "The appeal is allowed. The order of the High Court under Article 227 is set aside. The order dated 24th July 2018 passed by the Additional District Judge, setting aside the ex-parte decree and restoring the suit for defense evidence, is reinstated."
+}

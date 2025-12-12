@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 4577 of 2022 (Arising out of SLP (C) No. 9780 of 2019)",
+  "parties": {
+    "petitioner": "Bharat Bhushan Gupta",
+    "respondent": "Pratap Narain Verma & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-06-16",
+  "summary": "Appeal against High Court's order returning plaint for lack of pecuniary jurisdiction based on plaintiff's statement in cross-examination valuing suit property at Rs. 1.8 crores. Trial Court had rejected application under Order VII Rule 11 CPC, holding plaint properly valued at Rs. 1 lakh for damages and nominal fees for injunctions. Supreme Court confined review to jurisdictional valuation issue, noting suit was later decreed and appeal pending before lower appellate court. Emphasized that for rejection under Order VII Rule 11 CPC, court must rely solely on plaint averments, not evidence or subsequent statements.",
+  "legal_provisions_cited": [
+    "Order VII Rule 11 CPC",
+    "Order XIV Rule 5 CPC"
+  ],
+  "final_judgment": "Set aside the High Court's order; restored Trial Court's rejection of the application under Order VII Rule 11 CPC; plaint not liable to be rejected solely on basis of valuation statement made during cross-examination."
+}

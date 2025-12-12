@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 3574 of 2022 (Arising out of SLP (Civil) No. 6009 of 2016)",
+  "parties": {
+    "petitioner": "Pawan Kumar",
+    "respondent": "Union of India & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-02",
+  "summary": "The appellant, Pawan Kumar, was selected as a constable in the Railway Protection Force and underwent training but was discharged under clause 9(f) of Employment Notice No.1/2011 and Rule 67.2 of RPF Rules 1987 for allegedly suppressing information about a past prosecution. The prosecution arose from a false criminal case (FIR No.75 under Sections 148/149/323/506/356 IPC) registered on 4th April 2011, which was later dropped after the complainant retracted and the appellant was acquitted on 12th August 2011. The High Court upheld his discharge, holding that non-disclosure in the attestation form dated 27th May 2014 constituted suppression. The Supreme Court examined the nature of suppression, the materiality of information, and whether the employer exercised power reasonably. Relying on Avtar Singh v. Union of India, it emphasized that only 'material' suppression justifies disqualification, with due regard to the nature of the post, reformative justice, and absence of arbitrariness. The Court ruled that failure to disclose a trivial, false, and honorably resolved prosecution did not warrant discharge.",
+  "legal_provisions_cited": [
+    "Rule 52 of Railway Protection Force Rules, 1987",
+    "Clause 9(f) of Employment Notice No.1/2011",
+    "Rule 67.2 of Railway Protection Force Rules, 1987",
+    "Avtar Singh v. Union of India and others, (2016) 8 SCC 471"
+  ],
+  "final_judgment": "The appeal was allowed. The order of discharge was set aside, and the appellant was directed to be reinstated with consequential benefits."
+}

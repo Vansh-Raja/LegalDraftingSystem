@@ -1,0 +1,19 @@
+{
+  "case_number": "Criminal Appeal No. .............. of 2022 (Arising out of SLP (Crl.) No.1132-1155 of 2022)",
+  "parties": {
+    "petitioner": "Daxaben",
+    "respondent": "The State of Gujarat & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-29",
+  "summary": "The appeal challenged the Gujarat High Court's decision to quash an FIR under Section 306 IPC (abetment of suicide) based on a settlement between parties. The Supreme Court examined whether a settlement in such cases permits quashing of the FIR, particularly in light of the non-compoundable nature of the offence. The Court considered legal standards on abetment requiring proof of instigation or active conduct proximate to the suicide. It noted the High Court failed to assess whether the FIR disclosed cognizable offence. However, considering the dispute resolution via affidavits of settlement by the deceased’s family, and that continuation would be futile and an abuse of process, the Court upheld the quashing.",
+  "legal_provisions_cited": [
+    "Section 306 IPC",
+    "Section 482 Cr.P.C.",
+    "M. Arjunan v. State",
+    "Ude Singh & Ors. v. State of Haryana",
+    "Ramesh Kumar v. State of Chhattisgarh",
+    "S.S. Chheena v. Vijay Kumar Mahajan"
+  ],
+  "final_judgment": "Appeal dismissed; affirmation of the High Court's order quashing the FIR on grounds of settlement and futility of trial."
+}

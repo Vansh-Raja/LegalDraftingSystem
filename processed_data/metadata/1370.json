@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 7403 of 2021",
+  "parties": {
+    "petitioner": "Maharashtra State Road Transport Corporation",
+    "respondent": "Dilip Uttam Jayabhay"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-03",
+  "summary": "The case involved a dispute over the reinstatement of a bus driver, Dilip Uttam Jayabhay, dismissed after a fatal accident in which four passengers died. The Industrial Tribunal set aside the dismissal, citing proportionality under item No. 1(g) of Schedule-IV of the MRTU and PULP Act, 1971, ordering reinstatement without back wages but with continuity of service. The High Court dismissed MSRTC's writ petition and directed payment of back wages from 2003 to 2018, along with retiral benefits. The Supreme Court examined whether punishment of dismissal was disproportionate and whether reliance on the driver's criminal acquittal was justified in departmental proceedings. It considered differences in standard of proof between criminal and disciplinary proceedings, previous disciplinary record, and the gravity of the accident.",
+  "legal_provisions_cited": [
+    "Section 279 IPC",
+    "Item No. 1(g) of Schedule-IV of the Maharashtra Recognition of Trade Unions and Prevention of Unfair Labour Practices Act, 1971",
+    "Samar Bahadur Singh vs. State of U.P. & Ors., (2011) 9 SCC 94",
+    "Union of India & Ors. vs. Sitaram Mishra & Anr., (2019) 20 SCC 588"
+  ],
+  "final_judgment": "The appeal was dismissed, upholding the orders of the Industrial Tribunal and the High Court, affirming reinstatement with continuity of service and payment of back wages and retiral benefits."
+}

@@ -1,0 +1,18 @@
+{
+  "case_number": "2025 INSC 422",
+  "parties": {
+    "petitioner": "The Secretary, All India Shri Shivaji Memorial Society (AISSMS) and Ors.",
+    "respondent": "The State of Maharashtra and Ors. and Laxman Shivaji Godse & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-04-01",
+  "summary": "The appellant-Society challenged Bombay High Court orders directing it to extend revised pay scales under the 6th Central Pay Commission to respondent-teachers in its engineering institutes. Key issue: whether non-Ph.D. teachers, appointed before or after AICTE notifications (2000, 2005, 2010), are entitled to pay revision and re-designation. AICTE prescribed Ph.D. as mandatory for Assistant Professor post-2000, with exceptions requiring Ph.D. within seven years. Teachers without Ph.D. within stipulated period were ineligible for promotion. Court examined applicability of AICTE norms and pay restructuring to private, unaided institutions. Relying on AICTE's statutory authority under the 1987 Act, and its notifications, the Court upheld that only those meeting prescribed qualifications, including Ph.D., could claim benefits of revised pay and re-designation.",
+  "legal_provisions_cited": [
+    "All India Council for Technical Education Act, 1987, Section 3",
+    "All India Council for Technical Education Act, 1987, Section 10",
+    "AICTE Notification dated 15.03.2000",
+    "AICTE Notification dated 28.11.2005",
+    "AICTE Notification dated 05.03.2010"
+  ],
+  "final_judgment": "Appeal allowed in part; the respondent-teachers who failed to acquire Ph.D. within seven years as mandated by AICTE are not entitled to the benefits of revised pay scales and re-designation as Associate Professor. The Bombay High Court's order modified to exclude such teachers from eligibility."
+}

@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 5944 of 2022 (Arising from SLP(Civil) No.9933/2022) and Civil Appeal No. 5945 of 2022 (Arising from SLP(Civil) No.10279/2022)",
+  "parties": {
+    "petitioner": "Ahmednagar Mahanagar Palika",
+    "respondent": "Ahmednagar Mahanagar Palika Kamgar Union"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-05",
+  "summary": "The Ahmednagar Mahanagar Palika challenged the Bombay High Court's judgment confirming Industrial Court awards directing compassionate appointments to heirs of retired employees based on a 1981 award in Reference IT No. 51 of 1979. The appellant argued that after the municipal council's conversion to a municipal corporation in 2003, employees are governed by state government rules, and that a 2005 award modified the 1981 award to limit compassionate appointments to heirs of deceased employees only. The respondent contended the 1981 award created an enforceable right to appointments upon retirement under a bipartite agreement, calling it 'varas hakka', not standard compassionate grounds. The Supreme Court examined whether the 1981 award remains binding post-2003 restructuring and post-2005 modification, and whether appointing heirs upon retirement violates constitutional principles or compassionate appointment norms.",
+  "legal_provisions_cited": [
+    "Article 14 of the Constitution of India",
+    "The Secretary to Govt. Department of Education (Primary) & Others v. Bheemesh alias Bheemappa, 2021 SCC OnLine SC 1264",
+    "Subhadra v. Ministry of Coal and another, (2018) 11 SCC 201"
+  ],
+  "final_judgment": "The appeals were partly allowed; the direction for compassionate appointments to heirs upon retirement was set aside as inconsistent with the modified 2005 award and statutory framework, but the entitlement to lump sum compensation of Rs. 5 lakhs for those over 45 years was upheld as a valid substitute for appointment."
+}

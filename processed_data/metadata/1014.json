@@ -1,0 +1,19 @@
+{
+  "case_number": "CRIMINAL APPEAL No. 257 OF 2023 (Arising Out of SLP (Crl.) NO. 8586 OF 2017)",
+  "parties": {
+    "petitioner": "Naim Ahamed",
+    "respondent": "State (Nct Of Delhi)"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-30",
+  "summary": "The appellant challenged his conviction under Section 376 IPC for rape, arguing that the sexual relationship was consensual and that the prosecution failed to prove 'misconception of fact' under Section 90 IPC. The prosecution alleged that the accused obtained consent by falsely promising marriage, which he never fulfilled, thus rendering consent invalid under Section 90. The Sessions Court convicted him to 10 years RI and fine; the Delhi High Court reduced sentence to 7 years, upholding conviction and compensation of Rs.5,00,000. Appellant claimed misuse of law after prolonged consensual relationship. Respondent and Amicus Curiae argued that false promise of marriage constituted 'misconception of fact', satisfying Clause Secondly of Section 375 IPC. Court examined whether breach of promise to marry amounts to rape when consent was based on fraud.",
+  "legal_provisions_cited": [
+    "Section 375 IPC",
+    "Section 90 IPC",
+    "Section 313 Cr.PC",
+    "Deelip Singh alias Dilip Kumar vs. State of Bihar",
+    "Prashant Bharti vs. State (NCT of Delhi)",
+    "Dr. Dhruvaram Murlidhar Sonar vs. State of Maharashtra and Others"
+  ],
+  "final_judgment": "Appeal dismissed; conviction under Section 376 IPC upheld, sentence of 7 years rigorous imprisonment and fine confirmed."
+}

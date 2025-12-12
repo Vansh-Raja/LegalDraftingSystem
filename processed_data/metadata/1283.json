@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 9322 of 2022",
+  "parties": {
+    "petitioner": "Gohar Mohammad",
+    "respondent": "Uttar Pradesh State Road Transport Corporation & others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-15",
+  "summary": "The appeal challenged the dismissal of a claimant's appeal by the Allahabad High Court, which had upheld a Motor Accident Claims Tribunal (MACT) award of Rs. 31,90,000 to the legal representatives of a deceased victim. The key issue was whether the vehicle owner (appellant) could be held liable due to lack of a valid permit and violation of insurance terms. The Supreme Court upheld the concurrent findings that the appellant failed to produce or prove a valid permit, and that the vehicle was plying on a route not covered by the alleged permit. The Court found no perversity in the lower courts’ reasoning and dismissed the appeal. Additionally, the Court addressed systemic delays in motor accident claim disposal and emphasized the need for strict implementation of the Motor Vehicles (Amendment) Act, 2019 and related rules to ensure timely compensation.",
+  "legal_provisions_cited": [
+    "Section 146, 149, 159, 160, 161, 164, 166 of the Motor Vehicles (Amendment) Act, 2019",
+    "Motor Vehicles (Fifth Amendment) Rules, 2022",
+    "Section 158(6) of the Motor Vehicles Act (pre-2019 amendment)",
+    "Right to Information Act",
+    "Rajesh Tyagi & Ors. Vs. Jaibir Singh & Ors., 2009 SCC Online Del 4306 (Rajesh Tyagi I)",
+    "Jai Prakash Vs. National Insurance Co. Ltd. & Ors., (2010) 2 SCC 607 (Jai Prakash I)",
+    "Rajesh Tyagi & Ors. Vs. Jaibir Singh & Ors., 2014 SCC OnLine Del 7626 (Rajesh Tyagi II)",
+    "Rajesh Tyagi & Ors. Vs. Jaibir Singh & Ors., 2017 SCC Online Del 4306 (Rajesh Tyagi III)"
+  ],
+  "final_judgment": "Appeal dismissed."
+}

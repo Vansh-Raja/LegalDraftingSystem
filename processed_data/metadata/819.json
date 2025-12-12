@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. of 2023 (Arising out of SLP (C) No.9855/2022)",
+  "parties": {
+    "petitioner": "Aparna Ajinkya Firodia",
+    "respondent": "Ajinkya Arun Firodia"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-02-20",
+  "summary": "The case involved a dispute over the paternity of a child born during marriage, where the husband sought a DNA test to disprove biological fatherhood as part of divorce proceedings. The Family Court and High Court permitted the test, relying on scientific evidence to rebut the presumption under Section 112 of the Evidence Act. The Supreme Court examined whether DNA evidence can override the marital presumption of paternity and how courts should balance legal presumptions with modern genetic proof in matrimonial disputes.",
+  "legal_provisions_cited": [
+    "Section 112, Indian Evidence Act, 1872",
+    "Section 114, Indian Evidence Act, 1872, Illustration (h)",
+    "Section 13(1)(i) and (ia), Hindu Marriage Act, 1955",
+    "Section 14, Family Courts Act, 1984",
+    "Nandlal Wasudeo Badwaik vs. Lata Nandlal Badwaik, (2014) 2 SCC 576"
+  ],
+  "final_judgment": "Leave granted; matter remanded for further consideration in light of the legal principles governing presumption of paternity and admissibility of DNA evidence."
+}

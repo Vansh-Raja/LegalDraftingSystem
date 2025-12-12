@@ -1,0 +1,22 @@
+{
+  "case_number": "CIVIL APPEAL NO. 5443 OF 2019",
+  "parties": {
+    "petitioner": "PTC India Financial Services Limited",
+    "respondent": "Venkateswarlu Kari And Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-12",
+  "summary": "The case revolves around the legal issue of whether the Depositories Act, 1996, and SEBI (Depositories and Participants) Regulations, 1996, override the provisions on pledge under the Indian Contract Act, 1872. The appellant, PTC India Financial Services Ltd. (PIFSL), had granted a bridge loan to NSL Nagapatnam Power and Infratech Limited (NNPIL) secured by a pledge of shares held by Mandava Holdings Private Limited (MHPL). Upon default, PIFSL invoked the pledge and became the 'beneficial owner' of 31,80,678 shares of NEVPL through a depository mechanism. Subsequently, a corporate insolvency resolution process was initiated under the Insolvency and Bankruptcy Code (IBC), 2016. MHPL claimed creditor status for the value of the pledged shares, arguing the transfer under the depository system extinguished PIFSL's debt claim. The NCLT and NCLAT held that upon invocation of the pledge under the depository framework, ownership transferred to PIFSL, disentitling it from claiming the full debt under Section 18 of IBC. The Supreme Court examined whether the depository regime supersedes traditional pledge law under the Contract Act, particularly Section 176, which allows a pawnee to retain or sell pledged goods but not appropriate them. The Court concluded that the depository mechanism does not override contractual and common law principles of pledge; mere change in beneficial ownership in a depository does not amount to sale or extinguishment of debt. The right to sell under Section 176 remains intact and the Appellate Tribunal erred in treating the pledge enforcement as full satisfaction of claim.",
+  "legal_provisions_cited": [
+    "Depositories Act, 1996",
+    "SEBI (Depositories and Participants) Regulations, 1996, Regulation 58",
+    "Indian Contract Act, 1872, Section 176",
+    "Insolvency and Bankruptcy Code, 2016, Section 7",
+    "Insolvency and Bankruptcy Code, 2016, Section 10",
+    "Insolvency and Bankruptcy Code, 2016, Section 18",
+    "Indian Contract Act, 1872, Sections 148-179",
+    "Commissioner of Wealth Tax v. Mahadeo Jalan",
+    "Bharat Hari Singhania v. Commissioner of Wealth Tax"
+  ],
+  "final_judgment": "The appeal is allowed. The impugned judgment of the National Company Law Appellate Tribunal is set aside. The matter is remanded to the Adjudicating Authority to consider PIFSL's financial claim under Section 18 of the IBC, taking into account its rights under Section 176 of the Indian Contract Act, without prejudice to the rights of other creditors."
+}

@@ -1,0 +1,22 @@
+{
+  "case_number": "Writ Petition (Criminal) No 279 of 2022",
+  "parties": {
+    "petitioner": "Mohammed Zubair",
+    "respondent": "State of NCT of Delhi & Ors"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-20",
+  "summary": "The petitioner, Mohammed Zubair, co-founder of ALT News, challenged multiple FIRs registered across Delhi and Uttar Pradesh over tweets alleged to incite religious disharmony and violate provisions of IPC and IT Act. The FIRs relate to tweets questioning religious sentiments and drawing controversial comparisons. Petitioner sought quashing of FIRs or clubbing investigations under Delhi's Special Cell, arguing selective targeting and harassment. The petitioner had been arrested and granted interim bail in various cases. A Special Investigation Team was constituted in UP. The court examined issues of free speech, potential misuse of criminal law, and abuse of process. The court emphasized the need to balance free expression with public order, scrutinized overbroad applications of penal provisions, and expressed concern over multiple FIRs for same or similar allegations.",
+  "legal_provisions_cited": [
+    "Article 32 of the Constitution of India",
+    "Section 153-A IPC",
+    "Section 295-A IPC",
+    "Section 505 IPC",
+    "Section 120-B IPC",
+    "Section 67 of the IT Act 2000",
+    "Section 41A CrPC",
+    "Section 91 CrPC",
+    "Foreign Contribution (Regulation) Act 2010"
+  ],
+  "final_judgment": "The Court granted interim protection from arrest in the specified FIRs and directed that the investigation be coordinated to avoid multiple proceedings for the same tweets, while preserving the right to seek bail in individual cases."
+}

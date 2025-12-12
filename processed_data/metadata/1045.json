@@ -1,0 +1,16 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 2010 OF 2010",
+  "parties": {
+    "petitioner": "Prakash Nayi @ Sen",
+    "respondent": "State of Goa"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-12",
+  "summary": "Insanity defense under IPC s.84; legal insanity vs medical insanity; test: inability to know nature of act or wrongfulness; burden of proof on accused by preponderance of probabilities; prosecution must disprove mens rea; court must examine conduct before/during/after; unsound mind at time of act required; Hamlet reference; HC judgment reversal sought but not decided on merits.",
+  "legal_provisions_cited": [
+    "Indian Penal Code, 1860 s.84",
+    "Indian Evidence Act 1872 s.105",
+    "Indian Evidence Act 1872 s.8"
+  ],
+  "final_judgment": "Appeal not decided on merits; court focused on legal standards for insanity defense without reversing or upholding conviction."
+}

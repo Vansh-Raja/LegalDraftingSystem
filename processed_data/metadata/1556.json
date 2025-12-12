@@ -1,0 +1,18 @@
+{
+  "case_number": "CIVIL APPEAL NO. 5930 OF 2022 (ARISING OUT OF SLP (C) NO.11195 OF 2021)",
+  "parties": {
+    "petitioner": "The State of Rajasthan & Ors.",
+    "respondent": "Phool Singh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-02",
+  "summary": "The case involved Phool Singh, a former constable dismissed from Rajasthan Police in 1989 following departmental proceedings based on serious charges including drunkenness, extortion, unlawful seizure of a motorcycle, and discharging a firearm causing injury. Although criminally convicted in 1994 under Section 392 IPC and Section 3/25 Arms Act, his conviction was later set aside by the Sessions Court on appeal, granting him benefit of doubt. After acquittal, he sought reinstatement, arguing that dismissal could not stand post-acquittal on the same facts. The Rajasthan High Court upheld reinstatement with 50% back wages. The Supreme Court examined whether criminal acquittal mandates reinstatement in departmental cases, reaffirming that departmental and criminal proceedings differ in standards of proof—'preponderance of probabilities' versus 'beyond reasonable doubt'. It held that acquittal does not automatically entitle one to reinstatement, especially in disciplined forces, where conduct damaging institutional integrity warrants dismissal. Reliance on Capt. M. Paul Anthony v. Bharat Gold Mines Ltd. was rejected as fact-specific.",
+  "legal_provisions_cited": [
+    "Section 392 IPC",
+    "Section 307 IPC",
+    "Section 34 Police Act",
+    "Section 3/25 Arms Act",
+    "Capt. M. Paul Anthony v. Bharat Gold Mines Ltd. & Anr. (1999) 3 SCC 679"
+  ],
+  "final_judgment": "Appeal allowed. The impugned judgment of the Rajasthan High Court ordering reinstatement of Phool Singh is set aside. His dismissal from service is upheld. Reinstatement not mandated despite criminal acquittal due to severity of conduct and nature of disciplined service."
+}

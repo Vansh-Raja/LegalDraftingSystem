@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal No. 1757 of 2022 [Arising out of SLP (Crl.) No. 8882 of 2015]",
+  "parties": {
+    "petitioner": "Lalankumar Singh & Ors.",
+    "respondent": "State of Maharashtra"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-11",
+  "summary": "The appeal challenged the dismissal of a criminal writ petition and summoning order against directors of Cachet Pharmaceuticals Private Ltd. for allegedly manufacturing sub-standard Hemfer Syrup under the Drugs & Cosmetics Act, 1940. The key issue was whether directors could be prosecuted without specific averments linking them to the offence under Section 34 of the Act. The appellants argued that prosecution requires proof of active responsibility in business conduct, citing technical staff supervision and compliance with licensing conditions (Form 28, Rule 76, Schedule M). The State claimed directors were liable as they managed the company’s business. The Court emphasized that mere designation as director is insufficient; specific allegations of role in the alleged offence are necessary to sustain prosecution.",
+  "legal_provisions_cited": [
+    "Section 18(a)(i) read with Sections 16 and 34, Drugs & Cosmetics Act, 1940",
+    "Section 27(d), Drugs & Cosmetics Act, 1940",
+    "Rule 76, Drugs & Cosmetics Rules, 1945",
+    "Schedule M, Drugs & Cosmetics Rules, 1945",
+    "Form 28, Drugs & Cosmetics Rules, 1945"
+  ],
+  "final_judgment": "The appeal was allowed to the extent of setting aside the summoning order against the appellants (directors) for lack of specific averments under Section 34 of the Drugs & Cosmetics Act, 1940, and proceedings against them were quashed."
+}

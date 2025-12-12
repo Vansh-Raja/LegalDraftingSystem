@@ -1,0 +1,21 @@
+{
+  "case_number": "2024 INSC 448",
+  "parties": {
+    "petitioner": "Sunita Devi",
+    "respondent": "The State of Bihar & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-05-17",
+  "summary": "The appeals arose from the Patna High Court's order remitting the case for a de novo trial and making adverse remarks against the Special Judge, including recommending retraining and questioning his suitability for sessions trials. The Supreme Court examined the use of video conferencing in trials, emphasizing that physical production of the accused is preferable, with video conferencing being an exception to be used only in exceptional circumstances. The Court underscored the importance of fair trial as a cornerstone of criminal jurisprudence, integral to Article 21 of the Constitution, requiring impartiality, absence of prejudice, and adherence to procedural safeguards. Reliance was placed on the Rules for Video Conferencing for Courts, 2020, the Witness Protection Scheme, 2018, and precedents affirming that justice must not only be done but seen to be done. The Court addressed concerns about the trial judge's conduct and the integrity of the trial process.",
+  "legal_provisions_cited": [
+    "Articles 225 and 227 of the Constitution of India, 1950",
+    "Article 14 and 21 of the Constitution of India, 1950",
+    "Section 164 CrPC",
+    "Section 313 CrPC",
+    "Section 26 of the Evidence Act",
+    "Rules for Video Conferencing for Courts, 2020",
+    "Witness Protection Scheme, 2018",
+    "J. Jayalalithaa v. State of Karnataka, (2014) 2 SCC 401"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeals, set aside the impugned orders of the Patna High Court, and restored the trial proceedings before the Special Judge, while issuing guidelines on the use of video conferencing and emphasizing the need for fairness, transparency, and adherence to due process in criminal trials."
+}

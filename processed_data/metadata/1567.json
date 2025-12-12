@@ -1,0 +1,16 @@
+{
+  "case_number": "CIVIL APPEAL NO. 10341 OF 2011",
+  "parties": {
+    "petitioner": "UHL Power Company Ltd.",
+    "respondent": "State of Himachal Pradesh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-07",
+  "summary": "The appeals arose from a High Court judgment modifying an arbitral award involving UHL Power Company Ltd. and the State of Himachal Pradesh. Key issues included the allowance of compound interest and the merger of a Memorandum of Understanding (MoU) with the Implementation Agreement. The Supreme Court held that compound interest can be awarded by arbitral tribunals under Section 31(7) of the Arbitration and Conciliation Act, 1996, overruling prior precedent. It also ruled that the MoU dated 10th February 1992 merged into the Implementation Agreement dated 22nd August 1997, making disputes under the MoU arbitrable under the later agreement. The High Court's denial of compound interest was set aside, and the arbitral award on interest was restored.",
+  "legal_provisions_cited": [
+    "Section 31(7)(b) of the Arbitration and Conciliation Act, 1996",
+    "State of Haryana v. S.L. Arora and Co.",
+    "Hyder Consulting (UK) Ltd. v. Governor, State of Orissa through Chief Engineer"
+  ],
+  "final_judgment": "The impugned judgment of the High Court was modified; the findings denying compound interest were set aside, and the arbitral award granting compound interest was restored. The Court affirmed that the MoU merged with the Implementation Agreement, upholding the jurisdiction of the arbitral tribunal over the disputes."
+}

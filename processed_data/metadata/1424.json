@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 2600 of 2022",
+  "parties": {
+    "petitioner": "Pattali Makkal Katchi",
+    "respondent": "A. Mayilerumperumal & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-31",
+  "summary": "The case concerns the constitutional validity of the Tamil Nadu Special Reservation Act, 2021, which provided for reservation in educational institutions and public services for Most Backward Classes (MBCs) and Denotified Communities (DNCs). The Madras High Court had struck down the Act as unconstitutional. The Supreme Court examined historical reservation policy in Tamil Nadu, including the 1994 Act and prior Government Orders, and assessed the State's power to sub-classify backward classes. The Court considered whether the 2021 Act violated the 50% ceiling limit on reservations and whether it was justified by quantifiable data. The appeals were filed to challenge the High Court's invalidation of the Act.",
+  "legal_provisions_cited": [
+    "Article 15(4)",
+    "Article 16(4)",
+    "Article 29(2)",
+    "Constitution (First Amendment) Act, 1951",
+    "Constitution (Seventy-sixth Amendment) Act, 1994",
+    "State of Madras v. Srimathi Champakam Dorairajan",
+    "M. Nagaraj v. Union of India",
+    "Ashoka Kumar Thakur v. Union of India"
+  ],
+  "final_judgment": "Leave granted; matters referred to a larger bench for determination of the constitutional validity of sub-classification within reserved categories and the 69% reservation structure in Tamil Nadu."
+}

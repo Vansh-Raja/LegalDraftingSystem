@@ -1,0 +1,443 @@
+Principal Commissioner Income Tax 4 ... vs M/S Jupiter Capital Private Limited on 2 January, 2025
+
+Principal Commissioner Income Tax 4 ... vs M/S Jupiter Capital
+Private Limited on 2 January, 2025
+
+2025 INSC 38                                                                        REPORTABLE
+
+                                        IN THE SUPREME COURT OF INDIA
+
+                                 EXTRAORDINARY APPELLATE JURISDICTION
+
+                                   SPECIAL LEAVE PETITION NO. 63 OF 2025
+                                      (Arising out of Diary No. 39934 of 2024)
+
+             PRINCIPAL COMMISSIONER OF INCOME
+             TAX-4 & ANR.                                                       ....PETITIONER(S)
+
+                                                            VERSUS
+
+             M/S. JUPITER CAPITAL PVT. LTD.                                    ....RESPONDENT(S)
+
+                                                          ORDER
+
+1. Delay condoned.
+
+2. This petition is at the instance of the Revenue, seeking leave to appeal against the judgement and
+order dated 20.02.2023 passed by the High Court of Karnataka at Bengaluru in Income Tax Appeal
+(ITA) No. 299 of 2019 by which the appeal filed by the Revenue against the judgement and order
+passed by the ITAT Bengaluru came to be dismissed and thereby the judgement and order passed by
+the ITAT came to be affirmed.
+
+3. The appeal was admitted by the High Court on the following substantial question of law:
+
+“Whether on the facts and circumstances of the case, the Tribunal is right in law in
+setting aside the disallowance of VISHAL ANAND Date: 2025.01.08 11:04:03 IST
+capital loss claimed by the assessee of Rs.164,48,55,840/- by Reason:
+
+holding that there is extinguishment of rights of 153340900 shares when no such
+extinguishment of rights is made out by the assessee as required under section 2(47)
+of the Act and there is no reduction in the face value of share.”
+
+4. It appears from the materials on record that the respondent-assessee is a company engaged in the
+business of investing in shares, leasing, financing and money lending. The assessee had made an
+investment in Asianet News Network Pvt. Ltd., an Indian company engaged in the business of
+telecasting news, by purchasing 14,95,44,130 shares having face value of Rs 10/- each. Thereafter,
+the assessee purchased 38,06,758 shares from other parties, thereby increasing its shareholding to
+15,33,40,900 shares which constituted 99.88% of the total number of shares of the company, i.e.,
+
+Indian Kanoon - http://indiankanoon.org/doc/119038314/
+
+1
+
+Principal Commissioner Income Tax 4 ... vs M/S Jupiter Capital Private Limited on 2 January, 2025
+
+15,35,05,750.
+
+5. The said company incurred losses, as a result of which the net worth of the company got eroded.
+Subsequently, the company filed a petition before the Bombay High Court for reduction of its share
+capital to set off the loss against the paid-up equity share capital. The High Court ordered for a
+reduction in the share capital of the company from 15,35,05,750 shares to 10,000 shares.
+Consequently, the share of the assessee was reduced proportionately from 15,33,40,900 shares to
+9,988 shares. However, the face value of shares remained the same at Rs. 10 even after the
+reduction in the share capital. The High Court also directed the company for payment of Rs.
+3,17,83,474/- to the assessee as a consideration.
+
+6. During the year, the assessee claimed long term capital loss accrued on the reduction in share
+capital from the sale of shares of such company. However, the Assessing Officer while disagreeing
+with the assessee’s claim held that reduction in shares of the subsidiary company did not result in
+the transfer of a capital asset as envisaged in Section 2(47) of the Income Tax Act, 1961. The
+Assessing Officer took the view that although the number of shares got reduced by virtue of
+reduction in share capital of the company, yet the face value of each share as well as shareholding
+pattern remained the same. The relevant observations from the assessment order are extracted
+hereinbelow:
+
+“10. [...] However, the question of extinguishment of rights with relation to the
+shareholders does not arise. It was only reduction of shares by way of extinguishing
+the number of shares and not extinguishing the rights of the shareholders. For the
+reason that the word "extinguished" is mentioned in the Petition or the Court Order,
+it does not amount to translate the meaning of the word "extinguishment of rights"
+
+as per section 2(47) of the Act.
+
+xxx xxx xxx Extinguishment of Rights would mean that the assessee has parted with
+those shares or sold off those shares to a second party. Here, the assessee has not sold
+off any shares or has not parted with the shares as the it still holds the proportionate
+percentage which he initially held is still shown as an investment.”
+
+7. In appeal the CIT(A) vide order dated 14.12.2017 while distinguishing the facts of the present case
+from those involved in the decision of this Court in Kartikeya V. Sarabhai v. Commissioner of
+Income Tax reported in (1997) 7 SCC 524 held that any extinguishment of rights would involve
+parting the sale of percentage of shares to another party or divesting rights therein. The relevant
+observations made by the CIT(A) are reproduced as follows:
+
+“6.6(ii) The factual position of and the applicability of the judicial decisions in the
+present case, clearly reveals that the Assessee's claim of capital loss, is not acceptable
+in view of certain crucial questions, emerging for consideration in the present case.
+The AO has analysed the Assessee's shareholding pattern, in the impugned order,
+which has been perused. A comparative-analysis of the opening / closing balances of
+
+Indian Kanoon - http://indiankanoon.org/doc/119038314/
+
+2
+
+Principal Commissioner Income Tax 4 ... vs M/S Jupiter Capital Private Limited on 2 January, 2025
+
+ANNPL shares and the consequent reduction in numbers / face value and the
+percentage ratio of share- holding, reveals a clear position that there was no effective
+transfer, resulting in Long Term Capital Loss…
+
+(iii) [...] It clearly emerges, that there was no effective transfer, which could result in
+any real Long Term Capital Loss as claimed by the appellant in the present case. It
+transpires that the appellant company invested in total equity share of Rs.
+153340900/- at face value of (Rs. 10) on different dates, in its subsidiary company
+(ANNPL). The total number of shares of ANNPL was 153505750 out of which the
+assessee's shareholding was 99.88%. Pursuant to the share reduction scheme there
+was reduction in share capital of ANNPL from 153340900 to 10000 and thus the
+shares of the Assessee were reduced from 153505750 to 9988. The face value of the
+shares-reduced remained unchanged at Rs. 10, even after the reduction. The
+shareholding ratio of the assessee company also remained constant even after
+implementation of the share-reduction scheme. This percentage continued to be at
+the previous shareholding figures of 99.88%.”
+
+8. However, the ITAT reversed the order passed by the CIT(A) and allowed the appeal filed by the
+assessee observing that the decision of this Court in Kartikeya V. Sarabhai (supra) is squarely
+applicable to the facts of the present case. The relevant observations from the order of the ITAT
+order are extracted hereinbelow:
+
+“6. [...] In the present case, the face value per share remains same i.e. Rs. 10 per share
+before reduction of share capital and after reduction of share capital but the total
+number of shares has been reduced from 153505750 to 10000 and out of this, the
+present assessee was holding prior to reduction 153340900 shares and after
+reduction 9988 shares. In addition to this reduction in number of shares held by the
+assessee company in ANNPL, the assessee received an amount of Rs. 3,17,83,474/-
+from ANNPL. Hence it is seen that in the facts of present case, on account of
+reduction in number of shares held by the assessee company in ANNPL, the assessee
+has extinguished its right of 153340900 shares and in lieu thereof, the assessee
+received 9988 shares at Rs. 10/- each along with an amount of Rs. 3,17,83,474/. As
+per this judgment of Hon'ble Apex Court rendered in the case of Kartikeya V.
+Sarabhai Vs. CIT (supra), there is no reference to the percentage of share holding
+prior to reduction of share capital and after reduction of share capital and hence, in
+our considered opinion, the basis adopted by the CIT(A) to hold that this judgment of
+Hon'ble Apex Court is, not applicable in the present case is not proper and in our
+considered opinion, this is not proper. In our considered opinion, in the facts of
+present case, this judgment of Hon'ble Apex Court is squarely applicable and by
+respectfully following this judgment of Hon'ble Apex Court, we hold that the
+assessee's claim for capital loss on account of reduction in share capital in ANNPL is
+allowable. We hold accordingly.”
+
+Indian Kanoon - http://indiankanoon.org/doc/119038314/
+
+3
+
+Principal Commissioner Income Tax 4 ... vs M/S Jupiter Capital Private Limited on 2 January, 2025
+
+9. The Revenue went in appeal before the High Court. The High Court while dismissing the appeal
+filed by the Revenue and affirming the order passed by the ITAT observed in para 8 as under:
+
+“Undisputed facts are, pursuant to the order passed by the High Court of Bombay,
+number of shares has been reduced to 9988. It is significant to note that the face
+value of the share has remained same at Rs. 10/- even after the reduction. The AO's
+view that the voting power has not changed as the percentage of assessee's share of
+99.88% has remained unchanged is untenable because if the shares are transferred at
+face value, the redeemable value would be Rs.99,880/- whereas the value of
+14,95,44,130 number of shares would have been Rs.1,49,54,41,300/-. In our
+considered view, the ITAT has rightly followed authority in Kartikeya V. Sarabhai v.
+The Commissioner of Income Tax : 1998 2 ITR 163 SC with regard to meaning of
+transfer by holding that there was no transfer within the meaning of that expression
+contained in Section 2(47) of the Income Tax Act, 1961.”
+
+10.Having heard Mr. N. Venkataraman, learned ASG appearing for the Revenue, and having gone
+through the materials on record, we are of the view that no error, not to speak of any error of law,
+could be said to have been committed by the High Court in passing the impugned order.
+
+11.Whether reduction of capital amounts to transfer is no longer res integra in view of the decision of
+this Court in Kartikeya V. Sarabhai (supra) wherein this Court while elaborating upon Sections
+2(47) and 45 of the Income Tax Act, 1961 respectively observed as under:
+
+“9. It is not possible to accept the contention of Shri Ganesh, learned counsel that
+reduction does not amount to a transfer of the capital asset. Section 2(47) of the Act
+reads as follows:
+
+“2. (47) ‘transfer’ in relation to a capital asset, includes,
+
+(i) the sale, exchange or relinquishment of the asset; or
+
+(ii) the extinguishment of any rights therein; or
+
+(iii) the compulsory acquisition thereof under any law; or
+
+(iv) in a case where the asset is converted by the owner thereof into, or is treated by
+him as, stock-in-trade or a business carried on by him, such conversion or treatment;
+or
+
+(v) any transaction involving the allowing of the possession of any immovable
+property to be taken or retained in part performance of a contract of the nature
+referred to in Section 53-A of the Transfer of Property Act, 1882 (4 of 1882); or
+
+Indian Kanoon - http://indiankanoon.org/doc/119038314/
+
+4
+
+Principal Commissioner Income Tax 4 ... vs M/S Jupiter Capital Private Limited on 2 January, 2025
+
+(vi) any transaction (whether by way of becoming a member of, or acquiring shares
+in, a cooperative society, company or other association of persons or by way of any
+agreement or any arrangement or in any other manner whatsoever) which has the
+effect of transferring, or enabling the enjoyment of, any immovable property.
+
+Explanation.—For the purposes of sub-clauses (v) and (vi), ‘immovable property’ shall have the
+same meaning as in clause (d) of Section 269-UA;”
+
+10. Section 45 of the Act reads as follows:
+
+“45. Capital gains.—(1) Any profits or gains arising from the transfer of a capital asset
+effected in the previous year shall, save as otherwise provided in Sections 53, 54,
+54-B, 54-D, 54-E, 54-F and 54-G, be chargeable to income tax under the head ‘Capital
+gains’ and shall be deemed to be the income of the previous year in which the transfer
+took place.”
+
+11. Section 2(47) which is an inclusive definition, inter alia, provides that relinquishment of an asset
+or extinguishment of any right therein amounts to a transfer of a capital asset. While, it is no doubt
+true that the appellant continues to remain a shareholder of the company even with the reduction of
+share capital but it is not possible to accept the contention that there has been no extinguishment of
+any part of his right as a shareholder qua the company. It is not necessary that for a capital gain to
+arise there must be sale of a capital asset. Sale is only one of the modes of transfer envisaged by
+Section 2(47) of the Act. Relinquishment of the asset or the extinguishment of any right in it, which
+may not amount to sale, can also be considered as a transfer and any profit or gain which arises
+from the transfer of a capital asset is liable to be taxed under Section 45 of the Act.
+
+12. When as a result of the reducing of the face value of the shares, the share capital is reduced, the
+right of the preference shareholder to the dividend or his share capital and the right to share in the
+distribution of the net assets upon liquidation is extinguished proportionately to the extent of
+reduction in the capital. Whereas the appellant had a right to dividend on a capital of Rs 500 per
+share that stood reduced to his receiving dividend on Rs 50 per share. Similarly, if the liquidation
+was to take place whereas he originally had a right to Rs 500 per share, now his right stood reduced
+to receiving Rs 50 per share only. Even though the appellant continues to remain a shareholder his
+right as a holder of those shares clearly stands reduced with the reduction in the share capital.
+
+13. The Gujarat High Court had in another case reported as Anarkali Sarabhai v. CIT [(1982) 138
+ITR 437 (Guj)] followed the judgment under appeal. That was a case where there had been
+redemption of preference share capital by the company and money was paid to the shareholders. It
+was held therein that difference between the face value received by the shareholder and the price
+paid for preference shares was exigible to capital gains tax. In coming to this conclusion, the Gujarat
+High Court had followed the judgment under appeal in the present case.
+
+14. The aforesaid decision of the Gujarat High Court in Anarkali case [(1982) 138 ITR 437 (Guj)] was
+challenged and this Court in Anarkali Sarabhai v. CIT [(1997) 3 SCC 238 : (1997) 224 ITR 422]
+
+Indian Kanoon - http://indiankanoon.org/doc/119038314/
+
+5
+
+Principal Commissioner Income Tax 4 ... vs M/S Jupiter Capital Private Limited on 2 January, 2025
+
+upheld the High Court's decision. It had been contended in Anarkali case [(1997) 3 SCC 238 :
+
+(1997) 224 ITR 422] on behalf of the assessee that reduction of preference shares was
+not a sale or relinquishment of asset and, therefore, no capital gains tax was payable.
+Repelling this contention, this Court considered the definition of the word “transfer”
+occurring in Section 2(47) of the Act and reading the same along with Section 45, it
+came to the conclusion that when a preference share is redeemed by a company, what
+the shareholder does in effect is to sell the share to the company. The company
+redeems its preference shares only by paying the preference shareholders the value of
+the shares and taking back the preference shares. It was observed that in effect the
+company buys back the preference shares from the shareholders. Further, referring
+to the provisions of the Companies Act, it held that the reduction of preference shares
+by a company was a sale and would squarely come within the phrase “sale, exchange
+or relinquishment” of an asset under Section 2(47) of the Act. It was also held that
+the definition of the word “transfer” under Section 2(47) of the Act was not an
+exhaustive definition and that sub-section (I) of clause (47) of Section 2 implies that
+parting with any capital asset for gain would be taxable under Section 45 of the Act.
+In this connection, it was noted that when preference shares are redeemed by the
+company, the shareholder has to abandon or surrender the shares, in order to get the
+amount of money in lieu thereof.
+
+15. In our opinion, the aforesaid decision of this Court in Anarkali case [(1997) 3 SCC 238 : (1997)
+224 ITR 422] is applicable in the instant case. The only difference in the present case and Anarkali
+case [(1997) 3 SCC 238 : (1997) 224 ITR 422] is that whereas in Anarkali case [(1997) 3 SCC 238 :
+(1997) 224 ITR 422] preference shares were redeemed in entirety, in the present case, there has
+been a reduction in the share capital inasmuch as the company had redeemed its preference shares
+of Rs 500 to the extent of Rs 450 per share. The liability of the company in respect of the preference
+share which was previously to the extent of Rs 500 now stood reduced to Rs 50 per share.”
+
+12.The following principles are discernible from the aforesaid decision of this Court:
+
+a. Section 2(47) of the Income Tax Act, 1961, which is an inclusive definition, inter
+alia, provides that relinquishment of an asset or extinguishment of any right therein
+amounts to a transfer of a capital asset. While the taxpayer continues to remain a
+shareholder of the company even with the reduction of share capital, it could not be
+accepted that there was no extinguishment of any part of his right as a shareholder
+qua the company.
+
+b. A company under Section 66 of the Companies Act, 2013 has a right to reduce the
+share capital and one of the modes which could be adopted is to reduce the face value
+of the preference share.
+
+c. When as a result of the reducing of the face value of the share, the share capital is
+reduced, the right of the preference shareholder to the dividend or his share capital
+
+Indian Kanoon - http://indiankanoon.org/doc/119038314/
+
+6
+
+Principal Commissioner Income Tax 4 ... vs M/S Jupiter Capital Private Limited on 2 January, 2025
+
+and the right to share in the distribution of the net assets upon liquidation is
+extinguished proportionately to the extent of reduction in the capital. Such a
+reduction of the right of the capital asset clearly amounts to a transfer within the
+meaning of section 2(47) of the Income Tax Act, 1961.
+
+13.As observed in Commissioner of Income Tax v. Vania Silk Mills (P.) Ltd. reported in (1977) 107
+ITR 300 (Guj), the expression “extinguishment of any right therein” is of wide import. It covers
+every possible transaction which results in the destruction, annihilation, extinction, termination,
+cessation or cancellation, by satisfaction or otherwise, of all or any of the bundle of rights -
+qualitative or quantitative - which the assessee has in a capital asset, whether such asset is corporeal
+or incorporeal.
+
+14.In the present case, the face value per share has remained the same before the reduction of share
+capital and after the reduction of share capital. However, as the total number of shares have been
+reduced from 15,35,05,750 to 10,000 and out of this the assessee was holding 15,33,40,900 shares
+prior to reduction and 9988 shares after reduction, it can be said that on account of reduction in the
+number of shares held by the assessee in the company, the assessee has extinguished its right of
+15,33,40,900 shares, and in lieu thereof, the assessee received 9988 shares at Rs. 10 each along with
+an amount of Rs. 3,17,83,474. This Court in the case of Kartikeya V. Sarabhai (supra) has not made
+any reference to the percentage of shareholding prior to reduction of share capital and after
+reduction of share capital.
+
+15.This Court in the case of Kartikeya V. Sarabhai (supra) observed that reduction of right in a
+capital asset would amount to ‘transfer’ under Section 2(47) of the Act, 1961. Sale is only one of the
+modes of transfer envisaged by Section 2(47) of the Income Tax Act, 1961. Relinquishment of any
+rights in it, which may not amount to sale, can also be considered as transfer and any profit or gain
+which arises from the transfer of such capital asset is taxable under Section 45 of the Income Tax
+Act, 1961.
+
+16.A Division Bench of the Gujarat High Court in the case of Commissioner of Income-Tax v.
+Jaykrishna Harivallabhdas reported in (1998) 231 ITR 108 further clarified that receipt of some
+consideration in lieu of the extinguishment of rights is not a condition precedent for the
+computation of capital gains as envisaged under Section 48 of the Income Tax Act, 1961. The
+relevant observations made by the High Court are reproduced hereinbelow:
+
+28. The contention that this provision should apply to actual receipts only also
+cannot be accepted for yet another reason, because acceptance of that would lead to
+an incongruous and anomalous result as will be seen presently. The acceptance of
+this view would mean whereas even in a case where a sum is received, howsoever
+negligible or insignificant it may be, it would result in the computation of capital
+gains or loss, as the case may be, but in a case where nothing is disbursed on
+liquidation of a company the extinction of rights, would result in total loss with no
+consequence. That is to say on receipt of some cost, however insignificant it may be,
+the entire gamut of computing capital gains for the purpose of computing under the
+
+Indian Kanoon - http://indiankanoon.org/doc/119038314/
+
+7
+
+Principal Commissioner Income Tax 4 ... vs M/S Jupiter Capital Private Limited on 2 January, 2025
+
+head “Capital gains” is to be gone into, computing income under the head “Capital
+gains”, and loss will be treated under the provisions of Act, but where there is nil
+receipt of the capital, the entire extinguishment of rights has to be written off,
+without treating under the Act as a loss resulting from computation of capital gains.
+The suggested interpretation leads to such incongruous result and ought to be
+avoided, if it does not militate in any manner against object of the provision and
+unless it is not reasonably possible to reach that conclusion. As discussed above, once
+a conclusion is reached that extinguishment of rights in shares on liquidation of a
+company is deemed to be transfer for operation of section 46(2) read with section 48,
+it is reasonable to carry that legal fiction to its logical conclusion to make it applicable
+in all cases of extinguishment of such rights, whether as a result of some receipt or nil
+receipt, so as to treat the subjects without discrimination. Where there does not
+appear to be ground for such different treatment the Legislature cannot be presumed
+to have made deeming provision to bring about such anomalous result.
+
+(Emphasis supplied)
+
+17. This Court in the case of Anarkali Sarabhai v. CIT reported in (1997) 3 SCC 238 observed that the
+reduction of share capital or redemption of shares is an exception to the rule contained in Section
+77(1) of the Companies Act, 1956 that no company limited by shares shall have the power to buy its
+own shares. In other words, the Court held that both reduction of share capital and redemption of
+shares involve the purchase of its own shares by the company and hence will be included within the
+meaning of transfer under Section 2(47) of the Income Tax Act, 1961. The relevant observations are
+reproduced hereinbelow:
+
+“21. The Bombay High Court in Sath Gwaldas Mathuradas Mohata Trust v. CIT
+[(1987) 165 ITR 620 (Bom)] dealt with the question which has now arisen in this
+case. There the question was whether the amount received by the assessee on
+redemption of preference shares was liable to tax under the head “capital gains”.
+After referring to the meaning given to “transfer” by Section 2(47) of the Income Tax
+Act, the Court held:
+
+“Here, a regular ‘sale’ itself has taken place. That is the ordinary concept of transfer.
+The company paid the price for the redemption of the shares out of its fund to the
+assessee and the transaction was clearly a purchase. As rightly observed by the
+Tribunal, if the company had purchased a valuable right, the assessee had sold a
+valuable right. ‘Relinquishment’ and ‘extinguishment’ which are not in the normal
+concept of transfer but are included in the definition by the extended meaning
+attached to the word are also attracted in the transaction. The shares were assets and
+they were relinquished by the assessee and thus relinquishment of assets did take
+place. The assessee by virtue of his being a holder of redeemable cumulative
+preference shares had a right in the profits of the company, if and when made, at a
+fixed rate of percentage. Quite obviously, this was a valuable right and this right had
+come to an end by the company's redemption of shares. Thus, the transaction also
+
+Indian Kanoon - http://indiankanoon.org/doc/119038314/
+
+8
+
+Principal Commissioner Income Tax 4 ... vs M/S Jupiter Capital Private Limited on 2 January, 2025
+
+amounted to ‘extinguishment’ of right. Under the circumstances, viewed from any
+angle, there is no escape from the conclusion that Section 2(47) was attracted and
+that the amount of Rs 50,000 received by the assessee was liable to be taxed under
+the head ‘Capital gains’. ”
+
+22. The view taken by the Bombay High Court accords with the view taken by the
+Gujarat High Court in the judgment under appeal. In the judgment under appeal, it
+was pointed out that the genesis of reduction or redemption of capital both involved a
+return of capital by the company. The reduction of share capital or redemption of
+shares is an exception to the rule contained in Section 77(1) that no company limited
+by shares shall have the power to buy its own shares. When it redeems its preference
+shares, what in effect and substance it does is to purchase preference shares.
+
+Reliance was placed on the passage from Buckley on the Companies Acts, 14th Edn., Vol. I, at p. 181:
+
+“Every return of capital, whether to all shareholders or to one, is pro tanto a purchase
+of the shareholder's rights. It is illegal as a reduction of capital, unless it be made
+under the statutory authority, but in the latter case is perfectly valid.” (Emphasis
+supplied)
+
+18.In view of the aforesaid, we are of the view that the reduction in share capital of the subsidiary
+company and subsequent proportionate reduction in the shareholding of the assessee would be
+squarely covered within the ambit of the expression “sale, exchange or relinquishment of the asset”
+used in Section 2(47) the Income Tax Act, 1961.
+
+19.As a result, this petition fails and is hereby dismissed.
+
+…..……...........................J. (J.B. Pardiwala) …….................................J. (R. Mahadevan) New Delhi:
+
+2nd January, 2025.
+
+Indian Kanoon - http://indiankanoon.org/doc/119038314/
+
+9
+
+

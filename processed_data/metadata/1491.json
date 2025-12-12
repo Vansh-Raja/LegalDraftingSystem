@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 785 of 2022 (Arising out of SLP(C) No. 20262 of 2018)",
+  "parties": {
+    "petitioner": "Shiv Developers through its Partner Sunilbhai Somabhai Ajmeri",
+    "respondent": "Aksharay Developers & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-31",
+  "summary": "The case involves a suit for declaration and injunction filed by an unregistered partnership firm (Shiv Developers) challenging the validity of a sale deed dated 24.02.2015, alleging fraud and non-payment of consideration. The key issue was whether Section 69(2) of the Indian Partnership Act, 1932, bars an unregistered firm from maintaining such a suit. The Trial Court rejected the application to reject the plaint, holding that the bar under Section 69(2) did not apply as the suit concerned property rights, not contractual enforcement. The High Court reversed, holding Section 69(2) barred the suit. The Supreme Court examined whether the suit enforced a right 'arising from a contract' within the meaning of Section 69(2), concluding that suits for declaration of a deed as null and void due to fraud, where title is not directly claimed under a contract, do not fall within the bar. The nature of the relief and cause of action determines applicability.",
+  "legal_provisions_cited": [
+    "Section 69 of the Indian Partnership Act, 1932",
+    "Order VII Rule 11(d), CPC",
+    "Order XXX Rules 1 and 2, CPC",
+    "Section 151 CPC"
+  ],
+  "final_judgment": "Leave granted. The appeal was allowed, setting aside the High Court's judgment and restoring the Trial Court's order rejecting the application for rejection of plaint."
+}

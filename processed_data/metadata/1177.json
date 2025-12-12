@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. /2023 (@ Special Leave Petition (C) No. 530 / 2022)",
+  "parties": {
+    "petitioner": "Union of India",
+    "respondent": "Sanjiv Chaturvedi & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-03",
+  "summary": "The Union of India appealed against the Uttarakhand High Court's decision to set aside the transfer of Sanjiv Chaturvedi's original application from the Nainital Circuit Bench of the Central Administrative Tribunal (CAT) to the Principal Bench in New Delhi. The issue centered on the validity of the transfer under Section 25 of the Administrative Tribunals Act, 1985, and the territorial jurisdiction of the High Court. The appellant argued that the High Court lacked jurisdiction as the cause of action arose in New Delhi, while the respondent contended that part of the cause of action arose in Uttarakhand due to the impact on state-recommended officers. The Supreme Court examined jurisdictional principles following L. Chandra Kumar and Union of India v. Alapan Bandyopadhyay.",
+  "legal_provisions_cited": [
+    "Section 25, Administrative Tribunals Act, 1985",
+    "Article 323A, Constitution of India",
+    "L. Chandra Kumar Vs. Union of India (1997) 3 SCC 261",
+    "Union of India Vs. Alapan Bandyopadhyay (2022) 3 SCC 133"
+  ],
+  "final_judgment": "The appeal was allowed, and the judgment of the Uttarakhand High Court was set aside, restoring the order of the Chairman, CAT, transferring the case to the Principal Bench in New Delhi."
+}

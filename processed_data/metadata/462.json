@@ -1,0 +1,19 @@
+{
+  "case_number": "Criminal Appeal No(s). of 2024 (Arising out of SLP (Criminal) No(s). 8990 of 2019)",
+  "parties": {
+    "petitioner": "C. Subbiah @ Kadambur Jayaraj and Others",
+    "respondent": "The Superintendent of Police and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-05-15",
+  "summary": "The appeal challenged the Madras High Court's dismissal of a petition to quash criminal proceedings for offenses under IPC Sections 420, 120B, 294(b), 506(ii), and 114. The complainant, a government teacher and real estate investor, alleged that the accused induced him to invest in land deals under false assurances of profit and political connections, but failed to register properties in his name or return his share from sales. Despite a settlement deed allotting 52 plots to him, the accused transferred some lands to third parties and refused to honor agreements. Threats, including brandishing a revolver, were made when the complainant sought redress. After police initially refused to register an FIR, proceedings were initiated under Section 156(3) CrPC, leading to charge sheet. Court examined sufficiency of evidence for charges of cheating, criminal breach of trust, and criminal conspiracy.",
+  "legal_provisions_cited": [
+    "Section 420 IPC",
+    "Section 120B IPC",
+    "Section 294(b) IPC",
+    "Section 506(ii) IPC",
+    "Section 114 IPC",
+    "Section 156(3) CrPC, 1973"
+  ],
+  "final_judgment": "Leave granted; matter remanded for further consideration of whether charges should be quashed."
+}

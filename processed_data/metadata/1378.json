@@ -1,0 +1,17 @@
+{
+  "case_number": "Criminal Appeal No. 36 of 2022 (Arising out of SLP(Crl.) No. 4062 of 2020)",
+  "parties": {
+    "petitioner": "Manoj Kumar Khokhar",
+    "respondent": "State of Rajasthan & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-11",
+  "summary": "The appeal challenged the Rajasthan High Court's grant of bail to accused Ram Narayan Jat in a murder case (FIR No. 407/2019) under Section 302 IPC. The appellant, son of the deceased, argued that the murder stemmed from political enmity, the accused enjoyed influence, and release on bail posed risk of witness tampering. The High Court's bail order was brief, citing no detailed reasoning. This Court examined whether the bail decision violated settled principles, considering gravity of offence, accused's antecedents, likelihood of absconding, and possibility of influencing witnesses. While the appellant contended the High Court's order was cryptic and failed to consider material factors, the respondent argued the incident was a sudden scuffle, no pre-existing enmity existed, and investigation was complete, eliminating risk of tampering. Reliance was placed on Niranjan Singh vs Prabhakar Rajaram Kharote regarding limited scope of merits discussion in bail hearings.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 437 CrPC",
+    "Section 439 CrPC",
+    "Niranjan Singh and Anr. vs. Prabhakar Rajaram Kharote and Ors, [1980] 2 SCC 559"
+  ],
+  "final_judgment": "The appeal was dismissed, and the impugned bail order of the High Court was upheld."
+}

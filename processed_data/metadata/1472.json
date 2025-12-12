@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 1760 of 2022",
+  "parties": {
+    "petitioner": "Sanjay Kumar Singh",
+    "respondent": "The State of Jharkhand"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-10",
+  "summary": "The appellant challenged the High Court's dismissal of his appeal and rejection of an application for additional evidence under Order 41 Rule 27 CPC in a land acquisition compensation case. The Supreme Court found that the High Court failed to consider whether the additional evidence (sale deeds and judgment copies) had a bearing on determining fair market value, which was crucial as no reliable evidence remained on record after rejection of the sole sale deed. The Court held that the additional evidence could materially affect the determination of compensation and justice required its admission. The rejection of the application was quashed, the application was allowed, and the matter remanded to the Reference Court for fresh adjudication after due proof of the documents.",
+  "legal_provisions_cited": [
+    "Section 4, Land Acquisition Act, 1894",
+    "Section 18, Land Acquisition Act, 1894",
+    "Order 41 Rule 27, Code of Civil Procedure",
+    "Section 96, Code of Civil Procedure",
+    "A. Andisamy Chettiar v. A. Subburaj Chettiar, (2015) 17 SCC 713",
+    "Uttaradi Mutt v. Raghavendra Swamy Mutt, (2018) 10 SCC 484"
+  ],
+  "final_judgment": "The appeal is partly allowed. The High Court's order rejecting the application for additional evidence is quashed. The application is allowed, and the matter is remanded to the Reference Court for fresh determination of compensation after the appellant proves the authenticity and contents of the additional documents. The impugned judgment dismissing the appeal is set aside. No order as to costs."
+}

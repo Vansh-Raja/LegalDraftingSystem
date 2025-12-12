@@ -1,0 +1,15 @@
+{
+  "case_number": "CIVIL APPEAL No.3533 OF 2023 (Arising out of SLP (C) No.5698 OF 2021)",
+  "parties": {
+    "petitioner": "Indian Oil Corporation Ltd. and Ors.",
+    "respondent": "M/S. Sathyanarayana Service Station & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-09",
+  "summary": "The case involved a dispute over the validity of withdrawal of a dealership resignation by a petrol pump dealer. The dealer initially resigned on 25.09.2006, later sought to withdraw the resignation on 11.12.2006. IOC had already accepted the resignation via letter on 22.11.2006 and awarded the dealership to a new dealer. The Sole Arbitrator upheld the acceptance of resignation and rejected the withdrawal, holding that acceptance once communicated under Section 5 of the Indian Contract Act bars subsequent withdrawal. The High Court set aside the award and directed restoration of the dealer. The Supreme Court examined whether the High Court exceeded its scope in overturning the arbitral award and reviewed correspondence, timing, and legal principles under the Arbitration Act and Contract Act.",
+  "legal_provisions_cited": [
+    "Section 5, Indian Contract Act, 1872",
+    "Section 34, Arbitration and Conciliation Act, 1996"
+  ],
+  "final_judgment": "The Supreme Court set aside the High Court's judgment, restored the arbitral award, and upheld the termination of the dealership, holding that the resignation could not be withdrawn after acceptance."
+}

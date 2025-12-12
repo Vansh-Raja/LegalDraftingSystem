@@ -1,0 +1,23 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 612 OF 2019",
+  "parties": {
+    "petitioner": "Mohd. Firoz",
+    "respondent": "The State Of Madhya Pradesh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-19",
+  "summary": "The appeal challenged the confirmation of a death sentence awarded to Mohd. Firoz by the Madhya Pradesh High Court in connection with the abduction, rape, and murder of a four-year-old girl. The prosecution case was based on evidence that Firoz, along with co-accused Rakesh Choudhary, lured the victim away from her home, raped her, and caused her death by smothering. Medical evidence confirmed rape and cause of death as bronchopneumonia and cerebral hypoxia due to smothering. The Sessions Court convicted Firoz and awarded death penalty affirmed by the High Court, while Rakesh Choudhary was acquitted. Key witnesses included the victim's family members and an eyewitness (Ramkishan) who identified the accused. The Supreme Court examined the reliability of child testimony, adequacy of evidence, and application of the 'rarest of rare' doctrine in upholding the death penalty.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 363 IPC",
+    "Section 366 IPC",
+    "Section 376(2)(i) IPC",
+    "Section 376(2)(m) IPC",
+    "Section 34 IPC",
+    "Section 109 IPC",
+    "Section 5(i), 5(m), 6 POCSO Act, 2012",
+    "Section 16/17 POCSO Act, 2012",
+    "Section 313 Cr.PC"
+  ],
+  "final_judgment": "The appeal was dismissed. The Supreme Court upheld the death sentence awarded to Mohd. Firoz, confirming it as a 'rarest of rare' case due to the heinous nature of the crime against a minor child, while affirming the acquittal of Rakesh Choudhary by the High Court."
+}

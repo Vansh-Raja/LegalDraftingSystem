@@ -1,0 +1,26 @@
+{
+  "case_number": "Civil Appeal No. 21762 of 2017",
+  "parties": {
+    "petitioner": "Assistant Commissioner of Income Tax (Exemptions)",
+    "respondent": "Ahmedabad Urban Development Authority"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-19",
+  "summary": "The case concerned the tax exemption eligibility of statutory bodies and charitable trusts under the Income Tax Act, 1961. The Court examined the interpretation of Section 2(15) (definition of 'charitable purpose') as amended by the Finance Act, 2008, and its application to entities like urban development authorities. Key issues included whether such bodies, despite performing public functions, could qualify for exemption under Sections 11 and 12 if their activities were not purely charitable or involved trade/commerce. The Court analyzed legislative history, prior judgments (Surat Art Silk, Thanthi Trust), and the distinction between statutory corporations and private trusts. It emphasized that functions mandated by statute do not automatically constitute 'charitable purpose' if carried out in a commercial manner. The reasoning rejected a broad interpretation of charity, holding that income from commercial activities by statutory bodies is taxable unless explicitly exempted.",
+  "legal_provisions_cited": [
+    "Section 2(15), Income Tax Act, 1961",
+    "Section 10(20A), Income Tax Act, 1961",
+    "Section 10(23), Income Tax Act, 1961",
+    "Section 11, Income Tax Act, 1961",
+    "Section 12, Income Tax Act, 1961",
+    "Section 12A, Income Tax Act, 1961",
+    "Section 12AA, Income Tax Act, 1961",
+    "Section 13, Income Tax Act, 1961",
+    "Finance Act, 1983",
+    "Finance Act, 1991",
+    "Finance Act, 2008",
+    "Surat Art Silk Mills Ltd. v. CIT",
+    "CIT v. Thanthi Trust"
+  ],
+  "final_judgment": "Leave granted; the appeals were allowed in part, with a declaration that statutory bodies like the Ahmedabad Urban Development Authority do not automatically qualify for tax exemption under Sections 11 and 12 of the Income Tax Act merely by virtue of being public authorities; exemption depends on the nature of the activity and source of income."
+}

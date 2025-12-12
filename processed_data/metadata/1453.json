@@ -1,0 +1,17 @@
+{
+  "case_number": "Criminal Appeal No(s). of 2022 (Arising out of SLP(Crl.) No(s).39 of 2022)",
+  "parties": {
+    "petitioner": "Ramesh Chandra Gupta",
+    "respondent": "State of U.P. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-11-28",
+  "summary": "The appeal challenged the Allahabad High Court's dismissal of a criminal miscellaneous application under Section 482 CrPC seeking quashing of criminal proceedings. The dispute centered on property ownership of House No.189, Mohalla Madia, Jhansi, involving a 2006 family settlement (MOU) and a 2018 registered sale deed from Shravan Kumar Gupta to the complainant, Atul Shukla. The appellants were accused in an FIR alleging dispossession, forgery, and criminal intimidation, but were not parties to the sale deed or civil suits over the property. The Supreme Court examined whether the High Court erred in not quashing the proceedings, noting the allegations lacked specific involvement of the appellants in the alleged offences, and considered principles under Section 482 CrPC regarding abuse of process and ends of justice.",
+  "legal_provisions_cited": [
+    "Section 482 CrPC",
+    "Section 156(3) CrPC",
+    "Sections 420, 467, 468, 471, 504, 506, 447, 386 IPC",
+    "Vineet Kumar and Others vs. State of Uttar Pradesh and Another (2017)"
+  ],
+  "final_judgment": "Leave granted; matter remanded for reconsideration by the High Court under Section 482 CrPC with proper application of legal principles"
+}

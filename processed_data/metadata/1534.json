@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal No.362 of 2022 (Arising out of SLP (Crl) No.1963 of 2019)",
+  "parties": {
+    "petitioner": "Tedhi Singh",
+    "respondent": "Narayan Dass Mahant"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-07",
+  "summary": "The appellant challenged the High Court's dismissal of his criminal revision against conviction under Section 138 of the Negotiable Instruments Act, 1881, for dishonour of a cheque. The appellant argued that he raised a probable defence by examining bank officials (DW-1 to DW-4) to challenge the complainant's financial capacity to lend Rs.7 Lakhs. The Supreme Court noted the High Court failed to appreciate the purpose of these witnesses and that evidence showed the complainant’s accounts did not support his claim of withdrawal. While three lower courts upheld the conviction, the Court emphasized that under Section 139, the presumption of liability is rebuttable by preponderance of probabilities and that a probable defence can be established through cross-examination or documentary evidence.",
+  "legal_provisions_cited": [
+    "Section 138, Negotiable Instruments Act, 1881",
+    "Section 139, Negotiable Instruments Act, 1881",
+    "Section 397, Code of Criminal Procedure, 1898",
+    "Section 313, Code of Criminal Procedure, 1898",
+    "Basalingappa vs. Mudibasappa, (2019) 5 SCC 418"
+  ],
+  "final_judgment": "The appeal is allowed. The impugned judgment is set aside. The conviction and sentence of the appellant are quashed. The appeal stands allowed."
+}

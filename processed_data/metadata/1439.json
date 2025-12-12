@@ -1,0 +1,23 @@
+{
+  "case_number": "Civil Appeal No. 2196 of 2012",
+  "parties": {
+    "petitioner": "Punjab National Bank",
+    "respondent": "Union of India & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-24",
+  "summary": "The appeal challenged the Allahabad High Court's dismissal of a writ petition filed by Punjab National Bank, which sought to enforce its security interest in properties of Rathi Ispat Ltd. (RIL) mortgaged to it, despite confiscation orders by Customs authorities under Rule 173Q(2) of the Central Excise Rules, 1944. The key issues were: (1) whether the Commissioner could invoke Rule 173Q(2) for confiscation after it was omitted in 2000; and (2) whether excise dues have priority over secured creditors in absence of statutory first charge. The Court held that Rule 173Q(2) was non-existent at the time of the 2007 orders, rendering them ultra vires. Further, no statutory first charge existed for excise dues prior to 2011 amendment (Section 11E), so secured creditors under SARFAESI Act, 2002 have priority over such dues. The appeal was allowed.",
+  "legal_provisions_cited": [
+    "Rule 173Q(2), Central Excise Rules, 1944",
+    "Section 38A, Central Excise Act, 1944",
+    "Section 6, General Clauses Act, 1897",
+    "Section 13, SARFAESI Act, 2002",
+    "Section 2(zc)-(zf), SARFAESI Act, 2002",
+    "Section 35, SARFAESI Act, 2002",
+    "Section 11E, Central Excise Act, 1944 (as inserted w.e.f. 08.04.2011)",
+    "Rule 28, Central Excise Rules, 2001/2002/2017",
+    "Kolhapur Canesugar Works Ltd. vs Union of India & Ors. [(2000) 2 SCC 536]",
+    "Kotak Mahindra Bank Ltd. vs District Magistrate [2010 SCC Online Gujarat 10656]"
+  ],
+  "final_judgment": "Appeal allowed. The orders of confiscation dated 26.03.2007 and 29.03.2007 passed under Rule 173Q(2) were declared invalid as the rule had been omitted in 2000. The excise dues do not have priority over secured creditors' claims in absence of statutory first charge. Punjab National Bank entitled to enforce security interest under SARFAESI Act, 2002."
+}

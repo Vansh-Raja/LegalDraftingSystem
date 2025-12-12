@@ -1,0 +1,23 @@
+{
+  "case_number": "CRIMINAL APPEAL NOS. 339-340 OF 2014",
+  "parties": {
+    "petitioner": "Rajesh Yadav & Anr.",
+    "respondent": "State of U.P."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-04",
+  "summary": "The appeals challenge the High Court's judgment convicting the appellants under Section 302 IPC and Section 25 of the Arms Act, while acquitting them of Section 307 IPC. Key issues included reliability of eyewitnesses, prosecution's failure to examine an injured witness (Om Prakash), admissibility of evidence from investigating officer PW-13 who was not fully cross-examined, and forensic linkage between recovered weapons and the crime. The prosecution relied on oral and documentary evidence, including FSL reports linking seized arms to the offense. The defense argued discrepancies in recovery and chain of evidence, and alleged screening of a crucial witness. The Court emphasized evaluation of 'matters before it' under Section 3 of the Evidence Act, distinguishing between belief in fact existence and prudence-based probability. It upheld the High Court’s balanced assessment of evidence, including partially hostile testimonies and forensic findings.",
+  "legal_provisions_cited": [
+    "Section 3 of the Evidence Act, 1872",
+    "Section 307 IPC",
+    "Section 302 IPC",
+    "Section 25 of the Arms Act",
+    "Section 313 CrPC",
+    "Gopal Saran v. Satyanarayana, (1989) 3 SCC 56",
+    "State of Orissa v. Prasanna Kumar Mohanty, (2009) 7 SCC 412",
+    "Santa Singh v. State of Punjab, AIR 1956 SC 526",
+    "Anter Singh v. State of Rajasthan, (2004) 10 SCC 657",
+    "Jagir Singh v. State (Delhi Administration), 1975 CrLJ 1009"
+  ],
+  "final_judgment": "Appeal dismissed; conviction under Section 302 IPC and Section 25 of the Arms Act upheld, with life imprisonment confirmed."
+}

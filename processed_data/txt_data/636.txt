@@ -1,0 +1,781 @@
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+Author: Abhay S. Oka
+
+Bench: Sanjay Karol, Abhay S. Oka
+
+2024 INSC 241
+
+                                                                                 Reportable
+                                         IN THE SUPREME COURT OF INDIA
+                                          CIVIL APPELLATE JURISDICTION
+
+                                      CIVIL APPEAL NOS. 1628-1629 OF 2021
+
+                            Noble M. Paikada                                    … Appellant
+
+                                                         versus
+
+                            Union of India                                   … Respondent
+
+                                                   JUDGMENT
+
+ABHAY S. OKA, J.
+
+FACTUAL ASPECTS
+
+1. These appeals take exception to the judgment and order dated 28th October 2020 (for short, ‘the
+impugned judgment’) passed by the National Green Tribunal, Principal Bench, New Delhi (for short,
+‘the NGT’). There is also a challenge to the order dated 24th December 2020, by which, the NGT
+rejected the review petition filed by the appellant for seeking review of the impugned judgment.
+
+2. A notification was issued on 14th September 2006 (for short, ‘the first EC notification’) by the
+Ministry of Environment and Forests (for short, ‘MoEF’) in exercise of powers under sub- section (1)
+and clause (v) of sub-section (2) of Section 3 of the with clause (d) of sub-rule (3) of Rule 5 of the
+Environment 16:44:23 IST Reason:
+
+(Protection) Rules, 1986 (for short, ‘the EP Rules’). Clause 2 of the first EC
+notification is material, which reads thus:
+
+“2. Requirements of prior Environmental Clearance (EC):- The following projects or
+activities shall require prior environmental clearance from the concerned regulatory
+authority, which shall hereinafter referred to be as the Central Government in the
+Ministry of Environment and Forests for matters falling under Category 'A' in the
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+1
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+Schedule and at State level the State Environment Impact Assessment Authority
+(SEIAA) for matters falling under Category 'B' in the said Schedule, before any
+construction work, or preparation of land by the project management except for
+securing the land, is started on the project or activity:
+
+(i) All new projects or activities listed in the Schedule to this notification;
+
+ii) Expansion and modernization of existing projects or activities listed in the
+Schedule to this notification with addition of capacity beyond the limits specified for
+the concerned sector, that is, projects or activities which cross the threshold limits
+given in the Schedule, after expansion or modernization;
+
+(iii) Any change in product – mix in an existing manufacturing unit included in
+Schedule beyond the specified range.”
+
+3. The notification provided that the projects falling under categories A and B set out in the Schedule
+to the notification will require prior Environmental Clearance (EC) from the concerned Regulatory
+Authority. The Regulatory Authorities for different projects have been named in clause (2) of the
+first EC notification. For the A category, the Central Government in the MoEF was named as the
+Regulatory Authority. For projects in the B category, the State Environment Impact Assessment
+Authority (for short, ‘SEIAA’) was named as the Regulatory Authority. Various procedural aspects
+regarding applying for a grant of EC, its processing, etc., have been incorporated in the first EC
+notification. There were subsequent modifications to the first EC notification. Another notification
+was issued on 15th January 2016 (for short, ‘the second EC notification’), by which the first EC
+notification was partly modified. Clause 7B and Appendix-IX were added to the first EC notification,
+providing for an exemption to specific categories of projects from the requirement of obtaining EC.
+Item 6 in the said Appendix-IX reads thus:
+
+“Appendix-IX Exemption of certain cases from requirement of Environmental
+Clearance The following cases shall not require prior environmental clearance,
+namely:
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+6. Dredging and de-silting of dams, reservoirs, weirs, barrages, river, and canals for
+the purpose of their maintenance, upkeep and disaster management.
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. ..” Though the NGT struck down a part of the second EC notification,
+Appendix-IX was not touched.
+
+4. In the Original Application subject matter of these appeals, the challenge before the NGT was to
+the notification dated 28th March 2020 (for short, ‘the impugned notification’), which modified
+earlier EC notifications. Appendix IX to the second EC notification provided for exempting certain
+cases from the requirement of obtaining EC. By the impugned notification, Appendix-IX was
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+2
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+substituted. The substituted Appendix-IX provided that the prior EC will not be required in the
+thirteen cases set out therein. We are concerned with items 6 and 7 of the substituted Appendix-IX,
+which read thus:
+
+“Appendix-IX Exemption of certain cases from requirement of Environmental
+Clearance: The following cases shall not require Prior Environmental Clearance,
+namely:-
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+6. Extraction or sourcing or borrowing of ordinary earth for the linear projects such
+as roads, pipelines, etc.
+
+7. Dredging and de-silting of dams, reservoirs, weirs, barrages, river and canals for
+the purpose of their maintenance, upkeep and disaster management.
+
+.. .. .. .. .. .. .. .. .. .. .. .. ..” Thus, item 6 in Appendix IX of the second EC notification was maintained
+but was renumbered as item 7. Item 6 was newly added.
+
+5. Before we go into the challenge to the impugned notification, we must note here that items 6 and
+7 were substituted by further notification dated 30th August 2023 (for short, ‘amended impugned
+notification’) issued during the pendency of these appeals. Substituted items 6 and 7 in the amended
+impugned notification read thus:
+
+“6. Extraction or sourcing or borrowing of ordinary earth for the linear projects such
+as roads, pipelines, etc. shall be subject to the compliance of standard operating
+procedures and environmental safeguards issued in this regard from time to time.
+
+7. Dredging and de-silting of dams, reservoirs, weirs, barrages, river and canals for
+the purpose of their maintenance, upkeep and disaster management shall be subject
+to the compliance of environmental safeguards issued in this regard from time to
+time.”
+
+6. The impugned notification was challenged on several grounds before the NGT by filing the
+Original Application subject matter of these appeals. Apart from other grounds, it was contended
+that the impugned notification violated the directions issued by this Court in the case of Deepak
+Kumar & Ors. v. State of Haryana & Ors1. Even the ground that the impugned notification was
+arbitrary and violative of Article 14 of the Constitution of India was invoked. We must note that in
+the Original Application, the specific challenge was only to item 6 of the impugned notification.
+
+7. By the impugned judgment, it was held that the exemption under item 6 should strike a balance.
+The finding recorded on this aspect in paragraph 8 of the impugned judgment reads thus:
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+3
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+“8. The second issue is exemption from requirement of EC for extraction or sourcing
+or borrowing of ordinary earth for the linear projects such as roads, pipelines, etc and
+for dredging and de- silting of dams, reservoirs, weirs, barrages, river and canals for
+the purpose of their maintenance, upkeep and disaster management. It is possible to
+take a view that the EC can be exempted for these situations on account of
+assessment already made or for extraction of earth for linear project but such blanket
+exemption must be balanced by sustainable development concept. The exemption
+should strike balance and instead of being blanket exemption, it needs to be hedged
+by appropriate safeguards such as the process of excavation and quantum.
+
+Similarly, in respect of item 7, safeguards are required to be incorporated in terms of
+disposal of dredged material. These aspects are not shown to have been considered
+and the reply does not provide any (2012) 4 SCC 629 explanation thereon. Learned
+counsel for the MoEFCC is also unable to provide any justification why these aspects
+be not addressed and incorporated in the notification for ensuring sustainable
+development concept which is required to be enforced by this Tribunal under section
+20 read with section 15 of the NGT Act, 2010.” (emphasis added) Accordingly, the
+Original Application was disposed of by directing the Ministry of Environment,
+Forest and Climate Change (for short, ‘MoEF&CC’) to revisit the impugned
+notification within three months. An application for review was filed, which was
+dismissed by the second impugned order dated 24th December 2020.
+
+8. Notice was ordered to be issued on 13th December 2021 on the appeals. On 10th August 2023,
+submissions were heard, and the judgment was reserved. After the judgment was reserved, the
+respondent-Union of India filed an affidavit of Dr Sujit Kumar Bajpayee, Joint Secretary,
+MoEF&CC, dated 12th September 2023. Along with the affidavit, two documents were also filed on
+record. The first document was the Office Memorandum dated 21st August 2023 issued by the
+MoEF&CC, purportedly laying down the enforcement mechanism for items 6 and 7 in the impugned
+notification. The second document brought on record was the amended impugned notification. In
+view of the issuance of the amended impugned notification, even after the verdict was reserved, the
+parties were permitted to make further submissions on the legality and validity of the amended
+impugned notification.
+
+SUBMISSIONS
+
+9. The learned senior counsel appearing for the appellant submitted that the object of the EP Act is
+to provide for the protection and improvement of the environment. She invited our attention to
+Section 3 of the EP Act, which confers a power on the Central Government to take such measures as
+it deems necessary or expedient for protecting and improving the quality of the environment and
+preventing and abating environmental pollution. She pointed out that the first EC notification was
+issued in the exercise of powers conferred under sub-section (1) and clause (v) of sub-section (2) of
+Section 3 of the EP Act. Clause (v) empowers the Central Government to take measures for
+restrictions of the areas, in which any industries, operations or processes or class of industries,
+operations or processes shall not be carried out or shall be carried out subject to certain safeguards.
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+4
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+She also invited our attention to the EP Rules and, in particular, Rule 5 thereof. It lays down that the
+Central Government may consider the factors set out in sub-rule (1) while prohibiting or restricting
+the location of industries and carrying out operations and processes in different areas. She pointed
+out that before issuing the first EC notification, the process laid down in sub-rule (3) of Rule 5 was
+followed.
+
+10. The learned senior counsel invited our attention to a decision of this Court in the case of
+Hanuman Laxman Aroskar v. Union of India2. She also relied upon a decision of this Court in the
+case of Deepak Kumar1. She pointed out that as a result of item 6, there will not be any regulation of
+the extraction of ordinary earth for utilisation in linear projects, such as, roads, pipelines, etc. She
+submitted that such a blanket exemption will defeat the very object of enacting the EP Act and, in
+particular, Section 3 thereof. She submitted that the decision of this Court in the case of Deepak
+Kumar1 and subsequent decisions mandated that there must be a requirement to obtain EC for the
+minor minerals pertaining to materials used for linear projects. The learned senior counsel
+submitted that allowing the extraction of the earth in such an indiscriminate manner is wholly
+arbitrary and violative of Article 14 of the Constitution of India.
+
+11. Inviting our attention to the amended impugned notification, the learned senior counsel pointed
+out that the substituted item 6 provides that extraction of ordinary earth for linear projects shall be
+subject to compliance with the Standard Operating Procedure (SOP) and safeguards issued in this
+regard from time to time. Thus, the exemption remains. However, an SOP will be laid down to avail
+the exemption. She urged that the substituted item 6 is more arbitrary.
+
+12. The learned senior counsel also pointed out that the whole issue was directed to be reconsidered
+under the impugned judgment. But nothing has been placed on record to (2019) 15 SCC 401 show
+that the Central Government made reconsideration in true letter and spirit.
+
+13. The learned senior counsel pointed out that the decision of this Court in the case of Deepak
+Kumar1 still holds the field, which directs that the leases of minor minerals, including their renewal
+for an area less than 5 hectares, shall be granted by the States/Union territories only after getting
+EC. She submitted that the impugned notification and the amended impugned notification, insofar
+as item 6 is concerned, are completely contrary to the directions issued by this Court in Deepak
+Kumar1. She also urged that before publishing the draft of the impugned notification, objections to
+the draft notification were not invited. She submits that this action contravenes the provisions of
+sub-rule (3) of Rule 5 of the EP Rules.
+
+14. The learned Additional Solicitor General appearing on behalf of the respondent – Union of India,
+submitted that in view of the insertion of Section 8B in the Mines and Minerals (Development and
+Regulation) Act, 1957 (for short, ‘the MMDR Act’), the amendment to the first EC notification was
+required to be made. Our attention was invited to Section 8B, incorporated on 13th March 2020 and
+amended Section 8B, effective from 28th March 2021. She submits that the provisions of the first EC
+notification must conform with the amended provisions of the MMDR Act, and therefore, the
+amendments were necessitated. She also pointed out that in terms of the impugned order, the
+matter was placed before the Expert Appraisal Committee (EAC), non-coal mining and EAC,
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+5
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+MoEF&CC and others in a meeting. Thereafter, the issue was deliberated in the meeting convened
+on 30th June 2022 under the chairmanship of the Joint Secretary of the concerned department. She
+invited our attention to the minutes of the said meeting held on 30th June 2022. She submitted that
+the ultimate endeavour is to uphold the principles of sustainable development. Relying upon the
+amended impugned notification, she submitted that now the exemption granted by items 6 and 7
+cannot be said to be arbitrary, and it will be subject to compliance with the SOP issued on this behalf
+from time to time. Therefore, safeguards have been introduced, and the exemption is not blanket.
+She also pointed out that the Office Memorandum dated 21st August 2023 takes care of the
+safeguards. It was also submitted that the grant of exemption from the first EC notification is a
+matter of policy for the Central Government and no interference be called for with policy matters.
+
+CONSIDERATION OF SUBMISSIONS
+
+15. We have carefully considered the submissions. The EP Act was brought into force on 19th
+November 1986. The statement of objects and reasons of the EP Act specifically refers to the
+substantive decline in environmental quality due to increasing pollution, loss of vegetal cover, etc. It
+also notes the growing risk of environmental accidents and threats to life support systems. It refers
+to the decisions taken at the United Nations Conference on the Human Environment held in
+Stockholm in June 1972. In the said Conference, the world communities resolved to protect and
+enhance the environmental quality. Clause (3) of the statement of objects and reasons reads thus:
+
+“(3) In view of what has been stated above, there is urgent need for the enactment of
+a general legislation on environmental protection which inter alia, should enable co-
+
+                               ordination of activities of the
+                               various      regulatory      agencies,
+                               creation    of   an    authority    or
+                               authorities with advocate powers
+                               for    environmental       protection,
+                               regulation     of     discharge     of
+                               environmental       pollutants    and
+
+handling of hazardous substances, speedy response in the event of accidents
+threatening environment and deterrent punishment to those who endanger human
+environment, safety and health.” (emphasis added) Even from the preamble of the EP
+Act, it is apparent that the object is to provide protection to the environment and to
+improve the environment. Section 3 of the EP Act confers power on the Central
+Government to take measures to protect and improve the environment. Sub-sections
+(1) and (2) of Section 3 read thus:
+
+“3. Power of Central Government to take measures to protect and improve
+environment.-
+
+(1) Subject to the provisions of this Act, the Central Government, shall have the
+power to take all such measures as it deems necessary or expedient for the purpose of
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+6
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+protecting and improving the quality of the environment and preventing controlling
+and abating environmental pollution. (2) In particular, and without prejudice to the
+generality of the provisions of sub-section (1), such measures may include measures
+with respect to all or any of the following matters, namely:--
+
+(i) co-ordination of actions by the State Governments, officers and other authorities--
+
+(a) under this Act, or the rules made thereunder, or
+
+(b) under any other law for the time being in force which is relatable to the objects of
+this Act;
+
+                                   (ii) planning and execution of a
+                                   nation-wide programme for the
+                                   prevention,      control    and
+                                   abatement     of   environmental
+                                   pollution;
+
+(iii) laying down standards for the quality of environment in its various aspects;
+
+(iv) laying down standards for emission or discharge of environmental pollutants
+from various sources whatsoever: Provided that different standards for emission or
+discharge may be laid down under this clause from different sources having regard to
+the quality or composition of the emission or discharge of environmental pollutants
+from such sources;
+
+(v) restriction of areas in which any industries, operations or processes or class of
+industries, operations or processes shall not be carried out or shall be carried out
+subject to certain safeguards;
+
+(vi) laying down procedures and safeguards for the prevention of accidents which
+may cause environmental pollution and remedial measures for such accidents;
+
+(vii) laying down procedures and safeguards for the handling of hazardous
+substances;
+
+(viii) examination of such manufacturing processes, materials and substances as are
+likely to cause environmental pollution;
+
+(ix) carrying out and sponsoring investigations and research relating to problems of
+environmental pollution;
+
+(x) inspection of any premises, plant, equipment, machinery, manufacturing or other
+processes, materials or substances and giving, by order, of such directions to such
+authorities, officers or persons as it may consider necessary to take steps for the
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+7
+
+prevention, control and abatement of environmental pollution;
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+(xi) establishment or recognition of environmental laboratories and institutes to
+carry out the functions entrusted to such environmental laboratories and institutes
+under this Act;
+
+(xii) collection and dissemination of information in respect of matters relating to
+environmental pollution;
+
+(xiii) preparation of manuals, codes or guides relating to the prevention, control and
+abatement of environmental pollution;
+
+(xiv) such other matters as the Central Government deems necessary or expedient for
+the purpose of securing the effective implementation of the provisions of this Act.”
+(emphasis added) Section 3 of the EP Act must be read with Rule 5 of the EP Rules.
+Rule 5 has been enacted to give effect to clause (v) of sub-section (2) of Section 3 of
+the EP Act, which empowers the Central Government to put restrictions on the areas
+in which industries, operations or processes shall not be carried out or shall be
+carried out subject to certain safeguards. Rule 5 of the EP Rules reads thus:
+
+“5. Prohibition and Restriction on the location of industries and the carrying on
+processes and operations in different areas.
+
+(1) The Central government may take into consideration the following factors while
+prohibiting or restricting the location of industries and carrying on of processes and
+operations in different areas-
+
+(i) Standards for quality of environment in its various aspects laid down for an area.
+
+(ii) The maximum allowable limits of concentration of various environmental
+pollutants (including noise) for an area.
+
+(iii) The likely emission or discharge of environmental pollutants from an industry,
+process or operation proposed to be prohibited or restricted.
+
+(iv) The topographic and climatic features of an area.
+
+(v) The biological diversity of the area which, in the opinion of the Central
+Government needs to be preserved.
+
+(vi) Environmentally compatible land use.
+
+(vii) Net adverse environmental impact likely to be caused by an industry, process or
+operation proposed to be prohibited or restricted.
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+8
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+(viii) Proximity to a protected area under the Ancient Monuments and Archaeological
+Sites and Remains Act, 1958 or a sanctuary, National Park, game reserve or closed
+area notified as such under the Wild Life (Protection) Act, 1972 or places protected
+under any treaty, agreement or convention with any other country or countries or in
+pursuance of any decision made in any international conference, association or other
+body.
+
+(ix) Proximity to human settlements.
+
+(x) Any other factor as may be considered by the Central Government to be relevant
+to the protection of the environment in an area.
+
+(2) While prohibiting or restricting the location of industries and carrying on of
+processes and operations in an area, the Central Government shall follow the
+procedure hereinafter laid down.
+
+(3) (a) Whenever it appears to the Central Government that it is expedient to impose
+prohibition or restrictions on the locations of an industry or the carrying on of
+processes and operations in an area, it may by notification in the Official Gazette and
+in such other manner as the Central Government may deem necessary from time to
+time, give notice of its intention to do so.
+
+(b) Every notification under clause
+
+(a) shall give a brief description of the area, the industries, operations, processes in
+that area about which such notification pertains and also specify the reasons for the
+imposition of prohibition or restrictions on the locations of the industries and
+carrying on of process or operations in that area.
+
+(c) Any person interested in filing an objection against the imposition of prohibition
+or restrictions on carrying on of processes or operations as notified under clause
+
+(a) may do so in writing to the Central Government within sixty days from the date of
+publication of the notification in the Official Gazette.
+
+(d) The Central Government shall within a period of one hundred and twenty days
+from the date of publication of the notification in the Official Gazette consider all the
+objections received against such notification and may within 1 [three hundred and
+sixty-five days] from such day of publication] impose prohibition or restrictions on
+location of such industries and the carrying on of any process or operation in an area.
+
+(4) Notwithstanding anything contained in sub-rule (3), whenever it appears to the
+Central Government that it is in public interest to do so, it may dispense with the
+requirement of notice under clause (a) of sub-rule (3).” (emphasis added) SCOPE OF
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+9
+
+ADJUDICATION
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+16. As far as the scope of adjudication in these appeals is concerned, it is necessary to refer to the
+Original Application no.190 of 2020 filed by the appellant. There were three prayers made in the
+said Original Application, which read thus:
+
+“(a) Pass an Order quashing newly inserted Clause 6 of the Impugned Notification
+dated 28.03.2020 as being violative of Article 14 and 21 of the Constitution of India,
+ultra vires the provisions of the EPA Act, 1986, the EIA Notification dated
+14.09.2006, and in further violation of the Judgment passed by the Hon’ble Supreme
+Court in the Deepak Kumar case (supra);
+
+(b) Pass an appropriate Order quashing the Impugned Notification dated 28.03.2020
+as being violative of the principles of Polluter Pay, Non-
+
+regression, sustainable development and Precautionary Principle;
+
+(c) Pass an appropriate Order directing the Respondent not to allow any mining of ordinary earth
+without a prior environmental clearance.” From the prayers mentioned above in clauses (a) to (c), it
+is apparent that the specific challenge was to item 6. Regarding clause (b), perhaps the only ground
+of challenge taken in the application was that no public interest was involved in exercising the power
+under sub-rule (4) of Rule 5 of the EP Rules for dispensing with public notice.
+
+17. After perusal of the impugned judgment, we find that the submissions made by the learned
+counsel appearing for the appellant before the NGT were not recorded therein. The order dated 29th
+June 2021 passed by this Court in the present appeals is relevant, which reads thus:
+
+“X(name masked), learned senior counsel appearing for the appellant, submits that
+the learned counsel appearing for the appellant before the National Green Tribunal
+argued that exemption could not have been granted by the Notification of the
+Ministry of Environment, Forest and Climate Change which has not been considered
+by the Tribunal. Y(name masked), learned counsel who appeared before the Tribunal,
+is directed to file an affidavit that he, in fact, raised this point before the Tribunal
+during the course of hearing.
+
+List the matter after two weeks.” The advocate filed an affidavit dated 11th December
+2021. In paragraph 5(a) of the affidavit, he stated thus:
+
+“5. .. .. .. .. .. .. .. .. ..
+
+(a) That the OA No. 190/2020 was listed for hearing before the Hon'ble Tribunal by
+way of video conferencing on 28.10.2020. On that day the Deponent appeared before
+the Hon'ble Tribunal and was granted a hearing. During the course of the hearing the
+Deponent raised his submissions inter-alia including the fact that the Ministry of
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+10
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+Environment and Forests did not have the power to exempt the removal of ordinary
+earth from the purview of the EIA Notification and that the exemption as granted for
+the removal of ordinary earth was illegal and ultra vires the Environment Protection
+Act as well as the judgment of this Hon'ble Court in Deepak Kumar's Judgment. It is
+submitted that the aforesaid point was raised, however the Hon'ble Tribunal did not
+find merit in the said submission as is evident from the judgment dated 28.10.2020.”
+(emphasis added) Thus, the Advocate-on-Record stated in the affidavit that what was
+argued before the NGT was the challenge to the exemption granted for the removal of
+ordinary earth for linear projects.
+
+We may note here that item 7 in the substituted Appendix-IX brought on record by the impugned
+notification was already there as item 6 in Appendix-IX to the second EC notification dated 15th
+January 2016. The appellant did not challenge the notification dated 15th January 2016. Even if we
+set aside or strike down item 7 regarding dredging/desilting in the impugned notification, it will
+continue to exist as item 6 in the second EC notification. The second EC notification is not under
+challenge. Therefore, we restrict the challenge to item 6 in the substituted Appendix-IX to the
+impugned notification.
+
+CHALLENGE TO ITEM 6 IN THE IMPUGNED NOTIFICATION Failure to follow the procedure
+prescribed by sub-rule (3) of Rule 5
+
+18. We have already quoted Rule 5 of the EP Rules. There is no dispute that the first EC notification,
+the second EC notification and the impugned notification were issued in the exercise of powers
+under sub-rule (1) of Rule 5 of the EP Rules. Sub-rule (2) of Rule 5 provides that while passing an
+order prohibiting or restricting the location of industries and carrying on processes and operations,
+the Central Government shall follow the procedure laid down in Rule 5. Sub-rule (3) of Rule 5
+requires the Central Government to publish a notice of its intention to do so in the official Gazette
+and in such other manner as the Central Government deems fit. Any person interested is entitled to
+file objections against the proposed prohibition or restriction. The Central Government is required
+to consider the objections before issuing the final notification. The said procedure was followed
+before publishing the first EC notification.
+
+19. Sub-rule (4) of Rule 5 empowers the Central Government to dispense with the requirement of
+publication of notice under sub-rule (3) of Rule 5 when it appears to the Central Government that it
+is in the public interest to do so. Thus, sub-rule (4) of Rule 5 is an exception to sub-rule (3). The
+exception can be invoked only on the grounds of public interest.
+
+20. Now, we turn to the impugned notification dated 28th March 2020. The recitals of the said
+notification are important, which read thus:
+
+“S.O. 1224(E).—WHEREAS, vide the Mineral Laws (Amendment) Act, 2020 (2 of
+2020), the Mines and Minerals (Development and Regulation) Act, 1957 (67 of 1957)
+(hereinafter referred to as MMDR Act) has been amended with effect from the 10th
+day of January, 2020 and, inter alia, new section 8B relating to the provisions for
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+11
+
+transfer of statutory clearances has been inserted;
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+AND WHEREAS, sub-section (2) of section 8B of the MMDR Act provides that
+notwithstanding anything contained in this Act or any other law for the time being in
+force, the successful bidder of mining leases expiring under the provisions of sub-
+sections (5) and (6) of section 8A and selected through auction as per the procedure
+provided under this Act and the rules made thereunder, shall be deemed to have
+acquired all valid rights, approvals, clearances, licences and the like vested with the
+previous lessee for a period of two years;
+
+AND WHEREAS, sub-section (3) of section 8B of the MMDR Act provides that
+notwithstanding anything contained in any other law for the time being in force, it
+shall be lawful for the new lessee to continue mining operations on the land, in which
+mining operations were being carried out by the previous lessee, for a period of two
+years from the date of commencement of the new lease;
+
+AND WHEREAS, in pursuance of the aforesaid amendment to the MMDR Act, the
+Central Government deems it necessary to align the relevant provisions of the
+notification of the Government of India in the erstwhile Ministry of Environment and
+Forests number S.O. 1533 (E), dated the 14th September, 2006 (hereinafter referred
+to as the EIA Notification, 2006);
+
+AND WHEREAS, the Ministry of Environment, Forest and Climate Change is in the
+receipt of representations for waiver of requirement of prior environmental clearance
+for borrowing of ordinary earth for roads; and manual extraction of lime shells (dead
+shell), shrines, etc., within inter tidal zone by the traditional community;
+
+Now, therefore, in exercise of the powers conferred by sub-section (1) and clause (v) of sub-section
+(2) of section 3 of the Environment (Protection) Act, 1986 (29 of 1986), read with sub-rule (4) of
+rule 5 of the Environment (Protection) Rules, 1986, the Central Government, after having dispensed
+with the requirement of notice under clause
+
+(a) of sub-rule (3) of the rule 5 of the said rules, in public interest, and in supersession of the
+notification number S.O. 4307(E), dated the 29th November, 2019, hereby makes the following
+further amendments in the EIA Notification, 2006, namely:-
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. ..” (emphasis added) By the impugned notification, after
+sub-paragraph (2) of paragraph 11 of the first EC notification, sub-paragraph (3) was
+inserted to give effect to Sections 8A and 8B of the MMDR Act. An entry has been
+made in the Schedule against Item 1(a) in column (5) for inserting a clause dealing
+with the evacuation or removal and transportation of already mined out material.
+
+Appendix IX, which contains the list of projects exempted from obtaining EC, was
+substituted by the impugned notification.
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+12
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+21. We have quoted above the recitals of the impugned notification. The first three recitals refer to
+the necessity of giving effect to Sections 8A and 8B of the MMDR Act. Thereafter, the last recital
+refers to the Ministry receiving representations for waiver of the requirement of prior EC for
+borrowing of ordinary earth for roads. After that, without giving any details, it is mentioned that in
+the public interest, the requirement of publication of notice under sub-rule (3) of Rule 5 was
+dispensed with. At this stage, we may refer to the relevant ground specifically taken in the Original
+Application filed by the appellant before the NGT. Ground J was specifically taken on this aspect,
+which reads thus:
+
+“J. Because the Respondent has deliberately and ostensibly circumvented the
+requisite procedures before issuing the Impugned Notification, including evading
+previous publication, inviting public objections under Rule 5(3) of the EP Rules,
+1986, and by wrongly exercising its powers under Rule 5(4) of the EP Rules under the
+garb of "public interest" during the Covid-19 national lockdown without offering even
+a shred of reasoning for its actions. It is most respectfully submitted that the
+amendments brought forth by the Impugned Notification serve and further the
+interest of private miners and contractors, and the actions of ratifying such illegal
+and mala fide acts of disregard and disobedience to environmental norms is in fact
+against public interest at large.”
+
+22. We have carefully perused the counter affidavit filed by the MoEF&CC before the
+NGT. The said affidavit does not deal with Ground J at all. It does not specify or set
+out reasons for concluding that in the public interest, the requirement of publication
+of prior notice was needed to be dispensed with. It is pertinent to note that before the
+issue of the second EC notification by which Appendix-IX was incorporated, the
+procedure of inviting objections to the draft notification was followed, and the
+objections were considered. There is no reason to dispense with this important
+requirement before publishing the impugned notification. Article 21 guarantees a
+right to live in a pollution-free environment. The citizens have a fundamental duty to
+protect and improve the environment.
+
+Therefore, the participation of the citizens is very important, and it is taken care of by allowing them
+to raise objections to the proposed notification. After all, citizens are major stakeholders in
+environmental matters. Their participation cannot be prevented by casually exercising the power
+under sub-rule (4) of Rule 5.
+
+23. In the present appeals, the questions of law (e) and (f) have been incorporated regarding the
+illegal invocation of the power under sub-rule (4) of Rule 5 of the EP Rules. In the grounds of the
+challenge, ground EE has been taken explicitly on this aspect. We have perused the counter affidavit
+filed by the MoEF&CC in these appeals. We find from the counter affidavit that the contention
+raised regarding the illegal invocation of power under sub-rule (4) of Rule 5 has not been dealt with.
+We are not going into the question of whether it was necessary for the Central Government to
+specify reasons in the impugned notification itself why it came to the conclusion that in the public
+interest, the requirement of public notice should be dispensed with. However, the reasons for the
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+13
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+said conclusion ought to have been set out in the counter affidavit filed before the NGT or, at least,
+in the counter affidavit filed before this Court. The document recording the satisfaction of the
+competent authority about the existence of public interest and the nature of the public interest
+ought to have been produced by the Ministry. But, no such document was produced. Only one
+conclusion can be drawn. The drastic decision to invoke sub-rule (4) of Rule 5 was made without
+any application of the mind. Hence, the decision-making process has been vitiated.
+
+24. The impugned notification was issued two days after the nationwide lockdown was imposed due
+to the COVID-19 pandemic. At that time, the work of linear projects, such as roads, pipelines, etc.,
+had come to a grinding halt. So, there was no tearing hurry to modify the EC notifications. Apart
+from the fact that no reasons have been assigned in the counter affidavit filed by the Central
+Government for coming to the conclusion that in the public interest, the requirement of prior
+publication of notice was required to be dispensed with, we fail to understand the undue haste
+shown by the Central Government in issuing the impugned notification during the nationwide
+lockdown. Therefore, the inclusion of item 6 of the substituted Appendix-IX will have to be held
+illegal. We have already given reasons for not dealing with the challenge to item 7 of the impugned
+notification.
+
+ARBITRARINESS
+
+25. There is one more important ground for striking down item 6. But for item 6 in Appendix-IX to
+the impugned notification, for extraction, sourcing, or borrowing of ordinary earth for linear
+projects, prior EC would have been required in terms of the first EC notification. The very object of
+issuing the first EC notification incorporating the mandatory requirement of obtaining EC for
+projects was that the damage to the environment must be minimised while implementing projects.
+When an exception is sought to be carved out by incorporating Appendix-IX to the requirement of
+obtaining EC in the first EC notification, the exception must be specific. Item 6 grants exemption for
+“extraction or sourcing or borrowing of ordinary earth for linear projects, such as roads, pipelines,
+etc.” There is no specification about the quantum of ordinary earth, which can be extracted on the
+basis of the exemption. There is no specification of the area which can be used to extract ordinary
+earth. It is also not provided that only that quantity of ordinary earth, which is required to
+implement the linear projects, is exempted. Importantly, “linear projects” have not been defined.
+Without the definition, it is difficult to imagine which projects will be termed linear projects. The
+term “linear projects” is very vague. The process to be adopted for excavation has not been set out.
+Thus, item 6 is a case of completely unguided and blanket exemption, which is, per se, arbitrary and
+violative of Article 14 of the Constitution of India. There is no provision for setting up an authority
+which will decide whether a particular linear project is covered by item 6.
+
+26. As stated earlier, during the pendency of the appeals, an amendment was made to item 6 by the
+notification dated 30th August 2023. Even the amended impugned notification does not elaborate
+on the concept of linear projects. The only addition to item 6 is that the extraction, sourcing or
+borrowing shall be subject to compliance with SOP and environmental safeguards issued in this
+regard from time to time. The authority to issue the SOP and environmental safeguards has not
+been specified. No provision has been made to enforce the SOP and environmental safeguards. No
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+14
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+restriction is imposed on the quantum of ordinary earth, which can be extracted for linear projects.
+Therefore, even the amended item 6 continues to suffer from the same vice of arbitrariness, which
+Article 14 of the Constitution of India prohibits.
+
+27. The learned Additional Solicitor General placed reliance on the Office Memorandum dated 21st
+August 2023. It provides that before carrying on activities mentioned in entry 6, the project
+proponents must notify the State Pollution Control Board/Pollution Control Committees. The State
+Pollution Control Boards are required to monitor the compliance status of the SOP/environmental
+safeguards. As entry 6 is arbitrary, the Office Memorandum is of no consequence. Hence, on account
+of the violation of Article 14, item 6 in the impugned notification, as well as the amended impugned
+notification, will have to be struck down. As noted earlier, the object of the EP Act is to protect and
+improve the environment. Apart from the illegality committed by non-compliance with sub-rule (3)
+of Rule 5 of the EP Rules, the exemption granted without incorporating any safeguards is completely
+unguided and arbitrary. Grant of such blanket exemption completely defeats the very object of the
+EP Act.
+
+NON-COMPLIANCE WITH THE DIRECTIONS OF THE NGT
+
+28. In paragraph 8 of the impugned order, which we have quoted earlier, the NGT observed that the
+blanket exemption needs to be hedged by appropriate safeguards, such as, the process of excavation
+and quantum. Therefore, in paragraph 9, a direction was issued to MoEF&CC to revisit the
+impugned notification in the light of the observations made in paragraph
+
+8. Within the three months provided by the NGT to do so, no steps had been taken to revisit item 6
+of the impugned notification.
+
+29. The Ministry has filed an additional affidavit dated 18th July 2023, and reliance has been placed
+on the guidelines for sand mining. As far as item 6 is concerned, in the counter affidavit, reliance
+was placed on the Office Memorandum dated 8th August 2022, purportedly issued in terms of the
+directions issued in paragraph 9 of the impugned judgment. It records that item 6 shall be subject to
+the SOP attached to the said Office Memorandum. We have perused the said SOP. We find that the
+SOP creates no regulatory machinery to ensure the implementation of the terms of the SOP. The
+SOP does not refer to item 6 at all; it merely refers to the activities relating to the identification to
+borrow areas to obtain earth or soil materials. It does not refer to extracting ordinary earth for linear
+projects, such as roads, pipelines, etc. Therefore, the said SOP can hardly be said to be in terms of
+what the NGT ordered the Central Government to do in terms of paragraphs 8 and 9.
+
+30. We are not entertaining a challenge to item 7 of the impugned notification. As none of the
+respondents have challenged the impugned notification, they will have to implement the directions
+issued in terms of paragraph 9 of the impugned judgment regarding item 7.
+
+31. Thus, notwithstanding the specific directions issued in paragraph 8 read with paragraph 9 of the
+impugned judgment, no safeguards have been provided, such as laying down processes, the mode
+and the manner of excavation and quantum.
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+15
+
+Noble M Paikada vs Union Of India on 21 March, 2024
+
+32. Therefore, we have no hesitation in striking down item 6 of the substituted Appendix-IX forming
+part of the impugned notification dated 28th March 2020 and item 6 of the amended impugned
+notification dated 30th August 2023. Accordingly, we quash item 6 in the two notifications above.
+
+33. The appeals are, accordingly, partly allowed on above terms. There will be no order as to costs.
+
+….…………………….J. (Abhay S. Oka) …..…………………...J. (Sanjay Karol) New Delhi;
+
+March 21, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/96867209/
+
+16
+
+

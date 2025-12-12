@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No 4000 of 2019",
+  "parties": {
+    "petitioner": "Samruddhi Co-operative Housing Society Ltd.",
+    "respondent": "Mumbai Mahalaxmi Construction Pvt. Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-11",
+  "summary": "The appeal challenged the NCDRC's dismissal of a consumer complaint on grounds of limitation and maintainability. The appellant, a housing society, claimed reimbursement of excess property tax and water charges paid due to the respondent builder's failure to obtain an occupancy certificate. The NCDRC held the complaint was time-barred and not maintainable as the builder was not the service provider. The Supreme Court examined whether there was a continuing cause of action due to ongoing deficiency and if the appellant qualified as a consumer under Section 2(1)(d) of the Consumer Protection Act 1986. It also considered the applicability of limitation under Section 24A and the legal effect of the builder's duty under MOFA to obtain the occupancy certificate.",
+  "legal_provisions_cited": [
+    "Section 2(1)(d), Consumer Protection Act 1986",
+    "Section 24A, Consumer Protection Act 1986",
+    "Section 6, Maharashtra Ownership Flats Act 1963",
+    "Section 12, Maharashtra Ownership Flats Act 1963"
+  ],
+  "final_judgment": "The appeal was allowed. The Supreme Court held that the failure to obtain an occupancy certificate constituted a continuing deficiency in service, rendering the cause of action ongoing. It found the complaint not barred by limitation and held that the builder could be held liable as a service provider under the Consumer Protection Act. The impugned order of the NCDRC was set aside, and the matter was remanded for adjudication on merits."
+}

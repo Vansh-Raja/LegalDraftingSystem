@@ -1,0 +1,22 @@
+{
+  "case_number": "Civil Appeal No. 7451 of 2021",
+  "parties": {
+    "petitioner": "The Rajasthan Marudhara Gramin Bank & Anr.",
+    "respondent": "Ramesh Chandra Meena & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-04",
+  "summary": "The appeal challenged the High Court's judgment allowing the respondent to be represented by a retired bank officer in a departmental inquiry. The bank argued that service regulations (Regulation 2010) and the Handbook of Vigilance Administration restrict defense representation to serving employees only, and do not permit retired officers or legal practitioners without restrictions. The High Court upheld the Single Judge’s order permitting representation by a retired employee, relying on the absence of an explicit prohibition. The appellant contended that allowing ex-employees as defense representatives could lead to confidentiality breaches, disorder, and delays. The Supreme Court examined whether the High Court erred in reading down Regulation 44 and in not respecting the bank's internal service regulations and vigilance guidelines.",
+  "legal_provisions_cited": [
+    "Regulation 44 of Rajasthan Marudhara Gramin Bank (Officers and Employees) Service Regulation, 2010",
+    "Regulation 8.2 of Handbook of Vigilance Administration & Disciplinary Action",
+    "P. Raghava Kurup & Anr. v. V. Ananthakumari & Anr., (2007) 9 SCC 179",
+    "N. Kalindi & Ors. v. Tata Locomotive & Engg. Co. Ltd, (1960) 3 SCR 407",
+    "National Seeds Corporation Limited vs. K.V. Rama Reddy, (2006) 11 SCC 645",
+    "Bharat Petroleum Corporation Limited v. Maharashtra General Kamgar Union & Ors., (1999) 1 SCC 626",
+    "Cipla Limited & Ors v. Ripu Daman Bahnot & Anr., (1999) 4 SCC 188",
+    "Crescent Dyes & Chemicals Limited v. Ram Naresh Tripathi, (1993) 2 SCC 115",
+    "Indian Overseas Bank vs. Indian Overseas Bank Officer’s Association and Another, (2001) 9 SCC 540"
+  ],
+  "final_judgment": "The appeal was allowed, and the High Court's judgment directing the bank to permit representation by a retired employee was set aside. The Court held that the right to representation is governed strictly by service regulations, which permit only serving employees as defence representatives. The impugned direction was found to be contrary to the Regulation 8.2 of the Handbook and the restrictive intent of Regulation 44, thereby interfering with the bank's disciplinary authority."
+}

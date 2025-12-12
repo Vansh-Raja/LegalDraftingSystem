@@ -1,0 +1,27 @@
+{
+  "case_number": "Criminal Appeal No. 70 of 2022",
+  "parties": {
+    "petitioner": "Ishwarji Nagaji Mali",
+    "respondent": "State of Gujarat and another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-18",
+  "summary": "The appeal challenges the Gujarat High Court's order granting bail to respondent no.2, the accused in a murder case. The prosecution alleged that the accused conspired to kill his wife for monetary gains through insurance, using a hired driver to hit her with a car, initially reported as an accident. Investigation revealed call records linking the accused and co-accused prior to the incident, supporting a criminal conspiracy under Sections 302, 120(B), and 114 IPC. The High Court granted bail, citing circumstantial evidence and the accused's societal roots. The Supreme Court examined whether this decision ignored the gravity of the offense, the strength of material evidence, and settled bail principles.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 120(B) IPC",
+    "Section 114 IPC",
+    "Section 304A IPC",
+    "Section 177 Motor Vehicles Act",
+    "Section 184 Motor Vehicles Act",
+    "Section 134 Motor Vehicles Act",
+    "Section 439 Cr.P.C.",
+    "Article 21 of the Constitution of India",
+    "Ramesh Bhavan Rathod v. Vishanbhai Hirabhai Makwana (Koli), (2021) 6 SCC 630",
+    "Bhoopendra Singh v. State of Rajasthan & another",
+    "Mahipal v. Rajesh Kumar, (2020) 2 SCC 118",
+    "Gudikanti Narasimhulu & Ors. v. Public Prosecutor, (1978) 1 SCC 240",
+    "Prahlad Singh Bhati v. NCT of Delhi & ORS, (2001) 4 SCC 280"
+  ],
+  "final_judgment": "The appeal is allowed. The impugned order of the High Court granting bail to respondent no.2 is set aside. The respondent no.2 shall surrender to custody forthwith and the trial court may consider any future bail application on its merits."
+}

@@ -1,0 +1,24 @@
+{
+  "case_number": "Criminal Appeal No.1656 of 2022 [Arising out of SLP (Crl.) No. 7696 of 2021]",
+  "parties": {
+    "petitioner": "Jigar @ Jimmy Pravinchandra Adatiya",
+    "respondent": "State of Gujarat"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-23",
+  "summary": "The appellants challenged orders extending the investigation period from 90 to 180 days under Section 20(2) of the Gujarat Control of Terrorism and Organised Crime Act, 2015, arguing that the extension was granted without their presence or notice, violating the mandate established in Sanjay Dutt v. State through CBI. The key issue was whether procedural compliance with production of the accused before the Special Court during consideration of extension reports is mandatory. The Court examined precedents including Hitendra Vishnu Thakur and Sanjay Dutt, reaffirming that failure to produce the accused or inform them invalidates the extension. The appellants sought default bail under Section 167(2) of CrPC, which they contended accrued upon expiry of 90 days due to non-compliance. The Court emphasized that the right to default bail is linked to Article 21 and must be protected against arbitrary detention.",
+  "legal_provisions_cited": [
+    "Section 167(2) CrPC",
+    "Section 20(2) of The Gujarat Control of Terrorism and Organised Crime Act, 2015",
+    "Article 21 of the Constitution of India",
+    "Sanjay Dutt v. State through CBI, Bombay (II) [(1994) 5 SCC 410]",
+    "Hitendra Vishnu Thakur v. State of Maharashtra [(1994) 4 SCC 602]",
+    "Ateef Nasir Mulla v. State of Maharashtra",
+    "Sanjay Kumar Kedia Alias Sanjay Kedia v. Intelligence Officer, Narcotics Control Bureau",
+    "S. Kasi v. State through the Inspector of Police",
+    "Bikramjit Singh v. State of Punjab",
+    "M. Ravindran v. Intelligence Officer, Directorate of Revenue Intelligence",
+    "Muzammil Pasha & Ors. v. National Investigating Agency"
+  ],
+  "final_judgment": "Leave granted. The orders extending the investigation period beyond 90 days passed by the Special Court without procuring the presence of the accused or informing them were declared illegal. The appellants were entitled to default bail under Section 167(2) of CrPC as the statutory period expired without a valid extension. The appeals were allowed, and the respondents were directed to release the appellants on default bail unless already released."
+}

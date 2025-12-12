@@ -1,0 +1,17 @@
+{
+  "case_number": "CIVIL APPEAL NOS. 7467-7470 OF 2014",
+  "parties": {
+    "petitioner": "Salem Muslim Burial Ground Protection Committee",
+    "respondent": "State of Tamil Nadu and Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-18",
+  "summary": "The appeals challenge the Madras High Court's judgment overturning a single judge's order declaring the suit land (Zamin Survey No. 5108 / O.T.S. 2210, now T.S. Nos. 113 & 70) as wakf property. The main issue was whether the land, claimed as a Muslim burial ground, could be assigned under Section 19A of the Tamil Nadu Estates (Abolition & Conversion into Ryotwari) Act, 1948. The High Court held the land was not used as a burial ground and lacked dedication as wakf. The Supreme Court examined historical use, records, and the principle that burial ground character persists despite non-use. It emphasized absence of burial evidence and upheld that the land was not wakf, allowing private possession under equitable considerations and Section 19A if claimants were bona fide purchasers.",
+  "legal_provisions_cited": [
+    "Section 11(a), Tamil Nadu Estates (Abolition & Conversion into Ryotwari) Act, 1948",
+    "Section 19A, Tamil Nadu Estates (Abolition & Conversion into Ryotwari) Act, 1948",
+    "Section 20A, Madras Estates Land Act, 1908",
+    "Madras Act 26 of 1948"
+  ],
+  "final_judgment": "The appeals were disposed of, upholding the High Court's judgment that the suit land is not wakf property and affirming the rights of claimants under Section 19A of the Abolition Act, subject to bona fide acquisition and private use."
+}

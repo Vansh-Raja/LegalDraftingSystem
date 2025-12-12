@@ -1,0 +1,1225 @@
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on
+12 October, 2022
+
+Author: S. Ravindra Bhat
+
+Bench: Sudhanshu Dhulia, S. Ravindra Bhat, Uday Umesh Lalit
+
+1
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO. 2833 OF 2016
+
+CHECKMATE SERVICES P. LTD.                           …APPELLANT(S)
+
+VERSUS
+
+COMMISSIONER OF INCOME TAX-1                       …RESPONDENT(S)
+
+WITH
+C.A. No. 2830/2016
+C.A. No.159/2019
+C.A. No.2832/2016
+C.A. No.2831/2016
+C.A. _____________________2022
+(Arising out of SLP(C) No.23388/2019)
+C.A._____________________2022
+Arising out of SLP(C) No.23295/2019
+C.A. ____________________2022
+(Arising out of SLP(C) Nos.4971-4973/2020)
+C.A. _____________________2022
+(Arising out of SLP(C) No.4241/2020)
+C.A. _____________________2022
+(Arising out of SLP(C) No.17739/2019)
+C.A. _____________________2022
+(Arising out of SLP(C) No.3250/2019)
+C.A. _____________________2022
+(Arising out of SLP(C) No.1358/2019)
+C.A. _____________________2022
+(Arising out of SLP(C) No.25483/2019)
+C.A. _____________________2022
+Signature Not Verified
+(Arising out of SLP(C) No.32361/2015)
+Digitally signed by
+
+1
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+C.A. _____________________2022
+SWETA BALODI
+Date: 2022.10.13
+10:56:35 IST
+Reason:
+(Arising out of SLP(C) No.24548/2016)
+(cid:12)                                                       2
+
+JUDGMENT
+
+S. RAVINDRA BHAT, J.
+
+1. Leave granted. Berger Paints India Ltd. v Commissioner of Income Tax, Kolkata-IV & Anr.1 was
+the lead matter while hearing this batch of appeals. However, the parties agreed to treat Checkmate
+Services Pvt. Ltd. v Commissioner of Income Tax-I2 as the lead appeal, for convenience. In all these
+appeals, the common question involved is with respect to the interpretation of Section 36(1)(va) and
+Section 43B of the Income Tax Act, 1961 (hereinafter, “IT Act”), and whether the appellant assessees
+are entitled to deduction of amounts deposited by them towards contribution in terms of The
+Employees’ Provident Funds and Miscellaneous Provisions Act, 1952 (hereinafter, “EPF Act”), The
+Employees’ Provident Funds Scheme, 1952 (hereinafter, “EPF Scheme”), The Employees’ State
+Insurance Act, 1948 (hereinafter, “ESI Act”), The Employees’ State Insurance (Central) Regulations,
+1950 (hereinafter, “ESI Regulations”) or any other provident or superannuation fund.
+
+2. In the years under consideration, the Assessing Officers (hereinafter, “AO”) had ruled that the
+appellants had belatedly deposited their employees’ contribution towards the EPF and ESI,
+considering the due dates under the relevant acts and regulations. Consequently, the AO ruled that
+by virtue of Section 36(1)(va) read with Section 2(24)(x) of the IT Act, such sums received by the
+appellants constituted “income”. Those amounts could not have been allowed as deductions under
+Section 36(1)(va) of the IT Act when the payment was made beyond the relevant due date under the
+respective acts. In other words, as per the AO, as such sums were paid beyond the due dates as
+prescribed under the respective acts, the right to claim such sums as allowable deduction while
+Berger Paints India Ltd. v Commissioner of Income Tax, Kolkata-IV & Anr., Civil Appeal No. 2830
+of 2016.
+
+Checkmate Services Pvt. Ltd. v Commissioner of Income Tax-I, C.A. No. 2383 of 2016.
+
+computing the income was lost forever. The assessees’ pleas were unsuccessful before the Income
+Tax Appellate Tribunal (hereafter, “ITAT”). Ultimately, in the case of the impugned judgment, the
+Gujarat High Court too rejected its pleas.3
+
+3. Noticing a division of opinion on the issue, with the High Courts of Bombay, Himachal Pradesh,
+Calcutta, Guwahati and Delhi favouring the interpretation beneficial to the assesses on the one
+hand, and the High Courts of Kerala and Gujarat preferring the interpretation in favour of the
+Revenue on the other, this court granted special leave to appeal in all these cases.
+
+2
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+The relevant statutory provisions of the IT Act
+
+4. The relevant provisions of the IT Act, with amendments, made from time to time, are as extracted
+below:
+
+“Section 2. Definitions.
+
+In this Act, unless the context otherwise requires, - *** (24) "income" includes --
+
+***
+
+(x) any sum received by the assessee from his employees as contributions to any
+provident fund or superannuation fund or any fund set up under the provisions of the
+Employees' State Insurance Act, 1948 (34 of 1948), or any other fund for the welfare
+of such employees;…”4 *** “Section 36. Other deductions.
+
+(1) The deductions provided for in the following clauses shall be allowed in respect of
+the matters dealt with therein, in computing the income referred to in section 28- ***
+
+(iv) any sum paid by the assessee as an employer by way of contribution towards a
+recognized provident fund or an approved superannuation fund, subject to such
+limits as may be prescribed for the purpose of recognizing the provident fund or
+approving the superannuation fund, as the case may be; and subject to such
+conditions as the Board may think fit to specify in cases where the contributions
+Commissioner of Income Tax-I v Checkmate Services P. Ltd., Tax Appeal No. 680 of
+2014, dated 14.10.2014.
+
+Inserted by the Finance Act, 1987 (11 of 1987), w.e.f. 01.04.1988.
+
+are not in the nature of annual contributions of fixed amounts or annual contributions fixed on
+some definite basis by reference to the income chargeable under the head “Salaries” or to the
+contributions or to the number of members of the fund;” *** (va) any sum received by the assessee
+from any of his employees to which the provisions of sub-clause (x) of clause (24) of section 2 apply,
+if such sum is credited by the assessee to the employee's account in the relevant fund or funds on or
+before the due date.
+
+Explanation 1. -For the purposes of this clause, "due date" means the date by which the assessee is
+required as an employer to credit an employee's contribution to the employee's account in the
+relevant fund under any Act. rule, order or notification issued thereunder or under any standing
+order, award, contract of service or otherwise.” Explanation 2.-For the removal of doubts, it is
+hereby clarified that the provisions of section 43B shall not apply and shall be deemed never to have
+been applied for the purposes of determining the "due date" under this clause.”5 (Emphasis
+supplied)
+
+3
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+5. With effect from 01.04.1984, Section 43B was inserted. It reads inter alia, as follows:
+
+“Section 43B. Certain deductions to be only on actual payment. Notwithstanding
+anything contained in any other provision of this Act, a deduction otherwise
+allowable under this Act in respect of--
+
+***
+
+(b) any sum payable by the assessee as an employer by way of contribution to any
+provident fund or superannuation fund or gratuity fund or any other fund for the
+welfare of employees, or *** shall be allowed (irrespective of the previous year in
+which the liability to pay such sum was incurred by the assessee according to the
+method of accounting regularly employed by him) only in computing the income
+referred to in section 28 of that previous year in which such sum is actually paid by
+him:
+
+Provided that nothing contained in this section shall apply in relation to any sum
+which is actually paid by the assessee on or before the due date applicable in his case
+for furnishing the return of income under sub-section (1) of section 139 in respect of
+the previous year in which Explanation 2 inserted by Act No. 13 of 2021, w.e.f.
+01.04.2021.
+
+the liability to pay such sum was incurred as aforesaid and the evidence of such
+payment is furnished by the assessee along with such return.6 Explanation : For the
+removal of doubts, it is hereby declared that where a deduction in respect of any sum
+referred to in clause (a) or clause (b) of this section is allowed in computing the
+income referred to in section 28 of the previous year (being a previous year relevant
+to the assessment year commencing on the 1st day of April, 1983, or any earlier
+assessment year) in which the liability to pay such sum was incurred by the assessee,
+the assessee shall not be entitled to any deduction under this section in respect of
+such sum in computing the income of the previous year in which the sum is actually
+paid by him.” (Emphasis supplied) By Section 9 of the Finance Act, 1989, the
+following second proviso was added:
+
+"Provided further that no deduction shall, in respect of any sum referred to in clause
+(b), be allowed unless such sum has actually been paid in cash or by issue of a cheque
+or draft or by any other mode on or before the due date as defined in the Explanation
+below clause (va) of sub-section (1) of section 36, and where such payment has been
+made otherwise than in cash, the sum has been realised within fifteen days from the
+due date."
+
+By Section 21 of the Finance Act, 2003, the above second proviso was omitted.
+
+4
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+Thereafter, by Finance Act, 2021 the following Explanation 5 was added, w.e.f.
+01.04.2021:
+
+“Explanation 5.-For the removal of doubts, it is hereby clarified that the provisions of
+this section shall not apply and shall be deemed never to have been applied to a sum
+received by the assessee from any of his employees to which the provisions of
+sub-clause (x) of clause (24) of section 2 applies.”
+
+6. The time limit for deposit of employees' contribution under the relevant acts / regulations are
+follows:
+
+A. EPF Scheme:
+
+Chapter VI: Declaration, Contribution Cards, and Returns
+
+38. Mode of payment of contributions Second proviso w.e.f. 1989.
+
+“(1) The employer shall, before paying the member his wages in respect of any period or part of
+period for which contribution are payable, deduct the employee's contribution from his wages which
+together with his own contribution as well as an administrative charge of such percentage of the pay
+(basic wages, dearness allowance, retaining allowance, if any, and cash value of food concessions
+admissible thereon) for the time being payable to the employees other than an excluded employee
+and in respect of which provident fund contributions are payable, as the Central Government may
+fix, he shall within fifteen days of the close of every month pay the same to the Fund electronic
+through internet banking of the State Bank of India or any other Nationalised Bank or through
+PayGov platform or through scheduled banks in India including private sector banks authorized for
+collection on account of contributions and administrative charge:
+
+(Emphasis supplied)
+
+7. In addition to the above, a five-day grace period was allowed to employers in terms of the Manual
+of Accounting Procedure (Part-I General). However, the grace period was discontinued by circular
+bearing No. WSU/9(1)(2013)/Settlement/35631 dated 08.01.2016, made applicable to contributions
+for January 2016 onwards.
+
+B. ESI Regulations:
+
+“31. Time for payment of contribution - An employer who is liable to pay
+contributions in respect of any employee shall pay those contributions within 21 days
+of the last day of the calendar month in which the contributions fall due” (Emphasis
+supplied)
+
+8. A circular7 had explained the rationale for introduction of Section 43B:
+
+5
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+"Disallowance of unpaid statutory liability - Section 43B *** 35.2 Several cases have
+come to notice where taxpayers do not discharge their statutory liability such as in
+respect of excise duty, employer's contribution to provident fund, Employees' State
+Insurance Scheme, etc., for long periods of time, extending sometimes to several
+years. For the purpose of their income-tax assessments, they claim the liability as
+deduction on the ground that they maintain accounts on mercantile or accrual basis.
+On the other hand, they dispute the liability and do not discharge the same. For some
+reason or the other, Circular No. 372 dated 08-12-1983.
+
+undisputed liabilities also are not paid.
+
+35.3 To curb this practice, the Finance Act has inserted a new section 438 to provide
+that deduction for any sum payable by the assessee by way of tax or duty under any
+law for the time being in force or any sum payable by the assessee as an employer by
+way of contribution to any provident fund or superannuation fund or gratuity fund or
+any other fund for the welfare- of employees shall irrespective of the previous year in
+which the liability to pay such sum was incurred, be allowed only in computing the
+income of that previous year in which such sum is actually paid by the assessee."
+
+9. The scope and effect of the newly inserted Section 36(1)(va) and the newly inserted provisos to
+Section 43B of the IT Act were elaborated in a Central Board of Direct Taxes (hereinafter, “CBDT”)
+circular bearing No. 495.8 Relevant extracts of the circular are as follows:
+
+“Measures of penalising employers who misutilise contributions to the provident
+fund or any fund set up under the provisions of the Employees’ State Insurance Act,
+1948, or any other fund for welfare of employees 12.1 The existing provisions provide
+for a deduction in respect of any payment by way of contribution to a provident fund
+or superannuation fund or any other fund for welfare of employees in the year in
+which the liability is actually discharged [section 438]. The effect of the amendment
+brought about by the Finance Act, is that no deduction will be allowed in the
+assessment of the employer(s) unless such contribution is paid to the fund on or
+before the "due date". Due date means the date by which an employer is required to
+credit the "contribution" to the employee's account in the relevant fund under the
+provisions of any law or term of contract of service or otherwise [Explanation to
+section 36(1 )(va) of the Finance Act]).” Appellants’ Contentions
+
+10. Mr. Arvind P. Datar, learned senior counsel appearing for some of the appellants, relied upon
+the judgment of this court in Commissioner of Income Tax v. Alom Extrusions Ltd.9 It was urged
+that this decision had considered the effect Circular No. 495 dated 22.09.1987.
+
+Commissioner of Income Tax v. Alom Extrusions Ltd., (2010) 1 SCC 489.
+
+of deletion of the second proviso to Section 43B of IT Act (by Finance Act, 2003) and whether the
+same operated prospectively. The court rejected the Revenue’s appeal and held that the omission of
+
+6
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+the second proviso to Section 43B was curative and therefore operated retrospectively. Mr. Datar
+urged that in Alom Extrusions, the court took note of the fact that the law as existing prior to the
+omission of the second proviso to Section 43B restricted deductions in respect of any sums payable
+by an employer as contribution to the PF / superannuation fund etc. for employees’ welfare unless
+they were paid within the specified due date. Under the second proviso to Section 43B, a further
+constraint was placed on the employer – it was eligible for deduction only if it paid the contribution
+before the date for filing of return of income, and necessarily enclosed with the return of income,
+which resulted in a lot of hardship to the employers. On a representation to the Government about
+this, the Kelkar committee was setup by the Central Government, which considered the issue, and
+based upon its recommendation, the relevant provisions of the Finance Act, 2003 were introduced,
+resulting in the deletion of the second proviso of Section 43B. Mr. Datar also highlighted that the
+court in Alom Extrustions took note of the fact that the first proviso which came into force from
+01.04.1988 was not on the statute book when the assessments were made in the previous decision of
+Allied Motors (P) Ltd. v Commissioner of Income Tax.10
+
+11. Reliance was placed upon the judgment in Alom Extrustions to say that this court was alive to the
+inconvenience caused to the assesses, if the Revenue’s contention was to be accepted that the
+Finance Act, 2003 was operative prospectively. It was submitted that the ratio and logic in Alom
+Extrustions was followed by no less than forty High Courts. Examples include the Allahabad High
+Court in Sagun Foundry Pvt Ltd v. Commissioner of Income Tax11; the Rajasthan Allied Motors (P)
+Ltd. v Commissioner of Income Tax, (1997) 3SCC 472.
+
+Sagun Foundry Pvt Ltd v. Commissioner of Income Tax, ITA/87/2006.
+
+High Court in Commissioner of Income Tax v. State Bank of Bikaner12; the Karnataka High Court in
+Essae Teraoka Pvt. Ltd. v. Deputy Commissioner of Income Tax13; and the Himachal Pradesh High
+Court in Commissioner of Income Tax v. Nipso Polyfabriks Ltd.14
+
+12. It was submitted that only the impugned judgments of the Gujarat High Court and Kerela High
+Court in Commissioner of Income Tax v. Merchem Ltd.15 have taken a different view and
+distinguished Alom Extrusions. It was submitted that views of the Gujarat and Kerela High Court
+were incorrect. Counsel urged that Section 43B had to be understood in the context of the existing
+laws. Mr. Datar emphasized that under the EPF Act and ESI Act, the employer was liable to make a
+composite payment. The liability comprised of the employer’s contribution and the contribution
+collected from the employee. If this were to be kept in mind, the deletion of the second proviso to
+Section 43B, and the opening non-obstante clause in Section 43B had to be given full meaning. As a
+consequence, under Section 43B, at the time of paying the employers’ contribution, the employer is
+under legal obligation to pay not only its contribution but also that of the employee, as a single
+payment to the PF authority under the governing law. The insistence upon payment of actual
+payment of employees’ contribution in Explanation to Section 36(1)(va) was expressly overridden by
+the non obstante clause.
+
+13. It was argued that the Parliament was alive to the fact that both explanation to Section 36(1)(va)
+and second proviso to Section 43B were brought in together in 1989. Therefore, the deletion of the
+
+7
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+latter i.e., second proviso to Section 43B was intended to give relief to the assesses. The
+interpretation in the impugned judgment of the Gujarat High Court and that of the Kerala High
+Court, focusing Commissioner of Income Tax V. State Bank of Bikaner, (2014) 363 ITR 70.
+
+Essae Teraoka Pvt. Ltd. v. Deputy Commissioner of Income Tax, (2014) 366 ITR 408.
+
+Commissioner of Income Tax v. Nipso Polyfabriks Ltd., (2013) 350 ITR 327.
+
+Commissioner of Income Tax v. Merchem Ltd., ITA No. 402/2009.
+
+only on Section 36(1)(va) is contrary to what Parliament intend. It was argued by learned counsel
+that Alom Extrusions correctly found that the law hindered and caused practical difficulties to
+assesses; as a result, it was omitted. To give full effect to the omission was that amendment declared
+to be retrospective in effect by this court. Further, the non-obstante clause in the opening phrase in
+Section 43B was deemed sufficient to override other provisions, including Section 36(1).
+
+14. Lastly, it was submitted that the scheme of the IT Act was such that business income or its
+deductions were spelt out under Section 36, and Section 37 was a residual deduction clause whereby
+expenditures other than those falling within Sections 28-36, expressly laid out for commercial or
+business purposes, were allowed as deductions. If the scheme of the IT Act were to be kept in mind,
+the restrictive condition in Section 36(1)(va) i.e., the stipulation that the employees’ contribution
+must be paid within the time specified, failing which no deduction was permissible, was in fact
+intended to be expressly overridden by Section 43B. The philosophy behind Section 43B (which was
+introduced 01.04.1984) was to ensure actual payment of certain specified and statutory dues, before
+a particular date. These dues either by way of tax or other levies, (including interest-payment
+towards loan or contributions deducted by statutes such as EPF Act) were to be made within a
+specified date under such enactments which cast those obligations. This was only a condition for the
+grant of deduction. The second proviso to Section 43B had imposed further restrictive condition
+which was omitted in 2003. Therefore, the non-obstante clause of Section 43B was operative
+propriae vigore entitling the assessees to claim deduction made by them in respect of contributions
+to PF authorities provided the entire amounts were paid before the return of income was filed.
+
+15. Mr. Tushar Hemani, learned senior counsel appearing on behalf of Suzlon Energy Ltd. supported
+the submissions of Mr. Datar. He relied upon Section 2(c) of the EPF Act and highlighted that the
+contribution payable by the employer was a composite amount - referred to as the amount payable
+in respect of an employee under the scheme. It was submitted that similarly Section 6 of the Act and
+paragraphs 28, 30 & 38 of the EPF Scheme establish that what was payable as contribution by the
+employer was not only the contribution in respect of its obligation to deposit amounts in the account
+of the employee, but its contribution as well as the contribution of the employee. Pointedly, Mr.
+Hemani referred Section 30 of EPF Act:
+
+“30 (1) The employer shall in the first instance, pay both the contribution payable by
+himself (in this Scheme referred to as the employer’s contribution) and also, on
+behalf of the member employed by him directly or by or through a contractor, the
+
+8
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+contribution payable by such member (in the scheme referred to as the member’s
+contribution):
+
+(2) In respect of employee employed by or through a contractor, the contractor shall
+recover the contribution payable by such employee (in this Scheme referred to as the
+member’s contribution) and shall pay to the principal employer the amount of
+member’s contribution so deducted together with an equal amount of contribution
+(in this Scheme referred to as the employer’s contribution) and also administrative
+charges.
+
+(3) It shall be the responsibility of the principal employer to pay both the
+contributions payable by himself in respect of the employees directly employed by
+him and also in respect of the employees employed by or through a contractor and
+also administrative charges.” Likewise, Regulation 31 of the ESI Regulations spells
+out the time for payment – within 21 days of the last day of the calendar month in
+which the contribution was due.
+
+16. Learned senior counsel referred to clause 2(c) of the fourth schedule of the IT Act:
+
+“Part A Recognized Provident Funds Definitions.
+
+2. In this Part, unless the context otherwise requires, --
+
+***
+
+(c) “contribution” means any sum credited by or on behalf of any employee out of his salary, or by
+an employer out of his own moneys, to the individual account of an employee, but does not include
+any sum credited as interest.” The EPF Act, EPF Scheme, ESI Act and ESI Regulations as well as
+provisions of the IT Act refer to employee’s contribution as part of the contribution that the
+employer has to make under the relevant Act. Parliament was alive to this:
+
+consequently, the term ‘sum payable by the assessee as an employer by way of
+contribution” in Section 43B(b) of the IT Act means both its contribution and the
+sum collected from the employees as the latter’s contribution.
+
+17. An alternative submission was that any sum paid by the employer / assessee as contribution
+included both employee’s and employer’s contributions and was allowed as deduction under Section
+36(1)(iv) of the IT Act. What was contemplated under Section 36(1)(va) was the amount which was
+received and not deducted by the employer assessee from its employees. Both Sections 2(24)(x) read
+with Section 36(1) (va) refer to any sum received by the assessee from its employees as contributions
+as against any sum deducted by the assessee from the payments made to employees. Received and
+deducted are two different terms and cannot be used interchangeably.
+
+9
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+18. Again, reference was made to Clause 30 of the EPF Scheme and Regulations under the ESI Act,
+and it was submitted that under both the EPF & ESI Acts, when employees were employed by or
+through a contractor, the latter was supposed to recover the contribution payable by such employee,
+with the amount of such member’s contribution paid to the principal employer, deducted together
+with an equal amount of its contribution along with administrative charges. Such contribution was
+received by the principal employer. But for Section 2(24)(x) read with Section 36(1)(va) of the IT
+Act, such transaction would remain in the Balance Sheet as receivable and payable. However, by
+deeming fiction, such receipt was treated as income first and upon payment of the said sum so
+received by the due date so defined under the respective statutes, the same was allowed as deduction
+while computing the income under the provisions of the IT Act. Therefore, Section 36 (1)(va) of the
+IT Act had limited operation to allow such sum so received from the employees. The deduction from
+the employees’ salary as contribution was governed by Section 36(1)(iv) of the IT Act. Contributions
+of employees engaged as contract labour were to be recovered by such contractor and then paid over
+to the principal employer. This, coupled with the principal employer contribution along with
+administrative charges, was to be remitted to the EPF account within the specified time.
+
+19. Mr. Preetesh Kapoor, learned senior counsel appearing for one of the appellants, adopted the
+submissions of the other senior counsels. He urged, besides, that the Parliamentary concern in
+omitting the second proviso to Section 43B was to avoid the difficulties faced by the assessees which
+they would now re-experience ifw the Gujarat and Kerala High Court views were to be accepted. He
+urged that the Kelkar’s Committee’s recommendations resulted in the 2003 amendments, the object
+and purport of which would be negated if the Revenue’s views were to prevail.
+
+20. Mr. Kapoor urged this court to adopt an interpretation that would be pragmatic and in
+consonance with fairness. So long as the assessee concerned deposited PF and other dues before the
+date of filing the return, no fiscal consequence of it being taxed should take place. Counsel
+submitted that deposit after due date would be visited with fine or other adverse consequences
+under the relevant statute.
+
+Revenue’s Contentions
+
+21. The learned Additional Solicitor General (hereinafter, “ASG”), Mr. Balbir Singh, for the Revenue
+argued that in Alom Extrusions, the issue involved was with respect to the employer's contribution
+to PF account. In the present cases, the issue involved was with respect to employees' contribution
+to PF account. It was urged that the IT Act differentiated between employees' contribution and
+employers' contribution to PF account. With respect to employers’ contribution, Section 43B was
+applicable. However, with respect to employees' contribution, Section 36(1)(va) was applicable, as it
+was specific and pointed to the kind of contribution, and when it could be made, to qualify as a
+deductible expense. Both the provisions i.e., Section 43B and Section 36(1)(va) operated in different
+fields, with respect to different contributions. Consequently, Section 43B was inapplicable and could
+not override Section 36(1)(va).
+
+22. The learned ASG further submitted that by Section 2(24)(x), any sum “received by the assessee”
+from the employees as contribution to any provident fund or superannuation fund etc. the welfare of
+
+10
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+such employees was deemed to be included in the income of the assessee. This was introduced in the
+Finance Act of 1988. This inclusion, and the amendments to Section 36 and 43B were part of the
+scheme. Therefore, the deletion of second proviso to Section 43B could not result in that provision
+overriding the conditions imposed for obtaining deduction, specifically that were part of Section 36.
+
+23. It was argued that it was with introduction of Section 43B with effect from 01.04.1984, that the
+law insisted upon actual payment of amounts claimed as deductions, enumerated under the
+provision. Section 43B(b) spoke of sum payable by the employer by way of contribution to a welfare
+or provident fund. It could be understood that the provision took in both employee's and employer's
+contribution. Parliament then took note of the circumstance that many assessees claimed
+deductions on the ground of their maintaining accounts on mercantile or accrual basis and failed to
+discharge the liability. Consequently, by Finance Act 1987, Section 2(24) (x), and Section 36(1) (va)
+as well as second proviso to Section 43B were inserted. From that date the statute treated
+employee's and employer's contribution differently.
+
+24. It was urged that but for the above interpretation there was no rationale to bring within the fold
+of “income” – by Section 2(24)(x) – employee's contribution received by the employer and providing
+a deduction by Section 36 (1)(va) and permitting the deduction only if that contribution were paid in
+accordance with the statute governing the fund (EPF/ESI Act). The second proviso to Section 43B
+then underwent a cosmetic change and later was deleted. There was also a new proviso added under
+Section 43B for permitting deduction on contributions paid before the returns were filed.
+
+25. This took in only the employer's contribution especially since Section 2(24) and sub-clause (va)
+were retained. The employee's contributions, as Merchem Ltd. noticed, stood on a different footing,
+since it was collected from the employee as a deduction in their salary itself. This would in effect be
+deemed income of the assessee, as had been specifically indicated in the definition of “income”
+under Section 2(24)(x), a provision introduced w.e.f. 01.04.1988 under the Finance Act, 1987.
+
+26. The Revenue further contended that in terms of provisions of Section 36(1)(va) with respect to
+any sum received by the assessee from any of its employees to which provision of Section 2 (24 (x)
+applied, if credited by the assessee to the employees’ account in the relevant fund or funds on or
+before the due date, the assessee was entitled to the deduction. It was submitted that even the
+Explanation to Section 36(1) (va) made it clear that for the purpose of that provision, “due date”
+meant the date by which the assessee, as an employer, had to credit the employees' contribution to
+the employees’ account in the relevant fund under any law or rule or regulation issued thereunder or
+under any standing order, etc. Therefore, during the relevant assessment year, if the employer did
+not deposit the entire amount towards employees' contribution with the PF authorities on or before
+the due date under the EPF/ESI Act, to the extent there was shortfall in deposit of the employees'
+contribution/ESI contribution, the assessee was not entitled to the deduction.
+
+27. The learned ASG further submitted that Section 43B which was applicable to employers'
+contribution to any provident fund or any other fund for the welfare of the employees, and the
+amendment to Section 43B, which enacted that any such amount of employers' contribution was
+deposited by the employer on or before the due date of filing of the return under Section 139 was
+
+11
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+entitled to deduction in the relevant year, was not applicable with respect to employees'
+contribution. It was argued therefore, that when the assessee did not deposit the employees'
+contribution in the PF account before the due date provided under the EPF/ESI Act, the assessee
+was disentitled to deduction under Section 36 in the relevant assessment order, though the assessee
+might have deposited the employees’ contribution on or before the due date of filing of the return
+under Section 139 of the IT Act.
+
+28. It was also urged that the difference in language between Sections 36 and 43B was because the
+two provisions had differing objectives. Whereas Section 36 dealt with deductions that were not
+covered in the previous provisions, Section 36(1)(va), with its Explanations, was directly concerned
+with the meaning of “due date” which was the date by which the assessee was required as an
+employer “to credit an employee’s contribution to the employee’s account in the relevant fund under
+any Act.” On the other hand, Section 43B was introduced to ensure that sums that could otherwise
+be treated as deductions, particularly, those shown as payable, based on the mercantile method of
+accounting, would not be eligible to such treatment, unless those payments were actually made
+when they fell due:
+
+such as tax dues, statutory or interest liabilities. The limited exception carved out by
+the proviso to Section 43B was that if such amount wa[s actually paid by the assessee
+“on or before the due date applicable in his case for furnishing the return of income
+under sub-section (1) of section 139 in respect of the previous year in which the
+liability to pay such sum was incurred” and the assessee furnished evidence of such
+payment along with the return, there would be entitlement for deduction.
+
+29. It was urged that Section 43B spoke of sum payable by the employer or the
+‘employer's contribution’, payable by the employer without deduction from the salary
+of the employee. Employees’ contribution was remitted to the fund by the employer,
+and they were deducted from the employees’ salary. Such deduction was statutorily
+enabled. Deduction from the salary of the employee, no doubt, was the responsibility
+of the employer, as was the remittance, to the fund. That nevertheless, did not change
+the basic nature of the contribution, which was of the employee. A contribution
+deducted from the employee's salary and deposited by the employer, could not be
+termed as employer's contribution. A distinction existed so far as contributions
+payable under the EPF Act and the ESI Act. The employer's contribution had to be
+paid by the employer itself. In that case there was no deduction from the employees’
+salary. The employee’s contribution, on the other hand, was to be deducted from the
+salary payable to the employee into the relevant fund.
+
+Analysis and Conclusions
+
+30. The factual narration reveals two diametrically opposed views in regard to the interpretation of
+Section 36(1)(va) on the one hand and proviso to Section 43(b) on the other. If one goes by the
+legislative history of these provisions, what is discernible is that Parliament’s endeavour in
+introducing Section 43B [which opens with its non-obstante clause] was to primarily ensure that
+
+12
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+deductions otherwise permissible and hitherto claimed on mercantile basis, were expressly
+conditioned, in certain cases upon payment. In other words, a mere claim of expenditure in the
+books was insufficient to entitle deduction. The assessee had to, before the prescribed date, actually
+pay the amounts – be it towards tax liability, interest or other similar liability spelt out by the
+provision.
+
+31. Section 43B falls in Part-V of the IT Act. What is apparent is that the scheme of the Act is such
+that Sections 28 to 38 deal with different kinds of deductions, whereas Sections 40 to 43B spell out
+special provisions, laying out the mechanism for assessments and expressly prescribing conditions
+for disallowances. In terms of this scheme, Section 40 (which too starts with a non- obstante clause
+overriding Sections 30-38), deals with what cannot be deducted in computing income under the
+head “Profits and Gains of Business and Profession”. Likewise, Section 40A(2) opens with a
+non-obstante clause and spells out what expenses and payments are not deductible in certain
+circumstances. Section 41 elaborates conditions which apply with respect to certain deductions
+which are otherwise allowed in respect of loss, expenditure or trading liability etc. If we consider this
+scheme, Sections 40- 43B, are concerned with and enact different conditions, that the tax
+adjudicator has to enforce, and the assessee has to comply with, to secure a valid deduction.
+
+32. The scheme of the provisions relating to deductions, such as Sections 32- 37, on the other hand,
+deal primarily with business, commercial or professional expenditure, under various heads
+(including depreciation). Each of these deductions, has its contours, depending upon the
+expressions used, and the conditions that are to be met. It is therefore necessary to bear in mind
+that specific enumeration of deductions, dependent upon fulfilment of particular conditions, would
+qualify as allowable deductions: failure by the assessee to comply with those conditions, would
+render the claim vulnerable to rejection. In this scheme the deduction made by employers to
+approved provident fund schemes, is the subject matter of Section 36 (iv). It is noteworthy, that this
+provision was part of the original IT Act; it has largely remained unaltered. On the other hand,
+Section 36(1)(va) was specifically inserted by the Finance Act, 1987, w.e.f. 01-04-1988. Through the
+same amendment, by Section 3(b), Section 2(24) – which defines various kinds of “income” –
+inserted clause (x). This is a significant amendment, because Parliament intended that amounts not
+earned by the assessee, but received by it, - whether in the form of deductions, or otherwise, as
+receipts, were to be treated as income. The inclusion of a class of receipt, i.e., amounts received (or
+deducted from the employees) were to be part of the employer/assessee’s income. Since these
+amounts were not receipts that belonged to the assessee, but were held by it, as trustees, as it were,
+Section 36(1)(va) was inserted specifically to ensure that if these receipts were deposited in the
+EPF/ESI accounts of the employees concerned, they could be treated as deductions. Section
+36(1)(va) was hedged with the condition that the amounts/receipts had to be deposited by the
+employer, with the EPF/ESI, on or before the due date. The last expression “due date” was dealt
+with in the explanation as the date by which such amounts had to be credited by the employer, in
+the concerned enactments such as EPF/ESI Acts. Importantly, such a condition (i.e., depositing the
+amount on or before the due date) has not been enacted in relation to the employer’s contribution
+(i.e., Section 36(1)(iv)).
+
+13
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+33. The significance of this is that Parliament treated contributions under Section 36(1)(va)
+differently from those under Section 36(1)(iv). The latter (hereinafter, “employers’ contribution”) is
+described as “sum paid by the assessee as an employer by way of contribution towards a recognized
+provident fund”. However, the phraseology of Section 36(1)(va) differs from Section 36(1)(iv). It
+enacts that “any sum received by the assessee from any of his employees to which the provisions of
+sub-clause (x) of clause (24) of section 2 apply, if such sum is credited by the assessee to the
+employee's account in the relevant fund or funds on or before the due date.” The essential character
+of an employees’ contribution, i.e., that it is part of the employees’ income, held in trust by the
+employer is underlined by the condition that it has to be deposited on or before the due date.
+
+34. It is therefore, manifest that the definition of contribution in Section 2 (c) is used in entirely
+different senses, in the relevant deduction clauses. The differentiation is also evident from the fact
+that each of these contributions is separately dealt with in different clauses of Section 36 (1). All
+these establish that Parliament, while introducing Section 36(1)(va) along with Section 2(24)(x), was
+aware of the distinction between the two types of contributions. There was a statutory classification,
+under the IT Act, between the two.
+
+35. It is instructive in this context to note that the Finance Act, 1987, introduced to Section 2(24),
+the definition clause (x), with effect from 1 April 1988; it also brought in Section 36(1)(va). The
+memorandum explaining these provisions, in the Finance Bill, 1987, presented to the Parliament, is
+extracted below:
+
+“Measures of penalising employers mis-utilising contributions to the provident fund
+or any funds set up under the provisions of the Employees State Insurance Act, 1948,
+or any other fund for the welfare of employees -
+
+12.1. The existing provisions provide for a deduction in respect of any payment by
+way of contribution to the provident fund or a superannuation fund or any other fund
+for welfare of employees in the year in which the liabilities are actually discharged
+(Section 43B). The effect of the amendment brought about by the Finance act, is that
+no deduction will be allowed in the assessment of the employer, unless such
+contribution is paid into the fund on or before the due date. “Due date” means the
+date by which an employer is required to credit the contribution to the employees
+account in the relevant fund or under the relevant provisions of any law or term of
+the contract of service or otherwise.
+
+(Explanation to Section 36 (1) of the Finance Act) 12.2. In addition, contribution of the employees to
+the various funds which are deducted by the employer from the salaries and wages of the employees
+will be taxed as income within brackets insertion of new [clause (x) in clause (24) of Section 2] of the
+employer, if such contribution is not credited by the employer in the account of the employee in the
+relevant fund by the due date. Where such income is not chargeable to tax under the head “profits
+and gains of business or profession” it will be assessed under the head “income from other sources.”
+
+14
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+36. Significantly, the same Finance Act, 1987 also introduced provisos to Section 43B, through
+amendment (clause 10 of the Finance Bill). The memorandum explaining the Bill, pertinently states,
+in relation to second proviso to Section 43B that:
+
+“…The second proviso seeks to provide that no deduction shall be allowed in regard
+to the sum referred to in clause (b) unless such sum has actually been paid during the
+previous year on or before the due date. The due date for the purposes of this proviso
+shall be the due date as under Explanation to clause (va) of sub-section (1) of Section
+36.”
+
+37. It is evident that the intent of the lawmakers was clear that sums referred to in clause (b) of
+Section 43B, i.e., “sum payable as an employer, by way of contribution” refers to the contribution by
+the employer. The reference to “due date” in the second proviso to Section 43B was to have the same
+meaning as provided in the explanation to Section 36(1)(va). Parliament therefore, through this
+amendment, sought to provide for identity in treatment of the two kinds of payments: those made as
+contributions, by the employers, and those amounts credited by the employers, into the provident
+fund account of employees, received from the latter, as their contribution. Both these contributions
+had to necessarily be made on or before the due date.
+
+38. This court had occasion to consider the object of introducing Section 43B, in Allied Motors. The
+court held, after setting out extracts of the Budget speech of the Finance Minister, for 1983-84, that:
+
+"Section 43B was, therefore, clearly aimed at curbing the activities of those
+tax-payers, who did not discharge their statutory liability of payment of excise duty,
+employer’s contribution to provident fund, etc., for long periods of time but claimed
+deductions in that regard from their income on the ground that the liability to pay
+these amounts had been incurred by them in the relevant previous year. It was to
+stop this mischief that Section 43B was inserted.”
+
+39. Original Section 43B(b) enabled the assessee/employer to claim deduction towards contribution
+as an employer, “by way of contribution to any provident fund”. The second proviso was substituted
+by Finance Act, 1989 with effect from 01.04.1989 and read as under:
+
+“…Provided further that no deduction shall in respect of any sum referred to in clause
+(b) be allowed unless such sum has actually been paid in cash or to by issue of a
+cheque or draft or by any other mode on or before the due date as defined in the
+explanation below Clause (va) of sub-section (1) of Section 36, and where such
+payment has been made otherwise than in cash, the same has been realised within 15
+days from the due date."
+
+40. The position in law remained unchanged for 14 years. The Central Government
+then constituted the Kelkar Committee, to suggest tax reforms. The report suggested
+amendments inter alia, to Section 43B. The relevant extract of the report is as
+follows:
+
+15
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+"In terms of the provisions of section 43B of the Income-tax Act, deduction for
+statutory payments relating to labour, taxes and State and public financial
+institutions are allowed as deductions, if they are paid during the financial year.
+However, under the provisions payment of taxes and interest to State and public
+financial institution are deemed to have been paid during the financial year even if
+they are paid by the due date of filing of return. Further if the liability is discharged in
+the subsequent year after the due date of filing of return, the payment is allowed as a
+deduction in the subsequent year. In the case of statutory payment relating to labour,
+the deduction for the payment is disallowed if such payment is made any time after
+the last date of payment of the about related liability. Trade and industry across the
+country represented that the delayed payment of statutory liability related to labour
+should be accorded the same treatment as delayed payment of taxes and interest, i.e.
+they should be allowed in the year of account.
+
+Since the objective of the provision is to ensure that a tax-payer does not avail of any
+statutory liability without actually making a payment for the same, we are of the view
+that these objectives would be served if the deduction for the statutory liability
+relating to labour are allowed in the year of payment. The complete disallowance of
+such payments is too harsh a punishment for delayed payments. Therefore, we
+recommend that the deduction for delayed payment of statutory liability relating to
+labour should be allowed in the year of payment like delayed taxes and interest."
+
+Based on the report, the Union introduced amendments to the IT Act, including an amendment to
+Section 43B; the memorandum explaining the provisions in the Finance Bill, 2003 in the matter of
+Section 43B. inter alia, reads thus:
+
+"The Bill also proposes to provide that in case of deduction of payments made by the
+assessee as an employer by way of contribution to any provident fund or
+superannuation fund or any other fund for the welfare of the employees shall be
+allowed in computing the income of the year in which such sum is actually paid. In
+case the same is paid before the due date of filing the return of income for the
+previous year, the allowance will be made in the year in which the liability was
+incurred.
+
+These amendments will take effect from 1st April, 2004 and will accordingly apply in
+relation to the assessment year 2004-05 and subsequent years.”
+
+41. The Notes on Clauses inter alia, reads as follows:
+
+"It is also proposed to amend the first proviso to the said section so as to omit the
+references of clause (a), clause (c), clause (d), clause (e) and clause (f) which is
+consequential in nature.
+
+16
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+It is also proposed to omit the second proviso to the said section. These amendments
+will take effect from 1st April, 2004 and will, accordingly, apply in relation to the
+assessment year 2004-2005 and subsequent years."
+
+42. The rationale for introduction of Section 43B was explained by this court in M.M. Aqua
+Technologies Ltd. vs. Commissioner of Income Tax, Delhi:16 “19. The object of Section 43B, as
+originally enacted, is to allow certain deductions only on actual payment. This is made clear by the
+non- obstante Clause contained in the beginning of the provision, coupled with the deduction being
+allowed irrespective of the previous years in which the liability to pay such sum was incurred by the
+Assessee according to the method of accounting regularly employed by it. In short, a mercantile
+system of accounting cannot be looked at when a deduction is claimed under this Section, making it
+clear that incurring of liability cannot allow for a deduction, but only "actual payment", as
+contrasted with incurring of a liability, can allow for a deduction.”
+
+43. This condition, i.e., of payment of actual amount on or before the due date to enable deduction,
+continued for 14 years. By the amendment of 2003, the second proviso was deleted. This court
+interpreted the law, in the light of these developments, in Alom Extrusions. The court considered
+the effect of omission of the second proviso, and observed as follows:
+
+“10. “Income” has been defined under Section 2(24) of the Act to include profits and
+gains. Under Section 2(24)(x), any sum received by the assessee from his employees
+as contributions to any provident fund/superannuation fund or any fund set up
+under the Employees’ State Insurance Act, 1948, or any other fund for the welfare of
+such employees constituted income. This is the reason why every assessee(s) M.M.
+Aqua Technologies Ltd. vs. Commissioner of Income Tax, Delhi, 2021 SCC OnLine SC
+575.
+
+[employer(s)] was entitled to deduction even prior to 1-4-1984, on mercantile system
+of accounting as a business expenditure by making provision in his books of accounts
+in that regard. In other words, if an assessee(s) [employer(s)] is maintaining his
+books on accrual system of accounting, even after collecting the contribution from his
+employee(s) and even without remitting the amount to the Regional Provident Fund
+Commissioner (RPFC), the assessee(s) would be entitled to deduction as business
+expense by merely making a provision to that effect in his books of accounts. The
+same situation arose prior to 1-4-1984, in the context of assessees collecting sales tax
+and other indirect taxes from their respective customers and claiming deduction only
+by making provision in their books without actually remitting the amount to the
+exchequer. To curb this practice, Section 43-B was inserted with effect from 1-4-1984,
+by which the mercantile system of accounting with regard to tax, duty and
+contribution to welfare funds stood discontinued and, under Section 43-B, it became
+mandatory for the assessee(s) to account for the aforestated items not on mercantile
+basis but on cash basis. This situation continued between 1-4-1984 and 1-4-1988,
+when Parliament amended Section 43-B and inserted the first proviso to Section
+43-B.
+
+17
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+11. By this first proviso, it was, inter alia, laid down, in the context of any sum payable
+by the assessee(s) by way of tax, duty, cess or fee, that if an assessee(s) pays such tax,
+duty, cess or fee even after the closing of the accounting year but before the date of
+filing of the return of income under Section 139(1) of the Act, the assessee(s) would
+be entitled to deduction under Section 43-B on actual payment basis and such
+deduction would be admissible for the accounting year. This proviso, however, did
+not apply to the contribution made by the assessee(s) to the labour welfare funds. To
+this effect, the first proviso stood introduced with effect from 1-4-1988.
+
+***
+
+15. By the Finance Act, 2003, the amendment made in the first proviso equated in
+terms of the benefit of deduction of tax, duty, cess and fee on the one hand with
+contributions to the Employees' Provident Fund, superannuation fund and other
+welfare funds on the other. However, the Finance Act, 2003, bringing about this
+uniformity came into force with effect from 1-4-2004. Therefore, the argument of the
+assessee(s) is that the Finance Act, 2003, was curative in nature, it was not
+amendatory and, therefore, it applied retrospectively from 1-4-1988, whereas the
+argument of the Department was that the Finance Act, 2003, was amendatory and it
+applied prospectively, particularly when Parliament had expressly made the Finance
+Act, 2003 applicable only with effect from 1-4-2004.
+
+***
+
+18. However, as stated above, the second proviso resulted in implementation
+problems, which have been mentioned hereinabove, and which resulted in the
+enactment of the Finance Act, 2003, deleting the second proviso and bringing about
+uniformity in the first proviso by equating tax, duty, cess and fee with contributions
+to welfare funds.
+
+Once this uniformity is brought about in the first proviso, then, in our view, the Finance Act, 2003,
+which is made applicable by Parliament only with effect from 1-4-2004, would become curative in
+nature, hence, it would apply retrospectively with effect from 1-4-1988.
+
+19. Secondly, it may be noted that, in Allied Motors (P) Ltd. v. CIT [(1997) 3 SCC 472 : (1997) 224
+ITR 677] , the scheme of Section 43-B of the Act came to be examined. In that case, the question
+which arose for determination was, whether sales tax collected by the assessee and paid after the
+end of the relevant previous year but within the time allowed under the relevant sales tax law should
+be disallowed under Section 43-B of the Act while computing the business income of the previous
+year? That was a case which related to Assessment Year 1984-1985. The relevant accounting period
+ended on 30-6-1983. The Income Tax Officer disallowed the deduction claimed by the assessee
+which was on account of sales tax collected by the assessee for the last quarter of the relevant
+accounting year. The deduction was disallowed under Section 43-B which, as stated above, was
+inserted with effect from 1-4-1984 ***
+
+18
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+22. It is important to note once again that, by the Finance Act, 2003, not only is the second proviso
+deleted but even the first proviso is sought to be amended by bringing about a uniformity in tax,
+duty, cess and fee on the one hand vis-à-vis contributions to welfare funds of employee(s) on the
+other. This is one more reason why we hold that the Finance Act, 2003 is retrospective in operation.
+Moreover, the judgment in Allied Motors (P) Ltd. [(1997) 3 SCC 472 : (1997) 224 ITR 677] was
+delivered by a Bench of three learned Judges, which is binding on us. Accordingly, we hold that the
+Finance Act, 2003 will operate retrospectively with effect from 1-4-1988 (when the first proviso
+stood inserted).
+
+23. Lastly, we may point out the hardship and the invidious discrimination which would be caused
+to the assessee(s) if the contention of the Department is to be accepted that the Finance Act, 2003,
+to the above extent, operated prospectively.
+
+Take an example, in the present case, the respondents have deposited the contributions with RPFC
+after 31st March (end of accounting year) but before filing of the returns under the Income Tax Act
+and the date of payment falls after the due date under the Employees' Provident Fund Act, they will
+be denied deduction for all times. In view of the second proviso, which stood on the statute book at
+the relevant time, each of such assessee(s) would not be entitled to deduction under Section 43-B of
+the Act for all times. They would lose the benefit of deduction even in the year of account in which
+they pay the contributions to the welfare funds, whereas a defaulter, who fails to pay the
+contribution to the welfare fund right up to 1-4-2004, and who pays the contribution after 1-4-2004,
+would get the benefit of deduction under Section 43-B of the Act.”
+
+44. There is no doubt that in Alom Extrusions, this court did consider the impact of deletion of
+second proviso to Section 43B, which mandated that unless the amount of employers’ contribution
+was deposited with the authorities, the deduction otherwise permissible in law, would not be
+available. This court was of the opinion that the omission was curative, and that as long as the
+employer deposited the dues, before filing the return of income tax, the deduction was available.
+
+45. A reading of the judgment in Alom Extrusions, would reveal that this court, did not consider
+Sections 2(24)(x) and 36(1)(va). Furthermore, the separate provisions in Section 36(1) for
+employers’ contribution and employees’ contribution, too went unnoticed. The court observed inter
+alia, that:
+
+“15. …It is important to note once again that, by Finance Act, 2003, not only the
+second proviso is deleted but even the first proviso is sought to be amended by
+bringing about an uniformity in tax, duty, cess and fee on the one hand vis-a-vis
+contributions to welfare funds of employee(s) on the other. This is one more reason
+why we hold that the Finance Act, 2003, is retrospective in operation. Moreover, the
+judgement in Allied Motors (P) Limited (supra) is delivered by a Bench of three
+learned Judges, which is binding on us. Accordingly, we hold that Finance Act, 2003
+will operate retrospectively with effect from 1st April, 1988 [when the first proviso
+stood inserted]. Lastly, we may point out the hardship and the invidious
+discrimination which would be caused to the assessee(s) if the contention of the
+
+19
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+Department is to be accepted that Finance Act, 2003, 2003, to the above extent,
+operated prospectively. Take an example - in the present case, the respondents have
+deposited the contributions with the R.P.F.C. after 31st March [end of accounting
+year] but before filing of the Returns under the Income Tax Act and the date of
+payment falls after the due date under the Employees' Provident Fund Act, they will
+be denied deduction for all times. In view of the second proviso, which stood on the
+statute book at the relevant time, each of such assessee(s) would not be entitled to
+deduction under Section 43B of the Act for all times. They would lose the benefit of
+deduction even in the year of account in which they pay the contributions to the
+welfare funds, whereas a defaulter, who fails to pay the contribution to the welfare
+fund right upto 1st April, 2004, and who pays the contribution after 1st April, 2004,
+would get the benefit of deduction under Section 43B of the Act. In our view,
+therefore, Finance Act, 2003, to the extent indicated above, should be read as
+retrospective. It would, therefore, operate from 1st April, 1988, when the first proviso
+was introduced. It is true that the Parliament has explicitly stated that Finance Act,
+2003, will operate with effect from 1st April, 2004. However, the matter before us
+involves the principle of construction to be placed on the provisions of Finance Act,
+2003”.
+
+46. A discussion on the Principles of interpretation of tax statutes is warranted. In Ajmera Housing
+Corporation & Ors. vs. Commissioner of Income17 this court held as follows:
+
+“27. It is trite law that a taxing statute is to be construed strictly. In a taxing Act one
+has to look merely at what is said in the relevant provision. There is no presumption
+as to a tax. Nothing is to be read in, nothing is to be implied. There is no room for any
+intendment. There is no equity about a tax. (See: Cape Brandy Syndicate v. Inland
+Revenue Commissioners (1921) 1 KB 64 and Federation of A.P. Chambers of
+Commerce and Industry and Ors. v. State of A.P. and Ors.(2000) 6 SCC 550. In
+interpreting a taxing statute, the Court must look squarely at the words of the statute
+and interpret them. Considerations of hardship, injustice and equity are entirely out
+of place in interpreting a taxing statute. (Also see:
+
+Commissioner of Sales Tax, Uttar Pradesh v. The Modi Sugar Mills Ltd. 1961 (2) SCR
+189.)”
+
+47. Likewise, this court underlined the rule, regarding interpretation of taxing statutes, in
+Commissioner of Income Tax-III v Calcutta Knitwears, Ludhiana.18 Recently, in Union of India &
+Ors. vs. Exide Industries Limited & Ors,19 this court examined, and repelled a challenge to the
+constitutionality of Section 43B, especially the provision requiring actual payment, in respect of
+leave encashment benefit of employees. The court observations in this regard are relevant:
+
+“20. Section 43B, however, is enacted to provide for deductions to be availed by the
+Assessee in lieu of liabilities accruing in previous year without making actual
+payment to discharge the same. It is not a provision to place any embargo upon the
+
+20
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+autonomy of the Assessee in adopting a particular method of accounting, nor
+deprives the Assessee of any lawful deduction. Instead, it merely operates as an
+additional condition for the availment of deduction qua the specified head.
+
+Ajmera Housing Corporation & Ors. vs. Commissioner of Income, 2010 (8) SCC 739.
+
+Commissioner of Income Tax-III v Calcutta Knitwears, Ludhiana 2014 (6) SCC 444.
+
+Union of India & Ors. vs. Exide Industries Limited & Ors., 2020 (5) SCC 274.
+
+21. Section 43B bears heading "certain deductions to be only on actual payment". It
+opens with a non-obstante clause. As per settled principles of interpretation, a non
+obstante Clause assumes an overriding character against any other provision of
+general application. It declares that within the sphere allotted to it by the Parliament,
+it shall not be controlled or overridden by any other provision unless specifically
+provided for. Out of the allowable deductions, the legislature consciously earmarked
+certain deductions from time to time and included them in the ambit of Section 43B
+so as to subject such deductions to conditionality of actual payment. Such
+conditionality may have the inevitable effect of being different from the theme of
+mercantile system of accounting on accrual of liability basis qua the specific head of
+deduction covered therein and not to other heads. But that is a matter for the
+legislature and its wisdom in doing so.
+
+22. The existence of Section 43B traces back to 1983 when the legislature
+conceptualised the idea of such a provision in the 1961 Act.
+
+Initially, the provision included deductions in respect of sum payable by Assessee by way of tax or
+duty or any sum payable by the employer by way of contribution to any provident fund or
+superannuation fund. It is noteworthy that the legislature explained the inclusion of these
+deductions by citing certain practices of evasion of statutory liabilities and other liabilities for the
+welfare of employees...” ***
+
+23. With the passage of time, the legislature inserted more deductions to Section 43B including cess,
+bonus or commission payable by employer, interest on loans payable to financial institutions,
+scheduled banks etc., payment in lieu of leave encashment by the employer and repayment of dues
+to the railways. Thus understood, there is no oneness or uniformity in the nature of deductions
+included in Section 43B. It holds no merit to urge that this Section only provides for deductions
+concerning statutory liabilities. Section 43B is a mix bag and new and dissimilar entries have been
+inserted therein from time to time to cater to different fiscal scenarios, which are best determined by
+the government of the day. It is not unusual or abnormal for the legislature to create a new liability,
+exempt an existing liability, create a deduction or subject an existing deduction to override
+regulations or conditions.
+
+21
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+24. The leave encashment scheme envisages the payment of a certain amount to the employees in
+lieu of their unused paid leaves in a year. The nature of this payment is beneficial and pro-employee.
+However, it is not in the form of a bounty and forms a part of the conditions of service of the
+employee. An employer seeking deduction from tax liability in advance, in the name of discharging
+the liability of leave encashment, without actually extending such payment to the employee as and
+when the time for payment arises may lead to abhorrent consequences. When time for such
+payment arises upon retirement (or otherwise) of the employee, an employer may simply refuse to
+pay. Consequently, the innocent employee will be entangled in litigation in the evening of his/her
+life for claiming a hard-earned right without any fault on his part. Concomitantly, it would entail in
+double benefit to the employer - advance deduction from tax liability without any burden of actual
+payment and refusal to pay as and when occasion arises. It is this mischief Clause (f) seeks to
+subjugate.”
+
+48. One of the rules of interpretation of a tax statute is that if a deduction or exemption is available
+on compliance with certain conditions, the conditions are to be strictly complied with.20 This rule is
+in line with the general principle that taxing statutes are to be construed strictly, and that there is no
+room for equitable considerations.
+
+49. That deductions are to be granted only when the conditions which govern them are strictly
+complied with. This has been laid down in State of Jharkhand v Ambay Cements21 as follows:
+
+“23…. In our view, the provisions of exemption clause should be strictly construed
+and if the condition under which the exemption was granted stood changed on
+account of any subsequent event the exemption would not operate.
+
+24. In our view, an exception or an exempting provision in a taxing statute should be
+construed strictly and it is not open to the court to ignore the conditions prescribed in
+the industrial policy and the exemption notifications.
+
+25. In our view, the failure to comply with the requirements renders the writ petition
+filed by the respondent liable to be dismissed. While mandatory rule must be strictly
+observed, substantial compliance might suffice in the case of a directory rule.
+
+26. Whenever the statute prescribes that a particular act is to be done in a particular
+manner and also lays down that failure to comply with the said requirement leads to
+severe consequences, such requirement would be mandatory. It is the cardinal rule of
+interpretation that where a statute provides that a particular thing should be done, it
+should be done in the manner prescribed and not in any other way. It is also settled
+rule of interpretation that where a statute is penal in character, it must be strictly
+construed and followed. Since the requirement, in the instant case, of obtaining prior
+permission is mandatory, therefore, non-compliance with the same must result in
+cancelling the concession made in favour of the grantee, the respondent herein.” See
+for e.g., Eagle Flask Industries Ltd. v. Commissioner of Central Excise, 2004 Supp (4)
+SCR 35.
+
+22
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+State of Jharkhand v Ambay Cements, (2005) 1 SCC 368.
+
+This was also reaffirmed in a number of judgments, such as Commissioner of Income Tax v. Ace
+Multi Axes Systems Ltd.22
+
+50. The Constitution Bench, in Commissioner. of Customs v. Dilip Kumar & Co. 23 endorsed as
+following:
+
+“24. In construing penal statutes and taxation statutes, the Court has to apply strict
+rule of interpretation. The penal statute which tends to deprive a person of right to
+life and liberty has to be given strict interpretation or else many innocents might
+become victims of discretionary decision-making. Insofar as taxation statutes are
+concerned, Article 265 of the Constitution [ “265. Taxes not to be imposed save by
+authority of law.—No tax shall be levied or collected except by authority of law.”]
+prohibits the State from extracting tax from the citizens without authority of law. It is
+axiomatic that taxation statute has to be interpreted strictly because the State cannot
+at their whims and fancies burden the citizens without authority of law. In other
+words, when the competent legislature mandates taxing certain persons/certain
+objects in certain circumstances, it cannot be expanded/interpreted to include those,
+which were not intended by the legislature.
+
+***
+
+34. The passages extracted above, were quoted with approval by this Court in at least
+two decisions being CIT v. Kasturi & Sons Ltd. [CIT v. Kasturi & Sons Ltd., (1999) 3
+SCC 346] and State of W.B. v. Kesoram Industries Ltd. [State of W.B. v. Kesoram
+Industries Ltd., (2004) 10 SCC 201] (hereinafter referred to as “Kesoram Industries
+case [State of W.B. v. Kesoram Industries Ltd., (2004) 10 SCC 201]”, for brevity). In
+the later decision, a Bench of five Judges, after citing the above passage from Justice
+G.P. Singh's treatise, summed up the following principles applicable to the
+interpretation of a taxing statute:
+
+‘(i) In interpreting a taxing statute, equitable considerations are entirely out of place.
+A taxing statute cannot be interpreted on any presumption or assumption. A taxing
+statute has to be interpreted in the light of what is clearly expressed; it cannot imply
+anything which is not expressed; it cannot import provisions in the statute so as to
+supply any deficiency;
+
+(ii) Before taxing any person, it must be shown that he falls within the ambit of the
+charging section by clear words used in the section; and
+
+(iii) If the words are ambiguous and open to two interpretations, the benefit of
+interpretation is given to the subject and there is nothing Commissioner of Income
+Tax v. Ace Multi Axes Systems Ltd., 2018 (2) SCC 158 Commissioner. of Customs v.
+
+23
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+Dilip Kumar & Co, 2018 (9) SCC 1.
+
+unjust in a taxpayer escaping if the letter of the law fails to catch him on account of the legislature's
+failure to express itself clearly.’”
+
+51. The analysis of the various judgments cited on behalf of the assessee i.e., Commissioner of
+Income-Tax v. Aimil Ltd.24; Commissioner of Income-Tax and another v. Sabari Enterprises25;
+Commissioner of Income Tax v. Pamwi Tissues Ltd.26; Commissioner of Income-Tax, Udaipur v.
+Udaipur Dugdh Utpadak Sahakari Sandh Ltd.27 and Nipso Polyfabriks (supra) would reveal that in
+all these cases, the High Courts principally relied upon omission of second proviso to Section 43B
+(b). No doubt, many of these decisions also dealt with Section 36(va) with its explanation. However,
+the primary consideration in all the judgments, cited by the assessee, was that they adopted the
+approach indicated in the ruling in Alom Extrusions. As noticed previously, Alom Extrutions did not
+consider the fact of the introduction of Section 2(24)(x) or in fact the other provisions of the Act.
+
+52. When Parliament introduced Section 43B, what was on the statute book, was only employer’s
+contribution (Section 34(1)(iv)). At that point in time, there was no question of employee’s
+contribution being considered as part of the employer’s earning. On the application of the original
+principles of law it could have been treated only as receipts not amounting to income. When
+Parliament introduced the amendments in 1988-89, inserting Section 36(1)(va) and simultaneously
+inserting the second proviso of Section 43B, its intention was not to treat the disparate nature of the
+amounts, similarly. As discussed previously, the memorandum introducing the Finance Bill clearly
+stated that the provisions – especially second proviso to Section 43B - was introduced to ensure
+timely payments were made by the employer to the concerned fund (EPF, ESI, etc.) and avoid the
+mischief of employers retaining amounts for long periods. That Commissioner of Income-Tax Vs.
+Aimil Ltd., [2010] 321 ITR 508 (Delhi High Court).
+
+Commissioner of Income-Tax and another Vs. Sabari Enterprises, [2008] 298 ITR 141 (Karnataka
+High Court).
+
+Commissioner of Income Tax Vs. Pamwi Tissues Ltd., [2009] 313 ITR 137 (Bombay High Court).
+
+Commissioner of Income-Tax, Udaipur v. Udaipur Dugdh Utpadak Sahakari Sandh Ltd., [2013] 35
+taxmann.com 616 (Rajasthan High Court).
+
+Parliament intended to retain the separate character of these two amounts, is evident from the use
+of different language. Section 2(24)(x) too, deems amount received from the employees (whether
+the amount is received from the employee or by way of deduction authorized by the statute) as
+income - it is the character of the amount that is important, i.e., not income earned. Thus, amounts
+retained by the employer from out of the employee’s income by way of deduction etc. were treated as
+income in the hands of the employer. The significance of this provision is that on the one hand it
+brought into the fold of “income” amounts that were receipts or deductions from employees income;
+at the time, payment within the prescribed time – by way of contribution of the employees’ share to
+their credit with the relevant fund is to be treated as deduction (Section 36(1)(va)). The other
+
+24
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+important feature is that this distinction between the employers’ contribution (Section 36(1)(iv))
+and employees’ contribution required to be deposited by the employer (Section 36(1)(va)) was
+maintained - and continues to be maintained. On the other hand, Section 43B covers all deductions
+that are permissible as expenditures, or out-goings forming part of the assessees’ liability. These
+include liabilities such as tax liability, cess duties etc. or interest liability having regard to the terms
+of the contract. Thus, timely payment of these alone entitle an assessee to the benefit of deduction
+from the total income. The essential objective of Section 43B is to ensure that if assessees are
+following the mercantile method of accounting, nevertheless, the deduction of such liabilities, based
+only on book entries, would not be given. To pass muster, actual payments were a necessary
+pre-condition for allowing the expenditure.
+
+53. The distinction between an employer’s contribution which is its primary liability under law – in
+terms of Section 36(1)(iv), and its liability to deposit amounts received by it or deducted by it
+(Section 36(1)(va)) is, thus crucial. The former forms part of the employers’ income, and the later
+retains its character as an income (albeit deemed), by virtue of Section 2(24)(x) - unless the
+conditions spelt by Explanation to Section 36(1)(va) are satisfied i.e., depositing such amount
+received or deducted from the employee on or before the due date. In other words, there is a marked
+distinction between the nature and character of the two amounts – the employer’s liability is to be
+paid out of its income whereas the second is deemed an income, by definition, since it is the
+deduction from the employees’ income and held in trust by the employer. This marked distinction
+has to be borne while interpreting the obligation of every assessee under Section 43B.
+
+54. In the opinion of this Court, the reasoning in the impugned judgment that the non-obstante
+clause would not in any manner dilute or override the employer’s obligation to deposit the amounts
+retained by it or deducted by it from the employee’s income, unless the condition that it is deposited
+on or before the due date, is correct and justified. The non-obstante clause has to be understood in
+the context of the entire provision of Section 43B which is to ensure timely payment before the
+returns are filed, of certain liabilities which are to be borne by the assessee in the form of tax,
+interest payment and other statutory liability. In the case of these liabilities, what constitutes the
+due date is defined by the statute. Nevertheless, the assessees are given some leeway in that as long
+as deposits are made beyond the due date, but before the date of filing the return, the deduction is
+allowed. That, however, cannot apply in the case of amounts which are held in trust, as it is in the
+case of employees’ contributions- which are deducted from their income. They are not part of the
+assessee employer’s income, nor are they heads of deduction per se in the form of statutory pay out.
+They are others’ income, monies, only deemed to be income, with the object of ensuring that they
+are paid within the due date specified in the particular law. They have to be deposited in terms of
+such welfare enactments. It is upon deposit, in terms of those enactments and on or before the due
+dates mandated by such concerned law, that the amount which is otherwise retained, and deemed
+an income, is treated as a deduction. Thus, it is an essential condition for the deduction that such
+amounts are deposited on or before the due date. If such interpretation were to be adopted, the
+non-obstante clause under Section 43B or anything contained in that provision would not absolve
+the assessee from its liability to deposit the employee’s contribution on or before the due date as a
+condition for deduction.
+
+25
+
+Checkmate Services P Ltd vs Commissioner Of Income Tax-I on 12 October, 2022
+
+55. In the light of the above reasoning, this court is of the opinion that there is no infirmity in the
+approach of the impugned judgment. The decisions of the other High Courts, holding to the
+contrary, do not lay down the correct law. For these reasons, this court does not find any reason to
+interfere with the impugned judgment. The appeals are accordingly dismissed.
+
+.....................................................CJI. [UDAY UMESH LALIT] ….....................................................J.
+[S. RAVINDRA BHAT] .........................................................J. [SUDHANSHU DHULIA] New Delhi,
+October 12, 2022.
+
+26

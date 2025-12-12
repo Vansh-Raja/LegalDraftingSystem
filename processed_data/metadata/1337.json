@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 2176 of 2020",
+  "parties": {
+    "petitioner": "Kotak Mahindra Bank Limited",
+    "respondent": "Kew Precision Parts Private Limited & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-05",
+  "summary": "The appeal was filed by Kotak Mahindra Bank under Section 62 of the Insolvency and Bankruptcy Code (IBC), 2016, challenging the NCLAT's order allowing the corporate debtor's appeal against initiation of CIRP under Section 7. The core issue was whether the Section 7 application was barred by limitation. The bank relied on the debtor's admission of liability through one-time settlement offers in December 2018, which constituted a fresh cause of action. The NCLT admitted the petition, finding financial debt exceeding the threshold of Rs. 1 lakh and absence of pre-existing dispute. The NCLAT held the application barred by limitation, but the Supreme Court emphasized that a financial creditor’s claim under Section 7 does not fail due to pre-existing disputes and that admission of debt in settlement revived the limitation period. Judicial precedents clarified that under IBC, existence of financial debt and default are key, and proceedings under SARFAESI do not preclude CIRP.",
+  "legal_provisions_cited": [
+    "Section 62, Insolvency and Bankruptcy Code, 2016",
+    "Section 7, Insolvency and Bankruptcy Code, 2016",
+    "Section 13(2), Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002",
+    "Article 62 of the Limitation Act, 1963",
+    "Section 14, Insolvency and Bankruptcy Code, 2016"
+  ],
+  "final_judgment": "The appeal was allowed. The order of the NCLAT setting aside the NCLT's admission of the CIRP application was set aside. The Supreme Court upheld the NCLT's order admitting the Section 7 application, confirming the initiation of CIRP and continuation of moratorium."
+}

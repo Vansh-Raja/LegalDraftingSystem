@@ -1,0 +1,2214 @@
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July,
+2024
+
+Author: Dhananjaya Y. Chandrachud
+
+Bench: Dhananjaya Y. Chandrachud
+
+2024 INSC 532                                                     REPORTABLE
+
+                               IN THE SUPREME COURT OF INDIA
+                                CIVIL APPELLATE JURISDICTION
+                                  CIVIL APPEAL NO. 7821 OF 2024
+                            (ARISING OUT OF SLP (C) NO. 3792 OF 2024)
+
+             SBI GENERAL INSURANCE CO. LTD.                       …APPELLANT
+
+                                           VERSUS
+
+             KRISH SPINNING                                      …RESPONDENT
+
+                                             WITH
+
+                                 CIVIL APPEAL NO. 7822 OF 2024
+                            (ARISING OUT OF SLP(C) No. 7220 OF 2024)
+
+                                         JUDGMENT
+
+J. B. PARDIWALA, J.:
+
+For the convenience of exposition, this judgment is divided into the following parts: -
+
+I N D E X   A .
+  F A C T U A L   M A T R I X
+............................................................................................. 3 B. SUBMISSIONS ON
+BEHALF OF THE APPELLANT ................................... 14 C. SUBMISSIONS ON
+BEHALF OF THE RESPONDENT ............................... 16 D. ISSUES FOR
+DETERMINATION .................................................................... 18 E.
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+1
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+ANALYSIS............................................................................................................ 19 i.
+Whether the execution of a discharge voucher towards the full and final settlement
+between the parties would operate as a bar to invoke arbitration? ...................... 21 a.
+Whether the arbitration agreement contained in a substantive contract survives even
+after the underlying contract is discharged by “accord and satisfaction”? .............. 25
+ii. What is the scope and standard of judicial scrutiny that an application under
+Section 11(6) of the Act, 1996 can be subjected to when a plea of “accord and
+satisfaction” is taken by the defendant? .................................................................. 31
+iii. What is the effect of the decision of this Court in In Re: Interplay Between
+Arbitration Agreements under the Arbitration and Conciliation Act 1966 and the
+Indian Stamp Act 1899 on the scope of powers of the referral court under Section 11
+of the Act, 1996? .................................................................................................... 65 a.
+Arbitral Autonomy ........................................................................................ 66 b.
+Negative Competence-Competence .............................................................. 69 c.
+Judicial Interference under the Act, 1996 ..................................................... 71 F.
+CONCLUSION .................................................................................................... 84
+
+1. Leave granted.
+
+2. Since the issues raised in both the captioned appeals are the same, the
+subject-matter also being the same and the parties are also the same, they were taken
+up analogously for hearing and are being disposed of by this common judgment and
+order.
+
+3. The SLP(C) No. 7220 of 2024 arises from the impugned judgment and order dated
+22.09.2023 passed by the High Court of Gujarat at Ahmedabad in Arbitration
+Petition No. 209 of 2021 wherein the High Court after assigning detailed reasons for
+allowing the application filed by the respondent for the appointment of an arbitrator,
+directed that the said application be listed before the appropriate bench in
+accordance with the roster for the purpose of passing appropriate order for
+appointment of arbitrator.
+
+4. The SLP(C) No. 3792 of 2024 arises from the impugned judgment and order dated
+01.12.2023 passed by the High Court of Gujarat at Ahmedabad in Arbitration Petition
+No. 209 of 2021 wherein relying upon the judgment and order dated 22.09.2023
+referred to above passed by a co-ordinate bench in the self-same arbitration
+application, the High Court allowed the application of the respondent for the
+appointment of an arbitrator and thereby appointed Justice K.A. Puj, former Judge of
+the High Court of Gujarat as an arbitrator to resolve the disputes between the parties.
+
+A. FACTUAL MATRIX
+
+5. The appellant, SBI General Insurance Co. Ltd., is a Private Sector General Insurance Company
+engaged in the business of providing general insurance to its customers, having one of its offices at
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+2
+
+1st floor, Shukan Business Centre, Swastik Cross Road, C.G. Road, Navrangpura, Ahmedabad.
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+6. The respondent, M/s Krish Spinning, is a partnership firm registered under the provisions of the
+Indian Partnership Act, 1932, and is engaged in the business of manufacturing and spinning of
+cotton filaments at its factory premises situated at Survey No. 845, Ghodasar, Nenpur, Taluka
+Memdabad.
+
+7. The respondent obtained a standard fire and special perils (material damage) insurance policy
+from the appellant on 31.03.2018 for a total sum insured of Rs 7,20,00,000/- with the period of
+insurance being 31.03.2018 to 30.03.2019.
+
+8. During the period of insurance cover, two incidents of fire took place at the factory premises of
+the respondent, as a result of which the respondent suffered loss of assets such as cotton stocks in
+the form of raw materials, semi-finished goods, electrical installations, plant and machinery.
+
+9. The first incident of fire took place on 28.05.2018 in which the respondent claims to have suffered
+a total loss amounting to Rs 1,76,19,967/-. The second incident of fire took place on 17.11.2018
+wherein the respondent claims to have suffered a total loss amounting to Rs 6,32,25,967/-. It is
+pertinent to observe that the present appeals pertain only to the dispute arising from the settlement
+of claim relating to the first incident of fire which took place on 28.05.2018.
+
+10. After the first incident of fire that took place, M/s Paresh Shah & Associates was appointed as the
+surveyor by the appellant company on 29.05.2018 under Section 64UM of the Insurance Act, 1938.
+The surveyor visited the factory premises of the respondent on a number of occasions between
+29.05.2018 and 29.08.2018 for the purpose of assessing the extent of loss suffered by the
+respondent in the fire accident, and accordingly prepared the final survey report dated 30.12.2018.
+In the said report, it was inter alia observed that the fire could not have been caused by any external
+factor, and that it could have been caused by spontaneous combustion due to humid temperatures.
+The quantum of loss suffered by the respondent, after accounting for deductions under multiple
+heads was assessed by the surveyor at Rs 84,19,579/-.
+
+11. Although the respondent had initially submitted its claim bill dated 27.07.2018 claiming Rs
+1,76,19,967/- from the appellant, yet on 24.12.2018, a consent letter was issued by the respondent to
+the surveyor accepting the assessment of loss made by the surveyor, i.e., at Rs 84,19,579/-. In the
+consent letter, the respondent stated that in view of the detailed discussion it had with the surveyor
+as regards the volumetric calculation of the quantity of cotton bales said to have been damaged, it
+was ready to accept the quantity to be 3,17,085.30 kg as against its initial claim of 4,41,111.58 kg.
+
+12. After addressing the consent letter as aforesaid to the surveyor, the respondent signed an
+advance discharge voucher dated 04.01.2019, confirming the receipt of Rs 84,19,579/- from the
+appellant as the full and final settlement towards their claim. The discharge voucher also stated,
+inter alia, that the respondent was discharging the appellant of the liability arising under its claim.
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+3
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+13. Subsequent to the signing of the advance discharge voucher, the appellant released the claim
+settlement amount of Rs 84,08,957/- on 31.01.2019.
+
+14. Thereafter, in relation to the claim arising out of the second fire incident, the appellant released
+a total amount of Rs 4,86,67,050/- in three instalments. The third and final instalment of Rs
+2,23,67,050/- was released on 14.10.2019.
+
+15. On 25.10.2019, that is eleven days after the receipt of the third and final instalment in relation to
+the claim arising out of the second fire incident, the respondent dropped one letter by hand delivery
+at the office of the appellant. The respondent, inter alia, stated in the said letter that a copy of the
+surveyor’s final assessment report was not provided to it despite earlier requests. The respondent
+alleged that it had to sign the final discharge voucher as it was badly in need of money. The
+respondent further stated in its letter that it had been unable to take any action due to non-receipt of
+the surveyor’s report. The appellant refused to accept the letter and returned it back to the
+respondent. The contents of the letter are reproduced hereinbelow:
+
+“Date:- 25/10/2019 To, The Manager, SBI General Insurance Company, Ahmedabad.
+
+Subject: - Fire claim no.513768 for loss dated 28/05/2018.
+
+Respected Sir, In connection to the above, we have requested you to provide the copy
+of the complete survey report along with all enclosures thereof to enable us to
+understand the calculations made by the surveyor to arrive at the gross and net loss /
+damage. Please note that despite our request, we have not received the copy of survey
+report, which shows your arrogant approach.
+
+At this stage, we wish to inform you that you have taken our consent on the amount
+assessed by the surveyor. We have signed the working sent by you. During the said
+period, there was another fire in our factory, in which the entire stock, building, plant
+and machinery have been damaged and we were badly in need of money, hence
+considering you being a reputed insurance company, you must have examined the
+assessment made by the surveyor and on that trust bearing in mind, we have signed
+the working sheet of assessments and voucher is also signed by us in your office as
+you have informed that we would get the payment immediately. But the same was
+also delayed beyond reasonable time.
+
+Now, since our auditors and bankers would like to know the grounds considering
+which, the balance amount of our claim is not considered by you / surveyor, you are
+once again requested to provide the copy of survey report along with all the
+documents submitted to you by the surveyor, based on which, the claim has been
+settled and paid by you.
+
+Since we have not received the copy of surveyor report, we are unable to take further
+action. Once again, you are requested to provide the copy of survey report along with
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+4
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+all enclosures thereof.
+
+Please consider this letter as a notice.
+
+Yours Faithfully For KRISH SPINNING”
+
+16. The respondent, on the same day, sent an email to the appellant with a copy of the aforesaid
+letter calling upon the respondent to take appropriate and necessary action. The contents of the said
+email are reproduced hereinbelow:
+
+“Sir, This is in reference to the above subject, today at around 04:00 pm, or
+personnel visited your office to hand over a letter requesting you to provide the
+complete survey report of our fire claim no.-513768 for loss dated 28/05/2018. You,
+in turn returned the letter without accepting it, asking to get the letter signed by our
+Mr. Ashwinkumar N. Kacha and resubmit the same.
+
+We wish to inform that Mr. Ashwinkumar Kacha is busy with medical emergency,
+and we will submit the letter signed by him, when he is relieved from the medical
+emergency. Attached herewith, is the copy of the said letter for your kind reference
+and necessary action.
+
+Thanks & Regards”
+
+17. The appellant replied to the aforesaid letter as well as the email vide the letter dated 07.11.2019
+refuting the allegations of the respondent by stating that the assessment of loss was personally
+explained by the surveyor to the representative of the respondent who in turn had taken an
+informed decision of accepting the settlement amount and signing the consent letter and the
+advance discharge voucher. A copy of the survey report was also provided to the respondent along
+with the reply letter. The contents of the said reply letter are reproduced hereinbelow:
+
+“SBI GENERAL INSURANCE Dt: 07/11/2019 To M/s Krish Spinning Survey No.
+845, Nenpur Haidarvas Road, Ghodsar Gam, Tal: Mehmdabad, Gujarat-387110 (M):
+9377071329 Dear Sir, Re: Claim No. 513768 under Policy No. 9006820 Date of Loss:
+28/05/2018 Sub: Reply of Your letter dated 25/10/2019 We refer to your letter dated
+25/10/2019, wherein you have made reference of previous communications asking
+for copy of survey report. We have reviewed our records and we regret to inform that
+we are not able to locate any communication in our record through which a request
+was made seeking copy of Survey Report of Surveyor M/s Paresh Shah & Associates.
+Unless proved otherwise, we are accordingly considering your letter dated
+25/10/2019 as first communication requesting for copy of survey report.
+
+We reiterate that loss assessment was personally explained to Mr. Ashwin kacha from your office on
+24th December 2018 at our Ahmedabad office and only after understanding the assessment, Mr.
+Kacha had taken an informed decision of signing the consent letter. This consent letter was also
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+5
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+followed with an advance discharge voucher which was submitted by your office in response to our
+settlement offer.
+
+Furthermore, the payment remittance for claim settlement amount was carried out on 8th January
+2019 which is within 15 days from the date of submission of consent letter and thus there was no
+delay beyond reasonable time as alleged in your letter.
+
+As requested in your referred letter, we are pleased to attach copy of survey report that forms basis
+of claim remittance. You may also note that loss assessment arrived by surveyor in attached survey
+report is in line with loss workings reviewed with Mr. Kacha.
+
+Yours Sincerely For SBI General Insurance Company Ltd., (Sd) Authorized Signatory”
+
+18. On 02.03.2020, the respondent issued a legal notice calling upon the appellant to release the
+balance payment of the claim amount arising out of the first fire incident. The respondent, in the
+said notice, alleged, inter alia, that he had signed the consent letter and the advance discharge
+voucher under the apprehension that if he would not have signed the said documents, then the claim
+in relation to the second fire incident, which was pending on the date of the signing of the discharge
+voucher, would have been detrimentally affected. Thus, the discharge voucher could be said to have
+been signed under coercion, undue influence, and without free will and volition of the respondent.
+The respondent further stated that it had sent the protest letter dated 25.10.2019 immediately after
+receiving the final instalment in relation to the claim arising out of the second fire incident. The
+respondent further stated that in the event of the appellant’s denial or failure to pay the balance
+amount within a period of 15 days, the legal notice should be treated as notice invoking arbitration.
+
+19. The appellant replied to the aforesaid legal notice on 16.03.2020 refuting the allegations made
+by the respondent, alleging them to be mala fide and an after-thought. The appellant stated that the
+discharge voucher signed by the respondent was unqualified and on his own free will and volition. It
+was further stated by the appellant that the amount being claimed by the respondent was not due in
+the first place, thereby making the dispute not one of quantum but one of liability, and therefore the
+arbitration agreement would not be attracted to the dispute raised.
+
+20. As the parties were unable to arrive at any amicable resolution of the dispute, and as no
+arbitrator was nominated by the appellant in response to the notice invoking arbitration, the
+respondent, on 25.10.2021 filed a petition for the appointment of arbitrator under Section 11(6) of
+the Arbitration and Conciliation Act, 1996 (hereinafter “the Act, 1996”) before the High Court.
+
+21. The case of the respondent before the High Court was that as against the loss of Rs 1,76,19,967/-
+suffered by it, the appellant company paid only Rs 84,19,579/- and thus it was not completely
+indemnified. It was also argued that the appellant had not explained why at the time of obtaining
+the consent letter an amount of Rs 92,00,388/- was deducted from the total amount claimed.
+
+22. The appellant, on the other hand, contested the arbitration petition filed by the respondent on
+the ground that the claim raised by the respondent herein was stale and having once signed the
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+6
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+consent letter dated 24.12.2018, it was not open for it to turn around and raise a dispute. The
+appellant also contended that it was open for the court to look into the question of arbitrability at
+the stage of deciding the Section 11 petition.
+
+23. The High Court, having regard to the aforesaid submissions of the parties, held that the dispute
+in question was falling in the realm of adjudication and the same is the function to be discharged by
+an arbitrator. Placing reliance on the decision of this Court in Oriental Insurance Company Ltd. v.
+Dicitex Furnishing Ltd. reported in (2020) 4 SCC 621, the High Court held that if the dispute
+existing between the parties could be referred to arbitration under the arbitration agreement, then
+appointment of arbitrator has to follow. Some pertinent observations made by the High Court are
+extracted hereinbelow:
+
+“6. Therefore, on one hand, the company has taken a stand that the petitioner is paid
+the amounts due and payable under the policy and that there is no need to refer the
+disputes to the arbitration under clause 13 of the policy, on the other hand, the
+petitioner disputes such case on various grounds. It was stated that amount of Rs.
+92,00,388/-is wrongfully deducted while making payment of Rs. 84,19,579/
+inasmuch as total claim lodged was Rs. 1,76,19,967/-.
+
+6.1 Therefore, the above aspects indeed travels to the adjudicatory realm, which is the
+function to be discharged by the arbitrator. When the claim is disputed, it is the
+arbitrator who may competently decide the claim. Arbitrability of the dispute is also
+to be decided by the arbitrator. While exercising the powers under section 8 of the
+Arbitration and Conciliation Act, 1996, such questions cannot be gone into by this
+Court and when there is an arbitration clause, the aspects are to be decided by the
+arbitrator for such purpose.
+
+6.2 Following observations of the Supreme Court in Oriental Insurance Company
+Ltd. vs. Dicitex Furnishing Ltd.
+
+[(2020) 4 SCC 621], may be pertinently noticed, "...an application under Section 11(6) is in the form
+of a pleading which merely seeks an order of the court, for appointment of an arbitrator. It cannot
+be conclusive of the pleas or contentions that the claimant or the concerned party can take, in the
+arbitral proceedings. At this stage, therefore, the court which is required to ensure that an arbitrable
+dispute exists, has to be prima facie convinced about the genuineness or credibility of the plea of
+coercion; it cannot be too particular about the nature of the plea, which necessarily has to be made
+and established in the substantive (read:
+
+arbitration) proceeding. If the court were to take a contrary approach and minutely
+examine the and plea judge its credibility or reasonableness, there would be a danger
+of its denying a forum to the applicant altogether, because rejection of the application
+would render the finding (about the finality of the discharge and its effect as
+satisfaction) final, thus, precluding the applicant of itsright event to approach a civil
+court."
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+7
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+6.3 In the proceedings under section 8 of the Arbitration Act, it is not the function of
+the Court to examine in detail, the extant and nature of dispute, if dispute exist is
+referable to the arbitration clause occurring in the agreement between the parties, the
+appointment of arbitrator has to follow.
+
+6.4 It is observed that this Court has not expressed any opinion on merits of the
+dispute and arbitrability thereof.
+
+6.5 In view of the above discussion, the prayer made in the present application for
+appointment of arbitrator shall have to be adverted to.
+
+7. In the result, the Registry is directed to list the same before the appropriate Bench
+in accordance with roster for the purpose of passing the order regarding appointment
+of arbitrator.”
+
+24. The aforesaid observations were made by the High Court in its order dated 22.09.2023 which
+has been impugned by the appellant in SLP(C) No. 7220 of 2024. After making the above quoted
+observations in favour of the respondent, the High Court directed that the arbitration application be
+listed before an appropriate bench in accordance with the roster. In pursuance of the said order, the
+matter came to be listed before the Chief Justice of the High Court, wherein an order for
+appointment of arbitrator was passed. The said order dated 01.12.2023 has been impugned by the
+appellant in SLP(C)No. 3792 of 2024.
+
+B. SUBMISSIONS ON BEHALF OF THE APPELLANT
+
+25. Mr Ketan Paul, the learned counsel appearing on behalf of the appellant, submitted that a full
+and final settlement was arrived at between the parties thereby indicating that a distinct
+understanding was arrived at between them. No plea or assertion has been made by the respondent,
+nor any prima facie evidence has been adduced to establish that the appellant had made the
+execution of the discharge voucher a pre-condition to the payment of the claim, or offered the
+amount on a “take it or leave it basis”. Seen thus, the test laid down by this Court in paragraph 52(iv)
+of the National Insurance Co. Ltd. v. Boghara Polyfab reported in (2009)1 SCC 267 can neither be
+said to have been alleged nor satisfied.
+
+26. It was further submitted that there has been an inordinate delay on the part of the respondent in
+levelling allegations of coercion. Such allegations came to be so levelled for the first time in the
+arbitration notice dated 02.03.2020, that is, almost 14 months after the payment of the subject
+claim and five months after the payment of the second claim. The counsel submitted that the claim
+amount as per the assessment of the loss by the surveyor was known to the respondent since
+24.12.2018, thereby indicating that the allegations of coercion were an afterthought.
+
+27. In support of his aforesaid submission, the counsel placed reliance on the decision of this Court
+in NTPC Ltd. v. SPML Infra Ltd. reported in (2023) SCC OnLine SC 389. He submitted that even
+when examined through the “eye of the needle” test, the claim could be said to be deadwood and the
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+8
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+arbitration application ought to have been rejected by the High Court on this count alone. The
+counsel also placed reliance on the decision of this Court in New India Assurance Co. Ltd. v. Genus
+Power Infrastructure Ltd. reported in (2015) 2 SCC 424 to submit that arbitration ought to be
+refused in case of inordinate delay in raising the dispute or levelling allegations of coercion by the
+party seeking the referral of disputes to arbitration.
+
+28. One another submission made by the counsel was that the pleadings of the respondent lack the
+basic material particulars about any alleged coercion and the poor financial condition of the
+respondents. It was further submitted that even in the arbitration notice all that the respondents
+have stated is that had they not signed the discharge voucher in respect of the first claim, their
+second claim also would have been affected.
+
+29. The counsel submitted that the letter dated 25.10.2019 addressed by the respondent cannot be
+said to be a protest letter as the letter only asked for a copy of the surveyor’s report to be provided
+and no allegation of any coercion or any demand for any amount was even raised in the said letter.
+The counsel finally submitted that a discharge voucher for effecting the full and final settlement in
+relation to the second claim was also signed by the respondent on 30.09.2019, which was accepted
+and no dispute has been raised in the last five years, which indicates that the appellant acted in a
+bona fide manner as per the prescribed norms.
+
+C. SUBMISSIONS ON BEHALF OF THE RESPONDENT
+
+30. Ms Savita Singh, the learned counsel appearing on behalf of the respondent, at the outset
+submitted that her client had to succumb before the surveyor on account of acute economic distress
+and also on account of pendency of huge amount of claim with the appellant, i.e., around Rs 8 crore
+cumulatively arising out of the two claims. The respondent was also under pressure from other
+financial institutions from whom loan had been availed.
+
+31. The counsel further submitted that the circumstances were such that her client had to issue the
+discharge voucher, otherwise payment towards the admitted amount would not have been released
+and her client would have been put in immense difficulties. She submitted that mere signing of the
+discharge voucher by her client would not imply that there was consensus in arriving at the full and
+final settlement. The counsel submitted that the coercion, though subtle, was very much real and
+thus in such a situation where the settlement is not voluntary, but under duress, the arbitration
+clause can be invoked to refer the disputes to arbitration.
+
+32. The counsel also submitted that it cannot be said that there was an inordinate delay in raising
+the plea of coercion as the letter dated 25.09.2019 was sent by her client to the appellant within 11
+days of the receipt of final payment in relation to the second insurance claim. However, the
+appellant provided a copy of the surveyor’s report only on 07.11.2019 based on which the notice of
+arbitration was issued on 02.03.2020.
+
+33. The counsel, in the last, submitted that the issues raised by the appellant are subject matter of
+arbitration by the tribunal and not of the referral court, which has to limit its scrutiny to the issue of
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+9
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+arbitrability in view of the settled position of law.
+
+D. ISSUES FOR DETERMINATION
+
+34. Having heard the learned counsel appearing for the parties and having gone through the
+materials on record, the following three questions fall for our consideration: -
+
+i. Whether the execution of a discharge voucher towards the full and final settlement
+between the parties would operate as a bar to invoke arbitration?
+
+ii. What is the scope and standard of judicial scrutiny that an application under
+Section 11(6) of the Act, 1996 can be subjected to when a plea of “accord and
+satisfaction” is taken by the defendant?
+
+iii. What is the effect of the decision of this Court in In Re: Interplay Between
+Arbitration Agreements under the Arbitration and Conciliation Act 1966 and the
+Indian Stamp Act 1899 on the scope of powers of the referral court under Section 11
+of the Act, 1996?
+
+E. ANALYSIS
+
+35. Clause 13 of the insurance policy issued in favour of the respondent contains the
+following arbitration clause:
+
+“13) If any dispute or difference shall arise as to the quantum to be paid under this
+Policy (liability being otherwise admitted) such difference shall independently of all
+other questions be referred to the decision of a sole arbitrator to be appointed in
+writing by the parties to or if they cannot agree upon a single arbitrator within 30
+days of any party invoking arbitration the same shall be referred to a panel of three
+arbitrators, comprising of arbitrators, one to be appointed by each of the parties to
+the dispute/difference and the third arbitrator to be appointed by such two
+arbitrators and arbitration shall be conducted under and in accordance with the
+provision of the Arbitration and Conciliation Act, 1996.
+
+It is clearly agreed and understood that no dispute or difference shall be referrable to
+arbitration as hereinbefore proved, if the Company has disputed or not accepted
+liability under or in respect of this policy. It is hereby expressed stipulated and
+declared that it shall be a condition precedent to any right of action or suit upon this
+Policy that the award by such arbitrator/arbitrators of the amount of the loss or
+damaged shall be first obtained”
+
+36. A preliminary objection was raised on behalf of the appellant that the arbitration
+clause as contained in the insurance policy referred to above is not attracted in the
+present case as there is no admission of liability on the part of the appellant, whereas
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+10
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+the said arbitration clause envisages reference to arbitration only in cases where
+liability is admitted and there is a dispute as regards the quantum of liability.
+
+37. However, we find no merit in the aforesaid submission of the appellant. It is
+evident from the record that the appellant had admitted its liability with respect to
+the first claim and had even disbursed an amount of Rs 84,19,579/- in pursuance of
+the signing of the advance discharge voucher by the respondent. Thus, it is clearly a
+case of admission of liability by the appellant. However, the quantum of liability is in
+dispute as the amount claimed by the respondent is at variance with the amount
+admitted by the appellant. Thus, the dispute being one of quantum and not of
+liability, it falls within the ambit of the conditional arbitration clause as contained in
+the insurance policy.
+
+38. One another preliminary objection raised by the appellant was that the claim
+sought to be referred to arbitration is a deadwood claim and thus the application for
+appointment of arbitrator ought to have been rejected at the outset by the High
+Court. It is clear from the facts as discussed in the preceding paragraphs that the
+notice invoking arbitration was sent by the respondent to the appellant on
+02.03.2020 and the petition seeking appointment of arbitrator under Section 11(6) of
+the Act, 1996 was filed before the High Court on 25.10.2021. Thus, the arbitration
+petition was filed before the High Court much prior to the expiry of the limitation
+period of three years. Further, the notice invoking arbitration was also sent by the
+respondent well within time from the date of the accrual of the cause of action.
+Considered thus, it cannot, by any stretch of imagination, be said that the claim is a
+deadwood claim or the arbitration application before the High Court was
+time-barred.
+
+39. Having rejected the aforesaid two preliminary objections raised by the appellant,
+the question that now remains to be examined is whether, in the facts of the present
+case, the respondent could have invoked arbitration after having signed the consent
+letter dated 24.12.2018 and the advance discharge voucher dated 04.01.2019.
+
+i. Whether the execution of a discharge voucher towards the full and final settlement between the
+parties would operate as a bar to invoke arbitration?
+
+40. A contract between parties can come to an end by the performance thereof by both the parties,
+that is, by the fulfilment of all the obligations in terms of the original contract. This is referred to as
+discharge by performance. Alternatively, the contract may also be discharged by substitution of
+certain new obligations in place of the obligations contained in the original contract, and subsequent
+performance of the substituted obligations. The substituted obligations are referred to as ‘accord’
+and the discharge of the substituted obligations is referred to as ‘satisfaction’. It is referred to as
+discharge by “accord and satisfaction” or by “full and final settlement” in common parlance.
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+11
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+41. A written confirmation of discharge by “accord and satisfaction” can also be in the form of a full
+and final discharge voucher or a No-Dues or a No- Claims Certificate issued by one of the parties
+acknowledging that there are no outstanding claims and that such a party has received the full and
+final payment to its satisfaction. In the insurance sector, the general practice is that the insurer
+obtains undated discharge vouchers from the insured in advance by making the insured to sign on
+dotted lines before processing the payment in respect of the claims of the insured.
+
+42. The concept of discharge of a contract by “accord and satisfaction” is embodied in Section 63 of
+the Indian Contract Act, 1872, which provides that the promisee may, inter alia, accept any
+substituted obligation in place of the original promise made to him, and such acceptance on the part
+of the promisee would amount to the discharge of the contract. Section 63 along with the
+illustrations is reproduced hereinbelow:
+
+“63. Promisee may dispense with or remit performance of promisee.—Every
+promisee may dispense with or remit, wholly or in part, the performance of the
+promisee made to him, or may extend the time for such performance, or may accept
+instead of it any satisfaction which he thinks fit.
+
+Illustrations
+
+(a) A promises to paint a picture for B. B afterwards forbids him to do so. A is no
+longer bound to perform the promise.
+
+(b) A owes B 5,000 rupees. A pays to B, and B accepts, in satisfaction of the whole
+debt, 2,000 rupees paid at the time and place at which the 5,000 rupees were
+payable. The whole debt is discharged.
+
+(c) A owes B 5,000 rupees. C pays to B 1,000 rupees, and B accepts them, in
+satisfaction of his claim on A. This payment is a discharge of the whole claim.
+
+(d) A owes B, under. a contract, a sum of money, the amount of which has not been
+ascertained. A, without ascertaining the amount, gives to B, and B, in satisfaction
+thereof, accepts, the sum of 2,000 rupees. This is a discharge of the whole debt,
+whatever may be its amount.
+
+(e) A owes B 2,000 rupees, and is also indebted to other creditors. A makes an
+arrangement with his creditors, including B, to pay them a [composition] of eight
+annas in the rupee upon their respective demands. Payment to B of 1,000 rupees is a
+discharge of B’s demand.” (Emphasis supplied)
+
+43. The Privy Council in Payana Reena Saminathan v. Pana Lana Palaniappa reported in (1913-14)
+41 IA 142 defined the term “accord and satisfaction” as follows:
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+12
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+“… The ‘receipt’ given by the appellants and accepted by the respondent, and acted on
+by both parties proves conclusively that all the parties agreed to a settlement of all
+their existing disputes by the arrangement formulated in the ‘receipt’. It is a clear
+example of what used to be well known as common law pleading as ‘accord and
+satisfaction by a substituted agreement’. No matter what were the respective rights of
+the parties inter se they are abandoned in consideration of the acceptance by all for a
+new agreement.
+
+The consequence is that when such an accord and satisfaction takes place the prior
+rights of the parties are extinguished. They have in fact been exchanged for the new
+rights; and the new agreement becomes a new departure, and the rights of all the
+parties are fully represented by it.” (Emphasis supplied)
+
+44. As discussed in the preceding paragraphs, the appellant has contested that once a full and final
+settlement was arrived at between the parties, the insurance contract between the parties could be
+said to have been discharged. Once the contract stood discharged, it was not open to the respondent
+to resile from the settlement and invoke the arbitration clause, as no obligations remained to be
+fulfilled under the contract pursuant to the discharge of the contract. In other words, it is the
+contention of the appellant that as no arbitrable disputes remained after a full and final settlement
+was arrived at, there was nothing left to be referred to the arbitrator and hence the appointment of
+arbitrator being an exercise in futility, should not have been undertaken by the High Court.
+
+45. To answer the aforesaid contention of the appellant, the question that needs to be considered is
+whether the “full and final settlement” of claims arising under a contract, is by itself sufficient to
+preclude any future arbitration in respect of such settled claims?
+
+46. It is indeed so that once a contract has been fully performed, it can be said to have been
+discharged by performance. Once the contract has been discharged by performance, neither any
+right to seek performance, nor any obligation to perform remains under it.
+
+47. However, whether there has been a discharge of contract or not is a mixed question of law and
+fact, and if any dispute arises as to whether a contract has been discharged or not, such a dispute is
+arbitrable as per the mechanism prescribed under the arbitration agreement contained in the
+underlying contract.
+
+a. Whether the arbitration agreement contained in a substantive contract survives even after the
+underlying contract is discharged by “accord and satisfaction”?
+
+48. Arbitration for the purpose of resolving any dispute pertaining to any claim which has been
+“fully and finally settled” between the parties can only be invoked if the arbitration agreement
+survives even after the discharge of the substantive contract.
+
+49. The arbitration agreement, by virtue of the presumption of separability, survives the principal
+contract in which it was contained. Section 16(1) of the Act, 1996 which is based on Article 16 of the
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+13
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+UNCITRAL Model Law on International Commercial Arbitration, 1985 (hereinafter, “Model Law”)
+embodies the presumption of separability. There are two aspects to the doctrine of separability as
+contained in the Act, 1996: -
+
+i. An arbitration clause forming part of a contract is treated as an agreement
+independent of the other terms of the contract.
+
+ii. A decision by the arbitral tribunal declaring the contract as null and void does not,
+ipso facto, make the arbitration clause invalid.
+
+50. The doctrine of separability was not part of the legislative scheme under the Arbitration Act,
+1940. However, with the enactment of the Act, 1996, the doctrine was expressly incorporated. This
+Court in National Agricultural Coop. Marketing Federation India Ltd. v. Gains Trading Ltd. reported
+in (2007) 5 SCC 692, while interpreting Section 16 of the Act, 1996, held that even if the underlying
+contract comes to an end, the arbitration agreement contained in such a contract survives for the
+purpose of resolution of disputes between the parties.
+
+51. The fundamental premise governing the doctrine of separability is that the arbitration agreement
+is incorporated by the parties to a contract with the mutual intention to settle any disputes that may
+arise under or in respect of or with regard to the underlying substantive contract, and thus by its
+inherent nature is independent of the substantive contract.
+
+52. In Heyman v. Darwins Ltd. reported in [1942] AC 356, it was held by the House of Lords that the
+repudiation or breach of a contract does not extinguish the arbitration agreement as it survives for
+the purpose of resolution of any outstanding claims arising out of the breach. It was observed thus:
+
+"I am, accordingly, of the opinion that what is commonly called repudiation or total
+breach of a contract, whether acquiesced in by the other party or not, does not
+abrogate the contract, though it may relieve the injured party of the duty of further
+fulfilling the obligations which he has by the contract undertaken to the repudiating
+party. The contract is not put out of existence, though all further performance of the
+obligations undertaken by each party in favour of the other may cease. It survives for
+the purpose of measuring the claims arising out of the breach, and the arbitration
+clause survives for determining the mode of their settlement. The purposes of the
+contract have failed, but the arbitration clause is not one of the purposes of the
+contract."
+
+(Emphasis supplied)
+
+53. Thus, even if the contracting parties, in pursuance of a settlement, agree to discharge each other
+of any obligations arising under the contract, this does not ipso facto mean that the arbitration
+agreement too would come to an end, unless the parties expressly agree to do the same. The
+intention of the parties in discharging a contract by “accord and satisfaction” is to relieve each other
+of the existing or any new obligations under the contract. Such a discharge of obligations under the
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+14
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+substantive contract cannot be construed to mean that the parties also intended to relieve each other
+of their obligation to settle any dispute pertaining to the original contract through arbitration.
+
+54. Although ordinarily no arbitrable disputes may subsist after execution of a full and final
+settlement, yet any dispute pertaining to the full and final settlement itself, by necessary implication
+being a dispute arising out of or in relation to or under the substantive contract, would not be
+precluded from reference to arbitration as the arbitration agreement contained in the original
+contract continues to be in existence even after the parties have discharged the original contract by
+“accord and satisfaction”.
+
+55. The aforesaid position of law has also been consistently followed by this Court as evident from
+many decisions. In Boghara Polyfab (supra), while rejecting the contention that the mere act of
+signing a “full and final discharge voucher” would act as a bar to arbitration, this Court held as
+follows:
+
+“44. … None of the three cases relied on by the appellant lay down a proposition that
+mere execution of a full and final settlement receipt or a discharge voucher is a bar to
+arbitration, even when the validity thereof is challenged by the claimant on the
+ground of fraud, coercion or undue influence. Nor do they lay down a proposition
+that even if the discharge of contract is not genuine or legal, the claims cannot be
+referred to arbitration. […]”
+
+56. Again, in R.L. Kalathia and Company v. State of Gujarat reported in (2011) 2 SCC 400, it was
+re-iterated that the mere issuance of the no-dues certificate would not operate as a bar against the
+raising of genuine claims even after the date of issuance of such certificate. The relevant
+observations are extracted hereinbelow:
+
+“13. From the above conclusions of this Court, the following principles emerge:
+
+(1) Merely because the contractor has issued "no-dues certificate", if there is an
+acceptable claim, the court cannot reject the same on the ground of issuance of
+"no-dues certificate".
+
+(ii) Inasmuch as it is common that unless a discharge certificate is given in advance
+by the contractor, payment of bills are generally delayed, hence such a clause in the
+contract would not be an absolute bar to a contractor raising claims which are
+genuine at a later date even after submission of such "no-claim certificate".
+
+(iii) Even after execution of full and final discharge voucher/receipt by one of the
+parties, if the said party is able to establish that he is entitled to further amount for
+which he is having adequate materials, he is not barred from claiming such amount
+merely because of acceptance of the final bill by mentioning "without prejudice" or by
+issuing "no-dues certificate".
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+15
+
+(Emphasis supplied)
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+57. The position that emerges from the aforesaid discussion is that there is no rule of an absolute
+kind which precludes arbitration in cases where a full and final settlement has been arrived at. In
+Boghara Polyfab (supra), discussing in the context of a case similar to the one at hand, wherein the
+discharge voucher was alleged to have been obtained on ground of coercion, it was observed that the
+discharge of a contract by full and final settlement by issuance of a discharge voucher or a no-dues
+certificate extends only to those vouchers or certificates which are validly and voluntarily executed.
+Thus, if the party said to have executed the discharge voucher or the no dues certificate alleges that
+the execution was on account of fraud, coercion or undue influence exercised by the other party and
+is able to establish such an allegation, then the discharge of the contract by virtue of issuance of such
+a discharge voucher or no dues certificate is rendered void and cannot be acted upon.
+
+58. It was further held in Boghara Polyfab (supra) that the mere execution of a full and final
+settlement receipt or a discharge voucher would not by itself operate as a bar to arbitration when the
+validity of such a receipt or voucher is challenged by the claimant on the ground of fraud, coercion
+or undue influence. In other words, where the parties are not ad idem over accepting the execution
+of the no-claim certificate or the discharge voucher, such disputed discharge voucher may itself give
+rise to an arbitrable dispute.
+
+59. Once the full and final settlement of the original contract itself becomes a matter of dispute and
+disagreement between the parties, then such a dispute can be categorised as one arising “in relation
+to” or “in connection with” or “upon” the original contract which can be referred to arbitration in
+accordance with the arbitration clause contained in the original contract, notwithstanding the plea
+that there was a full and final settlement between the parties.
+
+ii. What is the scope and standard of judicial scrutiny that an application under Section 11(6) of the
+Act, 1996 can be subjected to when a plea of “accord and satisfaction” is taken by the defendant?
+
+60. Whether the issue as regards the validity of the full and final settlement is to be determined by
+the referral court acting under Section 11 of the Act, 1996 or by the arbitral tribunal has been
+considered in a number of decisions of this Court. Some of these decisions have also delineated the
+extent and standard of enquiry which can be undertaken at the stage of Section 11 petition. We shall
+discuss these decisions in detail for the benefit of the exposition of the law on the subject.
+
+61. One of the earliest decisions dealing with the issue of “full and final settlement” in the specific
+context of an application for appointment of arbitrator under the Arbitration Act, 1940 was
+rendered by a two-Judge Bench of this Court in Damodar Valley Corporation v. K.K. Kar reported in
+(1974) 1 SCC 141. It was observed, inter alia, that any dispute arising in relation to the validity of the
+discharge by “accord and satisfaction” would be covered by the arbitration agreement contained in
+the original contract, and thus should be referred to the arbitral tribunal for determination. The
+relevant observations are extracted hereinbelow:
+
+“4. On these facts the short question for determination is:
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+16
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+where one of the parties refers a dispute or disputes to arbitration and the other party
+takes a plea that there was a final settlement of all claims, is the Court, on an
+application under Sections 9(b) and 33 of the Act, entitled to enquire into the truth
+and validity of the averment as to whether there was or was not a final settlement on
+the ground that if that was proved, it would bar a reference to the arbitration
+inasmuch as the arbitration clause itself would perish.
+
+xxx xxx xxx
+
+6. It appears to us that the question whether there has been a full and final settlement
+of a claim under the contract is itself a dispute arising “upon” or “in relation to” or “in
+connection with” the contract. These words are wide enough to cover the dispute
+sought to be referred. The respondent's contention is that the contract has been
+repudiated by the appellant unilaterally as a result of which he had no option but to
+accept that repudiation because if the appellant was not ready to receive the goods he
+could not supply them to him or force him to receive them. In the circumstances,
+while accepting the repudiation, without conceding that the appellant had a right to
+repudiate the contract, he could claim damages for breach of contract. Such a claim
+for damages is a dispute or difference which arises between himself and the appellant
+and is ‘upon’ or ‘in relation to’ or ‘in connection with’ the contract.
+
+7. The contention that has been canvassed before us is that as there has been a full
+and final settlement under the contract, the rights and obligations under the contract
+do not subsist and consequently the arbitration clause also perishes along with the
+settlement. If so, the dispute whether there has or has not been a settlement cannot
+be the subject of an arbitration. There is, in our view, a basic fallacy underlying this
+submission. A contract is the creature of an agreement between the parties and where
+the parties under the terms of the contract agree to incorporate an arbitration clause,
+that clause stands apart from the rights and obligations under that contract, as it has
+been incorporated with the object of providing a machinery for the settlement of
+disputes arising in relation to or in connection with that contract. The questions of
+unilateral repudiation of the rights and obligations under the contract or of a full and
+final settlement of the contract relate to the performance or discharge of the contract.
+Far from putting an end to the arbitration clause, they fall within the purview of it. A
+repudiation by one party alone does not terminate the contract. It takes two to end it,
+and hence it follows that as the contract subsists for the determination of the rights
+and obligations of the parties, the arbitration clause also survives. This is not a case
+where the plea is that the contract is void, illegal or fraudulent etc. in which case, the
+entire contract along with the arbitration clause is non est, or voidable. […]”
+(Emphasis supplied)
+
+62. In Bharat Heavy Electricals Ltd. vs. Amar Nath Bhan Prakash reported in (1982) 1 SCC 625 it
+was observed by this Court that the question whether there was discharge of the contract by “accord
+and satisfaction” or not is a dispute liable to be resolved by the arbitral tribunal and the court ought
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+17
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+to appoint an arbitrator in such matters when a party approaches it seeking relief for the same. It
+was observed thus:
+
+“1. It appears from the order of the High Court impugned in the appeal that the High
+Court has not correctly appreciated the position that the question whether there was
+discharge of the contract by accord and satisfaction or not, is a dispute arising out of
+the contract and is liable to be referred to arbitration and hence the application of the
+Respondent under Section 20 of the Indian Arbitration Act should have been allowed
+and the matters in dispute between the parties, including the question whether or not
+there was discharge of the contract by accord and satisfaction should have been
+referred to arbitration.” (Emphasis supplied)
+
+63. However, the position on the issue witnessed a change with subsequent decisions of this Court in
+P.K. Ramaiah and Company v. Chairman and Managing Director, National Thermal Power
+Corporation reported in 1994 Supp (3) SCC 126 and Nathani Steels Ltd. v. Associated Constructions
+reported in 1995 Supp (3) SCC 324.
+
+64. In P.K. Ramaiah (supra), the decision in Damodar Valley (supra) was distinguished on facts, and
+it was held that once “full and final settlement” is arrived at, no arbitral dispute subsists, and hence
+there can be no referral to arbitration. The relevant observations made therein are as follows:
+
+“6. [….] If there is an arbitrable dispute, it shall be referred to the named arbitrator.
+But there must exist a subsisting dispute. Admittedly the appellant acknowledged in
+writing accepting the correctness of the measurements as well as the final settlement
+and received the amount. Thereafter no arbitrable dispute arise for reference.
+
+xxx xxx xxx
+
+8. […] Accordingly, we hold that the appellant having acknowledged the settlement
+and also accepted measurements and having received the amount in full and final
+settlement of the claim, there is accord and satisfaction.
+
+There is no existing arbitrable dispute for reference to the arbitration. The High Court is, therefore,
+right in its finding in this behalf. The appeals are dismissed but in the circumstances without costs.”
+
+65. In Nathani Steels (supra), relying upon the decision in P.K. Ramaiah (supra) it was observed
+thus:
+
+“3. […] It would thus be seen that once there is a full and final settlement in respect of
+any particular dispute or difference in relation to a matter covered under the
+Arbitration clause in the contract and that dispute or difference is finally settled by
+and between the parties, such a dispute or difference does not remain to be an
+arbitrable dispute and the Arbitration clause cannot be invoked even though for
+certain other matters, the contract may be in subsistence. […]”
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+18
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+66. It is important to note that the aforesaid four decisions were rendered in the context of
+appointment of arbitrator under the Arbitration Act, 1940. With the introduction of the Act, 1996, a
+different regime came into being insofar as the question of appointment of arbitrator is concerned.
+In Jayesh Engineering Works v New India Assurance Co. Ltd. reported in (2000) 10 SCC 178,
+dealing with an application for appointment of arbitrator under the Act, 1996, a position similar to
+the one taken in Amar Nath (supra) was taken by this Court. It was held thus:
+
+“1. […] Whether any amount is due to be paid and how far the claim made by the
+Appellant is tenable are matters to be considered by the Arbitrator. In fact, whether
+the contract has been fully worked out and whether the payments have been made in
+full and final settlement are questions to be considered by the Arbitrator when there
+is a dispute regarding the same. […]”
+
+67. While the aspect of “accord and satisfaction” in the specific context of the
+appointment of arbitrator has been discussed by this Court on numerous occasions,
+we also deem it necessary to refer to and discuss some important decisions touching
+upon the contours of the power of the referral court under Section 11 of the Act, 1996
+as they directly affect the issue at hand.
+
+68. The role to be played by the Chief Justice or his designate in the appointment of
+an arbitrator has been at the heart of number of decisions of this Court. In Konkan
+Railway Corpn. Ltd. v. Rani Construction (P) Ltd. reported in (2002) 2 SCC 388, a
+five-Judge Bench of this Court observed that the power exercised by the referral court
+under Section 11 of the Act, 1996 is an administrative power and thus the Chief
+Justice or his designate do not have to decide any preliminary issue at that stage.
+
+Accordingly, it held that any issues pertaining to non-arbitrability, validity and existence of the
+arbitration agreement are to be decided by the arbitrator.
+
+69. The aforesaid view occupied the field till a seven-Judge Bench of this Court in SBP & Co. v. Patel
+Engg. Ltd. reported in (2005) 8 SCC 618, characterised the power conferred upon the Chief Justice
+or his designate under Section 11 of the Act, 1996 as a judicial power and not merely administrative
+power. This Court held that the Chief Justice or his designate had the right to decide all preliminary
+issues at the referral stage under Section 11(6) of the Act, 1996. The Court took such view on the
+premise that Section 16 of the Act, 1996, which empowers the Arbitral Tribunal to rule on its own
+jurisdiction, applies only when the parties go before the Tribunal without having taken recourse to
+Sections 8 or 11 respectively of the Act, 1996 first.
+
+70. In Boghara Polyfab (supra), this Court examined the extent of judicial interference at the stage
+of referral under Section 11(6) of the Act, 1996 as laid down in SBP & Co. (supra) and elucidated
+three categories of issues which could arise before the referral court as follows:
+
+“22.1. The issues (first category) which the Chief Justice/his designate will have to
+decide are:
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+19
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+(a) Whether the party making the application has approached the appropriate High
+Court.
+
+(b) Whether there is an arbitration agreement and whether the party who has applied
+under Section 11 of the Act, is a party to such an agreement.
+
+22.2. The issues (second category) which the Chief Justice/his designate may choose to decide (or
+leave them to the decision of the Arbitral Tribunal) are:
+
+(a) Whether the claim is a dead (long-barred) claim or a live claim.
+
+(b) Whether the parties have concluded the contract/transaction by recording
+satisfaction of their mutual rights and obligation or by receiving the final payment
+without objection.
+
+22.3. The issues (third category) which the Chief Justice/his designate should leave exclusively to
+the Arbitral Tribunal are:
+
+(i) Whether a claim made falls within the arbitration clause (as for example, a matter
+which is reserved for final decision of a departmental authority and excepted or
+excluded from arbitration).
+
+(ii) Merits or any claim involved in the arbitration.”
+
+71. The decision in Boghara Polyfab (supra) was followed in a number of subsequent
+decisions of this Court. In Union of India v. Master Construction Co. reported in
+(2011) 12 SCC 349, this Court held that while deciding an application under Section
+11(6) of the Act, 1996, the referral court must satisfy itself that the allegations raised
+against the full and final discharge voucher were at least prima facie bona fide and
+genuine.
+
+Applying the said reasoning to the facts before it, this Court held that the dispute was not a bona fide
+one and declined to refer the matter to arbitration. The relevant extracts are reproduced
+hereinbelow:
+
+“18. In our opinion, there is no rule of the absolute kind. In a case where the claimant
+contends that a discharge voucher or a no-claim certificate as been obtained by fraud
+and the other side contests the correctness, the Chief Justice must look into this
+aspect to find out at least, prima facie whether or not the dispute is bona fide and
+genuine. Where the dispute raised by the claimant with regard to validity of the
+discharge voucher or no-claim certificate or settlement agreement, prima facie,
+appears to be lacking in credibility, there may not be a necessity to refer the dispute
+for arbitration at all.
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+20
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+xxx xxx xxx
+
+23. The present case in our opinion appears to be a case falling in the category of
+exception noted in Boghara Polyfab[(2009) 1 SCC 267](p.284, para 25). As to the
+financial duress or coercion, nothing of this kind is established prima facie. Mere
+allegation that no-claim certificates have been obtained under financial duress and
+coercion, without there being anything more to suggest that, does not lead to an
+arbitrable dispute. The conduct of the contractor clearly shows that “no-claim
+certificates” were given by it voluntarily, the contractor accepted the amount
+voluntarily and the contract was discharged voluntarily.” (Emphasis supplied)
+
+72. In New India Assurance (supra), this Court, relying upon Boghara Polyfab (supra)
+and Master Construction Co. (supra), upon examining the Section 11 petition held
+that a mere bald assertion of fraud, undue influence or coercion would not warrant
+referral of disputes to arbitration, if the matter had already been fully and finally
+settled between the parties. The relevant observations are reproduced hereinbelow:
+
+“10. In our considered view, the plea raised by the Respondent is bereft of any details
+and particulars, and cannot be anything but a bald assertion. Given the fact that there
+was no protest or demur raised around the time or soon after the letter of
+subrogation was signed, that the notice dated 31.03.2011 itself was nearly after three
+weeks and that the financial condition of the Respondent was not so precarious that
+it was left with no alternative but to accept the terms as suggested, we are of the firm
+view that the discharge in the present case and signing of letter of subrogation were
+not because of exercise of any undue influence. Such discharge and signing of letter of
+subrogation was voluntary and free from any coercion or undue influence. In the
+circumstances, we hold that upon execution of the letter of subrogation, there was
+full and final settlement of the claim. Since our answer to the question, whether there
+was really accord and satisfaction, is in the affirmative, in our view no arbitrable
+dispute existed so as to exercise power Under Section 11 of the Act. The High Court
+was not therefore justified in exercising power Under Section 11 of the Act.”
+(Emphasis supplied)
+
+73. The net effect of the decisions in SBP & Co. (supra) and Boghara Polyfab (supra)
+was that the scope for interference available to the referral courts when acting under
+Section 11 of the Act, 1996 was substantially expanded.
+
+The referral courts were conferred with the discretion to conduct mini trials and indulge in the
+appreciation of evidence on the issues concerned with the subject matter of arbitration. The Law
+Commission of India in its 246th report took note of the issue of significant delays being caused to
+the arbitral process due to enlarged scope of judicial interference at the stage of appointment of
+arbitrator and suggested as follows:
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+21
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+i. First, that the power of appointment conferred upon the Chief Justice be devolved
+on to the Supreme Court and the High Court, as the case may be; and ii. Secondly, the
+power of appointment under Section 11 be clarified to be an administrative power
+and not a judicial one.
+
+iii. Thirdly, the scope of interference under Sections 8 and 11 respectively of the Act,
+1996 be restricted only to those cases where the court finds that no arbitration
+agreement exists or is null and void.
+
+74. The Law Commission suggested the insertion of Section 11(6-A) in the Act, 1996.
+The aforesaid recommendations of the Commission were taken note of by the
+Parliament and accordingly the Act, 1996 was amended in 2015 to incorporate
+Section 11(6-A), which reads thus:
+
+“(6A) The Supreme Court or, as the case may be, the High Court, while considering
+any application under sub- section (4) or sub-section (5) or sub-section (6), shall,
+notwithstanding any judgment, decree or order of any Court, confine to the
+examination of the existence of an arbitration agreement.”
+
+75. Interestingly, Section 11(6-A) was omitted by the 2019 amendment to the Act,
+1996 on the basis of a report of the High-Level Committee to Review the
+Institutionalisation of Arbitration Mechanism in India. However, in the absence of
+the omission being notified, Section 11(6-A) of the Act, 1996 continues to remain on
+the statute book and thus has to be given effect as such.
+
+76. The impact of the addition of Section 11(6-A) was elaborately discussed by this
+Court in Duro Felguera, S.A. v. Gangavaram Port Ltd reported in (2017) 9 SCC 729 as
+follows:
+
+“48. […] From a reading of Section 11(6-A), the intention of the legislature is crystal
+clear i.e. the court should and need only look into one aspect—the existence of an
+arbitration agreement. What are the factors for deciding as to whether there is an
+arbitration agreement is the next question. The resolution to that is simple—it needs
+to be seen if the agreement contains a clause which provides for arbitration
+pertaining to the disputes which have arisen between the parties to the agreement.
+
+xxx xxx xxx
+
+59. The scope of the power under Section 11(6) of the 1996 Act was considerably wide
+in view of the decisions in SBP and Co. [(2005) 8 SCC 618] and Boghara Polyfab
+[(2009) 1 SCC 267]. This position continued till the amendment brought about in
+2015. After the amendment, all that the courts need to see is whether an arbitration
+agreement exists—nothing more, nothing less. The legislative policy and purpose is
+essentially to minimise the Court's intervention at the stage of appointing the
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+22
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+arbitrator and this intention as incorporated in Section 11(6-A) ought to be
+respected.” (Emphasis supplied)
+
+77. Despite the decision in Duro Felguera (supra), this Court in United India
+Insurance Co. Ltd. v. Antique Art Exports Pvt. Ltd. reported in (2019) 5 SCC 362,
+while dealing with the issue of “full and final settlement” in the context of
+appointment of an arbitrator, held that mere bald allegation by a party that the
+discharge voucher was obtained under coercion or undue influence would not entitle
+it to seek referral of the dispute to arbitration unless it is able to produce prima facie
+evidence of the same during the course of proceedings under Section 11(6) of the Act,
+1996. Important paragraphs from the said decision are extracted hereinbelow:
+
+“15. From the proposition which has been laid down by this Court, what reveals is
+that a mere plea of fraud, coercion or undue influence in itself is not enough and the
+party who alleged is under obligation to prima facie establish the same by placing
+satisfactory material on record before the Chief Justice or his Designate to exercise
+power under Section 11(6) of the Act, which has been considered by this Court in New
+India Assurance Co. Ltd. case [...] xxx xxx xxx
+
+17. It is true that there cannot be a rule of its kind that mere allegation of discharge
+voucher or no claim certificate being obtained by fraud/coercion/undue influence
+practised by other party in itself is sufficient for appointment of the arbitrator unless
+the claimant who alleges that execution of the discharge agreement or no claim
+certificate was obtained on account of fraud/coercion/undue influence practised by
+the other party is able to produce prima facie evidence to substantiate the same, the
+correctness thereof may be open for the Chief Justice/his Designate to look into this
+aspect to find out at least prima facie whether the dispute is bona fide and genuine in
+taking a decision to invoke Section 11(6) of the Act.
+
+18. In the instant case, the facts are not in dispute that for the two incidents of fire on
+25-9-2013 and 25-10-2013, the appellant Company based on the Surveyor's report
+sent emails on 5-5-2016 and 24-6-2016 for settlement of the claims for both the fires
+dated 25-9-2013 and 25-10-2013 which was responded by the respondent through
+email on the same date itself providing all the necessary information to the regional
+office of the Company and also issued the discharge voucher in full and final
+settlement with accord and satisfaction. Thereafter, on 12-7-2016, the respondent
+desired certain information with details, that too was furnished and for the first time
+on 27-7-2016, it took a U-turn and raised a voice of undue influence/coercion being
+used by the appellant stating that it being in financial distress was left with no option
+than to proceed to sign on the dotted lines. As observed, the phrase in itself is not
+sufficient unless there is a prima facie evidence to establish the allegation of
+coercion/undue influence, which is completely missing in the instant case.
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+23
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+19. In the given facts and circumstances, we are satisfied that the discharge and
+signing the letter of subrogation was not because of any undue influence or coercion
+as being claimed by the respondent and we find no difficulty to hold that upon
+execution of the letter of subrogation, the claim was settled with due accord and
+satisfaction leaving no arbitral dispute to be examined by an arbitrator to be
+appointed under Section 11(6) of the Act.
+
+20. The submission of the learned counsel for the respondent that after insertion of
+sub-section (6-A) to Section 11 of the Amendment Act, 2015 the jurisdiction of this
+Court is denuded and the limited mandate of the Court is to examine the factum of
+existence of an arbitration and relied on the judgment in Duro Felguera, S.A. v.
+Gangavaram Port Ltd. [Duro Felguera, S.A. v. Gangavaram Port Ltd., (2017) 9 SCC
+729 : (2017) 4 SCC (Civ) 764] The exposition in this decision is a general observation
+about the effect of the amended provisions which came to be examined under
+reference to six arbitrable agreements (five agreements for works and one corporate
+guarantee) and each agreement contains a provision for arbitration and there was
+serious dispute between the parties in reference to constitution of Arbitral Tribunal
+whether there has to be Arbitral Tribunal pertaining to each agreement. In the facts
+and circumstances, this Court took note of sub-section (6-A) introduced by the
+Amendment Act, 2015 to Section 11 of the Act and in that context observed that the
+preliminary disputes are to be examined by the arbitrator and are not for the Court to
+be examined within the limited scope available for appointment of arbitrator under
+Section 11(6) of the Act. Suffice it to say that appointment of an arbitrator is a judicial
+power and is not a mere administrative function leaving some degree of judicial
+intervention; when it comes to the question to examine the existence of a prima facie
+arbitration agreement, it is always necessary to ensure that the dispute resolution
+process does not become unnecessarily protracted.
+
+21. In the instant case, prima facie no dispute subsisted after the discharge voucher
+being signed by the respondent without any demur or protest and claim being finally
+settled with accord and satisfaction and after 11 weeks of the settlement of claim a
+letter was sent on 27-7-2016 for the first time raising a voice in the form of protest
+that the discharge voucher was signed under undue influence and coercion with no
+supportive prima facie evidence being placed on record in absence thereof, it must
+follow that the claim had been settled with accord and satisfaction leaving no arbitral
+dispute subsisting under the agreement to be referred to the arbitrator for
+adjudication.
+
+22. In our considered view, the High Court has committed a manifest error in passing
+the impugned order and adopting a mechanical process in appointing the arbitrator
+without any supportive evidence on record to prima facie substantiate that an arbitral
+dispute subsisted under the agreement which needed to be referred to the arbitrator
+for adjudication.” (Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+24
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+78. It is pertinent to observe that in Antique Art (supra) the Court placed reliance on
+the decisions in Master Construction (supra) and New India Assurance (supra). Both
+these decisions were delivered before the insertion of Section 11(6-A) by the 2015
+amendment to the Act, 1996.
+
+Thus, this Court in Antique Art (supra) failed to take into account the legislative intent behind the
+introduction of Section 11(6-A), which was also succinctly explained in Duro Felguera (supra).
+
+79. A three-Judge Bench of this Court in Mayavati Trading Private Limited v.
+
+Pradyut Deb Burman reported in (2019) 8 SCC 714 overruled the decision in Antique Art (supra)
+and clarified that the position of law existing prior to the 2015 amendment to the Act, 1996 under
+which referral courts had the power to examine the aspect of “accord and satisfaction” had come to
+be legislatively overruled by Section 11(6-A) of the Act, 1996. The Court, while affirming the
+reasoning given in Duro Felguera (supra), observed thus:
+
+“10. This being the position, it is clear that the law prior to the 2015 Amendment that
+has been laid down by this Court, which would have included going into whether
+accord and satisfaction has taken place, has now been legislatively overruled. This
+being the position, it is difficult to agree with the reasoning contained in the aforesaid
+judgment [United India Insurance Co. Ltd. v. Antique Art Exports (P) Ltd., (2019) 5
+SCC 362 : (2019) 2 SCC (Civ) 785] , as Section 11(6-A) is confined to the examination
+of the existence of an arbitration agreement and is to be understood in the narrow
+sense as has been laid down in the judgment in Duro Felguera, SA [Duro Felguera,
+SA v. Gangavaram Port Ltd., (2017) 9 SCC 729 : (2017) 4 SCC (Civ) 764] — see paras
+48 & 59
+
+11. We, therefore, overrule the judgment in Antique Art Exports (P) Ltd. [United
+India Insurance Co. Ltd. v. Antique Art Exports (P) Ltd., (2019) 5 SCC 362 : (2019) 2
+SCC (Civ) 785] as not having laid down the correct law but dismiss this appeal for the
+reason given in para 3 above.” (Emphasis supplied)
+
+80. A two-Judge Bench of this Court in Uttarakhand Purv Sainik Kalyan Nigam Ltd. v. Northern
+Coal Field Ltd. reported in (2020) 2 SCC 455 was called upon to determine the scope of judicial
+interference at the stage of Section 11(6) petition wherein the plea of claims being time barred was
+taken by the defendant. Referring to the principal of competence- competence enshrined in Section
+16 of the Act, 1996 and the legislative intent behind the introduction of Section 11(6-A) to Act, 1996
+by the 2015 amendment, this Court held that the issue of limitation being a mixed question of law
+and fact should be best left to the tribunal to decide. The referral court should restrict its
+examination to whether an arbitration agreement between the parties exists. The relevant
+observations are reproduced hereinbelow:
+
+“7.10. In view of the legislative mandate contained in Section 11(6-A), the Court is
+now required only to examine the existence of the arbitration agreement. All other
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+25
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+preliminary or threshold issues are left to be decided by the arbitrator under Section
+16, which enshrines the kompetenz-kompetenz principle.
+
+7 . 1 1 .   T h e   d o c t r i n e   o f   “ k o m p e t e n z - k o m p e t e n z ” ,   a l s o   r e f e r r e d   t o   a s
+“compétence-compétence”, or “compétence de la recognized”, implies that the
+Arbitral Tribunal is empowered and has the competence to rule on its own
+jurisdiction, including determining all jurisdictional issues, and the existence or
+validity of the arbitration agreement. This doctrine is intended to minimise judicial
+intervention, so that the arbitral process is not thwarted at the threshold, when a
+p r e l i m i n a r y   o b j e c t i o n   i s   r a i s e d   b y   o n e   o f   t h e   p a r t i e s .   T h e   d o c t r i n e   o f
+kompetenz-kompetenz is, however, subject to the exception i.e. when the arbitration
+agreement itself is impeached as being procured by fraud or deception. This
+exception would also apply to cases where the parties in the process of negotiation,
+may have entered into a draft agreement as an antecedent step prior to executing the
+final contract. […]7.12. The legislative intent underlying the 1996 Act is party
+autonomy and minimal judicial intervention in the arbitral process. Under this
+regime, once the arbitrator is appointed, or the tribunal is constituted, all issues and
+objections are to be decided by the Arbitral Tribunal.
+
+7.13. In view of the provisions of Section 16, and the legislative policy to restrict
+judicial intervention at the pre-
+
+reference stage, the issue of limitation would require to be decided by the arbitrator. Sub-section (1)
+of Section 16 provides that the Arbitral Tribunal may rule on its own jurisdiction, “including any
+objections” with respect to the existence or validity of the arbitration agreement. Section 16 is as an
+inclusive provision, which would comprehend all preliminary issues touching upon the jurisdiction
+of the Arbitral Tribunal. The issue of limitation is a jurisdictional issue, which would be required to
+be decided by the arbitrator under Section 16, and not the High Court at the pre-reference stage
+under Section 11 of the Act. Once the existence of the arbitration agreement is not disputed, all
+issues, including jurisdictional objections are to be decided by the arbitrator.
+
+7.14. In the present case, the issue of limitation was raised by the respondent Company to oppose
+the appointment of the arbitrator under Section 11 before the High Court. Limitation is a mixed
+question of fact and law. In ITW Signode (India) Ltd. v. CCE [ITW Signode (India) Ltd. v. CCE,
+(2004) 3 SCC 48] a three-Judge Bench of this Court held that the question of limitation involves a
+question of jurisdiction. The findings on the issue of limitation would be a jurisdictional issue. Such
+a jurisdictional issue is to be determined having regard to the facts and the law. Reliance is also
+placed on the judgment of this Court in NTPC Ltd. v. Siemens Atkeingesellschaft [NTPC Ltd. v.
+Siemens Atkeingesellschaft, (2007) 4 SCC 451], wherein it was held that the Arbitral Tribunal would
+deal with limitation under Section 16 of the 1996 Act. If the tribunal finds that the claim is a dead
+one, or that the claim was barred by limitation, the adjudication of these issues would be on the
+merits of the claim. Under sub-section (5) of Section 16, the tribunal has the obligation to decide the
+plea; and if it rejects the plea, the arbitral proceedings would continue, and the tribunal would make
+the award. Under sub-section (6) a party aggrieved by such an arbitral award may challenge the
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+26
+
+award under Section 34. […]” (Emphasis supplied)
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+81. In Union of India v. Pradeep Vinod Construction Company reported in 2019 INSC 1241 this
+Court left the issue of “accord and satisfaction” to be decided by the arbitrator and held thus:
+
+“16. […] On behalf of the Respondent, it has been seriously disputed that issuance of
+"No Claim" certificate as to the supplementary agreement recording accord and
+satisfaction as on 06.05.2014 (CA No. 6400/2016) and issuance of "No Claim"
+certificate on 28.08.2014 (CA No. 6420/2016) that they were issued under
+compulsion and due to undue influence by the railway authorities. We are not
+inclined to go into the merits of the contention of the parties. It is for the arbitrator to
+consider the claim of the Respondent(s) and the stand of the Appellant-railways. This
+contention raised by the parties are left open to be raised before the arbitrator.”
+
+82. Thereafter, a three-Judge Bench of this Court in Vidya Drolia & Ors v.
+
+Durga Trading Corporation reported in (2021) 2 SCC 1 extensively dealt with the scope of powers of
+the referral court under Section 8 and 11 respectively of the Act, 1996. It held, inter alia, that
+Sections 8 and 11 of the Act, 1996 are complementary to each other and thus the aspect of ‘existence’
+of the arbitration agreement, as specified under Section 11 should be seen along with its ‘validity’ as
+specified under Section 8. This Court also held that the exercise of power of prima facie judicial
+review to examine the existence of arbitration agreement also includes going into the validity of the
+arbitration agreement and this does not go against the principles of competence-competence and
+the presumption of separability. It further held that the prima facie review of the aspects related to
+non- arbitrability may also be undertaken. The relevant observations are extracted hereinbelow:
+
+“147.4. Most jurisdictions accept and require prima facie review by the court on
+non-arbitrability aspects at the referral stage.
+
+147.5. Sections 8 and 11 of the Arbitration Act are complementary provisions as was
+held in Patel Engg.
+
+Ltd. [SBP & Co. v. Patel Engg. Ltd., (2005) 8 SCC 618] The object and purpose behind the two
+provisions is identical to compel and force parties to abide by their contractual understanding. This
+being so, the two provisions should be read as laying down similar standard and not as laying down
+different and separate parameters. Section 11 does not prescribe any standard of judicial review by
+the court for determining whether an arbitration agreement is in existence. Section 8 states that the
+judicial review at the stage of reference is prima facie and not final. Prima facie standard equally
+applies when the power of judicial review is exercised by the court under Section 11 of the
+Arbitration Act. Therefore, we can read the mandate of valid arbitration agreement in Section 8 into
+mandate of Section 11, that is, “existence of an arbitration agreement”.
+
+147.6. Exercise of power of prima facie judicial review of existence as including validity is justified as
+a court is the first forum that examines and decides the request for the referral. Absolute “hands off”
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+27
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+approach would be counterproductive and harm arbitration, as an alternative dispute resolution
+mechanism. Limited, yet effective intervention is acceptable as it does not obstruct but effectuates
+arbitration.
+
+147.7. Exercise of the limited prima facie review does not in any way interfere with the principle of
+competence- competence and separation as to obstruct arbitration proceedings but ensures that
+vexatious and frivolous matters get over at the initial stage.
+
+147.8. Exercise of prima facie power of judicial review as to the validity of the arbitration agreement
+would save costs and check harassment of objecting parties when there is clearly no justification and
+a good reason not to accept plea of non-
+
+            arbitrability. […]
+                         xxx           xxx           xxx
+
+147.11. The interpretation appropriately balances the allocation of the decision-making authority
+between the court at the referral stage and the arbitrators' primary jurisdiction to decide disputes on
+merits. The court as the judicial forum of the first instance can exercise prima facie test jurisdiction
+to screen and knock down ex facie meritless, frivolous and dishonest litigation. Limited jurisdiction
+of the courts ensures expeditious, alacritous and efficient disposal when required at the referral
+stage.” (Emphasis supplied)
+
+83. This Court further held that the referral court, while exercising its powers under Sections 8 and
+11 respectively of the Act, 1996 could exercise its powers to screen and knock down ex facie
+meritless, frivolous and dishonest litigation so as to ensure expeditious and efficient disposal at the
+referral stage.
+
+“148. Section 43(1) of the Arbitration Act states that the Limitation Act, 1963 shall apply to
+arbitrations as it applies to court proceedings. Sub-section (2) states that for the purposes of the
+Arbitration Act and Limitation Act, arbitration shall be deemed to have commenced on the date
+referred to in Section 21. Limitation law is procedural and normally disputes, being factual, would
+be for the arbitrator to decide guided by the facts found and the law applicable. The court at the
+referral stage can interfere only when it is manifest that the claims are ex facie time-barred and
+dead, or there is no subsisting dispute. All other cases should be referred to the Arbitral Tribunal for
+decision on merits. Similar would be the position in case of disputed “no-claim certificate” or
+defence on the plea of novation and “accord and satisfaction”. As observed in Premium Nafta
+Products Ltd. [Fili Shipping Co. Ltd. v. Premium Nafta Products Ltd., 2007 UKHL 40 : 2007 Bus LR
+1719 (HL)] , it is not to be expected that commercial men while entering transactions inter se would
+knowingly create a system which would require that the court should first decide whether the
+contract should be rectified or avoided or rescinded, as the case may be, and then if the contract is
+held to be valid, it would require the arbitrator to resolve the issues that have arisen.” (Emphasis
+supplied)
+
+84. Speaking in the specific context of “limitation” and “accord and satisfaction”, this Court in Vidya
+Drolia (supra) held that the procedural and factual disputes, like the one in the present litigation,
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+28
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+should be left for the arbitrator to decide, who in turn, would be guided by the facts as determined
+by him and the law applicable. However, while re-iterating the position established in Mayavati
+Trading (supra), i.e., the principal of minimal interference at the stage of Section 11(6) petitions by
+referral courts in light of the introduction of Section 11(6-A) to the Act, 1996, this Court in Vidya
+Drolia (supra) carved out an exceptional category of cases in which interference by the referral court
+was permissible thus:
+
+“154.1. Ratio of the decision in Patel Engg. Ltd. [SBP & Co. v. Patel Engg. Ltd., (2005)
+8 SCC 618] on the scope of judicial review by the court while deciding an application
+under Sections 8 or 11 of the Arbitration Act, post the amendments by Act 3 of 2016
+(with retrospective effect from 23-10-2015) and even post the amendments vide Act
+33 of 2019 (with effect from 9-8-2019), is no longer applicable.
+
+154.2. Scope of judicial review and jurisdiction of the court under Sections 8 and 11 of
+the Arbitration Act is identical but extremely limited and restricted.
+
+154.3. The general rule and principle, in view of the legislative mandate clear from
+Act 3 of 2016 and Act 33 of 2019, and the principle of severability and competence-
+
+competence, is that the Arbitral Tribunal is the preferred first authority to determine and decide all
+questions of non- arbitrability. The court has been conferred power of “second look” on aspects of
+non-arbitrability post the award in terms of sub-clauses (i), (ii) or (iv) of Section 34(2)(a) or
+sub-clause
+
+(i) of Section 34(2)(b) of the Arbitration Act.
+
+154.4. Rarely as a demurrer the court may interfere at Section 8 or 11 stage when it is manifestly and
+ex facie certain that the arbitration agreement is non-existent, invalid or the disputes are
+non-arbitrable, though the nature and facet of non-arbitrability would, to some extent, determine
+the level and nature of judicial scrutiny. The restricted and limited review is to check and protect
+parties from being forced to arbitrate when the matter is demonstrably “non-
+
+arbitrable” and to cut off the deadwood. The court by default would refer the matter when
+contentions relating to non- arbitrability are plainly arguable; when consideration in summary
+proceedings would be insufficient and inconclusive; when facts are contested; when the party
+opposing arbitration adopts delaying tactics or impairs conduct of arbitration proceedings. This is
+not the stage for the court to enter into a mini trial or elaborate review so as to usurp the jurisdiction
+of the Arbitral Tribunal but to affirm and uphold integrity and efficacy of arbitration as an
+alternative dispute resolution mechanism.” (Emphasis supplied)
+
+85. As is clear from the aforesaid extract, Vidya Drolia (supra) held that although the arbitral
+tribunal is the preferred first authority to determine the questions pertaining to non-arbitrability,
+yet the referral court may exercise its limited jurisdiction to refuse reference to arbitration in cases
+which are ex-facie frivolous and where it is certain that the disputes are non-arbitrable.
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+29
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+86. The decision of this Court in Vidya Drolia (supra) was subsequently relied upon by a two-Judge
+Bench of this Court in DLF Home Developers Ltd. v. Rajapura Homes (P) Ltd. reported in (2021) 16
+SCC 743 wherein it was held that the prima facie review as laid down in Vidya Drolia (supra), in
+exceptional cases, warrants interference by the court to protect the wastage of public money.
+
+“21. The jurisdiction of this Court under Section 11 is primarily to find out whether there exists a
+written agreement between the parties for resolution of disputes through arbitration and whether
+the aggrieved party has made out a prima facie arbitrable case. The limited jurisdiction, however,
+does not denude this Court of its judicial function to look beyond the bare existence of an arbitration
+clause to cut the deadwood. A three-Judge Bench in Vidya Drolia [Vidya Drolia v. Durga Trading
+Corpn., (2021) 2 SCC 1, paras 236, 237, 244.3, 244.4, 244.5, 244.5.1-244.5.3 : (2021) 1 SCC (Civ)
+549] , has eloquently clarified that this Court, with a view to prevent wastage of public and private
+resources, may conduct “prima facie review” at the stage of reference to weed out any frivolous or
+vexatious claims.”
+
+87. In BSNL v. Nortel Networks (India) (P) Ltd., reported in (2021) 5 SCC 738, this Court explained
+the scope of primary examination regarding the aspect of non-arbitrability in the context of
+time-barred claims as laid down in Vidya Drolia (supra) thus:
+
+“45. In a recent judgment delivered by a three-Judge Bench in Vidya Drolia v. Durga
+Trading Corpn. [Vidya Drolia v. Durga Trading Corpn., (2021) 2 SCC 1 : (2021) 1 SCC
+(Civ) 549] , on the scope of power under Sections 8 and 11, it has been held that the
+Court must undertake a primary first review to weed out “manifestly ex facie
+non-existent and invalid arbitration agreements, or non-arbitrable disputes”. The
+prima facie review at the reference stage is to cut the deadwood, where dismissal is
+barefaced and pellucid, and when on the facts and law, the litigation must stop at the
+first stage. Only when the Court is certain that no valid arbitration agreement exists,
+or that the subject-matter is not arbitrable, that reference may be refused.
+
+45.1. […] While exercising jurisdiction under Section 11 as the judicial forum, the
+court may exercise the prima facie test to screen and knockdown ex facie meritless,
+frivolous, and dishonest litigation. Limited jurisdiction of the courts would ensure
+expeditious and efficient disposal at the referral stage.
+
+At the referral stage, the Court can interfere “only” when it is “manifest” that the claims are ex facie
+time-barred and dead, or there is no subsisting dispute. […]” (Emphasis supplied)
+
+88. The decision in Vidya Drolia (supra) was applied in the context of “accord and satisfaction” by a
+two-Judge Bench of this Court in Indian Oil Corporation Limited v. NCC Limited reported in (2023)
+2 SCC 539. It was held that although the referral court under Section 11 of the 1996 Act may look
+into the aspect of “accord and satisfaction”, yet it is advisable that in debatable cases and disputable
+facts, more particularly in reasonably arguable cases, the determination of whether accord and
+satisfaction was actually present or not should be left to the arbitral tribunal. This Court also
+expressed disagreement with the High Court which had held that post the insertion of Section
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+30
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+11(6-A) to the Act, 1996, the scope of interference of the referral court in a Section 11 petition was
+limited to the aspect of examining the existence of a binding arbitration agreement qua the parties
+before it. Relevant extracts are reproduced hereinbelow:
+
+“90. […] Therefore, even when it is observed and held that such an aspect with regard
+to “accord and satisfaction” of the claims may/can be considered by the Court at the
+stage of deciding Section 11 application, it is always advisable and appropriate that in
+cases of debatable and disputable facts, good reasonably arguable case, the same
+should be left to the Arbitral Tribunal. Similar view is expressed by this Court in
+Vidya Drolia [Vidya Drolia v. Durga Trading Corpn., (2021) 2 SCC 1 : (2021) 1 SCC
+(Civ) 549] .
+
+91. Therefore, in the facts and circumstances of the case, though it is specifically
+observed and held that aspects with regard to “accord and satisfaction” of the claims
+can be considered by the Court at the stage of deciding Section 11(6) application, in
+the facts and circumstances of the case, the High Court has not committed any error
+in observing that aspects with regard to “accord and satisfaction” of the claims or
+where there is a serious dispute will have to be left to the Arbitral Tribunal.
+
+92. However, at the same time, we do not agree with the conclusion arrived at by the
+High Court that after the insertion of sub-section (6-A) in Section 11 of the
+Arbitration Act, scope of inquiry by the Court in Section 11 petition is confined only to
+ascertain as to whether or not a binding arbitration agreement exists qua the parties
+before it, which is relatable to the disputes at hand.
+
+93. We are of the opinion that though the Arbitral Tribunal may have jurisdiction and
+authority to decide the disputes including the question of jurisdiction and
+non-arbitrability, the same can also be considered by the Court at the stage of
+deciding Section 11 application if the facts are very clear and glaring and in view of
+the specific clauses in the agreement binding between the parties, whether the
+dispute is non-arbitrable and/or it falls within the excepted clause.
+
+Even at the stage of deciding Section 11 application, the Court may prima facie consider even the
+aspect with regard to “accord and satisfaction” of the claims.
+
+94. Now, so far as the submission on behalf of the respective parties on the decision of the General
+Manager on notified claims in Civil Appeal No. 341 of 2022 arising out of SLP (C) No. 13161 of 2019
+is concerned, the General Manager has decided/declared that the claims are not arbitrable since
+they had been settled and the arbitration agreement has been discharged under Clause 6.7.2.0 of
+GCC and no longer existed/subsisted. As observed hereinabove, the claims had been settled or not is
+a debatable and disputable question, which is to be left to be decided by the Arbitral Tribunal.
+Therefore, matters related to the notified claims in the facts and circumstances of the case also shall
+have to be left to be decided by the Arbitral Tribunal as in the fact situation the aspect of “accord and
+satisfaction” and “notified claims” both are interconnected and interlinked.” (Emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+31
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+89. We find it difficult to agree with the dictum of law as laid in Indian Oil (supra). While the dictum
+in Vidya Drolia (supra) allows for interference by the referral court, it only allows so as an exception
+in cases where ex- facie meritless claims are sought to be referred to arbitration. However, the view
+taken in Indian Oil (supra) takes a position which was taken by this Court in Boghara Polyfab
+(supra), wherein it was held that the issue of accord and satisfaction could either be decided by the
+referring authority or be left for the arbitrator to decide. This pre-2015 position, as was also pointed
+in Mayavati Trading (supra), was legislatively overruled by the 2015 amendment to the Act, 1996
+and the introduction of Section 11(6-A). Thus, in our view, the intention of this Court in Vidya Drolia
+(supra) was not to hold that despite the 2015 amendment, the position regarding “accord and
+satisfaction” would continue to be one which was taken in Boghara Polyfab (supra). Vidya Drolia
+(supra) only went a step ahead from the position in Mayavati Trading (supra) to create an exception
+that although the rule is to refer all questions of “accord and satisfaction” to the arbitral tribunal, yet
+in exceptional cases and in the interest of expediency, ex facie meritless claims could be struck
+down.
+
+90. In NTPC Ltd. v. SPML Infra Ltd. reported in (2023) 9 SCC 385, a two-
+
+Judge Bench of this Court was again faced with the issue of “accord and satisfaction” in the context
+of a Section 11 petition for appointment of arbitrator. Placing reliance on Vidya Drolia (supra), this
+Court gave the “Eye of the Needle” test to delineate the contours of the power of interference which
+the referral court may exercise under Section 11 of the Act, 1996. The first prong of the said test
+requires the court to examine the validity and existence of the arbitration agreement which includes
+an examination of the parties to the agreement and the privity of the applicant to the contract. The
+second prong of the test requires the court to, as a general rule, leave all questions of
+non-arbitrability to the arbitral tribunal and only as a demurrer reject the claims which are ex-facie
+and manifestly non-arbitrable. However, it was clarified that the standard of the aforesaid scrutiny
+is only prima facie, that is, unlike the pre-2015 position, the scrutiny does not entail elaborate
+appreciation of evidence and conduct of mini trials by the referral courts. The relevant observations
+made therein are reproduced hereinbelow:
+
+“24. Following the general rule and the principle laid down in Vidya Drolia [Vidya
+Drolia v. Durga Trading Corpn., (2021) 2 SCC 1 : (2021) 1 SCC (Civ) 549] , this Court
+has consistently been holding that the Arbitral Tribunal is the preferred first
+authority to determine and decide all questions of non-arbitrability. In Pravin
+Electricals (P) Ltd. v. Galaxy Infra & Engg. (P) Ltd. [Pravin Electricals (P) Ltd. v.
+Galaxy Infra & Engg. (P) Ltd., (2021) 5 SCC 671, paras 29, 30 :
+
+(2021) 3 SCC (Civ) 307] , Sanjiv Prakash v. Seema Kukreja [Sanjiv Prakash v. Seema
+Kukreja, (2021) 9 SCC 732 : (2021) 4 SCC (Civ) 597] , and Indian Oil Corpn.
+
+Ltd. v. NCC Ltd. [Indian Oil Corpn. Ltd. v. NCC Ltd., (2023) 2 SCC 539 : (2023) 1 SCC (Civ) 88] , the
+parties were referred to arbitration, as the prima facie review in each of these cases on the objection
+of non-arbitrability was found to be inconclusive. Following the exception to the general principle
+that the Court may not refer parties to arbitration when it is clear that the case is manifestly and ex
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+32
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+facie non- arbitrable, in BSNL v. Nortel Networks (India) (P) Ltd. [BSNL v. Nortel Networks (India)
+(P) Ltd., (2021) 5 SCC 738 : (2021) 3 SCC (Civ) 352] (hereinafter “Nortel Networks”) and
+Secunderabad Cantonment Board v. B. Ramachandraiah & Sons [Secunderabad Cantonment Board
+v. B. Ramachandraiah & Sons, (2021) 5 SCC 705 :
+
+(2021) 3 SCC (Civ) 335] , arbitration was refused as the claims of the parties were
+demonstrably time-barred.
+
+Eye of the needle
+
+25. The abovereferred precedents crystallise the position of law that the pre-referral jurisdiction of
+the Courts under Section 11(6) of the Act is very narrow and inheres two inquiries. The primary
+inquiry is about the existence and the validity of an arbitration agreement, which also includes an
+inquiry as to the parties to the agreement and the applicant's privity to the said agreement. These
+are matters which require a thorough examination by the Referral Court. The secondary inquiry that
+may arise at the reference stage itself is with respect to the non-arbitrability of the dispute.
+
+26. As a general rule and a principle, the Arbitral Tribunal is the preferred first authority to
+determine and decide all questions of non-arbitrability. As an exception to the rule, and rarely as a
+demurrer, the Referral Court may reject claims which are manifestly and ex facie non-
+
+arbitrable [Vidya Drolia v. Durga Trading Corpn., (2021) 2 SCC 1, para 154.4 : (2021) 1 SCC (Civ)
+549] […]
+
+27. The standard of scrutiny to examine the non-arbitrability of a claim is only prima facie. Referral
+Courts must not undertake a full review of the contested facts; they must only be confined to a
+primary first review [Vidya Drolia v. Durga Trading Corpn., (2021) 2 SCC 1, para 134 : (2021) 1 SCC
+(Civ) 549] and let facts speak for themselves. This also requires the Courts to examine whether the
+assertion on arbitrability is bona fide or not. [Vidya Drolia v. Durga Trading Corpn., (2021) 2 SCC 1 :
+(2021) 1 SCC (Civ) 549] The prima facie scrutiny of the facts must lead to a clear conclusion that
+there is not even a vestige of doubt that the claim is non-arbitrable. [BSNL v. Nortel Networks
+(India) (P) Ltd., (2021) 5 SCC 738, para 47 : (2021) 3 SCC (Civ) 352] On the other hand, even if there
+is the slightest doubt, the rule is to refer the dispute to arbitration [Vidya Drolia v. Durga Trading
+Corpn., (2021) 2 SCC 1, para 154.4 : (2021) 1 SCC (Civ) 549].” (Emphasis supplied)
+
+91. The justification given in NTPC v. SPML (supra) for allowing the scrutiny of arbitrability at the
+stage of Section 11 petition was that the referral court is under a duty to protect the parties from
+being forced to arbitrate when the matter is demonstrably non-arbitrable, and any interference by
+the referral court preventing such ex-facie meritless arbitration could be termed as legitimate. It was
+observed thus:
+
+“28. The limited scrutiny, through the eye of the needle, is necessary and compelling.
+It is intertwined with the duty of the Referral Court to protect the parties from being
+forced to arbitrate when the matter is demonstrably non-arbitrable . It has been
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+33
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+termed as a legitimate interference by Courts to refuse reference in order to prevent
+wastage of public and private resources [Vidya Drolia v. Durga Trading Corpn.,
+(2021) 2 SCC 1, para 139 : (2021) 1 SCC (Civ) 549] .
+
+Further, as noted in Vidya Drolia [Vidya Drolia v. Durga Trading Corpn., (2021) 2 SCC 1 : (2021) 1
+SCC (Civ) 549] , if this duty within the limited compass is not exercised, and the Court becomes too
+reluctant to intervene, it may undermine the effectiveness of both, arbitration and the Court [Vidya
+Drolia v. Durga Trading Corpn., (2021) 2 SCC 1, para 139 : (2021) 1 SCC (Civ) 549] . Therefore, this
+Court or a High Court, as the case may be, while exercising jurisdiction under Section 11(6) of the
+Act, is not expected to act mechanically merely to deliver a purported dispute raised by an applicant
+at the doors of the chosen arbitrator, as explained in DLF Home Developers Ltd. v. Rajapura Homes
+(P) Ltd. [DLF Home Developers Ltd. v. Rajapura Homes (P) Ltd., (2021) 16 SCC 743, paras 22, 26 :
+2021 SCC OnLine SC 781, paras 18, 20]”
+
+92. The position that emerges from the aforesaid discussion of law on the subject as undertaken by
+us can be summarised as follows: -
+
+i. There were two conflicting views which occupied the field under the Arbitration
+Act, 1940. While the decisions in Damodar Valley (supra) and Amar Nath (supra)
+took the view that the disputes pertaining to “accord and satisfaction” should be left
+to the arbitrator to decide, the view taken in P.K. Ramaiah (supra) and Nathani Steels
+(supra) was that once a “full and final settlement” is entered into between the parties,
+no arbitrable disputes subsist and therefore reference to arbitration must not be
+allowed.
+
+ii. Under the Act, 1996, the power under Section 11 was characterised as an administrative one as
+acknowledged in the decision in Konkan Railway (supra) and this continued till the decision of a
+seven-Judge Bench in SBP & Co. (supra) overruled it and significantly expanded the scope of
+judicial interference under Sections 8 and 11 respectively of the Act, 1996. The decision in Jayesh
+Engineering (supra) adopted this approach in the context of “accord and satisfaction” cases and held
+that the issue whether the contract had been fully worked out and whether payments had been made
+in full and final settlement of the claims are issues which should be left for the arbitrator to
+adjudicate upon.
+
+iii. The decision in SBP & Co. (supra) was applied in Boghara Polyfab (supra) and it was held by this
+Court that the Chief Justice or his designate, in exercise of the powers available to them under
+Section 11 of the Act, 1996, can either look into the question of “accord and satisfaction” or leave it
+for the decision of the arbitrator. However, it also specified that in cases where the Chief Justice was
+satisfied that there was indeed “accord and satisfaction”, he could reject the application for
+appointment of arbitrator. The prima facie standard of scrutiny was also expounded, stating that the
+party seeking arbitration would have to prima facie establish that there was fraud or coercion
+involved in the signing of the discharge certificate. The position elaborated in Boghara Polyfab
+(supra) was adopted in a number of subsequent decisions, wherein it was held that a mere bald plea
+of fraud or coercion was not sufficient for a party to seek reference to arbitration and prima facie
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+34
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+evidence for the same was required to be provided, even at the stage of the Section 11 petition. iv.
+The view taken by SBP & Co. (supra) and Boghara Polyfab (supra) was seen by the legislature as
+causing delays in the disposal of Section 11 petitions, and with a view to overcome the same, Section
+11(6-A) was introduced in the Act, 1996 to limit the scope of enquiry under Section 11 only to the
+extent of determining the “existence” of an arbitration agreement. This intention was acknowledged
+and given effect to by this Court in the decision in Duro Felguera (supra) wherein it was held that
+the enquiry under Section 11 only entailed an examination whether an arbitration agreement existed
+between the parties or not and “nothing more or nothing less”. v. Despite the introduction of Section
+11(6-A) and the decision in Duro Felguera (supra), there have been diverging views of this Court on
+whether the scope of referral court under Section 11 of the Act, 1996 includes the power to go into
+the question of “accord and satisfaction”. In Antique Art (supra) it was held that unless some prima
+facie proof of duress or coercion is adduced by the claimant, there could not be a referral of the
+disputes to arbitration. This view, however, was overruled in Mayavati Trading (supra) which
+reiterated the view taken in Duro Felguera (supra) and held that post the 2015 amendment to the
+Act, 1996, it was no more open to the Court while exercising its power under Section 11 of the Act,
+1996 to go into the question of whether “accord and satisfaction” had taken place.
+
+vi. The decision in Vidya Drolia (supra) although adopted the view taken in Mayawati Trading
+(supra) yet it provided that in exceptional cases, where it was manifest that the claims were ex- facie
+time barred and deadwood, the Court could interfere and refuse reference to arbitration. Recently,
+this view in the context of “accord and satisfaction” was adopted in NTPC v. SPML (supra) wherein
+the “eye of the needle” test was elaborated. It permits the referral court to reject arbitration in such
+exceptional cases where the plea of fraud or coercion appears to be ex-facie frivolous and devoid of
+merit.
+
+93. Thus, the position after the decisions in Mayavati Trading (supra) and Vidya Drolia (supra) is
+that ordinarily, the Court while acting in exercise of its powers under Section 11 of the Act, 1996, will
+only look into the existence of the arbitration agreement and would refuse arbitration only as a
+demurrer when the claims are ex-facie frivolous and non-arbitrable. iii. What is the effect of the
+decision of this Court in In Re: Interplay Between Arbitration Agreements under the Arbitration and
+Conciliation Act 1966 and the Indian Stamp Act 1899 on the scope of powers of the referral court
+under Section 11 of the Act, 1996?
+
+94. A seven-Judge Bench of this Court, in In Re: Interplay Between Arbitration Agreements under
+the Arbitration and Conciliation Act 1966 and the Indian Stamp Act 1899 reported in 2023 INSC
+1066, speaking eruditely through one of us, Dr Dhananjaya Y. Chandrachud, Chief Justice of India,
+undertook a comprehensive analysis of Sections 8 and 11 respectively of the Act, 1996 and, inter alia,
+made poignant observations about the nature of the power vested in the Courts insofar as the aspect
+of appointment of arbitrator is concerned. Some of the relevant observations made by this Court in
+In Re: Interplay (supra) are extracted hereinbelow:
+
+“179. […] However, the effect of the principle of competence-competence is that the
+arbitral tribunal is vested with the power and authority to determine its
+enforceability. The question of enforceability survives, pending the curing of the
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+35
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+defect which renders the instrument inadmissible. By appointing a tribunal or its
+members, this Court (or the High Courts, as the case may be) is merely giving effect
+to the principle enshrined in Section 16. The appointment of an arbitral tribunal does
+not necessarily mean that the agreement in which the arbitration clause is contained
+as well as the arbitration agreement itself are enforceable. The arbitral tribunal will
+answer precisely these questions.
+
+xxx xxx xxx
+
+185. The corollary of the doctrine of competence-competence is that courts may only
+examine whether an arbitration agreement exists on the basis of the prima facie
+standard of review. The nature of objections to the jurisdiction of an arbitral tribunal
+on the basis that stamp-duty has not been paid or is inadequate is such as cannot be
+decided on a prima facie basis. Objections of this kind will require a detailed
+consideration of evidence and submissions and a finding as to the law as well as the
+facts. Obligating the court to decide issues of stamping at the Section 8 or Section 11
+stage will defeat the legislative intent underlying the Arbitration Act.
+
+186. The purpose of vesting courts with certain powers under Sections 8 and 11 of the
+Arbitration Act is to facilitate and enable arbitration as well as to ensure that parties
+comply with arbitration agreements. The disputes which have arisen between them
+remain the domain of the arbitral tribunal (subject to the scope of its jurisdiction as
+defined by the arbitration clause). The exercise of the jurisdiction of the courts of the
+country over the substantive dispute between the parties is only possible at two
+stages:
+
+a. If an application for interim measures is filed under Section 9 of the Arbitration
+Act; or b. If the award is challenged under Section 34.
+
+Issues which concern the payment of stamp-duty fall within the remit of the arbitral
+tribunal. The discussion in the preceding segments also make it evident that courts
+are not required to deal with the issue of stamping at the stage of granting interim
+measures under Section 9.” (Emphasis supplied)
+
+95. We would like to analyse and elaborate some of the observations from the aforesaid decision
+which are highly pertinent to the dispute at hand. a. Arbitral Autonomy
+
+96. The principle of judicial non-interference permeates the scheme of the Act, 1996. The principle
+of competence-competence as contained in Section 16 of the Act, 1996 indicates that the arbitral
+tribunal enjoys sufficient autonomy from the national courts. The underlying principle behind
+arbitral autonomy and judicial non-interference is that when parties mutually decide to settle their
+disputes through arbitration, they surrender their right to agitate the same before the national
+courts.
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+36
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+97. Section 5 of the Act, 1996 also minimises the supervisory role that the courts may play in the
+arbitral process. There are two facets to Section 5 – positive and negative. The positive facet allows
+the judicial authorities to exercise jurisdiction over matters expressly permitted under the Act, 1996.
+The negative aspect, on the other hand, prohibits the judicial authorities from intervening in the
+arbitral proceedings in situations where the arbitral tribunal has been conferred with exclusive
+jurisdiction.
+
+98. What follows from the negative facet of arbitral autonomy when applied in the context of Section
+16 is that the national courts are prohibited from interfering in matters pertaining to the jurisdiction
+of the arbitral tribunal, as exclusive jurisdiction on those aspects vests with the arbitral tribunal. The
+legislative mandate of prima facie determination at the stage of Sections 8 and 11 respectively
+ensures that the referral courts do not end up venturing into what is intended by the legislature to be
+the exclusive domain of the arbitral tribunal.
+
+99. Gary B. Born1 describes arbitral autonomy as intrinsically related to the ‘right to arbitrate’,
+which in turn is a concomitant of freedom of contract, liberty of association and personal autonomy.
+He describes “the right of parties to resolve their disputes, with one another, in a manner of their
+own choosing” as “a basic aspect of individual autonomy and liberty, which is properly accorded
+protection in almost all developed legal systems.” He also stresses on the importance of autonomy of
+parties to arbitrate as giving effect to fundamental right to autonomy of parties and increasing their
+access to justice. Characterising the right to arbitrate as an important political right, he observes
+that “voluntary agreements, by free men and women, to resolve their disputes between themselves,
+in a manner which they structure, are the exercise of basic rights of liberty, association and property
+and a bulwark against governmental oppression.2”
+
+100. In Hayter v. Nelson reported in [1990] 2 Lloyd's Rep. 265, 272, it was observed that the
+“modern view in line with the basic principles of the English law of freedom of contract and indeed
+International Conventions is that there is no good reason why the Courts should strive to take
+matters Gary B. Born, Internation Commercial Arbitration, 3rd Ed. (2021), pp. 685 Gary B. Born,
+Internation Commercial Arbitration, 3rd Ed. (2021), pp. 696 out of the hands of the tribunal into
+which the parties have by agreement undertaken to place them”.
+
+b. Negative Competence-Competence
+
+101. Section 16 of the Act, 1996 recognises the doctrine of competence-
+
+competence and empowers the arbitral tribunal to rule on its own jurisdiction. The policy
+consideration for the same is, firstly, to recognise the intention of the parties in choosing arbitration
+as the method for resolving the disputes arising out of the contract and secondly, to prevent the
+parties from initiating parallel proceedings before courts and delaying the arbitral process.
+
+102. The negative aspect of competence-competence is aimed at restricting the interference of the
+courts at the referral stage by preventing the courts from examining the issues pertaining to the
+jurisdiction of the arbitral tribunal before the arbitral tribunal itself has had the opportunity to
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+37
+
+entertain them. The courts are allowed to review the decision of the arbitral tribunal at a later stage.
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+103. The principle of negative competence-competence has also been codified by the national
+statutory frameworks for international arbitration. For example, in French New Code of Civil
+Procedure, 1981 and the French Decree No. 2011- 48 of 13 January 2011 Reforming the Law
+Governing Arbitration, the concept of negative competence-competence was codified based on the
+decision of Court of Appeal in Colmar Impex v. PAZ, reported in 1968 Rev. Arb. 149, 155 (Colmar
+Cour d’Appeal). In the said decision, it was observed that, “the principle is that the judge hearing a
+dispute has jurisdiction to determine his own jurisdiction. This necessarily implies that when that
+judge is an arbitrator, whose powers derive from the agreement of the parties, he has jurisdiction to
+examine the existence and validity of such agreement”.
+
+104. Supreme Court of the United States too has, on a number of occasions, consistently affirmed
+that by virtue of the separability presumption, where there is only a challenge to the validity or
+legality of the underlying contract, and no challenge to the existence, validity, or legality of the
+associated arbitration clause itself, the claims should be referred to arbitration. [See: Prima Paint
+Corp. v. Flood & Conklin Manufacturing Co. reported in 388 U.S. 395 (U.S. S.Ct. 1967); Buckeye
+Check Cashing, Inc. v. Cardegna reported in 546 U.S. 440 (U.S. S.Ct. 2006)]
+
+105. In the specific context of settlement of original contract, Gary Born3 writes that “US lower
+courts have repeatedly applied the separability presumption in holding that claims regarding the
+validity or enforceability of the underlying contract do not impeach the separable arbitration clause
+and for decisions by the arbitrators.” Referring to the cases in which the aforesaid principles have
+been applied, he writes “that approach has been opted in diverse settings including in the case of
+Ambulance Biling Sys., Inc. v. Gemini Ambulance Servs., Inc., 103 S.W.3d 507, 514-515 (Tex. App.
+2003) wherein arbitrators were given the power to decide regarding whether a settlement
+agreement was reached replacing or cancelling original agreement.”
+
+106. In Howsam v. Dean Witter Reynolds, Inc. reported in 537 U.S. 79, 84 (U.S. S.Ct. 2002), it was
+observed by the US Supreme Court that "the presumption is that the arbitrator should decide
+allegation[s] of waiver, delay, or alike defense to arbitrability.” c. Judicial Interference under the
+Act, 1996
+
+107. The parties have been conferred with the power to decide and agree on the procedure to be
+adopted for appointing arbitrators. In cases where the Gary B. Born, Internation Commercial
+Arbitration, 3rd Ed. (2021), pp. 1251 agreed upon procedure fails, the courts have been vested with
+the power to appoint arbitrators upon the request of a party, to resolve the deadlock between the
+parties in appointing the arbitrators.
+
+108. Section 11 of the Act, 1996 is provided to give effect to the mutual intention of the parties to
+settle their disputes by arbitration in situations where the parties fail to appoint an arbitrator(s).
+The parameters of judicial review laid down for Section 8 differ from those prescribed for Section 11.
+The view taken in SBP & Co. (supra) and affirmed in Vidya Drolia (supra) that Sections 8 and 11
+respectively of the Act, 1996 are complementary in nature was legislatively overruled by the
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+38
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+introduction of Section 11(6-A) in 2015. Thus, although both these provisions intend to compel
+parties to abide by their mutual intention to arbitrate, yet the scope of powers conferred upon the
+courts under both the sections are different.
+
+109. The difference between Sections 8 and 11 respectively of the Act, 1996 is also evident from the
+scope of these provisions. Some of these differences are:
+
+i. While Section 8 empowers any ‘judicial authority’ to refer the parties to arbitration,
+under Section 11, the power to refer has been exclusively conferred upon the High
+Court and the Supreme Court.
+
+ii. Under Section 37, an appeal lies against the refusal of the judicial authority to refer
+the parties to arbitration, whereas no such provision for appeal exists for a refusal
+under Section 11.
+
+iii. The standard of scrutiny provided under Section 8 is that of prima facie
+examination of the validity and existence of an arbitration agreement. Whereas, the
+standard of scrutiny under Section 11 is confined to the examination of the existence
+of the arbitration agreement.
+
+iv. During the pendency of an application under Section 8, arbitration may
+commence or continue and an award can be passed. On the other hand, under
+Section 11, once there is failure on the part of the parties in appointing the arbitrator
+as per the agreed procedure and an application is preferred, no arbitration
+proceedings can commence or continue.
+
+110. The scope of examination under Section 11(6-A) is confined to the existence of an arbitration
+agreement on the basis of Section 7. The examination of validity of the arbitration agreement is also
+limited to the requirement of formal validity such as the requirement that the agreement should be
+in writing.
+
+111. The use of the term ‘examination’ under Section 11(6-A) as distinguished from the use of the
+term ‘rule’ under Section 16 implies that the scope of enquiry under section 11(6-A) is limited to a
+prima facie scrutiny of the existence of the arbitration agreement, and does not include a contested
+or laborious enquiry, which is left for the arbitral tribunal to ‘rule’ under Section 16. The prima facie
+view on existence of the arbitration agreement taken by the referral court does not bind either the
+arbitral tribunal or the court enforcing the arbitral award.
+
+112. The aforesaid approach serves a two-fold purpose – firstly, it allows the referral court to weed
+out non-existent arbitration agreements, and secondly, it protects the jurisdictional competence of
+the arbitral tribunal to rule on the issue of existence of the arbitration agreement in depth.
+
+113. Referring to the Statement of Objects and Reasons of the Arbitration and Conciliation
+(Amendment) Act, 2015, it was observed in In Re: Interplay (supra) that the High Court and the
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+39
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+Supreme Court at the stage of appointment of arbitrator shall examine the existence of a prima facie
+arbitration agreement and not any other issues. The relevant observations are extracted
+hereinbelow:
+
+“209. The above extract indicates that the Supreme Court or High Court at the stage
+of the appointment of an arbitrator shall “examine the existence of a prima facie
+arbitration agreement and not other issues”. These other issues not only pertain to
+the validity of the arbitration agreement, but also include any other issues which are
+a consequence of unnecessary judicial interference in the arbitration proceedings.
+Accordingly, the “other issues” also include examination and impounding of an
+unstamped instrument by the referral court at the Section 8 or Section 11 stage. The
+process of examination, impounding, and dealing with an unstamped instrument
+under the Stamp Act is not a timebound process, and therefore does not align with
+the stated goal of the Arbitration Act to ensure expeditious and time-bound
+appointment of arbitrators. […]” (Emphasis supplied)
+
+114. In view of the observations made by this Court in In Re: Interplay (supra), it is clear that the
+scope of enquiry at the stage of appointment of arbitrator is limited to the scrutiny of prima facie
+existence of the arbitration agreement, and nothing else. For this reason, we find it difficult to hold
+that the observations made in Vidya Drolia (supra) and adopted in NTPC v. SPML (supra) that the
+jurisdiction of the referral court when dealing with the issue of “accord and satisfaction” under
+Section 11 extends to weeding out ex-facie non-arbitrable and frivolous disputes would continue to
+apply despite the subsequent decision in In Re: Interplay (supra).
+
+115. The dispute pertaining to the “accord and satisfaction” of claims is not one which attacks or
+questions the existence of the arbitration agreement in any way. As held by us in the preceding parts
+of this judgment, the arbitration agreement, being separate and independent from the underlying
+substantive contract in which it is contained, continues to remain in existence even after the original
+contract stands discharged by “accord and satisfaction”.
+
+116. The question of “accord and satisfaction”, being a mixed question of law and fact, comes within
+the exclusive jurisdiction of the arbitral tribunal, if not otherwise agreed upon between the parties.
+Thus, the negative effect of competence-competence would require that the matter falling within the
+exclusive domain of the arbitral tribunal, should not be looked into by the referral court, even for a
+prima facie determination, before the arbitral tribunal first has had the opportunity of looking into
+it.
+
+117. By referring disputes to arbitration and appointing an arbitrator by exercise of the powers under
+Section 11, the referral court upholds and gives effect to the original understanding of the
+contracting parties that the specified disputes shall be resolved by arbitration. Mere appointment of
+the arbitral tribunal doesn’t in any way mean that the referral court is diluting the sanctity of
+“accord and satisfaction” or is allowing the claimant to walk back on its contractual undertaking. On
+the contrary, it ensures that the principal of arbitral autonomy is upheld and the legislative intent of
+minimum judicial interference in arbitral proceedings is given full effect. Once the arbitral tribunal
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+40
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+is constituted, it is always open for the defendant to raise the issue of “accord and satisfaction”
+before it, and only after such an objection is rejected by the arbitral tribunal, that the claims raised
+by the claimant can be adjudicated.
+
+118. Tests like the “eye of the needle” and “ex-facie meritless”, although try to minimise the extent of
+judicial interference, yet they require the referral court to examine contested facts and appreciate
+prima facie evidence (however limited the scope of enquiry may be) and thus are not in conformity
+with the principles of modern arbitration which place arbitral autonomy and judicial
+non-interference on the highest pedestal.
+
+119. Appointment of an arbitral tribunal at the stage of Section 11 petition also does not mean that
+the referral courts forego any scope of judicial review of the adjudication done by the arbitral
+tribunal. The Act, 1996 clearly vests the national courts with the power of subsequent review by
+which the award passed by an arbitrator may be subjected to challenge by any of the parties to the
+arbitration.
+
+120. The principle of subsequent judicial review has been enshrined in the US doctrine of “Second
+Look”. In a leading U.S. Supreme Court judgement of PacifiCare Health Systems, Inc. v. Book
+reported in 538, U.S. 401 (U.S. S. Ct. 2003), it was held that the question of non-arbitrability should
+be considered in the first instance by the arbitral tribunal. The Court observed that, “since we do not
+know how the arbitrator will construe the remedial limitations, the question ... whether they render
+the parties' agreements unenforceable is better left for initial arbitral consideration”. This doctrine
+has also been affirmed by judgements of the U.S. lower courts in cases of Dillon v. BMO Harris
+Bank, NA reported in 856 F.3d 330, 333 (4th Cir. 2017) and Escobar v. Celebration Cruise Operator,
+Inc. reported in 805 F.3d 1279, 1288-89 (11th Cir. 2015) wherein it was reasoned that the issues of
+U.S. statutory law and arbitrability should be submitted first to arbitration, with the possibility of
+subsequent judicial review in recognition and enforcement proceedings.
+
+121. In a case with similar facts but where an arbitration agreement is not in existence, the claimant
+would have the recourse to approach a civil court with its claims. Even in such proceedings before
+the civil court, it would be open to the defendant to put forward the defence of “accord and
+satisfaction” on the basis of the discharge voucher. Similarly, it would be open to the claimant to
+allege that the voucher had been obtained under fraud, coercion or undue influence. In such a
+scenario, the civil court would consider the evidence as to whether there was any fraud, undue
+influence or coercion. If the civil court finds that there was none, then it would reject the claims at
+the outset. However, if it finds that the allegations of fraud are true, then it would reject the
+discharge voucher and proceed to adjudicate the claims on merit.
+
+122. Once an arbitration agreement exists between parties, then the option of approaching the civil
+court becomes unavailable to them. In such a scenario, if the parties seek to raise a dispute, they
+necessarily have to do so before the arbitral tribunal. The arbitral tribunal, in turn, can only be
+constituted as per the procedure agreed upon between the parties. However, if there is a failure of
+the agreed upon procedure, then the duty of appointing the arbitral tribunal falls upon the referral
+court under Section 11 of the Act, 1996. If the referral court, at this stage, goes beyond the scope of
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+41
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+enquiry as provided under the section and examines the issue of “accord and satisfaction”, then it
+would amount to usurpation of the power which the parties had intended to be exercisable by the
+arbitral tribunal alone and not by the national courts. Such a scenario would impeach arbitral
+autonomy and would not fit well with the scheme of the Act, 1996.
+
+123. The power available to the referral courts has to be construed in the light of the fact that no
+right to appeal is available against any order passed by the referral court under Section 11 for either
+appointing or refusing to appoint an arbitrator. Thus, by delving into the domain of the arbitral
+tribunal at the nascent stage of Section 11, the referral courts also run the risk of leaving the
+claimant in a situation wherein it does not have any forum to approach for the adjudication of its
+claims, if it Section 11 application is rejected.
+
+124. Section 11 also envisages a time-bound and expeditious disposal of the application for
+appointment of arbitrator. One of the reasons for this is also the fact that unlike Section 8, once an
+application under Section 11 is filed, arbitration cannot commence until the arbitral tribunal is
+constituted by the referral court. This Court, on various occasions, has given directions to the High
+Courts for expeditious disposal of pending Section 11 applications. It has also directed the litigating
+parties to refrain from filing bulky pleadings in matters pertaining to Section 11. Seen thus, if the
+referral courts go into the details of issues pertaining to “accord and satisfaction” and the like, then
+it would become rather difficult to achieve the objective of expediency and simplification of
+pleadings.
+
+125. We are also of the view that ex-facie frivolity and dishonesty in litigation is an aspect which the
+arbitral tribunal is equally, if not more, capable to decide upon the appreciation of the evidence
+adduced by the parties. We say so because the arbitral tribunal has the benefit of going through all
+the relevant evidence and pleadings in much more detail than the referral court. If the referral court
+is able to see the frivolity in the litigation on the basis of bare minimum pleadings, then it would be
+incorrect to doubt that the arbitral tribunal would not be able to arrive at the same inference, most
+likely in the first few hearings itself, with the benefit of extensive pleadings and evidentiary material.
+
+126. Before, we close the matter, it is necessary for us to clarify the dictum as laid in M/s Arif Azim
+Co. Ltd. v. M/s Aptech Ltd. reported in 2024 INSC 155, so as to streamline the position of law and
+prevent the possibility of any conflict between the two decisions that may arise in future.
+
+127. In Arif Azim (supra), while deciding an application for appointment of arbitrator under Section
+11(6) of the Act, 1996, two issues had arisen for our consideration:
+
+i. Whether the Limitation Act, 1963 is applicable to an application for appointment of
+arbitrator under Section 11(6) of the Arbitration and Conciliation Act, 1996? If yes,
+whether the petition filed by M/s Arif Azim was barred by limitation?
+
+ii. Whether the court may decline to make a reference under Section 11 of Act, 1996
+where the claims are ex-facie and hopelessly time-
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+42
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+barred?
+
+128. On the first issue, it was observed by us that the Limitation Act, 1963 is applicable to the
+applications filed under Section 11(6) of the Act, 1996. Further, we also held that it is the duty of the
+referral court to examine that the application under Section 11(6) of the Act, 1996 is not barred by
+period of limitation as prescribed under Article 137 of the Limitation Act, 1963, i.e., 3 years from the
+date when the right to apply accrues in favour of the applicant. To determine as to when the right to
+apply would accrue, we had observed in paragraph 56 of the said decision that “the limitation period
+for filing a petition under Section 11(6) of the Act, 1996 can only commence once a valid notice
+invoking arbitration has been sent by the applicant to the other party, and there has been a failure or
+refusal on part of that other party in complying with the requirements mentioned in such notice.”
+
+129. Insofar as the first issue is concerned, we are of the opinion that the observations made by us in
+Arif Azim (supra) do not require any clarification and should be construed as explained therein.
+
+130. On the second issue it was observed by us in paragraph 67 that the referral courts, while
+exercising their powers under Section 11 of the Act, 1996, are under a duty to “prima-facie examine
+and reject non-arbitrable or dead claims, so as to protect the other party from being drawn into a
+time- consuming and costly arbitration process.”
+
+131. Our findings on both the aforesaid issues have been summarised in paragraph 89 of the said
+decision thus: -
+
+“89. Thus, from an exhaustive analysis of the position of law on the issues, we are of
+the view that while considering the issue of limitation in relation to a petition under
+Section 11(6) of the Act, 1996, the courts should satisfy themselves on two aspects by
+employing a two-pronged test – first, whether the petition under Section 11(6) of the
+Act, 1996 is barred by limitation; and secondly, whether the claims sought to be
+arbitrated are ex-facie dead claims and are thus barred by limitation on the date of
+commencement of arbitration proceedings. If either of these issues are answered
+against the party seeking referral of disputes to arbitration, the court may refuse to
+appoint an arbitral tribunal.”
+
+132. Insofar as our observations on the second issue are concerned, we clarify that the same were
+made in light of the observations made by this Court in many of its previous decisions, more
+particularly in Vidya Drolia (supra) and NTPC v. SPML (supra). However, in the case at hand, as is
+evident from the discussion in the preceding parts of this judgment, we have had the benefit of
+reconsidering certain aspects of the two decisions referred to above in the light of the pertinent
+observations made by a seven-Judge Bench of this Court in In Re: Interplay (supra).
+
+133. Thus, we clarify that while determining the issue of limitation in exercise of the powers under
+Section 11(6) of the Act, 1996, the referral court should limit its enquiry to examining whether
+Section 11(6) application has been filed within the period of limitation of three years or not. The date
+of commencement of limitation period for this purpose shall have to be construed as per the
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+43
+
+Sbi General Insurance Co. Ltd vs Krish Spinning on 18 July, 2024
+
+decision in Arif Azim (supra). As a natural corollary, it is further clarified that the referral courts, at
+the stage of deciding an application for appointment of arbitrator, must not conduct an intricate
+evidentiary enquiry into the question whether the claims raised by the applicant are time barred and
+should leave that question for determination by the arbitrator. Such an approach gives true meaning
+to the legislative intention underlying Section 11(6-A) of the Act, and also to the view taken in In Re:
+Interplay (supra).
+
+134. The observations made by us in Arif Azim (supra) are accordingly clarified. We need not
+mention that the effect of the aforesaid clarification is only to streamline the position of law, so as to
+bring it in conformity with the evolving principles of modern-day arbitration, and further to avoid
+the possibility of any conflict between the two decisions that may arise in future. These clarifications
+shall not be construed as affecting the verdict given by us in the facts of Arif Azim (supra), which
+shall be given full effect to notwithstanding the observations made herein. F. CONCLUSION
+
+135. The existence of the arbitration agreement as contained in Clause 13 of the insurance policy is
+not disputed by the appellant. The dispute raised by the claimant being one of quantum and not of
+liability, prima facie, falls within the scope of the arbitration agreement. The dispute regarding
+“accord and satisfaction” as raised by the appellant does not pertain to the existence of the
+arbitration agreement, and can be adjudicated upon by the arbitral tribunal as a preliminary issue.
+
+136. For all the aforesaid reasons, we uphold and affirm the appointment of Justice K.A. Puj, former
+Judge of the High Court of Gujarat as an arbitrator to resolve the disputes between the parties.
+
+137. The order staying the arbitration proceedings stands vacated.
+
+138. All legal contentions including objections available to the appellant are kept open to be taken
+up before the learned Arbitrator.
+
+139. Pending application(s), if any, shall stand disposed of.
+
+…………………………………….CJI (Dr. Dhananjaya Y. Chandrachud) ………………………………………J. (J.B.
+Pardiwala) ………………………………………J. (Manoj Misra) New Delhi;
+
+18th July, 2024
+
+Indian Kanoon - http://indiankanoon.org/doc/171443079/
+
+44
+
+

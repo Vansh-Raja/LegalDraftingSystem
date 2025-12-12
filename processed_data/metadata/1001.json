@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 5645 of 2015",
+  "parties": {
+    "petitioner": "Mathura Vrindavan Development Authority & Another",
+    "respondent": "Rajesh Sharma and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-28",
+  "summary": "The appeals concerned the validity of various demand notices issued by Development Authorities and the State of Uttar Pradesh for charges such as external/internal development fees, inspection/supervision fees, sub-division charges, stacking charges, and impact fees. The Allahabad High Court had quashed most of these levies, holding that the U.P. Urban Planning and Development Act, 1973 (Act, 1973) does not permit charges beyond those specified under Section 15(2-A), and that additional levies violated Article 265 of the Constitution. The Supreme Court upheld the High Court's decision that only charges enumerated in Section 15(2-A) are permissible, affirming that Section 41 of the Act grants supervisory powers only and cannot authorize additional fees. However, the Court reversed the High Court's decision in Rekha Rani (Civil Appeal No. 4489 of 2014), reinstating the levy of development charges/fees, which were upheld in State of U.P. v. Malti Kaul (1996) 10 SCC 425. The Court also rejected the argument that development charges cannot be levied on land not covered by a development plan, affirming such charges are valid within the jurisdiction of Development Authorities. Appeals were allowed in part.",
+  "legal_provisions_cited": [
+    "U.P. Urban Planning and Development Act, 1973, Section 15(2-A)",
+    "U.P. Urban Planning and Development Act, 1973, Section 41",
+    "U.P. Urban Planning and Development Act, 1973, Sections 14, 59",
+    "Constitution of India, Article 265",
+    "State of U.P. & Others v. Malti Kaul (Smt.) & Another, (1996) 10 SCC 425"
+  ],
+  "final_judgment": "Appeals allowed in part. The levy of development charges/fees is upheld in accordance with Section 15(2-A) of the Act, 1973 and the decision in Malti Kaul. The impugned judgment in Rekha Rani (Civil Appeal No. 4489 of 2014) is set aside to this extent. Other levies not covered under Section 15(2-A) are quashed as illegal. Development Authorities directed to refund amounts collected for non-permissible charges with 6% interest if already paid."
+}

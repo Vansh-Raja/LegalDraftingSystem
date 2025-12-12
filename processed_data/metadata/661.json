@@ -1,0 +1,23 @@
+{
+  "case_number": "2024 INSC 879; CRIMINAL APPEAL NO. ______ OF 2024",
+  "parties": {
+    "petitioner": "Prashant",
+    "respondent": "State Of NCT Of Delhi"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-11-20",
+  "summary": "FIR quashing appeal under CrPC s.482; allegations of rape (IPC s.376(2)(n)) and criminal intimidation (IPC s.506); inconsistent timelines in complaint (FIR vs MLC report vs sec 164 CrPC statement); consensual relationship evidenced by prolonged association, mutual meetings at various locations, and marriage plans; post-marriage FIR filing suggesting ulterior motive; Bhajan Lal parameters applied for quashing; no prima facie case established due to voluntary continuation of relationship and voluntary disclosure of address.",
+  "legal_provisions_cited": [
+    "CrPC s.482",
+    "CrPC s.156(1)",
+    "CrPC s.155(2)",
+    "CrPC s.164",
+    "IPC s.375",
+    "IPC s.376",
+    "IPC s.376(2)(n)",
+    "IPC s.503",
+    "IPC s.506",
+    "State of Haryana vs. Bhajan Lal"
+  ],
+  "final_judgment": "FIR quashed; impugned High Court order set aside; criminal proceedings quashed."
+}

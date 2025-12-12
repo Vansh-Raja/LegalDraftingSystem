@@ -1,0 +1,25 @@
+{
+  "case_number": "Civil Appeal No(s). 2064 of 2022 (arising out of SLP (Civil) No(s). 12468 of 2018)",
+  "parties": {
+    "petitioner": "State of Punjab and others",
+    "respondent": "Dev Brat Sharma"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-03-16",
+  "summary": "The appeal challenged the Punjab and Haryana High Court's order allowing a revision petition filed by Dev Brat Sharma, which set aside a Trial Court’s direction to pay ad valorem court fees on a claimed compensation of Rs. 20 lakhs for damages due to denial of freedom fighter status. The High Court held that court fees could not be demanded upfront as the actual damages were to be determined by the Trial Court, and the plaintiff had undertaken to pay fees on the adjudicated amount. The Supreme Court examined the applicability of court fees under Section 7(i) of the Court Fees Act, 1870, considered precedents including State of Punjab vs. Jagdip Singh Chowhan, and assessed whether the suit was maintainable after prior rejection of compensation in writ petitions. The appeal addressed legal questions on court fees in unascertained damage claims and abuse of process.",
+  "legal_provisions_cited": [
+    "Section 7(i) of the Court Fees Act, 1870",
+    "Section 7(iv) of the Court Fees Act, 1870",
+    "Order VII Rule 11 CPC",
+    "Section 151 CPC",
+    "Section 115 CPC",
+    "Section 96 CPC",
+    "Section 80 CPC",
+    "Manpreet Singh vs. Gurmail Singh",
+    "State of Punjab vs. Jagdip Singh Chowhan",
+    "Ranjit Kaur vs. PSEB",
+    "Manjeet Singh vs. Beant Sharma",
+    "Ajit Singh Kohar Vs. Shashi Kant"
+  ],
+  "final_judgment": "Leave granted; appeal allowed in part with directions to proceed with the suit subject to payment of court fees on the final adjudicated amount, in line with the plaintiff's undertaking."
+}

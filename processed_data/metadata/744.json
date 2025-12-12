@@ -1,0 +1,16 @@
+{
+  "case_number": "2024 INSC 198; CRIMINAL APPEAL NO(s). 250 OF 2016",
+  "parties": {
+    "petitioner": "Thakore Umedsing Nathusing",
+    "respondent": "State of Gujarat"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-02-22",
+  "summary": "Appeals challenge High Court conviction for murder under Sections 302/396 IPC after trial court acquitted for murder but convicted for robbery under Section 392 IPC; prosecution relied on circumstantial evidence including jeep seizure, police recovery of weapons, and confession of accused A1; key issues: scope of appellate review in cases of trial court acquittal, reliability of circumstantial evidence and confession; High Court convicted based on circumstantial evidence but failed to establish two views test or perversity in trial court findings; prosecution shortcomings: no proof of vehicle ownership, lack of FSL examination on incriminating articles, omission of vehicle registration in police communication; confession of A1 inadmissible against co-accused under Sections 25-26 Evidence Act; appeals allowed restoring trial court acquittal on murder charges.",
+  "legal_provisions_cited": [
+    "Indian Penal Code, 1860 s.302, s.34, s.392, s.396, s.397",
+    "Code of Criminal Procedure, 1973 s.313",
+    "Indian Evidence Act, 1872 s.25, s.26"
+  ],
+  "final_judgment": "Appeals allowed; High Court judgment reversed; trial court acquittal on Sections 302/34, 396, and 397 IPC restored; Section 392 IPC conviction for robbery maintained."
+}

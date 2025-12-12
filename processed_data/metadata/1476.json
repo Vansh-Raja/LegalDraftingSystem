@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. of 2022 (Arising out of Special Leave Petition (Civil) No. 20860 of 2019)",
+  "parties": {
+    "petitioner": "Satish Chandra Yadav",
+    "respondent": "Union of India & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-26",
+  "summary": "The appeal challenged the Delhi High Court's dismissal of a writ petition filed by Satish Chandra Yadav, a former Constable (GD) in CRPF, against his termination for suppressing information about a pending criminal case in his verification form. The appellant argued that the case was trivial, involved no moral turpitude, and that he was acquitted; he also claimed the form was vague and he lacked awareness. The respondent contended that suppression of a pending criminal case, especially in a disciplined force, warranted termination, regardless of eventual acquittal. The Court considered principles from Avatar Singh and Raj Kumar regarding limited judicial review and the importance of truthful disclosure in public employment.",
+  "legal_provisions_cited": [
+    "Article 136 of the Constitution of India",
+    "Rule 5(1) of the Central Civil Services (Temporary Service) Rules, 1965",
+    "Rule 14 of the CRPF Rules",
+    "Sections 147, 323, 324, 504, 506 IPC",
+    "Avatar Singh v. Union of India, (2016) 8 SCC 471",
+    "Commissioner of Police v. Raj Kumar, (2021) 8 SCC 347",
+    "M.V. Thimmaiah v. UPSC, (2008) 2 SCC 119"
+  ],
+  "final_judgment": "The appeal was allowed in part; the termination was upheld due to suppression of material facts, but the Court directed reconsideration of quantum of penalty considering the appellant's acquittal and the nature of the offence."
+}

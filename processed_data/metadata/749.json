@@ -1,0 +1,17 @@
+{
+  "case_number": "CIVIL APPEAL NO. 1095 OF 2013",
+  "parties": {
+    "petitioner": "The Madhya Pradesh Madhya Kshetra Vidyut Vitrin Company Limited & Ors.",
+    "respondent": "Bapuna Alcobrew Private Limited & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-11-04",
+  "summary": "The appeal challenged the Madhya Pradesh High Court's judgment allowing a writ appeal by the respondent, quashing a show cause notice for recovery of minimum guarantee charges for electricity. Key issues included enforceability of pre-2003 liabilities under the Electricity Act, 2003, specifically Section 56(2) which limits recovery to two years from when dues become due. The High Court held that the appellants could not recover arrears for the period June 1996-May 2000 after the 2003 Act came into force, due to the limitation under Section 56(2). The Supreme Court considered the retrospective application of the 2003 Act, the contractual obligation to pay minimum charges, and whether the licensee fulfilled its duty to supply power. Outcome: High Court’s judgment was upheld.",
+  "legal_provisions_cited": [
+    "Section 56(2) of the Electricity Act, 2003",
+    "Section 174 of the Electricity Act, 2003",
+    "The Electricity (Supply) Act, 1948",
+    "Raymond Limited v. State of M.P. (2001) 1 SCC 534"
+  ],
+  "final_judgment": "The appeal was dismissed, and the judgment of the Madhya Pradesh High Court quashing the show cause notice and limiting recovery of arrears under Section 56(2) of the Electricity Act, 2003 was upheld."
+}

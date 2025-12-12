@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 3073 of 2022 (Arising out of SLP (Civil) No. 23418 of 2017)",
+  "parties": {
+    "petitioner": "Delhi Development Authority",
+    "respondent": "Godfrey Phillips (I) Ltd. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-06",
+  "summary": "The appeal challenged the Delhi High Court's 2016 order declaring land acquisition proceedings lapsed under Section 24(2) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013. The acquisition process began in 1980 under the Land Acquisition Act, 1894, with notifications issued in 1980 and 1985. The High Court quashed the Section 6 notifications in 1988 in Balak Ram-II, holding that landowners were denied a hearing on objections under Section 5A. Subsequent possession-taking was restrained. The Supreme Court examined whether the acquisition lapsed under Section 24(2) due to inaction within five years, and whether prior quashing of notifications barred revival. Issue centered on application of Section 24(2) to cases where proceedings were quashed for procedural defects, not mere delay.",
+  "legal_provisions_cited": [
+    "Section 24(2), Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+    "Section 5A, Land Acquisition Act, 1894",
+    "Section 6, Land Acquisition Act, 1894",
+    "Balak Ram Gupta v. Union of India, 1987 SCC OnLine Del 227",
+    "Balak Ram-II, 1988 SCC OnLine Del 367",
+    "Balbir Singh v. Union of India & Ors., 1989 SCC OnLine Del 211"
+  ],
+  "final_judgment": "Appeal allowed. The Supreme Court held that where acquisition proceedings were quashed by court order on merits, Section 24(2) does not apply to render the acquisition lapsed. Revival of proceedings permissible if initial quashing is not on ground of lapse but procedural invalidity. Land acquisition not deemed lapsed; proceedings can continue subject to due process."
+}

@@ -1,0 +1,23 @@
+{
+  "case_number": "Civil Appeal No(s). 10389 of 2024",
+  "parties": {
+    "petitioner": "Chandra Shekhar Singh and Others",
+    "respondent": "The State of Jharkhand and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-03-20",
+  "summary": "The appellants, post-graduates in microbiology and food science, challenged their disqualification in the recruitment process for Food Safety Officers (FSO) by JPSC, which required a 'degree' in specified subjects. They argued that 'degree' under the UGC Act includes Master's degrees and that Section 37(1) of the FSS Act, 2006 mandates uniform qualifications prescribed by the Central Government. The High Court dismissed their writ and intra-court appeal, holding that only graduation degrees in specified fields were valid. The appellants contended that exclusion of Master's degrees was arbitrary and unconstitutional. The respondents defended the restricted interpretation of 'degree' as per the advertisement, limiting Master's qualification only to Chemistry. The Court examined the meaning of 'degree', statutory provisions under the FSS Act, and the constitutional validity of disparate treatment.",
+  "legal_provisions_cited": [
+    "Constitution of India Article 246(2)",
+    "Constitution of India Article 254",
+    "Seventh Schedule List-III Item 18",
+    "Food Safety and Standards Act, 2006 Section 37(1)",
+    "Food Safety and Standards Act, 2006 Section 37(2)",
+    "Food Safety and Standards Act, 2006 Section 91",
+    "Food Safety and Standards Act, 2006 Section 94",
+    "University Grants Commission Act, 1956 Section 22(3)",
+    "Food Safety and Standards (First Amendment) Rules, 2022",
+    "Parvaiz Ahmad Parry v. State of Jammu and Kashmir and Others (2015) 17 SCC 709"
+  ],
+  "final_judgment": "Pending final disposal, the Court directed the respondents to consider the appellants' candidature in the ongoing recruitment process for FSOs conducted in 2023, granting them an opportunity to participate in the interview and be considered for appointment if found eligible, without expressing any final opinion on the merits of the case."
+}

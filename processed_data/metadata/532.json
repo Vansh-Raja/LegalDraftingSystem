@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No(s). of 2024 [Arising out of SLP (Civil) No. 9940 of 2022]",
+  "parties": {
+    "petitioner": "Indore Vikas Praadhikaran (IDA) & Anr.",
+    "respondent": "Shri Humud Jain Samaj Trust & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-11-25",
+  "summary": "The case involved the challenge to the rejection of the highest bid in a land leasing tender by IDA due to unaccounted property tax liability of Rs. 1.25 crores. The High Court directed allotment if the respondent paid Rs. 26,000/sq.m, but the Supreme Court examined whether the High Court overstepped by effectively enforcing a contract. The core issue was whether the highest bidder has a vested right to allotment. The Court reiterated that no such right exists until acceptance, and the authority retained discretion under tender conditions to reject bids and reissue tenders. The appeal was allowed, setting aside the High Court's direction for specific performance.",
+  "legal_provisions_cited": [
+    "Condition No. 6 of NIT dated 17.07.2020",
+    "State of Jharkhand and others Vs. CWE-SOMA Consortium (2016) 4 SCC 172",
+    "Haryana Urban Development Authority and others Vs. Orchid Infrastructure Developers Private Limited (2017) 4 SCC 243",
+    "Eva Agro Feeds Private Limited Vs. Punjab National Bank and Anr. 2023 INSC 809"
+  ],
+  "final_judgment": "Appeal allowed. The judgment of the Division Bench of the Madhya Pradesh High Court is set aside. The appellant IDA is not directed to allot the land to the respondent. The bid rejection and issuance of fresh NIT upheld as within the authority's discretion."
+}

@@ -1,0 +1,24 @@
+{
+  "case_number": "CA No.2794 of 2022 @ SLP(C) No.12061/2021",
+  "parties": {
+    "petitioner": "Eastern Coalfields Limited & Ors.",
+    "respondent": "Rabindra Kumar Bharti"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-07",
+  "summary": "The case involves a challenge to the High Court's decision to stay the final order of dismissal of respondent during the pendency of a criminal case under the Prevention of Corruption Act, 1988. The appellant argued that departmental proceedings need not be delayed merely because a criminal trial is ongoing, particularly where the employee participated in the enquiry and the High Court had permitted the proceedings to continue. The respondent contended that simultaneous proceedings could prejudice his criminal defense, relying on principles from Capt. M. Paul Anthony v. Bharat Gold Mines Ltd. The Supreme Court examined the interplay between criminal and departmental proceedings, affirming that while concurrent proceedings may affect fairness, no absolute bar exists. The Court emphasized differing standards of proof and objectives in criminal and disciplinary cases, citing precedents like State of Rajasthan v. B.K. Meena and Karnataka Power Transmission Corpn. Ltd. v. C. Nagaraju.",
+  "legal_provisions_cited": [
+    "Section 7(12) & (13), sub-section 2 read with Section 13(i)(d) of the Prevention of Corruption Act, 1988",
+    "Order 41 Rule 33 CPC",
+    "Capt. M. Paul Anthony v. Bharat Gold Mines Limited & Another (1999) 3 SCC 679",
+    "Depot Manager, A.P. SRTC v. Mohd. Yousuf Miya (1997) 2 SCC 699",
+    "State of Rajasthan v. B.K. Meena and Ors (1996) 6 SCC 417",
+    "Pandiyan Roadways Corpn. Ltd. v. N. Balakrishnan (2007) 9 SCC 755",
+    "Karnataka Power Transmission Corpn. Ltd. v. C. Nagaraju and Another (2019) 10 SCC 367",
+    "Ajit Kumar Nag v. Indian Oil Corpn. Ltd. (2005) 7 SCC 764",
+    "Commr. of Police v. Narender Singh (2006) 4 SCC 265",
+    "G.M. Tank v. State of Gujarat (2006) 5 SCC 446",
+    "Jasbir Singh v. Punjab & Sind Bank (2007) 1 SCC 566"
+  ],
+  "final_judgment": "The appeal was allowed; the direction of the Division Bench staying the operation of the dismissal order pending criminal trial was set aside. The Court held that since the High Court had already permitted the departmental proceedings to continue and the respondent participated therein, there was no basis to delay the disciplinary outcome. The dismissal order was not to await the conclusion of the criminal case."
+}

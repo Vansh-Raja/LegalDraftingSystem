@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 813 of 2022",
+  "parties": {
+    "petitioner": "M/s Bombay Chemical Industries",
+    "respondent": "Deputy Labour Commissioner & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-04",
+  "summary": "The appellant challenged the High Court's dismissal of its writ petition, which had confirmed a Labour Court order directing payment of wage differences under Section 33(C)(2) of the Industrial Disputes Act. The key issue was whether the Labour Court had jurisdiction to decide the employer-employee relationship when it was disputed. The Supreme Court held that where there is a serious dispute over employment status, the Labour Court cannot adjudicate entitlement under Section 33(C)(2), which is limited to execution of existing rights, not determination of new claims. Since no prior adjudication established respondent No.2's employment as a salesman, and the documents were contested, the Labour Court exceeded its jurisdiction. The High Court failed to recognize this error.",
+  "legal_provisions_cited": [
+    "Section 33(C)(2) of the Industrial Disputes Act",
+    "Municipal Corporation of Delhi Vs. Ganesh Razak and Anr., (1995) 1 SCC 235",
+    "Union of India and another Vs. Kankuben (Dead) By Lrs. and Others, (2006) 9 SCC 292"
+  ],
+  "final_judgment": "The appeal is allowed. The impugned orders of the High Court and the Labour Court are quashed and set aside. Respondent No.2 is relegated to pursue alternative remedies, including a reference under the Industrial Disputes Act, for adjudication of his employment claim, if so advised."
+}

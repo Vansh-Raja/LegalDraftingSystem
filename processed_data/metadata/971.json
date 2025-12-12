@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 421 of 2022",
+  "parties": {
+    "petitioner": "M/s Indian Oil Corporation Limited",
+    "respondent": "V.B.R. Menon & Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-14",
+  "summary": "The appeal challenged directions issued by the National Green Tribunal (NGT), Chennai, mandating Consent to Establish (CTE) and Consent to Operate (CTO) for new and existing petroleum retail outlets. The petitioner, an oil marketing company, did not contest VRS installation norms but argued that the CTE/CTO mandate was legislative in nature and beyond NGT's judicial authority. It contended that petroleum outlets fall under the 'green category' where CTE/CTO is not mandatory, and that imposition of such requirement would cause significant delays given existing regulatory approvals. The NGT justified the directions as necessary for environmental compliance with Vapour Recovery Systems (VRS) guidelines. Key issues included whether NGT could issue legislative-type directions and whether additional consents were justified as regulatory enforcement.",
+  "legal_provisions_cited": [
+    "Section 5, Environment (Protection) Act, 1986",
+    "Section 18, Water (Prevention and Control of Pollution) Act, 1974",
+    "Section 18, Air (Prevention and Control of Pollution) Act, 1981",
+    "O.A. No. 147 of 2016 (Aditya N. Prasad & Ors. Vs. Union of India & Ors.)",
+    "Gyanprakhash @ Pappu Singh v. GoI & Ors., O.A. No. 86 of 2019"
+  ],
+  "final_judgment": "The Supreme Court set aside the NGT's directions making CTE and CTO mandatory for petroleum retail outlets, holding that such directions amounted to legislative functions beyond the NGT's jurisdiction, particularly since the outlets fall under the green category exempt from such requirements, and existing approval mechanisms already ensure regulatory compliance."
+}

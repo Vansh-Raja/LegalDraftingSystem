@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 4750 of 2021",
+  "parties": {
+    "petitioner": "Indian Overseas Bank",
+    "respondent": "M/S RCM Infrastructure Ltd. and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-18",
+  "summary": "The appeal challenged the NCLAT's dismissal of the bank's appeal against the NCLT's order setting aside the sale of the corporate debtor's assets during CIRP. The bank enforced its security interest under SARFAESI Act before CIRP commencement, completed 25% sale payment pre-moratorium, and received balance later. The petitioner argued the sale was complete under Section 54 of IBC and prior actions under SARFAESI are not undone by moratorium under Section 14. Mala fide intent was alleged in initiating IBC proceedings to stall enforcement. The respondents claimed the sale violated the moratorium. The court examined whether SARFAESI enforcement completed pre-moratorium is protected and whether forum shopping occurred.",
+  "legal_provisions_cited": [
+    "Section 13(2), 13(4), 13(8) of SARFAESI Act, 2002",
+    "Section 10, 14(1)(c), 52, 54, 65 of Insolvency and Bankruptcy Code, 2016",
+    "Rule 8, Rule 9(4)(a) of Security Interest (Enforcement) Rules, 2002",
+    "Section 60 of Transfer of Property Act, 1882",
+    "Vidhyadhar v. Manikrao",
+    "B. Arvind Kumar v. Govt. of India",
+    "Kaliaperumal v. Rajagopal",
+    "Insolvency Law Committee Report, 2018, para 21"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, set aside the NCLAT and NCLT orders, and upheld the validity of the asset sale conducted by the bank under SARFAESI, holding that the sale was complete prior to the moratorium and could not be interfered with during CIRP."
+}

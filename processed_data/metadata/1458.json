@@ -1,0 +1,22 @@
+{
+  "case_number": "Criminal Appeal Nos. 410-411 of 2015",
+  "parties": {
+    "petitioner": "Ravi Sharma",
+    "respondent": "State (Government of N.C.T. of Delhi) and Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-11",
+  "summary": "The appellant was initially acquitted by the trial court based on reasonable doubt regarding motive, reliability of recovery under Section 27 of the Indian Evidence Act, and inconclusive ballistic evidence. The Delhi High Court reversed the acquittal, relying on motive and circumstantial evidence including recoveries. The Supreme Court held that in appeals against acquittal, the appellate court must show restraint and not merely substitute its view unless the trial court’s view is perverse. Citing established precedents, it emphasized the strengthened presumption of innocence post-acquittal and found the trial court’s assessment plausible. The High Court's reversal was deemed unwarranted, as it failed to meet the higher standard required to overturn an acquittal.",
+  "legal_provisions_cited": [
+    "Section 27, Indian Evidence Act",
+    "Section 378, Code of Criminal Procedure",
+    "Section 384, Code of Criminal Procedure",
+    "Article 21, Constitution of India",
+    "Mohan alias Srinivas alias Seena alias Tailor Seena v. State of Karnataka, 2021 SCC OnLine SC 1233",
+    "Jafarudheen and Others v. State of Kerala, 2022 SCC Online SC 495",
+    "Anwar Ali v. State of Himachal Pradesh, (2020) 10 SCC 166",
+    "Babu v. State of Kerala, (2010) 9 SCC 189",
+    "Kuldeep Singh v. Commr. of Police, (1999) 2 SCC 10"
+  ],
+  "final_judgment": "The appeals were allowed, the High Court's conviction was set aside, and the trial court's order of acquittal was restored."
+}

@@ -1,0 +1,15 @@
+{
+  "case_number": "Criminal Appeal No. 2230 of 2010",
+  "parties": {
+    "petitioner": "Pawan Kumar Chourasia",
+    "respondent": "State of Bihar"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-14",
+  "summary": "The appellant was convicted for murder under Section 302 read with Section 34 IPC and destruction of evidence under Section 201 IPC based solely on extra-judicial confession. The prosecution relied on three witnesses (PW-7, PW-8, PW-9) who claimed the appellant confessed, but their testimonies were inconsistent, uncorroborated, and lacked naturalness. The Court held that extra-judicial confession must be voluntary, reliable, and made to persons with whom the accused has trust; mere recovery of bodies without confirmation by investigation or corroboration was insufficient. The Court found no reliable evidence supporting the confession and no other incriminating circumstances.",
+  "legal_provisions_cited": [
+    "Section 302 read with Section 34 IPC",
+    "Section 201 IPC"
+  ],
+  "final_judgment": "Appeal allowed; conviction set aside; appellant acquitted; bail bonds cancelled."
+}

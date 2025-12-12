@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 267 of 2022",
+  "parties": {
+    "petitioner": "Indian Overseas Bank & Ors.",
+    "respondent": "Om Prakash Lal Srivastava"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-19",
+  "summary": "The case involved departmental proceedings against a bank employee, Om Prakash Lal Srivastava, for misconduct including forgery, fraud, insubordination, and tampering with records. The Industrial Tribunal upheld dismissal, but the Allahabad High Court remitted charges 4 and 5 (forgery and fraudulent withdrawal) for reinvestigation, citing failure to obtain forensic comparison of signatures and higher standard of proof required in fraud cases. The Supreme Court examined whether disciplinary proceedings should meet criminal standards of proof. It emphasized that while proof in disciplinary cases is based on preponderance of probabilities, serious allegations like fraud necessitate stricter scrutiny. The Bank argued sufficient evidence supported all charges; the respondent contended lack of proper evidence, especially on forgery. The Court assessed witness credibility and procedural fairness.",
+  "legal_provisions_cited": [
+    "Para 19.5(c), 19.5(e), 19.5(j) of the Bipartite Settlement dated 19.10.66",
+    "Lalit Popli v. Canara Bank"
+  ],
+  "final_judgment": "The appeal was allowed, setting aside the Allahabad High Court's judgment and restoring the Industrial Tribunal's award upholding the dismissal, holding that the principles of natural justice were followed and the misconduct charges were proved by preponderance of evidence."
+}

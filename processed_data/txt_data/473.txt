@@ -1,0 +1,1041 @@
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+C h i n a   D e v e l o p m e n t   B a n k   v s   D o h a   B a n k   Q . P . S . C   o n   2 0
+December, 2024
+
+Author: Abhay S. Oka
+
+Bench: Pankaj Mithal, Abhay S Oka
+
+2024 INSC 1029
+
+                                                                               REPORTABLE
+
+                                            IN THE SUPREME COURT OF INDIA
+                                             CIVIL APPELLATE JURISDICTION
+
+                                             CIVIL APPEAL NO. 7298 OF 2022
+
+                            China Development Bank                              … Appellant
+
+                                                         versus
+
+                            Doha Bank Q.P.S.C. & Ors.                        … Respondents
+
+                                                          with
+
+                                            Civil Appeal No.7407 of 2022
+                                            Civil Appeal No.7615 of 2022
+                                            Civil Appeal No.7328 of 2022
+                                                           and
+                                            Civil Appeal No.7434 of 2023
+
+                                                    JUDGMENT
+
+ABHAY S. OKA, J.
+
+FACTUAL ASPECTS
+
+1. These appeals take exception to the judgment dated 9th September 2022 of the National
+Company Law Appellate Tribunal, Principal Bench, New Delhi (for short, ‘the NCLAT’). The
+appellants in this batch of appeals (for short, ‘appellants’), except the appellant in Civil Appeal
+No.7434 of 2023, were parties to the appeals preferred by 1st to 4th respondents in Civil Date:
+2024.12.20 Appeal No. 7298 of 2022.
+
+17:57:19 IST Reason:
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+1
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+2. The issue involved in these appeals is whether the appellants can be classified as ‘Financial
+Creditors’ within the meaning of sub-section (7) of Section 5 of the Insolvency and Bankruptcy Code,
+2016 (for short, ‘the IBC’). Another issue may arise in the event it is held that the appellants are not
+‘Financial Creditors’. The issue will be whether the appellants can be classified as ‘Secured Creditors’
+and paid commensurate to their security interest.
+
+3. 1st respondent-Doha Bank claims to be a direct lender and secured Financial Creditor of Reliance
+Infratel Limited (for short, ‘RITL’ or ‘the Corporate Debtor’). A Corporate Insolvency Resolution
+Process (CIRP) was initiated by the adjudicating authority (NCLT) in respect of RITL-Corporate
+Debtor at the instance of Ericsson India Private Limited, and the Interim Resolution Professional
+(IRP) was appointed. We are concerned in this case with Reliance Communications Infrastructure
+Ltd. (for short, ‘RCIL’), Reliance Communications Ltd. (for short, ‘RCom’), Reliance Telecom Ltd.
+(for short, ‘RTL’) and RITL. These companies are hereinafter collectively referred to as “RCom
+entities”.
+
+4. Public announcements were made under Section 15 of the IBC inviting claims from creditors. The
+appellants submitted their claims as Financial Creditors of the Corporate Debtor. While admitting
+the claim of the appellants, the Resolution Professional classified the appellants as Financial
+Creditors. Accordingly, the appellants were included in the Committee of Creditors (for short, ‘the
+COC’). The 1st Respondent-Doha Bank, made applications before the NCLT to challenge the
+admission of the claims of the appellants (except the appellant in Civil Appeal No.7434 of 2023) as
+Financial Creditors. The contention of the 1st respondent-Doha Bank was that the said appellants
+were not direct lenders of the Corporate Debtor, and it was impermissible to admit them as
+Financial Creditors on the basis of various terms of the Deeds of Hypothecation.
+
+5. During the pendency of 1st respondent-Doha Bank’s Application, a Resolution Applicant
+submitted a Resolution Plan for the Corporate Debtor, which the CoC approved in its meeting held
+on 2nd March 2020. After that, the 5th respondent-RP filed an application for grant of approval to
+the Resolution Plan. By order dated 3rd December 2020, the NCLT approved the Resolution Plan.
+The approval was granted without deciding the pending application made by the 1st
+respondent-Doha Bank, filed for objecting to the status of the appellants as Financial Creditors. The
+6th Respondent preferred an appeal before the NCLAT to challenge the approval of the Resolution
+Plan. By the order dated 19th January 2021, the NCLAT directed the NCLT to decide the application
+of the 1st Respondent-Doha Bank. The NCLAT disposed of the appeal by observing that depending
+on the outcome of the application of the 1st Respondent, the order approving the Resolution Plan
+could be reconsidered.
+
+6. The appellants have relied upon the Deeds of Hypothecation dated 4th March 2011, 9th March
+2011, 12th February 2012 and 15th September 2018 (collectively referred to as “the DoH”). The DoH
+were executed jointly by each of the Rcom entities (described therein as Chargors), including the
+Corporate Debtor (RCIL), to create a charge over their property for securing the repayment of the
+facilities advanced by the appellants. The RCom entities agreed to provide their assets as security
+and further undertook to pay any shortfall of debts owed by each of the RCom entities. All the RCom
+entities pooled their resources to provide security for the facilities availed by any of the entities,
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+2
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+ensuring that each entity was individually liable to pay the debt of all the entities. According to the
+case of the appellants, in terms of the DoH, if there is any default by any entity, all the RCom entities
+were liable to make good the shortfall in recovery of the amounts after realisation of hypothecated
+assets.
+
+7. Thereafter, the NCLT heard the application of the 1st respondent and dismissed it, upholding the
+status of the appellants (except the appellant in Civil Appeal No.7434 of 2023) as the Financial
+Creditors. An appeal was preferred by 1st to 4th respondents against the said order. By the
+impugned judgment and order, the NCLAT held that the DoH is not a deed of guarantee. It was held
+that the only parties to the DoH were the Chargors and the Security Trustee. The only object of the
+DoH was to create a charge on the property of the Chargors. Therefore, the Chargors cannot be
+treated as guarantors. Hence, the NCLAT set aside the order passed by the NCLT and remanded the
+case to the NCLT for taking consequential actions resulting from de-recognising the first four
+appellants herein as Financial Creditors.
+
+8. At this stage, we may note that as far as Civil Appeal No.7434 of 2023 is concerned, the appeal is
+preferred by a Bank that was not a party to the appeal before the NCLAT. However, the NCLT dealt
+with the issue of the appellant's qualification as a Financial Creditor.
+
+SUBMISSIONS OF THE APPELLANTS Submissions in Civil Appeal No.7298 of 2022, Civil Appeal
+No.7615 of 2022 and Civil Appeal No.7434 of 2023
+
+9. Very detailed submissions have been made by the learned counsel appearing for the parties. The
+learned senior counsel appearing for the appellants in some of the appeals firstly referred to the
+factual aspects of the case. He pointed out that the RCom entities entered into the Master Security
+Trustee Agreement (MSTA) with Axis Trustees Services Limited (security trustee). Pursuant to the
+MSTA, the Security Trustees executed the aforementioned four DoH on behalf of the appellants and
+other lenders whereunder, the RCom entities, including the Corporate Debtor, agreed to provide
+their common pooled assets as security for the loans availed by them. The DoH further provided
+that in the event of any default by the RCom entities, each of the RCom entities is liable to make a
+good shortfall in recovery of the amounts in default. The learned senior counsel submitted that this
+obligation to pay the shortfall is a promise to pay, which is in the nature of a guarantee.
+
+10. He pointed out that the CIRP was initiated by the NCLT for RITL-Corporate Debtor, RTL and
+RCom. He pointed out that on 2nd March 2020, in their capacity as Secured Financial Creditors, the
+appellants, along with other Financial Creditors, unanimously approved the Resolution Plan
+submitted by Reliance Digital Platform and Project Services Ltd. He pointed out that the appellants
+by their letter dated 2nd March 2020 addressed to the RP, pointed out that there were voting in
+favour of the RP in their capacity as ‘Secured Financial Creditors’.
+
+11. The learned senior counsel pointed out that under the DoH, the Corporate Debtor has
+undertaken a three-fold obligation under the DoH. Firstly, under clause 2 of the DoH, the Corporate
+Debtor, in its capacity as Chargor and Obligor, has covenanted to pay the appellants the amount due
+under the relevant facilities availed by RCom and RTL. Secondly, under clause 3 of the DoH, the
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+3
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+Corporate Debtor created a charge over its entire asset pool on a first-ranking pari passu basis for
+the benefit of the secured creditors, including the appellants and others. The learned senior counsel
+pointed out that the entire asset pool is the subject matter of the approved Resolution Plan. Thirdly,
+under sub-clauses (ii) and (iii) of clause 5 of the DoH, the Corporate Debtor unambiguously,
+unequivocally and expressly agreed to make good the shortfall in realisation of the outstanding debt
+to the appellants, in the event charged assets were not sufficient to satisfy the outstanding debts
+owed to the appellants. He submitted that the Corporate Debtor in its capacity as a Chargor, in
+addition to hypothecating its properties, has undertaken to pay the appellants the amounts due and
+payable under the relevant facilities granted to RCom and RTL, which amounts to a guarantee in
+terms of Section 5(8).
+
+12. The learned senior counsel pointed out the findings recorded in paragraph 8 of the order made
+by the NCLT. Relying upon Section 126 of the Indian Contract Act, 1872 (for short, ‘the Contract
+Act’), he submitted that a contract of guarantee is a contract to perform the promise or discharge the
+liability of a third person in case of a default. He submitted that since the Corporate Debtor
+undertook to pay the amounts due and payable by other RCom entities, it was a contract to perform
+or discharge the liability of a third party in the event of default by the original borrower. Moreover,
+clauses 5(iii) and 16(viii) of the DoH provided that upon the occurrence of an event of default, the
+Security Trustee was authorised to take steps against the Corporate Debtor without having any
+obligation to first proceed against the borrower.
+
+13. The learned senior counsel rebutted the 1st respondent’s contention that clause 5(iii) was a
+standard clause included in hypothecation deeds. He submitted that unlike the sample
+hypothecation deeds relied upon by the 1st respondent, where the borrower himself provides
+security, as per the DoH in the present case, the Corporate Debtor, being a third party, undertook to
+pay the shortfall amount. In that sense, the promise to pay is in the nature of a guarantee. Therefore,
+the appellants were entitled to file a claim as Financial Creditors. The learned senior counsel
+submitted that every word stated in the contract has to be given its due meaning, and no part of the
+contract and words used thereunder could be said to be redundant.
+
+14. He submitted that there is a fallacy in the 1st respondent’s submission that the appellants were
+not entitled to file a claim in Form-C since there was no default or the shortfall as on 20th May 2019.
+The learned senior counsel distinguished between a claim submitted pursuant to the public
+announcement under Section 15 of the IBC and the requirement of the existence of debt and default
+for the purposes of filing an application under Section 7 of the IBC. He submitted that the claim as
+defined under Section 3(6) of the IBC arises without any default taking place at the time of filing the
+claim.
+
+15. He also dealt with the contention raised by the respondents that the appellants’ rights as secured
+creditors under the MSTA and the DoH cannot survive after moratorium comes into force under
+Section 14 of the IBC. He urged that the moratorium only bars any action for recovery or
+enforcement outside the resolution process and therefore, there is a provision for filing claims to the
+RP. Once the CIRP commences, creditors cannot enforce any rights under the documents and are
+required to file their claims for outstanding dues with the RP.
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+4
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+16. He submitted that the definition of ‘financial debt’ under Section 5(8) of the IBC is inclusive and
+not exhaustive. He relied upon the decisions of this Court in the cases of Kotak Mahindra Bank
+Limited v. A. Balakrishnan1 and Orator Marketing Pvt. Ltd. v. Samtex Desinz Pvt. Ltd2. He
+submitted that the debt need not be directly disbursed to the Corporate Debtor. He relied upon
+another decision of this Court in the case of Maitreya Doshi v. Anand Rathi Global Finance Ltd. &
+Ors3. He submitted that the Security Trustee under the DoH is acting for the benefit of the secured
+lenders like the appellants who are the direct and intended beneficiaries under the DoH. He
+submitted that the beneficiary to a contract can enforce such a contract even when it is not a party to
+the same. He relied upon the decisions of this Court in the cases of M.C. Chacko v. State Bank of
+Travancore4 and Essar Steel Ltd. v. Gramercy Emerging Market Fund5.
+
+17. The learned senior counsel submitted that the entire CIRP of the Corporate Debtor has
+proceeded on the basis that the appellants are Financial Creditors of the Corporate Debtor. They
+have participated and voted as Financial Creditors. Therefore, at this belated stage, when the
+proceeds of the approved Resolution Plan have been realised and are pending distribution, the
+entire process cannot be overturned, and the (2022) 9 SCC 186 : 2022 INSC 630 (2023) 3 SCC 753 :
+2021 INSC 359 AIR 2022 SC 4595 : 2022 INSC 1004 (1969) 2 SCC 343 : 1969 INSC 151 2002 SCC
+OnLine Guj 319 appellants cannot be removed from the list of Financial Creditors.
+
+18. In the alternative, the learned counsel contended that appellants are entitled to receive a payout
+commensurate to their security interest. The learned counsel submitted that the RP accepted that
+the appellants were secured Financial Creditors. Therefore, the security interest of the appellants
+cannot be extinguished during the CIRP of the Corporate Debtor, and the appellants ought to be
+paid at least the commensurate value as per the security interest held in the event their status as
+Financial Creditors is not accepted. He relied upon a decision of this Court in the case of Vistra ITCL
+(India) Ltd. & Ors. v. Dinkar Venkatasubramanian6 on the entitlement of the secured creditor.
+
+Submissions in Civil Appeal no. 7407 of 2022
+
+19. The learned senior counsel appearing for the appellants in Civil Appeal No. 7407 of 2022 also
+made detailed submissions and pointed out the factual aspects of the case. The learned senior
+counsel pointed out that the appellants’ claim as Financial Creditors was admitted by the RP in
+August 2019. He referred to the relevant portion of the minutes of the CoC meeting held on 2nd
+August 2019. He pointed out that the extracts of the minutes show that in response to the query
+made whether there was any deed of guarantee, the learned counsel appearing for the RP made it
+clear that while there was (2023) 7 SCC 324 : 2023 INSC 500 no deed of guarantee, there was a legal
+obligation in the DoH under which, the Corporate Debtor had undertaken to pay the shortfall. The
+learned senior counsel analysed clause 5(iii) of the DoH. He pointed out that the Chargors
+(including the Corporate Debtor) have agreed to accept the Security Trustee’s account of the
+expenses, sales and realisation and to pay on demand by the Security Trustee any shortfall. He
+pointed out that Clause 2.15 of MSTA clarifies that the security created under the DoH is in addition
+to and independent of any other rights or remedies available to the appellants in law, equity or
+otherwise. More importantly, there is a personal covenant to pay on the part of the Chargors. He
+pointed out that clause 5(iii) of the DoH provides protection to the Security Trustee precisely
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+5
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+because there is an obligation on the Chargors to pay the shortfall/deficiency in payment of debt.
+When there are no recoveries from the sale of the charged properties, the entirety of the amount of
+default by RCom would be rendered in shortfall or deficiency and form part of the Corporate
+Debtor’s liability to pay. He pointed out that in the present case, the Corporate Debtor has not
+merely provided security for RCom’s dues but has also expressly undertaken to pay any shortfall or
+deficiency that may arise in the recovery of the amounts from RCom following the realisation from
+the sale of the security. Therefore, clause 5(iii) of the DoH contains the ingredients of a contract of
+guarantee under Section 126 of the Contract Act. Relying upon the definition of financial debt under
+Section 5(8) of the IBC, he submitted that the facility availed by RCom undoubtedly falls within the
+definition of financial debt and especially, clause (a) of sub-section (8) of Section 5 of the IBC.
+
+Therefore, the guarantee provided by RITL-Corporate Debtor for such a financial facility would be a
+financial debt, which would entitle the appellant to be classified as a Financial Creditor.
+
+20. He submitted that a sentence or term in a document is not determinative of the real nature of
+the document and obligations thereunder. He relied upon the decision of this Court in the case of
+B.K. Muniraju v. State of Karnataka & Ors.7, to state that the nature of the document or transaction
+between the parties to the contract is to be read as a whole and is not to be determined by the
+nomenclature/title of a contract. He submitted that the rights flow from the contents of the
+document. He submitted that as held by this Court in the case of Union of India v. D.N. Revri & Co.
+and Ors.8, a contract must be interpreted in such a manner so as to give efficacy to the contract
+between the parties rather than to invalidate the same. Moreover, a contract must be read as a whole
+and attempts should be made to harmonise the terms. He submitted that as held in the case of
+Maharashtra State Electricity Distribution Company Limited v. Maharashtra Electricity Regulatory
+Commission & Ors.9, the Court should not rewrite a contract in the guise of interpreting the terms
+thereof.
+
+(2008) 4 SCC 451 : 2008 INSC 208 (1976) 4 SCC 147 : 1976 INSC 208 (2022) 4 SCC 657 : 2021
+INSC 644
+
+21. In reference to the argument regarding the extinguishment of the claim of the appellant due to
+the moratorium under Section 14 of the IBC, he submitted that Section 14 does not extinguish any
+right. The learned senior counsel also relied upon a decision of this Court in the case of Committee
+of Creditors of Essar Steel India Limited v. Satish Kumar Gupta & Ors10. He submitted that the
+provisions of the IBC ensure that successful resolution applicant starts running the business of the
+Corporate Debtors on a fresh slate.
+
+22. The learned senior counsel also refuted 1st respondent’s submission that Clause 5(iii) of the DoH
+becomes an impossibility since moratorium prohibits enforcement of security interest under the
+DoH. He submitted that the guarantee under clause 5(iii) of the DoH is not contingent upon the
+enforcement of the security interest.
+
+23. In the alternative, the learned counsel submitted that in any event, the appellant is entitled to
+retain the security interest and be classified as a secured creditor. He submitted that in the
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+6
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+Resolution Plan, other creditors include those creditors who have a claim against the Corporate
+Debtor but are neither Financial Creditors nor Operational Creditors. He submitted that while
+voting in favour of the Resolution Plan, the appellant made it clear that its approval was subject to
+the appellants being considered as Financial Creditors. Even while (2020) 8 SCC 531 : 2019 INSC
+1256 approving the Resolution Plan, the NCLT permitted the distribution of the payment to the
+Financial Creditors including the appellants and stated that the same shall abide by and subject to
+the outcome of the application filed by the 1st Respondent.
+
+24. The learned senior counsel also relied upon the decision of this Court in the case of Vistra ITCL
+(India) Ltd.6 to contend that IBC recognises the rights of secured creditors. He submitted that the
+requirement to relinquish the security interest is only during the liquidation process and not during
+the CIRP. Therefore, the question of whether the appellant has relinquished its security interest
+does not arise.
+
+Submissions in Civil Appeal no. 7328 of 2022
+
+25. The learned counsel appearing for the appellant in Civil Appeal No. 7328 of 2022 also made
+detailed submissions which are similar to the submissions made in Civil Appeal No. 7407 of 2022.
+
+Submissions of 1st to 4th Respondents
+
+26. On behalf of 1st to 4th respondents, it was submitted by the learned senior counsel that the DoH
+is only a simple document hypothecating certain properties of the borrowers (RCom entities) in
+favour of the appellants/third party lenders represented by the Security Trustee. The learned senior
+counsel submitted that in the present case, the DoH has only two parties: the Chargor (including the
+Corporate Debtor and three other RCom entities) and the Security Trustee. He submitted that
+without the presence of the three parties, namely the Guarantor, Principal Debtor and Creditor, a
+guarantee could not come into existence. Therefore, the DoH does not meet the requirement of
+Section 126 of the Contract Act. Reliance was placed on the decision of this Court in the case of
+Phoenix ARC Pvt. Ltd. v. Ketulbhai Ramubhai Patel11.
+
+27. Our attention was invited to clause 5(iii) of the DoH. The learned senior counsel submitted that
+it only contains the process of enforcement of security by the Security Trustee. He submitted that
+the relevant part of clause 5(iii) of the DoH means that the Chargors have agreed to accept the
+Security Trustee’s accounts of sales, realisation and expenses. The Chargors have agreed that upon
+demand of the Security Trustee, they will pay such shortfall or deficiency in the expenses. The
+learned senior counsel urged that the effect of a contract means as it reads, and it is not open for a
+Court to supplement or add to a contract since a contract is entered into on the basis of commercial
+decisions of the parties.
+
+28. The learned counsel submitted that even assuming that a portion of clause 5(iii) of the DoH is a
+separate agreement, it is manifestly a contingent contract as per Section 32 of the Contract Act. The
+contingency would have arisen only when the hypothecated properties were sold, expenses were
+incurred, and there was a shortfall in realisation. He relied upon a (2021) 2 SCC 799 : 2021 INSC 59
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+7
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+decision of the Bombay High Court in the case of Western Coalfields Limited & Anr. v. Rajesh s/o
+Nandlal Biyani12. His submission is that the contingent contract ceased to exist when the
+moratorium was declared under Section 14 of the IBC with effect from 15th May 2018, since after
+the moratorium, hypothecated property could not be sold either in fact or in law. As the
+hypothecated property could not be sold, there was no question of sale or realisation. As there would
+not be a shortfall, the question of meeting the shortfall would not arise.
+
+29. The learned counsel further submitted that the enforcement of security is left out of the domain
+of CIRP as it focuses on revival of a Corporate Debtor as opposed to the process of liquidation. After
+the moratorium applies, the enforcement of security becomes impossible.
+
+30. The learned senior counsel submitted that the DoH does not contain any promise by the
+Corporate Debtor to discharge the liability of any of the borrowers to any other lender. As there are
+no third parties to the document, it cannot be termed as a guarantee. He submitted that clause 5(iii)
+of the DoH is found in every standard draft of a deed of hypothecation.
+
+31. He submitted that there are other clauses in the DoH, such as clauses 2, 3, 5 and 9, which
+indicate that the Corporate Debtor has merely created a security in favour of the Security Trustee,
+which represents the lenders. The Corporate Debtor has not agreed to discharge the obligations of
+any borrower.
+
+2011 SCC OnLine Bom 1217 : (2012) 2 Mah LJ 394 The mere security interest created by
+hypothecation or mortgage does not constitute a financial debt as held by this Court in the case of
+Anuj Jain, Interim Resolution Professional for Jaypee Infratech Limited v. Axis Bank Limited &
+Ors13.
+
+32. The learned counsel submitted that when financial debt is intact, a lender would remain a
+Financial Creditor and can make a claim before the RP. However, when the claim made by the
+Financial Creditor is based on a contingent event, a lender cannot become a Financial Creditor until
+the contingent event has happened and the debt is crystalised/accrued. In the facts of the case, a
+contingent event has never happened, and therefore, financial debt has not been crystallised.
+
+33. He submitted that MSTA did not require a guarantee to be executed in favour of the Security
+Trustee. In fact, the recitals in the MSTA clearly indicate that the requirement on Obligors was to
+hypothecate property as security for due repayment of the secured facilities availed by each Obligor.
+It was submitted that the appellants are contract lenders of the three RCom entities and not the
+Corporate Debtor since the Corporate Debtor has not availed any loans or facilities from the
+appellants.
+
+34. The learned senior counsel submitted that the Corporate Debtor in its financial statement before
+and after commencement of the CIRP had not treated the MSTA and the (2020) 8 SCC 401 : 2020
+INSC 227 DoH as a guarantee. It is submitted that the Corporate Debtor had not provided any
+guarantee under the MSTA or the DoH. The learned senior counsel submitted that a perusal of
+Form- C filled in by the appellants shows that no guarantee was provided to the appellants/third
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+8
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+party lenders. This position was further clarified in the minutes of the CoC meeting dated 2nd
+August 2019. Even the RP accepted that there was no deed of guarantee. The learned senior counsel
+submitted that the IBC cannot be used for recovery as it is a mechanism to rehabilitate and revive
+the Corporate Debtor. He urged that the appellants are attempting to use the CIRP as a mode of
+recovery of their loans from the RCom entities. He submitted that if the DoH is treated as a
+guarantee, all such hypothecation deeds creating security interest will have to be construed as a
+guarantee in order to qualify as financial debt.
+
+35. He submitted that the Resolution Plan has been passed in compliance with Sections 13(2) and
+13(4) of the IBC and once a Resolution Plan is approved, it cannot be challenged before the forum.
+
+36. The appellants voted and approved the Resolution Plan which extinguished their security while
+their status as Financial Creditors was under challenge in the pending application filed by the 1st
+Respondent-Doha Bank. Now, the appellants cannot be permitted to turn back and rewrite the
+Resolution Plan. The learned senior counsel urged that allowing any member of the CoC to agree to
+the Resolution Plan by unilaterally reserving its right to seek amendment, would run contrary to
+fundamental principles of the IBC and set a dangerous precedent.
+
+37. The learned senior counsel submitted that even if the CoC accepts the appellants as Financial
+Creditors, the same would have no consequence on the CIRP of the Corporate Debtor or the
+Resolution Plan since the plan has been duly approved by 100 per cent majority of the CoC in
+conformity with Section 30(2) of the IBC. The learned senior counsel submitted that once the
+Resolution Plan has been approved by this Court, the appellants cannot be allowed to challenge the
+same. He submitted that while voting in favour of the Resolution Plan, the appellants opted to take
+an approach of forgoing the benefit of their security.
+
+38. The learned senior counsel dealt with the submission of the appellant in Civil Appeal No. 7298
+of 2022 that the Resolution Plan was approved by the CoC with pay outs to be made to secured
+Financial Creditors and there was no separate clause of secured creditors at the stage of approval by
+the CoC. He submitted that the said argument is suggestio falsi. He submitted that the appellant in
+Civil Appeal No. 7298 of 2022 exercised its commercial wisdom and was conscious of the fact that it
+was forgoing its security as the Financial Creditor and this would tantamount to forgoing security
+even as a Secured Creditor. It was submitted that if the appellants’ right to revise the agreed
+Resolution Plan was recognised, it would lead to another classification of the secured and unsecured
+Financial Creditors. The appellants voted and approved the Resolution Plan based on the pari passu
+distribution to the Financial Creditors, which extinguished its security. In fact, the CoC, in its
+commercial wisdom, made a conscious decision not to distinguish between the secured and the
+unsecured Financial Creditors of the Corporate Debtor with the objective of reviving the Corporate
+Debtor. The learned counsel for the respondents submitted that the appeals, therefore, are required
+to be dismissed.
+
+CONSIDERATION OF SUBMISSIONS
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+9
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+39. The entire controversy revolves around the DoH. Before we deal with DoH, it is necessary to
+consider the relevant clauses of MSTA.
+
+MASTER SECURITY TRUSTEE AGREEMENT (MSTA)
+
+40. The DoH has been executed by the Security Trustee acting on behalf of the Appellants, by the
+authority vested in it by MSTA. Therefore, before coming to the DoH, we must consider the MSTA
+executed on 4th March 2011 by and between the RCom entities described therein as “Original
+Obligors”, “Original Lenders” and the Security Trustee. The MSTA defines “Original Lenders” as
+collectively the persons listed in Schedule I. The appellants are the Original Lenders. Under the
+agreement, an “Acceding Lender” is defined as a person who accedes to the MSTA by way of the
+lender’s deed of accession. “Secured Lenders” are defined as collectively the Original Lenders and
+each acceding lender or syndicate of the lenders. Therefore, all the Original Lenders are described as
+Secured Lenders, and each acceding lender becomes a Secured Lender.
+
+41. Clause 2.1 of the MSTA provides that each Original Obligor appoints the Security Trustee who
+acts as a trustee for the benefit of the secured parties and their permitted successors, etc. “Secured
+Parties” are defined to include the Security Trustee, Secured Lenders and any other persons named
+as Secured Parties. Therefore, the Security Trustee is appointed by each original Obligor, the RCom
+entities, to act for the benefit of the Secured Parties, the appellants.
+
+42. Clause 2.2 of the MSTA is relevant. Under the said clause, the Secured Lenders authorised and
+directed the Security Trustee to act for the benefit of the secured parties, including the Secured
+Lenders. The authority conferred by clause 2.2 includes the authority to execute and take delivery of
+the secured documents and to accept the security and all related deeds and documents. It also
+authorises the Security Trustee to enforce the security in accordance with the provisions of the
+MSTA. To that extent, the Security Trustee acts on behalf of the appellants, who are Original
+Lenders.
+
+DEEDS OF HYPOTHECATION (DOH)
+
+43. Then comes the DoH, to which RCom entities are shown as “Chargors”. The Chargors have
+executed the DoH in favour of the Security Trustee. The DoH refers to the entities availing the
+secured facilities mentioned in Schedule I as “Obligors” for that specific secured facility. The recitals
+mention that the Obligors have availed of the security facilities mentioned in Schedule I. There are
+sixteen security facilities mentioned therein, out of which eleven have been availed by RCom, one by
+RTL and four by RITL-Corporate Debtor. As mentioned in Schedule-I, one of the facilities was
+extended to RCom by the appellant in Civil Appeal No. 7298 of 2022.
+
+44. Clause 2 of the DoH provides that each of the Chargors covenanted with Security Trustee that
+each Obligor (RCom entities) shall repay the secured facilities availed by it together with the
+interest, liquidated damages, premia of prepayment, etc. In pursuance of the aforesaid, Clause 3 of
+the agreement provides for hypothecation of the Chargors’ assets for the purpose of securing the
+facilities. The relevant part of Clause 3 read thus:
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+10
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+“3. Charge In pursuance of the aforesaid, each of the Chargors does hereby
+hypothecate as he by way of a first ranking pari passu charge to the Security Trustee,
+acting in trust for and for the benefit of the Secured Parties, for the purpose of
+securing the due discharge by the Obligors of all their obligations in connection with
+the Secured Facilities, all of its following assets: .. .. .. .. .. .. ..” The properties
+hypothecated by Chargors have been described as “charged properties”.
+
+45. Clause 5 contains the Chargor’s covenants, representations and warranties.
+Sub-clause (iii) of Clause 5 is material, which reads thus:
+
+“5. Chargor’s Covenants, Representations and Warranties .. .. .. . .. .. .. .. .. .. .. . … .. .. ..
+.. .. . .. .
+
+.
+
+(iii) In the event that an Event of Default has occurred under a Facility Document the Security
+Trustee or its nominees shall, on receiving instructions from the Secured Lender/s, in accordance
+with Section 4 of the Security Trustee Agreement and after providing 7 (seven) Business Days notice
+to any of the Chargors and without assigning any reasons and at the risk and expense of the
+Chargors and if necessary as attorney for and in the name of the Chargors, be entitled to take charge
+and/or possession of, seize, recover, receive and remove them and/or sell by public auction or by
+private contract, dispatch or consign for realisation or otherwise dispose of or deal with all or any
+part of the Hypothecated Property (including by way or through the exercise of its powers and rights
+specified in Section 6 hereof) and to enforce, realise, settle, compromise and deal with any rights or
+claims relating thereto, without being bound to exercise any of these powers or be liable for any
+losses in the exercise or non-exercise thereof and without prejudice to the Security Trustee's rights
+and remedies of suit or otherwise. Notwithstanding any pending suit or other proceeding, each of
+the Chargors undertakes to give possession to the Security Trustee or its nominees or the Receiver
+within 7 (seven) Business Days of a notice of demand from the Security Trustee and/ or the Receiver
+the Charged Property and to transfer and to deliver to Security Trustee and/ or the Receiver all
+related bills, contracts and securities. Each of the Chargors further agrees to accept the Security
+Trustee's account of sales and realisations as sufficient proof of amounts realised and relative
+expenses and to pay on demand by the Security Trustee and/ or the Receiver any shortfall or
+deficiency thereby shown.
+
+Provided however, the Security Trustee Or the Receiver shall not be in any way liable or responsible
+for any loss, damage or depreciation that the Hypothecated Property may suffer or sustain on any
+account whatsoever whilst the same are in possession of the Security Trustee or the Receiver or by
+reason of exercise or non-exercise of rights and remedies available to the Security Trustee or the
+Receiver as aforesaid and that all such loss, damage or depreciation shall be wholly debited to the
+account of the relevant Chargor howsoever the same may have been caused, except where such loss,
+damage or depreciation is caused by any negligence or wilful default of the Security Trustee or the
+Receiver.” (emphasis added) In these appeals, we are called upon to interpret clause 5(iii) of the
+DoH and decide whether the clause creates any guarantee in favour of the appellants. Therefore, we
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+11
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+need to analyse the said clause.
+
+GUARANTEE AS FINANCIAL DEBT
+
+46. The question is whether the Corporate Debtor is a guarantor who has guaranteed the repayment
+of the loan amount by the borrowers of the appellant. As far as the appellant -China Development
+Bank is concerned, under five different agreements, it has advanced financial facilities to RCom and
+RTL. So far as the appellant, Asset Care and Reconstruction Enterprises Limited, is concerned, there
+is one agreement under which finance has been extended to RCom. The same is the case with Shubh
+Holdings Pte. Ltd. Regarding the Export Import Bank of China, four agreements were executed
+under which facilities were granted to RCom. In the case of the Industrial Commercial Bank of
+China, there is one agreement under which finance was provided to RCom. The appellants have not
+advanced any facilities to the Corporate Debtor.
+
+47. The answer to the question of whether the appellants are the Financial Creditors depends upon
+the answer to the question of whether the appellants are the guarantors. Therefore, we are adverting
+to the relevant provisions of IBC. Sub-section (6) of Section 3 of the IBC defines “claim” which reads
+thus:
+
+“3. Definitions:-
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. (6) “claim” means – (a) a right to payment,
+whether or not such right is reduced to judgment, fixed, disputed, undisputed, legal,
+equitable, secured, or unsecured; (b) right to remedy for breach of contract under any
+law for the time being in force, if such breach gives rise to a right to payment,
+whether or not such right is reduced to judgment, fixed, matured, unmatured,
+disputed, undisputed, secured or unsecured;” Sub-section (11) of Section 3 of the IBC
+defines “debt” which reads thus:
+
+“3. Definitions:-
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+(11) “debt” means a liability or obligation in respect of a claim which is due from any
+person and includes a financial debt and operational debt;”
+
+48. It is necessary to refer to the definitions of ‘Financial Creditor’ and ‘financial debt’ under
+sub-sections (7) and (8) of Section 5 of the IBC respectively, which read thus:
+
+“5.Definitions:-
+
+.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+12
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+(7) “Financial Creditor” means any person to whom a financial debt is owed and
+includes a person to whom such debt has been legally assigned or transferred to;
+
+(8) “financial debt” means a debt alongwith interest, if any, which is disbursed
+against the consideration for the time value of money and includes–
+
+(a) money borrowed against the payment of interest;
+
+(b) any amount raised by acceptance under any acceptance credit facility or its
+dematerialised equivalent;
+
+(c) any amount raised pursuant to any note purchase facility or the issue of bonds,
+notes, debentures, loan stock or any similar instrument;
+
+(d) the amount of any liability in respect of any lease or hire purchase contract which
+is deemed as a finance or capital lease under the Indian Accounting Standards or
+such other accounting standards as may be prescribed;
+
+(e) receivables sold or discounted other than any receivables sold on non-recourse
+basis;
+
+(f) any amount raised under any other transaction, including any forward sale or
+purchase agreement, having the commercial effect of a borrowing;
+
+Explanation. -For the purposes of this sub-clause,-
+
+(i) any amount raised from an allottee under a real estate project shall be deemed to
+be an amount having the commercial effect of a borrowing; and
+
+(ii) the expressions, “allottee” and “real estate project” shall have the meanings
+respectively assigned to them in clauses (d) and (zn) of section 2 of the Real Estate
+(Regulation and Development) Act, 2016 (16 of 2016);
+
+(g) any derivative transaction entered into in connection with protection against or
+benefit from fluctuation in any rate or price and for calculating the value of any
+derivative transaction, only the market value of such transaction shall be taken into
+account;
+
+(h) any counter-indemnity obligation in respect of a guarantee, indemnity, bond,
+documentary letter of credit or any other instrument issued by a bank or financial
+institution;
+
+(i) the amount of any liability in respect of any of the guarantee or indemnity for any
+of the items referred to in sub-clause (a) to (h) of this clause.” (emphasis added) In
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+13
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+terms of sub-section (11) of Section 3, debt is a liability or obligation in respect of a
+claim which is due from any person and includes a financial debt or operational debt.
+As noted earlier, a claim is a right to payment whether or not, such right is reduced to
+judgment and whether it is disputed or undisputed. The right to payment can be
+legal, equitable, secured or unsecured. Therefore, if there is a liability or obligation in
+respect of a payment which is disputed, it still becomes a claim. Once there is a
+liability or obligation in respect of a claim, it becomes a debt. Once there is a financial
+debt, the person to whom a debt is owed, becomes a Financial Creditor.
+
+49. The appellants are claiming that their case is covered by clause (i) of sub-section (8) of Section 5
+of the IBC. Under clause (i), the amount of any liability in respect of any guarantee of the items
+referred to in clauses (a) to (h) becomes a financial debt. Therefore, when clause (i) of Section 5(8) is
+applicable, it is not necessary that the Financial Creditor actually tenders any amount to the
+Corporate Debtor. In this case, the appellants are claiming that the amount of liability covered by
+clause (i) is in respect of money borrowed by the RCom entities (excluding the Corporate Debtor)
+against payment of interest under the facility agreements. There is no dispute that facilities were
+granted by the appellants to RCom entities. The amount of any liability in respect of any of the
+guarantees for money borrowed against the payment of interest is a financial debt under Section
+5(8) of the IBC.
+
+50. “Guarantee” is defined under Section 126 of the Contract Act, which reads thus:
+
+“126. “Contract of guarantee”, “surety”, “principal debtor” and “creditor”.—A
+“contract of guarantee” is a contract to perform the promise, or discharge the
+liability, of a third person in case of his default. The person who gives the guarantee is
+called the “surety”; the person in respect of whose default the guarantee is given is
+called the “principal debtor”, and the person to whom the guarantee is given is called
+the “creditor”. A guarantee may be either oral or written.” A contract becomes a
+guarantee when the contract is to perform the promise or discharge the liability of a
+third person in case of default. Thus, when a person enters into a contract to perform
+or discharge the liability of a third party, the contract becomes a contract of
+guarantee.
+
+51. Section 127 of the Contract Act reads thus:
+
+“127. Consideration for guarantee.- Anything done, or any promise made, for the
+benefit of the principal debtor, may be a sufficient consideration to the surety for
+giving the guarantee.
+
+Hence, any promise made or anything done for the benefit of principal debtor may be
+sufficient consideration to the surety for giving guarantee.
+
+EFFECT OF CLAUSE 5(iii) OF DOH READ WITH MSTA Relevance of nomenclature
+of DoH
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+14
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+52. If we go by the title, DoH is a Document creating hypothecation. In short, hypothecation means
+the process of using an asset as collateral for a loan. It acts as a protection to the lender when the
+borrower does not repay the loan.
+
+53. Only the title of a document cannot be a decisive factor in deciding the nature of the document
+or the transactions affected by the document. In the case of C.C., C.E. and S.T. Bangalore
+(Adjudication) & Ors. v. Northern Operating Systems Pvt. Ltd.14, in paragraphs 53 to 55, this Court
+held thus:
+
+“53. From the above discussion, it is evident, that prior to July 2012, what had to be
+seen was whether a (a) person provided service, (b) directly or indirectly, (c) in any
+manner for recruitment or supply of manpower, (d) temporarily or otherwise. After
+the amendment, all activities carried out by one person for another, for a
+consideration, are deemed services, except certain specified excluded categories. One
+of the excluded category is the provision of service by an employee to the employer in
+relation to his employment.
+
+54. One of the cardinal principles of interpretation of documents, is that the nomenclature of any
+contract, or document, is not decisive of its nature. An overall reading of the document, and its
+effect, is to be seen by the courts. Thus, in State of Orissa v. Titaghur Paper Mills Co.
+
+Ltd. [State of Orissa v. Titaghur Paper Mills Co. Ltd., 1985 Supp SCC 280] it was held as follows :
+(SCC p. 371, para
+
+120) “120. It is true that the nomenclature and description given to a contract is not determinative of
+the real nature of the document or of the transaction thereunder. These, however, have to be
+determined from all the terms and clauses AIR 2022 SC 2450 : 2022 INSC 598 of the document and
+all the rights and results flowing therefrom and not by picking and choosing certain clauses and the
+ultimate effect or result as the Court did in the Orient Paper Mills case [State of M.P. v. Orient Paper
+Mills Ltd., (1977) 2 SCC 77].” This principle was reiterated in Prakash Roadlines (P) Ltd. v. Oriental
+Fire & General Insurance Co. Ltd. [Prakash Roadlines (P) Ltd. v. Oriental Fire & General Insurance
+Co. Ltd., (2000) 10 SCC 64]
+
+55. The task of this Court, therefore is to, upon an overall reading of the materials presented by the
+parties, discern the true nature of the relationship between the seconded employees and the
+assessee, and the nature of the service provided — in that context — by the overseas group company
+to the assessee.” (emphasis added) As held in the case of B.K. Muniraju v. State of Karnataka &
+Ors.7, a sentence or a term in a contract does not determine the real nature of the contract. It is true
+that the Courts should not rewrite the contract while making an attempt to interpret it. However, in
+the case of D.N. Revri & Co.8, in paragraph 7, this Court held thus:
+
+“7. It must be remembered that a contract is a commercial document between the
+parties and it must be interpreted in such a manner as to give efficacy to the contract
+rather than to invalidate it. It would not be right while interpreting a contract,
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+15
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+entered into between two lay parties, to apply strict rules of construction which are
+ordinarily applicable to a conveyance and other formal documents. The meaning of
+such a contract must be gathered by adopting a common sense approach and it must
+not be allowed to be thwarted by a narrow, pedantic and legalistic interpretation.
+
+.. .. .. .. .. .. .. .. .. .. .. . .. .. .. . .. … . ..” (emphasis added) Therefore, the name of the
+document is not a decisive factor. Only because the title of the document contains the
+word hypothecation, we cannot conclude that guarantee is not a part of this
+document.
+
+Parties to the DoH
+
+54. Before we go to the clauses in the DoH, we must again go back to the MSTA.
+Under the said agreement, the Security Trustee has been appointed to act as trustee
+for the benefit of secured parties which include Secured Lenders. Under clause 2.2.1
+of the MSTA, the Secured Lenders have authorised and directed the Security Trustee
+to execute and deliver security documents to which, the Security Trustee is to be a
+party and to accept the security, all related deeds and documents as may be required
+to be submitted by the Obligors for the benefit of secured parties. Under sub-clause
+(c) of clause 2.2.1 of MSTA, it is the duty of the Security Trustee to enforce the
+security in accordance with the provisions of the agreement and to receive and apply
+all money in accordance with the security documents. Therefore, the Secured Lenders
+have authorised the Security Trustee to accept the security on their behalf.
+
+55. In light of this discussion, we turn to the DoH. We have already quoted the
+relevant portion of the DoH. The RCom entities, including RITL-Corporate Debtor,
+are described as Chargors in the DoH. Clause 2 of the DoH reads thus:
+
+“2. Covenant to Pay:
+
+In pursuance of the Secured Facilities and the Facility Documents and in
+consideration of the Secured Lenders having made available the Secured Facilities to
+the Obligors for the purposes and subject to the terms and conditions set out in the
+Facility Documents and/or the other Security Documents, each of the Chargors does
+hereby covenant with the Security Trustee that each Obligor shall repay the Secured
+Facilities availed by it together with interest, liquidated damages, premia on
+prepayment, financing charges, remuneration payable to the Security Trustee, fees
+payable to any Secured Party, costs, charges expenses and all other monies stipulated
+in the relevant Facility Documents in the manner set out therein and shall duly
+observe and perform all the terms and conditions of the relevant Facility Documents
+and/or the other Security Documents.” Clause 2 refers to Secured Lenders and
+Obligors. As noted earlier, the appellants are Secured Lenders within the meaning of
+the MSTA. The two RCom entities, namely RCom and RTL, are the obligors being the
+borrowers of the appellants.
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+16
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+Therefore, as per clause 2, the appellants had made available the secured facilities to
+RCom and RTL, who undertook to repay the secured facilities availed by it together
+with the interest, liquidated damages, premia of prepayment, financing charges, etc.,
+including the remuneration payable to the Security Trustee. As noted earlier, the
+appellants are Secured Lenders within the meaning of the MSTA. Therefore, as per
+clause 2, Secured Lenders had made available the secured facilities to the Obligors. It
+provides that Obligors shall repay the secured facilities availed by it together with the
+interest, liquidated damages, premia of prepayment, financing charges, etc.,
+including the remuneration payable to the Security Trustee. As stated earlier, two
+RCom entities, namely RCom and RTL, are the borrowers of the appellants. Thus,
+these two companies are Obligors who covenanted to repay the secured facilities
+availed by it together with interest, liquidated damages, etc.
+
+56. We have already quoted the first part of clause 5(iii) of the DoH. The effect of the clause is that
+all the four RCom entities, including the Corporate Debtor, hypothecated their assets by way of first
+ranking pari passu charge to the Security Trustee, who was acting in trust and for the benefit of the
+secured parties for the purpose of securing due discharge of the Obligor’s obligations in connection
+with secured facilities. The Security Trustee acted on behalf of the appellants by accepting the
+security of hypothecation. Therefore, the DoH is a document executed on behalf of the appellants.
+The effect of clause 5(iii) is that for the discharge of liabilities of the RCom entities, all four RCom
+entities hypothecated their properties for securing repayment of the facilities extended by the
+appellants to RCom and RTL. In short, the parties to the DoH are Security Trustees acting on behalf
+of the present appellants, the Corporate Debtor who is not the borrower of the appellants and the
+other three RCom entities. Therefore, there are three parties to the DoH.
+
+Promise to discharge the Liability of third party
+
+57. Sub-clause (i) of clause 3 of the DoH is a clause which is normally found in hypothecation
+agreements. Then comes sub-clause (iii) of clause 5 of the DoH, which we have already quoted. It
+provides that in the event of default committed by the borrowers (in the case of the appellants, the
+borrowers are RCom and RTL), the Security Trustee is entitled to take charge and/or possession of,
+seize, recover, receive and remove the hypothecated goods and/or sell by public auction or private
+contract, dispatch or consign for realisation or otherwise dispose of or deal with any part of the
+hypothecated property. It is obvious that this action of realisation is to be done by the Security
+Trustee in terms of sub-clause (c) of clause 2.2.1 of the MSTA. Thus, the security of hypothecation
+can be enforced by the Security Trustee on behalf of the appellants.
+
+58. Sub-clause (iii) of clause 5 of the DoH further provides that each of the Chargors agree to accept
+the Security Trustee’s account of sales and realisation as sufficient proof of the amount realised and
+relative expenses and to pay on demand by the Security Trustee and/or receiver any shortfall or
+deficiency thereby shown. Under the DoH, even the Corporate Debtor hypothecated its goods. The
+last part of sub-clause (iii) of clause 5 means that if after the sale of hypothecated assets, there is any
+shortfall in the discharge of the liabilities of RCom or RTL, the Corporate Debtor is under an
+obligation to pay the shortfall or deficiency. Therefore, the latter part of clause 5(iii) of the DoH
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+17
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+indicates that RITL-Corporate Debtor, who is not the borrower of the appellants, agreed to
+discharge the liability of the third parties (RCom and RTL) to the appellants in the case of default of
+RCom or RTL. Therefore, the second part of clause 5(iii) of the DoH amounts to a guarantee
+provided by the Corporate Debtor to the appellants in terms of Section 126 of the Contract Act.
+
+59. In the case of Phoenix ARC Pvt. Ltd.11, in paragraphs 24 and 25, this Court held thus:
+
+“24. Chapter VIII of the Contract Act, 1872 deals with “Of Indemnity and Guarantee”.
+Section 124 defines “Contract of indemnity” and Section 126 defines “Contract of
+guarantee”.
+
+Section 126 which is relevant for the present case is as follows:
+
+“126. “Contract of guarantee”, “surety”, “principal debtor” and “creditor”.—A
+“contract of guarantee” is a contract to perform the promise, or discharge the
+liability, of a third person in case of his default. The person who gives the guarantee is
+called the “surety”; the person in respect of whose default the guarantee is given is
+called the “principal debtor”, and the person to whom the guarantee is given is called
+the “creditor”. A guarantee may be either oral or written.”
+
+25. As is clear from the definition a “contract of guarantee” is a contract to perform
+the promise, or discharge the liability, of a third person in case of his default. The
+present is not a case where the corporate debtor has entered into a contract to
+perform the promise, or discharge the liability of borrower in case of his default. The
+pledge agreement is limited to pledge 40,160 shares as security. The corporate debtor
+has never promised to discharge the liability of the borrower. The facility agreement
+under which the borrower was bound by the terms and conditions and containing his
+obligation to repay the loan security for performance are all contained in the facility
+agreement. A contract of guarantee contains a guarantee “to perform the promise or
+discharge the liability of third person in case of his default”. Thus, key words in
+Section 126 are contract “to perform the promise”, or “discharge the liability”, of a
+third person. Both the expressions “perform the promise” or “discharge the liability”
+relate to “a third person”.” In this case, from the last part of clause 5(iii) of the DoH,
+it is very clear that the Corporate Debtor has undertaken to discharge the liability of
+the RCom and RTL, the borrowers of the appellants. RCom and RTL are third parties
+as far as Corporate Debtor is concerned.
+
+60. Reliance was placed on the formats of hypothecation provided in the books authored by
+M.Tijoriwala and J.M. Diwekar by contending that clause 3 of the DoH is a regular boilerplate
+clause. These formats provided in the books have no relevance as we have to interpret clause 5(iii) of
+the DoH as it is.
+
+REQUIREMENT OF OCCURRENCE OF ‘DEFAULT’
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+18
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+61. There is an argument canvassed before us that default under the DoH has not occurred. We have
+already quoted the definition of ‘financial debt’ under Section 5(8) of the IBC. There is no
+requirement incorporated therein that a debt becomes financial debt only when default occurs.
+Under Section 5(7) of the IBC, any person to whom financial debt is owed becomes a Financial
+Creditor even if there is no default in payment of debt. Therefore, this argument deserves to be
+rejected.
+
+62. On this aspect, we may also note that under Section 3(12), ‘default’ has been defined. This
+definition of ‘default’ becomes relevant only while invoking the provisions of Section 7(1) of the IBC
+when the CIRP is sought to be initiated by the Financial Creditor. Section 7(1) provides that a
+Financial Creditor can initiate CIRP against the Corporate Debtor when there is a default on the part
+of the Corporate Debtor. There is no requirement under Section 5(8) of the IBC that there can be a
+debt only when there is a default. The moment it is established that the financial debt is owed to any
+person, he/she becomes a Financial Creditor. In this case, we are concerned with the claim made by
+the appellants. A public announcement of CIRP under Section 15(1) must contain the last date of
+submission of claims as may be specified. Thus, if a person has a claim within the meaning of
+Section 3(6), he can submit it on public announcement contemplated by Section 15 being made. A
+Financial Creditor has a claim as explained earlier. Therefore, for submitting the claim by a
+Financial Creditor, there is no requirement of actual default.
+
+EXTINGUISHMENT OF CONTINGENT CLAIM ON IMPOSITION OF MORATORIUM
+
+63. Arguments have been canvassed that clause 5(iii) of the DoH is a contingent contract wherein
+the contingent event is the shortfall between realisation and expenses. The clause applies to the
+shortfall in the total liability of the borrower after necessary amount is realised from the
+hypothecated assets. It is contended that the contract has become impossible, since owing to the
+moratorium imposed, the hypothecated properties could not be sold and the shortfall could not
+arise. Reliance is placed on Section 14(1) of the IBC, which reads thus:
+
+“14. Moratorium.— (1) Subject to provisions of sub-sections (2) and (3), on the
+insolvency commencement date, the Adjudicating Authority shall by order declare
+moratorium for prohibiting all of the following, namely:
+
+(a) the institution of suits or continuation of pending suits or proceedings against the
+corporate debtor including execution of any judgment, decree or order in any court of
+law, tribunal, arbitration panel or other authority;
+
+(b) transferring, encumbering, alienating or disposing of by the corporate debtor any
+of its assets or any legal right or beneficial interest therein;
+
+(c) any action to foreclose, recover or enforce any security interest created by the
+corporate debtor in respect of its property including any action under the
+Securitisation and Reconstruction of Financial Assets and Enforcement of Security
+Interest Act, 2002 (54 of 2002);
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+19
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+(d) the recovery of any property by an owner or lessor where such property is
+occupied by or in the possession of the corporate debtor.
+
+Explanation.—For the purposes of this sub-section, it is hereby clarified that notwithstanding
+anything contained in any other law for the time being in force, a license, permit, registration, quota,
+concession, clearances or a similar grant or right given by the Central Government, State
+Government, local authority, sectoral regulator or any other authority constituted under any other
+law for the time being in force, shall not be suspended or terminated on the grounds of insolvency,
+subject to the condition that there is no default in payment of current dues arising for the use or
+continuation of the license, permit, registration, quota, concession, clearances or a similar grant or
+right during the moratorium period;” Section 14(1) imposes an embargo or prohibition on certain
+acts. However, it does extinguish the claim. If the argument that the claims of all the creditors of the
+Corporate Debtor are extinguished once the moratorium comes into force is accepted, no creditor
+would be able to file a claim. For example, if money advanced is secured by a promissory note or a
+negotiable instrument, a suit for recovery based on the said documents will not lie once a
+moratorium comes into force. But, the liability under the documents will continue to exist. In fact,
+after moratorium, no creditor can recover any dues from the Corporate Debtor. But still, there is a
+provision for making a claim. Hence, the argument based on moratorium deserves to be rejected.
+The DoH will continue to be valid. However, on the basis of the DoH, something which is prohibited
+by Section 14, cannot be done. Therefore, Section 14 will be of no assistance to the 1st
+respondent-Doha Bank.
+
+64. When we are on the interpretation of DoH, we must refer to sub-clause (vi) of clause 16 of the
+DoH, which provides that every provision contained in the deed shall be severable and distinct from
+every other such provision. It goes to the extent of stating that if any one or more of the provisions of
+the DoH are invalid, illegal and unenforceable, the same will not affect the remaining provisions.
+Therefore, the last part of clause 5(iii) of the DoH is severable from the main transaction of the
+hypothecation.
+
+65. Another argument was canvassed based on the definition of ‘claim’ under Section 3(6) of the
+IBC. If the right to payment exists or if a breach of contract gives rise to a right to payment, the
+definition of ‘claim’ is attracted. Even if that right cannot be enforced by reason of the applicability
+of the moratorium, the claim will still exist. Therefore, whether the cause of action for invoking the
+guarantee has arisen or not is not relevant for considering the definition of ‘claim’.
+
+66. Much capital was made of the fact that the CoC, including the appellants as well as the
+third-party lenders, have voted for the Resolution Plan. At this stage, we may note that the NCLAT
+has not held against the appellants on the ground that if the case of the appellants is accepted, it will
+amount to modification of the Resolution Plan. We may note here that in Company Appeal (AT)
+(Insolvency) No.19 of 2021 by the order dated 19th January 2021, the NCLAT, while deciding the
+challenge to the Resolution Plan, noted that the application challenging the status of the appeals
+made by the 1st respondent-Doha Bank was pending. The NCLAT observed that the Resolution Plan
+was rightly approved, subject to the disposal of the pending application. In fact, in paragraph 7, the
+NCLAT observed that depending upon the outcome of the applications, if the Resolution Plan
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+20
+
+China Development Bank vs Doha Bank Q.P.S.C on 20 December, 2024
+
+requires to be reconsidered, the adjudicating authority will do so after hearing the parties. This
+order has become final.
+
+67. As we have accepted the main contention of the appellants, the alternative contention of the
+appellants becoming secured creditors is not gone into.
+
+CONCLUSION
+
+68. The sum and substance of the above discussion is that the impugned judgment and order dated
+9th September 2022 passed by the NCLAT cannot be sustained, and the order dated 2nd March
+2021 of the NCLT deserves to be upheld.
+
+Accordingly, the impugned order of the NCLAT is quashed and set aside, and the order dated 2nd
+March 2021 passed by the NCLT, Mumbai Bench (adjudicating authority) is restored. The appeals
+are, accordingly, allowed.
+
+.....………………….J. (Abhay S Oka) ...…………………...J. (Pankaj Mithal) New Delhi;
+
+December 20, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/151591199/
+
+21
+
+

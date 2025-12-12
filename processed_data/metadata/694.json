@@ -1,0 +1,19 @@
+{
+  "case_number": "SLP(CIVIL) NOS. 10169-10171 OF 2008",
+  "parties": {
+    "petitioner": "Rohit Kochhar",
+    "respondent": "Vipul Infrastructure Developers Ltd & ORS."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-11-26",
+  "summary": "The case involved a dispute over territorial jurisdiction in a suit for specific performance of a contract relating to commercial property in Gurgaon. The petitioner filed the suit in the Delhi High Court, which initially upheld its jurisdiction, relying on Adcon Electronics Pvt. Ltd. v. Daulat. The Division Bench reversed, holding that enforcement required registration of the sale deed in Gurgaon, making personal obedience of defendants in Delhi insufficient. The issue before the Supreme Court was whether the proviso to Section 16 of the CPC applied. The Court emphasized that where decree enforcement necessitates physical action in another jurisdiction, territorial jurisdiction lies where the immovable property is situated.",
+  "legal_provisions_cited": [
+    "Section 16, Code of Civil Procedure, 1908",
+    "Section 22, Specific Relief Act",
+    "Section 55, Transfer of Property Act, 1882",
+    "Order 2 Rule 2, Code of Civil Procedure",
+    "Adcon Electronics Pvt. Ltd. v. Daulat and Another, (2001) 7 SCC 698",
+    "Babu Lal v. Hazari Lal Kishori Lal, (1982) 3 SCR 94"
+  ],
+  "final_judgment": "The appeal was dismissed, affirming the High Court's decision that the Delhi High Court lacked territorial jurisdiction; the plaint was to be returned for presentation before the competent court in Gurgaon."
+}

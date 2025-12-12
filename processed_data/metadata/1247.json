@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal Nos 841-843 of 2022",
+  "parties": {
+    "petitioner": "Cdr Amit Kumar Sharma",
+    "respondent": "Union of India & Ors"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-20",
+  "summary": "Key issues involved the validity of the Armed Forces Tribunal's (AFT) adjudication on the denial of Permanent Commission (PC) to Short Service Commission (SSC) officers in the Indian Navy, particularly where crucial material was submitted in sealed covers. The court examined whether the AFT could fairly assess selection proceedings without open disclosure of vacancy calculations and selection criteria. Standards from prior judgments like Union of India v. Lt. Cdr. Annie Nagaraj and Lt. Col. Nitisha v. Union of India were applied. The Supreme Court emphasized that while the AFT had access to confidential records, meaningful judicial review required sufficient transparency. It held that reliance on sealed covers must not obstruct effective scrutiny. The appeals were allowed to ensure transparent, fair reconsideration of PC claims based on Regulation 203 and individual merit.",
+  "legal_provisions_cited": [
+    "Section 31(1), Armed Forces Tribunal Act 2007",
+    "Regulation 203, Naval Ceremonial, Conditions of Service and Miscellaneous Regulations 1963",
+    "Union of India v. Lieutenant Commander Annie Nagaraj (2020) 13 SCC 1",
+    "Lt. Col. Nitisha v. Union of India (2021) SCCOnLine SC 261"
+  ],
+  "final_judgment": "Leave to appeal granted; delay condoned; appeals allowed to ensure transparent and fair reconsideration of PC claims before the AFT with proper disclosure of material facts."
+}

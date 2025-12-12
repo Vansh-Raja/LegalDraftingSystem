@@ -1,0 +1,2261 @@
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra
+Limited on 3 March, 2023
+
+Author: B.R. Gavai
+
+Bench: Vikram Nath, B.R. Gavai
+
+REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO.684 OF 2021
+
+MAHARASHTRA STATE ELECTRICITY
+DISTRIBUTION COMPANY LIMITED                  ...APPELLANT (S)
+
+VERSUS
+ADANI POWER MAHARASHTRA LIMITED
+& ORS.                          ...RESPONDENT (S)
+WITH
+
+CIVIL APPEAL NO.6927 OF 2021
+
+INDEX
+
+I.    INTRODUCTION……………………………………………..              Paras 1 and 2
+II.    FACTS IN CIVIL APPEAL NO.684 OF 2021…………….   Paras 3 to 29
+III.    FACTS IN CIVIL APPEAL NO.6927 OF 2021………….   Paras 30 to 39
+IV.     SUBMISSIONS ON BEHALF OF THE DISCOMS         Paras 43
+………
+V.     SUBMISSIONS ON BEHALF OF THE GENERATING      Paras 44 and 45
+COMPANIES        …………………………………………..
+………
+V.      RELEVANT DOCUMENTS………………………………….             Paras 46 to 83
+VI.     JUDGMENTS CITED………………………………………..             Paras 84 to 93
+VII.    STATUTORY PROVISIONS WITH REGARD TO          Paras 94 to 104
+REGULATORY MECHANISM……………………………….
+
+VIII.   CONSIDERATIONS………………………………………….              Para 105 onwards
+
+Signature Not Verified
+
+Digitally signed by
+Narendra Prasad
+Date: 2023.03.03
+12:45:11 IST
+Reason:
+
+1
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+1
+(cid:12)                        List of abbreviations:
+
+1.    ACQ   -     Annual Contracted Quantity
+2.    APML -      Adani Power Maharashtra Limited
+3.    APTEL -     Appellate Tribunal for Electricity
+4.    C&AG -      Comptroller and Auditor General of India
+5.    CCEA -      Cabinet Committee on Economic Affairs
+6.    CERC -      Central Electricity Regulatory Commission
+7.    CIL   -     Coal India Limited
+8.    CPP   -     Captive Power Plants
+9.    DISCOMS -   Distribution Companies
+10.   FSA   -     Fuel Supply Agreement
+11.   GCV   -     Gross Calorific Value
+12.   GMR   -     GMR Warora Energy Ltd.
+13.   GMRETL-     GMR Energy Trading Limited
+14.   IPPs  -     Independent Power Producers
+15.   LoA   -     Letter of Assurance
+16.   MERC -      Maharashtra Electricity Regulatory Commission
+17.   MoC   -     Ministry of Coal
+18.   MoP   -     Ministry of Power
+19.   MSEDCL -    Maharashtra State Electricity Distribution Company Limited
+20.   NCDP -      New Coal Distributional Policy
+21.   PLF   -     Plant Load Factor
+22.   PPAs  -     Power Purchase Agreements
+23.   PSA   -     Power Sale Agreement
+24.   RFP   -     Request for Proposal
+25.   SECL -      South Eastern Coal Limited
+26.   SHR   -     Station Heat Rate
+27.   TPPs  -     Thermal Power Stations
+28.   UHBVNL-     Uttar Haryana Bijli Vitran Nigam Limited
+29.   WCL   -     Western Coal Limited
+
+JUDGMENT
+
+B.R. GAVAI, J.
+
+INTRODUCTION
+
+1. The questions involved in both these appeals, as in several other appeals, are common.
+
+2. Three of the issues involved in the present appeals are also involved in the other appeals which
+were listed along with these two appeals. However, the other appeals also involve some other
+ancillary and incidental issues. As such, at the request of the learned counsel for the parties, we have
+heard the present appeals. We have also heard the learned counsel appearing in the other appeals on
+
+2
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+the three questions which are common. FACTS IN CIVIL APPEAL NO. 684 OF 2021
+
+3. The facts, in brief, which arise in Civil Appeal No.684 of 2021 are thus:
+
+4. The appellant-Maharashtra State Electricity Distribution Company Limited (hereinafter referred
+to as “MSEDCL”) has entered into a long-term Power Purchase Agreements (“PPAs” for short) with
+Adani Power Maharashtra Limited (hereinafter referred to as “APML”). The first of the PPAs is
+dated 8 th September 2008 for 1320 MW (“1320 MW PPA” for short); the second one is dated 31st
+March 2010 for 1200 MW (“1200 MW PPA” for short); the third one is dated 9 th August 2010 for
+125 MW (“125 MW PPA” for short); and the fourth one is dated 16 th February 2013 for 440 MW
+(“440 MW PPA” for short). These PPAs were entered into in pursuance of the competitive bidding
+processes conducted by the appellant-MSEDCL under Section 63 of the Electricity Act, 2003
+(hereinafter referred to as “the Electricity Act”) read with the Standard Bidding Guidelines issued by
+the Ministry of Power (“MoP” for short).
+
+5. Article 10 of the 1200 MW PPA dated 31 st March 2010 entered into between the
+appellant-MSEDCL and respondent No.1-APML deals with “Change in Law”.
+
+6. Article 10.1.2 defines the term “Change in Law”.
+
+7. Article 10.2 deals with the application and principles for computing the impact of Change in Law.
+Article 10.2.1 provides that while determining the consequence of a Change in Law under Article 10,
+due regard has to be given to the principle, that to compensate the Party affected by such Change in
+Law is to restore through monthly Tariff Payment, to the extent contemplated in Article 10, the
+affected Party to the same economic position as if such Change in Law has not occurred.
+
+8. Article 10.3 deals with “Relief for Change in Law”. Article 10.3.1 provides relief for Change in Law
+during the Construction Period, whereas Article 10.3.2 provides for compensation to be paid on
+account of Change in Law during Operating Period. For claiming relief on account of a Change in
+Law, the Party is required to approach the Appropriate Commission along with documentary proof
+of such increase/decrease in the cost of the Power Station or revenue/expense for establishing the
+impact of such Change in Law. Article 10.3.4 provides finality to the decision of the Appropriate
+Commission with regard to compensation determined under Articles 10.3.1 and 10.3.2.
+
+9. On 18th October 2007, the Government of India, through the Ministry of Coal (“MoC” for short),
+issued the New Coal Distributional Policy, 2007 (hereinafter referred to as “the NCDP, 2007”). As
+per the NCDP 2007, 100% of the quantity as per the normative requirement of the consumers was to
+be considered for the supply of coal, through Fuel Supply Agreement (“FSA” for short) by Coal India
+Limited (“CIL” for short) at fixed prices to be declared/notified by CIL. The NCDP, 2007 also
+provided that to meet the domestic requirement of coal, CIL may have to import coal as may be
+required from time to time, if feasible. CIL was to adjust its overall price accordingly. It further
+provided that it was the responsibility of CIL/Coal Companies to meet the full requirement of coal
+under FSAs even by resorting to imports, if necessary.
+
+3
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+10. It is not in dispute that in accordance with the NCDP, 2007, APML had applied for coal linkage
+to MoC. It is also not in dispute that Western Coal Limited (“WCL” for short) and South Eastern
+Coal Limited (“SECL” for short) issued two Letters of Assurance (LoAs) in favour of APML and
+assured supply of coal.
+
+11. Undisputedly, FSA was executed between APML and WCL for domestic coal linkage.
+Subsequently, the FSA was amended and the quantum of coal assured by WCL was transferred to
+SECL.
+
+12. It is also not in dispute that subsequently, on 21 st June 2013, the Cabinet Committee on
+Economic Affairs (“CCEA” for short), in view of the persistent shortage of domestic coal, approved a
+revised mechanism for coal supply to power producers.
+
+13. Thereafter, the Government of India, through the Ministry of Coal, issued Office Memorandum
+dated 26 th July 2013 (hereinafter referred to as “NCDP 2013”), thereby approving a revised
+arrangement for the supply of coal to the identified Thermal Power Stations (“TPPs” for short). The
+said Office Memorandum provided that FSAs will be signed for the domestic coal quantity of 65%,
+65%, 67%, and 75% of Annual Contracted Quantity (“ACQ” for short) for the remaining four years of
+the 12th Plan for the power plants having normal coal linkages. It further provided that to meet the
+balance FSA obligations towards the requirement of the said 78,000 MW TPPs, CIL may import coal
+and supply the same to the willing power plants on a cost-plus basis. It further provided that the
+power plants may also directly import coal themselves, if they so opt, in which case, the FSA
+obligations on the part of CIL to the extent of import component would be deemed to have been
+discharged.
+
+14. On 31st July 2013, the MoP issued a letter to the Central Electricity Regulatory Commission
+(“CERC” for short) and State Electricity Regulatory Commissions to consider as pass-through in
+tariff the cost of alternate coal (procured to meet the shortfall in supply of domestic linkage coal) on
+a case to case basis.
+
+15. Contending that on account of the Change in Law, APML was entitled to compensation, APML
+filed a Petition bearing Case No.189 of 2013 on 17 th December 2013 before the Maharashtra
+Electricity Regulatory Commission (“MERC” for short).
+
+16. MERC, vide order dated 15th July 2014, disposed the said Petition (i.e. Case No. 189 of 2013) by
+approving a framework for determination of compensatory fuel charge, in view of the CCEA decision
+of 21st June 2013 and the MoP’s advice dated 31st July 2013.
+
+17. In compliance with the MERC’s order dated 15 th July 2014, APML filed another Petition before
+the MERC bearing Case No. 140 of 2014 on 23 rd July 2014, inter alia, for approving a mechanism
+for the determination of compensatory tariff.
+
+18. The MERC, vide its order dated 20 th August 2014, formulated a mechanism for the
+pass-through in tariff of the compensatory fuel charge that had been allowed in Case No.189 of
+
+4
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+2013.
+
+19. Subsequently, APML filed a Review Petition before the MERC bearing Case No.159 of 2014. The
+same was disallowed by the MERC as being devoid of merits except on the issue of the effectiveness
+of the compensatory fuel charge.
+
+20. On 28th January 2016, the MoP issued the revised Tariff Policy. As per clause 6.1 of the revised
+T a r i f f   P o l i c y ,   t h e   A p p r o p r i a t e   C o m m i s s i o n   w a s   r e q u i r e d   t o   c o n s i d e r   t h e   c o s t   o f
+imported/market-based e-auction coal procured for making up the shortfall in the domestic coal for
+pass-through in tariff of competitively bid projects.
+
+21. Thereafter, on 9th March 2016, APML filed appeals before the Appellate Tribunal for Electricity
+(hereinafter referred to as “APTEL”), being Appeal Nos. 129 of 2016 and 130 of 2016, challenging
+the orders passed by the MERC in Case Nos.189 of 2013 and 140 of 2014. MSEDCL too filed
+cross-appeals against the MERC orders being Appeal Nos. 187 and 188 of 2016.
+
+22. On 4th May 2017, the learned APTEL remanded the issues raised in the cross-appeals filed by
+APML and MSEDCL for fresh consideration by the MERC in the light of the judgment of this Court
+in the case of Energy Watchdog v. Central Electricity Regulatory Commission and others1 which was
+decided on 11th April 2017.
+
+23. By order dated 7th March 2018, the MERC decided Case No.189 of 2013 and 140 of 2014,
+wherein, while allowing the claims of APML for relief on account of a Change in Law for 1180 MW
+capacity, it restricted it to the extent of the minimum supply obligations specified for the CIL
+subsidiaries for the last four years of the 12th Five Year Plan period i.e. Financial Year 2013-14 to
+Financial Year 2016-17 as per the NCDP, 2013. It further held that the alternate coal quantity for
+meeting the domestic coal shortfall shall be computed based on the Station Heat Rate (“SHR” for
+short) mentioned by APML in the bid documents and the middle value of the Gross Calorific Value
+(“GCV” for short) range of assured coal grade for domestic coal as per the FSA/LoA/MoU.
+
+1 (2017) 14 SCC 80
+
+24. Being aggrieved thereby, APML preferred appeals before the learned APTEL. The learned
+APTEL framed the following three issues:
+
+“Issue No. 1: Whether the MERC was correct in holding that the net SHR submitted by the
+Appellant in its bid or SHR and Auxiliary Consumption norms specified for new generating stations
+under the MYT Regulations, 2011, whichever is superior shall form the basis for computing Change
+in Law compensation under the PPAs?
+
+Issue No. 2: Whether the MERC was correct in holding that the reference GCV of domestic coal
+supplied by CIL shall be the middle value of GCV range of assured coal grade in LoA/FSA/MoU and
+not the GCV as received?
+
+5
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+Issue No. 3: Whether the MERC was correct in holding that for the purpose of Change in Law
+compensation for 1180 MW capacity, shortfall in domestic linkage coal shall be assessed by
+considering the coal supply as the maximum of (1) actual quantum of coal offered for offtake by CIL
+under the LoA/FSA and (2) the minimum assured quantum in NCDP 2013 for the respective year?”
+
+25. On Issue No.1, the learned APTEL held that APML was entitled to compensation on the ground
+of Change in Law based on the SHR specified in the MERC MYT Regulations 2011 or the actual SHR
+achieved by APML, whichever is lower.
+
+26. On Issue No.2, the learned APTEL held that the compensation for the Change in Law approved
+by the MERC shall be computed based on the actual GCV of coal received.
+
+27. On Issue No.3, the learned APTEL held that under the NCDP, 2007, there was an assurance of
+100% coal supply and as such, while granting compensation on the ground of Change in Law, it was
+not justified to restrict it to the maximum of 35% to 25% for the respective four years of the 12 th
+Plan.
+
+28. The learned APTEL held that the restitution principle has to be applied. It further held that to
+protect the interests of consumers, the Generators had itself indicated that the parameters which are
+more beneficial to the consumers i.e. the lower amongst the actual or as per the Regulations would
+protect the interests of the consumers.
+
+29. Being aggrieved thereby, the MSEDCL has approached this Court by way of Civil Appeal No.684
+of 2021. FACTS IN CIVIL APPEAL NO.6927 OF 2021
+
+30. In Civil Appeal No.6927 of 2021, the MSEDCL challenges the concurrent orders passed by the
+CERC dated 15 th November 2018 and the order passed by the learned APTEL dated 16 th July
+2021.
+
+31. MSEDCL issued a Request for Proposal (RFP) on 15 th May 2009 and initiated the competitive
+bidding process for procurement of power on long-term basis. GMR Warora Energy Ltd. (“GMR” for
+short) submitted its bid on 7th August 2009 and emerged as one of the successful bidders with a
+levelized tariff of Rs. 2.879/kWh. Accordingly, the PPA was executed for the procurement of 200
+MW of power on 17 th March 2010 by MSEDCL on long-term basis. Similarly in March 2012,
+Respondent No. 2-Union Territory of Dadra & Nagar Haveli (“DNH” for short) issued an RFP for
+the procurement of power through competitive bidding and GMR emerged as one of the successful
+bidders.
+
+32. Consequently, respondent No. 1 in Civil Appeal No.6927 of 2021 i.e. GMR entered into the
+following long-term PPAs for the supply of power from the Project:
+
+(a) Supply and sale of 200 MW of power on a long-term basis to MSEDCL in terms of
+PPA dated 17 th March 2010. The cut-off date for this PPA is 31 st July 2009. Supply
+of power in terms of the PPA commenced from 17th March 2014.
+
+6
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+(b) Supply and sale of 200 MW of power on long term basis to Electricity
+Department, DNH in terms of PPA dated 21 st March 2013. The cut-off date of this
+PPA is 1 st June 2012. Supply of power in terms of the PPA commenced from 1 st
+April 2013.
+
+(c) Supply and sale of 150 MW of power on long term basis to TANGEDCO through
+back-to-back arrangements as follows:
+
+(i) Power Sale Agreement (PSA) dated 1 st March 2013 between GMR Energy Trading
+Limited (GMRETL) and GMR, based on which a bid was submitted to TANGEDCO;
+
+(ii) PPA dated 27th November 2013 between GMRETL and TANGEDCO for the
+supply of power from GMR to TANGEDCO.
+
+The cut-off date of this PPA is 27th February 2013.
+
+(iii) PPA dated 3rd May 2014 between GMR and GMRETL recording the terms and conditions in
+accordance with PPA between GMRETL and TANGEDCO. The supply of power under the PPA
+commenced on 22nd October 2015.
+
+33. Petition No. 8/MP/2014 was filed by GMR claiming compensation on account of the impact of
+the Change in Law events during the Operation period and Construction period under MSEDCL and
+DNH PPAs. The Commission, by order dated 1st February 2017, had allowed some of the claims of
+GMR on the ground of Change in law. Vide the said order, it has also disallowed some of the claims.
+Aggrieved by the said order, GMR filed Appeal No. 111 of 2017 before the learned APTEL in respect
+of the compensation claims disallowed by the Commission. Similarly, Appeal No. 290/2017 was
+filed by DNH Power Distribution Company Ltd against the said order dated 1st February 2017
+disputing the compensation claims allowed to GMR under some Change in Law events.
+
+34. During the pendency of the above said appeals, GMR has filed Petition (i.e. Petition
+No.88/MP/2018) seeking the following reliefs:
+
+“(a) Confirms that the following operational parameters which are imperative of
+calculation of compensation due to the Petitioner on account of change in law events,
+are to be considered on actuals:
+
+(i) Auxiliary Power Consumption
+
+(ii) Station Heat Rate
+
+(iii) Gross calorific Value
+
+(b) Confirm that levy of Service Tax & Swachh Bharat Cess on coal transportation is
+on all components as per rail invoice;
+
+7
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+(c) Release of amounts due to the Petitioner from Respondent No. 1, MSEDCL in
+light of the Commission’s order dated 1.2.2017 in Petition No. 8/MP/2014.”
+
+35. Two of the issues involved in the present appeals with regard to SHR and GCV also fell for
+consideration before the CERC.
+
+36. The CERC found that the CERC norms applicable for the period 2009-14 and 2014-19 do not
+provide the norms for 300 MW units. It further found that the CERC norms provide for a
+degradation factor of 6.5% and 4.5% respectively towards Heat Rate over and above the Design Heat
+Rate. It found that since the Design Heat Rate is 2211 kcal/kWh, the gross Heat Rate works out to
+2355 kcal/kWh and 2310 kcal/kWh for the period 2009-14 and 2014-19 respectively. It directed that
+the SHR of 2355 kcal/kWh during the period 2009-14 and 2310 kcal/kWh during the period
+2014-19 or the actual SHR, whichever was lower, shall be considered for calculating the coal
+consumption for compensation under the Change in Law.
+
+37. Insofar as the GCV is concerned, the CERC found that in the 2014 Tariff Regulations of the
+Commission, the measurement of GCV has been specified on “as received” basis. It, therefore, found
+that it would be appropriate if the GCV on “as received” basis is considered for computation of
+compensation for Change in Law.
+
+38. Being aggrieved by the order passed by the CERC dated 15th November 2018, the MSEDCL
+preferred an appeal being Appeal No.342 of 2019 before the learned APTEL. The learned APTEL did
+not find merit in the submission of the MSEDCL and as such, dismissed the appeal by judgment and
+order dated 16 th July 2021.
+
+39. Being aggrieved thereby, MSEDCL has approached this Court by way of Civil Appeal No.6927 of
+2021.
+
+40. The arguments on behalf of the appellant-MSEDCL in Civil Appeal No.684 of 2021 were
+advanced by Shri Gopal Jain, learned Senior Counsel, whereas arguments in Civil Appeal No.6927 of
+2021 were advanced by Shri G. Sai Kumar, learned counsel.
+
+41. We have also heard Shri Balbir Singh, learned Additional Solicitor General and Shri M.G.
+Ramachandran, learned Senior Counsel appearing for some of the State Electricity Distribution
+Companies, whose matters are not being decided by this judgment, but wherein the aforesaid three
+questions/issues are common.
+
+42. On behalf of the respondent-APML as well as the respondent-GMR, Dr. Abhishek Manu Singhvi,
+learned Senior Counsel advanced the arguments. His arguments were supplemented by Shri Vishrov
+Mukherjee, learned Counsel. SUBMISSIONS ON BEHALF OF THE DISCOMS
+
+43. The main arguments that were advanced on behalf of the Distribution Companies (hereinafter
+referred to “DISCOMS”) are as under:
+
+8
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+(i) The SHR and GCV value are declared in the bid document and it is not permissible
+for the Generating Companies to claim advantage on the basis of SHR value which is
+different than the one quoted i.e. the SHR value as provided in the Tariff Regulations
+or the actual. It is their submission that the declaration of operational parameters i.e.
+SHR and GCV were the mandate of the bid in case of Case-1 competitive bidding
+process. It is submitted that if deviation from such declared bid parameters for
+compensating the bidder/ Generating Companies/ Generators under the PPA on the
+ground of Change in Law is permitted, it will take away the very sanctity of the bid.
+
+(ii) It is submitted that to ensure serious participation in the bid process and for
+timely completion of commencement of supply of power, the Competitive Bidding
+Guidelines 2005 itself mandates the bidder/generator/Generating Companies to
+have a ‘firm’ fuel arrangement. It is their submission that it is mandatory for the
+bidder/generator to declare the ‘quantity’ of fuel required to generate power for the
+entire term of the PPA. The DISCOMS argued that the quantity of fuel can only be
+ascertained by applying the SHR and GCV components as declared in the bid.
+
+(iii) It is submitted that the RFP itself mandated the participating bidders/generators
+to submit documentary evidence with regard to the ‘quantity’ of fuel required to
+generate power for the entire term of 25 years of the PPA.
+
+(iv) It is submitted that for ascertaining the ‘quantity’, it was also necessary for the
+bidder/generator to provide ‘supporting computation’ by declaring the SHR and GCV
+value applicable for the entire term of the PPA.
+
+(v) It is the contention on behalf of the DISCOMS that the bidder/generator, while
+submitting his/its bids, is required to submit the bids by taking into consideration all
+factors, including risks regarding fluctuations, availability of fuel/coal, etc. It is
+submitted that if there is any change with regard to the availability of fuel or the rate
+a t   w h i c h   a   b i d d e r / g e n e r a t o r   i s   r e q u i r e d   t o   p r o c u r e   t h e   c o a l ,   t h e n   t h e
+bidder/generator has to suffer the consequences thereof as he/it has submitted
+his/its bid with eyes open.
+
+(vi) The thrust of the argument of the DISCOMS is that in a competitive bid based
+PPA under Section 63 of the Electricity Act, the quoted tariff is sacrosanct and it is
+not open for the respondent/generator to seek higher tariff or extra compensation
+under the PPA, except as per Article 13 of the PPA dealing with impact of Change in
+Law. It is submitted that the reliance placed by the learned APTEL on the judgment
+of this Court in the Case of Energy Watchdog (supra) is totally misconceived.
+
+(vii) It is, therefore, submitted that the relief for the impact of NCDP 2013 is
+admissible only to the extent of the changes brought about by the NCDP 2013 and not
+in excess thereof. It is submitted that the Change in Law made by the Central
+Government on 31st July 2013 was vis-
+
+9
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+à-vis the NCDP 2007 which was in force as on the cut-off date provided in Article 13.1 of the PPA i.e.
+7 days before the bid submission date. It is submitted that the very purpose of compensating the
+party affected by Change in Law is to restore, through monthly tariff payments, the affected party to
+the same economic position as if the Change in Law had not occurred.
+
+(viii) It is submitted that as per para 2.2 of the NCDP 2007 read with para 5.2, CIL was entitled to
+meet the shortfall in the availability of domestic coal by importing coal. In such event, the
+Generators were required to pay the higher cost of imported coal to CIL. It is submitted that while
+submitting the bids, the bidders/generators, therefore, had submitted their bids for supply of
+electricity to the DISCOMS knowing the position that they will not be compensated for higher cost
+of imported coal separately, over and above the quoted tariff /quoted energy charges, in the event of
+supply of imported coal by CIL.
+
+(ix) It is contended that, if in the event the Generator could have procured the fuel/coal at a lesser
+price, then the benefit which would have occurred to him/it on account of such saving in
+procurement would have gone to him/it. On the same analogy, if the Generator is required to obtain
+the fuel/coal at a higher price then he/it cannot be heard to say that he/it should be compensated
+for the same.
+
+(x) It is submitted that, as a matter of fact, till 31 st July 2013 i.e. when the NCDP 2013 was brought
+into effect, there could have been no claims from the Generators for increase in tariff to be allowed
+for higher coal cost on account of imported coal supply. It is submitted that if the NCDP 2013 had
+not brought about a Change in Law, the position as prevalent before would have continued. It is
+submitted that this Court has consistently held that an unprecedented increase in input cost cannot
+be a ground for a supplier not to perform the obligations under a binding contract or seek higher
+price or compensation for such performance.
+
+(xi) It is the submission of the DISCOMS that the benefit on account of the Change in Law brought
+into effect by the NCDP 2013 has to be restricted only to the extent of shortfall as provided by the
+said policy. It is submitted that if it was the intention of the NCDP 2013 to provide for relief through
+the Change in Law/policy decision for the shortfall even below the specified percentages i.e. for
+entire shortfall on actual basis, then there was no rationale in specifying the percentages in the
+NCDP 2013.
+
+(xii) It is further contended by the DISCOMS that the contention of the Generating Companies that
+Shakti Policy 2017 was a continuation of NCDP 2013 is incorrect. It is submitted that the first part
+under (A) of the Shakti Policy 2017 deals with the old regime of LoA/FSA which is the NCDP aspect.
+The second part under (B) deals with the new transparent coal allocation policy called SHAKTI. It is
+submitted that, as a matter of fact, SHAKTI and allocation of coal thereunder was admissible only to
+Entities which did not have any LoA/FSA under the NCDP 2007 or the NCDP 2013. Reliance in this
+respect has been placed on the judgment of this Court in the case of Jaipur Vidyut Vitaran Nigam
+Ltd. and others v. Adani Power Rajasthan Limited and another2 (hereinafter referred to as “Adani
+Rajasthan case”) 2 2020 SCC Online SC 697
+
+10
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+(xiii) It is submitted that the law laid down by this Court in the case of Energy Watchdog (supra) has
+been applied by the learned APTEL in a patently erroneous and perverse manner.
+
+(xiv) It is submitted that the total quantum of coal required is to be computed not in an abstract
+manner but is to be necessarily based on the SHR of the power station. It is submitted that the SHR
+has nothing to do with coal quality or GCV of coal. It is submitted that the SHR is the boiler and
+turbine characteristic of a thermal power station and, therefore, indicative of the quality and
+efficiency of the machine. It is submitted that the quantum of coal requirement is less with lower
+SHR and increases with higher SHR, inasmuch as it relates to the ability and efficiency of the
+machines to extract heat energy from coal to produce per unit of electricity.
+
+(xv) It is submitted that in Case 2 bidding, the net SHR is a bidding parameter as coal linkage is
+arranged by the entity inviting bids, and actual cost of coal is allowed as a pass-through in the tariff
+as per the formula specified. It is their submission that there are no quoted energy charges in Case 2
+bidding but only quoted fixed charges. It is submitted that, whereas, in Case 1 bidding, SHR may
+not, as such, be the criteria for selection but is a necessary requirement/ condition to be given for
+identifying the quantum of coal required to generate electricity over the length of the PPA. While
+submitting his/its bid and quoting energy charges, the bidder/generator was required to take into
+consideration the quantum of coal requirement which, in turn, is based on the SHR and auxiliary
+consumption parameters to be given by the bidder/generator. It is submitted that the coal Supply
+Agreement for quantum of coal is signed by CIL only for the quantum as determined above, based
+on the SHR and operating parameters provided by the bidder/generator. It is submitted that the
+view taken by the learned APTEL is contrary to the view taken by it between the same parties in its
+judgment dated 13th April 2018 in Appeal No. 210 of 2017.
+
+(xvi) It is submitted that if the SHR which is higher than the one quoted by the bidder/generator is
+to be taken into consideration, then it will amount to granting premium to the Generator for its
+inefficiency. It is submitted that if the coal consumption increases on account of highest SHR, the
+excess expenditure on quantum of coal is to be borne by the Generator.
+
+(xvii) It is submitted that if the bid assumed SHR is 2200 kcal/kg and actual SHR is 2300 kcal/kg,
+when the quoted tariff is based on the SHR of 2200 kcal/kg, for Change in Law impact, SHR of 2300
+kcal/kg cannot be permitted to be used for computation of compensation for Change in Law.
+
+(xviii) It is submitted that the impugned judgment permitting the actual SHR or the SHR given in
+Tariff Regulations, whichever is lower, if upheld, would amount to converting the scope of Section
+63 tariff determination into a Section 62 cost plus tariff determination. It is submitted that this is
+impermissible in a competitive bid based PPA.
+
+(xix) It is further submitted that the MERC Tariff Regulations expressly provides that the Tariff
+Regulations will have no application to Section 63 tariff determination and the same is governed by
+the guidelines of the Central Government under Section 63 of the Electricity Act.
+
+11
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+(xx) It is submitted that perusal of Regulation 2(2)(a) of the Central Electricity Regulatory
+Commission (Terms and Conditions of Tariff) Regulations, 2019 would reveal that they are not
+applicable where the tariff has been discovered through tariff based competitive bidding in
+accordance with the guidelines issued by the Central Government and adopted by the Commission
+under Section 63 of the Electricity Act.
+
+(xxi) It is submitted that when admittedly there is bid assumed SHR as per bidding conditions, the
+learned APTEL cannot ignore the same on the purported ground of equity and provide for an
+alternate parameter for computational purpose of actual SHR with the ceiling as under the Tariff
+Regulations. It is submitted that this will result in changing the bidding terms and conditions after
+the bid was accepted and became final.
+
+(xxii) It is further submitted that the finding that the GCV computation is to be made on ‘as received’
+basis, is also patently erroneous. It is submitted that the real purpose behind relying on the said
+methodology of computation is to recover the grade slippage in the coal grade actually supplied as
+against the coal grade billed by the Coal Company and all the losses in the heat value of the coal
+during the time period when the coal is taken delivery from the coal mines and transported to the
+Power Plant and unloading at the Power Plant site.
+
+(xxiii) It is submitted that the evaluation of GCV on air dried basis by Coal Company was well
+known/existing even prior to bidding and the Generators were very much aware of it.
+
+Accordingly, the same has already been factored into while the Generators submitted their bids. As
+such, if the computation of GCV is permitted on ‘as received’ basis, the Generators will be doubly
+compensated. In any case, it is submitted that if the Generators had any issues with regard to the
+grade of coal i.e. GCV range and quantum, then that is an issue between the Generators and the
+respective Coal Companies, which is required to be resolved under the FSA between them. The
+D I S C O M S   c a n n o t   b e   r o p e d   i n t o   f o r   t h e   r e s o l u t i o n   o f   s u c h   d i s p u t e s   b e t w e e n   t h e
+Generators/Generating Companies and the Coal Companies.
+
+(xxiv) Lastly, it is submitted that since the letter of the MoP, which has been considered as a Change
+in Law event, is dated 31st July 2013, the learned APTEL could not have given effect to the same
+from 1st April 2013. It is submitted that this would permit giving the benefit of compensation with
+retrospective effect.
+
+(xxv) Insofar as the reliance placed by the Generating Companies on the judgment of this Court in
+Adani Rajasthan case is concerned, it is submitted that the said judgment would not be applicable to
+the facts of the present case. It is submitted that in the said case, there was no FSA and the State
+Government had undertaken to supply the entire coal quantum.
+
+(xxvi) It is further submitted that the judgment of this Court in the case of Nabha Power Limited
+(NPL) v. Punjab State Power Corporation Limited (PSPCL) and another3 would also not be
+applicable to the facts of the present case inasmuch as the said case was under Case-2. (xxvii) It is
+submitted that the inability of a Generator to seek sufficient relief from the Coal Companies cannot
+
+12
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+be a reason to claim relief from the Distribution Licensees/DISCOMS or the consumers. The
+DISCOMS cannot be penalized on account of failure by the Coal Companies of supplying sufficient
+coal.
+
+(xxviii) An additional ground in Civil Appeal No.6927 of 2021 raised is that CERC has erred in
+holding 3 (2018) 11 SCC 508 that the principle of late payment surcharge envisaged in Articles 8.3.5
+and 8.8.3 of the PPA is applicable towards payment of the balance amounts by MSEDCL in respect
+of the relief under Change in Law.
+
+SUBMISSIONS ON BEHALF OF THE GENERATING COMPANIES
+
+44. As against this, it is submitted on behalf of the Generating Companies as under:
+
+(i) It is submitted that under the NCDP 2007, 100% normative coal requirement of
+Generating Companies was assured to be supplied by the CIL. However, by NCDP
+2013, the responsibility of CIL to supply coal was reduced to 65%, 65%, 67% and 75%
+of ACQ for the remaining years of the 12th Five Year Plan i.e. Financial Year 2013-
+
+14 to Financial Year 2016-17.
+
+(ii) It is submitted that the NCDP has been held to be a law for the purposes of the Electricity Act. It
+is, therefore, submitted that the Generating Companies are entitled to compensation for the
+shortfall of coal in terms of NCDP 2013 and the same has to be paid on actuals, i.e. to the extent the
+shortfall in coal supply actually exists.
+
+(iii) It is submitted that the said issue is no more res integra and is covered by the judgment of this
+Court in the case of Energy Watchdog (supra) and in Adani Rajasthan case (supra).
+
+(iv) It is submitted that, as per the guideless issued by the MoP, for Case-1 bidding, SHR and GCV
+are not bid parameters. The SHR and GCV mentioned in the bid is part of technical information and
+is not relevant for computing Change in Law compensation. It is submitted that there are substantial
+distinctions between Case-1 and Case-2 bid. The first one is that in Case-1 bid, SHR and GCV are not
+bid parameters, whereas in Case-2, SHR and GCV are bid parameters. Secondly, in Case-1 bidding,
+energy charge is not computed since the energy charge forms part of quoted tariff, whereas in
+Case-2 bidding, energy charge is computed based on the net heat rate quoted in the financial bid.
+Thirdly, in Case-1 bidding, the PPA has no definition of quoted Net Heat Rate/SHR, whereas in
+Case-2 bid, the PPA defines quoted Net Heat Rate/SHR. It is, therefore, submitted that in Case-1 bid
+there is no consideration of SHR and GCV in the formula of energy charge, whereas in Case-2 bid,
+these two parameters provide the formula for computing energy charge.
+
+(v)       It is submitted that the learned APTEL in the
+
+13
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+case      of   Wardha     Power    v.     Reliance
+
+Infrastructure & Ors.4 has held that if SHR and GCV as submitted in the bid are considered for
+Change in Law compensation, it may result in over or under recovery and should be considered only
+on ‘actuals’. It is submitted that the said judgment in Wardha Power (supra) has not been
+challenged/appealed against and has thus attained finality.
+
+(vi) The Generators further rely on the judgment of this Court in Adani Rajasthan case (supra). It is
+submitted that in the said case, the learned APTEL had held that operational parameters (like SHR
+and Auxiliary consumption) must be considered as per ‘normative’ value, and this view has been
+upheld by this Court.
+
+(vii) It is further submitted that the MERC in its order dated 7th March 2018 in Case No.123 of 2017
+(JSW v. MSEDCL) has held that the lower of actual or normative parameter for Auxiliary
+consumption (an operational parameter like SHR) has to be considered for Change in Law
+compensation. It is submitted that the MSEDCL has not challenged the said judgment, which has
+thus attained finality.
+
+(viii) It is submitted that the SHR is continuously being monitored and its actual value, as certified
+by Energy Auditors, is submitted to MSEDCL along with claims. As such, ‘actuals’ can be
+ascertained and verified for computation purposes.
+
+(ix) It is submitted that, equally, the GCV of coal is certified by third party sampling agencies. A GCV
+certificate is submitted to MSEDCL for each railway rake separately, along with claim.
+
+Such ‘actuals’ on ‘as received’ basis can be ascertained/verified for computational purposes.
+
+(x) It is further submitted that some of the DISCOMS in the proceedings before the CERC have
+contended that the SHR shall be considered after ascertaining actual design heat rate and margin as
+per CERC Regulations from time to time. They have further taken a stand that Auxiliary
+Consumption shall be considered as per CERC Regulations. On affidavit, it is also stated that GCV of
+alternate coal shall be as certified by a Third Party Sampling Agency, for which the Commission
+should provide appropriate guideline. It is, however, submitted that now the DISCOMS are taking a
+U-turn by contending that the SHR should be based on bid assumed parameters.
+
+(xi) It is submitted that, in any case, to maintain balance, APML had itself offered for the benefit to
+be granted on the lower of ‘actual’ or ‘normative’ SHR as per Regulations. The same has been
+accepted by the learned APTEL. It is submitted that this will ensure that no inefficiency is passed on
+to consumers and, at the same time, the Generator is restituted.
+
+(xii) It is submitted that had there been no occurrence of Change in Law event, i.e. there was no
+shortfall in coal supply, the tariff payment to the Generating Companies would have been based on
+quoted energy charge. In such a situation, SHR and GCV of coal would not have come into the
+
+14
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+picture. However, when there is an occurrence of Change in Law event, the principle of ‘Restitution’
+comes into play. It is submitted that ‘restitution’ can take place only with consideration of ‘actual’
+parameters.
+
+(xiii) It is submitted that taking this into consideration, expert bodies like the CERC and APTEL
+have allowed the SHR and GCV to be determined on ‘actual’ basis.
+
+(xiv) It is submitted that the SHR indicated in the bid as part of technical information does not
+conform to the mandate of restitution as it cannot put the Generator back to the same economic
+position had Change in Law event not occurred.
+
+(xv) It is submitted as per the NCDP 2007, 100% normative requirement of coal was to be supplied
+by the CIL. However, due to shortfall of coal in the country, the responsibility of CIL to supply coal
+was reduced to 65%, 65%, 67% and 75% of the ACQ. The shortfall in coal was to be met either by the
+CIL or by the Generating Companies/Generators by importing coal. It is submitted that the higher
+cost of such imported coal was allowed to be a pass-through.
+
+(xvi) It is submitted that a conjoint reading of CERC statutory advice dated 20th May 2013, CCEA
+decision dated 21st June 2013, MoP letter dated 31st July 2013, and clause 6.1 of the Tariff Policy
+2016 issued by the MoP would reveal that pass-through of the higher cost of quantity of shortfall in
+coal procured from alternate sources was to be allowed. It is submitted that this position has been
+upheld by the judgments of this Court in the case of Energy Watchdog (supra) and Adani Rajasthan
+case (supra). (xvii) It is submitted that this pass-through is by way of restitution due to shortfall in
+100% assured quantity of coal and it cannot be limited to the percentages/trigger levels specified in
+the NCDP 2013. It is submitted that the principle of restitution would require the pass-through to
+the extent the supply from CIL was cut down. It is submitted that an argument to the contrary has
+already been rejected by this Court in the case of Adani Rajasthan case (supra).
+
+(xviii) In addition to the judgments of this Court in the cases of Energy Watchdog (supra) and Adani
+Rajasthan case (supra), the Generating Companies also rely on the judgment of this court in the case
+of Uttar Haryana Bijli Vitran Nigam Limited (UHBVNL) and another v.
+
+Adani Power Limited and others5.
+
+(xix) It is also submitted that the contention on the part of the DISCOMS that Adani Rajasthan 5
+(2019) 5 SCC 325 case (supra) would not be applicable to the facts of the present case, inasmuch as
+there was no FSA scenario, is also factually incorrect.
+
+45. In addition to the aforesaid submissions, the respondent in Civil Appeal No.6927 of 2021 i.e.
+GMR, the following submissions have been made.
+
+(i) That Schedule 10 of the PPA executed between GMR and MSEDCL clearly mentions that the
+levelized tariff will be as per CERC Regulations.
+
+15
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+(ii) It is submitted that the normative SHR as mentioned in the bid is computed assuming power
+plant is operating at 85% of the Plant Load Factor (“PLF” for short). It is, however, submitted that
+the PLF is at the sole discretion of the procurer-DISCOMS as they decide the quantum of power to
+off-take.
+
+(iii) It is submitted that the SHR is a real-time operating parameter which varies from time to time,
+and it is computed by working out the total electricity generated from the amount of coal consumed
+in heat value (kCal) terms.
+
+(iv) It is further submitted that the GCV of coal actually delivered at site and fed to the boiler varies
+from wagon to wagon. It cannot be a homogeneous value.
+
+(v) It is further submitted that the details given in the bid with regard to SHR and GCV were only
+indicative of the coal linkage to show that GMR had the necessary means to supply power on
+sustained basis and was a serious bidder, and to further demonstrate its meeting of the eligibility
+requirement prescribed under the RFP.
+
+(vi) It is submitted that the supporting documents/information regarding fuel only provides the
+quantity of coal required for the project at Normative PLF and SHR computed as per CERC norms,
+which is 2355 kCal/kWh. It is submitted that MSEDCL is now insisting on Design Gross Heat Rate
+of 2211 kCal/kWh, which was not considered even for computation of quantum of coal at the time of
+bid submission.
+
+(vii) It is further submitted that the Central Electricity Authority, vide Notifications dated 17th
+October 2017 and 18th October 2017, has even allowed for loss in GCV from ‘as received basis’ to ‘as
+fired basis’ and as such, there is no reason as to why GCV could not be computed on ‘as received
+basis’.
+
+(viii) It is further submitted that the MSEDCL cannot be permitted to equate GMR’s case with
+APML and Rattan India Power Limited inasmuch as GMR falls under the jurisdiction of CERC,
+whereas the other two fall under the jurisdiction of MERC.
+
+(ix) Insofar as late payment charges are concerned, it is submitted that MSEDCL had unilaterally
+deducted the amount, which is contrary to the provisions of the PPA and as such, both CERC and
+learned APTEL have rightly held that GMR was entitled to late payment surcharge in terms of
+Article 8.3.5. Reliance in this respect is placed on the judgment of this Court in the case of
+Maharashtra State Electricity Distribution Company Limited v.
+
+Maharashtra Electricity Regulatory Commission and others6 and Tamil Nadu Generation &
+Distribution Corporation 6 (2022) 4 SCC 657 Limited v. PPN Power Generating Company Private
+Limited7 RELEVANT DOCUMENTS
+
+46. For considering the rival submissions, it will be relevant to refer to certain documents placed on
+record.
+
+16
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+47. The MoP notified the Competitive Bidding Guidelines, 2005 (hereinafter referred to as “the said
+Guidelines”) on 19 th January 2005. The said Guidelines were framed under Section 63 of the
+Electricity Act. It will be relevant to refer to the following part of the preamble of the said
+Guidelines.
+
+“1. Preamble ………..
+
+These guidelines have been framed under the above provisions of section 63 of the Act. The specific
+objectives of these guidelines are as follows:
+
+1. Promote competitive procurement of electricity by distribution licensees;
+
+2. Facilitate transparency and fairness in procurement processes;
+
+3. Facilitate reduction of information asymmetries for various bidders;
+
+7 (2014) 11 SCC 53
+
+4. Protect consumer interests by facilitating competitive conditions in procurement
+of electricity;
+
+5. Enhance standardization and reduce ambiguity and hence time for materialization
+of projects;
+
+6. Provide flexibility to suppliers on internal operations while ensuring certainty on
+availability of power and tariffs for buyers.”
+
+48. Paragraph 2 of the said Guidelines deals with the scope of the Guidelines. Para
+2.2 of the said Guidelines reads thus:
+
+“2.2. The guidelines shall apply for procurement of base-load, peak-load and seasonal
+power requirements through competitive bidding, through the following
+mechanisms:
+
+(i) Where the location, technology, or fuel is not specified by the procurer (Case 1);
+
+(ii) For hydro-power projects, load center projects or other location specific projects
+with specific fuel allocation such as captive mines available, which the procurer
+intends to set up under tariff based bidding process (Case 2).
+
+However separate RFP shall be used for procuring base load or peak load or seasonal load
+requirements as the case may be.”
+
+17
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+49. It can thus be seen that Para 2.2 distinguishes two types of cases, viz., Case-1 and Case-2. Case-1
+deals with the case where the location, technology, or fuel is not specified by the procurer. Case-2
+deals with hydro-power projects, load center projects or other location specific projects with specific
+fuel allocation such as captive mines available, which the procurer intends to set up under tariff
+based bidding process.
+
+50. Paragraph 3 of the said Guidelines deals with preparation for inviting bids. Clause (I) of Para 3.2
+deals with Case-2, whereas clause (II) of Para 3.2 deals with Case-1. Sub-clause (i) of clause (II) of
+Para 3.2 requires the bidder to undertake site identification and land acquisition. The bidder is
+required to submit a copy of notification issued for the land in question under Section 4 of the Land
+Acquisition Act, 1894. For the part of land excluding that which is to be acquired under the Land
+Acquisition Act, 1894, the bidder is required to furnish documentary evidence to establish
+allotment/ lease/ ownership/ vesting of at least one-third area of the said land. Under sub-clause
+(ii), the bidder is required to submit environmental clearance for the power station. Under sub-
+clause (iii), the bidder is required to supply forest clearance, if applicable, for the land for the power
+station. Sub-clause (iv) is the most important for the resolution of the present dispute, which reads
+thus:
+
+“3. Preparation for inviting bids 3.1 ………… 3.2 (I) …………… (II) ………………
+
+(i) ………………
+
+(ii) ………………
+
+(iii) ………………
+
+iv) Fuel Arrangements: (a) In the following cases fuel arrangements shall have to be
+made for the quantity of fuel required to generate power from the phase of the power
+station from which power is proposed to be supplied at Normative Availability for the
+term of the PPA.
+
+(cid:134) In case of domestic coal, the Bidder shall have made firm arrangements for fuel tie up either by
+way of coal block allocation or fuel linkage (cid:134) In case of domestic gas, the Bidder shall have made
+firm arrangements for fuel tie up by way of long term fuel supply agreement for the term & quantity
+as per Government of India gas allocation policy
+
+b) Fuel arrangements in the following cases shall have to be made for the quantity of fuel required to
+generate power from the power station for the total installed capacity.
+
+(cid:134) In case of imported coal, the Bidder shall have either acquired mines having proven reserves for at
+least 50% of the quantity of coal required OR shall have a fuel supply agreement for at least 50% of
+the quantity of coal required for a term of at least five (5) years or the term of the PPA, whichever is
+less.
+
+18
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+(cid:134) In case of RLNG, the Bidder shall have made firm arrangements for fuel tie up by way of fuel
+supply agreement for at least 50% of the quantity of fuel required for a term of at least five (5) years
+or the term of the PPA, whichever is less.
+
+Blending of Imported and Domestic coal may be used in which case, criteria for imported and
+domestic coal shall be met separately in the ratio of blending.”
+
+51. It can thus be seen that in case of domestic coal, the bidder is required to make firm
+arrangements for fuel tie up either by way of coal block allocation or fuel linkage.
+
+52. Clause (b) of sub-clause (iv) of clause (II) of Para 3.2 deals with imported coal, in which case the
+bidder shall have either acquired mines having proven reserves for at least 50% of the quantity of
+coal required OR shall have a fuel supply agreement for at least 50% of the quantity of coal required
+for a term of at least five years or the term of the PPA, whichever is less.
+
+53. Paragraph 4 of the said Guidelines deals with Tariff Structure. It will be relevant to refer to Para
+4.2, which reads thus:
+
+“4. Tariff Structure 4.1 ……..
+
+4.2. In case of long term procurement with specific fuel allocation (Case 2), the
+procurer shall invite bids on the basis of capacity charge and net quoted heat rate.
+The net heat rate shall be ex-bus taking into account internal power consumption of
+the power station. The energy charges shall be payable as per the following formula:
+
+Energy Charges = Net quoted heat rate X Scheduled Generation X Monthly Weighted
+Average Price of Fuel/Monthly Average Gross Calorific Value of Fuel If the price of
+the fuel has not been determined by the Government of India, government approved
+mechanism or the Fuel Regulator, the same shall have to be approved by the
+appropriate Regulatory Commission.
+
+In case of coal/lignite fuel, the cost of secondary fuel oil shall be factored in the
+capacity charges.”
+
+54. It can thus be seen that insofar as Case-2 is concerned, the procurer is required to invite bids on
+the basis of capacity charge and net quoted heat rate. The net heat rate is required to be ex-bus
+taking into account internal power consumption of the power station. It further provides that if the
+price of the fuel is not determined by the Government of India, government approved mechanism or
+the Fuel Regulator, the same shall have to be approved by the appropriate Regulatory Commission.
+
+55. Para 4.4 provides that the capacity charge shall be paid based on actual availability, as per
+charges quoted in Rs./kwh and shall be limited to the normative availability. It further provides that
+the normative availability for Case-1 and thermal stations under Case-2 shall be a maximum of 85%.
+
+19
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+56. Para 4.7 is another important clause for the resolution of the present dispute, which reads thus:
+
+“4.7. Any change in law impacting cost or revenue from the business of selling
+electricity to the procurer with respect to the law applicable on the date which is 7
+days before the last date for RFP bid submission shall be adjusted separately. In case
+of any dispute regarding the impact of any change in law, the decision of the
+Appropriate Commission shall apply.”
+
+57. It can thus be seen that any Change in Law impacting cost or revenue from the business of
+selling electricity to the procurer with respect to the law applicable on the date which is 7 days
+before the last date for RFP bid submission shall be adjusted separately. It provides that in case of
+any dispute regarding the impact of any Change in Law, the decision of the Appropriate Commission
+shall apply.
+
+58. It will also be relevant to refer to Para 4.12, which reads thus:
+
+“4.12 No adjustment shall be provided for heat rate degradation of the generating
+stations. Even in case of bids based on net heat rate, the bidder shall factor in site
+conditions, loading conditions, frequency variations etc and no adjustment shall be
+allowed on the quoted net heat rate for the duration of the contract.”
+
+59. It can thus be seen that no adjustment is to be provided for heat rate degradation of the
+generating stations. Even in case of bids based on net heat rate, the bidder shall factor in site
+conditions, loading conditions, frequency variations etc. and no adjustment shall be allowed on the
+quoted net heat rate for the duration of the contract.
+
+60. The NCDP 2007 would be of vital importance. Clause 2.2 thereof deals with Power Utilities
+including Independent Power Producers (IPPs)/Captive Power Plants (CPPs) and Fertilizer Sector.
+Clause 2.2 reads thus:
+
+“2. Distribution and Pricing of coal to different consumers/sector(s):
+
+2.1. ……………… 2.2 Power Utilities including Independent Power Producers
+(IPPs)/Captive Power Plants(CPPs) and Fertilizer Sector 100% of the quantity as per
+the normative requirement of the consumers would be considered for supply of coal,
+through Fuel Supply Agreement (FSA) by Coal India Limited (CIL) at fixed prices to
+be declared/notified by CIL. The units/power plants, which are yet to be
+commissioned but whose coal requirements has already been assessed and accepted
+by Ministry of Coal and linkage/Letter of Assurance (LoA) approved as well as future
+commitments would also be covered accordingly.”
+
+61. It can thus be seen that the NCDP 2007 assured 100% of the quantity as per the normative
+requirement of the consumers for supply of coal, through FSA by CIL at fixed prices to be
+declared/notified by CIL. It further provided that the units/power plants, which are yet to be
+
+20
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+commissioned but whose coal requirements has already been assessed and accepted by MoC and
+linkage/Letter of Assurance (LoA) approved as well as future commitments would also be covered in
+accordance therewith.
+
+62. It will also be relevant to note the following part of clause 5.2 of the NCDP 2007.
+
+“5. Policy for New Consumers 5.1. …………… 5.2. …………… In order to meet the domestic
+requirement of coal, CIL may have to import coal as may be required from time to time, if feasible.
+CIL may adjust its overall price accordingly. Thus, it will be the responsibility of CIL/Coal
+companies to meet full requirement of coal under FSAs even by resorting to imports, if necessary.”
+
+63. It can thus be seen that clause 5.2 of the NCDP 2007 provides that in order to meet the domestic
+requirement of coal, CIL may have to import coal as may be required from time to time, if feasible. It
+further provided that CIL would adjust its overall price accordingly. The NCDP 2007 emphasizes the
+responsibility of CIL/Coal Companies to meet full requirement of coal under FSAs even by resorting
+to imports, if necessary.
+
+64. It will also be relevant to refer to the communication addressed by the MoP dated 9 th May 2013
+to the Secretary, CERC.
+
+“Subject: Impact on tariff on the concluded PPAs due to domestic coal availability.
+
+Sir, Coal linkages have been granted for power projects under the New Coal Distribution Policy
+2007 (NCDP), which mandates that CIL will meet 100% of normative requirement of power sector.
+Para 5.2 of NCDP provides that “In order to meet the domestic requirement of coal, CIL may have to
+import coal as may be required from time to time, if feasible. CIL may adjust its overall price
+accordingly. Thus, it will be the responsibility of CIL/Coal companies to meet full requirement of
+coal under FSAs even by resorting to imports, if necessary”. Post NCDP MoC granted linkages
+between 2008-2010 with the assumption that it would meet coal requirement at around 85% PLF.
+On this basis LoAs were issued by coal companies, after getting commitment guarantees in the form
+of Bank Guarantee from the developers thereby undertaking an explicit obligation to supply coal to
+the extent of the specified quantity to the power developer. Having obtained the LOA the developers
+would have proceeded on the assumption of getting the requisite quantity of domestic coal with the
+disincentive trigger of 90% of LoA quantity prevailing under the then Fuel Supply Agreement (FSA)
+with a provision for CIL resorting to import of coal to bridge the gap, if any. It is assumed that the
+power producers would have factored this assurance regarding coal supply while submitting their
+bids in response to Case 1 and Case 2 competitive bidding for long term power purchase agreements.
+Thus, while the fuel price risk would have been taken into account and factored in the escalable
+component of energy charges, it is assumed that no fuel availability risk would have been taken into
+consideration on account of the LOAs given by CIL.
+
+2. It now transpires that on account of the limited availability of coal Ministry of Col has indicated
+that CIL may not be in a position to supply more than 60 to 65% of ACQ to those power producers
+who had been earlier issued LOAs of normative quantities corresponding to 85% PLF.
+
+21
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+Simultaneously, it has been proposed that the disincentive trigger for coal supply would be brought
+down from 90% to 60 to 65% by CIL in the new fuel supply agreements to be signed with these
+power producers. This obviously would create a situation where the power producers would have to
+arrange fuel from open market including imports either through CIL or directly. In view of this
+scenario, PPAs which are already concluded between the developers and discoms as a result of
+competitive bidding in the last few years based on domestic coal linkage (LOA) may have to use
+imported coal to bridge the shortage of domestic coal in order to fulfil that contractual obligations.
+The Association of Power Producers represented on this issue of shortage of domestic coal and its
+consequential effect on the concluded PPAs through competitive bidding route.
+
+3. The Cabinet Committee on Economic Affairs (CCEA) has also considered the situation arising out
+of the inadequate availability of coal leading to this non-fulfilment of the LOA commitments on the
+part of CIL. CCEA has decided the following guidelines in its meeting held on 06.02.2013 in respect
+of generating plants commissioned/to be commissioned during the period 1.4.09 to 31.03.15:
+
+i) CIL will provide imported coal on cost plus basis to all producers willing to take such cost;
+
+ii) That the higher cost of imported coal will be allowed as a pass through.
+
+3. In view of the circumstances stated above CERC is requested to advice the Government on the
+manner in which the issue of fuel availability risk arising out of CIL’s inability to meet its LOA
+commitments could be addressed with regard to power producers who have already entered into
+long term PPAs with distribution companies based on such commitments and the feasibility of
+passing on the additional cost of procuring market fuel incurred by the power developers on account
+of the circumstances stated in the aforesaid paras. CERC is also requested to suggest appropriate
+ways for issuing advisory to SERCs/State Governments which may necessitated to be issued by MoP
+for the implementation of the above.
+
+4. CERC’s considered advice is requested in this matter at the earliest.
+
+5. This issues with the approval of MOSP (I/C).”
+
+65. Perusal of the communication dated 9th May 2013 would clearly show that the NCDP 2007
+mandates that CIL will meet 100% of normative requirement of power sector. It states that, post
+NCDP 2007, MoC has granted linkages between 2008-2010 with the assumption that it would meet
+coal requirement at around 85% of the PLF. On that basis, the LoAs were issued by Coal Companies,
+after getting commitment guarantees in the form of Bank Guarantees from the developers, thereby
+undertaking an explicit obligation to supply coal to the extent of the specified quantify to the power
+developer. It further states that having obtained the LoA, the developers would have proceeded on
+the assumption of getting the requisite quantity of domestic coal with the disincentive trigger of
+90% of LoA quantity prevailing under the then FSA with a provision for CIL resorting to import of
+coal to bridge the gap, if any. It specifically mentions that the power producers would have factored
+in this assurance regarding coal supply while submitting their bids in response to Case-1 and Case-2
+competitive bidding for long-term PPAs.
+
+22
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+66. The said communication further records that it now transpires that on account of the limited
+availability of coal, MoC has indicated that CIL may not be in a position to supply more than 60 to
+65% of ACQ to those power producers who had been earlier issued LoAs of normative quantities
+corresponding to 85% of the PLF. It was proposed that the disincentive trigger for coal supply would
+be brought down from 90% to 60 to 65% by CIL in the new FSAs to be signed with these power
+producers. It further states that in view of this scenario, PPAs which are already concluded between
+the developers and the DISCOMS as a result of competitive bidding in the last few years based on
+domestic coal linkage (LoA) may have to use imported coal to bridge the shortage of domestic coal
+in order to fulfil their contractual obligations.
+
+67. The communication further records that the CCEA has also considered the situation arising out
+of the inadequate availability of coal leading to the non-fulfilment of its LOA commitments on the
+part of the CIL. The CCEA, therefore, in its meeting held on 6th February 2013 has decided the
+following guidelines in respect of generating plants commissioned/to be commissioned during the
+period 1st April 2009 to 31st March 2015:
+
+ii) That CIL will provide imported coal on cost plus basis to all producers willing to
+take such cost;
+
+iii) That the higher cost of imported coal will be allowed as a pass-through.
+
+68. The communication therefore requested the CERC to advise the Government on the manner in
+which the issue of fuel availability risk, arising out of CIL’s inability to meet its LOA commitments,
+could be addressed. The CERC was also requested to suggest appropriate ways for issuing advisories
+to SERCs/State Governments by the MoP, which may be necessitated for the implementation of the
+above.
+
+69. In pursuance of the aforesaid Communication dated 9th May 2013, the CERC issued Statutory
+Advice on 20 th May 2013 under Section 79(2) of the Electricity Act regarding impact on tariff of the
+concluded PPAs due to domestic coal availability. It will be relevant to refer to the following part of
+the said statutory advice.
+
+“2. The matter was considered in the Commission. The Commission appreciates the need for
+securing fuel supply for various projects in order to ensure optimum generation from the power
+plants in the country. Non-availability of adequate quantum of coal has posed serious challenge to
+power generation as reflected in the data compiled by the Central Electricity Authority (CEA): the
+Plant Load Factor (PLF) of the generating stations across the country has been severely affected for
+want of adequate coal supply by CIL/Coal Companies.
+
+3. The proposal to make CIL supply imported coal on cost plus basis to all power projects
+commissioned or to be commissioned during the period 1.4.2009 to 31.3.2015 and willing to take
+such coal would require appropriate change in the NCDP, as at present it is the full responsibility of
+CIL to meet full requirement of coal under FSAs even by resorting to import; if necessary. As a
+follow up, the FSAs between the CIL/its subsidiaries and the power producers will have to be
+
+23
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+modified through Supplementary Agreements.”
+
+70. It can thus clearly be seen that the CERC has noted that the non-availability of adequate
+quantum of coal has posed serious challenge to power generation as reflected in the data compiled
+by the Central Electricity Authority (CEA). It further noted that the PLF of the generating stations
+across the country has been severely affected for want of adequate coal supply by CIL/Coal
+Companies. It further records that to give effect to the proposal to make CIL supply imported coal
+on cost plus basis to all power projects commissioned or to be commissioned during the period from
+1st April 2009 to 31st March 2015 and willing to take such coal, would require appropriate change in
+the NCDP, as at present it is the full responsibility of CIL to meet full requirement of coal under
+FSAs even by resorting to import, if necessary. It further states that as a follow up, the FSAs between
+the CIL/its subsidiaries and the power producers will have to be modified through Supplementary
+Agreements.
+
+71. After referring to clause 10.1.1 of the Standard PPA for Procurement of Power under Case-1
+Bidding Procedure, which deals with ‘Change in Law’, the statutory advice states thus:
+
+“For claiming any benefits under change in law, the Project Developer would have to
+move the appropriate Commission and the decision of that Commission in this
+regard would be final, in terms of the provisions of Articles 10.3.3 and 10.3.4 of the
+Standard PPA. The appropriate Commissions are expected to take decisions on the
+merits of each case including the claims of the Project Developers for compensation
+on account of imported coal after consultation with the stakeholders.”
+
+72. It can thus be seen that the CERC states that for claiming any benefits under the Change in Law,
+the Project Developer would have to move the appropriate Commission. It further records that the
+appropriate Commissions are expected to take decisions on the merits of each case including the
+claims of the Project Developers for compensation on account of imported coal after consultation
+with the stakeholders.
+
+73. Subsequent to the aforesaid communication, the MoC issued a Press Release on 21st June 2013.
+It will be relevant to refer to the following part of the said Press Release.
+
+“The Cabinet Committee on Economic Affairs (CCEA) today approved the following mechanism for
+supply of coal to power producers:
+
+(i) Coal India Ltd. (CIL) to sign Fuel Supply Agreements (FSA) for a total capacity of
+78000 MW including cases of tapering linkage, which are likely to be commissioned
+by 31.03.2015. Actual coal supplies would however commence when long term Power
+Purchase Agreements (PPAs) are tied up.
+
+(ii) Taking into account the overall domestic availability and actual requirements,
+FSAs to be signed for domestic coal quantity of 65 percent, 65 percent, 67 percent
+and 75 percent of Annual Contracted Quantity (ACQ) for the running four years of
+
+24
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+the 12th Five Year Plan.
+
+(iii) To meet its balance FSA obligations, CIL may import coal and supply the same to
+the willing Thermal Power Plants (TPSs) on cost plus basis. TPPs may also import
+coal themselves. MoC to issue suitable instructions.
+
+(iv) Higher cost of imported coal to be considered for pass through as per modalities
+suggested by CERC. MoC to issue suitable orders supplementing the New Coal
+Distribution Policy (NCDP).
+
+MoP to issue appropriate advisory to CERC/SERCs including modifications if any in the bidding
+guidelines to enable the appropriate Commissions to decide the pass through of higher cost of
+imported coal on case to case basis.”
+
+74. It is thus clear that taking into account the overall domestic availability and actual requirements,
+FSAs were to be signed for domestic coal quantity of 65%, 65%, 67% and 75% of ACQ for the
+running/remaining four years of the 12th Five Year Plan. It can further be seen that the CCEA has
+also taken a decision that CIL may import coal to meet its balance FSA obligations and supply the
+same to the willing TPPs on cost plus basis. TPPs may also be permitted to import coal themselves.
+It further provided that the higher cost of imported coal was to be considered for pass-through as
+per the modalities suggested by the CERC.
+
+75. In pursuance thereof, the Government of India, through MoC, issued Office Memorandum dated
+26th July 2013. The said Office Memorandum reads thus:
+
+“Sub: New Coal Distribution Policy -
+
+further instructions regarding implementation thereof.
+
+The New Coal Distribution Policy (NCDP) was issued vide this Ministry's Office
+Memorandum NO. 23011/4/2007-
+
+CPD dated 18.10.2007, laying down the guidelines for distribution and pricing of coal to various
+sectors. As per para 2.2 of the said policy, Power Utilities including Independent Power Producer
+were to be supplied 100 per cent of the quantity as per their normative requirement through Fuel
+Supply Agreement(s) (FSAs) by Coal India Limited (CIL) at fixed prices to be declared/notified by
+CIL. As per para 5.2, in order to meet the domestic requirement, CIL was to import coal as required
+from time to time, if feasible and adjust the overall price accordingly.
+
+2. Government has now approved a revised arrangement for supply of coal to the identified Thermal
+Power Stations (TPPs) of 78,000 MW capacity commissioned or likely to be commissioned during
+the period from 01.04.2009 to 31.03.2015. Taking into account the overall domestic availability and
+the likely actual requirements of these TPPs, it has been decided that FSAs will be signed for the
+domestic coal quantity of 65%, 65%, 67% and 75% of ACQ for the remaining four years of the 12th
+
+25
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+Plan for the power plants having normal coal linkages. Cases of tapering linkage would get coal
+supplies as per the Tapering Linkage Police. To meet its balance FSA obligations towards the
+requirement of the said 78,000 MW TPPs, CIL may import coal and supply the same to the willing
+power plants on cost plus basis. Power plants may also directly import coal themselves, if they so
+opt, in which case, the FSA obligations on the part of CIL to the extent of import component would
+be deemed to have been discharged.
+
+3. Para 2.2 and 5.2 of the New Coal Distribution Policy issued vide OM No. 23011/4/2007-CPD
+dated 18.10.2007 stand modified to the above extent.
+
+4. The above guidelines will also be applicable to the distribution of coal from Singreni Collieries
+Company Limited (SCCL).
+
+5. CIL and its subsidiaries and SCCL are advised to take further action accordingly.”
+
+76. It can thus be seen that the NCDP 2013 also specifically states that, as per NCDP 2007 and
+specifically paragraph 2.2 thereof, Power Utilities, including IPPs, were to be supplied 100% of the
+quantity as per their normative requirement through FSAs by CIL at fixed prices to be
+declared/notified by CIL. It further reiterates that, as per para 5.2, in order to meet the domestic
+requirement, CIL was to import coal as required from time to time, if feasible, and adjust the overall
+price accordingly.
+
+77. Para 2 of the NCDP 2013 states that the Government has now approved a revised arrangement
+for supply of coal to the identified TPPs of 78,000 MW capacity commissioned or likely to be
+commissioned during the period from 1 st April 2009 to 31st March 2015. It states that, taking into
+account the overall domestic availability and the likely actual requirements of these TPPs, it was
+decided that FSAs will be signed for the domestic coal quantity of 65%, 65%, 67% and 75% of ACQ
+for the remaining four years of the 12 th Plan for the power plants having normal coal linkages. It
+further states that to meet the balance FSA obligations towards the requirement of the said 78,000
+MW TPPs, CIL may import coal and supply the same to the willing power plants on cost plus basis.
+It further states that the power plants may also directly import coal themselves, if they so opt, in
+which case, the FSA obligations on the part of CIL to the extent of import component would be
+deemed to have been discharged.
+
+78. Immediately thereafter, on 31st July 2013, the MoP addressed a communication to the
+Secretary, CERC. It will be relevant to refer to Para 2 of the said communication, which reads thus:
+
+“2. After considering all aspects and the advice of CERC in this regard, Government
+has decided the following in June, 2013:
+
+i) taking into account the overall domestic availability and actual requirements, FSAs
+to be signed for domestic coal component for the levy of disincentive at the quantity
+of 65%, 65%, 67% and 75% of Annual Contracted Quantity (ACQ) for the remaining
+four years of the 12th Plan.
+
+26
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+ii) to meet its balance FSA obligations, CIL may import coal and supply the same to
+the willing TPPs on cost plus basis.
+
+TPPs may also import coal themselves if they so opt.
+
+iii) higher cost of imported coal to be considered for pass through as per modalities
+suggested by CERC.”
+
+79. It can thus clearly be seen that the Government, after considering all aspects and
+the advice of CERC in this regard, decided that the higher cost of imported coal was
+to be considered for pass-through as per modalities suggested by the CERC.
+
+80. It will also be relevant to refer to Para 4 of the said communication, which reads
+thus:
+
+“4. As per decision of the Government, the higher cost of import/market based e-
+auction coal be considered for being made a pass through on a case to case basis by
+CERC/SERC to the extent of shortfall in the quantity indicated in the LoA/FSA and
+the CIL supply of domestic coal which would be minimum of 65%, 65%, 67% and 75%
+of LoA for the remaining four years of the 12th Plan for the already concluded PPAs
+based on tariff based competitive bidding.”
+
+81. Perusal of para 4 would clearly reveal that the higher cost of import/market based
+e-auction coal was to be considered for being made a pass-through on a case to case
+basis by CERC/SERC to the extent of shortfall in the quantity indicated in the
+LoA/FSA. It further reiterates that CIL may supply domestic coal which would be
+minimum of 65%, 65%, 67% and 75% of LoA for the remaining four years of the 12th
+Plan for the already concluded PPAs based on tariff based competitive bidding.
+
+82. The MoP thereafter vide Resolution dated 28th January 2016 notified the ‘Tariff
+Policy’. It will be relevant to refer to clause 6.1 of the said Policy, which reads thus:
+
+“6.0 GENERATION ……………… 6.1 Procurement of power As stipulated in para 5.1,
+power procurement for future requirements should be through a transparent
+competitive bidding mechanism using the guidelines issued by the Central
+Government from time to time. These guidelines provide for procurement of
+electricity separately for base load requirements and for peak load requirements. This
+would facilitate setting up of generation capacities specifically for meeting such
+requirements.
+
+However, some of the competitively bid projects as per the guidelines dated 19 th January, 2005
+have experienced difficulties in getting the required quantity of coal from Coal India Limited (CIL).
+In case of reduced quantity of domestic coal supplied by CIL, vis-a-vis the assured quantity or
+quantity indicated in Letter of Assurance/FSA the cost of imported/market based e-auction coal
+
+27
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+procured for making up the shortfall, shall be considered for being made a pass through by
+Appropriate Commission on a case to case basis, as per advisory issued by Ministry of Power vide
+OM No. FU-
+
+12/2011-IPC (Voi-IJI) dated 31.7.2013.”
+
+83. It is thus clear that the Tariff Policy dated 28 th January 2016 provided that the power
+procurement for future requirements should be through a transparent competitive bidding
+mechanism using the guidelines issued by the Central Government from time to time. It further
+provides the guidelines for procurement of electricity separately for base load requirements and for
+peak load requirements. It further notes that some of the competitively bid projects as per the
+guidelines dated 19th January, 2005 have experienced difficulties in getting the required quantity of
+coal from CIL. It further provides that in case of reduced quantity of domestic coal supplied by CIL
+vis- à-vis the assured quantity or quantity indicated in LoA/FSA, the cost of imported/market based
+e-auction coal procured for making up the shortfall shall be considered for being made a
+pass-through by Appropriate Commission on a case to case basis. This is in pursuance of the
+advisory issued by Ministry of Power dated 31st July 2013.
+
+JUDGMENTS CITED
+
+84. Having considered these documents, we will now consider the judgments which are relied on by
+both the parties.
+
+85. In the case of Energy Watchdog (supra), after several rounds of litigation, the learned APTEL
+held that generation and sale of power by Adani Power to GUVNL and Haryana Utilities was a
+composite scheme within the meaning of Section 79(1)(b) of the Electricity Act and, therefore, the
+CERC would have jurisdiction to proceed further in the matter. It further held that force majeure
+was made out on the facts of the said cases and reversed the CERC’s/Commission’s order on that
+score. It also held that the Change in Law provisions do not apply to foreign law and, therefore,
+changes in Indonesian law did not come within the scope of the provisions. Insofar as changes in
+Indian law were concerned, it held that the government policies that were relied upon did not
+constitute “law”. The said decision of the learned APTEL was assailed before this Court. This Court
+while rejecting the argument on the ground of force majeure observed thus:
+
+“42. It is clear from the above that the doctrine of frustration cannot apply to these
+cases as the fundamental basis of the PPAs remains unaltered. Nowhere do the PPAs
+state that coal is to be procured only from Indonesia at a particular price. In fact, it is
+clear on a reading of the PPA as a whole that the price payable for the supply of coal is
+entirely for the person who sets up the power plant to bear. The fact that the fuel
+supply agreement has to be appended to the PPA is only to indicate that the raw
+material for the working of the plant is there and is in order. It is clear that an
+unexpected rise in the price of coal will not absolve the generating companies from
+performing their part of the contract for the very good reason that when they
+submitted their bids, this was a risk they knowingly took. We are of the view that the
+
+28
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+mere fact that the bid may be non- escalable does not mean that the respondents are
+precluded from raising the plea of frustration, if otherwise it is available in law and
+can be pleaded by them. But the fact that a non-escalable tariff has been paid for, for
+example, in the Adani case, is a factor which may be taken into account only to show
+that the risk of supplying electricity at the tariff indicated was upon the generating
+company.”
+
+86. This Court, thereafter, considered as to whether any Change in Law could be stretched to mean
+“all laws”. This Court held that Clause 4.7 read with Clause 5.17 of the Guidelines would reveal that it
+would not include changes in Indonesian law, being foreign and not Indian law.
+
+87. In Energy Watchdog (supra), this Court also had an occasion to consider the MoP
+communication dated 31 st July 2013, the relevant part of which has already been reproduced by us
+herein above. This Court observed thus:
+
+“56. However, insofar as the applicability of Clause 13 to a change in Indian law is
+concerned, the respondents are on firm ground. It will be seen that under Clause
+13.1.1 if there is a change in any consent, approval or licence available or obtained for
+the project, otherwise than for the default of the seller, which results in any change in
+any cost of the business of selling electricity, then the said seller will be governed
+under Clause 13.1.1. It is clear from a reading of the Resolution dated 21-6-2013,
+which resulted in the letter of 31-7-2013, issued by the Ministry of Power, that the
+earlier coal distribution policy contained in the letter dated 18-3-2007 stands
+modified as the Government has now approved a revised arrangement for supply of
+coal. It has been decided that, seeing the overall domestic availability and the likely
+requirement of power projects, the power projects will only be entitled to a certain
+percentage of what was earlier allowable. This being the case, on 31-7-2013…..”
+
+88. This Court, thereafter, referred to the Tariff Policy dated 28th January 2016, the relevant part of
+which has already been reproduced by us herein above. This Court observed thus:
+
+“57. Both the letter dated 31-7-2013 and the revised Tariff Policy are statutory
+documents being issued under Section 3 of the Act and have the force of law. This
+being so, it is clear that so far as the procurement of Indian coal is concerned, to the
+extent that the supply from Coal India and other Indian sources is cut down, the PPA
+read with these documents provides in Clause 13.2 that while determining the
+consequences of change in law, parties shall have due regard to the principle that the
+purpose of compensating the party affected by such change in law is to restore,
+through monthly tariff payments, the affected party to the economic position as if
+such change in law has not occurred. Further, for the operation period of the PPA,
+compensation for any increase/decrease in cost to the seller shall be determined and
+be effective from such date as decided by the Central Electricity Regulation
+Commission. This being the case, we are of the view that though change in
+Indonesian law would not qualify as a change in law under the guidelines read with
+
+29
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+the PPA, change in Indian law certainly would.”
+
+89. It can thus clearly be seen that insofar as the arguments with regard to effect of the Change in
+Law being given on the basis of ACQ is concerned, the same stands specifically rejected.
+
+90. A bench of three learned Judges of this Court in Adani Rajasthan case (supra) also had an
+occasion to consider a similar issue. An argument which is sought to be advanced before us that the
+Change in Law claim may be confined only to 35 to 40% was also advanced in the said case.
+Rejecting the said contention, this Court observed thus:
+
+“50. Shri C. Aryama Sundaram argued that the FSA related approximately 61 per cent
+of the fuel requirement. Thus, the change in law claim may be confined to 35 to 40
+per cent. The argument cannot be accepted as bidding was not based on dual fuel, but
+was evaluated on domestic coal. There was no such stipulation that evaluation of
+bidding was done on domestic basis; the tariff was to be worked out in the aforesaid
+ratio of 60 : 40 per cent of imported coal and domestic coal respectively. Apart from
+that, we find from the order of the APTEL, that change in law provision would be
+limited to a shortfall in the supply of domestic linkage coal......
+
+51. It was clarified that APRL would be entitled to relief under the change in law
+provision to the extent of shortage in supply in domestic linkage coal. Thus, we find
+no merit in the submission raised. We find the findings of the APTEL to be
+reasonable, proper, and unexceptional.”
+
+91. In the said case (i.e. Adani Rajasthan case) also, the provision with regard to the
+Change in Law was similar to the one that falls for consideration in the present case.
+This Court observed thus:
+
+“59. The change in policy and in the terms and conditions prescribed for obtaining
+any consents, clearances and permits or the inclusion of any new terms or conditions
+for obtaining such consents, clearances, and permits are also included. The
+submission raised on behalf of appellant that there is no question seeking benefit due
+to change in foreign law is based on wrong factual premise. The relief was not
+claimed on the basis of change in foreign law. Apart from that, admission has been
+relied upon change in law. The PPA was based on the domestic law and there was a
+change in domestic law. Thus, consequences must follow. The Government of
+Rajasthan entered into a MoU with APRL with respect to coal linkage in 2008 to
+provide coal linkage or coal from other sources.
+
+60. We find similarity in the present case as well as the Energy Watchdog. The factual
+matrix was similar with the present case.
+
+We find that the RERC and the APTEL have recorded the concurrent finding on facts. We find no
+ground to interfere. No substantial question of law is involved. It was held in Energy Watchdog, that
+
+30
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+change in law was brought about in the NCDP of 2007 by the decision of 26.7.2013. It is provided in
+Article 10.2.1 how the change in law is to be applied to compensate for the impact.”
+
+92. In the case of Uttar Haryana Bijli Vitran Nigam Limited (UHBVNL) (supra), this Court observed
+thus:
+
+“13. A reading of Article 13 as a whole, therefore, leads to the position that subject to
+restitutionary principles contained in Article 13.2, the adjustment in monthly tariff
+payment, in the facts of the present case, has to be from the date of the withdrawal of
+exemption which was done by administrative orders dated 6-4- 2015 and 16-2-2016.
+The present case, therefore, falls within Article 13.4.1(i). This being the case, it is clear
+that the adjustment in monthly tariff payment has to be effected from the date on
+which the exemptions given were withdrawn. This being the case, monthly invoices to
+be raised by the seller after such change in tariff are to appropriately reflect the
+changed tariff. On the facts of the present case, it is clear that the respondents were
+entitled to adjustment in their monthly tariff payment from the date on which the
+exemption notifications became effective. This being the case, the restitutionary
+principle contained in Article 13.2 would kick in for the simple reason that it is only
+after the order dated 4-5-2017 [Adani Power Ltd. v. Uttar Haryana Bijli Vitran Nigam
+Ltd., 2017 SCC OnLine CERC 66] that CERC held that the respondents were entitled
+to claim added costs on account of change in law w.e.f. 1-4-2015. This being the case,
+it would be fallacious to say that the respondents would be claiming this
+restitutionary amount on some general principle of equity outside the PPA. Since it is
+clear that this amount of carrying cost is only relatable to Article 13 of the PPA, we
+find no reason to interfere with the judgment of the Appellate Tribunal.
+
+93. This Court specifically rejected the contention of the DISCOMS that the Generator was claiming
+the restitutionary amount on some general principle of equity outside the PPA. This Court held that
+the amount of carrying cost was relatable to Article 13 of the PPA.
+
+STATUTORY PROVISIONS WITH REGARD TO REGULATORY MECHANISM
+
+94. We will now consider the relevant provisions of the Electricity Act.
+
+95. Section 70 of the Electricity Act deals with constitution of the Central Electricity Authority
+(“CEA”). The CEA shall consist of not more than 14 Members (including its Chairperson) of whom
+not more than 8 are required to be full-time Members to be appointed by the Central Government.
+It will be relevant to refer to sub-section (5) of Section 70 of the Electricity Act, which reads thus:
+
+“(5) The Members of the Authority shall be appointed from amongst persons of
+ability, integrity and standing who have knowledge of, and adequate experience and
+capacity in, dealing with problems relating to engineering, finance, commerce,
+economics or industrial matters, and at least one Member shall be appointed from
+each of the following categories, namely:—
+
+31
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+(a) engineering with specialisation in design, construction, operation and
+maintenance of generating stations;
+
+(b) engineering with specialisation in transmission and supply of electricity;
+
+(c) applied research in the field of electricity;
+
+(d) applied economics, accounting, commerce or finance.”
+
+96. It can thus clearly be seen that the Members of the CEA are required to be persons who have
+adequate experience and capacity in dealing with problems relating to engineering, finance,
+commerce, economics or industrial matters. Four of the Members are required to be from the
+categories as mentioned in clauses (a) to (d). One of them has to be an engineer with specialization
+in design, construction, operation and maintenance of generating stations. One of them has to be an
+engineer with specialization in transmission and supply of electricity; one has to be a person who is
+expert in applied research in the field of electricity; one of them has to be an expert in applied
+economics, accounting, commerce or finance.
+
+97. Section 73 of the Electricity Act deals with functions and duties of the CEA. The CEA is required
+to advise the Central Government on various matters with regard to generation, transmission,
+trading, distribution and utilization of electricity. It is also required to advise the Central
+Government on any matter on which its advice is sought or make recommendation to that
+Government on any matter if, in the opinion of the CEA, the recommendation would help in
+improving the generation, transmission, trading, distribution and utilization of electricity.
+
+98. Section 76 of the Electricity Act provides for constitution of the CERC. The CERC is a five
+member body which consists of a Chairperson and three other Members, and the Chairperson of the
+CEA who shall be the ex officio Member. A high-level Selection Committee consisting of 6 high
+officials selects the Members of the CERC and the learned APTEL.
+
+99. Section 77 of the Electricity Act provides for qualifications for appointment of Members of the
+CERC. Sub-section (1) of Section 77 provides that Chairperson and the Members of the CERC shall
+be persons having adequate knowledge of, or experience in, or shown capacity in, dealing with,
+problems relating to engineering, law, economics, commerce, finance or management. It further
+requires that one person to be appointed must be having qualifications and experience in the field of
+engineering with specialization in generation, transmission or distribution of electricity. One person
+to be appointed has the qualifications and experience in the field of finance. Clause (c) of
+sub-section (1) of Section 77 of the Electricity Act requires that two persons are required to have
+qualifications and experience in the field of economics, commerce, law or management. The proviso
+to sub-section (1) of the Section 77 of the Electricity Act provides that not more than one Member
+shall be appointed under the same category under clause (c).
+
+100. Sub-section (2) of Section 77 of the Electricity Act, which is a non-obstante clause, empowers
+the Central Government to appoint any person as the Chairperson from amongst persons who is, or
+
+32
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+has been, a Judge of the Supreme Court or the Chief Justice of a High Court notwithstanding
+anything contained in sub-section (1). However, such appointment cannot be made except after
+consultation with the Chief Justice of India.
+
+101. Section 79 of the Electricity Act deals with the functions of the CERC. One of the functions of
+the CERC under clause (a) of sub-section (1) of Section 79 is to regulate the tariff of generating
+companies owned or controlled by the Central Government. Clause (b) requires it to regulate the
+tariff of generating companies other than those owned or controlled by the Central Government
+specified in clause (a), if such generating companies enter into or otherwise have a composite
+scheme for generation and sale of electricity in more than one State.
+
+102. Similarly, Section 82 of the Electricity Act deals with constitution of a State Commission.
+Section 83 of the Electricity Act permits a Joint Commission to be constituted by an agreement
+between two or more Governments of States. It also permits the Central Government to constitute a
+Joint Commission in respect of one or more Union Territories, and one or more Governments of
+States. Under Section 84, the persons to be appointed as the Chairperson and the Members of the
+State Commission are required to have adequate knowledge of, and have shown capacity in, dealing
+with problems relating to engineering, finance, commerce, economics, law or management.
+Sub-section (2) of Section 84 of the Electricity Act permits the State Government to appoint any
+person as the Chairperson from amongst persons who is, or has been, a Judge of a High Court.
+However, such an appointment can be made only after consultation with the Chief Justice of that
+High Court. A high-level Selection Committee under the Chairmanship of a person who has been a
+Judge of the High Court, the Chief Secretary of the concerned State and the Chairperson of the CEA
+or the Chairperson of the CERC selects the Chairperson and the Members of the State Commission.
+Analogous to Section 79, Section 86 of the Electricity Act defines the functions of the State
+Commission. Clause (b) of sub-section (1) of Section 86 of the Electricity Act requires the State
+Commission to regulate electricity purchase and procurement process of distribution licensees
+including the price at which electricity shall be procured from the generating companies or licensees
+or from other sources through agreements for purchase of power for distribution and supply within
+the State.
+
+103. Section 110 of the Electricity Act provides for establishment of the Appellate Tribunal. Section
+111 of the Electricity Act provides for appeal to Appellate Tribunal by any person aggrieved by an
+order made by an adjudicating officer under the said Act (except under Section 127) or an order
+made by the Appropriate Commission. Section 112 deals with composition of the Appellate Tribunal.
+It provides that it shall consist of a Chairperson and three other Members. Section 113 provides for
+qualifications for appointment of Chairperson and Members of Appellate Tribunal. Only a person
+who is, or has been a Judge of the Supreme Court or the Chief Justice of a High Court is entitled to
+be the Chairperson of the Appellate Tribunal. For being a Member of the Appellate Tribunal,
+following three categories have been provided for:
+
+(i) A person is, or has been, or is qualified to be, a Judge of a High Court; or
+
+33
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+(ii) A person is, or has been, a Secretary for at least one year in the Ministry or
+Department of the Central Government dealing with economic affairs or matters or
+infrastructure; or
+
+(iii) A person is, or has been, a person of ability and standing, having adequate
+knowledge or experience in dealing with the matters relating to electricity generation,
+transmission and distribution and regulation or economics, commerce, law or
+management.
+
+104. It can thus be seen that the CEA, CERC and learned APTEL are bodies consisting of experts in
+the field. CONSIDERATIONS
+
+105. The issues with regard to SHR and GCV have been considered by the CERC in its order dated 15
+th November 2018 in the case of GMR Warora Energy Limited v. Maharashtra State Electricity
+Distribution Company Limited & Anr 8. It will be relevant to reproduce the relevant part of the
+CERC’s order dated 15th November 2018, which reads thus:
+
+“29. The submissions regarding SHR and GCV have been considered. The APTEL in
+its judgement dated 12.9.2014 in Appeal No. 288 of 2013 (M/s Wardha Power
+Company Limited V Reliance Infrastructure Limited & anr) has ruled that
+compensation under Change in Law cannot be correlated with the price of coal
+computed from the energy charge and the technical parameters like the Heat Rate
+and gross GCV of coal given in the bid documents for establishing the coal
+requirement. The relevant observations of APTEL are extracted as under:
+
+“26. The price bid given by the Seller for fixed and variable charges both escalable
+and non-escalable is based on the Appellant’s perception of risks and estimates of
+expenditure at the time of submitting the bid. The energy charge as quoted in the bid
+may not match with the actual energy charge corresponding to the actual landed
+price of fuel. The seller in its bid has also not quoted the price of coal. Therefore, it is
+not correct to co-relate the compensation on account of Change in Law due to change
+in cess/excise duty on coal, to the coal price computed from the quoted energy
+charges in the Financial bid and the heat rate and Gross Calorific value of Coal given
+in the bidding documents by the bidder for the purpose of establishing the coal
+requirement. The coal price so calculated will not be equal to the actual price of coal
+and therefore, compensation for Change in Law computed on such price of coal will
+not restore the economic position of the Seller to the same level as if such Change in
+Law has not occurred.”
+
+30. In the light of the above observations, the technical parameters such as Heat Rate
+and GCV of coal as per the bidding document cannot be considered for deciding the
+coal requirement for the purpose of calculating the relief under Change in law.
+Therefore, the submissions of the Respondent, MSEDCL to consider the bid
+parameters are not acceptable. The Respondent has also relied on MERC order with
+
+34
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+regard to GCV. As regards SHR, it was also suggested by MERC that net SHR as
+submitted in the bid or SHR norms specified for new thermal stations as per MYT
+Regulations, whichever is superior, shall be applicable. In our view, the decision in
+the said order has been given in the facts of the case and does not have any binding
+effect in case of the projects regulated by this Commission. Moreover, the SHR given
+in the bid are under test conditions and may vary from actual SHR. The Commission
+after extensive stakeholders(cid:136) consultation has specified the SHR norms in the 2014
+Tariff Regulations. Therefore, it would be appropriate to take SHR specified in the
+Regulations as a reference point instead of other parameters as suggested by
+MSEDCL.
+
+31. In the present case, the Petitioner has considered SHR of 2355 kcal/Kwh whereas,
+the Respondent MSEDCL has considered the Design Heat Rate of 2211 kcal/kWh as
+submitted in the RFP. It is pertinent to mention that the CERC norms applicable for
+the period 2009-14 and 2014-19 do not provide the norms for 300 MW units, but
+provide for a degradation factor of 6.5% and 4.5% respectively towards Heat Rate
+over and above the Design Heat Rate. As the Design Heat Rate is 2211 kcal/kWh, the
+gross Heat Rate works out to 2355 kcal/kWh (2211 x 1.065)and 2310 kcal/kWh (2211
+x 1.045) for the period 2009- 14 and 2014-19 respectively. Accordingly, we direct that
+the SHR of 2355 kcal/kWh during the period 2009-14 and 2310 kcal/kwh during the
+period 2014- 19 or the actual SHR whichever is lower, shall be considered for
+calculating the coal consumption for the purpose of compensation under change in
+law. The Petitioner and the Respondent MSEDCL are directed to carry out
+reconciliation on account of these claims annually.
+
+32. In case of GCV, the Respondent has submitted that it should be mid value of GCV
+band which should be applied on GCV measured on ‘as billed’ basis. In our view, on
+account of the grade slippage of the coal supplied by CIL, it would not be appropriate
+to consider GCV on ‘as billed’ basis. In the 2014 Tariff Regulations of the
+Commission, the measurement of GCV has been specified as on ‘as received’ basis.
+Therefore, it will be appropriate if the GCV on ‘as received’ basis is considered for
+computation of compensation for Change in law.”
+
+106. The CERC has referred to the judgment of the learned APTEL dated 12th September 2014 in
+Appeal No. 288 of 2013 in the case of M/s Wardha Power Company Limited v. Reliance
+Infrastructure Limited & anr. wherein the learned APTEL has held that it is not correct to co-relate
+the compensation on account of Change in Law due to change in cess/excise duty on coal to the coal
+price computed from the quoted energy charges in the financial bid and the heat rate and GCV of
+coal given in the bidding documents by the bidder for the purpose of establishing the coal
+requirement. The learned APTEL has held that the coal price so calculated will not be equal to the
+actual price of coal and therefore, compensation for Change in Law computed on such price of coal
+will not restore the economic position of the seller to the same level as if such Change in Law had
+not occurred.
+
+35
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+107. The CERC has further found that the SHR given in the bid are under test conditions and may
+vary from actual SHR. The CERC has specifically observed that after extensive stakeholders’
+consultation, the CERC has specified the SHR norms in the 2014 Tariff Regulations. It, therefore,
+found that it will be appropriate to take SHR specified in the Regulations as a reference point
+instead of other parameters as suggested by MSEDCL.
+
+108. The CERC further found that the CERC norms applicable to the period 2009-14 and 2014-19 do
+not provide the norms for 300 MW units, but provide for a degradation factor of 6.5% and 4.5%
+respectively towards Heat Rate over and above the Design Heat Rate. The CERC found that since the
+Design Heat Rate was 2211 kcal/kWh, the gross Heat Rate worked out to 2355 kcal/kWh (2211 x
+1.065) and 2310 kcal/kWh (2211 x 1.045) for the period 2009-14 and 2014-19 respectively. The
+CERC, therefore, directed that the SHR of 2355 kcal/kWh during the period 2009-14 and 2310
+kcal/kwh during the period 2014-19 or the actual SHR, whichever is lower, shall be considered for
+calculating the coal consumption for the purpose of compensation under the Change in Law.
+
+109. These findings of the CERC are affirmed by the learned APTEL in its Judgment dated 16 th July
+2021. The learned APTEL observed thus:
+
+“8.8 We are in agreement with the observations made by the CERC. Relegating the
+Appellant to the contractual remedy under the FSA when the genesis of the
+Appellant’s claim is Change in Law under the PPA would not be appropriate. It is,
+however, made clear that if the Appellant were to receive any disincentive or
+compensation from the coal company on account of short supply or grade slippage,
+such compensation will be adjusted/credited against the Change in Law
+compensation payable by the Respondent, MSEDCL.”
+
+110. The learned APTEL in its judgment dated 14 th September 2020 in Appeal No.182 of 2019 in
+the case of Adani Power Maharashtra Limited (APML) v. Maharashtra State Electricity Distribution
+Company Ltd. (impugned in Civil Appeal No. 684 of 2021) has referred to the order of MERC dated
+7th March 2018 in Case No.123 of 2017 (JSW Energy Ltd. v. MSEDCL), wherein it held that
+Auxiliary Consumption has to be considered as lower of actual or MYT norms for the purpose of the
+Change in Law compensation. The learned APTEL held that in view of its earlier order, the State
+Commission, being MERC, ought to have followed the same approach for SHR in the present case
+also. It has been found that there is no reason for the MERC to apply two different principles for
+Auxiliary Consumption and SHR, when both are operational parameters and the Commission was
+dealing with the same PPA in both cases.
+
+111. The learned APTEL has also referred to the following observations of the CERC in its order
+dated 16 th May 2019 in the case of GMR Warora Energy Limited v. MSEDCL and Anr. (Petition
+No.284/MP/2018):
+
+“52. It is pertinent to mention that similar submissions of the Respondent, MSEDCL
+were considered by the Commission in Petition No.88/MP/2018 and it was observed
+by order dated 15.11.2018 that SHR given in the bid is under test conditions and may
+
+36
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+vary from actual SHR. Therefore, it would only be correct to take SHR specified in the
+tariff Regulations as a reference point instead of other parameters suggested by
+MSEDCL. It was also held that SHR as a bidding document cannot be considered for
+deciding the coal requirement for the purpose of calculating relief under change in
+law…” [emphasis supplied]
+
+112. The learned APTEL thereafter held that the SHR submitted in the bid was not a bid parameter
+as per the bidding guidelines. It concurred with the findings of the CERC that the SHR specified in
+the Tariff Regulations was as a reference point. It held that it cannot be used as the basis for
+computing the coal shortfall requirement and, thereby, for computation of Change in Law
+compensation to be awarded to the generating company. It held that such linking of Change in Law
+compensation to the SHR mentioned in the bid documents would not restitute the affected party to
+the same economic position as if the approved Change in Law event had not occurred.
+
+113. Insofar as the GCV is concerned, the CERC in the case of GMR Warora Energy Limited (supra)
+has specifically rejected the contention of the MSEDCL that the GCV should be taken at the mid
+value of GCV band which should be applied on GCV measured on ‘as billed’ basis. The CERC held
+that, on account of the grade slippage of the coal supplied by CIL, it would not be appropriate to
+consider GCV on ‘as billed’ basis. It has been held that in the 2014 Tariff Regulations of the
+Commission, the measurement of GCV has been specified as on ‘as received’ basis. Therefore, it will
+be appropriate if the GCV on ‘as received’ basis is considered for computation of compensation for
+the Change in Law. This finding of the CERC is affirmed by the learned APTEL.
+
+114. The learned APTEL in the case of Adani Power Maharashtra Limited (APML) (supra) has also
+considered the issue as to whether the reference GCV of domestic coal supplied by CIL for
+computing the Change in Law compensation should be “the middle value of GCV range of assured
+coal grade in LoA/FSA/MoU”. The learned APTEL observed that it was a fact that there is no
+guidance in the PPAs or in the bidding Guidelines as to the reference GCV that should be applied in
+case of the Change in Law claims in Case 1 bid projects where SHR or GCV is not a bid parameter. It,
+however, held that the overarching principle for Change in Law compensation was that the
+generating company should not be left with in a worse economic position. It held that the GCV ‘as
+received’ should be the appropriate basis to assess the quantum of shortfall in domestic coal and
+calculate the Change in Law compensation accordingly.
+
+115. It is also relevant to note that the Comptroller and Auditor General of India (“C&AG” for short),
+in its Performance Audit Report on “Fuel Management of Coal Based Power Stations of NTPC
+Limited” submitted to MoP, had observed that the ‘quality assessment of coal has inherent as well as
+manmade infirmities due to heterogeneous nature of coal and sampling errors’. The C&AG,
+therefore, recommended to the MoP that there was a need to appropriately review the methods for
+energy pricing and had requested the MoP to coordinate with CERC in light of the audit findings.
+The MoP, therefore, addressed a communication dated 28th June 2017 to the CEA. In the said
+communication, the MoP had stated that the NTPC has highlighted the issues of sampling error on
+account of change of point of sampling for measurement of GCV from “as fired” to “as received”
+basis as per the 2014 Tariff Regulations, non-homogeneous nature of samples taken from the
+
+37
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+wagons, loss of GCV from point of “as received” to the point of “as fired”, and difficulty with coal
+sampling through ‘Augurs’. It further states that the MoP had also sought views of the CERC on the
+said issue. The CERC had, therefore, requested the MoP for consulting CEA in this regard and
+accordingly the matter was referred to CEA.
+
+116. The CEA in its communication dated 17th October 2017 stated thus:
+
+“The issue has been examined in CEA. After preliminary discussions with NTPC on
+the issue on 05.09.2017, CEA has also taken views of other specialist agencies in the
+field of coal such as CIMFR and CPRI in the meeting held on 21.09.2017.
+
+It is acknowledged that there is a loss of GCV from point of “as received” to the point
+of “as fired” inside a power plant mainly due to following factors:
+
+(i) Effect of Moisture in GCV of coal sample taken from Wagon Top As stated by
+C&AG, there are sampling errors on account of heterogeneous nature of coal. This
+issue was deliberated in detail with CIMFR and CPRI. Both CIMFR and CPRI
+acknowledged the difference in wagon top-
+
+bottom GCV due to heterogeneous nature of coal, tendency of moisture to settle at
+the bottom and exposure of top layer to atmosphere.
+
+CEA is of the view that GCV measurement of wagon top coal will give comparatively
+higher GCV value due to steeling of moisture at the bottom of the wagon and loss of
+moisture from wagon top during transportation of coal, however, loss in GCV will
+vary as per seasonal variations.
+
+(ii) Loss in GCV during coal storage inside power plant CEA is of the view and also
+substantiated by many national and international papers that there is a loss of GCV in
+the coal stock where coal is stored inside the power plant, mainly due to oxidation
+and weathering effect. Further, most of the losses in GCV during long storage of coal
+takes place in the initial period of storage, mostly due to loss in volatile content.
+
+(iii) Reduction in GCV during handling inside power plant C&AG in its Performance
+Audit Report has observed that GCV of coal progressively decreased from ‘as billed’
+stage to ‘as fired’ stage.
+
+It is acknowledged that there are minor unavoidable losses inside the power plant in
+handling the coal starting from unloading point to the point of bunkering. Loss in
+GCV may occur mainly due to dust suppression measures used around coal
+conveyors and transfer points, loss in volatile matter during crushing of the coal etc.
+CEA has also examined the views taken by various state regulators for considering
+such loss for the purpose of tariff allowed to generators. However, as the margin
+would vary from plant to plant, season to season and varying coal characteristics,
+
+38
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+CEA is of the opinion that a margin of 85-100 kcal/kg for a non-pit head station may
+be considered as a loss of GCV measured at wagon top till the point of firing of coal in
+boiler.”
+
+117. Vide Corrigendum dated 18th October 2017, in the last sentence, after the words wagon top, the
+words “at unloading point” were added.
+
+118. The aforesaid advice was given by the CEA after holding meeting on 21st September 2017 with
+specialist agencies in the field of coal such as CIMFR and CPRI. It has also examined the views taken
+by various state regulators for considering such loss for the purpose of tariff allowed to generators.
+While considering at what point of time the margin may be considered as a loss of GCV, the CEA
+considered the views of all the stakeholders. It, thereafter, opined that the loss of GCV should be
+measured at wagon top till the point of firing of coal in boiler.
+
+119. As already discussed herein above, the CEA is an independent body having Members who are
+experts in various fields related to electricity generation, transmission, finance, etc.
+
+120. It could thus be seen that two expert bodies i.e. the CERC and the learned APTEL have
+concurrently held, after examining the material on record, that the factors of SHR and GCV should
+be considered as per the Regulations or actuals, whichever is lower. The CERC as well as the State
+Regulatory bodies, after extensive consultation with the stakeholders, had specified the SHR norms
+in respective Tariff Regulations. In addition, insofar as GCV is concerned, the CEA has opined that
+the margin of 85-100 kcal/kg for a non-pit head station may be considered as a loss of GCV
+measured at wagon top till the point of firing of coal in boiler.
+
+121. In this respect, we may refer to the following observations of this Court in the case of Reliance
+Infrastructure Limited v. State of Maharashtra and others9.
+
+“38. MERC is an expert body which is entrusted with the duty and function to 9 (2019) 3 SCC 352
+frame regulations, including the terms and conditions for the determination of tariff. The Court,
+while exercising its power of judicial review, can step in where a case of manifest unreasonableness
+or arbitrariness is made out. Similarly, where the delegate of the legislature has failed to follow
+statutory procedures or to take into account factors which it is mandated by the statute to consider
+or has founded its determination of tariffs on extraneous considerations, the Court in the exercise of
+its power of judicial review will ensure that the statute is not breached. However, it is no part of the
+function of the Court to substitute its own determination for a determination which was made by an
+expert body after due consideration of material circumstances.
+
+39. In Assn. of Industrial Electricity Users v. State of A.P. [Assn. of Industrial Electricity Users v.
+State of A.P., (2002) 3 SCC 711] a three-Judge Bench of this Court dealt with the fixation of tariffs
+and held thus : (SCC p. 717, para 11) “11. We also agree with the High Court [S. Bharat Kumar v.
+State of A.P., 2000 SCC OnLine AP 565 : (2000) 6 ALD 217] that the judicial review in a matter with
+regard to fixation of tariff has not to be as that of an appellate authority in exercise of its jurisdiction
+under Article 226 of the Constitution.
+
+39
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+All that the High Court has to be satisfied with is that the Commission has followed the proper
+procedure and unless it can be demonstrated that its decision is on the face of it arbitrary or illegal
+or contrary to the Act, the court will not interfere. Fixing a tariff and providing for cross-subsidy is
+essentially a matter of policy and normally a court would refrain from interfering with a policy
+decision unless the power exercised is arbitrary or ex facie bad in law.”
+
+122. As already discussed herein above, various expert bodies including the CERC and the learned
+APTEL, after taking into consideration various relevant factors, have decided the issue with regard
+to SHR and GCV. Not only that, but another expert body i.e. CEA has also advised that GCV value
+has to be taken not only on ‘as received’ but on ‘as fired’ basis.
+
+123. Recently, the Constitution Bench of this Court in the case of Vivek Narayan Sharma v. Union of
+India10 has held that the Courts should be slow in interfering with the decisions 10 2023 SCC
+OnLine SC 1 taken by the experts in the field and unless it is found that the expert bodies have failed
+to take into consideration the mandatory statutory provisions or the decisions taken are based on
+extraneous considerations or they are ex facie arbitrary and illegal, it will not be appropriate for this
+Court to substitute its views with that of the expert bodies.
+
+124. That leaves us with the third issue as to whether the MERC was correct in holding that, for the
+purpose of Change in Law compensation, shortfall in domestic linkage coal shall be assessed by
+considering the coal supply as the maximum of (1) actual quantum of coal offered for offtake by CIL
+under the LoA/FSA and (2) the minimum assured quantum in NCDP 2013 for the respective year.
+
+125. Undisputedly, vide the NCDP 2007, insofar as the power utilities including IPPs/CPPs and
+Fertilizer Sector are concerned, the MoC had assured 100% of the quantity as per the normative
+requirement of the consumers for supply of coal, through FSA by CIL at fixed prices to be
+declared/notified by CIL. The units/power plants, which were yet to be commissioned but whose
+coal requirements has already been assessed and accepted by the MoC and linkage/LoA approved as
+well as future commitments, were also to be covered by the said Policy. Para 5.2 of the NCDP 2007
+also provided that in order to meet the domestic requirement of coal, CIL may have to import coal as
+may be required from time to time, if feasible. The CIL was to adjust its overall price accordingly.
+There was an unequivocal assurance given that it will be the responsibility of CIL/Coal Companies
+to meet full requirement of coal under FSAs even by resorting to imports, if necessary.
+
+126. However, in 2013, on account of the limited availability of coal, the MoC had indicated that CIL
+may not be in a position to supply more than 60 to 65% of ACQ. The Union of India, therefore,
+realised that PPAs which are already concluded between the developers and the DISCOMS as a
+result of competitive bidding in the last few years based on domestic coal linkage (LoA) may have to
+use imported coal to bridge the shortage of domestic coal in order to fulfill their contractual
+obligations.
+
+127. The CCEA considered the issue and decided that the higher cost of imported coal will be
+allowed as a pass-through. This is evident from the communication dated 9 th May 2013 addressed
+by the MoP to the CERC.
+
+40
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+128. The CERC also considered the issue. It noted that it was the full responsibility of CIL to meet
+full requirement of coal under FSAs even by resorting to import, if necessary. After referring to the
+Change in Law clause, the CERC, in its advice dated 20th May 2013, stated that for claiming any
+benefit under Change in Law, the Project Developer would have to move the appropriate
+Commission and the appropriate Commissions are expected to take decisions on the merits of each
+case including the claims of the Project Developers for compensation on account of imported coal.
+Such decisions were required to be taken after consultation with the stakeholders.
+
+129. The Government of India through MoP, in its Press Note dated 21st June 2013, published the
+decision of the CCEA which clearly provided that the higher cost of imported coal was to be
+considered for pass-through as per the modalities suggested by CERC.
+
+130. The MoP, thereafter, addressed a communication dated 31st July 2013 to the Secretary, CERC
+specifically pointing out the decision of the CCEA to the effect that the higher cost of imported coal
+was to be considered for pass-through as per the modalities suggested by CERC. The
+communication states that, as per the decision of the Government, the higher cost of import/market
+based e-auction coal will have to be considered for being made a pass-through on a case to case basis
+by CERC/SERC to the extent of shortfall in the quantity indicated in the LoA/FSA.
+
+131. The Tariff Policy dated 28 th January 2016 issued by the MoP in paragraph 6.1 also specifically
+notes this position and states that, in case of reduced quantity of domestic coal supplied by CIL
+vis-à-vis the assured quantity or quantity indicated in LoA/FSA, the cost of imported/market based
+e- auction coal procured for making up the shortfall shall be considered for being made a
+pass-through by the Appropriate Commission.
+
+132. Undisputedly, in the case of Energy Watchdog (supra) as well as in Adani Rajasthan case
+(supra) this Court has held that on account of the Change in Law, the generating companies were
+entitled to compensation so as to restore the party to the same economic position as if such Change
+in Law had not occurred. Had the Change in Law not occurred, the generating companies would
+have been entitled to the supply as assured by the CIL/Coal Companies under the FSA.
+
+133. It is contended by the DISCOMS that in the case of Energy Watchdog (supra), this Court has
+specifically held that the doctrine of force majeure was not applicable if there was an unexpected rise
+in the price of coal and, as such, it will not absolve the generating companies from performing their
+part of the contract. It is submitted that when the bidders submitted their bids, this was a risk they
+knowingly took. We find the said submission to be without substance. The generators are not
+claiming compensation on the basis of rise in price of coal or on the ground of force majeure. Their
+claims, in fact, are on the basis of the Change in Law, which this Court, in the case of Energy
+Watchdog (supra) as well as in Adani Rajasthan case (supra), has upheld on the ground of Change in
+Law.
+
+134. The contention of the DISCOMS that the Adani Rajasthan case (supra) is not applicable to the
+facts of the present case inasmuch as in Adani Rajasthan case (supra), the State of Rajasthan had
+assured 100% coal supply and that it was not a case of FSA, is, in our considered view, without
+
+41
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+substance. In the present case also, the NCDP 2007 had assured 100% fuel/coal supply of the
+normative value.
+
+135. The restitutionary principle has been stated by this Court in the case of Uttar Haryana Bijli
+Vitran Nigam Limited (UHBVNL) (supra) thus:
+
+(cid:12)          “10. Article    13.2    is   an    in-built
+restitutionary       principle       which
+
+compensates the party affected by such change in law and which must restore, through monthly
+tariff payments, the affected party to the same economic position as if such change in law has not
+occurred. This would mean that by this clause a fiction is created, and the party has to be put in the
+same economic position as if such change in law has not occurred i.e. the party must be given the
+benefit of restitution as understood in civil law. ………….”
+
+136. Undisputedly, the claim of APML stands on the basis of the Change in Law. The DISCOMS,
+which are instrumentalities of the State, cannot be expected to argue contrary to the stand of the
+Government, which clearly provides that the generators would be entitled to pass-through for the
+coal required to be imported or purchased from the open market on the ground of Change in Law.
+
+137. Shri M.G. Ramachandran, learned Senior Counsel has also made a submission that though the
+Change in Law event is dated 31st July 2013, the learned APTEL has erred in giving effect to the
+same from 1st April 2013. In this respect, it is to be noted that the Change in Law has been made
+applicable to the remaining four years of the 12th Plan for power plants. The MERC, in the case of
+APML, as well as the CERC, in the case of GMR, has given effect to the Change in Law for the last
+four financial years beginning from the Financial Year 2013-2014. The financial year begins from 1st
+of April of every year. Apart from that, from the perusal of the orders passed by the learned APTEL
+in both the matters, it is clear that no such challenge was made before the learned APTEL, and, even
+in the present appeals, there is ground to this effect in the Memo of Appeals. Only oral submissions
+have been sought to be made in that regard.
+
+138. In view of the concurrent orders of the authorities with regard to the date on which the Change
+in Law compensation is to be given, we see no reason to entertain such a plea, which does not have a
+foundation in the pleadings.
+
+139. Another contention raised on behalf of the DISCOMS is that if the generators are permitted to
+claim compensation on the basis of actual SHR or the SHR as per the Regulations, whichever is
+lower, it will permit them to take advantage of their inefficiency. It is submitted that lesser the SHR,
+greater the efficiency of the machine and, therefore, higher the generation of electricity. Per contra,
+when the machine is inefficient, the SHR is higher and the electricity generation is lower. The SHR
+is not only dependent on the efficiency of the machine but on various other factors. One of the other
+factors is the PLF. In this respect, it will be relevant to refer to the statutory advice issued by the
+CERC on 20th May 2013, the relevant part of which has already been reproduced hereinabove. It
+clearly states that for want of adequate coal supply by CIL/Coal Companies, the PLF of the
+generating stations across the country has been severely affected. As such, the contention in that
+
+42
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+regard, in our considered view, is without substance.
+
+140. Apart from that, it appears that various DISCOMS are taking self-contradictory stands. In
+Petition No. 97 of 2017 between M/s Adani Power Limited v. Uttar Haryana Bijli Vitran Nigam Ltd.
+& Anr., the DISCOMS have filed an affidavit stating thus:
+
+“a. While deciding the relief on account of Change in Law under Article 13 of the PPA
+may be pleased to consider improved efficiency parameters in line with CERC Tariff
+Regulations such that the impact on consumers of the Respondents in minimal in
+nature.
+
+b. Any relief (if granted), may be passed after considering the following significant
+observations:
+
+(i) The actual impact of the said period should be calculated on the basis of various
+factors namely the quantum of requirement on normative procedures such as the
+following:
+
+i. Station Heat Rate shall be considered after ascertaining actual design heat rate and
+margin as per CERC regulations from time to time.
+
+ii. Similarly, Auxiliary Consumption shall be considered as per CERC regulations.
+
+iii. GCV of alternate coal shall be as certified by Third Party Sampling Agency for
+which the Hon’ble Commission should provide appropriate the guideline.
+
+iv. The targeted PLF;
+
+v. The accurate date of actual coal utilized by the Petitioner on a monthly and yearly
+basis;
+
+vi. The quantity of coal offered by the MCL which was rejected or not taken by the
+Petitioner;
+
+vii. The quantum of actual of electricity generated by the Petitioner Thus, it is
+submitted that the Petitioner’s claim for relief in this regard requires to be computed
+in a categorical and systematic manner taking the above parameters into
+consideration. The Petitioner’s computation as stated in its petition is therefore liable
+to be rejected as it is general and vague in nature.
+
+(ii) Further, the Petitioner has indicated the impact limited to the past period only.
+However, the Respondents humbly request the Hon’ble Commission to only approve
+such claims for the past period, after considering the above along with a formula for
+the future period.” [emphasis supplied]
+
+43
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+141. It can thus be seen that the DISCOM-UHBVNL has itself stated that improved efficiency
+parameters in line with CERC Tariff Regulations should be considered for deciding the relief on
+account of Change in Law, such that the impact on consumers of the respondents is minimal in
+nature. It has also requested for any relief, if granted, to take into consideration the SHR after
+ascertaining actual design heat rate and margin as per CERC regulations from time to time.
+Similarly, it has also requested that Auxiliary Consumption be considered as per the CERC
+Regulations. Insofar as the GCV of alternate coal is concerned, it has further stated that it has to be
+certified by Third Party Sampling Agency.
+
+142. It is not in dispute that the SHR is required to be audited continuously and the GCV has to be
+certified by a Third Party Sampling Agency.
+
+143. It is further pertinent to note that the MERC itself in its order dated 7th March 2018 in Case
+No.123 of 2017 (JSW v. MSEDCL), has taken a totally contradictory stand. It will be relevant to refer
+to paragraph 19.11 of the said order dated 7 th March 2013, which reads thus:
+
+“19.11 In view of the above, financial impact of Change in Law on the auxiliary
+consumption to restore the generator to the same economic position as if such
+Change in Law has not occurred is allowed. The Change in Law shall be applicable on
+auxiliary consumption of the Unit as per the Norms laid down by the Commission or
+actual, whichever is less since the tariff of the project is based on Competitive Bidding
+the auxiliary power consumption considered is not known.
+
+However this auxiliary consumption should be at a normative value corresponding to
+Scheduled generation only.
+
+Moreover, this Change in Law with respect to auxiliary consumption shall not include
+power consumption for staff colonies of the generating station.” [emphasis supplied]
+
+144. It is, thus, difficult to appreciate as to how the MERC, in one case, has taken a
+view that Change in Law on the Auxiliary Consumption has to be as per the Norms
+laid down by the Commission or actual, whichever is less, when it has rejected the
+same in the case of APML in the order dated 7 th March 201811.
+
+145. We may gainfully refer to the stand taken by the Union of India in the case of
+Energy Watchdog (supra), which reads thus:
+
+“15. The learned Attorney General appearing on behalf of the Union of India,
+submitted before us that he was not interested in the ultimate outcome of the appeals
+before us. He was only appearing in order to apprise us that the electricity sector,
+having been privatised, has largely fulfilled the object sought to be achieved by the
+2003 Act, which is that electricity generation, being delicensed, should result in
+production of far greater electricity than was earlier produced.
+
+44
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+He urged us not to disturb the delicate balance sought to be achieved by the Act i.e. that producers
+or generators of electricity, in order that they set up power plants, be entitled to a reasonable margin
+of profit and a reasonable return on their capital, so that they are induced to set up more and more
+power plants. This must be consistent with competitiveness among them, which then translates
+itself into reasonable tariffs that are payable by consumers of electricity. For this purpose, he relied
+strongly upon Section 3 of the Electricity Act, which states that the Central Government, shall from
+time to time, prepare a National Electricity Policy and a tariff policy in consultation with the State
+Governments, and the authority for development of the power system, based on optimal utilisation
+of natural resources. According to him, the National Electricity Policy and Tariff Policy that are
+issued from time to time, being statutory in nature, are binding on all concerned. This is, in fact,
+further recognised by Section 61(i) by which the appropriate Commission, in specifying terms and
+conditions for determination of tariffs, shall be guided by the National Electricity Policy and Tariff
+Policy. The Central Government's role can further be seen even in Section 63, where guidelines that
+are binding on all are issued by the Central Government in cases where there is a transparent
+process of bidding.
+
+16. Further, according to the learned Attorney General, Section 79(4) also points in the same
+direction, stating that, in discharge of its functions, the Central Commission shall be guided by the
+National Electricity Policy, National Electricity Plan, and tariff policy published under Section 3. He
+also referred us to the Cabinet Committee for Economic Affairs recognising the overall shortfall in
+manufacture of domestic coal and the new coal distribution policy issued in July 2013 pursuant to
+the Cabinet Committee which, according to him, are in the nature of binding directions making it
+clear that as generators of electricity, who depend upon indigenous coal, have been given less coal
+than was anticipated, should be allowed either to import the coal themselves, or purchase imported
+coal from Coal India Ltd., with the difference in price being passed through to them. He further
+referred to and relied upon the revised tariff policy of 28-1-2016 for the same purpose.” [emphasis
+supplied]
+
+146. The submissions made by the learned Attorney General have to be construed in reference to the
+purpose for which the Electricity Act came to be enacted. Prior to the Electricity Act coming into
+effect, matters with regard to generation, transmission, distribution and supply of electricity were
+governed by three enactments, viz., the Indian Electricity Act, 1910, the Electricity (Supply) Act,
+1948 and the Electricity Regulatory Commission Act, 1998. The Electricity (Supply) Act, 1948
+mandated the creation of a State Electricity Board. However, it was found that over a period of time,
+the performance of the said Electricity Boards had deteriorated on account of various factors. As
+such, it was found necessary to enact a new legislation to meet various challenges. The statement of
+objects and reasons would reveal that one of the main features for enactment of the Electricity Act
+was delicensing of generation and freely permitting captive generation. As such, the learned
+Attorney General, in the case of Energy Watchdog (supra), stated that the electricity sector, having
+been privatized, had largely fulfilled the object sought to be achieved by the Electricity Act. After the
+enactment of the Electricity Act, delicensed electricity generation resulted in production of far
+greater electricity than was earlier produced. The learned Attorney General had further urged the
+Court not to disturb the delicate balance sought to be achieved by the Electricity Act, i.e. that
+producers or generators of electricity, in order that they set up power plants, be entitled to a
+
+45
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+reasonable margin of profit and a reasonable return on their capital, so that they are induced to set
+up more and more power plants.
+
+147. It is further to be noted that, though it was sought to be contended in the case of Energy
+Watchdog (supra) that in a case under Section 63 of the Electricity Act, the Commission was only to
+adopt a tariff as determined through a transparent process of bidding, this Court rejected the said
+contention. It held that, in fact, Sections 62 and 63 of the Electricity Act deal with ‘determination’ of
+tariff, which is part of ‘regulating’ tariff. It further held in a situation where the guidelines issued by
+the Central Government under Section 63 cover the situation, the Central Commission is bound by
+those guidelines and must exercise its regulatory functions.
+
+148. It would be relevant to refer to clause 4.7 of the guidelines issued by the Union of India, which
+have been held to be binding in the case of Energy Watchdog (supra), which reads thus:
+
+“Clause 4.7. (amended) Any change in law impacting cost or revenue from the
+business of selling electricity to the procurer with respect to the law applicable on the
+date which is 7 days before the last date for RFP bid submission shall be adjusted
+separately. In case of any dispute regarding the impact of any change in law, the
+decision of the appropriate Commission shall apply.”
+
+149. The judgment of this Court in the case of Energy Watchdog (supra) has been approved by a
+three Judge Bench of this Court in Adani Rajasthan case (supra).
+
+150. In spite of this legal position and the stand taken by the Union of India, the DISCOMS are
+taking a stand which is contrary to the stand of the Union of India. In Energy Watchdog (supra), it
+was also sought to be urged by DISCOMS that even on account of Change in Law, adjustments
+would not be permissible, which contention was outrightly rejected. We have come across a number
+of matters wherein concurrent orders passed by the Regulatory Body and the Appellate Forum are
+assailed. Such a litigation would, in fact, efface the purpose of the Electricity Act. As already
+discussed herein above, one of the major reasons for the enactment of the Electricity Act was the
+deterioration in performance of the State Electricity Boards.
+
+151. In that view of the matter, we find that the stand taken by the DISCOMS that, since the loss
+being sustained by the generating companies is on account of non-fulfillment of obligation by
+CIL/Coal Companies, they should be relegated to the remedy available to them in law against the
+CIL/Coal Companies, is totally unreasonable. The claim is based on change of NCDP 2007 by NCDP
+2013, which, undisputedly, is covered by the term ‘Change in Law’.
+
+152. Recently, this Court, in the case of Central Warehousing Corporation v. Adani Ports Special
+Economic Zone Limited (APSEZL) and others12, has deprecated the practice of different
+instrumentalities of the State taking contradictory/different positions/stands on the same issue.
+
+153. In the present case, the learned APTEL has also held that SHR and GCV has to be taken into
+consideration as per the ‘actual’ or the Tariff Regulations, whichever is lower and as 12 2022 SCC
+
+46
+
+Maharashtra State Electricity ... vs Adani Power Maharashtra Limited on 3 March, 2023
+
+OnLine SC 1398 such, balanced the interests of generators as well as consumers.
+
+154. That leaves us to deal with the additional point raised in the case of GMR (i.e. Civil Appeal
+No.6927 of 2021).
+
+155. The CERC, apart from its finding on SHR and GCV, has also directed late payment surcharge to
+be paid. The same has been affirmed by the learned APTEL. The CERC as well as the learned
+APTEL, on the interpretation of Articles 8.3.5 and 8.8.3 of the PPA, have concurrently found that
+the procurer had delayed the payment by not making the payment within the due date and, as such,
+GMR was entitled to late payment surcharge. We find no reason to interfere with the said
+concurrent findings of fact.
+
+156. We, therefore, find no merit in the appeals. The appeals are dismissed. There shall be no order
+as to costs. Pending application, if any, shall stand disposed of.
+
+…….........................J. [B.R. GAVAI] …….........................J. [VIKRAM NATH] NEW DELHI;
+
+MARCH 03, 2023
+
+47

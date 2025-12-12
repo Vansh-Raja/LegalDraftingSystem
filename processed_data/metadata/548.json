@@ -1,0 +1,16 @@
+{
+  "case_number": "2024 INSC 750; CRIMINAL APPEAL NO. ________OF 2024",
+  "parties": {
+    "petitioner": "K. Bharathi Devi AND ANR.",
+    "respondent": "State of Telangana & ANR."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-10-03",
+  "summary": "Bank fraud case involving fake/forged title documents for loan collateral; criminal prosecution vs private settlement; charges include IPC s.120-B, 420, 409, 467, 468, 471 and PCA s.13(1)(d), s.13(2); accused wives (nos.3-4) claimed minimal role; High Court dismissed s.482 CrPC petition holding crimes against society cannot be quashed by private settlement; appeal challenged dismissal citing OTS payment and no-due certificate; issue: whether criminal proceedings can continue post-compromise of civil recovery proceedings; standard: compromise in civil suit vs non-compoundable offenses for cheating of public funds.",
+  "legal_provisions_cited": [
+    "Code of Criminal Procedure, 1973 s.482",
+    "Indian Penal Code 1860 s.120-B, s.420, s.409, s.467, s.468, s.471",
+    "Prevention of Corruption Act 1988 s.13(1)(d), s.13(2)"
+  ],
+  "final_judgment": "Appeal allowed; criminal proceedings quashed against appellants Nos.3-4 (wives) citing minimal role; charges stand against active accused (Nos.1-2); reliance on Duncans Agro Industries precedent for quashing post-compromise where societal harm is mitigated."
+}

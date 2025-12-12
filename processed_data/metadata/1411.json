@@ -1,0 +1,22 @@
+{
+  "case_number": "CA No. 901 of 2022 (Arising out of SLP (C) No. 9927 of 2020)",
+  "parties": {
+    "petitioner": "New Okhla Industrial Development Authority (NOIDA)",
+    "respondent": "Yunus & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-03",
+  "summary": "The key issue was whether an Award passed by a Lok Adalat under Section 20 of the Legal Services Authorities Act, 1987, based on a compromise, can serve as the basis for invoking Section 28A of the Land Acquisition Act, 1894, for redetermination of compensation. The High Court held that the Lok Adalat Award, being deemed a decree under Section 21 of the 1987 Act, enables similarly situated landowners to claim enhanced compensation. The appellant contended that Section 28A requires a judicial determination by a court under the 1894 Act, and that Lok Adalat Awards, being based on compromise, lack adjudicatory character. The respondents argued that the deeming fiction under Section 21 must be given full effect to ensure substantive justice and equality. The Supreme Court considered the scope of legal fictions, legislative intent behind Section 28A, and the binding nature of Lok Adalat Awards.",
+  "legal_provisions_cited": [
+    "Section 20, Legal Services Authorities Act, 1987",
+    "Section 21, Legal Services Authorities Act, 1987",
+    "Section 28A, Land Acquisition Act, 1894",
+    "Section 18, Land Acquisition Act, 1894",
+    "Article 136, Constitution of India",
+    "State of Punjab v. Jalour Singh",
+    "Government of India v. Vedanta Limited",
+    "Attar Singh v. Union of India",
+    "Tahera Khatoon (D) by LRs. v. State of Bihar"
+  ],
+  "final_judgment": "The Supreme Court upheld the High Court's judgment, holding that the Award of the Lok Adalat, being deemed a decree of a civil court under Section 21 of the Legal Services Authorities Act, 1987, can form the basis for invoking Section 28A of the Land Acquisition Act, 1894, thereby entitling similarly situated landowners to enhanced compensation."
+}

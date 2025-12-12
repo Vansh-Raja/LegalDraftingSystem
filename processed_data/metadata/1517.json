@@ -1,0 +1,21 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 923 OF 2022 (ARISING OUT OF SLP (CRL.) NO. 9470 OF 2021)",
+  "parties": {
+    "petitioner": "State of West Bengal",
+    "respondent": "Rakesh Singh @ Rakesh Kumar Singh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-11",
+  "summary": "The State of West Bengal appealed against the Calcutta High Court's bail order for the respondent accused under Sections 21(b)/29/27A of the NDPS Act. The prosecution alleged that the respondent financed the procurement of 76 grams of cocaine and conspired to plant it in a vehicle to frame others out of personal vendetta. Key evidence included witness statements, call records, CCTV footage, and recovery of a deleted hard disk. The High Court granted bail citing lack of direct recovery, contradictions in initial FIR and charge-sheet, and applicability of intermediate quantity thresholds under Section 37 NDPS Act. The Supreme Court, while noting the seriousness of accusations, upheld the bail considering the nature of evidence and procedural delays.",
+  "legal_provisions_cited": [
+    "Section 21(b)/29/27A of the Narcotic Drugs and Psychotropic Substances Act, 1985",
+    "Section 37 NDPS Act",
+    "Section 160 CrPC",
+    "Section 67 NDPS Act",
+    "Section 161 CrPC",
+    "Section 164 CrPC",
+    "Sections 353/506 IPC",
+    "Code of Criminal Procedure, 1973"
+  ],
+  "final_judgment": "Appeal dismissed; bail granted by High Court upheld with conditions."
+}

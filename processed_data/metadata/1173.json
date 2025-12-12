@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No(s). 290 of 2023",
+  "parties": {
+    "petitioner": "Union of India & Ors.",
+    "respondent": "Cosmo Films Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-28",
+  "summary": "The appeals challenged the Gujarat High Court's decision striking down a 'pre-import condition' in the Foreign Trade Policy (2015-2020) and Handbook of Procedures, which required import before export to claim IGST and GST compensation cess exemption under advance authorizations. The High Court held the condition arbitrary and unreasonable. The Union argued the condition was valid and necessary to prevent misuse, ensure revenue protection, and align with existing schemes; it emphasized that the condition applied irrespective of authorization date to benefit eligible importers. The issue centered on interpretation of Notification No. 79/2017-Customs and Notification No. 33/2015-2020, and whether prior export undermined the duty exemption scheme. The Revenue maintained that advance exports were permissible only at the importer’s risk and subject to compliance with all policy conditions.",
+  "legal_provisions_cited": [
+    "Foreign Trade (Development & Regulation) Act, 1992",
+    "Section 3(7) and Section 3(9) of The Customs Tariff Act, 1975",
+    "Foreign Trade Policy (2015-2020)",
+    "Handbook of Procedures 2015-2020",
+    "Notification No. 18 / 2015-Customs",
+    "Notification No. 79 / 2017-Customs",
+    "Notification No. 33 / 2015-2020"
+  ],
+  "final_judgment": "Pending"
+}

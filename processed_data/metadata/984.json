@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. 7934 of 2011; Civil Appeal Nos. 1258−1260 of 2019",
+  "parties": {
+    "petitioner": "M/s US Technologies International Pvt. Ltd.",
+    "respondent": "The Commissioner of Income Tax"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-10",
+  "summary": "Late remittance of TDS vs non-deduction; Section 271C penalty applicability; strict construction of penal provisions; distinction between 'fails to deduct' (s.271C) and 'fails to pay' (s.276B); belated remittance attracts s.201(1A) interest, not s.271C penalty; reasonable cause under s.273B; ITAT finding of reasonable cause for delay upheld; High Court interference impermissible; precedent set by Kerala High Court Full Bench in Lakshadweep Development Corporation case.",
+  "legal_provisions_cited": [
+    "Income Tax Act, 1961 s.201(1A)",
+    "Income Tax Act, 1961 s.271C",
+    "Income Tax Act, 1961 s.273B",
+    "Income Tax Act, 1961 s.276B"
+  ],
+  "final_judgment": "Appeals allowed; High Court judgment setting aside ITAT order set aside; s.271C penalty not applicable for belated TDS remittance; penalty set aside; only s.201(1A)-leviable interest applicable."
+}

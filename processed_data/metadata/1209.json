@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 1052 of 2022 (Arising out of SLP (Civil) No.9496 of 2020)",
+  "parties": {
+    "petitioner": "Ajanta LLP",
+    "respondent": "Casio Keisanki Kabushiki Kaisha d/b/a Casio Computer Co. Ltd. & Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-04",
+  "summary": "The appellant challenged the Delhi High Court's dismissal of its application under Sections 152 and 153 read with Section 151 of the CPC to correct a consent decree dated 03.07.2019. The decree, based on a settlement agreement, restricted the appellant from using the marks 'FX-991ES PLUS' and 'FX/991', but the appellant claimed a typographical error—intending to restrict only 'FX-991ES PLUS' and 'FX-991', not 'FX/991'. The appellant argued mutual misunderstanding and sought correction under inherent powers and Order 23 Rule 3 CPC. The respondents contended the decree was validly passed after judicial scrutiny, and consent decrees are binding unless vitiated by fraud, misrepresentation, or patent error. The Supreme Court examined email correspondence between counsels and noted inconsistencies in the use of hyphens vs. slashes, but upheld the finality of the consent decree as approved by the High Court after due examination.",
+  "legal_provisions_cited": [
+    "Section 152 CPC",
+    "Section 153 CPC",
+    "Section 151 CPC",
+    "Order 23 Rule 3 CPC",
+    "AIR 1954 SC 352",
+    "Byram Pestonji Gariwala v. Union Bank of India & Ors. (1992) 1 SCC 31",
+    "Compack Enterprises India Pvt. Ltd. v. Beant Singh (2021) 3 SCC 702",
+    "Sourendra Nath Mitra & Ors. v. Srimati Tarubala Dasi AIR 1930 PC 158"
+  ],
+  "final_judgment": "The appeal was dismissed. The Supreme Court upheld the Delhi High Court's refusal to amend the consent decree, holding that the settlement was duly scrutinized and no patent error or fraud was established."
+}

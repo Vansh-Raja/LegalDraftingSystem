@@ -1,0 +1,16 @@
+{
+  "case_number": "CIVIL APPEAL NO.6503 OF 2022",
+  "parties": {
+    "petitioner": "Jaipur Vidyut Vitran Nigam Ltd. & Ors.",
+    "respondent": "MB Power (Madhya Pradesh) Limited & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-01-08",
+  "summary": "The appeals challenge the Rajasthan High Court's judgment directing the appellants to purchase 906 MW of electricity from successful bidders, including 200 MW through PTC India from MB Power’s plant at Rs.5.517/kWh. The High Court mandated issuance of LoI and execution of PPA, subject to bank guarantees, with an interim tariff of Rs.2.88/kWh pending final determination in a related appeal. The Supreme Court examined compliance with Competitive Bidding Guidelines under Section 63 of the Electricity Act, 2003, and the legality of post-bid negotiations and quantum adjustments approved by the State Commission and modified by the government. Key issues included binding nature of bid results, tariff adoption, and procurement quantum based on state power demand assessments.",
+  "legal_provisions_cited": [
+    "Section 63 of the Electricity Act, 2003",
+    "Regulation 3 of the Power Procurement Regulations",
+    "RERC (Power Purchase & Procurement Process of Distribution Licensee) Regulations 2004, Regulation 7"
+  ],
+  "final_judgment": "The appeals were disposed of, upholding the High Court's directions subject to modifications, affirming the obligation to procure 906 MW, execution of PPA for 200 MW through PTC India, and adherence to the interim tariff pending final determination of the tariff in the pending civil appeal."
+}

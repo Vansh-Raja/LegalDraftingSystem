@@ -1,0 +1,18 @@
+{
+  "case_number": "2024 INSC 692",
+  "parties": {
+    "petitioner": "Kukreja Construction Company & Others",
+    "respondent": "State of Maharashtra & Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-09-13",
+  "summary": "The appeals challenged the Bombay High Court's judgments regarding the denial of 100% Transferable Development Rights (TDR) or Floor Space Index (FSI) to landowners who voluntarily constructed Development Plan Roads (DP Roads) and surrendered them to the Municipal Corporation. The key issue was whether the amendment to Regulation 34 of the Development Control Regulations (DCR) for Greater Bombay via notification dated 16.11.2016, which removed Appendix-VII and limited TDR entitlement, had retrospective effect. The Supreme Court examined the interpretation of Para 6 of Appendix-VII to DCR, as affirmed in Godrej & Boyce Manufacturing Co. Ltd. v. State of Maharashtra (2009), which held that constructing amenities entitled owners to 100% FSI/TDR. The appellants argued that the post-Godrej amendment could not retrospectively nullify vested rights. The Court considered whether the amendment applied retroactively and if it violated the principles established in Godrej & Boyce I and subsequent decisions like Natwar Parikh. The reasoning focused on statutory interpretation, vested rights, and the prospective versus retrospective application of regulatory changes. The outcome centered on protecting accrued rights under prior regulations.",
+  "legal_provisions_cited": [
+    "Section 126(1)(b) of the Maharashtra Regional and Town Planning Act, 1966",
+    "Regulation 33 and 34 of the Development Control Regulations (DCR) for Greater Bombay",
+    "Para 6 of Appendix-VII to DCR",
+    "Godrej & Boyce Manufacturing Company Limited vs. State of Maharashtra, (2009) 5 SCC 24",
+    "Municipal Corporation of Greater Bombay vs. Natwar Parikh & Co. Pvt. Ltd., Civil Appeal No.1748 of 2015"
+  ],
+  "final_judgment": "The appeals were allowed, holding that the amendment to Regulation 34 of the DCR via notification dated 16.11.2016 could not have retrospective effect and that the appellants were entitled to 100% TDR/FSI for constructing and surrendering amenities under the unamended provisions, in line with the decision in Godrej & Boyce I."
+}

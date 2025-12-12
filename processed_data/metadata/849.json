@@ -1,0 +1,20 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 1439 OF 2009",
+  "parties": {
+    "petitioner": "Boby",
+    "respondent": "State Of Kerala"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-12",
+  "summary": "Circumstantial evidence case; last-seen theory requires corroboration; disclosure statement recovery under Section 27 Evidence Act requires memorandum; prosecution failed to prove recovery of corpse beyond reasonable doubt; conviction based purely on last-seen theory unsustainable; discrepancies in witness statements; appeals from Courts below dismissed for appellants 1 and 3, allowed for appellant 2; standard: must be guilty not may be guilty.",
+  "legal_provisions_cited": [
+    "IPC s.302",
+    "IPC s.34",
+    "IPC s.364",
+    "IPC s.365",
+    "IPC s.395",
+    "Evidence Act s.27",
+    "Cr.P.C. s.313"
+  ],
+  "final_judgment": "Appeal allowed; conviction and sentence set aside; appellant Boby acquitted."
+}

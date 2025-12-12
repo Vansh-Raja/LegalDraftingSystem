@@ -1,0 +1,23 @@
+{
+  "case_number": "Criminal Appeal Nos. 694-695 of 2022 (Arising out of SLP (Crl) Nos. 5781-5782 of 2020)",
+  "parties": {
+    "petitioner": "Rathish Babu Unnikrishnan",
+    "respondent": "The State (Govt. of NCT of Delhi) & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-26",
+  "summary": "Challenge to the Delhi High Court's dismissal of a Section 482 Cr.P.C. petition seeking quashing of summoning and notice orders under Section 138 of the Negotiable Instruments Act. Appellant claimed cheques were issued as security for share buyback, not in discharge of a legally enforceable debt. Respondent argued legal presumption under Section 139 of the N.I. Act applied. Court held that factual disputes, including existence of debt or liability, must be resolved at trial; pre-trial quashing inappropriate where statutory presumptions support complaint. Relied on precedent affirming limited scope of Section 482 Cr.P.C. in criminal cases involving disputed facts.",
+  "legal_provisions_cited": [
+    "Section 138, Negotiable Instruments Act, 1881",
+    "Section 139, Negotiable Instruments Act, 1881",
+    "Section 482, Code of Criminal Procedure, 1973",
+    "Section 56(1), Companies Act, 2013",
+    "Form SH-4, Companies Act, 2013",
+    "HMT Watches Limited vs. M.A. Abida & Anr.",
+    "Rajiv Thapar & Ors. vs. Madan Lal Kapoor",
+    "M.M.T.C. Ltd. & Anr. vs. Medchl Chemicals and Pharma (P) Ltd. & Anr.",
+    "Rangappa vs. Sri Mohan",
+    "Rajeshbhai Muljibhai Patel vs. State of Gujarat"
+  ],
+  "final_judgment": "Appeal dismissed with liberty to appellant to raise his defence during trial; impugned orders of Delhi High Court upheld."
+}

@@ -16,11 +16,11 @@ from langchain_community.document_loaders import TextLoader
 from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_postgres.vectorstores import PGVector
-from langchain_ollama import OllamaEmbeddings
 from langchain_ollama import ChatOllama
 from langchain.chains import RetrievalQA
 from langchain_openai import ChatOpenAI
 from pydantic import BaseModel
+from models import get_embeddings
 
 
 # Load environment variables (e.g., OLLAMA_HOST, DB_* values) once at import time
@@ -440,6 +440,7 @@ def ingest_chunks_to_pgvector(
     chunks: List[Document],
     connection_string: str | None = None,
     embedding_model: str = "nomic-embed-text:latest",
+    embedding_provider: str | None = None,
     use_jsonb: bool = True,
     create_extension: bool = False,
 ) -> PGVector:
@@ -454,7 +455,7 @@ def ingest_chunks_to_pgvector(
     conn = connection_string or _get_pg_connection_string()
     # Filter out empty/whitespace-only chunks to avoid embedding errors
     non_empty_chunks = [d for d in chunks if (d.page_content or "").strip()]
-    embeddings = OllamaEmbeddings(model=embedding_model)
+    embeddings = get_embeddings(embedding_model, provider=embedding_provider)
     vectorstore = PGVector.from_documents(
         non_empty_chunks,
         embedding=embeddings,
@@ -470,6 +471,7 @@ def ingest_chunks_to_pgvector_batched(
     chunks: List[Document],
     connection_string: str | None = None,
     embedding_model: str = "nomic-embed-text:latest",
+    embedding_provider: str | None = None,
     use_jsonb: bool = True,
     create_extension: bool = False,
     batch_size: int = 128,
@@ -486,7 +488,7 @@ def ingest_chunks_to_pgvector_batched(
     conn = connection_string or _get_pg_connection_string()
     # Filter out empty/whitespace-only chunks
     non_empty = [d for d in chunks if (d.page_content or "").strip()]
-    embeddings = OllamaEmbeddings(model=embedding_model)
+    embeddings = get_embeddings(embedding_model, provider=embedding_provider)
 
     def _batches(items: List[Document]):
         for i in range(0, len(items), batch_size):
@@ -520,6 +522,7 @@ def ingest_chunks_to_pgvector_batched(
 def get_vectorstore(
     connection_string: str | None = None,
     embedding_model: str = "nomic-embed-text:latest",
+    embedding_provider: str | None = None,
     use_jsonb: bool = True,
     collection_name: str | None = None,
 ) -> PGVector:
@@ -529,7 +532,7 @@ def get_vectorstore(
     Use when an index/collection already exists, or to add/query documents.
     """
     conn = connection_string or _get_pg_connection_string()
-    embeddings = OllamaEmbeddings(model=embedding_model)
+    embeddings = get_embeddings(embedding_model, provider=embedding_provider)
     # When collection_name is None, default internal collection is used
     return PGVector(
         connection=conn,

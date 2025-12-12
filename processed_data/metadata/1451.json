@@ -1,0 +1,16 @@
+{
+  "case_number": "Criminal Appeal No. 25 of 2012",
+  "parties": {
+    "petitioner": "Ram Niwas",
+    "respondent": "The State of Haryana"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-11",
+  "summary": "The appeal challenged the conviction of Ram Niwas under Sections 302 and 201 IPC for murdering Dalip Singh and destroying evidence by burning the body. The prosecution relied on extra-judicial confession before PW9 and PW10, recovery of burnt remains, and smell of burning. Appellant contested identification of the body and credibility of witnesses, citing delay in reporting to police. The court examined forensic and testimonial evidence, including postmortem findings that the body was unrecognizable. It assessed reliability of witnesses and corroboration of confession under Section 27 Evidence Act.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 201 IPC",
+    "Section 27 Indian Evidence Act, 1872"
+  ],
+  "final_judgment": "Appeal dismissed; conviction and sentence under Sections 302 and 201 IPC upheld."
+}

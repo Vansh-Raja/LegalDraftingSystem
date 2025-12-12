@@ -1,0 +1,23 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 1693 OF 2022 [Arising out of SLP(Crl.) NO. 10353 OF 2018]",
+  "parties": {
+    "petitioner": "Anju Garg & Anr.",
+    "respondent": "Deepak Kumar Garg"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-28",
+  "summary": "The appeal challenged the dismissal of a maintenance petition under Section 125 Cr.P.C. by the Punjab and Haryana High Court, which had upheld the Family Court's refusal of maintenance to the wife and daughter while granting it to the son until age 18. The wife alleged cruelty, dowry demands, and desertion; the respondent denied these and questioned the paternity of the son. The Family Court dismissed the wife's and daughter's claims, citing unchallenged evidence, but denied cross-examination due to the respondent’s non-compliance. The Supreme Court examined whether the wife was justified in living separately, particularly in light of the husband's allegations against her chastity. It emphasized the social purpose of Section 125 Cr.P.C. to prevent destitution and ensure swift maintenance for deserted wives and children, citing precedents affirming the summary and protective nature of such proceedings.",
+  "legal_provisions_cited": [
+    "Section 125 of the Code of Criminal Procedure, 1973",
+    "Article 15(3) of the Constitution of India",
+    "Article 39 of the Constitution of India",
+    "Bhuwan Mohan Singh vs. Meena & Ors.",
+    "Dukhtar Jahan v. Mohd. Farooq",
+    "Vimala (K.) v. Veeraswamy (K.)",
+    "Kirtikant D. Vadodaria v. State of Gujarat",
+    "Chaturbhuj v. Sita Bai",
+    "Savitaben Somabhai Bhatiya v. State of Gujarat",
+    "Nagendrappa Natikar v. Neelamma"
+  ],
+  "final_judgment": "The Supreme Court set aside the orders of the Family Court and the High Court, holding that the appellant-wife was justified in living separately due to the respondent’s serious allegations against her character, and remanded the matter for reconsideration of her maintenance claim in accordance with law."
+}

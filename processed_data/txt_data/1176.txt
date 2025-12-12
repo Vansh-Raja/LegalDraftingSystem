@@ -1,0 +1,564 @@
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+Author: Sanjay Kishan Kaul
+
+Bench: B.V. Nagarathna, Abhay S. Oka, Sanjay Kishan Kaul
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO.447 OF 2023
+
+UNION OF INDIA & ORS.                                 …APPELLANTS
+
+Versus
+
+PARASHOTAM DASS                                       …RESPONDENT
+
+With
+C.A.No.457 of 2023 @ S.LP(C) No. 1788/2023
+C.A.No.1807 of 2023 @ SLP(C) No. 17320/2017
+C.A. No. 5327/2015
+C.A.No.449 of 2023 @ SLP(C) No. 20721/2015
+C.A.No.448 of 2023 @ SLP(C) No. 20499/2015
+C.A.No.450 of 2023 @ SLP(C) No. 26617/2015
+C.A.No.451of 2023 @ SLP(C) No. 26568/2015
+C.A.No.452 of 2023 @ SLP(C) No. 26620/2015
+C.A.No.483 of 2023 @ SLP(C) No. 36386/2015
+C.A.No.454 of 2023 @ SLP(C) No. 28101/2016
+C.A.No.453 of 2023 @ SLP(C) No. 5111/2016
+W.P.(C) No. 76/2016
+
+JUDGMENT
+
+SANJAY KISHAN KAUL, J.
+
+The prelude to the Armed Forces Tribunal Act, 2007:
+
+1. A large number of cases relating to service matters of members of the three-armed
+forces of the Union of India had been pending in Courts for a considerable period of
+time and, thus, the Central Government engaged in the question of constituting an
+independent adjudicatory forum for defence personnel. In 1982, the Supreme Court
+in Lt. Col.
+
+Prithi Pal Singh Bedi Etc. vs. Union of India & Others 1 had urged the Central Government to take
+steps to provide for at least one judicial review in service matters, and in 1992 the Estimate
+
+1
+
+Committee of Parliament in their 19th Report desired as much.
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+2. The then existing system of administration of justice in these armed services provided for the
+submission of statutory complaints against grievances relating to service matters and pre and post
+confirmation petitions to various authorities against the findings and sentences of courts-marital.
+The establishment of an independent Armed Forces Tribunal was, thus, conceived to fortify the trust
+and confidence amongst the members of the three services. A Bill was introduced to provide for
+judicial appeal on points of law and facts against verdicts of Court martial, the absence of which had
+led to adverse comments from this Court. On the Bill ultimately being passed, the Armed Forces
+Tribunal Act, 2007, (hereinafter referred to as the ‘said Act’) came into being with effect from
+15.06.2008 and saw some amendments subsequently.
+
+(1982) 3 SCC 140.
+
+Legal Conundrum:
+
+3. On the said Act coming into force, various issues arose during its implementation. One such issue
+which begs consideration before us is whether the order passed by the Armed Forces Tribunal would
+be amenable to challenge in the writ jurisdiction under Article 226 of the Constitution of India
+before any High Court. The issue needs consideration in a number of matters before us, and the
+decision on this proposition would result in certain consequential orders being passed in these
+different matters. Interestingly, in some of the matters including the lead matter, it appears that the
+objection to exercise jurisdiction under Article 226 of the Constitution of India before the High
+Court was not even raised, though that exercise is sought to be assailed before us. Submissions on
+behalf of the private parties:
+
+4. Mr. Arvind Datar, learned Senior counsel, and Mr. K. Parameshwar, learned counsel, led the
+arguments on behalf of the persons who were serving in different armed forces. They strongly
+contended that there could never be a bar to the exercise of jurisdiction under Article 226 of the
+Constitution of India by the High Court, albeit, sometimes, the High Court makes its discretion not
+to exercise its jurisdiction. They relied on a Constitution Bench of seven-Judges of this Court in L.
+Chandra Kumar v. Union of India & Others 2, which unequivocally opined that the power of judicial
+review under Article 226 is part of the basic structure of the Constitution and all the decisions of a
+tribunal, whether constituted under Article 323A3 or 323B4 of the Constitution, would be subject to
+the High Court’s writ jurisdiction under Article 226 of the Constitution.
+
+5. The discussion in the case of L. Chandra Kumar5 referred to the judgment of this Court in the
+seminal case of Kesavananda Bharti v. State of Kerala6 and many other subsequent judgments. It
+would be useful to extract the discussion in para 62 of L. Chandra Kumar7 as under:
+
+“62. In Kesvananda Bharati case, a thirteen-Judge Constitution Bench, by a majority
+of 7:6, held that though, by virtue of Article 368, Parliament is empowered to amend
+the Constitution, that power cannot be exercised so as to damage the basic features of
+the Constitution or to destroy its basic structure. The identification of the features
+
+2
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+which constitute the basic structure of our Constitution has been the subject-matter
+of great debate in Indian Constitutional Law. The difficulty is compounded by the fact
+that even the judgments for the (1997) 3 SCC 261.
+
+323A. Administrative tribunals.
+
+323B. Tribunals for other matters.
+
+(supra) AIR 1973 SC 1461 (supra) majority are not unanimously agreed on this aspect. [There were
+five judgments for the majority, delivered by Sikri, C.J., Shelat & Grover, JJ. Hegde & Mukherjee,
+JJ. Jaganmohan Reddy, J. and Khanna, J. While Khanna, J. did not attempt to catalogue the basic
+features, the identification of the basic features by the other Judges are specified in the following
+paras of the Court's judgments : Sikri, C.J. (para 292), Shelat and Grover, JJ. (para 582), Hegde and
+Mukherjee, JJ. (paras 632 &
+
+661) and Jaganmohan Reddy, J. (paras 1159, 1161)]. The aspect of judicial review does not find
+elaborate mention in all the majority judgments. Khanna, J. did, however, squarely address the
+issue (at para 1529):
+
+..The power of judicial review is, however, confined not merely to deciding whether in
+making the impugned laws the Central or State Legislatures have acted within the
+four corners of the legislative lists earmarked for them; the courts also deal with the
+question as to whether the laws are made in conformity with and not in violation of
+the other provisions of the Constitution... As long as some fundamental rights exist
+and are a part of the Constitution, the power of judicial review has also to be
+exercised with a view to see that the guarantees afforded by those rights are not
+contravened.... Judicial review has thus become an integral part of our constitutional
+system and a power has been vested in the High Courts and the Supreme Court to
+decide about the constitutional validity of provisions of statutes. If the provisions of
+the statute are found to be violative of any article of the Constitution, which is
+touchstone for the validity of all laws, the Supreme Court and the High Courts are
+empowered to strike down the said provisions.”
+
+6. It was further submitted that the exclusion of judicial review under Article 226 of the Constitution
+ought not to be countenanced because of lack of any viable alternative appeal mechanism. This, in
+turn, was based on: Firstly, Article 136(2) of the Constitution does not permit any Special Leave to
+Appeal to the Supreme Court against the order of a court or tribunal constituted by or under any law
+relating to the Armed Forces. Secondly, Section 31 of the said Act states that an appeal to this Court
+would only lie if “a point of law of general public importance” is involved.
+
+7. Thus, as most matters are personal to litigants being in the nature of service matters, and may not
+involve a point of law of “general public importance”, a litigant does not have any forum for
+grievance redressal, except the High Court under Article 226, which it can approach, aggrieved by an
+order of the Armed Forces Tribunal. Furthermore, the legislature was conscious of the seminality of
+
+3
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+the jurisdiction under Article 226 of the Constitution while drafting Section 14 of the said Act, which
+expressly saves the jurisdiction of the High Court from entertaining appeals arising from the Armed
+Forces Tribunal under Article 226 and Article 227 of the Constitution.
+
+8. Section 14(1) of the said Act reads as under.
+
+“14. Jurisdiction, powers and authority in service matters. – (1) Save as otherwise expressly
+provided in this Act, the Tribunal shall exercise, on and from the appointed day, all the jurisdiction,
+powers and authority, exercisable immediately before that day by all courts (except the Supreme
+Court or a High Court exercising jurisdiction under articles 226 and 227 of the Constitution) in
+relation to all service matters.”
+
+9. Learned counsels contended that Articles 226 and 227 of the Constitution are not in pari materia
+and, thus, the limitation imposed under Article 227(4) could not be extended to Article 226 of the
+Constitution. Article 227(4) begins with the phrase “Nothing in this Article ….....” implying that the
+embargo in the provision is only limited to that Article.
+
+10. It would be worthwhile to reproduce Article 227(4), which reads as under:
+
+227. Power of superintendence over all courts by the High Court – ......
+
+(4) Nothing in this article shall be deemed to confer on a High Court powers of superintendence
+over any court or tribunal constituted by or under any law relating to the Armed Forces.”
+
+11. Thus, even for the sake of argument, were it to be said that Article 227(4) takes away the power of
+superintendence of the High Court for matters emanating from courts-martial under Section 158 of
+the said Act, the same will not dilute the power of the High Courts under Article 226 even for
+matters dealing with courts-martial. In any case, the High Courts have been reluctant to entertain
+writ petitions against orders under Section 15 of the said Act, and have refused to become a court of
+second appeal.
+
+12. Learned counsels fortified their arguments on the basis of observations in S.N. Mukherjee v.
+Union of India9, more specifically paragraph 42, where the Supreme Court held that the High
+Courts, under Article 226, have the power of judicial review even in respect of courts- martial and
+the High Courts can grant appropriate relief “if the said proceedings have resulted in denial of the
+fundamental rights guaranteed under Part III of the Constitution or if the said proceedings suffer
+from a jurisdictional error or any error of law apparent on the face of the record.”
+
+13. In the aforesaid context, it was sought to be urged that the observations of a two-Judges’ Bench
+of this Court in Union of India & Jurisdiction, powers and authority in matters of appeal against
+court-martial (1990) 4 SCC 594 Ors. v. Major General Shri Kant Sharma & Anr. 10, was against the
+well-settled principle of law and established judicial precedent since that judgment sought to create
+a complete bar to the High Court’s power to review decisions arising from the Armed Forces
+Tribunal under Article 226 of the Constitution of India. Such a complete bar is contrary to the
+
+4
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+Constitution Bench decision of the Supreme Court in L. Chandra Kumar11 and S.N. Mukherjee12.
+What was significant, it was urged, that the decision in Major General Shri Kant Sharma & Anr. 13
+failed to consider that an aggrieved person in a service matter, if restrained from approaching the
+High Court, would be left with no legal recourse to approach any appellate authority, including the
+Supreme Court, since service matters are private in nature and do not involve “point of law of
+general public importance” under Section 31 of the said Act read with Article 136(2) of the
+Constitution.
+
+14. The view, thus, was stated to be in direct conflict with the observations of the seven-Judges’
+Bench in L. Chandra Kumar14 in para 79, which reads as under:-
+
+(2015) 6 SCC 773 (supra) (supra) (supra) (supra) “79. We also hold that the power
+vested in the High Courts to exercise judicial superintendence over the decisions of
+all courts and tribunals within their respective jurisdictions is also part of the basic
+structure of the Constitution. This is because a situation where the High Courts are
+divested of all other judicial functions apart from that of constitutional
+interpretation, is equally to be avoided.”
+
+15. Lastly, it was submitted that the issues are no more res integra in view of the recent Constitution
+Bench Judgment of five-Judges’ Bench of this Court in Rojer Mathew v. South Indian Bank Ltd. &
+Ors. 15 where in paragraph 215, following L. Chandra Kumar16, this Court settled that the writ
+jurisdiction under Article 226 does not limit the power of the High Court, expressly or by
+implication, against military or armed forces dispute and that the restriction under Article 227(4) is
+only qua administrative supervision by the High Courts and not qua judicial review. Para 215 reads
+as under:
+
+“215. It is hence clear post L. Chandra Kumar that writ jurisdiction under Article 226
+does not limit the powers of High Courts expressly or by implication against military
+or armed forces disputes. The limited ouster made by Article 227(4) only operates
+qua administrative supervision by the High Court and not judicial review. Article
+136(2) prohibits direct appeals before the Supreme Court from an order of armed
+forces tribunals, but would not prohibit an appeal to the Supreme Court against the
+judicial review exercised by the High Court under Article 226.” (2020) 6 SCC 1
+(supra) The pleas of Union of India and JAG Branch of the armed forces
+
+16. Mr. Sanjay Jain and Col. Balasubramanium sought to contend that the first half of Section 3(o)
+of the said Act is amenable to the jurisdiction of the Armed Forces Tribunal and the matters listed in
+the second half are not amenable to the jurisdiction of the Armed Forces Tribunal. Section 3(o)
+reads as under:
+
+“3. Definitions.- In this Act, unless the context otherwise requires, -
+
+..... ..... .... .... ....
+
+5
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+(o) “service matters”, in relation to the persons subject to the Army Act, 1950 (46 of
+1950), the Navy Act, 1957 (62 of 1957) and the Air Force Act, 1950 (45 of 1950), mean
+all matters relating to the conditions of their service and shall include-
+
+(i) remuneration (including allowances), pension and other retirement benefits;
+
+(ii) tenure, including commission, appointment, enrolment, probation, confirmation,
+seniority, training, promotion, reversion, premature retirement, superannuation,
+termination of service and penal deductions;
+
+(iii) summary disposal and trials where the punishment of dismissal is awarded;
+
+(iv) any other matter, whatsoever, but shall not include matters relating to-
+
+(i) orders issued under section 18 of the Army Act, 1950 (46 of 1950), sub-section (1)
+of section 15 of the Navy Act, 1957 (62 of 1957) and section 18 of the Air Force Act,
+1950 (45 of 1950); and
+
+(ii) transfers and postings including the change of place or unit on posting whether
+individually or as a part of unit, formation or ship in relation to the persons subject to
+the Army Act, 1950 (46 of 1950), the Navy Act, 1957 (62 of 1957) and the Air Force
+Act, 1950 (45 of 1950).
+
+(iii) leave of any kind;
+
+(iv) Summary Court Martial except where the punishment is of dismissal or
+imprisonment for more than three months;”
+
+17. The appellate mechanism is also stated to be provided under Sections 30 and 31 under Chapter V
+dealing with appeals of the said Act. Sections 30 and 31 read as under:
+
+“30. Appeal to the Supreme Court. - (1) Subject to the provisions of section 31, an
+appeal shall lie to the Supreme Court against the final decision or order of the
+Tribunal (other than an order passed under section 19):
+
+Provided that such appeal is preferred within a period of ninety days of the said
+decision or order:
+
+Provided further that there shall be no appeal against an interlocutory order of the
+Tribunal.
+
+(2) An appeal shall lie to the Supreme Court as of right from any order or decision of
+the Tribunal in the exercise of its jurisdiction to punish for contempt:
+
+6
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+Provided that an appeal under this sub-section shall be filed in the Supreme Court
+within sixty days from the date of the order appealed against.
+
+(3) Pending any appeal under sub-section (2), the Supreme Court may order that-
+
+(a) the execution of the punishment or the order appealed against be suspended; or
+
+(b) if the appellant is in confinement, he be released on bail:
+
+Provided that where an appellant satisfies the Tribunal that he intends to prefer an
+appeal, the Tribunal may also exercise any of the powers conferred under clause (a)
+or clause
+
+(b), as the case may be.
+
+.....                  .....
+.....
+
+31. Leave to appeal. - (1) An appeal to the Supreme Court shall lie with the leave of
+the Tribunal; and such leave shall not be granted unless it is certified by the Tribunal
+that a point of law of general public importance is involved in the decision, or it
+appears to the Supreme Court that the point is one which ought to be considered by
+that Court.
+
+(2) An application to the Tribunal for leave to appeal to the Supreme Court shall be made within a
+period of thirty days beginning with the date of the decision of the Tribunal and an application to
+the Supreme Court for leave shall be made within a period of thirty days beginning with the date on
+which the application for leave is refused by the Tribunal. (3) An appeal shall be treated as pending
+until any application for leave to appeal is disposed of and if leave to appeal is granted, until the
+appeal is disposed of; and an application for leave to appeal shall be treated as disposed of at the
+expiration of the time within which it might have been made, but it is not made within that time.”
+
+18. We must point out here that a reading of Section 30 would show that the appeal provision to the
+Supreme Court is subject to the provisions of Section 31. Such an appeal under Section 31 would lie
+with the leave of the Armed Forces Tribunal. The Armed Forces Tribunal shall not grant such leave
+unless it certifies that a point of law of general public importance is involved in the decision, or it
+appears to the Supreme Court that the point is one which is to be considered by the Court.
+
+19. There is, thus, no doubt that the appeal mechanism is restrictive in character, something which
+the Government counsels could not get away from. In the alternative, they urged that if this Court
+were to come to the conclusion that the High Court would have jurisdiction under Article 226
+emanating out of the orders passed by the Armed Forces Tribunal, then that exercise should be
+restrictive in character. Sections 30 and 31 of the said Act, and Article 136(2) of the Constitution,
+while dealing with leave to appeal, also put such a restriction.
+
+7
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+20. Learned counsel sought embargo from the High Court exercising jurisdiction under Article 226
+of the Constitution in the following cases:
+
+i) All cases related to Courts of Inquiry, Court(s) Martial, and Discipline;
+
+ii) All cases related to pension and other retirement benefits, tenure, promotion,
+retirement, administrative termination of service, such as in cases involving moral
+turpitude, and leave;
+
+iii) Matters pertaining to the Official Secrets Act; and
+
+iv) Cases relating to espionage/sabotage.
+
+21. The submission was that all disciplinary cases, including courts- martial, which may mandate
+re-appreciation of evidence may be kept out of the purview of the exercise of the High Court’s
+jurisdiction. The same may amount to a second criminal appeal.
+
+22. An additional plea was made that nothing said in the present judgment should be read as
+amounting to diluting the jurisdiction of the Supreme Court, which would remain intact. Thus, the
+observation, as regards adjudication of a certain category of matters in the writ jurisdiction of the
+High Court, was only to facilitate smoother administration of justice.
+
+23. Lastly, it was submitted that the nature of the Armed Forces Tribunal must be kept in mind,
+which is distinct from a normal administrative tribunal under Article 323A or other tribunals under
+Article 323B of the Constitution and, thus, the High Court should not in routine interfere with the
+orders of the Armed Forces Tribunal under Article 226 seeking to exercise the jurisdiction akin to
+say a Central Administrative Tribunal.
+
+Our observations:
+
+24. We have given thought to the matter, keeping in mind the last aspect emphasized by the learned
+Additional Solicitor General, dealing with the importance of the Armed Forces Tribunal, and its
+jurisdiction being distinct from other tribunals. We are conscious of the importance of the role
+performed by the Armed Forces and the discipline level required by these services. Thus, often many
+jurisprudential principles of other tribunals cannot be imported into the decisions of the Armed
+Forces Tribunal. The Armed Forces have their own rules and procedures, and if there is proper
+exercise of jurisdiction in accordance with the norms of the Armed Forces, the High Court or this
+Court have been circumspect in interfering with the same, keeping in mind the significance of the
+role performed by the Armed Forces.
+
+25. While we agree with the aforesaid principle, we are unable to appreciate the observations in the
+case of Major General Shri Kant Sharma & Anr.17, which sought to put an embargo on the exercise
+of jurisdiction under Article 226 of the Constitution, diluting a very significant provision of the
+Constitution which also forms the part of basic structure. The principles of basic structure have
+
+8
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+withstood the test of time and are emphasized in many judicial pronouncements as an ultimate test.
+This is not something that can be doubted. That being the position, the self-restraint of the High
+Court under Article 226 of the Constitution is distinct from putting an embargo on the High Court in
+exercising this jurisdiction under Article 226 of the Constitution while judicially reviewing a
+decision arising from an order of the Tribunal.
+
+(supra)
+
+26. On the legislature introducing the concept of “Tribunalisation” (one may say that this concept
+has seen many question marks vis-a-vis different tribunals, though it has also produced some
+successes), the same was tested in L. Chandra Kumar18 case before a Bench of seven Judges of this
+Court. Thus, while upholding the principles of “Tribunalisation” under Article 323A or Article 323B,
+the Bench was unequivocally of the view that decisions of Tribunals would be subject to the
+jurisdiction of the High Court under Article 226 of the Constitution, and would not be restricted by
+the 42nd Constitutional Amendment which introduced the aforesaid two Articles. In our view, this
+should have put the matter to rest, and no Bench of less than seven Judges could have doubted the
+proposition. The need for the observations in the five-Judges’ Bench in Rojer Mathew19 case qua
+the Armed Forces Tribunal really arose because of the observations made in Major General Shri
+Kant Sharma & Anr. 20 Thus, it is, reiterated and clarified that the power of the High Court under
+Article 226 of the Constitution is not inhibited, and superintendence and control under (supra)
+(supra) (supra) Article 227 of the Constitution are somewhat distinct from the powers of judicial
+review under Article 226 of the Constitution.
+
+27. We also find merit in the contention of the private parties that while the said Act was introduced
+keeping in mind the earlier observations of the Supreme Court inter alia in Lt. Col. Prithi Pal Singh
+Bedi21 case, all that has been provided is a single judicial review by the tribunal against the
+administrative/disciplinary decision as envisaged in the rules applicable to different Armed Forces.
+Section 31 of the said Act is undoubtedly restrictive in character as an appeal to the Supreme Court
+would only lie on a point of law of general public importance. There are, as urged by the learned
+counsels, a number of issues that cropped up, which are personal in character and do not raise
+issues of larger public importance.
+
+28. We can say with some experience of handling these matters in exercise of jurisdiction under
+Article 226, prior to the creation of the Armed Forces Tribunal, that there used to be a large number
+of pension matters. Persons who had served in the Armed Forces were left at bay at the stage of
+pension. This jurisdiction is also vested with the Armed Forces Tribunal. It would be difficult to say
+that there would be a larger (supra) public interest involved in a pension matter, but then, for that
+concerned person, it is of great importance. To deny the High Court to correct any error which the
+Armed Forces Tribunal may fall into, even in exercising jurisdiction under Article 226, would be
+against the constitutional scheme. The first independent judicial scrutiny is only by the Armed
+Forces Tribunal. To say that in some matters, a judicial scrutiny would amount to a second appeal,
+would not be the correct way to look at it. What should be kept in mind is that in administrative
+jurisprudence, at least two independent judicial scrutinies should not be denied, in our view. A High
+Court Judge has immense experience. In any exercise of jurisdiction under Article 226, the High
+
+9
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+Courts are quite conscious of the scope and nature of jurisdiction, which in turn would depend on
+the nature of the matter.
+
+29. We believe that there is no necessity to carve out certain cases from the scope of judicial review
+under Article 226 of the Constitution, as was suggested by the learned Additional Solicitor General.
+It was enunciated in the Constitution Bench judgment in S.N. Mukherjee22 case that even in respect
+of courts-martial, the High Court could grant appropriate relief in a certain scenario as envisaged
+therein, i.e., “if the (supra) said proceedings have resulted in denial of the fundamental rights
+guaranteed under Part III of the Constitution or if the said proceedings suffer from a jurisdictional
+error or any error of law apparent on the face of the record.”
+
+30. How can courts countenance a scenario where even in the aforesaid position, a party is left
+remediless? It would neither be legal nor appropriate for this Court to say something to the contrary
+or restrict the aforesaid observation enunciated in the Constitution Bench judgment in S.N.
+Mukherjee23 case. We would loath to carve out any exceptions, including the ones enumerated by
+the learned Additional Solicitor General extracted aforesaid as irrespective of the nature of the
+matter, if there is a denial of a fundamental right under Part III of the Constitution or there is a
+jurisdictional error or error apparent on the face of the record, the High Court can exercise its
+jurisdiction. There appears to be a misconception that the High Court would re-appreciate the
+evidence, thereby making it into a second appeal, etc. We believe that the High Courts are quite
+conscious of the parameters within which the jurisdiction is to be exercised, and those principles, in
+turn, are also already enunciated by this Court.
+
+(supra)
+
+31. We also fail to appreciate as to why there should be any apprehension of diluting the jurisdiction
+of the Supreme Court as envisaged under the Act or the constitutional scheme, based on
+observations made by us in the present judgment. Conclusion:
+
+32. We have, thus, no hesitation in concluding that the judgment in Major General Shri Kant
+Sharma & Anr. 24 case does not lay down the correct law and is in conflict with judgments of the
+Constitution Benches rendered prior and later to it, including in L. Chandra Kumar25 case, S.N.
+Mukherjee26 case, and Rojer Mathew27 case making it abundantly clear that there is no per se
+restriction on the exercise of power under Article 226 of the Constitution by the High Court.
+However, in respect of matters of self-discipline, the principles already stand enunciated.
+
+33. We having now dealt with the general propositions, turn to the individual cases as they may
+require different nature of orders. In fact, a list of the matters and the nature of orders solicited have
+also been set (supra) (supra) (supra) (supra) out by Mr. K. Parameshwar, learned counsel, and are
+being dealt with as follows:
+
+I. The first category of cases is one where the matters were heard on merits by the
+respective jurisdictional High Courts but were disposed of as not maintainable in
+view of the judgment in Major General Shri Kant Sharma & Anr. 28 case. These are
+
+10
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+not matters raising points of law of general public importance and would have to be
+examined on merits by each High Court under Article 226 of the Constitution. Thus,
+these matters are required to be remanded to the respective High Courts for a
+decision on merits. The case numbers and the name of the parties are as under:
+
+i. SLP(C) No.20721/2015 titled Daxina Kumari v. Union of India.
+
+ii. SLP(C) No.17320/2017 titled K.C. Shibu v.
+
+Union of India.
+
+iii. SLP(C) No.20499/2015 titled Krishna Nandan Mishra v. Union of India.
+
+(supra) iv. SLP(C) No.26617/2015 titled Nand Lal Verma v. Union of India.
+
+v. SLP(C) No.26568/2015 titled Randeep Singh Guleria v. Union of India.
+
+vi.    SLP(C) No.26620/2015 titled Gopi Ram v.
+
+Union of India.
+
+vii. SLP(C) No.36386/2015 titled Avi Chander Sud v. Union of India.
+
+viii. SLP(C) No.5111/2016 titled Gurcharan Singh v. Union of India; SLP (C) No.28101/2016 titled
+Nirmal Singh v. Union of India.
+
+ix. SLP(C) No.1788/2023 titled Davinder Singh v.
+
+Union of India.
+
+II. SLP(C) No.34797/2014 titled Union of India v. Parashotam Dass, which was filed by the Union of
+India on merits challenging the judgment of the High Court granting relief to the respondent. The
+matter would have to be considered by a two Judges Bench of this Court on merits.
+
+III. The Union of India in Civil Appeal No.5327/2015 titled Union of India v. Thomas Vaidyan M.,
+sought reference to a larger Bench as to, whether, a challenge would lie directly to this Court or only
+before the High Court. As petitions filed under Article 226 of the Constitution against orders of the
+Armed Forces Tribunal are held to be maintainable, this matter would also require to be remanded
+to the High Court to be decided on merits since it is a service matter personal to the litigant and
+does not involve a point of law of general public importance.
+
+IV. The vires of Sections 31 and 32 of the said Act were under challenge in WP(C) No.76/2016 titled
+Gurbux Singh Dhindsa v. Union of India, filed under Article 32 of the Constitution by the father of
+an Air Force officer who was killed in an operational area in J&K. He was claiming interest over the
+
+11
+
+Union Of India vs Parashotam Dass on 21 March, 2023
+
+relief granted by the Armed Forces Tribunal but could not have filed a direct appeal since the matter
+was personal to the litigant and did not involve any point of law of general public importance and
+High Courts were not entertaining matters in view of the judgment in Major General Shri Kant
+Sharma & Anr.29 case.
+
+It was submitted that prayer for declaring Sections 30 & 31 as ultra vires would not be pressed in
+case the writ jurisdiction under Article 226 is held to be maintainable and, thus, the prayer was to
+dispose of this matter with liberty to approach the High Court. We accept the plea and order
+accordingly.
+
+34. The larger question having been answered, the aforesaid individual matters shall be dealt with
+depending on the facts of each case, as per the aforesaid directions passed by us.
+
+35. The appeals and the writ petition are disposed of in the aforesaid terms leaving the parties to
+bear their own costs.
+
+...................……………………J. [Sanjay Kishan Kaul] (supra) ...................……………………J. [Abhay S.
+Oka] ....................……………………J. [B.V. Nagarathna] New Delhi.
+
+March 21, 2023.
+
+12

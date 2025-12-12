@@ -1,0 +1,16 @@
+{
+  "case_number": "Criminal Appeal No. 1217 of 2022",
+  "parties": {
+    "petitioner": "Kapil Gupta",
+    "respondent": "State of NCT of Delhi & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-10",
+  "summary": "The appeal challenged the Delhi High Court's dismissal of a petition to quash proceedings under Section 376 IPC (rape) arising from FIR No. 569/2020. The appellant and respondent had filed cross FIRs—rape and extortion—following a personal dispute. Both parties sought settlement. Though the offences were serious, the Supreme Court noted that the charges had not been framed, trial had not commenced, and the complainant (respondent No. 2) genuinely wished to end proceedings to avoid prolonged trauma. The Court emphasized that in early-stage cases, with voluntary settlement and no risk of injustice, quashing may be justified despite the seriousness of the charge, particularly to prevent further victimization. It relied on principles from Narender Singh v. State of Punjab regarding stage of proceedings and voluntariness of consent.",
+  "legal_provisions_cited": [
+    "Section 376 IPC",
+    "Section 482 Cr.P.C.",
+    "Narender Singh vs State of Punjab (2014) 6 SCC 466"
+  ],
+  "final_judgment": "The appeal was allowed; criminal proceedings arising from FIR No. 569/2020 (rape) and FIR No. 824/2020 (extortion) were quashed."
+}

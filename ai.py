@@ -138,6 +138,19 @@ def _is_empty_metadata(data: dict) -> bool:
         return False
 
 
+def _metadata_has_required_fields(data: dict) -> bool:
+    """
+    Ensure key fields are non-empty to guard against partial/empty responses.
+    Treat summary and final_judgment as required. legal_provisions_cited may be empty.
+    """
+    try:
+        summary_ok = bool((data.get("summary") or "").strip())
+        final_ok = bool((data.get("final_judgment") or "").strip())
+        return summary_ok and final_ok
+    except Exception:
+        return False
+
+
 def _extract_text_from_responses(resp) -> str:
     """
     Extract text content from OpenAI Responses API reply.
@@ -351,7 +364,10 @@ def extract_metadata_with_openrouter(text: str, model_override: str | None = Non
     return _ensure_json_dict("")
 
 
-def extract_metadata_with_openai_nano(text: str) -> dict:
+_OPENAI_NANO_MAX_CHARS_DEFAULT = 80000  # default char budget to stay well under context
+
+
+def extract_metadata_with_openai_nano(text: str, max_chars: int | None = None) -> dict:
     """
     Extract metadata using OpenAI's gpt-5-nano model (preferred method).
     
@@ -386,7 +402,12 @@ def extract_metadata_with_openai_nano(text: str) -> dict:
     )
     
     # Prepare user message
-    processed_text = _truncate_text(text)
+    if max_chars is None:
+        try:
+            max_chars = int(os.getenv("OPENAI_NANO_MAX_CHARS", _OPENAI_NANO_MAX_CHARS_DEFAULT))
+        except Exception:
+            max_chars = _OPENAI_NANO_MAX_CHARS_DEFAULT
+    processed_text = _truncate_text(text, max_chars=max_chars)
     user_msg = (
         "Extract the metadata for the following judgment. Return JSON only, matching the schema.\n\n"
         "Example JSON (follow format, adapt content):\n" + example_json + "\n\n"
@@ -403,7 +424,7 @@ def extract_metadata_with_openai_nano(text: str) -> dict:
             ],
             # Structured JSON output for Responses API
             text={"format": {"type": "json_object"}},
-            max_output_tokens=700,
+            max_output_tokens=1200,
         )
         content = _extract_text_from_responses(resp)
         
@@ -418,13 +439,6 @@ def extract_metadata_with_openai_nano(text: str) -> dict:
             )
             content = (resp_cc.choices[0].message.content or "")
 
-        # Debug: show raw model output for diagnostics
-        try:
-            preview = content[:800]
-            _log_debug(f"[DEBUG][OpenAI Nano] Raw reply preview (len={len(content)}):\n{preview}")
-        except Exception:
-            pass
-        
         parsed = _ensure_json_dict(content)
         if _is_empty_metadata(parsed):
             _log_debug("[DEBUG][OpenAI Nano] Parsed empty metadata. See raw preview above.")
@@ -559,8 +573,6 @@ def save_metadata_for_all_texts(
         return
 
     # Process files with progress bar
-    sleep_between_calls = throttle_seconds if backend == "openrouter" else 0.0
-
     total_files = len(pending_entries)
     processed_files = 0
 
@@ -574,17 +586,27 @@ def save_metadata_for_all_texts(
             
             metadata = None
             retries = 0
+            backend_in_use = backend
+            switched_backend = False
+
             while metadata is None:
                 try:
                     # Extract metadata using specified backend
-                    if backend == "ollama":
+                    if backend_in_use == "ollama":
                         candidate = extract_metadata_with_ollama(text, model=ollama_model or "qwen3:latest")
-                    elif backend == "openai_nano":
-                        candidate = extract_metadata_with_openai_nano(text)
+                    elif backend_in_use == "openai_nano":
+                        # Use a smaller truncation on later retries to improve robustness on large files
+                        truncate_steps = [
+                            int(os.getenv("OPENAI_NANO_MAX_CHARS", _OPENAI_NANO_MAX_CHARS_DEFAULT)),
+                            60000,
+                            40000,
+                        ]
+                        max_chars = truncate_steps[min(retries, len(truncate_steps) - 1)]
+                        candidate = extract_metadata_with_openai_nano(text, max_chars=max_chars)
                     else:
                         candidate = extract_metadata_with_openrouter(text, model_override=openrouter_model)
                 except RuntimeError as stop_exc:
-                    if str(stop_exc) == "OPENROUTER_RATE_LIMIT" and backend == "openrouter":
+                    if str(stop_exc) == "OPENROUTER_RATE_LIMIT" and backend_in_use == "openrouter":
                         retries += 1
                         if retries > max_rate_limit_retries:
                             print(
@@ -599,10 +621,22 @@ def save_metadata_for_all_texts(
                         )
                         time.sleep(wait_time)
                         continue
-                    print(f"Metadata extraction error for {name}: {stop_exc}. Stopping.")
+                    print(f"Metadata extraction error for {name}: {stop_exc}.")
+                    if backend_in_use == "openai_nano" and not switched_backend:
+                        print("Switching to OpenRouter backend after OpenAI Nano failures.")
+                        backend_in_use = "openrouter"
+                        retries = 0
+                        switched_backend = True
+                        continue
                     return
                 except Exception as e:
-                    print(f"Metadata extraction error for {name}: {e}. Stopping.")
+                    print(f"Metadata extraction error for {name}: {e}.")
+                    if backend_in_use == "openai_nano" and not switched_backend:
+                        print("Switching to OpenRouter backend after OpenAI Nano failures.")
+                        backend_in_use = "openrouter"
+                        retries = 0
+                        switched_backend = True
+                        continue
                     return
                 else:
                     metadata = candidate
@@ -613,11 +647,40 @@ def save_metadata_for_all_texts(
                 if not isinstance(metadata, dict) or _is_empty_metadata(metadata):
                     retries += 1
                     if retries > 3:
+                        if backend_in_use == "openai_nano" and not switched_backend:
+                            print("Switching to OpenRouter backend after OpenAI Nano returned empty metadata.")
+                            backend_in_use = "openrouter"
+                            retries = 0
+                            switched_backend = True
+                            metadata = None
+                            continue
                         print(
                             f"Received empty/invalid metadata for {name} after {retries} attempts. Stopping without writing JSON."
                         )
                         return
                     print(f"Empty metadata for {name}; retrying ({retries}/3) after short delay.")
+                    time.sleep(5)
+                    metadata = None
+                    continue
+
+                if not _metadata_has_required_fields(metadata):
+                    retries += 1
+                    if retries > 3:
+                        if backend_in_use == "openai_nano" and not switched_backend:
+                            print("Switching to OpenRouter backend after OpenAI Nano missing required fields.")
+                            backend_in_use = "openrouter"
+                            retries = 0
+                            switched_backend = True
+                            metadata = None
+                            continue
+                        print(
+                            f"Metadata missing required fields for {name} after {retries} attempts. Stopping without writing JSON."
+                        )
+                        return
+                    print(
+                        f"Metadata missing required fields (summary/final_judgment) for {name}; "
+                        f"retrying ({retries}/3) after short delay."
+                    )
                     time.sleep(5)
                     metadata = None
                     continue
@@ -646,6 +709,7 @@ def save_metadata_for_all_texts(
                 print(f"Failed to write metadata for {name}: {e}. Stopping.")
                 return
 
+            sleep_between_calls = throttle_seconds if backend_in_use == "openrouter" else 0.0
             if sleep_between_calls > 0:
                 time.sleep(sleep_between_calls)
 

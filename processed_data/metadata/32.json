@@ -1,0 +1,20 @@
+{
+  "case_number": "CIVIL APPEAL NO. OF 2025 (Arising out of SLP (C) No. 10338 of 2023)",
+  "parties": {
+    "petitioner": "Bernard Francis Joseph Vaz and Others",
+    "respondent": "Government of Karnataka and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2025-01-02",
+  "summary": "The appeal challenged the Karnataka High Court's dismissal of a writ appeal against the quashing of a 2019 compensation award for land acquired under the BMICP project. The appellants, landowners since 1995–97, argued that due to 18+ years of delay in compensation disbursement after possession was taken in 2005, compensation should be determined based on current market value or the date of the award, citing exceptional delay and principles from Ram Chand and Tukaram Kana Joshi. They also contended for application of the 2013 Land Acquisition Act. The High Court had quashed the 2019 award for postdating the preliminary notification to 2011, directing fresh awards. Issue: whether the writ appeal was premature and whether compensation should reflect current value due to inordinate delay.",
+  "legal_provisions_cited": [
+    "Section 28(1), Karnataka Industrial Areas Development Act, 1966",
+    "Section 30, KIAD Act",
+    "Land Acquisition Act, 1894",
+    "Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+    "Ram Chand and Others v. Union of India and Others, (1994) 1 SCC 44",
+    "Tukaram Kana Joshi and Others v. Maharashtra Industrial Development Corporation and Others, (2013) 1 SCC 353",
+    "Maharashtra State Road Transport Corporation v. State of Maharashtra and Others"
+  ],
+  "final_judgment": "Leave granted."
+}

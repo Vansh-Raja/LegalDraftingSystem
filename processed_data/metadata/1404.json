@@ -1,0 +1,18 @@
+{
+  "case_number": "Criminal Appeal Nos. 1001-1002 of 2022 @ Petitions for Special Leave to Appeal (Criminal) No. 6128-6129 OF 2021",
+  "parties": {
+    "petitioner": "Narcotics Control Bureau",
+    "respondent": "Mohit Agarwal"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-19",
+  "summary": "The Narcotics Control Bureau (NCB) challenged the Delhi High Court's grant of post-arrest bail to Mohit Agarwal in a case involving commercial quantity of narcotics under Sections 8/22 and 29 of the NDPS Act. The NCB argued that bail was impermissible under Section 37 of the NDPS Act due to the commercial nature of the drugs recovered based on the accused's disclosures, and that sufficient incriminating evidence existed. The respondent contended that no incriminating material was recovered from his premises, he retracted his statement under Section 67, and the High Court rightly considered absence of corroborative evidence and judicial precedent on admissibility of Section 67 statements. The Supreme Court examined the stringent bail conditions under Section 37, particularly the requirement of 'reasonable grounds' to believe innocence, and whether the High Court erred in relaxing these conditions.",
+  "legal_provisions_cited": [
+    "Section 37, Narcotic Drugs and Psychotropic Substances Act, 1985",
+    "Section 67, Narcotic Drugs and Psychotropic Substances Act, 1985",
+    "Section 439, Code of Criminal Procedure, 1973",
+    "Tofan Singh v. State of Tamil Nadu",
+    "Collector of Customs, New Delhi v. Ahmadalieva Nodira"
+  ],
+  "final_judgment": "The appeal was dismissed, and the bail granted by the Delhi High Court was upheld, as the High Court had appropriately considered the absence of material evidence beyond retracted statements and compliance with the twin conditions under Section 37 of the NDPS Act."
+}

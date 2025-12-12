@@ -1,0 +1,20 @@
+{
+  "case_number": "Special Leave Petition (Crl.) No.5191 of 2021",
+  "parties": {
+    "petitioner": "Satender Kumar Antil",
+    "respondent": "Central Bureau Of Investigation & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-11",
+  "summary": "The Supreme Court addressed the misuse of arrest and bail practices, particularly post-chargesheet, and issued comprehensive bail guidelines categorizing offenses to streamline bail decisions. Categories include: (A) offenses punishable with 7 years or less; (B) serious offenses punishable with life/death/imprisonment over 7 years; (C) offenses under special statutes with stringent bail conditions (e.g., NDPS, PMLA, UAPA); and (D) economic offenses not covered by special laws. The Court emphasized liberty, discouraged automatic arrests post-chargesheet, and clarified that non-cooperation or flight risk may justify custody. It also corrected prior reference to §45 of PMLA, struck down in prior judgments. The ruling aims to reduce undertrial incarceration and guide courts in bail decisions based on offense gravity, punishment severity, and accused conduct.",
+  "legal_provisions_cited": [
+    "Code of Criminal Procedure, Section 170",
+    "NDPS Act, Section 37",
+    "PMLA, Section 45",
+    "UAPA, Section 43D(5)",
+    "Companies Act, Section 212(6)",
+    "Siddharth vs. State of UP (2021) SCC Online SC 615",
+    "Sanjay Chandra vs. CBI (2012) 1 SCC 40"
+  ],
+  "final_judgment": "Bail guidelines were reaffirmed and clarified to prevent misuse of arrest and ensure liberty; special leave petition disposed of with directions to circulate guidelines to all courts."
+}

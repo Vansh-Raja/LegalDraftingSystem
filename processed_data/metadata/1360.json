@@ -1,0 +1,25 @@
+{
+  "case_number": "CIVIL APPEAL NO. 3795 OF 2014",
+  "parties": {
+    "petitioner": "M/S New Noble Educational Society",
+    "respondent": "The Chief Commissioner of Income Tax 1 and Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-19",
+  "summary": "The appeals challenged the rejection of registration under Section 10(23C)(vi) of the Income Tax Act, 1961, for exemption on grounds that the societies were not established 'solely' for educational purposes and were unregistered under the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act, 1987. The High Court held that 'solely' requires exclusive dedication to education without commercial intent, and that registration under the A.P. Charities Act was mandatory even if not explicitly required by the Income Tax Act. This Court examined the nature of educational activities, objects in the memorandum, and the applicability of state charity laws to determine eligibility for tax exemption.",
+  "legal_provisions_cited": [
+    "Section 10(23C)(vi), Income Tax Act, 1961",
+    "Section 2(15), Income Tax Act",
+    "Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act, 1987",
+    "Aditanar Educational Institution v. Addl. CIT, [1997] 224 ITR 310 (SC)",
+    "Pine-grove International Charitable Trust v. Union of India, [2010] 327 ITR 73 (P&H)",
+    "CIT v. Sorabji Nusserwanji Parekh, [1993] 201 ITR 939 (Guj)",
+    "Oxford University Press v. CIT, [2001] 247 ITR 658 (SC)",
+    "Vanita Vishram Trust v. Chief CIT, [2010] 327 ITR 121 (Bom)",
+    "American Hotel and Lodging Association Educational Institute, [2008] 301 ITR 86 (SC)",
+    "State of Bombay v. R.M.D. Chamarbaugwala, AIR 1957 SC 699",
+    "T.M.A. Pai Foundation v. State of Karnataka, (2002) 8 SCC 481",
+    "Islamic Academy of Education, (2003) 6 SCC 697"
+  ],
+  "final_jud policity": "Appeals allowed; the requirement of registration under the A.P. Charities Act as a precondition for tax exemption was struck down as ultra vires and not justified under the Income Tax Act; the condition that institutions must be established 'solely' for education was upheld, but remanded to assess whether appellants met that criterion based on their actual activities and constitution."
+}

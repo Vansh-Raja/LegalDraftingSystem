@@ -1,0 +1,20 @@
+{
+  "case_number": "CIVIL APPEAL NO(S). OF 2022 (@ SPECIAL LEAVE PETITION (CIVIL) NO(S). 12591-12596 OF 2020)",
+  "parties": {
+    "petitioner": "University Of Kerala And Ors. Etc.",
+    "respondent": "Merlin J.N. And Anr. Etc. Etc."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-17",
+  "summary": "The case involved the legality of Dr. M.S. Jayakumar's appointment as Lecturer in Sociology by the University of Kerala. The Kerala High Court had set aside the appointment, ruling that Dr. Jayakumar did not meet the UGC (Minimum Qualifications for Appointment of Teachers) Regulations, 2009/2010, as he obtained his Ph.D. before the implementation of the 2009 Ph.D. Regulations and thus was not exempt from the NET requirement. The Supreme Court considered whether the 2009/2010 UGC regulations applied retrospectively and whether Dr. Jayakumar, who completed his Ph.D. in 2006, could qualify for exemption. The Court examined amendments to UGC regulations from 2000 to 2016, including the UGC’s clarification in 2010 that candidates with Ph.D. registration or completion by 31.12.2009 were exempt from NET. The Court also analyzed the prospective application of the 2016 amendment, which recognized pre-2009 Ph.D. holders. The key issue was regulatory continuity and fairness in academic appointments.",
+  "legal_provisions_cited": [
+    "UGC (Minimum Qualifications for Appointment and Career Advancement of Teachers) Regulations, 2000",
+    "UGC (Minimum Standards and Procedure for Award of M.Phil / Ph.D. Degree) Regulations, 2009",
+    "UGC Regulations, 2010 (amendment)",
+    "UGC Regulations, 2016 (fourth amendment)",
+    "P. Suseela v. University Grants Commission, 2015 (8) SCC 129",
+    "Dr. D. Radhakrishnan Pillai v The Travancore Devaswom Board, 2016 (2) KLT 245",
+    "State of Madhya Pradesh v. Manoj Sharma, 2018 (3) SCC 329"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, holding that Dr. Jayakumar’s appointment was valid as the UGC’s 2009/2010 regulations were intended to be prospective, and UGC’s 2010 resolution clarified exemption for those with Ph.D. registration or completion by 31.12.2009. The Court found that the University had not adopted the 2009 regulations until 2013, and thus, at the time of appointment in 2012, Dr. Jayakumar was eligible under applicable norms. The High Court’s decision was set aside, and the appointment was upheld."
+}

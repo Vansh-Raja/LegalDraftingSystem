@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal Nos. 8934-8935 of 2022",
+  "parties": {
+    "petitioner": "Pramod Singh Kirar",
+    "respondent": "State of Madhya Pradesh & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-12-02",
+  "summary": "The appellant was denied appointment as Police Constable due to his prior involvement in a criminal case under Section 498A IPC, despite acquittal in 2006. He disclosed the case truthfully in his application. The High Court quashed the Single Judge's order directing appointment. The Supreme Court held that given the acquittal, the matrimonial nature of the case, no suppression, and lapse of time, the employer could not deny appointment solely on antecedents. Reliance on Avtar Singh and Anil Kanwariya was found inapplicable due to absence of suppression or conviction.",
+  "legal_provisions_cited": [
+    "Section 498A IPC",
+    "Avtar Singh Vs. Union of India & Ors.; (2016) 8 SCC 471",
+    "Rajasthan Rajya Vidyut Prasaran Nigam Limited and Anr. Vs. Anil Kanwariya; (2021) 10 SCC 136"
+  ],
+  "final_judgment": "Impugned judgment of the High Court set aside; Single Judge's order restored; appellant to be appointed as Constable within four weeks with benefits from date of actual appointment."
+}

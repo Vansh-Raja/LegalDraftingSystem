@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 249 of 2010",
+  "parties": {
+    "petitioner": "Azgar Barid (D) By Lrs. And Others",
+    "respondent": "Mazambi @ Pyaremabi And Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-21",
+  "summary": "Challenge to Karnataka High Court's 2009 judgment allowing respondents' appeal and restoring trial court's 1987 decree which granted partial partition; High Court divided properties among legal heirs of Mohiyuddin Pasha including respondents 3-8 while excluding plaintiffs 1-2 due to predeceasing lineage; appellant contested exclusion of non-appealing plaintiffs 4-8 and challenged High Court's framing of legal questions concerning factual determinations; Court upheld partition suit principles under CPC orders allowing relief for non-appealing plaintiffs and confirmed second appeals can examine factual perversity under Section 100 CPC.",
+  "legal_provisions_cited": [
+    "Section 100 of Code of Civil Procedure, 1908",
+    "Order 41 Rule 4 of Code of Civil Procedure",
+    "Order 41 Rule 33 of Code of Civil Procedure",
+    "Bhagwan Swaroop and Others v. Mool Chand and Others",
+    "Dr. P. Nalla Thampy Thera v. B.L. Shanker and Others",
+    "Chandramohan Ramchandra Patil and Others v. Bapu Koyappa Patil (Dead) Through LRs and Others",
+    "Municipal Committee, Hoshiarpur v. Punjab State Electricity Board and Others"
+  ],
+  "final_judgment": "Dismissed appeal maintaining High Court judgment requiring partition among specified heirs with shares allocated to plaintiff No.3 (1/8th), defendant No.1 (7/36th), plaintiff No.4 (7/36th), defendant No.8 (7/36th), plaintiff No.5 (7/72nd), plaintiff No.6 (7/72nd), plaintiff No.7 (7/72nd)"
+}

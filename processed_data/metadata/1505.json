@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 6954 of 2022",
+  "parties": {
+    "petitioner": "State Bank of India",
+    "respondent": "Arvindra Electronics Pvt. Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-11-04",
+  "summary": "The State Bank of India appealed against a High Court order granting Arvindra Electronics Pvt. Ltd. an additional six weeks to pay the balance amount (Rs. 2.02 crores with interest) under a 2017 OTS scheme. The Bank argued that the OTS was time-bound and non-extendable, and that the High Court overstepped its powers under Article 226 by modifying contractual terms, citing the binding precedent in Bijnor Urban Cooperative Bank Ltd. vs. Meenal Agarwal. The respondent countered that the Bank acted arbitrarily by granting extensions to similarly placed borrowers, violating principles of fairness and RBI guidelines, and relied on Sardar Associates vs. Punjab & Sind Bank to justify judicial extension. The appeal raised issues on the justiciability of OTS extensions, contractual sanctity, and arbitrariness in public lending. The Court ultimately set aside the High Court's order, holding that OTS schemes are not enforceable as rights and cannot be extended judicially, especially when contrary to scheme terms and subsequent binding precedent.",
+  "legal_provisions_cited": [
+    "Article 226 of the Constitution of India",
+    "Section 62 of the Indian Contract Act",
+    "Bijnor Urban Cooperative Bank Limited vs. Meenal Agarwal (2021) SCC Online SC 1255",
+    "Sardar Associates vs. Punjab & Sind Bank (2009) 8 SCC 257",
+    "Anu Bhalla and Another vs. District Magistrate, Pathankot and Another (2020 SCC Online P&H 4387)"
+  ],
+  "final_judgment": "The appeal was allowed, and the impugned judgment and order of the High Court granting six weeks' time for payment under the OTS scheme were set aside."
+}

@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal No 1441 of 2022",
+  "parties": {
+    "petitioner": "The State of Jharkhand",
+    "respondent": "Shailendra Kumar Rai @ Pandav Rai"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-31",
+  "summary": "The case involves a criminal appeal by the State of Jharkhand against the acquittal of the respondent by the Jharkhand High Court. The prosecution alleged that the respondent raped and set the victim on fire, leading to her death. Key issues included the admissibility and reliability of the dying declaration under Section 32(1) of the Indian Evidence Act, and whether the prosecution proved the charges beyond reasonable doubt. The prosecution relied on the dying declaration, medical evidence, and witness testimonies. The trial court convicted the respondent under Sections 302, 376, 341, and 448 IPC, but the High Court acquitted him. The Supreme Court examined the evidentiary value of the dying declaration and found it to be credible and corroborated, concluding that the prosecution's case was proved beyond reasonable doubt.",
+  "legal_provisions_cited": [
+    "Section 32(1) of the Indian Evidence Act, 1872",
+    "Section 302 IPC",
+    "Section 376 IPC",
+    "Section 341 IPC",
+    "Section 448 IPC",
+    "Section 307 IPC",
+    "Section 173 CrPC"
+  ],
+  "final_judgment": "The appeal was allowed, the High Court's judgment setting aside the conviction was set aside, and the conviction and sentence of life imprisonment by the Sessions Court were restored."
+}

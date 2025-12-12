@@ -1,0 +1,23 @@
+{
+  "case_number": "Civil Appeal Nos. 257-259 of 2022",
+  "parties": {
+    "petitioner": "Phoenix ARC Private Limited",
+    "respondent": "Vishwa Bharati Vidya Mandir & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-12",
+  "summary": "The appellant, Phoenix ARC Private Limited, challenged the Karnataka High Court's interim orders maintaining status quo on SARFAESI proceedings initiated for recovery of ~Rs.117 crores from defaulting borrowers. The borrowers, including respondent societies, had defaulted on loans from Saraswat Co-operative Bank, which assigned the NPAs to the appellant. After issuing a notice proposing possession under SARFAESI, the appellant's action was stayed by the High Court via writ petitions challenging the notice as non-compliant with Rule 8 of the Security Interest (Enforcement) Rules, 2002. The appellant contended that writ petitions against a private ARC are not maintainable under Article 226 and that remedy lies under Section 17 of the SARFAESI Act. The Supreme Court examined the maintainability of writ petitions against a private party in SARFAESI cases and whether the impugned notices complied with statutory requirements.",
+  "legal_provisions_cited": [
+    "Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, Section 13(2)",
+    "SARFAESI Act, Section 13(4)",
+    "SARFAESI Act, Section 17",
+    "Security Interest (Enforcement) Rules, 2002, Rule 8(1)",
+    "Security Interest (Enforcement) Rules, 2002, Rule 8(2)",
+    "Article 226 of the Constitution of India",
+    "United Bank of India Vs. Satyawati Tondon & Ors., (2010) 8 SCC 110",
+    "Kanaiyalal Lalchand Sachdev & Ors. Vs. State of Maharashtra & Ors., (2011) 2 SCC 782",
+    "General Manager, Sri Siddeshwara Cooperative Bank Limited & Anr. Vs. Ikbal & Ors., (2013) 10 SCC 83",
+    "Agarwal Tracom Private Limited Vs. Punjab National Bank"
+  ],
+  "final_judgment": "The Supreme Court held that writ petitions under Article 226 are not maintainable against a private Asset Reconstruction Company for actions taken under SARFAESI, especially when an efficacious remedy under Section 17 of the SARFAESI Act exists. The impugned interim orders of the High Court were set aside, and the writ petitions were dismissed, allowing the appellant to proceed with enforcement actions in accordance with law."
+}

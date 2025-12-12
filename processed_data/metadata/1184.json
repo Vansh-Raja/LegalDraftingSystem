@@ -1,0 +1,15 @@
+{
+  "case_number": "CIVIL APPEAL NOs. ____________ OF 2023 (Arising out of SLP(C) Nos. 12601-12602 of 2017)",
+  "parties": {
+    "petitioner": "Smt. Ved Kumari (Dead Through Her Legal Representative) Dr. Vijay Agarwal",
+    "respondent": "Municipal Corporation of Delhi Through Its Commissioner"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-08-24",
+  "summary": "The appellant, legal representative of deceased lessor, challenged the High Court's affirmation of the Executing Court's dismissal of execution proceedings for a decree of possession. The suit land was leased to the respondent for 10 years, which expired in 1983. The lessee continued possession and built a school. The Trial Court decreed possession in 1990, but execution failed due to resistance and subsequent claims by the respondent that third-party encroachers now occupy the land. The Executing Court dismissed the execution petition, holding the decree could not be executed against non-parties. The Supreme Court examined whether a judgment-debtor can avoid execution by allowing third-party encroachment and found the respondent, as a local authority, failed to discharge its duty to identify encroachers or protect the decretal property. The judgment emphasized Order XXI CPC as a complete code for execution, even against strangers.",
+  "legal_provisions_cited": [
+    "Order XXI Rules 97 to 101, Code of Civil Procedure, 1908",
+    "Section 14, Civil Procedure Code (implied)"
+  ],
+  "final_judgment": "The appeals were allowed. The judgment and orders of the High Court and Executing Court dismissing the execution petition were set aside. The matter was remanded to the Executing Court to proceed with execution of the decree in accordance with law, including identifying encroachers and taking necessary steps for delivery of vacant possession."
+}

@@ -1,0 +1,1924 @@
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh)
+Limited on 8 January, 2024
+
+Author: B.R. Gavai
+
+Bench: Prashant Kumar Mishra, B.R. Gavai
+
+ 2024 INSC 23                                                               REPORTABLE
+                                      IN THE SUPREME COURT OF INDIA
+                                       CIVIL APPELLATE JURISDICTION
+
+                                        CIVIL APPEAL NO.6503 OF 2022
+
+                         JAIPUR VIDYUT VITRAN
+                         NIGAM LTD. & ORS.                             ...APPELLANT (S)
+
+                                                     VERSUS
+                         MB POWER (MADHYA PRADESH) LIMITED
+                         & ORS.                          ...RESPONDENT (S)
+
+                                                    WITH
+                                        CIVIL APPEAL NO.6502 OF 2022
+                                        CIVIL APPEAL NO. 4612 OF 2023
+
+                                                  JUDGMENT
+
+B.R. GAVAI, J.
+
+CIVIL APPEAL NO. 6503 OF 2022 AND CIVIL APPEAL NO. 6502 OF 2022
+
+1. These appeals challenge the judgment and order dated 20th September 2021, passed by the
+Division Bench of the High Court of Judicature for Rajasthan, Bench at Jaipur, in D.B. Civil Writ
+Petition No. 14815 of 2020, thereby allowing the said writ petition filed by MB Power (Madhya
+Pradesh) Limited (hereinafter referred Date: 2024.01.08 10:52:18 IST Reason:
+
+to as “MB Power”), respondent No.1 herein. By the impugned judgment and order,
+the High Court held that the respondent Nos. 1 to 5 therein (appellants herein and
+the State of Rajasthan) are bound to purchase a total of 906 MW electricity from the
+successful bidders. It, therefore, directed the writ petitioner- MB Power (respondent
+No.1 herein) and respondent No.7 - PTC India Ltd. (hereinafter referred to as “PTC
+India”) in the said writ petition (respondent No.2 in the present appeals) to supply
+200 MW electricity to the respondents therein (appellants herein) within the limit of
+906 MW. It also directed the writ petitioner-
+
+MB Power and PTC India, respondent No.7 in the said writ petition, to file an
+appropriate application before the respondent Nos. 1 to 5 in the said writ petition,
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+1
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+within two weeks from the date of the order, complying with the necessary requisite
+conditions, including bank guarantee etc., as required in terms of the Request for
+Proposal (hereinafter referred to as “the RFP”).
+
+It further directed the respondent Nos. 1 to 5 in the said writ petition, for issuance of
+Letter of Intent (“LoI” for short) in respect of bid filed through PTC India for
+supplying 200 MW power from the power generating station of the writ petitioner i.e.
+MB Power at levelized tariff of Rs.5.517/Kwh, being in terms of their bid qualified by
+the Bid Evaluation Committee (“BEC” for short) and ranked L-7. It further directed
+the respondents No.1 to 5 in the said writ petition, to immediately within two weeks
+thereafter, execute the Power Purchase Agreement (“PPA” for short) with PTC India
+for procuring 200 MW power from the power generating station of MB Power, and
+then to start procuring power in accordance with law. As an interim measure, it
+directed that the tariff to be actually paid by the procurer-respondents before it, shall
+be the interim tariff i.e. Rs.2.88 per unit, as specified by this Court in its interim
+order dated 28th September 2020, passed in I.A. No.83693 of 2020 in Civil Appeal
+No.2721 of 2020. It further held that the final adoption of tariff to be paid to PTC
+India (respondent No.7 before it) under the PPA shall be subject to the final outcome
+of the said Civil Appeal No. 2721 of 2020, pending before this Court.
+
+BRIEF FACTS:
+
+2. The facts leading to the filing of these two appeals, as mentioned in Civil Appeal No. 6503 of
+2022, are as under:
+
+2.1 The Government of India vide Notification dated 19th January 2005, notified the
+Competitive Bidding Guidelines (hereinafter referred to as “the Bidding Guidelines”)
+under Section 63 of the Electricity Act, 2003 (hereinafter referred to as “the
+Electricity Act”). The objective of the said Bidding Guidelines is for introduction of
+competition and protection of consumer interest.
+
+2.2 On 21st September 2009, Rajasthan Rajya Vidyut Prasaran Nigam Limited
+(hereinafter referred to as “RVPN”) filed Petition No.205 of 2009 before the
+Rajasthan Electricity Regulatory Commission (hereinafter referred to as “the State
+Commission”) seeking approval for procurement of 1000 MW of power by a
+competitive bidding process.
+
+2.3 On 28th May 2012, RVPN issued an RFP, inviting sellers to participate in the
+competitive bidding for procurement of 1000 MW under the Bidding Guidelines.
+
+2.4 In the month of February 2013, bids were received from the bidders.
+
+2.5 On 4th April 2013, based on the preliminary evaluation of the non-financial bids
+by the BEC, 7 bidders were declared as qualified for opening of the financial bids. The
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+2
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+respondent No.1-
+
+MB Power herein was not a bidder in the above process. Respondent No.2-PTC India herein had
+submitted a bid for 1041 MW, which it was to procure from five different generators. PTC India is a
+power-trading licensee company, which had procured the bid document after depositing a Bid Bond.
+2.6 In the various meetings held between 17th April 2013 and 22nd April 2013, the BEC had placed
+the bids received in ascending order, from lowest to the highest tariff as follows:
+
+Average Levelized Cumulativ Qualified Capacity Cumulative Rank Tariff e Capacity
+Bidder Name Offered Tariff (Rs/kWh) Offered (Rs/ kWh) L-1 PTC – Maruti 4.517 195
+195 4.517 Clean Coal and Power Limited L-2 PTC – DB 4.811 311 506 4.698 Power
+Limited L-3 LPL – Lanco 4.943 100 606 4.738 Babandh Power Limited L-4 PTC –
+Athena 5.143 200 806 4.839 Chhattisgarh Power Ltd L-5 SKS Power 5.300 100 906
+4.890 Generation (Chhattisgarh) Limited L-6 LPL – Lanco 5.490 100 1006 4.949
+Vidarbha Thermal Power Limited L-7 PTC – MB 5.517 200 1206 5.043 Power
+(Madhya Pradesh) Ltd.
+
+L-8 KSK Mahanadi 5.572 475 1681 5.193 Power Company Limited L-9 Jindal Power
+6.038 300 1981 5.321 Limited L-10 LPL – Lanco 7.110 100 2081 5.407 Amarkantak
+Power Ltd 2.7 In the 216th Meeting of the Board of Directors of RVPN, it was decided
+to take an opinion from the BEC as to whether negotiations should be held to reduce
+tariff keeping in view of the long-term impact and quantum of the amounts involved.
+
+2.8 On 4th June 2013, the BEC gave its opinion that since the rates quoted vary
+considerably, negotiations could be held with the bidders.
+
+2.9 Vide Resolution dated 4th June 2013, the Board of the RVPN decided to hold
+negotiations with the qualified bidders.
+
+2.10 In the negotiations, the following offers were received:
+
+“ • L-1/Maruti Clean Coal & Power Ltd. offered an additional capacity of 55 MW,
+aggregating to a total of 250 MW.
+
+• L-2/DB Power Limited, inter-alia, agreed to provide additional quantum of power
+to the tune of 99 MW, aggregating to a total of 410 MW.
+
+• Similarly, L-3/Lanco Power Ltd. offered an additional capacity of 250 MW,
+aggregating to a total of 350 MW.” 2.11 The Board of Directors of the RVPN, in its
+meeting held on 27th September 2013, directed that, LoI be issued in favour of the
+L-1, L-2 and L-3 bidders as under, subject to the approval of the State Commission
+while adopting the tariff.
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+3
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+“S. Bidder Quoted Capacity Additional No. Tariff offered in Capacity (Rs. / Bid (MW) Offered kWh)
+(MW) (through developer M/s Maruti Clean Coal and Power Limited) (through their developer M/s
+DB Power Limited)4.811 Limited (Generation Source – M/s Lanco Babandh Power Limited) Total
+606 404 G. Total (A+B) 1010 MW” 2.12 In consonance with the LoI, on 1st November 2013, PPAs
+were signed with the L-1, L-2 and L-3 bidders. Thereafter, RVPN filed Petition No.431 of 2013
+before the State Commission under Section 63 of the Electricity Act read with clause 5.16 of the
+Bidding Guidelines for adoption of tariff for purchase of long-term base load power of 1000 MW
+(±10%) as quoted by the successful bidders (being L-1, L-2 and L-3) under the Case-I bidding
+process.
+
+2.13 The Energy Assessment Committee (“EAC” for short), constituted by the Government of
+Rajasthan pursuant to Regulation 3 of the Power Procurement Regulations, in its 4th meeting held
+on 29th January 2014, recommended that there was no requirement for long term procurement of
+1000 MW (±10%) power under Case-I for which PPAs had been executed and tariff adoption
+petition had been filed before the State Commission. 2.14 In the meantime, the L-4 and L-5 bidders
+filed Writ Petitions being CWP No. 19437 of 2013 and CWP No.18699 of 2013 respectively, before
+the High Court, seeking to strike down the negotiations process and the higher quantum awarded to
+L-1, L- 2 and L-3 bidders.
+
+2.15 The High Court vide judgment dated 7th February 2014, refused to entertain the writ petitions
+and relegated the parties to the State Commission. The said order dated 7th February 2014 came to
+be challenged by the L-4 and L-5 bidders by way of writ appeals being DB Special Appeals (Writ)
+Nos. 538 of 2014 and 604 of 2014. The said appeals also came to be dismissed by the High Court
+vide judgment and order dated 18th April 2014. 2.16 Subsequently, in its 5th meeting held on 21st
+May 2014, the EAC recommended that as against the quantum of 1000 MW power, for which PPAs
+had been executed and tariff adoption petition had been filed, a demand of 600 MW power ought to
+be considered, on account of availability of power from various sources and to meet future
+contingencies. 2.17 The Government of Rajasthan, therefore, vide its letter dated 25th July 2014,
+issued to the RVPN, approved the purchase of a quantum of 500 MW power on long term basis as
+against the quantum of 1000 MW for which PPAs had already been executed. 2.18 On the basis of
+the decision/recommendation of the EAC and the direction issued by the Government of Rajasthan,
+RVPN filed an application under Regulation 7 of the RERC (Power Purchase & Procurement Process
+of Distribution Licensee) Regulations 2004 (hereinafter referred to as “RERC Regulations 2004”) in
+Petition No.431 of 2013, to bring on record the EAC decision/recommendation and the Government
+of Rajasthan approval. In the said application, inter alia, it was prayed for adoption of tariff and
+approval of the reduced quantum of 500 MW of power to be purchased as against the original 1000
+MW of power for which PPAs had already been executed with the successful bidders.
+
+2.19 Vide order dated 22nd July 2015 in Petition No.431 of 2013, the State Commission held that the
+quantum of only 500 MW power was liable to be approved considering the demand in the State as
+recommended by the EAC. The State Commission also approved the tariff quoted by the L-1 to L-3
+bidders. 2.20 Aggrieved by the reduction of quantum by the State Commission, the L-2 and L-3
+bidders preferred appeals before the learned Appellate Tribunal for Electricity (hereinafter referred
+to as “the learned APTEL”) being Appeal Nos. 235 of 2015 and 191 of 2015 respectively.
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+4
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+2.21 Two separate appeals were also preferred by the L-4 and L- 5 bidders, being Appeal No. 264 of
+2015 and Appeal No. 202 of 2015 respectively, wherein apart from challenging the reduction of
+quantum by the State Commission from 1000 MW to 500 MW, the increase in quantum granted to
+the L-1, L-2 and L-3 bidders was also challenged.
+
+2.22 Vide order dated 2nd February 2018, the learned APTEL allowed the Appeal Nos. 191 of 2015
+and 235 of 2015, filed by the L-3 and L-2 bidders, holding that the reduction of quantum by the
+State Commission from 1000 MW to 500 MW was incorrect. It, therefore, directed the State
+Commission to pass consequential orders for approving the PPAs for the L-2 and L-3 bidders for the
+higher quantum which was negotiated. 2.23 The order of the learned APTEL dated 2nd February
+2018, was challenged by the present appellants before this Court by way of Civil Appeal Nos.
+3481-3482 of 2018, on the ground that the RFP quantum cannot be restored from 500 MW to 1000
+MW. Subsequently, Civil Appeal Nos. 2502-2503 of 2018 also came to be filed by L-5 bidder- SKS
+Power Generation (Chhattisgarh) Limited (hereinafter referred to as “SKS Power”), on the ground
+that the State Commission could not have permitted the procurement of higher quantum by the L-2
+and L-3 bidders. 2.24 Vide order dated 25th April 2018, the said Civil Appeals were disposed of by
+this Court, upholding the decision of the learned APTEL, setting aside the reduction of quantum of
+procurement from 1000 MW to 500 MW after the bidding process was over. However, this Court
+held that the decision of the learned APTEL on the quantum to be procured from individual bidders
+was liable to be reversed and that the quantum originally offered by the bidders in the bidding
+process has to be taken into consideration and increase in quantum by means of negotiation was not
+permissible. Insofar as L-4 and L-5 bidders are concerned, since the tariff quoted was not
+considered at any stage by either the procurer, or by RVPN or by the State Commission, this Court
+directed the State Commission to go into the issue of approval for adoption of tariff with regard to
+L-4 and L-5 bidders. 2.25 Subsequent to the judgment and order dated 25th April 2018, passed by
+this Court, the BEC came to a finding that the tariffs quoted by the L-4 and L-5 bidders were not
+aligned to the prevailing market prices.
+
+2.26 In the meantime, vide order dated 19th November 2018, this Court, on an application filed by
+RVPN, directed the State Commission to go into the issue of adoption of tariff in terms of Section 63
+of the Electricity Act and the law laid down by this Court under the said provision.
+
+2.27 Vide order dated 26th February 2019, the State Commission held that the tariffs offered by the
+L-4 and L-5 bidders were not aligned to the prevailing market prices. 2.28 Being aggrieved by the
+same, SKS Power (L-5 bidder) challenged the above order dated 26th February 2019 before the
+learned APTEL by way of Appeal No.224 of 2019. 2.29 Vide the judgment and order dated 3rd
+February 2020, the learned APTEL allowed the appeal of the L-5 bidder – SKS Power and held that
+the State Commission had to necessarily adopt the tariff, and had no power to consider whether the
+tariff was aligned to market prices.
+
+2.30 Aggrieved by the same, the present appellants have filed Civil Appeal No. 1937 of 2020 and
+Civil Appeal No.2721 of 2020. Initially, the present appeals were tagged along with the said appeals.
+However, vide order dated 10th October 2023, the same have been de-tagged.
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+5
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+2.31 On an interlocutory application being I.A. No.83693 of 2020 filed by L-5 bidder-SKS Power in
+Civil Appeal No. 2721 of 2020, an interim order 28th September 2020, came to be passed by this
+Court, holding that the L-5 bidder was entitled to supply power to the appellants at the tariff of
+Rs.2.88 per unit. 2.32 It appears that subsequently thereafter on 14th December 2020, a writ
+petition being Writ Petition No. 14815 of 2020 came to be filed by the respondent No.1-MB Power
+before the High Court, seeking following relief:
+
+"(a) Issue appropriate Writ or order or direction in the nature of declaration or
+certiorari or any other writ or direction declaring Rule 69(2)(b) of the RTPP Rules as
+ultra vires Article 14, 19(1)(g) and 21 of the Constitution of India as well as Section 63
+of the Electricity Act, 2003;
+
+(b) Issue appropriate Writ or order or direction in the nature of mandamus directing
+the Respondent Nos. 1-4 to immediately issue a Letter of Intent in favour of the
+Petitioner, sign the power Purchase Agreement with the Petitioner as per its bid
+tariff, take steps for adoption of tariff of the Petitioner and immediately commence
+supply of power;
+
+(c) Pass such further order(s) as this Hon'ble Court may deem fit and proper in the
+facts and circumstances of the instant case in the interest of justice.” 2.33 In the
+appeals filed by the present appellants, i.e., Civil Appeal Nos. 1937 of 2020 and 2721
+of 2020, respondent No.1-
+
+MB Power filed an application for impleadment, on the ground that the issue of role of the State
+Commission in adoption of tariff being decided by this Court in the said appeals would have an
+impact on the writ petition filed by it before the High Court. 2.34 Vide order dated 19th April 2021,
+this Court directed the said application for impleadment to be considered at the stage of hearing of
+the said appeals.
+
+2.35 By the impugned judgment and order, the said writ petition filed by MB Power has been
+allowed by the High Court in terms of the aforesaid directions.
+
+2.36 Hence the present appeals.
+
+CIVIL APPEAL NO. 4612 OF 2023
+
+3. This appeal filed by Rajasthan Urja Vikas Nigam Limited (hereinafter referred to as “RUVNL”)
+challenges the order dated 1st June 2023, passed by the learned APTEL, whereby the learned
+APTEL has stayed the operation of the order dated 31 st March 2023, passed by the State
+Commission in Petition No.RERC-2097 of 2023.
+
+4. The facts, in brief, leading to the filing of Civil Appeal No.4612 of 2023, are as under:
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+6
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+4.1 In the year 2022, the RUVNL had proposed the procurement of 294 MW of power
+on long term basis and for that purpose had filed Petition No.2017 of 2022 before the
+State Commission.
+
+4.2 Vide order dated 2nd November 2022, the State Commission rejected the
+procurement of power on long term basis.
+
+4.3 Thereafter, considering the assessment and requirement of power, the RUVNL
+filed Petition No.RERC-2097 of 2023 before the State Commission, seeking approval
+for procurement of 160 MW of power on medium term basis i.e., for a period of 5
+years and not for 25 years on long term basis.
+
+4.4 Vide order dated 31st March 2023, the State Commission granted approval to the
+distribution licensees in the State of Rajasthan for procurement of 160 MW
+round-the-clock fuel agnostic power on medium term basis by way of a competitive
+bidding process.
+
+4.5 Aggrieved thereby, the respondent No.1 herein, i.e., MB Power (Madhya Pradesh)
+Limited filed Appeal No. 466 of 2023 before the learned APTEL against the order
+dated 31 st March 2023 passed by the State Commission, along with I.A. No.1004 of
+2023 for the stay of the order.
+
+4.6 Vide impugned order dated 1st June 2023, the learned APTEL stayed operation of
+the order passed by the State Commission and directed that in the bidding process
+for procurement of 160 MW of power on medium term basis the bid shall neither be
+finalized nor shall any Letter of Intent be issued pursuant to the opening of the bids.
+
+4.7 Aggrieved thereby, the RUVNL has filed the present appeal.
+
+5. Vide order dated 26th September 2023, this Court had permitted the appellant to
+proceed further with the tender process for procurement of 160 MW of power for 5
+years on the basis of model bidding documents for medium term procurement.
+
+6. Vide order dated 10th October 2023, this Court had been informed that pursuant
+to the aforesaid order dated 26th September 2023, bids had been opened and the
+lowest bid was at Rs.5.30 per unit. As a result, this Court had clarified that the
+pendency of the present appeal would not come in the way of the appellant in
+finalizing the tender and executing power purchase agreement with the successful
+bidders and the appellant would be at liberty to do so in order to overcome the
+difficulty of power shortage.
+
+7. The order of the learned APTEL dated 1st June 2023 basically relies on the
+judgment of the Division Bench of the High Court of Judicature for Rajasthan, bench
+at Jaipur, passed in D.B. Civil Writ Petition No. 14815 of 2020, which is a subject
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+7
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+matter of challenge in Civil Appeal Nos. 6503 of 2022 and 6502 of 2022. As such, the
+result of Civil Appeal No.4612 of 2023 would depend upon the outcome of Civil
+Appeal Nos. 6503 of 2022 and 6502 of 2022.
+
+SUBMISSIONS OF THE APPELLANTS
+
+8. We have heard Shri P. Chidambaram, learned Senior Counsel appearing for the appellants, and
+Dr. A.M. Singhvi and Shri C.S. Vaidyanathan, learned Senior Counsel appearing for the
+respondents.
+
+9. Shri Chidambaram, at the outset, submits that the writ petition, filed by the respondent No.1-MB
+Power, was not maintainable before the High Court in its original jurisdiction under Article 226 of
+the Constitution of India. It is submitted that, if the respondent No.1-MB Power had any grievance,
+it could have either approached the State Commission or the learned APTEL.
+
+10. He submits that this Court in the case of PTC India Limited v. Central Electricity Regulatory
+Commission, Through Secretary1 has held that the Electricity Act is an exhaustive code on all
+matters concerning electricity. The Electricity Act provides for the forum for adjudication of all
+disputes between a generator and the procurer/licensee. As such, the respondent No.1-MB Power, if
+had any grievance, ought to have filed an application before the State Commission or the 1 (2010) 4
+SCC 603=2010 INSC 146 learned APTEL and it could not have approached the High Court directly
+in its writ jurisdiction.
+
+11. Shri Chidambaram further submitted that though L-1 to L-5 bidders have continuously been
+litigating their grievances from 2013 onwards, the respondent No.1-MB Power, since it was not
+short-listed, had taken no steps from 2013 onwards. It is submitted that, as a matter of fact, the bid
+of L-7 bidder was returned and on 6th January 2015, the Bid Bond bank guarantee was also directed
+to be not extended. Still, it kept silent for about 6 years. He further submits that even after the
+judgment and order was passed by this Court on 25th April 2018, respondent No.1-MB Power did
+not take any steps for about two years, and for the first time, on 14th December 2020, it filed a writ
+petition before the High Court. As such, it is clear that the respondent No.1-MB Power had
+acquiesced the direction by the appellants dated 6th January 2015 not to renew the Bid Bond bank
+guarantee. Shri Chidambaram, therefore, submits that the writ petition was liable to be dismissed
+on the ground of delay and laches itself.
+
+12. Shri Chidambaram further submits that the term “successful bidder” has been defined in the
+RFP. It is submitted that the bidder(s) selected by the procurer/authorized representative, pursuant
+to the RFP for supply of power by itself or through the project company as per the terms of the RFP,
+and to whom a LoI has been issued, can only be termed as the “successful bidder”. Since no LoI was
+issued to the respondent No.1-MB Power, it could not be construed as a “successful bidder”.
+
+13. Shri Chidambaram submits that the theory of “filling the bucket”, as put forth by the respondent
+No.1-MB Power, has no basis either in the RFP or in the Bidding Guidelines. It is further submitted
+that the said theory is a dangerous proposition inasmuch as, it is expected that the procurer would
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+8
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+be obliged to accept the bids of lower ranked financial bids, irrespective of the exorbitant tariff
+quoted by them. Shri Chidambaram has given an illustration to that effect that, if in a bid to procure
+1000 MW, 2 bidders can be put forward as stalking horses who would bid lower tariffs and are
+ranked as L-1 and L-2. Thereafter, L-3 onwards can quote exorbitant tariffs which are not aligned to
+market prices. He submits that this specious theory of “filling the bucket”, which would oblige the
+procurer to go to the last bidder, irrespective of their tariffs being completely exorbitant, is very
+dangerous. It is submitted that, in any case, clause 3.5.12 of the RFP enables the procurer to reject
+any bid where the quoted tariff is not aligned to market prices.
+
+14. Shri Chidambaram further submits that the directions issued by this Court vide order dated 25th
+April 2018, were specifically restricted to L-1 to L-5 bidders, which were litigating. It is submitted
+that the contention of the respondent No.1-MB Power that the order of this Court dated 25th April
+2018 was an order in rem is erroneous.
+
+15. Relying on the judgment of this Court in the case of R. Viswanathan and others v. Rukn-ul-Mulk
+Syed Abdul Wajid since deceased and others2, Shri Chidambaram submits that the judgment in rem
+settles the destiny of the res itself. Whereas an order in personam determines the rights of persons
+before the Court and binds only the parties to the lis. Reliance in this 2 (1963) 3 SCR 22=AIR 1963
+SC 1=1962 INSC 205 respect is also placed on the judgment of this Court in the case of Deccan Paper
+Mills Company Limited v. Regency Mahavir Properties & Ors.3
+
+16. Shri Chidambaram further submits that the reliance by the respondents on the certificate, which
+certified the bid evaluation process was carried out in conformity with the provisions of the RFP,
+and, therefore, it is not permissible to go into the determination of tariff is incorrect. He submits
+that the certificate is not certifying that L-7 was qualified to be selected as a “successful bidder” or it
+had earned a right to have his bid accepted irrespective of the quoted tariff. He submits that if the
+quoted tariff of L-4 bidder of Rs.5.143 and L-5 bidder of Rs.5.300 were misaligned, then, most
+certainly, the quoted tariff of L-7 bidder of Rs.5.517 was also misaligned.
+
+17. The learned Senior Counsel submits that the jurisdiction under Section 63 of the Electricity Act
+is not that of a mere post office. The State Commission has a power to reject the adoption of tariff if
+it is not aligned to market prices. In this respect, he (2021) 4 SCC 786=2020 INSC 497 refers to the
+judgments of this Court in the cases of Tata Power Company Limited Transmission v. Maharashtra
+Electricity Regulatory Commission & Ors.4 and Energy Watchdog v. Central Electricity Regulatory
+Commission and others5.
+
+18. Shri Chidambaram submits that the State Commission while adopting the tariff is bound to take
+into consideration the protection of consumer interest. Reliance in this respect has been placed on
+the judgment of this Court in the case of GMR Warora Energy Limited v. Central Electricity
+Regulatory Commission (CERC) & Ors.6, wherein this Court has emphasized the need for balancing
+the interest of the consumers with that of the generators.
+
+19. Shri Chidambaram further submits that in view of clauses 2.15.1 and 3.5.12 of the RFP and clause
+5.15 of the Bidding Guidelines, the appellants had the power to reject all price bids if the rates
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+9
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+quoted are not aligned to the prevailing market prices.
+
+20. Shri Chidambaram lastly submitted that the bidders have no vested right to contract. Article 226
+of the Constitution of 2022 SCC Online 1615=2022 INSC 1220 (2017) 14 SCC 80=2017 INSC 338
+2023 SCC Online SC 464=2023 INSC 398 India cannot be used to award a contract in favour of the
+bidder. In this respect, he refers to the following judgments of this Court:
+
+i.       Tata Cellular v. Union of India7
+
+        ii.      Rajasthan Housing Board and another v. G.S.
+
+                 Investments and another8
+
+        iii.
+
+Laxmikant and others v. Satyawan and others9
+
+21. Shri Chidambaram, therefore, submits that the impugned judgment and order is not sustainable
+and is liable to be set aside.
+
+SUBMISSIONS OF THE RESPONDENTS
+
+22. Dr. A.M. Singhvi, learned Senior Counsel, per contra, submits that unlike Section 62 read with
+Sections 61 and 64 of the Electricity Act, under Section 63 of the Electricity Act, the appropriate
+Commission only “adopts” tariff and does not “determine” tariff. However, in cases under Section 63
+of the Electricity Act, the Central Commission is bound by the guidelines issued by the Central
+Government and it is required (1994) 6 SCC 651 (para 94)= 1994 INSC 283 (2007) 1 SCC 477 (para
+8, 9 and 11)= 2006 INSC 766 (1996) 4 SCC 208=1996 INSC 409 to exercise its regulatory functions,
+albeit under Section 79(1)(b) only in accordance with those guidelines. In this respect, he relies on
+the judgment of this Court in the case of Energy Watchdog (supra) and Tata Power Company
+Limited Transmission (supra).
+
+23. Dr. Singhvi submits that two issues that can be considered in a case under Section 63 of the
+Electricity Act by the Commission are:
+
+(1) as to whether the bidding process was transparent; and (2) as to whether the
+bidding process was held in accordance with the guidelines issued by the Central
+Government.
+
+24. He submits that once the tariff is an outcome of the bidding process and the bidding process is
+transparent and held in accordance with the Bidding Guidelines, the appropriate Commission is
+mandated to adopt such tariff and it does not have a discretion to go into the question as to whether
+it is market aligned or not.
+
+25. Dr. Singhvi further submits that while adopting an already determined tariff by the bidding
+process as per Section 63 of the Electricity Act, the issue of market alignment of respondent No.1’s
+bid does not and cannot arise for consideration in these proceedings.
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+10
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+26. Without prejudice to the aforesaid submissions, Dr. Singhvi submits that it is not permissible for
+the State Commission to go into the question of market alignment. He submitted that the
+respondent No.1’s quoted tariff was market aligned not only in the year 2013 but also today. Dr.
+Singhvi submits that in the recent tender for procurement of 160 MW electricity, conducted in
+pursuance to the permission granted by this Court, the lowest bid for 1st year tariff discovered and
+approved by the appellants is at Rs.5.30 per unit. It is submitted that there is a vast difference
+between “1st year tariff” and “levelized tariff”. Dr. Singhvi submits that however, if this offer for
+supply in the first year of the bid is to be levelized for 25 years, it would come to Rs.7.91 per unit,
+which is around 50% higher than the 1st year tariff of the said bidder itself.
+
+27. Dr. Singhvi submits that M/s Deloitte is a common consultant insofar as the appellants and the
+Uttar Pradesh Power Corporation Limited (“UPPCL” for short). He submits that, in fact, BEC of
+UPPCL, in March 2013, accepted tariff up to Rs. 5.849 per unit i.e., a tariff much higher than that of
+respondent No.1-MB Power. It is submitted that the bidding period in the present case as well as in
+the case of UPPCL is the same. It is submitted that, however, in 2018, the Rajasthan BEC
+mischievously and selectively considered tariff only up to 2012 and compared bids of Andhra
+Pradesh and Kerala, which were, in fact, discovered in 2015 and 2014 respectively. It is submitted
+that similarly, in the State of Tamil Nadu, for the same period, the equivalent levelized tariff was
+determined by M/s Deloitte at Rs.5.75 per unit for 25 years and the same was accepted. It is,
+therefore, submitted that, considering the aforesaid, the levelized tariff of the respondent No.1-MB
+Power for 25 years at Rs.5.517 per unit is indisputably market aligned even as on 2012-2013.
+
+28. Dr. Singhvi, relied on the following charts to show that the levelized tariff for 25 years, as quoted
+by the respondent No.1- MB Power, is very much market aligned. “Market Price as of 2012-13 – at
+the time of Rajasthan Bid Procurer 1st Year Levelized PPA State Quoted Tariff for Duration Tariff 25
+years Rajasthan – L5 3.976 5.300 25 years (i.e. SKS) Rajasthan – 4.137 5.517 25 years L7 (i.e. R1 –
+MB Power Bid) UP – 2013 4.36 5.849 25 years Tariff approved by BEC (Deloitte as consultant) TN –
+Approved 4.117 5.75 15 years Tariff Prices discovered in Rajasthan Medium Term Tender in Sept /
+Oct 2023 Procurer State 1st Year Levelized PPA Quoted Tariff for 25 Duration Tariff years Rajasthan
+– 5.30 7.91 5 years (i.e. L7 – MB years” Power 2012 Bid)
+
+29. Dr. Singhvi, the learned Senior Counsel, relying on clause 3.5.9 of the RFP, submits that, no
+negotiations were permissible in spite of the specific clause in the RFP and the opinion to the
+contrary given by the consultant. It is submitted that the appellants tried to negotiate the prices with
+L-1 to L-3 bidders, which decision has been finally set aside by this Court vide order dated 25th April
+2018.
+
+30. Dr. Singhvi submits that in view of the specific certificate dated 4th June 2013, issued by the
+BEC, certifying that the bidding procedure for the bids in question had been carried out by the
+appellants in conformity with the provisions of the RFP and the Bidding Guidelines issued by the
+Government of India, it is not permissible for the appellants to take a contradictory stand.
+
+31. Dr. Singhvi submits that what this Court had directed by order dated 25th April 2018, was to
+adopt the tariff with regard to L-4 and L-5 bidders. By the subsequent order dated 19th November
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+11
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+2018, this Court clarified and directed to decide the tariff under Section 63 of the Electricity Act
+having regard to the law laid down both statutorily and by this Court. It is submitted that the only
+scrutiny that could be done by the Commission was only with regard to the following of the twin
+requirements as observed by this Court in the case of Energy Watchdog (supra).
+
+32. Dr. Singhvi submits that the power to reject the bids is in respect of all price bids. He submits
+that if it is found that the bidding process was not transparent and the Guidelines were not followed
+or the bids are not market aligned, then the appellants would be entitled to reject all bids and not
+individually and selectively some bids. He submits that if the interpretation as placed by the
+appellants is to be accepted, it will vest an arbitrary power with the procurer of energy to arbitrarily
+reject the bid of any of the bidders. It is submitted that such an unfettered and unchecked discretion
+cannot be permitted to be exercised by the appellants/distribution companies (“DISCOMS”).
+
+33. Dr. Singhvi submits that insofar as the aspect with regard to “consumer’s interest” is concerned,
+the learned APTEL has squarely covered the same. It has been held by the learned APTEL that the
+consumers’ interest is a broad term and among others, involves reliable, quality and un-interrupted
+power on long term basis besides being competitive.
+
+34. The learned Senior Counsel submits that the State of Rajasthan needed 1000 MW of power
+when it invited the bids in question. He submits that the DISCOMS have even fairly admitted that
+they are still in need of power and as such, filed an Interlocutory Application being I.A. No. 150366
+of 2023 in Civil Appeal No.4612 of 2023 (for permission to file additional documents) seeking
+permission to procure power for medium term from the State Commission. It is, therefore,
+submitted that even in the larger public interest and consumer interest, the appellants should
+procure the power from the respondent No.1- MB Power. Dr. Singhvi submits that the appellants are
+bound to procure 906 MW of power in view of the orders passed by this Court on 25th of April 2018.
+He submits that the RFP provides for bucket filling. It is, therefore, submitted that the appellants
+are required to procure the power going down the ladder from the bidders starting from L-1 to the
+one till procurement of 906 MW of power is complete. It is submitted that since many of the bidders
+had now gone into insolvency, it is only 3 bidders, which are left in the fray. L-1 bidder is supplying
+195 MW power and L-2 is supplying 311 MW power. It is submitted that even in the event, this Court
+permits L-5 bidder to supply 100 MW power and 160 MW power for medium term in pursuance to
+the order passed by this Court on 26th September 2023, still the total would not be beyond 766 MW.
+Still the balance of 140 MW power would remain.
+
+35. Dr. Singhvi submits insofar as contention of the appellants with regard to delay and laches is
+concerned, the same is without substance. He submits that only after the respondent No.1 came to
+know about the incapacity of L-3, L-4 and L-6 bidders to honour their offered capacity, the occasion
+to revalidate the claim of the respondent No.1 arose. The learned Senior Counsel, relying on clause
+3.5.6 of the RFP, submits that the selection process shall continue till the requisitioned capacity has
+been achieved through the summation of the quantum offered by the “successful bidders” or when
+the balance of the requisitioned capacity is less than the minimum bid capacity. It is submitted that
+since there is still a gap of 140 MW, to comply with this Court’s order dated 25th April 2018, the
+appellants are bound to enter into PPAs with the qualified bidders until the entire requisitioned
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+12
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+capacity of 906 MW is met.
+
+36. Dr. Singhvi relied on the following chart to show that the prices discovered in all medium and
+long term bids are much higher than the levelized price quoted by the respondent No.1- MB Power.
+
+“Prices discovered in all medium and long term bids since 2022 Procurer State 1st Year Levelized
+PPA Quoted Tariff for Duration Tariff 25 years Adani Mumbai– 2022 5.98 8.78 2.1 years
+Uttarakhand–2023 5.41 7.93 1.5 years Noida Power – 2022 5.15 7.46 3 years Mundra SEZ– 2023
+5.00 6.69 15 years Haryana – 2022 5.70 to 5.75 8.36 3 years J & K – 2023 6.05 8.22 5 years
+Haryana – 2023 6.05 8.22 5 years NDMC – 2023 6.05 8.22 5 years Madhya Pradesh–2023 6.05
+8.22 5 years Haryana – 2023 5.79 8.49 5 years Gujarat – 2023 5.18 to 5.69 6.81 15 years
+Uttarakhand–2023 7.97 11.72 3.5 years Noida Power – 2023 6.30 9.18 3 years”
+
+37. Dr. Singhvi, therefore, submits that, if the directions as issued by the High Court are maintained,
+it will be in the interests of the consumers, who will be getting the electricity at lesser prices than
+what has recently been emerged as a levelized price in the bidding process. He submits that this is
+specifically so when indisputably even according to the appellants they are in dire need of power. Dr.
+Singhvi, therefore, prays for dismissal of the present appeals.
+
+38. Shri C.S. Vaidyanathan, learned Senior Counsel also addressed similar arguments and prayed
+for dismissal of the present appeals.
+
+CONSIDERATIONS
+
+39. For considering the rival submissions, it will be necessary to refer to some of the provisions of
+the Electricity Act, which are as under:
+
+“63. Determination of tariff by bidding process. - Notwithstanding anything
+contained in section 62, the Appropriate Commission shall adopt the tariff if such
+tariff has been determined through transparent process of bidding in accordance with
+the guidelines issued by the Central Government.” xxx xxx xxx
+
+79. Functions of Central Commission.-(1) The Central Commission shall discharge
+the following functions, namely:-
+
+(a) ………………………………………
+
+(b) to regulate the tariff of generating companies other than those owned or
+controlled by the Central Government specified in clause (a), if such generating
+companies enter into or otherwise have a composite scheme for generation and sale
+of electricity in more than one State;
+
+xxx xxx xxx “86. Functions of State Commission.- (1) The State Commission shall discharge the
+following functions, namely: -
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+13
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+(a) …………….
+
+(b) regulate electricity purchase and procurement process of distribution licensees
+including the price at which electricity shall be procured from the generating
+companies or licensees or from other sources through agreements for purchase of
+power for distribution and supply within the State;”
+
+40. It will also be relevant to refer to part of the preamble of the Bidding Guidelines notified by the
+Union of India vide Resolution dated 19th January 2005, which is as under:
+
+“These guidelines have been framed under the above provisions of section 63 of the
+Act. The specific objectives of these guidelines are as follows:
+
+1. Promote competitive procurement of electricity by distribution licensees;
+
+2. Facilitate transparency and fairness in procurement processes;
+
+3. Facilitate reduction of information asymmetries for various bidders;
+
+4. Protect consumer interests by facilitating competitive conditions in procurement
+of electricity;
+
+5. Enhance standardization and reduce ambiguity and hence time for materialization
+of projects;
+
+6. Provide flexibility to suppliers on internal operations while ensuring certainty on
+availability of power and tariffs for buyers.”
+
+41. It will also be relevant to refer to certain clauses of the RFP, which are as under:
+
+“2.15 Right to withdraw the RFP and to reject any Bid.
+
+2.15.1 This RFP may be withdrawn or cancelled by the Procurer/ Authorized Representative at any
+time without assigning any reasons thereof. The Procurer/ Authorized Representative further
+reserves the right, at its complete discretion, to reject any or all of the Bids without assigning any
+reasons whatsoever and without incurring any liability on any account.” xxx xxx xxx “3.5 STEP IV-
+Successful Bidder(s) Selection 3.5.1 Bids qualifying in Step III shall only be evaluated in this stage.
+
+3.5.2 The Levelized Tariff calculated as per Clause 3.4.8 for all Financial Bids of Qualified Bidders
+shall be ranked from the lowest to the highest.
+
+3.5.3 The Bidder with the lowest Levelized Tariff shall be declared as the Successful Bidder for the
+quantum of power (in MW) offered by such Bidder in its Financial Bid.
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+14
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+3.5.4 The selection process of the Successful Bidder as mentioned above in Clause 3.5.3 shall be
+repeated for all the remaining Financial Bids of Qualified Bidders until the entire Requisitioned
+Capacity is met or until the time when the balance of the Requisitioned Capacity is less than the
+Minimum Bid Capacity.
+
+3.5.5 At any step in the process in Clause 3.5.4, in case the Requisitioned Capacity has not been
+achieved and the offered capacity of the Bidder with the lowest Levelized Tariff amongst the
+remaining Financial Bids is larger than the balance Requisitioned Capacity, any fraction or
+combination of fractions offered by such Bidder shall be considered for selection, towards meeting
+the Requisitioned Capacity.
+
+3.5.6 The selection process shall stand completed once the Requisitioned Capacity has been
+achieved through the summation of the quantum offered by the Successful Bidders or when the
+balance of the Requisitioned Capacity is less than the Minimum Bid Capacity.
+
+Provided however in case only one Bidder remains at any step of the selection process and the
+balance Requisitioned Capacity exceeds the Minimum Bid Capacity, Financial Bid(s) of such Bidder
+shall be referred to Appropriate Commission and the selection of the Bidder shall then be at the sole
+discretion of the Appropriate Commission.
+
+3.5.7 At any step during the selection of Successful Bidder(s) in accordance with Clauses 3.5.2 to
+3.5.6, the Procurer / Authorized Representative reserves the right to increase / decrease the
+Requisitioned Capacity by up to ten percent (10%) of the quantum indicated in Clause 1.3.1 to
+achieve the balance Requisitioned Capacity and select the Successful Bidder with the lowest
+Levelized Tariff amongst the remaining Bids. Any increase / decrease in the Requisitioned Capacity
+exceeding ten percent (10%) of the quantum in Clause 1.3.1. can be made only with the approval of
+the Appropriate Commission.
+
+3.5.8 The Letter(s) of Intent shall be issued to all such Successful Bidder(s) selected as per the
+provisions of this Clause 3.5.
+
+3.5.9 There shall be no negotiation on the Quoted Tariff between the Authorized Representative/
+Procurer and the Bidder(s) during the process of evaluation.
+
+3.5.10 Each Successful Bidder shall unconditionally accept the LOI, and record on one (1) copy of
+the LOI, "Accepted Unconditionally", under the signature of the authorized signatory of the
+Successful Bidder and return such copy to the Procurer/ Authorized Representative within seven (7)
+days of issue of LOI.
+
+3.5.11 If the Successful Bidder, to whom the Letter of Intent has been issued does not fulfill any of
+the conditions specified in Clauses 2.2.8 and 2.2.9, the Procurer / Authorized Representative
+reserves the right to annul the award of the Letter of Intent of such Successful Bidder. Further, in
+such a case, the provisions of Clause 2.5 (b) shall apply.
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+15
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+3.5.12 The Procurer / Authorized Representative, in its own discretion, has the right to reject all Bids
+if the Quoted Tariff are not aligned to the prevailing market prices.”
+
+42. It will also be relevant to refer to clause 5.15 of the Bidding Guidelines, which is as under:
+
+“5.15 The bidder who has quoted lowest levellised tariff as per evaluation procedure, shall be
+considered for the award.
+
+The evaluation committee shall have the right to reject all price bids if the rates quoted are not
+aligned to the prevailing market prices.” [emphasis supplied]
+
+43. Successful bidder has been defined in the RFP as under:
+
+"Successful Bidder(s)" shall mean the Bidder(s) selected by the Procurer/ Authorized
+Representative, as applicable pursuant to this RFP for supply of power by itself or
+through the Project Company as per the terms of the RFP Documents, and to whom a
+Letter of Intent has been issued;”
+
+44. The impugned judgment of the High Court is basically based on the judgment of the learned
+APTEL dated 3 rd February 2020 in the case of SKS Power and orders passed by this Court as
+already observed herein above. After the bids were received for procurement of 1000 MW, the BEC
+decided to accept the bids of L-1, L-2 and L-3 bidders. However, as the State government had
+recommended reduction of purchase to only 500 MW power, RVPN filed an application under
+Regulation 7 of the RERC Regulations 2004, for adoption of tariff of L-1 to L-3, so also allowing it to
+purchase only 500 MW of power as against 1000 MW. The said application was allowed by the State
+Commission. The State Commission also adopted the tariff determined through the bidding process
+for purchase of 500 MW power vide its order dated 22nd July 2015. The said order of the State
+Commission was challenged before the learned APTEL by M/s D.B. Power Ltd [L-2 bidder] and by
+M/s Lanco Power Ltd. [L-3 bidder] by way of Appeal Nos. 235 of 2015 and 191 of 2015 respectively.
+
+45. The learned APTEL in the said appeals, vide judgment and order dated 2nd February 2018, set
+aside the order of the State Commission dated 22nd July, 2015, and passed the following directions:
+
+“ORDER of 2015 are allowed and the State Commission’s order dated 22.07.2015 is
+set aside. The State Commission is directed to pass consequential order in accordance
+with the law keeping in view our observations made above as well as the judgments of
+this Tribunal rendered earlier on the aspects of the scope of Section 63 of the Act as
+expeditiously as possible, preferably, within 2 months from today. No order as to
+costs.”
+
+46. After the learned APTEL passed the aforesaid order, M/s D.B. Power Ltd. (L-2 bidder) filed an
+Interlocutory Application before the State Commission, praying for passing forthwith consequential
+orders in terms of the judgment of the learned APTEL. It also sought a direction to DISCOMS to
+start procuring power from it to the extent of 410 MW as per the PPA dated 1 st November 2013.
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+16
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+47. When the matter was heard by the State Commission on 8th March 2018, it was noticed that
+appeals against the order of the learned APTEL were pending before this Court.
+
+48. This Court disposed of the said appeals vide judgment and order dated 25th April 2018, and
+issued the following directions:
+
+"We are in agreement with the earlier conclusion of the APTEL. We are of the view
+that the direction of reduction of capacity from 1000 mw to 500 mw by the State
+Commission was correctly set aside. Since L- 1 to L-5 were represented before this
+Court, we direct that they shall be entitled to supply of power in terms of the
+originally offered amount, mentioned above, in accordance with para 3.5 of the
+Request for Proposal. The power supply will now be reduced to a total of 906 mw.
+The State Commission may now go into the issue of approval for adoption of tariff
+with regard to L-4 and L-5. All Letters of Intent (LOIs) shall stand modified in terms
+of the above. All the appeals shall stand disposed of in terms of the above order."
+
+49. Consequent to the orders passed by this Court, the State Commission vide its order dated 29th
+May 2018, directed RVPN/DISCOMS to file an appropriate application/petition in relation to L-3,
+L-4 and L-5 bidders.
+
+50. RVPN accordingly filed an application on 27th August 2018 before the State Commission,
+submitting therein that the tariff of L-4 and L-5 bidders was very high and not aligned to market
+prices and, therefore, sought not to be adopted in terms of the competitive bidding guidelines and
+documents.
+
+51. In the meantime, a Contempt Petition came to be filed before this Court by SKS Power. This
+Court vide order dated 20th September 2018, in the said Contempt Petition, issued the following
+directions:
+
+" We are of the view that there is no doubt whatsoever that now the PPA has to be
+signed between the parties. However, the State Commission, may, as per our order,
+go into the issue of approval of adoption of tariff with regard to L-5, who is the party
+before us, and will decide the same within a period of six weeks from today.
+
+PPA is to be signed immediately thereafter."
+
+[emphasis supplied]
+
+52. Thereafter, SKS Power filed an Interlocutory Application on 5th October 2018, praying for
+adoption of its tariff as per the orders of this Court dated 25th April 2018 and 20th September 2018.
+
+53. It was contended before the State Commission by SKS Power that the State Commission was
+bound to adopt tariff as quoted by it. However, per contra, it was contended by the RVPN and
+DISCOMS that since the tariff quoted by SKS Power was not market aligned, it could not be
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+17
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+adopted. In view of the counter submission, the State Commission vide its order dated 16th October
+2018, gave an opportunity to the RVPN to file an amended application or seek direction on the issue
+from this Court.
+
+54. Accordingly, RVPN filed a Miscellaneous Application before this Court. This Court vide order
+dated 19th November 2018, passed the following order:
+
+"Having heard learned counsels for both the parties, we only clarify that the
+Rajasthan Electricity Regulatory Commission [the State Commission) is to decide the
+tariff under- Section 63 of the Electricity Act, 2003 having regard to the law laid
+down both statutorily and by this Court.
+
+The State Commission to finalise the aforesaid prices within a period of eight weeks
+from today.
+
+The MAs are disposed of accordingly."
+
+55. A review application was also filed on behalf of the SKS Power. The said review application was
+disposed of by this Court vide order dated 21st January 2019, with the following directions:
+
+"------. We find that as per the Standard Bidding Guidelines the PPA is first to be
+signed after which the question of adoption of tariff has to be taken up.
+
+With this clarification of the 20.09.2018 order, we dispose of the review and the M.A.
+The State Commission which has reserved its judgment on 16.01.2019 will hear the
+parties within a period of two weeks from today and will pass orders after taking into
+account the order that we have passed today.”
+
+56. In accordance with the directions issued by this Court, the State Commission considered the
+rival submissions of the parties and came to a conclusion that the tariff quoted by SKS Power was
+not market aligned. The State Commission also found that, adoption of such high rate would be
+against the consumer interest. The State Commission, therefore, vide order dated 26th February
+2019, decided not to adopt the tariff quoted by L-4 and L-5 bidders.
+
+57. The said order dated 26th February 2019 of the State Commission was challenged before the
+learned APTEL by SKS Power by way of Appeal No.224 of 2019. The learned APTEL framed the
+following three issues in the said appeal:
+
+“ISSUE NO.1: Whether the Respondent Commission could reject the tariff/bid of the
+Appellant, in terms of Section 63 of the Electricity Act, 2003 and the directions
+issued by the Hon’ble Supreme Court?
+
+          ISSUE NO.2:     Whether      there   was    a
+                          sufficient proof to show that
+                          the bid of the Appellant was
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+18
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+                          market aligned?
+
+          ISSUE NO.3:     Whether the argument of
+                          Consumer      interest   be
+                          advanced by the Rajasthan
+                          Discoms in the facts of the
+                          present Appeal?”
+
+58. The learned APTEL while answering the first issue, came to the conclusion that
+the State Commission, while adopting tariff under Section 63, has to only consider
+that the Bidding Guidelines issued by the Central Government providing for tariff
+structure were complied with or not. The learned APTEL also held that the State
+Commission cannot exercise its powers de hors such guidelines. It further held that
+the State Commission has no power to reject the tariff of a bidder.
+
+59. Insofar as the second issue is concerned, the learned APTEL came to a finding
+that, since the bid of SKS Power was already evaluated, and the subsequent
+certificates were issued by the BEC confirming the transparency of the bid, it was not
+open for the State Commission to go into the question, as to whether the tariff quoted
+by SKS Power was market aligned or not. It further held that, after the order dated
+25th April 2018 was passed by this Court, it was not open for the State Commission
+to re-
+
+evaluate the bid.
+
+60. Insofar as the third issue with regard to consumers’ interest is concerned, the learned APTEL
+held that the said issue cannot be raised again at that stage when the same had been dealt with in
+detail by the learned APTEL vide order dated 2nd February 2018 and also considered by this Court
+before passing the order dated 25th April, 2018.
+
+61. Accordingly, the appeal was allowed by the learned APTEL vide order dated 3rd February 2020
+and the order dated 26th February 2019 of the State Commission was set aside. The learned APTEL
+directed that the tariff of SKS Power, as offered in its bid, shall be adopted. The parties were directed
+to revive and implement the PPA dated 4th February 2019. This order dated 3rd February 2020,
+passed by the learned APTEL has been challenged by the DISCOMS and RVPN before this Court by
+way of Civil Appeal No.1937 of 2020 and Civil Appeal No. 2721 of 2020 respectively.
+
+62. The respondent No.1 in the present proceedings rests its claim on the aforesaid orders passed by
+this Court and the order dated 3rd February 2020, passed by the learned APTEL.
+
+63. Basically, it is the contention of the respondent No.1-MB Power that after the orders were passed
+by this Court, RVPN and the DISCOMS were bound to procure electricity/power from the bidders
+going down the ladder until the entire 906 MW power was exhausted. It is their contention that
+once it is certified that the bid evaluation process has been complied with as per the Bidding
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+19
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+Guidelines issued by the Central Government, it is presumed that the process was transparent and it
+is not permissible for the State Commission to go into the question of market aligned tariff and also
+the consumer interest. It is their contention that without considering the question, as to whether the
+tariff was market aligned or not, the procurers were bound to accept supply from the bidders at the
+rates quoted by them. It is their submission that the power under Section 63 of the Electricity Act
+restricted the scrutiny only to two aspects, viz., (1) whether the Bidding Guidelines framed by the
+Union of India under Section 63 of the Electricity Act were followed; and (2) whether the bidding
+process was transparent or not.
+
+64. The High Court in the impugned judgment, relying on the observations of the learned APTEL
+and the earlier orders of this Court has come to a conclusion that, applying the test of “filling the
+bucket”, the procurers were bound to take supply from the respondent No.1-MB Power at the rates
+quoted by it. On the basis of the judgment of the learned APTEL, the High Court held that the
+respondent No.1-MB Power had a right to supply power since there was a gap of 300 MW between
+the power procured by the procurers and the ceiling of 906 MW determined by this Court. In these
+premises, the High Court issued a mandamus directing the appellants to take supply of 200 MW
+electricity/power from the respondent No.1-MB Power at the rates quoted by it.
+
+65. We, therefore, find that, before deciding the correctness or otherwise of the impugned judgment,
+it will be necessary for us to examine the correctness of the judgment and order dated 3rd February
+2020, passed by the learned APTEL in the case of SKS Power.
+
+66. We have already reproduced Section 63 of the Electricity Act. The provisions of Section 63 of the
+Electricity Act fell for consideration before this Court in the case of Energy Watchdog (supra). It will
+be apposite to refer to paragraphs 19 and 20 of the said judgment, which are as under:
+
+“19. The construction of Section 63, when read with the other provisions of this Act,
+is what comes up for decision in the present appeals. It may be noticed that Section
+63 begins with a non obstante clause, but it is a non obstante clause covering only
+Section 62.
+
+Secondly, unlike Section 62 read with Sections 61 and 64, the appropriate
+Commission does not “determine” tariff but only “adopts” tariff already determined
+under Section 63. Thirdly, such “adoption” is only if such tariff has been determined
+through a transparent process of bidding, and, fourthly, this transparent process of
+bidding must be in accordance with the guidelines issued by the Central Government.
+What has been argued before us is that Section 63 is a standalone provision and has
+to be construed on its own terms, and that, therefore, in the case of transparent
+bidding nothing can be looked at except the bid itself which must accord with
+guidelines issued by the Central Government. One thing is immediately clear, that the
+appropriate Commission does not act as a mere post office under Section 63. It must
+adopt the tariff which has been determined through a transparent process of bidding,
+but this can only be done in accordance with the guidelines issued by the Central
+Government. Guidelines have been issued under this section on 19-1-2005, which
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+20
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+guidelines have been amended from time to time. Clause 4, in particular, deals with
+tariff and the appropriate Commission certainly has the jurisdiction to look into
+whether the tariff determined through the process of bidding accords with Clause 4.
+
+20. It is important to note that the regulatory powers of the Central Commission, so
+far as tariff is concerned, are specifically mentioned in Section 79(1). This regulatory
+power is a general one, and it is very difficult to state that when the Commission
+adopts tariff under Section 63, it functions dehors its general regulatory power under
+Section 79(1)(b). For one thing, such regulation takes place under the Central
+Government's guidelines. For another, in a situation where there are no guidelines or
+in a situation which is not covered by the guidelines, can it be said that the
+Commission's power to “regulate” tariff is completely done away with? According to
+us, this is not a correct way of reading the aforesaid statutory provisions. The first
+rule of statutory interpretation is that the statute must be read as a whole. As a
+concomitant of that rule, it is also clear that all the discordant notes struck by the
+various sections must be harmonised. Considering the fact that the non obstante
+clause advisedly restricts itself to Section 62, we see no good reason to put Section 79
+out of the way altogether. The reason why Section 62 alone has been put out of the
+way is that determination of tariff can take place in one of two ways — either under
+Section 62, where the Commission itself determines the tariff in accordance with the
+provisions of the Act (after laying down the terms and conditions for determination
+of tariff mentioned in Section 61) or under Section 63 where the Commission adopts
+tariff that is already determined by a transparent process of bidding. In either case,
+the general regulatory power of the Commission under Section 79(1)(b) is the source
+of the power to regulate, which includes the power to determine or adopt tariff. In
+fact, Sections 62 and 63 deal with “determination” of tariff, which is part of
+“regulating” tariff. Whereas “determining” tariff for inter-State transmission of
+electricity is dealt with by Section 79(1)(d), Section 79(1)(b) is a wider source of
+power to “regulate” tariff. It is clear that in a situation where the guidelines issued by
+the Central Government under Section 63 cover the situation, the Central
+Commission is bound by those guidelines and must exercise its regulatory functions,
+albeit under Section 79(1)(b), only in accordance with those guidelines. As has been
+stated above, it is only in a situation where there are no guidelines framed at all or
+where the guidelines do not deal with a given situation that the Commission's general
+regulatory powers under Section 79(1)(b) can then be used.” [emphasis supplied]
+
+67. It could thus be seen that it has been held by this Court that unlike Section 62 read with Sections
+61 and 64, under the provisions of Section 63 of the Electricity Act, the appropriate Commission
+does not “determine” tariff but only “adopts” tariff already determined under Section 63. It has
+further been held that, such “adoption” is only if such tariff has been determined through a
+transparent process of bidding, and that, this transparent process of bidding must be in accordance
+with the guidelines issued by the Central Government. It was sought to be contended before this
+Court in the said case that Section 63 is a standalone provision and has to be construed on its own
+terms, and that, therefore, in the case of transparent bidding nothing can be looked at except the bid
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+21
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+itself which must accord with guidelines issued by the Central Government. However, rejecting the
+said contention, this Court observed that the appropriate Commission does not act as a mere post
+office under Section 63. It has been observed that, Clause 4, in particular, deals with tariff and the
+appropriate Commission certainly has the jurisdiction to look into whether the tariff determined
+through the process of bidding accords with Clause 4.
+
+68. This Court in the said case, in paragraph 20, further observed that the entire Act shall be read as
+a whole. It has been held that, all the discordant notes struck by the various sections must be
+harmonized. It has been held that, considering the fact that the non obstante clause advisedly
+restricts itself to Section 62, there is no reason to put Section 79 out of the way altogether. It has
+been held that, either under Section 62, or under Section 63, the general regulatory power of the
+Commission under Section 79(1)(b) is the source of the power to regulate, which includes the power
+to determine or adopt tariff. It has been held that, Sections 62 and 63 deal with “determination” of
+tariff, which is part of “regulating” tariff. It has further been held that, in a situation where the
+guidelines issued by the Central Government under Section 63 cover the situation, the Central
+Commission is bound by those guidelines and must exercise its regulatory functions, albeit under
+Section 79(1)(b), only in accordance with those guidelines. It has further been held that, it is only in
+a situation where there are no guidelines framed at all or where the guidelines do not deal with a
+given situation that the Commission's general regulatory powers under Section 79(1)(b) can be used.
+
+69. The aforesaid view of this Court in the case of Energy Watchdog (supra), which is a judgment
+delivered by two Judge Bench, has been approved by three Judge Bench of this Court in the case of
+Tata Power Company Limited Transmission (supra).
+
+70. We have already referred to Section 86(1)(b) of the Electricity Act, which is analogous to Section
+79 of the Electricity Act. Section 79 determines the functions of Central Commission, whereas
+Section 86 provides for the functions of the State Commission. Section 86 of the Electricity Act
+empowers the State Commission to regulate electricity purchase and procurement process of
+distribution licensees including the price at which electricity shall be procured from the generating
+companies or licensees or from other sources through agreements for purchase of power for
+distribution and supply within the State.
+
+71. It can thus be seen that Section 86(1)(b) of the Electricity Act gives ample power on the State
+Commission to regulate electricity purchase and procurement process of distribution licensees. It
+also empowers the State Commission to regulate the matters including the price at which electricity
+shall be procured from the generating companies, etc.
+
+72. It will also be relevant to refer to the Bidding Guidelines notified by the Central Government vide
+Resolution dated 19th January 2005. The preamble of the Bidding Guidelines specifically states
+that, one of the objectives of the said Bidding Guidelines is to facilitate transparency and fairness in
+procurement processes and protection of consumer interests by facilitating competitive conditions
+in procurement of electricity.
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+22
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+73. Clause 5.15 of the Bidding Guidelines is an important clause. It provides that, the bidder who has
+quoted lowest levelized tariff as per evaluation procedure, shall be considered for the award. It also
+provides that the evaluation committee shall have the right to reject all price bids if the rates quoted
+are not aligned to the prevailing market prices.
+
+74. It is thus amply clear that the evaluation committee is empowered to consider, as to whether the
+rates quoted are aligned to the market price or not, and that the evaluation committee shall have the
+right to reject all the price bids if it finds that the rates quoted are not aligned to the prevailing
+market price. The orders which are relied upon by the learned APTEL, specifically the order dated
+19th November 2018 of this Court, had specifically clarified that the State Commission was to decide
+the tariff under Section 63 of the Electricity Act having regard to the law laid down both statutorily
+and by this Court.
+
+75. In this background, the State Commission was justified in considering clause 5.15 of the Bidding
+Guidelines, which specifically permits to reject all price bids if the rates quoted are not aligned to the
+prevailing market prices.
+
+76. The contention that this Court has ordered that the bids quoted by the bidders are to be accepted
+without going into the question of it being market aligned or not, in our view, is without substance.
+
+77. If the contention of the respondent No.1-MB Power that the procurer is bound to accept all the
+bids emerged in a competitive bidding process once the bidding process was found to be transparent
+and in compliance with the Bidding Guidelines is to be accepted, in our view, it will do complete
+violence to clause 5.15 of the Bidding Guidelines itself. If that view is accepted, the DISCOMS will be
+compelled to purchase electricity at a much higher rate as compared with other suppliers. The said
+higher rate will be passed on to the consumers. As such, accepting the contention of the respondent
+No.1 would result in adversely affecting the interests of the consumers and, in turn, would be against
+the larger public interest. For example, if in a bidding process for 1000 MW power, 10 persons
+emerged as “qualified bidders”. L-1 bidder quotes Rs.2 per unit for 100 MW power and L-2 bidder
+quotes Rs.2.25 per unit for another 100 MW power and from L-3 bidder onwards, they start quoting
+Rs.10 per unit and above for balance 800 MW power, could the public interest be subserved by
+compelling the procurer to buy balance 800 MW power at Rs.10 per unit and above when the prices
+quoted are totally not aligned to market prices.
+
+78. We are, therefore, of the considered view that the learned APTEL has grossly erred in holding
+that the State Commission has no power to go into the question, as to whether the prices quoted are
+market aligned or not and also not to take into consideration the aspect of consumers’ interest.
+
+79. When the Bidding Guidelines itself permit the BEC to reject all price bids if the rates quoted are
+not aligned to the prevailing market prices, there is no question of the State Commission being not
+in a position to go into the question, as to whether the rates quoted are market aligned or not,
+specifically, in the light of ample powers vested with the State Commission under Section 86(1)(b) of
+the Electricity Act, which also includes the power to regulate the prices at which electricity shall be
+procured from the generating companies, etc. The finding of the learned APTEL, in our view,
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+23
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+therefore, is totally erroneous.
+
+80. In the case of SKS Power, the BEC, consisting of following 6 members, has considered the
+levelized tariff quoted by L-4 and L-5 bidders:
+
+(i) Shri R.K. Jain, Chief Engineer (NPP & RA), RVPN, Jaipur;
+
+(ii) Shri Manish Saxena, Chief Controller of Accounts, RVPN, Jaipur;
+
+(iii) Shri M.M. Ranwa, Chief Engineer, RUVNL, Jaipur;
+
+(iv) Shri K.L. Meena, Addl. Chief Engineer (Fuel), RVUN, Jaipur;
+
+(v) Shri S.K. Mathur, Chief Engineer (HQ), JVVNL, Jaipur; and
+
+(vi) Shri Tarun Agarwal, CA, Partner M/s Shyamlal Agrawal & Co., Jaipur
+
+81. It can be seen that the said Committee consisted of 4 technical members of the rank of Chief
+Engineer/Additional Chief Engineer. It consisted of the Chief Controller of Account, RVPN, Jaipur.
+It also consisted of a Chartered Accountant, who is an expert in financial matters. After due
+deliberations, the BEC consisting of experts found that the prices quoted by L-4 and L- 5 bidders
+were exorbitantly high and it would result in additional financial burden of more than Rs.1715 crore
+on the consumers of the State as compared to the tariff of L-1 bidder.
+
+82. The State Commission after considering the detailed analysis of the BEC had come to the
+considered conclusion that the prices offered by SKS Power (L-5 bidder) were not market aligned,
+and therefore, not in the consumers’ interest. We, therefore, find that the learned APTEL has grossly
+erred in reversing the well-reasoned order passed by the State Commission, which was, in turn,
+based on the decision of the BEC in accordance with clause 5.15 of the Bidding Guidelines.
+
+83. We further find that it cannot be read from the orders of this Court that the State Commission
+was bound to accept the bids as quoted by the bidders till the bucket was filled. Firstly, no such
+direction can be issued by this Court de hors the provisions of Section 63 and 86(1)(b) of the
+Electricity Act and the Bidding Guidelines. In any event, vide order dated 19th November 2018, this
+Court had specifically directed the State Commission to decide the tariff under Section 63 of the
+Electricity Act having regard to the law laid down both statutorily and by this Court. As such, the
+State Commission was bound to take into consideration the Bidding Guidelines and specifically
+clause 5.15 thereof.
+
+84. With regard to the contention that the power under clause 5.15 of the Bidding Guidelines can be
+exercised only when the bidding process is found to be not in compliance with the Bidding
+Guidelines and is not transparent in respect of all the bidders and not in respect of some of the
+bidders is concerned, in our view, the same is without substance.
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+24
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+85. We may in this respect refer to Section 13(2) of the General Clauses Act, which reads thus:
+
+“13. Gender and number.—In all Central Acts and Regulations, unless there is
+anything repugnant in the subject or context,— (1) …………………; and (2) words in the
+singular shall include the plural, and vice versa.”
+
+86. Apart from that, the Constitution Bench of this Court in the case of Vivek Narayan Sharma and
+others v. Union of India and others10 had an occasion to consider the question, as to whether the
+word “any” would include “all” and vice versa. The Constitution Bench of this Court observed thus:
+
+“113. It is strenuously urged by the learned Senior Counsel appearing on behalf of the
+petitioners that the word “any” used in sub- section (2) of Section 26 of the RBI Act
+will have to be given a restricted meaning to mean “some”. It is submitted that if
+sub-section (2) of Section 26 of the RBI Act is not read in such manner, the very
+power available under the said sub-section will have to be held to be invalid on the
+ground of excessive delegation. It is submitted that it cannot be construed that the
+legislature intended to bestow uncanalised, unguided and arbitrary power on the
+Central Government to demonetise the entire currency. It is, therefore, the
+submission of the petitioners that in order to save the said section from being
+declared void, the word “any” requires to be interpreted in a restricted manner to
+mean “some”.
+
+114. Per contra, it is submitted on behalf of the respondents that the word “any”
+under sub-section (2) of Section 26 of the RBI Act, cannot be interpreted in a narrow
+manner (2023) 3 SCC 1=2023 INSC 2 and it will have to be construed to include “all”.
+
+Precedents construing the word “any”
+
+115. A Constitution Bench of this Court in Chief Inspector of Mines v. Lala Karam Chand Thapar
+[Chief Inspector of Mines v. Lala Karam Chand Thapar, (1962) 1 SCR 9 : AIR 1961 SC 838] was
+considering the question as to whether the phrase “any one of the Directors” as found in Section 76
+of the Mines Act, 1952 could mean “only one of the Directors” or could it be construed to mean
+“every one of the Directors”. In the said case, all the Directors of the Company were prosecuted for
+the offences punishable under Sections 73 and 74 of the Mines Act, 1952. The High Court had held
+[Lala Karam Chand Thapar v. State of Bihar, 1958 SCC OnLine Pat 30] that any “one” of the
+Directors of the Company could only be prosecuted.
+
+116. The Constitution Bench of this Court observed thus : (Lala Karam Chand Thapar case [Chief
+Inspector of Mines v. Lala Karam Chand Thapar, (1962) 1 SCR 9 : AIR 1961 SC 838] , AIR pp.
+847-48, paras 29-34) “29. It is quite clear and indeed not disputed that in some contexts, “any one”
+means “one only it matters not which one” the phrase “any of the Directors” is therefore quite
+capable of meaning “only one of the Directors, it does not matter which one”. Is the phrase however
+capable of no other meaning? If it is not, the courts cannot look further, and must interpret these
+words in that meaning only, irrespective of what the intention of the legislature might be believed to
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+25
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+have been. If however the phrase is capable of another meaning, as suggested viz. “every one of the
+Directors” it will be necessary to decide which of the two meanings was intended by the legislature.
+
+30. If one examines the use of the words “any one” in common conversation or literature, there can
+be no doubt that they are not infrequently used to mean “every one” — not one, but all. Thus we say
+of any one can see that this is wrong, to mean “everyone can see that this is wrong”. “Any one may
+enter” does not mean that “only one person may enter”, but that all may enter. It is permissible and
+indeed profitable to turn in this connection to Oxford English Dictionary, at p. 378, of which, we
+find the meaning of “any” given thus:‘In affirmative sentences, it asserts, concerning a being or thing
+of the sort named, without limitation as to which, and thus collectively of every one of them’. One of
+the illustrations given is — “I challenge anyone to contradict my assertions”. Certainly, this does not
+mean that one only is challenged; but that all are challenged. It is abundantly clear therefore that
+“any one” is not infrequently used to mean “every one”.
+
+31. But, argues Mr Pathak, granting that this is so, it must be held that when the phrase “any one” is
+used with the preposition “of”, followed by a word denoting a number of persons, it never means
+“every one”. The extract from Oxford Dictionary, it is interesting to notice, speaks of an assertion
+“concerning a being or thing of the sort named”; it is not unreasonable to say that, the word “of”
+followed by a word denoting a number of persons or things is just such “naming of a sort” as
+mentioned there. Suppose, the illustration “I challenge any one to contradict my assertions” was
+changed to “I challenge any one of my opponents to contradict my assertion”. “Any one of my
+opponents” here would mean “all my opponents” — not one only of the opponents.
+
+32. While the phrase “any one of them” or any similar phrase consisting of “any one”, followed by
+“of” which is followed in its turn by words denoting a number of persons or things, does not appear
+to have fallen for judicial construction, in our courts or in England — the phrase “any of the present
+Directors” had to be interpreted in an old English case, Isle of Wight Railway Co. v. Tahourdin [Isle
+of Wight Railway Co. v. Tahourdin, (1883) LR 25 Ch D 320 (CA)] . A number of shareholders
+required the Directors to call a meeting of the company for two objects. One of the objects was
+mentioned as ‘To remove, if deemed necessary or expedient any of the present Directors, and to
+elect Directors to fill any vacancy on the Board’. The Directors issued a notice to convene a meeting
+for the other object and held the meeting. Then the shareholders, under the Companies Clauses Act,
+1845, issued a notice of their own convening a meeting for both the objects in the original
+requisition. In an action by the Directors to restrain the requisitionists, from holding the meeting,
+the Court of Appeal held that a notice to remove “any of the present Directors” would justify a
+resolution for removing all who are Directors at the present time. “Any”, Lord Cotton, L.J. pointed
+out, would involve “all”.
+
+33. It is true that the language there was “any of the present Directors” and not “any one of the
+present Directors” and it is urged that the word “one”, in the latter phrase makes all the difference.
+We think it will be wrong to put too much emphasis on the word “one” here. It may be pointed out in
+this connection that the Permanent Edition of Words and Phrases, mentions an American case
+Front & Huntingdon Building & Loan Assn. v. Berzinski [Front & Huntingdon Building & Loan
+Assn. v. Berzinski, 130 Pa Super 297 : 196 A 572 (Superior Court of Pennsylvania 1938)] where the
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+26
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+words “any of them” were held to be the equivalent of “any one of them”.
+
+34. After giving the matter full and anxious consideration, we have come to the conclusion that the
+words “any one of the Directors” is ambiguous; in some contexts, it means “only one of the
+Directors, does not matter which one”, but in other contexts, it is capable of meaning “every one of
+the Directors”. Which of these two meanings was intended by the legislature in any particular
+statutory phrase has to be decided by the courts on a consideration of the context in which the words
+appear, and in particular, the scheme and object of the legislation.” (emphasis supplied)
+
+117. The Constitution Bench in Lala Karam Chand Thapar case [Chief Inspector of Mines v. Lala
+Karam Chand Thapar, (1962) 1 SCR 9 : AIR 1961 SC 838] found that the words “any one” have been
+commonly used to mean “every one” i.e. not one, but all. It found that the word “any”, in affirmative
+sentences, asserts, concerning a being or thing of the sort named, without limitation. It held that it is
+abundantly clear that the words “any one” are not infrequently used to mean “every one”.
+
+118. It could be seen that the Constitution Bench in Lala Karam Chand Thapar case [Chief Inspector
+of Mines v. Lala Karam Chand Thapar, (1962) 1 SCR 9 : AIR 1961 SC 838] , after giving the matter
+full and anxious consideration, came to the conclusion that the words “any one of the Directors” was
+an ambiguous one. It held that in some contexts, it means “only one of the Directors, does not
+matter which one”, but in other contexts, it is capable of meaning “every one of the Directors”. It
+held that which of these two meanings was intended by the legislature in any particular statutory
+phrase has to be decided by the courts on consideration of the context in which the words appear,
+and in particular, the scheme and object of the legislation.
+
+119. After examining the scheme of the Mines Act, 1952, the Constitution Bench of this Court further
+observed thus : (Lala Karam Chand Thapar case [Chief Inspector of Mines v. Lala Karam Chand
+Thapar, (1962) 1 SCR 9 : AIR 1961 SC 838] , AIR pp. 848-49, paras 36-38) “36. But, argues Mr
+Pathak, one must not forget the special rule of interpretation for “penal statute” that if the language
+is ambiguous, the interpretation in favour of the accused should ordinarily be adopted. If you
+interpret “any one” in the sense suggested by him, the legislation he suggests is void and so the
+accused escapes. One of the two possible constructions, thus being in favour of the accused, should
+therefore be adopted. In our opinion, there is no substance in this contention. The rule of strict
+interpretation of penal statutes in favour of the accused is not of universal application, and must be
+considered along with other well-
+
+established rules of interpretation. We have already seen that the scheme and object of the statute
+makes it reasonable to think that the legislature intended to subject all the Directors of a company
+owning coal mines to prosecution and penalties, and not one only of the Directors. In the face of
+these considerations there is no scope here of the application of the rule for strict interpretation of
+penal statutes in favour of the accused.
+
+37. The High Court appears to have been greatly impressed by the fact that in other statutes where
+the legislature wanted to make every one out of a group or a class of persons liable it used clear
+language expressing the intention; and that the phrase “any one” has not been used in any other
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+27
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+statute in this country to express “every one”. It will be unreasonable, in our opinion, to attach too
+much weight to this circumstance; and as for the reasons mentioned above, we think the phrase
+“any one of the Directors” is capable of meaning “every one of the Directors”, the fact that in other
+statutes, different words were used to express a similar meaning is not of any significance.
+
+38. We have, on all these considerations come to the conclusion that the words “any one of the
+Directors” has been used in Section 76 to mean “every one of the Directors”, and that the contrary
+interpretation given by the High Court is not correct.” (emphasis supplied)
+
+120. It could thus be seen that though it was sought to be argued before the Court that since the rule
+of strict interpretation of penal statutes in favour of the accused has to be adopted and that the word
+“any” was suffixed by the word “one”, it has to be given restricted meaning; the Court in Lala Karam
+Chand Thapar case [Chief Inspector of Mines v. Lala Karam Chand Thapar, (1962) 1 SCR 9 : AIR
+1961 SC 838] came to the conclusion that the words “any one of the Directors” used in Section 76 of
+the Mines Act, 1952 would mean “every one of the Directors”. It is further to be noted that the word
+“any” in the said case was suffixed by the word “one”, still the Court held that the words “any one”
+would mean “all” and not “one”. It is to be noted that in the present case, the legislature has not
+employed the word “one” after the word “any”. It is settled law that it has to be construed that every
+single word employed or not employed by the legislature has a purpose behind it.
+
+121. On the very date on which the judgment in Chief Inspector of Mines v. Lala Karam Chand
+Thapar [Chief Inspector of Mines v. Lala Karam Chand Thapar, (1962) 1 SCR 9 : AIR 1961 SC 838]
+was pronounced, the same Constitution Bench also pronounced the judgment in Banwarilal
+Agarwalla [Banwarilal Agarwalla v. State of Bihar, (1962) 1 SCR 33 : AIR 1961 SC 849] , wherein the
+Constitution Bench observed thus : (Banwarilal Agarwalla case [Banwarilal Agarwalla v. State of
+Bihar, (1962) 1 SCR 33 :
+
+AIR 1961 SC 849] , AIR p. 850, para 3) “3. The first contention is based on an
+assumption that the word “any one” in Section 76 means only “one of the Directors,
+and only one of the shareholders”. This question as regards the interpretation of the
+word “any one” in Section 76 was raised in Criminal Appeals Nos. 98 to 106 of 1959
+(Chief Inspector of Mines [Chief Inspector of Mines v. Lala Karam Chand Thapar,
+(1962) 1 SCR 9 : AIR 1961 SC 838] , etc.) and it has been decided there that the word
+“any one” should be interpreted there as “every one”. Thus under Section 76 every
+one of the shareholders of a private company owning the mine, and every one of the
+Directors of a public company owning the mine is liable to prosecution. No question
+of violation of Article 14 therefore arises.” (emphasis supplied)
+
+122. Another Constitution Bench of this Court in Tej Kiran Jain [Tej Kiran Jain v. N. Sanjiva Reddy,
+(1970) 2 SCC 272] was considering the provisions of Article 105 of the Constitution of India and,
+particularly, the immunity as available to the Member of Parliament “in respect of anything said …
+in Parliament”. The Constitution Bench observed thus : (SCC p. 274, para 8) “8. In our judgment it
+is not possible to read the provisions of the article in the way suggested. The article means what it
+says in language which could not be plainer. The article confers immunity inter alia in respect of
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+28
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+“anything said … in Parliament”. The word “anything” is of the widest import and is equivalent to
+“everything”. The only limitation arises from the words “in Parliament” which means during the
+sitting of Parliament and in the course of the business of Parliament. We are concerned only with
+speeches in Lok Sabha. Once it was proved that Parliament was sitting and its business was being
+transacted, anything said during the course of that business was immune from proceedings in any
+Court this immunity is not only complete but is as it should be. It is of the essence of parliamentary
+system of Government that people's representatives should be free to express themselves without
+fear of legal consequences. What they say is only subject to the discipline of the rules of Parliament,
+the good sense of the members and the control of proceedings by the Speaker. The Courts have no
+say in the matter and should really have none.” (emphasis supplied)
+
+123. This Court held in Tej Kiran Jain case [Tej Kiran Jain v. N. Sanjiva Reddy, (1970) 2 SCC 272]
+that the word “anything” is of the widest import and is equivalent to “everything”. The only
+limitation arises from the words “in Parliament” which means during the sitting of Parliament and
+in the course of the business of Parliament. It held that, once it was proved that Parliament was
+sitting and its business was being transacted, anything said during the course of that business was
+immune from proceedings in any court.
+
+124. This Court, in LDA [LDA v. M.K. Gupta, (1994) 1 SCC 243] , was considering clause (o) of
+Section 2(1) of the Consumer Protection Act, 1986 which defines “service”, wherein the word “any”
+again fell for consideration. This Court observed thus : (SCC p. 255, para 4) “4. … The words “any”
+and “potential” are significant. Both are of wide amplitude. The word “any” dictionarily means “one
+or some or all”. In Black's Law Dictionary it is explained thus, ‘word “any” has a diversity of meaning
+and may be employed to indicate “all” or “every” as well as “some” or “one” and its meaning in a
+given statute depends upon the context and the subject- matter of the statute’. The use of the word
+“any” in the context it has been used in clause (o) indicates that it has been used in wider sense
+extending from one to all.”
+
+125. This Court held in LDA case [LDA v. M.K. Gupta, (1994) 1 SCC 243] that the word “any” is of
+wide amplitude. It means “one or some or all”. Referring to Black's Law Dictionary, the Court
+observed that the word “any” has a diversity of meaning and may be employed to indicate “all” or
+“every” as well as “some” or “one”. However, the meaning which is to be given to it would depend
+upon the context and the subject- matter of the statute.
+
+126. In K.P. Mohammed Salim [K.P. Mohammed Salim v. CIT, (2008) 11 SCC 573] , this Court was
+considering the power of the Director General or Chief Commissioner or Commissioner to transfer
+any case from one or more assessing officers subordinate to him to any other assessing officer or
+assessing officers. This Court observed thus : (SCC p. 578, para 17) “17. The word “any” must be read
+in the context of the statute and for the said purpose, it may in a situation of this nature, means all.
+The principles of purposive construction for the said purpose may be resorted to. (See New India
+Assurance Co. Ltd. v. Nusli Neville Wadia [New India Assurance Co.
+
+Ltd. v. Nusli Neville Wadia, (2008) 3 SCC 279 : (2008) 1 SCC (Civ) 850] .) Thus, in the context of a
+statute, the word “any” may be read as all in the context of the Income Tax Act for which the power
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+29
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+of transfer has been conferred upon the authorities specified under Section 127.” (emphasis
+supplied)
+
+127. The Court in K.P. Mohammed Salim [K.P. Mohammed Salim v. CIT, (2008) 11 SCC 573] again
+reiterated that the word “any” must be read in the context of the statute. The Court also applied the
+principles of purposive construction to the term “any” to mean “all”.
+
+128. In Raj Kumar Shivhare [Raj Kumar Shivhare v. Directorate of Enforcement, (2010) 4 SCC 772 :
+(2010) 3 SCC (Civ) 712] , an argument was sought to be advanced that since Section 35 of the
+Foreign Exchange Management Act, 1999 uses the words “any decision or order”, only appeals from
+final order could be filed. Rejecting the said contention, this Court observed thus : (SCC pp. 779-80,
+paras 19-20 & 26) “19. The word “any” in this context would mean “all”. We are of this opinion in
+view of the fact that this section confers a right of appeal on any person aggrieved. A right of appeal,
+it is well settled, is a creature of statute. It is never an inherent right, like that of filing a suit. A right
+of filing a suit, unless it is barred by statute, as it is barred here under Section 34 of FEMA, is an
+inherent right (see Section 9 of the Civil Procedure Code) but a right of appeal is always conferred by
+a statute. While conferring such right a statute may impose restrictions, like limitation or pre-
+deposit of penalty or it may limit the area of appeal to questions of law or sometime to substantial
+questions of law. Whenever such limitations are imposed, they are to be strictly followed. But in a
+case where there is no limitation on the nature of order or decision to be appealed against, as in this
+case, the right of appeal cannot be further curtailed by this Court on the basis of an interpretative
+exercise.
+
+20. Under Section 35 of FEMA, the legislature has conferred a right of appeal to a person aggrieved
+from “any” “order” or “decision” of the Appellate Tribunal. Of course such appeal will have to be on
+a question of law. In this context the word “any” would mean “all”.
+
+***
+
+26. In the instant case also when a right is conferred on a person aggrieved to file appeal from “any”
+order or decision of the Tribunal, there is no reason, in the absence of a contrary statutory intent, to
+give it a restricted meaning. Therefore, in our judgment in Section 35 of FEMA, any “order” or
+“decision” of the Appellate Tribunal would mean all decisions or orders of the Appellate Tribunal
+and all such decisions or orders are, subject to limitation, appealable to the High Court on a
+question of law.” (emphasis supplied)
+
+129. While holding that the word “any” in the context would mean “all”, this Court in Raj Kumar
+Shivhare [Raj Kumar Shivhare v. Directorate of Enforcement, (2010) 4 SCC 772 : (2010) 3 SCC (Civ)
+712] observed that a right of appeal is always conferred by a statute. It has been held that, while
+conferring such right, a statute may impose restrictions, like limitation or pre-deposit of penalty or
+it may limit the area of appeal to questions of law or sometime to substantial questions of law. It has
+been held that whenever such limitations are imposed, they are to be strictly followed. It has been
+held that in a case where there is no limitation, the right of appeal cannot be curtailed by this Court
+on the basis of an interpretative exercise.
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+30
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+130. Shri P. Chidambaram, learned Senior Counsel relied on the judgment of this Court in Union of
+India v. A.B. Shah [Union of India v. A.B. Shah, (1996) 8 SCC 540 : 1996 SCC (Cri) 688] . In the said
+case, the High Court was considering an appeal preferred by the Union of India wherein it had
+challenged the acquittal of the accused by the learned trial court, which was confirmed in appeal by
+the High Court. The learned trial court and the High Court had held that the complaint filed was
+beyond limitation. This Court reversed the judgments of the learned trial court and the High Court.
+
+131. This Court while interpreting the expression “at any time” observed thus : (A.B. Shah case
+[Union of India v. A.B. Shah, (1996) 8 SCC 540 : 1996 SCC (Cri) 688] , SCC p. 546, para 12) “12. If
+we look into Conditions 3 and 6 with the object and purpose of the Act in mind, it has to be held that
+these conditions are not only relatable to what was required at the commencement of depillaring
+process, but the unstowing for the required length must exist always. The expression “at any time”
+finding place in Condition 6 has to mean, in the context in which it has been used, “at any point of
+time”, the effect of which is that the required length must be maintained all the time. The
+accomplishment of object of the Act, one of which is safety in the mines, requires taking of such a
+view, especially in the backdrop of repeated mine disasters which have been taking, off and on,
+heavy toll of lives of the miners. It may be pointed out that the word “any” has a diversity of meaning
+and in Black's Law Dictionary it has been stated that this word may be employed to indicate “all” or
+“every”, and its meaning will depend “upon the context and subject-matter of the statute”. A
+reference to what has been stated in Stroud's Judicial Dictionary, Vol. I, is revealing inasmuch as the
+import of the word “any” has been explained from pp. 145 to 153 of the 4th Edn., a perusal of which
+shows it has different connotations depending primarily on the subject-matter of the statute and the
+context of its use. A Bench of this Court in LDA v. M.K. Gupta [LDA v. M.K. Gupta, (1994) 1 SCC
+243] , gave a very wide meaning to this word finding place in Section 2(1)(o) of the Consumer
+Protection Act, 1986 defining “service”. (See para 4)” (emphasis supplied)
+
+132. Shri Chidambaram rightly argued that the word “any” will have to be construed in its context,
+taking into consideration the scheme and the purpose of the enactment. There can be no quarrel
+with regard to the said proposition. Right from the judgment of the Constitution Bench of this Court
+in Chief Inspector of Mines v. Lala Karam Chand Thapar [Chief Inspector of Mines v. Lala Karam
+Chand Thapar, (1962) 1 SCR 9 : AIR 1961 SC 838] , the position is clear. What is the meaning which
+the legislature intended to give to a particular statutory provision has to be decided by the Court on
+a consideration of the context in which the word(s) appear(s) and in particular, the scheme and
+object of the legislation.”
+
+87. From the perusal of the various judgments, which have been referred to in detail by the
+Constitution Bench, it will be clear that the words “all” or “any” will have to be construed in their
+context taking into consideration the scheme and purpose of the enactment. What is the meaning
+which the legislature intended to give to a particular statutory provision has to be decided by the
+Court on a consideration of the context in which the word(s) appear(s) and in particular, the scheme
+and object of the legislation. We have no hesitation to hold that the word “all” used in clause 5.15 of
+the Bidding Guidelines, read with the legislative policy for which the Electricity Act was enacted and
+read with Section 86(1)(b) of the Electricity Act, will have to be construed to be the one including
+“any”. As such, the contention in that regard is to be rejected.
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+31
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+88. In any case, applying the principle of literal interpretation, the evaluation committee/BEC
+would be entitled to reject only such of the price bids if it finds that the rates quoted by the bidders
+are not aligned to the prevailing market prices. It does not stipulate rejection of all the bids in the
+bidding process. For example, if in a bidding process, which is in accordance with the Bidding
+Guidelines and is transparent, 5 bidders emerged. Out of the said bidders, the rates quoted by only 3
+bidders are market aligned and the rates quoted by rest of the 2 bidders are not market aligned. In
+accordance with the Bidding Guidelines, the BEC would be entitled to recommend acceptance of the
+bids of the first 3 bidders and reject the bids of rest of the 2 bidders whose quoted rates/prices are
+not found to be market aligned. We, therefore, reject the contention in this behalf.
+
+89. We further find that the Court, while interpreting a particular provision, will have to apply the
+principles of purposive construction. The Constitution Bench of this Court in the case of Vivek
+Narayan Sharma (supra) after surveying various judgments on the issue has held thus:
+
+“148. It is thus clear that it is a settled principle that the modern approach of
+interpretation is a pragmatic one, and not pedantic. An interpretation which
+advances the purpose of the Act and which ensures its smooth and harmonious
+working must be chosen and the other which leads to absurdity, or confusion, or
+friction, or contradiction and conflict between its various provisions, or undermines,
+or tends to defeat or destroy the basic scheme and purpose of the enactment must be
+eschewed. The primary and foremost task of the Court in interpreting a statute is to
+gather the intention of the legislature, actual or imputed. Having ascertained the
+intention, it is the duty of the Court to strive to so interpret the statute as to promote
+or advance the object and purpose of the enactment. For this purpose, where
+necessary, the Court may even depart from the rule that plain words should be
+interpreted according to their plain meaning. There need be no meek and mute
+submission to the plainness of the language. To avoid patent injustice, anomaly or
+absurdity or to avoid invalidation of a law, the court would be justified in departing
+from the so-called golden rule of construction so as to give effect to the object and
+purpose of the enactment. Ascertainment of legislative intent is the basic rule of
+statutory construction.”
+
+90. It could thus be seen that it is a settled principle that the modern approach of interpretation is a
+pragmatic one, and not pedantic. An interpretation which advances the purpose of the Act and
+which ensures its smooth and harmonious working must be chosen and the other which leads to
+absurdity, or confusion, or friction, or contradiction and conflict between its various provisions, or
+undermines, or tends to defeat or destroy the basic scheme and purpose of the enactment must be
+eschewed.
+
+91. If the contention that clause 5.15 of the Bidding Guidelines will come into play, which permits
+the Evaluation Committee to reject “all” price bids and not “any” one of them is accepted, it will lead
+to nothing else than resulting in absurdity. Suppose, if L-1 bidder quotes Rs.3 per unit and L-5
+bidder quotes Rs.7 per unit, requirement to reject the bid of L-1 bidder, whose bid is found market
+aligned along with that of L-5 bidder, which is not market aligned, would lead to an anomalous
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+32
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+situation. Could the consumer be deprived of the electricity to be procured from L-1 at a market
+aligned price only because some of the bidders have quoted much higher prices and are not market
+aligned. In our view, such an interpretation would result in defeating one of the main objects of the
+enactment, i.e., protection of the consumer.
+
+92. It is needless to state that this Court, time and again, in various judgments including the one in
+the case of GMR Warora Energy Limited (supra) has recognised the requirement of balancing the
+consumers’ interest with that of the interest of the generators. It will not be permissible to take a
+lopsided view only to protect the interest of the generators ignoring the consumers’ interest and
+public interest.
+
+93. We find that the High Court was not justified in entertaining the petition. The Constitution
+Bench of this Court in the case of PTC India Limited (supra) has held that the Electricity Act is an
+exhaustive code on all matters concerning electricity. Under the Electricity Act, all issues dealing
+with electricity have to be considered by the authorities constituted under the said Act. As held by
+the Constitution Bench of this Court, the State Electricity Commission and the learned APTEL have
+ample powers to adjudicate in the matters with regard to electricity. Not only that, these Tribunals
+are tribunals consisting of experts having vast experience in the field of electricity. As such, we find
+that the High Court erred in directly entertaining the writ petition when the respondent No.1, i.e.,
+the writ petitioner before the High Court had an adequate alternate remedy of approaching the State
+Electricity Commission.
+
+94. This Court in the case of Reliance Infrastructure Limited v. State of Maharashtra and others11
+has held that while exercising its power of judicial review, the Court can step in where a case of
+manifest unreasonableness or arbitrariness is made out.
+
+95. In the present case, there is not even an allegation with regard to that effect. In such
+circumstances, recourse to a petition under Article 226 of the Constitution of India in the availability
+of efficacious alternate remedy under a statute, which is a complete code in itself, in our view, was
+not justified.
+
+96. No doubt that availability of an alternate remedy is not a complete bar in the exercise of the
+power of judicial review by the High Courts. But, recourse to such a remedy would be permissible
+only if extraordinary and exceptional circumstances are made out. A reference in this respect could
+be made to the judgments of this Court in the cases of Radha Krishan (2019) 3 SCC 352=2019 INSC
+63 Industries v. State of Himachal Pradesh and others12 and South Indian Bank Ltd. and others v.
+Naveen Mathew Philip and another13.
+
+97. We may gainfully refer to the observation of this Court in the case of Radha Krishan Industries
+(supra), wherein this Court has laid down certain principles after referring to the earlier judgments:
+
+“24. The High Court has dealt with the maintainability of the petition under Article
+226 of the Constitution. Relying on the decision of this Court in CCT v. Glaxo Smith
+Kline Consumer Health Care Ltd. [CCT v. Glaxo Smith Kline Consumer Health Care
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+33
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+Ltd., (2020) 19 SCC 681 : 2020 SCC OnLine SC 440] , the High Court noted that
+although it can entertain a petition under Article 226 of the Constitution, it must not
+do so when the aggrieved person has an effective alternate remedy available in law.
+However, certain exceptions to this “rule of alternate remedy” include where, the
+statutory authority has not acted in accordance with the provisions of the law or acted
+in defiance of the fundamental principles of judicial procedure; or has resorted to
+invoke provisions, which are repealed; or where an order has been passed in violation
+of the (2021) 6 SCC 771=2021 INSC 266 2023 SCC OnLine SC 435 =2023 INSC 379
+principles of natural justice. Applying this formulation, the High Court noted that the
+appellant has an alternate remedy available under the GST Act and thus, the petition
+was not maintainable.
+
+25. In this background, it becomes necessary for this Court, to dwell on the “rule of alternate
+remedy” and its judicial exposition. In Whirlpool Corpn. v. Registrar of Trade Marks [Whirlpool
+Corpn. v. Registrar of Trade Marks, (1998) 8 SCC 1] , a two-Judge Bench of this Court after
+reviewing the case law on this point, noted : (SCC pp. 9-10, paras 14-
+
+15) “14. The power to issue prerogative writs under Article 226 of the Constitution is plenary in
+nature and is not limited by any other provision of the Constitution. This power can be exercised by
+the High Court not only for issuing writs in the nature of habeas corpus, mandamus, prohibition,
+quo warranto and certiorari for the enforcement of any of the Fundamental Rights contained in Part
+III of the Constitution but also for “any other purpose”.
+
+15. Under Article 226 of the Constitution, the High Court, having regard to the facts of the case, has
+a discretion to entertain or not to entertain a writ petition. But the High Court has imposed upon
+itself certain restrictions one of which is that if an effective and efficacious remedy is available, the
+High Court would not normally exercise its jurisdiction. But the alternative remedy has been
+consistently held by this Court not to operate as a bar in at least three contingencies, namely, where
+the writ petition has been filed for the enforcement of any of the Fundamental Rights or where there
+has been a violation of the principle of natural justice or where the order or proceedings are wholly
+without jurisdiction or the vires of an Act is challenged. There is a plethora of case-law on this point
+but to cut down this circle of forensic whirlpool, we would rely on some old decisions of the
+evolutionary era of the constitutional law as they still hold the field.” (emphasis supplied)
+
+26. Following the dictum of this Court in Whirlpool [Whirlpool Corpn. v. Registrar of Trade Marks,
+(1998) 8 SCC 1] , in Harbanslal Sahnia v. Indian Oil Corpn. Ltd. [Harbanslal Sahnia v. Indian Oil
+Corpn. Ltd., (2003) 2 SCC 107] , this Court noted that : (Harbanslal Sahnia case [Harbanslal Sahnia
+v. Indian Oil Corpn. Ltd., (2003) 2 SCC 107] , SCC p. 110, para 7) “7. So far as the view taken by the
+High Court that the remedy by way of recourse to arbitration clause was available to the appellants
+and therefore the writ petition filed by the appellants was liable to be dismissed is concerned, suffice
+it to observe that the rule of exclusion of writ jurisdiction by availability of an alternative remedy is a
+rule of discretion and not one of compulsion. In an appropriate case, in spite of availability of the
+alternative remedy, the High Court may still exercise its writ jurisdiction in at least three
+contingencies : (i) where the writ petition seeks enforcement of any of the fundamental rights; (ii)
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+34
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+where there is failure of principles of natural justice; or (iii) where the orders or proceedings are
+wholly without jurisdiction or the vires of an Act is challenged. (See Whirlpool Corpn.v. Registrar of
+Trade Marks [Whirlpool Corpn. v. Registrar of Trade Marks, (1998) 8 SCC 1] .) The present case
+attracts applicability of the first two contingencies. Moreover, as noted, the appellants' dealership,
+which is their bread and butter, came to be terminated for an irrelevant and non-existent cause. In
+such circumstances, we feel that the appellants should have been allowed relief by the High Court
+itself instead of driving them to the need of initiating arbitration proceedings.” (emphasis supplied)
+
+27. The principles of law which emerge are that:
+
+27.1. The power under Article 226 of the Constitution to issue writs can be exercised
+not only for the enforcement of fundamental rights, but for any other purpose as well.
+
+27.2. The High Court has the discretion not to entertain a writ petition. One of the
+restrictions placed on the power of the High Court is where an effective alternate
+remedy is available to the aggrieved person.
+
+27.3. Exceptions to the rule of alternate remedy arise where : (a) the writ petition has
+been filed for the enforcement of a fundamental right protected by Part III of the
+Constitution; (b) there has been a violation of the principles of natural justice; (c) the
+order or proceedings are wholly without jurisdiction; or (d) the vires of a legislation is
+challenged.
+
+27.4. An alternate remedy by itself does not divest the High Court of its powers under
+Article 226 of the Constitution in an appropriate case though ordinarily, a writ
+petition should not be entertained when an efficacious alternate remedy is provided
+by law.
+
+27.5. When a right is created by a statute, which itself prescribes the remedy or
+procedure for enforcing the right or liability, resort must be had to that particular
+statutory remedy before invoking the discretionary remedy under Article 226 of the
+Constitution. This rule of exhaustion of statutory remedies is a rule of policy,
+convenience and discretion.
+
+27.6. In cases where there are disputed questions of fact, the High Court may decide
+to decline jurisdiction in a writ petition.
+
+However, if the High Court is objectively of the view that the nature of the controversy requires the
+exercise of its writ jurisdiction, such a view would not readily be interfered with.
+
+28. These principles have been consistently upheld by this Court in Chand Ratan v. Durga Prasad
+[Chand Ratan v. Durga Prasad, (2003) 5 SCC 399] , Babubhai Muljibhai Patel v. Nandlal Khodidas
+Barot [Babubhai Muljibhai Patel v. Nandlal Khodidas Barot, (1974) 2 SCC 706] and Rajasthan SEB
+v. Union of India [Rajasthan SEB v. Union of India, (2008) 5 SCC 632] among other decisions.”
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+35
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+98. This Court has clearly held that when a right is created by a statute, which itself prescribes the
+remedy or procedure for enforcing the right or liability, resort must be had to that particular
+statutory remedy before invoking the discretionary remedy under Article 226 of the Constitution of
+India.
+
+99. Recently, this Court in the case of M/s South Indian Bank Ltd. & Ors. (supra) has also taken a
+similar view.
+
+100. There is another ground on which the High Court ought to have refused to entertain the
+petition. The bid of L-7 bidder was returned and the Bid Bond bank guarantee was also directed not
+to be extended vide the communication dated 6th January 2015. The judgment and order passed by
+this Court, on which reliance is placed by respondent No.1, is also delivered on 25th April 2018.
+However, the respondent No.1 did not take any steps from 6 th January 2015 and in any case, from
+25th April 2018 till 14th December 2020, on which date the petition came to be filed before the High
+Court. No doubt that the petition need not be dismissed solely on the ground of delay and laches.
+However, if petitioner approaches the Court with delay, he has to satisfy the Court about the
+justification for delay in approaching the Court belatedly. In our considered view, the High Court
+ought not to have entertained the petition also on the ground of delay and laches.
+
+101. In any case, we find that the High Court was not justified in issuing the mandamus in the nature
+which it has issued. This Court in the case of Air India Ltd. v. Cochin International Airport Ltd. and
+others14 has observed thus:
+
+“7. The law relating to award of a contract by the State, its corporations and bodies
+acting as instrumentalities and agencies of the Government has been settled by the
+decision of this Court in Ramana Dayaram Shetty v. International Airport Authority
+of India [(1979) 3 SCC 489] , Fertilizer Corpn. Kamgar Union (Regd.) v. Union of
+India [(1981) 1 SCC 568] , CCE v. Dunlop India Ltd. [(1985) 1 SCC 260 : 1985 SCC
+(Tax) 75] , Tata Cellular v. Union of India [(1994) 6 SCC 651] , Ramniklal N. Bhutta v.
+State of Maharashtra [(1997) 1 SCC 134] and Raunaq International Ltd. v. I.V.R.
+Construction Ltd. [(1999) 1 SCC 492] The award of a contract, whether it is by a
+private party or by a public body or the State, is essentially a commercial transaction.
+In arriving at a commercial decision considerations which are paramount are
+commercial considerations. The State can choose its own method to arrive at a
+decision. It can fix its own terms of invitation to tender and that is not open to
+judicial scrutiny. It can enter into negotiations before finally deciding to accept one of
+the offers made to it. Price need not always be the sole criterion for awarding a
+contract. It is free to grant any relaxation, for bona fide reasons, if the tender
+conditions permit such a relaxation. It may not accept the offer even though it
+happens to be the highest or the lowest. But the State, its corporations,
+instrumentalities and agencies are bound to adhere to the norms, standards and
+procedures (2000) 2 SCC 617=2000 INSC 39 laid down by them and cannot depart
+from them arbitrarily. Though that decision is not amenable to judicial review, the
+court can examine the decision-making process and interfere if it is found vitiated by
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+36
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+mala fides, unreasonableness and arbitrariness. The State, its corporations,
+instrumentalities and agencies have the public duty to be fair to all concerned.
+
+Even when some defect is found in the decision- making process the court must exercise its
+discretionary power under Article 226 with great caution and should exercise it only in furtherance
+of public interest and not merely on the making out of a legal point. The court should always keep
+the larger public interest in mind in order to decide whether its intervention is called for or not.
+Only when it comes to a conclusion that overwhelming public interest requires interference, the
+court should intervene.”
+
+102. It could thus be seen that this Court has held that the award of a contract, whether it is by a
+private party or by a public body or the State, is essentially a commercial transaction. In arriving at a
+commercial decision, considerations which are paramount are commercial considerations. It has
+been held that the State can choose its own method to arrive at a decision. It can fix its own terms of
+invitation to tender and that is not open to judicial scrutiny. It has further been held that the State
+can enter into negotiations before finally deciding to accept one of the offers made to it. It has
+further been held that, price need not always be the sole criterion for awarding a contract. It has
+been held that the State may not accept the offer even though it happens to be the highest or the
+lowest. However, the State, its corporations, instrumentalities and agencies are bound to adhere to
+the norms, standards and procedures laid down by them and cannot depart from them arbitrarily.
+Though that decision is not amenable to judicial review, the court can examine the decision- making
+process and interfere if it is found vitiated by mala fides, unreasonableness and arbitrariness. It has
+further been held that even when some defect has been found in the decision- making process, the
+court must exercise its discretionary power under Article 226 with great caution and should exercise
+it only in furtherance of public interest and not merely on the making out of a legal point. The court
+should always keep the larger public interest in mind in order to decide whether its intervention is
+called for or not. Only when it comes to a conclusion that overwhelming public interest requires
+interference, the court should intervene.
+
+103. As has been held by this Court in the case of Tata Cellular (supra), the Court is not only
+concerned with the merits of the decision but also with the decision-making process. Unless the
+Court finds that the decision-making process is vitiated by arbitrariness, mala fides, irrationality, it
+will not be permissible for the Court to interfere with the same.
+
+104. In the present case, the decision-making process, as adopted by the BEC was totally in
+conformity with the principles laid down by this Court from time to time. The BEC after considering
+the competitive rates offered in the bidding process in various States came to a conclusion that the
+rates quoted by SKS Power (L-5 bidder) were not market aligned. The said decision has been
+approved by the State Commission. Since the decision-making process adopted by the BEC, which
+has been approved by the State Commission, was in accordance with the law laid down by this
+Court, the same ought not to have been interfered with by the learned APTEL.
+
+105. In any case, the High Court, by the impugned judgment and order, could not have issued a
+mandamus to the instrumentalities of the State to enter into a contract, which was totally harmful to
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+37
+
+Jaipur Vidyut Vitran Nigam Ltd. vs Mb Power (Madhya Pradesh) Limited on 8 January, 2024
+
+the public interest. Inasmuch as, if the power/electricity is to be procured by the procurers at the
+rates quoted by the respondent No.1-MB Power, which is even higher than the rates quoted by the
+SKS Power (L-5 bidder), then the State would have been required to bear financial burden in
+thousands of crore rupees, which would have, in turn, passed on to the consumers. As such, we are
+of the considered view that the mandamus issued by the Court is issued by failing to take into
+consideration the larger consumers’ interest and the consequential public interest. We are,
+therefore, of the view that the impugned judgment and order passed by the High Court is not
+sustainable in law and deserves to be quashed and set aside. CIVIL APPEAL NO. 6503 OF 2022
+AND CIVIL APPEAL NO. 6502 OF 2022
+
+106. The appeals are, therefore, allowed. The impugned judgment and order of the Division Bench
+of the High Court of Judicature for Rajasthan, Bench at Jaipur dated 20th September 2021 in D.B.
+Civil Writ Petition No. 14815 of 2020 is quashed and set aside. The respondent No.1-M.B. Power
+(Madhya Pradesh) Limited is directed to pay costs, quantified at Rs.5,00,000/- (Rupees Five Lakh)
+in each case to the appellants.
+
+107. Pending applications, if any, shall stand disposed of. CIVIL APPEAL NO. 4612 OF 2023
+
+108. Since we have already set aside the judgment and order of the High Court dated 20th
+September 2021 in D.B. Civil Writ Petition No.14815 of 2020 and the order impugned in the present
+appeal is based on the said order of the High Court dated 20th September 2021, the present appeal
+is also allowed. The judgment and order of the learned APTEL dated 1st June 2023 is quashed and
+set aside.
+
+109. Since we have saddled the costs in Civil Appeal Nos. 6503 of 2022 and 6502 of 2022, there
+shall be no order as to costs in the present appeal.
+
+110. Pending applications, if any, shall stand disposed of.
+
+…….........................J. [B.R. GAVAI] ………….…….........................J. [PRASHANT KUMAR MISHRA]
+NEW DELHI;
+
+JANUARY 08, 2024
+
+Indian Kanoon - http://indiankanoon.org/doc/1526619/
+
+38
+
+

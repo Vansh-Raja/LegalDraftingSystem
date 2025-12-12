@@ -1,0 +1,1104 @@
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+M y p r e f e r r e d   T r a n s f o r m a t i o n   A n d   . . .   v s   M / S .   F a r i d a b a d
+Implements Pvt. Ltd on 10 January, 2025
+
+Author: Pamidighantam Sri Narasimha
+
+Bench: Pamidighantam Sri Narasimha, Pankaj Mithal
+
+2025 INSC 56                                                                                  REPORTABLE
+
+                                        IN THE SUPREME COURT OF INDIA
+                                         CIVIL APPELLATE JURISDICTION
+
+                                       CIVIL APPEAL NO. 336 OF 2025
+                                  ARISING OUT OF SLP (C) NO. 9996 OF 2024
+
+             MY PREFERRED TRANSFORMATION &
+             HOSPITALITY PVT. LTD. & ANR.                                                ...APPELLANT(S)
+
+                                                            VERSUS
+
+             M/S FARIDABAD IMPLEMENTS PVT. LTD.                                       …RESPONDENT(S)
+
+                                                      JUDGMENT
+
+PAMIDIGHANTAM SRI NARASIMHA, J.
+
+Table of Contents
+
+1. Introduction .................................................................................. 2
+
+2. Facts ............................................................................................ 4
+
+3 .   D e c i s i o n   o f   t h e   H i g h   C o u r t   u n d e r   S e c t i o n   3 4   a n d   S e c t i o n   3 7   o f   t h e   A C A
+................................................................................................... 5
+
+4. Submissions ................................................................................. 7
+
+5. Issues ........................................................................................ 12
+
+6. Applicability of the Limitation Act to ACA ..................................... 13
+
+7. Applicability of the Limitation Act to Section 34(3) .......................... 16 i. Section 5 of the
+Limitation Act ................................................... 18 ii.
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+1
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+Section 12 of the Limitation Act ................................................. 20 iii. Section 14 of the Limitation
+A c t   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2 0   i v .   S e c t i o n   1 7   o f   t h e   L i m i t a t i o n   A c t
+................................................. 22 v. Section 4 of the Limitation Act ...................................................
+24
+
+8. Applicability of Section 10 of the GCA .......................................... 31
+
+9. Summarising the Current Position of Law ..................................... 32
+
+10. Highlighting Certain Concerns with the Current Legal Position ...... 33
+
+11. Conclusion................................................................................. 37
+
+1. Introduction: Leave granted. Facts, to the extent that they are relevant for determining the issue
+of limitation for filing an application challenging an arbitral award under Section 34 of the
+Arbitration and Conciliation Act, 19961 are as follows. The appellants received the arbitral award on
+14.02.2022. The 3- month limitation period for filing the application under Section 34(3) of the ACA
+expired on 29.05.2022, on which date the court was functioning, but closed after five days for
+vacation commencing from 04.06.2022 to 03.07.2022. The application under Section 34 was filed
+immediately on the court’s reopening, i.e. 04.07.2022. The High Court single judge under Section
+34 and the High Court division bench under Section 37 dismissed the petition as barred by
+limitation. Under these circumstances, the issue before us is whether the benefit of the additional 30
+days under the proviso to Section 34(3), which expired during the Hereinafter “ACA”.
+
+vacation, can be given when the petition is filed immediately after reopening in exercise of power
+under Section 4 of the Limitation Act, 19632.
+
+1.1 After considering Sections 34(3) and 43(1) of the ACA, Sections 4 and 29(2) of the Limitation Act
+and Section 10 of the General Clauses Act, 18973, as well as precedents of this Court, we have
+answered the question in the negative and have dismissed the present appeal. While we have
+expressed certain concerns regarding the curtailment of a precious remedy to challenge an arbitral
+award due to a stringent construction of Section 4 of the Limitation Act vis-à-vis Section 34(3), we
+have held that in light of the current position of law, the Section 34 application preferred by the
+appellant is barred by limitation based on the following conclusions:
+
+(i) There is no wholesale exclusion of Sections 4 to 24 of the Limitation Act when
+calculating the limitation period under Section 34(3) of the ACA.
+
+(ii) Section 4 of the Limitation Act applies to Section 34(3) of the ACA only to the
+extent when the 3-month period expires on a court holiday. It does not aid the
+applicant Hereinafter “Limitation Act”.
+
+Hereinafter “GCA”.
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+2
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+when the 30-day condonable period expires on a court holiday.
+
+(iii) In view of the applicability of Section 4 of the Limitation Act to Section 34 proceedings, Section
+10 of the GCA does not apply and will not benefit the applicant when the 30- day condonable period
+expires on a court holiday.
+
+2. Facts: The detailed facts leading up to the present appeal are as follows. The appellants entered
+into lease agreements with the respondent, who is the owner of the property. Pursuant to certain
+disputes, the respondent invoked arbitration and an arbitral award dated 04.02.2022 was made in
+its favour. The appellants received a scanned copy of the award by email on 04.02.2022 itself, and
+later received a signed hard copy of the award on 14.02.2022, from which day limitation must be
+calculated. The 3-month limitation period under Section 34(3), after considering the extension of
+limitation by operation of this Court’s order dated 10.01.2022 on account of the COVID-19
+pandemic,4 expired on 29.05.2022. The further 30-day condonable period expired on 28.06.2022.
+This fell during the High Court’s summer vacation between 04.06.2022 and 03.07.2022. The
+appellants filed the In Re: Cognizance of Extension of Limitation, Suo Motu Writ Petition (C) No 3
+of 2020. Section 34 petition along with an application for condonation of delay on the date when the
+court reopened, i.e., 04.07.2022. It would also be relevant to note the notification dated 20.05.2022
+of the Registrar General of the Delhi High Court as per which 04.07.2022 would be considered the
+date of reopening for calculating limitation. In the meanwhile, the respondent filed for execution of
+the award.
+
+3. Decision of the High Court under Section 34 and Section 37 of the ACA: The Section 34
+application was dismissed by the single judge by order dated 07.02.2023 as being barred by
+limitation. The appellants preferred an appeal under Section 37, which was dismissed by the
+division bench by order dated 03.04.2024 that is impugned before us. The reasoning of the High
+Court proceeds as follows:
+
+3.1 The limitation period commenced from 14.02.2022, when the appellants received
+a signed copy of the award. Under Section 34(3), an application to set aside the award
+must be made within a period of 3 months from the receipt of the award, which
+comes up to 14.05.2022. However, the High Court referred to this Court’s order dated
+10.01.20225, which extended the period of limitation ibid.
+
+in cases where the limitation expired between 15.03.2020 and 28.02.2022. The extended period of
+limitation was 90 days from 01.03.2022, which expired on 29.05.2022. The condonable period of 30
+days expired on 28.06.2022, which fell during the summer vacation. The application was filed on
+the first date of reopening of the court, i.e., on 04.07.2022.
+
+3.2 The High Court referred to this Court’s decision in Assam Urban Water Supply & Sewerage
+Board v. Subhash Projects & Marketing Limited6, where it was held that Section 4 of the Limitation
+Act applies only to cases where the “prescribed period” of limitation expires on a date when the
+court is closed. However, it does not apply when the 30-day condonable period expires on a court
+holiday.
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+3
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+3.3 It further held that the notification dated 20.05.2022, which permitted filing between
+27.06.2022 to 02.07.2022 would not impact the applicability of Section 10 of the GCA, as
+04.07.2022 would be considered as the date of court reopening for the purpose of limitation.
+
+3.4 Finally, the High Court referred to this Court’s decision in Bhimashankar Sahakari Sakkare
+Karkhane Niyamita v. (2012) 2 SCC 624.
+
+Walchandnagar Industries Limited7, which held that Section 10 of the GCA is inapplicable to the
+condonable period stipulated in the proviso to Section 34(3) of the ACA. While noting the
+submission of the learned counsel on an inconsistency in Bhimashankar (supra) regarding the
+applicability of the Limitation Act to Section 34(3), it held that nevertheless, the decision is binding
+and unambiguous. Therefore, the High Court held that it does not have the power to condone the
+delay in the present case and dismissed the Section 37 appeal.
+
+4. This Court, by its order dated 10.05.2024 issued notice on the condition that the appellants must
+deposit Rs. 2 crores with the Executing Court and also stayed the execution proceedings. The
+deposit condition has been complied with by the appellants.
+
+5. Submissions: We have heard Mr. Neeraj Kishan Kaul, learned senior counsel for the appellants,
+and Mr. Syed Ahmed Naqvi, learned counsel for the respondent. Mr. Kaul’s submissions proceed as
+follows:
+
+5.1 First, referring to Union of India v. Popular Construction8 and its reliance in
+Assam Urban (supra), he submitted that the Limitation Act, including Section 4, does
+not apply to Section 34(3).
+
+(2023) 8 SCC 453.
+
+(2001) 8 SCC 470.
+
+Hence, he submitted that there was no occasion for the Court in Assam Urban (supra) to interpret
+Section 4 of the Limitation Act and delve into the difference between the ‘‘prescribed period’’ and
+the condonable period under Section 34(3).
+
+5.2 Second, since the Limitation Act is excluded, Section 10 of the GCA applies to Section 34(3),
+including when the condonable period expires on a holiday. He relied on Sridevi Datla v. Union of
+India9, where the benefit of Section 10 of the GCA was extended to the party when the condonable
+period under Section 16 of the NGT Act expired on a holiday and the appeal was filed on the next
+working day. Additionally, he submitted that the term ‘‘certain day’’ in Section 10 of the GCA gives it
+wider import than Section 4 of the Limitation Act, and extends its applicability to when the
+condonable period expires on a court holiday.
+
+5.3 Third, Mr. Kaul expressed doubt regarding the correctness of Bhimashankar (supra), where
+Section 10 of the GCA was held to be inapplicable to Section 34(3) as the Limitation Act applies. He
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+4
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+sought to highlight certain contradictions in the judgment by referring to paras 54, 55 and 57. He
+submitted that while paras 54 and 55 hold the Limitation Act to be inapplicable to Section 34(3), 
+(2021) 5 SCC 321.
+
+the Court rejected the benefit of Section 10 of the GCA in para 57 on the basis that the Limitation Act
+applies. In this manner, the Court distinguished Sridevi Datla (supra) and did not sufficiently deal
+with the reasoning there. Instead, the Court relied on Assam Urban (supra), which did not consider
+Section 10 of the GCA, and Sagufa Ahmed10, which did not interpret Section 10 of the GCA
+sufficiently. He also submitted that the observations of the Court in Bhimashankar (supra) doubting
+Sridevi Datla (supra) on the ground that it did not deal with Assam Urban (supra) are untenable as
+Section 10 of the GCA was not under consideration in Assam Urban (supra).
+
+5.4 The written submissions filed by the appellants adopt a slightly different line of argumentation.
+It is submitted that Section 4 of the Limitation Act does not apply to the proviso of Section 34(3),
+since that is not the ‘‘prescribed period’’. Hence, relying on Sridevi Datla (supra) and considering
+that Section 10 of the GCA is a beneficial legislation,11 it is submitted that Section 10 of the GCA
+must apply to the proviso. Its inapplicability would be oppressive and would render the 30-day
+condonable period under Sagufa Ahmed v. Upper Assam Polywood Products Pvt Ltd, (2021) 2 SCC
+317. Relied on H.H. Raja Harinder Singh v. S. Karnail Singh, 1956 SCC OnLine SC 111; Manohar
+Joshi v. Nitin Bhaurao Patil, (1996) 1 SCC 169; and Consolidated Engineering Enterprises v.
+Principal Secretary, Irrigation Department, (2008) 7 SCC 169.
+
+Section 34(3) otiose when it expires on a court holiday, leaving the party remediless.
+
+6. Mr. Naqvi, learned counsel for the respondent, first referred to this Court’s recent decision in
+State of West Bengal v. Rajpath Contractors and Engineers Ltd12 to submit that in identical facts,
+this Court followed Assam Urban (supra) and held that Section 4 of the Limitation Act only applies
+to the 3-month limitation period and not to the 30-day condonable period under Section 34(3).
+These judgments, along with Bhimashankar (supra), determine the issue.
+
+6.1 Second, Mr. Naqvi submitted that the entirety of Sections 4 to 24 of the Limitation Act are not
+excluded from applying to Section 34 proceedings. He took us through certain portions of
+Consolidated Engineering Enterprises v. Principal Secretary, Irrigation Department13, which is a
+3-judge bench decision, to submit that Popular Construction (supra) only deals with the exclusion of
+Section 5 of the Limitation Act. In this case, Section 14 of the Limitation Act was held to be
+applicable. Similarly, he submitted that other decisions also apply Section 12 of the (2024) 7 SCC
+257.
+
+(2008) 7 SCC 169.
+
+Limitation Act to Section 34(3). In the same vein, Section 4 of the Limitation Act also applies.
+
+6.2 Third, regarding the manner in which Section 4 of the Limitation Act applies to Section 34(3), he
+submitted that Sagufa Ahmed (supra) clearly distinguishes the prescribed period and condonable
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+5
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+period. The wording of Section 4 only makes it applicable to the 3-month period and not the 30-day
+condonable period, which cannot be extended any further. He also submitted that Sridevi Datla
+(supra) did not notice the distinction drawn in Sagufa Ahmed (supra) when applying Section 10 of
+the GCA. 6.3 Fourth, he submitted that Section 10 of the GCA does not apply to Section 34(3) as the
+Limitation Act applies. He also responded to Mr. Kaul’s reliance on the words ‘‘certain day’’ in
+Section 10 of the GCA by submitting that they apply when a statute fixes a particular day or date for
+performing some act, which is not the case here. Therefore, the Section 34 application, which was
+filed on the 126th day, was barred by limitation and the High Court could not have condoned the
+delay through reference to Section 10 of the GCA.
+
+6.4 In the written submissions, the respondent has further submitted that once Section 4 of the
+Limitation Act applies to Section 34(3), the provision cannot be further split into individual
+sections, sub-sections, and provisos to make Section 10 of the GCA applicable. Moreover, Section 10
+of the GCA cannot be applied to the condonable period as that would amount to reading the
+expression ‘‘prescribed period’’ in Section 10 as including the condonable 30-day period, which is
+contrary to various judgments of this Court. Lastly, that Sridevi Datla (supra) was decided in the
+context of Section 16 of the NGT Act, while Assam Urban (supra), Bhimashankar (supra), and
+Rajpath Contractors (supra) are specifically in the context of Section 34(3).
+
+7. Issues: Before proceeding with our analysis, it is necessary to frame issues to systematically
+address the submissions of the learned counsels and the questions of law arising in this case
+regarding the applicability of Section 4 of the Limitation Act and Section 10 of the GCA to the
+condonable period under Section 34(3):
+
+i. Do the provisions of the Limitation Act apply to Section 34 proceedings, and to
+what extent?
+
+ii. Does Section 4 of the Limitation Act apply to Section 34(3) as per an analysis of the
+statutory scheme as well as precedents of this Court on the issue? If Section 4 applies,
+does it apply only to the 3-month limitation period or also the 30-day condonable
+period?
+
+iii. In light of the answer in (ii), will Section 10 of the GCA apply to Section 34(3), and
+if so, in what manner?
+
+The answers to these issues will determine whether the Section 34 application in the
+present case was filed within the condonable period of 30 days.
+
+8. Applicability of the Limitation Act to ACA: Section 29(2) of the Limitation Act stipulates that
+where any special or local law prescribes a period of limitation that is different from the Schedule,
+Section 3 of the Limitation Act14 shall apply as if such period is the one prescribed in the Schedule.
+Further, Section 4 to 24 shall apply insofar as, and to the extent to which, they are not expressly
+excluded by such special or local law. Therefore, Section 29(2)  Section 3 of the Limitation Act reads:
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+6
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+“3. Bar of limitation.—(1) Subject to the provisions contained in sections 4 to 24
+(inclusive), every suit instituted, appeal preferred, and application made after the
+prescribed period shall be dismissed, although limitation has not been set up as a
+defence. (2) For the purposes of this Act,—
+
+(a) a suit is instituted,—
+
+(i) in an ordinary case, when the plaint is presented to the proper officer;
+
+(ii) in the case of a pauper, when his application for leave to sue as a pauper is made;
+and
+
+(iii) in the case of a claim against a company which is being wound up by the court,
+when the claimant first sends in his claim to the official liquidator;
+
+(b) any claim by way of a set off or a counter claim, shall be treated as a separate suit
+and shall be deemed to have been instituted—
+
+(i) in the case of a set off, on the same date as the suit in which the set off is pleaded;
+
+(ii) in the case of a counter claim, on the date on which the counter claim is made in
+court;
+
+(c) an application by notice of motion in a High Court is made when the application is
+presented to the proper officer of that court.” imports the provisions of the Limitation
+Act to special and local laws that prescribe a different period of limitation, unless
+there is an express exclusion contained in such law. Section 29(2) reads:
+
+“29. Savings.— (2) Where any special or local law prescribes for any suit, appeal or
+application a period of limitation different from the period prescribed by the
+Schedule, the provisions of section 3 shall apply as if such period were the period
+prescribed by the Schedule and for the purpose of determining any period of
+limitation prescribed for any suit, appeal or application by any special or local law,
+the provisions contained in sections 4 to 24 (inclusive) shall apply only in so far as,
+and to the extent to which, they are not expressly excluded by such special or local
+law.”
+
+9. The effect of Section 29(2) has been summarised by this Court in Mukri Gopalan v. Cheppilat
+Puthanpurayil15 as follows:
+
+“8. …A mere look at the aforesaid provision shows for its applicability to the facts of a
+given case and for importing the machinery of the provisions containing Sections 4 to
+24 of the Limitation Act the following two requirements have to be satisfied by the
+authority invoking the said provision.
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+7
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+(i) There must be a provision for period of limitation under any special or local law in
+connection with any suit, appeal or application.
+
+(ii) The said prescription of period of limitation under such special or local law
+should be different from the period prescribed by the Schedule to the Limitation Act.
+
+9. If the aforesaid two requirements are satisfied the consequences contemplated by Section 29(2)
+would automatically follow. These consequences are as under:
+
+(i) In such a case Section 3 of the Limitation Act would apply as if the period
+prescribed by the special or local law was the period prescribed by the Schedule.
+
+(ii) For determining any period of limitation prescribed by such special or local law
+for a suit, appeal or application all Mukri Gopalan v. Cheppilat Puthanpurayil
+Aboobacker, (1995) 5 SCC 5, as affirmed in Bhakra Beas Management Board v. Excise
+& Taxation Officer, (2020) 17 SCC 692, paras 13 and 14.
+
+the provisions containing Sections 4 to 24 (inclusive) would apply insofar as and to the extent to
+which they are not expressly excluded by such special or local law.”
+
+10. Section 43(1) of the ACA fortifies the applicability of the Limitation Act not only to court
+proceedings under the ACA but also to arbitrations. It reads:
+
+“43. Limitations.—(1) The Limitation Act, 1963 (36 of 1963), shall apply to
+arbitrations as it applies to proceedings in Court.”
+
+11. This Court in Consolidated Engineering Enterprises (supra) considered the necessity of a
+provision in the nature of Section 43(1), when Section 29(2) of the Limitation Act already makes
+Sections 4 to 24 of the Limitation Act applicable to special statutes, including the ACA. It held that
+the ACA does not prescribe the period of limitation for various proceedings under the Act, and
+deviates from the Limitation Act in specific instances like Section 34(3) and Sections 43(2) to (4).16
+By virtue of Section 29(2), the Limitation Act applies to court proceedings under the ACA. The
+purpose of Section 43(1) of the ACA is to extend the applicability of the Limitation Act to
+arbitrations also, as these are private tribunals and not courts. Since the Limitation Act is only
+applicable to court proceedings, Section 43(1) is necessary to make Consolidated Engineering
+(supra), para 42.
+
+it applicable to arbitrations in the same manner as it applies to court proceedings.17
+
+12. Applicability of the Limitation Act to Section 34(3): Once it is clear that the Limitation Act
+generally applies to arbitrations and court proceedings under the ACA, it is necessary to consider its
+applicability to Section 34 proceedings. Section 34(3) provides the limitation period and condonable
+period to file a Section 34 application, and it reads:
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+8
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+“34. Application for setting aside arbitral award.— (3) An application for setting aside
+may not be made after three months have elapsed from the date on which the party
+making that application had received the arbitral award or, if a request had been
+made under section 33, from the date on which that request had been disposed of by
+the arbitral tribunal:
+
+Provided that if the Court is satisfied that the applicant was prevented by sufficient
+cause from making the application within the said period of three months it may
+entertain the application within a further period of thirty days, but not thereafter.”
+
+13. From reading the provision, it is clear that an application to set aside an arbitral award under
+Section 34 must be within 3 months from the receipt of the award or the date of disposal of a request
+under Section 33. This is the period of limitation.18 Further, the court may exercise discretion to
+entertain the ibid, para 45.
+
+State of Goa v. Western Builders, (2006) 6 SCC 239, para 10; Consolidated Engineering Enterprises
+(supra), para 19.
+
+application, within a further period of 30 days, if sufficient cause is shown, but not thereafter.19
+
+14. As per Section 29(2) of the Limitation Act, the effect of there being a different limitation period
+under Section 34(3) is that:
+
+Section 3 of the Limitation Act applies to proceedings under Section 34 of the ACA as
+if the 3-month limitation period is the period prescribed in the Schedule to the
+Limitation Act. Further, Sections 4 to 24 of the Limitation Act apply to determine
+whether the application is within the period of limitation, “insofar as, and to the
+extent to which, they are not expressly excluded.”.
+
+15. There are two aspects necessary for our consideration at this point: first, the interpretation of
+“express exclusion”; and second, the extent of such exclusion.
+
+16. The mere prescription of a period of limitation that is different from the Limitation Act, even if
+mandatory and compulsory, is not sufficient to displace the applicability of the Limitation Act’s
+provisions.20 However, an exclusion of the Limitation Act’s provisions can be inferred if the nature
+and language of the provisions, and the scheme of the special law necessarily exclude the
+applicability of one or more of the provisions contained in See State of Maharashtra v. Hindustan
+Construction Co. Ltd., (2010) 4 SCC 518, para 29. Mangu Ram v. Municipal Corporation of Delhi,
+(1976) 1 SCC 392, para 7. Sections 4 to 24 of the Limitation Act.21 Thus, as per settled case- law, an
+express reference to an exclusion is not essential and the court can examine the language of the
+special law and its scheme to arrive at a conclusion that certain provisions of the Limitation Act are
+impliedly excluded.
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+9
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+17. The applicability of Sections 4 to 24, and the extent of their applicability and exclusion under
+Section 34(3), has been considered by this Court in several cases. It is useful to categorise these
+cases based on the provision of the Limitation Act under consideration therein.
+
+18. Section 5 of the Limitation Act22: In the leading judgment of Popular Construction (supra), this
+Court considered whether a court can condone delay beyond 30 days, as specified in the proviso to
+Section 34(3), by relying on Section 5 of the Limitation Act. It considered the expression ‘’but not
+thereafter’’ in the proviso to Section 34(3), which it held would amount to an express Hukumdev
+Narain Yadav v. Lalit Narain Mishra, (1974) 2 SCC 133, para 17; Popular Construction (supra), paras
+8-11; Commissioner of Customs and Central Excise v. Hongo India Pvt Ltd, (2009) 5 SCC 791, para
+35. Section 5 of the Limitation Act reads:
+
+“5. Extension of prescribed period in certain cases.—Any appeal or any application,
+other than an application under any of the provisions of Order XXI of the Code of
+Civil Procedure, 1908 (5 of 1908), may be admitted after the prescribed period, if the
+appellant or the applicant satisfies the court that he had sufficient cause for not
+preferring the appeal or making the application within such period.
+
+Explanation.—The fact that the appellant or the applicant was misled by any order, practice or
+judgment of the High Court in ascertaining or computing the prescribed period may be sufficient
+cause within the meaning of this section.” exclusion within the meaning of Section 29(2) of the
+Limitation Act. Hence, Section 5 would not apply as it would render this phrase redundant if a
+further period was allowed to be condoned through reference to Section 5 of the Limitation Act.23
+18.1 The Court further considered the scheme and object of the ACA and held that Section 34(1)
+provides for recourse against the arbitral award “in accordance with” sub-sections (2) and (3), which
+set out the grounds and the time period for challenging the arbitral award. Reading the provision as
+a whole, the Court held that an application beyond 3 months and 30 days would not be “in
+accordance with” Section 34(3), and hence the recourse under Section 34(1) cannot be availed.24
+18.2 Further, the Court also considered the enforceability of the award under Section 36 of the ACA
+once the time to make an application under Section 34 expires.25 Thus, it held that the scheme of
+the ACA would result in an exclusion of Section 5 of the Limitation Act, and therefore, a delay
+beyond 30 days cannot be condoned by recourse to Section 5.
+
+Popular Construction (supra), para 12.
+
+ibid, para 16.
+
+ibid.
+
+19. Section 12 of the Limitation Act26: This Court in State of Himachal Pradesh v. Himachal Techno
+Engineers27 held that Section 12 of the Limitation Act applies for the purpose of calculating
+limitation under Section 34(3), and the same is not excluded by the provisions of the ACA. It held
+that the day from which the 3-month limitation period is to be reckoned must be excluded as per
+Section 12(1).28
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+10
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+20. Section 14 of the Limitation Act29: In State of Goa v. Western Builders (supra), a division bench
+of this Court held that nothing in the ACA or in the language of Section 34 excludes the applicability
+of Section 14 of the Limitation Act. Hence, the time spent by a party who was bona fide prosecuting
+his remedy before a court that did not have jurisdiction must be excluded while calculating the
+prescribed period under Section 34(3). It held that The relevant portion of Section 12 of the
+Limitation Act reads:
+
+“12. Exclusion of time in legal proceedings.—(1) In computing the period of limitation
+for any suit, appeal or application, the day from which such period is to be reckoned,
+shall be excluded…” (2010) 12 SCC 210.
+
+ibid, paras 12, 19.
+
+The relevant portion of Section 14 of the Limitation Act reads:
+
+“14. Exclusion of time of proceeding bona fide in court without jurisdiction.—(1) In
+computing the period of limitation for any suit the time during which the plaintiff has
+been prosecuting with due diligence another civil proceeding, whether in a court of
+first instance or of appeal or revision, against the defendant shall be excluded, where
+the proceeding relates to the same matter in issue and is prosecuted in good faith in a
+court which, from defect of jurisdiction or other cause of a like nature, is unable to
+entertain it.
+
+(2) In computing the period of limitation for any application, the time during which
+the applicant has been prosecuting with due diligence another civil proceeding,
+whether in a court of first instance or of appeal or revision, against the same party for
+the same relief shall be excluded, where such proceeding is prosecuted in good faith
+in a court which, from defect of jurisdiction or other cause of a like nature, is unable
+to entertain it…” when the special law is silent and there is no specific prohibition, it
+must be interpreted in a manner that advances justice. While the object of the ACA is
+to ensure expeditious decisions in commercial matters through arbitration, Section
+43 makes the entirety of the Limitation Act applicable. The Limitation Act is excluded
+only to that extent of the area which is covered under the ACA, and hence Section 5 is
+excluded by virtue of the stipulation of the mandatory 30-day condonable period
+under Section 34(3).30
+
+21. A three-judge bench of this Court in Consolidated Engineering Enterprises (supra) also held that
+Section 14 of the Limitation Act applies to Section 34(3). Merely because Section 5 of the Limitation
+Act stands excluded, does not lead to a conclusion that other provisions are also excluded.31
+Adopting a similar reasoning as Western Builders (supra), the Court held that there is no provision
+in the ACA that excludes the applicability of Section 14 of the Limitation Act to Section 34
+proceedings.32 Further, the Court held that there is a fundamental distinction between Sections 5
+and 14 of the Limitation Act. Section 5 allows the court to exercise discretion to condone delay, and
+thereby extends the period of Western Builders (supra), paras 16-25. Followed in Gulbarga
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+11
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+University v. Mallikarjun S. Kodagali, (2008) 13 SCC 539.
+
+Consolidated Engineering Enterprises (supra), para 20. ibid, paras 23, 27.
+
+limitation.33 However, under Section 14, the exclusion of time is mandatory if certain conditions are
+satisfied. Exercise of power under Section 5 is therefore broader than Section 14, as a wide range of
+reasons can be put forth to show sufficient cause for delay.34 Hence, it held that the decision in
+Popular Construction (supra) does not mean that Section 14 of the Limitation Act is also
+inapplicable to Section 34(3) of the ACA. This decision has been subsequently followed by this Court
+in other cases.35
+
+22. Section 17 of the Limitation Act36: In P. Radha Bai v. P. Ashok Kumar37, this Court held that
+Section 17 of the Limitation Act does not enable condonation of delay in a Section 34 application
+beyond the 30-day period when such delay is caused due to fraud played on the applicant party. The
+Court took note of the applicability of Sections 12 and 14 of the Limitation Act (discussed above). It
+held ibid, paras 28, 54.
+
+ibid, para 28.
+
+Coal India Limited v. Ujjal Transport Agency, (2011) 1 SCC 117; Commissioner, Madhya Pradesh
+Housing Board v. Mohanlal and Company, (2016) 14 SCC 199. The relevant portion of Section 17 of
+the Limitation Act reads:
+
+“17. Effect of fraud or mistake.—(1) Where, in the case of any suit or application for
+which a period of limitation is prescribed by this Act,—
+
+(a) the suit or application is based upon the fraud of the defendant or respondent or
+his agent; or
+
+(b) the knowledge of the right or title on which a suit or application is founded is
+concealed by the fraud of any such person as aforesaid; or
+
+(c) the suit or application is for relief from the consequences of a mistake; or
+
+(d) where any document necessary to establish the right of the plaintiff or applicant
+has been fraudulently concealed from him, the period of limitation shall not begin to
+run until plaintiff or applicant has discovered the fraud or the mistake or could, with
+reasonable diligence, have discovered it; or in the case of a concealed document, until
+the plaintiff or the applicant first had the means of producing the concealed
+document or compelling its production…” (2019) 13 SCC 445.
+
+that Section 17 only defers the commencement of the limitation period, but does not extend or break
+the limitation period.38 However, it held Section 17 to be inapplicable for the following reasons.
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+12
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+22.1 Under Section 34(3) of the ACA, the limitation period commences on the date of receipt of
+award or the date of disposal of request under Section 33 for correction or an additional award.
+However, if Section 17 of the Limitation Act were to apply, the limitation would commence on the
+date of discovery of the alleged fraud or mistake, and the outer limit to challenge the award would go
+beyond the mandatory 3 months plus 30 days period.39 Based on these inconsistencies between
+Section 17 of the Limitation Act and the language of Section 34(3), the Court held that there is an
+“express exclusion”.
+
+22.2 It also considered the object of the ACA to ensure speedy dispute resolution and finality to the
+award; enforceability of the award under Section 36 of the ACA, once the time to challenge the
+award expires; and “unbreakability” of the time limit under Section 34(3), to hold that Section 17 of
+the Limitation Act is inapplicable.40 ibid, para 30.
+
+ibid, paras 31.1-31.2.
+
+ibid, paras 36-37.
+
+23. Section 4 of the Limitation Act: We found it necessary to deal with the case-law, categorised as
+per the provisions of the Limitation Act, due to a certain view at the bar that the provisions of the
+Limitation Act are entirely inapplicable to Section 34(3). Such a view was put forth before the High
+Court as well as before us. Through the above discussion, it is amply clear that there is no wholesale
+exclusion of the provisions of the Limitation Act in calculating the period of limitation under Section
+34(3). Rather, each provision’s applicability/exclusion has been individually tested by this Court, on
+a case-to-case basis, based on the language and purpose of the specific provision in the Limitation
+Act, the language of Section 34(3) of the ACA, and the scheme and object of the ACA. It is in this
+light that we must consider whether Section 4 of the Limitation Act applies to Section 34(3), and in
+what manner. The above context is also necessary to appreciate the precedents on this issue.
+
+24. Before analysing the case-law, it is relevant to extract Section 4 of the Limitation Act:
+
+“Section 4. Expiry of prescribed period when court is closed.—Where the prescribed
+period for any suit, appeal or application expires on a day when the court is closed,
+the suit, appeal or application may be instituted, preferred or made on the day when
+the court re-opens.
+
+Explanation.—A court shall be deemed to be closed on any day within the meaning of
+this section if during any part of its normal working hours it remains closed on that
+day.” We will also extract Section 10 of the GCA to juxtapose these provisions:
+
+“Section 10. Computation of time.—(1) Where, by any Central Act or Regulation made
+after the commencement of this Act, any act or proceeding is directed or allowed to
+be done or taken in any Court or office on a certain day or within a prescribed period,
+then, if the Court or office is closed on that day or the last day of the prescribed
+period, the act or proceeding shall be considered as done or taken in due time if it is
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+13
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+done or taken on the next day afterwards on which the Court or office is open:
+
+Provided that nothing in this section shall apply to any act or proceeding to which the
+Indian Limitation Act, 1877 (15 of 1877), applies.
+
+(2) This section applies also to all Central Acts and Regulations made on or after the
+fourteenth day of January, 1887.” (emphasis supplied)
+
+25. As per Section 4, if the ‘‘prescribed period’’, which is defined in Section 2(j) of the
+Limitation Act as the period of limitation computed in accordance with its
+provisions41, expires on a day when the court is closed, the application may be made
+on the day when the court reopens.
+
+26. This Court in Assam Urban (supra) considered the applicability of Section 4 of
+the Limitation Act in a situation when Section 2(j) of the Limitation Act reads:
+
+“2. Definitions.—In this Act, unless the context otherwise requires,—
+
+(j) “period of limitation” means the period of limitation prescribed for any suit,
+appeal or application by the Schedule, and “prescribed period” means the period of
+limitation computed in accordance with the provisions of this Act;” (emphasis
+supplied) the condonable period of 30 days expired on a court holiday. The brief facts
+are that the appellants received the arbitral awards on 26.08.2003, the 3-month
+limitation period expired on 26.11.2003, on which date the court was open. The
+further condonable period of 30 days expired during court vacation between
+25.12.2003 to 01.01.2004. The application under Section 34 was filed on 02.01.2004,
+on the date of court reopening. This Court upheld the dismissal of the Section 34
+application on the ground of delay, as the same could not be condoned.
+
+26.1 First, the Court held that by virtue of Section 43(1), the Limitation Act applies to matters of
+arbitration, “save and except to the extent its applicability has been excluded by virtue of the express
+provision contained in Section 34(3) of the 1996 Act”.42 26.2 It then considered the meaning of the
+expression ‘‘prescribed period’’ in Section 4, to determine whether the appellants in this case would
+be entitled to an extension of time. Reading Section 2(j) of the Limitation Act in the context of
+Section 34(3) of the ACA, it held that the “prescribed period’’ for an application to set aside the
+arbitral award is 3 months. The 30-day period is not the period of limitation, but the condonable
+period, Assam Urban (supra), para 9.
+
+and is therefore not the “prescribed period’’. Hence, it held that Section 4 was not attracted to the
+facts of the case.43
+
+27. Contrary to the interpretation of the judgment put forth by Mr. Kaul during the hearings, a
+reading of the entire judgment does not indicate that the Court in Assam Urban (supra) held Section
+4 of the Limitation Act to be inapplicable. The wording of para 9 of the judgment makes it clear that
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+14
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+the Limitation Act does not apply only to the extent that its applicability is excluded by an express
+provision in Section 34(3). While the Court did not explicitly deal with whether Section 4 of the
+Limitation Act was excluded, a reading of the entire judgment makes it clear that the Court
+proceeded on the basis that Section 4 applies. Therefore, we find it difficult to accept Mr. Kaul’s
+submission that Section 4 was held to be excluded in Assam Urban (supra). His further submission
+that once the Limitation Act is inapplicable, there was no occasion for the Court to decide on the
+applicability of Section 4 only to the prescribed period of 3 months, must also be rejected for the
+same reason.
+
+28. The position of law after Assam Urban (supra) is that while Section 4 of the Limitation Act
+applies to Section 34(3) of the ACA, ibid, paras 11-14.
+
+it only applies in relation to the prescribed period of 3 months. It does not apply when the
+condonable period of 30 days expires on a day when the court is not working.
+
+29. This position of law was subsequently considered and reiterated in Bhimashankar (supra) as
+well. Here, the arbitral award was made on 24.08.2016, the 3-month period of limitation expired on
+24.11.2016, and further 30 days came upto 24.12.2016, which fell during the court’s
+winter/Christmas vacation. The Court here considered the applicability of Section 4 of the
+Limitation Act and Section 10 of the GCA.
+
+29.1 On the issue of Section 4 of the Limitation, it held that the issue is covered by Assam Urban
+(supra), where it was held that the benefit of exclusion of the period when the court is closed is only
+available with respect to the “prescribed period of limitation” and not the period extendable by the
+court in exercise of its discretion.44 29.2 To determine the applicability of Section 10 of the GCA, it
+considered whether the Limitation Act applies to the ACA. It specifically rejected the submission
+that the Limitation Act does Bhimashankar (supra), paras 50-53.
+
+not apply. It further referred to Assam Urban (supra) on the extent of exclusion and held as follows
+in para 54:
+
+“54. Now, so far as the submission on behalf of the appellant that the Limitation Act
+shall not be applicable to the proceedings under the Arbitration Act is concerned, the
+aforesaid has no substance. Section 43(1) of the Arbitration Act specifically provides
+that the Limitation Act, 1963 shall apply to arbitrations as it applies to proceeding in
+Court. However, as observed and held by this Court in Assam Urban, the Limitation
+Act, 1963 shall be applicable to the matters of arbitration covered by the 1996 Act
+save and except to the extent its applicability has been excluded by virtue of express
+provision contained in Section 34(3) of the Arbitration Act.” (emphasis supplied) In
+paras 55 and 56, it discussed Popular Construction (supra) and Hindustan
+Construction (supra) on the inapplicability of Section 5 of the Limitation Act and the
+mandatory nature of the 30-day time limit for condonation of delay, respectively.
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+15
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+29.3 Finally, in paras 57 and 58, in light of the proviso to Section 10 of the GCA which
+specifically excludes its applicability to any act or proceeding to which the Limitation
+Act applies, the Court rejected the applicability of Section 10 of the GCA to Section
+34(3).
+
+30. The logic of the above reasoning in Bhimashankar (supra), like in Assam Urban (supra),
+proceeds on the basis that Section 4 of the Limitation Act applies to Section 34(3), as the same is not
+expressly or impliedly excluded. Reading paragraphs 54 to 58 together, it is clear that any apparent
+contradiction within them, which was raised by Mr. Kaul, does not in fact exist. The judgment is
+consistent throughout, in that it necessarily affirms the applicability of Section 4 of the Limitation
+Act while calculating limitation under Section 34(3), and consequently, relies on the proviso of
+Section 10 of the GCA to hold that Section 10 of the GCA does not apply.
+
+31. The applicability of Section 4 of the Limitation Act is also implicit in the recent decision in State
+of West Bengal v. Rajpath Contractors (supra). Here, the award was served on the appellant on
+30.06.2022. The 3-month limitation was reckoned from 01.07.2022, which came upto 30.09.2022.
+The court vacation started from 01.10.2022. The further 30-day period ended on 30.10.2022, which
+was during the court vacation. The application was filed on 31.10.2022. The Court held that the
+prescribed limitation period ended on 30.09.2022, when the court was working. Hence, by referring
+to Assam Urban (supra), it held that the appellant could not benefit from Section 4 of the Limitation
+Act as only the 30-day period expired on a court holiday. Hence, it held that the application was
+filed beyond the time under Section 34(3) and the delay could not be condoned.45 Rajpath
+Contractors (supra), paras 10-12.
+
+32. Applicability of Section 10 of the GCA: In view of this legal position, the final issue for our
+consideration is whether the appellant can claim the benefit of Section 10 of the GCA. This issue is
+also answered against the appellant by virtue of the clear and express language of the proviso to
+Section 10 of the GCA.
+
+33. This Court in Bhimashankar (supra) has already considered this issue and has clearly held that
+since the Limitation Act applies to Section 34(3), Section 10 of the GCA is not applicable.46 The
+argument put forth by the appellant in its written submissions that Section 10 of the GCA must
+apply to the 30-day period stipulated in the proviso to Section 34(3) also warrants rejection due to
+the statutory language of the proviso to Section 10 of the GCA, which states that it does not apply to
+“any act or proceeding” to which the Limitation Act applies. Considering that Section 4 of the
+Limitation Act applies to a Section 34 proceeding, the appellant cannot simultaneously claim benefit
+of Section 10 of the GCA.
+
+34. Since the applicability of Section 10 of the GCA is rejected at the very threshold, it is no longer
+necessary to consider the interpretation of “prescribed period’’ under Section 10 of the GCA as
+including the condonable period, as put forth by this Court in Bhimashankar (supra), paras 57 and
+58.
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+16
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+Sridevi Datla (supra) in the context of Section 16 of the NGT Act. The position of law in the context
+of Section 34(3) of the ACA has been clearly enunciated in Assam Urban (supra), Bhimashankar
+(supra), and Rajpath Contractors (supra). Hence, Sridevi Datla (supra) can be differentiated on this
+ground as well.
+
+35. Summarising the Current Position of Law: From the reasoning and decisions in the above cases,
+the following conclusions evidently follow:
+
+35.1 First, Section 4 of the Limitation Act applies to Section 34(3) of the ACA.
+
+35.2 Second, Section 4 of the Limitation Act benefits a party only when the
+“prescribed period’’, i.e. the 3-month limitation period under Section 34(3) expires
+on a court holiday. In such a situation, the application under Section 34 will be
+considered as having been filed within the limitation period if it is filed on the next
+working day of the court.
+
+35.3 Third, Section 4 of the Limitation Act does not come to the aid of the party when
+the 3-month limitation period expires on a day when the court was working. The
+30-day condonable period expiring during the court holidays will not survive and
+neither Section 4, nor any other provision of the Limitation Act, will inure to the
+benefit of the party to enable filing of the Section 34 application immediately after
+reopening.
+
+35.4 Fourth, since Section 4 of the Limitation Act applies to proceedings under
+Section 34 of the ACA, the applicability of Section 10 of the GCA stands excluded in
+view of the express wording of its proviso that excludes the applicability of the
+provision when the Limitation Act applies.
+
+36. Highlighting Certain Concerns with the Current Legal Position:
+
+Before parting with this judgment, we find it necessary to express certain difficulties
+with the current position of law. In our view, the above construction of limitation
+statutes is quite stringent and unduly curtails a remedy available to arbitrating
+parties to challenge the validity of an arbitral award. This must be addressed by the
+Parliament.
+
+36.1 The purpose of reading the Limitation Act alongside the ACA is not to restrict the special
+remedy under the ACA, but to enable exercise of such remedy in circumstances as contemplated
+under the Limitation Act. In this context, Section 29(2) of the Limitation Act becomes relevant as it
+incorporates Sections 4 to 24 of the Limitation Act in special statutes, including the ACA, to the
+extent that its provisions are not expressly excluded. 36.2 The language of Section 34(3) read with
+its proviso does not expressly or impliedly exclude Section 4 of the Limitation Act and this
+interpretation is in consonance with the important principle contemplated under Section 29(2) to
+protect rights and remedies. This Court has already recognised the applicability of Section 4 of the
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+17
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+Limitation Act.
+
+36.3 The substantive remedies available under Sections 34 and 37 of the ACA are, by their very
+nature, limited in their scope due to statutory prescription. It is therefore necessary to interpret the
+limitation provisions liberally, or else even the limited window available to parties to challenge an
+arbitral award will be lost. The remedy under Section 34 is precious, and courts will keep in mind
+the need to secure and protect such remedy while applying limitation provisions.47 If this limited
+remedy is denied on stringent principles of limitation, it will cause great prejudice and has the effect
+of (a) denying the remedy, and (b) in the long run, it will have the effect of dissuading contracting
+parties from seeking resolution of disputes through arbitration. This is against public policy. 36.4
+However, the difficulty arises as the judgments affirming the applicability of Section 4 of the
+Limitation Act equate the Kirpal Singh v. Government of India, 2024 SCC OnLine SC 3814, para 10.
+expression ‘’prescribed’’ in that section and Section 29(2) of the Limitation Act only with the main
+period of limitation (3 months). The problem with this construction is that the special law, i.e.,
+Section 34(3) of the ACA, along with its proviso does not prescribe the period of limitation in the
+manner that a period is specified in the Schedule of the Limitation Act. The statutorily prescribed
+period under Section 34(3) of the ACA is 3 months, and an additional 30 days. In our opinion, it will
+be wrong to confine the period of limitation to just 3 months by interpreting it as the “prescribed
+period” and excluding the balance 30 days under the proviso to Section 34(3) as not being the
+prescribed period through a process of interpretation.
+
+36.5 The purpose of applying the Limitation Act to special laws is to vest in the court the power to
+exercise discretion or to grant the benefit of exclusion. In such cases, when the Limitation Act
+applies, the discretion of the court as contemplated under its provisions, commencing from Sections
+4 to 24, must be given full effect. In this light, the additional period of 30 days specifically provided
+under the ACA loses its efficacy and purpose, and becomes untenable due to the current position of
+law. This takes us to a fundamental question as to the meaning of “express exclusion” of certain
+provisions of the Limitation Act by the ACA. In Popular Construction (supra), the Court came to the
+conclusion that Section 34(3) proviso “impliedly” – as against the specific expression “expressly” in
+Section 29(2) of the Limitation Act – excludes Section 5 of the Limitation Act.
+
+36.6 Once the Court commenced disapplying provisions of the Limitation Act to the ACA on the
+ground of implied exclusions, it is only a matter of interpretation to include or exclude provisions
+from Sections 4 to 24 of the Limitation Act on a case-to-case basis. Thus, for example, while the
+Court held that Sections 5 and 17 of the Limitation Act are excluded from Section 34(3), it came to
+the conclusion that Sections 4, 12, and 14 of the Limitation Act are applicable. In a way, the
+applicability of provisions from Sections 4 to 24 of the Limitation Act and the manner in which they
+apply are at the doorstep of the court, rather than being determined by a clear and categorical
+statutory prescription. This is perhaps the reason why the Parliament has used the expression
+“express exclusion” in Section 29(2) of the Limitation Act. We are conscious of the fact that it is too
+late in the day to hold that “express exclusion” will not include implied exclusion. It is for the
+legislature to take note of this position and bring about clarity and certainty. We say no more, for the
+overbearing intellectualisation of the Act by courts has become the bane of Indian arbitration.
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+18
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+37. Conclusion: For the reasons set forth above, the application preferred by the appellant under
+Section 34 of the ACA stands dismissed as it was filed beyond the condonable period of 30 days,
+which conclusively and absolutely expired on 28.06.2022.
+
+38. For the reasons stated above, we affirm the judgment and order passed by the High Court in
+FAO (OS) (COMM) No. 67/2023 dated 03.04.2024 and dismiss the appeal.
+
+39. There shall be no order as to costs.
+
+40. Pending applications, if any, stand disposed of.
+
+………………………………....J. [PAMIDIGHANTAM SRI NARASIMHA] NEW DELHI;
+
+JANUARY 10, 2025.
+
+IN THE SUPREME COURT OF INDIA CIVIL APPELLATE JURISDICTION CIVIL APPEAL NO.
+336 OF 2025 (Arising out of SLP (C) No.9996 of 2024) MYPREFERRED TRANSFORMATION AND
+HOSPITALITY PVT. LTD. AND ANR. …APPELLANT(S) VERSUS M/S FARIDABAD IMPLEMENTS
+PVT. LTD. …RESPONDENT(S) JUDGMENT PANKAJ MITHAL, J.
+
+1. The sole issue arising in this appeal for our consideration is whether the High Court was justified
+in dismissing the petition filed by the appellants herein under Section 34 of the Arbitration and
+Conciliation Act, 19961 as barred by time.
+
+2. My esteemed brother, in his opinion expressed on the above issue, has clearly concluded that the
+petition filed by the appellants under Section 34 of the A & C Act was beyond Hereinafter referred to
+as ‘the A & C Act’ limitation and was rightly dismissed as barred by time. I fully agree with the said
+opinion expressed by my brother on the basis of the legal interpretation of the various relevant
+provisions and the conclusions drawn on its basis. However, I would like to write a supporting
+opinion in my own way based upon the facts of the case at hand.
+
+3. On account of lease agreements entered into between the appellants and the respondent, certain
+disputes arose between them. Therefore, respondent invoked the arbitration clause whereupon the
+disputes were referred to arbitration. An arbitral award was passed on 04.02.2022, a soft copy of
+which was supplied to the appellants on the very same day by e-mail. A signed hard copy of the
+award dated 04.02.2022 was made available to the appellants on 14.02.2022.
+
+4. The prescribed period of time for filing a petition under Section 34 of the A & C Act is 3 months
+from the date on which the party, filing the petition, had received the arbitral award or if a request
+had been made under Section 33 of the A & C Act, from the date on which the request has been
+disposed of by the Arbitral Tribunal. Here, we are not concerned with the second part of Sub-Section
+(3) of Section 34 of the A & C Act but only with the first part of it which provides for a limitation of 3
+months from the date on which the party, filing the petition, had received the arbitral award. Since
+the appellants in the present case received the arbitral award on 14.02.2022, the 3 months period
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+19
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+prescribed for filing a petition as per sub-Section (3) of Section 34 expired on 14.05.2022. By
+operation of this Court’s order dated 10.01.2022 on account of COVID-19 pandemic, the said period
+of limitation stood extended upto 29.05.2022.
+
+5. The day on which the limitation expired for filing a petition under Section 34 of the A & C Act
+after giving the benefit of the COVID-19 pandemic i.e., 29.05.2022, as mentioned above, happened
+to be a working day. However, the appellants filed the petition under Section 34 of the A & C Act,
+not on the last day of limitation i.e. 29.05.2022 but on 04.07.2022 when the Courts re-opened after
+the summer vacation which were notified between 04.06.2022 and 03.07.2022. The petition filed by
+the appellants under Section 34 of the A & C Act was accompanied by an application for
+condonation of delay.
+
+6. The High Court rejected the delay condonation application and accordingly dismissed the petition
+filed by the appellants under Section 34 of the A & C Act vide order dated 07.02.2023 as barred by
+limitation. The appeal preferred by the appellants under Section 37 of the A & C Act before the
+Division Bench also met the same fate.
+
+7. The submission is that, though, the period of limitation for filing a petition under Section 34 of
+the A & C Act is 3 months but the court, on being satisfied that the appellants were prevented by
+sufficient cause from filing the petition within the aforesaid 3 months, could have entertained it
+within a further period of 30 days. Therefore, the maximum period in which the petition under
+Section 34 of the A & C Act, after condoning the delay, could be entertained is 90+30 days i.e., 120
+days. The said period expired on 28.06.2022 which fell during the summer vacation of the Court.
+Therefore, the petition filed by the appellants on the first day of re-opening of the Court after
+summer vacation was within time.
+
+8. In order to appreciate the above submission, it may be pertinent to refer to Section 43 of the A &
+C Act which provides for the applicability of the Limitation Act, 1963 which in unequivocal terms
+states that the Limitation Act shall apply to Arbitrations as it applies to proceedings in court. In view
+of the above provision and the case law on the subject as discussed by my brother, there remains no
+doubt that the Limitation Act is applicable to the arbitration proceedings as also to court
+proceedings under the A & C Act.
+
+9. The Limitation Act is based on public policy to bring to an end the life of a dispute for which
+appropriate remedy has not been availed within a time bound period.
+
+10. Section 3 of the Limitation Act, 1963 clearly lays down that every suit instituted, appeal
+preferred and application made to the court after the prescribed period shall be dismissed even
+though limitation has not been setup as a defence.
+
+11. Section 2(j) of the Limitation Act defines “period of limitation” to mean the period of limitation
+prescribed for any suit, appeal or application under the Schedule. The Schedule to the Limitation
+Act lays down the limitation prescribed inter alia for any suit, appeal or application. However, by
+virtue of Section 29(2) of the Limitation Act, the period of limitation for any suit, appeal or
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+20
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+application as contained in the Schedule of the Limitation Act stands substituted by the period
+prescribed in Section 34(3) of the A & C Act for the purposes of filing a petition under Section 34 of
+the A & C Act.
+
+12. Section 4 of the Limitation Act provides that if the prescribed period of limitation of any suit,
+appeal or application expires on a day when the court is closed, the suit, appeal or application can be
+submitted/presented or made to the court on the day when the court reopens which on such
+presentation would be treated as within time.
+
+13. The period of limitation prescribed for filing a petition under Section 34 of the A & C Act is 3
+months i.e., 90 days. In the present case, the said period of limitation prescribed by extending the
+benefit of COVID-19, expired on 29.05.2022 when the courts were working. Therefore, the
+appellants were not entitled to the benefit of Section 4 of the Limitation Act to permit them to prefer
+the petition on the re-opening of the court as the period of limitation prescribed had not expired on
+the day when the court was closed.
+
+14. The appellants are not entitled even to any benefit as per Section 10 of the General Clauses Act2,
+1897 which also permits the filing of a petition on the re-opening of the court where the last day of
+prescribed period for filing it falls or expires on the day on which the court is closed. The proviso to
+Section 10 in no uncertain terms states that the provisions of Section 10 of the GC Act shall not
+apply to any Act or proceedings to which the Limitation Act applies. In the case at hand, admittedly
+in proceedings of arbitration as also to court proceedings under the A & C Act, the Limitation Act
+squarely applies. Therefore, by proviso to Section 10 of GC Act, Section 10 of the GC Act stands
+excluded and would not be attracted to accord any benefit to the appellants.
+
+15. The period of limitation prescribed for instituting a suit or filing an appeal or making an
+application has to be Hereinafter referred to as ‘the GC Act’ distinguished from a condonable period
+which cannot be made part of the period of limitation prescribed.
+
+16. In view of the above discussion, as the period of limitation prescribed for filing a petition under
+Section 34 of the A & C Act expired on a working day and not on a day on which the court was
+closed, the appellants were not entitled to file it on the re-opening of the court after the summer
+vacation and as such the petition so filed was patently barred by limitation.
+
+17. Admittedly, as the period of limitation prescribed for filing a petition under Section 34 of the A &
+C Act expired on 29.05.2022 whereas the petition was preferred on 04.07.2022 much beyond the
+period of limitation prescribed and the condonable period of 30 days stipulated under the proviso to
+Section 34(3) of the A & C Act, the petition under Section 34 of the A & C Act was beyond time and
+the delay could not have been condoned. Accordingly, there is no error or illegality on part of the
+High Court in dismissing the petition under Section 34 of the A & C Act as barred by limitation.
+
+18. It would not be out of context for me to mention on the basis of my experience that practically all
+new/recent enactments are deviating from the prescribed period of limitation as per the Schedule of
+the Limitation Act and are generally prescribing its own period of limitation as under the A & C Act
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+21
+
+Mypreferred Transformation And ... vs M/S. Faridabad Implements Pvt. Ltd on 10 January, 2025
+
+itself. At the same time, statutes further provide that the delay beyond a certain period cannot be
+condoned by the court. This is obviously in deviation to what is prescribed by Section 5 of the
+Limitation Act.
+
+19. In my personal opinion, the statutes ought not to provide different period of limitation for
+instituting suit, preferring appeal and making an application, rather all statutes should stick to a
+uniform period of limitation say 90 days for preferring Special Leave Petition/Appeal to the
+Supreme Court of India. The courts should also be empowered to condone the delay if sufficient
+cause is shown for not filing it within the time prescribed rather than restricting the condonable
+period to a fix period of 15 days or 30 days as provided in some of the statutes.
+
+20. This deviation and restriction create confusion and ordinarily even a lawyer at times fails to
+notice that a different period of limitation has been prescribed for preferring an appeal under a
+particular statute. Moreover, there may be genuine cases where the litigant may not be able to
+approach the court in time for cogent reasons beyond his control. For example, in arbitration
+matters where an award is passed on a particular date and a copy of it is also served upon the
+litigating party but that party happens to be seriously ill and hospitalised for months together and as
+such is unable to prefer a petition under Section 34 within the period of limitation prescribed. If the
+delay in challenging the award is not condoned beyond the period of 30 days, he would suffer great
+prejudice and may lose the remedy on a technical ground even though he may be having a good case
+on merit. There may also be a situation where a litigant is facing proceedings by the law enforcement
+agencies like the Enforcement Directorate, Central Bureau of Investigation, etc., and is taken into
+custody and as such is unable to take the legal remedy within the period of limitation prescribed. He
+avails the remedy only after he is out of custody; months after the service of the order. In such
+circumstances, in my opinion, the legislature ought not to confine condoning the delay only for a
+prescribed period and not beyond it. Rather it should follow the principle of condoning the delay as
+enshrined under Section 5 of the Limitation Act. This would not only avoid a good case to be thrown
+out on the ground of limitation but at the same time would bring about uniformity in law.
+
+21. I, therefore, suggest to the law makers to keep this in mind while enacting new Acts and ensure
+that uniform system is applied in all enactments, be it present or future.
+
+……………………………….. J.
+
+(PANKAJ MITHAL) NEW DELHI;
+
+JANUARY 10, 2025.
+
+Indian Kanoon - http://indiankanoon.org/doc/65585365/
+
+22
+
+

@@ -1,0 +1,29 @@
+{
+  "case_number": "Civil Appeal No. 6580 of 2021",
+  "parties": {
+    "petitioner": "Principal Commissioner of Income Tax, Central-3",
+    "respondent": "Abhisar Buildwell P. Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-24",
+  "summary": "The core issue was the scope of assessment under section 153A of the Income Tax Act, 1961, particularly whether the Assessing Officer can consider only incriminating material found during a search or all available material when reassessing 'total income'. The Revenue argued that the AO must assess 'total income' by considering all material, including third-party and post-search information, to prevent partial assessments. Assessees contended that only incriminating material from the search should be considered if no assessment was pending at the time. The Court examined the legislative scheme, including sections 4, 5, 139, 147, and 158B, and the evolution of special assessment procedures for search cases introduced by the Finance Act, 1995.",
+  "legal_provisions_cited": [
+    "Section 4, Income Tax Act, 1961",
+    "Section 5, Income Tax Act, 1961",
+    "Section 2(45), Income Tax Act, 1961",
+    "Section 139, Income Tax Act, 1961",
+    "Section 143(1), Income Tax Act, 1961",
+    "Section 143(3), Income Tax Act, 1961",
+    "Section 147, Income Tax Act, 1961",
+    "Section 132, Income Tax Act, 1961",
+    "Section 132A, Income Tax Act, 1961",
+    "Section 142, Income Tax Act, 1961",
+    "Section 131, Income Tax Act, 1961",
+    "Section 133, Income Tax Act, 1961",
+    "Section 133A, Income Tax Act, 1961",
+    "Section 285BA, Income Tax Act, 1961",
+    "Section 113, Income Tax Act, 1961",
+    "Chapter XIV-B (Sections 158B to 158BG), Income Tax Act, 1961"
+  ],
+  "final_judgment": "The appeals were heard together due to a common question of law; the Court reserved its judgment to determine the correct interpretation of section 153A and the extent to which the Assessing Officer may consider material beyond that found during a search while assessing 'total income'."
+}

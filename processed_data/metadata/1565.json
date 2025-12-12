@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 7115 of 2010",
+  "parties": {
+    "petitioner": "Thomas Daniel",
+    "respondent": "State of Kerala & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-02",
+  "summary": "The appeal challenged the recovery of increments granted to the appellant during service, which the State sought to recover post-retirement, alleging they were based on an error in including leave without allowance for higher education in qualifying service. The appellant contended no misrepresentation or fraud was involved, and the payments were made due to an erroneous interpretation of the Kerala Service Rules. The Court considered whether such excess payments, made without employee fault, could be recovered after nearly a decade post-retirement. Applying equitable principles, the Court held that where no fraud or misrepresentation exists and the error arose from administrative misinterpretation, recovery would cause undue hardship, especially from retired employees. Precedents affirmed that such recovery is barred in equity, absent knowledge or prompt correction.",
+  "legal_provisions_cited": [
+    "Rule 91A, Part I, Kerala Service Rules",
+    "Rule 116, Part III, Kerala Service Rules",
+    "Sahib Ram v. State of Haryana",
+    "Col. B.J. Akkara (Retd.) v. Government of India",
+    "Syed Abdul Qadir v. State of Bihar"
+  ],
+  "final_judgment": "The appeal was allowed. The State was restrained from recovering the excess increments granted to the appellant during service, as the payments were made without misrepresentation or fraud and recovery after long delay, particularly post-retirement, would cause undue hardship."
+}

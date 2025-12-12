@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 3486-3488 of 2022",
+  "parties": {
+    "petitioner": "K. Srinivasappa & Ors.",
+    "respondent": "M. Mallamma & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-18",
+  "summary": "The appeals challenged the Karnataka High Court's 2015 judgment recalling a Lok Adalat order (July 7, 2012) that recorded a compromise in a partition suit (O.S. No. 876 of 2004). The compromise involved petitioners relinquishing rights to suit properties in exchange for monetary consideration. Respondents 4–6 alleged fraud, claiming they were misled into signing the compromise during tax-related proceedings after a property sale. The High Court recalled the compromise, finding procedural irregularities and fraud. The Supreme Court examined whether the High Court erred in setting aside a Lok Adalat compromise, emphasizing that compromises must be voluntary and free from fraud. The Court upheld the High Court’s recall, noting that consent was vitiated by fraud and misrepresentation, as respondents were not properly informed about the nature of the proceedings. The compromise lacked free consent, thus justifying judicial intervention.",
+  "legal_provisions_cited": [
+    "Order XXIII Rule 3, Code of Civil Procedure, 1908",
+    "Order XXXII Rule 3, Code of Civil Procedure, 1908"
+  ],
+  "final_judgment": "Appeals dismissed; affirming the High Court's decision to recall the Lok Adalat's compromise order due to fraud and lack of informed consent."
+}

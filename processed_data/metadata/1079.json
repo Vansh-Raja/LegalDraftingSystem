@@ -1,0 +1,18 @@
+{
+  "case_number": "CRIMINAL APPEAL NO.511 OF 2011; CRIMINAL APPEAL NO.2345 OF 2011",
+  "parties": {
+    "petitioner": "Ravi Mandal",
+    "respondent": "State of Uttarakhand"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-18",
+  "summary": "Conviction under IPC s.302 with s.34 and s.201; Arms Act convictions; eyewitness testimony (PW-2) of blood-stained accused fleeing scene; threats to witness; delay in reporting explained by fear; hostile witnesses reexamined; autopsy confirming gunshot death; High Court erred in doubting testimony without reason; standard: proof beyond reasonable doubt; circumstantial evidence chain intact; murder motive established via financial dispute; enmity referenced; appeal allowed restoring Trial Court conviction.",
+  "legal_provisions_cited": [
+    "Indian Penal Code, 1860 s.302",
+    "Indian Penal Code, 1860 s.34",
+    "Indian Penal Code, 1860 s.201",
+    "Arms Act s.25",
+    "Arms Act s.4/25"
+  ],
+  "final_judgment": "Appeal allowed; High Court judgment set aside; Trial Court conviction and sentence restored."
+}

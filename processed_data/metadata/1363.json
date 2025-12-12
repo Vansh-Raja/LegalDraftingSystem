@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal No. 175 of 2022",
+  "parties": {
+    "petitioner": "M/s R.D. Jain and Co.",
+    "respondent": "Capital First Ltd. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-27",
+  "summary": "The appeal challenged the Bombay High Court's interpretation of Section 14 of the SARFAESI Act, 2002, which held that the District Magistrate and Chief Metropolitan Magistrate are not persona designata and that Additional District Magistrates and Additional Chief Metropolitan Magistrates can also exercise powers under Section 14. The appellant argued that the power under Section 14 is personal and non-delegable, relying on precedents from various High Courts and the Supreme Court in Hari Chand Aggarwal v. Batala Engineering Co. Ltd. The High Court had justified its interpretation due to pendency of cases and equated Additional Magistrates to their principal counterparts based on criminal procedure law. The core issue was whether the delegated authorities could exercise executionary powers under Section 14 without violating the statutory scheme.",
+  "legal_provisions_cited": [
+    "Section 14, SARFAESI Act, 2002",
+    "Section 17(2), Code of Criminal Procedure, 1973",
+    "Section 19, Code of Criminal Procedure, 1973",
+    "Hari Chand Aggarwal Vs. Batala Engineering Co. Ltd.; (1969) 2 SCR 201",
+    "State of Maharashtra Vs. Shanti Prasad Jain, Criminal Reference No. 9 of 1977"
+  ],
+  "final_judgment": "Pending further consideration of the substantial question of law regarding delegation of powers under Section 14 of the SARFAESI Act, the appeal was allowed to the extent of staying the operation of the impugned judgment of the Bombay High Court."
+}

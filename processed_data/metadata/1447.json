@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 2199 of 2021",
+  "parties": {
+    "petitioner": "Rajratan Babulal Agarwal",
+    "respondent": "Solartex India Pvt. Ltd. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-13",
+  "summary": "The case involves a dispute under the Insolvency and Bankruptcy Code, 2016, concerning the existence of a pre-existing dispute to bar admission of a Section 9 application. The appellant, an ex-director of the corporate debtor, contended that coal supplied by the operational creditor failed to meet quality specifications, leading to boiler damage and losses. Emails from October-November 2016 reflecting quality complaints were cited. The NCLAT held no pre-existing dispute existed, reasoning that complaints in emails were not specifically linked to the relevant purchase order and no debit note or return of goods occurred. The appellant argued these findings were erroneous and that complaints were timely, supported by lab reports and correspondence. The legal issue centered on whether a valid dispute existed under Section 8(2)(a) of the IBC, referencing Mobilox Innovations v. Kirusa. The Court examined rights under the Sale of Goods Act, 1930, particularly Sections 12, 41, 42, and 59, relating to conditions, buyer's right to inspection, and remedies for breach of warranty.",
+  "legal_provisions_cited": [
+    "Section 9, Insolvency and Bankruptcy Code, 2016",
+    "Section 8(2)(a), Insolvency and Bankruptcy Code, 2016",
+    "Section 12, Sale of Goods Act, 1930",
+    "Section 41, Sale of Goods Act, 1930",
+    "Section 42, Sale of Goods Act, 1930",
+    "Section 59, Sale of Goods Act, 1930",
+    "Mobilox Innovations Private Limited v. Kirusa Software Private Limited"
+  ],
+  "final_judgment": "The Supreme Court set aside the NCLAT's order, holding that a pre-existing dispute existed based on timely email complaints and material evidence of quality breaches, thereby barring the initiation of CIRP under Section 9 of the IBC."
+}

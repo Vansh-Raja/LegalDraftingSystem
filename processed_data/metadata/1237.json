@@ -1,0 +1,19 @@
+{
+  "case_number": "CIVIL APPEAL NOS.8972-8973 OF 2014",
+  "parties": {
+    "petitioner": "Bank of Rajasthan Ltd.",
+    "respondent": "VCK Shares & Stock Broking Services Ltd."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-11-10",
+  "summary": "The case addressed whether a borrower can maintain a civil suit against a bank despite pending debt recovery proceedings under the RDB Act. The borrower filed suits in the Calcutta High Court challenging the bank's sale of pledged shares and claiming damages. The bank argued that the DRT had exclusive jurisdiction. The Division Bench allowed the suits to proceed, holding that the RDB Act does not oust the civil court's jurisdiction for borrower-initiated suits. This appeal questioned the jurisdictional conflict. The Court examined conflicting precedents—United Bank of India v. Abhijit Tea Co., Indian Bank v. ABS Marine Products, and Nahar Industrial Enterprises Ltd. v. HSBC—on whether borrower suits must be treated as counterclaims before the DRT. The key issue was whether a borrower can independently sue in civil court or must raise claims as set-off/counterclaim before the DRT. The judgment clarified that a civil suit by a borrower is maintainable unless the claims are inextricably linked to the bank's recovery application and both parties consent to consolidation before the DRT.",
+  "legal_provisions_cited": [
+    "Section 19, Recovery of Debts Due to Banks and Financial Institutions Act, 1993",
+    "Article 227 of the Constitution of India",
+    "United Bank of India v. Abhijit Tea Co. Pvt. Ltd. (2000) 7 SCC 357",
+    "Indian Bank v. ABS Marine Products (P) Ltd. (2006) 5 SCC 72",
+    "State Bank of India v. Ranjan Chemicals Ltd. (2007) 1 SCC 97",
+    "Nahar Industrial Enterprises Ltd. v. Hong Kong and Shanghai Banking Corporation (2009) 8 SCC 646"
+  ],
+  "final_judgment": "The appeal was allowed, and the judgment of the Division Bench restoring the suits was set aside. The Court held that where a claim by a borrower arises from the same transaction as the bank's recovery application, it must be raised as a set-off or counterclaim before the DRT and cannot be pursued in an independent civil suit, unless both parties agree to consolidation. The jurisdiction of the civil court is barred in such cases to prevent multiplicity of proceedings and ensure expeditious resolution under the RDB Act framework."
+}

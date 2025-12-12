@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal Nos. 7402 of 2022 (@ SLP (Civil) No. 14695 of 2020)",
+  "parties": {
+    "petitioner": "K. Sreedhar",
+    "respondent": "M/S Raus Constructions Pvt. Ltd. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-05",
+  "summary": "The appeal challenged the High Court's judgment quashing the sale of property (Item No.8) under SARFAESI proceedings. The High Court had set aside the DRT's order, possession notice, and sale certificate, citing non-compliance with Rule 9(3) of the Security Interest (Enforcement) Rules, 2002 and exemption under Section 31(i) as agricultural land. The appellants argued that the High Court erred in entertaining the writ petition bypassing the statutory appeal route to DRAT, and that there was no violation of Rules 8 and 9 as the auction purchaser deposited 25% within the time post-amendment and full amount by March 23, 2017. The secured creditor relied on evidence including photographs showing no agricultural activity to contest exemption. The appellants urged that the sale was valid, certificate issued, possession handed over, and subsequent investments made. They contended typographical errors in possession dates did not invalidate the notice under Section 13(4).",
+  "legal_provisions_cited": [
+    "SARFAESI Act, 2002, Section 13(4)",
+    "SARFAESI Act, 2002, Section 31(i)",
+    "Security Interest (Enforcement) Rules, 2002, Rule 8(1), (2)",
+    "Security Interest (Enforcement) Rules, 2002, Rule 9(3), (4)",
+    "ITC Limited vs. Blue Coast Hotels Limited and Others, (2018) 15 SCC 99",
+    "Indian Bank vs. K. Pappireddiyar and Another, (2018) 18 SCC 252"
+  ],
+  "final_judgment": "Appeals allowed"
+}

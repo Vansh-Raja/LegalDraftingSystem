@@ -1,0 +1,22 @@
+{
+  "case_number": "Civil Appeal No. /2022 (@ Special Leave Petition (Civil) No. 23207 of 2019)",
+  "parties": {
+    "petitioner": "M/s Apex Laboratories Pvt. Ltd.",
+    "respondent": "Deputy Commissioner of Income Tax, Large Tax Payer Unit - II"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-22",
+  "summary": "Key issue: Whether expenses incurred by a pharmaceutical company for gifting 'freebies' to medical practitioners qualify as deductible business expenditure under Section 37(1) of the Income Tax Act, 1961, in light of Explanation 1, which disallows expenditure for purposes 'prohibited by law'. The amendment to the Medical Council (Professional Conduct, Etiquette and Ethics) Regulations, 2002, prohibited medical practitioners from accepting gifts, hospitality, etc., but did not impose a corresponding prohibition on pharmaceutical companies. Petitioner argued that without a legal prohibition on donors, such expenditure remains deductible, citing precedents like Max Hospital and Dr. Anil Gupta, and relying on T.A. Quereshi and Khemchand Motilal Motilal for the principle that tax deductions cannot be denied based on morality. Revenue contended that the practice is 'prohibited by law' via the 2002 Regulations and violates public policy, citing Prevention of Corruption Act, 1988. The Court examined legislative intent behind Explanation 1, the binding effect of CBDT Circular No. 5/2012, and the principle of prospective application of administrative instructions.",
+  "legal_provisions_cited": [
+    "Section 37(1), Income Tax Act, 1961",
+    "Explanation 1 to Section 37(1)",
+    "Indian Medical Council (Professional Conduct, Etiquette and Ethics) Regulations, 2002",
+    "Prevention of Corruption Act, 1988",
+    "Indian Penal Code, 1860",
+    "Max Hospital Pitampura v. Medical Council of India",
+    "Dr. Anil Gupta v. Addl. Commissioner of Income Tax",
+    "T.A. Quereshi v. Commissioner of Income Tax, Bhopal",
+    "Commissioner of Income Tax v. M/s Khemchand Motilal Jain"
+  ],
+  "final_judgment": "Leave granted. Matter remanded for detailed consideration in view of the substantial questions of law and policy involved regarding the applicability of 'prohibited by law' to donor entities and the validity of retrospective application of CBDT circulars."
+}

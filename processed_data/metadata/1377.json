@@ -1,0 +1,25 @@
+{
+  "case_number": "Criminal Appeal No.97 of 2022 with Criminal Appeal No.98 of 2022",
+  "parties": {
+    "petitioner": "Manno Lal Jaiswal",
+    "respondent": "The State of Uttar Pradesh & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-25",
+  "summary": "The appellant, father of the deceased, challenged the Allahabad High Court's bail order granting bail to accused persons in a serious criminal case involving offences under Sections 302, 307, 147, 148, 149, 323, 504, 506, and 34 IPC. The Supreme Court noted that the High Court relied on incorrect facts—such as accused not being named in the FIR and delayed recording of witness statements—both factually inaccurate and not even the accused’s case. The Court observed that the High Court failed to consider the gravity of the offence, the role of the accused in a common unlawful assembly under Section 149 IPC, and did not apply proper bail considerations. The bail order was deemed mechanical and lacking reasoned analysis.",
+  "legal_provisions_cited": [
+    "Section 147 IPC",
+    "Section 148 IPC",
+    "Section 149 IPC",
+    "Section 302 IPC",
+    "Section 307 IPC",
+    "Section 323 IPC",
+    "Section 504 IPC",
+    "Section 506 IPC",
+    "Section 34 IPC",
+    "Section 161 Cr.PC",
+    "Section 439 Cr.PC",
+    "Anil Kumar Yadav Vs. State (NCT of Delhi) (2018) 12 SCC 129"
+  ],
+  "final_judgment": "The appeals were allowed, the impugned bail orders set aside, and the respondents No.2 were directed to surrender to custody forthwith."
+}

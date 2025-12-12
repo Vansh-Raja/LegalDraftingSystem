@@ -1,0 +1,21 @@
+{
+  "case_number": "Criminal Appeal No(s). 985 of 2010",
+  "parties": {
+    "petitioner": "Babu Sahebagouda Rudragoudar and Others",
+    "respondent": "State of Karnataka"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-04-19",
+  "summary": "The appellants (A-1, A-2, A-3) were acquitted by the Fast Track Court, Bijapur in 2005. The Karnataka High Court in 2009 reversed the acquittal, convicting them under Section 302 read with Section 34 IPC and sentencing them to life imprisonment and fine. The present appeal challenges that reversal. The trial court had cited contradictions in eyewitness testimony, lack of incrimination of co-accused, motive of key witnesses, and improbability of agricultural activity during heavy rain. It also held the complaint to be a post-investigation document, hit by Section 162 CrPC. The Supreme Court examined the reliability of prosecution evidence, including witness credibility and procedural irregularities.",
+  "legal_provisions_cited": [
+    "Section 143 IPC",
+    "Section 147 IPC",
+    "Section 148 IPC",
+    "Section 506(2) IPC",
+    "Section 302 read with Section 149 IPC",
+    "Section 302 read with Section 34 IPC",
+    "Section 162 CrPC",
+    "Section 313 CrPC"
+  ],
+  "final_judgment": "The Supreme Court upheld the acquittal of the appellants, finding the prosecution case unproven due to contradictions in evidence, witness hostility, and procedural defects."
+}

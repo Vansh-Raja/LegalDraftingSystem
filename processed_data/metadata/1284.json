@@ -1,0 +1,26 @@
+{
+  "case_number": "Civil Appeal Nos. 4105-4107 of 2022",
+  "parties": {
+    "petitioner": "Gregory Patrao and Ors.",
+    "respondent": "Mangalore Refinery and Petrochemicals Limited & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-11",
+  "summary": "The case involved appeals against a Karnataka High Court judgment that set aside a Reference Court's award enhancing compensation in a land acquisition under the Karnataka Industrial Areas Development Act, 1966 (KIAD Act). The High Court held that MRPL, a post-acquisition allottee, was a 'person interested' and entitled to be heard before compensation was enhanced. The appellants (original landowners) contended that under the KIAD Act, only the KIADB is the beneficiary, not MRPL, relying on Peerappa Hanmantha Harijan v. State of Karnataka to argue that post-allottees have no locus standi in compensation proceedings. The High Court's reliance on UP Awas Evam Vikas Parishad and Himalayan Tiles was challenged as inapplicable, as those cases dealt with direct acquisitions under the Land Acquisition Act. The Supreme Court considered whether MRPL, as a post-acquisition allottee, is a necessary party under the KIAD Act scheme and whether the High Court erred in not following binding precedent.",
+  "legal_provisions_cited": [
+    "Section 28(4), Karnataka Industrial Areas Development Act, 1966",
+    "Section 28(1), KIAD Act, 1966",
+    "Section 28(8), KIAD Act, 1966",
+    "Section 32(2), KIAD Act, 1966",
+    "Section 54, Land Acquisition Act",
+    "Article 141, Constitution of India",
+    "Peerappa Hanmantha Harijan v. State of Karnataka, (2015) 10 SCC 469",
+    "UP Awas Evam Vikas Parishad v. Gyan Devi, (1995) 2 SCC 326",
+    "Himalayan Tiles and Marble (P) Ltd. v. Francis Victor Countinho, (1980) 3 SCC 223",
+    "Satish Kumar Gupta v. State of Haryana, (2017) 4 SCC 760",
+    "Director of Settlements, A.P. v. M.R. Apparao, (2002) 4 SCC 638",
+    "Rashmi Metaliks Ltd. v. Kolkata Metropolitan Development Authority, (2013) 10 SCC 95",
+    "Bir Singh v. Mukesh Kumar, (2019) 4 SCC 197"
+  ],
+  "final_judgment": "The appeals were allowed. The Supreme Court held that under the KIAD Act, 1966, the beneficiary is the KIADB, not the post-acquisition allottee like MRPL. Following Peerappa Hanmantha Harijan and Satish Kumar Gupta, the Court ruled that MRPL had no locus to participate in compensation proceedings. The High Court's decision to set aside the Reference Court's award and remand the case was set aside. The judgment and enhanced compensation awarded by the Reference Court were reinstated."
+}

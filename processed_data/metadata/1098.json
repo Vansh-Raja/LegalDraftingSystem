@@ -1,0 +1,15 @@
+{
+  "case_number": "Civil Appeal No. 8463 of 2022",
+  "parties": {
+    "petitioner": "Sap Labs India Private Limited",
+    "respondent": "Income Tax Officer, Circle 6, Bangalore"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-19",
+  "summary": "The case involved a dispute between Sap Labs India Private Limited and the Income Tax Officer regarding tax assessment. The key issues centered on the applicability of transfer pricing regulations and the correctness of the addition made by the Assessing Officer. The Supreme Court examined the reasoning of the Assessing Officer and the Commissioner of Income Tax (Appeals), emphasizing the need for reasoned orders and adherence to principles of natural justice. The Court held that the addition made was not sustainable due to lack of proper reasoning and evidence, and set aside the impugned orders.",
+  "legal_provisions_cited": [
+    "Section 92CA of the Income Tax Act, 1961",
+    "Article 14 of the Constitution of India"
+  ],
+  "final_judgment": "The appeals were allowed, impugned orders set aside, and the matter remanded to the Assessing Officer for fresh determination in accordance with law."
+}

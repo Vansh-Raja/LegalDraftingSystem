@@ -1,0 +1,21 @@
+{
+  "case_number": "Civil Appeal No. 380 of 2022 [@ SLP(C) No. 6857/2017]",
+  "parties": {
+    "petitioner": "G.T. Girish",
+    "respondent": "Y. Subba Raju (D) By LRs and Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-18",
+  "summary": "The case involved a suit for specific performance of an agreement to sell a site allotted by the Bangalore Development Authority (BDA). The Trial Court dismissed the suit but ordered refund of advance payment. The High Court reversed, directing execution of sale deed by the defendants in favour of the plaintiff’s legal representatives, holding that the second defendant was not a bona fide purchaser and the transaction was hit by Section 52 (Doctrine of Lis Pendens) of the Transfer of Property Act, 1882. Appellants challenged the maintainability and lawfulness of the agreement, arguing it violated BDA rules and public policy under Section 23 of the Indian Contract Act, 1872. They also claimed the suit was premature and the second defendant was a bona fide purchaser. The Supreme Court upheld the High Court's findings, observing that entering into an agreement to sell did not violate BDA rules or public policy, and affirmed that the second defendant lacked bona fides due to inadequate inquiry and knowledge of litigation.",
+  "legal_provisions_cited": [
+    "Section 23, Indian Contract Act, 1872",
+    "Section 52, Transfer of Property Act, 1882",
+    "Section 29, Bangalore Improvement Act, 1945",
+    "Rule 18(2), Bangalore Rules of Allotment, 1972",
+    "Article 136, Constitution of India",
+    "Article 54, Limitation Act, 1963",
+    "Kedar Nath Motani v. Prahlad Rai",
+    "Narayanamma v. Govindappa"
+  ],
+  "final_judgment": "Appeal dismissed. The impugned judgment of the High Court directing specific performance and conveyance of the property is upheld."
+}

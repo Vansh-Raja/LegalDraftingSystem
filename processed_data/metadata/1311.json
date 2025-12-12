@@ -1,0 +1,20 @@
+{
+  "case_number": "Criminal Appeal No. 704 of 2018",
+  "parties": {
+    "petitioner": "Jai Prakash Tiwari",
+    "respondent": "The State of Madhya Pradesh"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-04",
+  "summary": "The appeal challenged the conviction under Section 307 IPC and Sections 25, 27 of the Arms Act, upheld by the Madhya Pradesh High Court. The appellant argued lack of reliable evidence, contradiction between prosecution witnesses, and absence of independent corroboration. The complainant (PW2) and his mother (PW3) were primary witnesses, but other prosecution witnesses turned hostile. PW3's testimony was deemed unreliable due to contradictions and inability to identify the accused clearly at night. Recovery of the weapon and motorcycle was disputed, with seizure witnesses giving inconsistent statements. Ballistic evidence and disclosure statements were considered, but the court found insufficient reliable evidence to sustain conviction.",
+  "legal_provisions_cited": [
+    "Section 307 IPC",
+    "Section 34 IPC",
+    "Section 25(1B)(a) of the Arms Act, 1959",
+    "Section 27(1) of the Arms Act, 1959",
+    "Section 161 Cr.P.C.",
+    "Bhaskarrao v. State of Maharashtra, (2018) 6 SCC 591",
+    "State of Rajasthan v. Madan, (2019) 13 SCC 653"
+  ],
+  "final_judgment": "The appeal was allowed, conviction set aside, and the appellant acquitted due to lack of reliable and corroborated evidence."
+}

@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 6662 of 2022",
+  "parties": {
+    "petitioner": "Kotak Mahindra Bank Limited",
+    "respondent": "Girnar Corrugators Pvt. Ltd. & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-01-05",
+  "summary": "The case involves a conflict between the SARFAESI Act, 2002 and the MSMED Act, 2006 regarding priority of recovery. The appellant bank initiated possession proceedings under Section 14 of the SARFAESI Act, but the Naib Tehsildar refused compliance, citing a pending recovery certificate under the MSMED Act. The High Court's Division Bench held that the MSMED Act, being a later and special enactment with a non-obstante clause (Section 24), prevails over the SARFAESI Act. The Supreme Court examined whether MSMED Act overrides SARFAESI in terms of recovery priority. The bank argued no repugnancy exists and SARFAESI’s explicit priority framework (especially Section 26E, inserted in 2016) should prevail. Respondent contended that Section 24 of the MSMED Act gives overriding effect to its recovery mechanism, essential for protecting MSMEs. Key issues: legislative priority, repugnancy, and interpretation of non-obstante clauses. The Court ultimately considered whether the MSMED Act’s recovery awards take precedence over secured creditors’ rights under SARFAESI.",
+  "legal_provisions_cited": [
+    "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act), Section 13(2), Section 14, Section 17, Section 26E",
+    "Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act), Section 15-23, Section 24",
+    "Bank of India vs. Ketan Praekh & Ors. [(2008) 8 SCC 148 (para 28)]"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, holding that the SARFAESI Act, particularly with the insertion of Section 26E in 2016, provides an unambiguous priority framework for secured creditors, which prevails over the recovery mechanism under the MSMED Act. The non-obstante clause in Section 24 of the MSMED Act does not override SARFAESI in matters of priority of dues. The impugned judgment of the Division Bench of the Madhya Pradesh High Court was set aside, and the order of the Single Judge was restored, affirming that SARFAESI proceedings take precedence."
+}

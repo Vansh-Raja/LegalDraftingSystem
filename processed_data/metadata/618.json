@@ -1,0 +1,24 @@
+{
+  "case_number": "2024 INSC 290",
+  "parties": {
+    "petitioner": "Smt. Najmunisha and Abdul Hamid Chandmiya alias Ladoo Bapu",
+    "respondent": "The State of Gujarat and Narcotics Control Bureau"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-04-09",
+  "summary": "The appeals challenged the Gujarat High Court's judgment upholding the conviction of Smt. Najmunisha and Abdul Hamid Chandmiya under Sections 29 read with 20(b)(ii)(c) of the NDPS Act, 1985, for possession and trafficking of charas. The prosecution case relied on secret information, recovery of drugs from an abandoned auto-rickshaw, and subsequent discovery of narcotics from the appellants' residence during a search. Confessional statements under Section 67 of the NDPS Act were found voluntary and corroborated by evidence. The High Court affirmed convictions, enhanced the fine for Najmunisha, and upheld the sentence for Abdul Hamid. The Supreme Court examined compliance with procedural safeguards under the NDPS Act, including Sections 36, 41, 42(2), 52A, 53, 57, and the role of independent witnesses. It found no material contradictions affecting the prosecution's case and upheld the admissibility and evidentiary value of Section 67 statements. The appeals were dismissed.",
+  "legal_provisions_cited": [
+    "NDPS Act, 1985, Section 20(b)(ii)(c)",
+    "NDPS Act, 1985, Section 25",
+    "NDPS Act, 1985, Section 29",
+    "NDPS Act, 1985, Section 36",
+    "NDPS Act, 1985, Section 41",
+    "NDPS Act, 1985, Section 42(2)",
+    "NDPS Act, 1985, Section 52A",
+    "NDPS Act, 1985, Section 53",
+    "NDPS Act, 1985, Section 57",
+    "NDPS Act, 1985, Section 67",
+    "Indian Evidence Act, 1872, Section 114"
+  ],
+  "final_judgment": "Appeals dismissed; conviction and sentence of the appellants upheld."
+}

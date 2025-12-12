@@ -1,0 +1,17 @@
+{
+  "case_number": "Civil Appeal No. of 2022 (Arising out of SLP (C) No. 14697 of 2021) and Civil Appeal No. of 2022 (Arising out of SLP (C) No. 5737 of 2022)",
+  "parties": {
+    "petitioner": "M/S Patil Automation Private Limited and Ors.",
+    "respondent": "Rakheja Engineers Private Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-17",
+  "summary": "The key issue was whether pre-litigation mediation under Section 12A of the Commercial Courts Act, 2015 (as amended in 2018) is mandatory before filing a commercial suit. The petitioner argued that non-compliance with Section 12A mandates rejection of the plaint under Order VII Rule 11 of the CPC. The courts below held that Section 12A is not mandatory and that the purpose of mediation is to encourage settlement, not to deny access to justice. The Supreme Court examined the use of 'shall' in Section 12A versus the discretionary 'may' in Rule 3 of the Commercial Courts (Pre-Institution Mediation and Settlement) Rules, 2018. The Court emphasized the legislative intent to de-congest courts and promote settlement, but also recognized the constitutional right to access justice. It concluded that while pre-litigation mediation is encouraged, rejection of a plaint for non-compliance is not warranted if mediation can be pursued during litigation.",
+  "legal_provisions_cited": [
+    "Section 12A, Commercial Courts Act, 2015",
+    "Order VII Rule 11, Code of Civil Procedure, 1908",
+    "Commercial Courts (Pre-Institution Mediation and Settlement) Rules, 2018, Rules 3(1) and 3(7)",
+    "Ganga Taro Vazirani v. Deepak Raheja, 2021 SCC OnLine Bom 195"
+  ],
+  "final_judgment": "Plaint not rejected; pre-litigation mediation under Section 12A is mandatory in principle but non-compliance does not result in automatic rejection of plaint; suit may proceed with referral to mediation at an interim stage."
+}

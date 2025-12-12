@@ -1,0 +1,24 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 34 OF 2022",
+  "parties": {
+    "petitioner": "State of U.P.",
+    "respondent": "Veerpal & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-01",
+  "summary": "The appeal challenged the Allahabad High Court's acquittal of accused persons in a case involving murder under Section 302 read with Section 34 IPC. The prosecution relied on two dying declarations—one recorded by police under Cr.PC Section 161 and another by a Magistrate/SDM. The Trial Court had convicted the accused, relying on the Magistrate-recorded dying declaration, but the High Court acquitted, distrusting both declarations due to inconsistency and lack of corroboration. The Supreme Court considered whether multiple dying declarations render the evidence unreliable per se, and whether the Magistrate’s version could sustain conviction. It emphasized that a dying declaration before a Magistrate carries greater weight, especially when no malice is shown, and that multiple declarations do not automatically invalidate each other. The Court found the High Court erred in rejecting the Magistrate-recorded declaration without valid reason.",
+  "legal_provisions_cited": [
+    "Section 302 read with Section 34 IPC",
+    "Section 161 Cr.PC",
+    "Ravi Chander & Ors. v. State of Punjab (1998) 9 SCC 303",
+    "Harjit Kaur v. State of Punjab (1999) 6 SCC 545",
+    "Koli Chunilal Savji & Anr. v. State of Gujarat (1999) 9 SCC 562",
+    "Vikas & Ors. v. State of Maharashtra (2008) 2 SCC 516",
+    "Laxman v. State of Maharashtra (2002) 6 SCC 710",
+    "Jagbir Singh v. State (NCT of Delhi) (2019) 8 SCC 779",
+    "Amol Singh v. State of M.P. (2008) 5 SCC 468",
+    "Kundula Bala Subrahmanyam & Anr. v. State of Andhra Pradesh (1993) 2 SCC 684",
+    "Munnu Raja & Anr. v. State of M.P. (1976) 3 SCC 104"
+  ],
+  "final_judgment": "The appeal is allowed. The impugned judgment of the High Court acquitting the accused is set aside. The conviction and sentence imposed by the Trial Court under Section 302 read with Section 34 IPC are restored. The accused shall surrender forthwith to serve the remaining sentence."
+}

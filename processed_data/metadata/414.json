@@ -1,0 +1,15 @@
+{
+  "case_number": "2024 INSC 1003",
+  "parties": {
+    "petitioner": "Allahabad University",
+    "respondent": "Geetanjali Tiwari (Pandey) & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-12-18",
+  "summary": "The case involved a challenge to the High Court's judgment dismissing multiple petitions and appeals filed by Geetanjali Tiwari (Pandey) concerning non-awarding of marks for her teaching experience as a contractual and guest faculty during shortlisting for Assistant Professor positions at Allahabad University and its affiliated colleges. The key issue was whether Regulation 10(f)(iii) of the UGC (2018) Regulations, which restricts recognition of contractual teaching experience to those drawing salary at least equal to a regular Assistant Professor, applies to shortlisting for Assistant Professor posts. The Supreme Court upheld the High Court's view that Regulation 10 pertains only to direct recruitment and promotion under CAS for Associate Professor and Professor posts, not for Assistant Professor positions, and thus has no applicability in the shortlisting process under Table 3A. The Court ruled that teaching experience for Assistant Professor appointments does not require Regulation 10 conditions, and exclusion of such experience violated no constitutional right under Article 14.",
+  "legal_provisions_cited": [
+    "Regulation 10(f)(iii), UGC (Minimum Qualifications for Appointment of Teachers) Regulations, 2018",
+    "Article 14 of the Constitution of India"
+  ],
+  "final_judgment": "Appeals dismissed; upholding the High Court's order that Regulation 10(f)(iii) does not apply to the shortlisting process for Assistant Professor posts and that the exclusion of contractual/guest teaching experience for scoring under Table 3A was not justified under the regulations."
+}

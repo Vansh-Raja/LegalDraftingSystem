@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 3948 of 2009",
+  "parties": {
+    "petitioner": "NHPC Ltd.",
+    "respondent": "State of Himachal Pradesh, Secretary & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-09-06",
+  "summary": "The appeals challenged the validity of the Himachal Pradesh Passengers and Goods Taxation Act, 1955, as amended by the 1997 Amendment and Validation Act, concerning the imposition of passenger tax on NHPC Ltd. for providing free transport to employees and their children. The core issue was whether such activity constituted 'carriage of passengers for hire and reward' under the Act. The High Court had earlier quashed the assessments, holding that the Act did not apply to gratis transportation and that ambiguous provisions could not sustain tax liability. The Supreme Court examined legislative competence under Entry 56, List II, Seventh Schedule, Constitution of India, and the validity of retrospective amendments. It considered whether Section 3(1-A), introduced by the 1997 Amendment, validly extended tax liability to non-fare-paying passengers. The Court also assessed the vires of Section 3A regarding surcharge and the legality of assumptions made in assessment orders. The appeals were decided on the interpretation of 'motor vehicle', 'passenger', 'route', and 'normal rate', and whether the state legislature validly removed the basis of the prior judgment through curative amendment.",
+  "legal_provisions_cited": [
+    "Article 246, Constitution of India",
+    "Entry 56, List II, Seventh Schedule, Constitution of India",
+    "Section 3(1) and Explanation, Himachal Pradesh Passengers and Goods Taxation Act, 1955",
+    "Section 3(1-A), Amendment and Validation Act, 1997",
+    "Section 3A, Act of 1955",
+    "Motor Vehicles Act, 1939",
+    "Motor Vehicles Act, 1988"
+  ],
+  "final_judgment": "The appeals were allowed, setting aside the High Court's judgment upholding the tax, and the Amendment and Validation Act of 1997 was held not to validly cure the constitutional deficiencies; the levy on free employee transport was struck down as ultra vires."
+}

@@ -1,0 +1,19 @@
+{
+  "case_number": "Criminal Appeal Nos. of 2023 (Arising out of SLP (Crl.) Nos. 7628-7630 of 2017)",
+  "parties": {
+    "petitioner": "State Through Central Bureau of Investigation",
+    "respondent": "Hemendhra Reddy & Another"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-04-28",
+  "summary": "The key issue was whether the CBI could legally reopen an investigation under Section 173(8) CrPC and file a chargesheet after previously submitting a closure report under Section 173(2) CrPC, which had been accepted by the Special Court. The High Court had quashed the prosecution, holding that no de novo investigation was permissible after closure. The Supreme Court examined the scope of 'further investigation' under Section 173(8) CrPC, distinguished it from reinvestigation, and considered binding precedent in Vinay Tyagi v. Irshad Ali. The Court evaluated whether fresh evidence justified reopening, and whether the Special Court had jurisdiction to allow it. Ultimately, the appeal challenged the High Court's quashing of the prosecution on this ground.",
+  "legal_provisions_cited": [
+    "Section 173(8) CrPC",
+    "Section 173(2) CrPC",
+    "Section 156(3) CrPC",
+    "Section 13(1)(e) read with Section 13(2) Prevention of Corruption Act, 1988",
+    "Section 109 IPC",
+    "Vinay Tyagi v. Irshad Ali alias Deepak and Others, (2013) 5 SCC 762"
+  ],
+  "final_judgment": "The Supreme Court allowed the appeal, set aside the High Court's order quashing the prosecution, and held that the CBI was entitled to conduct further investigation under Section 173(8) CrPC upon emergence of new evidence, and that the Special Court had jurisdiction to permit it. The prosecution was revived and remanded for continuation in accordance with law."
+}

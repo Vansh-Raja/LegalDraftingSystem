@@ -1,0 +1,16 @@
+{
+  "case_number": "2024 INSC 376; CRIMINAL APPEAL NO. 1637 OF 2021",
+  "parties": {
+    "petitioner": "Alauddin & Ors.",
+    "respondent": "The State of Assam & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-05-03",
+  "summary": "Conviction under IPC s.302/149 challenged; unlawful assembly insufficient (only 4 guilty, not 5 under s.141 IPC); procedural flaws in contradiction/omission recording under CrPC s.162/164, Evidence Act s.145; prior statements not properly reconciled; High Court reappreciation erroneous; conviction quashed due to lack of s.149 applicability.",
+  "legal_provisions_cited": [
+    "Indian Penal Code 1860 s.302, s.149, s.141",
+    "Code of Criminal Procedure, 1973 s.162, s.164",
+    "Indian Evidence Act, 1872 s.145"
+  ],
+  "final_judgment": "Appeal allowed; conviction under s.302/149 IPC quashed; High Court judgment set aside; accused no.5's acquittal upheld; other convictions modified as not liable under s.149 (to be considered under s.34 IPC)."
+}

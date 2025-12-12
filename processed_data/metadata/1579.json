@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal Nos. 7939-7940 of 2022 & Civil Appeal Nos. 7941-7942 of 2022",
+  "parties": {
+    "petitioner": "Union of India and Others",
+    "respondent": "Subrata Nath"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-11-23",
+  "summary": "The case involved disciplinary action against Subrata Nath, a CISF constable, for failing to prevent the theft of approximately 800 kg of copper wire during his duty shift at Alif Nagar Scrap Yard on 7-8 November 2007. Two charges were framed: (1) gross negligence in dereliction of duty, and (2) having an incorrigible character due to prior eight punishments over 13 years. The inquiry officer found both charges proved; the Disciplinary Authority imposed dismissal from service, upheld in appeal and revision. The Calcutta High Court partially set aside the penalty, converting dismissal to compulsory retirement. The Supreme Court examined whether the penalty was disproportionate, considering the nature of the theft, procedural compliance, and conduct history. It emphasized that repeated delinquencies in a security force justify strict penalties, but also assessed proportionality under constitutional principles.",
+  "legal_provisions_cited": [
+    "Central Industrial Security Force Rules, 2001, Rule 32",
+    "Rule 32(1)",
+    "Schedule-I"
+  ],
+  "final_judgment": "The Supreme Court set aside the High Court's modification and restored the penalty of dismissal from service, holding that for a security force personnel with persistent disciplinary issues, dismissal was a justified and proportionate response to gross negligence in preventing a major theft during duty."
+}

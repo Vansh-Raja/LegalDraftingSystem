@@ -1,0 +1,17 @@
+{
+  "case_number": "CRIMINAL APPEAL NO. 2374 of 2014",
+  "parties": {
+    "petitioner": "Satye Singh & Another",
+    "respondent": "State Of Uttarakhand"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-15",
+  "summary": "The appeal challenged the conviction of the appellants (husband and mother-in-law of the deceased) under Sections 302/34 and 201 IPC, upheld by the Uttarakhand High Court. The prosecution case relied on circumstantial evidence, with no eyewitness to the incident. Key issues included whether the death was homicidal or suicidal, and whether the prosecution proved a complete chain of circumstances. The Supreme Court upheld the conviction, relying on the post-mortem report (showing ante-mortem injuries) and medical testimony (PW-9) confirming death due to haemorrhage and shock from such injuries, rejecting the suicide theory. It noted inadequate investigation but found the evidence sufficient to establish guilt beyond reasonable doubt. The failure of the accused to explain the circumstances under Section 106 of the Evidence Act weighed against them.",
+  "legal_provisions_cited": [
+    "Section 302 read with Section 34 IPC",
+    "Section 201 IPC",
+    "Section 106 Evidence Act",
+    "Article 136 Constitution of India"
+  ],
+  "final_judgment": "Appeal dismissed; conviction and sentence of life imprisonment and six years RI confirmed."
+}

@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal Nos. 4646-47 of 2022",
+  "parties": {
+    "petitioner": "M/s. Martin & Harris Private Limited & Anr.",
+    "respondent": "Rajendra Mehta & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-06",
+  "summary": "The case involved a dispute over mesne profits awarded during the pendency of a second appeal in an eviction suit under the Rajasthan Premises (Control of Rent and Eviction) Act, 1950 (Old Act). The appellants challenged the High Court's order directing them to pay mesne profits at Rs. 2,50,000 per month, arguing it exceeded the three-times standard rent cap under Section 20 of the Rajasthan Rent Control Act, 2001 (New Act). The respondents contended that the New Act did not apply as the proceedings were initiated and pending under the Old Act before the New Act's commencement on 01.04.2003. The Supreme Court examined Section 32 of the New Act, which preserves rights under the Old Act, and held that since the suit and related proceedings were ongoing under the Old Act, the provisions of the New Act, particularly Section 20, did not apply. The High Court’s impugned order was found to be just and equitable, with safeguards like interest on withdrawn amounts, and thus no interference was warranted.",
+  "legal_provisions_cited": [
+    "Section 13, Rajasthan Premises (Control of Rent and Eviction) Act, 1950",
+    "Section 20, Rajasthan Rent Control Act, 2001",
+    "Section 32, Rajasthan Rent Control Act, 2001",
+    "Order XLI Rule 5, CPC",
+    "Section 151, CPC"
+  ],
+  "final_judgment": "Appeal dismissed; the impugned order of the High Court directing payment of mesne profits at Rs. 2,50,000 per month upheld."
+}

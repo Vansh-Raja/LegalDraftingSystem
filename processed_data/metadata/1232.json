@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. ____ of 2022",
+  "parties": {
+    "petitioner": "Babanrao Rajaram Pund",
+    "respondent": "M/s. Samarth Builders & Developers & Anr."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-07",
+  "summary": "Dispute centered on validity of Clause 18 in Development Agreement dated 29.05.2014 as legal arbitration agreement determining whether parties intended to be bound by arbitrator's decision under Arbitration and Conciliation Act 1996; Appellant sought arbitration after Respondent failed to complete construction within stipulated period; High Court dismissed application holding Clause 18 lacked essential ingredients as decision not explicitly stated as binding; Supreme Court analyzed Section 7 requirements examining intention to arbitrate rather than specific language considering precedents affirming no mandatory form for arbitration clauses",
+  "legal_provisions_cited": [
+    "Arbitration and Conciliation Act 1996, Section 7",
+    "Arbitration and Conciliation Act 1996, Section 2(1)(b)",
+    "Maharashtra Apartment Ownership Act 1970, Section 2"
+  ],
+  "final_judgment": "Petition allowed; remanded for High Court to appoint arbitrator under Section 11 of Arbitration Act 1996 as Clause 18 constitutes valid arbitration agreement reflecting parties' intention to submit disputes to binding arbitration."
+}

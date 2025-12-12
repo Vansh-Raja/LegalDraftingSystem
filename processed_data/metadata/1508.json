@@ -1,0 +1,16 @@
+{
+  "case_number": "Criminal Appeal Nos. 1452–1453 of 2 kuknovs. 3445-3446 of 2019",
+  "parties": {
+    "petitioner": "State of Tamil Nadu through Deputy Superintendent of Police",
+    "respondent": "R. Soundirarasu and Suguna"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-09-05",
+  "summary": "The appeals challenge the Madras High Court's order discharging the respondents from prosecution under Section 13(2) read with 13(1)(e) of the Prevention of Corruption Act, 1988, and Section 109 IPC, in a disproportionate assets case. The FIR alleged that the accused public servant acquired assets disproportionate to known income sources during 2002–2004, including properties in the names of his wife and minor son. The respondents claimed independent income sources, including the wife’s partnership firm and money-lending business. The Special Judge rejected discharge applications, finding a prima facie case. The High Court reversed, discharging the accused. The Supreme Court examined the sufficiency of evidence at the discharge stage, emphasizing that discrepancies in income and assets, coupled with failure to disclose assets under conduct rules, support a prima facie case necessitating trial.",
+  "legal_provisions_cited": [
+    "Section 13(2) read with 13(1)(e) of the Prevention of Corruption Act, 1988",
+    "Section 109 of the Indian Penal Code",
+    "Section 239 of the Code of Criminal Procedure"
+  ],
+  "final_judgment": "Appeals allowed; impugned discharge order set aside and matter remanded to Special Judge for trial"
+}

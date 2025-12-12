@@ -1,0 +1,24 @@
+{
+  "case_number": "WRIT PETITION (CIVIL) NO 232 OF 2023 AND WRIT PETITION (CIVIL) NO 3 OF 2024",
+  "parties": {
+    "petitioner": "Justice Shailendra Singh & Ors",
+    "respondent": "Union of India & Ors"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2024-11-05",
+  "summary": "Eight High Court of Patna judges challenged a Union Government communication denying them General Provident Fund (GPF) benefits post-appointment to the High Court, despite eligibility under Section 20 of the High Court Judges (Salaries and Conditions of Service) Act, 1954. The issue centered on whether judges promoted from the district judiciary are entitled to GPF or must remain in the National Pension Scheme. The Court examined constitutional principles of financial independence, equality under Article 14, and uniformity of service conditions under Articles 216, 217, and 221. The Attorney General argued that prior pensionable service under state rules disqualified them from GPF, but amici and senior counsel contended that all High Court judges form a single class entitled to equal benefits. The Court emphasized the imperative of financial independence and equal treatment for all judges regardless of appointment source.",
+  "legal_provisions_cited": [
+    "Article 32",
+    "Article 14",
+    "Article 216",
+    "Article 217",
+    "Article 221",
+    "Article 221(1)",
+    "High Court Judges (Salaries and Conditions of Service) Act, 1954, Section 13A",
+    "Section 14",
+    "Section 15",
+    "Section 20",
+    "General Provident Fund (Central Services) Rules"
+  ],
+  "final_judgment": "The petition was allowed; the Court directed the respondents to open General Provident Fund accounts for the petitioners and grant terminal benefits in accordance with law, holding that all judges of a High Court, irrespective of recruitment source, are entitled to the same service conditions and financial benefits under Section 20 of the 1954 Act."
+}

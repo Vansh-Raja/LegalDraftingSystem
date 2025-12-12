@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 2095 of 2022",
+  "parties": {
+    "petitioner": "P. Ramasubbamma",
+    "respondent": "V. Vijayalakshmi & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-11",
+  "summary": "The appellant (plaintiff) challenged the Karnataka High Court's decision setting aside a Trial Court decree for specific performance of an agreement to sell dated 12.04.2005. The Trial Court had found that the appellant paid Rs. 26 lakhs of the total Rs. 29 lakhs and that the defendant owner admitted execution of the agreement. The High Court reversed based on Section 20 of the Specific Relief Act, holding the plaintiff should have sought cancellation of subsequent sale deeds executed by the attorney holder (defendant No. 2) in favor of defendants 3 and 4. The Supreme Court examined whether specific performance could be granted without seeking cancellation of subsequent deeds, noting the plaintiff impleaded the subsequent purchasers and sought conveyance through them. Reliance was placed on precedents holding that cancellation is not mandatory if title can be conveyed via joinder. The Court found the High Court erred in strictly applying Section 20 and not recognizing the sham nature of the later transactions executed after the agreement and after substantial payment.",
+  "legal_provisions_cited": [
+    "Section 20 of the Specific Relief Act",
+    "Lala Durga Parsad and Anr. Vs. Lala Deep Chand and Ors., 1954 SCR 360: AIR 1954 SC 75",
+    "Soni Lalji Jetha & Ors. Vs. Soni Kalidas Devchand & Ors., (1967) 1 SCR 873: AIR 1967 SC 978",
+    "R.C. Chandiok & Anr. Vs. Chuni Lal Sabharwal & Ors. (1970) 3 SCC 140: AIR 1971 SC 1238",
+    "Dwarka Prasad Singh & Ors. Vs. Harikant Prasad Singh & Ors., (1973) 1 SCC 179",
+    "Rathnavathi & Anr. Vs. Kavitha Ganashamdas, (2015) 5 SCC 223",
+    "Vasantha Viswanathan Vs. V.K. Elayalwar, (2001) 8 SCC 133"
+  ],
+  "final_judgment": "Appeal allowed. Impugned judgment of the High Court set aside. Decree of specific performance passed by the Trial Court restored."
+}

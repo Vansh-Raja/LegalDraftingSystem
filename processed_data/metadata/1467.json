@@ -1,0 +1,18 @@
+{
+  "case_number": "Civil Appeal Nos.7691-7694 of 2022",
+  "parties": {
+    "petitioner": "S. Ramachandra Rao",
+    "respondent": "S. Nagabhushana Rao & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-10-19",
+  "summary": "The key issue concerned whether the appellant's wife, who is both a GPA holder and an enrolled advocate, could appear and act on behalf of her husband in civil proceedings. The Trial Court and initially the High Court permitted her to appear as a power agent, not as an advocate. However, the impugned High Court order disapproved this, citing a Division Bench decision prohibiting GPA holders from participating in proceedings, and instead allowed her to appear as an advocate. The Supreme Court examined the interplay between Order III Rule 2 of CPC, Section 32 of the Advocates Act, 1961, and relevant rules, clarifying that appearance by a GPA holder who is an advocate must be strictly as an agent, not in professional capacity. The Court upheld the principle that while an advocate-GPA holder may appear for a party, she does so as a 'person' representing the party, not as a pleader.",
+  "legal_provisions_cited": [
+    "Order III Rule 2 CPC",
+    "Section 151 CPC",
+    "Section 32 of the Advocates Act, 1961",
+    "Rules 32 and 33 of the Civil Rules of Practice in Andhra Pradesh",
+    "Section 120 of the Evidence Act, 1872"
+  ],
+  "final_judgment": "Appeal allowed; judgment of the High Court set aside, and the Trial Court's order permitting the appellant's wife to appear as a GPA holder (not as an advocate) restored."
+}

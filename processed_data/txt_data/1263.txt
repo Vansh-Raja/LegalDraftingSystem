@@ -1,0 +1,2181 @@
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited
+on 17 January, 2022
+
+Author: V. Ramasubramanian
+
+Bench: V. Ramasubramanian, Hemant Gupta
+
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO.5766 of 2021
+
+DEVAS MULTIMEDIA PRIVATE LTD.                            ... APPELLANT(S)
+
+Versus
+
+ANTRIX CORPORATION LTD. & ANR.                           ... RESPONDENT(S)
+
+WITH
+
+CIVIL APPEAL NO.5906 of 2021
+
+JUDGMENT
+
+V. Ramasubramanian, J.
+
+1. Challenging an order of winding up passed by the National Company Law Tribunal under Section
+271(c) of the Companies Act, 2013 (for short the 2013 Act), which was confirmed by the National
+Company Law Appellate Tribunal on appeals, the company in liquidation, namely, Devas
+Multimedia Private Limited, through its ex−Director has come up with an appeal in Civil Appeal
+No.5766 of 2021 and one of the shareholders of the company in liquidation, namely, Devas
+Employees Mauritius Private Limited (hereinafter referred to as DEMPL) has come up with another
+appeal in CA No.5906 of 2021.
+
+2. We have heard Shri Mukul Rohtagi, learned senior counsel appearing for the company in
+liquidation, Shri Arvind P. Datar, learned senior counsel appearing for the shareholder−appellant,
+Shri N. Venkataraman, learned Additional Solicitor General appearing for Respondent No. 1 herein,
+which is the company which moved the Tribunal for winding up the company in liquidation and Shri
+
+1
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+Balbir Singh, learned Additional Solicitor General appearing for the Union of India.
+
+3. Brief Background 3.1 The first respondent in these appeals, namely, Antrix Corporation Limited
+(hereinafter referred to as Antrix), incorporated on 28.09.1992 under the Companies Act, 1956, is
+the commercial arm of the Indian Space Research Organisation (ISRO for short) which is wholly
+owned by the Government of India and coming under the administrative control of the Department
+of Space. 3.2 On 28.07.2003, Antrix entered into a Memorandum of Understanding with Forge
+Advisors, LLC, a Virginia Corporation. The intent, as spelt out in the MOU, was to make both parties
+become “strong and vital partners in evaluating and implementing major new satellite applications
+across diverse sectors including agriculture, education, media and telecommunications”. Apart from
+other things, the MOU contemplated Forge Advisors to provide a broad array of advisory services
+that included near−term tactical projects in the areas of sales, marketing, business development,
+strategic partnership negotiations and other related business areas and long term projects in the
+areas of corporate strategy, market opportunity assessment, business case development for new
+services, launch of new application services etc. 3.3 On 22.03.2004, Forge Advisors made a
+presentation proposing an Indian joint venture, to launch what came to be known as “DEVAS”
+(Digitally Enhanced Video and Audio Services). It was projected in the said proposal that DEVAS
+platform will be capable of delivering multimedia and information services via satellite to mobile
+devices tailored to the needs of various market segments such as (i) consumer segment, comprising
+of entertainment and information services to digital multimedia consoles in cars and vehicles; (ii)
+commercial segment, comprising of high value information services to Commercial Information
+Devices in commercial transport vehicles; and (iii) social segment, comprising of Developmental
+Information Services to Rural Information kiosks in underserved areas.
+
+3.4 The presentation dated 22.03.2004 was followed by a proposal dated 15.04.2004. The proposal
+was to form “a strategic partnership to launch DEVAS, a new service that delivers video, multimedia
+and information services via satellite to mobile receivers in vehicles and mobile phones across
+India”. The proposal dated 15.04.2004 indicated that DEVAS was conceived as a new National
+Service, expected to be launched by the end of 2006, that would deliver video, multimedia and
+information services via satellite to mobile receivers in vehicles and mobile phones across India 1.
+The proposal contemplated the formation of a joint venture and an obligation on the part of ISRO
+and Antrix to invest in one operational S−Band satellite with a ground space segment to be leased to
+the joint venture. In return, ISRO and Antrix were to receive lease payments of USD 11 million
+annually for a period of 15 years.
+
+3.5 The concept of DEVAS, as indicated in the penultimate paragraph of the Executive Summary of
+the proposal dated 15.04.2004, was based upon the evolution and performance of 1 Paragraph 1 of
+the Executive Summary of the Proposal dated 15.04.2004 similar services in other markets such as
+XM Radio and Sirius Radio in the United States and Mobile Broadcasting Corporation’s multimedia
+services via satellite in Korea and Japan. 3.6 It appears that pursuant to the aforesaid proposal,
+several meetings were held between the representatives of Forge and ISRO/Antrix and a Committee
+headed by one Dr. K.N. Shankara, Director of SAC (Space Application Centre) was constituted to
+examine the proposal.
+
+2
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+3.7 On 17.12.2004 Devas Multimedia Private Limited, (hereinafter referred to as ‘Devas’ or the
+‘company in liquidation’) was incorporated as a private company under the Companies Act, 1956.
+Immediately thereafter, Antrix entered into an Agreement with the said company on 28.01.2005.
+The Agreement was titled as “Agreement for the lease of space segment capacity on ISRO/Antrix S−
+Band spacecraft by DEVAS”. The preamble of the Agreement stated that Devas was developing a
+platform capable of delivering multimedia and information services via satellite and terrestrial
+system to mobile receivers, tailored to the needs of various market segments and that Devas had,
+therefore, requested Antrix, space segment capacity for the purpose of offering S−DMB service, a
+new digital multimedia and information service, including but not limited to audio and video
+content and information interactive services, across India that will be delivered via satellite and
+terrestrial system via fixed, portable mobile receivers including mobile phones, mobile video/audio
+receivers for vehicles etc.. What was to be leased out by Antrix to Devas was 5 numbers of C X S
+transponders each of 8.1 MHz capacity and 5 numbers of S X C transponders each of 2.7 MHz
+capacity on the Primary Satellite 1 (PS1). The leased capacity was agreed to be delivered by Antrix to
+Devas from a fully operational and ready PS−1 within 30 months of the agreement, with a further
+grace period of six months.
+
+3.8 Article 7 of the Agreement contained provisions for the termination of the Agreement by either
+of the parties, with certain consequences to one or the other, depending upon the circumstances
+under which termination was made. 3.9 It appears that Devas obtained approvals from Foreign
+Investment Promotion Board (FIPB) during the period May 2006 to September 2009. Pursuant to
+those approvals, Devas actually brought into India, an investment of about INR 579 crores. 3.10
+Devas also obtained an Internet Service Provider (ISP) License from the Department of
+Telecommunications on 02.05.2008. Devas then obtained permission from the Department of
+Telecommunications on 31.03.2009 for providing Internet Protocol Television (IPTV) Services
+within the scope of the terms and conditions of ISP license. Devas claims to have conducted
+experiments on the emerging technologies for satellite and terrestrial system in September 2009.
+
+3.11 However the Agreement dated 28.01.2005 was terminated by Antrix by a Communication dated
+25.02.2011, in accordance with Article 7(c) of the Agreement, which provides for termination on the
+ground of force majeure. It was stated in the said letter that the Government of India had taken a
+policy decision not to provide orbital slots in S−Band for commercial activities. 3.12 This
+termination led to Devas initiating a commercial arbitration in India before the ICC Arbitral
+Tribunal. Independently, the Mauritius investors initiated a BIT arbitration under the India−
+Mauritius Bilateral Investment Treaty and the German Company by name Deutsche Telecom,
+initiated a BIT arbitration under the India− Germany BIT. ICC Arbitral Tribunal passed an Award
+on 14.09.2015 directing Antrix to pay Devas, a sum of USD 562.5 million with simple interest @ 18%
+p.a. The Government of India suffered similar awards in the other 2 BIT Arbitral proceedings also.
+3.13 In the meantime, the Central Bureau of Investigation (CBI) filed a First Information Report on
+16.03.2015, against the company in liquidation namely Devas, as well as the officers of Devas and
+Antrix, for offences under Section 420 read with Section 120B of IPC and Section 13(1)(d) read with
+Section 13(2) of the Prevention of Corruption Act, 1988. It was followed by a charge−sheet filed on
+11.08.2016 and a supplementary charge−sheet on 08.01.2019. Similarly the Enforcement
+Directorate filed a report in ECIR No.12/BGZO/2015.
+
+3
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+3.14 Therefore, Antrix made a request to the Ministry of Corporate Affairs, Government of India, on
+14.01.2021 seeking authorization to initiate proceedings under Section 271(c) of the 2013 Act for
+winding up Devas. Authorisation was given on 18.01.2021, on the basis of which Antrix filed a
+petition before the National Company Law Tribunal, Bengaluru Bench on 18.01.2021 for the
+winding up of Devas.
+
+3.15 On 19.01.2021, NCLT passed a reasoned order, after hearing the counsel for Devas, admitting
+the company petition and appointing the Official Liquidator attached to the High Court of
+Karnataka at Bangalore, as the provisional liquidator. 3.16 Against the said order of NCLT admitting
+the company petition, DEMPL filed an appeal, but the same was disposed of by the NCLAT with a
+direction to DEMPL to seek impleadment before NCLT and raise all objections.
+
+3.17 DEMPL simultaneously filed a writ petition in W.P. No. 6191 of 2021 before the Karnataka High
+Court challenging the constitutional validity of Section 272(1)(e) of the Companies Act, 2013 and
+praying for quashing the authorization dated 18.01.2021 granted by the Ministry of Corporate
+Affairs to Antrix to initiate proceedings for winding up Devas. The High Court dismissed the Writ
+Petition on 28.04.2021 and also imposed costs of Rs.5,00,000/− on DEMPL on the ground that they
+were guilty of abuse of process of law.
+
+3.18 By a final order dated 25.05.2021, NCLT directed the winding up of Devas. Aggrieved by the
+order of winding up, Devas filed one appeal and the shareholder−DEMPL filed another appeal
+before NCLAT. These appeals having been dismissed by NCLAT by an Order dated 08.09.2021, the
+ex−Director of the company as well as the shareholder are on appeal before us.
+
+4. Grounds of Attack:
+
+4.1 The Company in liquidation, which is the appellant in one appeal, assails the
+impugned orders of NCLT and NCLAT broadly on the following grounds:−
+
+(i) breach of the mandatory requirement of advertisement before ordering winding
+up;
+
+(ii) winding up petition barred by limitation;
+
+(iii) Antrix estopped from pleading fraud;
+
+(iv) violation of the principles of natural justice due to the denial of permission for cross
+examination.
+
+(v)     erroneous findings of fact;
+(vi)    application of incorrect standard of proof on the question
+of fraud;
+
+(vii) erroneous conclusions regarding the consequences of fraud, assuming that fraud was
+established;
+
+4
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+4.2 DEMPL, which is the appellant in the second appeal before us and which holds 3.48% of the
+issued equity share capital of the Company in liquidation, assails the impugned orders broadly on
+the following grounds:−
+
+(i) The question of locus of a small shareholder to oppose winding up has been decided by both
+Tribunals contrary to law;
+
+(ii) Findings recorded against shareholders on the question of fraud, have been so recorded without
+making them a party and without giving them an opportunity of hearing;
+
+(iii) Inapplicability of the theory of useless formality to mandatory requirements such as
+advertisements before ordering winding up.
+
+5 Defence 5.1 The impugned orders are sought to be defended by Shri N. Venkataraman, learned
+Additional Solicitor General appearing for Antrix, broadly on the following grounds:−
+
+(i) Detailed findings recorded by the Tribunal on 8 different types of fraud committed by Devas,
+both in the formation of the Company and in the manner in which the affairs of the Company were
+carried out, which cannot be assailed in an appeal under Section 423 of the Companies Act, 2013.
+
+(ii) The Agreement dated 28.01.2005 entered into between Antrix and Devas spoke about three
+components, namely, DEVAS2 Technology, DEVAS services and DEVAS device, none of which
+existed either on the date of formation of Devas or on the date of execution of the Agreement or on
+the date of termination of the Agreement and not even on the date of winding up of the company.
+
+(iii) Violation of SATCOM policy, manipulation of minutes of meetings and the misleading Cabinet
+Note.
+
+(iv)    Shocking nature of the financial fraud.
+
+5.2            Shri Balbir Singh, learned Additional Solicitor General
+
+appearing for the Union of India defended the impugned orders broadly on the following grounds:
+
+(i) The requirement of an advertisement before winding up is 2 Wherever there is a
+reference to the company in liquidation, we have used the lowercase of the letters in
+the word ‘Devas’ and wherever there is a reference to the technology and services
+offered by Devas, we have used the capital letters in the word ‘DEVAS’ redundant in a
+petition under Section 271(c).
+
+(ii) The question of fraud has to be addressed from the broad parameters laid down, not only in
+Section 17 of the Indian Contract Act, 1872, but also in Section 447 read with Section 7 of the
+Companies Act, 2013 and keeping in mind the distinction between fraud, fraudulent manner,
+fraudulent purpose and unlawful purpose.
+
+5
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+(iii) The attempt of Devas to challenge the constitutional validity of Section 271(c) and its failure.
+
+(iv) The case on hand not falling under the category of cases where cross−examination was
+necessary.
+
+6. Fraud as a ground for winding up and the difference between 1956 Act and 2013 Act Before we
+proceed to consider the specific grounds of challenge to the impugned order, it is necessary to see
+the contours of Section 271 (c) of the Companies Act, 2013, as it is stated by the learned counsel on
+both sides (i) that this is a new addition to the Compa− nies Act; and (ii) that this is the first case of
+winding up on the ground of fraud. Therefore, a comparison of the provisions of 2013 Act with those
+of the 1956 Act may serve us better. 6.1 The Companies Act, 1956 spoke about two categories of
+winding up, namely, (i) winding up by the Tribunal; and
+
+(ii) voluntary winding up. The circumstances in which a company could be wound up by the Court,
+were enlisted in Section 433 of the 1956 Act. This Section contained a list of nine circumstances in
+which a company may be wound up. Fraud (i) either in the forma− tion of the company or (ii) in the
+conduct of affairs of the com− pany or (iii) on the part of persons concerned in the formation of or
+the management of its affairs, was not one of the circum− stances stipulated in Section 433 of 1956
+Act.
+
+6.2 Though Section 433 of the 1956 Act did not include fraud as one of the circumstances in which a
+company may be wound up, there was still an indirect reference to fraud. Section 439(1) of the 1956
+Act provided a list of seven persons who were entitled to file an application for the winding up of a
+company. Under clause (f) of sub− section (1) of Section 439, an application for winding up shall be
+presented by “any person authorized by the Central Government in their behalf” in a case falling
+under Section 243. 6.3 Section 243 of the 1956 Act empowered the Central Government to cause a
+petition for winding up to be presented, in cases covered by sub−clause (i) or sub clause (ii) of
+Clause (b) of Section 237. Section 243 of the 1956 Act read as follows:− “243. Application for
+winding up of company or an order under section 397 or 398. − If any such company or other body
+corporate is liable to be wound up under this Act and it appears to the Central Government from any
+such report as aforesaid that it is expedient so to do by reason of any such circumstances as are
+referred to in sub−clause (i) or (ii) of clause (b) of section 237, the Central Government may, unless
+the company, or body corporate is already being wound up by the Tribunal, cause to be presented to
+the Tribunal by any person authorised by the Central Government in this behalf –
+
+(a) a petition for the winding up of the company, or body corporate on the ground that it is just and
+equitable that it should be wound up ;
+
+(b) an application for an order under section 397 or 398,
+
+(c) both a petition and an application as aforesaid.” 6.4 Section 243 forms part of a set of provisions
+from Sections 235 to 251 in Chapter I of Part VI of the Act. This cluster of provi− sions from Sections
+235 to 251 is grouped under the Heading “In− vestigation”. Section 235(1) empowers the Central
+Government to or− der an investigation into the affairs of the company whenever a Re− port has
+
+6
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+been made by the Registrar under Section 234. Indepen− dent of Section 235(1), Central
+Government is empowered also under Section 237 to order an investigation, if, in its opinion or in
+the opinion of the Company Law Board (i) the business of the company is being conducted for a
+fraudulent or unlawful purpose or (ii) the company was formed for any fraudulent or unlawful
+purpose or (iii) persons concerned in the formation of the company or the management of its affairs
+have in connec− tion therewith, are guilty of fraud. Section 237 of the 1956 Act reads as follows:−
+“237. Investigation of company’s affairs in other cases. − Without prejudice to its powers under
+section 235, the Central Government –
+
+(a) shall appoint one or more competent persons as inspectors to investigate the affairs of a
+company and to report thereon in such manner as the Central Government may direct, if –
+
+(i) the company, by special resolution ; or
+
+(ii) the Court, by order, declares that the affairs of the company ought to be investigated by an
+inspector appointed by the Central Government ; and
+
+(b) may do so in its opinion or in the opinion of the Tribunal, there are circumstances suggesting –
+
+(i) that the business of the company is being conducted with intent to defraud its creditors,
+members or any other persons, or otherwise for a fraudulent or unlawful purpose or in a manner
+oppressive of any of its members, or that the company was formed for any fraudulent or unlawful
+purpose;
+
+(ii) that persons concerned in the formation of the company or the management of its affairs have in
+connection therewith been guilty of fraud, misfeasance or other misconduct towards the company or
+towards any of its members ; or
+
+(iii) that the members of the company have not been given all the information with respect to its
+affairs which they might reasonably expect, including information relating to the calculation of the
+commission payable to a managing or other director, or the manager, of the company.” 6.5 Thus a
+combined reading of Sections 439(1)(f), 243 and 237(b) of the 1956 Act shows that, (i) fraud in the
+formation of the company; (ii) fraud in the conduct of affairs of the company; and
+
+(iii) fraud on the part of the persons engaged in the formation or conduct of the affairs of the
+company, though not listed as some of the circumstances under Section 433 of the 1956 Act, were
+still available for the winding up of the company, even under the 1956 Act. But there were 3
+requirements to be satisfied. They are: (i) the perpetration of one or the other types of fraud
+mentioned above are reflected in a report of investigation; (ii) the petition under these provisions is
+to be filed only by a person authorised by the Central Government; and (iii) the petition should be
+premised on the ground that it is just and equitable to wind up the company. 6.6 What is interesting
+to observe from section 243 (a) is that a petition for winding up in terms of Section 439(1)(f) of the
+1956 Act, read with Section 237(b)(i) and (ii), has to be on “just and equitable” ground. Clause (a) of
+Section 243 of the 1956 Act, enabled the Central Government (if upon receipt of a report about the
+
+7
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+existence of the circumstances referred to in Section 237(b)(i) and (ii), it appears to the Central
+Government that it is expedient to do so), to authorize any person to present a petition for the
+winding up of a company, not directly on the ground of fraud but actually on the ground that it is
+just and equitable that the company should be wound up.
+
+6.7 It must be noted that just and equitable clause has several facets. The origin of just and equitable
+clause in Company law, is traceable to the law of partnership, which developed “the conceptions of
+probity, good faith and mutual confidence 3”. The principle behind just and equitable clause, in the
+words of the House of Lords is that “equity always does enable the Court to subject the exercise of
+legal rights to equitable considerations”. In other words, equitable considerations get superimposed
+on statutorily governed legal rights under this clause. 6.8 It is well settled that the words “just and
+equitable” in the legislation specifying the grounds for winding up by the Court, are not to be read as
+being ejusdem generis with the preceding words of 3 Ebrahimi vs. Westbourne Galleries Ltd.; (1972)
+2 WLR 1289 the enactment. They are not to be cut down by the formation of categories or headings
+under which cases must be brought if the enactment is to apply4. But apart from cases, (i) where
+there is something in the history of the company or in the relationship between the shareholders; or
+(ii) where there is functional deadlock of a paralysing kind; or (iii) where there is justifiable lack of
+confidence, which may give rise to a petition for winding up on just and equitable clause, there have
+also been other cases at least before the Courts in England, some of which are listed in paragraph
+360 of Volume 16 of the Fifth Edition (2017) of the Halsbury’s Laws of England. Two of them are (i)
+where the company is a bubble company; and (ii) where the company is fraudulent in its inception
+and carries on at a loss without a capital of its own. 6.9 But traditionally, fraud committed by a
+company on outsiders or the fact that the company acted dishonestly to outsiders, was not a ground
+for winding up in English Law. A useful 4 Para 359, Vol. XVI, Fifth Edition (2017) of Halsbury’s
+Laws of England. reference may be made in this regard to Re Medical Battery Co.5, where a question
+relating to investigation through public examination came up. It was held therein that the relevant
+provision was not intended to apply to a case where the charges were about the commitment of
+fraud in the course of business with the outside world and not connected in any way with the
+promotion or formation of the company.
+
+6.10 But the law has not remained static even in England. The Insolvency Act, 1986 was amended in
+England through the Companies Act, 1989 to incorporate Section 124−A. Under Section 124−A of
+the Insolvency Act, 1986, (i) the Secretary of State may seek the winding up of a company if he
+thinks that it is expedient in the public interest to wind up the company and
+
+(ii) if the court thinks it just and equitable to do so. Such winding up may be based upon, (i) the
+reports of some investigations under the Companies Act itself; or (ii) a report under the Financial 5
+(1894) 1 Ch. 444 Services and Markets Act; or (iii) any information under the Criminal Justice Act,
+1987.
+
+6.11 In Re Walter L. Jacob & Co. Ltd.6, the Court of Appeal (Civil Division) was concerned with a
+case, where the Secretary of State, after examining the books of the company in question, formed an
+opinion that the company should be wound up in public interest. Therefore, he filed a petition under
+Section 447 of the Companies Act, 1985 for winding up on just and equitable ground under Section
+
+8
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+122(1)(g) of the Insolvency Act, 1986. The High Court dismissed the petition. While reversing the
+decision and ordering the winding up, the Court of Appeal held that the Court’s task in the case of
+petitions for winding up in public interest, is to carry out a balancing exercise, having regard to all
+the circumstances as disclosed by the totality of the evidence. One of the arguments raised in that
+case was that the company sought to be wound up did well and that all clients to whom the company
+owed money except one, had settled the matter with the company. While rejecting the said 6 (1989)
+5 BCC 244 argument, the Court of Appeal emphasised that the Parliament had recognised the need
+for the general public to be protected against the activities of unscrupulous persons who deal in
+securities. 6.12 Thus, there was a shift even in the English Law, from the conservative view that
+fraud committed by the company upon outsiders was not available as a ground for winding up.
+However, winding up on the ground of public interest was also linked to just and equitable clause in
+England. This is perhaps why the law even in India, for the winding up of a company on the ground
+of fraud, was also linked to just and equitable clause under the 1956 Act. 6.13 But the mandate of
+Section 243 (a) of the Companies Act, 1956 to take recourse, in cases of fraud, to just and equitable
+ground, was little incongruous. This is due to the reason that under Section 443(2), the court may
+refuse to make an order of winding up, on just and equitable ground, if some other remedy was
+available to the persons seeking winding up. Section 443(2) of the 1956 Act reads as follows:− “443.
+Powers of tribunal on hearing petition xxxxxxxxxxxxxxx (2) Where the petition is presented on the
+ground that it is just and equitable that the company should be wound up, the Tribunal may refuse
+to make an order of winding up, if it is of the opinion that some other remedy is available to the
+petitioners and that they are acting unreasonably in seeking to have the company wound up instead
+of pursuing that other remedy.” Therefore, despite the fact that fraud was available, albeit indirectly,
+as a circumstance for the winding up of a company, even under the 1956 Act, its link to just and
+equitable clause was little problematic because of section 443(2). 6.14 Coming to the 2013 Act,
+provisions similar to sub−clauses
+
+(i) and (ii) of clause (b) of section 237 of the 1956 Act, are to be found in sub−clauses (i) and (ii) of
+clause (b) of section 213 of the 2013 Act. They employ the same language for the purpose of ordering
+an investigation into the affairs of a company. But under section 237 of the 1956 Act, the power to
+order investigation was with the central Government, while it is with the Tribunal under Section 213
+of the 2013 Act. Section 224 (2) of the 2013 Act is similar to Section 243 of the 1956 Act as it enables
+the Central Government to authorize any person to file a petition for winding up, on the basis of the
+report of any investigation. Here again, the petition for winding up on the basis of the report of such
+investigation, is to be on just and equitable ground by virtue of clause (a) of sub−section (2) of
+Section 224, which is similar to clause (a) of Section 243.
+
+6.15 The main departure of the 2013 Act from the statutory regime of the 1956 Act, is the specific
+inclusion of fraud, directly as one of the circumstances in which a company could be wound up.
+Section 271 of the 2013 Act lists out the circumstances in which a company may be wound up. What
+were clauses (a), (g), (h) and (i) of Section 433 of 1956 Act have now become clauses (a), (b), (d) and
+(e) of Section 271 of the 2013 Act, though not in the same order. In addition, (i) conduct of the
+affairs of the company in a fraudulent manner; (ii) formation of the company for fraudulent or
+unlawful purpose; and (iii) persons concerned in the formation or management of its affairs being
+guilty of fraud, misfeasance or misconduct, have now been included in clause (c) of Section 271, as
+
+9
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+some of the circumstances in which a company could be wound up. In other words, fraud has now
+directly become (under the 2013 regime), one of the circumstances in which a company could be
+wound up, though it also continues to be a ground indirectly, under section 224(2) read with section
+213 [as it was under Section 439(1)
+
+(f) read with sections 243 and 237(b) of the 1956 Act] . 6.16 As a matter of fact, Section 271(1) of the
+2013 Act, as it was originally enacted, included the inability of a company to pay its debts as one of
+the grounds for winding up. Therefore, the deeming provision which was there in Section 434 of the
+1956 Act found a place as sub−section (2) of Section 271 of the 2013 Act. But by the Insolvency and
+Bankruptcy Code, 2016 (Act 31 of 2016), “inability to pay debts” has been deleted from Section 271.
+As a consequence, the deeming provision in sub−section (2) of Section 271 also stands deleted. In
+fact, section 271 of the 2013 Act (along with sections 270 and 272) got amended even before they
+were notified under Section 1 (3) of the Act to come into force.
+
+6.17 In other words, Section 271 as it originally stood in the 2013 Act, listed six circumstances in
+which a company may be wound up. Inability to pay debts was one of those six circumstances. But
+by Act 31 of 2016, ‘inability to pay debts’ got deleted from the list of circumstances7. Section 271 of
+the 2013 Act, as it now stands after 2016, reads as follows:
+
+“271. Circumstances in which company may be wound up by Tribunal−− A company
+may, on a petition under sec− tion 272, be wound up by the Tribunal,−−
+
+(a) if the company has, by special resolution, resolved that the company be wound up
+by the Tribunal;
+
+(b) if the company has acted against the interests of the sovereignty and integrity of
+India, the security of the State, friendly relations with foreign States, public or− der,
+decency or morality;
+
+(c) if on an application made by the Registrar or any other person authorised by the
+Central Government by noti− fication under this Act, the Tribunal is of the opinion
+that the affairs of the company have been conducted in a fraudulent manner or the
+company was formed for fraudulent and unlawful purpose or the persons con−
+cerned in the formation or management of its affairs have been guilty of fraud,
+misfeasance or misconduct in connection therewith and that it is proper that the
+company be wound up;
+
+7 Now the inability of a company to pay its debts is a ground for initiation of CIRP. If CIRP fails,
+winding up can be resorted to.
+
+(d) if the company has made a default in filing with the Registrar its financial statements or annual
+returns for immediately preceding five consecutive financial years; or
+
+10
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+(e) if the Tribunal is of the opinion that it is just and equitable that the company should be wound
+up.” 6.18 Just as Section 439(1) of the 1956 Act provided a list of persons by whom an application for
+winding up may be filed, Section 272(1) of the 2013 Act also provides a list of persons by whom a
+petition for winding up may be filed. What is common to both Section 439(1) of the 1956 Act and
+Section 272(1) of the 2013 Act, is that a petition for winding up may be filed by: (i) the company; (ii)
+any contributory; (iii) the Registrar; and (iv) any person authorized by the Central Government in
+that behalf. 6.19 Both Section 439(1) of the 1956 Act and Section 272(1) of the 2013 Act use two
+important expressions, in relation to the persons competent to file a petition for winding up and the
+procedure to be followed. They are, (i) authorization; and (ii) sanction. The circumstances in which
+an ‘authorization’ has to be granted and the circumstances in which a sanction has to be granted, are
+different. Similarly, the grant of sanction should be preceded by an opportunity of hearing, but the
+issue of authorization does not require any prior opportunity to the company to make a
+representation. Sub-sections (5) and (6) of section 439 of the 1956 Act and sub-section (3) of section
+272 of the 2013 Act are presented in a table for easy reference:
+
+439. Provisions as to applica− 272. Petition for winding up tions for winding up (1)
+………..
+
+(1) ………….                                      (2) ………..
+(2) ………….                                      (3) The Registrar shall be enti−
+(3) ………….                                      tled to present a petition for
+(4) ………….                                      winding up under section 271,
+(5) Except in the case where he                except on the grounds specified
+is authorised in pursuance of                  in clause (a) of that section:
+clause (f) of sub− section (1), the            Provided that the Registrar shall
+Registrar shall be entitled to pre−            obtain the previous sanction of
+sent a petition for winding up a               the Central Government to the
+company only on the grounds                    presentation of a petition:
+specified in clauses (b), (c), (d), (e)        Provided   further   that  the
+and (f)] of section 433:                       Central Government shall not
+Provided that the Registrar shall              accord its sanction unless the
+not present a petition on the                  company has been given a
+ground specified in clause (e)                 reasonable    opportunity   of
+aforesaid, unless it appears to                making representations.
+him either from the financial
+condition of the company as dis−
+closed in its balance sheet or
+from the report of a special audi−
+tor appointed under section
+233A or an inspector] appointed
+under section 235 or 237, that
+the company is unable to pay its
+debts:
+Provided further that the Reg−
+istrar shall obtain the previous
+
+(cid:12)       sanction of the Central Gov−
+ernment to the presentation of
+the petition on any of the
+
+11
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+grounds aforesaid.
+(6) The Central Government shall
+not accord its sanction in pur−
+suance of the foregoing proviso,
+unless the company has first
+been afforded an opportunity
+of making its representations,
+if any.
+
+6.20       It may be seen from the above table that the second
+
+proviso to sub−section (5) of section 439 of the 1956 Act became the first proviso to
+sub−section (3) of Section 272 of the 2013 Act and sub−section (6) of Section 439
+became the second proviso to sub− section (3) of Section 272. They respectively
+prescribe, (i) that for presenting a petition for winding up, the Registrar requires
+previous sanction of the Central Government; and (ii) that before granting sanction,
+the Central Government should give a reasonable opportunity to the company to
+make a representation.
+
+6.21 Thus, in effect, the distinction between the procedure to be followed by the
+Registrar and the procedure to be followed by “any other person authorised by the
+Central Government”, for presenting a petition for winding up, is maintained as such.
+If the petition is to be filed by the Registrar, it should be preceded by 2 things namely,
+(i) a sanction; and (ii) an opportunity to the company to object. If the petition is to be
+filed by “any other person”, there is only one requirement namely that of
+authorization by the Central Government by notification.
+
+6.22 The above discussion would show that in contrast to the 1956 Act, the 2013 Act
+provides 2 different routes for the winding up of a company on the ground of fraud.
+They are:
+
+(i) winding up under clause (c) of Section 271 (directly on the ground of fraud) by any
+person authorised by the Central Government by notification; or
+
+(ii) winding up under clause (e) of Section 271 (on the ground that it is just and
+equitable to wind up) in terms of Section 224(2)(a) on the basis of a report of
+investigation under Section 213(b).
+
+6.23 If the second route is taken, then the power of the Tribunal to order winding up, may perhaps
+stand circumscribed by sub−section (2) of Section 273 which states that where a petition is
+presented on just and equitable ground, the Tribunal may refuse to make an order of winding up, if
+it is of the opinion that some other remedy is available to the petitioners and that they are acting
+unreasonably in seeking to have the company wound up instead of pursuing the other remedy. But
+
+12
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+the question whether such a restriction could be applied to cases of fraud, established by reports of
+investigation, may have to be tested in appropriate cases. 6.24 Having seen the distinguishing
+features between the 1956 Act and the 2013 Act, with regard to the question of availability of fraud
+as a ground for the winding up of a company, let us now take up for consideration, the grounds of
+attack to the impugned orders one after another.
+
+7. Advertisement of the Company Petition Admittedly, the petition for winding up, in this case, was
+never advertised nor even ordered to be advertised, either upon the admission of the petition or
+anytime thereafter. It is therefore contended by the appellants that the failure to comply with this
+requirement which is mandatory, vitiates the whole proceedings. 7.1 Under the 1956 Act regime, the
+mode of proceedings to be held for winding up of a company, was prescribed by the Companies
+(Court) Rules, 1959 issued in exercise of the powers conferred by sub−sections (1) and (2) of Section
+643 of the 1956 Act. Rule 10 of these 1959 Rules prescribed that all applications under the Act,
+unless otherwise provided by the Rules or permitted by the Judge, shall be made (i) either by a
+petition; or (ii) by a Judge’s summons. Rule 11(a) contains a list of about 23 types of applications
+under the Act, which shall be made by way of petition. Rule 11(b) states that all applications other
+than those covered by Rule 11(a), shall be made by a Judge’s summons.
+
+7.2 After making a distinction between (i) applications to be made by way of a petition; and (ii)
+applications to be made by way of a Judge’s summons in Rule 11, the Companies (Court) Rules, 1959
+speaks about advertisement in Rules 23 and 24. Rules 23 and 24 of the Companies (Court) Rules,
+1959 read as follows:− “23. Summons for direction − (a) Where a petition is presented under
+paragraphs (1), (3), (4), (22) and (23) of Rule 11, an application shall, in every case, be made by
+summons to the Judge in Chambers for directions as to the advertisement of the petition, the
+notices to be served and the proceedings to be taken. Except where, in any particular case, a
+different form is prescribed by these rules, such summons shall be in Form No. 4. (b) The summons
+shall be posted for hearing before the Judge in Chambers at the next Chamber sittings, and the
+Judge may make such orders thereon and may give such directions as may seem to him appropriate.
+(c) No summons for directions shall be necessary in the case of other petitions, but the petition
+shall, upon admission, be placed before the Judge in Chambers for fixing the date of hearing and
+directions as to the advertisement of the petition and the notices to be served, and such other
+directions as may be necessary.
+
+24. Advertisement of petition − (1) Where any petition is required to be advertised, it shall, unless
+the Judge otherwise orders, or these rules otherwise provide, be advertised not less than fourteen
+days before the date fixed for hearing, in one issue of the Official Gazette of the State or the Union
+Territory concerned, and in one issue each of a daily newspaper in the English language and a daily
+newspaper in the regional language circulating in the State or the Union Territory concerned, as
+may be fixed by the Judge. (2) Except in the case of a petition to wind−up a company the Judge may,
+if he thinks fit, dispense with any advertisement required by these rules.” 7.3 As could be seen from
+Rule 23, the summons for directions as to advertisement of the petition, dealt with by Rule 23,
+correlates only to 5 out of the 23 items listed in Rule 11(a). These 5 items mentioned in Rule 23, are
+those found in serial Nos.1, 3, 4, 22 and 23 of Rule 11(a). A petition for winding up falls under item
+No.15 of Rule 11(a). Therefore, Rule 23 has no application to a petition for winding up.
+
+13
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+7.4 Rule 24 deals with advertisement of a petition. But Rule 24(1) begins with the words “where any
+petition is required to be advertised”. Therefore, Rule 24 will also have no application unless there is
+any provision in the Act or the Rules which require the petition to be advertised.
+
+7.5 Part III of the 1959 Rules contains special provisions relating to proceedings for winding up. This
+part comprises of Rules 95 to 338. Rule 95 requires a petition for winding up to be in Form No.45,
+46 or 47. Rule 96 speaks about admission of petition and directions as to advertisement. It reads as
+follows:− “96. Admission of petition and directions as to advertisement − Upon the filing of the
+petition, it shall be posted before the Judge in Chambers for admission of the petition and fixing a
+date for the hearing thereof and for directions as to the advertisements to be published and the
+persons, if any, upon whom copies of the petition are to be served. The Judge may, if he thinks fit,
+direct notice to be given to the company before giving directions as to the advertisement of the
+petition.” Rule 99 deals with advertisement and it reads as follows:− “99. Advertisement of petition
+− Subject to any directions of the Court, the petition shall be advertised within the time and in the
+manner provided by rule 24 of these rules. The advertisement shall be in Form No. 48.” 7.6 It must
+be remembered that Chapter II of Part VII of the 1956 Act, did not contain a provision in itself,
+requiring the advertisement of a petition for winding up. But Section 643(1) read with Clause (i) of
+Sub−section (2) of Section 643 of the 1956 Act delegated to the Rule making power of the Central
+Government, the power to prescribe the mode of proceedings to be held for the winding up of a
+company by the Court. Therefore it is the Rules that speak about advertisement.
+
+7.7 Coming to the rules framed under the 2013 Act, Sub−sec− tions (1) and (2) of Section 468 of the
+2013 Act empower the Central Government to make Rules providing for all matters relating to
+winding up of companies. In exercise of the powers so conferred, the Central Government has issued
+a set of Rules known as the Compa− nies (Winding up) Rules, 2020. Rules 5 and 7 of these Rules
+speak about advertisement. These Rules read as follows:
+
+“5. Admission of petitioner and directions as to advertisement.− Upon filing of the
+petition, it shall be posted before the Tribunal for admission of the petition and fixing
+a date for the hearing thereof and for appropriate directions as to the advertisements
+to be published and the persons, if any, upon whom copies of the petition are to be
+served, and where the petition has been filed by a person other than the company, the
+Tribunal may, if it thinks fit, direct notice to be given to the company and give an
+opportunity of being heard, before giving directions as to the advertisement of the
+petition, if any, and the petitioner shall bear all costs of the advertisement.
+
+7. Advertisement of petition.− Subject to any directions of the Tribunal, notice of the
+petition shall be advertised not less than fourteen days before the date fixed for
+hearing in any daily newspaper in English and vernacular language widely circulated
+in the State or Union territory in which the registered office of the company is
+situated, and the advertisement shall be in Form WIN 6.” 7.8 In view of the language
+employed in Rule 7 of the 2020 Rules, it is contended by Shri Arvind P. Datar,
+learned senior counsel appearing for DEMPL, that there is no option available to
+NCLT but to order the advertisement of the petition. Rule 7 begins with the words
+
+14
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+“subject to any directions of the Tribunal, notice of the petition shall be advertised”.
+These words, in the contention of the learned senior counsel for DEMPL, indicate the
+availability of a limited elbow space to the Tribunal to issue directions about the
+newspaper in which the advertisement is to be issued and the particular edition
+(State, Regional or National Edition) in which the advertisement shall be published.
+In other words, his contention is that ordering the publication of an advertisement is
+mandatory, but smaller things such as the particular newspaper, particular edition
+etc., are left to the discretion of the Tribunal to be exercised in the form of directions.
+
+7.9 Before we test the correctness of the above argument, it may be necessary to look
+at the anatomy of Rule 5 which prescribes the procedure to be followed by the
+Tribunal, upon the filing of a petition for winding up. The step−by−step procedure
+prescribed in Rule 5 is as follows:− (1) The petition should first be posted before the
+Tribunal for admission.
+
+(2) The purpose of posting the petition for admission is three− fold, namely, (i) fixing a date for
+hearing of the petition;
+
+(ii) issuing appropriate directions as to the advertisement to be published; and (iii) indicating the
+persons upon whom the copies of the petition are to be served.
+
+(3) On the date when the petition is posted for admission, the Tribunal may direct notice to be given
+to the company and also provide an opportunity of being heard before giving directions as to the
+advertisement of the petition. 7.10 The essence of Rule 5 is to provide an opportunity of being heard
+to the company sought to be wound up, even before directions as to the advertisement of the
+petition are given. The last limb of Rule 5 speaks about the discretion vested in the Tribunal to direct
+notice to be given to the company and to give an opportunity of being heard before giving any
+directions as to the advertisement of the petition. This last limb of Rule 5 provides the clue about the
+purpose of advertisement.
+
+7.11 One way of looking at the requirement of an advertisement is that it provides an opportunity to
+all the stakeholders such as
+
+(i) creditors; (ii) workers; (iii) suppliers; (iv) customers; and (v) the general public, either to support
+or oppose the proceedings for winding up. There is also another way of looking at the object of
+issuing an advertisement of the petition for winding up. The advertisement serves as a
+warning/notice or red alert to all those dealing with the company so that they know that there could
+be an element of risk in dealing with the company.
+
+7.12 After all, the winding up of a company is like the insolvency of an individual. The advertisement
+of the petition for winding up, not merely serves as an opportunity to support or oppose winding up,
+but also harms the reputation of the company and sends shock waves in the stock market, if it is a
+listed company or among the stakeholders who have dealings with the company. This is why an
+opportunity of being heard is contemplated in Rule 5, before ordering the advertisement of the
+
+15
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+petition. This is exactly the reason why this Court held in National Conduits (P) Ltd. vs. S.S. Arora8
+as follows:− “xxxxx xxxxx xxxxx The view taken by the High Court that the Court must, as soon as
+the petition is admitted, advertise the petition is contrary to the plain terms of Rule 96. Such a view,
+if accepted, would make the Court an instrument, in possible cases, of harassment and even of
+blackmail, for once a petition is advertised, the business of the Company is bound to suffer serious
+loss and injury.” 7.13 The decision is National Conduits (P) Ltd. (supra) was followed in Cotton
+Corporation of India Limited vs. United Industrial Bank Ltd. & Ors.9 In fact, the argument of the
+companies sought to be wound up in Cotton Corporation of India Limited (supra) was that “the
+presentation of winding up petition coupled with advertisement thereof in newspapers, has certain
+serious consequences on the status, standing, financial viability and stability and operational
+efficiency of the company.” While dispelling the apprehensions so expressed, this 8 AIR 1968 SC 279
+9 (1983) 4 SCC 625 Court relied upon the decision in National Conduits (P) Ltd. (supra) to say that
+the apprehensions stood removed by taking a view that advertisement is not automatic.
+
+7.14 Therefore, the way in which the requirement of advertisement has been viewed by Courts is that
+advertisement causes more harm to the company than the benefit that it brings to the company.
+Hence the argument of the appellant in this case that the failure to advertise the petition was
+prejudicial to their interest, goes contrary to one of the important purposes of the advertisement and
+the chilling effect that it is supposed to have on the company. 7.15 It is no doubt true that in National
+Conduits, this Court was concerned with an appeal arising out of an order of the Delhi High Court,
+holding that once a petition is admitted to file, the Court is bound forthwith to advertise the petition.
+Interestingly, such an order was challenged by the Company itself on the ground that advertisement
+was prejudicial to them. While considering the challenge, in terms of Rule 24(2), this Court held in
+National Conduits (in paragraph 4) that a petition for winding up cannot be placed for hearing
+before the Court, unless the petition is advertised. 7.16 In IDBI Bank Ltd. vs. the Official
+Liquidator10, authored by one of us (VRS, J.) as a Company Judge in the High Court of Judicature
+at Madras, it was held that Rule 99 of the 1959 Rules makes it mandatory for an advertisement to be
+issued and that Rule 24(2) does not confer any power even upon the Company Court to dispense
+with any advertisement, in the proceedings for winding up. It was also pointed out in IDBI Bank
+Ltd. (supra) that Rule 100(2) which prohibits the withdrawal of a winding up petition before the
+date fixed in the advertisement for the hearing of the parties, also provided a clue about the
+mandatory nature of the requirement to advertise. In the aforesaid decision, Rule 101 which
+provides for the substitution of a creditor or contributory in the place of the original petitioner, upon
+his failure to advertise, was also taken note of. Rule 101 of the Companies (Court) Rules, 1959 reads
+as follows:
+
+10 2013(6) CTC 40 “Rule 101. Substitution of creditor or contributory for original
+petitioner. – Where a petitioner. – (1) is not entitled to present a petition, or (2) fails
+to advertise his petition within the time prescribed by these rules or by order of court
+or such extended time as the court may allow, or (3) consents to withdraw the
+petition, or to allow it to be dismissed, or the hearing to be adjourned or fails to
+appear in support of his petition when it is called on in court on the day originally
+fixed for the hearing thereof, or any day to which the hearing has been adjourned, or
+(4) if appearing, does not apply for an order in terms of the prayer of his petition or
+
+16
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+where in the opinion of the court there is other sufficient cause for an order being
+made under this rule, the court may, upon such terms as it may think just, substitute
+as pe− titioner any creditor or contributory who, in the opinion of the court, would
+have a right to present a petition, and who is desirous of prosecuting the petition.”
+7.17 In the light of the aforesaid Rule 101 also, it was held in IDBI Bank Ltd., that the
+requirement of advertisement was mandatory. While coming to the said conclusion,
+the Madras High Court also took note of the difference of opinion in this regard
+between the High Courts of Allahabad and Gujarat on the one hand and the High
+Court of Delhi on the other hand, with respect to the power of the Court to dispense
+with the publication of advertisement in the official Gazette. Paragraphs 53 to 55 of
+the decision of the Madras High Court in IDBI Bank Ltd. is reproduced for easy
+reference as follows:− “53. In U.P. Twiga Fiberglass Ltd vs. Parekh Marketing Pvt.
+
+Ltd {1986 (59) CC 886}, a Division Bench of the Allahabad High Court considered on appeal, a
+question, among others, as to whether the non−publication of the advertisement in the Gazette
+would be violative of Rule 24. In that case, the Company Judge ordered the publication of
+advertisements in one English Daily and one Vernacular Daily, but not in the Gazette. The Division
+Bench of the Allahabad High Court held that Rule 24(1) contains a rider "unless the Judge oth−
+erwise orders" and that Rule 99 also speaks about "subject to any directions of the Court". A similar
+view with regard to the power of the Company Court to dispense with the publi− cation of
+advertisement in the Government Gazette was taken by a Division Bench of the Gujarat High Court
+in Plas− tisac P. Ltd vs. Gujarat Lease Finance Ltd {2000 (101) CC 334 (Guj.)}. But a Division Bench
+of the Delhi High Court disagreed with the views expressed by the Allahabad and Gujarat High
+Courts, with regard to the power of the Com− pany Court to dispense with the publication of
+advertisement in the Official Gazette. In Lt. Col. R.K.Saxena vs. Imperial Forestry Corporation
+{2001 (107) CC 401 (Del.)}, a Division Bench of the Delhi High Court, after a careful consideration
+of Rules 96, 99 and 24 held that "the publication of the ad− vertisement of a petition for winding up
+is mandatory, even in respect of the Official Gazette". On the scope of the discre− tion conferred by
+Rule 99, the Delhi High Court held that the discretion is limited only to the extent of deciding at
+what stage the petition is to be advertised. The contention that the Company Court has inherent
+powers by virtue of Rule 9 even to dispense with the requirement of Rule 24, was also re− jected by
+the Delhi High Court on the ground that "if a statute requires a thing to be done in a particular
+manner, it shall be done in that manner or not at all".
+
+54. Though there was a difference of opinion between the Al− lahabad and Gujarat High Courts on
+the one hand and the Delhi High Court on the other hand, with regard to the power to dispense with
+the publication of advertisement in the Official Gazette, all these Courts were unanimous in their
+opinion at least with regard to the mandatory nature of the requirement of publication of
+advertisements, in one English Daily and one Vernacular Daily as ordered by the Company Judge.
+Therefore, it is clear that publication of ad− vertisements is mandatory. Irrespective of whether the
+Court has any discretion to dispense with the publication in the Gazette or not, the publication of
+advertisements at least in newspapers is mandatory and the failure of the petitioning creditor to
+comply with this requirement despite a positive order to that effect, is fatal to his petition.
+
+17
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+55. In Falcon Gulf Ceramics Ltd vs. Industrial Designs Bu− reau {1996 (86) CC 207 (Raj.)}, a
+Division Bench of the Ra− jasthan High Court set aside an order of winding up passed by the
+Company Court, on the sole ground that the winding up order was not preceded by an
+advertisement. The Divi− sion Bench of the Rajasthan High Court held in that case that
+advertisement of a petition was imperative in view of the provisions of Rule 96 read with Rule 99.
+For holding so, the Division Bench of the Rajasthan High Court relied upon paragraph 1463 of
+Halsbury's Laws of England (4th Edition), which stated that non−compliance with these provisions
+is a ground on which the Court shall reject the petition. After cit− ing the relevant passage from the
+decision of the Supreme Court in National Conduits, the Division Bench held in para 16 of its
+decision that in the absence of advertisement and admission, the petition for winding up was bound
+to be re− jected.” 7.18 However, when the decision of the Company Judge in IDBI Bank Ltd. was
+assailed in an intra−court appeal, the Division bench of the Madras High Court held in Pradeep D.
+Kothari vs. IDBI Bank Ltd.11 as follows:
+
+“31. Therefore, to our minds, two aspects would arise for consideration given the fact
+and circumstances obtaining in the instant case. First, if, winding up is not
+advertised, by the original petitioner as directed, can the Court direct the PL to
+advertise the petition, having regard to the fact that the proceedings are inter alia for
+the benefit of creditors at large and not one single creditor ?
+
+31.1. The answer to this poser, to our minds, has to be in af− firmative as there is no
+bar in the Rules which prohibits a PL from advertising the Company Petition in such
+like circum− stances, though, ordinarily, in practice, Company Petitions are
+advertised by the petitioner who institutes the action. As alluded to above, the Rules
+do not bar the Company Court from directing the PL to advertise the petition. The
+reason, why we hold this view is plainly this, that, while, adver− tisement of the
+petition is compulsory as winding up proceedings are proceedings in rem and
+therefore should receive the widest of publicity enabling all stakeholders to have
+notice of the proceedings, there is no such stipu− lation in the Rules that once, the
+winding up petition is admitted by a Court, it can in no circumstances move forward,
+unless an advertisement is taken out by the original petitioner or a suitable
+substituent who fulfills the qualifications provided in Rule 101(4).” 7.19 But the
+Judgment of the Company Judge of the Madras High Court in IDBI Bank Ltd. and
+the Judgment of the Division Bench in Pradeep D. Kothari, arose out of proceedings
+for winding up, in which a specific order directing the publication of the 11 2018 (1)
+CTC 136 advertisement had been made by the Company Court at the time of
+admission. However, the said direction was omitted to be complied with, by the
+petitioning creditor. Therefore, the crucial question that fell for consideration in that
+case was as to how a company Judge should proceed, in circumstances where the
+petitioning creditor loses interest in prosecuting the petition further and abandons
+the proceedings without carrying out the advertisement. This question assumed
+significance in the light of the fact that the failure of one petitioning creditor cannot
+result in serious prejudice to a whole body of creditors, in a proceedings in rem.
+
+18
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+7.20 The above decision of the Division Bench of the Madras High Court in Pradeep
+D. Kothari was assailed before this Court.
+
+While upholding the decision of the Division Bench, in its decision in IDBI Bank Ltd. vs. the Official
+Liquidator12, this Court held as follows:
+
+“14.3. Against this backdrop, the crucial question that arises for our consideration is
+whether a winding up petition can be dismissed solely on the ground lack of a
+prosecuting creditor under Rule 101, or whether the Company Court has 12 (2020) 15
+SCC 517 the power to direct the publication of an advertisement by the Liquidator of
+the company, especially in cases where other unsatisfied creditors still remain. For
+answering this question, it is important to bear in mind that winding proceedings are
+proceedings in rem and have an impact on the rights of people, in general. Thus, it is
+mandatory to advertise such proceedings so as to ensure that they receive the widest
+possible publicity and all relevant stakeholders have adequate notice. This implies
+that in a situation where the petitioning creditor fails to advertise the petition and no
+other creditor or contributory comes forward to prosecute it, Rule 101 should not be
+read in a manner that absolutely bars the continuation of a winding up petition. This
+is particularly so when there are unsatisfied creditors who should have been given an
+opportunity to prosecute the petition, but were deprived of the same due to the
+failure to advertise. Indeed, Rule 101 is only limited to instances where the
+petitioning creditor fails to advertise the petition. However, there is nothing in the
+language of Rule 24, 96 or 99 to indicate that only such petitioning creditor can
+advertise the petition. In our considered opinion, given the absence of a specific
+provision mandating that the petition can only be advertised by the petitioning
+creditor, the Company Court has the discretion to direct the publishing of an
+advertisement to secure the interest of other creditors. In such situations, the
+winding up proceedings cannot be dismissed, as it would frustrate the very objective
+of securing the interest of all creditors.
+
+14.4. In the light of this discussion, we find that it would be unjust to dismiss the
+winding up petition in the instant case solely on the ground that there is no other
+person willing to substitute the original creditor in terms of Rule 101. Here, due to the
+lack of advertisement of the winding petitions, it appears that the secured creditors of
+KOFL were constrained to approach the DRT for recovery of their dues by filling OAs
+Nos. 139 of 2001, 978 of 2000 and 14 of 2002. Further, upon learning of the decision
+of the Company Judge dated 04.10.2013, dismissing the winding up petition, one of
+the secured creditors (SBI) also approached the DRT to secure its interest. Based on
+this, vide order dated 13.12.2013, the DRT had directed that the amount to be
+returned to KOFL be attached so that the banks have an opportunity to recover their
+dues from KOFL.
+
+This clearly goes on to show that the secured creditors of KOFL were relevant stakeholders who
+were affected by the non−advertising of the winding−up petition. They should have been called upon
+
+19
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+to indicate whether they would want to step into the shoes of the petitioning creditors as per Rule
+
+101.” 7.21 Thus even in a case where the Court took a view that advertisement is mandatory, not only
+in view of the prescription contained in the Rules, but also in view of the specific order passed by the
+Company Court at the time of admission, directing the publication of the advertisement in specified
+newspapers, this Court did not see the failure to publish an advertisement as something that would
+lead to the automatic dismissal of the petition for winding up. This is for the reason that the
+advertisement of a petition for winding up is perceived to be something that worked at cross
+purposes, sometimes beneficial to several stakeholders as it provides an opportunity of hearing to
+them and sometimes as a measure of harassment of the company. There are cases where the
+companies themselves have opposed the advertisement of the petition on the ground that the same
+would harm their reputation and cripple their commercial activities. There are also cases where the
+failure to advertise has led to some of the creditors not having any notice of the proceedings and
+thereby suffering prejudice. This is why another Bench of the Madras High Court held in T.
+Narayanan vs. the Official Liquidator13, after taking note of the decision in National Conduits, as
+follows:
+
+“38. Assuming that the mandatory requirement was not complied with, the question
+falling for consideration is, can the non−compliance of procedural mandatory
+requirement would ipso facto vitiate the winding up order and stall fur− ther
+proceedings?. The next question falling for considera− tion is ‘can the non−
+compliance of a procedural manda− tory requirement be a ground to set aside the
+winding up order after three years, especially when the appellant had the opportunity
+of fighting out the litigation in the earlier round?’
+
+3 9 .   T h e   p u r p o s e   o f   a d v e r t i s e m e n t   i s   t o   g i v e   a n   o p p o r t u n i t y   t o   t h e
+creditors/debtors/Company to put forth their case be− fore the Court. Assuming that
+the procedural mandatory requirement was not complied with, in our considered
+view, it cannot be a ground to set aside the winding up order after three years. As
+rightly contended by the learned Senior Counsel for the Official Liquidator, to sus−
+tain the allegations of violation of principles of natural justice, one must establish
+prejudice. When fairness is shown and if the facts and circumstances indicate that 13
+2012 (1) MLJ 59 the Company/contributory were put on notice and that no prejudice
+was caused to them, the Company/contrib− utory cannot complain of any procedural
+irregularity.” 7.22 We may also have to take note of one more aspect. The Companies
+Act, 2013 mandates the constitution of a National Company Law Tribunal and a
+National Company Law Appellate Tribunal to exercise and discharge such powers
+and functions as may be conferred upon it by or under the Act. Section 424(1) makes
+it clear (i) that the Tribunal and the Appellate Tribunal shall not be bound by the
+procedure laid down in the Code of Civil Procedure, 1908, but shall be guided by the
+principles of natural justice; and
+
+(ii) that subject to the other provisions of the Act and of any rules made thereunder,
+the Tribunal and the Appellate Tribunal shall have power to regulate their own
+
+20
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+procedure.
+
+7.23 While Section 468(1) of the 2013 Act empowers the Central Government to make Rules
+consistent with the Code of Civil Procedure, providing for all matters relating to winding up, Section
+469(1) empowers the Central Government generally to make Rules for carrying out the provisions of
+the Act.
+
+7.24 In exercise of the powers conferred by Sections 468 and 469, the Central Government issued
+the Companies (Winding Up) Rules 2020. Similarly, the Central Government issued another set of
+Rules called the National Company Law Tribunal Rules, 2016 (for short “NCLT Rules 2016”) in
+exercise of the powers conferred by Section 469.
+
+7.25 Rule 35 of the National Company Law Tribunal Rules, 2016 deals with advertisement of
+petitions. It reads as follows:− “35. Advertisement detailing petition.− (1) Where any application,
+petition or reference is required to be advertised, it shall, unless the Tribunal otherwise orders, or
+these rules otherwise provide, be advertised in Form NCLT−3A, not less than fourteen days before
+the date fixed for hearing, at least once in a vernacular newspaper in the principal vernacular
+language of the district in which the registered office of the company is situate, and at least once in
+English language in an English newspaper circulating in that district. (2) Every such advertisement
+shall state;−
+
+(a) the date on which the application, petition or reference was presented;
+
+(b) the name and address of the applicant, petitioner and his authorised representative, if any;
+
+(c) the nature and substance of application, petition or reference;
+
+(d) the date fixed for hearing;
+
+(e) a statement to the effect that any person whose interest is likely to be affected by the proposed
+petition or who intends either to oppose or support the petition or reference at the hearing shall
+send a notice of his intention to the concerned Bench and the petitioner or his authorised
+representative, if any, indicating the nature of interest and grounds of opposition so as to reach him
+not later than two days previous to the day fixed for hearing.
+
+(3) Where the advertisement is being given by the company, then the same may also be placed on
+the website of the company, if any.
+
+(4) An affidavit shall be filed to the Tribunal, not less than three days before the date fixed for
+hearing, stating whether the petition has been advertised in accordance with this rule and whether
+the notices, if any, have been duly served upon the persons required to be served:
+
+Provided that the affidavit shall be accompanied with such proof of advertisement or
+of the service, as may be available.
+
+21
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+(5) Where the requirements of this rule or the direction of the Tribunal, as regards
+the advertisement and service of petition, are not complied with, the Tribunal may
+either dismiss the petition or give such further directions as it thinks fit.
+
+(6) The Tribunal may, if it thinks fit, and upon an application being made by the
+party, may dispense with any advertisement required to be published under this
+rule.” 7.26 It may be seen from Sub−rule (1) of Rule 35 that the procedure laid down
+in Rule 35 is applicable to cases “where any application, petition or reference is
+required to be advertised.” 7.27 The requirement to advertise a petition for winding
+up does not flow out of the statute, but flows out of the Rules. Since the requirement
+to advertise a petition for winding up is stipulated in Rules 5 and 7 of the Companies
+(Winding up) Rules, 2020, what is prescribed in Rule 35 would cover even petitions
+for winding up.
+
+7.28 If so understood, Sub−rules (5) and (6) of Rule 35 of the NCLT Rules 2016 would throw light
+upon the controversy on hand. Sub−rule (5) makes it clear that even in cases where the direction of
+the Tribunal as regards advertisement has not been complied with, the Tribunal has an option (i)
+either to dismiss the petition; or (ii) to give such further directions as it may think fit. Sub−rule (6)
+confers power upon the Tribunal even to dispense with any advertisement. 7.29 In other words,
+what was not specifically available in black and white, under the 1956 statutory regime, namely the
+power to dispense with any advertisement, is now made available specifically under the statutory
+regime of 2013. 7.30 In the case on hand, the company in liquidation was incorporated on
+17.12.2004, the Memorandum of Association of the Company was subscribed to by two persons by
+name D. Venugopal and M. Umesh. They subscribed to 9000 equity shares and 1000 equity shares
+respectively @ Rs.10 per share. Subsequently six individuals by name Ramachandran
+Vishwanathan, Paresh Shah Natwarlal, James Fox, MG Chandrasekar, Abhishek Jain and L
+Clarence Irving were issued with equity shares on 31.12.2005. Thereafter, two corporate entities,
+namely, Columbus Capital Devas (Mauritius) Ltd. and the Telecom Devas Mauritius Ltd., were
+issued Optionally Convertible Preference Shares and equity shares. Subsequently, two other
+companies by name Deutsche Telecom Asia Plc. Ltd. and Devas Employees Mauritius Pvt. Ltd. were
+issued with equity shares. All these shareholders are aware of the winding up proceedings and the
+proceedings are fought tooth and nail by one shareholder DEMPL through Mr. Ramachandran
+Vishwanathan who was also a shareholder. Another individual shareholder by name MG
+Chandrasekar has filed one of the above appeals as the ex−director of the company in liquidation.
+Admittedly, the company in liquidation does not have any creditors or customers who have dealings
+with the company. In other words, there are no stakeholders who are prejudiced by the failure of
+NCLT to order the publication of advertisement of the petition. Though technically the Tribunal may
+not be correct in invoking “useless formality theory” in cases of this nature, we can certainly apply
+the test of prejudice, especially in the light of the serious nature of the allegations of fraud, on the
+basis of which the company is sought to be wound up. This is not a case where the company is
+sought to be wound up on the ground of inability to pay debts or on just and equitable ground. This
+is a case of fraud and all stakeholders are fully aware of the proceedings and they have even shown
+extreme urgency in enforcing an ICC Arbitration award and 2 BIT awards, before the conclusion of
+the winding up proceedings. Therefore, we are unable to sustain the argument that the failure of the
+
+22
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+Tribunal to order the publication of an advertisement rendered the entire proceedings unlawful. 7.31
+The Companies (Winding Up) Rules, 2020 contain a list of Forms in which all the proceedings
+before the Tribunal are to be couched. While FORM WIN 1 prescribes the format of a petition for
+winding up by a person other than the company and Forms WIN 2, WIN 3 etc., prescribe the
+formats of certain other things, FORM WIN 11 prescribes the format of a winding up order. The
+National Company Law Tribunal is obliged under Rule 17(1) of the Companies (Winding Up) Rules
+2020, to prepare the order for winding up in FORM WIN 11 with such variations as may be
+necessary. On the basis of the contents of FORM WIN 11, it was argued by the learned counsel for
+the appellants that paper publication of the advertisement of the winding up petition is mandatory.
+
+7.32 FORM WIN 11 reads as follows:− FORM WIN 11 [See rule 17(1)] Before The National Company
+Law Tribunal Bench At…………………………… In The Matter of−−−−−Ltd (Give The Name of The
+Company) (Company incorporated under Companies Act,……………….. ) Company Petition
+No…../20……..
+
+……………….‘Petitioner Before the Hon'ble Mr. −−−−− Dated………… Winding up Order Upon the
+petition of…………….. presented on the day of……… .20 , upon hearing Shri ……………representative
+for the petitioner Shri representative for the creditors (or contributors) supporting the petition,
+Shri……………………….. representative for the creditors (or contributors) opposing the petition, and
+Shri………………… representative for the company, upon reading the said petition, the affidavit of
+A.B., filed the ………………….day of……………... 20 verifying the said petition, the affidavit of x.y., filed
+the ....... day of…………… 20 ..... the (state or union territory) paper publication of the advertisement
+of the said petition this Tribunal doth order:
+
+*(1) That the said company be wound up by this Tribunal under the provisions of the
+Companies Act, 2013; and (2) That the provisional liquidator or Company Liquidator
+as the case may be as liquidator of the company aforesaid forthwith take charge of all
+the property effects actionable claims and books and papers of the said company;
+
+**(3) That the provisional liquidator or Company Liquidator shall cause a sealed copy of this order
+to be served on the company by pre’paid registered post;
+
+(4) That the petitioner do advertise within fourteen days from this date a notice in the prescribed
+form of the making of this order in one issue (each) of. .. (here enter the newspaper or newspapers
+in which the order is to be advertised);
+
+(5) That the said petitioner do serve a certified copy of this order on the Registrar of Companies not
+later than one month from this date; and (6) That the cost of the said petition shall be paid out of the
+assets of the said company.
+
+Dated this …...... day ….... 20.
+
+(By the Tribunal) Registrar *Where the company ordered to be wound up is a Banking Company or
+an Insurance Company add at the end of clause (1) "and the Banking Companies Act, 1949' or 'and
+
+23
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+the Insurance Act 1938" as the case may be.
+
+** To be inserted only where the company is not the petitioner.
+
+7.33 The above FORM WIN 11 contains a reference to advertisement, in two places. In the first
+place, it is found in the preamble portion of the format, beginning with the words “upon the
+petition…..”. In the second place, a reference to advertisement is found in paragraph 4 of FORM
+WIN 11. While the advertisement referred to in the preamble of FORM WIN 11, obviously relates to
+the advertisement of the petition, the advertisement referred to in paragraph 4 of WIN 11 relates to
+the advertisement of the making of the order of winding up. It is needless to say that the
+advertisement of the petition for winding up is different from the advertisement of an order of
+winding up.
+
+7.34 In so far as the advertisement of the order of winding up is concerned, Rules 19 and 20 occupy
+the field. Rules 19 and 20 of the Companies (Winding Up) Rules, 2020 read as follows:− “19.
+Directions on making winding up order. − At the time of making the winding up order or at any time
+thereafter the Tribunal shall give directions to the petitioner as to the advertisement of the order
+and the persons if any on whom the order shall be served and the persons if any to whom notice
+shall be given of the further proceedings in the liquidation and such further directions as may be
+necessary.
+
+20. Advertisement of order. − Save as otherwise ordered by the Tribunal the order for the winding
+up of a company by the Tribunal shall within fourteen days of the date of the order be advertised by
+the petitioner in a newspaper in the English language and a newspaper in vernacular language
+widely circulating in the State or the Union territory where the registered office of the company is
+situated and shall be served by the petitioner upon such person if any and in such manner as the
+Tribunal may direct and the advertisement shall be in Form WIN 14”.
+
+7.35 Rule 19 mandates the Tribunal, at the time of making of the winding up order or any time
+thereafter to give directions to the petitioner as to the advertisement of the order. This is why
+paragraph 4 of FORM WIN 11 forms part of the operative portion of the FORM.
+
+7.36 In so far as the reference to advertisement contained in the preamble of FORM WIN 11 is
+concerned, it is merely one of the several items that the Tribunal may take into account for passing a
+winding up order. The items mentioned in the preamble of FORM WIN 11 are, (i) the petition for
+winding up; (ii) the hearing of the representative for the petitioner; (iii) the hearing of the
+representative for the creditors or contributories supporting the petition; (iv) the hearing of the
+representative for the creditors or contributories opposing the petition; (v) the hearing of the
+representative of the company; (vi) the affidavits; and (vii) the paper publication of the
+advertisement of the petition. 7.37 Thus the preamble merely contains a list of several matters that
+may be taken into account by the Tribunal before passing an order of winding up. All those items
+need not necessarily be present in all cases. For instance, there may be cases where the petition may
+not be supported by all creditors or contributories. There may also be cases where the petition may
+not be opposed by all creditors or contributories. However, there is a mention in the preamble about
+
+24
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+the hearing of the representatives of creditors supporting or opposing the winding up petition.
+Therefore, we cannot hold that merely because something is mentioned in the preamble of Form
+WIN−11, it becomes mandatory.
+
+8. LIMITATION 8.1 The second ground on which the impugned orders are assailed, is that the
+petition under Section 271(c) was hopelessly barred by limitation. Section 433 of the Companies Act,
+2013 makes the provisions of the Limitation Act, 1963 applicable to proceedings or appeals before
+the Tribunal or the Appellate Tribunal as the case may be. Therefore, it is the contention of the
+learned senior counsel for the appellants that Article 137 of the Schedule to the Limitation Act,
+which prescribes a period of limitation of 3 years for any application for which no period is
+prescribed elsewhere, is applicable to the case on hand. The period of 3 years so prescribed,
+according to the learned Senior Counsel for the appellants, in cases of fraud, would start running
+from the date stipulated in Section 17 of the Limitation Act, 1963. Section 17 reads as follows:
+
+“17. Effect of fraud or mistake.—(1) Where, in the case of any suit or application for
+which a period of limitation is pre− scribed by this Act,—
+
+(a) the suit or application is based upon the fraud of the defendant or respondent or
+his agent; or
+
+(b) the knowledge of the right or title on which a suit or application is founded is
+concealed by the fraud of any such person as aforesaid;
+
+or
+
+(c) the suit or application is for relief from the conse− quences of a mistake; or
+
+(d) where any document necessary to establish the right of the plaintiff or applicant
+has been fraudulently con− cealed from him, the period of limitation shall not begin
+to run until plaintiff or applicant has discovered the fraud or the mistake or could,
+with reasonable diligence, have discovered it; or in the case of a concealed document,
+until the plaintiff or the appli− cant first had the means of producing the concealed
+docu− ment or compelling its production:
+
+Provided that nothing in this section shall enable any suit to be instituted or
+application to be made to recover or enforce any charge against, or set aside any
+transaction af− fecting, any property which—
+
+(i) in the case of fraud, has been purchased for valuable consideration by a person
+who was not a party to the fraud and did not at the time of the purchase know, or
+have reason to believe, that any fraud had been com− mitted, or
+
+(ii) in the case of mistake, has been purchased for valu− able consideration
+subsequently to the transaction in which the mistake was made, by a person who did
+
+25
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+not know, or have reason to believe, that the mistake had been made, or
+
+(iii) in the case of a concealed document, has been pur− chased for valuable
+consideration by a person who was not a party to the concealment and, did not at the
+time of purchase know, or have reason to believe, that the document had been
+concealed.
+
+(2) Where a judgment−debtor has, by fraud or force, pre− vented the execution of a
+decree or order within the period of limitation, the court may, on the application of
+the judg− ment−creditor made after the expiry of the said period extend the period
+for execution of the decree or order: Provided that such application is made within
+one year from the date of the discovery of the fraud or the cessation of force, as the
+case may be.” 8.2 The argument of Shri Mukul Rohatgi, learned Senior Counsel for
+the appellant is that even assuming that the so called fraud was incapable of being
+discovered with due diligence, limitation would start running at least from the date of
+actual discovery of the fraud. The date of actual discovery of fraud cannot be
+postponed beyond 11.08.2016, which was the date on which a charge sheet was filed
+in the criminal case, by the CBI before the Special Court. Therefore, it is the
+contention of the learned senior counsel for the appellants that the petition for
+winding up ought to have been filed at least on or before 10.08.2019. However,
+Antrix applied to the Government of India only on 14.01.2021 for the grant of
+authorisation. The authorisation was issued on 18.01.2021 and the petition for
+winding up was filed on 18.01.2021 (the same day).
+
+Therefore, placing heavy reliance upon the decision of the three member Bench of this Court in
+Jignesh Shah and Anr. vs. Union of India and Anr.14, it is contended on behalf of the appellant that
+the petition for winding up should have been thrown out on the ground of limitation, even if we take
+the date of filing of the charge− sheet alone as the date of knowledge of the alleged fraud. 14 (2019)
+10 SCC 750 8.3 Before we consider the aforesaid contentions independently, it will be useful to take
+note of the manner in which the National Company Law Appellate Tribunal dealt with the question
+of limitation and decided the same against the appellants. 8.4 The Member (Technical) of NCLAT,
+in his separate but concurring opinion, dealt with the question of limitation, from paragraphs 2 to
+13. In sum and substance, the Member (T) of NCLAT held (i) that the fraud alleged by Antrix was
+not a singular act which was transaction−specific; (ii) that the petition for winding up was based
+upon a series of acts of fraud, unearthed over a long period of time; (iii) that though the CBI filed a
+first charge−sheet on 11.08.2016, a supplementary charge−sheet was filed on 8.01.2019;
+
+(iv) that a complaint was lodged under the Prevention of Money Laundering Act, 2002 alleging
+financial frauds, only on 24.12.2018; and (v) that in cases of this nature, the date of discovery of the
+first act of fraud among a series of acts of fraud, cannot be taken to be the date on which the right to
+apply accrued in terms of Article 137 of the Schedule to the Limitation Act, 1963.
+
+8.5 The above view taken by NCLAT is a plausible view and does not suffer from any perversity. The
+above view cannot be said to be completely contrary to law. However, we will independently deal
+
+26
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+with this issue, so that the myth of limitation is demystified. 8.6 The various provisions of the
+Companies Act, 2013, unfortunately came into force on various dates, in view of the leverage
+granted under Section 1(3) to the Central Government to appoint different dates for different
+provisions to come into force. Section 270 providing for the winding up by the Tribunal, Section 271
+prescribing the circumstances in which a company may be wound up by the Tribunal and Section
+272 stipulating the requirements of a petition for winding up, as they were originally enacted in the
+Companies Act, 2013, never came into force, since no notification under Section 1(3) of the Act was
+issued in respect of these three provisions.
+
+8.7 However, the Insolvency and Bankruptcy Code, 2016 (Act 31 of 2016) received the assent of the
+President on 28.05.2016. Section 255 of this Code declared that the Companies Act, 2013 shall stand
+amended in the manner specified in the 11 th Schedule to the Code. The existing provisions of
+Sections 270 to 272 of the Companies Act, 2013 were replaced by the 11 th Schedule read with
+Section 255 of IBC. Section 255 of IBC came into force on 15.11.2016 vide S.O 3453(E) dated
+15.11.2016. Consequently the 11th Schedule containing amendments to the Companies Act, 2013 also
+came into force on 15.11.2016. Sections 270, 271 and 272 as they stand today, resultantly came into
+force on 15.11.2016. 8.8 In contrast, the provisions of Sections 4 to 32 of IBC came into force on
+1.12.2016 vide S.O 3594(E) dated 30.11.2016. The provisions relating to Corporate Insolvency
+Resolution Process are found in Sections 6 to 32 of IBC 2016. Sections 7, 9 and 10 of IBC 2016
+provide for the initiation of Corporate Insolvency Resolution Process, respectively by the financial
+creditor, the operational creditor and the corporate applicant.
+
+8.9 Section 434 of the Companies Act, 2013, as it was originally enacted, provided for transfer of
+certain proceedings pending before various forums on the date of coming into force of the Act.
+Clause (c) of Sub−section (1) of Section 434 provided for the transfer of the winding up proceedings
+to the Tribunal, with a mandate to the Tribunal to proceed to deal with those proceedings from the
+stage before their transfer. IBC 2016, through the 11 th Schedule, substituted a new provision in
+Section 434. Though the newly incorporated Section 434 also provided under Clause (c) of Sub−
+section (1) for the transfer of winding up proceedings from the High Court to the Tribunal, such
+transfer was made subject to certain restrictions. One of those restrictions was that only those
+proceedings relating to winding up which are at a stage as may be prescribed by the Central
+Government, which may be transferred to the Tribunal. This restriction is found in the first proviso
+to Section 434(1).
+
+8.10 Therefore, the Central Government issued a set of Rules known as the Companies (Transfer of
+Pending Proceedings) Rules, 2016. These Rules (except Rule 4 which relates to voluntary winding
+up) came into force with effect from 15.12.2016. Rule 5 of these Rules prescribes the stage at which
+alone, a petition for winding up under Section 433(e) of the 1956 Act could be transferred to NCLT.
+Similarly Rule 6 prescribes the stage at which the petitions for winding up filed under Clauses (a)
+and (f) of Section 433 of the 1956 Act could be transferred.
+
+8.11 What is important to note from the above discussion is
+
+27
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+(i) that while Sections 270 to 272 of the Companies Act, 2013 came into force on 15.11.2016, Sections
+7, 9 and 10 of IBC came into force on 1.12.2016 and the Rules relating to transfer proceedings came
+into force on 15.12.2016; and
+
+(ii) what is provided for under the Companies (Transfer of Pending Proceedings) Rules, 2016 read
+with Section 434 of the Companies Act, 2013 and Section 239 of the IBC 2016 is the transfer of only
+three categories of petitions for winding up, namely, those that fall under clauses (a), (e) and (f) of
+Section 433 of the 1956 Act.
+
+8.12 Keeping in mind the above statutory scheme, let us now see what happened in Jignesh Shah
+(supra), on which heavy reliance is placed. In Jignesh Shah, a suit for specific performance of an
+agreement with an alternative claim for damages, was filed by IL&FS, on 19.06.2013, on the ground
+that the cause of action, namely, the refusal to honour the commitment under the agreement arose
+on 16.08.2012. After more than two years of the date of the institution of the suit and after more
+than three years of the date mentioned in the plaint as the date of arising of the cause of action, the
+plaintiff in the suit issued a statutory notice under Sections 433 and 434 of the 1956 Act, on
+3.11.2015. After receipt of the reply from the defendant, a petition for winding up was filed by the
+plaintiff in the suit, against the defendant, on 21.10.2016 before the Bombay High Court under
+Section 433(e) of the 1956 Act. This petition for winding up was transferred by the High Court of
+Bombay to the NCLT, by an order dated 1.02.2017, in terms of Section 434 of the Companies Act,
+2013 read with Rule 5 of the Companies (Transfer of Pending proceedings) Rules, 2016. NCLT
+treated the petition for winding up as a petition for corporate insolvency resolution under Section 7
+of IBC by a financial creditor and ordered the admission of the petition. The order of admission was
+unsuccessfully challenged before the NCLAT, whereafter, the matter landed up before this Court.
+The view taken by NCLAT was that since Section 7 of IBC 2016 came into force on 1.12.2016, the
+winding up petition was within the period of limitation. It was this view of NCLAT which was put to
+test before this Court in Jignesh Shah.
+
+8.13 In essence, Jignesh Shah was one under Section 433(e) of the 1956 Act which related to
+inability of a company to pay its debts. Therefore, unless the debt was a legally recoverable debt, on
+the date on which a petition for winding up was filed, no petition for winding up was maintainable.
+If a suit for recovery of such a debt was already time barred, it is incongruous to say that a petition
+for winding up was maintainable in respect of such a debt. Therefore, the test applied in Jignesh
+Shah was not new but what was so obvious. In fact, on the date on which a petition for winding up
+was filed on the file of the Bombay High Court in Jignesh Shah, the civil suit for enforcement of the
+contract with an alternative claim for damages was pending. If the plaintiff had waited for a decree
+in the suit and thereafter moved a petition for winding up on the basis of the decree, Section
+434(1)(b) of the Companies Act, 1956 would have come into play and the winding up petition could
+not have been held in Jignesh Shah to have been time barred. Since the plaintiff in the suit moved
+an application for winding up even during the pendency of the suit, limitation had to be naturally
+counted on the basis of the original cause of action mentioned in the civil suit, with reference to
+Section 434(1)(a).
+
+28
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+8.14 As we have seen earlier, Section 434 of the 2013 Act read with the Companies (Transfer of
+Pending Proceedings) Rules, 2016 apply only in respect of three types of proceedings for winding
+up, namely, (i) proceedings on the ground of inability to pay the debts, covered by Clause (e) of
+Section 433 of the 1956 Act; (ii) proceedings initiated by the company itself by a special resolution
+covered by Clause (a) of Section 433; and (iii) proceedings on just and equitable ground covered by
+clause (f) of Section 433.
+
+8.15 As we have seen in Chapter 6 above, fraud was not included in Section 433 of the 1956 Act as
+one of the nine circumstances in which a company may be wound up. Under the 1956 statutory
+regime, a petition for winding up, even if triggered on the basis of an investigation report under
+section 237(b) read with section 243 and Section 439(1)(f), was required to be only on just and
+equitable ground under Section 433(f). Therefore, on the date on which IBC came into force, if a
+petition for winding up was pending under section 433 (e) or (f), it was liable to be transferred to
+NCLT by virtue of Section 434 of the 2013 Act read with the Companies (Transfer of Pending
+Proceedings) Rules, 2016. 8.16 But under the Companies Act, 2013, three different types of fraud are
+included in Section 271(c), as the circumstances for winding up a company. Such a winding up is
+independent of just and equitable ground. Therefore, the parameters applicable to winding up on
+the ground of inability to pay debts or on just and equitable ground may not be applied blind fold to
+a case of fraud. 8.17 Antrix, which initiated the proceedings for winding up, is neither a financial
+creditor nor an operational creditor nor a corporate applicant. This is why Antrix have not and could
+not have gone for insolvency resolution process, under the IBC, but taken recourse to Section 271(c)
+of the Companies Act, 2013. Hence the ratio in Jignesh Shah, as applicable to debts, whose recovery
+in any case should not have been time barred on the date of initiation of the proceedings for winding
+up/insolvency resolution process, cannot have any application to the case on hand. 8.18 It is
+fundamental to the law of limitation that limitation extinguishes the remedy and not the right. If the
+remedy of filing a civil suit for the recovery of a debt stands extinguished by the Law of Limitation,
+the creditor cannot make use of Section 433(e) of the Companies Act, 1956. This is the premise on
+which this Court decided Jignesh Shah.
+
+8.19 After Jignesh Shah, this court was concerned with the application of sections 14 and 18 of the
+Limitation Act, 1963 in different cases. In Sesh Nath Singh v. Baidyabati Sheoraphuli Co−operative
+Bank Ltd15 , this Court held that Sections 14 and 18 will apply to cases filed under section 7 or 9 of
+IBC. Again in Laxmi Pat Surana vs Union Bank of India16, this Court held :“Section 18 of the
+Limitation Act would come into play every time when the principal borrower and/or the corporate
+guarantor (corporate debtor), 15 (2021) 7 SCC 313 16 (2021) 8 SCC 481 as the case may be,
+acknowledge their liability to pay the debt. Such acknowledgement, however, must be before the
+expiration of the prescribed period of limitation including the fresh period of limitation due to
+acknowledgement of the debt, from time to time, for institution of the proceedings under Section 7
+of the Code.” 8.20 Thereafter, the question whether the entries made in the balance sheets of a
+corporate debtor would amount to acknowledgement of a liability under section 18 of the Limitation
+Act came up for consideration in Asset Reconstruction company vs Bishal Jaiswal17. After referring
+to the judgment of the Calcutta High Court in Bengal Silk Mills Co. v. Ismail Golam Hossain Ariff 18,
+this Court held in Bishal Jaiswal (i) that “though the filing of a balance sheet is by compulsion of
+law, the acknowledgement of a debt is not necessarily so; and (ii) that the entries made in the
+
+29
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+balance sheets would amount to acknowledgement of liability depending upon whether such an
+entry qua any 17 (2021) 6 SCC 366 18 AIR 1962 Cal 115 particular creditor is unequivocal or has
+been entered into with caveats in the form of notes that are annexed to or forming part of such
+financial statements” 8.21 The above decisions show that limitation is not always akin to a lighted
+matchstick to a train of gun powder. The date of commencement of the period need not necessarily
+be static. The date of commencement may keep changing depending upon the acts of omission and
+commission on the part of the party against whom the action is initiated. These acts of omission and
+commission constitute the bundle of facts, which determine the question whether an action is
+barred by limitation or not. 8.22 As we have pointed out elsewhere, the contours of fraud as
+delineated in Section 271(c) of the Companies Act, 2013 cover three aspects namely, (i) the affairs of
+the company being conducted in a fraudulent manner; (ii) the company was formed for fraudulent
+and unlawful purpose; and (iii) the persons concerned in the formation and management of its
+affairs have been guilty of fraud, misfeasance or misconduct in connection therewith. As rightly
+pointed out by the Tribunal, a singular act of omission or commission may constitute fraud and even
+a series of acts may constitute fraud. A fraudulent act may be different from the fraudulent manner
+in which an act is performed. The words “the conduct of the affairs of a company in a fraudulent
+manner” indicate that the process was a continuing one. If the conduct of the affairs of the company
+in a fraudulent manner is a continuing process, the right to apply becomes recurring.
+
+8.23 We must keep in mind the fact that apart from the persons in charge of the management of the
+affairs of the company in liquidation, the officials of Antrix as well as the officials of the Department
+of Space are now facing prosecution not only for offences under Section 420 read with Section 120B
+of the Indian Penal Code, but also for offences under the Prevention of Corruption Act, 1988 and the
+Prevention of Money Laundering Act. The termination of the Contract on 25.02.2011, was not
+triggered by an allegation of fraud and corruption. Fraud and corruption were discovered only later
+and by the time the discovery was made, the attempts to reap the fruits of fraud had reached the
+pinnacle. These attempts continue even till date and this falls squarely within Section 271(c).
+Therefore, the contention that the petition was barred by limitation was rightly rejected by the
+Tribunal and we have no reason to take a different view.
+
+9. ESTOPPEL 9.1 The next ground of attack to the impugned orders is that Antrix is estopped from
+pleading fraud and seeking winding up of Devas, in view of the fact, (i) that the letter of termination
+dated 25.02.2011, of the Agreement dated 28.01.2005 was not on the ground of fraud but by
+invoking the force majeure clause; (ii) that in the proceedings before the arbitral Tribunals, no
+allegation of fraud was ever raised; and (iii) that the Auditor’s reports of Antrix for all these years,
+contained a statement that no fraud was committed on Antrix.
+
+9.2 The contention of the appellants is that under Section 19 of the Indian Contract Act, 1872, an
+agreement vitiated by fraud is not void but only voidable at the option of the party who is a victim
+and that therefore the failure of Antrix, (i) to terminate the contract on the ground of fraud and/or
+(ii) to set up fraud as a defence to the arbitral proceedings operated as estoppel. In addition, the
+Auditor’s statements in the Annual Reports, that no fraud was committed on Antrix, would give rise
+to a valid plea of estoppel. 9.3 Factually, the appellants are right in pointing out that the Agreement
+dated 28.01.2005 was terminated by a letter dated 25.02.2011 only by invoking the force majeure
+
+30
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+clause and that fraud was not set up as a defence in the arbitral proceedings. The appellants are also
+factually correct in pointing out from the Auditor’s reports of Antrix dated 15.09.2012, 19.07.2016,
+24.07.2017, 19.06.2020 etc., that there was a certification by the auditors to the effect that no fraud
+on or by the company has been noticed or reported during the course of the audit. In the Annexure
+to the Auditor’s report dated 15.09.2012, the Auditors have stated:− “According to the information
+and explanations given to us in the course of our audit, we report that no fraud on or by the
+Company has been noticed or reported during the course of our audit.” 9.4 Similarly, in the Annual
+Report dated 19.07.2016, for 2015−16, it was reported by the Auditors as follows:− “To the best of
+our knowledge and belief and according to the information and explanations given to us, we report
+that no case of fraud has been committed on or by the Company or by its officers or employees
+during the year.” 9.5 A statement similar to the one extracted above, also finds a place in the
+Auditor’s report dated 24.07.2017, forming part of the Annual Report 2016−17.
+
+9.6 Even in Annexure−B Report dated 19.06.2020, the Auditors have given a statement as follows:−
+“Fraud by company or its officers and employees According to the information and explanation
+given to us, there are no frauds reported by the company or any fraud has been noticed or reported
+during the year. Accordingly, the provisions of clause 3(x) of the said order are not applicable.” 9.7
+Under Clause (xxi) of paragraph 4 of the Companies (Auditor’s Report) Order, 2003, issued in
+exercise of the powers conferred by Section 227 (4A) of the Companies Act, 1956, there is a
+prescription that the Auditor’s Report should contain a statement as to whether any fraud on or by
+the company has been noticed or reported during the year and if so, the nature and the amount
+involved.
+
+9.8 But the question is as to whether all the above would lead to an inference of estoppel against
+Antrix. The fact that the Agreement dated 28.01.2005 was not terminated on the ground of fraud,
+through the letter dated 25.02.2011, cannot take the appellants anywhere. The earliest First
+Information Report for the offences under Section 420 read with Section 120B of the IPC was filed
+by the CBI only on 16.03.2015. The officers of Antrix as well as officials of the Government were also
+implicated in the FIR for offences under the Prevention of Corruption act, 1988. Therefore, the
+appellants cannot set up a plea of estoppel on the ground that the termination of the Agreement in
+the year 2011 was not on the ground of fraud, when the discovery of fraud itself was many years
+later.
+
+9.9 For the very same reason, the failure of Antrix to plead fraud in the ICC arbitration proceedings,
+cannot also operate as estoppel. The arbitral proceedings commenced in the year 2013 and the
+award itself was passed on 14.09.2015. Antrix cannot be expected to plead fraud in the arbitral
+proceedings, even before the discovery of fraud.
+
+9.10 The Chartered Accountants/Auditors are not experts either in Criminal Law or in the
+technology that formed the subject matter of the Agreement between Antrix and Devas. The
+statement of Chartered Accountants are always qualified with certain riders such as “according to
+the information and explanations given to us in the course of our audit” or “to the best of our
+knowledge and belief and according to the information and explanations given to us”. 9.11 In fact,
+the Companies (Auditor’s Report) Order, 2015 which was superseded by another order in 2016 was
+
+31
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+issued by the Central Government in exercise of the power conferred by Section 143(11) of the
+Companies Act, 2013. Section 143(12) obliges the Auditor to report to the Central Government, if he
+has reason to believe that an offence of fraud of a particular dimension was being committed in the
+company by its officers or employees. Sub−section (13) of Section 143 also provides immunity to the
+Auditors for furnishing a report to the Central Government, if it is done in good faith. Sub−section
+(12) & (13) of Section 143 read as follows:− “143. Powers and duties of auditors and auditing
+standards. − xxxx xxxx xxxx (12) Notwithstanding anything contained in this section, if an auditor of
+a company in the course of the performance of his duties as auditor, has reason to believe that an
+offence of fraud involving such amount or amounts as may be prescribed, is being or has been
+committed in the company by its officers or employees, the auditor shall report the matter to the
+Central Government within such time and in such manner as may be prescribed:
+
+Provided that in case of a fraud involving lesser than the specified amount, the
+auditor shall report the matter to the audit committee constituted under section 177
+or to the Board in other cases within such time and in such man− ner as may be
+prescribed:
+
+Provided further that the companies, whose auditors have reported frauds under this
+sub−section to the audit committee or the Board but not reported to the Central Gov−
+ernment, shall disclose the details about such frauds in the Board’s report in such
+manner as may be prescribed. (13) No duty to which an auditor of a company may be
+subject to shall be regarded as having been contravened by reason of his reporting the
+matter referred to in sub−section (12) if it is done in good faith.” 9.12 If the auditors
+of a company fail to make a report in terms of Section 143(12), despite having
+knowledge about the fraud, they may become liable for penal consequences under
+Section 448 read with Section 447 of the Companies Act, 2013. But the failure of the
+auditors to make a report as required by Section 143(12) or as required by the order
+issued under Section 143(11), cannot operate as estoppel against the company. The
+auditor’s report can neither be taken as gospel truth nor act as estoppel against the
+company. The statement in the auditor’s report, is as per the information given to
+them or as per the information culled out to the best of their ability.
+
+9.13 The reliance placed upon Section 19 of the Indian Contract Act, 1872 to raise the plea of
+estoppel may not wholly be correct. Section 19 of the Indian Contract Act, deals with only one type
+of fraud namely, a fraud perpetrated on a party to secure his consent to an agreement. Section 19
+begins with the words “when consent to an agreement is caused by coercion, fraud…..”. Frauds other
+than those used to induce the consent of a party to an agreement, are not covered by Section 19. In
+fact, the definition of fraud under Section 17 is also confined only to certain acts committed by a
+party to a contract. There are cases where a party may perpetrate a fraud either upon non−
+contracting parties or upon the Government or even upon the courts. The principle that fraud
+vitiates all solemn acts, will itself be rendered nugatory, if the understanding of fraud is confined
+only to the realm of contract. 9.14 In the case on hand, the fraud alleged by Antrix is not solely on
+the ground that their consent to the Agreement dated 28.01.2005 was vitiated by fraud. What is
+alleged in the petition for winding up are, (i) formation of the company for fraudulent or unlawful
+
+32
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+purpose; (ii) fraud in the conduct of the affairs of the company; and (iii) fraud on the part of the
+persons who were involved in the formation and/or in the management of affairs of the company.
+The fraud relatable to the agreement, is only one facet of the whole scheme of things. Therefore, we
+have to go beyond section 19 of the Contract Act.
+
+9.15 In fact, the Explanation (i) under Section 447 of the companies Act, 2013 also defines fraud, but
+for the purposes of Section 447. What is covered by Section 271(c) of the Companies Act, 2013 is a
+fraud that goes beyond what lies in the realm of contract or in the realm of the penal provisions of
+the Companies Act, 2013. Hence the contention that Antrix was estopped from pleading fraud, was
+rightly rejected by the Tribunal and we see no reason to taken a different view.
+
+10. Refusal to permit cross−examination 10.1 Another ground of attack by the appellants to the
+impugned orders is that the foundation for the allegation of fraud was the averment that Devas
+offered to provide goods and services which were non−existent both on the date of execution of the
+agreement and on the date of its termination and that Devas was also incapable and did not have the
+necessary permission/approvals to provide such device/services. Contending that the question of
+existence/availability of the technology has become a contentious issue with both parties filing
+several affidavits, Devas filed an application before NCLT seeking permission to cross−examine the
+officials of Antrix. This application was taken up along with the main company petition. While
+ordering winding up, by a final Order dated 25.05.2021, NCLT justified its action by holding that the
+case did not require any oral evidence. Therefore, in the memorandum of grounds of appeal before
+NCLAT, the appellants raised a specific ground that the omission on the part of the Tribunal to
+afford an opportunity of cross−examination, vitiated the final outcome. But NCLAT upheld the view
+taken by NCLT.
+
+10.2 Therefore, it is contended on behalf of the appellants that
+
+(i) allegations of fraud, as a rule, warrant a full−fledged trial and proof; (ii) that in the light of the
+specific bar of jurisdiction of Civil Courts under Section 430 of the Companies Act, 2013, NCLT was
+obliged to scan the allegations of fraud very carefully, by allowing parties to lead evidence and
+cross−examine the witnesses; (iii) that the Tribunal is conferred with the same powers as are vested
+in a Civil Court under the Code of Civil Procedure, 1908, in respect of the summoning and enforcing
+of the attendance of any person and examining him on oath, under Section 424(2) of the Companies
+Act, 2013; (iv) that Rules 52 and 135 of the National Company Law Tribunal Rules, 2016 make it
+clear that the Tribunal has the power to summon the appearance of any witness, cross−examine him
+on oath and even issue commission for the examination of witnesses; and (v) that the Tribunals
+committed a gross error of law in recording findings on serious allegation of frauds, solely on the
+basis of affidavits and documents. Reliance is placed in this regard by the learned senior counsel for
+the appellants, on the decisions of this Court in Standard Chartered Bank vs. Andhra Bank Financial
+Services Ltd. and Ors.19; Svenska Handelsbanken vs. Indian 19 (2006) 6 SCC 94 Charge Chrome
+and Ors.20 and V. Ravi Kumar vs. State, Rep. by Inspector of Police, District Crime Branch, Salem &
+Ors.21 10.3 At the outset we should point out that the decision in Svenska Handelsbanken (supra)
+arose out of an interim order of injunction granted in a civil suit. The principle of law laid down in
+the said decision that mere pleadings cannot make out a case of fraud, is an off−shoot of the time
+
+33
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+tested principle that pleadings cannot take the place of proof. Insofar as the decision in Standard
+Chartered Bank (supra) is concerned, the same arose out of proceedings before the special Court.
+One of those proceedings was under Section 111 of the Companies Act, 1956 which was “somewhat
+summary in nature”. Therefore it was in that context that this Court held that when a seriously
+disputed question of title arises, the Company Court should relegate the parties to a civil suit. But
+having admitted that under Section 430 of the Companies Act, the jurisdiction of the Civil Court is
+barred, it is not open to the 20 (1994) 1 SCC 502 21 (2019) 14 SCC 568 appellants to rely upon this
+decision to say that the parties could be relegated to a civil court.
+
+10.4 Similarly the decision in V. Ravi Kumar (supra), arose out of criminal proceedings under
+Section 482 Cr.P.C for quashing the second complaint, after the withdrawal of the first complaint.
+The High Court quashed the criminal complaint and while setting aside the order of the High Court,
+this Court held that the allegations of fraud and cheating, which prima facie constitute offences
+under Section 420 IPC, have to be established through evidence at the time of trial.
+
+10.5 Thus the decisions relied upon by the appellants to drive home the point that the Tribunal must
+have permitted cross− examination, have no relevance to the case on hand. However, dehors those
+decisions relied upon by the appellants, let us see whether the omission of NCLT to permit cross−
+examination was fatal.
+
+10.6 The Tribunal classified the allegations made by Antrix into eight categories. In sum and
+substance, they revolve around, (i) the offer of a non−existent technology; (ii) misrepresentation
+about the possession of intellectual property rights over a device; (iii) violation of SATCOM policy;
+(iv) securing of an experimental licence fraudulently; (v) manipulation of the minutes; and (vi) the
+trail of money brought in through FIPB approvals.
+
+10.7 All the averments forming the foundation of the allegations of fraud, from the point of view of
+the Indian Evidence Act, would fall under only two categories, namely, (i) positive assertions
+requiring persons making those assertions to prove them; and (ii) negative assertions.
+
+10.8 A party alleging the non−existence of something, cannot be called upon to prove the non−
+existence. It is the party who asserts the existence or who challenges the assertion of non existence,
+who is liable to prove the existence of the same.
+
+10.9 In the case on hand, Antrix asserted that Devas offered services which were non−existent,
+through a device which was not available and that even the so−called intellectual property rights
+over the device were not available. Therefore, obviously Antrix cannot lead evidence to show the
+non−existence or non−availability of those things, either by oral evidence or by subjecting their
+officials to cross−examination by Devas. Devas never produced before the Tribunals any device nor
+did they demonstrate the availability to Devas services. All that Devas wanted was, the cross−
+examination of the officials of Antrix. Any amount of cross−examination of the officials of Antrix
+could not have established the existence of something that was disputed by Antrix.
+
+34
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+10.10 It is also interesting to note that the application for cross− examination was moved by Devas
+on 5.5.2021, after arguments in the main petition itself had commenced on 30.04.2021 and
+concluded on 3.05.2021 on the side of Antrix. The list of dates filed by Shri N. Venkataraman,
+Additional Solicitor General shows that on 19.01.2021, NCLT ordered the admission of the company
+petition and appointed a provisional liquidator. In fact this order was passed after hearing
+objections of the company. As against the order of admission, DEMPL filed an appeal before
+NCLAT. But the same was dismissed by NCLAT on 11.02.2021, with liberty to the DEMPL to file an
+application for impleadment. DEMPL filed an application for impleadment on 2.03.3021. They also
+filed a writ petition before the High Court of Karnataka challenging the authorisation given by
+Central Government to Antrix, as well as the constitutional validity of Section 272(1)(e) read with
+Section 272(3) of the Companies Act, 2013. After hearing extensive arguments over several dates,
+the High Court of Karnataka dismissed the writ petition by an Order dated 28.04.2021 with costs of
+Rs.5,00,000/− for abuse of process of law. It was only thereafter that the company petition was
+taken up by NCLT and arguments on behalf of Antrix was heard and concluded on 30.04.2021 and
+3.05.2021.
+
+10.11 When the company petition was adjourned to 5.05.2021 for arguments on behalf of Devas, a
+two−pronged strategy was adopted by Devas. The first was to make DEMPL file a writ appeal before
+the Division Bench of the High Court of Karnataka against the order of the learned Single Judge
+upholding the constitutional validity of the aforesaid provisions. Simultaneously, Devas filed an
+application on 5.05.2021 to cross−examine the Managing Director and Finance Director of Antrix.
+However, Devas also continued their arguments in the main company petition and concluded the
+same on 10.05.2021. On 10.05.2021, NCLT reserved the judgment. 10.12 Incidentally, it must be
+pointed out that the writ appeal filed by the DEMPL came up for hearing before the Division Bench
+of the High Court of Karnataka on 12.05.2021. The Division Bench directed the matter to be listed
+on 19.05.2021 with a condition that the costs as awarded by the learned Single Judge should be paid
+on or before the said date.
+
+10.13 On 25.05.2021, the NCLT passed final orders, after which DEMPL withdrew the writ appeal on
+27.05.2021.
+
+10.14 It is clear from the above time−line of events that the application for cross−examination was
+moved by Devas after conclusion of the arguments on the side of Antrix in the main petition itself,
+and that too after the unsuccessful attempt made by one of its shareholders to assail the
+constitutional validity of the statutory provisions. Therefore, the Tribunal was right in rejecting the
+request for cross−examination.
+
+11. LOCUS STANDI OF THE SHAREHOLDERS 11.1 The next ground of attack to the impugned
+orders is that despite the petition for winding up containing specific allegations of fraud as against
+the shareholders of Devas, NCLT did not give any opportunity to the shareholders. Even the
+application for impleadment filed by DEMPL which is one of the shareholders, pursuant to the leave
+granted by NCLAT, was taken up along with the main company petition and eventually rejected
+along with the main company petition. Therefore, DEMPL filed an independent appeal before
+NCLAT. Unfortunately, the Member (Judicial) of NCLAT dismissed the appeal, as not maintainable,
+
+35
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+on the ground
+
+(i) that the rights of the shareholders are confined to the election of Directors, voting in the meetings
+of the company, distribution of dividends and the distribution of surplus upon liquidation; and
+
+(ii) that the company in liquidation itself, through its ex−Director, has independently filed an appeal
+as an aggrieved person. 11.2 Therefore, relying upon the decision of this Court in National Textile
+Workers’ Union vs. P.R. Ramakrishnan & Ors.22, it is contended that it would be contrary to every
+recognised principle of fair judicial procedure and violative of the rule of audi alteram partem which
+constitutes one of the basic principles of natural justice, to deny to the shareholders, the right to be
+heard before an order prejudicially affecting their interest was passed. 11.3 It is true that the petition
+for winding up was filed under Section 271(c) alleging (i) that the affairs of the company have been
+conducted in a fraudulent manner; (ii) that the company was formed for fraudulent and unlawful
+purpose; and (iii) that the persons concerned in the formation or management of its affairs have
+been 22 (1983) 1 SCC 228 guilty of fraud. But there is no scope either in the Act or in the Rules for
+the impleadment of any shareholder as a respondent to the petition for winding up. Rule 3(1) of
+Companies (Winding Up) Rules 2020 requires a petition for winding up to be in Form WIN 1 or
+Form WIN 2. A look at these forms would indicate that there is no provision for making any one, as
+the respondent in the petition. Therefore, the question of impleading any shareholder at the time
+when the petition for winding up was filed, did not arise. 11.4 Interestingly, Antrix sought the
+authorisation under Section 272(1)(e) on 14.01.2021 and the Central Government granted
+authorisation on 18.01.2021. On the very same day, the petition for winding up was filed. When the
+petition was taken up by NCLT on 19.01.2021 for the first time, Devas Multimedia Private Limited,
+which is the company in liquidation appeared through counsel and opposed the petition and also
+sought sufficient time to file reply. Therefore, NCLT did not have to go through the formality of
+ordering notice before admission, as a battery of counsel appeared for Devas, raised preliminary
+objections and also sought time to file response. The Tribunal passed a detailed order dated
+19.01.2021 admitting the company petition and appointing a provisional liquidator even while
+granting time to the company to file its reply. In paragraph 5 of the detailed order dated 19.01.2021,
+the preliminary submissions made by the company in liquidation against the admission of the
+company petition, are recorded. 11.5 The order dated 19.01.2021 admitting the company petition
+became the subject matter of an appeal before NCLAT at the instance of the company in liquidation.
+Therefore, on 8.02.2021 when the company petition came up for hearing, it was adjourned to
+16.02.2021 and, thereafter, to 2.03.2021. On 2.03.2021, DEMPL which is a shareholder filed a
+petition for impleadment. It is true that this application was not independently dealt with and
+disposed of at that stage. However, the objections of DEMPL to the main company petition were just
+the same as the objections of the company in liquidation. Despite the fact that a provisional
+liquidator has been appointed on 19.02.2021 itself, the ex−Director of the company in liquidation
+was permitted to file objections to the main company petition and also argue the same fully. 11.6
+After the conclusion of the arguments on the part of Antrix to the main company petition, DEMPL
+even moved a writ petition challenging the constitutional validity of Section 272(1)(e) and the
+authorisation issued to Antrix. The writ petition was dismissed with costs and the writ appeal was
+withdrawn. 11.7 It will be clear from the above sequence of events that (i) despite NCLT not
+disposing of the impleadment petition before passing final orders; and (ii) despite NCLT dismissing
+
+36
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+the impleadment petition along with the main company petition, their objections to the main
+company petition have been dealt, along with the objections of the ex−Director of the company in
+liquidation. In other words, the objecting shareholder had an effective hearing before NCLT. Though
+their appeal was rejected by NCLAT on the ground of maintainability, their arguments for opposing
+the winding up, which were just the same as that of the company, have been considered. Therefore,
+the objection that an opportunity was not given to the shareholders, is just theoretical, when in fact
+they were heard.
+
+11.8 It is true that in National Textile Workers’ Union (supra), this Court took the law relating to
+locus standi by a leap forward. But as seen from the facts of the said case, the petition for winding up
+was triggered by one group of shareholders, both on the ground that company was unable to pay its
+debts and on the ground that it is just and equitable to wind up the company. The company Judge
+before whom the winding up petition came up, granted an ex− parte injunction restraining company
+from borrowing any moneys and from alienating and/or creating any charge or encumbrance over
+any of the assets of the company. As a consequence, the Employees’ Cooperative Stores, stopped
+issuing any provisions or supplies to the workmen. The workmen were also prevented from enjoying
+the benefits under the ESI scheme. The wages payable for the following month itself became
+doubtful. Faced with the sudden threat to their livelihood, the workers’ Unions sought to implead
+themselves as party to the winding up proceeding. Therefore, the decision rendered in National
+Textile Workers’ Union’s case has to be understood in the context in which it was rendered. 11.9 It is
+true that the dismissal of the appeal filed by DEMPL, by NCLAT on the ground of maintainability
+may not be correct. Section 421(1) of the Companies Act, 2013 enables “any person aggrieved by an
+order of the Tribunal”, to file an appeal. To say that DEMPL cannot be taken to be a person
+aggrieved, may be far− fetched. But on that sole ground, the impugned order cannot be set aside.
+
+11.10 We have seen from the memorandum of grounds of appeal filed by DEMPL before NCLAT and
+the memorandum of grounds of appeal filed by DEMPL before this Court that their objections to the
+petition for winding up are just the same as those of the ex−Director of the company in liquidation.
+In fact, before us, the ex−Director of the company in liquidation was represented by Shri Mukul
+Rohtagi, learned senior counsel and DEMPL was represented by Shri Arvind P. Datar, learned
+senior counsel. While the learned senior counsel for the company in liquidation occupied the crease
+only for limited number of overs, the learned senior counsel appearing for DEMPL took the entire
+responsibility on his shoulders and played a very long innings. Therefore, it is not possible for us to
+set aside the order of winding up, on the sole ground that the shareholders application for
+impleadment as well as the appeal were rejected wrongly. 11.11 Before leaving the discussion on this
+ground of attack, we must also take note of one submission made by Shri N. Venkataraman, learned
+Additional Solicitor General. According to him, all the shareholders of Devas are arrayed as accused
+by the CBI in the criminal cases. But the CBI has not even been able to serve summons on them.
+Therefore, persons who are ducking/ avoiding summons in the criminal prosecution, cannot be
+heard to contend that they must have been heard in the petition for winding up. Taking advantage of
+their citizenship/residence abroad, these shareholders are prosecuting proceedings for the
+enforcement of (i) ICC Arbitral Tribunal Award in India; and (ii) BIT Awards overseas, even while
+making it impossible for CBI to serve summons on them for the past five years. It is not open to such
+persons to raise the bogey of failure to afford an opportunity.
+
+37
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+12. FINDINGS ERRONEOUS AND PERVERSE AND THE STANDARD OF PROOF APPLIED
+INCORRECT 12.1 The next ground of attack to the impugned orders is that the findings recorded by
+the NCLT which were approved by NCLAT were completely perverse and erroneous and that the
+Tribunals applied a completely incorrect standard of proof. In any case, the findings were recorded
+to be only prima facie, which is not sufficient to order the winding up of the company.
+
+12.2 In order to test the correctness of the above contention, it is necessary to take note of the
+averments on which Antrix built their case for winding up, the response of Devas to the averments,
+the findings recorded by NCLT and the findings recorded by NCLAT. 12.3 Briefly stated, the
+averments made by Antrix in their petition for winding up were, (i) that Devas was incorporated as a
+private limited company, on 17.12.2004, with an authorised share capital of Rs.1,00,000/− divided
+into 10,000 equity shares of Rs.10/− each; (ii) that within a few weeks of incorporation, an
+Agreement dated 28.01.2005 was entered into between the company and Antrix, as a result of a
+fraudulent and criminal conspiracy between the persons in management of the affairs of the
+company and the officials of Antrix/Government of India, to award a lease of scarce and valuable S−
+band spectrum, without obtaining necessary approvals and without following applicable norms and
+procedures;
+
+(iii) that the persons in−charge of the formation as well as the management of the affairs of Devas
+did not possess the necessary technical know−how or the intellectual property rights for the
+provision of what was claimed as “Devas Services”, either at the time of signing of the agreement or
+even till date; (iv) that despite not being in possession of either the technology or the device, the
+company was pushing Antrix and the Government of India to launch the satellite; (v) that as part of
+the conspiracy, the Agreement dated 28.01.2005 was terminated by Antrix by a letter dated
+25.02.2011 by invoking the force majeure clause; (vi) that it made things easy for Devas to initiate an
+arbitration before the ICC Arbitral Tribunal, apart from the initiation of the two BIT Arbitrations by
+the shareholders of Devas, (vii) that when the criminal conspiracy, fraud and corrupt practices came
+to light, an FIR was lodged by the CBI on 16.03.2015; (viii) that a charge−sheet was filed by CBI on
+11.08.2016, both against the persons responsible for the formation and management of the affairs of
+the company in liquidation, as well as the officials of Antrix and Government of India; (ix) that a
+supplementary charge−sheet was filed on 08.01.2019; (x) that a complaint was also registered under
+the Prevention of Money Laundering Act, 2002 on 24.12.2018; (xi) that the company which was
+formed with an authorized share capital Rs. 1,00,000/− in December, 2004, managed to secure a
+contract for a stated consideration of an “up−front capacity reservation fee” in the region of US, $ 20
+million per satellite, apart from annual license fee of around US $ 9 million per satellite; (xii) that
+the execution of such a contract and the award of a public largesse of such a huge magnitude was not
+through any public auction but by private negotiations held by the officials of Antrix with Forge
+Advisors of USA, (xiii) that after securing the contract, the company was able to sell its equity shares
+as well as OCP shares at a huge premium to foreign investors; (xiv) that equity shares of a face value
+of Rs. 10/− were sold at the rate of Rs. 1.26 lakhs per share; (xv) that interestingly, DT Germany
+which invested Rs. 430 crores through DT Asia obtained only 19% share holding, while four
+Mauritius investors obtained 37% share holding by investing Rs. 150 crores; (xvi) that experimental
+licences were obtained by Devas by manipulating the minutes of the meetings; (xvii) that FIPB
+approvals were secured for the stated purpose of providing Internet services, though the agreement
+
+38
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+was for rendering a hybrid service known as Satellite based Digital Multimedia Broadcasting
+Services (SDMB Services, for short); (xviii) that the fact that such a hybrid technology was not in
+existence at that time was suppressed from FIPB as well as other authorities; (xix) that after
+showcasing the inflow into India, of investment to the tune of Rs. 579 crores, the company siphoned
+out of India, a sum of Rs. 75 crores for creating a wholly owned subsidiary in USA, a sum of Rs. 180
+crores towards payment for business support services and sum of Rs. 233 crores toward litigation
+services; (xx) that a sum of Rs. 92 crores alone was kept in India out of which Rs. 21 crores was by
+way of Fixed Deposits and a sum of Rs. 59 crores was paid to Antrix towards up− front capacity fee;
+(xxi) that some of the then officials of Antrix and the Government of India were parties to the
+fraudulent and unlawful purpose for which Devas was created and the fraudulent manner in which
+the affairs of the company had been conducted; (xxii) that the persons including investors and the
+share−holders concerned in the formation and the management of its affairs have been guilty of
+fraud, corrupt practices and money laundering and that therefore the company was liable to be
+wound up.
+
+12.4 On the basis of the pleadings, the documents produced and the submissions made, NCLT
+recorded the following findings namely, (i) that the incorporation of Devas was with fraudulent
+intention to grab the prestigious contract in question, in connivance and collusion with the then
+officials of Antrix; (ii) that it is not in dispute that at the time of entering into the contract, Devas did
+not have the technology, infrastructure or experience to perform their obligations under the
+Agreement; (iii) that one of the subscribers to the Memorandum of Association of the company in
+liquidation was an Auditor by name Shri M. Umesh, whose Article Clerk by name Gururaj was the
+one signed the Agreement; (iv) that the Executive Director of Antrix who signed the Agreement of
+behalf of Antrix is one of accused in the criminal cases; (v) that the incorporation of Devas was with
+fraudulent motive and unlawful object, to bring money into India and divert it by dubious methods;
+(vi) that even after the termination of the Agreement, Devas was not carrying on any business
+operations; (vii) that the objective of Devas was hardly to do any business except grabbing Primary
+Satellite−I (PS−I) and Primary Satellite−II (PS−II), and that therefore the requirements of Section
+271(c) stand satisfied.
+
+12.5 The order of the Appellate Tribunal is in two parts; the first authored by Member (Judicial),
+and the second authored by Member (Technical). The Member (Judicial) noted, (i) that the
+company in liquidation failed to establish either the existence of technology or the ownership of
+intellectual property rights over the stated technology; (ii) that even according to the affidavit of Shri
+M. G. Chandrashekar, Devas had ample time to develop Devas Technology, meaning thereby that its
+non−existence at that time was admitted;
+
+(iii) that the company did not have a single approval, permission or licence to render Devas services
+utilising Devas technology; (iv) that the approval of the Space Commission for building a satellite for
+Devas, was secured only after finalisation of commercial terms but without apprising the Space
+Commission of the same; (v) that even in the cabinet note, prepared by the Department of Space on
+17.11.2005 a full picture was not recorded; (vi) that there was a contravention of the SATCOM
+Policy; (vii) that though the original minutes of the meeting required Devas to secure a spectrum
+licence from Wireless Planning Committee (WPC), after appearing before the apex committee with
+
+39
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+requisite technical details, the minutes of the meetings were manipulated later as though the
+company was exempted from the requirement; (viii) that after objections about the manipulations,
+the original minutes of the meeting came to be restored, on 20.11.2009, but this happened only after
+the grant of experimental licence on 07.05.2009; (ix) that in any case the experimental licence was
+to establish Wireless Telegraph Station in India under the India Telegraph Act, 1885, without which
+experimental trials could not have been conducted; (x) that Devas obtained IPTV licence as part of
+ISP licence, which has nothing to do with what was offered as DEVAS services; (xi) that the
+agreement dated 28.01.2005 made no reference of IPTV; (xii) that undeniably, Devas services
+cannot be provided with ISP licences; (xiii) that after bringing an amount of Rs 579 crores into
+India, a major portion was taken out of India; (xiv) that the only business activity carried on by
+Devas was to provide ISP services in a particular locality in Bangalore for a few residents and that
+too for a short duration, which made Devas earn a revenue of Rs. 80,000/; (xv) that the diversion of
+Rs. 489 crores and Rs. 58 crores for non ISP purposes is violative of ISP licence, which comes
+squarely within the ambit of Section 271(c); (xvi) that Devas fraudulently approached FIPB through
+the ISP route to avoid scrutiny by Department of Space; (xvii) that the investors of Devas actually
+became shareholders and they also had their nominees on the Board of Devas; (xviii) that therefore
+these persons were also guilty of the conduct of the affairs of Devas in the manner stated; (xix) that
+the Share Subscription Agreement dated 06.03.2006 entered into with the investors contains a
+recital as though appropriate licences have been validly issued or assigned to the company, though
+in fact the only licence namely ISP licence was obtained much later on 02.05.2008 and (xx) that
+therefore the formation of the company and the conduct of the affairs of the company were
+fraudulent and the persons concerned therewith were also guilty of fraud.
+
+12.6 In his independent but concurrent opinion the Member (Technical) of NCLAT classified the
+items of fraud into eight categories. He first found that the company was formed and the Agreement
+was entered into with the stated object of providing a bouquet of services, which were non−existent.
+The second category of fraud dealt with by the Member (Technical) related to the misrepresentation
+in the Agreement. The third category of fraud concerned the violation of SATCOM Policy. The fourth
+category was actually an extension of the third category which related to SATCOM Policy. The fifth
+category was about suppression and misrepresentation in obtaining the approval of the cabinet. The
+sixth category of fraud revolved around the ISP licence dated 02.05.2008, of which IPTV licence was
+a part, but which had nothing to do with Devas Services. The seventh category related to the
+fraudulent manner in which experimental licence was obtained and the eighth category related to
+FIPB approvals and money trail. The Member (Technical) found the formation of company, the
+conduct of the affairs of the company and those persons concerned in the formation and conduct of
+management of its affairs to be guilty of fraud. 12.7 Technically speaking, the appeal before us which
+is under Section 423 of the Companies Act, 2013, is only on a question of law. When two forums
+namely NCLT and NCLAT have recorded concurrent findings on facts, it is not open to this Court to
+re− appreciate evidence. Realising this constraint, the learned Senior Counsel for the Appellant
+sought to project the case as one of perversity of findings. But we do not find any perversity in the
+findings recorded by both the Tribunals. These findings are actually borne out by documents, none
+of which is challenged as fabricated or inadmissible. Though it is sufficient for us to stop at this, let
+us go a little deeper to find out whether there was any perversity in the findings recorded by the
+Tribunals and whether such findings could not have been reached by any reasonable standards. 12.8
+
+40
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+The following undisputed facts emerge from the documents placed before the Tribunal. The
+authenticity of these documents were never in question or denied:
+
+(i) An agreement of a huge magnitude, for leasing out five numbers of C X S
+transponders each of 8.1 MHz capacity and five numbers of S X C transponders each
+of 2.7 MHz capacity on the Primary Satellite−I (PS−I), was surprisingly and
+shockingly entered into by Antrix with Devas, without same being preceded by any
+auction/tender process. It appears from the letter dated 27.09.2004 sent by DEVAS
+LLC, USA to Shri K.R. Sridhara Murty, Executive Director of Antrix with copies to Dr.
+G. Madhavan Nair, Chairman, ISRO and others that Shri Ramachandran
+Viswanathan, met the then Chairman of ISRO and other officials in Bangalore in
+April−2003 and they met once again in Washington D.C. during the visit of the then
+Chairman of ISRO. These meetings, which were not preceded by any invitation to the
+public for any Expression of Interest, culminated in a Memorandum of
+Understanding dated 28.07.2003. Though it is not clear where the MoU was signed,
+there are indications that it was signed overseas;
+
+(ii) It must be noted here that a one man Committee comprising of Dr. B.N. Suresh, former Member
+of the Space Commission and Director of Indian Institute of Space Science and Technology, was
+constituted on 8.12.2009, long after the commencement of the commercial relationship, to look
+comprehensively into all aspects of the contract, both commercial and technical. According to the
+Report submitted by him in May−2010, it was Forge Advisors, USA which made a presentation in
+March−2003, on technology aspects of digital multimedia services to Antrix/ISRO, followed by a
+presentation in May−2003 purportedly to the top management of Antrix/ ISRO. The MoU was
+signed thereafter;
+
+(iii) But the documents filed by the appellants themselves show that a power point presentation was
+made by Forge LLC on 22.03.2004, proposing an Indian joint venture to launch what came to be
+known as DEVAS (which perhaps ultimately turned out to be ASURAS23). It was claimed in the said
+proposal that DEVAS platform will be capable of delivering multimedia and information services via
+satellite to mobile devices tailored to the needs of various market segments such as consumer
+segment, commercial segment and social segment. This presentation dated 22.03.2004 was
+followed by a proposal dated 15.04.2004, about which we have made a brief mention in paragraph
+3.4 above. This proposal obliged ISRO/Antrix to invest in one operational S−band Satellite with a
+ground space segment to be leased to a joint venture between Forge and 23 According to Hindu
+Mythology, Devas are demigods and Asuras are demons Antrix. What was to be reserved for the
+joint venture was 97% of the space. The consideration receivable by ISRO/ Antrix upon such a lease,
+was to be US $ 11 million annually for a period of 15 years. At least at this stage the proposal to
+invest in an operational S−band satellite and the lease of nearly the entire space of such satellite to a
+joint venture, should have come to the public domain, to see, (a) if the technology existed; and (b) if
+the proposal was commercially viable. But it was not done;
+
+(iv) On 14.05.2004, a Committee headed by one Dr. K.N. Shankara, Director, Space Applications
+Centre was constituted purportedly to examine the technical feasibility, risk management including
+
+41
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+possibilities of alternate uses of space segment, financial and market aspects and time schedule.
+According to the Report submitted by this Committee, DEVAS was conceived as a new national
+service expected to be launched by the end of 2006 that would deliver video, multimedia and
+information services via high powered satellite to mobile receivers in vehicles and mobile phones
+across India. The catch here lies in the fact that while it was possible to deliver some of these
+services via terrestrial mode, it was not possible at that point of time to provide this bouquet of
+services via satellite. Even today satellite phones are beyond the reach of a common man. Mobile
+receivers or devices which can simply receive audio and video content are different from mobile
+phones, which are capable of providing a two way communication. The technology for providing the
+services through mobile phones was not in existence at that time, which is why the proposal made
+by Forge Advisors included an expectation that such a service may be launched by the end of 2006.
+It was with this expectation/promise that an Agreement was entered into on 28.01.2005 but this so−
+called new national service was never launched as promised in 2006. The launch of the services was
+not linked to the provision of a S−band satellite by Antrix, at least at the time when negotiations
+took place;
+
+(v) Admittedly, FIPB (Foreign Investment Promotion Board) approvals taken by Devas during the
+period May−2006 to September−2009 were on the basis of the ISP (Internet Service Provider)
+license secured from the Department of Telecommunications on 02.05.2008 and IPTV (Internet
+Protocol Television) services license obtained on 31.03.2009;
+
+(vi) Therefore, the finding of the Tribunal, (a) that a public largesse was doled out in favour of
+Devas, in contravention of the public policy in India; (b) that Devas enticed Antrix/ISRO to enter
+into an MoU followed by an Agreement by promising to provide something that was not in existence
+at that time and which did not come into existence even later; (c) that the licenses and approvals
+were for completely different services; and (d) that the services offered were not within the scope of
+SATCOM Policy etc. are actually borne out by records;
+
+(vii) There is no denial of the fact that Devas offered a bouquet of services known as (a) Devas
+Services through a device called (b) Devas device in a hybrid mode of transmission, which is a
+combination of satellite and terrestrial transmissions, and which is called (c) Devas Technology but
+none of which existed at the relevant point of time or even thereafter;
+
+(viii) Devas did not even hold necessary intellectual property rights in this regard though they
+claimed to have applied;
+
+(ix) That the formation of the company, namely, Devas Multimedia Private Limited was for a
+fraudulent and unlawful purpose is borne out by the fact that the company was incorporated in
+December−2004, as a result of preliminary meetings held at Bangalore in March−2003 and in USA
+in May−2003, followed by the signing of the MoU on 28.07.2003, the presentation made on
+22.03.2004 and the discussions held thereafter. The ground work was clearly done during the
+period from March−2003 to December−2004 before the company was formally incorporated.
+Immediately after incorporation, the Agreement dated 28.01.2005 was signed. Therefore, the first
+ingredient of Section 271(c) of the Companies Act, 2013, namely, the formation of the company for a
+
+42
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+fraudulent and unlawful purpose was clearly made out;
+
+(x) The kind of licenses obtained such as ISP and IPTV licenses and the object for which FIPB
+approvals were taken but showcased as those sufficient for fulfilling the obligations under the
+Agreement dated 28.01.2005 demonstrated that the affairs of the company were conducted in a
+fraudulent manner. This is fortified by the fact that a total amount of Rs.579 crores was brought in,
+but almost 85% of the said amount was siphoned out of India, partly towards establishment of a
+subsidiary in the US, partly towards business support services and partly towards litigation
+expenses. We do not know if the amount of Rs.233 crores taken out of India towards litigation
+services, also became a part of the investment in a more productive venture, namely, arbitration.
+The manner in which a misleading note was put to the cabinet and the manner in which the minutes
+of the meeting of TAG sub−committee were manipulated, highlighted by the Tribunal, also shows
+that the affairs of the company were conducted in a fraudulent manner. Thus, the second limb of
+Section 271(c), namely, the conduct of the affairs of the company in a fraudulent manner, also stood
+established.
+
+(xi) SATCOM Policy perceived telecommunication and broadcasting services to be independent of
+each other and also mutually exclusive. Therefore, a combination of both was not permitted by law.
+It is especially so since no deliberation took place with the Ministry of Information and
+Broadcasting. Moreover, unless ICC allocates space segment, to a private player, the same becomes
+unlawful. This is why the conduct of the affairs of the company became unlawful;
+
+(xii) That the officials of the Department of Space and Antrix were in collusion and that it was a case
+of fence eating the crop (and also allowing others to eat the crop), by joining hands with third
+parties, is borne out by the fact that the Note of the 104th Space Commission did not contain a
+reference to the Agreement. The Cabinet Note dated 17.11.2005 prepared after ten months of signing
+of the Agreement, did not make a mention about Devas or the Agreement, but proceeded on the
+basis as though ISRO received several Expressions of Interest. These materials show the complicity
+of the officials to allow Devas to have unjust enrichment;
+
+(xiii) It is on record that the minutes of the meeting of the Sub Committee dated 06.01.2009 were
+manipulated and the experimental licence was granted on 07.05.2009. Only thereafter, the original
+minutes were restored on 20.11.2009 and that too after protest.
+
+(xiv) Admittedly, every one of the investors procured shares of the company in liquidation and each
+shareholder had a representative in the board of directors. Since the board controlled the company,
+the directors were guilty of the conduct of the affairs of the company in a fraudulent manner. Since
+each shareholder had a representative in the board, the shareholders had to take the blame for the
+misdeeds of the directors;
+
+(xv) Additionally, the shareholders were fully aware of the fact that the application for approval
+dated 02.02.2006 to the FIPB was for ISP services. But they entered into a Share Subscription
+Agreement on 06.03.2006 for Devas services. The Share Subscription Agreement discloses that they
+were aware of the false statements contained in the Agreement dated 28.01.2005. Therefore, the
+
+43
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+shareholders, who now want to reap the fruits of a tree, fraudulently planted and unlawfully
+nurtured, cannot feign ignorance and escape the allegations of fraud.
+
+12.9 An argument was advanced by the learned senior counsel for the appellants, on the basis of a
+statement contained in the order of NCLAT that the allegations are prima facie made out, that a
+company cannot be ordered to be wound up on the basis of prima facie findings. The standard of
+proof required for winding up of a company cannot be prima facie.
+
+12.10 But we do not think that the appellants can take advantage of the use of an inappropriate
+expression by NCLAT. The detailed findings recorded by the Tribunal show that they are final and
+not prima facie. Merely because NCLAT used an erroneous expression those findings cannot become
+prima facie.
+
+13. Miscellenous Grounds 13.1 Apart from the above main grounds of attack, which we have dealt in
+extenso, the learned senior counsel for the appellants also made a few supplementary submissions.
+One of them was that a lis between two private parties cannot become the subject matter of a
+petition under Section 271(c). But this argument is to be rejected outright, in view of the fact that the
+claims of Devas and its shareholders are also on the property of the Government of India. The space
+segment in the satellite proposed to be launched by the Government of India, is the property of the
+Government of India. In fact, the shareholders have secured two awards against the Republic of
+India under BIT. Therefore, it is neither a lis between two private parties nor a private lis between a
+private party and a public authority. It is a case of fraud of a huge magnitude which cannot be
+brushed under the carpet, as a private lis.
+
+13.2 Another contention raised on behalf of the appellants is that the petition under Section 271(c)
+should have been preceded, at least by a report from the Serious Fraud Investigation Office, which
+has now gained statutory status under Section 211 of the Companies Act, 2013. But this contention is
+un−acceptable, in view of the fact that under the 2013 Act there are two different routes for winding
+up of a company on allegations of fraud. One is under Section 271(c) and the other is under the just
+and equitable clause in Section 271(e), read with Section 224(2) and Section 213(b). What was
+Section 439(1)(f) read with Section 243 and Section 237(b) of the 1956 Act, have now taken a new
+avatar under Section 224(2) read with Section 213(b). It is only in the second category of cases that
+the report of the investigation should precede a petition for winding up.
+
+13.3 Yet another contention raised on behalf of the appellants is that the criminal complaint filed for
+the offences punishable under Section 420 read with Section 120B IPC, has not yet been taken to its
+logical end. Therefore, it is contended that in case the officials of Antrix and shareholders of Devas
+are acquitted after trial, the clock cannot be put back, if the company is now wound up. Attractive as
+it may seem at first blush, this contention cannot hold water, if scrutinised a little deeper. The
+standard of proof required in a criminal case is different from the standard of proof required in the
+proceedings before NCLT. The outcome of one need not depend upon the outcome of the other, as
+the consequences are civil under the Companies Act, 2013 and penal in the criminal proceedings.
+Moreover, this argument can be reversed like the handle of a dagger. What if the company is allowed
+to continue to exist and also enforce the arbitration awards for amounts totalling to tens of
+
+44
+
+Devas Multimedia Private Limited vs Antrix Corporation Limited on 17 January, 2022
+
+thousands of crores of Indian Rupees (The ICC award is stated to be for INR 10,000 crores and the 2
+BIT awards are stated to be for INR 5,000 crores) and eventually the Criminal Court finds all
+shareholders guilty of fraud? The answer to this question would be abhorring. 13.4 Lastly, it was
+contended that the actual motive behind Antrix seeking the winding up of Devas, is to deprive
+Devas, of the benefits of an unanimous award passed by the ICC Arbitral tribunal presided over by a
+former Chief Justice of India and the two BIT awards and that such attempts on the part of a
+corporate entity wholly owned by the Government of India would send a wrong message to
+international investors.
+
+13.5 We do not find any merit in the above submission. If as a matter of fact, fraud as projected by
+Antrix, stands established, the motive behind the victim of fraud, coming up with a petition for
+winding up, is of no relevance. If the seeds of the commercial relationship between Antrix and Devas
+were a product of fraud perpetrated by Devas, every part of the plant that grew out of those seeds,
+such as the Agreement, the disputes, arbitral awards etc., are all infected with the poison of fraud. A
+product of fraud is in conflict with the public policy of any country including India. The basic
+notions of morality and justice are always in conflict with fraud and hence the motive behind the
+action brought by the victim of fraud can never stand as an impediment.
+
+13.6 We do not know if the action of Antrix in seeking the winding up of Devas may send a wrong
+message, to the community of investors. But allowing Devas and its shareholders to reap the
+benefits of their fraudulent action, may nevertheless send another wrong message namely that by
+adopting fraudulent means and by bringing into India an investment in a sum of INR 579 crores, the
+investors can hope to get tens of thousands of crores of rupees, even after siphoning off INR 488
+crores.
+
+14. Conclusion Therefore, in fine, we find all the grounds of attack to the concurrent orders of the
+NCLT and NCLAT to be unsustainable. Therefore, the appeals are dismissed. However, without any
+order as to costs.
+
+…..…………....................J. (Hemant Gupta) .…..………......................J. (V. Ramasubramanian) NEW
+DELHI JANUARY 17, 2022
+
+45

@@ -1,0 +1,1420 @@
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on
+5 November, 2024
+
+Bench: Prashant Kumar Mishra, B.R. Gavai
+
+2024 INSC 833                                                         REPORTABLE
+
+                                  IN THE SUPREME COURT OF INDIA
+                                   CIVIL APPELLATE JURISDICTION
+
+                                    CIVIL APPEAL NO. 8478 OF 2014
+
+             NABHA POWER LIMITED & ANR.                               …Appellant (s)
+
+                                                   Versus
+
+             PUNJAB STATE POWER
+             COROPORATION LIMITED & ANR.                              ...Respondent(s)
+
+                                               JUDGMENT
+
+K.V. Viswanathan, J.
+
+1. The present appeal arises from the judgment dated 30.06.2014 of the Appellate Tribunal for
+Electricity (for short the “APTEL”) in Appeal No. 29 of 2013. By the said judgement, the APTEL
+dismissed the appeal of the appellant and confirmed the order dated 12.11.2012 of the Punjab State
+Electricity Regulatory Commission (for short the “State Commission”), insofar as issue no. 1
+discussed therein was concerned. That issue concerned the aspect of Mega Power Policy and the
+effect of the Press Release of 01.10.2009. We are only concerned with the said issue in this Appeal.
+FACTS OF THE CASE: -
+
+A) Customs Notification No. 21/2002 dated 01.03.2002.
+
+2. To appreciate the issues involved, certain background facts need to be set out. Goods imported for
+setting up a Mega Power Project had, under a notification issued under Section 25 of the Customs
+Act dated 01.03.2002, been granted certain exemptions from customs duty. It will be useful to set
+out the relevant part of the 01.03.2002 notification.
+
+“Exemption and effective rates of basic and additional duty for specified goods of Chapters 1 to 99. -
+In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act, 1962 (52 of
+1962) and in supersession of the notification of the Government of India in the Ministry of Finance
+(Department of Revenue), No. 17 /2001- Customs, dated the 1st March, 2001 [G.S.R. 116(E), dated
+the 1st March, 2001], the Central Government, being satisfied that it is necessary in the public
+interest so to do, hereby exempts the goods of the description specified in column (3) of the Table
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+1
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+below or column (3) of the said Table read with the relevant List appended hereto, as the case may
+be, and falling within the Chapter, heading or sub- heading of the First Schedule to the Customs
+Tariff Act, 1975 (51 of 1975) as are specified in the corresponding entry in column (2) of the said
+Table, when imported into India, -
+
+(a) from so much of the duty of customs leviable thereon under the said First
+Schedule as is in excess of the amount calculated at the rate specified in the
+corresponding entry in column (4) of the said Table;
+
+(b) from so much of the additional duty leviable thereon under sub-section (1) of
+section 3 of the said Customs Tariff Act, as is in excess of the rate specified in the
+corresponding entry in column (5) of the said Table, Subject to any of the conditions,
+specified in the Annexure to this notification, the condition No. of which is
+mentioned in the corresponding entry in column (6) of the said Table :
+
+S.No. Chapter or Description of Standard Additional Condition Heading goods rate
+dduty rate no.
+
+No. or sub-
+
+      heading
+      No.
+400 98.01         Goods required Nil       Nil      86
+                  for setting up of
+                  any        Mega
+                  Power Project
+                  specified in List
+                  42, if such
+                  Mega       Power
+                  Project is –
+                  (a) an inter-
+                  State thermal
+                  power plant of a
+                  capacity       of
+                  1000 MW or
+                  more; or
+                  (b) an inter-
+                  State       hydel
+                  power plant of a
+                  capacity of 500
+                  MW or more, as
+
+(cid:12)                        certified by an
+                        officer      not
+                        below the rank
+                        of     a   Joint
+                        Secretary to the
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+2
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+                        Government of
+                        India in the
+                        Ministry      of
+                        Power
+
+86. (a) If an officer not below the rank of a Joint Secretary to the Government of
+India in the Ministry of Power certifies that-
+
+(i) the power purchasing State has constituted the Regulatory Commission with full
+powers to fix tariffs; ·
+
+(ii) the power purchasing State undertakes, in principle, to privatise distribution in
+all cities, in that State, each of which has a population of more than one million,
+within a period to be fixed by the Ministry of Power; and
+
+(iii) the power purchasing State has agreed to provide recourse to that State’s share of
+Central Plan allocations and other devolutions towards discharge of any outstanding
+payment in respect of purchase of power;
+
+(b) In the case of imports by a Central Public Sector Undertaking, the quantity, total
+value, description and specifications of the imported goods are certified by the
+Chairman and Managing Director of the said Central Public Sector Undertaking; and
+
+(c) In the case of imports by a Private Sector Project, the quantity, total value,
+description and specifications of the imported goods are certified by the Chief
+Executive Officer of such project.” B) Mega Power Policy of 2006
+
+3. On 10.06.2009, when competitive bidding was initiated by the respondent, what
+was in vogue was the Mega Power Policy, 2006. If a thermal plant was covered as a
+Mega Power Project under the Mega Power Policy of 2006, it was entitled to the
+benefit of certain exemptions under the customs notification dated 01.03.2002
+extracted hereinabove.
+
+4. The Mega Power Policy, 2006 prescribed the following conditions to be fulfilled by
+the developer for grant of mega power status:-
+
+“MEGA POWER PROJECTS: REVISED POLICY GUIDELINES The following
+conditions are required to be fulfilled by the developer for grant of mega project
+status:-
+
+(a) an inter-state thermal power plant of a capacity of 700 MW or more, located in
+the States of Jammu and Kashmir, Sikkim, Arunachal Pradesh, Assam, Meghalaya,
+Manipur, Mizoram, Nagaland and Tripura; or
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+3
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+(b) an inter-state thermal power plant of a capacity of 1000 MW or more, located in
+States other than those specified in clause
+
+(a) above; or
+
+(c) an inter-state hydel power plant of a capacity of 350 MW or more, located in the
+States of Jammu and Kashmir, Sikkim, Arunachal Pradesh, Assam, Meghalaya,
+Manipur, Mizoram, Nagaland and Tripura; or
+
+(d) an inter-state hydel power plant of a capacity of 500 MW or more, located in
+States other than those specified in clause (a) above.
+
+Fiscal concessions/benefits available to the Mega Power Projects Zero Customs Duty: In terms of
+the notification of the Government of India in the Ministry of Finance (Department of Revenue)
+No.21/2002-Customs dated 1st March, 2002 read together with No.49/2006-Customs dated 26th
+May, 2006, the import of capital equipment would be free of customs duty for these projects.
+
+Deemed Export Benefits: Under Chapter 8(f) of the Foreign Trade Policy, Deemed Export Benefits is
+available to domestic bidders for projects both under public and private sector on following the
+stipulations prescribed therein. Pre-conditions for availing the benefits: Goods required for setting
+up of any mega power project, qualify for the above fiscal benefits after it is certified by an officer
+not below the rank of a Joint Secretary to the Govt. of India in the Ministry of Power that-
+
+(i) the power purchasing States have constituted the Regulatory Commissions with
+full powers to fix tariffs;
+
+(ii) the power purchasing States undertakes, in principle, to privatize distribution in
+all cities, in that State, each of which has a population of more than one million,
+within a period to be fixed by the Ministry of Power.
+
+Price preference to domestic PSUs bidders: In order to ensure that domestic bidders are not
+adversely affected, price preference of 15% would be given for the projects under public sector. The
+domestic bidders would be allowed to quote in US Dollars or any other foreign currency of their
+choice. Income Tax benefits: In addition, the income-tax holiday regime as per Section 80-IA of the
+Income Tax Act 1961 can also be availed.” What is important is the phrase “Inter-State Thermal
+Power Plant” employed in the policy.
+
+C) Request For Proposal
+
+5. It was when this legal regime was in force that on 10.06.2009, the erstwhile Punjab State
+Electricity Board [now after unbundling-the distribution being known as Punjab State Power
+Corporation Limited (PSPCL)] through its then wholly owned subsidiary and a special purpose
+vehicle, appellant no. 1- Nabha Power Limited issued a Request For Proposal (RFP). The RFP was
+for selection of developers through tariff-based bidding process under Section 63 of the Electricity
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+4
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+Act 2003, for procurement of power on long-term basis from the power station to be set up at village
+Nalash, near Rajpura, District Patiala, Punjab. This was as per the Guidelines for Determination of
+Tariff by Bidding Process for Procurement of Power by Distribution Licencees issued by the Ministry
+of Power, Government of India. In terms of RFP, the bidders were required to quote the Capacity
+Charge (i.e. capital cost component) and Station Heat Rate (i.e. amount of heat required by the plant
+to generate one unit of electrical energy/efficiency of the plant) to convert the heat energy for the
+project and based on these components, a levelized tariff for each bidder was to be worked out. The
+bidder with the lowest levelized tariff was to be selected for the development of the project.
+
+6. The term- “Successful Bidder or Selected Bidder” was to mean that the bidder selected pursuant
+to the RFP to set up the project and supply electrical output therefrom to the Procurer through the
+Seller as per the terms of the power purchase agreement (PPA) and other RFP project documents.
+Under Clause 2.7.2.1 and 2.7.2.2, the bidder was to make an independent enquiry and satisfy itself
+with respect to all the required information, inputs, conditions and circumstances and factors that
+may have any effect on the bid. Under the said clauses, it was deemed that while submitting the bid,
+the bidder was to have inspected and examined the site conditions, the laws and regulations in force.
+The bidder was to acknowledge that on being selected as the successful bidder and on acquisition of
+the special purpose vehicle (the seller) the seller shall not be relieved from any of its obligations
+under the RFP project documents nor shall the seller be entitled for any extension of time or
+financial compensation by reason of the unsuitability of the site. Clauses 2.7.2.1 and 2.7.2.2 read as
+under.
+
+“2.7.2.1 The Bidder shall make independent enquiry and satisfy itself with respect to all the required
+information, inputs, conditions and circumstances and factors that may have any effect on his Bid.
+While submitting the Bid the Bidder shall be deemed to have inspected and examined the site
+conditions (including but not limited to its surroundings, its geological condition, the adequacy of
+the road and rail links to the Site and the availability of adequate supplies of water), examined the
+laws and regulations in force in India, the transportation facilities available in India, the grid
+conditions, the conditions of roads, bridges, ports, etc. for unloading and/or transporting heavy
+pieces of material and has based fts design, equipment size and fixed its price taking into account all
+such relevant conditions and also the risks, contingencies and other circumstances which may
+influence or affect the supply of power. Accordingly, the Bidder acknowledges that, on being selected
+as Successful Bidder and on acquisition of the Seller, the Seller shall not be relieved from any of its
+obligations under the RFP Project Documents nor shall the Seller be entitled to any extension of
+time or financial compensation by reason of the unsuitability of the Site for whatever reason. 2.7.2.2
+In their own interest, the Bidders are requested to familiarize themselves with the Electricity Act,
+2003, the Income Tax Act 1961, the Companies Act, 1956, the Customs Act, the Foreign Exchange
+Management Act, IEGC, the regulations framed by regulatory commissions and all other related
+acts, laws, rules and regulations prevalent in India. The Procurer/Authorised Representative shall
+not entertain any request for clarifications from the Bidders regarding the same. Non-awareness of
+these laws or such information shall not be a reason for the Bidder to request for extension of the
+Bid Deadline. The Bidder undertakes and agrees that before submission of its Bid all such factors, as
+generally brought out above, have been fully investigated and considered while submitting the Bid.”
+Press Release of 1.10.2009
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+5
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+7. When the matter stood thus, a Press Release was issued by the Press Information Bureau,
+Government of India under the heading “Modification of Mega Power Policy”. It will be safer to
+extract the entire Press Release as this is the fulcrum on which the entire case of the appellant
+revolves. The Press Release with certain portions emphasized by us, is extracted hereinbelow:
+
+“PRESS INFORMATION BUREAU GOVERNMENT OF INDIA Press Release
+Thursday, October 01,2009 Modification of Mega Power Policy The Union Cabinet
+today approved modifications in the existing mega power policy. This would
+encourage setting up of mega power plants to take advantage of economies of scale
+and improve their viability. It will simplify the procedure for grant of mega certificate
+and encourage capacity addition. It will also encourage technology transfer and
+indigenous manufacturing in the field of super critical power equipments. The mega
+Power Policy was introduced in November 1995 for providing impetus to
+development of large size power projects in the country and derive benefit from
+economies of scale. These guidelines were modified in 1998 and 2002 and was last
+amended in April 2006 to encourage power development in Jammu & Kashmir and
+the North Eastern region. In order to rationalize the Mega Power Policy and bring it
+in consonance with the National Electricity Policy 2005 and Tariff Policy 2006, the
+following modifications of the existing Mega Power Policy have been envisaged:
+
+(i) The existing condition of privatization of distribution by power purchasing states
+would be replaced by the condition that power purchasing states shall undertake to
+carry out distribution reforms as laid down by the Ministry of Power.
+
+(ii) The conditions requiring inter-state sale of power for getting mega power status
+would be removed.
+
+(iii) The present dispensation of 15% price preference available to the domestic
+bidders in case of cost plus projects of PSUs would continue. However, the price
+preference will not apply to tariff based competitively bid projects of PSUs. A
+Committee would be set up under the Planning Commission, with DHI, MoP and
+DoR as members which would suggest options and modalities to take care of the
+disadvantages suffered by the domestic industry related to power sector keeping all
+factors in view.
+
+(iv) The benefits of Mega Power Policy will also be extended to supercritical projects
+to be awarded through ICB with the mandatory condition of setting up indigenous
+manufacturing facility provided they meet the eligibility criteria.
+
+(v) The requirement of undertaking international competitive bidding (ICB) by the
+developers for procurement of equipment for mega power projects would not be
+mandatory, if the requisite quantum of power has been tied up through tariff based
+competitive bidding or the project has been awarded through tariff based competitive
+bidding.
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+6
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+(vi) A basic custom duty of 2.5% only would be applicable on brown field expansion
+of existing mega projects. All other benefits under mega power policy available to
+Greenfield projects would also be available to expansion unit(s) (Brownfield projects)
+even if the total capacity of expansion unit(s) is less than the threshold qualifying
+capacity, provided the size of the unit(s) is not less than that provided in the earlier
+phase of the project granted mega power project certificate. All other conditions for
+grant to the mega power status shall remain the same.
+
+(vii) Mega Power Projects would be required to tie up power supply to the
+distribution companies/utilities through long term PPA(s) and may also sell power
+outside long term PPA(s) in accordance with the National Electricity Policy 2005 and
+Tariff Policy 2006, as amended from time to time, of Government of India.”
+(Emphasis supplied) The Cabinet decision, as such, is not on record and admittedly
+what is available is the Press Release issued by the Press Information Bureau.
+
+8. The final bidding date was on 09.10.2009 and as per clause 13.1 from the Format-1 Annexure-3
+annexed to the RFP, 02.10.2009 was the cutoff date for consideration of change in law. Equally,
+under clause 2.5.3, 25.09.2009 was the last date for seeking clarification. Law is defined in Clause
+1.1.
+
+D) BID RESULTS
+
+9. The second appellant L&T Power Development Limited emerged as the successful bidder and a
+Letter of Intent was issued on 19.11.2009 and the L&T Power Development Limited acquired the
+first appellant. The appellant contends that on 02.10.2009, the second appellant had addressed a
+letter to Nabha (then owned by the respondent) requesting an extension of the bid deadline to
+enable them to go through the changes pursuant to the Press Release of 01.10.2009 and ascertain
+the impact of the bid. It was followed up with a letter of 06.10.2009 setting out that the appellant
+had taken into consideration the benefits associated with the mega power status in evaluation of
+their project. According to the appellant, it was forced to withdraw the letter before submitting the
+bid. According to the respondent that letters were extraneous to the bid and were not entertained.
+
+E) Developments in December, 2009
+
+10. Certain rapid developments happened in December, 2009. On 3rd December, 2009, the
+Government of India in the Ministry of Power addressed a letter to all the Principal
+Secretary/Secretary Energy of all the States/Union Territories under the subject “Distribution
+reforms under the modified Mega Power Policy”. It was set out in the letter that in order to further
+liberalize the Mega Power Policy as issued on 2nd August, 2006 and also remove such provisions
+which had lost relevance, Government has made modifications in the Mega Power Policy and the
+revised policy guideline was being issued separately. It set out that one of the decisions taken in this
+regard was that the existing condition of privatization of distribution by power purchasing States
+would be replaced by the condition that power purchasing States were to undertake to carry out
+distribution reforms as laid down by the Ministry of Power. The letter proceeded to State that in this
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+7
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+regard the matter was examined in the Ministry of Power and a follow up meeting was held on 28th
+October, 2009 with the representatives of State Power Departments. It was set out that in the said
+meeting various measures for distribution reforms that could be taken up by the State Governments
+were discussed in detail and the letter annexed the summary of the minutes of the meeting of
+28.10.2009. An undertaking was to be taken from the States in a prescribed format and the
+operative portion of the letter, which is crucial, is extracted hereinbelow:
+
+“Accordingly, in pursuance of the Cabinet decision dated 1st October 2009 on the
+modification to the Mega Power Policy, following four distribution reform measures
+hereby laid down by the Ministry of Power required to be undertaken by the states
+purchasing power from the mega power projects:
+
+a) Timely release of subsidy as per Section 65 of Electricity Act 2003.
+
+b) Ensure that Discoms approach SERC for approval of annual revenue
+requirement/tariff determination in time according to the SERC regulations.
+
+c) Setting up special courts as provided in the Electricity Act 2003 to tackle related
+cases.
+
+d) Ring fencing of SLDCs.
+
+An undertaking in the enclosed format (Annexure- II) may be given to the Ministry of Power. The
+said undertaking needs to be given at least, once and would be considered in all the cases where the
+concerned State Distribution Utility ties up procurement of power from a power project considered
+for grant of mega power state.
+
+Receipt of this communication may please be acknowledged and the undertaking in the enclosed
+format may be sent to this Ministry at the earliest to facilitate processing of the Mega Power Policy
+case(s).” F) Amendment to the Customs Notification dated 11.12.2009
+
+11. Thereafter, on 11.12.2009, an amendment to the customs notification no. 21 of 2002 dated
+01.03.2002 was issued. The notification is extracted hereinbelow.
+
+“In exercise of the powers conferred by sub-section (1) of section 25 of the Customs Act 1962 (52 of
+1962), the Central Government, on being satisfied that it is necessary in the public interest so to do,
+hereby makes the following further amendments in the notification of the Government of India in
+the Ministry of Finance (Department of Revenue) No. 21/2002-Customs, dated the 1st March, 2002,
+which was published in the Gazette of India, Extraordinary vide number G.S.R. 118(E), dated the 1st
+March, 2002, namely:-
+
+In the said notification, -
+
+A. in the Table,
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+8
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+(i) against S.No. 400, for the entry in column (3), the following entry shall be
+substituted namely:-
+
+“Goods required for setting up of any Mega Power Project, so certified by an officer
+not below the rank of a Joint Secretary to the Government of India in the Ministry of
+Power, that is to say -
+
+(a) a thermal power plant of a capacity of 700 MW or more, located in the States of
+Jammu and Kashmir, Sikkim, Arunachal Pradesh, Assam, Meghalaya, Manipur,
+Mizoram, Nagaland and Tripura: or
+
+(b) a thermal power plant of a capacity of 1000 MWor more, located in States other
+than those specified in clause (a) above; or
+
+(c) a hydel power plant of a capacity of 350MW or more, located in the States of
+Jammu and Kashmir, Sikkim, Arunachal Pradesh, Assam, Meghalaya, Manipur,
+Mizoram, Nagaland and Tripura; or
+
+(d) a hydel power plant of a capacity of 500MW or more, located in States other than
+those specified in clause (c) above":
+
+(ii) after S.No. 400 and the entries relating thereto, the following S.No. and entries
+shall be inserted, namely :-
+
+1 2 3 4 5 6 400A. 980 Goods required for the 2.5% Nil 86 1 expansion of any existing
+Mega Power Project so certified by an officer not below the rank of a Joint Secretary
+to the Government of India in the Ministry of Power.
+
+                Explanation:     for     the
+                purposes       of       this
+                exemption, Mega Power
+                project means a project as
+
+                above.
+
+B. in the Annexure, in Condition No. 86, for sub-clause (ii) of clause (a), the following
+shall be substituted namely:
+
+(ii) the power purchasing states shall undertake to carry out distribution reforms as
+laid down by Ministry of Power.” (Emphasis supplied)
+
+12. It will be noticed that entry 400 from the notification of 2002 was substituted and
+in the substituted clause there is no reference to the thermal plant being an
+inter-State thermal plant.
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+9
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+Mega Power Policy of 14.12.2009
+
+13. Close on the heels, on 14.12.2009, the Government of India and the Ministry of Power issued an
+office memorandum under the subject “revised Mega Power Policy”, which reads as under:-
+
+“No. A-118/2003-IPC Government of India Ministry of Power Shram Shakti Bhavan,
+New Delhi Dated 14th December, 2009 OFFICE MEMORANDUM Subject : Revised
+mega power project policy.
+
+Policy guidelines for setting up of mega power projects were last revised and issued
+vide this Ministry's letter of even number dated 2nd August, 2006. The Government
+of India has modified the Mega Power Policy to smoothen the Procedures further.
+The modified Mega Power Policy is as follows:
+
+(i) The power projects with the following threshold capacity shall be eligible for the
+benefit of mega power policy:
+
+(a) A thermal power plant of capacity 1000 MW or more; or
+
+(b) A thermal power plant of capacity of 700MW or more, located in the States of J &
+K, Sikkim, Arunachal· Pradesh, Assam, Meghalaya, Manipur, Mizoram, Nagaland
+and Tripura; or
+
+(c) A hydel power plant of capacity of 500 MW or more; or
+
+(d) A hydel power plant of a capacity of 350 MW or more, located in the States of
+J&K, Sikkim, Arunachal Pradesh, Assam, Meghalaya, Manipur, Mizoram, Nagaland
+and Tripura;
+
+(e) Government has decided to extend mega policy benefits to brownfield (expansion)
+projects also. In case of the brownfield (expansion) phase of the existing mega
+project, size of the expansion units would not be not less than that provided in the
+earlier phase of the project granted mega power project certificate.
+
+(ii) Mandatory condition of Inter-State sale of power for getting mega power status
+has been removed.
+
+(iii) Goods required for setting up a mega power project, would qualify for the fiscal
+benefits after it is certified by an officer not below the rank of a Joint Secretary to the
+Govt. of India in the Ministry of Power that (i) the power purchasing States have
+constituted the Regulatory Commissions with full powers to fix tariffs and (ii) power
+purchasing states shall undertake to carry out distribution reforms as laid down by
+Ministry of Power.
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+10
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+(iv) Mega Power Projects would be required to tie up power supply to the distribution
+companies/utilities through long term PPA(s) in accordance with the National
+Electricity Policy 2005 and Tariff Policy 2006, as amended from time to time, of
+Government of India.
+
+(v) There shall be no further requirement of ICB for procurement of equipment for
+mega projects if the requisite quantum of power has been tied up or the project has
+been awarded through tariff based competitive bidding as the requirements of ICB
+for the purpose of availing deemed export benefits under Chapter 8 of the Foreign
+Trade Policy would· be presumed to have been satisfied. In all other cases, ICB for
+equipments shall be mandatory.
+
+(vi) The present dispensation of 15% price preference available to the domestic
+bidders in case of cost-plus projects of PSUs would continue. However, the price
+preference will not apply to tariff based competitively bid projects of PSUs.
+
+3. This issues with the approval of Secretary (Power).
+
+Sd/-
+
+(Puneet K Goel) To Principal Sectary/Secretary/ Energy of all States/UTs. Copy to:
+
+(i) Chairman, CEA,
+
+(ii) CMDs of all PSUs of MOP Copy for information to :-
+
+PS to MOP/PS to MOS(P) / PS to Secretary(P) Sr. PPS to AS(AK)/ PPS to AS(GBP)/
+All Joint Secretaries/ Directors in the Ministry of Power, Dir (PIB), MOP.
+
+Copy also to Cabinet Secretariat, New Delhi Copy for putting on website of Ministry
+of Power to NIC, MOP.
+
+Sd/-
+
+(Puneet K Goel) Director (IPC)” (Emphasis Supplied)
+
+14. It will be noticed that the mandatory conditions of inter-State sale of power for
+getting mega power status was removed; it was decided that goods required for
+setting up a Mega Power Project would qualify for the fiscal benefits after it is
+certified by an officer not below the rank of a Joint Secretary to the Government of
+India in the Ministry of Power that (i) the Power purchasing States have constituted
+the Regulatory Commissions with full powers to fix tariffs and (ii) Power purchasing
+States shall undertake to carry out distribution reforms as laid down by Ministry of
+Power apart from certain other conditions.
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+11
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+Events Leading to the Dispute
+
+15. The appellant no. 1 Nabha Power Limited, which was now owned by appellant no. 2, entered into
+a Power Purchase Agreement on 18.01.2010 with the respondent PSPCL.
+
+16. According to the appellant, thereafter a series of correspondence ensued between appellant no. 1
+and the respondent with regard to the issuance of Essentiality Certificate so that the customs
+authorities allow import at the concessional duty in terms of the amended entry 400, in the
+Notification of 11.12.2009. The appellant has a case that apart from the other documents the
+respondent asked for an affidavit indemnifying the respondent against adverse consequences arising
+out of wrong claim of benefits by the appellant and also an affidavit stating that the benefits of mega
+power status granted to the appellant project will be passed on to the respondent as per clause 13.3
+of the PPA.
+
+17. The appellant claims that while it furnished the other documents, with regard to the affidavit for
+passing on the benefits of the mega power status, it wrote to the respondent on 17.02.2011 stating
+that it had already factored in the benefits available in view of the Cabinet decision dated 01.10.2009
+and thereafter there is no basis for submission of the affidavit as called for.
+
+18. The respondent replied by its letter of 04.03.2011 and insisted on the affidavit as sought for by
+setting out the following reasons:
+
+“(i) at the time of submission of bid, the Mega Policy 2006 was in vogue and
+therefore, the Project could not have qualified as a MPP;
+
+(ii) the Mega Policy 2009 was notified on 14.12.2009, post submission of the bids and
+therefore, the benefits could have only accrued post such notification;
+
+(iii) the mega power status is granted to a project subject to
+
+(a) project getting certified as a MPP from an officer not below the rank of Joint
+Secretary to the Ministry of Power;
+
+(b) the power purchasing States having constituted the Regulatory Commissions with
+full power to fix tariffs; (c) power purchasing States undertaking to carry out
+distribution reforms as laid down by the Ministry of Power;
+
+(iv) the distribution reforms took place in Punjab in April, 2010 and hence, the
+bidders could not have considered benefits available under the Mega Policy 2009
+prior to the submission of the bid; and
+
+(v) in relation to the Project, the Petitioner No.1 had applied to the Ministry of Power
+for grant of mega power status to the Project on 11.05.2010 and the Ministry of Power
+had granted the said status vide its letter dated 30.07.2010.”
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+12
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+19. Ultimately, after a lengthy exchange of correspondence with each party sticking to their
+respective position, the appellant no. 1 submitted an undertaking in the specified format (the factum
+of the undertaking being under protest and without prejudice as claimed by the appellant is
+disputed by the respondent) in order to avoid further delay in the issuance of the Essentiality
+Certificate. The respondent replied by stating that the non-escalable capacity charge would stand
+reduced in terms of the Article 13 of PPA in proportion to the concession in custom duty on the
+consignment value of the imported goods. Ultimately, the appellant obtained the Essentiality
+Certificate on 16.06.2011. Similar affidavits were furnished for the further imports and the
+respondent granted Essentiality Certificate only on the condition that it would have the right to seek
+appropriate reduction in tariff on account of decrease in capital cost of the project.
+
+20. On 22.05.2012, the appellants filed a Petition bearing Petition no. 30 of 2012 before the Punjab
+State Electricity Regulatory Commission, Chandigarh under Section 86(1)(f) of the Electricity Act,
+2003, contending that appellant no. 2 had considered and factored the benefits available to the
+project under the Mega Power Policy of 2009, on 09.10.2009 when they submitted the bid and had
+passed on such benefits to the respondent by way of the tariff it quoted. The appellant contended
+that no change in law occurred in view of the notification of 11.12.2009 and 14.12.2009 and
+whatever change was there, happened on 01.10.2009 itself with the press release of the Cabinet
+decision. The following prayers were made in the claim petition:
+
+“In light of the facts and circumstances as stated above, the Petitioners are
+respectfully praying before this Hon'ble Commission:
+
+(a) to declare that the Union Cabinet's decision dated 01.10.2009 modifying the Mega
+Policy 2006 reported vide Press Information Bureau on the same date does not
+amount to 'Change in Law' under Article 13 of the PPA;
+
+(b) following the declaratory relief sought by the Petitioners, to hold that consequential relief as set
+out under Article 13.2 of the PPA has not triggered and no consequential benefits under Article 13
+have to be passed on to the Respondent by the Petitioner under the PPA on account of Union
+Cabinet's decision to change the Mega Policy 2006 dated 01.10.2009;
+
+(c) in alternative, if reliefs sought under para (a) and (b) above are not granted, then to direct and
+allow that the Petitioners shall be entitled to claim 'Change in Law' against the Respondent's claim
+on the basis of withdrawal of fiscal benefits which were available to the Project under the FTP on the
+date of bidding on standalone basis, without considering Mega Policy, 2009;
+
+(d) award cost in favour of the Petitioners;
+
+(e) pass such other and further orders / directions as the Hon'ble Commission may deem
+appropriate in the facts and circumstances of the case.” Though the prayer are not happily worded,
+the issue raised with regard to the Mega Power Policy issue, as understood by both parties, is
+whether the legal regime was altered on 01.10.2009 or on 11.12.2009 and 14.12.2009 respectively.
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+13
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+21. The appellant’s claim before the Commission was founded on twin basis. The main relief was on
+the aspect of the Mega Power Policy, the contention of the appellant being that the legal regime was
+altered on 01.10.2009, with the Cabinet Decision, as noticed in the Press Release of 01.10.2009. The
+alternative plea was based on the Foreign Trade Policy (in short ‘FTP’) and the appellants
+contention was that in the alternative, the appellant was entitled to claim change in law against the
+respondent on the basis of withdrawal of fiscal benefits which were available to the project under the
+Foreign Trade Policy on the date of bidding, on a standalone basis without considering the Mega
+Power Policy of 2009.
+
+Order of the State Commission
+
+22. By its Order of 12.11.2012, the State Commission rejected both the prayers. The State
+Commission held that the mega power status was made available to a project only when the State in
+which the project is being setup had undertaken the reforms mentioned in the Ministry of Power’s
+letter dated 03.12.2009; that these reforms were undertaken by the Government of Punjab only on
+16.04.2010 and intimated to the Central Government vide letter dated 30.04.2012; that the detailing
+in respect of the modified policy was not available in the press release dated 01.10.2009; that the
+same was covered only in the letter dated 03.12.2009 of the Ministry of Power addressed to the
+States and in the notification of the Ministry of Power dated 14.12.2009. The Commission further
+held that the benefit of mega power status cannot be granted with effect from 01.10.2009
+considering the fact that it was only after a gazette notification that the public at large were informed
+of the decisions of the Government and which gazette notification was issued only in December,
+2009. That the press release itself provided a disclaimer that though all efforts have been made to
+ensure the accuracy and the currency and the content of the website of the Press Information
+Bureau, the same should not be construed as a statement of law or used for any legal purpose. On
+the FTP issue, it was held that the benefits under the FTP were never available to the appellant and
+if identical benefits were indeed available to them under the FTP, there was no need for them to
+claim the same benefit under the modified Mega Power Policy. It was further held that even if it was
+assumed for the sake of argument that the FTP benefits were available before the cutoff date, they
+have forfeited their right to these benefits by claiming similar benefits under the new Mega Power
+Policy.
+
+Proceedings before APTEL
+
+23. After the Order of the State Commission, the appellant filed Appeal No. 29 of 2013 in the
+APTEL. The APTEL in the impugned judgment denied benefits under the Mega Power Policy and
+confirmed the order of the State Commission on the said issue. Insofar as the FTP aspect was
+concerned, the issue was remanded to the Commission. According to the APTEL, the State
+Commission in the order impugned before it had not analyzed the question as to whether the
+benefits under the FTP were available to the appellant as on the cutoff date of 02.10.2009 and
+whether the subsequent withdrawal by the Government of India would amount to change in law.
+
+24. Pursuant to the remand, the Commission revived petition No. 30 of 2012 and issued notice for
+rehearing on the appellant’s alternative claim based on FTP. By its judgment of 16.12.2014, the
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+14
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+Commission rejected the claim of the appellant based on the FTP by a majority order.
+
+25. Aggrieved by the same, the appellants filed Appeal No. 47 of 2015 before APTEL. By a judgment
+of 04.07.2017, the APTEL dismissed the Appeal No. 47 of 2015 of the appellant. Against the said
+judgment of APTEL dated 04.07.2017, appellant has filed Civil Appeal No. 8694 of 2017. We have in
+this judgment not touched upon the issues in Civil Appeal No. 8694 of 2017.
+
+26. Coming back to the order of the APTEL dated 30.06.2014, the APTEL while dismissing the
+appeal insofar as the first issue of the Mega Power Policy discussed therein was concerned held that
+the press release did not indicate the terms and conditions on which the Mega Power Status could
+be made available; that the press release cannot be construed as a statement of law in view of the
+disclaimer; that the notification dated 11.12.2009 modifying the customs duty and specifying the
+terms and conditions for Mega Power is what is law under the definition in the power purchase
+agreement and that the Mega Power Status was received only on 30.07.2010. Certain other findings
+have also been recorded which are not directly germane in view of the decision that we have
+ultimately taken in this Appeal.
+
+27. Aggrieved by the judgment of the APTEL on the issue of the Mega Power Policy, the appellants
+have filed Civil Appeal No. 8478 of 2014.
+
+Contentions:
+
+28. In support of the appeal, we have heard Mr. C.S. Vaidyanathan, learned Senior Advocate and in
+opposition thereof we have heard Mr. M.G. Ramachandran, learned Senior Advocate for the
+respondent no.1.
+
+Submissions of the Appellant
+
+29. Learned Senior Counsel for the appellant contends that the effect of the Cabinet Decision must
+be seen with respect to the contours of the definition of law in the Power Purchase Agreement; that
+the definition includes “any order” of any Indian Government instrumentality and hence it cannot
+be said that the decision of the highest constitutionally entrusted body for formulating binding
+national policy is not law for the purpose of the PPA; that the appellant could not be expected to
+ignore the decision of the Cabinet dated 01.10.2009 announced through the press release being a
+prudent bidder/businessmen; that even the respondent concedes that the Cabinet Decision could
+lead to promissory estoppel against the Government; that clause 2.7.2.1 of the RFP deems that the
+bidders have factored in all “Required information/factors that may have any effect on the bid” and
+that the Cabinet Decision is at least an information/factor for bidding purposes.
+
+30. Learned senior counsel contended that the appellant factored in the fiscal benefits accruing from
+the Mega Policy in view of the Cabinet Decision of 01.10.2009; that the appellant informed PSPCL
+by way of letters dated 02.10.2009 and 06.10.2009 about the factoring in of the benefits; that the
+Mega Power Policy 2006 amendments stood approved on 01.10.2009 and hence the same
+amounted to law; that the implementing actions that followed the Cabinet Decision also accord the
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+15
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+same understanding as would be clear from the Ministry of Power letter dated 03.12.2009, the
+Minutes of meeting dated 28.10.2009 annexed to the letter dated 03.12.2009, the Memorandum
+dated 14.12.2009 and the fact that each department was bound to carry out the policy in pursuance
+of the Cabinet Decision dated 01.10.2009.
+
+31. Learned Senior Counsel further contended that to claim change in law (restitution), three
+essential ingredients are necessary namely
+
+(a) The event must be after the cutoff date (b) it must be an event stipulated in Article 13.1.1 (1 to 4)
+of the PPA and (c) it must result in change in cost of or revenue from the business of selling
+electricity under the PPA.
+
+32. Learned Senior Counsel contends that the respondent to claim relief under, ‘change in law’ must
+establish with documentary proof that consequent to change in law there has been a decrease in
+capital cost and since the appellant in its bid submitted on 09.10.2009 had factored in the benefit
+derived from the Cabinet Decision in relation to Mega projects, it received no economic benefit and
+there was no change in the cost or revenue from the business of selling electricity under the PPA in
+view of the issuance of the notification on 11.12.2009.
+
+33. Learned senior counsel contended that there was no notice for change in law issued by the
+respondent under Article 13.3.2; no proof of reduction in capital cost and no issuance of
+supplementary bill. Further, learned senior counsel contended that no petition claiming change in
+law or any counter claim to the same effect was filed by the respondent and it was the appellant
+which approached the State Commission contending that the Cabinet Decision dated 01.10.2009 is
+law as on the cutoff date and thus, there was no change in law event enuring to the advantage of the
+respondent. It is further contended for the appellant that the Mega Power Policy issued in 2006 was
+issued by way of an executive decision and that the present Cabinet Decision is also issued under
+Article 77 of the Constitution of India; that the requirement to place the Cabinet Decision before the
+President is only for information and on this aspect no Presidential assent is a prerequisite. Lastly, it
+is contended that as per Rule 50(13) of the Central Secretariat, Manual of Office Procedure, the
+Press Communique/Note is the approved formal procedure of communication. Learned senior
+counsel relied on a large number of precedents in support of his submissions.
+
+Submission of the Respondent
+
+34. While stoutly defending the orders of the fora below, learned senior counsel for the respondent
+contends that change in law for the purpose of customs duty insofar as the appellant is concerned
+was brought into force only on 11.12.2009 with the issuance of customs notification under Section
+25 of the Customs Act 1962; that Section 25(1) of the said Act provides for exemption from the
+payment of customs duty to be by notification; that Sub-Section 4 of Section 25 inter alia provides
+that every notification unless otherwise provided shall come into force on the date of its issue by the
+Central Government for publication in the Official Gazette and that Cabinet Decision by itself cannot
+therefore effect such a change without a notification under Section 25 since if something is specified
+to be done in a particular manner it needs to be done in that manner and in no other. In view
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+16
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+thereof, it was contended that it was the customs notification dated 11.12.2009 which brought into
+force the ‘change in law’.
+
+35. Learned senior counsel for the respondent contended that without prejudice to the above
+submissions, the Cabinet Decision dated 01.10.2009 was only the intent or proposal to implement
+something in future and not to give effect to something on 01.10.2009 itself ; the Cabinet Decision
+does not also provide that the benefits therefrom will be effective from 01.10.2009; that the Cabinet
+Decision/Press release by no means can be said to be a regulation, notification, Code, Rule, or order
+having a force of law as specified in the definition of the term “Law” in the PPA; that under the Rules
+of Business of the Central Government, the decision taken in the Cabinet ought to get implemented
+in the manner provided or under the relevant statute such as by Notification, Rule, Regulation or
+Code in the case of the plenary legislation, such as the Customs Act; in the absence of any plenary
+legislation, the manner of implementation is provided under Article 77 by the issuance of an
+authenticated instrument in the manner provided thereon; that the definition of the term “Law” in
+the PPA and the expression “Decision” is limited only with regard to the decision by the Appropriate
+Commission and not an Indian Governmental instrumentality. Learned senior counsel contends
+that there is no scope for the argument of the promissory estoppel in inter-partes disputes between
+the appellant and the respondent since the Union of India is not a party and the present proceeding
+is not a proceeding where a promise is sought to be enforced by a Court of law, against the promisor.
+
+36. The learned senior counsel contends that the appellant under Clauses 2.7.2.1 and 2.7.2.2 ought
+to have considered only the applicable law. It is further contended that the Cabinet Decision of
+01.10.2009 did not decide all the aspects of the distribution reforms to be undertaken by the
+concerned State Government to entitle the intra-state power projects in the State to be eligible for
+Mega Power benefits. To illustrate, it is contended that the Cabinet Decision stated that “Power
+Purchasing States” shall undertake to carry out distribution reforms as laid down by the Ministry of
+Power. Learned senior counsel contends that Ministry of Power laid down the conditions on
+03.12.2009 including an undertaking to be given by the State Government to the Government of
+India as a pre-condition. In view of this, learned senior counsel contends that the Cabinet Decision
+was not in complete form and it was only after the conditions were laid down by the Ministry of
+Power on 03.12.2009 that the notification dated 11.12.2009 and office memorandum of 14.12.2009
+was issued by the Central Government providing for exemption to Mega Power Projects specifically
+stating that “The Power Purchasing State shall undertake to carry out distribution reforms as laid
+down by the Ministry of Power”. Learned senior counsel contends that the Mega Power Policy was
+issued only on 14.12.2009 with further additions. In view of the same, learned senior counsel for the
+respondents contend that there is no scope for interference with the concurrent judgments of the
+Courts below. Question for consideration:
+
+37. In the above background, the question that arises for consideration is: Whether
+the press release of 01.10.2009 announcing the decision of the Union Cabinet about
+approval of certain modifications envisaged in the then existing mega power policy, is
+covered within the meaning of the expression “law as defined in Clause 1.1 of the
+RFP/PPA and if so did the extant legal regime as on 01.10.2009 undergo a change
+from the said date”?
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+17
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+Analysis and reasons:
+
+38. The appellant’s case, as set out above, is that with the press release on
+01.10.2009, a new legal regime commences and on that basis, it is contended that the
+appellant in its bid of 09.10.2009 factored the altered position including the fiscal
+benefits due to customs duty exemptions. The respondent’s case is that the press
+release of 01.10.2009 only sets out the proposal for modification and the real
+modification happened on 11.12.2009 and 14.12.2009 (preceded by the letter of
+03.12.2009). According to them, since the change of law having happened on
+11.12.2009/14.12.2009 the benefits that have accrued to the appellant ought to be
+passed on. This is the simple issue to be resolved.
+
+39. To answer this question, certain clauses from RFP needs to be set out. The RFP
+carried the format of the power purchase agreement as Format 1 Annexure 3. There is
+no dispute that the same clauses occurred in the power purchase agreement executed
+on 18.01.2010.
+
+Clause 1.1 defines law as under :
+
+“Law: means, in relation to this Agreement, all laws including Electricity Laws in
+force in India and any statute, ordinance, regulation, notification or code, rule, or any
+interpretation of any of them by an Indian Governmental Instrumentality and having
+force of law and shall further include all applicable rules, regulations, orders
+notifications by an Indian Governmental Instrumentality pursuant to or under any of
+them and shall include all rules, regulations, decisions and orders of the Appropriate
+Commission.”
+
+40. The relevant Clauses read as under:-
+
+“13 ARTICLE 1.3 Change in Law 13.1 Definitions In this Article 13, the following
+terms shall have the following meanings.
+
+13.1.1 “ Change in Law” means the occurrence of any of the following events after the
+date, which is seven (7) days prior to the Bid Deadline;
+
+(i) the enactment, bringing into effect, adoption, promulgation, amendment, modification or repeal,
+of any law or (ii) a change in interpretation of any law by a competent court of law, tribunal or
+Indian Governmental instrumentality provided such Court of law, tribunal or Indian Governmental
+Instrumentality is final authority under law for such interpretation or (iii) change in any consents
+approvals or licenses available or obtained for the project, otherwise than for default of the seller,
+which results in any change in any cost of or revenue from the business of selling electricity by the
+seller to the procurer under the terms of this agreement or (iv) any change in the (a) declared price
+of land for the project or (b) the cost of implementation of the resettlement and rehabilitation
+package of the land for the project mentioned in the RFP or (c) the cost of implementing
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+18
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+environmental management plan for the power station (d) deleted.
+
+but shall not include (i) any change in any withholding tax on income or dividends distributed to the
+shareholders of the Seller, or (ii) change in respect of UI Charges or frequency intervals by an
+Appropriate Commission.
+
+13.1.2 “Competent Court” means:
+
+The Supreme Court or any High Court, or any tribunal or any similar judicial or
+quasi-judicial body in India that has jurisdiction to adjudicate upon issues relating to
+the Project.
+
+13.2 Application and Principles for computing impact of Change in Law While
+determining the consequence of Change in Law under this Article 13, the Parties shall
+have due regard to the principle that the purpose of compensating the Party affected
+by such Change in Law, is to restore through Monthly Tariff payments, to the extent
+contemplated in this Article 13, the affected Party to the same economic position as if
+such Change in Law has not occurred.
+
+a) Construction Period As a result of any Change in Law, the impact of
+increase/decrease of Capital Cost of the Project in the Tariff shall be governed by the
+formula given below:
+
+For every cumulative increase/decrease of each Rupees 16,50,00,000/-
+
+(Rupees Sixteen crore fifty lakhs) in the Capital Cost over the term of this Agreement,
+the increase/decrease in Non Escalable Capacity Charges shall be an amount equal to
+0.267% (percentage zero point two six seven) of the Non Escalable Capacity Charges.
+Provided that the Seller provides to the Procurer documentary proof of such
+increase/decrease in Capital Cost for establishing the impact of such Change in Law.
+In case of Dispute, Article 17 shall apply:
+
+It is clarified that the above mentioned compensation shall be payable to either Party,
+only with effect from the date on which the total increase/decrease exceeds amount
+of Rupees 16,50,00,000/- (Rupees Sixteen crore fifty lakhs).
+
+b) Operation Period As a result of Change in Law, the compensation for any
+increase/decrease in revenues or cost to the Seller shall be determined and effective
+from such date, as decided by the Appropriate Commission whose decision shall be
+final and binding on both the Parties, subject to rights of appeal provided under
+applicable Law.
+
+Provided that the above mentioned compensation shall be payable only if and for increase/decrease
+in revenues or cost to the Seller is in excess of an amount equivalent to 1% of the Letter of Credit in
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+19
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+aggregate for a Contract Year. 13.3 Notification of Change in Law 13.3.1 If the Seller is affected by a
+Change in Law in accordance with Article 13.2 and wishes to claim a Change in Law under this
+Article, it shall give notice to the procurer of such Change in Law as soon as reasonably practicable
+after becoming aware of the same or should reasonably have known of the Change in Law.
+
+13.3.2 Notwithstanding Article 13.3.1, the Seller shall be obliged to serve a notice to the Procurer
+under this Article 13.3.2 if it is beneficially affected by a Change in Law. Without prejudice to the
+factor of materiality or other provisions contained in this Agreement, the obligation to inform the
+Procurer contained herein shall be material.
+
+Provided that in case the Seller has not provided such notice, the Procurer shall have the right to
+issue such notice to the Seller.
+
+13.3.3 Any notice served pursuant to this Article 13.3.2 shall provide, amongst other things, precise
+details of:
+
+(a) the Change in Law; and
+
+(b) the effects on the Seller of the matters referred to in Article 13.2.
+
+13.4. Tariff Adjustment Payment on account of Change in Law 13.4.1 Subject to Article 13.2., the
+adjustment in Monthly Tariff Payment shall be effective from:
+
+(i) the date of adoption, promulgation, amendment, re-enactment or repeal of the
+Law or Change in Law; or
+
+(ii) the date of order/judgment of the Competent Court or tribunal of Indian
+Governmental Instrumentality, if the Change in Law is on account of a change in
+interpretation of Law.
+
+13.4.2 The payment for Changes in Law shall be through Supplementary Bill as mentioned in Article
+11.8. However, in case of any change in Tariff by reason of Change in Law, as determined in
+accordance with this Agreement, the Monthly Invoice to be raised by the Seller after such change in
+Tariff shall appropriately reflect the changed Tariff.”
+
+41. The golden rule of interpretation is that the words of a contract should be construed in their
+grammatical and ordinary sense, except to the extent that some modification is necessary in order to
+avoid absurdity, inconsistency or repugnancy. (See para 5.01 Kim Lewison, The interpretation of
+Contracts, 3rd Edition). Similarly, any invocation of the business efficacy test as canvassed would
+arise only if the terms of the contract are not explicit and clear. The business efficacy test cannot
+contradict any express term of the contract and is invoked only if by a plain and literal interpretation
+of the term in the agreement or the contract, it is not possible to achieve the result or the
+consequence intended by the parties acting as prudent businessmen. [See Nabha Power Limited
+(NPL) vs. Punjab State Power Corporation Limited (PSPCL) and Another, (2018) 11 SCC 508, (para
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+20
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+49) and Adani Power (Mundra) Limited vs. Gujarat Electricity Regulatory Commission and Others,
+(2019) 19 SCC 9 (para 24).
+
+42. The law as defined in Clause 1.1 was validly promulgated vide the notification of 01.03.2002 and
+the policy document dated 07.08.2006. The appellant seeks to contend that the press release of
+01.10.2009 announcing the Cabinet decision approving the modified Mega Power Policy as
+envisaged tantamounts to “law” as defined in Clause 1.1 of the Request For Proposal. The appellant
+contends that qua the Power Purchase Agreement (PPA), the press release of 01.10.2009 would be
+an order and covered by the phrase “and shall include all applicable rules, regulations, orders,
+notifications by an Indian Governmental Instrumentality”. We are unable to accept this submission.
+First of all, the commonly understood meaning of the word “order” as defined in Black’s Law
+Dictionary is as follows:-
+
+“Order – A command, direction or instruction.
+
+See MANDATE (1) 2. a written direction or command delivered by a government
+official, esp. a court or judge.”
+
+43. The press release of 01.10.2009 certainly does not fulfil the meaning of the word
+“order” as understood in legal parlance. As explained earlier, the Press Release with
+all its future eventualities and conditionalities is only a proposal and it is only after
+the undertakings were agreed to be given by the State Government that a final shape
+was given in the form of a Section 25 customs notification on 11.12.2009 and by the
+policy document of 14.12.2009. The press release announcing the cabinet approval of
+certain modifications envisaged in the existing Mega Power Policy is not law as
+defined in Clause 1.1 of the PPA. Further, the press release does not enact, adopt,
+promulgate, amend, modify or repeal any existing law or bring into effect any law.
+This aspect has been elaborated hereinbelow. Hence, the appellant’s would fail on the
+ground that the press release of 01.10.2009 is not law and as of 01.10.2009, the
+continuing legal regime was as per the notification of 01.03.2002 issued under
+Section 25 of the Customs Act and the Mega Power Policy of 07.08.2006 and there
+was no alteration of that legal regime on 01.10.2009. The change in law occurred only
+on 11.12.2009/14.12.2009, and the respondent no. 1 has rightly been held by the fora
+below to be entitled to the benefits, which ultimately will go to the consumers.
+
+44. The argument feebly advanced by the appellant that no notice of change of law
+was issued by the respondent under Clause 13.3.1 and 13.3.2 does not impress us. The
+said clause expressly deals only with a seller having to issue the notice if it is
+beneficially affected by the change of law. In this case, PSPCL is the buyer. Further,
+post the change in law on 11.12.2009/14.12.2009 there is a change in cost with the
+reduction of customs duty which will enure to the benefit the appellant-seller and
+under 13.1.1. the benefit ought to be passed on to the respondent.
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+21
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+45. The words of clause 13.1.1 read with the definition of law in Clause 1.1 are plain
+and clear. For a change in law to occur, the following events ought to have happened
+seven days prior to the bid deadline that is on 02.10.2009 in our case; (i) the
+enactment brining into effect, adoption, promulgation, amendment, modification or
+repeal of any law or (ii) a change in interpretation of any law by a competent court of
+law, Tribunal or Indian Governmental instrumentality provided such court of law,
+Tribunal or Indian Governmental instrumentality is the final authority under law for
+such interpretation or (iii) change in any consents, approvals or licences available or
+obtained for the project, otherwise than for default of the seller, which results in any
+change in any cost or revenue from the business of selling electricity by the seller to
+the procurer under the terms of this agreement or (iv) any change in the
+
+(a) declared price of land for the project or (b) the cost of implementation of the
+resettlement and rehabilitation package of the land for the project mentioned in RFP
+or (c) the cost of implementing environmental management plan for the power
+station but shall not include (i) any change in any withholding tax on income or
+dividends distributed to the shareholders of the Seller, or (ii) change in respect of UI
+Charges or frequency intervals by an Appropriate Commission.
+
+46. Considering the facts of the case and the arguments, we are very clear that the
+case of the parties is not based on any change in interpretation or change in consent,
+approval or licence so these sub clauses of the opening part of 13.1.1 is ruled out.
+Equally, the latter part dealing with price of land for the project and cost of
+implementation and rehabilitation package of land or cost of implementing
+environmental management plan is also not attracted.
+
+47. The question that remains is the applicability of sub clause (i) of clause 13.1.1
+namely, when did the change in law happen? For 13.1.1. (i) to be attracted there has
+to be an enactment, bringing into effect, adoption, promulgation, amendment,
+modification or repeal of any law. Further, if there was a change in law the question
+would be, did it result in any change in any cost or revenue from the business of
+selling electricity by the seller to the procurer under the terms of the agreement.
+
+48. It is important to keep in mind the definition of law which has been defined to mean in relation
+to this Agreement, all laws including Electricity Laws in force in India and any statute, ordinance,
+regulation, notification or code, rule or any interpretation of any of them by an Indian
+Governmental instrumentality and having force of law and shall further include all applicable rules,
+regulations, orders, notification by an Indian Governmental instrumentality pursuant to or under
+any of them and shall include all rules, regulations, decisions and orders of the Appropriate
+Commission. We are convinced that the words “shall include all rules, regulations, decisions and
+orders of the Appropriate Commission”, only refer to the rules, regulations, decisions and orders of
+the Appropriate Commission.
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+22
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+49. It is important to bear in mind that ‘law’ is one thing and ‘change in law’ is another, in the sense
+that the two are two different concepts. For the case in question, we need to understand what the
+extant law was on 01.10.2009 and then decide whether there was a legal regime alteration as defined
+under 13.1.1 on the said date.
+
+50. The law, as it stood prior to the press release of 01.10.2009 insofar as the financial implications
+for the matter is concerned, was the notification under Section 25 of the Customs Act issued on
+01.03.2002 and entry 400 thereof, extracted in the earlier part of this judgment. That notification,
+subject to the conditions mentioned thereon in entry 400 granted exemption from customs duty for
+import of goods required for setting up of any Mega Power project if such Mega Power project was
+an inter-State power plant and if it fulfilled the other conditions mentioned in the notification.
+Section 25(1) of the Customs Act under which the notification is issued reads as under:
+
+“25. Power to grant exemption from duty.- (1) If the Central Government is satisfied
+that it is necessary in the public interest so to do, it may, by notification in the Official
+Gazette, exempt generally either absolutely or subject to such conditions (to be
+fulfilled before or after clearance), as may be specified in the notification goods of any
+specified description from the whole or any part of duty of customs leviable thereon.”
+
+51. It will be very clear that for an exemption under the Customs Act to operate
+thereon there has to be a notification issued in the manner provided by the Customs
+Act and duly published in the official gazette. It is so well settled that if a certain thing
+has to be done in a certain manner, it shall be done in that manner or not at all.
+
+[See Babu Verghese and Others vs. Bar Council of Kerala and Others, (1999) 3 SCC 422, relying on
+Taylor vs. Taylor, (1875) 1 C h D 426 and Nazir Ahmad vs. King Emperor, AIR 1936 PC 253].
+Further, Section 21 of the General Clauses Act, 1897 clearly prescribes as under:-
+
+“21. Power to issue, to include power to add to, amend, vary or rescind, notifications,
+orders, rules or bye-laws.—Where, by any Central Act or Regulation, a power to issue
+notifications, orders, rules, or bye-laws is conferred, then that power includes a
+power, exercisable in the like manner and subject to the like sanction and conditions
+(if any) to add to, amend, vary or rescind any notifications, orders, rules or bye-laws
+so issued.” (Emphasis Supplied) There was no duly constituted amendment
+notification as on 01.10.2009.
+
+52. The exemption notification has to be read with the then extant policy of
+07.08.2006 under which Mega Power Policy, to obtain a Mega Power Status, the
+plant had to be an inter-State power plant of the prescribed dimensions and if it were
+so, certain financial concessions/benefits were to be available to it under the policy
+document. Admittedly, that policy of 07.08.2006 was duly promulgated by the
+Government of India through Ministry of Power and there is no dispute on this score.
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+23
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+53. What the appellant contends is that with the press release on 01.10.2009 and they
+having received no positive response to the letters of 02.10.2009 and 06.10.2009
+(since withdrawn), they in their bid of 09.10.2009 factored in the benefits that would
+be available in view of the Cabinet decision as announced in the press release of
+01.10.2009. According to the appellants, as such, when the notifications for
+amendment were issued on 11.12.2009 and when the policy document was amended
+on 14.12.2009, there was no change in law because the legal regime stood altered on
+01.10.2009 with the press release. Respondents contended that any clarification for
+the bid ought to have been sought before 25.09.2009 and independent of that they
+also contend that press release of 01.10.2009 does not tantamount to law and that
+the change in law happened only on 11.12.2009/14.12.2009.
+
+54. The scenario that emerges is that there was a legal regime operating, which
+continued to have force since there was no repeal of the notification of 01.03.2002 or
+the supersession of the Mega Power Policy document of 07.08.2006 on 01.10.2009.
+The press release clearly mentioned as to what was envisaged and the conditions that
+were to be replaced and removed.
+
+55. In our considered opinion, the press release did not alter/amend/repeal the
+existing law as on 01.10.2009. It was at best the announcement of a proposal
+approved by the Cabinet which had to be given shape after fulfilment of the
+conditions mentioned therein. Some of the conditions were that the power
+purchasing States were to undertake to carry out distribution reforms as laid down by
+the Ministry of Power and admittedly in that regard there was a meeting held on
+28.10.2009; an undertaking was sought from the States in the prescribed formats
+and the four distribution reform measures required to be undertaken were part of the
+undertaking.
+
+Those four measures are (a) timely release of subsidy as per Section 65 of the Electricity Act, 2003
+(b) Ensure that discoms will approach SERC for approval of annual revenue requirement/tariff
+determination in time according to SERC regulations (c) Setting up of Special Courts as provided in
+the Electricity Act, 2003 to tackle the related cases and (d) ring fencing of SLDCs.
+
+56. It was thereafter on 11.12.2009 in due compliance with the provisions of Section 25 of the
+Customs Act that the amendment notifications were issued which expressly specified the condition
+that the power purchasing States ought to have undertaken to carryout distribution reforms as laid
+out by the Ministry of Power. It is only with the promulgation of the 11.12.2009 notification that
+entry 400 of the 01.03.2002 notification issued earlier in 2002 was substituted to cover goods
+required for setting up of any Mega Power Project (as now defined and set out in the notification of
+11.12.2009 and elaborated in the policy document of 14.12.2009) did the ‘change in law’ happen.
+
+57. Could the appellant has assumed that the Press Release of 01.10.2009 ordained a new legal
+regime? We think not and we hold accordingly. The press release is a summary of the Cabinet
+decision. Even the press release makes it clear that it was a proposal that was envisaged and which
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+24
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+was to come into force in future.
+
+58. Certainty is the hallmark of law. It is one of its essential attributes. It is an integral component of
+the rule of law. What was certain on 01.10.2009 in the context of our case was only the prevalent
+customs notification of 01.03.2002 issued under section 25, duly notified and gazetted as well as the
+Mega Power Policy document admittedly promulgated on 07.08.2006.
+
+59. The press release summarizing the Cabinet decision and beset with several conditions created no
+vested rights on any party to the power purchase agreement vis-a-vis the other party on 01.10.2009.
+In fact, the press release itself contemplated certain contingencies. A right vests when all the facts
+have occurred which must by law occur in order for the person in question to have the right (see
+Salmond on Jurisprudence, Twelfth Edition P.J. Fitzgeral page 245). It is only when the right vests
+will there be a corelative duty on the other as far as nature of the right involved in the present case is
+concerned.
+
+60. Accepting the argument would also create tremendous uncertainties in the law. In the absence of
+any repeal of 01.03.2002 notification and the 07.08.2006 Mega Power Policy, between 01.10.2009
+and 11.12.2009/14.12.2009 there will be two legal regime operating.
+
+61. Lord Bingham of Cornhill in his locus classicus ‘The Rule of Law’ rightly identifies as one of the
+facets of rule of law, the following – “the law must be accessible and so far as possible intelligible,
+clear and predictable.” The second and third reason given to support the principle makes for
+fascinating reading and are reproduced hereinbelow.
+
+“The second reason is rather similar, but not tied to the criminal law. If we are to claim the rights
+which the civil (that is, non- criminal) law gives us, or to perform the obligations which it imposes
+on us, it is important to know what our rights or obligations are. Otherwise we cannot claim the
+rights or perform the obligations. It is not much use being entitled to, for example, a winter fuel
+allowance if you cannot reasonably easily discover your entitlement, and how you set about claiming
+it. Equally, you can only perform a duty to recycle different kinds of rubbish in different bags if you
+know what you are meant to do.
+
+The third reason is rather less obvious, but extremely compelling. It is that the successful conduct of
+trade, investment and business generally is promoted by a body of accessible legal rules governing
+commercial rights and obligations. No one would choose to do business, perhaps involving large
+sums of money, in a country where the parties' rights and obligations were vague or undecided. This
+was a point recognized by Lord Mansfield, generally regarded as the father of English commercial
+law, around 250 years ago when he said: The daily negotiations and property of merchants ought
+not to depend upon subtleties and niceties; but upon rules easily learned and easily retained,
+because they are the dictates of common sense, drawn from the truth of the case.”1 In the same vein
+he said: 'In all mercantile transactions the great object should be certainty:
+
+and therefore, it is of more consequence that a rule should be certain, than whether
+the rule is established one way or the other. Because speculators [meaning investors
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+25
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+and businessmen] then know what ground to go upon.”2
+
+62. Explaining felicitously the said principle, O. Chinnappa Reddy, J. speaking for this Court in B.K.
+Srinivasan and Others vs. State of Karnataka and Others, (1987) 1 SCC 658 ruled:-
+
+“15. There can be no doubt about the proposition that where a law, whether
+parliamentary or subordinate, demands compliance, those that are governed must be
+notified directly and reliably of the law and all changes and additions made to it by
+various processes. Whether law is viewed from the standpoint of the “conscientious
+good man” seeking to abide by the law or from the standpoint of Justice Holmes's
+“unconscientious bad man” seeking to avoid the law, law must be known, that is to
+say, it must be so made that it Hamilton vs. Mendes (1761) 3 Burr 1198, 1214 Vallejo
+vs. Wheeler (1774) 1 Cowp 143, 153 can be known. We know that delegated or
+subordinate legislation is all-pervasive and that there is hardly any field of activity
+where governance by delegated or subordinate legislative powers is not as important
+if not more important, than governance by parliamen- tary legislation. But unlike
+parliamentary legislation which is pub- licly made, delegated or subordinate
+legislation is often made un- obtrusively in the chambers of a Minister, a Secretary to
+the Gov- ernment or other official dignitary. It is, therefore, necessary that
+subordinate legislation, in order to take effect, must be published or promulgated in
+some suitable manner, whether such publication or promulgation is prescribed by the
+parent statute or not. It will then take effect from the date of such publication or
+promulgation. Where the parent statute prescribes the mode of publication or
+promulgation that mode must be followed.…” (Emphasis supplied)
+
+63. The appellant has relied upon RFP to contend that the Press release of 01.10.2009 could not
+have been ignored by them. We do not find merit in this submission. Those clauses in the RFP
+obligate the bidder to satisfy itself about the extant legal regime and those clauses cannot operate as
+a crutch to elevate the press release of 01.10.2009 to the status of law under Clause 1.1. of the PPA.
+
+64. We have also found that the terms of the contract to be clear and hence there is no scope for
+applying any business efficacy test to interpret the contract as was sought to be contended for the
+appellant.
+
+65. One of the arguments advanced by the learned senior counsel for the appellants is based on the
+doctrine of promissory estoppel. The argument need not detain us since the respondent PSPCL
+which is the party to power purchase agreement is not the promisor, even if we assume the press
+release of 01.10.2009 as holding out the promise. The Union of India has not been arrayed in any
+duly constituted litigation to enforce the promise. The argument also belies the primary contention
+of the appellant since even according to their understanding, it was at best a promise by the Union
+of India and not any alteration of the law proprio vigore (by its own force). In any case, no steps
+have been taken to enforce the so-called promise and there is no order of any court of law enforcing
+the promise as on 02.10.2009. The appellant contends that since the promise was duly complied
+with, there was no need to enforce the promise. This is also an argument which cuts at the root of
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+26
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+appellants main submission. The notifications constituting change in law happened on 11.12.2009
+and 14.12.2009 and hence there is no basis in the contention that on 01.10.2009 the old legal regime
+had given way.
+
+66. The judgments cited by learned Senior Counsel for the appellant also do not in any manner
+support the case of the appellant. In GMR Warora Energy Limited vs. Central Electricity Regulatory
+Commission [CERC] and Others, (2023) 10 SCC 401, this Court found that busy season surcharge,
+development surcharge, and port congestion surcharge were increased by circular/notifications
+issued by the Ministry of Railways by virtue of the powers vested in them which were enforceable
+commands proprio vigore. Similarly, the letters carrying the decisions of Coal India on the aspect of
+charges for linkage coal and the direction to use beneficiated coal were held to be statutory
+documents having the force of law. The press release of 01.10.2009 does not enjoy the same legal
+characteristics for the reasons already set out hereinabove.
+
+67. Equally, for the same reason, the judgment in Energy Watchdog vs. Central Electricity
+Regulatory Commission and Others, (2017) 14 SCC 80 will also not help the appellant. The
+appellant’s main reliance has been on Lloyd Electric and Engineering Limited vs. State of Himachal
+Pradesh and Others, (2016) 1 SCC 560. In Lloyd Electric (supra), the appellant therein was already
+enjoying the concessional rate in CST @ 1% up to 31.03.2009. Not only this, after the Cabinet note, a
+policy decision was taken to extend the period of concession up to 31.03.2013 or till CST was phased
+out. The Department of Industries had issued a notification extending concessions from 01.04.2009
+to 31.03.2013 or till the time CST is phased out. The dispute arose because the Excise and Taxation
+Department issued a notification of 18.06.2009 granting benefit with immediate effect for the
+period ending 31.03.2013. It was in that context that this Court held that the State Government
+cannot speak in two voices and gave effect to the notification of the Industries Department so as to
+maintain continuity in exemption from 01.04.2009 and set aside the judgment of the High Court
+which denied exemption from 01.04.2009 till 18.06.2009 which was the date on which the Excise
+Department issued the notification. Unlike in Lloyd Electric (supra), in this case, there is only one
+voice of the government which has given the customs duty exemption for goods imported for use in
+thermal power plants, (without the requirement of the plant being an interstate power plant) with
+effect from 11.12.2009. The policy document also came on 14.12.2009. The press release of
+01.10.2009 could not have been the basis for the appellant to have assumed that the notification of
+01.03.2002 would stand amended and they would have the benefit from 01.10.2009 itself.
+
+68. In Uttar Haryana Bijli Vitran Nigam Limited and Another vs. Adani Power (Mundra) Limited
+and Another, (2023) 7 SCC 623, this Court held that the communication of 19.06.2013 in that case
+effected a modification to the mutual Fuel Supply Agreement and by force of the communication,
+transfer of coal, which was not allowed till then, was allowed between power plants. This Court held
+that the communication reflected the decision of the Coal India Limited which was an
+instrumentality of the Government of India. The said case has no application to the facts of the
+present case.
+
+69. The judgment in Burn Standard Company Limited Vs. McDermott International INC and Anr.,
+(1991) 2 SCC 669 also does not advance the case of the appellant. That case dealt with permission
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+27
+
+Nabha Power Limited vs Punjab State Power Corporation Ltd on 5 November, 2024
+
+granted to an individual entity and whether on the facts of that case there existed a valid permission
+by the Reserve Bank of India. The issue involved in the present case is vastly different and we find
+the judgment in Burn Standard (Supra) of no relevance to this case.
+
+70. The judgment closer to our facts is Maharashtra State Electricity Distribution Company Limited
+vs. Adani Power Maharashtra Limited and Others, (2023) 7 SCC 401. In the said case, neither the
+decision of the Cabinet Committee on Economic Affairs dated 06.02.2013 nor the Press Release of
+21.06.2013 was considered as the relevant date for change in law and only 26.07.2013 which was the
+date on which the Office Memorandum was issued providing further instructions regarding the
+implementation of the New Coal Distributional Policy [NCDP] was considered as the change in law
+event. Pursuant to the Office Memorandum of 26.07.2013, the Ministry of Power issued a
+communication of 31.07.2013 setting out the decision taken. This case clearly supports the case of
+the respondent that the press release of 01.10.2009 on the facts herein could not have been the basis
+for the appellant to assume that a new legal regime had commenced in with effect from that date.
+
+71. Though several judgments were cited, including Bachhittar Singh vs. The State of Punjab, [1962]
+Supp. 3 SCR 713, to contend that the press release of 01.10.2009 was not an “order”, we do not
+propose to examine them as we are otherwise convinced for the reason set out above that the
+01.10.2009 Press Release is not law under Clause 1.1. Equally, for that reason, we have not discussed
+the cases on Article 77 of the Constitution of India, dealing with authentication of orders.
+
+72. The State Commission while rejecting the contention of the appellant has rightly recorded the
+following operative findings:-
+
+“In view of the above findings, the Commission holds that since the Mega Power
+Status was granted to the Project under the Mega Power Policy by the Ministry of
+Power on 30.07.2010 on the application dated 11.05.2010 filed by the respondent
+no.1, having become eligible on 16.04.2010, the benefits, if any, accruing thereunder
+to the Project would be applicable only from 30.07.2010 and not from any prior date,
+notwithstanding that the decision for granting the Mega Power Status was
+taken/announced on 01.10.2009 or the notifications in respect of the said decision of
+the Union Cabinet were issued by the concerned Ministries of the Government of
+India on 11.12.2009 and14.12.2009.”
+
+73. For the reasons set out hereinabove, we find no reason to interfere with the concurrent
+judgments of the courts below. The Civil Appeal is dismissed. No order as to costs.
+
+……….………………J. (B.R. Gavai) .…...…………………J. (Prashant Kumar Mishra) .…...…………………J.
+(K.V. Viswanathan) New Delhi;
+
+5th November, 2024.
+
+Indian Kanoon - http://indiankanoon.org/doc/63847817/
+
+28
+
+

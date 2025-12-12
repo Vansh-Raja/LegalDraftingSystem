@@ -1,0 +1,26 @@
+{
+  "case_number": "Civil Appeal No. 7319 of 2021",
+  "parties": {
+    "petitioner": "The State of Maharashtra",
+    "respondent": "Shri Vile Parle Kelvani Mandal & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-01-07",
+  "summary": "The appeal challenged the Bombay High Court's judgment exempting charitable educational institutions, including those managed by Shri Vile Parle Kelvani Mandal, from payment of electricity duty post-1 September 2016. The State argued that the Maharashtra Electricity Duty Act, 2016, which replaced the 1958 Act, removed the exemption previously granted under Section 3(2)(iiia) of the 1958 Act. The respondents contended that excluding charitable institutions from exemption while including those run by local authorities or statutory universities created arbitrariness and violated Article 14. They also invoked the principle that statutory changes should not be presumed to introduce radical departures from existing law without clear legislative intent. The interpretation of taxing statutes and constitutional principles guided the reasoning.",
+  "legal_provisions_cited": [
+    "Section 3(2)(iii) of the Maharashtra Electricity Duty Act, 1958",
+    "Section 3(2)(a)(iiia) of the Maharashtra Electricity Duty Act, 1958",
+    "Section 4 of the Maharashtra Electricity Duty Act, 2016",
+    "Article 14 of the Constitution of India",
+    "C.W.S. (India) Ltd. Vs. Commissioner of Income Tax, 1994 Supp (2) SCC 296",
+    "B.R. Enterprises Vs. State of U.P. & Ors., (1999) 9 SCC 700",
+    "Byram Pestonji Gariwala Vs. Union Bank of India & Ors., (1992) 1 SCC 31",
+    "Commr. of Customs Vs. Dilip Kumar & Co., (2018) 9 SCC 1",
+    "Central Public Information Officer, Supreme Court of India Vs. Subhash Chandra Agarwal, (2020) 5 SCC 481",
+    "Essar Steel India Ltd. & Anr. Vs. State of Gujarat & Anr., (2017) 8 SCC 357",
+    "Star Industries Vs. Commr. of Customs (Imports), (2016) 2 SCC 362",
+    "Giridhar G. Yadalam Vs. Commissioner of Wealth Tax & Another, (2015) 17 SCC 664",
+    "Godrej & Boyce Mfg. Co. Ltd. Vs. Deputy Commissioner of Income Tax & Anr., (2017) 7 SCC 421"
+  ],
+  "final_judgment": "The appeal was allowed, and the impugned judgment of the Bombay High Court exempting the respondents from electricity duty was set aside."
+}

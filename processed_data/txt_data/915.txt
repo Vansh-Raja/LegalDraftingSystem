@@ -1,0 +1,2999 @@
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April,
+2023
+
+Author: K. M. Joseph
+
+Bench: B.V. Nagarathna, K.M. Joseph
+
+‘REPORTABLE’
+
+IN THE SUPREME COURT OF INDIA
+
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NO. 11826 OF 2018
+
+HARYANA POWER PURCHASE CENTRE                Appellant(s)
+
+VERSUS
+
+SASAN POWER LTD & ORS.                       Respondent(s)
+
+WITH
+
+CIVIL APPEAL NO. 11927 OF 2018
+
+CIVIL APPEAL NO. 12190 OF 2018
+
+CIVIL APPEAL NO. 1670 OF 2019
+
+CIVIL APPEAL NO. 12232 OF 2018
+
+CIVIL APPEAL NO. 1742 OF 2019
+
+J U D G M E N T
+
+K. M. JOSEPH, J.
+
+(1) The six appeals with which we are concerned have been filed under Section 125 of the Electricity
+Act, 2003 (hereinafter referred to as ‘Act’ for CIVIL APPEAL NO. 11826 OF 2018 etc. brevity). The
+appeals are directed against the order passed by the Appellate Tribunal for Electricity (hereinafter
+referred to as ‘Tribunal’ for brevity) in an appeal carried by the first respondent under Section 111 of
+the Act. (2) The appeal before the Tribunal, in turn, was lodged against the order passed by the
+
+1
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+Central Electricity Regulatory Commission (hereinafter referred to as ‘Commission’ for brevity). The
+Commission passed the order purporting to be one under Section 79(b) inter alia of the Act in a
+petition filed by the first respondent. F A C T S (3) It was decided to set up an Ultra Mega Power
+Project. Towards this end, the Power Finance Corporation Limited of India was to be the nodal
+agency. It incorporated a Special Purpose Vehicle, which is the first respondent. The idea was to set
+up the Ultra Mega Power Project which would be operated by the successful bidder selected through
+CIVIL APPEAL NO. 11826 OF 2018 etc. an international competitive bidding. The power generated
+by the successful bidder was to be supplied through procurers (the appellants before us), who can be
+described also as the distribution licensees under the Act. The appellants were to supply the power
+so procured finally to the consumers.
+
+(4) Since what was contemplated was seeking shelter under Section 63 of the Act, we must refer to
+the guidelines which have been issued by the Central Government purporting to act under Section
+63. Guidelines were issued on 19.01.2005. We deem it appropriate to set out the following
+guidelines:
+
+“2.1 These guidelines are being issued under the provisions of Section 63 of the
+Electricity Act, 2003 for procurement of electricity by distribution licensees
+(Procurer) for:
+
+(a) long-term procurement of electricity for a period of 7 years and above;
+
+(b) Medium term procurement for a period of upto 7 years but exceeding 1 year.
+
+2.2 The guidelines shall apply for procurement of base-load and seasonal power requirements
+through competitive bidding, through the following mechanisms:
+
+i. Where the location, technology, or fuel is not specified by the procurer (Case 1);
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. ii. For hydro-power projects, load center
+projects or other location specific projects with specific fuel allocation such as captive
+mines available, which the procurer intends to set up under tariff based bidding
+process (Case 2).” (5) The guidelines are binding on the procurers.
+
+Guideline 3.2 which is related to preparation for the invitation of bids would assume relevance. It
+reads as follows:
+
+“3.2 For long-term procurement from hydro electric projects or for projects for which
+pre-identified sites are to be utilized (Case
+
+2), the following activities should be completed by the procurer or authorized
+representative of the procurer, before commencing the bid process:
+
+- Site identification and land acquisition required for the project
+
+2
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+- Environmental clearance
+
+- Fuel linkage, if required (may also be asked from bidder)
+
+- Water linkage
+
+- Requisite Hydrological, geological, meteorological and seismological data necessary
+for preparation of Detailed Project Report (DPR), where applicable.
+
+The bidder shall be free to verify geological data through his own sources, as the
+geological risk would lie with the project developer.
+
+The project site shall be transferred to the successful bidder at a declared price.
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. Provided that for the projects from which
+more than one distribution licensees located in different States intend to procure
+power and if the preparations for such projects are being facilitated by the Central
+Government, the activities referred to above shall be initiated before the bidding
+process and should be completed before signing the power purchase agreement with
+the selected bidder.
+
+(6) Under the guidelines, tariff structure is contemplated which consists of capacity
+charges and energy charges which are dealt with in detail. It also deals with bidding
+process. The bidding process itself is divided into two stages, viz., a determination of
+the qualification by a pre-
+
+qualification system and thereafter submission and consideration of essentially what consists of the
+financial bid. There is a guideline which deals with arbitration and it was contained in guideline
+5.17:
+
+“5.17 The procurer will establish an Amicable Dispute Resolution (ADR) mechanism
+in accordance with the provisions of the Indian Arbitration and Conciliation Act,
+1996. The ADR shall be mandatory and time-bound to minimize disputes regarding
+the bid process and the documentation thereof.
+
+If the ADR fails to resolve the dispute, the same will be subject to jurisdiction of the
+appropriate Regulatory Commission under the CIVIL APPEAL NO. 11826 OF 2018
+etc. provisions of the Electricity Act 2003.” (7) It is, accordingly, purporting to act in
+terms of the guidelineS that a Request for Qualification (for short RFQ) came to be
+issued on 31.03.2006.
+
+Reliance Power Limited was one of the bidders which was pre-qualified in terms of the RFQ. On
+18.08.2006, there was a change notified in the guidelines. It brought about the following changes in
+the guidelines 5.17 besides guideline No. 4.7. The unamended and the amended guidelines 4.7 and
+
+3
+
+5.17 read as follows:
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+S. CBG as on 19.01.2005 CBG as amended on 18.08.2006 No.
+
+1. 4.7 Any change in tax on 4.7 Any change in law impacting generation or sale of
+electricity cost or revenue from the business as a result of any change in Law of
+selling electricity to the with respect to that applicable procurer with respect to the
+law on the date of bid submission applicable on the date which is 7 shall be adjusted
+separately. days before the last date of RFP bid [Pg. 345,CC-I] submission shall be
+adjusted separately. In case of any dispute regarding the impact of any change in law,
+the decision of the Appropriate Commission shall apply.
+
+2. Arbitration Arbitration 5.17 The procurer will establish 5.17 Where any dispute
+arises an Amicable Dispute Resolution claiming any change in or (ADR) mechanism
+in regarding determination of the accordance with the provisions tariff or any tariff
+related matters, CIVIL APPEAL NO. 11826 OF 2018 etc. of the Indian Arbitration and
+or which partly or wholly could Conciliation Act, 1996. The result in change in tariff,
+such ADR shall be mandatory and dispute shall be adjudicated by the time-bound to
+minimize Appropriate Commission.
+
+disputes regarding the bid All other disputes shall be resolved process and the documentation by
+arbitration under the Indian thereof. Arbitration and Conciliation Act, 1996.
+
+(8) On 21.08.2006, a Request for Proposal, for short RFP, came to be issued. We deem it
+appropriate to refer to the following provisions of the RFP.
+
+“4. While this RFP has been prepared in good faith, neither the Procurers, Authorised
+Representative and Power Finance Corporation Limited (PFC) nor their directors or employees or
+advisors/consultants make any representation or warranty, express or implied, or accept any
+responsibility or liability, whatsoever, in respect of any statements or omissions herein, or the
+accuracy, completeness or reliability of information contained herein, and shall incur no liability
+under any law, statute, rules or regualations as to the accuracy, reliability or completeness of this
+RFP, even if any loss or damage is caused to the Bidder by any act or omission on their part.
+
+1.3 The objective of the bidding process is to select a SuccessfulBidder for development of the
+Project as per the terms of the RFP. The Project will have a Contracted Capactiy of minimum of
+3500 MW and maximum of 3800 MW in accordance witht he terms of the PPA. The Selected Bidder
+shall purchase the entire shareholding of the Authorised Representative CIVIL APPEAL NO. 11826
+OF 2018 etc. from PFC and its nominees in accordance with Share Purchase Agreement and cause
+the Seller to enter into the RFP Project Documents. The Selected Bidder shall be responsible for
+ensuring that the Seller undertakes development, finance, ownership, design, engineering
+procurement, construction, commissioning, operation and maintenance of the Project as per the
+terms of the RFP Project Documents. The Selected Bidder shall also ensure:
+
+4
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+(i) All equipment and auxiliaries shall be suitable for continuous operation in the
+frequency range of 47.5 to 51.5 Hz (-5% to +3% of rated frequency of 50.0 Hz).
+
+(ii)The plant shall be capable of delivering contracted capacity continously at 47.5 Hz
+grid frequency.
+
+1.4 The Procurers through the Authorised Representative, have initiated development of the Project
+at Sasan, District Sidhi, Madhya Pradesh and shall complete the following tasks in this regard by
+such time as specified hereunder:
+
+iv. Allocation of main Captive Coal Mine(s) and providing geological report (GR) for
+the same; at least ninety (90) days prior to Bid Deadline. Allocation of other Captive
+Coal Mine(s) and available information regarding quality and quantity of coal (GR
+related information) would be made available at least thirty (30) days prior to Bid
+Deadline. The Seller shall pay the final cost of geological reports (Grs). The Indicative
+Cost of geological reports (Grs), would be made available at least thirty (30) days
+prior to bid Deadline;
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. v. Tying up water linkage for the Project
+requirement along with approval of Central Water Commission, at least thirty (30)
+days prior to Bid Deadline;
+
+Water intake study report and Project Report including geo-technical study,
+topographical survey, area drainage study, socio-economic study and EIA study
+(rapid) would be made available at least ninety (90) days prior to Bid Deadline;
+
+vi. issue of certificate by Ministry of Power, Government of India extending the
+benefits to power generation projects under Mega Power Policy upto the Scheduled
+COD of the Power Station by Government of India at least thrity (30) days prior to
+Bid Deadline;
+
+It may be noted that noe of the Procurers, Authorised Representative and PfC, nor
+their directors, employees or advisors/consultants make any representation or
+warranty, express or implied, or accept any responsibility or liability, whatsoever, in
+respect of any statements or omissions made in the water intake study report and
+Project Report, or the accuracy, completeness or reliablility of information contained
+therein, and shal incur no liability under any law, statute, rules or regualtions as to
+the accuracy, reliability or completeness of such water intake study report and Project
+Report, even if any loss or damage is caused to the Selected Bidder by any act or
+omission on their part. The Ministry of Power and the State Government of Madhya
+Pradesh have expressed their support to the Seller, on best endeavour basis, in
+enabling the Seller to develop the Project.
+
+CIVIL APPEAL NO. 11826 OF 2018 etc.
+
+5
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+2.7.2.1 The Bidder shall make independent enquiry and satisfy itself with respect to all the required
+information, inputs, conditions and cirumstances and factors that may have any effect on his Bid. In
+assessing the Bid, it is deemed that the Bidder has inspected and examined the site conditions and
+its surroundings, examined the laws and regulations in force in India, the transportation facilities
+available in India, the grid conditions, the conditions of roads, bridges, ports, etc. For unloading
+and/or transporting heavy pieces of material and has based its design, equipment size and fixed its
+price taking into account all such relevant conditions and also the risks, contingencies and other
+circumstances which mayh influence or affect the supply of power. 2.7.2.2 In their own interest, the
+Bidders are requested to familiarize themselves with the Electricity Act, 2003, the Income Tax Act
+1961, the Companies Act, 1956, the Customs Act, the Foreign Exchange Management Act, IEGC, the
+regulations framed by regulatory commissions and all other related acts, laws, rules and regulations
+prevalent in India. The procuers shall not entertain any request for clarifications from the Bidders
+regarding the same. Non-awareness of these laws or such information shall not be a reason for the
+Bidder to request for extension of the Bid Deadline. The Bidder undertakes and agrees that before
+submission of its Bid all such factors, as generally brought out above, have been fully investigated
+and considered while submitting the Bid.
+
+ANNEXURE 5 SITE DETAILS ALONG WITH SITE MAP The Site is located near Sasan village in
+Singrauli Tehsil in District Sidhi of Madhya CIVIL APPEAL NO. 11826 OF 2018 etc. Pradesh. The
+nearest Railway Station is Shakti Nagar (18km) and nearest Airport is Varanasi (250 km). The site is
+situated at 23°58’30”N latitude and 82°37’03”E longtitue. About 3500 acres of land has been
+identified for the project covering villages of Sidhikala, Harhawa, Tiara, Jhanjitola and Sidhikhud.
+Out of this, about 2000 acres of land has been identified for main plant, about 1100 acres for ash
+disposal/dyke and 400 acres for colony.
+
+Water source for the project is Govind Ballabh Pant Sagar (Rihand Reservoir), which is about 6-7
+km from the main plant site. Water will be brought to site by suitable pumping arrangement and
+pipelines. Coal blocks (mines) in Singrauli area with reserves of about 700-800 million tons will be
+allocated as Captive Coal Blocks (mines) for this Project. The Project will require the development of
+a coalmine with production of 18-20 million tons per annum (MTPA) Vicinity map of Site is
+enclosed.
+
+Further details are provided in the Project Report."
+
+(9) We may, at this juncture, notice also that the Special Purpose Vehicle which was put in place for
+carrying out the activities also, commissioned a study by WAPCOS (a public sector body of the
+Central Government). It was tasked with the project to CIVIL APPEAL NO. 11826 OF 2018 etc.
+ascertain about the availability of water inter alia. Water is an indispensable factor for the successful
+running of the power plant which was contemplated. WAPCOS made available its report on
+03.08.2006.
+
+(10) Reliance Power Limited applied pursuant to the RFP. Though, initially, its bid was not the
+lowest, but on account of the fact that the lowest bidder was found to be not eligible, Reliance Power
+Limited emerged as the lowest bidder. In keeping with the conditions, Reliance Power Limited
+
+6
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+acquired 100 per cent share holding of the first respondent and it was favoured with the Letter of
+Intent on 01.08.2007. It entered into a Power Purchase Agreement (hereinafter referred to as ‘PPA’)
+on 07.08.2007. In the second week of December, 2007, it would appear that the first respondent
+which now stood transformed as a fully owned company of the successful bidder Reliance Power
+Limited, commissioned a new Study by WAPCOS. WAPCOS submitted its report on 04.04.2008.
+We must at this juncture notice that ‘21.07.2007’ has been CIVIL APPEAL NO. 11826 OF 2018 etc.
+determined as the cut off date, the relevance of which will be unfolded in the later part of the
+judgment.
+
+(11) The PPA contemplated two phases. The first phase was the construction of the power plant. The
+second was the operation of the power plant. The PPA was to be enforced for a period of 25 years.
+Therefore, we can safely characterise it as a long term agreement to purchase power. Since this was
+a case of competitive bidding, leading to the finding out of the lowest bidder, but faced with the
+regime under Section 63 of the Act which stood attracted, after the PPA was entered into, a petition
+was moved before the Commission for adopting the rates as contemplated in the PPA. By order
+dated 17.10.2007, the Commission after considering the relevant matters, adopted the rates in
+accordance with the PPA. It is, thereafter, that the present petition was moved by the first
+respondent on 19.02.2013. It is relevant at this stage to set out certain portions of the petition. The
+petition has been filed under Section 79 of the Act read with the CIVIL APPEAL NO. 11826 OF 2018
+etc. statutory framework governing procurement of power through competitive bidding and articles
+13 and 17 of the PPA between the parties for compensation due to change in law ‘during the
+construction period’. After setting out the facts which we do not consider relevant to advert to, the
+following is noticed.
+
+“5. It is submitted that the following Changes in Law have occurred during the Construction Period
+of the Project which have caused the Capital Cost of the Project to increase substantially:
+
+a) Increase in Declared price of Land for the Project which includes the land for the
+Power Station, the Moher, Moher-Amlohri Extension and Chhatrasal captive coal
+blocks;
+
+b) Increase in cost of implementation of the Resettlement and Rehabilitation Plan
+(“R&R Plan”) for the Moher, Moher-Amlohri Extension and Chhatrasal captive coal
+blocks;
+
+c) Increase in cost of Geological Reports for the Moher, Moher-Amlohri Extension
+and Chhatrasal captive coal blocks;
+
+d) Increase in cost of compensatory afforestation for the Moher, Moher-Amlohri
+Extension and Chhatrasal captive coal blocks;
+
+e) Increase in cost of Water Intake system due to an incorrect assessment of
+conditions in the original report supplied to the bidders at the RFP stage;
+
+7
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+f) Levy of excise duty on cement and steel used in the Project; and
+
+g) Levy of Customs Duty on mining equipment CIVIL APPEAL NO. 11826 OF 2018
+etc. imported for the Project.” (12) Since, in this case, we are concerned only with two
+aspects, namely claims under clause(e) and clause(g) we deem it appropriate only to
+refer to the pleadings of the first respondent in regard to the same.
+
+Increase in cost of Water Intake System “65. As per Clause 1.4(v) of RFP for Sasan UMPP, the
+Procurers through the Authorized Representative had to provide water intake study report.
+WAPCOS (a premier Government of India agency) was appointed to conduct the water intake study.
+WAPCOS, as the expert agency identified the water intake pump house location and the pipeline
+route from the intake pump house to the power plant in its Report. This report was made available
+to all the bidders before bid submission so that the bidders could factor in the cost of the water
+intake system in preparation of their financial bid i.e., the tariff at which power would be supplied to
+the Procurers. The total estimated cost for the construction of water intake system for the location
+and route indicated in the report by WAPCOS was estimated to be approximately Rs.92 Crores. The
+WAPCOS Report along with the estimated cost are annexed herewith and marked as Annexure P- 24
+(Colly).” “66. After RPower acquired the Petitioner, WAPCOS was appointed to confirm the CIVIL
+APPEAL NO. 11826 OF 2018 etc. technical feasibility as part of detailed engineering exercise.
+During this process, it was discovered that the water intake location as finalized by WAPCOS before
+the bidding was not an appropriate location and does not ensure reliable supply of water to the
+power plant. It was also found that the water intake at the original location indicated by WAPCOS in
+the pre-bid report would have resulted in shutdown of power plant for a considerable period during
+the lean season.” “67. Thereafter, WAPCOS conducted detailed bathymetric studies and
+recommended a new location for water intake, which was 23 km from the power plant as against
+12.5 km initially indicated at the time of bidding (original location). It was highlighted that new
+location would ensure reliable water supply to the power plant. Due to increase in distance,
+submergence area along the route and construction time, there has been considerable increase in
+the cost of the water intake system as detailed below. The report of WAPCOS recommending the
+revised location is annexed herewith and marked as Annexure p-25.” “68. The cost for the
+construction of water system for the new location is Rs. 244 Cr. Out of the aforesaid amount, a sum
+of Rs.185 Crores has already been incurred and balance of Rs. 59Crores is to be spent. The estimated
+increase in cost of the water intake system due to the change in location of the water intake system is
+Rs.152 Crores. Since this increase is directly attributable to the error in the WAPCOS report
+provided to the bidders at the pre- bid stage, the Petitioner is required to be compensated for the
+same. The cost break up CIVIL APPEAL NO. 11826 OF 2018 etc. for the new/appropriate location
+which will ensure reliable water supply is annexed herewith and marked as Annexure P-26.” “75. It
+is submitted that the UMPP Policy envisages domestic coal based UMPPs as integrated projects
+where the power station and the captive coal mines are treated as an integrated unit. This is also
+recognized in the PPA as well as other project documents like the RFQ and the RFP.” “76. As per
+Notification 21 of 2002-Customs dated 01.03.2002 issued by the Ministry of Finance, Government
+of India, the customs duty on goods required for setting up mega power projects has been
+prescribed as nil meaning thereby that no customs duty will be levied on goods imported for setting
+up a mega power project. A copy of Notification 21 of 2002-Customs is annexed herewith and
+
+8
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+marked as Annexure P-32.” “77. Sasan UMPP was accorded in-principle mega power project status
+as per Ministry of Power's letter no. F.No. 12/18/2006-P&P dated 20.10.2006. The final certificate
+was issued on 21.09.2007.” “78. Sasan UMPP is an integrated power project with captive coal mines
+viz. Moher, Moher Amlohri Extension and Chhatrasal Coal Blocks. The captive coal mines allocated
+for Sasan UMPP form an integral and essential part of the Project and any equipment imported in
+relation to the captive coal mines would therefore be treated as goods imported for setting up the
+Project.” CIVIL APPEAL NO. 11826 OF 2018 etc. “79. The Petitioner was required to import mining
+equipment for setting up the captive coal mines from which coal will be sourced for the Project since
+the required mining equipments were not available in India.” “80. On 05.05.2011, the Petitioner
+applied to the Energy Department, Government of Madhya Pradesh for recommendation letter to
+import mining equipments for Sasan UMPP under nil custom duty as is applicable for the other
+equipment such as power plants of the Project. This application was premised on Notification 21 of
+2002-Customs. However, vide an Office Memorandum dated 17.06.2011, the Ministry of Power has
+intimated that the exemption for customs duty for UMPPs is given only with respect to power
+equipment, which was forwarded to Petitioner by Government of Madhya Pradesh on 20.06.2011.
+Copies of letters dated 05.05.2011 and 17.06.2011 are annexed herewith and marked as Annexure
+P-33(Colly)” “81. Based on Ministry of Power's Office Memorandum's, the Energy Department,
+Government of Madhya Pradesh declined to issue the recommendation letter which was required by
+the Petitioner to claim nil customs duty. In view of the refusal by Energy Department, Government
+of Madhya Pradesh and in the interest of the Project and power consumers, Petitioner had to seek
+recommendation letter from Energy Department, Government of Madhya Pradesh to import mining
+equipments at project import rate of 20.94%, which is now reduced to CIVIL APPEAL NO. 11826 OF
+2018 etc. 16.85% with effect from 17.03.2012.” “82. The decision of the Ministry of Power detailed in
+its office memorandum dated 17.06.2011 and refusal by Energy Department, Goverment of Madhya
+Pradesh to provide recommendation letter to import mining equipments for Sasan UMPP under nil
+custom duty amounts to a Change in Law under Article 13.1 of the PPA and Petitioner is entitled to
+be compensated for the same.” “83. The total amount of customs duty paid by the Petitioner on
+mining equipments imported for Sasan UMPP is Rs. 361.47 Crores till date. The total custom duty
+for mining equipments is estimated to be about Rs. 531 Crores. The details of the custom duty paid
+on mining equipments and estimated to be paid in future are annexed herewith in Annexure P-34
+(Colly).” “84. It is submitted that the Petitioner has already surpassed the indicative costs provided
+by the Procurers and in certain instances as indicated hereinabove, the Petitioner will be required to
+pay the increased Capital Cost in the future. In this regard, the Petitioner is claiming the following
+reliefs:
+
+(a) In relation to the Changes in Law where the additional Capital Cost has already
+been incurred, this Hon'ble Commission may direct the Procurers to compensate the
+Petitioner for such increase in Capital Cost; and
+
+(b) In relation to the Changes in Law for CIVIL APPEAL NO. 11826 OF 2018 etc.
+which the liability is yet to be incurred, the Petitioner is seeking a declaration from
+this Hon'ble Commission that the increased expenditure amounts to Change in Law.
+The actual payment will be claimed as and when it falls due.” “89. From the above
+discussions and facts, it is clear that:-
+
+9
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+(a) One of the objectives of the National Electricity Policy and the Tariff Policy is to
+secure commercial viability of electricity sector while ensuring fair pricing and
+quality of supply.
+
+(b) Power procurement under Section 63 of the Act is governed by the statutory
+framework comprising (i) Section 63 of the Act, (ii) Government of India's Guidelines
+and (iii) standard documents being RFP and PPA.
+
+(c) In terms of Section 63 of the Act the successful bid must be selected consistent
+with the guiding principles under Section 61 of the Act meaning thereby that while
+adoption of tariff under Section 63 of the Act, the principles as laid down under
+Section 61 need to be complied.
+
+(d) Power procurement pursuant to the statutory framework constitutes a statutory
+contract in terms of the pre-approved and finalized PPA governed by provisions of
+the Act as well as the Guidelines.
+
+(e) The PPA envisages the adjustment of CIVIL APPEAL NO. 11826 OF 2018 etc.
+tariff by this Hon'ble Commission to restore/restitute the party adversely affected
+(the Petitioner in the present case).” “90. It is also pertinent to note that under
+Section 79(1)(b) of the Act, this Hon'ble Commission has been given the power to
+regulate the tariff of generating companies like the Petitioner which have a composite
+scheme for generation and sale of electricity in more than one state.” “91. The present
+Petition has been filed for compensation on account of Changes in Law which have
+impacted the Capital Cost of the Project as well as for compensation for costs
+incurred in excess of the indicative costs provided by the Procurers, which were the
+basis for formulation of the financial bid of Rpower.” “92. The Petitioner had
+approached the Procurers for an amicable resolution.
+
+However, all efforts made by the Petitioner to seek an amicable resolution to the unforeseen and
+undeserved commercial implication with the Procurers have proved fruitless. In this backdrop, it
+has become imperative and necessary for the Petitioner to invoke jurisdiction of this Hon’ble
+Commission to issue appropriate orders as prayed for in the Petition.” “93. It is submitted that the
+present Petition has been filed invoking:-
+
+(a) Section 79(1)b) of the Act under which CIVIL APPEAL NO. 11826 OF 2018 etc.
+this Hon'ble Commission has the power to regulate the tariff of the Petitioner.
+
+(b) Section 79(1)(f) of the Act which gives this Hon'ble Commission the power to
+adjudicate upon disputes involving the Petitioner.
+
+(c) Regulations 82, 92 and 113 of the Central Electricity Regulatory Commission
+(Conduct of Business) Regulations, 1999.
+
+10
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+(d) Article 13 of the PPA read with Article 17 and Paragraph 5.17 of the Competitive
+Bidding Guidelines in terms of which this Hon’ble Commission has the power to
+adjudicate upon any dispute that arises claiming any change in or regarding
+determination of the tariff or any tariff related matters, or which partly or wholly
+could result in change in tariff.” “104. As detailed in Paragraphs 75-83 above,
+Notification 21 of 2002-Customs issued by the Ministry of Finance, Government of
+India granted 100% exemption from Customs duty to goods required for setting up
+mega power projects. The Petitioner was required to import equipment for operation
+of the coal mine which is an integral part of the Project.” “105. It is submitted that as
+per the said Notification, any entity which intended to claim the customs duty
+exemption was required to apply to the Sponsoring Authority for an exemption
+certificate. This was essential to claim the customs duty CIVIL APPEAL NO. 11826
+OF 2018 etc. exemption. In this regard, the Petitioner wrote to the Government of
+Madhya Pradesh to recommend the Petitioner’s case to the Commissioner of
+Customs on 5.5.2011 for nil custom duty on mining equipments.” “106. It is
+submitted that vide an Office Memorandum dated 17.06.2011, the Ministry of Power
+intimated Government of Madhya Pradesh that the exemption for customs duty for
+UMPPs is given only with respect to power equipment. The total amount of customs
+duty paid by the Petitioner on mining equipments imported for Sasan UMPP is
+Rs.361.47 Crores till date. Total custom duty for mining equipments is estimated to
+be about Rs. 531 Crores.” “107. It is submitted that the decision of the Ministry of
+Power amounts to a Change in Law under Article 13.1 of the PPA and the Petitioner is
+entitled to be compensated for the same. It is further submitted that the Petitioner
+not being allowed to import mining equipment under nil customs duty as is granted
+for the other equipment such as power plants of the Project qualifies as Change in
+Law under Article 13.1 of the PPA.” “108. It is submitted that as per RFP for Sasan
+UMPP, the Procurers had to provide water intake study report. This study was
+conducted by WAPCOS and the report was made available to all the bidders before
+bid submission. The cost of the water intake system as per the report was
+approximately Rs.92 Crores. This estimation was factored CIVIL APPEAL NO. 11826
+OF 2018 etc. into the bid at the time of submission of the financial bid.” “109. It is
+submitted that after Rpower acquired the Petitioner, WAPCOS was tasked with
+confirming the technical feasibility during the detailed engineering exercise.
+
+During this process, it was discovered that the water intake location as intimated in the pre-bid
+report was not appropriate. After, conducting another detailed study, WAPCOS determined that a
+new location would be suitable. The new location is 23 km from the power plant as against 12.5 km
+initially indicated at the time of bidding (original location).” “110. It is submitted that due to the
+increase in distance, submergence area along the route and construction time there has been
+considerable increase in cost of the water intake system. The cost for the construction of water
+system for the new location is Rs. 244 Cr. The estimated increase in cost of the water intake system
+due to the change in location of the water intake system is Rs.152 Crores.” “111. It is submitted that
+the increase in cost of the water intake system is on account of the errors in the report provided by
+the Procurers and therefore, the Procurers are obligated for compensating the Petitioner for the
+
+11
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+difference in cost. It is further submitted that since the water pipeline corridor is part of the Power
+Station Land and the water intake pipeline CIVIL APPEAL NO. 11826 OF 2018 etc. is an integral
+part of the Power Station, any change in the indicative cost of the water intake system will be
+covered under Change in Law.” “120. Section 79 of the Act, inter alia, empowers the Hon’ble
+Commission to:-
+
+(a) Regulate the tariff of generating companies other than those owned or controlled
+by the Central Government if such generating companies entered into or otherwise
+have a composite scheme for generation and sale of electricity in more than one
+State; and
+
+(b) To adjudicate upon the disputes involving the distribution companies or
+transmission licensees with regard to the matters connected with regulation of tariff
+of generating companies.” “128. It is submitted that the present case involves a
+situation where the compensatory mechanism under the PPA for compensation for
+Change in Law has failed. It does not meet the objective of restoring an affected party
+to the same economic condition as if the change in law had not occurred. Therefore,
+this is a fit case for this Hon’ble Commission to exercise its powers under Section 79
+and devise a mechanism to uphold the objective and purpose of Article 13 – to
+provide economic restitution.” “129. It is further submitted that PPA envisages a
+scenario where this Hon’ble CIVIL APPEAL NO. 11826 OF 2018 etc. Commission can
+interfere with the issues relating to the claim made by a party for any change and/or
+determination of the tariff or any matter relating to the tariff or claims made by any
+party which partly or wholly related to any change in the tariff or determination of
+any such claim which can result in change in the tariff. In this context, Articles 13 and
+17 are noteworthy.
+
+While Article 13 of the PPA envisages tariff adjustment in the event of “Change in Law”, Article 17 of
+the PPA provides for dispute resolution, by the Hon’ble Commission in case of claim made by any
+party for any change in or determination of tariff or any matter related to tariff or claims made by
+any party, which partly or wholly relate to any change in the tariff or determination of any of such
+claims could result in change in tariff.” “142. The Petitioner therefore most humbly and respectfully
+prays that this Hon’ble Commission be pleased to adjudicate upon the present Petition to:-
+
+(a) Declare that the items set out in Paragraph 5 above as Change in Law during
+Construction Period and/or changes which has led to an increase in the Capital Cost
+of the Project;
+
+(b) Restitute the Petitioner to the same economic condition as if the said Changes in
+Law had not occurred and devise a mechanism by which the Petitioner is
+compensated for the aggregate financial impact and increase CIVIL APPEAL NO.
+11826 OF 2018 etc. in capital cost of account of the Changes in Law, the details of
+which are set out in Paragraph 113 above; and
+
+12
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+(c) Pass any such other and further reliefs as this Hon’ble Commission deems just
+and proper in the nature and circumstances of the present case.” (13) After exchange
+of pleadings, the Commission passed the order dated 04.02.2015. Since we are in
+these appeals to be detained only by two aspects, we notice the following findings:
+
+“30. The petitioner has submitted that as per Clause 1.4(V) of RFP for Sasan UMPP,
+the Procurers through the Authorized Representative had to provide water intake
+study report. WAPCOS (a premier Government of India agency) was appointed to
+conduct the water intake study. WAPCOS, as the expert agency identified the water
+intake pump house location and the pipeline route from the intake pump house to the
+power plant in its Report. This report was made available to all the bidders before bid
+submission so that the bidders could factor in the cost of the water intake system in
+preparation of their financial bid i.e. the tariff at which power would be supplied to
+the Procurers. The total estimated cost for the construction of water intake system for
+the location and route indicated in the report by WAPCOS was estimated to be
+approximately (cid:134)92 Crore.
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. After RPower acquired the project, WAPCOS
+was appointed to confirm the technical feasibility as part of detailed engineering
+exercise. During this process, it was discovered that the water intake location as
+finalized by WAPCOS before the bidding was not an appropriate location and does
+not ensure reliable supply of water to the power plant. It was also found that the
+water intake at the original location indicated by WAPCOS in the pre-bid report
+would have resulted in shutdown of power plant for a considerable period during the
+lean season. Thereafter, WAPCOS conducted detailed bathymetric studies and
+recommended a new location for water intake, which was 23 km from the power
+plant as against 12.5 km initially indicated at the time of bidding (original location).
+It was highlighted that new location would ensure reliable water supply to the power
+plant. Due to increase in distance, submergence area along the route and
+construction time, there has been considerable increase in cost of the water intake
+system as per following details (Annexure P-26 of the petition) and as per the earlier
+report of WAPCOS:-
+
+S.     Cost Item                  As         per Current
+No.                               earlier        estimate
+WAPCOS Report
+((cid:134) Crore)           ((cid:134)
+Crore)
+1      Cost of Pump House                     21.00      62.97
+2      Cost of Bridge                         10.50
+3      Supply       of     Pipe               30.50      73.91
+line
+
+13
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. 4 Laying of pipe 16.70 57.97 line 5
+Mechanical 10.20 20.32 6 Electrical 3.50 4.02 7 Dredging for Pump 25.13 House 8
+Total 92.40 244.32
+
+31. MPPMCL has submitted that it is an expense incurred by the petitioner but is not
+covered under “Change in Law” under Article 13.1.1 of the PPA. However, it is
+concluded that the cost has been incurred by the petitioner and exceeds the estimates
+given by the procurer's authorized representative prior to bid submission. HPCC has
+submitted that the price and other details given in the bidding document were by way
+of information and it was for the bidders to conduct independent enquiry and verify
+the information and details. There is no misrepresentation by the procurers or by the
+Bid Process Coordinators at the time of bidding in relation to water intake for the
+project. In view of the specific disclaimer and the requirement to conduct
+independent enquiry, the petitioner was required to make appropriate enquiries into
+the matter before bidding and the bidders were not entitled to proceed only on the
+basis indicative information given by the Bid Process Coordinator.
+
+32. We have considered the submission of the petitioner and respondent. As against
+the indicative cost of (cid:134)92.40 crore, the cost for the construction of water system for
+the new CIVIL APPEAL NO. 11826 OF 2018 etc. location is (cid:134)244 crore out of the
+aforesaid amount, a sum of (cid:134)185 crore has already been incurred and balance of (cid:134)59
+crore is to be spent. The estimated increase in cost of the water intake system due to
+the change in location of the water intake system is (cid:134)152 crore. The petitioner has
+submitted that since this increase is directly attributable to the error in the WAPCOS
+report provided to the bidders at the pre-bid stage, the petitioner is required to be
+compensated for the same.
+
+33. In our view, the claim is not covered under any of the provisions of Article 13.1.1
+of the PPA. The petitioner being aware that the cost of water intake system being
+indicative in nature and being not covered under the “Change in Law” under Article
+13 should have informed itself fully with the actual site conditions before preparing
+the bid and accordingly factored the possible estimates of water intake system while
+quoting the bid instead of relying on the indicative cost. In this connection, para
+2.7.2.1 of the RfP document provides as under:
+
+“2.7.2.1   The   Bidder   shall    make
+independent    enquiry   and    satisfy
+itself with respect to all the
+required     information,       inputs,
+conditions   and   circumstances    and
+
+factors that may have any effect on his Bid. In assessing the Bid, it is deemed that the
+Bidder has inspected and examined the site conditions of roads, bridges, ports etc. for
+CIVIL APPEAL NO. 11826 OF 2018 etc. unloading and/or transporting heavy pieces
+of material and has based its design, equipment size and fixed its price taking into
+
+14
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+account all such relevant conditions and also the risks, contingencies and other
+circumstances which may influence or affect supply of power.” Further para 4 of the
+RfP document provides that the pricing and other details given in the bidding
+documents are by way of information only and it was for the bidders to conduct
+independent enquiry and verify the details and information. Para 4 are extracted as
+under:
+
+“4. While the RFP has been prepared in good faith, neither the Procurers, Authorised
+Representative and Power Finance Corporation (PFC) nor their directors or
+employees or advisors/consultants make any representation or warranty, express or
+implied, or accept any responsibility or liability, whatsoever, in respect of any
+statements or omission herein, or the accuracy, completeness or reliability of
+information contained herein, and shall incur no liability under any law, statute,
+rules or regulations as to the accuracy, reliability or completeness of this RFP, even if
+any loss or damage is caused to the Bidder by any act or omission on their part.”
+CIVIL APPEAL NO. 11826 OF 2018 etc. Therefore, it is the responsibility of the
+petitioner to verify the suitability of the location of water intake and ensure reliable
+water supply for the power plant and workout the relevant approximate cost of water
+intake system independently and factor in the estimates in the bid so that a realistic
+cost is reflected in the bid. The petitioner having failed to do so, the increase in cost
+on account of this head is not admissible.” (14) As far as the question relating to
+imposition of customs duty on mining equipment is concerned, the same is dealt with
+in paragraphs 40 and 41.
+
+“40. We have considered the submission of the petitioner and respondents. The Notification
+No.49/2006 provides as under:
+
+Notification No. 49/2006-Customs In exercise of the powers conferred by sub-
+section (1) of Section 25 of the Customs Act, 1962 (52 of 1962), the Central
+Government, on being satisfied that it is necessary in the public interest so to do,
+hereby makes the following further amendments in the notification of the
+Government of India in the Ministry of Finance (Department of Revenue) No.
+21/2002- Customs, dated the 1st March, 2002, which was published in the Gazette of
+India, Extraordinary vide number G.S.R. 118(E), dated the 1st March, 2002, namely:-
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. In the said notification,-
+
+(I) in the Table, against S.No.400, for the entry in column (3), the following entry
+shall be substituted, namely:-
+
+“Goods required for setting up of any Mega Power Project, so certified by an officer
+not below the rank of a Joint Secretary to the Government of India in the Ministry of
+Power, that is to say-
+
+15
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+(a) an inter-state thermal power plant of a capacity of 700MW or more, located in the
+States of Jammu and Kashmir, Sikkim, Arunachal Pradesh, Assam, Meghalaya,
+Manipur, Mizoram, Nagaland and Tripura; or
+
+(b) an inter-state thermal power plant of a capacity of 1000MW or more, located in
+States other than those specified in clause (a) above;
+
+or
+
+(c) an inter-state hydel power plant of a capacity of 350MW or more, located in the States of Jammu
+and Kashmir, Sikkim, Arunachal Pradesh, Assam, Meghalaya, Manipur, Mizoram, Nagaland and
+Tripura; or
+
+(d) an inter-state hydel power plant of a capacity of 500MW or more, located in States other than
+those specified in clause (c) above”;
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. (II) in the Annexure, in Condition No. 86, for sub-clauses
+(ii) and
+
+(iii) of clause (a), the following shall be substituted, namely:-
+
+“(ii) the power purchasing State undertakes, in principle, to privatize distribution in
+all cities, in that State, each of which has a population of more than one million,
+within a period to be fixed by the Ministry of Power.”.
+
+[F.No.354/104/2003-TRU] It is noticed that the revised policy guidelines issued by
+Government of India, Ministry of Power vide its letter No. A- 118/2003-IPC dated
+2.8.2006 has stated that an inter-State thermal power plant of a capacity of 1000
+MW or more is eligible for grant of mega power status. It further states as under:
+
+“Zero Customs Duty: In terms of the notification of the Government of India in the
+Ministry of Finance (Department of Revenue) No. 21/2002- Customs dated 1.3.2002
+read together with No. 49/2006-Customs dated 26.5.2006, the import of capital
+equipment would be free of customs duty for these projects.”
+
+41. It is to be considered whether under the notification as stated above, mining
+equipments were exempted from customs duty.
+
+General Exemption No.122 under the Customs CIVIL APPEAL NO. 11826 OF 2018 etc. Notification
+No.21/2002 as amended from time to time contains the list of items which are exempted from
+customs duty. It is observed that Notification 21 of 2002-Customs clearly demarcates the power
+projects and mining projects separately. It is seen that at Ser No.399 of the list, coal mining projects
+are liable to pay customs duty. Ser No. 400 only exempts the mega power project from payment of
+customs duty and there is no mention that it includes captive power plants. Therefore, it cannot be
+
+16
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+said that as on the cut-off date, there was exemption on mining equipment and the petitioner had
+taken into consideration such exemption while quoting the bids. Nothing has been produced in the
+petition which could indicate that any such impression was given by the procurers or their
+representative prior to bidding. In view of the foregoing discussion, the submission of the petitioner
+that the decision of the Ministry of Power detailed in its office memorandum dated 17.06.2011 and
+refusal by Energy Department, Government of Madhya Pradesh to provide recommendation letter
+to import mining equipments for Sasan UMPP under nil custom duty amounts to a "Change in Law"
+under Article 13.1 of the PPA and the petitioner is entitled to be compensated for the same is not
+acceptable and hence no compensation would be available in this regard.” THE APPEAL BEFORE
+THE TRIBUNAL (15) This led to the appeal being filed by the first respondent under Section 111 of
+the Act. It is CIVIL APPEAL NO. 11826 OF 2018 etc. apposite that we set out the exact case which
+has been set up by the first respondent before the Tribunal.
+
+“9.5 The Report identified the water intake pump house location and pipeline route from the intake
+pump house to the power plant in its report. This report was made available to all the bidders before
+bid submission so that the bidders could factor in the cost of water intake system in preparation of
+their financial bids i.e., the tariff at which power be supplied to the Procurers. The total cost for the
+construction of water intake system for the location and route of indicated in the report by WAPCOS
+was estimated to be Rs.92 Crores. The water intake system is an integral part of the Project without
+with it is not possible to set up and operate the Project. The WAPCOS report along with estimated
+cost are annexed herewith and marked as Annexure A-14. 9.6 After RPower was declared the
+successful bidder and the Appellant Company was transferred to RPower, WAPCOS was re-
+appointed to confirm the technical feasibility as part of the detailed engineering exercise. During
+this process, it emerged that the water intake location as finalized by WAPCOS vide its earlier report
+prepared for PFC/ Procurers and made available to all bidders prior to bid submission was not an
+appropriate location and does not ensure reliable supply of water to the power plant. It also emerged
+that the water intake at the original location indicated by WAPCOS in the pre-bid report would have
+resulted in shutdown of the power plant for a considerable period in a year CIVIL APPEAL NO.
+11826 OF 2018 etc. during the lean season. Therefore, WAPCOS recommended a new location for
+water intake, which was 23 km from the power plant as against the 12.5 kms initially indicated at the
+time of bidding (original location). It was highlighted that the new location would ensure reliable
+water supply to the power plant. Due to increase in the distance, submergence area along the route
+and construction time, there has been considerable increase in the cost of water intake system due
+to change in location as detailed below. The report of WAPCOS recommending the revised location
+is annexed herewith and marked as Annexure A-15. 9.7 It is submitted that due to the change in
+location, cost for water intake system has increased on following counts:
+
+(a) While the route length itself increased to 23 kms, the increase in piping length
+increased from 24 km (2 Pipe Lines each of 12 Kms) to 59.5 km (2 Pipe Lines each of
+8 km & 3 Pipes each of 14.5 km)
+
+(b) Increased cost due to deeper Pump House.
+
+(c) Additional dredging for creation of intake channel for the offshore pump house.
+
+17
+
+(d) Additional cost due to HT transmission line.
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+There has been considerable increase of approximately Rs.176 Crores in cost of the water intake
+system, which now is estimated to be approximately Rs.268 Crores. The cost break-up for the new
+location for the water intake system is annexed herewith and marked as Annexure A-16.
+
+9.8 It is submitted that the increase in cost of the water intake system is on account of the errors in
+the report provided CIVIL APPEAL NO. 11826 OF 2018 etc. by the Procurers and therefore, the
+Procurers are required to compensate the Appellant for the difference in cost. 9.9 It is further
+submitted that since the water pipeline corridor is part of the Land for the Power Station and the
+water intake pipeline is an integral part of the Power Station, any change in the indicative cost of the
+water intake system is covered under Change in Law in terms of Article 13 of the PPA since it
+amounts to change in cost of land of the Project. In fact, the Ld. General Commission has noted in
+the impugned Order that the estimate for Declared Price of Land for the Power Station includes the
+Water Intake System. The operative part of the Impugned Order is reproduced below:
+
+“19. Change in the declared price of land is covered under “Change in Law”. The
+procurers have also agreed that this item of expenditure is admissible under “Change
+in Law”. The declared price of land for the Power Station was stated to be 190.677
+crore. This has been verified from the communication dated 23.10.2006 from the
+representative of the procurers to the bidders. This included the power plant area, the
+fuel transport system land, the water pipeline corridor and the ash pipeline corridor.”
+9.11 It is submitted that pre-bid site visit and project reports were prepared and made
+available by Authorized Representative (Power Finance Corporation) to all bidders.
+
+The disclaimer, if at all applicable, will only apply to such instances where the bidders were able to
+identify any issues or liability with reasonable diligence. Based on the information and material
+provided, there was no indication that the water CIVIL APPEAL NO. 11826 OF 2018 etc. intake
+system proposed in the WAPCOS Report was unfeasible. Therefore, the disclaimer does not absolve
+the Procurers of their liability to compensate the Appellant for the increase in cost. It is submitted
+that due to the error in WAPCOS’s report, the Appellant is faced with an additional burden of Rs.176
+Crore which has adversely impacted the project economics. It is submitted that the disclaimers
+contained in Para 2.7.2.1 and Para 4 of the RFQ ought not to be considered absolute in nature so as
+to prevent loading of costs which are incurred by the Appellant as a direct result of omission or error
+on part of the Procurers in providing information during the pre-bid stage. This approach is
+counter-intuitive to ensuring that the Appellants Project is able to supply cheap and affordable
+power to over 42 million consumers in the Procurer States. It is further submitted that the
+disclaimers cannot act as an absolute bar to the liability of the Procurers. Any duty to independently
+verify inputs, information factors etc. require only a reasonable duty of care. The grave technical
+deficiencies and huge differences between actual cost and estimates provided to the bidders defeat
+the fundamental objective of providing information to the bidders especially when the nature of
+expense in this case was of buying a report from a Government Company which had carried out a
+detailed study. The Appellant had no other option but to rely on the information provided by the
+authorized representative of the Procurers. Therefore, Ld. Commission’s reliance on the disclaimers
+
+18
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+contained in the bid documents to reject the claim of the Appellant is not sustainable.” (16) In
+regard to the complaint about the notification issued by the Joint Secretary in the CIVIL APPEAL
+NO. 11826 OF 2018 etc. Ministry of Power having brought about a change in law, we find the
+following complaint, inter alia:
+
+“9.20. It is submitted that as per Notification 21 of 2022- Customs dated 01.03.2002
+issued by the Ministry of Finance, Government of India, the customs duty on goods
+required for setting up mega projects has been prescribed as nil meaning thereby that
+no customs duty will be levied on goods imported for setting up a mega power
+project. Notification 21/2022- Customs which provides as under:
+
+“ S. Chapter or Description of Goods Standard Additional Condition No. Heading or
+Rate Duty Rate No. sub-heading (1) (2) (3) (4) (5) (6) 98.01 Goods required for
+setting up any Mega Power Project specified in List 42 if such Mega Power is (a) An
+inter-
+
+state thermal power plant of 1000 MW or more (b) an inter-state hydel power plant of a capacity of
+500 MW or more As certified by an officer not below the rank of joint secretary to the Government
+of India in the Ministry of Power.
+
+9.22 It is submitted that captive Coal Blocks being an integral part of the Project, the mining
+equipment would be covered under this provision as well. It is submitted that RFP clearly stated
+that Procurers through the Appellant (which was a wholly-owned subsidiary of PFC at that time)
+will procure a certificate from the Ministry of Power that the benefits of the Mega Power Policy
+would CIVIL APPEAL NO. 11826 OF 2018 etc. be extended to the Project till scheduled Commercial
+Operations Date of the Power Station. As per definition, Project includes captive mine and hence, it
+was Procurer’s obligation to provide for the exemption to the coal mining equipment.
+
+9.24 It may also noted that:-
+
+Xxx xxx xxx
+
+(b) PPA defines Project as power plant along with captive coal mines.
+
+9.35 It is submitted that the Appellant has set up an ultra-mega power project which comprises of
+captive coal mines. It is not separately indulging in mining activities. Moreover, the coal from the
+Project is being used only for the Project. The entire capital cost of the power project includes the
+cost of the coal mines. This is also evident from Article 13 of the PPA where increase in cost of land
+and R&R expenditure for the coal mines is included as change in law.
+
+Therefore, the finding that the captive coal mines are a separate activity and will fall under Serial
+No. 399 is incorrect and ought to be set aside.
+
+19
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+FINDINGS OF THE TRIBUNAL (17) As far as the complaint about the increased costs on account of
+change in water intake system, the following is the finding of the Tribunal.
+
+“12.4 After due consideration of the rival contentions of both the parties, what emerges is that after
+being declared as the CIVIL APPEAL NO. 11826 OF 2018 etc. successful bidder, the SPL with a view
+to affirm the technical suitability of the preliminary report of the WAPCOS on Water Intake System,
+re-engaged the same agency for finalization of the said report. It is not in dispute that the
+Consultant, WAPCOS reviewed its earlier report and came to a conclusion that the earlier location of
+Water Intake was not at proper place and would result in non- availability of water for the plant
+during lean period. It is relevant to note that based on the recommendations of WAPCOS, SPL
+decided to go ahead for selection of new location as recommended and got carried out the requisite
+design and engineering of the entire Water Intake System which resulted into longer piping system,
+increased submergence area along the route, additional construction period etc.. On account of
+these factors, the cost of Water Intake System went up by over Rs.176 crores. The learned counsel
+appearing for the Appellant pointed out that the judgment of this Tribunal in Nabha Power case is
+not applicable to the present case since no cost relating to seismic zone data was provided to Nabha
+whereas in the instant case, costs were provided to the bidders. The Appellant has further reiterated
+that para 2.7.2.1 and para 4 of RFP which were relied upon by the Respondent procurers cannot be
+taken as obsolute in nature so as to absolve procurers of their responsibility for providing grossly
+incorrect information leading to substantial increase in cost of Water Intake System.
+
+12.5 After thoughtful consideration of the submissions made by the learned counsel for CIVIL
+APPEAL NO. 11826 OF 2018 etc. the Appellant and the Respondents and the findings of the Central
+Commission, we find that while the responsibility of carrying out due diligence before bidding and
+verifying the correctness of information provided in the bid documents rested with the bidders, at
+the same time, Respondent procurers cannot justify providing grossly erroneous report on Water
+Intake System taking shelter under the disclaimer in the bid document. As a matter of fact, the water
+availability for a thermal power station of this magnitude on regular, reliable and uninterrupted
+basis is essential and is a vital input for successful operation of the plant. It is noticed that the report
+of WAPCOS supplied to bidders at the time of bidding was deficient in ensuring adequate water
+supplies throughout the year uninterrupted and if the same would have been taken for construction
+and implementation, the same could have resulted into huge loss to the Respondent procurers being
+deprived of power supply for some period of the year due to less/ non-availability of water during
+the lean period. It is not in dispute that Sasan UMPP is supplying power to the Respondent procurer
+at one of the most competitive tariff in the country. It is noted from the contentions of the
+Respondent procurers that such an issue has not been dealt with either in the PPA or in the
+competitive bidding guidelines issued by Ministry of Power under Section 63 of the Act, however, in
+view of the criticality of such situation, we opine that the matter needs afresh re-look for suitable
+redressal. While the Central Commission has correctly concluded that it does not qualify as change
+in law under CIVIL APPEAL NO. 11826 OF 2018 etc. Articles 13.1.1 of the PPA, it, however, needs to
+be addressed on the basis of settled principles of law and equity also, in the light of the Hon’ble
+Supreme Court findings in its judgment at Para 19 in Energy Watchdog vs. CERC dated 11.04.2017.
+Thus, we are of the considered view that this issue involving substantial additional expenditure
+basically arising out of erroneous report of the consultants needs to be re-examined afresh by the
+
+20
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+Central Commission. Hence, this issue is answered in favour of the Appellant.” (18) In regard to the
+complaint relating to the O.M. dated 17.06.2011 forming change in law, we note the following
+findings:
+
+“14.5 We have considered the submissions of the learned counsel for the Appellant
+and learned counsel for the Respondents along with the consideration of the Central
+Commission on this issue pertaining to the claims of the Appellant regarding
+compensation on account of additional payment towards custom duty on mining
+equipment. After careful consideration and critical evaluation of the same, the key
+question arises for consideration, whether the equipment required for captive coal
+mines allocated to UMPP should be considered at par with the equipment required
+for setting up the power plants as far as exemption from the custom duty is
+concerned. The contention of the Appellant that the captive coal mines allocated to
+Sasan UMPP are integral & essential part of the project as a whole and CIVIL
+APPEAL NO. 11826 OF 2018 etc. as such, the exemption of custom duty was
+applicable to all equipments being imported for the entire project i.e. captive coal
+mines as well as power plants. It is not in dispute that the captive coal mines were
+allotted for UMPP for its exclusive use for power generation and in no way, meant for
+commercial utilization elsewhere.
+
+14.6 In this regard, we also take the note of Hon’ble Supreme Court directions in
+judgment dated 24.08.2014 in Manohar Lal Sharma Vs. Principal Secy., in
+W.P.(CRL) 120 of 2012 (Para 158) that coal from captive coal mines is to be used for
+UMPP alone and no diversion of coal for commercial exploitation would be
+permitted. Keeping these facts in view, we notice the glowing difference between an
+independent coal mines up for exploitation and selling coal on commercial lines and
+a captive coal mine set up to meet requirement of UMPP only to generate power for
+the ultimate benefit of the Respondent procurers and in turn, consumers for
+obtaining electricity at cheaper rates. The actual positions purported the assumption
+made by the Appellant that the customs duty exemptions will be available for import
+of the equipment for the entire project including captive mines and power plants. We
+find force in the argument of the learned counsel for the Appellant that being the
+integral and inseparable part of the UMPP, the custom duty rates applicable for stand
+alone coal mining projects would not be applicable in the present case and the
+exemption would need to be given effect to.
+
+We, thus opine that the Central Commission CIVIL APPEAL NO. 11826 OF 2018 etc. appears to
+have been mechanically guided by the mere description of the relevant entry (Sl.No.399 & 400) in
+the said custom duty notifications and has not appreciated that the captive coal mines being integral
+part of the UMPP cannot be equated to a stand alone coal mines, having commercial line of
+utilization. The Appellant was thus right in assuming that Custom Duty exemption will be available
+for the coal mining equipments. As such, this issue needs to be examined afresh in accordance with
+law and various provisions of the RFQ/RFP/PPA. Therefore, we answer this issue in favour of the
+Appellant.” (19) On the basis of the aforesaid findings, the Tribunal remanded the matter back to the
+
+21
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+Commission. We may also notice the sequel to the impugned judgment. Pursuant to the remand, the
+Commission reconsidered the matter in regard to the water intake. The Commission ordered
+payment of sum of Rs.176 crores. As far as the claim for compensation on the basis that the issuance
+of the office memorandum by the Joint Secretary in the Ministry of Power having brought about a
+change in law, it was found that the goods in question had been imported not by the first respondent
+but by its parent company. This, in turn, has triggered two sets of CIVIL APPEAL NO. 11826 OF
+2018 etc. appeals again before the Tribunal and they are still pending. Their fate, undoubtedly, will
+depend upon the decision which we will be rendering in these cases.
+
+(20) We have heard Mr. P. Chidambaram, Mr. Dhruv Mehta, Mr. Rana Mukherjee, Mr. M. G.
+Ramachandran, Mr. G. Umapathy, learned senior counsel, assisted by Mr. Nikunj Dayal and Ms.
+Pallavi Sehgal. We have also heard Mr. Shubham Arya, learned counsel appearing on behalf of the
+appellant in one of the appeals. On the other hand, we also heard Mr. Sajjan Poovayya, learned
+senior counsel assisted by Mr.Rahul Kinra, learned counsel and Mr. Amit Kapoor, learned counsel.
+
+SUBMISSION OF APPELLANTS (21) Shri P. Chidambaram, learned senior counsel appearing for
+the appellant, would submit that the Tribunal has clearly acted in error and illegally in passing the
+impugned order.
+
+(22) He would submit that as far as the finding CIVIL APPEAL NO. 11826 OF 2018 etc. given by the
+Tribunal in regard to the water intake system being located at a different place, is concerned, the
+Tribunal agreed with the Commission that there was no change in law. Once, it was found that there
+was no change in law, there is no power with the Tribunal to do what it did. The PPA signifies an
+agreement between the parties. The PPA goes into meticulous details. It follows an internationally
+competitive bidding and the obligations of the parties have been carved out and articulated with
+great care. Once the party, viz., the first respondent went to the Commission complaining that there
+is a change in law and it was found that there is no change in law, there ended the jurisdiction of the
+Tribunal. Instead of terminating the lis, the Tribunal has clearly strayed outside its jurisdiction in
+granting relief on the basis that report of WAPCOS was grossly erroneous. In this regard, he enlisted
+in support of his contention, various clauses which unambiguously disclaimed any liability with the
+procurers on account of any inaccuracies which may CIVIL APPEAL NO. 11826 OF 2018 etc. be
+reflected in the WAPCOS report. A report submitted by WAPCOS which is a public sector body was
+only by way of providing information. The bidders were provided with the report well before they
+decided to put in their bids. Having regard to the various disclaimer clauses, it did not lie in their
+mouth to thereafter seek to construct a case based on the report being erroneous. In this regard, it is
+pointed out that the clauses clearly indicate that the bidder was to satisfy itself by conducting a
+study of the site. Nothing prevented the first respondent from carrying out inspection of the site and
+verifying for itself the information which was provided through the report of the WAPCOS. (23) Mr.
+P. Chidambaram, learned senior counsel, further pointed out that a perusal of the second WAPCOS
+report, which is the sole basis for the huge claim raised by the first respondent, would show that the
+second report does not, in any manner, rubbish the first report. It is not in dispute, it is pointed out,
+that the procurers were in no way associated with the carrying out of the second CIVIL APPEAL NO.
+11826 OF 2018 etc. WAPCOS report. Unilaterally, the first respondent without any basis gets the
+second report commissioned and it is on the said basis alone that the claim was made and what is
+
+22
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+more, allowed by the Tribunal. This is clearly impermissible. As regards the claim for compensation
+alleging change in law brought about by the Office Memorandum issued by the Joint Secretary is
+concerned, in the first place, it is pointed out that the proper thing for the first respondent to do
+would have been to take up the matter with the Department and claim a refund and he would
+submit it is strange instead of doing that the burden is sought to be passed on to the procurers and
+which, in turn, would necessarily be passed on to the ultimate consumers. (24) Further, it is pointed
+out that the Tribunal has actually proceeded to take into consideration the earlier notifications
+which prevailed at the time of the cut off date with reference to which alone change in law is
+projected. Thereafter, it has come to the conclusion that for the goods imported from abroad for the
+purpose of the captive CIVIL APPEAL NO. 11826 OF 2018 etc. mines, there was an exemption. Such
+an inquiry itself could not have been done. In other words, it is not a case where the first respondent
+had indisputable material on hand which established unambiguously that there was a change in law.
+This is for the reason that there is no material to establish that prior to the cut off date, the goods
+which are the subject matter of dispute, were exempt under the notification. On the other hand, our
+attention is drawn to the decision of the Advance ruling authority which has gone into the issue and
+found that goods in question were not exempt. In fact, it is the contention of the appellants that the
+office memorandum issued by the Joint Secretary, Ministry of Power, merely follows the advance
+ruling.
+
+(25) Another argument which is raised in this regard is that the Joint Secretary in the Ministry of
+Power is not the final Governmental authority within the meaning of clause 13.1.1. What we are
+concerned with is notification issued under Section 25 of the Customs Act. It is not as if any
+authority which is CIVIL APPEAL NO. 11826 OF 2018 etc. competent within the meaning of Article
+13.1.1 has issued a notification or even an interpretation within the meaning of the said article which
+has resulted in a change in law within the meaning of Article 13.1.1.
+
+(26) We have also heard Shri Dhruv Mehta, as we have already stated. We have heard the other
+senior counsel who have essentially adopted the arguments which have been addressed by Mr.
+P.Chidambaram, learned senior counsel, and they are one in contending that the Tribunal has
+strayed outside the contours of its jurisdiction and this has resulted in an order which is clearly
+illegal and erroneous. SUBMISSIONS OF THE FIRST RESPONDENT (27) Per contra, Mr. Sajjan
+Poovayya, learned senior counsel for the first respondent, took us through the other side of the
+picture and projected a totally different scenario. He would point out, in the first place, that the
+Court may not view the PPA in question as an ordinary contract. He pointed out that what is at stake
+is the interpretation to be CIVIL APPEAL NO. 11826 OF 2018 etc. placed on a long term power
+procurement contract. It is not as if in such a contract, the matters are fixed with reference to the
+point of time when the contract is entered into. It is not cast in stone, in other words. It is open to
+change. More appropriately, it is open to regulation. We are invited to consider that the Act
+represents a paradigm shift from the previous regime under which the price of power was fixed
+essentially at the whims and caprice of the State Electricity Boards. There was a stagnation in the
+production and supply of power. It is realising the need for increasing private participation in the
+generation of power that the Act was enacted in the year 2003. Being the subject matter of
+regulations means that tariff was open to be revisited from time to time. It is precisely this regime
+which is reflected by Section 79 of the Act. It is further pointed out that the complaint of the
+
+23
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+appellants regarding the Tribunal in regard to the water intake system despite agreeing with the
+Commission that there was no change in law rendering the findings it did and CIVIL APPEAL NO.
+11826 OF 2018 etc. therefore, being unsustainable, the Court may consider that in fact there was a
+change in law. This argument is sought to be buttressed with reference to the provisions of clause
+(iii) of Article 13.1.1. It is contended, in other words, that a perusal of the various clauses of the PPA
+would show that the procurers (the appellants) were obliged under the contract to provide initial
+consent. One of the initial consents related to the water linkage for the project. He would submit
+that in view of the provisions of Schedule II to the PPA the initial consent also consisted of carrying
+out the task of making available land for the power plant and for the laying of the pipeline. Since as
+it turned out and as supported by the second report of the WAPCOS, there was clearly insufficient
+availability of water at the site supported by the first report, the first respondent was compelled to
+take water from a distant point of the reservoir in question. This led to the colossal increase in the
+expenditure towards laying of the pipeline inter alia. This constituted, therefore, a change in law.
+CIVIL APPEAL NO. 11826 OF 2018 etc. (28) As far as the contention based on the disclaimer
+clauses which are relied upon by the appellant is concerned, it is pointed out that the width of the
+disclaimer clause could not be stretched to the point that is canvassed by the appellants. We are
+dealing with a case where a public sector unit viz., WAPCOS has given its report. Not unnaturally,
+the first respondent relied upon the same. It is factored in its price and once it is found that the
+report was entirely fallacious, no shelter can be sought by the appellants under the disclaimer
+clauses. Our attention was drawn to various judgments. They include Energy Watchdog v. Central
+Electricity Regulatory Commission and Others (2017) 14 SCC 80, Uttar Haryana Bijli Vitran Nigam
+Ltd. & Anr. v. Adani Power Limited & Ors. (2019) 5 SCC 325, Gujarat Urja Vikas Nigam Ltd. v. Essar
+Power (2008) 4 SCC 755, Skandia Insurance Co. Ltd. v. Kokilaben Chandravan & Ors. (1987) 2 SCC
+654, DLF Universal Limited v. Director, Town and Country Planning Department, Haryana (2010)
+14 SCC 1 and Sumitomo CIVIL APPEAL NO. 11826 OF 2018 etc. Heavy Industries v. Oil and Natural
+Gas Commission of India (2010) 11 SCC 296, Nabha Power Limited v. PSPCL (2018) 11 SCC 508.
+
+(29) The respondents have also relied upon the judgments of this Court which are detailed
+hereinafter essentially for the proposition that there is power under Order XLI Rule 22 and Rule 33:
+
+Prahlad & Ors. v. State of Maharashtra & Anr. (2010) 10 SCC 458, State of Punjab &
+Ors. v. Bakshish Singh (1998) 8 SCC 222, Mahant Dhangir & Anr. v. Madan Mohan &
+Ors. (1987) (Supp) SCC 528.
+
+(30) It is contended by Mr. Sajjan Povayya, learned senior counsel that there is indeed power, at any
+rate, under the provisions of Section 79(1)(b) of the Act to revisit the fixation of tariff de hors even
+the specific relief which is contemplated under the contract. In this regard, emphasis is laid on the
+fact that clauses 4.7 and 5.1.17 of the guidelines came to be amended and it is the amended
+guidelines which apply to the facts of the case. That it is the amended guidelines which were applied
+can be perceived from the fact that the amended CIVIL APPEAL NO. 11826 OF 2018 etc. guidelines
+are seen reflected in the PPA. The amended provisions are found in 17.3.1 and 13.1.1 (31) Amended
+Guideline 4.7 is reflected in 13.1.1 whereas amended guideline 5.17 is reflected in Article 17.3.1.
+
+24
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+(32) With regard to 17.3.1, it is pointed out that a reading of the same, in particular, the opening
+limb of the provision would show that there is clearly general power for the purpose of changing
+determining or increasing the tariff. It is sought to be contrasted with specific instances which would
+notify the jurisdiction of the Commission which included Article 13.1 which deals with change in
+law. In other words, the contention is that de hors a change in law, it becomes the duty of the
+Commission and the Tribunal and of this Court to factor in the need to arm the Tribunal and the
+Commission with ample power in the interest of justice, to deal with situations which call out for a
+fair and equitable treatment to be meted out to the private player as well in a long term contract.
+CIVIL APPEAL NO. 11826 OF 2018 etc. (33) Mr. Amit Kapoor, learned counsel, who supplemented
+the submissions of Mr.Sajjan Poovayya, learned senior counsel, would draw our attention to Section
+61 of the Act. He would submit that Section 61 read with Sections 63 to 79(b) provided a statutory
+framework which enabled the Commission to devise an equitable tariff even in a PPA governed
+scenario having regard to the very nature of the services involved and the changed system evolved
+under the Act.
+
+(34) Mr. Amit Kapoor, learned counsel, laid stress on the principle of contra proferentem. He would
+point out along with Mr. Sajjan Poovyya, learned senior counsel, that the Court must not be
+oblivious of the fact that this case represents a case 2 scenario under the RFP. This means that
+unlike a situation where the contractor is free to choose the site and the other facilities, in a case 2
+situation which is the situation prevailing in this case, everything is dictated to by the employer viz.,
+SPV. Expatiating the said point, it is pointed out that the bidders did not have a control over the
+water CIVIL APPEAL NO. 11826 OF 2018 etc. source from which water had to be taken. In other
+words, the water could not have been sourced from any other water body. This aspect is relevant for
+the purpose of considering the free play with the Commission in the matter of fixing tariff based on a
+situation which was created as are exemplified by two grounds which have been made out and which
+are the subject matter of the appeals. Another point which is projected is that in regard to geological
+matters, the bidders were warned that they would have to on their own make an assessment. But
+such a caveat was not entered with regard to pertinently the hydrological conditions. Since water
+intake system related to hydrology, it is not open to the appellants to ward off a just fixation of tariff
+based on the discovery of the fact that the first WAPCOS report was highly flawed. We are reminded
+that it was of the greatest importance for the first respondent that it ran the power plant on a yearly
+basis. The second report of the WAPCOS would clearly indicate that if the appellant had to take
+water in terms of the first WAPCOS report, during CIVIL APPEAL NO. 11826 OF 2018 etc. the lean
+months, the first respondent would not get sufficient water supply to operate the plant. If such an
+eventuality had taken place, the result would be that the procurers would end up paying the charges
+towards capacity charge even though, it would not get power. The appellants would be compelled to
+buy power from outside and finally the end consumer would have to bear the brunt of the loss. It is
+to avoid all this that the first respondent has acted in a manner which was not only in tune with its
+best interest but also ensuring that the procurers and finally the consumers were best protected. It is
+further pointed out by the learned counsel that the Court must bear in mind that the contract in
+question permits the passing of the benefit not only to the contractor but also to the employer viz.,
+the appellants. In other words, if it was a case where the first respondent were to be found to be
+making an unjust enrichment under the regulatory mechanism, the appellants could have moved
+the Commission for bringing down the rates. Therefore, the regulatory mechanism is meant to work
+
+25
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. both ways, in both directions and the Court must bear in
+mind the unique nature of a regulated contract.
+
+(35) Shri Amit Kapoor also referred to the theory of incomplete contracts. This is explained as
+meaning that being a long term contact, the parties may not expect and factor in all possible
+developments which may take place. This also necessitates the Commission being endowed with
+sufficient power to reach the contractor as also the employer a just tariff bearing in mind the regime
+under Section 61 of the Act.
+
+(36) Upon being queried as to what would be the position at law outside of the PPA and of the
+jurisdiction of the Commission and if the matter were to be considered with reference to the law of
+contract, Shri Amit Kapoor drew our attention to Sections 18 and 19 of the Indian Contract Act,
+1872. He would point out that even an innocent representation within the meaning of Section 18 can
+result in the contact becoming voidable under Section 19. Section 19 contemplates that the party
+CIVIL APPEAL NO. 11826 OF 2018 etc. whose consent is obtained by misrepresentation within the
+meaning of Section 18 can insist upon the other side to perform the contact. But the wronged party
+retained the right to insist that it shall be put in the same position it would have occupied if there
+was no misrepresentation. Therefore, it is pointed out that there is foundation even in the law of
+contract for contending that the Commission armed with its powers under Section 79(b) could
+compensate the contractor in the situation we are concerned with.
+
+(37) The judgment of this Court reported in Uttar Pradesh Power Corporation Limited v. National
+Thermal Power Corporation Limited and Others (2009) 6 SCC 235 rendered by a Bench of three
+learned judges with Justice S. B. Sinha speaking for the Court had occasion to consider the impact of
+regulations made purporting to act under the Electricity Regulatory Commission Act, 1998. In the
+said judgment, it has been inter alia held that there is power under regulation 92, in particular, to
+revise the tariff (see para 35 read with 38 and CIVIL APPEAL NO. 11826 OF 2018 etc.
+
+40) (38) Noticing this aspect, when we sought assistance from the learned counsel. We heard the
+following submissions. Mr. M. G. Ramachandran, learned senior counsel, would point out that the
+observations relating to the power under Section 92 must be understood as confined to the situation
+obtaining under Section 61 read with Section 62 of the Act. The said power may not be available
+when the tariff is fixed under Section 63 of the Act. When we queried as to whether the provisions of
+Section 61 are totally unconnected with Section 63, Mr. M. G. Ramachandran, learned senior
+counsel, would submit that Section 61 may not be entirely inapplicable. He would submit that
+particular provisions of Section 61 may, in fact, apply. They include Section 61(b). He would submit
+that even the guidelines issued under Section 63 have their echo in Section 61 and, therefore, it
+cannot be said that Section 61 and 63 are strange bedfellows.
+
+(39) He would, however, contend that in no circumstances can the power under regulation 92 of
+CIVIL APPEAL NO. 11826 OF 2018 etc. 1999 regulations apply when parties have after competitive
+bidding and approval of the tariff under Section 63 become bound by a long term contract under the
+PPA. In a case where there is a determination of tariff within the meaning of Section 62, on the other
+hand, Regulations of 1999 may apply. He would further point out that the power under regulation
+
+26
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+92 which provides for reviewing of tariff and which has been understood as power of revision of
+tariff as a whole must be subject to the rider that the revision of tariff can be done only strictly in
+accordance with the tariff regulations brought in the year 2001 and as subsequently, amended from
+time to time. In fact, he would draw our attention to the Regulations of 2014 which expressly
+excludes tariff determination done under Section 63 of the Act from the ambit of the said regulation.
+In this regard, Shri Sajjan Povayya, learned senior counsel, on the other hand, drew our attention to
+the judgment of this Court Gujarat Urja Vikas Nigam Limited v. Tarini Infrastructure Limited and
+Others (2016) 8 SCC 743 CIVIL APPEAL NO. 11826 OF 2018 etc. 2022 SCC Online SC 1615 2023
+SCC Online SC 233. He would on the strength of these judgments point out that there is regulatory
+power available even in a case covered by Section 63 of the Act. ANALYSIS (40) We, in these cases,
+are concerned only with two issues. As we have noticed, the first respondent filed a petition before
+the Commission invoking its power inter alia under Section 79(b). The matter relates expressly to
+the construction period. It is at this point apposite to notice the relevant provisions under the PPA.
+
+(41) Article 13 deals with change in law. Article 13.1.1. defines what a change in law is. It reads as
+follows:
+
+“ARTICLE 13:     CHANGE IN LAW
+
+13.1      Definitions
+
+In this Article 13, the following terms shall have the following meanings:
+
+13.1.1 “Change in Law” means the occurrence of any of the following events after the
+date, which is seven(7) days prior to the CIVIL APPEAL NO. 11826 OF 2018 etc. Bid
+Deadline:
+
+(i) the enactment, bringing into effect, adoption, promulgation, amendment,
+modification or repeal, of any Law or (ii) a change in the interpretation of any Law by
+a Competent Court of Law, tribunal or Indian Governmental Instrumentality
+provided such Court of Law, tribunal or Indian Governmental Instrumentality is final
+authority under law of such interpretation or (iii) change in any consents, approvals
+or licenses available or obtained for the Project, otherwise than for default of the
+Seller, which results in any change in any cost of or revenue from the business of
+selling electricity by the Seller to the Procurers under the terms of this Agreement, or
+(iv) any change in the
+
+(a) Declared Price of Land for the Project or (b) the cost of implementation of the
+resettlement and rehabilitation package of the land for the Project mentioned in RFP
+or (c) the cost of implementing Environmental Management Plan for the Power
+Station mentioned in the RFP or (d) the cost of implementing compensatory
+afforestation for the Coal Mine, indicated under the RFP and the PPA;
+
+27
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+but shall not include (i) any change in any withholding tax on income or dividends distributed to the
+shareholders of the Seller, or (ii) change in respect of UI Charges or frequency intervals by an
+Appropriate Commission.
+
+Provided that if Government of India does not extend the income tax holiday for power generation
+projects under Section 80 IA of the Income Tax Act, upto the Scheduled Commercial Operation Date
+of the Power Station, such non-extension shall be deemed to be a Change in Law.” CIVIL APPEAL
+NO. 11826 OF 2018 etc. (42) Article 13.1.2 declares that the Supreme Court or High Court or a
+Tribunal or in similar judicial or quasi judicial body in India that has jurisdiction to adjudicate upon
+issues relating to the project will be treated as competent Court. (43) Article 13.2 provides for the
+actual application and the principles for computing the impact of change in law. It reads as follows:
+
+“13.2 Application and Principles for computing impact of Change in Law.
+
+While determining the consequence of Change in Law under this Article 13, the
+Parties shall have due regard to the principle that the purpose of compensating the
+Party affected by such Change in Law, is to restore through Monthly Tariff Payments,
+to the extent contemplated in this Article 13, the affected Party to the same economic
+position as if such Change in Law has not occurred.
+
+a) Construction Period As a result of any Change in Law, the impact of
+increase/decrease of Capital Cost of the Project in the Tariff shall be governed by the
+formula given below:
+
+For every cumulative increase/decrease of each Rupees Fifty crores (Rs.50 crores) in
+the Capital Cost over the term of this Agreement, the increase/decrease in Non CIVIL
+APPEAL NO. 11826 OF 2018 etc. Escalable Capacity Charges shall be an amount
+equal to zero point two six seven (0.267%) of the Non Escalable Capacity Charges.
+
+Provided that the Seller provides to the Procurers documentary proof of such
+increase/decrease in Capital cost for establishing the impact of such Change in Law.
+In case of Dispute, Article 17 shall apply.
+
+It is clarified that the above mentioned compensation shall be payable to either Party,
+only with effect from the date on which the total increase/decrease exceeds amount
+of Rs. Fifty (50)crores.
+
+b) Operation Period As a result of Change in Law, the compensation for any
+increase/decrease in revenues or cost to the Seller shall be determined and effect
+from such date, as decided by the Central Electricity Regulatory Commission whose
+decision shall be final and binding on both the Parties, subject to rights of appeal
+provided under applicable Law.
+
+28
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+Provided that the above mentioned compensation shall be payable only if and for
+increase/decrease in revenues or cost to the seller is in excess of an amount
+equivalent to 1% of Letter of Credit in aggregate for a Contact Year.
+
+(44) Article 13.4.2 provides for the manner in which CIVIL APPEAL NO. 11826 OF
+2018 etc. the payment for changes in law is to be effected.
+
+It reads as follows:
+
+“13.4.2 The payment for Changes in Law shall be through Supplementary Bill as
+mentioned in Article 11.8. However, in case of any change in Tariff by reason of
+Change in Law, as determined in accordance with this Agreement, the Monthly
+Invoice to be raised by the Seller after such change in Tariff shall appropriately reflect
+the changed Tariff.” (45) We may notice the other foundational articles relied upon
+by the first respondent. Article 17 relates to Governing law and Dispute resolution.
+
+Article 17.2.1 reads as follows:
+
+“17.2.1 Either Party is entitled to raise any claim, dispute or difference of whatever
+nature arising under, out of or in connection with this Agreement including its
+existence or validity or termination (collectively “Dispute”) by giving a written notice
+to the other Party, which shall contain:
+
+(i) a description of the Dispute;
+
+(ii) the grounds for such Dispute; and
+
+(iii) all written material in support of its claim.” (46) The further articles which we
+need not capture contemplate that the claim may be met even with a counter claim
+and an attempt should be made to CIVIL APPEAL NO. 11826 OF 2018 etc. settle the
+dispute amicably (see Article 17.2.3).
+
+Failure to arrive at a settlement opens the doors of Article 17.3. It is justifiable as the caption is
+‘Dispute Resolution’.
+
+(47) Article 17.3.1 is the crucial article. It reads: -
+
+“Where any Dispute arises from a claim made by any Party for any change in or
+determination of the Tariff or any matter related to Tariff or claims made by any
+Party which partly or wholly relate to any change in the Tariff or determination of any
+of such claims could result in change in the Tariff or (ii) relates to any matter agreed
+to be referred to the Appropriate Commission under Articles 4.7.1, 13.2, 18.1 or clause
+10.1.3 of Schedule l 7 hereof, such Dispute shall be submitted to adjudication by the
+Appropriate Commission. Appeal against the decisions of the Appropriate
+
+29
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+Commission shall be made only as per the provisions of the Electricity Act, 2003, as
+amended from time to time. The obligations of the Procurers under this Agreement
+towards the Seller shall not be affected in any manner by reason of inter- se disputes
+amongst the Procurers.” (48) It is thereafter that as we have noticed, Article 17.3.2
+appears which we are not setting out, deals with the settlement of disputes which are
+outside the ambit of Article 17.3.1.
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. (49) We may at the very beginning notice the change that is
+brought about in the guideline. True it is that as we have noticed that the earlier guidelines which
+were formulated on 19.01.2005 contemplated a different regime both as regards change in law and
+also dispute resolution. The question would however be the extent to which the first respondent can
+derive benefit out of the same. As far as Article 13.1.1 is concerned, clauses 1 and 2 are clearly an
+inapplicable in regard to the claim based on the change brought about in the water intake system.
+(50) It is clause (iii) which is referred to and relied upon by Mr. Sajjan Povayya. It reads as follows:
+
+“(iii) change in any consents, approvals or licenses available or obtained for the
+Project, otherwise than for default of the Seller, which results in any change in any
+cost of or revenue from the business of selling electricity by the Seller to the
+Procurers under the terms of this Agreement.” (51) It is the case of the first
+respondent that since in the schedule the initial consent which was, CIVIL APPEAL
+NO. 11826 OF 2018 etc. in fact, a deemed initial consent consisting of performing of
+the task of making available land for the power plant and for the pipeline and there is
+a change in the same in view of what transpired pursuant to the second report of the
+WAPCOS, the first respondent was entitled to relief. In regard to the said argument,
+we must notice the following obstacles which are indisputable. We notice that the
+pleadings which we have set out, position before the Commission and what is more,
+even before the Tribunal, do not reveal that the first respondent has taken such a
+stand. No express reference is found to Schedule 2 containing the alleged deemed
+initial consent being overridden by the subsequent consent as a foundation for the
+claim based on change in law.
+
+(52) The second obstacle which we must notice is that we are dealing with an appeal
+under Section 125 which is based on the existence of a substantial question of law. In
+this regard, indisputably both the Commission and the Tribunal have rendered the
+concurrent finding that the first respondent has CIVIL APPEAL NO. 11826 OF 2018
+etc. failed to establish any change in law. Thus, the first respondent is up against
+concurrent findings which we cannot lightly disregard.
+
+(53) Thirdly, we may notice that the first respondent has not independently
+challenged the finding rendered by the Tribunal holding that there is no change in
+law. We have noticed that the Tribunal has proceeded to premise the grant of relief to
+the first respondent and remanding the matter on a totally different basis. Here, we
+may notice no doubt that treating it as a part of the power of appellate Court to
+correct errors in the findings in the impugned order passed may extend in
+
+30
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+appropriate cases by the principle of Order XLI Rule
+
+22. However, objection is seen raised by the Appellants to permitting of the principle
+in Order XLI Rule 22 CPC to govern in the situation such as in an appeal under
+Section 125 of the Act. We proceed on the basis that there is power to permit the
+respondent to impugn a finding given by the Tribunal against the respondent even
+without filing any appeal or cross petition.
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. (54) Examining the claim on merits, we find that the first
+respondent would fail. It is categorically stated in para 68 of the petition that the increase in the cost
+is directly attributable to the error in the WAPCOS report provided to the bidders at the pre-bid
+stage. It is contended that the first respondent is required to be compensated for the same.
+
+(55) In para 108, it is stated that as per the RFP, the procurers had to provide the water intake study
+report. As per the said report, the cost of water intake system was approximately Rs.92 crores. It is
+further stated in para 110 that there was considerable increase in the cost of water due to the water
+intake system. It is stated that it is on account of errors in the report. It is, however, no doubt, in
+para 111 stated that since water pipeline is part of the power station land and the water intake
+pipeline is an integral part of the power station, the indicative cost of the water intake system will be
+covered by change in law. In the appeal also, we have noticed the stand elaborately. CIVIL APPEAL
+NO. 11826 OF 2018 etc. (56) Initial consent, has been defined in the PPA as meaning the consents
+listed in Schedule 2. Article 5.5 of the PPA reads as follows:
+
+“5.5 Consents The Seller shall be responsible for obtaining all Consents (other than
+those required for the Interconnection and Transmission Facilities and the Initial
+Consents) required for developing, financing, constructing, operating and
+maintenance of the Project and maintaining/renewing all such Consents in order to
+carry out its obligations under this Agreement in general and this Article 5 in
+particular and shall supply to the Lead Procurer promptly with copies of each
+application that it submits, and copy/ies of each consent/approval/license which it
+obtains. For the avoidance of doubt, it is clarified that the Seller shall also be
+responsible for maintaining/renewing the Initial Consents and for fulfilling all
+conditions specified therein.” (57) It is true that the procurers were to secure certain
+initial consents whereas the vast majority of the consents were to be procured by the
+seller.
+
+Whatever was to be procured by the procurers apparently has been described as initial consents. It
+is also not in dispute that though the word consent is used in Article 13.1.1, the initial consent would
+also qualify as consent. The CIVIL APPEAL NO. 11826 OF 2018 etc. contention of the appellants is
+that as far as the initial consent contemplated which was to be performed by the procurers it was to
+provide the water linkage. The water linkage consisted of making available the source of water which
+consisted of the Govind Ballabh Pant Sagar(Rihand Reservoir). There has been no change in the said
+consent. It is not a case of the first respondent, in other words, that the first respondent has been
+forced to take water from any other water source. In this regard by communication dated
+
+31
+
+23.10.2006, we find the following:
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+“6. Reference Clause: RFP 1.4(v) – regarding tying up water linkage for the Project
+requirement alongwith approval of Central Water Commissioner
+
+(i) This has already been provided on 12th October, 2006.
+
+(ii) The water intake study report and Project Report including geo-technical study,
+topographical survey, area drainage study, socio-economic study and EIA rd (rapid),
+were provided on 3 August, 2006.” (58) While on this document, we may also notice
+the following in regard to the declared price of land contemplated in the RFP under
+clause 1.4 (ii):
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. “2. Reference Clause: RFP 1.4(ii) – regarding
+Declared Price of Land for Power Station Indicative Declared Price of Land for Power
+Station is as follows:
+
+(i)     Power Plant Area – Rs.110 Crores
+(ii)    MGR Land – Rs.80 Crores.
+
+(iii) Water Pipeline Corridor– Rs.0.63 Crores
+
+(iv) Ash Pipeline Corridor – Rs.0.047 Crores” (59) There is no dispute regarding this
+aspect. In this regard, we notice that under Schedule 1A to the PPA it has been clearly
+indicated that water source in the project is Govind Ballabh Pant Sagar(Rihand
+Reservoir).
+
+(60) It is, thereafter, we must notice that under the caption initial consent in
+Schedule 2, on behalf of the procurers, the SPV was expected to issue the notification
+under Section 6 of the Land Acquisition Act, obtain necessarily environmental and
+forest clearance for the power stations, allocate captive coal mines and finally, give
+the water linkage for the reasonable project requirements. It is this water linkage for
+the reasonable project requirements which was contemplated to be fulfilled from the
+water source Govind Ballabh Pant CIVIL APPEAL NO. 11826 OF 2018 etc.
+Sagar(Rihand Reservoir). The communication dated 23.10.2006 would indicate that
+the Central Water Commission had given its approval for sourcing the water need
+from the water body in question. In the said sense, the procurers had fulfilled their
+obligation as contemplated in RFP.
+
+(61) The RFP which preceded the PPA provided for certain conditions which we have already
+indicated. Clause 1.4 inter alia contained undertaking for providing the water linkage for the project
+with the requisite approval of the Central Water Commission at least 30 days prior to Bid deadline.
+In the PPA, it is indicated that the procurers have completed the initial studies as contained in the
+project report and obtained initial consent required for the project which are set out in Part I of
+Schedule 2 and have been made available to the seller on the date of the PPA except two matters: (1)
+
+32
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+Forest clearance and the declaration under Section 6 of the Land Acquisition Act. It is in Part I
+Schedule 2 of the PPA stated that the notification under Section 6 of the Land Acquisition Act was
+an act to be CIVIL APPEAL NO. 11826 OF 2018 etc. performed by the procurers. It is this act which
+was not done initially at the stage of the PPA. Also forest clearance is mentioned in the Part I of
+Schedule 2. Even the said clearance was also apparently not obtained as is indicated at the
+beginning of the PPA. Thereafter, Part II of Schedule 2 contains the clause which is the
+fountainhead of the argument based on initial consent.
+
+(62) It contemplated performing of the task mentioned in Article 3.1.2A also shall be part of the
+initial consent on their completion within the time provided. Article 3.1.2A contemplated
+performance of the task with which we are concerned viz., making available the land for the power
+plant and for the water intake pipeline. This task was to be performed within a period of eight
+months from the date of the letter of intent being issued or six months from the PPA whichever is
+later. It is true that the task which was to be performed by the procurers in terms of Article 3.1.2A
+was performed belatedly by the procurers. In other words, the CIVIL APPEAL NO. 11826 OF 2018
+etc. time limit was overshot by nearly 18 months. But this delay is not the basis for the claim based
+on change in law.
+
+(63) The question would then arise as to whether the delay in the performance of the task which has
+been characterised on its performance within the time as a deemed initial consent would lead to a
+change in law within the meaning of Article 13.1.1. We find that Article 3.3.3 of the PPA reads as
+follows:
+
+“3.3.3 In case of inability of the Seller to fulfil the conditions specified in Article 3.1.2
+due to any Force Majeure event, the time period for fulfilment of the Condition
+Subsequent as mentioned in Article 3.1.2 and Article 3.1.2A, shall be extended for the
+period of such Force Majeure event, subject to a maximum extension period of ten
+(10) Months, continuous or non-continuous in aggregate. Thereafter, this Agreement
+may be terminated by either the Procurers (jointly) or the Seller by giving a notice of
+at least seven (7) days, in writing to the other Party.
+
+Similarly, in case of inability of the Procurers to fulfil the conditions specified in Article 3.1.2A due
+to any Force Majeure event, the time period for fulfillment of the Condition subsequent as
+mentioned in Article 3.1.2 and Article 3.1.2A, shall be extended period of ten (10) Months,
+continuous or non-continuous in aggregate. Thereafter, this Agreement may be terminated by either
+the Procurers (jointly) or the CIVIL APPEAL NO. 11826 OF 2018 etc. Seller by giving a notice of at
+least seven (7) days, in writing to the other Party.” (64) We must next notice Article 3.3.3A which
+follows:
+
+“3.3.3A In case of inability of the Procurers to perform the activities specified in
+Article 3.1.2A within the time period specified therein, otherwise than for the reasons
+directly attributable to the Seller or Force Majeure event, the Condition Subsequent
+as mentioned in Article 3.1.2 would be extended on a ‘day for day’ basis, equal to the
+additional time which may be required by the Procurers to complete the activities
+
+33
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+mentioned in Article 3.1.2A, subject to a maximum additional time of six (6) Months.
+Thereafter, this Agreement may be terminated by the Seller at its option, by giving a
+notice of at least seven (7) days, in writing to the Procurers. If the Seller elects to
+terminate this Agreement, the Procurers shall, within a period of thirty days,
+purchase the entire shareholding in the Seller for the following amount. Provided
+such purchase of shares shall be undertaken by the Procurers in the ratio of their
+then existing Allocated Contracted Capacity:
+
+a) total amount of purchase price paid by the Successful Bidder to the shareholders of
+the Seller acquire the equity shares of the Seller as per the RFP; plus
+
+b) total amount of the Declared Price of Land and Geological Report (GR) to the
+extent already paid by the Seller after the acquisition of its 100% shareholding by the
+Selected Bidder; plus
+
+c) an additional sum equal to ten percent (10%) of the sum total of the amounts
+CIVIL APPEAL NO. 11826 OF 2018 etc. mentioned in sub-clauses (a) and (b).
+
+In addition, the Performance Guarantee of the Seller shall also be released forthwith.” (65) A perusal
+of the aforesaid articles would reveal that the parties have provided for the consequences of failure
+on the part of the procurers to make available land as contemplated in Article 3.1.2A. The long and
+short of it is that if a certain timelimit is crossed by the procurers in the performance of its
+obligations in this regard, the seller (the first respondent) has been given the right to repudiate the
+contract. What is more, it could insist on the procurers purchasing the entire share capital of the
+company viz., the first respondent as provided therein. It is not the case of the first respondent that
+by invoking the aforesaid articles, the first respondent purported to repudiate the contract. On the
+other hand, it is the common case that the contract continued to be alive and it has survived subject
+to the claims which have been raised thereunder. This would mean CIVIL APPEAL NO. 11826 OF
+2018 etc. that as the consequences of failure to perform the task having been provided in the
+contract in the manner provided, we should not ordinarily tarry further to ask as to whether this
+would provide the premise for a change in law as contemplated under Article 13.1.1. We necessarily
+pose the question still, whether this would be change in law. Not that we are unmindful of the fact
+that the two bodies have concurrently found that there is no change in law and the attempt is to
+dislodge such a finding by a side wind in the manner of speaking by an attack lodged by the
+respondent in the appeal. This is not a case where the first respondent has made use of the land for
+the purpose of laying the pipeline through the corridor as contemplated and found that drawing
+water from the water intake system as contemplated would have resulted in water not being
+available in sufficient quantity through the length of the year. There is no such case. (66) The case of
+the first respondent, on the other hand, is that the PPA having been signed on 07.08.2007, in the
+second week of December of the CIVIL APPEAL NO. 11826 OF 2018 etc. very same year-2007, in
+order to confirm the availability of water through water intake system as contemplated in the first
+WAPCOS report, the second report was commissioned ironically through the very same consultant.
+There is no case, whatsoever, that having made attempts to draw water in terms of the first
+WAPCOS report and having found that such an effort failed, they were compelled to seek recourse to
+
+34
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+a second study albeit by the same body. No reasons are forthcoming as to what inspired the first
+respondent to commission the second study. Secondly, this is not a case where the procurers
+brought about any change in law in the study on their own or they persuaded or compelled the first
+respondent to change the corridor for the route for laying of the pipeline. The first respondent did
+not even involve the procurers in the second study. There is no intimation given that the first
+respondent was commissioning a new study. There is no basis forthcoming as to what prompted the
+first respondent to commission a fresh study. What is stated is only that it wished to confirm the
+CIVIL APPEAL NO. 11826 OF 2018 etc. availability of water in terms of the first water intake study.
+In other words, we must sum up as follows:
+
+(67) Even in terms of the case built around Part II of Schedule 2 to the PPA under
+which the performing of the task mentioned in Article 3.1.2A within the time
+provided was to be treated as a deemed initial consent, the consequence of failure to
+do that have been expressly spelt out as we have already noticed.
+
+At best or at worst, it could have empowered the first respondent to rescind the contract. That apart,
+we are not in a position, for the reasons which we have indicated already, to come to the conclusion
+that it would amount to change in law. While on change in law, we may notice another aspect of the
+matter.
+
+(68) Article 13.3.1 reads as follows:
+
+“13.3.1 If the Seller is affected by a Change in Law in accordance with Article 13.2 and
+wishes to claim a Change in Law under this Article, it shall give notice to the
+Procurers of such Change in Law as soon as reasonably practicable after becoming
+aware of the same or should reasonably have known of the Change in Law.” CIVIL
+APPEAL NO. 11826 OF 2018 etc. (69) Thus, the PPA contemplates that if the seller is
+affected by change in law and wishes to claim change in law, it has to notify the
+procurers of the change in law as soon as is reasonably practicable after becoming
+aware of the same. It may be true that on the basis of the request made by the first
+respondent apparently based on the second WAPCOS report that the first respondent
+has taken steps for acquiring the land needed for laying the pipeline.
+
+It may be true that the said pipeline had to cross a greater distance. It is not as if it was on the basis
+that the procurers rendered themselves liable in law or held themselves liable in law to make good
+the escalation in cost. There is no such material made available indicating that the procurers have
+held out that they will be liable. It is not in dispute that the first unit from the power plant was in
+fact commissioned in August, 2012. In fact, when we asked as to whether a notice was given in terms
+of Article 13.3.1, Shri Amit Kapur, learned counsel, could not point out to any such notice except the
+notice which was given on 15.12.2012. In this regard CIVIL APPEAL NO. 11826 OF 2018 etc. also,
+we may notice the contents of the said notice:
+
+“5.2 Additional expenditure incurred due to change in Declared Price of Land, cost of
+implementation of resettlement and rehabilitation package of land, change in
+
+35
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+customs duty on mining equipment, water intake system etc.
+
+(a) the actual expenditure incurred by SPL towards land, implementation of
+resettlement and rehabilitation package of land for the project, water intakes system,
+customs duty on mining equipment and excise duty on cement and steel.” (70)
+Therein all that is indicated is that for the water intake the original cost was put Rs.92
+crores whereas the estimated cost has been Rs.238 crores Contemporaneous with the
+change in law alleged and in keeping with Article 13.3.1, there is no notice brought to
+our notice.
+
+(71) No doubt, Shri Amit Kapur, learned counsel for the first respondent, did attempt
+to draw inspiration from the Minutes of the Meeting which took place on 20.03.2013
+as per which the lead procurer appears to have agreed to the change. The case of Mr.
+Amit Kapur, learned counsel, that the lead procurer can bind the other procurers is
+CIVIL APPEAL NO. 11826 OF 2018 etc. contested by Shri M. G. Ramachandran,
+learned senior counsel.
+
+(72) We have noticed that a notice in terms of Article 13.3.1 notifying the change in
+law as claimed today before the Court was not given at the relevant time.
+
+(73) The argument that the procurers agreed to the acquisition of the land through
+which the new route had to travel also does not appeal to us as firmly founding the
+claim of the first respondent in law.
+
+The matter must be viewed from the prism of the specific provisions defining the change in law and
+the actual change in law which is as we have explained above. In short, being awarded a contract
+and having entered into the PPA and without any basis as such in facts, the first respondent
+ventured to commission a new study and acting on the same, a new pipeline corridor came on the
+scene. Necessarily the cost may go up. But the question we are to decide is as to whether it is change
+in law and we are of the view that it could not be a change in law as contemplated in the agreement
+as it is not CIVIL APPEAL NO. 11826 OF 2018 etc. a change in initial consent which is the only case
+which has been argued in this regard. (74) The argument further is only that the estimated cost was
+Rs.92 crores and a further sum in excess of the same had to be spent. In this regard, we may notice
+the following clause in the PPA:
+
+“5.2 The Site The Seller acknowledges that, before entering into this Agreement, it
+has had sufficient opportunity to investigate the Site and accepts full responsibility
+for its condition (including but not limited to its geological condition, on the Site, the
+adequacy of the road and rail links to the Site and the availability of adequate
+supplies of water) and agrees that it shall not be relieved from any of its obligations
+under this Agreement or be entitled to any extension of time or financial
+compensation by reason of the unsuitability of the Site for whatever reason.
+
+36
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+The State Government authorities would be implementing the resettlement and
+rehabilitation package (“R&R”) in respect of the Site for the Project, for which the
+costs is to be borne by the Seller. The Procurers shall endeavour to ensure that the
+State Government implements such R&R ensuring that land for different
+construction activities becomes available in time so as to ensure that the Power
+Station and each Unit is commissioned in a timely manner. Assistance of the Seller
+may be sought, which he will provide on best endeavour basis, in execution of those
+activities of the R&R package and as per estimated costs, if execution of such CIVIL
+APPEAL NO. 11826 OF 2018 etc. activities is in the interest of expeditious
+implementation of the package and is beneficial to the Project affected persons.” (75)
+Moving on to the findings actually which have been rendered by the Tribunal, the
+Tribunal has, in the impugned order, found that the first report of the WAPCOS is
+grossly erroneous. We are at a loss to understand as to what was the basis for
+rendering such a finding. Without any material, it is a little inexplicable as to how the
+Tribunal could have rendered such a finding which has serious consequences as we
+have noticed. This is after finding undoubtedly that there is no change in law.
+
+Virtually, the Tribunal has brushed aside the disclaimer clauses. Before we go to the disclaimer
+clauses, we may also indicate that a perusal of the first WAPCOS report indicates that it is a fairly
+elaborate report. The second WAPCOS report apart from it being prepared without reference to the
+procurers as we have noticed does not appear to say anything which is critical of the first WAPCOS
+report. At least, there is, in fact, no express CIVIL APPEAL NO. 11826 OF 2018 etc. whisper about
+the first report. All that the second WAPCOS report seems to indicate is upon being awarded the
+work, WAPCOS has gone about preparing another report. At least we are unable to find as to how
+the Tribunal could on the basis of the second report find that the first WAPCOS report was grossly
+erroneous. The Tribunal has not undertaken a comparative study of the two reports. There is no
+discussion whatsoever of the two reports. Nor is there any other material provided to render such a
+finding. The only area where we find what could perhaps be understood as a reference to the first
+report is clause 4.2.2. It reads as follows:
+
+“4.2.2. As intimated by project authority that and acquisition of pipeline corridor on
+the right side of Vallabhh Pant Sagar is in the final stages and other information
+gathered during site visit by WAPCOS/CWPRS team by local enquiry survey area ‘A’
+was identified for detailed survey during detailed survey it is found that sufficient
+depth is not available for intake well as bed level of the reservoir is around 252.5 and
+this was also in a small patches. So, this area is discarded.” (76) It would appear that
+the word ‘project CIVIL APPEAL NO. 11826 OF 2018 etc. authority’ according to Shri
+M.G. Ramachandran is to be understood as the first respondent. All that even clause
+4.2.2 indicates is that the first respondent intimated that the acquisition for the
+pipeline corridor was in its final stages and thereafter it is indicated that during the
+detailed survey, it was found sufficient depth is not available.
+
+(77) We do not think this can be the basis for acting upon the second report after
+describing the first report as grossly erroneous.
+
+37
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+(78) Now we may consider the disclaimer clauses.
+
+The disclaimers have their genesis in the guidelines. Note 4 of the RFP indicates that the procurers
+apart from their Directors, employees must not be treated as having made any representation or
+warranting whatsoever in respect of any statements or omissions or the accuracy, completeness or
+reliability of information contained therein. They were not to incur any liability under any law inter
+alia even if any loss or damage is caused to the bidder by any act or omission on their part. Again
+CIVIL APPEAL NO. 11826 OF 2018 etc. clause 1.4 of the RFP clearly indicated to the bidders that
+the procurers inter alia do not make any representation or accept any responsibility or liability in
+respect of any statements or omissions made in the water intake study report and the project report.
+There is a specific disclaimer also about the accuracy, completeness or reliability of information
+contained therein. This is even if any loss or damage is caused to the selected bidder by any act or
+omission on their part. Thus, in respect of the water intake study report, the prospective seller or the
+bidders were specifically told in no uncertain terms that any statements or omissions in water intake
+study report would not result in the procurers being visited with liability even if there was loss or
+damage caused to the selected bidder. This must be borne in mind at this juncture for the following
+reasons.
+
+(79) The first respondent has a case that water intake system goes to hydrology whereas in relation
+to geology, the first respondent was duty bound to make its own inquiries. Since the connect
+between CIVIL APPEAL NO. 11826 OF 2018 etc. hydrology and water intake system is real and since
+in regard to conditions about hydrology, the first respondent relied on the procurers or the report
+prepared by a public sector unit, in particular, they should stand relieved of any obligation to
+conduct any further inquiry on their own, runs the argument.
+
+(80) We are afraid that this argument cannot hold water as the need for making more inquiry in
+relation to geology cannot relieve the bidder from the operation of other clauses. A just result in the
+matter of what a contract produces by way of a legal relationship must be viewed holistically on a
+harmonious survey of all the relevant clauses. In any other approach, the result would have the
+effect of rendering specific clauses dealing with the topic in question dead letter. In view of clause
+1.4 of the RFP, in other words, the bidder was duty bound if it felt advised to check the correctness
+of the report made by the WAPCOS. It could have undertaken its own study. What it did four
+months after it was granted the contract and entered into the PPA, it CIVIL APPEAL NO. 11826 OF
+2018 etc. could have done before it decided to make the bid and enter into the PPA. At least we are
+not shown anything which stood in the way of the bidder conducting its own study and being
+convinced by the correctness of the report. We say this for the reason that what is involved is an
+international competitive bid. The bidding process is the foundation for the determination of the
+price in terms of section 63 of the Act. The Commission approves the rates on being convinced that
+the rates are fair and competitive and arrived at on the basis of a fair bidding process. The
+provisions of the RFP must, therefore, be viewed from the perspective of it placing on alert the
+bidders about the imponderables which are inevitably involved in pricing process. This means that
+having regard to clause 1.4 of the RFP, no bidder could possibly come forward with the claim that
+the contents of the WAPCOS report must be treated as sacrosanct and infallible and that it should
+not be taken without a generous pinch of salt as it stands. At least this was the message which is writ
+
+38
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+large in the said CIVIL APPEAL NO. 11826 OF 2018 etc. clause. He who acted disregarding the
+caveat about the report acted at his own peril.
+
+(81) Again, we do notice clause 2.7.2 of the RFP which we have indicated already. It contemplates
+the duty on the part of the bidder to make independent inquiry and to satisfy itself with regard to
+the required information, inputs, conditions, circumstances, which may affect the bid. This is apart
+from the site as referred to in the PPA in clause 5.2 which we have already referred to. (82) With the
+wealth of disclaimer clauses which we have noticed, we are unable to subscribe to the reasoning
+adopted by the Tribunal. We are of the view that the Tribunal was wrong in brushing aside the
+specific and unambiguous disclaimers under which the procurers stood exonerated from liability.
+(83) One argument which we must notice at this stage is the effect of Article 13.2. We have already
+adverted to Article 13.2. Article 13.2, no doubt, indicates that while determining the consequence of
+change in law, the parties shall have due regard to CIVIL APPEAL NO. 11826 OF 2018 etc. the
+principle that the purpose of compensating the party affected by any change in law is to restore
+through monthly tariff payments the affected party to the same economic position as if such change
+has not occurred. We have tested the hypothesis by deliberately omitting a crucial part in Article
+13.2 which are the words ‘to the extent contemplated in this Article 13’. When we read the words ‘to
+the extent contemplated in this Article 13’ as part of the Article 13.2, it necessarily brings in clause
+
+(a) and (b) of Article 13.2. In other words, what the parties have contemplated is that consequence of
+change in law would result in it being addressed through the mechanism of monthly tariff payments
+through supplementary bills(see Article 13.4.2). But it is to the extent as contemplated in Article
+
+13. The question would arise as to whether the parties contemplated that it gave authority to the
+competent body viz., the Commission to discard the formula which is provided in Article 13.2(a) and
+
+(b). We are of the view that what the parties contemplated under Article 13.2 was that change in
+CIVIL APPEAL NO. 11826 OF 2018 etc. law must be viewed through the specific provisions of
+clauses (a) and (b). In other words, a change in law may occur during the period of construction.
+Then it is to be treated as falling under Article 13.2(a). A change in law may occur during the period
+of its operation. It would then appear to be dealt with under clause (b). If a change in law takes place
+during the period of construction then its impact is to be measured with reference to the capital cost
+of the project. The word ‘capital cost’ understandably has been defined in PPA. A formula has been
+engrafted. The formula contemplates that for every increase/decrease of each Rs.50 crores in the
+capital cost as a result of the change in law, the increase/decrease in the non- escalable capacity
+charges is to be 0.267 per cent of the non-escalable capacity charges. No doubt, this is if the seller
+provides to the procurers documentary proof of such increase/decrease in establishing the impact of
+such change. (84) In other words, the effect of change in law during the construction period is
+captured by CIVIL APPEAL NO. 11826 OF 2018 etc. 13.2(a). We must understand that this is a
+meticulously thought through contract which emerged after a long rigorous process. Parties were
+clear about how the change in law had to be compensated and methodology has been set out clearly.
+Therefore, any appeal made to the general part in Article 13.2 which speaks about the affected party
+being restored to the same economic condition as if such change in law had not occurred cannot
+result in departing from the specific formula which has been set in place. This meaning is inevitable
+
+39
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+from the words “to the extent contemplated in this Article 13, which precedes the general words. In
+this regard, we may refer to the judgment of this Court in Uttar Haryana Bijli Vitran Nigam Ltd. &
+Anr.1. In the said judgment, it has been relied upon understandably by the first respondent also and
+which also arose under the same clause (Article 13.2), this Court has held inter alia as follows:
+
+“10. Article 13.2 is an in-built restitutionary principle which compensates 1 Uttar
+Haryana Bijli Vitran Nigam Ltd. & Anr. v. Adani Power Limited & Ors. (2019) 5 SCC
+325 CIVIL APPEAL NO. 11826 OF 2018 etc. the party affected by such change in law
+and which must restore, through monthly tariff payments, the affected party to the
+same economic position as if such change in law has not occurred. This would mean
+that by this clause a fiction is created, and the party has to be put in the same
+economic position as if such change in law has not occurred i.e. the party must be
+given the benefit of restitution as understood in civil law. Article 13.2, however, goes
+on to divide such restitution into two separate periods.
+
+The first period is the “construction period” in which increase/decrease of capital cost of the project
+in the tariff is to be governed by a certain formula. However, the seller has to provide to the procurer
+documentary proof of such increase/decrease in capital cost for establishing the impact of such
+change in law and in the case of dispute as to the same, a dispute resolution mechanism as per
+Article 17 of the PPA is to be resorted to. It is also made clear that compensation is only payable to
+either party only with effect from the date on which the total increase/decrease exceeds the amount
+stated therein.
+
+13. A reading of Article 13 as a whole, therefore, leads to the position that subject to restitutionary
+principles contained in Article 13.2, the adjustment in monthly tariff payment, in the facts of the
+present case, has to be from the date of the withdrawal of exemption which was done by
+administrative orders dated 6-4-2015 and 16- 2-2016. The present case, therefore, falls within
+Article 13.4.1(i). This being the case, it is clear that the adjustment in monthly tariff payment has to
+be effected from the date on which the exemptions given were withdrawn. This being the case,
+monthly invoices to be raised by the seller after such change in tariff are to appropriately CIVIL
+APPEAL NO. 11826 OF 2018 etc. reflect the changed tariff. On the facts of the present case, it is clear
+that the respondents were entitled to adjustment in their monthly tariff payment from the date on
+which the exemption notifications became effective. This being the case, the restitutionary principle
+contained in Article 13.2 would kick in for the simple reason that it is only after the order dated
+4-5-2017 [Adani Power Ltd. v. Uttar Haryana Bijli Vitran Nigam Ltd., 2017 SCC OnLine CERC 66]
+that CERC held that the respondents were entitled to claim added costs on account of change in law
+w.e.f. 1-4-2015. This being the case, it would be fallacious to say that the respondents would be
+claiming this restitutionary amount on some general principle of equity outside the PPA. Since it is
+clear that this amount of carrying cost is only relatable to Article 13 of the PPA, we find no reason to
+interfere with the judgment of the Appellate Tribunal.
+
+19. Lastly, the judgment of this Court in Energy Watchdog v. CERC [Energy Watchdog v. CERC,
+(2017) 14 SCC 80 : (2018) 1 SCC (Civ) 133] was also relied upon. In this judgment, three issues were
+set out and decided, one of which was concerned with a change in law provision of a PPA. In holding
+
+40
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+that change in Indonesian law would not qualify as a change in law under the guidelines read with
+the PPAs, this Court referred to Clause 13.2 as follows : (SCC p. 131, para 57) “57. … This being so, it
+is clear that so far as the procurement of Indian coal is concerned, to the extent that the supply from
+Coal India and other Indian sources is cut down, the PPA read with these documents provides in
+Clause 13.2 that while determining the consequences of change in law, parties shall have due regard
+to the CIVIL APPEAL NO. 11826 OF 2018 etc. principle that the purpose of compensating the party
+affected by such change in law is to restore, through monthly tariff payments, the affected party to
+the economic position as if such change in law has not occurred.” There can be no doubt from this
+judgment that the restitutionary principle contained in Clause 13.2 must always be kept in mind
+even when compensation for increase/decrease in cost is determined by CERC.” (Emphasis
+supplied) (85) We are of the view that the view which we have taken does not in any way conflict
+with the view which has been laid down by this Court. (86) No doubt, in Energy Watchdog2 again a
+judgment which is relied upon by both the sides, the Court was dealing with a case under the Act
+and has expressed the following view:
+
+"19. The construction of Section 63, when read with the other provisions of this Act,
+is what comes up for decision in the present appeals. It may be noticed that Section
+63 begins with a non obstante clause, but it is a non obstante clause covering only
+Section
+
+62. Secondly, unlike Section 62 read with Sections 61 and 64, the appropriate
+Commission does not “determine” tariff but only “adopts” tariff already determined
+under Section 63. Thirdly, such “adoption” is only 2 Energy Watchdog v. Central
+Electricity Regulatory Commission and Others (2017) 14 SCC 80 CIVIL APPEAL NO.
+11826 OF 2018 etc. if such tariff has been determined through a transparent process
+of bidding, and, fourthly, this transparent process of bidding must be in accordance
+with the guidelines issued by the Central Government. What has been argued before
+us is that Section 63 is a standalone provision and has to be construed on its own
+terms, and that, therefore, in the case of transparent bidding nothing can be looked at
+except the bid itself which must accord with guidelines issued by the Central
+Government. One thing is immediately clear, that the appropriate Commission does
+not act as a mere post office under Section 63. It must adopt the tariff which has been
+determined through a transparent process of bidding, but this can only be done in
+accordance with the guidelines issued by the Central Government. Guidelines have
+been issued under this section on 19-1-2005, which guidelines have been amended
+from time to time. Clause 4, in particular, deals with tariff and the appropriate
+Commission certainly has the jurisdiction to look into whether the tariff determined
+through the process of bidding accords with Clause 4.
+
+20. It is important to note that the regulatory powers of the Central Commission, so far as tariff is
+concerned, are specifically mentioned in Section 79(1). This regulatory power is a general one, and it
+is very difficult to state that when the Commission adopts tariff under Section 63, it functions
+dehors its general regulatory power under Section 79(1)(b). For one thing, such regulation takes
+place under the Central Government's guidelines. For another, in a situation where there are no
+
+41
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+guidelines or in a situation which is not covered by the guidelines, can it be said that the
+Commission's power to “regulate” tariff is completely done away with? According to us, this is not a
+correct way of reading the CIVIL APPEAL NO. 11826 OF 2018 etc. aforesaid statutory provisions.
+The first rule of statutory interpretation is that the statute must be read as a whole. As a
+concomitant of that rule, it is also clear that all the discordant notes struck by the various sections
+must be harmonised. Considering the fact that the non obstante clause advisedly restricts itself to
+Section 62, we see no good reason to put Section 79 out of the way altogether. The reason why
+Section 62 alone has been put out of the way is that determination of tariff can take place in one of
+two ways — either under Section 62, where the Commission itself determines the tariff in
+accordance with the provisions of the Act (after laying down the terms and conditions for
+determination of tariff mentioned in Section 61) or under Section 63 where the Commission adopts
+tariff that is already determined by a transparent process of bidding. In either case, the general
+regulatory power of the Commission under Section 79(1)(b) is the source of the power to regulate,
+which includes the power to determine or adopt tariff. In fact, Sections 62 and 63 deal with
+“determination” of tariff, which is part of “regulating” tariff. Whereas “determining” tariff for
+inter-State transmission of electricity is dealt with by Section 79(1)(d), Section 79(1)(b) is a wider
+source of power to “regulate” tariff. It is clear that in a situation where the guidelines issued by the
+Central Government under Section 63 cover the situation, the Central Commission is bound by
+those guidelines and must exercise its regulatory functions, albeit under Section 79(1)(b), only in
+accordance with those guidelines. As has been stated above, it is only in a situation where there are
+no guidelines framed at all or where the guidelines do not deal with a given situation that the
+Commission's general regulatory CIVIL APPEAL NO. 11826 OF 2018 etc. powers under Section
+79(1)(b) can then be used.” (87) It is true that as far as the said case is concerned, the case arose
+from claims which were made under the PPA on the basis that there were changes in law apart from
+the argument that a case of Force Majeure was made out. It is not a case which actually on facts
+involved the Court dealing with a case arising from the fixation of tariff under Section 63. In fact, it
+arose after a PPA was approved and the rates were fixed already under Section 63. However, if we
+notice the contents of para 19 and 20, the principle which the first respondent seeks to canvas before
+us does not appear to emerge. The argument of the first respondent is that even de hors the terms of
+the contract, there is general regulatory power available under Section 79 of the Act. There is an
+overarching authority with the Commission exercising power under Section 79 which would enable
+it and which would empower it to grant compensation even de hors the terms of the contract it is
+contended. The argument appears to CIVIL APPEAL NO. 11826 OF 2018 etc. be that unlike
+generality of contracts, a regulated contract which is a long term contract or an incomplete contract
+generates space for power with the appropriate regulatory body to revisit the rates and thereby
+vouchsafe a fair deal to both sides, be it a seller or the procurer.
+
+(88) What this Court has laid down in para 19 and 20 in Energy Watchdog3 may be summarized as
+follows:
+
+(89) In the case of fixation of tariff under Section 63 of the Act, what is contemplated
+is to begin with guidelines which have been issued under Section 63.
+
+42
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+When the Commission is asked to exercise power under Section 63, it is beholden to the guidelines
+as it cannot depart from the same. In a area where the guidelines do not occupy the field,
+undoubtedly, the Commission is clothed with power as a regulatory body to act in the best interest
+of all sides and to fix the tariff in a manner which is fair in the sense bearing in mind the paramount
+interest of increased generation of power, the interest of the 3 Energy Watchdog v. Central
+Electricity Regulatory Commission and Others (2017) 14 SCC 80 CIVIL APPEAL NO. 11826 OF 2018
+etc. consumer, as also ensuring of a fair return to the seller. So far so good. When the Commission
+exercises the power under Section 63, this power is not abridged when there are no guidelines
+holding the field.
+
+(90) We are not dealing with a case where the exercise of power of the Commission under Section 63
+is under review. In a case where, however, the rates are approved under Section 63 and PPA is
+entered into, the question would undoubtedly arise as to whether there is a power which can be
+described in a manner of speaking to be plenary power with the Commission under Section 79? Can
+there be a power which can be christened as omnibus? Can the Tribunal, in other words, disregard
+the express words of the contract? Can it discover a new change in law which the parties have not
+contemplated as change in law? In short, can the Tribunal rewrite the contract and create a new
+bargain?
+
+(91) We are of the view that the Tribunal cannot indeed make a new bargain for the parties. The
+CIVIL APPEAL NO. 11826 OF 2018 etc. Tribunal cannot rewrite a contract solemnly entered into. It
+cannot ink a new agreement. Such residuary powers to act which varies the written contract cannot
+be located in the power to regulate. The power cannot, at any rate, be exercised in the teeth of
+express provisions of the contract. (92) We notice this for the reason that the first respondent has a
+case that what is provided in Article 13.2(a) (since we are dealing with the case of alleged change in
+law during the construction period) does not do justice to the parties or that it is incapable of
+producing a fair result and therefore, the Tribunal would necessarily be clothed with power bearing
+in mind its regulatory nature. In a matter where the parties have entered into a contract with
+express provisions, we are unable to agree with the first respondent that the Tribunal would have
+power to disregard the express provisions of the contract on the score that as it turns out that with
+passage of time and even change in circumstances, it is found that the contract cannot be worked
+except at a loss for the contractor. CIVIL APPEAL NO. 11826 OF 2018 etc. (93) We may, at this
+juncture, also notice an argument which has been raised by Shri Amit Kapur, learned counsel for the
+first respondent, when queried as to what would be the position if a claim of the nature were
+canvassed in a civil suit. The answer came that Section 18 and 19 of the Indian Contract Act, 1872
+(hereinafter referred to as ‘Contract Act’ for brevity), provided the gateway. Section 18 of the
+Contract Act deals with the effect of representation or rather misrepresentation by a party made to
+another party to the contract. It, undoubtedly, includes a representation, however, innocent it may
+be. In other words, an innocent representation made to one party by another party which forms the
+basis for consent of the person can lead to the contract becoming voidable under Section
+
+19. It is undoubtedly true that Section 19 also contemplates that the wronged party can insist upon
+the contract being performed and further, however, persevere in requiring that he be placed in the
+same position if he had not been led astray by the misrepresentation. There may be no dispute about
+
+43
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. this principle. However, we have noticed the various clauses
+as contained in the disclaimer clauses. When a party to the contract states that what is contained in
+the first WAPCOS report and anything else as contemplated in the RFP and the PPA does not
+amount to a representation, we are unable to agree with the contention that it would still be
+considered as a representation within the meaning of Section 18 and thereby leading to a claim
+under Section 19 of the Contract Act. Therefore, we find that the contentions which the first
+respondent seeks to raise under the provisions of Section 18 and 19 untenable.
+
+(94) Reliance was placed on the judgment of this Court PTC India Limited v. Central Electricity
+Regulatory Commission (2010) 4 SCC 603. In PTC India Limited4, the actual question which arose
+was as to whether the appellate Tribunal under the Act has jurisdiction under Section 111 to examine
+the validity of regulations framed in exercise of power 4 PTC India Limited v. Central Electricity
+Regulatory Commission (2010) 4 SCC 603 CIVIL APPEAL NO. 11826 OF 2018 etc. under Section
+178 of the Act. The further question which arose was whether Parliament has conferred power of
+judicial review on the Tribunal under Section 121 of the Act. In the course of this judgment, the
+Court inter alia held as follows:
+
+“53. Applying the abovementioned tests to the scheme of the 2003 Act, we find that
+u n d e r   t h e   A c t ,   t h e   C e n t r a l   C o m m i s s i o n   i s   a   d e c i s i o n - m a k i n g   a s   w e l l   a s
+regulation-making authority, simultaneously. Section 79 delineates the functions of
+the Central Commission broadly into two categories — mandatory functions and
+advisory functions. Tariff regulation, licensing (including inter-State trading
+licensing), adjudication upon disputes involving generating companies or
+transmission licensees fall under the head “mandatory functions” whereas advising
+the Central Government on formulation of National Electricity Policy and tariff policy
+would fall under the head “advisory functions”. In this sense, the Central Commission
+is the decision-making authority. Such decision- making under Section 79(1) is not
+dependent upon making of regulations under Section 178 by the Central Commission.
+Therefore, functions of the Central Commission enumerated in Section 79 are
+separate and distinct from functions of the Central Commission under Section 178.
+The former are administrative/adjudicatory functions whereas the latter are
+legislative.
+
+55. To regulate is an exercise which is different from making of the regulations.
+However, making of a regulation under Section 178 is not a precondition to the
+Central Commission taking any steps/measures under Section 79(1). As stated, if
+there is a CIVIL APPEAL NO. 11826 OF 2018 etc. regulation, then the measure under
+Section 79(1) has to be in conformity with such regulation under Section 178. This
+principle flows from various judgments of this Court which we have discussed
+hereinafter. For example, under Section 79(1)(g) the Central Commission is required
+to levy fees for the purpose of the 2003 Act. An order imposing regulatory fees could
+be passed even in the absence of a regulation under Section 178. If the levy is
+unreasonable, it could be the subject-matter of challenge before the appellate
+authority under Section 111 as the levy is imposed by an order/decision-making
+
+44
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+process. Making of a regulation under Section 178 is not a precondition to passing of
+an order levying a regulatory fee under Section 79(1)(g). However, if there is a
+regulation under Section 178 in that regard then the order levying fees under Section
+79(1)(g) has to be in consonance with such regulation.” (95) We are unable to see how
+the said judgment can advance the case of the first respondent. The question which
+fell for consideration and the opinion which has been rendered do not in any way
+detract from the view which we have taken.
+
+Substantially, it was held that the making of regulation was not a pre condition for levying a
+regulatory fee under Section 79(1)(g). It is no doubt true that Commission has an adjudicatory
+function. It is also empowered to give opinions. CIVIL APPEAL NO. 11826 OF 2018 etc. Power to
+frame regulations indicates that it also has legislative powers. The point is that since in this case we
+are concerned with the adjudicatory function of the Commission, we are concerned with the
+trammels to which it is subject in the form of the express terms of the contract. All that we are
+holding is that in a case where the matter is governed by express terms of the contract, it may not be
+open to the Commission even donning the garb of a regulatory body to go beyond the express terms
+of the contract. It is apposite that we notice para 58 reads as follows:
+
+“58. One must understand the reason why a regulation has been made in the matter
+of capping the trading margin under Section 178 of the Act. Instead of fixing a trading
+margin (including capping) on a case-to-case basis, the Central Commission thought
+it fit to make a regulation which has a general application to the entire trading
+activity which has been recognised, for the first time, under the 2003 Act. Further, it
+is important to bear in mind that making of a regulation under Section 178 became
+necessary because a regulation made under Section 178 has the effect of interfering
+and overriding the existing contractual relationship between the regulated entities. A
+regulation under Section 178 is in the nature of a subordinate legislation. Such
+subordinate legislation can even override the existing contracts CIVIL APPEAL NO.
+11826 OF 2018 etc. including power purchase agreements which have got to be
+aligned with the regulations under Section 178 and which could not have been done
+across the board by an order of the Central Commission under Section 79(1)(j).” (96)
+While it may be open as indicated therein for a regulation to extricate a party from its
+contractual obligations, in the course of its adjudicatory power it may not be open to
+the Commission by using the nomenclature regulation to usurp this power to
+disregard the terms of the contract.
+
+(97) Another argument which has been raised on behalf of the first respondent is that
+the guidelines were framed on 19.01.2005. Clauses 4.7 and 5.17 came to be, however,
+modified before the PPA was entered into and even prior to the RFP and therefore,
+the PPA and Article 17.3 therein has been cast in the widest terms.
+
+(98) We have already perused Article 17.3.1.
+
+45
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+Article 17.3 to begin with, speaks of specific instances which can trigger the dispute resolution
+mechanism. A case in point and close to facts is a dispute arising from a change in law, after a claim
+CIVIL APPEAL NO. 11826 OF 2018 etc. is denied and a resolution through settlement not being
+arrived at. There are other specific clauses which are part of the PPA which are adverted to in the
+later part of Article 17.3.1. Therefore, the argument is raised on behalf of the first respondent that
+the opening words of Article 17.3.1 are designedly broad to cater to situations such as are
+represented by the facts of this case. In other words, even irrespective of a situation being not
+governed by Article 13.1 in order that the restitutionary principle or the principle of an incomplete
+contract leading to a lifelong regulation assuring a fair return to the seller is observed, the power of
+revisiting of the rates is what is contemplated in the amended guideline which finds enshrinement in
+Article 17.3.1., it is contended. (99) In fact, when we notice the PPA, we find that apart from matters
+which are expressly referred to in Article 17.3.1, viz., Articles 4.7.1, Article 13.2, Article 18.1 or clause
+10.1.3 of Schedule 17, there are other Articles in the PPA with which Article 17.3.1 can bear nexus
+with. They include CIVIL APPEAL NO. 11826 OF 2018 etc. apparently, Articles 4.5.2, 11.6.6 and
+11.6.7. This is besides 12.7(e) which relates to enforcement of claims under Force Majeure.
+Therefore, it is not as if Article 17.3.1 is not to be understood without reference to the other parts of
+the contract. No Court should attempt to read a part of the contract in isolation. The draftsman of a
+contract of the nature we are dealing with would have not left any stone unturned in making the
+contract one to be construed with a great sense of harmony and care. Therefore, we do not accept
+the contention of the first respondent that the Commission, Tribunal and this Court must pour in
+meaning into the opening words of Article 17.3.1 so that in the facts, the first respondent can claim
+compensation on the basis that it has incurred expenditure acting on the first WAPCOS report.
+
+(100) Here, we must notice finally, that substantially, the claim in regard to the water intake system
+was founded on the reliance placed on the first WAPCOS report and on the strength of the second
+WAPCOS report.
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. (101) We also find reinforcement in our view from the
+following clauses 1.2.12:
+
+“1.2.12 Different parts of this Agreement are to be taken as mutually explanatory and
+supplementary to each other and if there is any inconsistency between or among the
+parts of this Agreement, they shall be interpreted in a harmonious manner so as to
+give effect to each part.” (Emphasis supplied) (102) An argument was raised by Shri
+Amit Kapur that the contract in the case calls for the application of the principle of
+contra proferentem rule.
+
+(103) We are of the view that the principle of contra proferentem is ordinarily utilised
+in contracts of insurance and standard form contracts.
+
+(104) The principle of contra proferentem apparently in substance is that in case of
+any doubt in its terms, the doubt should be resolved against the party who drafted the
+contract. We would not think in the facts of this case that the first respondent has
+been able to plant any serious doubt in regard to the clauses with which we are
+
+46
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+concerned with on a true understanding of the same.
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. (105) The second complaint- The Office Memorandum
+dated 17.06.2011.
+
+As far as the question relating to the OM dated 17.06.2011 providing the premise for change in law
+claim is concerned, we are of the view that the claim may not have merit in it. It is true that Article
+13.1.1 inter alia provides that a change can be brought about by the issuance of a notification by an
+Indian Governmental authority. Also a change in interpretation of any law by an Indian
+Governmental instrumentality inter alia provided that it is final authority under law for such
+interpretation would constitute a change in law.
+
+Indian Governmental Instrumentality is defined as follow: -
+
+“Indian Governmental Instrumentality” means the GOI, Government of States where
+the Procurers and Project are located and any ministry or department of or board,
+agency or other regulatory or quasi-judicial authority controlled by GOI or
+Government of States where the Procurers and Project are located and includes the
+Appropriate CIVIL APPEAL NO. 11826 OF 2018 etc. Commission;” (106) Law as
+defined in the PPA is as follows:
+
+“Law” means, in relation to this Agreement, all laws including Electricity Laws in
+force in India and any statute, ordinance, regulation, notification or code, rule, or any
+interpretation of any of them by any Indian Governmental Instrumentality and
+having force of law and shall further include all applicable rules, regulations, orders,
+notifications by an Indian Govermental Instrumentatlity pursuant to or under any of
+them and shall include all rules, regulations, decisions and orders of the Appropriate
+Commission;
+
+(107) While the word ‘competent Court’ which can also be the source of a change in
+interpretation of any law is expressly defined in Article 13.1.1., when it comes to the
+Indian Governmental instrumentality which is the final authority, is concerned, there
+is no definition in the PPA. The controversy is this.
+
+(108) The first respondent allegedly imported goods for the purpose of construction
+of the captive mining plant. It is its case that the goods so imported were being used
+for construction of the mining plant which was in turn was utilised for the CIVIL
+APPEAL NO. 11826 OF 2018 etc. construction and operation of the ultra mega power
+plant project. Such goods according to the first respondent was expressly exempted
+from customs duty by virtue of the notification holding the field.
+
+The notifications holding the field it must be understood were the notifications holding the field
+before the cut off date. The cut off date admittedly is 21.07.2007. In other words, the said date is the
+date which is seven days before the bid deadline. The OM which is the premise for the argument has
+
+47
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+been issued by the Director no doubt with the approval of the Joint Secretary in the Ministry of
+Power. It reads as follows:
+
+“No. 12/20/2009-UMPP Government of India Ministry of Power Shram Shakti
+Bhawan, Rafi marg, New Delhi, the 17th June, 2011 OFFICE MEMORANDUM Sub:
+3960 MW Sasan Ultra Mega Power Project, Distt. Singrauli - Exemption from
+Custom Duty under project Import - reg.
+
+The undersigned is directed to refer to Govt. of Madhya Pradesh's letter No.
+4468/13/2011/01 dated 24.05.2011 on the subject mentioned above and to say CIVIL
+APPEAL NO. 11826 OF 2018 etc. that under Mega Power Policy, the Custom/Excise
+Duty exemption is given in respect of power equipment only.
+
+This issues with the approval of JS (Thermal), Ministry of Power (A.A. Tazir) Director Shri Mohd.
+Suleman Secretary (Energy) Govt. of Madhya Pradesh, Bhopal” (109) It is the contention of the first
+respondent that when it imported the goods it had to pay customs duty on the same and it
+constituted a change in law as the OM issued by the Joint Secretary placing the interpretation
+constituted a change in interpretation.
+
+(110) In other words, in contrast with the law as it stood before the cut off date, by the issuance of
+the OM by the Joint Secretary in the Ministry of Power, a change in interpretation of the law is
+brought about. This sufficed to found a claim of change in law within the meaning of Article 13.1.1
+CIVIL APPEAL NO. 11826 OF 2018 etc. (111) The argument of the procurers, on the other hand, is as
+we have noticed is that the OM cannot be found to be issued by a Governmental instrumentality
+which can be treated as the final authority under law for such interpretation. It is for the reason that
+the notification granting exemption has been issued by the authority under the Customs Act and the
+Joint Secretary in the Ministry of Power is not such an authority. Secondly, it is the contention of the
+procurers that the matter should have been taken before the appropriate forum by the first
+respondent on the basis that in law, actually, the import of goods was exempt if it was exempt and it
+was not open to the first respondent to pass on the burden without taking recourse to law. Thirdly, it
+is contended that the fact of the matter is that the position even before the cut off date was that
+goods in question were not exempt.
+
+(112) Since we are dealing with the notifications, we notice that the authority on Advance Ruling has
+gone into the history of the notifications and dealt with the same though in the context of the right
+to CIVIL APPEAL NO. 11826 OF 2018 etc. exemption in a mega power plant but not for an ultra
+mega power project. But we are of the view that as far as the history of the notifications go, it would
+continue to be relevant:
+
+“7.1 The Entry corresponding to the present Entry was introduced for the first time in
+1999. As pointed out by the learned Sr. counsel for the applicant, the introduction of
+this Entry in the Customs notification seems to be a follow up to the policy decision
+taken by the Central Government as set out in the communication dated 10.11.1995
+addressed by the Secretary, Ministry of Power, Government of India and the revised
+
+48
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+policy/guidelines relating to Mega power projects issued in 1998. The policy
+formulated in 1995 was in relation to the “setting up of power plants of capacity of
+1000 MW or more supplying power to more than one state”. In that policy document,
+it is stated that the “project of capacity of 1000 MW and more and catering power to
+more than one state should be considered as a mega project. Projects which cater
+power to a single State, irrespective of size, would not come under this category”. In
+the policy which has been recast in 1998, it was decided that inter-state and
+inter-regional mega power projects were to be set up both in the public and private
+sectors. The re-organization of the public sector corporations was also envisaged by
+the policy. The policy contemplates the beneficiary States constituting Regulatory
+Commissions with powers to fix tariff. Paragraph 5 of the guidelines is important. It
+says “the import of capital equipment would be free of custom duty for these
+projects”. In order to ensure that domestic bidders were not adversely affected,
+certain safeguards were spelt out.” CIVIL APPEAL NO. 11826 OF 2018 etc. 7.2 Entry/
+Sl.No. 288A of Ch. 98.01 inserted by Notification No. 63/1999 substantially gives
+effect to the 1995 policy read with revised policy of 1998. The same concept of mega
+power project is to be found in that Entry. The Entry reads:
+
+SL. Chapter/ Descripti Standa Addition Conditi No. heading/su on of rd al Duty on
+No. b-head no. goods Rate rate 288 9801 Goods Nil Nil 82 A required for setting up
+of any Mega Power Project specified in List33, if such Mega Power Project is-
+
+a.      an
+inter-
+state
+thermal
+power
+plant   of
+a
+capacity
+of 1500MW
+or   more;
+or
+b.      an
+inter-
+State
+hydel
+power
+plant   of
+a
+capacity
+of   500MW
+or
+more………
+
+49
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. Condition No. 82 is as follows: -
+
+82. (a) If an officer not below the rank of a Joint Secretary to the Government of
+India in the Ministry of Power certifies that-
+
+(i) the power purchasing state undertakes, in principle, to privatize distribution in all cities, in that
+State, each of which having a population of more than one million within a period to be fixed by the
+Ministry of Power; and
+
+(ii) In the case of imports by a Central Public Sector Undertaking, the quantity, total value,
+description and specifications of the imported goods are certified by the Chairman and Managing
+Director of the said Central Public Sector Undertaking; and
+
+(c) In the case of imports by a Private Sector Project, the quantity, total value, description and
+specifications of the imported goods are certified by the Chief Executive Officer of such project”.
+
+“7.3 List 33 specifies by name the thermal projects and hydel projects in respect of which exemption
+is made applicable. Then, under Customs Notification No. 100 of 99 dated 28/7/99, the capacity of
+thermal power project specified in the earlier notification was altered from 1500 to 1000 MW. As a
+result of this notification, 7 more thermal projects were added to the list.” “7.4 Then, the next
+notifications in succession of 2001 which are substantially the same excepting that the number of
+thermal and hydel projects specified in List 33 has gone down.” “7.5 Then comes the Customs
+Notification No. 21 of 2002 dated 01.03.2002 which is material for CIVIL APPEAL NO. 11826 OF
+2018 etc. our purpose. It reads as follows: -
+
+SL Chapter/ Descripti Standar Addition Conditio . heading/su on of d Rate al Duty n
+No. No b-head no. goods rate .
+
+40 9801 Goods Nil Nil 86 0 required for setting up of any Mega Power Project
+specified in List42, if such Mega Power Project is-
+
+a.      an
+inter-
+state
+thermal
+power
+plant   of
+a
+capacity
+of 1000MW
+or   more;
+or
+b.      an
+inter-
+State
+hydel
+power
+
+50
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+plant   of
+a
+capacity
+of   500MW
+or
+more………
+
+as
+certified
+by      an
+officer
+not below
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. the rank of a Joint Secretary to the
+Governmen t of India in the Ministry of Power “7.6 Entry 400 was amended by the
+Notification No. 26/2003. The said amendment was necessitated by reason of the
+policy decision taken by the Government as reflected in the Union budget speech of
+203-04. The following extract from the budged speech is relevant:
+
+“Simultaneous to the emphasis on improvement in power distribution, our attention
+on capacity addition remains. The Government had earlier, in 1999, notified 18
+power projected as mega projects, conferring upon them various duty and licensing
+benefits. The Government now proposes to liberalise the mega power project policy
+further by extending all these benefits to any power project that fulfills the conditions
+already prescribed for mega power projects”.
+
+Pursuant to the above policy, Notification No. 26/2003-Cus. Was issued amending
+the notification no. 21/2002-Cus. Entry 400 as amended reads:
+
+400 9801 Goods required for Nil Nil 86 setting up of any Mega Power Project that is
+to say -
+
+a. an inter-state thermal power plant of a capacity of 1000MW CIVIL APPEAL NO. 11826 OF 2018
+etc. or more; or b. an inter-State hydel power plant of a capacity of 500MW or more……… as
+certified by an officer not below the rank of a Joint Secretary to the Government of India in the
+Ministry of Power” “7.7 The amended notification no. 21 of 2002 is almost in the same language as it
+stands now (vide para 3 supra). Thus, w.e.f. 1/4/2003, the list of specified power projects has been
+deleted in tune with the liberalized policy of the Government. Further, it is to be mentioned that
+Entry 400 of notification no.21 of 2002 was further amended keeping in view the revised policy
+guidelines issued in order to cater to the special requirements of power projects in Jammu and
+Kashmir and NE States. Entry 399 substantially remained the same from 1999 onwards excepting
+that there was change in the Sl. No. and the rate.” (113) The order of the Advance Ruling Authority is
+dated 19.12.2008. No doubt, it is after the cut off date. The case of the first respondent is not based
+
+51
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+on the order of the Advance Ruling Authority. The case of the first respondent is specifically based
+only on the OM issued by the Joint Secretary in the Ministry of Power. We may notice that Joint
+CIVIL APPEAL NO. 11826 OF 2018 etc. Secretary in the Ministry of Power has a role in terms of the
+notification. The role assigned to him is contained in condition 82 to the notification 63/1999 and
+this condition has continued thereafter also. The condition as we have noticed is that it is stated that
+an officer not below the rank of a Joint Secretary is to certify the aspects which are mentioned in
+condition 82.
+
+(114) It is difficult, in fact, to describe the Joint Secretary in the Ministry of Power as the
+Governmental authority which is the final authority under the law. The final authority under the law
+would be the authority under the Customs Act which issues the exemption notification. But we
+would not wish to rest our findings on the said basis as we feel that the objection of the procurers
+can rest on surer foundations. The first respondent also relies upon no doubt, the notification dated
+26.05.2006 wherein it is indicated as follows:
+
+“Notification No.49/2006-Customs In exercise of the poowers conferred by sub-
+section (1) of Section 25 of the Customs Act, CIVIL APPEAL NO. 11826 OF 2018 etc.
+1962 (52 of 1962), the Central Government, on being satisfied that it is necessary in
+the public interest to do so, hereby makes the following further amendments in the
+notification of the Government of India in the Ministry of finance (Department of
+Revenue) No.21/2002- Customs, dated the 1st March, 2002, which was published in
+the Gazette of India, Extraordinary vide number G.S.R. 118(E), dated the 1st March,
+2002, namely:-
+
+(I) in the Table, against S.No.400, for the entry in column (3), the following entry
+shall be substituted,namely:-
+
+“Goods required for setting up of any Mega Power Project, so certified by an officer
+not below the rank of Joint Secretary to the Government of India in the Ministry of
+Power, that is to say-
+
+(a) an inter-state thermal power plant of a capacit of 700MW or more, located in the
+States of Jammu and Kashmir, Sikkim, Arunachal Pradesh, Assam, Meghalaya,
+Manipur, Mizoram, Nagaland and Tripura,or
+
+(b) an inter-state thermal power plant of a capacity of 1000MW or more, located in
+States other than those specified in clause(a) above; or
+
+(c) an inter-state hydel power plant of a capacity of 350MW or more, located in the
+States of Jammu and Kashmir, Sikkim, Arunachal Pradesh, Assam, Meghalaya,
+Manipur, Mizoram, Nagaland and Tripura,or
+
+(d) an inter-state hydel power plant of a capacity of 500MW or more, located in
+States other than those specified in Clause(C) above”, (II) in the Annexure, in
+
+52
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+Condition No.86, for sub-clauses (ii) and (iii) of clause(A), the following shall be
+substituted, namely:-
+
+“(ii) the power purchasing State CIVIL APPEAL NO. 11826 OF 2018 etc. undertakes,
+in principle, privatize distribution in all cities, in that State, each of which has a
+population of more than one million, within a period to be fixed by the Ministry of
+Power.” (115) The Tribunal has, in fact, proceeded on the basis that the goods in
+question would fall under Entry 400 relating to power projects and therefore, they
+were exempted. The Tribunal proceeded further on the basis that the notification
+dated 17.06.2011 issued by the Joint Secretary amounted to an interpretation which
+constitutes a change in law.
+
+(116) We are of the view that the approach of the Tribunal cannot be upheld. There is
+no material, whatsoever, apart from the notifications to indicate that the goods in
+question were being treated as exempt before the cut off date. In other words, it was
+incumbent upon the first respondent to produce incontestable material establishing
+that the goods were exempt and were being treated so before the cut off date. The
+best material would have been examples of similar cases where goods were being
+treated as exempt. Even though, it is pointed out CIVIL APPEAL NO. 11826 OF 2018
+etc. that the first respondent was the only ultra mega power plant, even then power
+plants including mega power plants were operational. It is difficult to conceive that
+there would not be a single case where similar inputs by way of examples of other
+power projects even if it is not ultra mega power projects would not have operated for
+the first respondent to draw from.
+
+(117) The word law has been defined as we have noticed. While the expression ‘Indian
+Governmental Instrumentality’ is used in the definition of the word law in Article
+13.1.1, the change in interpretation of any law by an Indian governmental authority
+must be the final authority under the law for such interpretation. It may be difficult
+to attribute to the Joint Secretary in the Ministry of Power the position of an Indian
+Governmental Authority who has the final authority under the law.
+
+But as we have indicated this must not be treated as the basis on which we disagree with the
+Tribunal. (118) The perusal of the OM does not advance the case of the first respondent for yet
+another good reason. CIVIL APPEAL NO. 11826 OF 2018 etc. He does not in the OM indicate that
+the goods in question had been exempted before the cut off date and that the goods becoming
+exigible to duty on the date after the cut off date. The Authority for Advance Ruling has categorically
+affirmed that the goods of the type with which we are concerned may not qualify for exemption. The
+appellants have a case that, in fact, the Joint Secretary was essentially following the Advance Ruling.
+While it is true that the Advance Ruling may not bind the first respondent as it is not a party, and
+the respondent could not have sought a ruling under the law, it is undoubtedly an aspect which
+otherwise adds strength to the case of the appellants. There may be cases where placing the
+notification holding the field before the cut off date side by side to the subsequent notification or an
+interpretation issued after the said cut off date, the Commission or a Tribunal could find that there
+
+53
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+is change in law, which added to the cost to the seller. On the other hand, when the case of the first
+respondent involves interpretation of the terms of the CIVIL APPEAL NO. 11826 OF 2018 etc.
+notification then particularly when two views are fairly competing for acceptance before the body, at
+best, we would think that the Tribunal has hazarded taking a perilous route in venturing to find that
+the OM issued by the Joint Secretary constituted the change in law. Though reliance has been placed
+on the judgment of this Court reported in Manohar Lal Sharma v. Principal Secretary & Ors. (2014)
+9 SCC 516 and Manohar Lal Sharma v. Principal Secretary & Ors. (2014) 9 SCC 614 which decisions
+purported to exempt the mining leases which were captive leases operating for the purpose of the
+power projects including the power projects specifically in question from the purview of its decision,
+we do not think that that by itself can determine the question as to whether the goods which were
+imported for the purpose of the captive mining plant was ever exempt. What was exempt has been
+goods imported for the purpose of the Power project. In other words, as to whether the goods in
+question were goods which fell within one entry or the other is in this case a matter which is highly
+disputed and the premise of CIVIL APPEAL NO. 11826 OF 2018 etc. the first respondent viz., the
+OM of the Joint Secretary cannot be treated as being a sound foundation for making such a claim.
+(119) The parties indeed contemplated a project to be constructed and operated. The word ‘project’
+we find has been used in many clauses in the contract. The word ‘project’ has been defined as
+follows:
+
+““Project” means the Power Station and the Captive Coal Mine(s) undertaken for
+design, financing, engineering, procurement, construction, operation, maintenance,
+repair, refurbishment, development and insurance by the Seller in accordance with
+the terms and conditions of this Agreement;” (120) Since the word ‘power station’ has
+been used in word ‘project’, it is apposite that we advert to the definition of the words
+‘power station’:
+
+“Power Station” means the:
+
+(a) coal fired power generation facility comprising of any or all the Units;
+
+(b) any associated fuel handling, treatment or storage facilities of the power
+generation facility referred to above;
+
+(c) any water supply, treatment or storage facilities required for the operation of the
+power generation facility referred to above;
+
+(d) the ash disposal system including ash dyke;
+
+CIVIL APPEAL NO. 11826 OF 2018 etc.
+
+(e) township area for the staff colony; and
+
+(f) bay/s for transmission system in the switchyard of the power station,
+
+54
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+(g) all the other assets, buildings/structures, equipments, plant and machinery, facilities and related
+assets require for the efficient and economic operation of the power generation facility; whether
+completed or at any stage of development and construction or intended to be developed and
+constructed as per the provisions of this Agreement.” (121) Since the word ‘captive coal mine’ has
+also been referred to as part of the definition of the word ‘project’, it is only right that we advert to
+the definition:
+
+“Captive Coal Mine(s) means the captive coal mines as described in Schedule 1A and
+associated fuel transport system up to the Power Station;” (122) ‘Project Documents”
+again has been defined. We may also notice the definition of the words ‘Prudent
+Utility Practices’:
+
+“Project documents Mean
+
+a) Construction Contracts;
+
+b) Fuel mining agreements, including the Fuel Transportation Agreement, if any;
+
+c) O&M contracts;
+
+CIVIL APPEAL NO. 11826 OF 2018 etc.
+
+d) RFP and RFP Project Documents; and
+
+e) any other agreements designated in writing as such, from time to time, jointly by the Procurers
+and the Seller;
+
+“Prudent Utility Practices means the practices, methods and standards that are generally accepted
+internationally from time to time by electric utilities or coal mining entities for the purpose of
+ensuring the safe, efficient and economic design, construction, commissioning, operation and
+maintenance of coal mines and power generation equipment and mine of the type specified in this
+Agreement and which practices, methods and standards shall be adjusted as necessary, to take
+account of:
+
+a) operation and maintenance guidelines recommended by the manufacturers of the
+plant and equipment to be incorporated in the Project;
+
+b) the requirements of Indian Law; and
+
+c) the physical conditions at the Site;” (123) We have set out the history of the
+notifications relating to grant of exemption for power projects. All of it began with the
+policy issued in the year 1995. The exemptions had their origin with the notification
+issued in the year 1999. Thereafter there is Notification 21/2002 which was issued on
+01.03.2002. Entry 400 in the said notification reads as follows:
+
+55
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. S.N Chapte Description Stand Additi Condi
+o. r or of Goods ard onal tion Headin rate Duty no.
+
+g    or                                 Rate
+Sub-
+Headin
+g
+400     98.01         “Goods            Nil     Nil      86
+required for
+setting up of
+any        Mega
+Power
+Project,     so
+certified by
+an     officer
+not below the
+rank    of    a
+Joint
+Secretary to
+the
+Government of
+India in the
+Ministry     of
+Power,     that
+is to say-
+a) an inter-
+state thermal
+power    plant
+of a capacity
+of 700 MW or
+more, located
+in the States
+of Jammu and
+Kashmir,
+Sikkim,
+Arunachal
+Pradesh,
+Assam,
+Meghalaya,
+Manipur,
+Mizoram,
+Nagaland and
+Tripura; or
+b an inter-
+state thermal
+power   plant
+of a capacity
+of 1000 MW or
+more, located
+
+56
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. in States other than those specified in clause
+(a) above; or c an inter-
+
+state    hydel
+power    plant
+of a capacity
+of 350 MW or
+more, located
+in the States
+of Jammu and
+Kashmir,
+Sikkim,
+Arunachal
+Pradesh,
+Assam,
+Meghalaya,
+Manipur,
+Mizoram,
+Nagaland and
+Tripura; or
+d an inter-
+state    hydel
+power    plant
+of a capacity
+of 500 MW or
+more, located
+in      States
+other     than
+those
+specified in
+clause     (c)
+above”;
+
+(124)   Thereafter         another    notification   namely
+
+Notification No. 26/03 which has given a final shape to it came to be issued which
+has been noticed also by the Authority of Advance Ruling. It reads as follows:
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. 400 9801 Goods required for Nil Nil 86
+setting up of any Mega Power Project that is to say -
+
+a. an inter-state thermal power plant of a capacity of 1000MW or more; or b. an inter-State hydel
+power plant of a capacity of 500MW or more……… as certified by an officer not below the rank of a
+Joint Secretary to the Government of India in the Ministry of Power (Emphasis supplied) (125) We
+may notice that with the issuance of the said notification what stands out is the following:
+
+57
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+(126) While in the opening words of the Entry, there is reference to power project, it
+is conditioned by the words ‘that is to say’. We can quite safely proceed on the basis
+that Entry 400 in the Notification No. 21/2002 which came into effect on 01.03.2002
+as amended by Notification No. 46/2008 is the Entry which must be treated as
+holding the field as on the cut off date. It is thereafter, no doubt, that the first
+respondent has invoked the change in CIVIL APPEAL NO. 11826 OF 2018 etc. law
+clause by seeking to draw inspiration from the OM issued on 17.06.2011.
+
+(127) Change in law clause is sought to be invoked apparently contending that there has been a
+change in interpretation by Indian Governmental Authority which has the final say in terms of the
+law. The question which looms large before the Court is whether there has been a change in law in
+terms of ‘change in interpretation’ placed by the Governmental authority with reference to the
+position obtaining under the notifications issued under the Customs Act. Even the clauses in the
+PPA which we have referred to maintain a distinction between a power plant and a captive mine. A
+power plant cannot be treated as the same as captive mine. In fact, Schedule 1A which defines the
+site refers to the captive mines in terms of the coal blocks which are allotted. The definition of
+captive mine also indicates that it is the coal mines as described in Schedule 1A and the associated
+fuel transport system up to the power station. No doubt, the word ‘site’ has also been defined as the
+land CIVIL APPEAL NO. 11826 OF 2018 etc. over which the Project will be developed as provided in
+Annexure 1A.
+
+(128) Undoubtedly, in view of the very purpose of having a coal mine which is to supply the requisite
+fuel for the operation of the power plant, there would be a certain measure of geographical
+contiguity. But the question for the consideration before this Court is whether that would decide the
+fate of the contents of a notification issued under the Customs Act.
+
+(129) We must notice that it is not as if the first respondent is the only person which had a right to
+claim the benefit of exemption on the basis that the goods which have been imported for the
+purpose of their captive mine must be treated as goods used in the power project. As the history of
+the notifications as captured in order of the Advance Ruling Authority would show over a period of
+time, there have been a number of power plants which have sprung up. All of them would also be
+using captive mines for the purpose of generating power. It is not as if there would be a dearth of
+examples of CIVIL APPEAL NO. 11826 OF 2018 etc. exemption being extended to imports made by
+them and claiming the benefit of exemption under the notification. Not a single instance of an
+exemption granted to any other project where goods imported for use in the captive mine has been
+produced before the Commission, the Tribunal or even this Court. This goes a long way to negate the
+claim of the first respondent that what was once exempt has ceased to be exempt only by virtue of
+the issuance of the OM dated 17.06.2011.
+
+(130) There is another very important circumstance which strikes us. The material which appeals to
+us is to be found undoubtedly in the order of the Advance Ruling Authority relied upon by the
+appellant. The application, no doubt, is filed in the year 2008. What impresses the Court the most is
+the stand of the customs authorities before the Advance Ruling Authority. We cannot proceed on the
+basis that the controversy which led to the seeking of the ruling and far more importantly the
+
+58
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+persistent stand of the customs authority before the Advance Ruling Authority would not shed light
+on how CIVIL APPEAL NO. 11826 OF 2018 etc. the Department viewed the matter. This is
+important as it is the customs department which has issued the exemption notification. Being the
+authors of the notification, they would be best placed to understand the width and purport of a
+notification granting exemption. They have stoutly opposed the application and laid out various
+grounds which, no doubt, has appealed also to the Advance Ruling Authority. This is an aspect
+which goes a long way to show that the view of the customs authority which in a manner of speaking
+can also be viewed as forming contemporanea expositio should not be ignored by this Court.
+
+(131) The first respondent also sought considerable reliance in this regard from the Mega Power
+Projects: Revised Policy Guidelines. The relevant portions reads as follows:
+
+“MEGA POWER PROJECTS: REVISED POLICY GUIDELINES The following
+conditions are required to be fulfilled by the developer for grant of mega project
+status:-
+
+a) an inter-state thermal power plant of a capacity of 700 MW or more, located in the
+CIVIL APPEAL NO. 11826 OF 2018 etc. States of Jammu and Kashmir, Sikkim,
+Arunachal Pradesh, Assam, Meghalaya, Manipur, Mizoram, Nagaland and Tripura;
+or
+
+b) an inter-state thermal power plant of a capacity of 1000 MW or more, located in
+States other than those specified in clause (a) above; or
+
+c) an inter-state hydel power plant of a capacity of 350 MW or more. located in the
+States of Jammu and Kashmir. Sikkim, Arunachal Pradesh, Assam, Meghalaya.
+Manipur, Mizoram, Nagaland and Tripura: or
+
+d) an inter-state hydel power plant of a capacity of 500 MW or more, located in
+States other than those specified in clause (c) above' Fiscal concessions/benefits
+available to the Mega Power Projects Zero Customs Duty: In terms of the notification
+of the Government of India in the Ministry of Finance(Department of Revenue) No.
+21/2002-Customs dated 18 March, 2002 read May, 2006. the import of capital
+equipment would be free of customs duty for these projects.” (132) The
+understanding of the Authority for Advance Ruling appears to be that as far as the
+entitlement to exemption under the notification is concerned a mega power project
+has to be understood as confined to what follows after the words ‘that is to say’. In
+CIVIL APPEAL NO. 11826 OF 2018 etc. other words, though the use of the words
+power project in entry 400 would appear to suggest that it is capable of embracing
+within its scope a captive mine from which the fuel is generated to run the power
+plant, when it came to the actual beneficiary of entry 400, the maker of the
+notification has confined the exemption to the goods for the purpose of the power
+plant. In other words, the word power project has been conflated with the power
+plant.
+
+59
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+This appears to be the soul of the reasoning of the Advance Ruling Authority. While we are aware
+that the first respondent is not bound by the said Ruling as it is not a party, we do not find it
+erroneous on our part in finding merit in the logic of the same or adopting the same for the purpose
+of deciding the question which squarely arises before this Court viz., whether there is a change in
+law. (133) There is also merit in the contention of the appellant that for article 13.1.1 to be
+successfully invoked by the seller, it must demonstrate that there was an interpretation earlier to or
+as on the date of the cut off date which was advantageous to CIVIL APPEAL NO. 11826 OF 2018 etc.
+the seller and there has been a change in the said interpretation after the cut off date. (134) In other
+words, the OM issued with the approval of the Joint Secretary in the Ministry of Power does not
+indicate that it is a case of a change in interpretation. He does not say that the position adumbrated
+in the OM represents a shift or a change from what the position was prior to the cut off date. This is
+apart from any material being available to show that there was an interpretation in favour of the first
+respondent prior to the cut off date.
+
+(135) We reiterate that no instance of exemption to goods of similar nature being imported by any
+person for the captive mine as part of a power project be it mega or ultra mega plant is placed before
+the Commission. It is one thing to say that in a popular sense and it could be urged and it may be
+true that the word project has been defined in the PPA as power plant and the captive coal mine, but
+as we have noticed this is a matter to be determined on what was intended by the author of the
+notification CIVIL APPEAL NO. 11826 OF 2018 etc. under Section 25 of the Customs Act and the
+matter is to be further determined with reference to the express terms of the Notification. Even
+more importantly, the question must fall to be decided with reference to the interpretation available
+prior to the cut off date and after cut off date. The communication, which is the OM dated
+17.06.2011 relied upon by the first respondent appears to have been issued on the basis of the
+request made by the first respondent to the State of Madhya Pradesh. (136) Shri Amit Kapur,
+learned counsel on behalf of the first respondent drew our attention to Entry 78 of notification No.
+21/02 dated 1.3.2002. Entry 78 reads as follows:
+
+Sr. Chapter Descriptio Standard Additional Condition No. or n of goods rate rate No.
+Heading or sub-
+
+heading
+
+78. 2714.90 All goods, - Nil -
+
+for     the
+purpose of
+power
+generation
+
+60
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. (137) Shri Ramchandran, learned senior
+counsel, would point out that the said Entry relates to inputs for power generation.
+The case of the first respondent is also that Entry 399 actually specifically deals with
+the goods required for coal mining project under which the first respondent has been
+visited with customs duty.
+
+(138) The argument of Shri Amit Kapur is that first of all, Entry 78 if contrasted with Entry 400
+would show that all goods needed for a power project understood in a larger sense as including a
+captive coal mine would also come within four walls of Entry
+
+400. (139) Shri Amit Kapur, learned counsel, would point out that captive coal mine envisaged as
+such is one where the entire production of coal is to be utilised for the power plant in question which
+also would indicate that it is part of the power project. It is not in dispute that whatever may be the
+distinction which may exist between a mega power project, an ultra mega power project (we are
+concerned with latter), there is no separate CIVIL APPEAL NO. 11826 OF 2018 etc. notification
+under the Customs Act which deals with ultra mega power project.
+
+(140) The upshot of the above discussion is that we are of the view that the first respondent has not
+been able to demonstrate that there was a change in law as contemplated in Article 13.1.1 by
+issuance of the OM dated 17.06.2011.
+
+RELIEF (141) The three procurers who were respondents before the Tribunal have not chosen to file
+appearance before this Court. The lead procurer has filed an appeal before this Court. Further, there
+is only one PPA. Ironically, decisions relating to Order XLI Rule 21 and Rule 33 have been placed
+before this Court by the first respondent reminding this Court of the power available to it. No doubt,
+they placed this position in an attempt at salvaging the situation arising from no appeal have been
+filed by it challenging the finding relating to there being no change in law in regard to the water
+intake system.
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. (142) In the facts of this case, we also notice that the three
+non-filing parties are respondents in the appeals filed by the appellants. We also cannot be
+unmindful of the argument of Shri P. Chidambaram and others that if the first respondent had a
+case that they were entitled to an exemption under the situation extant prior to the cut off date then
+proper remedy would be to seek refund on the basis that they have been illegally visited with
+customs duty.
+
+(143) In the facts of this case, we feel that the interest of justice do require that the impugned order
+be set aside not only as against the appellants but also as against the three non- appellants. In the
+nature of the litigation, we would think that the benefit of this order should be vouchsafed to the
+three respondents also, viz., (1) respondent No. 12(BSES Rajdhani Power Limited); (2) respondent
+No. 13 (BSES Yamuna Power Limited); and (3) respondent No. 15(Uttarakhand Power Corporation
+Limited). Apparently, these respondents have not contested the appeals.
+
+61
+
+Haryana Power Purchase Centre vs Sasan Power Ltd on 6 April, 2023
+
+CIVIL APPEAL NO. 11826 OF 2018 etc. (144) As we have noticed in the beginning as a sequel to the
+impugned order, the Commission has passed orders allowing the claim relating to the water intake
+system whereas it has rejected the prayer relating to change in law flowing from OM dated
+17.06.2011. The affected parties have carried the matter to the Tribunal in appeals. It is brought to
+our notice that this Court passed an order of stay dated 25.11.2019. Since the appellants have
+challenged the order of the Tribunal, the subsequent order by the Commission can only be treated as
+a consequential order and therefore, it may not have any independent legs to stand on. The
+appellants must be given the fruits of the decision which ultimately is rendered in their favour, as we
+are rendering this judgment.
+
+(145) Accordingly, the appeals are allowed. The impugned order is set aside. The order will enure to
+the benefit also of the three respondents also, viz., (1) respondent No. 12(BSES Rajdhani Power
+Limited); (2) respondent No. 13 (BSES Yamuna Power Limited); and (3) respondent No.
+15(Uttrakhand Power CIVIL APPEAL NO. 11826 OF 2018 etc. Corporation Limited). Equally, the
+order passed by the Commission consequent upon the remand under the impugned order cannot
+survive. The appeals filed will also lose their force and it is for the appellants to do the needful to
+bring it to an end in the light of this judgment.
+
+The parties will suffer their own costs.
+
+………………………………………………………., J.
+
+[ K.M. JOSEPH ] ………………………………………………………., J.
+
+[ B.V. NAGARATHNA ] New Delhi;
+
+April 06, 2023.
+
+62

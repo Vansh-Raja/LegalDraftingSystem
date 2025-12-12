@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 4934 of 2022",
+  "parties": {
+    "petitioner": "The State of Odisha & Ors.",
+    "respondent": "Radheshyam Agrawal"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-03-24",
+  "summary": "The case involved the State of Odisha challenging the Orissa High Court's decision to set aside penalties imposed on contractors for delayed completion of road projects, despite granting time extensions. The key issue was whether the State could lawfully levy a penalty under para 3.5.5(v) of the OPWD Code while granting time extension. The Supreme Court examined the contractual terms and OPWD provisions, noting that para 3.5.5(v) applies only in cases of contract termination due to contractor default, not time extensions. Similarly, para 3.5.30 allows time extension but preserves the State's right to compensation under relevant clauses, without authorizing automatic penalties. The Court upheld the High Court's view that imposing penalty under para 3.5.5(v) in absence of termination was legally impermissible, and no contractual or statutory provision authorized such levy during time extension without a hearing.",
+  "legal_provisions_cited": [
+    "para 3.5.5(v) of Odisha Public Works Department Code (OPWD Code), Volume-I",
+    "para 3.5.30 of OPWD Code",
+    "Clause 4 of Contract Terms"
+  ],
+  "final_judgment": "Appeal dismissed"
+}

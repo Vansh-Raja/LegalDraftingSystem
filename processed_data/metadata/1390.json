@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal No. 874 of 2022 (Arising out of SLP (Civil) No. 7635 of 2021)",
+  "parties": {
+    "petitioner": "Mohammed Masroor Shaikh",
+    "respondent": "Bharat Bhushan Gupta & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-02",
+  "summary": "The appeals challenged orders of the Bombay High Court appointing a sole arbitrator under Section 11 of the Arbitration and Conciliation Act, 1996, in three partnership disputes involving M/s M.M. Developers. The appellant contended that he was not served with the notice of the Section 11 petition and that the arbitration clause did not cover disputes with the retiring partner, whose claim was also time-barred. The respondent no.1, the retiring partner, invoked arbitration via clause 19 of the retirement deed. The Supreme Court found that service via advocate's notice was valid under Bombay HC practice, and the appellant’s subsequent appearance before the arbitrator without raising a 'without prejudice' objection indicated acceptance. The Court noted that the appellant had participated in arbitration proceedings and challenged the arbitrator's order under Section 16 via a pending Section 34 petition, making the instant appeals premature. Issues on arbitrability and limitation could be raised in the Section 34 challenge.",
+  "legal_provisions_cited": [
+    "Section 11, Arbitration and Conciliation Act, 1996",
+    "Section 16, Arbitration and Conciliation Act, 1996",
+    "Section 17, Arbitration and Conciliation Act, 1996",
+    "Section 34, Arbitration and Conciliation Act, 1996",
+    "Vidya Drolia & Others v. Durga Trading Corporation (2021) 2 SCC 1",
+    "State of Orissa and another v. Damodar Das (1996) 2 SCC 216"
+  ],
+  "final_judgment": "Appeals dismissed. The Supreme Court upheld the Bombay High Court's appointment of the arbitrator, ruling that the appellant had sufficient opportunity to contest the Section 11 petition and had participated in the arbitration process. The proper forum to raise objections on jurisdiction and limitation was in the pending Section 34 proceedings, not in appeals against the Section 11 order."
+}

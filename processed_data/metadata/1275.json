@@ -1,0 +1,20 @@
+{
+  "case_number": "Civil Appeal No. 6044 of 2019",
+  "parties": {
+    "petitioner": "Experion Developers Private Ltd.",
+    "respondent": "Sushma Ashok Shiroor"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-04-07",
+  "summary": "The case involved a dispute over delayed possession of an apartment, where the National Consumer Disputes Redressal Commission directed the developer to refund ₹2.06 crore with 9% interest. The Supreme Court upheld the Commission's authority under Section 14 of the Consumer Protection Act, 1986 to order refunds for deficiency in service due to unjustifiable delay. It examined whether the apartment agreement clauses were unfair, referencing Pioneer Urban Land v. Govind Raghvan, and held that the Consumer Protection Act and RERA, 2016 operate harmoniously. The Court confirmed that prolonged delay entitled the consumer to refund and termination of the agreement, rejecting the developer's argument that delay compensation clause barred such relief.",
+  "legal_provisions_cited": [
+    "Section 2(o) of the Consumer Protection Act, 1986",
+    "Section 14 of the Consumer Protection Act, 1986",
+    "Section 23 of the Consumer Protection Act, 1986",
+    "Real Estate (Regulation and Development) Act, 2016",
+    "Pioneer Urban Land and Infrastructure Ltd. v. Govind Raghvan, (2019) 5 SCC",
+    "LDA v. M.K. Gupta",
+    "Fortune Infrastructure v. Trevor D’Lima"
+  ],
+  "final_judgment": "Civil Appeal No. 6044 of 2019 dismissed (in favor of respondent); Civil Appeal No. 7149 of 2019 partly allowed—interest rate maintained at 9% p.a., refusal to enhance to 24% p.a."
+}

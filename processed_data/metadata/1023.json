@@ -1,0 +1,16 @@
+{
+  "case_number": "Civil Appeal No. 733 of 2023 (@SLP (C) No. 2478 of 2023)",
+  "parties": {
+    "petitioner": "North Delhi Municipal Corporation",
+    "respondent": "Ram Chander Singh and Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-02-09",
+  "summary": "The appeal challenged the Delhi High Court's declaration that land acquisition lapsed under Section 24(2) of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013. The Supreme Court examined whether acquisition lapsed due to non-payment of compensation or non-possession. It held that possession was taken in 1964 and compensation deposited by 1967, satisfying due process. Relying on Indore Development Authority v. Manoharlal, the Court ruled that Section 24(2) requires both non-possession and non-payment for lapse—mere non-payment or deposit delay does not cause lapse. The earlier reliance on Pune Municipal Corporation v. Solanki was overruled. The appeal was allowed.",
+  "legal_provisions_cited": [
+    "Section 24(2), Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+    "Indore Development Authority v. Manoharlal, (2020) 8 SCC 129",
+    "Pune Municipal Corporation v. Harakchand Misirimal Solanki, (2014) 3 SCC 183"
+  ],
+  "final_judgment": "Appeal allowed; impugned judgment set aside; acquisition not lapsed"
+}

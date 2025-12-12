@@ -1,0 +1,23 @@
+{
+  "case_number": "Civil Appeal No. 1449 of 2022 (Arising out of SLP(Civil) No. 7620/2021)",
+  "parties": {
+    "petitioner": "Principal Commissioner of Income Tax-III, Bangalore and another",
+    "respondent": "M/s Wipro Limited"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-07-11",
+  "summary": "The appeal challenged the Karnataka High Court's dismissal of the Revenue's appeal, which upheld the ITAT's decision allowing Wipro Limited to carry forward losses under Section 72 of the Income Tax Act, 1961, after withdrawing its claim for exemption under Section 10B. The Revenue argued that the declaration under Section 10B(8) was filed belatedly and that revised return under Section 139(5) could not introduce a new claim. The assessee contended the time limit under Section 10B(8) is directory, not mandatory. The Court examined whether procedural deadlines for withdrawal of exemption are mandatory or directory and if revised returns can alter substantive claims.",
+  "legal_provisions_cited": [
+    "Section 10B(5)",
+    "Section 10B(7)",
+    "Section 10B(8)",
+    "Section 72",
+    "Section 139(1)",
+    "Section 139(5)",
+    "Commissioner of Income Tax v. Andhra Cotton Mills Limited, [1996] 219 ITR 404 (AP)",
+    "Commissioner of Income Tax, Delhi-III v. Moser Baer India Limited, ITA No. 950/2007",
+    "Commissioner of Income Tax-III v. Calcutta Knitwears, Ludhiana (2014) 6 SCC 444",
+    "Commissioner of Customs (Import), Mumbai v. Dilip Kumar and Company and others (2018) 9 SCC 1"
+  ],
+  "final_judgment": "The appeal was dismissed, upholding the High Court's decision affirming the ITAT's order allowing the carry forward of losses under Section 72, holding that the time limit under Section 10B(8) is directory and not mandatory, and the revised return was validly filed to withdraw the exemption claim."
+}

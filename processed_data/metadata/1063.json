@@ -1,0 +1,23 @@
+{
+  "case_number": "Criminal Appeal No. 1471 of 2023",
+  "parties": {
+    "petitioner": "Raj Kumar @ Suman",
+    "respondent": "State (NCT of Delhi)"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2023-05-11",
+  "summary": "The appellant was convicted for murder under Section 302 read with Section 120-B IPC and attempt to murder under Section 307 read with Section 120-B IPC based on the allegation that he stood guard with a country-made pistol during the attack. The High Court upheld the conviction, relying on testimonies of PW-5 and PW-13. However, the Supreme Court found that PW-13 did not in fact implicate the appellant and only PW-5's testimony remained. Crucially, the Trial Court failed to put this sole incriminating circumstance to the appellant during his examination under Section 313 CrPC. The appellant raised this procedural lapse before the High Court, but it was not considered. The Supreme Court held that non-compliance with Section 313 CrPC, especially when conviction hinges solely on unacknowledged evidence, amounts to failure of justice. Precedents including Tara Singh, Ranvir Yadav, and Sukhjit Singh emphasized the necessity of affording the accused an opportunity to explain adverse circumstances.",
+  "legal_provisions_cited": [
+    "Section 302 IPC",
+    "Section 307 IPC",
+    "Section 120-B IPC",
+    "Section 313 CrPC",
+    "Tara Singh v. State",
+    "Ranvir Yadav v. State of Bihar",
+    "Sukhjit Singh v. State of Punjab",
+    "Maheshwar Tigga v. State of Jharkhand",
+    "Samsul Haque v. State of Assam",
+    "Satyavir Singh Rathi v. State through CBI"
+  ],
+  "final_judgment": "The appeal is allowed, the conviction and sentence are set aside, and the appellant is acquitted."
+}

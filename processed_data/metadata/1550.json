@@ -1,0 +1,19 @@
+{
+  "case_number": "Civil Appeal Nos. 823-832 of 2022 (arising out of SLP (C) Nos. 2001-2390 of 2021)",
+  "parties": {
+    "petitioner": "The State of Manipur & Ors.",
+    "respondent": "Surjakumar Okram & Ors."
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-02-01",
+  "summary": "The case involves the constitutional validity of the Manipur Parliamentary Secretary (Appointment, Salary and Allowances and Miscellaneous Provisions) Act, 2012, and its subsequent repeal by the Repealing Act, 2018. The issue arose after this Court's earlier decision in Bimolangshu Roy v. State of Assam, which struck down a similar Assam law for want of legislative competence and violation of the 15% cap on ministers under Article 164(1-A). The High Court of Manipur had declared both the 2012 Act and the 2018 Repealing Act unconstitutional, reasoning that the State Legislature lacked competence to enact or save acts under an invalid law. Appellants argued that the Bimolangshu Roy decision was per incuriam and that the saving clause in the Repealing Act, 2018, de facto doctrine, and Section 6 of the General Clauses Act protected past actions. Respondents contended that the State had accepted the Bimolangshu Roy ruling and could not retrospectively validate unconstitutional appointments. The Court considered constitutional provisions including Article 164(1-A), Articles 194(3), 246, and Entries 39 and 40 in List II of the Seventh Schedule, and upheld the principle that legislative competence to create ministerial-like offices is constrained by constitutional limits and basic structure.",
+  "legal_provisions_cited": [
+    "Article 164(1-A) of the Constitution of India",
+    "Article 194(3)",
+    "Article 246",
+    "Entry 39 and Entry 40, List II, Seventh Schedule",
+    "General Clauses Act, 1897, Section 6",
+    "Bimolangshu Roy v. State of Assam & Anr. (2018) 14 SCC 408"
+  ],
+  "final_judgment": "The appeal was allowed to the extent of upholding the saving clause in the Repealing Act, 2018, for acts done in official capacity and rights accrued prior to repeal; however, the unconstitutional nature of the 2012 Act was affirmed, and the appointments as Parliamentary Secretaries were held invalid ab initio. The actions taken by the appointees during their tenure were protected to the extent of official duties performed, but the office itself was declared unconstitutional."
+}

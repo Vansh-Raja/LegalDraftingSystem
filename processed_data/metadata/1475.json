@@ -1,0 +1,22 @@
+{
+  "case_number": "Civil Appeal No. 3680 of 2022 (Arising out of SLP (Civil) No. 20375 of 2021)",
+  "parties": {
+    "petitioner": "Sathyanath & Anr.",
+    "respondent": "Sarojamani"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-05-06",
+  "summary": "The appeal challenged the High Court's exercise of jurisdiction under Article 227 of the Constitution, directing the trial court to frame res judicata as a preliminary issue. The appellants contended that post-1976 amendment to Order XIV Rule 2 of the Code of Civil Procedure mandates judgment on all issues to prevent remand and delay. The Court examined the amended provision, noting that only issues relating to court's jurisdiction or statutory bar (like res judicata or limitation) may be tried as preliminary issues. Reliance was placed on Major S.S. Khanna v. Brig. F.J. Dillon and Full Bench rulings in Sunni Central Waqf Board v. Gopal Singh Vishrad and Prithvi Raj Jhingta v. Gopal Singh, clarifying that framing preliminary issues is now discretionary and restricted to specified grounds. The High Court's interference was examined for judicial propriety in directing framing of res judicata as a preliminary issue.",
+  "legal_provisions_cited": [
+    "Article 227 of the Constitution of India",
+    "Order XIV Rule 2, Code of Civil Procedure, 1908",
+    "Order XX Rule 5, Code of Civil Procedure",
+    "Order XLI Rules 24 and 25, Code of Civil Procedure",
+    "Limitation Act",
+    "Muslim Waqf Act",
+    "Major S.S. Khanna v. Brig. F.J. Dillon",
+    "Sunni Central Waqf Board v. Gopal Singh Vishrad",
+    "Prithvi Raj Jhingta v. Gopal Singh"
+  ],
+  "final_judgment": "The appeal was allowed to the extent of setting aside the High Court's direction to frame res judicata as a preliminary issue, reaffirming that such powers under Article 227 must not interfere with procedural discretion under the amended Order XIV Rule 2 unless there is a manifest failure of justice."
+}

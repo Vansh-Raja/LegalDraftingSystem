@@ -1,0 +1,35 @@
+{
+  "case_number": "Criminal Appeal No 1147 of 2022",
+  "parties": {
+    "petitioner": "Honnaiah T.H.",
+    "respondent": "State of Karnataka and Others"
+  },
+  "court_name": "Supreme Court of India",
+  "date_of_judgment": "2022-08-04",
+  "summary": "The appellant, Honnaiah T.H., challenged the High Court's dismissal of his criminal revision petition, which sought to have his statement marked as an exhibit in the trial. The trial court and High Court held the order declining to mark the statement as interlocutory and non-maintainable under Section 397(2) CrPC. The Supreme Court held that the order substantially affected the prosecution's case, as the appellant's statement formed the basis of the FIR, and thus was not merely interlocutory. It concluded that the High Court erred in dismissing the revision on grounds of maintainability and that such an order could result in a miscarriage of justice.",
+  "legal_provisions_cited": [
+    "Section 154 CrPC",
+    "Section 161 CrPC",
+    "Section 173 CrPC",
+    "Section 397(1) CrPC",
+    "Section 397(2) CrPC",
+    "Section 401 CrPC",
+    "Section 2(wa) CrPC",
+    "Section 372 CrPC",
+    "Section 143 IPC",
+    "Section 147 IPC",
+    "Section 148 IPC",
+    "Section 504 IPC",
+    "Section 323 IPC",
+    "Section 302 IPC",
+    "Section 307 IPC",
+    "Section 114 IPC",
+    "Section 149 IPC",
+    "Amar Nath v State of Haryana",
+    "KK Patel v State of Gujarat",
+    "Madhu Limaye v State of Maharashtra",
+    "VC Shukla v State",
+    "Rajendra Kumar Sitaram Pande v Uttam"
+  ],
+  "final_judgment": "The appeal was allowed, the High Court's order was set aside, and the revision petition was remanded to be decided on merits."
+}
