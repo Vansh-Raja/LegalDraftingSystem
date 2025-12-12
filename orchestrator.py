@@ -3,14 +3,14 @@ Query processing and planning module.
 Classifies user queries and creates execution plans for the RAG system.
 """
 
-import os
 import json
 import re
+import os
 from typing import List, Optional
 from pydantic import BaseModel
+from time_utils import now_ist_stamp
 from dotenv import load_dotenv
 from openai import OpenAI
-from time_utils import now_ist_stamp
 
 
 def _log_debug(msg: str) -> None:
@@ -243,29 +243,24 @@ def process_query(
     last_context_snippet: Optional[str] = None,
     summary: Optional[str] = None,
     manual_mode: bool = False,
+    llm=None,
+    model_name: Optional[str] = None,
+    provider_name: Optional[str] = None,
 ) -> QueryPlan:
     """
-    Classify and create execution plan for user query using LLM.
-    
-    This is the main query processing function that:
-    1. Analyzes the user query in context of previous conversation
-    2. Determines if it's a follow-up, new query, or general law question
-    3. Creates a plan for how to handle retrieval and context assembly
-    
-    Args:
-        user_q (str): Current user query
-        last_question_rewrite (Optional[str]): Previous query rewrite
-        last_stems (Optional[List[str]]): Previous case file stems
-        last_filters (Optional[dict]): Previous filters applied
-        last_context_snippet (Optional[str]): Previous context snippet
-        summary (Optional[str]): Conversation summary
-        
-    Returns:
-        QueryPlan: Execution plan for the query
+    Classify and create execution plan for user query using the selected LLM.
+    Falls back to heuristic planning if the provided LLM fails or is absent.
     """
-    load_dotenv()
-    api_key = os.getenv("OPENAI_KEY")
-    client = OpenAI(api_key=api_key)
+    if llm is None:
+        _log_debug("[DEBUG][QP] No LLM provided; using heuristic planner")
+        plan = _heuristic_plan(user_q)
+        _log_debug(f"[DEBUG][QP][heuristic_only] type={plan.type} rewrite={plan.rewrite}")
+        return plan
+
+    from models import get_prompt
+    system_msg = get_prompt("planner_manual" if manual_mode else "planner_auto")
+    mode_label = "manual" if manual_mode else "auto"
+    _log_debug(f"[DEBUG][QP][mode] using {mode_label} planner prompt via model={model_name} provider={provider_name}")
 
     # System prompts
     system_msg_auto = (
@@ -372,10 +367,6 @@ def process_query(
         "Q: 'What is my name?' -> {\"type\": \"general_chat\", \"rewrite\": \"\", \"case_probe\": \"\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 0, \"min_full_docs\": 0, \"breadth\": \"chat\", \"reason\": \"Personal memory check\"}\n"
         "Q: 'Can you tell me a fun fact?' -> {\"type\": \"general_chat\", \"rewrite\": \"\", \"case_probe\": \"\", \"keep_context\": false, \"bridging_strategy\": \"none\", \"target_stems\": [], \"statutes\": [], \"retrieval_k\": 0, \"min_full_docs\": 0, \"breadth\": \"chat\", \"reason\": \"General trivia request\"}"
     )
-    system_msg = system_msg_manual if manual_mode else system_msg_auto
-    mode_label = "manual" if manual_mode else "auto"
-    _log_debug(f"[DEBUG][QP][mode] using {mode_label} planner prompt (preview={system_msg[:200]!r}...)")
-
     # Prepare payload with context information
     payload = {
         "user_question": user_q,
@@ -399,52 +390,29 @@ def process_query(
         },
     }
 
-    # Try OpenAI's structured output API first
-    try:
-        parsed_plan = client.responses.parse(
-            model="gpt-5-nano-2025-08-07",
-            input=[
-                {"role": "system", "content": [{"type": "input_text", "text": system_msg}]},
-                {"role": "user", "content": [{"type": "input_text", "text": json.dumps(payload)}]},
-            ],
-            text_format=QueryPlan,
-        )
-        
-        # Handle different SDK response formats
-        try:
-            if isinstance(parsed_plan, QueryPlan):
-                _log_debug("[DEBUG][QP][parse_api] returned QueryPlan instance")
-                return _postprocess_plan(parsed_plan, user_q)
-            # Try common attributes for parsed output
-            maybe = getattr(parsed_plan, "output_parsed", None) or getattr(parsed_plan, "parsed", None)
-            if isinstance(maybe, QueryPlan):
-                _log_debug("[DEBUG][QP][parse_api] returned output_parsed QueryPlan")
-                return _postprocess_plan(maybe, user_q)
-        except Exception as ix:
-            _log_debug(f"[DEBUG][QP][parse_api_introspection_error] {ix}")
-        
-        # Debug: log unexpected response format
-        try:
-            _log_debug(f"[DEBUG][QP][parse_api_unexpected_type] {type(parsed_plan)}")
-            for attr in ("output", "output_text", "output_parsed", "response", "status_code", "model_dump_json"):
-                val = getattr(parsed_plan, attr, None)
-                if callable(val):
-                    try:
-                        val = val()
-                    except Exception:
-                        pass
-                if val is not None:
-                    head = str(val)
-                    if isinstance(head, str):
-                        head = head[:400]
-                    _log_debug(f"[DEBUG][QP][parse_api_unexpected_attr] {attr}={head}")
-        except Exception as dx:
-            _log_debug(f"[DEBUG][QP][parse_api_dump_error] {dx}")
-        _log_debug("[DEBUG][QP][parse_api] unexpected return; skipping JSON mode fallback per request")
-    except Exception as e:
-        _log_debug(f"[DEBUG][QP][parse_api_error] {e}")
+    prompt = (
+        f"{system_msg}\n\nReturn ONLY JSON per the schema. Do not wrap in code fences.\nPAYLOAD:\n{json.dumps(payload)}"
+    )
 
-    # Fallback to heuristic planning if LLM fails
+    try:
+        resp = llm.invoke(prompt)
+        content = getattr(resp, "content", None) or str(resp)
+        if isinstance(content, list):
+            content = " ".join(str(x) for x in content)
+        parsed_json = None
+        try:
+            parsed_json = json.loads(content)
+        except Exception:
+            import re as _re
+            m = _re.search(r"\\{.*\\}", content, flags=_re.DOTALL)
+            if m:
+                parsed_json = json.loads(m.group(0))
+        if parsed_json:
+            plan = QueryPlan(**parsed_json)
+            return _postprocess_plan(plan, user_q)
+    except Exception as exc:
+        _log_debug(f"[DEBUG][QP][llm_error][model={model_name}|provider={provider_name}] {exc}")
+
     plan = _heuristic_plan(user_q)
     _log_debug(f"[DEBUG][QP][heuristic_fallback] type={plan.type} rewrite={plan.rewrite}")
     return plan
@@ -516,28 +484,24 @@ def _heuristic_petition_plan(petition_text: str, user_context: Optional[str] = N
     )
 
 
-def process_petition_plan(petition_text: str, user_context: Optional[str] = None) -> PetitionPlan:
+def process_petition_plan(
+    petition_text: str,
+    user_context: Optional[str] = None,
+    llm=None,
+    model_name: Optional[str] = None,
+    provider_name: Optional[str] = None,
+) -> PetitionPlan:
     """
     Build a petition-aware retrieval plan (separate from chat planner).
-    Returns `PetitionPlan` via OpenAI structured output; falls back to heuristics on failure.
+    Uses the selected LLM; falls back to heuristics on failure or when LLM is missing.
     """
-    load_dotenv()
-    api_key = os.getenv("OPENAI_KEY")
-    client = OpenAI(api_key=api_key)
+    if llm is None:
+        _log_debug("[DEBUG][PetitionPlan] No LLM provided; using heuristic petition planner")
+        return _heuristic_petition_plan(petition_text, user_context)
 
-    system_msg = (
-        "You are a petition-planner for a legal drafting assistant. Return STRICT JSON only with keys: "
-        "{retrieval_query, statutes, retrieval_k, min_full_docs, fighting_points, issues, posture, reason}.\n"
-        "Rules:\n"
-        "- Do NOT paraphrase petition facts.\n"
-        "- retrieval_query: ≤ 20 tokens, keyword-dense (statutes/topics/time hints if present).\n"
-        "- statutes: array of strings (e.g., 'PC Act s.19', 'Evidence Act').\n"
-        "- fighting_points: 4–8 short, defense-oriented bullets tailored to rebut the petition.\n"
-        "- issues: short labels (e.g., 'sanction', 'trap', 'procedure').\n"
-        "- posture: short phrase (e.g., 'respondent rebuttal').\n"
-        "- retrieval_k and min_full_docs: integers; choose based on complexity (typ. 8–12 and 3–5).\n"
-        "- Do not include court or date filters (the system corpus is limited)."
-    )
+    from models import get_prompt
+    system_msg = get_prompt("petition_planner")
+    _log_debug(f"[DEBUG][PetitionPlan] using model={model_name} provider={provider_name}")
 
     pet = (petition_text or "")[:12000]
     ctx = (user_context or "")[:2000]
@@ -556,22 +520,27 @@ def process_petition_plan(petition_text: str, user_context: Optional[str] = None
         },
     }
 
+    prompt = (
+        f"{system_msg}\n\nReturn ONLY JSON per the schema. Do not wrap in code fences.\nPAYLOAD:\n{json.dumps(payload)}"
+    )
+
     try:
-        parsed = client.responses.parse(
-            model="gpt-5-nano-2025-08-07",
-            input=[
-                {"role": "system", "content": [{"type": "input_text", "text": system_msg}]},
-                {"role": "user", "content": [{"type": "input_text", "text": json.dumps(payload)}]},
-            ],
-            text_format=PetitionPlan,
-        )
-        if isinstance(parsed, PetitionPlan):
-            return parsed
-        maybe = getattr(parsed, "output_parsed", None) or getattr(parsed, "parsed", None)
-        if isinstance(maybe, PetitionPlan):
-            return maybe
+        resp = llm.invoke(prompt)
+        content = getattr(resp, "content", None) or str(resp)
+        if isinstance(content, list):
+            content = " ".join(str(x) for x in content)
+        parsed_json = None
+        try:
+            parsed_json = json.loads(content)
+        except Exception:
+            import re as _re
+            m = _re.search(r"\{.*\}", content, flags=_re.DOTALL)
+            if m:
+                parsed_json = json.loads(m.group(0))
+        if parsed_json:
+            return PetitionPlan(**parsed_json)
     except Exception as e:
-        _log_debug(f"[DEBUG][PetitionPlan][parse_api_error] {e}")
+        _log_debug(f"[DEBUG][PetitionPlan][llm_error][model={model_name}|provider={provider_name}] {e}")
     return _heuristic_petition_plan(petition_text, user_context)
 
 
@@ -597,61 +566,31 @@ def _extract_text_from_response(resp) -> str:
     return ""
 
 
-def generate_petition_context(petition_text: str) -> str:
-    """Use OpenAI nano planner to synthesize a petition context summary."""
+def generate_petition_context(petition_text: str, llm=None, model_name: str | None = None) -> str:
+    """
+    Generate a compact petition context using the currently selected chat model.
+    """
     text = (petition_text or "").strip()
     if not text:
         raise ValueError("petition_text is empty")
 
-    load_dotenv()
-    api_key = os.getenv("OPENAI_KEY")
-    if not api_key:
-        raise RuntimeError("OPENAI_KEY not set")
+    from models import get_prompt
 
-    client = OpenAI(api_key=api_key)
-    system_msg = (
-        "You prepare docket-ready context briefs for petitions before the Supreme Court of India.\n"
-        "OUTPUT FORMAT: Return EXACTLY two sentences, no bullets, no extra lines. "
-        "Sentence 1 MUST start with 'Context:' and be a single concise synopsis. "
-        "Sentence 2 MUST start with 'Action Needed:' and specify the immediate drafting objective.\n"
-        "\n"
-        "SCOPE & SOURCING: Derive EVERYTHING ONLY from the petition text you receive. "
-        "Do NOT infer or import outside facts. If a key item is missing or unclear, insert a short placeholder like [unknown date] or [unclear posture].\n"
-        "\n"
-        "WHAT TO CAPTURE IN THE CONTEXT SENTENCE (in order of priority, but keep it one sentence): "
-        "1) Procedural posture & forum (choose ONE based on petition: Art. 32 writ OR Art. 136 SLP/appeal; if unclear, write [unclear posture]). "
-        "2) Parties & roles (petitioner vs respondent(s)) and the dispute subject (e.g., PC Act sanction validity; maintenance quantum under §125 CrPC; social security under CSS 2020). "
-        "3) The last operative order/date if present (e.g., HC reduction on [date]) and the specific relief sought here (quash, enhancement, notification, etc.). "
-        "4) Any concrete figures/dates explicitly mentioned (amounts, sections, case numbers) — ONLY if present.\n"
-        "\n"
-        "WHAT TO PUT IN 'ACTION NEEDED': Name the drafting task that follows from the posture and prayer (e.g., draft rebuttal to enhancement; prepare SLP grounds; oppose stay; file written submissions). "
-        "Be specific but brief (e.g., 'Draft respondent’s written submissions defending HC reduction with proportionality authorities').\n"
-        "\n"
-        "STYLE RULES: "
-        "• Stay strictly factual; no legal conclusions beyond what the petition states. "
-        "• Never mix Art. 32 and Art. 136—pick one from the petition; if ambiguous, mark [unclear posture]. "
-        "• Keep the Context sentence ~18–32 words; the Action Needed sentence ~8–18 words. "
-        "• Use compact legal references (e.g., '§125 CrPC', 'DV Act §20', 'PC Act §19') only if in the petition. "
-        "• No extra sentences, headings, or emojis.\n"
-        "\n"
-        "EXAMPLES (for style only): "
-        "Context: Former spouse seeks enhanced maintenance after HC reduced interim amount; petitioner cites higher expenses and child’s needs. Action Needed: Draft respondent’s submissions defending HC reduction with §125 CrPC proportionality authorities.\n"
-        "Context: Senior public servant challenges PC Act prosecution alleging invalid sanction and defective trap; HC upheld cognizance on [date]. Action Needed: Prepare rebuttal opposing quash, addressing §19 PC Act and investigation procedure.\n"
-        "Context: Gig workers allege exclusion from CSS 2020 schemes; petition seeks directions to notify framework. Action Needed: Draft Union response proposing status report and consultative timeline, resisting mandamus to notify.\n"
-    )
+    system_msg = get_prompt("petition_context")
+    prompt = f"{system_msg}\n\nPETITION:\n{text}"
+
+    if llm is None:
+        raise RuntimeError("LLM is required for petition context generation (no OpenAI fallback).")
 
     try:
-        resp = client.responses.create(
-            model="gpt-5-nano-2025-08-07",
-            input=[
-                {"role": "system", "content": [{"type": "input_text", "text": system_msg}]},
-                {"role": "user", "content": [{"type": "input_text", "text": text}]},
-            ],
-        )
+        resp = llm.invoke(prompt)
+        out = getattr(resp, "content", None) or str(resp)
+        out_str = out if isinstance(out, str) else str(out)
+        cleaned = out_str.strip()
+        if cleaned:
+            return cleaned
     except Exception as exc:
-        raise RuntimeError(f"Failed to generate context: {exc}") from exc
+        _log_debug(f"[DEBUG][PetitionContext][llm_error][model={model_name}] {exc}")
+        raise
 
-    output = _extract_text_from_response(resp)
-    if not output:
-        raise RuntimeError("Received empty context from OpenAI")
-    return output.strip()
+    raise RuntimeError("Received empty context from petition LLM")

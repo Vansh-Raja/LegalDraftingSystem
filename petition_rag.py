@@ -9,7 +9,6 @@ from typing import List, Optional, Dict, Any, Tuple
 
 from dotenv import load_dotenv
 from langchain_core.documents import Document
-from langchain_openai import ChatOpenAI
 from pydantic import BaseModel
 
 from rag import FiltrationPlan, ChunkRef, ReasonFullDoc, ReasonChunk
@@ -54,6 +53,9 @@ def petition_filtration_retriever(
     desired_min_full_docs: int = 3,
     desired_max_chunks_per_case: int = 2,
     query_context: Optional[dict] = None,
+    llm=None,
+    model_name: Optional[str] = None,
+    provider_name: Optional[str] = None,
 ) -> FiltrationPlan:
     """
     Petition-aware filtration: select cases/chunks most useful to rebut the petition.
@@ -62,32 +64,13 @@ def petition_filtration_retriever(
     if not docs:
         return FiltrationPlan(selected_full_docs=[], selected_chunks=[], drop_chunks=[], context_budget_tokens=6000)
 
-    load_dotenv()
-    api_key = os.getenv("OPENAI_KEY") or os.getenv("OPENAI_API_KEY")
-    model_name = "gpt-5-nano-2025-08-07"
-
-    if api_key:
-        _filtration_preview("auth", f"Using OpenAI model={model_name}")
-    else:
-        _filtration_preview("auth_missing", "OPENAI_KEY/OPENAI_API_KEY not set; will fall back if call fails.")
+    if llm is None:
+        _filtration_preview("llm_missing", "No LLM provided; falling back to heuristic")
 
     previews = _build_chunk_previews(docs) if mode == "chunk" else []
-    system_msg = (
-        "You are a legal filtration planner for petition rebuttals. You will receive: a petition body, "
-        "defense 'fighting_points', chunk previews and case metadata from a legal RAG pipeline.\n\n"
-        "Goal:\n"
-        "- Select the most relevant cases/chunks that directly support the rebuttal against the petition.\n"
-        "- Prefer materials addressing the listed fighting_points (e.g., sanction validity, trap procedure, demand proof).\n\n"
-        "Strict rules:\n"
-        "- Output STRICT JSON per schema; no prose outside fields.\n"
-        "- Provide reasoning for each selected_full_doc and selected_chunk, and an overall_reasoning.\n"
-        "- You may request more cases if clearly warranted.\n"
-        "- Balance across cases and cap per-case chunks.\n"
-        "- Use only the provided previews/metadata; do not assume external facts.\n\n"
-        "Breadth guidance:\n"
-        "- Broad petitions: aim for ≥ desired_min_full_docs and diversify fact patterns.\n"
-        "- Focused petitions: choose the strongest 2–4 cases keyed to the issues.\n"
-    )
+    from models import get_prompt
+    system_msg = get_prompt("petition_filtration")
+    _filtration_preview("llm_info", f"model={model_name} provider={provider_name}")
 
     effective_qc = dict(query_context or {})
     effective_qc.setdefault("retrieval_k", len(docs))
@@ -118,45 +101,57 @@ def petition_filtration_retriever(
     }
 
     try:
-        llm = ChatOpenAI(model=model_name, temperature=0, api_key=api_key)
-        structured = llm.with_structured_output(FiltrationPlan)
-        plan: FiltrationPlan = structured.invoke([
-            ("system", system_msg),
-            ("user", json.dumps(user_payload)),
-        ])
-        if not plan.reasoning_full_docs and plan.selected_full_docs:
-            plan.reasoning_full_docs = [ReasonFullDoc(file_stem=fs, reason="supports rebuttal points") for fs in plan.selected_full_docs]
-        if not plan.reasoning_chunks and plan.selected_chunks:
-            plan.reasoning_chunks = [ReasonChunk(file_stem=c.file_stem, chunk_index=c.chunk_index, reason="addresses fighting_points") for c in plan.selected_chunks]
-        if not plan.overall_reasoning:
-            plan.overall_reasoning = "Selected items directly support rebuttal issues raised by the petition."
-        _filtration_preview(
-            "success",
-            f"full={len(plan.selected_full_docs)} chunk={len(plan.selected_chunks)} reasoning={'yes' if plan.overall_reasoning else 'no'}",
+        prompt = (
+            f"{system_msg}\n\nReturn ONLY JSON per the schema. Do not wrap in code fences.\nPAYLOAD:\n"
+            f"{json.dumps(user_payload)}"
         )
-        return plan
+        resp = llm.invoke(prompt)
+        content = getattr(resp, "content", None) or str(resp)
+        if isinstance(content, list):
+            content = " ".join(str(x) for x in content)
+        parsed = None
+        try:
+            parsed = json.loads(content)
+        except Exception:
+            import re as _re
+            m = _re.search(r"\{.*\}", content, flags=_re.DOTALL)
+            if m:
+                parsed = json.loads(m.group(0))
+        if parsed:
+            plan = FiltrationPlan(**parsed)
+            if not plan.reasoning_full_docs and plan.selected_full_docs:
+                plan.reasoning_full_docs = [ReasonFullDoc(file_stem=fs, reason="supports rebuttal points") for fs in plan.selected_full_docs]
+            if not plan.reasoning_chunks and plan.selected_chunks:
+                plan.reasoning_chunks = [ReasonChunk(file_stem=c.file_stem, chunk_index=c.chunk_index, reason="addresses fighting_points") for c in plan.selected_chunks]
+            if not plan.overall_reasoning:
+                plan.overall_reasoning = "Selected items directly support rebuttal issues raised by the petition."
+            _filtration_preview(
+                "success",
+                f"full={len(plan.selected_full_docs)} chunk={len(plan.selected_chunks)} reasoning={'yes' if plan.overall_reasoning else 'no'}",
+            )
+            return plan
     except Exception as exc:
         _filtration_preview("llm_error", str(exc))
-        # Simple heuristic fallback: choose dominant case and a couple top chunks
-        from collections import Counter
-        stems = [d.metadata.get("file_stem") for d in docs if d.metadata.get("file_stem")]
-        sel_full: List[str] = []
-        sel_chunks: List[ChunkRef] = []
-        if stems:
-            dominant, _ = Counter(stems).most_common(1)[0]
-            sel_full = [dominant]
-        for d in docs[:2]:
-            fs = d.metadata.get("file_stem")
-            ci = d.metadata.get("chunk_index", 0)
-            if fs is not None:
-                sel_chunks.append(ChunkRef(file_stem=fs, chunk_index=ci))
-        return FiltrationPlan(
-            selected_full_docs=sel_full,
-            selected_chunks=sel_chunks,
-            drop_chunks=[],
-            context_budget_tokens=0,
-            request_more_cases=False,
-        )
+        # Simple heuristic fallback
+    from collections import Counter
+    stems = [d.metadata.get("file_stem") for d in docs if d.metadata.get("file_stem")]
+    sel_full: List[str] = []
+    sel_chunks: List[ChunkRef] = []
+    if stems:
+        dominant, _ = Counter(stems).most_common(1)[0]
+        sel_full = [dominant]
+    for d in docs[:2]:
+        fs = d.metadata.get("file_stem")
+        ci = d.metadata.get("chunk_index", 0)
+        if fs is not None:
+            sel_chunks.append(ChunkRef(file_stem=fs, chunk_index=ci))
+    return FiltrationPlan(
+        selected_full_docs=sel_full,
+        selected_chunks=sel_chunks,
+        drop_chunks=[],
+        context_budget_tokens=0,
+        request_more_cases=False,
+    )
 
 
 def assemble_draft_reply(

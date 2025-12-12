@@ -1023,27 +1023,21 @@ def main():
                     last_context_snippet=(st.session_state.last_context or "")[:4000],
                     summary=st.session_state.rolling_summary or None,
                     manual_mode=query_sort_mode.startswith("Manual"),
+                    llm=llm,
+                    model_name=model_name,
+                    provider_name=provider_name,
+                )
+                _debug_section(
+                    "Model Info - Planner",
+                    {"model": model_name, "provider": provider_name, "mode": "manual" if query_sort_mode.startswith("Manual") else "auto"},
+                    note="LLM used for planning",
                 )
                 if query_sort_mode.startswith("Manual"):
                     _append_debug("[DEBUG][QP] Using manual-only prompt (no general_law)")
                 _debug_section("Query Plan", _fmt_qp(qp.model_dump()), note="Planner's classification and rewrite; drives how we retrieve and filter.")
 
                 # If query sorting mode is Manual (no general law), override to retrieval
-                if query_sort_mode.startswith("Manual") and getattr(qp, "type", "") == "general_law":
-                    qp.type = "new"
-                    # Force a crisp retrieval rewrite (short, keywords/statutes/issues)
-                    try:
-                        base = (qp.rewrite or user_q)
-                        # Simple heuristic rewrite: strip long prose, keep key terms
-                        import re as _re
-                        tokens = [t for t in _re.split(r"\W+", base) if t]
-                        # keep up to 20 tokens
-                        qp.rewrite = " ".join(tokens[:20])
-                    except Exception:
-                        pass
-                    if not getattr(qp, "retrieval_k", None):
-                        qp.retrieval_k = 8
-                _append_debug("[DEBUG][QP] Manual mode: forced 'new' and retrieval-oriented rewrite")
+                # Manual mode no longer forces general_law to new; rely on planner output
 
                 qp_breadth = getattr(qp, "breadth", "unknown")
                 tracker.stage_complete("planner", f"type={getattr(qp, 'type', 'unknown')} breadth={qp_breadth}")
@@ -1373,6 +1367,11 @@ def main():
 
                     # Step 3: Filtration - Use LLM to select most relevant chunks and cases
                     mode_key = "chunk" if filtration_mode == "chunk context filtration" else "metadata"
+                    _debug_section(
+                        "Model Info - Filtration",
+                        {"model": model_name, "provider": provider_name, "mode": mode_key},
+                        note="LLM used for filtration",
+                    )
                     plan = filtration_retriever(
                         retr_q,
                         docs,
@@ -1505,10 +1504,20 @@ def main():
                         SystemMessage(content=system_prefix),
                         HumanMessage(content=f"QUESTION: {user_q}"),
                     ]
+                    _debug_section(
+                        "Model Info - Answer",
+                        {"model": model_name, "provider": provider_name, "mode": "general_law"},
+                        note="LLM used for answer generation",
+                    )
                 else:
                     # RAG mode - must use only provided context
                     system_prefix = get_prompt("rag")
                     prompt = f"{system_prefix}\n\nQUESTION: {user_q}\n\nCONTEXT:\n{context}"
+                    _debug_section(
+                        "Model Info - Answer",
+                        {"model": model_name, "provider": provider_name, "mode": "rag"},
+                        note="LLM used for answer generation",
+                    )
             
                 # Generate response (branch for general-law vs RAG)
                 tracker.stage_running("answer", "Generating answer…")
@@ -1715,7 +1724,7 @@ def main():
                 else:
                     with st.spinner("Generating petition context…"):
                         try:
-                            ctx_text = generate_petition_context(petition_body)
+                            ctx_text = generate_petition_context(petition_body, llm, model_name)
                         except Exception as gen_exc:
                             _append_debug(f"[DEBUG][Draft][auto_ctx_error] {gen_exc}")
                             _draft_preview("auto_ctx_error", str(gen_exc))
@@ -1729,6 +1738,11 @@ def main():
 
             if run_btn:
                 tracker = PipelineTracker()
+                _debug_section(
+                    "Model Info - Chat",
+                    {"model": model_name, "provider": provider_name},
+                    note="LLM used for chat/answer generation",
+                )
                 _draft_preview(
                     "start",
                     f"Triggered for {current_petition.get('file_name') or 'petition'} via {provider_name} "
@@ -1740,6 +1754,9 @@ def main():
                     plan: PetitionPlan = process_petition_plan(
                         st.session_state.draft_petition_processed_text or "",
                         st.session_state.draft_user_context or None,
+                        llm=llm,
+                        model_name=model_name,
+                        provider_name=provider_name,
                     )
                     st.session_state.draft_plan = plan
                     st.session_state.draft_fighting_points = list(getattr(plan, "fighting_points", []) or [])
@@ -1829,6 +1846,9 @@ def main():
                             desired_min_full_docs=effective_min_docs,
                             desired_max_chunks_per_case=max_chunks_per_case,
                             query_context=query_context_payload,
+                            llm=llm,
+                            model_name=model_name,
+                            provider_name=provider_name,
                         )
                     except Exception as pferr:
                         _append_debug(f"[DEBUG][Draft][petition_filtration_error] {pferr}")
@@ -1901,6 +1921,11 @@ def main():
                             st.session_state.draft_fighting_points or [],
                             st.session_state.draft_context or "",
                             llm,
+                        )
+                        _debug_section(
+                            "Model Info - Drafting",
+                            {"model": model_name, "provider": provider_name},
+                            note="LLM used for petition drafting",
                         )
                     except Exception as derr:
                         _append_debug(f"[DEBUG][Draft][assembler_error] {derr}")
