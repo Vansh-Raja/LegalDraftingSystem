@@ -16,6 +16,28 @@ from langchain_ollama import ChatOllama, OllamaEmbeddings
 load_dotenv()
 
 
+def _ollama_reachable() -> bool:
+    """
+    Return True if a local/remote Ollama host responds to /api/tags.
+    Used to hide Ollama models when the daemon is not running.
+    """
+    candidates = []
+    env_host = os.getenv("OLLAMA_HOST")
+    if env_host:
+        candidates.append(env_host)
+    # Always try the standard local default
+    candidates.append("http://127.0.0.1:11434")
+
+    for base in candidates:
+        try:
+            with urllib.request.urlopen(f"{base}/api/tags", timeout=2) as resp:
+                if resp.status == 200:
+                    return True
+        except Exception:
+            continue
+    return False
+
+
 @dataclass
 class ModelConfig:
     id: str
@@ -378,7 +400,7 @@ def _provider_available(provider: str) -> bool:
     if provider == "groq":
         return bool(os.getenv("GROQ_API_KEY"))
     if provider == "ollama_local":
-        return True
+        return _ollama_reachable()
     return False
 
 
@@ -525,19 +547,54 @@ def build_chat_model(model_id: str) -> Tuple[Any, str]:
 # -------------------------
 def get_embeddings(model: Optional[str] = None, provider: Optional[str] = None):
     """
-    Return an embeddings instance. Defaults to Ollama embeddings unless demo mode
-    or an explicit provider requires OpenAI-compatible embeddings.
+    Return an embeddings instance.
+
+    Priority (auto-detect when provider is None):
+    1) OpenAI if OPENAI_KEY present
+    2) OpenRouter if OPENROUTER_API_KEY present
+    3) Ollama local (requires reachable OLLAMA_HOST)
     """
     demo_mode = os.getenv("DEMO_MODE", "0") == "1"
-    openai_preferred = provider in {"openai", "openrouter", "groq", "ollama_cloud"} or demo_mode
+    openai_key = os.getenv("OPENAI_KEY") or os.getenv("OPENAI_API_KEY")
+    openrouter_key = os.getenv("OPENROUTER_API_KEY")
 
-    if openai_preferred:
-        api_key = os.getenv("OPENAI_KEY") or os.getenv("OPENAI_API_KEY")
-        if not api_key:
+    # Auto-select provider if not explicitly passed
+    if provider is None:
+        if openai_key:
+            provider_choice = "openai"
+        elif openrouter_key:
+            provider_choice = "openrouter"
+        else:
+            provider_choice = "ollama_local"
+    else:
+        provider_choice = provider
+
+    # OpenAI embeddings
+    if provider_choice == "openai" or (demo_mode and openai_key):
+        if not openai_key:
             raise RuntimeError("OPENAI_KEY required for OpenAI embeddings.")
         embed_model = model or os.getenv("OPENAI_EMBED_MODEL", "text-embedding-3-small")
-        return OpenAIEmbeddings(model=embed_model, api_key=api_key)
+        return OpenAIEmbeddings(model=embed_model, api_key=openai_key)
 
+    # OpenRouter embeddings (OpenAI-compatible endpoint)
+    if provider_choice == "openrouter":
+        if not openrouter_key:
+            raise RuntimeError("OPENROUTER_API_KEY required for OpenRouter embeddings.")
+        embed_model = model or os.getenv("OPENAI_EMBED_MODEL", "text-embedding-3-small")
+        return OpenAIEmbeddings(
+            model=embed_model,
+            api_key=openrouter_key,
+            base_url="https://openrouter.ai/api/v1",
+        )
+
+    # Groq/ollama_cloud fall back to OpenAI-compatible embeddings if API key present
+    if provider_choice in {"groq", "ollama_cloud"}:
+        if not openai_key:
+            raise RuntimeError(f"OPENAI_KEY required for embeddings with provider: {provider_choice}")
+        embed_model = model or os.getenv("OPENAI_EMBED_MODEL", "text-embedding-3-small")
+        return OpenAIEmbeddings(model=embed_model, api_key=openai_key)
+
+    # Default: Ollama local (robust wrapper)
     ollama_model = model or os.getenv("OLLAMA_EMBED_MODEL", "nomic-embed-text:latest")
     ollama_host = _resolve_ollama_host()
     if ollama_host:

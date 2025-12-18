@@ -1,0 +1,18 @@
+# Keep secrets and local state out of the image
+.env
+.env.*
+
+# Virtualenvs and caches
+.venv
+__pycache__
+*.pyc
+
+# VCS and OS junk
+.git
+.gitignore
+.DS_Store
+
+# IDE
+.vscode
+.idea
+

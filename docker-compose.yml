@@ -3,15 +3,44 @@ services:
     image: ankane/pgvector:latest
     container_name: pgvector
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: password
-      POSTGRES_DB: LegalDraftingSystemDB
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-password}
+      POSTGRES_DB: ${POSTGRES_DB:-LegalDraftingSystemDB}
     ports:
       # Use PGVECTOR_PORT env to avoid host conflicts; defaults to 5433 here.
       - "${PGVECTOR_PORT:-5433}:5432"
     volumes:
       - pgvector_data:/var/lib/postgresql/data
+      - ./db-init/00-create-vector-ext.sql:/docker-entrypoint-initdb.d/00-create-vector-ext.sql:ro
+
+  app:
+    build: .
+    container_name: lds_streamlit
+    depends_on:
+      - pgvector
+    # Load env vars from local .env at runtime; keeps secrets out of the image.
+    env_file:
+      - .env
+    environment:
+      # Force in-cluster DB host/port even if .env has host overrides.
+      DB_HOST: pgvector
+      DB_PORT: 5432
+      DB_NAME: ${DB_NAME:-LegalDraftingSystemDB}
+      DB_USER: ${DB_USER:-postgres}
+      DB_PASSWORD: ${DB_PASSWORD:-password}
+      # Uncomment and set as needed:
+      # OLLAMA_HOST: http://host.docker.internal:11434
+      # OPENAI_KEY: ""
+      # OPENROUTER_API_KEY: ""
+    ports:
+      - "8501:8501"
+    # For development you can mount the repo; commented out for clean image runs
+    # volumes:
+    #   - .:/app
+    command: ["streamlit", "run", "app.py", "--server.address=0.0.0.0", "--server.port=8501"]
 
 volumes:
   pgvector_data:
+
+
 

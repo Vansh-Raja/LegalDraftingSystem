@@ -521,7 +521,7 @@ def ingest_chunks_to_pgvector_batched(
 
 def get_vectorstore(
     connection_string: str | None = None,
-    embedding_model: str = "nomic-embed-text:latest",
+    embedding_model: str | None = None,
     embedding_provider: str | None = None,
     use_jsonb: bool = True,
     collection_name: str | None = None,
@@ -532,7 +532,16 @@ def get_vectorstore(
     Use when an index/collection already exists, or to add/query documents.
     """
     conn = connection_string or _get_pg_connection_string()
-    embeddings = get_embeddings(embedding_model, provider=embedding_provider)
+    # Choose default embedding model based on provider if not specified
+    if embedding_model is None:
+        if embedding_provider in {"openai", "openrouter", "groq", "ollama_cloud"}:
+            embed_model = None  # let get_embeddings pick API default
+        else:
+            embed_model = os.getenv("OLLAMA_EMBED_MODEL", "nomic-embed-text:latest")
+    else:
+        embed_model = embedding_model
+
+    embeddings = get_embeddings(embed_model, provider=embedding_provider)
     # When collection_name is None, default internal collection is used
     return PGVector(
         connection=conn,

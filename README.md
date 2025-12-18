@@ -77,47 +77,7 @@ LegalDraftingSystem_VG/
 
 ## 🚀 Quick Start
 
-**Prerequisites:** PostgreSQL with PGVector; Python 3.8+; OpenAI/OpenRouter key or Ollama (optional/local).  
-
-**Install**
-```bash
-pip install -r requirements.txt
-cp .env.example .env
-```
-
-**Environment variables (.env)**
-```bash
-# Database (pick one style)
-PGVECTOR_CONNECTION=postgresql://user:password@localhost:5432/legaldraftingsystemdb
-# or granular
-DB_NAME=legaldraftingsystemdb
-DB_USER=your_user
-DB_PASSWORD=your_password
-DB_HOST=localhost
-DB_PORT=5432
-
-# LLM providers (at least one)
-OPENAI_KEY=...
-OPENROUTER_API_KEY=...
-
-# Optional local models
-OLLAMA_HOST=http://localhost:11434
-```
-
-**Run (full pipeline)**
-```bash
-# 1) Process PDFs -> text + metadata (interactive backend choice)
-python process.py
-
-# 2) Ingest chunks into PGVector + FTS summaries
-python ingest.py
-
-# 3) Launch UI (chat + petition drafting + debug)
-streamlit run app.py
-
-# Optional: CLI fallback
-python archive/chat.py
-```
+See `INSTALLATION_GUIDE.md` for installation, environment variables, and run/ingest steps (Docker or local).
 
 ## 🎯 Highlights
 - Query planner: new/follow-up/general-law/chat with auto top-K/min-doc sizing.

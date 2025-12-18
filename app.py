@@ -965,8 +965,8 @@ def main():
     _ensure_session_state()
     llm, model_name, filtration_mode, k_val, court_name, statutes, query_sort_mode, min_full_cases, max_chunks_per_case, auto_min_docs, provider_name = _init_models()
 
-    # Connect to vector database and build retriever
-    vs = get_vectorstore()
+    # Connect to vector database and build retriever (embedding provider aligned to chat model)
+    vs = get_vectorstore(embedding_model=None, embedding_provider=provider_name)
 
 
     # Create tabbed interface: Chat, Draft, and Debug
@@ -1782,7 +1782,7 @@ def main():
                     tracker.stage_running("retrieval", "Retrieving candidate cases…")
                     _append_debug(f"[DEBUG][Draft][Retrieval] query: {retr_q}")
                     try:
-                        retriever2 = get_vectorstore().as_retriever(search_kwargs={"k": effective_k, "filter": {}})
+                        retriever2 = get_vectorstore(embedding_model=None, embedding_provider=provider_name).as_retriever(search_kwargs={"k": effective_k, "filter": {}})
                         docs = retriever2.invoke(retr_q)
                     except Exception as re1:
                         _append_debug(f"[DEBUG][Draft][retriever_error] {re1}")
